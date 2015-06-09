@@ -9,13 +9,67 @@ categories:             trip
 tags:                   [bicycle, mountains]
 ---
 
-[route]:                https://www.strava.com/activities/318922776
+[route]:                        https://www.strava.com/activities/318922776
+
+[wiki-stara-kamienica]:         http://pl.wikipedia.org/wiki/Stara_Kamienica
+[wiki-gryfow-slaski]:           http://pl.wikipedia.org/wiki/Gryf%C3%B3w_%C5%9Al%C4%85ski
+[wiki-pilchowickie]:            http://pl.wikipedia.org/wiki/Jezioro_Pilchowickie
+[wiki-piechowice]:              http://pl.wikipedia.org/wiki/Piechowice
+[wiki-kozia-szyja]:             http://pl.wikipedia.org/wiki/Kozia_Szyja
+[wiki-kopaniec]:                http://pl.wikipedia.org/wiki/Kopaniec_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-barcinek]:                http://pl.wikipedia.org/wiki/Barcinek_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-bobr]:                    http://pl.wikipedia.org/wiki/B%C3%B3br_(dop%C5%82yw_Odry)
+[wiki-siedlecin]:               http://pl.wikipedia.org/wiki/Siedl%C4%99cin
+[wiki-wojanow]:                 http://pl.wikipedia.org/wiki/Wojan%C3%B3w
+[wiki-ploszczynka]:             http://pl.wikipedia.org/wiki/P%C5%82oszczynka
+[wiki-ploszczyna]:              http://pl.wikipedia.org/wiki/P%C5%82oszczyna
+[wiki-dziwiszow]:               http://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
+
+[ump-ploszczynka]:              http://mapa.ump.waw.pl/ump-www/?zoom=14&lat=50.94867&lon=15.70531&layers=B000000FFFFTFF&mlat=50.94867&mlon=15.70531
+
+[panoramio-kozia-szyja]:        http://www.panoramio.com/photo/120379461
+
+Wstęp
+-----
+
+Tą trasę planowałem jako jak najciekawszy przejazd przez północne rejony od Jeleniej Góry. Tak, aby
+za jednym zamachem zobaczyć jak najwięcej tych terenów. Głównym pierwszym celem była [Star Kamienica][wiki-stara-kamienica].
+Początkowo wahałem się, czy dalej warto jechać w stronę [Gryfowa Śląskiego][wiki-gryfow-slaski] czy 
+w stronę [Jeziora Pilchowickiego][wiki-pilchowickie]. Dzień przed wyjazdem wybrałem tą drugą wersje.
 
 Opis trasy
 ----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/318922776/embed/144e3bb623ea434a0808698e7405d5f87ca26c1f'></iframe>
 
-Tego dnia udało pobić się mi rekord prędkości rowerem.
+Początkiem trasy był zjazd ze Szklarskiej Poręby Górnej prawie aż do [Piechowic][wiki-piechowice].
+Niektóre części szlaku obok stacji Szklarskiej Poręby Dolnej były dla mnie zbyt stromę, aby można
+spokojnie zjeżdzać bez przesadnego używania hamulców.
+
+Kolejnym etapem trasy był długi, ale raczej lekki podjazd w stronę [Koziej Szyi][wiki-kozia-szyja].
+Cały podjazd był utwardzonymi drogami leśnymi. Z Koziej Szyi jest bardzo dobry [widok][panoramio-kozia-szyja] na
+dalsze północne tereny.
+
+Zjazd z Koziej Szyi do [Kopańca][wiki-kopaniec] bardzo dobrze zrekompensował mało ciekawy podjazd.
+
+Następnie pojechaliśmy bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
+Pogoda przekonała Radka że warto kupić 6 litrową butlę wody.
+
+Po przerwie w Starej Kamienicy wyruszyliśmy dalej w stronę [Barcinka][wiki-barcinek] korzystając z lekkiego
+przyjemnego spadku terenu. Chcieliśmy udać się w centrum [Jeziora Pilchowickiego][wiki-pilchowickie], jednak
+po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. Przejechaliśmy przez zaporę i kierowaliśmy się wzdłuż
+rzeki [Bóbr][wiki-bobr] w stronę [Siedlęcina][wiki-siedlecin].
+
+W Siedlęcinie dwie osoby się roździeliły jadąc w stronę Jeleniej Góry, a my pojechaliśmy dalej mając
+na uwadzę że powrót do Szklarskiej Poręby będzie koleją. Początkowo chcieliśmy dojechać do [Wojanowa][wiki-wojanow],
+jednak ostatecznie się to nam nie udało. Ruszyliśmy w stronę [Płoszczynki][wiki-ploszczynka] gdzie po drodzę
+odkryliśmy [miejsce][ump-ploszczynka], z którego jest bardzo ładny widok na całe Karkonosze.
+
+Tego dnia udało pobić się mi rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
+[Płoszczyny][wiki-ploszczyna].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/130025813' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Duża temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
+nas do tego, aby zmienić plany i zjechać do Jeleniej Góry, a nie do [Wojanowa][wiki-wojanow]. Zjechaliśmy
+drogą 365 z [Dziwiszowa][wiki-dziwiszow].
