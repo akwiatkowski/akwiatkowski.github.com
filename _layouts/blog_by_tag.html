@@ -2,18 +2,26 @@
 layout: default
 ---
 
+{% for data_tag in site.data.tags %}
+  {% if data_tag.slug == page.tag %}
+    {% assign tag = data_tag %}
+  {% endif %}
+{% endfor %}
+
+
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.header-ext-img }}')">
+<header class="intro-header" style="background-image: url('{% if tag.header-ext-img %}{{ tag.header-ext-img }}{% else %}{{ site.header-ext-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>Articles by tag :{{ page.tag }}</h1>
+                    <h1>Articles by tag: {{ tag.name }}</h1>
                 </div>
             </div>
         </div>
     </div>
 </header>
+
 
 
 
