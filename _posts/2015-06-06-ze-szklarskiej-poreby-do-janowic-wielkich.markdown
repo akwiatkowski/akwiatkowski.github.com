@@ -7,6 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
 categories:             trip
 tags:                   [bicycle, mountains]
+places:                 [karkonosze, szklarska]
 ---
 
 [route]:                        https://www.strava.com/activities/320388250
