@@ -30,6 +30,15 @@ places:                 [karkonosze, szklarska]
 
 [panoramio-kozia-szyja]:        http://www.panoramio.com/photo/120379461
 
+[vimeo-1]:                      https://vimeo.com/130319346
+[vimeo-2]:                      https://vimeo.com/130551453
+[vimeo-3]:                      https://vimeo.com/130551454
+[vimeo-4]:                      https://vimeo.com/130575651
+[vimeo-5]:                      https://vimeo.com/130582477
+[vimeo-6]:                      https://vimeo.com/130620133
+[vimeo-7]:              https://vimeo.com/130626295
+
+
 Wstęp
 -----
 
@@ -49,28 +58,32 @@ spokojnie zjeżdzać bez przesadnego używania hamulców.
 
 Kolejnym etapem trasy był długi, ale raczej lekki podjazd w stronę [Koziej Szyi][wiki-kozia-szyja].
 Cały podjazd był utwardzonymi drogami leśnymi. Z Koziej Szyi jest bardzo dobry [widok][panoramio-kozia-szyja] na
-dalsze północne tereny.
+dalsze północne tereny. [Tutaj][vimeo-1] jest filmik od Szklarskiej Poręby aż do podjazdów na Kozią Szyję.
 
 Zjazd z Koziej Szyi do [Kopańca][wiki-kopaniec] bardzo dobrze zrekompensował mało ciekawy podjazd.
 
-Następnie pojechaliśmy bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/130551453' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+
+Następnie [pojechaliśmy][vimeo-3] bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
 Pogoda przekonała Radka że warto kupić 6 litrową butlę wody.
 
 Po przerwie w Starej Kamienicy wyruszyliśmy dalej w stronę [Barcinka][wiki-barcinek] korzystając z lekkiego
 przyjemnego spadku terenu. Chcieliśmy udać się w centrum [Jeziora Pilchowickiego][wiki-pilchowickie], jednak
-po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. Przejechaliśmy przez zaporę i kierowaliśmy się wzdłuż
+po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. [Przejechaliśmy przez][vimeo-4] zaporę elektrowni we
+Wrzeszczyniu i kierowaliśmy się wzdłuż
 rzeki [Bóbr][wiki-bobr] w stronę [Siedlęcina][wiki-siedlecin].
 
 W Siedlęcinie dwie osoby się roździeliły jadąc w stronę Jeleniej Góry, a my pojechaliśmy dalej mając
 na uwadzę że powrót do Szklarskiej Poręby będzie koleją. Początkowo chcieliśmy dojechać do [Wojanowa][wiki-wojanow],
-jednak ostatecznie się to nam nie udało. Ruszyliśmy w stronę [Płoszczynki][wiki-ploszczynka] gdzie po drodzę
+jednak ostatecznie się to nam nie udało. [Ruszyliśmy][vimeo-5] w stronę [Płoszczynki][wiki-ploszczynka] gdzie po drodzę
 odkryliśmy [miejsce][ump-ploszczynka], z którego jest bardzo ładny widok na całe Karkonosze.
 
-Tego dnia udało pobić się mi rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
+Tego dnia udało mi się pobić swój rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
 [Płoszczyny][wiki-ploszczyna].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/130025813' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/130620133' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Duża temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
+Wysoka temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
 nas do tego, aby zmienić plany i zjechać do Jeleniej Góry, a nie do [Wojanowa][wiki-wojanow]. Zjechaliśmy
-drogą 365 z [Dziwiszowa][wiki-dziwiszow].
+drogą 365 z [Dziwiszowa][wiki-dziwiszow]. [Tutaj filmik ze zjazdu][vimeo-7].

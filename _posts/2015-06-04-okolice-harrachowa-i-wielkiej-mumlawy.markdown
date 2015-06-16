@@ -4,7 +4,7 @@ title:                  "Okolice Harrachova, Wielkiej Mumławy"
 subtitle:               "pierwszy dzień rowerowego wyjazdu do Szklarskiej Poręby"
 date:                   2015-06-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff"
+header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
 categories:             trip
 tags:                   [bicycle, mountains]
 places:                 [karkonosze, szklarska]
@@ -19,13 +19,14 @@ places:                 [karkonosze, szklarska]
 [wiki-orle]:            http://pl.wikipedia.org/wiki/Schronisko_Turystyczne_%E2%80%9EOrle%E2%80%9D
 [wiki-szklarska]:       http://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
 
-[vimeo-1]:              http://vimeo.com/130132107
-[vimeo-2]:              http://vimeo.com/130038345
-[vimeo-3]:              http://vimeo.com/130132106
-[vimeo-4]:              http://vimeo.com/130132107
-[vimeo-5]:              http://vimeo.com/130184788
-[vimeo-6]:              http://vimeo.com/130184788
-
+[vimeo-1]:              https://vimeo.com/130132107
+[vimeo-2]:              https://vimeo.com/130038345
+[vimeo-3]:              https://vimeo.com/130132106
+[vimeo-4]:              https://vimeo.com/130132107
+[vimeo-5]:              https://vimeo.com/130184788
+[vimeo-6]:              https://vimeo.com/130260775
+[vimeo-7]:              https://vimeo.com/130305695
+[vimeo-8]:              https://vimeo.com/130305696
 
 
 Wstęp
@@ -73,6 +74,7 @@ powrotu do Jakuszyc. Zrobiłem z tego dwa filmiki, jeden [tutaj][vimeo-5] a drug
 
 
 Aby dobić trochę kilometrów więcej
-pojechaliśmy pod [schronisko Orle][wiki-orle]. Powróciliśmy do Szklarskiej Poręby drogą asfaltową
-po dość długiej przerwie. Zjazd z Jakuszyc zawsze umożliwia rozwinięcie dużej prędkości, a
+pojechaliśmy pod [schronisko Orle][wiki-orle] ([filmik][vimeo-7]). Powróciliśmy do Szklarskiej Poręby drogą asfaltową
+po dość długiej przerwie. [Zjazd z Jakuszyc do Szklarskiej Poręby][vimeo-8] zawsze umożliwia rozwinięcie dużej prędkości, a
 wyprzedzanie samochodów nie jest niczym szokującym tam.
+
