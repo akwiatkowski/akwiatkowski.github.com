@@ -8,7 +8,12 @@ p {
   margin: 30px 0;
 }
 p a {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 1px black dotted;
+}
+p a:hover {
+  text-decoration: none;
+  border-bottom: 1px #0085a1 dotted;
 }
 h1,
 h2,
