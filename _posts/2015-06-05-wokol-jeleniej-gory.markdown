@@ -36,14 +36,14 @@ places:                 [karkonosze, szklarska]
 [vimeo-4]:                      https://vimeo.com/130575651
 [vimeo-5]:                      https://vimeo.com/130582477
 [vimeo-6]:                      https://vimeo.com/130620133
-[vimeo-7]:              https://vimeo.com/130626295
+[vimeo-7]:                      https://vimeo.com/130626295
 
 
 Wstęp
 -----
 
 Tą trasę planowałem jako jak najciekawszy przejazd przez północne rejony od Jeleniej Góry. Tak, aby
-za jednym zamachem zobaczyć jak najwięcej tych terenów. Głównym pierwszym celem była [Star Kamienica][wiki-stara-kamienica].
+za jednym zamachem zobaczyć jak najwięcej tych terenów. Głównym pierwszym celem była [Stara Kamienica][wiki-stara-kamienica].
 Początkowo wahałem się, czy dalej warto jechać w stronę [Gryfowa Śląskiego][wiki-gryfow-slaski] czy 
 w stronę [Jeziora Pilchowickiego][wiki-pilchowickie]. Dzień przed wyjazdem wybrałem tą drugą wersje.
 

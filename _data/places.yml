@@ -1,23 +1,101 @@
-- slug: szklarska
-  name: Szklarska Poręba
-  header-ext-img: https://drscdn.500px.org/photo/28182573/m%3D2048/63884b2189668c5cef2a5ebce2f08116
+# regions
 
 - slug: karkonosze
   name: Karkonosze
   header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  type: region
+
+- slug: kujawsko_pomorskie
+  name: Kujawsko-pomorskie
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: region
   
 - slug: wielkopolska
   name: Wielkopolska
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00 
+  type: region
+  
+- slug: coastline
+  name: Wybrzeże
+  header-ext-img: https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff
+  type: region
+  
+# towns
+
+- slug: czarnkow
+  name: Czarnków
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
+  type: town
+  inside:
+    - wielkopolska
+
+- slug: czempin
+  name: Czempin
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska
+
+- slug: lakie
+  name: Łąkie
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - kujawsko_pomorskie
+  
+- slug: mosina
+  name: Mosina
+  header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
+  type: town
+  inside:
+    - wielkopolska
+
+- slug: murowana_goslina
+  name: Murowana Goślina
+  header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
+  type: town
+  inside:
+    - wielkopolska
+
+- slug: poznan
+  name: Poznań
+  header-ext-img: https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20    
+  type: town
+  inside:
+    - wielkopolska
+  
+- slug: skoki
+  name: Skoki
+  header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba    
+  type: town
+  inside:
+    - wielkopolska
   
 - slug: szamotuly
   name: Szamotuły
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska
   
-- slug: czarnkow
-  name: Czarnków
-  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00     
-  
+- slug: szklarska
+  name: Szklarska Poręba
+  header-ext-img: https://drscdn.500px.org/photo/28182573/m%3D2048/63884b2189668c5cef2a5ebce2f08116
+  type: town
+  inside: 
+    - karkonosze
+
 - slug: trzcianka
   name: Trzcianka
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00       
+  type: town
+  inside:
+    - wielkopolska
+ 
+- slug: wagrowiec
+  name: Wągrowiec
+  header-ext-img: https://drscdn.500px.org/photo/112587369/m%3D2048/29a46814bc2d5797f0ab3b2a260d898a    
+  type: town
+  inside:
+    - wielkopolska
+  

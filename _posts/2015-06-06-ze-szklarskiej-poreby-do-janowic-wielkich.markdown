@@ -22,7 +22,7 @@ places:                 [karkonosze, szklarska]
 [wiki-karpniki]:                http://pl.wikipedia.org/wiki/Karpniki
 [wiki-wojanow]:                 http://pl.wikipedia.org/wiki/Wojan%C3%B3w
 [wiki-janowice-wielkie]:        http://pl.wikipedia.org/wiki/Janowice_Wielkie
-
+[wiki-milkow]:                  https://pl.wikipedia.org/wiki/Mi%C5%82k%C3%B3w_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
 [jelenia-linia-4]:              http://www.mzk.jgora.pl/pl/linia/4
 [jelenia-linia-18]:             http://www.mzk.jgora.pl/pl/linia/18

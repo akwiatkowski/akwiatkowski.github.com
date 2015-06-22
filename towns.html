@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Miejsca"
-permalink: /place/
+title_not_used: "Miejscowości"
+permalink: /towns/
 header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
 ---
 
@@ -12,7 +12,7 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>Miejsca</h1>
+                    <h1>Miejscowości</h1>
                 </div>
             </div>
         </div>
@@ -26,37 +26,20 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-        <h1>Regiony i miejscowości</h1>
+        <h1>Miejscowości, gminy i okolice</h1>
         <ul>
         {% for place in site.data.places %}
-          {% if place.type == 'region' %}
+          {% if place.region != 't' %}
             <li>
               <a href="{{ site.baseurl }}/place/{{place.slug}}">
                 <h3>
                   {{ place.name }}
                 </h3>
               </a>
-              
-              <ul>
-                {% for subplace in site.data.places %}
-                  {% for within_place in subplace.inside %}
-                    {% if within_place == place.slug %}
-                      <li>
-                        <a href="{{ site.baseurl }}/place/{{subplace.slug}}">
-                          <h4>
-                            {{ subplace.name }}
-                          </h4>
-                        </a>
-                      </li>
-                    {% endif %}
-                  {% endfor %}  
-                {% endfor %}
-              </ul>
-              
             </li>
           {% endif %}
         {% endfor %}
-        </ul>
+        </ul>        
         
       </div>
     </div>

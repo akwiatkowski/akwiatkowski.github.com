@@ -31,6 +31,7 @@ places:                 [wielkopolska, szamotuly, czarnkow, trzcianka]
 [wiki-notec]:                   https://pl.wikipedia.org/wiki/Note%C4%87
 [wiki-radolin]:                 https://pl.wikipedia.org/wiki/Radolin_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-krzyz]:                   https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
+[wiki-trzcianka]:               https://pl.wikipedia.org/wiki/Trzcianka
 
 [ump-grabowiec]:                http://mapa.ump.waw.pl/ump-www/?zoom=14&lat=52.6442&lon=16.58207&layers=B000000FFFFTFF&mlat=52.64503&mlon=16.58208&mbody=Grabowiec
 
@@ -49,7 +50,7 @@ places:                 [wielkopolska, szamotuly, czarnkow, trzcianka]
 Wstęp
 -----
 
-W zamierzeniu miała to być pierwsza trasa, w której bym przejechał przez Puszczę Notecką[wiki-puszcza-notecka] i
+W zamierzeniu miała to być pierwsza trasa, w której bym przejechał przez [Puszczę Notecką][wiki-puszcza-notecka] i
 rozszerzył swoją "strefę eksploracji rowerowej" bardziej na północ. Dojazd do [Szamotuł][wiki-szamotuly] pociągiem,
 oraz powrót również pociągiem.
 
