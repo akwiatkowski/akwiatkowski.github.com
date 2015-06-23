@@ -1,6 +1,6 @@
 ---
 layout: default
-title_not_used: "Miejscowości"
+title: "Miejscowości"
 permalink: /towns/
 header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
 ---
@@ -26,20 +26,37 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-        <h1>Miejscowości, gminy i okolice</h1>
+        <h1>Województwa i miejscowości</h1>
         <ul>
-        {% for place in site.data.places %}
-          {% if place.region != 't' %}
+        {% for town in site.data.towns %}
+          {% if town.type == 'voivodeship' %}
             <li>
-              <a href="{{ site.baseurl }}/place/{{place.slug}}">
+              <a href="{{ site.baseurl }}/town/{{town.slug}}">
                 <h3>
-                  {{ place.name }}
+                  {{ town.name }}
                 </h3>
               </a>
+              
+              <ul>
+                {% for subplace in site.data.towns %}
+                  {% for within_place in subplace.inside %}
+                    {% if within_place == town.slug %}
+                      <li>
+                        <a href="{{ site.baseurl }}/town/{{subplace.slug}}">
+                          <h4>
+                            {{ subplace.name }}
+                          </h4>
+                        </a>
+                      </li>
+                    {% endif %}
+                  {% endfor %}  
+                {% endfor %}
+              </ul>
+              
             </li>
           {% endif %}
         {% endfor %}
-        </ul>        
+        </ul>
         
       </div>
     </div>

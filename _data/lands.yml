@@ -1,0 +1,227 @@
+# geographic regions
+# https://pl.wikipedia.org/wiki/Regionalizacja_fizycznogeograficzna_Polski
+# https://upload.wikimedia.org/wikipedia/commons/7/7c/Physico-Geographical_Regionalization_of_Poland.png
+
+# sudety
+- slug: gory_izerskie
+  name: Góry Izerskie
+  header-ext-img: https://drscdn.500px.org/photo/32054089/m%3D2048/f542bb00d1e558f4153eb0ceedc6cd2a
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2013-02
+  
+- slug: karkonosze
+  name: Karkonosze
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2011-12  
+  
+- slug: gory_kaczawskie
+  name: Góry Kaczawskie
+  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2015-06  
+  
+- slug: rudawy_janowickie
+  name: Rudawy Janowickie
+  header-ext-img: https://drscdn.500px.org/photo/23974283/m%3D2048/6f6eab37b64f6c0d37f96c4c8de7c1b8
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2012-08  
+  
+- slug: gory_walbrzyskie
+  name: Góry Wałbrzyskie
+  header-ext-img: https://drscdn.500px.org/photo/31441227/m%3D2048/fdf4f19ddacf65f9e0288ada72332489
+  main: sudety
+  country: Polska
+  type: mountain
+  
+- slug: gory_kamienne
+  name: Góry Kamienne
+  header-ext-img: https://drscdn.500px.org/photo/31441227/m%3D2048/fdf4f19ddacf65f9e0288ada72332489
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2012-12  
+  
+- slug: gory_sowie
+  name: Góry Sowie
+  header-ext-img: https://drscdn.500px.org/photo/61532277/m%3D2048/194c5c96793ed4ec82b3dc0c3dd4bc7a
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2014-01  
+  
+- slug: gory_bardzkie
+  name: Góry Bardzkie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain
+  
+- slug: gory_stolowe
+  name: Góry Stołowe
+  header-ext-img: https://drscdn.500px.org/photo/49894062/m%3D2048/ad4e41f4b7e0c6c60b502df3712fb283
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2013-10  
+  
+- slug: gory_bystrzyckie
+  name: Góry Bystrzyckie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain  
+  
+- slug: gory_orlickie
+  name: Góry Orlickie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain  
+
+- slug: masyw_snieznika
+  name: Masyw Śnieżnika
+  header-ext-img: https://drscdn.500px.org/photo/41495140/m%3D2048/d63e6ac9124d094d1d38d9abe41b042f
+  main: sudety
+  country: Polska
+  type: mountain
+  visited: 2013-07  
+  
+- slug: gory_bialskie
+  name: Góry Bialskie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain
+  
+- slug: gory_zloty
+  name: Góry Złote
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain
+  
+- slug: gory_opawskie
+  name: Góry Opawskie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: sudety
+  country: Polska
+  type: mountain
+
+# karpaty  
+- slug: beskid_slaski
+  name: Beskid Śląski
+  header-ext-img: https://drscdn.500px.org/photo/31311545/m%3D2048/bd050149677e698ab5893672aa7b5487
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2012-04  
+  
+- slug: beskid_zywiecki
+  name: Beskid Żywiecki
+  header-ext-img: https://drscdn.500px.org/photo/41309460/m%3D2048/8282953d8e04e71ca1f9b29499310fcb
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2013-07  
+  
+- slug: beskid_maly
+  name: Beskid Mały
+  header-ext-img: https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2014-05  
+  
+- slug: beskid_makowski
+  name: Beskid Makowski
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: karpaty
+  country: Polska
+  type: mountain
+  
+- slug: tatry
+  name: Tatry
+  header-ext-img: https://drscdn.500px.org/photo/24015259/m%3D2048/5c876be8dd5ad63d08ef64e226c26b7e
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2011-09  
+  
+- slug: gorce
+  name: Gorce
+  header-ext-img: https://drscdn.500px.org/photo/29288073/m%3D2048/74820a5fbbba914d66953a0b6350cefb
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2011-05  
+  
+- slug: beskid_wyspowy
+  name: Beskid Wyspowy
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: karpaty
+  country: Polska
+  type: mountain
+  
+- slug: pieniny
+  name: Pieniny
+  header-ext-img: https://drscdn.500px.org/photo/33587725/m%3D2048/14e408970127e4461a1a2be2759daf5c
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2013-05  
+  
+- slug: beskid_sadecki
+  name: Bedkis Sądecki
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: karpaty
+  country: Polska
+  type: mountain
+  
+- slug: beskid_niski
+  name: Beskid Niski
+  header-ext-img: https://drscdn.500px.org/photo/30608357/m%3D2048/d9d73f6566372b1e3f0e693318e0585d
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2012-05  
+  
+- slug: bieszczady
+  name: Bieszczady
+  header-ext-img: https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538
+  main: karpaty
+  country: Polska
+  type: mountain
+  visited: 2013-11  
+  
+- slug: gory_sanocko_turczanskie
+  name: Góry Sanocko-Turczańskie
+  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
+  main: karpaty
+  country: Polska
+  type: mountain
+  
+# coastline
+- slug: wybrzeze_trzebiatowskie
+  name: Wybrzeże Trzebiatowskie
+  header-ext-img: https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318
+  main: coastline
+  country: Polska
+  type: coastline
+  visited: 2014-07  
+
+- slug: wybrzeze_slowinskie
+  name: Wybrzeże Słowińskie
+  header-ext-img: https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff
+  main: coastline
+  country: Polska
+  type: coastline
+  visited: 2014-07  

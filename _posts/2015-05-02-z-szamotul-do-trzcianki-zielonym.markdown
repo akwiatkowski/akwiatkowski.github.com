@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
 categories:             trip
 tags:                   [bicycle]
-places:                 [wielkopolska, szamotuly, czarnkow, trzcianka]
+towns:                  [wielkopolska, szamotuly, czarnkow, trzcianka]
 ---
 
 [wiki-puszcza-notecka]:         https://pl.wikipedia.org/wiki/Puszcza_Notecka

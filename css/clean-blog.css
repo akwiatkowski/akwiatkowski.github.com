@@ -155,6 +155,13 @@ hr.small {
     padding: 200px 0;
   }
 }
+@media only screen and (min-width: 1400px) {
+  .intro-header .site-heading,
+  .intro-header .post-heading,
+  .intro-header .page-heading {
+    padding: 300px 0;
+  }
+}
 .intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;

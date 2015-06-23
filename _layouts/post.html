@@ -20,21 +20,38 @@ layout: default
     {% assign tags_content = '' %}
 {% endif %}
 
-{% if post.places.size > 0 %}
-    {% capture places_content %}Miejsca {% if post.places.size == 1 %}<i class="fa fa-globe"></i>{% else %}<i class="fa fa-globe"></i>{% endif %}: {% endcapture %}
-    {% for post_place in post.places %}
-        {% for data_place in site.data.places %}
-            {% if data_place.slug == post_place %}
-                {% assign place = data_place %}
+{% if post.towns.size > 0 %}
+    {% capture towns_content %}Miejscowości {% if post.towns.size == 1 %}<i class="fa fa-globe"></i>{% else %}<i class="fa fa-globe"></i>{% endif %}: {% endcapture %}
+    {% for post_town in post.towns %}
+        {% for data_place in site.data.towns %}
+            {% if data_place.slug == post_town %}
+                {% assign town = data_place %}
             {% endif %}
         {% endfor %}
-        {% if place %}
-            {% capture places_content_temp %}{{ places_content }}<a href="/place/{{ place.slug }}/">{{ place.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
-            {% assign places_content = places_content_temp %}
+        {% if town %}
+            {% capture towns_content_temp %}{{ towns_content }}<a href="/town/{{ town.slug }}/">{{ town.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+            {% assign towns_content = towns_content_temp %}
         {% endif %}
     {% endfor %}
 {% else %}
-    {% assign places_content = '' %}
+    {% assign towns_content = '' %}
+{% endif %}
+
+{% if post.lands.size > 0 %}
+    {% capture lands_content %}Krainy {% if post.lands.size == 1 %}<i class="fa fa-globe"></i>{% else %}<i class="fa fa-globe"></i>{% endif %}: {% endcapture %}
+    {% for post_land in post.lands %}
+        {% for data_land in site.data.lands %}
+            {% if data_land.slug == post_land %}
+                {% assign land = data_land %}
+            {% endif %}
+        {% endfor %}
+        {% if land %}
+            {% capture lands_content_temp %}{{ lands_content }}<a href="/land/{{ land.slug }}/">{{ land.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+            {% assign lands_content = lands_content_temp %}
+        {% endif %}
+    {% endfor %}
+{% else %}
+    {% assign lands_content = '' %}
 {% endif %}
 
 <!-- Post Header -->
@@ -62,7 +79,8 @@ layout: default
     <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
               <p id="post-meta">{{ tags_content }}</p>
-              <p id="post-meta">{{ places_content }}</p>
+              <p id="post-meta">{{ towns_content }}</p>
+              <p id="post-meta">{{ lands_content }}</p>
 
 				{{ content }}
 
