@@ -9,6 +9,16 @@
   name: Kujawsko-pomorskie
   header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
   type: voivodeship
+
+- slug: malopolskie
+  name: Małopolskie
+  header-ext-img: https://drscdn.500px.org/photo/30570749/m%3D2048/91530ab1c3c3e63febe951920293a5c6 
+  type: voivodeship    
+  
+- slug: slaskie
+  name: Śląskie
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00 
+  type: voivodeship  
   
 - slug: wielkopolska
   name: Wielkopolska
@@ -22,6 +32,13 @@
   
 # towns
 
+- slug: boguszow_gorce
+  name: Boguszów Gorce
+  header-ext-img: https://drscdn.500px.org/photo/28655865/m%3D2048/34b87bdfa628a2a81eab9f450f47700f
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: czarnkow
   name: Czarnków
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -29,6 +46,13 @@
   inside:
     - wielkopolska
 
+- slug: czarny_bor
+  name: Czarny Bór
+  header-ext-img: https://drscdn.500px.org/photo/28660087/m%3D2048/35815db63200a06cdb8de14182d70e3b
+  type: town
+  inside:
+    - dolnoslaskie    
+    
 - slug: czempin
   name: Czempin
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
@@ -49,6 +73,27 @@
   type: town
   inside:
     - dolnoslaskie    
+
+- slug: kamienna_gora
+  name: Kamienna Góra
+  header-ext-img: https://drscdn.500px.org/photo/23974233/m%3D2048/bfec1ac2f4b66e3f3352106f7cb12ed7
+  type: town
+  inside:
+    - dolnoslaskie     
+    
+- slug: karpacz
+  name: Karpacz
+  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
+  type: town
+  inside:
+    - dolnoslaskie     
+
+- slug: kowary
+  name: Kowary
+  header-ext-img: https://drscdn.500px.org/photo/28671083/m%3D2048/3a1ce45a9282bba8e50b665a2f9b8425
+  type: town
+  inside:
+    - dolnoslaskie         
     
 - slug: lakie
   name: Łąkie
@@ -56,7 +101,21 @@
   type: town
   inside:
     - kujawsko_pomorskie
-  
+
+- slug: marciszow
+  name: Marciszów
+  header-ext-img: https://drscdn.500px.org/photo/23973831/m%3D2048/a725d7a3c1f1f54288e68f2d4b71ff31
+  type: town
+  inside:
+    - dolnoslaskie    
+
+- slug: mieroszow
+  name: Mieroszów
+  header-ext-img: https://drscdn.500px.org/photo/31992145/m%3D2048/6bf9379d0fe28f5d35db5a4339f190f7
+  type: town
+  inside:
+    - dolnoslaskie       
+    
 - slug: mosina
   name: Mosina
   header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
@@ -77,7 +136,28 @@
   type: town
   inside:
     - dolnoslaskie   
+
+- slug: niedzwiedz
+  name: Niedźwiedź
+  header-ext-img: https://drscdn.500px.org/photo/24295083/m%3D2048/791b872deaae78a39bde2e079af34123
+  type: town
+  inside:
+    - malopolskie   
+
+- slug: nowy_targ
+  name: Nowy Targ
+  header-ext-img: https://drscdn.500px.org/photo/34473826/m%3D2048/4e1d4f7f46cb5ba9b277a92ebac70dba
+  type: town
+  inside:
+    - malopolskie       
     
+- slug: ochotnica_dolna
+  name: Ochotnica Dolna
+  header-ext-img: https://drscdn.500px.org/photo/34474028/m%3D2048/95df032502c17261a54d2896d072d890
+  type: town
+  inside:
+    - malopolskie      
+   
 - slug: piechowice
   name: Piechowice
   header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
@@ -98,7 +178,14 @@
   type: town
   inside:
     - wielkopolska
-  
+
+- slug: rabka
+  name: Rabka
+  header-ext-img: https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646
+  type: town
+  inside:
+    - malopolskie      
+    
 - slug: skoki
   name: Skoki
   header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba    
@@ -119,7 +206,14 @@
   type: town
   inside:
     - wielkopolska
-  
+
+- slug: szczawnica
+  name: Szczawnica
+  header-ext-img: https://drscdn.500px.org/photo/33587579/m%3D2048/f3a8c435a5a9d2fef30eb5aba09f155d   
+  type: town
+  inside:
+    - malopolskie    
+    
 - slug: szklarska
   name: Szklarska Poręba
   header-ext-img: https://drscdn.500px.org/photo/28182573/m%3D2048/63884b2189668c5cef2a5ebce2f08116
@@ -127,17 +221,51 @@
   inside: 
     - dolnoslaskie
 
+- slug: swieradow_zdroj
+  name: Świeradów Zdrój
+  header-ext-img: https://drscdn.500px.org/photo/28155245/m%3D2048/845c35f98182476a3a1c0378c841be3a
+  type: town
+  inside: 
+    - dolnoslaskie    
+    
 - slug: trzcianka
   name: Trzcianka
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00       
   type: town
   inside:
     - wielkopolska
- 
+
+- slug: ustron
+  name: Ustroń
+  header-ext-img: https://drscdn.500px.org/photo/24121245/m%3D2048/2dcbb0c6d9c7a029f0c9a75a7e55492f       
+  type: town
+  inside:
+    - slaskie    
+
+- slug: uscie_gorlickie
+  name: Uście Gorlickie
+  header-ext-img: https://drscdn.500px.org/photo/30576125/m%3D2048/344c96d96b63ccf3c668a06825796e71      
+  type: town
+  inside:
+    - malopolskie        
+    
 - slug: wagrowiec
   name: Wągrowiec
   header-ext-img: https://drscdn.500px.org/photo/112587369/m%3D2048/29a46814bc2d5797f0ab3b2a260d898a    
   type: town
   inside:
     - wielkopolska
-  
+
+- slug: walbrzych
+  name: Wąłbrzych
+  header-ext-img: https://drscdn.500px.org/photo/31440617/m%3D2048/02d36f9c27f804af2a1872ea6c17ae1e    
+  type: town
+  inside:
+    - dolnoslaskie    
+    
+- slug: zakopane
+  name: Zakopane
+  header-ext-img: "https://drscdn.500px.org/photo/28834387/m%3D2048/3e3608be6f00568f8573381240916563"
+  type: town
+  inside:
+    - malopolskie
