@@ -226,3 +226,12 @@
   country: Polska
   type: coastline
   visited: 2014-07  
+  
+# other
+- slug: pojezierze_poznanskie
+  name: Pojezierze Poznańskie
+  header-ext-img: https://drscdn.500px.org/photo/106720173/m%3D2048/e461630e194db4b9f03003d144588e37
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2013-07  

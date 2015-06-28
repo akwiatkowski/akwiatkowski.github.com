@@ -8,6 +8,7 @@ header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b49
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolska, szamotuly, czarnkow, trzcianka]
+lands:                  [pojezierze_poznanskie]
 ---
 
 [wiki-puszcza-notecka]:         https://pl.wikipedia.org/wiki/Puszcza_Notecka
