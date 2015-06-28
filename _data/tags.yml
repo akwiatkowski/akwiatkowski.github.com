@@ -5,6 +5,10 @@
 - slug: hike
   name: Pieszo
   header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9  
+
+- slug: workshop
+  name: Warsztaty
+  header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9  
   
 - slug: mountains
   name: Góry
@@ -18,6 +22,10 @@
   name: W domu
   header-ext-img: https://drscdn.500px.org/photo/67554173/m%3D2048/bedf6def8f8c8af4879e4fc6149487c9
   header-ext-img2: https://drscdn.500px.org/photo/38132690/m%3D2048/25eb87b8cc91fc8c0675390240047d72  
+
+- slug: todo
+  name: Niedokończone
+  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
   
 - slug: cat
   name: Kot
