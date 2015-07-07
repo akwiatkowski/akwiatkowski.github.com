@@ -13,3 +13,9 @@ lands:                  [tatry]
 
 <a href="http://mapa-turystyczna.pl/route/sjf" title="Trasa Palenica Białczańska ↔ Palenica Białczańska w serwisie mapa-turystyczna.pl"><img alt="Trasa Palenica Białczańska ↔ Palenica Białczańska w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
+Wnioski
+-------
+
+* Spanie w dolinie jest pozbawione sensu. Musieliśmy przez to nadłożyć przynajmniej 2h w jedną stronę.
+* Kijki się pewnie by przydały, i to się sprawdziło później.
+* W Tatrach Zachodnich jest mniej ludzi, w Wysokich tłumy jak jest ciepło.
