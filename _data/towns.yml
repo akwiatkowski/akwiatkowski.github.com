@@ -174,7 +174,14 @@
   type: town
   inside:
     - dolnoslaskie         
-    
+
+- slug: krynica_zdroj
+  name: Krynica Zdrój
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
+        
 - slug: kudowa_zdroj
   name: Kudowa Zdrój
   header-ext-img: https://drscdn.500px.org/photo/50459912/m%3D2048/750b58d4934278a4818697c526d28c90
@@ -202,6 +209,13 @@
   type: town
   inside:
     - podkarpackie 
+
+- slug: labowa
+  name: Łabowa
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
     
 - slug: marciszow
   name: Marciszów
@@ -252,12 +266,26 @@
   inside:
     - wielkopolska
 
+- slug: muszyna
+  name: Muszyna
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
+    
 - slug: myslakowice
   name: Mysłakowice
   header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   inside:
     - dolnoslaskie   
+
+- slug: nawojowa
+  name: Nawojowa
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
 
 - slug: niedzwiedz
   name: Niedźwiedź
@@ -272,6 +300,13 @@
   type: town
   inside:
     - dolnoslaskie 
+
+- slug: nowy_sacz
+  name: Nowy Sącz
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
     
 - slug: nowy_targ
   name: Nowy Targ
@@ -307,6 +342,13 @@
   type: town
   inside:
     - dolnoslaskie      
+
+- slug: piwniczna_zdroj
+  name: Piwniczna Zdrój
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
     
 - slug: podgorzyn
   name: Podgórzyn
@@ -363,7 +405,14 @@
   type: town
   inside:
     - zachodnio_pomorskie 
-        
+
+- slug: rytro
+  name: Rytro
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
+    
 - slug: sianow
   name: Sianów
   header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6       
@@ -385,6 +434,13 @@
   inside: 
     - dolnoslaskie    
 
+- slug: stary_sacz
+  name: Stary Sącz
+  header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
+    
 - slug: stronie_slaskie
   name: Stronie Śląskie
   header-ext-img: https://drscdn.500px.org/photo/43162480/m%3D2048/4014ec8df8f5f14edf6decfd7debb345
