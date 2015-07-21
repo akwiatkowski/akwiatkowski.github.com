@@ -7,13 +7,13 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/113434405/m%3D2048/b37a325381b845d289fc2f26ef14e99b"
 categories:             trip
 tags:                   [bicycle, todo]
-towns:                  [wielkopolska, poznan]
+towns:                  [wielkopolska, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 ---
 
 [route]:                        https://www.strava.com/activities/334055350
 
-[dopiewo-bus-792]:      http://www.dopiewo.pl/frontend.php?m=2954,7,106,0&t=Kompleksowy,rozklad,jazdy,komunikacji,publicznej
+[dopiewo-bus-792]:              http://www.dopiewo.pl/frontend.php?m=2954,7,106,0&t=Kompleksowy,rozklad,jazdy,komunikacji,publicznej
 
 [wiki-zarnowiec]:               https://pl.wikipedia.org/wiki/%C5%BBarnowiec_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-zarnowiec-zrodelko]:      https://pl.wikipedia.org/wiki/%C5%B9r%C3%B3de%C5%82ko_%C5%BBarnowiec

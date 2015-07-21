@@ -4,7 +4,7 @@ title:                  "Zejście z Przehyby do Starego Sącza"
 subtitle:               "mała ścieżka, gęsty las i najlepsze widoki w dolinie"
 date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e"
+header-ext-img:         "https://drscdn.500px.org/photo/115266201/m%3D2048/4353b56cc0fe5416ed412cf530fcfcfa"
 categories:             trip
 tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]

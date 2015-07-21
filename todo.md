@@ -16,3 +16,6 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 
 * Drawieński Park Narodowy
 
+* Wschód Słońca ze Śnieżnika zimą
+
+* Okolice Nowego Sącza rowerem

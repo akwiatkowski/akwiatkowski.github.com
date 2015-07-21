@@ -10,6 +10,11 @@
   header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
   type: voivodeship
 
+- slug: lubuskie
+  name: Lubuskie
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: voivodeship  
+  
 - slug: malopolskie
   name: Małopolskie
   header-ext-img: https://drscdn.500px.org/photo/30570749/m%3D2048/91530ab1c3c3e63febe951920293a5c6 
@@ -48,6 +53,13 @@
   type: town
   inside:
     - slaskie  
+
+- slug: babimost
+  name: Babimost
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - lubuskie       
     
 - slug: bedzino
   name: Będzino
@@ -70,6 +82,13 @@
   inside:
     - dolnoslaskie
 
+- slug: buk
+  name: Buk
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska
+    
 - slug: bystrzyca_klodzka
   name: Bystrzyca Kłodzka
   header-ext-img: https://drscdn.500px.org/photo/43162480/m%3D2048/4014ec8df8f5f14edf6decfd7debb345
@@ -118,7 +137,14 @@
   type: town
   inside:
     - zachodnio_pomorskie
-    
+
+- slug: dopiewo
+  name: Dopiewo
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska    
+        
 - slug: dziwnow
   name: Dziwnów
   header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
@@ -314,6 +340,13 @@
   type: town
   inside:
     - malopolskie       
+
+- slug: nowy_tomysl
+  name: Nowy Tomyśl
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska  
     
 - slug: ochotnica_dolna
   name: Ochotnica Dolna
@@ -328,6 +361,13 @@
   type: town
   inside:
     - podkarpackie       
+
+- slug: opalenica
+  name: Opalenica
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska  
     
 - slug: piechowice
   name: Piechowice
@@ -518,6 +558,13 @@
   inside:
     - malopolskie        
     
+- slug: tarnowo_podgorne
+  name: Tarnowo Podgórne
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska    
+    
 - slug: wagrowiec
   name: Wągrowiec
   header-ext-img: https://drscdn.500px.org/photo/112587369/m%3D2048/29a46814bc2d5797f0ab3b2a260d898a    
@@ -559,3 +606,10 @@
   type: town
   inside:
     - malopolskie
+    
+- slug: zbaszyn
+  name: Zbąszyń
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
+  type: town
+  inside:
+    - wielkopolska      
