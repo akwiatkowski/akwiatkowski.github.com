@@ -29,7 +29,6 @@ towns:                  [wielkopolska, lubuskie, opalenica, nowy_tomysl, zbaszyn
 [wiki-perzyny]:                 https://pl.wikipedia.org/wiki/Perzyny_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-nwz]:                     https://pl.wikipedia.org/wiki/Nowa_Wie%C5%9B_Zb%C4%85ska
 [wiki-nadnia]:                  https://pl.wikipedia.org/wiki/N%C4%85dnia
-[wiki-wolsztyn]:                https://pl.wikipedia.org/wiki/Wolsztyn
 
 
 [vimeo1]:               https://vimeo.com/134003453
@@ -88,7 +87,7 @@ Za [Chrośnicą][wiki-chrosnica] pojawiło się jeszcze więcej piasku i przez c
 jazdy, a sił było coraz mniej. Woda nie pomagała. W pewnym momencie skręciliśmy w prawo i jechaliśmy bezpośrednio w stronę
 [Zbąszynia][wiki-zbaszyn]. Droga już była tam w miarę sensowna. Minęliśmy tory bez linii trakcyjnej i zastanawiałem się,
 czy coś tam jeździ, albo dokąd kiedyś jeździło. Właśnie sprawdziłem - jeździ tam
-szynobus [Zbąszynek][wiki-zbaszynek] - [Wolsztyn][wiki-wolszyn]. To fajne że [Koleje Wielkopolskie][wiki-koleje-wlkp]
+szynobus [Zbąszynek][wiki-zbaszynek] - [Wolsztyn][wiki-wolsztyn]. To fajne że [Koleje Wielkopolskie][wiki-koleje-wlkp]
 obsługuja trasy, które mogły by być zapomniane.
 
 Było wcześnie, wiec postanowiliśmy [okrążyć][vimeo5] [Jezioro Zbąszyńskie][wiki-jezioro-zbaszynskie]
