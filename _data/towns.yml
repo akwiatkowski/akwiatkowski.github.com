@@ -277,6 +277,13 @@
   type: town
   inside:
     - dolnoslaskie       
+
+- slug: milicz
+  name: Milicz
+  header-ext-img: https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398
+  type: town
+  inside:
+    - dolnoslaskie      
     
 - slug: mosina
   name: Mosina
@@ -612,4 +619,11 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska      
+    - wielkopolska    
+    
+- slug: zmigrod
+  name: Żmigród
+  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
+  type: town
+  inside:
+    - dolnoslaskie       
