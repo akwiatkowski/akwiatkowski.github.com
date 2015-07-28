@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115639273/m%3D2048/6ab22b36dd0e19b727982449eac13533"
 categories:             trip
 tags:                   [bicycle]
-towns:                  [wielkopolska, lubuskie, opalenica, nowy_tomysl, zbaszyn]
+towns:                  [wielkopolskie, lubuskie, opalenica, nowy_tomysl, zbaszyn]
 ---
 
 [wiki-opalenica]:               https://pl.wikipedia.org/wiki/Opalenica

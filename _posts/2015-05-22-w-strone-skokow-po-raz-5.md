@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/109590873/m%3D2048/12ec5971be3cf02991283eaf6fb1fc55"
 categories:             trip
 tags:                   [bicycle, todo]
-towns:                  [wielkopolska, poznan, murowana_goslina, skoki, wagrowiec]
+towns:                  [wielkopolskie, poznan, murowana_goslina, skoki, wagrowiec]
 ---
 
 Wstęp

@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/113434405/m%3D2048/b37a325381b845d289fc2f26ef14e99b"
 categories:             trip
 tags:                   [bicycle, todo]
-towns:                  [wielkopolska, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
+towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 ---
 

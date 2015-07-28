@@ -35,8 +35,8 @@
   header-ext-img: https://drscdn.500px.org/photo/49060748/m%3D2048/16f60768c8815f6fdec6cdc226da8192 
   type: voivodeship  
   
-- slug: wielkopolska
-  name: Wielkopolska
+- slug: wielkopolskie
+  name: Wielkopolskie
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00 
   type: voivodeship
   
@@ -87,7 +87,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
     
 - slug: bystrzyca_klodzka
   name: Bystrzyca Kłodzka
@@ -108,7 +108,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: czarny_bor
   name: Czarny Bór
@@ -122,7 +122,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
     
 - slug: czernichow
   name: Czernichów
@@ -130,6 +130,13 @@
   type: town
   inside:
     - slaskie  
+    
+- slug: czerwonak
+  name: Czerwonak
+  header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba    
+  type: town
+  inside:
+    - wielkopolskie    
     
 - slug: darlowo
   name: Darłowo
@@ -143,7 +150,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska    
+    - wielkopolskie    
         
 - slug: dziwnow
   name: Dziwnów
@@ -152,6 +159,13 @@
   inside:
     - zachodnio_pomorskie 
 
+- slug: gniezno
+  name: Gniezno
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - wielkopolskie      
+    
 - slug: gluszyca
   name: Głuszyca
   header-ext-img: https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f
@@ -194,6 +208,13 @@
   inside:
     - zachodnio_pomorskie       
     
+- slug: kornik
+  name: Kórnik
+  header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18 
+  type: town
+  inside:
+    - wielkopolskie      
+    
 - slug: kowary
   name: Kowary
   header-ext-img: https://drscdn.500px.org/photo/28671083/m%3D2048/3a1ce45a9282bba8e50b665a2f9b8425
@@ -215,19 +236,26 @@
   inside:
     - dolnoslaskie        
     
-- slug: lakie
-  name: Łąkie
-  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
-  type: town
-  inside:
-    - kujawsko_pomorskie
-
 - slug: lekawica
   name: Łękawica
   header-ext-img: https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2 
   type: town
   inside:
     - slaskie
+    
+- slug: lubowo
+  name: Łubowo
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - wielkopolskie      
+    
+- slug: lubon
+  name: Luboń
+  header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
+  type: town
+  inside:
+    - wielkopolskie        
     
 - slug: lutowiska
   name: Lutowiska
@@ -284,20 +312,27 @@
   type: town
   inside:
     - dolnoslaskie      
-    
+ 
+- slug: mogilno
+  name: Mogilno
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - kujawsko_pomorskie 
+ 
 - slug: mosina
   name: Mosina
   header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: murowana_goslina
   name: Murowana Goślina
   header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: muszyna
   name: Muszyna
@@ -353,7 +388,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska  
+    - wielkopolskie  
     
 - slug: ochotnica_dolna
   name: Ochotnica Dolna
@@ -374,7 +409,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska  
+    - wielkopolskie  
     
 - slug: piechowice
   name: Piechowice
@@ -396,6 +431,13 @@
   type: town
   inside:
     - malopolskie
+    
+- slug: pobiedziska
+  name: Pobiedziska
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - wielkopolskie      
     
 - slug: podgorzyn
   name: Podgórzyn
@@ -423,7 +465,7 @@
   header-ext-img: https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20    
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: rabka
   name: Rabka
@@ -472,7 +514,7 @@
   header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba    
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: stara_kamienica
   name: Stara Kamienica
@@ -495,12 +537,26 @@
   inside:
     - dolnoslaskie    
         
+- slug: strzelno
+  name: Strzelno
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - kujawsko_pomorskie
+    
+- slug: swarzedz
+  name: Swarzedz
+  header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba    
+  type: town
+  inside:
+    - wielkopolskie    
+    
 - slug: szamotuly
   name: Szamotuły
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: szczawnica
   name: Szczawnica
@@ -528,7 +584,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00       
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
     
 - slug: trzebiatow
   name: Trzebiatów
@@ -536,6 +592,13 @@
   type: town
   inside:
     - zachodnio_pomorskie 
+    
+- slug: trzemeszno
+  name: Trzemeszno
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
+  type: town
+  inside:
+    - wielkopolskie    
     
 - slug: ustka
   name: Ustka
@@ -570,14 +633,14 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska    
+    - wielkopolskie    
     
 - slug: wagrowiec
   name: Wągrowiec
   header-ext-img: https://drscdn.500px.org/photo/112587369/m%3D2048/29a46814bc2d5797f0ab3b2a260d898a    
   type: town
   inside:
-    - wielkopolska
+    - wielkopolskie
 
 - slug: walbrzych
   name: Wąłbrzych
@@ -619,7 +682,7 @@
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00   
   type: town
   inside:
-    - wielkopolska    
+    - wielkopolskie    
     
 - slug: zmigrod
   name: Żmigród

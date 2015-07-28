@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
 categories:             trip
 tags:                   [bicycle]
-towns:                  [wielkopolska, szamotuly, czarnkow, trzcianka]
+towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
 lands:                  [pojezierze_poznanskie]
 ---
 
