@@ -5,10 +5,17 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 ---
 
 {% for post in paginator.posts %}
+{% assign counter = counter | plus: 1 %}
+{% assign page_desc = paginator.total_pages | minus: paginator.page %}
+{% assign posts_count = page_desc | times: paginator.per_page %}
+{% assign post_number = posts_count | plus: paginator.per_page | minus: counter | plus: 1%}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+        <h2 class="post-title"> 
+          {{ post_number }}.
+          {{ post.title }}
         </h2>
+        
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}

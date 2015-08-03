@@ -173,6 +173,13 @@
   inside:
     - zachodnio_pomorskie     
     
+- slug: janikowo
+  name: Janikowo
+  header-ext-img: https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b
+  type: town
+  inside:
+    - kujawsko_pomorskie     
+    
 - slug: janowice_wielkie
   name: Janowice Wielkie
   header-ext-img: https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d
@@ -187,6 +194,13 @@
   inside:
     - dolnoslaskie    
 
+- slug: jeziora_wielkie
+  name: Jeziora Wielkie
+  header-ext-img: https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3 
+  type: town
+  inside:
+    - kujawsko_pomorskie        
+    
 - slug: kamienna_gora
   name: Kamienna Góra
   header-ext-img: https://drscdn.500px.org/photo/23974233/m%3D2048/bfec1ac2f4b66e3f3352106f7cb12ed7
@@ -411,6 +425,13 @@
   inside:
     - wielkopolskie  
     
+- slug: orchowo
+  name: Orchowo
+  header-ext-img: https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3 
+  type: town
+  inside:
+    - wielkopolskie       
+    
 - slug: piechowice
   name: Piechowice
   header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
@@ -459,7 +480,14 @@
   type: town
   inside:
     - zachodnio_pomorskie    
-    
+ 
+- slug: powidz
+  name: Powidz
+  header-ext-img: https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3 
+  type: town
+  inside:
+    - wielkopolskie   
+ 
 - slug: poznan
   name: Poznań
   header-ext-img: https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20    
@@ -536,7 +564,14 @@
   type: town
   inside:
     - dolnoslaskie    
-        
+  
+- slug: strzalkowo
+  name: Strzałkowo
+  header-ext-img: https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3 
+  type: town
+  inside:
+    - wielkopolskie  
+  
 - slug: strzelno
   name: Strzelno
   header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1 
