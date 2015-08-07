@@ -5,6 +5,7 @@ description: 3 dni łażenia
 ignore_nav: true
 permalink: /todos/beskid-sadecki/
 header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
+done: true
 ---
 
 Beskid Sądecki pieszo

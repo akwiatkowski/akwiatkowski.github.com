@@ -24,6 +24,15 @@ Jazda ze sakwami, śpiwór, ale bez karimaty i namiotu. Możliwość rozszerzeni
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgUZ0efaplU" frameborder="0" allowfullscreen></iframe>
 
+Trasy UMP
+
+[bn-pelny]:     http://trasy.ump.waw.pl/?hl=pl&loc=49.625671,20.691305&loc=49.577259,20.757935&loc=49.602287,20.922318&loc=49.579556,20.989141&loc=49.541306,21.025652&loc=49.549286,21.077976&loc=49.490871,21.344561&loc=49.476925,21.428392&loc=49.500954,21.544144&loc=49.455040,21.777435&loc=49.420795,21.903467&loc=49.342247,22.074541&loc=50.037231,22.005520&z=10&center=49.790131,21.025085&alt=0&df=0&re=2&ly=611352508
+[bsc-pelny]:    http://trasy.ump.waw.pl/?hl=pl&loc=49.625671,20.691303&loc=49.577259,20.757936&loc=49.602287,20.922318&loc=49.579556,20.989140&loc=49.541306,21.025652&loc=49.549286,21.077976&loc=49.490871,21.344561&loc=49.476925,21.428392&loc=49.500954,21.544147&loc=49.455040,21.777435&loc=49.420795,21.903467&loc=49.342247,22.074533&loc=49.209167,22.273413&loc=49.145428,22.497482&loc=49.102425,22.635183&loc=49.254601,22.690060&loc=49.551998,22.646465&loc=49.709396,22.758362&loc=49.780910,22.774445&z=9&center=49.491323,21.066284&alt=0&df=0&re=2&ly=611352508
+
+Wersja Beskid Niski [skrót][http://umapa.pl/AhXxV] [pełny][bn-pelny].
+
+Wersja z Bieszczadami [skrót][http://umapa.pl/d74Am] [pełny][bsc-pelny].
+
 Szczegółowa analiza
 ===================
 
@@ -61,7 +70,7 @@ teren. Droga Ożenna, Żydowskie, wygląda całkiem spoko.*
 
 [Wyjazd z Krempnej][gugle-z-krempnej] obok rzeki Wisłoka.
 
-https://www.google.pl/maps/@49.550275,21.516786,3a,75y,3.16h,93.88t/data=!3m6!1e1!3m4!1slO27bJ6nomL5wA7cPgO6IA!2e0!7i13312!8i6656!6m1!1e1
+[Street view](https://www.google.pl/maps/@49.550275,21.516786,3a,75y,3.16h,93.88t/data=!3m6!1e1!3m4!1slO27bJ6nomL5wA7cPgO6IA!2e0!7i13312!8i6656!6m1!1e1)
 
 Chyba lepiej jechać drogą Mszana - Tylawa.
 
