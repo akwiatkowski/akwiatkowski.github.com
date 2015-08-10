@@ -15,6 +15,7 @@ W planach bliższych
 
 * [Kaczawskie rowerem](/todos/gory-kaczawskie-rowerem)
 
+* Jesień Karkonoszach/Rudawach/... tylko na robienie zdjęć
 
 W planach dalszych
 ------------------
