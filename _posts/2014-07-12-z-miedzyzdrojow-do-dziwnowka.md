@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, coast, todo]
 towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
 lands:                  [wybrzeze_trzebiatowskie]
+
+coords:                 [53.97344,14.58371]
+range:                  17
 ---
 
 Wstęp

@@ -8,7 +8,10 @@ header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb813
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]
+
 distance:               75
+coords:                 [52.56266,17.05580]
+range:                  18
 ---
 
 Wstęp

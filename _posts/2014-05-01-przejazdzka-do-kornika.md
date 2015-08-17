@@ -8,7 +8,10 @@ header-ext-img:         "https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, kornik, mosina, lubon]
+
 distance:               93
+coords:                 [52.30363,16.95195]
+range:                  17
 ---
 
 Wstęp

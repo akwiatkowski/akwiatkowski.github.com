@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [slaskie, andrychow, lekawica]
 lands:                  [beskid_maly]
+
+coords:                 [49.81648,19.38302]
+range:                  7
 ---
 
 Wstęp

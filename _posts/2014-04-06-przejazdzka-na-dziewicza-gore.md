@@ -8,7 +8,10 @@ header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb813
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, swarzedz, czerwonak]
+
 distance:               75
+coords:                 [52.49593,17.07211]
+range:                  14
 ---
 
 Wstęp

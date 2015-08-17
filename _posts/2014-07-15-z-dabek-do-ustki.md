@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, coast, todo]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
 lands:                  [wybrzeze_slowinskie]
+
+coords:                 [54.49595,16.59901]
+range:                  30
 ---
 
 Wstęp

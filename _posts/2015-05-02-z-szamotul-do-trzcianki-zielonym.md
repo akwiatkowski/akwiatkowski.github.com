@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
 lands:                  [pojezierze_poznanskie]
+
+coords:                 [52.82899,16.54082]
+range:                  25
 ---
 
 [wiki-puszcza-notecka]:         https://pl.wikipedia.org/wiki/Puszcza_Notecka

@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, coast, todo]
 towns:                  [zachodnio_pomorskie, dziwnow, rewal, trzebiatow, kolobrzeg, ustronie_morskie]
 lands:                  [wybrzeze_trzebiatowskie, wybrzeze_slowinskie]
+
+coords:                 [54.14030,15.26349]
+range:                  40
 ---
 
 Wstęp

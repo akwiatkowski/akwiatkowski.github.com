@@ -8,6 +8,9 @@ header-ext-img:         "https://drscdn.500px.org/photo/109590873/m%3D2048/12ec5
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, murowana_goslina, skoki, wagrowiec]
+
+coords:                 [52.57894,17.01392]
+range:                  20
 ---
 
 Wstęp

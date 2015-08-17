@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [slaskie, czernichow, porabka, andrychow, lekawica]
 lands:                  [beskid_maly]
+
+coords:                 [49.79255,19.27006]
+range:                  9
 ---
 
 Wstęp

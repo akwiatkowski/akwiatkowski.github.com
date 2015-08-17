@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, workshop, mountains, todo]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
+
+coords:                 [50.48403,16.34186]
+range:                  4
 ---
 
 Wstęp

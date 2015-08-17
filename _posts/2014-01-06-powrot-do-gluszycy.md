@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, walim, gluszyca]
 lands:                  [gory_sowie]
+
+coords:                 [50.65940,16.43559]
+range:                  4
 ---
 
 Wstęp
