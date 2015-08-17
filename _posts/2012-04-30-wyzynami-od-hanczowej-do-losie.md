@@ -4,17 +4,29 @@ title:                  "Wyżynami od Hańczowej do Łosie"
 subtitle:               "w stronę Klimkówki"
 date:                   2012-04-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/30576125/m%3D2048/344c96d96b63ccf3c668a06825796e71"
+header-ext-img:         "https://drscdn.500px.org/photo/118550999/m%3D2048/d71681fbd7dfd77aa7eefbe4625982ea"
 categories:             trip
-tags:                   [hike, mountains, todo]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 ---
 
+[wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
+[wiki-hanczowa]:                https://pl.wikipedia.org/wiki/Ha%C5%84czowa
+[wiki-wysowa]:                  https://pl.wikipedia.org/wiki/Wysowa-Zdr%C3%B3j
+[wiki-bordiow]:                 https://pl.wikipedia.org/wiki/Bordi%C3%B3w_Wierch
+[wiki-czarna]:                  https://pl.wikipedia.org/wiki/Czarna_(wojew%C3%B3dztwo_ma%C5%82opolskie)
+[wiki-sucha-homola]:            https://pl.wikipedia.org/wiki/Sucha_Homola
+[wiki-klimkowka]:               https://pl.wikipedia.org/wiki/Jezioro_Klimkowskie
+[wiki-klimkowka-wies]:          https://pl.wikipedia.org/wiki/Klimk%C3%B3wka_(powiat_gorlicki)
+[wiki-gsb]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
+[wiki-flasza]:                  https://pl.wikipedia.org/wiki/Flasza
+[wiki-losie]:                   https://pl.wikipedia.org/wiki/%C5%81osie_(powiat_gorlicki)
+
 Wstęp
 -----
 
-Drugi dzień w Beskidzie Niskim.
+Drugi dzień w Beskidzie Niskim. Tym razem liniowa trasa w kierunku północnym.
 
 Opis trasy
 ----------
@@ -24,4 +36,45 @@ Opis trasy
 Szczegóły
 ---------
 
-TODO
+Wyruszyliśmy z bazy na północ w stronę centrum [Hańczowej][wiki-hanczowa], gdzie skręciliśmy na lewo i przeszliśmy trochę.
+Był to fragment [Głównego Szlaku Beskidzkiego][wiki-gsb]. 
+
+Po chwili skręt w prawo na niebieski szlak i podejście w kierunku Dzielca. W Beskidzie Niskim są przynajmniej dwa Dzielce,
+to jest ten mniej znany i niższy.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/30608121/m%3D900/ab5ff193738eabee3c726d6b1c3aef4a' alt='Steep forest by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/30608121/steep-forest-by-aleksander-kwiatkowski' alt='Steep forest by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów Wierch][wiki-bordiow] zeszliśmy obok wsi 
+[Czarna][wiki-czarna]. Niewiele tam było ciekawego, ale też widać tutaj klimat [Beskidu Niskiego][wiki-beskid-niski].
+
+Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejscami był prześwit i widziałem jezioro
+[Klimkówkę][wiki-klimkowka], jednak nie na tyle aby móc zrobić ciekawe zdjęcia.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/23973147/m%3D900/89210d4d7c87041fe16afcd0c9bdde1e' alt='Spring cottage by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/23973147/spring-cottage-by-aleksander-kwiatkowski' alt='Spring cottage by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Pierwszym ciekawym miejscem była polana niedaleko góry [Flasza][wiki-flasza]. Chwilę po tym zaczęliśmy schodzić do wsi
+[Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro. Od tego momentu trasa, w mojej ocenie, była naprawdę
+ciekawa. Szkoda że to to były ostatnie 5km. Całkiem duże jezioro, góry, zieleń, idealne miejsce tego dnia.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/30608357/m%3D900/8a9bdfe0d0be1a999ae102c35af05831' alt='Klimkówka lake by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/30608357/klimk%C3%B3wka-lake-by-aleksander-kwiatkowski' alt='Klimkówka lake by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Przeszliśmy obok zapory (elektrowni wodnej) i kierowaliśmy się w stronę wsi [Łosie][wiki-losie]. Po najedzeniu się wróciliśmy do
+Hańczowej autobusem.
