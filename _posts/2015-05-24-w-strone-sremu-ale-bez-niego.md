@@ -8,6 +8,9 @@ header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b49
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, czempin, mosina, poznan]
+
+coords:                 [52.19254,16.89375]
+range:                  9
 ---
 
 Wstęp

@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
+
+coords:                 [52.28400,16.14686]
+range:                  20
 ---
 
 [route]:                        https://www.strava.com/activities/334055350

@@ -34,7 +34,7 @@ class @BlogLive
         color: "#FF0000"
         width: 2
       )
-      fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.3)")
+      fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
     
     vectorLayer = new ol.layer.Vector(

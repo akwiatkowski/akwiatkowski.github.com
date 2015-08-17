@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, mountains]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [karkonosze, gory_izerskie]
+
+coords:                 [50.80016,15.47051]
+range:                  9
 ---
 
 [route]:                https://www.strava.com/activities/318213614

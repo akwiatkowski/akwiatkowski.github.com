@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
 lands:                  [beskid_sadecki]
+
+coords:                 [49.41508,20.86102]
+range:                  7.5
 ---
 
 [wiki-muszyna]:         https://pl.wikipedia.org/wiki/Muszyna

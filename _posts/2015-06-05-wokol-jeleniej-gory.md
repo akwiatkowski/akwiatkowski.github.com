@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, mountains]
 towns:                  [dolnoslaskie, szklarska, stara_kamienica, jelenia_gora]
 lands:                  [gory_izerskie, gory_kaczawskie]
+
+coords:                 [50.91546,15.60578]
+range:                  16
 ---
 
 [route]:                        https://www.strava.com/activities/318922776

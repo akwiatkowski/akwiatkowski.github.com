@@ -8,6 +8,9 @@ header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b49
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, mosina, poznan]
+
+coords:                 [52.26887,16.80174]
+range:                  7
 ---
 
 Wstęp

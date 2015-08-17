@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
 lands:                  [beskid_sadecki]
+
+coords:                 [49.50226,20.58988]
+range:                  6
 ---
 
 Wstęp

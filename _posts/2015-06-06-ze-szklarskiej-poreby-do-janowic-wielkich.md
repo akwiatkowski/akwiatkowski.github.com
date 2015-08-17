@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, mountains]
 towns:                  [dolnoslaskie, szklarska, piechowice, podgorzyn, myslakowice, janowice_wielkie]
 lands:                  [karkonosze, rudawy_janowickie]
+
+coords:                 [50.83704,15.76920]
+range:                  17
 ---
 
 [route]:                        https://www.strava.com/activities/320388250

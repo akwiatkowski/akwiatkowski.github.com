@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [malopolskie, rytro, szczawnica]
 lands:                  [beskid_sadecki]
+
+coords:                 [49.45396,20.62705]
+range:                  5.0
 ---
 
 [wiki-kordowiec]:       https://pl.wikipedia.org/wiki/Kordowiec

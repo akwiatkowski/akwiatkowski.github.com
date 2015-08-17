@@ -33,11 +33,11 @@
       }
       style = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#FF0000",
-          width: 2
+          color: "rgba(255, 0, 0, 0.5)",
+          width: 1
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.3)"
+          color: "rgba(255, 0, 0, 0.2)"
         })
       });
       vectorLayer = new ol.layer.Vector({
