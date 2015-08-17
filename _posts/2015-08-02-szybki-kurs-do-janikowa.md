@@ -8,6 +8,9 @@ header-ext-img:         "https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
+
+coords:                 [52.69559, 18.10886]
+range:                  7
 ---
 
 

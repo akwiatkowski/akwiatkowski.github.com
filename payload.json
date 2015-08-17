@@ -1,0 +1,56 @@
+---
+layout: null
+permalink: /payload.json
+---
+{
+  "posts":
+  [
+  {% for post in site.posts %}
+    {
+      "title":  "{{ post.title | json_escape }}",
+      "category": "{{ post.categories | json_escape }}",
+      "date": "{{ post.date | date: "%Y-%m-%d" }}",
+      "header-ext-img": "{{ post.header-ext-img }}",
+      "coords": {% if post.coords[0] %}[{{ post.coords[0] }}, {{ post.coords[1] }}]{% else %}null{% endif %},
+      "range": {% if post.range %}{{ post.range }}{% else %}null{% endif %},
+      "tags": [
+        {% for tag in post.tags %}
+          "{{ tag }}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "towns": [
+        {% for town in post.towns %}
+          "{{ town }}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "places": [
+        {% for place in post.places %}
+          "{{ place }}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ]      
+    }{% if forloop.last %}{% else %},{% endif %}
+    
+    
+  {% endfor %}
+  ],
+
+  "towns":
+  [
+    {% for town in site.data.towns %}
+      {
+      "dolnoslaskie":  "{{ town.dolnoslaskie | json_escape }}",
+      "name": "{{ town.name | json_escape }}",
+      "header-ext-img": "{{ town.header-ext-img }}",
+      "type": "{{ town.type | json_escape }}",
+      "inside": [
+        {% for inside in town.inside %}
+          "{{ inside }}"{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+        ]  
+    }{% if forloop.last %}{% else %},{% endif %}
+    
+    
+  {% endfor %}
+  ]  
+  
+}  

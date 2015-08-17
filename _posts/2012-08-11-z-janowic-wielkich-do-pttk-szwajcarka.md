@@ -14,7 +14,7 @@ lands:                  [rudawy_janowickie]
 Wstęp
 -----
 
-TODO
+Jest to pierwsza styczność z Rudawami Janowickimi na pieszo, oraz
 
 Opis trasy
 ----------

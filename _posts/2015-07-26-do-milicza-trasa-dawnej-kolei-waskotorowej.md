@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
+
+coords:                 [51.50966, 17.15992]
+range:                  10
 ---
 
 [wiki-dolina-baryczy]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy

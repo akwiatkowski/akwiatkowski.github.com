@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, kujawsko_pomorskie, strzalkowo, powidz, orchowo, jeziora_wielkie, strzelno]
 lands:                  [powidzki_park_krajobrazowy]
+
+coords:                 [52.46214, 17.99110]
+range:                  18
 ---
 
 
