@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, swieradow_zdroj, szklarska]
 lands:                  [gory_izerskie]
+
+coords-multi:           []
 ---
 
 Wstęp

@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
-coords-from:            [49.45564,21.16267]
-coords-to:              [49.57038,21.09075]
+coords-multi:           [[49.45526,21.16250], [49.47344,21.15932], [49.46915,21.14722], [49.50695,21.09246], [49.52261,21.10422], [49.54434,21.06319], [49.56065,21.08379], [49.56416,21.09461], [49.57134,21.09049]]
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski

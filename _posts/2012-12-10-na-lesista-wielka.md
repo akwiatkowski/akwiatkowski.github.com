@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
+
+coords-multi:           [[50.76105,16.16990], [50.74517,16.16728], [50.73827,16.14261], [50.72007,16.15801], [50.70213,16.17827], [50.70221,16.19265], [50.69091,16.19874], [50.68917,16.20719]]
 ---
 
 Wstęp

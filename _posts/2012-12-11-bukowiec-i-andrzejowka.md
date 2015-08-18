@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
+
+coords-multi:           [[50.68911,16.20685], [50.68520,16.23346], [50.68696,16.23981], [50.69577,16.25208], [50.69430,16.26178], [50.68685,16.26689], [50.68487,16.27818], [50.68702,16.23981]]
 ---
 
 Wstęp

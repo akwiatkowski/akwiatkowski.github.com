@@ -106,8 +106,8 @@
             console.log(obj.B["post-url"]);
             $("#links").html("");
             results.push($("<a>", {
-              text: p["post-title"],
-              title: p["post-title"],
+              text: p["post-date"] + " - " + p["post-title"],
+              title: p["post-date"] + " - " + p["post-title"],
               href: p["post-url"]
             }).appendTo("#links"));
           }

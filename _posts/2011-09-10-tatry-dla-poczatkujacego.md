@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
-coords-circle:          [49.21811, 19.80392]
-range:                  1.8
+coords-multi:           [[49.25301,19.81492], [49.23990,19.80565], [49.22617,19.78496], [49.21781,19.79097], [49.21798,19.80419], [49.20565,19.80736], [49.24001,19.80625]]
 ---
 
 [wiki-gubalowka]:       https://pl.wikipedia.org/wiki/Guba%C5%82%C3%B3wka

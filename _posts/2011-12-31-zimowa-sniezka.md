@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
-coords-circle:          [50.73902,15.73045]
-range:                  0.7
+coords-multi:           [[50.77370,15.73890], [50.76854,15.72998], [50.74701,15.72723], [50.74066,15.72461], [50.73658,15.73371]]
 ---
 
 [wiki-karpacz]:         https://pl.wikipedia.org/wiki/Karpacz

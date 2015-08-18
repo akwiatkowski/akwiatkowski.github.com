@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
+
+coords-multi:           [[50.90614,15.33580], [50.89117,15.32198], [50.89713,15.32108], [50.89082,15.31005], [50.88475,15.31533], [50.87750,15.34339], [50.87373,15.34511], [50.86615,15.35588], [50.85391,15.35863]]
 ---
 
 Wstęp

@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
-coords-circle:          [49.45346,21.15048]
-range:                  2.2
+coords-multi:           [[49.47361,21.15907], [49.45939,21.12250], [49.44237,21.14422], [49.44153,21.17383]]
 ---
 
 [wiki-lackowa]:                 https://pl.wikipedia.org/wiki/Lackowa

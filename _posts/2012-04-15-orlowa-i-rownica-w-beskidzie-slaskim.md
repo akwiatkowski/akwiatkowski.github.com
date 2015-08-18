@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [slaskie, ustron]
 lands:                  [beskid_slaski]
 
-coords-circle:          [49.70850,18.85117]
-range:                  2.0
+coords-multi:           [[49.69153,18.83769], [49.70008,18.86207], [49.69658,18.87889], [49.72089,18.86404], [49.71801,18.84559], [49.69742,18.83443]]
 ---
 
 Wstęp

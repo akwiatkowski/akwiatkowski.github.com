@@ -10,8 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
-coords-from:            [50.85164,16.00794]
-coords-to:              [50.82302,15.97335]
+coords-multi:           [[50.85242,16.00485], [50.85345,15.99515], [50.83697,15.97112], [50.81984,15.97446]]
 ---
 
 Wstęp
