@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
+
+coords-multi:           [[49.50400,18.97566], [49.48265,18.96133], [49.47696,18.97069], [49.45509,18.96142], [49.45102,18.97515], [49.43361,18.99206], [49.42814,18.99377], [49.41206,18.96905]]
 ---
 
 Wstęp

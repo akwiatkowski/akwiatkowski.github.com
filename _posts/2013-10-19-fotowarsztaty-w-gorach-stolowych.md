@@ -10,8 +10,7 @@ tags:                   [hike, workshop, mountains, todo]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
-coords:                 [50.48286,16.33736]
-range:                  3
+coords-multi:           [[50.49382,16.32598], [50.48366,16.33766], [50.48498,16.34238]]
 ---
 
 Wstęp

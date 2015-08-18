@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
+
+coords-multi:           [[49.44170,20.42852], [49.44510,20.41582], [49.46731,20.39951], [49.46848,20.38938], [49.48900,20.33951], [49.49240,20.27154], [49.49670,20.25969], [49.49146,20.23188], [49.49491,20.21394]]
 ---
 
 Wstęp

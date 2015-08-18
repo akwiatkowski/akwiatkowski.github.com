@@ -10,8 +10,7 @@ tags:                   [hike, workshop, mountains, todo]
 towns:                  [podkarpackie, olszanica, lutowiska, czarna_bieszczady]
 lands:                  [bieszczady]
 
-coords:                 [49.15202,22.55073]
-range:                  5
+coords-multi:           [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]]
 ---
 
 Wstęp

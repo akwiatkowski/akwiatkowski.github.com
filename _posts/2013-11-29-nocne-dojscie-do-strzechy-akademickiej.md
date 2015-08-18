@@ -10,8 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
-coords:                 [50.76044,15.71744]
-range:                  2
+coords-multi:           [[50.77392,15.73864], [50.76925,15.72860], [50.76075,15.72217], [50.76165,15.71144], [50.75087,15.70839]]
 ---
 
 Wstęp

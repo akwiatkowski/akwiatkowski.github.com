@@ -10,8 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, gluszyca, nowa_ruda]
 lands:                  [gory_sowie]
 
-coords:                 [50.67561,16.38924]
-range:                  3
+coords-multi:           [[50.67271,16.37216], [50.67222,16.37534], [50.67658,16.38203], [50.67679,16.39555]]
 ---
 
 Wstęp

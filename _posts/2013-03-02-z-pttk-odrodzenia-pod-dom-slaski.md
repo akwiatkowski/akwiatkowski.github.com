@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]
+
+coords-multi:           [[50.76273,15.63848], [50.76059,15.65569], [50.75953,15.68328], [50.75299,15.69453], [50.74289,15.69788], [50.73935,15.72903]]
 ---
 
 Wstęp

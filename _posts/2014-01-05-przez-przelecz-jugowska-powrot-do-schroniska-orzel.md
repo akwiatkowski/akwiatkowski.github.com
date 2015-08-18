@@ -10,8 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, pieszyce, nowa_ruda, walim]
 lands:                  [gory_sowie]
 
-coords:                 [50.66386,16.50237]
-range:                  5
+coords-multi:           [[50.67323,16.54322], [50.65574,16.52648], [50.63664,16.50923], [50.63157,16.49807], [50.64284,16.47473], [50.65389,16.47233], [50.66189,16.46615], [50.66415,16.47301]]
 ---
 
 Wstęp

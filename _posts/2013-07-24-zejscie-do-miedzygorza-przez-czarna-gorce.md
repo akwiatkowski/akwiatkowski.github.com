@@ -9,6 +9,8 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
+
+coords-multi:           [[50.20816,16.83277], [50.21552,16.83552], [50.24786,16.81406], [50.25181,16.80479], [50.24434,16.78325], [50.22837,16.76514]]
 ---
 
 Wstęp

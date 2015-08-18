@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, swieradow_zdroj, szklarska]
 lands:                  [gory_izerskie]
 
-coords-multi:           []
+coords-multi:           [[50.85396,15.35867], [50.84580,15.36713], [50.85000,15.38652], [50.84375,15.39906], [50.83578,15.41588], [50.81992,15.43880]]
 ---
 
 Wstęp
