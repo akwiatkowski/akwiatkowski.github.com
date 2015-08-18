@@ -22,7 +22,7 @@
       styleLine = new ol.style.Style({
         stroke: new ol.style.Stroke({
           color: "#FF0000",
-          width: 4
+          width: 3
         }),
         fill: new ol.style.Fill({
           color: "rgba(255, 0, 0, 0.2)"
@@ -31,7 +31,7 @@
       styleCircle = new ol.style.Style({
         stroke: new ol.style.Stroke({
           color: "#FF0000",
-          width: 4
+          width: 3
         }),
         fill: new ol.style.Fill({
           color: "rgba(255, 0, 0, 0.2)"

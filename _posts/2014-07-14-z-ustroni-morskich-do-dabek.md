@@ -10,8 +10,7 @@ tags:                   [bicycle, coast, todo]
 towns:                  [zachodnio_pomorskie, ustronie_morskie, bedzino, mielno, sianow, darlowo]
 lands:                  [wybrzeze_slowinskie]
 
-coords:                 [54.28405,16.10188]
-range:                  28
+coords-multi:           [[54.21019,15.72414], [54.24200,15.87383], [54.25875,16.05648], [54.30685,16.19672], [54.28281,16.21835], [54.29213,16.27311], [54.35570,16.33525], [54.37930,16.31946], [54.38830,16.33113]]
 ---
 
 Wstęp

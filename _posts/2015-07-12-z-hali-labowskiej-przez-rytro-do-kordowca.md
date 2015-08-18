@@ -10,8 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, piwniczna_zdroj, labowa, rytro, nawojowa]
 lands:                  [beskid_sadecki]
 
-coords:                 [49.47890,20.75013]
-range:                  7
+coords-multi:           [[49.47275,20.81081], [49.48454,20.79553], [49.48081,20.75759], [49.49382,20.72644], [49.49087,20.70983], [49.48365,20.70275], [49.48607,20.68404], [49.48150,20.66576], [49.46064,20.66704] ]
 ---
 
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej

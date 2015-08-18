@@ -9,8 +9,7 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 
-coords:                 [52.69559, 18.10886]
-range:                  7
+coords-multi:           [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]]
 ---
 
 

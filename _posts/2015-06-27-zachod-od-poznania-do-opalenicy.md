@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "Zachód od Poznania. Do Opalenicy."
+title:                  "Na zachód od Poznania do Opalenicy."
 subtitle:               "parno i chmara małych czarnych robaczków"
 date:                   2015-06-27 20:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -10,8 +10,7 @@ tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 
-coords:                 [52.28400,16.14686]
-range:                  20
+coords-multi:           [[52.48654,16.79887], [52.45945,16.73072], [52.43194,16.69252], [52.42864,16.64618], [52.39660,16.62043], [52.35059,16.63364], [52.35049,16.64635], [52.34199,16.63038], [52.31860,16.62334], [52.31262,16.58850], [52.32259,16.53786], [52.30590,16.50696], [52.30706,16.44911], [52.31010,16.40430]]
 ---
 
 [route]:                        https://www.strava.com/activities/334055350
