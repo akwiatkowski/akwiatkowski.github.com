@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
+
+coords-from:            [49.45564,21.16267]
+coords-to:              [49.57038,21.09075]
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski

@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, janowice_wielkie]
 lands:                  [rudawy_janowickie]
+
+coords-from:            [50.87792,15.91893]
+coords-to:              [50.86432,15.86932]
 ---
 
 Wstęp

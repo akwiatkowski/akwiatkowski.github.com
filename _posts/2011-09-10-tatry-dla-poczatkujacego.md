@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
-coords:                 [49.21811, 19.80392]
+coords-circle:          [49.21811, 19.80392]
 range:                  1.8
 ---
 

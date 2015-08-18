@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
+
+coords-circle:          [49.23156,19.98143]
+range:                  0.8
 ---
 
 [wiki-swinica]:         https://pl.wikipedia.org/wiki/%C5%9Awinica

@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
+
+coords-circle:          [49.21155,20.06146]
+range:                  1.5
 ---
 
 [wiki-palenica-b]:              https://pl.wikipedia.org/wiki/Palenica_Bia%C5%82cza%C5%84ska

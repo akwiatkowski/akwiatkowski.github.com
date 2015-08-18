@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, kujawsko_pomorskie, pobiedziska, lubowo, gniezno, trzemeszno, mogilno, strzelno]
 distance:               95
+
+coords-from:            [52.46459,17.16931]
+coords-to:              [52.61525,18.15259]
 ---
 
 Wstęp

@@ -9,6 +9,11 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
+
+coords-from:            [50.77979,15.90923]
+coords-to:              [50.77556,15.76015]
+coords-multi:           [[50.78088,15.90932], [50.76296,15.86743], [50.74613,15.82332], [50.75558,15.81611], [50.75243,15.79156], [50.78196,15.76203]]
+
 ---
 
 Wstęp

@@ -16,47 +16,105 @@
     };
 
     BlogLive.prototype.startMap = function() {
-      var geojsonObject, i, len, map, post, ref, style, vectorLayer, vectorSource;
+      var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, len, len1, lineLayer, map, post, ref, ref1, sourceCircles, sourceLines, styleCircle, styleLine;
       $("#content").height(600);
       $("#content").width(900);
-      geojsonObject = {};
-      vectorSource = new ol.source.Vector({
-        features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-      });
-      ref = this.data["posts"];
-      for (i = 0, len = ref.length; i < len; i++) {
-        post = ref[i];
-        if (post["coords"]) {
-          console.log(post);
-          vectorSource.addFeature(new ol.Feature(new ol.geom.Circle(ol.proj.transform([post["coords"][1], post["coords"][0]], 'EPSG:4326', 'EPSG:3857'), parseFloat(post["range"]) * 1000.0)));
-        }
-      }
-      style = new ol.style.Style({
+      styleLine = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "rgba(255, 0, 0, 0.5)",
-          width: 1
+          color: "#FF0000",
+          width: 4
         }),
         fill: new ol.style.Fill({
           color: "rgba(255, 0, 0, 0.2)"
         })
       });
-      vectorLayer = new ol.layer.Vector({
-        source: vectorSource,
-        style: style
+      styleCircle = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: "#FF0000",
+          width: 4
+        }),
+        fill: new ol.style.Fill({
+          color: "rgba(255, 0, 0, 0.2)"
+        })
       });
-      return map = new ol.Map({
+      geojsonObject = {};
+      sourceCircles = new ol.source.Vector({
+        features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
+      });
+      sourceLines = new ol.source.Vector({
+        features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
+      });
+      ref = this.data["posts"];
+      for (i = 0, len = ref.length; i < len; i++) {
+        post = ref[i];
+        if (false) {
+          console.log(post);
+          sourceCircles.addFeature(new ol.Feature(new ol.geom.Circle(ol.proj.transform([post["coords-circle"][1], post["coords-circle"][0]], 'EPSG:4326', 'EPSG:3857'), parseFloat(post["range"]) * 1000.0)));
+        }
+        if (false) {
+          console.log(post);
+          coords = [ol.proj.transform([post["coords-from"][1], post["coords-from"][0]], 'EPSG:4326', 'EPSG:3857'), ol.proj.transform([post["coords-to"][1], post["coords-to"][0]], 'EPSG:4326', 'EPSG:3857')];
+          sourceLines.addFeature(new ol.Feature(new ol.geom.LineString(coords)));
+        }
+        if (post["coords-multi"]) {
+          console.log(post["coords-multi"]);
+          coords = [];
+          ref1 = post["coords-multi"];
+          for (j = 0, len1 = ref1.length; j < len1; j++) {
+            c = ref1[j];
+            ct = ol.proj.transform([c[1], c[0]], 'EPSG:4326', 'EPSG:3857');
+            coords.push(ct);
+          }
+          feature = new ol.Feature(new ol.geom.LineString(coords));
+          feature.set("post-date", post["date"]);
+          feature.set("post-url", post["url"]);
+          feature.set("post-title", post["title"]);
+          sourceLines.addFeature(feature);
+        }
+      }
+      circleLayer = new ol.layer.Vector({
+        source: sourceCircles,
+        style: styleCircle
+      });
+      lineLayer = new ol.layer.Vector({
+        source: sourceLines,
+        style: styleLine
+      });
+      map = new ol.Map({
         target: "content",
         projection: "EPSG:4326",
         layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
-          }), vectorLayer
+          }), circleLayer, lineLayer
         ],
         view: new ol.View({
           center: ol.proj.transform([19.4553, 51.7768], 'EPSG:4326', 'EPSG:3857'),
           zoom: 6
         })
       });
+      interaction = new ol.interaction.Select();
+      interaction.getFeatures().on("add", (function(_this) {
+        return function(e) {
+          var k, len2, obj, p, ref2, results;
+          ref2 = e.target.b;
+          results = [];
+          for (k = 0, len2 = ref2.length; k < len2; k++) {
+            obj = ref2[k];
+            p = obj.B;
+            console.log();
+            console.log(obj.B["post-url"]);
+            $("#links").html("");
+            results.push($("<a>", {
+              text: p["post-title"],
+              title: p["post-title"],
+              href: p["post-url"]
+            }).appendTo("#links"));
+          }
+          return results;
+        };
+      })(this));
+      return map.addInteraction(interaction);
     };
 
     return BlogLive;

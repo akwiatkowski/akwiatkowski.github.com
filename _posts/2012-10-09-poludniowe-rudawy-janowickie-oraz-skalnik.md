@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
 lands:                  [rudawy_janowickie]
+
+coords-from:            [50.77974,15.90992]
+coords-to:              [50.80708,15.89344]
 ---
 
 Wstęp

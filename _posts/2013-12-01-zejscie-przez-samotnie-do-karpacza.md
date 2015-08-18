@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
+
+coords:                 [50.76652,15.70835]
+range:                  2
 ---
 
 Wstęp

@@ -9,6 +9,9 @@ categories:             trip
 tags:                   [hike, mountains, todo]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
+
+coords-from:            [50.85164,16.00794]
+coords-to:              [50.82302,15.97335]
 ---
 
 Wstęp

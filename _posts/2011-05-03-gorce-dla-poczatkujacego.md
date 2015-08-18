@@ -10,8 +10,8 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, niedzwiedz]
 lands:                  [gorce]
 
-coords:                 [49.59805, 20.07058]
-range:                  3.5
+coords-circle:          [49.59805, 20.07058]
+range:                  3.0
 ---
 
 [wiki-tobolow]:         https://pl.wikipedia.org/wiki/Tobo%C5%82%C3%B3w
