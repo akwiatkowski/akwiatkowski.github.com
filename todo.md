@@ -17,6 +17,8 @@ W planach bliższych
 
 * Jesień Karkonoszach/Rudawach/... tylko na robienie zdjęć
 
+* [Dokończyć posty](/todos/posty-do-zrobienia)
+
 W planach dalszych
 ------------------
 
