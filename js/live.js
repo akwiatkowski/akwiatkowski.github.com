@@ -48,16 +48,13 @@
       for (i = 0, len = ref.length; i < len; i++) {
         post = ref[i];
         if (false) {
-          console.log(post);
           sourceCircles.addFeature(new ol.Feature(new ol.geom.Circle(ol.proj.transform([post["coords-circle"][1], post["coords-circle"][0]], 'EPSG:4326', 'EPSG:3857'), parseFloat(post["range"]) * 1000.0)));
         }
         if (false) {
-          console.log(post);
           coords = [ol.proj.transform([post["coords-from"][1], post["coords-from"][0]], 'EPSG:4326', 'EPSG:3857'), ol.proj.transform([post["coords-to"][1], post["coords-to"][0]], 'EPSG:4326', 'EPSG:3857')];
           sourceLines.addFeature(new ol.Feature(new ol.geom.LineString(coords)));
         }
         if (post["coords-multi"]) {
-          console.log(post["coords-multi"]);
           coords = [];
           ref1 = post["coords-multi"];
           for (j = 0, len1 = ref1.length; j < len1; j++) {
@@ -102,8 +99,6 @@
           for (k = 0, len2 = ref2.length; k < len2; k++) {
             obj = ref2[k];
             p = obj.B;
-            console.log();
-            console.log(obj.B["post-url"]);
             $("#links").html("");
             results.push($("<a>", {
               text: p["post-date"] + " - " + p["post-title"],

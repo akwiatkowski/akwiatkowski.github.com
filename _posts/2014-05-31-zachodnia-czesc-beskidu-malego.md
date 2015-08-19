@@ -10,8 +10,7 @@ tags:                   [hike, mountains, todo]
 towns:                  [slaskie, bielsko-biala, wilkowice, czernichow]
 lands:                  [beskid_maly]
 
-coords:                 [49.79787,19.13411]
-range:                  5
+coords-multi:           [[49.79170,19.06827], [49.79503,19.07308], [49.77995,19.10930], [49.76798,19.16664], [49.78528,19.19453], [49.78899,19.19359]]
 ---
 
 Wstęp

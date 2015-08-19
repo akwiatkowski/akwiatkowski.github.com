@@ -34,7 +34,6 @@ class @BlogLive
     
     for post in @data["posts"]
       if false #post["coords-circle"]
-        console.log post
         sourceCircles.addFeature new ol.Feature(
           new ol.geom.Circle( 
             ol.proj.transform([
@@ -46,8 +45,6 @@ class @BlogLive
           )
 
       if false # post["coords-from"]
-        console.log post
-        
         coords = [
           ol.proj.transform([
             post["coords-from"][1],
@@ -65,8 +62,6 @@ class @BlogLive
         )  
 
       if post["coords-multi"]
-        console.log post["coords-multi"]
-        
         coords = []
         for c in post["coords-multi"]
           ct = ol.proj.transform([
@@ -116,8 +111,6 @@ class @BlogLive
       for obj in e.target.b
         p = obj.B
         
-        console.log()
-        console.log obj.B["post-url"]
         $("#links").html("")
         
         $("<a>",
