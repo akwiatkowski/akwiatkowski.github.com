@@ -12,14 +12,28 @@ class @BlogLive
   startMap: () ->
     $("#content").height(600)
     $("#content").width(900)
-    
-    styleLine = new ol.style.Style(
+
+    styleLineRegular = new ol.style.Style(
       stroke: new ol.style.Stroke(
-        color: "#FF0000"
+        color: "#008800"
+        width: 3
+      )
+      fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
+    )    
+    styleLineHike = new ol.style.Style(
+      stroke: new ol.style.Stroke(
+        color: "#ff9900"
         width: 3
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
+    styleLineCycle = new ol.style.Style(
+      stroke: new ol.style.Stroke(
+        color: "#0055FF"
+        width: 3
+      )
+      fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
+    )      
     styleCircle = new ol.style.Style(
       stroke: new ol.style.Stroke(
         color: "#FF0000"
@@ -30,7 +44,9 @@ class @BlogLive
     
     geojsonObject = {}
     sourceCircles = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLines = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
+    sourceLinesCycle = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
+    sourceLinesHike = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
+    sourceLinesRegular = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
     
     for post in @data["posts"]
       if false #post["coords-circle"]
@@ -62,6 +78,7 @@ class @BlogLive
         )  
 
       if post["coords-multi"]
+        
         coords = []
         for c in post["coords-multi"]
           ct = ol.proj.transform([
@@ -78,8 +95,14 @@ class @BlogLive
         feature.set("post-url", post["url"])
         feature.set("post-title", post["title"])
         
-        sourceLines.addFeature(feature)
+        console.log post.tags
         
+        if post.tags.indexOf("hike") >= 0
+          sourceLinesHike.addFeature(feature)
+        else if post.tags.indexOf("bicycle") >= 0
+          sourceLinesCycle.addFeature(feature)
+        else
+          sourceLinesRegular.addFeature(feature)
     
     
     circleLayer = new ol.layer.Vector(
@@ -87,10 +110,18 @@ class @BlogLive
       style: styleCircle
     )
 
-    lineLayer = new ol.layer.Vector(
-      source: sourceLines,
-      style: styleLine
+    lineLayerCycle = new ol.layer.Vector(
+      source: sourceLinesCycle,
+      style: styleLineCycle
     )
+    lineLayerHike = new ol.layer.Vector(
+      source: sourceLinesHike,
+      style: styleLineHike
+    )
+    lineLayerRegular = new ol.layer.Vector(
+      source: sourceLinesRegular,
+      style: styleLineRegular
+    )    
     
     map = new ol.Map(
       target: "content"
@@ -98,7 +129,9 @@ class @BlogLive
       layers: [
         new ol.layer.Tile({source: new ol.source.OSM()}),
         circleLayer,
-        lineLayer
+        lineLayerRegular,
+        lineLayerHike,
+        lineLayerCycle
       ]
       view: new ol.View(
         center: ol.proj.transform([19.4553, 51.7768], 'EPSG:4326', 'EPSG:3857'),

@@ -8,8 +8,6 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 done: true
 ---
 
-Beskid Sądecki pieszo
-=======================
 
 Niezupełnie z samej Wielkopolski. W planie jest dojazd do jakieś miejscowości na południu województwa zachodniopomorskiego,
 przykładowo do Rębusza 1:43 osobowym.
@@ -26,3 +24,10 @@ Celem jest:
 
 
 [Wstępna trasa](http://umapa.pl/AGux8)
+
+Aktualizacja
+------------
+
+Zamiast morza będzie Drawski Park Krajobrazowy. [Dzień 1](http://umapa.pl/sI7hs) i [dzień 2](http://umapa.pl/YZnRQ).
+
+Czyli morza nie ma :)
