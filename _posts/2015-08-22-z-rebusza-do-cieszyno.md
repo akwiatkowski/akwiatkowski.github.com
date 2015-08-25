@@ -22,6 +22,23 @@ coords-multi:           [[53.05373,15.59159], [53.06167,15.60481], [53.07529,15.
 [wiki-brzeziny]:        https://pl.wikipedia.org/wiki/Brzeziny_(wojew%C3%B3dztwo_zachodniopomorskie)
 [wiki-drawno]:          https://pl.wikipedia.org/wiki/Drawno
 [wiki-drawno-kolej]:    https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_410
+[wiki-kalisz-pomorski]: https://pl.wikipedia.org/wiki/Kalisz_Pomorski
+[wiki-debsko]:          https://pl.wikipedia.org/wiki/D%C4%99bsko_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-kalisz-pom-tor]:  https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_403
+[wiki-wierzchowo]:      https://pl.wikipedia.org/wiki/Wierzchowo_Pomorskie
+[wiki-peplowek]:        https://pl.wikipedia.org/wiki/Pep%C5%82%C3%B3wek_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-stara-studnica]:  https://pl.wikipedia.org/wiki/Stara_Studnica
+[wiki-osiek]:           https://pl.wikipedia.org/wiki/Osiek_Drawski
+[wiki-cieszyno]:        https://pl.wikipedia.org/wiki/Cieszyno_(powiat_drawski)
+[wiki-siecino]:         https://pl.wikipedia.org/wiki/Siecino_(jezioro)
+[wiki-chlebowo]:        https://pl.wikipedia.org/wiki/Chlebowo_(powiat_drawski)
+[wiki-stare-worowo]:    https://pl.wikipedia.org/wiki/Stare_Worowo
+[wiki-zlocieniec]:      https://pl.wikipedia.org/wiki/Z%C5%82ocieniec
+
+[vimeo3]:               https://vimeo.com/137227073
+[vimeo4]:               https://vimeo.com/137231111
+[vimeo6]:               https://vimeo.com/137237581
+[vimeo8]:               https://vimeo.com/137251918
 
 Wstęp
 -----
@@ -43,8 +60,11 @@ Szczegóły
 Pakować się dzień wcześniej. Ustawiłem budzik na 4:45 i poszedłem spać trochę po 22. Rano dokończyłem pakowanie, zrobiłem kanapki
 i ruszyłem na dworzeć, na pociag o 6:14. Zauważyłem w nim, że coraz więcej ludzi jeździ pociągiem z rowerem.
 
-Chyba dokładnie o 8 wysiadłem i zaczęła się moja trasa we wsi [Rębusz][wiki-rebusz]. Sam nie zauważyłem, w którym miejscu się
-już ona skończyła. A za nią pola lekko odgrodzone od drogi drzewa lub innymi krzaczorami.
+Chyba dokładnie o 8:00 wysiadłem i zaczęła się moja trasa we wsi [Rębusz][wiki-rebusz]. Sam nie zauważyłem, w którym miejscu się
+już ta wioska skończyła. A za nią pola lekko odgrodzone od drogi drzewa lub innymi krzaczorami.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/137187474' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 
 Po drodzę minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno]. 
 Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia].
@@ -55,9 +75,47 @@ to była to dobra informacja, z drugiej strony nie jeździłem nigdy z sakwami p
 Przejechałem przez [Zieleniewo][wiki-zieleniewo] w kierunku [Brzezin][wiki-brzeziny]. Trochę jechałem przez las, więc była
 przerwa od widoków. Na pocieszenie trochę lepsze powietrze. A następnie skierowałem się drogą polną w kierunku
 [Drawna][wiki-drawno]. Po drodzę minąłem szyny niedziałającej już [linii kolejowej][wiki-drawno-kolej].
-Jakoś ostatnio jest modna zamiana mało popularnych linii kolejowych na szlaki rowerowe.
+Jakoś ostatnio jest modna zamiana mało popularnych linii kolejowych na szlaki rowerowe i tutaj również w planach
+jest zrobienie szlaku rowerowego. Według mnie jest to i dobre i złe.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/137224194' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Przejechałem przez [Drawna][wiki-drawno] i [kierowałem się][vimeo3]
+w stronę [Kalisza Pomorskiego][wiki-kalisz-pomorski] przez
+[Dębsko][wiki-debsko]. Przed [Dębskiem][wiki-debsko] miałem okazję zobaczyć bardzo ładne polany, lekko pofałdowane.
+A na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
+
+Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną, 
+która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół pola, dobrze ubita, jednak później pojawiło się
+więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
+[szynobus z Piły do Szczecina][wiki-kalisz-pom-tor]. 
 
 
 
+Z [Kalisza Pomorskiego][wiki-kalisz-pomorski] wyruszyłem w kierunku [Wierzchowa Pomorskiego][wiki-wierzchowo]. Przez ten dłuższy
+czas niewiele rzeczy się odznaczało, jednak tereny były według mnie ładne. Jednym z ciekawszych fragmentów to
+wyraźne zafałdowanie terenu między [Pepłówkiem][wiki-peplowek] a [Starą Studnicą][wiki-stara-studnica]. Widać to
+pod koniec [filmiku][vimeo4]. Drugim to solidny zjazd za
+[Starą Studnicą][wiki-stara-studnica] w stronę doliny rzeki Studzienica przedstawiony na filmiku poniżej.
 
-TODO: lista rzeczy, jakie zabrałem, jak często wykorzystywane
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/137234071' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+
+Następnie [przejechałem][vimeo6]
+przez [Osiek Drawski][wiki-osiek], w którym zdziwiło mnie to, że fragment drogi w centrum jest brukowany.
+Zrobiłem sobie kilkunastuminutową przerwę we wiacie przystanku autobusowego na wzgórzu obok wsi. Trochę pagórków po drodzę i
+wjazd do do [Złocieńca][wiki-zlocieniec].
+
+Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się że jezioro jest tak blisko, i że jest całkiem solidna
+plaża tam. Zostawiłem sakwy i pojechałem pokręcić się po okolicy. Miałem 88km na liczniku i chciałem pobić mój dotychczasowy
+rekord - 95km. 
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/137244196' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Pojechałem jakimś szlakiem rowerowym obok jeziora [Siecino][wiki-siecino]. Okazało się, że są to moje ulubione tereny, tylko
+przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dynamiczniej. Dojechałem przez [Chlebowo][wiki-chlebowo]
+do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
+[wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
+
+Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
+
