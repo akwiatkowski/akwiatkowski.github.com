@@ -14,13 +14,16 @@ Zrobione:
 * https://www.strava.com/activities/137173048
 * https://www.strava.com/activities/137161588
 * https://www.strava.com/activities/188135206
+* https://www.strava.com/activities/137188547
+* https://www.strava.com/activities/218101239
+= https://www.strava.com/activities/184718842
 
 Do zrobienia:
 
 
-https://www.strava.com/activities/137188547
-https://www.strava.com/activities/218101239
-https://www.strava.com/activities/184718842
+
+
+
 https://www.strava.com/activities/137188534
 https://www.strava.com/activities/137173041
 https://www.strava.com/activities/137164848
