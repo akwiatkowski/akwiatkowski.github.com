@@ -16,22 +16,30 @@ Zrobione:
 * https://www.strava.com/activities/188135206
 * https://www.strava.com/activities/137188547
 * https://www.strava.com/activities/218101239
-= https://www.strava.com/activities/184718842
+* https://www.strava.com/activities/184718842
+* https://www.strava.com/activities/137188534
+* https://www.strava.com/activities/137173041
+* https://www.strava.com/activities/137164848 - nie wnosi do mapki
+* https://www.strava.com/activities/288546971
+* https://www.strava.com/activities/137173044 - nie wnosi do mapki
+* https://www.strava.com/activities/137164480 - mało wnosi do mapki
+* https://www.strava.com/activities/184792244 - jw
+* https://www.strava.com/activities/365285496
+* https://www.strava.com/activities/137170442
+* https://www.strava.com/activities/144710693
 
-Do zrobienia:
 
 
 
 
 
-https://www.strava.com/activities/137188534
-https://www.strava.com/activities/137173041
-https://www.strava.com/activities/137164848
-https://www.strava.com/activities/288546971
-https://www.strava.com/activities/137173044
-https://www.strava.com/activities/137164480
 
-https://www.strava.com/activities/184792244
-https://www.strava.com/activities/365285496
-https://www.strava.com/activities/137170442
-https://www.strava.com/activities/144710693
+
+
+
+
+
+
+
+
+
