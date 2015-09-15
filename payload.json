@@ -31,9 +31,9 @@ permalink: /payload.json
           "{{ town }}"{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
       ],
-      "places": [
-        {% for place in post.places %}
-          "{{ place }}"{% if forloop.last %}{% else %},{% endif %}
+      "lands": [
+        {% for land in post.lands %}
+          "{{ land }}"{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
       ]      
     }{% if forloop.last %}{% else %},{% endif %}
@@ -46,7 +46,7 @@ permalink: /payload.json
   [
     {% for town in site.data.towns %}
       {
-      "dolnoslaskie":  "{{ town.dolnoslaskie | json_escape }}",
+      "slug":  "{{ town.slug | json_escape }}",
       "name": "{{ town.name | json_escape }}",
       "header-ext-img": "{{ town.header-ext-img }}",
       "type": "{{ town.type | json_escape }}",
@@ -59,6 +59,48 @@ permalink: /payload.json
     
     
   {% endfor %}
-  ]  
+  ],  
+
+  "lands":
+  [
+    {% for land in site.data.lands %}
+      {
+      "slug":  "{{ land.slug | json_escape }}",
+      "name": "{{ land.name | json_escape }}",
+      "main": "{{ land.main | json_escape }}",
+      "country": "{{ land.country | json_escape }}",
+      "type": "{{ land.type | json_escape }}",
+      "visited": "{{ land.visited | json_escape }}",
+      "header-ext-img": "{{ land.header-ext-img }}",
+      "url": "/land/{{ land.slug }}",
+      "type": "{{ land.type | json_escape }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+    
+    
+  {% endfor %}
+  ],
+
+  "land_mains":
+  [
+    {% for land_main in site.data.land_main %}
+      {
+      "slug":  "{{ land_type.slug | json_escape }}",
+      "name": "{{ land_type.name | json_escape }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+    
+    
+  {% endfor %}
+  ],  
+  
+  "land_types":
+  [
+    {% for land_type in site.data.land_types %}
+      {
+      "slug":  "{{ land_type.slug | json_escape }}",
+      "name": "{{ land_type.name | json_escape }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+    
+  {% endfor %}
+  ]   
   
 }  

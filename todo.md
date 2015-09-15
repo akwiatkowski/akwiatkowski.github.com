@@ -3,7 +3,7 @@ layout: post
 title: "Plany"
 subtitle: "coś, czego jest zawsze za dużo" 
 permalink: /todos/
-header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
+header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9
 ---
 
 W planach bliższych
