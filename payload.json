@@ -11,6 +11,9 @@ permalink: /payload.json
       "title":  "{{ post.title | json_escape }}",
       "category": "{{ post.categories | json_escape }}",
       "date": "{{ post.date | date: "%Y-%m-%d" }}",
+      "year": "{{ post.date | date: "%Y" }}",
+      "month": "{{ post.date | date: "%m" }}",
+      "day": "{{ post.date | date: "%d" }}",
       "header-ext-img": "{{ post.header-ext-img }}",
       "coords-circle": {% if post.coords-circle[0] %}[{{ post.coords-circle[0] }}, {{ post.coords-circle[1] }}]{% else %}null{% endif %},
       "coords-from": {% if post.coords-from[0] %}[{{ post.coords-from[0] }}, {{ post.coords-from[1] }}]{% else %}null{% endif %},
@@ -50,6 +53,7 @@ permalink: /payload.json
       "name": "{{ town.name | json_escape }}",
       "header-ext-img": "{{ town.header-ext-img }}",
       "type": "{{ town.type | json_escape }}",
+      "url": "/town/{{ town.slug }}",      
       "inside": [
         {% for inside in town.inside %}
           "{{ inside }}"{% if forloop.last %}{% else %},{% endif %}
