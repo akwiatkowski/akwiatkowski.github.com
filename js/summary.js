@@ -12,7 +12,8 @@ this.BlogSummary = (function() {
       success: (function(_this) {
         return function(data) {
           _this.data = data;
-          return _this.startSummary();
+          _this.startSummary();
+          return _this.calcStats();
         };
       })(this)
     });
@@ -37,6 +38,27 @@ this.BlogSummary = (function() {
         return false;
       };
     })(this));
+  };
+
+  BlogSummary.prototype.calcStats = function() {
+    var all_count, done_count, i, is_done, len, post, ref;
+    done_count = 0;
+    all_count = 0;
+    ref = this.data["posts"];
+    for (i = 0, len = ref.length; i < len; i++) {
+      post = ref[i];
+      is_done = true;
+      if (post.tags.indexOf("todo") >= 0) {
+        is_done = false;
+      }
+      if (is_done) {
+        done_count++;
+      }
+      all_count++;
+    }
+    $("#stats-count").html(all_count);
+    $("#stats-done-count").html(done_count);
+    return $("#stats-done-percent").html(parseInt(100 * done_count / all_count));
   };
 
   BlogSummary.prototype.startSummaryByTown = function() {

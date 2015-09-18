@@ -8,6 +8,7 @@ class @BlogSummary
       success: (data) =>
         @data = data
         @startSummary()
+        @calcStats()
   
   startSummary: () =>
     $("#by-land").click =>
@@ -21,6 +22,25 @@ class @BlogSummary
     $("#by-time").click =>
       @startSummaryByTime()
       return false
+
+  calcStats: () ->
+    done_count = 0
+    all_count = 0
+    
+    for post in @data["posts"]
+      is_done = true
+            
+      if post.tags.indexOf("todo") >= 0
+        is_done = false   
+
+      if is_done
+        done_count++
+        
+      all_count++
+      
+    $("#stats-count").html(all_count)  
+    $("#stats-done-count").html(done_count)  
+    $("#stats-done-percent").html( parseInt( 100 * done_count / all_count) )  
 
   # town
   startSummaryByTown: () ->
