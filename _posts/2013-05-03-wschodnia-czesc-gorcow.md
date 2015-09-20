@@ -13,10 +13,14 @@ lands:                  [gorce]
 coords-multi:           [[49.44170,20.42852], [49.44510,20.41582], [49.46731,20.39951], [49.46848,20.38938], [49.48900,20.33951], [49.49240,20.27154], [49.49670,20.25969], [49.49146,20.23188], [49.49491,20.21394]]
 ---
 
+[wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
+[wiki-gsb]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
+
 Wstęp
 -----
 
-TODO
+Poranek był ładny, ale parny, a my chcieliśmy przejść prawie połowę [Gorców][wiki-gorce] idąc
+[Głównym Szlakiem Beskidzkim][wiki-gsb]
 
 Opis trasy
 ----------
