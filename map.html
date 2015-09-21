@@ -6,27 +6,29 @@ header-ext-img: https://drscdn.500px.org/photo/113707939/m%3D2048/01a0f3942944ce
 ---
 
 <script src="/js/ol.js" type="text/javascript"></script>
-<script src="/js/live.js" type="text/javascript"></script>
+<script src="/js/map.js" type="text/javascript"></script>
 
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ page.header-ext-img }}')">
+<header class="intro-header" id="background1" style="background-image: url('{{ page.header-ext-img }}')">
+  <div class="intro-header" id="background2" style="background-image: url('{{ page.header-ext-img }}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>Mapka</h1>
+                    <h1></h1>
                 </div>
             </div>
         </div>
     </div>
+  </div>
 </header>
 
 
-<!-- Post Content -->
+<!-- Map -->
 <article>
     <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div id="map-container">
         <div>
           Kliknij na trasie, a pod mapą pojawi się link ze szczegółami.
         </div>
@@ -41,7 +43,7 @@ header-ext-img: https://drscdn.500px.org/photo/113707939/m%3D2048/01a0f3942944ce
 
 <script type="text/javascript">
   $(document).ready(function () {
-    l = new BlogLive;
+    l = new BlogMap;
     l.start();
   });
 </script>

@@ -414,9 +414,20 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+/* added */
 .vimeo {
   padding-bottom: 10px;
 }
 .summary-post-todo {
   font-size: 80%;
+}
+#map-container {
+  position: absolute;
+  top: 80px;
+  padding: 20px;
+  background-color: #fff;
+}
+.intro-header-fixed {
+  position: absolute;
+  
 }
