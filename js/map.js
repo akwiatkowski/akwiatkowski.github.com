@@ -144,45 +144,40 @@ this.BlogMap = (function() {
     interaction = new ol.interaction.Select();
     interaction.getFeatures().on("add", (function(_this) {
       return function(e) {
-        var img, k, len2, new_image, obj, p, ref2, results;
+        var img, k, l, last_p, len2, len3, new_image, obj, p, ref2, ref3, results;
+        last_p = null;
         ref2 = e.target.b;
-        results = [];
         for (k = 0, len2 = ref2.length; k < len2; k++) {
           obj = ref2[k];
           p = obj.B;
+          last_p = p;
           $("#links").html("");
           $("<a>", {
             text: p["post-date"] + " - " + p["post-title"],
             title: p["post-date"] + " - " + p["post-title"],
             href: p["post-url"]
           }).appendTo("#links");
-          results.push((function() {
-            var l, len3, ref3, results1;
-            ref3 = this.data["posts"];
-            results1 = [];
-            for (l = 0, len3 = ref3.length; l < len3; l++) {
-              post = ref3[l];
-              if (post.url === p["post-url"]) {
-                new_image = post["header-ext-img"];
-                if (new_image) {
-                  img = new Image();
-                  img.onload = (function(_this) {
-                    return function() {
-                      $('#background2').css('background-image', $('#background1').css('background-image'));
-                      $('#background2').show();
-                      $('#background1').css('background-image', "url(" + new_image + ")");
-                      $("#background2").fadeOut(2800, function() {});
-                      return console.log("done");
-                    };
-                  })(this);
-                }
-                results1.push(img.src = new_image);
-              } else {
-                results1.push(void 0);
-              }
+        }
+        ref3 = _this.data["posts"];
+        results = [];
+        for (l = 0, len3 = ref3.length; l < len3; l++) {
+          post = ref3[l];
+          if (post.url === last_p["post-url"]) {
+            new_image = post["header-ext-img"];
+            if (new_image) {
+              img = new Image();
+              img.onload = function() {
+                $('#background2').css('background-image', $('#background1').css('background-image'));
+                $('#background2').show();
+                $('#background1').css('background-image', "url(" + new_image + ")");
+                $("#background2").fadeOut(1500, function() {});
+                return console.log("done");
+              };
             }
-            return results1;
-          }).call(_this));
+            results.push(img.src = new_image);
+          } else {
+            results.push(void 0);
+          }
         }
         return results;
       };

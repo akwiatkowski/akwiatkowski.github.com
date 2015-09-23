@@ -153,8 +153,10 @@ class @BlogMap
 
     interaction = new ol.interaction.Select()
     interaction.getFeatures().on "add", (e) => 
+      last_p = null
       for obj in e.target.b
         p = obj.B
+        last_p = p
         
         $("#links").html("")
         
@@ -164,20 +166,20 @@ class @BlogMap
           href: p["post-url"]
         ).appendTo "#links"
         
-        for post in @data["posts"]
-          if post.url == p["post-url"]
-            new_image = post["header-ext-img"]
+      for post in @data["posts"]
+        if post.url == last_p["post-url"]
+          new_image = post["header-ext-img"]
             
-            if new_image
-              img = new Image()
-              img.onload = =>
-                $('#background2').css('background-image', $('#background1').css('background-image' ) )
-                $('#background2').show()
-                $('#background1').css('background-image', "url(" + new_image + ")")
-                $("#background2").fadeOut 2800, =>
-                console.log("done")
+          if new_image
+            img = new Image()
+            img.onload = =>
+              $('#background2').css('background-image', $('#background1').css('background-image' ) )
+              $('#background2').show()
+              $('#background1').css('background-image', "url(" + new_image + ")")
+              $("#background2").fadeOut 1500, =>
+              console.log("done")
             
-            img.src = new_image
+          img.src = new_image
 
     map.addInteraction( interaction )
 
