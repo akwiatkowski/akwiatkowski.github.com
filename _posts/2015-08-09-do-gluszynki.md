@@ -4,7 +4,7 @@ title:                  "Do Głuszynki"
 subtitle:               "dzikimi terenami Poznania"
 date:                   2015-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225"
+header-ext-img:         "https://drscdn.500px.org/photo/28744393/m%3D2048/8a95b0b5cec67fec50454980f44e880e"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan]

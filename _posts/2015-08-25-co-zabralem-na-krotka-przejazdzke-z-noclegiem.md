@@ -4,7 +4,7 @@ title:                  "Co zabrałem na krótką przejażdżkę z noclegiem"
 subtitle:               "lista rzeczy i co jak bardzo się przydaje"
 date:                   2015-08-25 14:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
+header-ext-img:         "https://drscdn.500px.org/photo/121995105/m%3D2048/205dbef26167c9ec60c50021a8929537"
 categories:             localhost
 tags:                   [localhost]
 ---
