@@ -6,7 +6,7 @@ date:                   2013-05-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33223201/m%3D2048/1bf72e0a8a4a64cee53fe2a207e36209"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 
@@ -62,7 +62,15 @@ w stronę [schroniska][wiki-durbaszka-schron] o takiej samej nazwie. Tam przecze
 i patrząc co się dzieje wokół. Zrobiło się dość mgliście.
 
 Jak deszcz się uspokoił zaczęliśmy schodzić, pomimo tego, że burzę było cały czas słychać i nie uciekła
-ona daleko. 
+ona daleko.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/124537641/m%3D900/a37204202323ae27627f8e6d1ec4a0ce' alt='Sheep hiding from the storm by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/124537641/sheep-hiding-from-the-storm-by-aleksander-kwiatkowski' alt='Sheep hiding from the storm by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Będąc już w dolinie zaczęło ponownie padać, więc schroniliśmy się obok wejścia do [Wąwózu Homole][wiki-homole]
 i po pewnym czasie wracaliśmy do [Jaworek][wiki-jaworki].
