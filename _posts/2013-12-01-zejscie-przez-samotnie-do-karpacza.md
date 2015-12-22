@@ -6,7 +6,7 @@ date:                   2013-12-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/55424230/m%3D2048/705382a9e829d4acef600fded6a8235c"
 categories:             trip
-tags:                   [hike, mountains, todo]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -21,12 +21,15 @@ coords-multi:           [[50.75098,15.70817], [50.74829,15.70410], [50.74992,15.
 [wiki-wang]:                    https://pl.wikipedia.org/wiki/%C5%9Awi%C4%85tynia_Wang
 [wiki-rudawy]:                  https://pl.wikipedia.org/wiki/Rudawy_Janowickie
 [wiki-marciszow]:               https://pl.wikipedia.org/wiki/Marcisz%C3%B3w
+[wiki-karpniki]:                https://pl.wikipedia.org/wiki/Karpniki
+[wiki-leszczyniec]:             https://pl.wikipedia.org/wiki/Leszczyniec_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
 Wstęp
 -----
 
-Dzień wcześniej pogoda była dość kiepska a teraz przyszedł czas na opuszczenie
-[Karkonoszy][wiki-karkonosze]. Oczywiście pogoda się poprawiła na tą sytuację.
+Dzień wcześniej pogoda była dość kiepska, a teraz przyszedł czas na opuszczenie
+[Karkonoszy][wiki-karkonosze]. Oczywiście pogoda w związku z tym musiała się
+wyraźnie poprawić.
 
 Opis trasy
 ----------
@@ -36,7 +39,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Wyruszyliśmy tak wcześnie jak to się udało (po Andrzejkach), czyli po 9-tej.
+Wyruszyliśmy tak wcześnie, jak to się udało (po Andrzejkach), czyli po 9-tej.
 Zeszliśmy do [Samotni][wiki-samotnia], która jest całkiem blisko od [Strzechy Akademickiej][wiki-strzecha].
 Tam zjedliśmy śniadanie i dalej w drogę.
 
@@ -49,12 +52,13 @@ Tam zjedliśmy śniadanie i dalej w drogę.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Zaskoczył mnie ogrom ścian [Kocioła Małego Stawu][wiki-kociol]. Tak się widzi zdjęcia, przechodziło
-się obok, ale dopiero jak się na żywo stanie tam widać jakie to jest duże. W końcu 200 metrów
+się obok szlakiem na górze, ale dopiero jak się na żywo stanie na dole to widać, jakie to jest duże.
+W końcu 200 metrów
 wysokości różnicy to 200 metrów - musi być duże.
 
 Zrobiłem kilka zdjęć, jednak wiem że nie udało mi się pokazać (i chyba się nie da)
 jakie to jest duże. Na pewno trzeba tu wrócić, tylko tym razem jak będzie zielono.
-Zauważyłem że w [Karkonoszach][wiki-karkonosze] jak byłem pieszo, to tylko w zimie.
+Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo byłem tylko w zimie.
 
 <div class='pixels-photo'>
   <p>
@@ -64,13 +68,14 @@ Zauważyłem że w [Karkonoszach][wiki-karkonosze] jak byłem pieszo, to tylko w
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Dalsza część wycieczki była mniej interesująca. Sobie po prostu schodziliśmy po
-dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już
-[Karpacz][wiki-karpacz].
+Dalsza część wycieczki była mniej interesująca. Sobie schodziliśmy po
+dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już koniec
+trasy - [Karpacz][wiki-karpacz].
 
 Z [Karpacza][wiki-karpacz] jechaliśmy dalej samochodem. Zaproponowałem, abyśmy przejechali
 przez [Rudawy Janowickie][wiki-rudawy] aby pokazać, że nie tylko [Karkonosze][wiki-karkonosze]
-tutaj są.
+tutaj są. Chciałem abyśmy przejechali południową drogą przez [Leszczyniec][wiki-leszczyniec],
+tylko źle skręciliśmy i przejechaliśmy przez [Karpniki][wiki-karpniki]
 
 <div class='pixels-photo'>
   <p>
@@ -81,5 +86,11 @@ tutaj są.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wysiadłem w [Marciszowie][wiki-marciszow], gdyż jest to największa stacja kolejowa w okolicy.
-Trochę sobie pochodziłem, jednak za wiele zdjęć nie zrobiłem - pogoda nie było najlepsza
-na zdjęcia.
+Trochę pochodziłem, jednak za wiele zdjęć nie zrobiłem - nie było śniegu, raczej nudne,
+późnojesienne barwy.
+
+Wnioski
+-------
+
+Dzięki naprawie szlaku na Śnieżke oraz dużym opadom śniegu udało się wejść bezproblemowo.
+Zejście było trochę trudniejsze.
