@@ -12,3 +12,4 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 * [Rogoźno - Szczecinek](http://umapa.pl/9JasB) - 144km
 * [Rogoźno - Koszalin](http://umapa.pl/OPiTu) - 243km
 * [Mosina - Jelenia Góra](http://umapa.pl/yJzD9) - 205km
+* [Szczecin - Kostrzyn](http://umapa.pl/Zptz7) - 166km
