@@ -6,7 +6,7 @@ date:                   2015-07-26 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, todo_media]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 
@@ -65,10 +65,8 @@ Miałem ponad godzinę do odjazdu pociągu i zastanawiałem się czy jechać dal
 Mapa na GPS może nie być aktualna, może coś się wydarzyć, może droga być nieprzejezdna.
 
 Przejechałem przez [Nowy Zamek][wiki-nowy-zamek] i dojechałem do wsi [Wszewilki][wiki-wszewilki] i tam w lewo żółtym
-szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co robić dalej. Wniosłem rower po schodach, 
+szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co robić dalej. Wniosłem rower po schodach,
 przejechałem przez most i pod koniec mam zejście w lewo i prawo. W lewo nic nie widzę, w prawo jakaś droga tam jest.
 Przechodzę przez tory i znoszę rower z sakwami i jadę. Okazuje się że ludzie się tam kręcą i mówią że dojadę do dworca.
 Przejeżdzam obok zalewu i kilka minut później jestem przy dworcu. Wszystko dobrze, tylko nie zdąrzyłem kupić sobie jedzenia
 na drogę. Od zjedzenia ruby w [Sułowie][wiki-sulow] nic nie jadłem a mieliśmy 2h pociągiem do Poznania. Wytrzymałem.
-
-

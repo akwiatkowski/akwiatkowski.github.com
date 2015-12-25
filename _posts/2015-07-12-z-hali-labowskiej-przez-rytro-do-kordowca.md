@@ -6,7 +6,7 @@ date:                   2015-07-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115281185/m%3D2048/54cf24301a0275031f2d8ec66989f280"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, piwniczna_zdroj, labowa, rytro, nawojowa]
 lands:                  [beskid_sadecki]
 

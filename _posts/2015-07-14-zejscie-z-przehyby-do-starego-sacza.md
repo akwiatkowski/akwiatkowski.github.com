@@ -6,7 +6,7 @@ date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115266201/m%3D2048/4353b56cc0fe5416ed412cf530fcfcfa"
 categories:             trip
-tags:                   [hike, mountains, todo]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
 lands:                  [beskid_sadecki]
 
@@ -42,4 +42,3 @@ owce. A gdzieś dalej kilka owiec pilnowało domu, zamiast psów. Widocznie też
 
 Stary Sącz okazał się być stary, a przynajmniej kilka domów na głównej ulicy. Okazało się że przystanki autobusowe są
 co jakiś czas i nie trzeba iść ani na dworzec, ani na rynek. Przystanek był z 100-200 metrów od żółtego szlaku, tak mi się wydaję.
-

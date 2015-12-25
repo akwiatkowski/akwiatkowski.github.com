@@ -6,7 +6,7 @@ date:                   2015-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115280885/m%3D2048/6a887062c0757287d1c14a468a40cf79"
 categories:             trip
-tags:                   [hike, mountains, todo]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rytro, szczawnica]
 lands:                  [beskid_sadecki]
 
@@ -17,6 +17,8 @@ coords-multi:           [[49.46029,20.66721], [49.44562,20.64687], [49.43820,20.
 [wiki-niemcowa]:        https://pl.wikipedia.org/wiki/Niemcowa_(polana)
 [wiki-niemcowa-f]:      https://pl.wikipedia.org/wiki/Plik:Niemcowa_BS2-3.jpg
 [wiki-radziejowa]:      https://pl.wikipedia.org/wiki/Radziejowa
+[wiki-wielki-rogacz]:   https://pl.wikipedia.org/wiki/Wielki_Rogacz
+[wiki-obidza]:          https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Obidza
 
 Wstęp
 -----
@@ -46,3 +48,13 @@ Na wieżę widokową na [Radziejowej][wiki-radziejowa] nie wchodziliśmy. Mokro 
 
 Drogą do schroniska minęła szybko, chociaż nie było to tylko zejście. Wydaję mi się że po drodzę były 2 małe górki.
 
+Wnioski
+-------
+
+A, i jeszcze kwestia jedzenia. Mieliśmy ileś batoników i racjonowaliśmy batonik
+co godzinę. Wychodziło na to, że jak brzuch zaczął burczeć to za kilkanaście minut
+jedliśmy batonik.
+
+Miłym uczuciem było jak przechodziliśmy przez [Wielki Rogacz][wiki-wielki-rogacz]
+i zobaczyłem znak do [Obidzy][wiki-obidza], gdyż byłem już w miejscu. Było
+to tylko półtora kilometra obok.
