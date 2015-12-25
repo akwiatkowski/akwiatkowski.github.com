@@ -6,7 +6,7 @@ date:                   2014-06-21 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133482321/m%3D2048/c89184b6ac780414fe4d75d3c687c503"
 categories:             trip
-tags:                   [bicycle, mountains, todo]
+tags:                   [bicycle, mountains]
 towns:                  [dolnoslaskie, szklarska, piechowice, jelenia_gora, podgorzyn, karpacz, myslakowice]
 lands:                  [karkonosze]
 
@@ -14,6 +14,13 @@ coords-multi:           [[50.82290,15.53179], [50.81461,15.53875], [50.81688,15.
 ---
 
 [wiki-pod-reglami]:               https://pl.wikipedia.org/wiki/Droga_pod_Reglami_(Karkonosze)
+[wiki-droga-sudecka]:             https://pl.wikipedia.org/wiki/Droga_Sudecka_(Podg%C3%B3rzyn)
+[wiki-przesieka]:                 https://pl.wikipedia.org/wiki/Przesieka_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-borowice]:                  https://pl.wikipedia.org/wiki/Borowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-karpacz-gorny]:             https://pl.wikipedia.org/wiki/Bierutowice
+[wiki-karpacz]:                   https://pl.wikipedia.org/wiki/Karpacz
+[wiki-milkow]:                    https://pl.wikipedia.org/wiki/Mi%C5%82k%C3%B3w_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-jelenia]:                   https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 
 [vimeo-1]:                        https://vimeo.com/102733027
 [vimeo-2]:                        https://vimeo.com/102852842
@@ -38,4 +45,33 @@ Opis trasy
 Szczegóły
 ---------
 
-Dojechaliśmy do ulicy Kasprowicza i dalek kierowaliśmy się [Drogą pod Reglami][wiki-pod-reglami]
+[Dojechaliśmy][vimeo-1] do ulicy Kasprowicza i dalek kierowaliśmy się
+[Drogą pod Reglami][wiki-pod-reglami], która z jednej strony jest spokojna,
+ciekawie się wije po lesie miejscami, z drugiej strony to jest las więc bez dalszych
+widoków. Oraz podczas [zjazdu][vimeo-2] do [Przesieki][wiki-przesieka] trzeba mocno uważać
+na szczeliny. ([filmik z wjazdu do Przesieki][vimeo-3])
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/99029563' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Pierwszym fajnym fragmentem był zjazd [Drogą Sudecką][wiki-droga-sudecka] do
+[Borowic][wiki-borowice], gdzie oprócz chwilowej [jazdy przez wieś][vimeo-5]
+zaczynał się długi podjazd do [Karpacza Górnego][wiki-karpacz-gorny]. Podjazd
+ten trwał prawie godzinę.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/98981440' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Po każdym nudnym podjeździe, jest ciekawy zjazd, a ten był bardzo. Przejechaliśmy
+szybciej niż samochód przez cały [Karpacz][wiki-karpacz], zatrzymując się
+przy Białym Jarze na jedzenie.
+
+Z [Karpacza][wiki-karpacz] wyjechaliśmy [dziwną][vimeo-7] trasą do [Miłkowa][wiki-milkow].
+Trasa ta była bardzo terenową i mocno zapomniana. Następnym razem bym tędy nie jechał.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/102945365' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+To już były ostatnie naście kilometrów do celu. Spieszyliśmy się do
+[Jeleniej Góry][wiki-jelenia] na pociąg. Wszystkie tereny podgórza są
+bardzo fajne do jazdy rowerem: wioski i lekki spad terenu.
+
+Niestety bateria mi padała w kamerce i nie nagrałem terenów bliżej
+[Jeleniej Góry][wiki-jelenia], a było tam trochę ładnych pól.
