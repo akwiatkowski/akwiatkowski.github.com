@@ -22,6 +22,7 @@ coords-multi:           [[49.79170,19.06827], [49.79503,19.07308], [49.77995,19.
 [wiki-korona-gor]:                    https://pl.wikipedia.org/wiki/Korona_G%C3%B3r_Polski
 [wiki-bielsko-biala]:                 https://pl.wikipedia.org/wiki/Bielsko-Bia%C5%82a
 [wiki-miedzybrodzie-b]:               https://pl.wikipedia.org/wiki/Mi%C4%99dzybrodzie_Bialskie
+[wiki-s69]:                           https://pl.wikipedia.org/wiki/Droga_ekspresowa_S69_(Polska)
 
 Wstęp
 -----
@@ -42,7 +43,8 @@ Szczegóły
 To w sumie jak [Katowice][wiki-katowice] i [Kraków][wiki-krakow].
 
 Jakoś z Krzychem dojechaliśmy do [Bielska-Białej][wiki-bielsko-biala]. Wysiedliśmy
-i od razu szukanie sklepu, bo żarcia nigdy za wiele. Po tym na wschód.
+i od razu szukaliśmy sklepu, bo jedzenia nigdy za wiele. Późnie
+kierowaliśmy się na wschód.
 
 Przeszliśmy nad drogą [S69][wiki-s69] i chwilę po tym rozpoczęło się podejście.
 Znając siebie na pewno pomyślałem "znowu?!". Szliśmy czerwonym szlakiem.
@@ -57,4 +59,5 @@ Dalej szliśmy niebieskim szlakiem. Minęliśmy [Czupel][wiki-czupel], najwyższ
 górę [Beskidu Małego][wiki-beskid-maly]. Fajnie, będzie do [korony][wiki-korona-gor].
 
 Czerwony zeszliśmy do [Międzybrodzia Bialskiego][wiki-miedzybrodzie-b], gdzie
-mieliśmy nocleg, oraz w pizzerii widzieliśmy jak natywni mieszkańcy walczyli.
+mieliśmy nocleg. Z ciekawostek to w pizzerii widzieliśmy jak natywni mieszkańcy walczyli
+ze sobą.
