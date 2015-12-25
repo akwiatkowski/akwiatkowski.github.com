@@ -4,7 +4,7 @@ title:                  "Z Dąbek do Ustki"
 subtitle:               "czwarty ostatni dzień przejażdzki na wybrzeżu, 57km i poszukiwanie powrotu"
 date:                   2014-07-15 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6"
+header-ext-img:         "https://drscdn.500px.org/photo/133511713/m%3D2048/e94716760c96f76e3352b095377b798e"
 categories:             trip
 tags:                   [bicycle, coast, todo]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
