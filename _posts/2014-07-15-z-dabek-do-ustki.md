@@ -6,7 +6,7 @@ date:                   2014-07-15 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133511713/m%3D2048/e94716760c96f76e3352b095377b798e"
 categories:             trip
-tags:                   [bicycle, coast, todo]
+tags:                   [bicycle, coast, todo_media]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
 lands:                  [wybrzeze_slowinskie]
 
