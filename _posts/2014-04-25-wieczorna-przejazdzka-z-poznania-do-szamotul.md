@@ -6,7 +6,7 @@ date:                   2014-04-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63248073/m%3D2048/291f13454efe2dd994f79a083e4ef9d9"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, szamotuly]
 
 
@@ -14,7 +14,16 @@ coords-multi:           [[52.46655,16.91157], [52.48620,16.89149], [52.49666,16.
 ---
 
 [wiki-sobota]:            https://pl.wikipedia.org/wiki/Sobota_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-zlotniki]:          https://pl.wikipedia.org/wiki/Z%C5%82otniki_(powiat_pozna%C5%84ski)
+[wiki-kiekrz]:            https://pl.wikipedia.org/wiki/Kiekrz_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-s11]:               https://pl.wikipedia.org/wiki/Droga_ekspresowa_S11_(Polska)
+[wiki-rostworowo]:        https://pl.wikipedia.org/wiki/Rostworowo
+[wiki-zydowo]:            https://pl.wikipedia.org/wiki/%C5%BBydowo_(powiat_pozna%C5%84ski)
+[wiki-pamiatkowo]:        https://pl.wikipedia.org/wiki/Pami%C4%85tkowo
+[wiki-szamotuly]:         https://pl.wikipedia.org/wiki/Szamotu%C5%82y
 
+[vimeo-1]:                https://vimeo.com/93087936
+[vimeo-2]:                https://vimeo.com/93147135
 
 Wstęp
 -----
@@ -30,6 +39,21 @@ Opis trasy
 Szczegóły
 ---------
 
-https://vimeo.com/93087936
+Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki], a następnie kierowałem
+się w stronę [Kiekrzu][wiki-kiekrz] i na północ w stronę [Soboty][wiki-sobota].
 
-https://vimeo.com/93147135
+Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za dużo
+razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest
+most nad drogą [S11][wiki-s11].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93087936' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Za [Sobotą][wiki-sobota] wjechałem las i skręciłem lekko na zachód przez
+[Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] w stronę [Pamiątkowa][wiki-pamiatkowo].
+
+Z [Pamiątkowa][wiki-pamiatkowo] już w miarę bezpośrednio mniej uczęszczaną drogą jechałem
+do [Szamotuł][wiki-szamotuly].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93147135' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Szukałem wiosny, jednak jeszcze jej w pełni na trasie nie było.

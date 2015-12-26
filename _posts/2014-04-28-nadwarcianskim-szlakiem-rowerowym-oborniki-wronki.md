@@ -1,30 +1,59 @@
 ---
 layout:                 post
 title:                  "Nadwarciańskim szlakiem rowerowym Oborniki - Wronki"
-subtitle:               "2/3 trasy do jazda asfaltem"
+subtitle:               "w poszukiwaniu wiosny, 2/3 trasy to asfalt"
 date:                   2014-04-28 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
+header-ext-img:         "https://drscdn.500px.org/photo/70436241/m%3D2048/6d181d226318384026e9aab3630b11b5"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, oborniki, obrzycko, wronki]
 
 coords-multi:           [[52.64465,16.81956], [52.65085,16.78917], [52.67089,16.74446], [52.68260,16.69468], [52.67740,16.67330], [52.69561,16.63674], [52.71568,16.58310], [52.71272,16.52250], [52.70856,16.52353], [52.69779,16.48971], [52.70128,16.45538], [52.71022,16.43195], [52.71246,16.41367], [52.71043,16.38157], [52.70585,16.38217]]
 ---
 
+[vimeo-1]:              https://vimeo.com/93241843
+[vimeo-2]:              https://vimeo.com/93305570
+[vimeo-3]:              https://vimeo.com/93317717
+
+[wiki-nadwarcianski]:   https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy
+[wiki-oborniki]:        https://pl.wikipedia.org/wiki/Oborniki
+[wiki-obrzycko]:        https://pl.wikipedia.org/wiki/Obrzycko
+[wiki-wronki]:          https://pl.wikipedia.org/wiki/Wronki
+
+
 Wstęp
 -----
 
-
-TODO
+Ciekawiło mnie jak wygląda przedłużenie trasy [nadwarciańskiej][wiki-nadwarcianski] oraz
+pogoda była idealna na szukanie wiosny. Wydaję mi się, że udało mi się ją znaleźć tego dnia.
 
 Opis trasy
 ----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137173048/embed/25203e7ce74daa7a4c06e8a65b3dbcccd59b6528'></iframe>
 
-https://vimeo.com/93241843
+Szczegóły
+---------
 
-https://vimeo.com/93305570
+Do [Obornik][wiki-oborniki] dojechałem pociągiem. Początkowo musiałem przedrzeć się
+przez centrum miasta. Nie podobało mi się to, gdyż trochę samochodów tam jeździ.
 
-https://vimeo.com/93317717
+Na szczęście im dalej od centrum tym mniejszy ruch, na nieszczeście jednak szlak
+cały czas był poprowadzony drogą asfaltową.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93241843' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Całą trasę trudno opisać szczegółówo, ogólnie to było dużo zieleni, trochę wiosek i lasu.
+Pogoda była idealna - soczysty niebieski kolor nieba i soczysta zieleń trawy.
+W niektórych miejscach mlecze i kwitnące drzewa.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93241843' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Wjeżdzając do [Obrzycka][wiki-obrzycko] zmienił się krajobraz znacząco. Od tego momentu
+do [Wronek][wiki-wronki] jechałem przez las drogami polnymi. Trochę mniej interesująca trasa.
+
+Ciekawostką jest to, że kiedyś było połączenie kolejowe
+[Oborniki][wiki-oborniki] - [Wronki][wiki-wronki].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93317717' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
