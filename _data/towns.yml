@@ -818,6 +818,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: wronki
+  name: Wronki
+  header-ext-img: https://drscdn.500px.org/photo/70436241/m%3D2048/6d181d226318384026e9aab3630b11b5
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: zakopane
   name: Zakopane
   header-ext-img: "https://drscdn.500px.org/photo/28834387/m%3D2048/3e3608be6f00568f8573381240916563"
