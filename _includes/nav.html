@@ -19,12 +19,16 @@
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
                 {% for page in site.pages %}{% if page.title %}
-                  {% if page.ignore_nav == nil %} 
+                  {% if page.ignore_nav == nil %}
                     <li>
                       <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
-                  {% endif %}  
+                  {% endif %}
                 {% endif %}{% endfor %}
+                <li>
+                    <a href="/tag/best/">Najlepsze</a>
+                </li>
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->

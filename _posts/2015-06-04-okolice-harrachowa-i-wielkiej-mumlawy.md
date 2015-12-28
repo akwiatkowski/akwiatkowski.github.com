@@ -6,7 +6,7 @@ date:                   2015-06-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
 categories:             trip
-tags:                   [bicycle, mountains]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [karkonosze, gory_izerskie]
 
@@ -80,4 +80,3 @@ Aby dobić trochę kilometrów więcej
 pojechaliśmy pod [schronisko Orle][wiki-orle] ([filmik][vimeo-7]). Powróciliśmy do Szklarskiej Poręby drogą asfaltową
 po dość długiej przerwie. [Zjazd z Jakuszyc do Szklarskiej Poręby][vimeo-8] zawsze umożliwia rozwinięcie dużej prędkości, a
 wyprzedzanie samochodów nie jest niczym szokującym tam.
-

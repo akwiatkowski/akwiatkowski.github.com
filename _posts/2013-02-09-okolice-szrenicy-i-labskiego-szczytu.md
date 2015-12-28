@@ -6,7 +6,7 @@ date:                   2013-02-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28180619/m%3D2048/7d23bd05da156b9a4603497d2a63c918"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [karkonosze]
 
@@ -70,7 +70,7 @@ zmiany terenu. Do tego bezpośredni widok na [Szklarską Porębe][wiki-szklarska
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Po dotarciu do schroniska dowiedziałem się, że prąd i ciepła woda będą wieczorem. 
+Po dotarciu do schroniska dowiedziałem się, że prąd i ciepła woda będą wieczorem.
 Nie pamiętam co dokładnie robiliśmy, ale zmrok przyszedł w miarę szybko. Obudziłem się po pierwszej, bo zaczęło
 robić się zimno. Agregat był wyłączony i woda w obiegu trochę przymarzła. Niby mniej komfortu,
 ale właśnie przez te braki schroniska mają swój klimat.

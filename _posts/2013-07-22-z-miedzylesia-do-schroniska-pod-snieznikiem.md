@@ -6,7 +6,7 @@ date:                   2013-07-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41466174/m%3D2048/fd9d01b4921aceabcd40a34afa8ab71c"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -40,9 +40,9 @@ Szczegóły
 W [Międzylesiu][wiki-miedzylesie] wysiedliśmy około 8 rano. Jest to ostatni przystanek kolejowy na trasie z
 [Kłodzka][wiki-klodzko] i dalej na południe Polski.
 
-Powoli przeszliśmy przez miasto i kierowaliśmy się niebieskim szlakiem w stronę 
+Powoli przeszliśmy przez miasto i kierowaliśmy się niebieskim szlakiem w stronę
 [Schroniska na Śnieżniku][wiki-schronisko],
-które w rzeczywistości jest trochę pod nim. 
+które w rzeczywistości jest trochę pod nim.
 
 <div class='pixels-photo'>
   <p>
@@ -67,7 +67,7 @@ Tereny te bardzo mi się podobały. Lubię delikatne pagórki oraz pola i wyższ
 [Szklarnia][wiki-szklarnia] rozpoczęło się chwilowe, lekkie podejście i znowu chwila spaceru po (w miarę)
 płaskim.
 
-Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal domy, pola, ale już góry są bliżej i pola nie 
+Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal domy, pola, ale już góry są bliżej i pola nie
 są takie płaskie jak wcześniej. Cały czas było ciepło.
 
 <div class='pixels-photo'>
@@ -99,13 +99,13 @@ wschód. Patrząc po cieniach drzew to się zgadza.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-W najwyższej partii wioski jest [Leśniczówka Ostoja][ostoja], w której kupiliśmy herbatę i wodę. Była to 
+W najwyższej partii wioski jest [Leśniczówka Ostoja][ostoja], w której kupiliśmy herbatę i wodę. Była to
 mądra decyzja. A za nią rozpoczęło się podejscie przez lasy. Miało to akurat pewną zaletę - nie ma
 tyle słońca w lesie, jednak i widoków też nie ma. Czasowo byliśmy za połową drogi.
 
 Pozytywne podczas podejścia jest to, że z metrami zmniejsza się temperatura (bardzo powoli), ale
 jest sie bliżej szczytów, a tam wiatr powinien mocniej wiać. Tego dnia wiatru w dolinach prawie nie było, jednak
-na górze już trochę to nas chłodziło. 
+na górze już trochę to nas chłodziło.
 
 Widoki pojawiły się dopiero w okolicy [schroniska][wiki-schronisko]. Pomimo że to był środek lata, to jakoś
-w schronisku czułem, że są pustki. 
+w schronisku czułem, że są pustki.

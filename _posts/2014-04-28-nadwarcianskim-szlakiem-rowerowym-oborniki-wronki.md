@@ -48,7 +48,7 @@ Całą trasę trudno opisać szczegółówo, ogólnie to było dużo zieleni, tr
 Pogoda była idealna - soczysty niebieski kolor nieba i soczysta zieleń trawy.
 W niektórych miejscach mlecze i kwitnące drzewa.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/93241843' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/93305570' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Wjeżdzając do [Obrzycka][wiki-obrzycko] zmienił się krajobraz znacząco. Od tego momentu
 do [Wronek][wiki-wronki] jechałem przez las drogami polnymi. Trochę mniej interesująca trasa.

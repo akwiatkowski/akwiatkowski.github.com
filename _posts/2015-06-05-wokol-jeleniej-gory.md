@@ -6,7 +6,7 @@ date:                   2015-06-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff"
 categories:             trip
-tags:                   [bicycle, mountains]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska, stara_kamienica, jelenia_gora]
 lands:                  [gory_izerskie, gory_kaczawskie]
 
@@ -47,7 +47,7 @@ Wstęp
 
 Tą trasę planowałem jako jak najciekawszy przejazd przez północne rejony od Jeleniej Góry. Tak, aby
 za jednym zamachem zobaczyć jak najwięcej tych terenów. Głównym pierwszym celem była [Stara Kamienica][wiki-stara-kamienica].
-Początkowo wahałem się, czy dalej warto jechać w stronę [Gryfowa Śląskiego][wiki-gryfow-slaski] czy 
+Początkowo wahałem się, czy dalej warto jechać w stronę [Gryfowa Śląskiego][wiki-gryfow-slaski] czy
 w stronę [Jeziora Pilchowickiego][wiki-pilchowickie]. Dzień przed wyjazdem wybrałem tą drugą wersje.
 
 Opis trasy

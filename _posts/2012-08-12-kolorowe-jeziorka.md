@@ -6,7 +6,7 @@ date:                   2012-08-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23974025/m%3D2048/ae3e7c8b21dabc52db3613217e155890"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
@@ -49,7 +49,7 @@ Jak to często bywa, były chmury i mgła. Nic nie było widać jak byliśmy na 
 poświata. Posiedzieliśmy chwilę i zeszliśmy do schroniska. Jak się okazało później, wschodu i tak nie byłoby
 widać z [Krzyżnej Górę][wiki-krzyzna], co najwyżej z [Sokolika][wiki-sokolik].
 
-Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawił mnie jak 
+Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawił mnie jak
 szybko się widok zmieniał.
 
 <div class='pixels-photo'>
@@ -89,7 +89,7 @@ lenistwo.
 Po drodzę zrozumiałem że branie taniego plecaka używanego w środowisku miejskim i troczenie śpiwora do niego,
 nie jest najlepszym pomysłem. Do listy zakupów dorzuciłem plecak na wycieczki. Oraz śpiwór, ale on miał mniejszy priorytet.
 
-Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta nazywana jest "San Fran Trzcińsko". 
+Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta nazywana jest "San Fran Trzcińsko".
 
 <div class='pixels-photo'>
   <p>

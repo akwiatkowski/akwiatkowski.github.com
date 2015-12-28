@@ -6,7 +6,7 @@ date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -82,7 +82,7 @@ Droga była absolutnie spokojna tam.
 Wydaję mi się, że to właśnie rozpoczynał się najciekawszy fragment trasy tego dnia. Chmury zniknęły a wokół lekko pofalowane pola.
 Mój ulubiony rodzaj krajobrazu, no może wolałbym bardziej pofalowany.
 
-Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [pociąg][wiki-linia-210] między 
+Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [pociąg][wiki-linia-210] między
 [Szczecinem][wiki-szczecin] a [Chojnicami][wiki-chojnice]. Stacja oddalona jest około półtora kilometra od centrum wsi.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137774510' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
@@ -90,7 +90,7 @@ Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [p
 Lubię takie dziwne połączenia kolejowe i na pewno kiedyś się tą linią przejadę.
 
 Dalej [jechałem][vimeo5] na wschód, w stronę [Łubowa][wiki-lubowo]. Wioska, która ma szczęście posiadać połączenie kolejowe.
-Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Borne Sulinowo][wiki-borne-sulinowo]. 
+Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Borne Sulinowo][wiki-borne-sulinowo].
 Ciekawią mnie wiaty autobusowe widoczne po drodzę, które stoją pośrodku niczego. Może jakaś wioska jest w oddali, ale conajmniej
 kilkaset metrów trzeba do niej dojść. Bardzo fajny był zjazd w stronę doliny rzeki [Piławki][wiki-pilawka].
 

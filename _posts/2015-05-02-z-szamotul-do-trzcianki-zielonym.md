@@ -6,11 +6,11 @@ date:                   2015-05-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, best]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
 lands:                  [pojezierze_poznanskie]
 
-coords-multi:           [[52.60372,16.58584], [52.61539,16.57640], [52.64452,16.58232], [52.64363,16.59691], [52.66597,16.62463], [52.66862,16.63957], [52.70104,16.60360], [52.70863,16.58584], [52.70852,16.52404], [52.71284,16.52292], [52.71383,16.53262], [52.75260,16.54979], [52.75764,16.56129], [52.76086,16.56198], [52.77187,16.59167], [52.77706,16.59794], [52.77846,16.60472], [52.80831,16.63261], [52.82589,16.61468], [52.84383,16.60987], [52.85461,16.56120], [52.86793,16.55949], [52.89373,16.55322], [52.90496,16.56446], [52.90553,16.55820], [52.92147,16.54206], [52.93565,16.53897], [52.94475,16.52438], [52.94610,16.53013], [52.95887,16.53108], [52.98099,16.54884], [53.01090,16.54369], [53.02170,16.49365], [53.02123,16.47537], [53.03537,16.46782]] 
+coords-multi:           [[52.60372,16.58584], [52.61539,16.57640], [52.64452,16.58232], [52.64363,16.59691], [52.66597,16.62463], [52.66862,16.63957], [52.70104,16.60360], [52.70863,16.58584], [52.70852,16.52404], [52.71284,16.52292], [52.71383,16.53262], [52.75260,16.54979], [52.75764,16.56129], [52.76086,16.56198], [52.77187,16.59167], [52.77706,16.59794], [52.77846,16.60472], [52.80831,16.63261], [52.82589,16.61468], [52.84383,16.60987], [52.85461,16.56120], [52.86793,16.55949], [52.89373,16.55322], [52.90496,16.56446], [52.90553,16.55820], [52.92147,16.54206], [52.93565,16.53897], [52.94475,16.52438], [52.94610,16.53013], [52.95887,16.53108], [52.98099,16.54884], [53.01090,16.54369], [53.02170,16.49365], [53.02123,16.47537], [53.03537,16.46782]]
 ---
 
 [wiki-puszcza-notecka]:         https://pl.wikipedia.org/wiki/Puszcza_Notecka
@@ -72,11 +72,11 @@ były one bardzo krótkie i po chwili jechałem już asfaltem w stronę [Piotrk�
 
 
 Piotrkówko jest wsią znacznie większą niż Grabowiec. Prawdopodobnie dlatego ma swoją stronę na wikipedii. Przejazd przez nią widać
-[tutaj][vimeo-2]. Patrząc na gęstość zabudowy, to jest to jednak spora wioska. 
+[tutaj][vimeo-2]. Patrząc na gęstość zabudowy, to jest to jednak spora wioska.
 
 Na szlaku w obrębie Sycyna
 minąłem gospodarstwo agroturystyczne. Następnie krótka, mało ciekawa, trasa przez las i wyjazd
-w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce nie jest blisko cywilizacji. Z północy graniczy ona z 
+w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce nie jest blisko cywilizacji. Z północy graniczy ona z
 rzeką [Wartą][wiki-warta].
 
 Kolejna wioska, [Brączewo][wiki-braczewo], nie wiele się różni od poprzedniej. [Wyjeżdzając z niej][vimeo-3] jedzie się po moście,
@@ -97,18 +97,18 @@ lasy. Jak się jedzie to również nie słyszy się ptaków i ogólnie przyrody.
 [Tarnówko][wiki-tarnowko]. Ponownie, kolejna w miarę duża wieś po drodzę.
 
 Wyjeżdzajac z [Młynkowa][wiki-mlynkowo] do [Jędrzejewa][wiki-jedrzejewo] zaczęło trochę wiać. Ostudziło to moje myśli aby
-przedłużyć trasę dalej, a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe. 
+przedłużyć trasę dalej, a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.
 Przez cały czas pola i raczej nie ma co opisywać. [Młynkowo][wiki-mlynkowo] to kolejna duża wioska. Chyba nawet jest tam
-szkoła. [Filmik][vimeo-5] aż do wyjazdu z Młynkowa. 
+szkoła. [Filmik][vimeo-5] aż do wyjazdu z Młynkowa.
 
-Na drodzę z [Młynkowa][wiki-mlynkowo] w stronę [Prusinowa][wiki-prusinowo] zatrzymałem się, aby zrobić główne zdjęcie tego wpisu. 
+Na drodzę z [Młynkowa][wiki-mlynkowo] w stronę [Prusinowa][wiki-prusinowo] zatrzymałem się, aby zrobić główne zdjęcie tego wpisu.
 W tym miejscu równiez widać ślady starej linii kolejowej. [(filmik)][vimeo-6]
 
 Z [Prusinowa][wiki-prusinowo] kierowałem się w stronę [Czarnkowa][wiki-czarnkow]. Początkowo wiejską drogą, później polną, a
 później przywitał mnie znak "Droga nieprzejezdna". Faktycznie samochód by tam miał spore problemy. Jak udało mi się pokonać
 ten fragment wjechałem w rejon ogródków działkowych Czarnkowa. Na mapie UMP nazwane "Osiedle Zacisze". Podczas zjazdu miałem
 możliwość usunięcia brudu z opon, oczywiście część na sobie. Nie zatrzymywałem się w Czarnkowie, wolałem szybko przejechać
-i dojechać maksymalnie szybko do [Trzcianki][wiki-trzcianka] na dworzec. 
+i dojechać maksymalnie szybko do [Trzcianki][wiki-trzcianka] na dworzec.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/126940266' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -124,4 +124,3 @@ dalej. Pogoda robiła się powoli bardziej szara. Może nie wiało mocno, ale to
 zakończyć trasę w Trzciance. Powróciłem pociągiem z przesiadką w [Krzyżu][wiki-krzyz].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/127342600' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-

@@ -6,7 +6,7 @@ date:                   2015-02-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/101052739/m%3D2048/e417fab7574c638c651d16c4b31283f2"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 

@@ -6,7 +6,7 @@ date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, bierzwnik, choszczno, drawno, kalisz_pomorski, drawsko_pomorskie, miroslawiec, zlocieniec, ostrowice]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -66,7 +66,7 @@ już ta wioska skończyła. A za nią pola lekko odgrodzone od drogi drzewa lub 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137187474' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 
-Po drodzę minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno]. 
+Po drodzę minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno].
 Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia].
 
 Wyjeżdzając z [Pławna][wiki-plawno] zauważyłem pierwsze oznaki tego, że teren nie będzie absolutnie płaski. Z jednej strony
@@ -85,10 +85,10 @@ w stronę [Kalisza Pomorskiego][wiki-kalisz-pomorski] przez
 [Dębsko][wiki-debsko]. Przed [Dębskiem][wiki-debsko] miałem okazję zobaczyć bardzo ładne polany, lekko pofałdowane.
 A na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
 
-Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną, 
+Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną,
 która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół pola, dobrze ubita, jednak później pojawiło się
 więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
-[szynobus z Piły do Szczecina][wiki-kalisz-pom-tor]. 
+[szynobus z Piły do Szczecina][wiki-kalisz-pom-tor].
 
 
 
@@ -108,7 +108,7 @@ wjazd do do [Złocieńca][wiki-zlocieniec].
 
 Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się że jezioro jest tak blisko, i że jest całkiem solidna
 plaża tam. Zostawiłem sakwy i pojechałem pokręcić się po okolicy. Miałem 88km na liczniku i chciałem pobić mój dotychczasowy
-rekord - 95km. 
+rekord - 95km.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137244196' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -118,4 +118,3 @@ do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższ
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
-

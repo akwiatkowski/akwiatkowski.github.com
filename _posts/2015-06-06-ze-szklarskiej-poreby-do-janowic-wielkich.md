@@ -6,7 +6,7 @@ date:                   2015-06-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
 categories:             trip
-tags:                   [bicycle, mountains]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska, piechowice, podgorzyn, myslakowice, janowice_wielkie]
 lands:                  [karkonosze, rudawy_janowickie]
 
@@ -64,8 +64,8 @@ zbudowane w inny sposób. W skrócie chodzi o to, że zjeżdzając opona uderza 
 Straciliśmy na zjeździe w sumie 3 dętki, oraz Krzychu poleciał na zakręcie.
 
 Z [Przesieki][wiki-przesieka] ruszyliśmy lekkim zjazdem w stronę [Podgórzyna][wiki-podgorzyn] i dalej w
-stronę [Kowar][wiki-kowary]. Co ciekawe, do Podgórzyna jeżdzą autobusy komunikacji miejskiej z 
-Jeleniej Góry, linia: [4][jelenia-linia-4] i [18][jelenia-linia-18]. 
+stronę [Kowar][wiki-kowary]. Co ciekawe, do Podgórzyna jeżdzą autobusy komunikacji miejskiej z
+Jeleniej Góry, linia: [4][jelenia-linia-4] i [18][jelenia-linia-18].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/131295976' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -79,7 +79,7 @@ w miejscowości [Kostrzyca][wiki-kostrzyca] i [Bukowiec][wiki-bukowiec]. ([filmi
 
 W [Bukowcu][wiki-bukowiec] byliśmy zaciekawieni znakiem szlaku rowerowego na drzewie i [skręciliśmy][vimeo-5] z drogi
 asfaltowej. Asfalt był nudny dla większości osób z naszej grupy. Wybór ten zaowocował wieloma
-skrajnymi emocjami. [Szlak ten][bukowiec-grass-trail] okazał się być jakimś starym, zarośniętym czymś. 
+skrajnymi emocjami. [Szlak ten][bukowiec-grass-trail] okazał się być jakimś starym, zarośniętym czymś.
 Jazda przez wysoką trawę, gdzie nic nie widać. Co chwilę gałęzie uderzające w głowę. Fajnie!
 [Tutaj][vimeo-6] jest filmik, szkoda tylko że przetarłem mokrą ręką kamerkę.
 
@@ -91,7 +91,7 @@ Z Karpnik wyruszyliśmy w stronę [Szwajcarki][szwajcarka]. Na [filmiku][vimeo-7
 jak również Przemka, który padł przed schroniskiem.
 
 Mogliśmy szybko ruszyć dalej, aby zdąrzyć na pociąg o 17,
-jednak postanowiliśmy *ze spokojem* przejechać jeszcze trochę i wracać z innej stacji. 
+jednak postanowiliśmy *ze spokojem* przejechać jeszcze trochę i wracać z innej stacji.
 Mając trochę czasu [poszedłem zobaczyć][vimeo-8] na widok z Krzyżnej Góry, która jest około 15 minut pieszo obok schroniska.
 
 Nie mogliśmy
