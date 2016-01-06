@@ -429,5 +429,11 @@ body {
 }
 .intro-header-fixed {
   position: absolute;
-  
+}
+.planner-table {
+  width: 100%;
+}
+.planner-table td, .planner-table th {
+  padding: 5px;
+  border-bottom: dotted 1px black;
 }
