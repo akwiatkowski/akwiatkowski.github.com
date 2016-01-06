@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "W stronę Skoków, po razy 3-ci"
+title:                  "W stronę Skoków, po raz 3-ci"
 subtitle:               "tym razem lato w pełni"
 date:                   2014-07-02 21:00:00
 author:                 "Aleksander Kwiatkowski"

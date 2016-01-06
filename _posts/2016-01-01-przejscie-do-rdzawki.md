@@ -4,7 +4,7 @@ title:                  "Przejście do Rdzawki"
 subtitle:               "ładne polanki, nie za długa trasa, jednak zimniej niż dzień wcześniej"
 date:                   2016-01-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/134513157/m%3D2048/f154845fe53827b32acb06ae8033f481"
+header-ext-img:         "https://drscdn.500px.org/photo/135034595/m%3D2048/92f3adfbd746da32aa9443b60dcbd98a"
 categories:             localhost
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]

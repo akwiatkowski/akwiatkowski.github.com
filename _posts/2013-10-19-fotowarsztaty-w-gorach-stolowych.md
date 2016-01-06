@@ -20,7 +20,7 @@ coords-multi:           [[50.49382,16.32598], [50.48366,16.33766], [50.48498,16.
 [wiki-posna]:                   https://pl.wikipedia.org/wiki/Po%C5%9Bna
 [wiki-bledne-skaly]:            https://pl.wikipedia.org/wiki/B%C5%82%C4%99dne_Ska%C5%82y
 
-[fotowarsztaty]:                http://fotowarsztaty.com/component/k2/item/73-16-18-pazdziernika-sudeckie-fotowarsztaty-na-koncu-swiata
+[fotowarsztaty]:                http://fotowarsztaty.com/tematy/item/4-sudeckie-fotowarsztaty-na-koncu-swiata
 
 Wstęp
 -----
