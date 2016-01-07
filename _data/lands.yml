@@ -11,6 +11,7 @@
   country: Polska
   type: mountain
   visited: 2013-02
+  train_time_poznan: 6
 
 - slug: karkonosze
   name: Karkonosze
@@ -19,6 +20,7 @@
   country: Polska
   type: mountain
   visited: 2011-12
+  train_time_poznan: 6
 
 - slug: gory_kaczawskie
   name: Góry Kaczawskie
@@ -27,6 +29,7 @@
   country: Polska
   type: mountain
   visited: 2015-06
+  train_time_poznan: 7
 
 - slug: rudawy_janowickie
   name: Rudawy Janowickie
@@ -35,6 +38,7 @@
   country: Polska
   type: mountain
   visited: 2012-08
+  train_time_poznan: 5
 
 - slug: gory_walbrzyskie
   name: Góry Wałbrzyskie
@@ -42,6 +46,7 @@
   main: sudety
   country: Polska
   type: mountain
+  train_time_poznan: 4
 
 - slug: gory_kamienne
   name: Góry Kamienne
@@ -50,6 +55,7 @@
   country: Polska
   type: mountain
   visited: 2012-12
+  train_time_poznan: 4
 
 - slug: gory_sowie
   name: Góry Sowie
@@ -58,6 +64,7 @@
   country: Polska
   type: mountain
   visited: 2014-01
+  train_time_poznan: 5
 
 - slug: gory_bardzkie
   name: Góry Bardzkie
@@ -65,6 +72,7 @@
   main: sudety
   country: Polska
   type: mountain
+  train_time_poznan: 4
 
 - slug: gory_stolowe
   name: Góry Stołowe
@@ -73,6 +81,7 @@
   country: Polska
   type: mountain
   visited: 2013-10
+  train_time_poznan: 6
 
 - slug: gory_bystrzyckie
   name: Góry Bystrzyckie
@@ -80,6 +89,7 @@
   main: sudety
   country: Polska
   type: mountain
+  train_time_poznan: 5
 
 - slug: gory_orlickie
   name: Góry Orlickie
@@ -87,6 +97,7 @@
   main: sudety
   country: Polska
   type: mountain
+  train_time_poznan: 6
 
 - slug: masyw_snieznika
   name: Masyw Śnieżnika
@@ -95,6 +106,7 @@
   country: Polska
   type: mountain
   visited: 2013-07
+  train_time_poznan: 6
 
 - slug: gory_bialskie
   name: Góry Bialskie
@@ -125,6 +137,7 @@
   country: Polska
   type: mountain
   visited: 2012-04
+  train_time_poznan: 8
 
 - slug: beskid_zywiecki
   name: Beskid Żywiecki
@@ -133,6 +146,7 @@
   country: Polska
   type: mountain
   visited: 2013-07
+  train_time_poznan: 8
 
 - slug: beskid_maly
   name: Beskid Mały
@@ -141,6 +155,7 @@
   country: Polska
   type: mountain
   visited: 2014-05
+  train_time_poznan: 7
 
 - slug: beskid_makowski
   name: Beskid Makowski
@@ -148,6 +163,7 @@
   main: karpaty
   country: Polska
   type: mountain
+  train_time_poznan: 8
 
 - slug: tatry
   name: Tatry
@@ -156,6 +172,7 @@
   country: Polska
   type: mountain
   visited: 2011-09
+  train_time_poznan: 9
 
 - slug: gorce
   name: Gorce
@@ -164,6 +181,7 @@
   country: Polska
   type: mountain
   visited: 2011-05
+  train_time_poznan: 8
 
 - slug: beskid_wyspowy
   name: Beskid Wyspowy
@@ -171,6 +189,7 @@
   main: karpaty
   country: Polska
   type: mountain
+  train_time_poznan: 8
 
 - slug: pieniny
   name: Pieniny
@@ -179,6 +198,7 @@
   country: Polska
   type: mountain
   visited: 2013-05
+  train_time_poznan: 9
 
 - slug: beskid_sadecki
   name: Beskid Sądecki
@@ -187,6 +207,7 @@
   country: Polska
   type: mountain
   visited: 2015-07
+  train_time_poznan: 9
 
 - slug: beskid_niski
   name: Beskid Niski
@@ -195,6 +216,7 @@
   country: Polska
   type: mountain
   visited: 2012-05
+  train_time_poznan: 10
 
 - slug: bieszczady
   name: Bieszczady
@@ -203,6 +225,7 @@
   country: Polska
   type: mountain
   visited: 2013-11
+  train_time_poznan: 10
 
 - slug: gory_sanocko_turczanskie
   name: Góry Sanocko-Turczańskie
@@ -245,6 +268,7 @@
   country: Polska
   type: lowland
   visited: 2015-07
+  train_time_poznan: 3
 
 - slug: pojezierze_poznanskie
   name: Pojezierze Poznańskie
@@ -253,6 +277,7 @@
   country: Polska
   type: lowland
   visited: 2013-07
+  train_time_poznan: 1
 
 - slug: powidzki_park_krajobrazowy
   name: Powidzki Park Krajobrazowy
@@ -261,6 +286,7 @@
   country: Polska
   type: lowland
   visited: 2015-08
+  train_time_poznan: 2
 
 - slug: puszcza_zielonka
   name: Puszcza Zielonka
@@ -269,3 +295,4 @@
   country: Polska
   type: lowland
   visited: 2013-08
+  train_time_poznan: 1

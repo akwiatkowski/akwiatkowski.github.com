@@ -23,7 +23,7 @@ permalink: /payload.json
         {% for c in post.coords-multi %}
           [{{ c[0] }}, {{ c[1] }}]{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
-      ]{% else %}null{% endif %}, 
+      ]{% else %}null{% endif %},
       "tags": [
         {% for tag in post.tags %}
           "{{ tag }}"{% if forloop.last %}{% else %},{% endif %}
@@ -38,10 +38,10 @@ permalink: /payload.json
         {% for land in post.lands %}
           "{{ land }}"{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
-      ]      
+      ]
     }{% if forloop.last %}{% else %},{% endif %}
-    
-    
+
+
   {% endfor %}
   ],
 
@@ -53,17 +53,17 @@ permalink: /payload.json
       "name": "{{ town.name | json_escape }}",
       "header-ext-img": "{{ town.header-ext-img }}",
       "type": "{{ town.type | json_escape }}",
-      "url": "/town/{{ town.slug }}",      
+      "url": "/town/{{ town.slug }}",
       "inside": [
         {% for inside in town.inside %}
           "{{ inside }}"{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
-        ]  
+        ]
     }{% if forloop.last %}{% else %},{% endif %}
-    
-    
+
+
   {% endfor %}
-  ],  
+  ],
 
   "lands":
   [
@@ -77,10 +77,11 @@ permalink: /payload.json
       "visited": "{{ land.visited | json_escape }}",
       "header-ext-img": "{{ land.header-ext-img }}",
       "url": "/land/{{ land.slug }}",
-      "type": "{{ land.type | json_escape }}"
+      "type": "{{ land.type | json_escape }}",
+      "train_time_poznan": "{{ land.train_time_poznan }}"
     }{% if forloop.last %}{% else %},{% endif %}
-    
-    
+
+
   {% endfor %}
   ],
 
@@ -91,11 +92,11 @@ permalink: /payload.json
       "slug":  "{{ land_type.slug | json_escape }}",
       "name": "{{ land_type.name | json_escape }}"
     }{% if forloop.last %}{% else %},{% endif %}
-    
-    
+
+
   {% endfor %}
-  ],  
-  
+  ],
+
   "land_types":
   [
     {% for land_type in site.data.land_types %}
@@ -103,8 +104,8 @@ permalink: /payload.json
       "slug":  "{{ land_type.slug | json_escape }}",
       "name": "{{ land_type.name | json_escape }}"
     }{% if forloop.last %}{% else %},{% endif %}
-    
+
   {% endfor %}
-  ]   
-  
-}  
+  ]
+
+}
