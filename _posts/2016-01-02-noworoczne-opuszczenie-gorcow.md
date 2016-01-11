@@ -4,11 +4,13 @@ title:                  "Noworoczne opuszczenie Gorców"
 subtitle:               "zejście czarnym szlakiem"
 date:                   2016-01-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/134513157/m%3D2048/f154845fe53827b32acb06ae8033f481"
+header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
 categories:             localhost
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
+
+coords-multi:           [[49.58269,20.00533], [49.58769,19.99465], [49.59439,19.99973], [49.59614,19.99883], [49.59776,19.99634], [49.60311,19.99445], [49.60567,19.97701], [49.60794,19.97197], [49.61088,19.96235]]
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity

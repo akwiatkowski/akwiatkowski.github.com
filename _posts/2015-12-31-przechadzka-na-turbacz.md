@@ -9,6 +9,8 @@ categories:             localhost
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka, niedzwiedz, nowy_targ]
 lands:                  [gorce]
+
+coords-multi:           [[49.58287,20.00823], [49.58163,20.00975], [49.57742,20.02514], [49.56611,20.03784], [49.55981,20.03973], [49.55947,20.07483], [49.55259,20.09554], [49.54951,20.09687], [49.54726,20.10850], [49.54335,20.11056], [49.54351,20.11869]]
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity
