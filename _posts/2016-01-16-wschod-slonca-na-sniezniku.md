@@ -1,0 +1,22 @@
+---
+layout:                 post
+title:                  "Wschód słońca na Śnieżniku"
+subtitle:               "zapierająca dech biel"
+date:                   2016-01-16 18:00:00
+author:                 "Aleksander Kwiatkowski"
+header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
+categories:             localhost
+tags:                   [hike, mountains, todo]
+towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
+lands:                  [masyw_snieznika]
+
+coords-multi:           [[50.17291,16.77375], [50.17412,16.77671], [50.17673,16.77559], [50.17926,16.78177], [50.17885,16.79207], [50.18225,16.79254], [50.18302,16.79121], [50.18970,16.80194], [50.19171,16.80237], [50.19212,16.80580], [50.19459,16.81065], [50.19687,16.81392], [50.19487,16.81855], [50.19690,16.82353], [50.20168,16.83318], [50.20775,16.83258], [50.20396,16.83881], [50.20750,16.84760]]
+---
+
+
+Wstęp
+-----
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/472921031/embed/2903f0ce8713b2ae4a3d5b837cc6093b018095a3'></iframe>
+
+TODO

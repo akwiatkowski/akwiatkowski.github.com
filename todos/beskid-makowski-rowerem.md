@@ -11,7 +11,7 @@ Beskid Makowski na rowerze
 ==========================
 
 Dojazd do Rabki Zdrój / Chabówki pociągiem z tobołami. Jazda 50-60km i tam nocleg. Nastepnego dnia wcześnie rano
-i jazda w stronę Gliwic, tak aby się dobić :]
+wstajemy i jazda w stronę Gliwic, tak aby się dobić :]
 
 [Trasa wstępna](http://umapa.pl/kin14). Pierwsza część to w dolinie Beskidu Makowskiego, dalej pogórza, a na koniec
 lekkie wypłaszczenie na Śląsku.
@@ -22,4 +22,3 @@ Szkice
 ------
 
 http://umapa.pl/tNa66
-
