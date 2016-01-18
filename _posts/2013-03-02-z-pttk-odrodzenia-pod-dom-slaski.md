@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]
 
-coords-multi:           [[50.76273,15.63848], [50.76059,15.65569], [50.75953,15.68328], [50.75299,15.69453], [50.74289,15.69788], [50.73935,15.72903]]
+coords:                 [{"route": [[50.76273,15.63848], [50.76059,15.65569], [50.75953,15.68328], [50.75299,15.69453], [50.74289,15.69788], [50.73935,15.72903]], "type": "hike"}]
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
@@ -49,9 +49,9 @@ Gdybym wiedział że będzie taka pogoda, to wziąłbym statyw, wsałbym godzin�
 
 Wyruszliśmy na wschód idąc [Głównym Szlakiem Sudeckim][wiki-gss]. Szliśmy cały czas zboczem, lekko po stronie
 polskiej. Najstromiej na lewo było w okolicy [Samotni][wiki-samotnia], czyli obok [Wielkiego Stawu][wiki-wielki-staw]
-oraz [Małego Stawu][wiki-maly-staw]. 
+oraz [Małego Stawu][wiki-maly-staw].
 
-Idąc na wysokości widok w dolinie z jednej strony jest idealny, z drugiej strony zmienia się on bardzo powoli. 
+Idąc na wysokości widok w dolinie z jednej strony jest idealny, z drugiej strony zmienia się on bardzo powoli.
 Chociaż dziwię się, że w najlepszych zdjęciach, nie mam żadnego zdjęcia dolin.
 
 <div class='pixels-photo'>

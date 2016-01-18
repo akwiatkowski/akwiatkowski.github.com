@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
 lands:                  [beskid_sadecki]
 
-coords-multi:           [[49.34753,20.89398], [49.35301,20.88866], [49.39805,20.89621], [49.41810,20.89544], [49.43786,20.87321], [49.46074,20.84222], [49.47266,20.81109]]
+coords:                 [{"route": [[49.34753,20.89398], [49.35301,20.88866], [49.39805,20.89621], [49.41810,20.89544], [49.43786,20.87321], [49.46074,20.84222], [49.47266,20.81109]], "type": "hike"}]
 ---
 
 [wiki-muszyna]:         https://pl.wikipedia.org/wiki/Muszyna

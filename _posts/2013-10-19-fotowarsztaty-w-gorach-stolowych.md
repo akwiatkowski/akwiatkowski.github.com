@@ -10,7 +10,7 @@ tags:                   [hike, workshop, mountains, best]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
-coords-multi:           [[50.49382,16.32598], [50.48366,16.33766], [50.48498,16.34238]]
+coords:                 [{"route": [[50.49382,16.32598], [50.48366,16.33766], [50.48498,16.34238]], "type": "hike"}]
 ---
 
 [wiki-gory-stolowe]:            https://pl.wikipedia.org/wiki/G%C3%B3ry_Sto%C5%82owe

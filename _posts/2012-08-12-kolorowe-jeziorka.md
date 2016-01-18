@@ -10,7 +10,7 @@ tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
-coords-multi:           [[50.85242,16.00485], [50.85345,15.99515], [50.83697,15.97112], [50.81984,15.97446]]
+coords:                 [{"route": [[50.85242,16.00485], [50.85345,15.99515], [50.83697,15.97112], [50.81984,15.97446]], "type": "hike"}]
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie

@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rytro, szczawnica]
 lands:                  [beskid_sadecki]
 
-coords-multi:           [[49.46029,20.66721], [49.44562,20.64687], [49.43820,20.61057], [49.44897,20.60456], [49.45388,20.58164], [49.46537,20.57675], [49.46676,20.55495] ]
+coords:                 [{"route": [[49.46029,20.66721], [49.44562,20.64687], [49.43820,20.61057], [49.44897,20.60456], [49.45388,20.58164], [49.46537,20.57675], [49.46676,20.55495]], "type": "hike"}]
 ---
 
 [wiki-kordowiec]:       https://pl.wikipedia.org/wiki/Kordowiec

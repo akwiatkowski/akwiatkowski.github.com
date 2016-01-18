@@ -10,7 +10,7 @@ tags:                   [hike, workshop, mountains]
 towns:                  [podkarpackie, olszanica, lutowiska, czarna_bieszczady]
 lands:                  [bieszczady]
 
-coords-multi:           [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]]
+coords:                 [{"route": [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]], "type": "hike"}]
 ---
 
 [wiki-bieszczady]:      https://pl.wikipedia.org/wiki/Bieszczady
@@ -44,7 +44,7 @@ Najciekawszym dniem miał być drugi, kiedy planowany był zachód słońca na [
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie widzą w tym zdjęciu. 
+Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie widzą w tym zdjęciu.
 
 Czasami ciekawe rzeczy można znaleźć bliżej, tam gdzie się ich nie szuka, tak jak małe kropelki.
 
@@ -78,5 +78,3 @@ A na koniec kot! Kot kręcił się w okolicy [miniatur cerkwi][mini-cerkwie].
   <a href='https://500px.com/photo/52155778/cat-in-myczkowice-by-aleksander-kwiatkowski' alt='Cat in Myczkowice by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-

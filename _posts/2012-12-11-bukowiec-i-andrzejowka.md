@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 
-coords-multi:           [[50.68911,16.20685], [50.68520,16.23346], [50.68696,16.23981], [50.69577,16.25208], [50.69430,16.26178], [50.68685,16.26689], [50.68487,16.27818], [50.68702,16.23981]]
+coords:                 [{"route": [[50.68911,16.20685], [50.68520,16.23346], [50.68696,16.23981], [50.69577,16.25208], [50.69430,16.26178], [50.68685,16.26689], [50.68487,16.27818], [50.68702,16.23981]], "type": "hike"}]
 ---
 
 [wiki-kamienne]:        https://pl.wikipedia.org/wiki/G%C3%B3ry_Kamienne
@@ -52,7 +52,7 @@ To znaczy widziałem dużo zapomnianych, ale widać że kiedyś ta miejscowość
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Idąc dalej opuszczaliśmy tą miejscowość i zaczynało się podejście na [Bukowiec][wiki-bukowiec]. W lecie idzie się
-tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny. 
+tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
 
 Niby tylko dzień różnicy i chyba 100 metrów wyżej, ale różnica widoczna od razu. Wszystkie drzewa
 wokoło pięknie ośnieżone, co doskonale widać na powyższym zdjęciu.
@@ -91,4 +91,3 @@ Wnioski
 
 Pomimo tego że wszystko się raczej udało, uważam że nie była to łatwa wycieczka. Zima w takich miejscach
 jest znacznie trudniejsza.
-

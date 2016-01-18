@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, swierzawa, pielgrzymka]
 lands:                  [pogorze_kaczawskie]
 
-coords-multi:           [[51.06485,15.79363], [51.05945,15.76968], [51.06021,15.76135], [51.05584,15.76333], [51.05751,15.76200], [51.05948,15.77080]]
+coords:                 [{"route": [[51.06485,15.79363], [51.05945,15.76968], [51.06021,15.76135], [51.05584,15.76333], [51.05751,15.76200], [51.05948,15.77080]], "type": "hike"}]
 ---
 
 [wiki-pogorze]:          https://pl.wikipedia.org/wiki/Pog%C3%B3rze_Kaczawskie

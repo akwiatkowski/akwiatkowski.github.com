@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
 
-coords-multi:           [[50.78088,15.90932], [50.76296,15.86743], [50.74613,15.82332], [50.75558,15.81611], [50.75243,15.79156], [50.78196,15.76203]]
+coords:                 [{"route": [[50.78088,15.90932], [50.76296,15.86743], [50.74613,15.82332], [50.75558,15.81611], [50.75243,15.79156], [50.78196,15.76203]], "type": "hike"}]
 
 ---
 
@@ -69,7 +69,7 @@ wysokości n.p.m.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Od tego miejsca szliśmy cały czas żółtym szlakiem w kierunku [Malá Úpa][wiki-mala-upa] albo
-[Przełęczy Okraj][wiki-okraj]. Po drodzę z prawej strony mieliśmy bardzo dobry widok na 
+[Przełęczy Okraj][wiki-okraj]. Po drodzę z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].
 
 <div class='pixels-photo'>

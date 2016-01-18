@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
 lands:                  [rudawy_janowickie]
 
-coords-multi:           [[50.78121,15.90692], [50.79321,15.90726], [50.79806,15.89340], [50.80631,15.89314], [50.81889,15.91460], [50.79486,15.90473]]
+coords:                 [{"route": [[50.78121,15.90692], [50.79321,15.90726], [50.79806,15.89340], [50.80631,15.89314], [50.81889,15.91460], [50.79486,15.90473]], "type": "hike"}]
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
@@ -66,7 +66,7 @@ północych częśći Rudaw - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejsc
 
 Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry Rudaw - [Skalnika][wiki-skalnik].
 Najpierw do centrum wsi, obok [kościoła][wiki-leszcz-kosciol] a dalej podejście w las na
-Rozdroże pod Bobrzakiem. 
+Rozdroże pod Bobrzakiem.
 
 <div class='pixels-photo'>
   <p>

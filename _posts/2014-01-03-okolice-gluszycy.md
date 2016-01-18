@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, gluszyca, nowa_ruda]
 lands:                  [gory_sowie]
 
-coords-multi:           [[50.67271,16.37216], [50.67222,16.37534], [50.67658,16.38203], [50.67679,16.39555]]
+coords:                 [{"route": [[50.67271,16.37216], [50.67222,16.37534], [50.67658,16.38203], [50.67679,16.39555]], "type": "hike"}]
 ---
 
 [wiki-sudety]:          https://pl.wikipedia.org/wiki/Sudety

@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
-coords-multi:           [[50.20816,16.83277], [50.21552,16.83552], [50.24786,16.81406], [50.25181,16.80479], [50.24434,16.78325], [50.22837,16.76514]]
+coords:                 [{"route": [[50.20816,16.83277], [50.21552,16.83552], [50.24786,16.81406], [50.25181,16.80479], [50.24434,16.78325], [50.22837,16.76514]], "type": "hike"}]
 ---
 
 [wiki-masyw-snieznika]:         https://pl.wikipedia.org/wiki/Masyw_%C5%9Anie%C5%BCnika
@@ -56,6 +56,6 @@ chyba na ogół ostatni przystanek na trasie autobusów.
 
 Jechaliśmy nim do [Kłodzka][wiki-klodzko] przez wiele lokalnych miejscowości. Co ciekawe, autobusy
 do [Kłodzka][wiki-klodzko] dojeżdzają do PKS, który jest obok stacji kolejowej
-[Kłodzko Miasto][wiki-klodzko-miasto], a głównym przystankiem kolejowym jest 
-[Kłodzko Główne][wiki-klodzko-glowne]. Szybko pobiegliśmy aby dojechać jeden przystanek dalej i 
+[Kłodzko Miasto][wiki-klodzko-miasto], a głównym przystankiem kolejowym jest
+[Kłodzko Główne][wiki-klodzko-glowne]. Szybko pobiegliśmy aby dojechać jeden przystanek dalej i
 się przesiąść na dalszy pociąg. Odległe one są o 2km od siebie licząc szacunkową pieszą drogę.

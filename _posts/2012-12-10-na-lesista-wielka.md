@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
 
-coords-multi:           [[50.76105,16.16990], [50.74517,16.16728], [50.73827,16.14261], [50.72007,16.15801], [50.70213,16.17827], [50.70221,16.19265], [50.69091,16.19874], [50.68917,16.20719]]
+coords:                 [{"route": [[50.76105,16.16990], [50.74517,16.16728], [50.73827,16.14261], [50.72007,16.15801], [50.70213,16.17827], [50.70221,16.19265], [50.69091,16.19874], [50.68917,16.20719]], "type": "hike"}]
 ---
 
 [wiki-boguszow-gorce]:  https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce
@@ -70,7 +70,7 @@ Gdzieś na podejściu do [Lesistej Wielkiej][wiki-lesista] zrobiłem poniższe z
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Sam szczyt [Lesistej Wielkiej][wiki-lesista] raczej nie był specjalnie interesujący, oprócz tego, że byl tam szałas.
-Powoli zaczęło robić się ciemno, a musieliśmy dojść do noclegu w [Kowalowej][wiki-kowalowa]. 
+Powoli zaczęło robić się ciemno, a musieliśmy dojść do noclegu w [Kowalowej][wiki-kowalowa].
 
 Było jedno takie miejsce podczas zejścia, że jak je zobaczyłem to zastanawiałem się czy to nie jest jakiś
 chory żart. Było stromo, bardzo. Zwłaszcza w zimie jest trudno.

@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
-coords-multi:           [[49.26382,20.11301], [49.23407,20.08794], [49.21221,20.04262], [49.21608,20.06674], [49.20116,20.07052], [49.22174,20.09550], [49.23446,20.08726]]
+coords:                 [{"route": [[49.26382,20.11301], [49.23407,20.08794], [49.21221,20.04262], [49.21608,20.06674], [49.20116,20.07052], [49.22174,20.09550], [49.23446,20.08726]], "type": "hike"}]
 ---
 
 [wiki-palenica-b]:              https://pl.wikipedia.org/wiki/Palenica_Bia%C5%82cza%C5%84ska
@@ -50,7 +50,7 @@ Tylko droga i las.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-[Wodogrzmoty Mickiewicza][wiki-wodogrzmoty] mnie jakoś bardzo nie urzekły. Możliwe że myślałem, że będzie lepiej. A dalej 
+[Wodogrzmoty Mickiewicza][wiki-wodogrzmoty] mnie jakoś bardzo nie urzekły. Możliwe że myślałem, że będzie lepiej. A dalej
 powolne podejście przez las w kierunku [doliny][wiki-dolina]. Nie było tutaj nic specjalnie strasznego, oprócz jednego
 kamienia. Był on gładki i dosyć duży i trzeba było przejść po nim. Wolałem się zniżyć trochę i przejść bezpiecznie, pomimo tego, że
 wyglądał na suchego.

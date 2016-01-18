@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
-coords-multi:           [[49.41920,19.09746], [49.41909,19.09458], [49.42280,19.09647], [49.43076,19.08510], [49.44055,19.08772], [49.46020,19.08334], [49.47721,19.10050], [49.49912,19.09184], [49.50709,19.10093]]
+coords:                 [{"route": [[49.41920,19.09746], [49.41909,19.09458], [49.42280,19.09647], [49.43076,19.08510], [49.44055,19.08772], [49.46020,19.08334], [49.47721,19.10050], [49.49912,19.09184], [49.50709,19.10093]], "type": "hike"}]
 ---
 
 
@@ -42,7 +42,6 @@ Bardzo podobały mi się wioski, które mijaliśmy po drodzę. Zwłaszcza [Mład
 ulokowana totalnie w górach. Z tego co widziałem na mapie, to prowadzi do niej droga
 położona równolegle do szlaku, którym szliśmy dalej.
 
-Po pewnym czasie szlak się zagęścił i zaczęło się trochę ostrzejsze zejście. 
+Po pewnym czasie szlak się zagęścił i zaczęło się trochę ostrzejsze zejście.
 
 Przerwa na jedzenie w [Rajczy][wiki-rajcza], a następnie kierowaliśmy się na dworzec kolejowy.
-

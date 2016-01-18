@@ -9,7 +9,7 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 
-coords-multi:           [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]]
+coords:                 [{"route": [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]], "type": "bicycle"}]
 ---
 
 
@@ -21,4 +21,3 @@ Szczegóły
 ---------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/359583873/embed/b1e72b19e86511a10c29ac8e4b0ac502008edd81'></iframe>
-

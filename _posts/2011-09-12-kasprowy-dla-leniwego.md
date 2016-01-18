@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
-coords-multi:           [[49.23200,19.98143], [49.22527,19.99224]]
+coords:                 [{"route": [[49.23200,19.98143], [49.22527,19.99224]], "type": "hike"}]
 ---
 
 [wiki-swinica]:         https://pl.wikipedia.org/wiki/%C5%9Awinica

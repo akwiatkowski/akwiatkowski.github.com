@@ -10,7 +10,7 @@ tags:                   [hike, workshop, mountains, todo_media]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
-coords-multi:           [[50.47356,16.27826], [50.47200,16.27037], [50.47424,16.26346], [50.47206,16.27037], [50.46545,16.27075], [50.46108,16.26187], [50.46375,16.25560], [50.45430,16.25127]]
+coords:                 [{"route": [[50.47356,16.27826], [50.47200,16.27037], [50.47424,16.26346], [50.47206,16.27037], [50.46545,16.27075], [50.46108,16.26187], [50.46375,16.25560], [50.45430,16.25127]], "type": "hike"}]
 ---
 
 [fotowarsztaty]:                http://fotowarsztaty.com/tematy/item/4-sudeckie-fotowarsztaty-na-koncu-swiata

@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
-coords-multi:           [[49.45275,21.16396], [49.43327,21.18018], [49.43829,21.20679], [49.42970,21.22378], [49.43746,21.23391], [49.43422,21.24155], [49.43975,21.24825], [49.46987,21.21795], [49.46017,21.20464], [49.43573,21.17795]]
+coords:                 [{"route": [[49.45275,21.16396], [49.43327,21.18018], [49.43829,21.20679], [49.42970,21.22378], [49.43746,21.23391], [49.43422,21.24155], [49.43975,21.24825], [49.46987,21.21795], [49.46017,21.20464], [49.43573,21.17795]], "type": "hike"}]
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -49,7 +49,7 @@ główną drogą do [Wysowej][wiki-wysowa]. Było bardzo ciepło, chyba żadnej 
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Po pewnym czasie zaczęliśmy podchodzić przez las, jak to bywa często w górach. A w Beskidzie Niskim tym bardziej.
-Tam to mało co jest widoków. 
+Tam to mało co jest widoków.
 
 Przeszliśmy przez [Obycz][wiki-obycz] i kierowaliśmy się w stronę [Regietowa][wiki-regietow]. Po drodzę widzieliśmy
 jakąś zablokowaną terenówkę.
@@ -66,9 +66,7 @@ Błota już nie było bo ciepło, ale pojazd nadal był. Stopniowo robiło się 
 Po prawej minęliśmy chyba najbardziej znaną [kapliczkę][bn-kapliczka-jpg] [(strona)][bn-kapliczka-html] Beskidzie Niskim, a dalej
 był [cmentarz][regietow-cmentarz] i dalej bazę namiotową.
 
-Od tego momentu skręciliśmy w lewo na zachód w stronę [Koziego Żebra][wiki-kozie-zebro]. Podejście było, według mnie, 
+Od tego momentu skręciliśmy w lewo na zachód w stronę [Koziego Żebra][wiki-kozie-zebro]. Podejście było, według mnie,
 solidnie stromę i męczące. Patrząc na warunki tego pasma widok z tego miejsca był bardzo dobry.
 
 Do bazy wróciliśmy prawie o zmroku.
-
-

@@ -19,11 +19,21 @@ permalink: /payload.json
       "coords-from": {% if post.coords-from[0] %}[{{ post.coords-from[0] }}, {{ post.coords-from[1] }}]{% else %}null{% endif %},
       "coords-to": {% if post.coords-to[0] %}[{{ post.coords-to[0] }}, {{ post.coords-to[1] }}]{% else %}null{% endif %},
       "range": {% if post.range %}{{ post.range }}{% else %}null{% endif %},
-      "coords-multi": {% if post.coords-multi %}[
-        {% for c in post.coords-multi %}
-          [{{ c[0] }}, {{ c[1] }}]{% if forloop.last %}{% else %},{% endif %}
+
+      "coords": {% if post.coords %}[
+        {% for route in post.coords %}
+          {
+            "type": "{{ route.type }}",
+            "route": [
+              {% for c in route.route %}
+                [{{ c[0] }}, {{ c[1] }}]{% if forloop.last %}{% else %},{% endif %}
+              {% endfor %}
+            ]
+          }
+          {% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
       ]{% else %}null{% endif %},
+
       "tags": [
         {% for tag in post.tags %}
           "{{ tag }}"{% if forloop.last %}{% else %},{% endif %}

@@ -9,7 +9,7 @@ categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, lubuskie, opalenica, nowy_tomysl, zbaszyn]
 
-coords-multi:           [[52.30995,16.40259], [52.29363,16.38860], [52.28392,16.33049], [52.29174,16.29873], [52.27599,16.20938], [52.28082,16.20732], [52.27935,16.17419], [52.29137,16.16149], [52.29211,16.12690], [52.26333,16.05652], [52.26570,16.00279], [52.24252,15.97987], [52.24773,15.92966], [52.20930,15.91232], [52.19814,15.88580], [52.25093,15.88014], [52.24852,15.91653]]
+coords:                 [{"route": [[52.30995,16.40259], [52.29363,16.38860], [52.28392,16.33049], [52.29174,16.29873], [52.27599,16.20938], [52.28082,16.20732], [52.27935,16.17419], [52.29137,16.16149], [52.29211,16.12690], [52.26333,16.05652], [52.26570,16.00279], [52.24252,15.97987], [52.24773,15.92966], [52.20930,15.91232], [52.19814,15.88580], [52.25093,15.88014], [52.24852,15.91653]], "type": "bicycle"}]
 
 ---
 
@@ -60,7 +60,7 @@ przeprowadzić rower. Mały problem.
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/134003453' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 
-Następnie kierowaliśmy się przez wieś [Sielinko][wiki-sielinko] przez raczej spokojne tereny. 
+Następnie kierowaliśmy się przez wieś [Sielinko][wiki-sielinko] przez raczej spokojne tereny.
 Czasami zabudowa była gęsta (centrum wsi), czasami
 znacznie rzadsza na obrzeżach. Wydaję mi się, że trasa była ładna, ale nie myślałem o tym bo rano było zbyt ciepło. A później
 miało być jeszcze cieplej. Na szczęście spora część trasy była w lesie. Na nieszczęście, susza spowodowała że było dużo piachu.

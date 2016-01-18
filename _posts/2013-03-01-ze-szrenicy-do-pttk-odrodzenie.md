@@ -10,18 +10,18 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, szklarska, podgorzyn]
 lands:                  [karkonosze]
 
-coords-multi:           [[50.79134,15.51325], [50.77956,15.53544], [50.77742,15.55724], [50.77671,15.60179], [50.76520,15.62239], [50.76314,15.63985]]
+coords:                 [{"route": [[50.79134,15.51325], [50.77956,15.53544], [50.77742,15.55724], [50.77671,15.60179], [50.76520,15.62239], [50.76314,15.63985]], "type": "hike"}]
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
 [wiki-szrenica]:                https://pl.wikipedia.org/wiki/Szrenica
 [wiki-szrenica-schr]:           https://pl.wikipedia.org/wiki/Schronisko_na_Szrenicy
-[wiki-karkonosze]:              https://pl.wikipedia.org/wiki/Karkonosze 
+[wiki-karkonosze]:              https://pl.wikipedia.org/wiki/Karkonosze
 
 Wstęp
 -----
 
-Ponowna wizyta w [Karkonoszach][wiki-karkonosze], tym razem więcej szcześcia z 
+Ponowna wizyta w [Karkonoszach][wiki-karkonosze], tym razem więcej szcześcia z
 realizacją [Głównym Szlakiem Sudeckim][wiki-gss], ale zero z pogodą.
 
 Opis trasy

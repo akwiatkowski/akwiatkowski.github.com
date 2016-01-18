@@ -9,13 +9,13 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, czempin, mosina, poznan]
 
-coords-multi:           [[52.24325,16.85449], [52.23704,16.88152], [52.21707,16.90693], [52.20844,16.95045], [52.19818,16.95628], [52.18908,16.97439], [52.14223,16.97448], [52.13638,16.92650], [52.15102,16.84307], [52.15450,16.82385], [52.14428,16.76943], [52.13912,16.75346]]
+coords:                 [{"route": [[52.24325,16.85449], [52.23704,16.88152], [52.21707,16.90693], [52.20844,16.95045], [52.19818,16.95628], [52.18908,16.97439], [52.14223,16.97448], [52.13638,16.92650], [52.15102,16.84307], [52.15450,16.82385], [52.14428,16.76943], [52.13912,16.75346]], "type": "bicycle"}]
 ---
 
 Wstęp
 -----
 
-Bardzo mało terenów na południu Poznania udało mi się zobaczyć do tej pory. Jakiś czas temu kolega mi 
+Bardzo mało terenów na południu Poznania udało mi się zobaczyć do tej pory. Jakiś czas temu kolega mi
 powiedział że trasa w stronę Śremu jest bardzo ładna. Chciałem sam móc to ocenić.
 
 Opis trasy

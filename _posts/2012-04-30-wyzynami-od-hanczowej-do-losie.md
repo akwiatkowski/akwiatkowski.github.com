@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
-coords-multi:           [[49.45526,21.16250], [49.47344,21.15932], [49.46915,21.14722], [49.50695,21.09246], [49.52261,21.10422], [49.54434,21.06319], [49.56065,21.08379], [49.56416,21.09461], [49.57134,21.09049]]
+coords:                 [{"route": [[49.45526,21.16250], [49.47344,21.15932], [49.46915,21.14722], [49.50695,21.09246], [49.52261,21.10422], [49.54434,21.06319], [49.56065,21.08379], [49.56416,21.09461], [49.57134,21.09049]], "type": "hike"}]
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -39,7 +39,7 @@ Szczegóły
 ---------
 
 Wyruszyliśmy z bazy na północ w stronę centrum [Hańczowej][wiki-hanczowa], gdzie skręciliśmy na lewo i przeszliśmy trochę.
-Był to fragment [Głównego Szlaku Beskidzkiego][wiki-gsb]. 
+Był to fragment [Głównego Szlaku Beskidzkiego][wiki-gsb].
 
 Po chwili skręt w prawo na niebieski szlak i podejście w kierunku Dzielca. W Beskidzie Niskim są przynajmniej dwa Dzielce,
 to jest ten mniej znany i niższy.
@@ -52,7 +52,7 @@ to jest ten mniej znany i niższy.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów Wierch][wiki-bordiow] zeszliśmy obok wsi 
+Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów Wierch][wiki-bordiow] zeszliśmy obok wsi
 [Czarna][wiki-czarna]. Niewiele tam było ciekawego, ale też widać tutaj klimat [Beskidu Niskiego][wiki-beskid-niski].
 
 Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejscami był prześwit i widziałem jezioro

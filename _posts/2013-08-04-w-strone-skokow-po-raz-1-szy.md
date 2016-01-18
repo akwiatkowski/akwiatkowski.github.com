@@ -9,7 +9,7 @@ categories:             trip
 tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, rogozno, skoki]
 
-coords-multi:           [[52.48936,16.90530], [52.50154,16.88942], [52.50786,16.88787], [52.52112,16.91174], [52.53052,16.91388], [52.54321,16.94864],   [52.54164,16.96589], [52.57660,16.96014], [52.58365,16.97182], [52.63670,16.94564], [52.65581,16.95834], [52.66290,17.05748], [52.69469,17.07052], [52.71393,17.09498], [52.70691,17.10906], [52.68517,17.14631], [52.67211,17.15343], [52.67450,17.16176]]
+coords:                 [{"route": [[52.48936,16.90530], [52.50154,16.88942], [52.50786,16.88787], [52.52112,16.91174], [52.53052,16.91388], [52.54321,16.94864],   [52.54164,16.96589], [52.57660,16.96014], [52.58365,16.97182], [52.63670,16.94564], [52.65581,16.95834], [52.66290,17.05748], [52.69469,17.07052], [52.71393,17.09498], [52.70691,17.10906], [52.68517,17.14631], [52.67211,17.15343], [52.67450,17.16176]], "type": "bicycle"}]
 ---
 
 [wiki-morasko]:         https://pl.wikipedia.org/wiki/Morasko
@@ -51,7 +51,7 @@ Szczegóły
 ---------
 
 Z Radkiem spotkałem się w okolicy osiedla i wyruszyliśmy dalej w stronę [Moraska][wiki-morasko],
-a następnie skróciliśmy sobię drogę na [poligon][wiki-poligon] przez nieistniejącą wieś [Glinno][wiki-glinno]. 
+a następnie skróciliśmy sobię drogę na [poligon][wiki-poligon] przez nieistniejącą wieś [Glinno][wiki-glinno].
 
 Chwilę po tym dołączyliśmy do czerwonego szlaku rowerowego i już dalej nim spokojnie kierowaliśmy się
 w stronę [Biedruska][wiki-biedrusko]. Przejechaliśmy przez most na [Warcie][wiki-warta] i
@@ -67,7 +67,7 @@ podjazd na tej wycieczce.
 Następnie kierowaliśmy sie w stronę [Starczanowa][wiki-starczanowo]. Wioska ta jest położona pośrodku terenów
 leśnych. A na zachód od niej jest rezerwat [Śnieżycowy Jar][wiki-sniezycowy].
 
-Jechaliśmy dalej niebieskim szlakiem na północ w stronę [Uchorowa][wiki-uchorowo]. Niebieski szlak, 
+Jechaliśmy dalej niebieskim szlakiem na północ w stronę [Uchorowa][wiki-uchorowo]. Niebieski szlak,
 [nadwarciański][wiki-nadwarcianski] również skręca lekko na zachód i kieruje się
 w stronę [Obornik][wiki-oborniki].
 
@@ -92,6 +92,3 @@ Informacje końcowe
 Trasa ta, nie licząc pewnych rozbieżności, jest dla mnie wzorcowa. Jedzie się przez bardzo różne tereny i
 dlatego opis skopiuję do jednej z późniejszych przejażdzek. Rozszerzę go o opisy i filmy, jednak kolejne
 opisy będą już tylko odnosiły się, oraz będę w nich umieszczał tylko nowe ciekawostki.
-
-
-

@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
-coords-multi:           [[50.77370,15.73890], [50.76854,15.72998], [50.74701,15.72723], [50.74066,15.72461], [50.73658,15.73371]]
+coords:                 [{"route": [[50.77370,15.73890], [50.76854,15.72998], [50.74701,15.72723], [50.74066,15.72461], [50.73658,15.73371]], "type": "hike"}]
 ---
 
 [wiki-karpacz]:         https://pl.wikipedia.org/wiki/Karpacz
@@ -21,7 +21,7 @@ coords-multi:           [[50.77370,15.73890], [50.76854,15.72998], [50.74701,15.
 Wstęp
 -----
 
-Pierwsza zimowa styczność z górami i Karkonoszami. 
+Pierwsza zimowa styczność z górami i Karkonoszami.
 
 Szczegóły
 ---------
@@ -71,7 +71,7 @@ nie mieli takich wątpliwości. Ciekawe.
 Wnioski dodatkowe
 -----------------
 
-Bardzo zaciekawiły mnie mniejsze górki i trasa między [Kamienną Górą][wiki-kamienna] a 
+Bardzo zaciekawiły mnie mniejsze górki i trasa między [Kamienną Górą][wiki-kamienna] a
 [Kowarami][wiki-kowary]. Dopiero jakiś czas później dowiedziałem się, że to są [Rudawy Janowickie](/land/rudawy_janowickie/)
 Później miałem okazje trochę bardziej zwiedzić te okolice.
 

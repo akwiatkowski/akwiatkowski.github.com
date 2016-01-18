@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
-coords-multi:           [[49.25301,19.81492], [49.23990,19.80565], [49.22617,19.78496], [49.21781,19.79097], [49.21798,19.80419], [49.20565,19.80736], [49.24001,19.80625]]
+coords:                 [{"route": [[49.25301,19.81492], [49.23990,19.80565], [49.22617,19.78496], [49.21781,19.79097], [49.21798,19.80419], [49.20565,19.80736], [49.24001,19.80625]], "type": "hike"}]
 ---
 
 [wiki-gubalowka]:       https://pl.wikipedia.org/wiki/Guba%C5%82%C3%B3wka
@@ -52,4 +52,3 @@ który ma *tylko* 2002 metry wysokości, i tylko 45 minut podejścia i zejścia.
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
 A po tym była krew, pot i łzy... i bolące kolana. Udało nam się wrócić na ostatni autobus powrotny, który ruszał po 20tej.
-

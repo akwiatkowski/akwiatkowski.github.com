@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, bielsko-biala, wilkowice, czernichow]
 lands:                  [beskid_maly]
 
-coords-multi:           [[49.79170,19.06827], [49.79503,19.07308], [49.77995,19.10930], [49.76798,19.16664], [49.78528,19.19453], [49.78899,19.19359]]
+coords:                 [{"route": [[49.79170,19.06827], [49.79503,19.07308], [49.77995,19.10930], [49.76798,19.16664], [49.78528,19.19453], [49.78899,19.19359]], "type": "hike"}]
 ---
 
 [wiki-beskid-maly]:                   https://pl.wikipedia.org/wiki/Beskid_Ma%C5%82y

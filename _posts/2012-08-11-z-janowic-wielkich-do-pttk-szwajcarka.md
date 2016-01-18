@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
-coords-multi:           [[50.87858,15.91902], [50.86033,15.91344], [50.85979,15.90640], [50.85507,15.90683], [50.85193,15.89387], [50.86477,15.87550], [50.86331,15.87215]]
+coords:                 [{"route": [[50.87858,15.91902], [50.86033,15.91344], [50.85979,15.90640], [50.85507,15.90683], [50.85193,15.89387], [50.86477,15.87550], [50.86331,15.87215]], "type": "hike"}]
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
@@ -35,13 +35,13 @@ Szczegóły
 ---------
 
 Przyjechaliśmy pociągiem do [Janowic Wielkich][wiki-janowice] i po krótkiej chwili ruszyliśmy szlakiem na południe.
-Celem początkowym był [Zamek Bolczów][wiki-bolczow]. 
+Celem początkowym był [Zamek Bolczów][wiki-bolczow].
 
 Pogoda była dosyć mokra i mglista. Szliśmy przez las z lekkim podejściem. Co chwilę z mgły wynurzały się kolejne
 kamienie. Jak to jeden kolega powiedział, że te pasmo to tereny głównie spacerowe, ale co chwilę jest
 jakiś kamlot. Faktycznie tak było.
 
-Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow]. 
+Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow].
 
 <div class='pixels-photo'>
   <p>

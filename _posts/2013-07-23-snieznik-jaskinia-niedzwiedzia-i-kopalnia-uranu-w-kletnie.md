@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
-coords-multi:           [[50.20750,16.84779], [50.20393,16.83775], [50.20827,16.83234], [50.23430,16.84196], [50.24204,16.85363], [50.25763,16.85869], [50.26251,16.87294]]
+coords:                 [{"route": [[50.20750,16.84779], [50.20393,16.83775], [50.20827,16.83234], [50.23430,16.84196], [50.24204,16.85363], [50.25763,16.85869], [50.26251,16.87294]], "type": "hike"}]
 ---
 
 [wiki-masyw-snieznika]:         https://pl.wikipedia.org/wiki/Masyw_%C5%9Anie%C5%BCnika
@@ -50,4 +50,3 @@ Taki naturalnie występujący w przyrodzie, ale to też się liczy.
 
 Następnie wróciliśmy do schroniska, bo trochę czasu na to wszystko poszło. W międzyczasie jak w schronisku było
 nie dużu ludzi, tak na dole były prawie tłumy.
-

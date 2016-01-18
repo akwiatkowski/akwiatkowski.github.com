@@ -31,7 +31,7 @@ this.BlogMap = (function() {
   };
 
   BlogMap.prototype.startMap = function() {
-    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, len, len1, lineLayerCycle, lineLayerHike, lineLayerRegular, map, post, ref, ref1, sourceCircles, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, styleCircle, styleLineCycle, styleLineHike, styleLineRegular;
+    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerCycle, lineLayerHike, lineLayerRegular, map, post, ref, ref1, ref2, route, sourceCircles, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, styleCircle, styleLineCycle, styleLineHike, styleLineRegular;
     styleLineRegular = new ol.style.Style({
       stroke: new ol.style.Stroke({
         color: "#008800",
@@ -91,24 +91,35 @@ this.BlogMap = (function() {
         coords = [ol.proj.transform([post["coords-from"][1], post["coords-from"][0]], 'EPSG:4326', 'EPSG:3857'), ol.proj.transform([post["coords-to"][1], post["coords-to"][0]], 'EPSG:4326', 'EPSG:3857')];
         sourceLines.addFeature(new ol.Feature(new ol.geom.LineString(coords)));
       }
-      if (post["coords-multi"]) {
-        coords = [];
-        ref1 = post["coords-multi"];
+      if (post["coords"]) {
+        ref1 = post["coords"];
         for (j = 0, len1 = ref1.length; j < len1; j++) {
-          c = ref1[j];
-          ct = ol.proj.transform([c[1], c[0]], 'EPSG:4326', 'EPSG:3857');
-          coords.push(ct);
-        }
-        feature = new ol.Feature(new ol.geom.LineString(coords));
-        feature.set("post-date", post["date"]);
-        feature.set("post-url", post["url"]);
-        feature.set("post-title", post["title"]);
-        if (post.tags.indexOf("hike") >= 0) {
-          sourceLinesHike.addFeature(feature);
-        } else if (post.tags.indexOf("bicycle") >= 0) {
-          sourceLinesCycle.addFeature(feature);
-        } else {
-          sourceLinesRegular.addFeature(feature);
+          route = ref1[j];
+          if (route["route"]) {
+            console.log(route);
+            coords = [];
+            ref2 = route["route"];
+            for (k = 0, len2 = ref2.length; k < len2; k++) {
+              c = ref2[k];
+              ct = ol.proj.transform([c[1], c[0]], 'EPSG:4326', 'EPSG:3857');
+              coords.push(ct);
+            }
+            feature = new ol.Feature(new ol.geom.LineString(coords));
+            feature.set("post-date", post["date"]);
+            feature.set("post-url", post["url"]);
+            feature.set("post-title", post["title"]);
+            if (route["type"] === "hike") {
+              sourceLinesHike.addFeature(feature);
+            } else if (route["type"] === "bicycle") {
+              sourceLinesCycle.addFeature(feature);
+            } else if (route["type"] === "car") {
+              sourceLinesRegular.addFeature(feature);
+            } else if (route["type"] === "train") {
+              sourceLinesRegular.addFeature(feature);
+            } else {
+              sourceLinesRegular.addFeature(feature);
+            }
+          }
         }
       }
     }
@@ -144,11 +155,11 @@ this.BlogMap = (function() {
     interaction = new ol.interaction.Select();
     interaction.getFeatures().on("add", (function(_this) {
       return function(e) {
-        var img, k, l, last_p, len2, len3, new_image, obj, p, ref2, ref3, results;
+        var img, l, last_p, len3, len4, m, new_image, obj, p, ref3, ref4, results;
         last_p = null;
-        ref2 = e.target.b;
-        for (k = 0, len2 = ref2.length; k < len2; k++) {
-          obj = ref2[k];
+        ref3 = e.target.b;
+        for (l = 0, len3 = ref3.length; l < len3; l++) {
+          obj = ref3[l];
           p = obj.B;
           last_p = p;
           $("#links").html("");
@@ -158,10 +169,10 @@ this.BlogMap = (function() {
             href: p["post-url"]
           }).appendTo("#links");
         }
-        ref3 = _this.data["posts"];
+        ref4 = _this.data["posts"];
         results = [];
-        for (l = 0, len3 = ref3.length; l < len3; l++) {
-          post = ref3[l];
+        for (m = 0, len4 = ref4.length; m < len4; m++) {
+          post = ref4[m];
           if (post.url === last_p["post-url"]) {
             new_image = post["header-ext-img"];
             if (new_image) {

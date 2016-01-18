@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
 
-coords-multi:           [[50.90614,15.33580], [50.89117,15.32198], [50.89713,15.32108], [50.89082,15.31005], [50.88475,15.31533], [50.87750,15.34339], [50.87373,15.34511], [50.86615,15.35588], [50.85391,15.35863]]
+coords:                 [{"route": [[50.90614,15.33580], [50.89117,15.32198], [50.89713,15.32108], [50.89082,15.31005], [50.88475,15.31533], [50.87750,15.34339], [50.87373,15.34511], [50.86615,15.35588], [50.85391,15.35863]], "type": "hike"}]
 ---
 
 [wiki-jelenia]:                 https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
@@ -49,7 +49,7 @@ Pogoda była całkiem przyjemna, cały świat delikatnie ośnieżony.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Dojechaliśmy do [Jeleniej Góry][wiki-jelenia] i tam szliśmy z PKP do przystanku, z którego ruszał bus do
-[Świeradowa Zdroju][wiki-swieradow]. 
+[Świeradowa Zdroju][wiki-swieradow].
 Kierowca powiedział nam, że i tak by podjechał na PKP, ale co to za problem iść z PKP w okolicę PKS w
 normalnym polskim mieści? Ano jest, bo akurat w [Jeleniej][wiki-jelenia] odległość jest całkiem duża.
 Ciekawe kto wpadł na tak genialny

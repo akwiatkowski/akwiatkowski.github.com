@@ -10,7 +10,7 @@ tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 
-coords-multi:           [[49.40667,20.55332], [49.40921,20.56224], [49.40320,20.57018], [49.39681,20.58765], [49.39452,20.60027], [49.40276,20.61228], [49.42049,20.61645], [49.41878,20.62241], [49.42827,20.60301], [49.42674,20.59529], [49.40588,20.58864], [49.40605,20.57289], [49.40359,20.57224]]
+coords:                 [{"route": [[49.40667,20.55332], [49.40921,20.56224], [49.40320,20.57018], [49.39681,20.58765], [49.39452,20.60027], [49.40276,20.61228], [49.42049,20.61645], [49.41878,20.62241], [49.42827,20.60301], [49.42674,20.59529], [49.40588,20.58864], [49.40605,20.57289], [49.40359,20.57224]], "type": "hike"}]
 ---
 
 [wiki-rozdziela]:       https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Rozdziela
@@ -55,7 +55,7 @@ na [Przełęcz Roździela][wiki-rozdziela].
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Tam dalej znowu podejście, ale znacznie lżejsze, na północ niebieskim szlakiem. W większości szliśmy lekkim lasem.
-Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w 
+Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
 [Obidzy][wiki-obidza] lub [Przełęcz Gromadzka][wiki-gromadza].
 
 Pomimo tego że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,

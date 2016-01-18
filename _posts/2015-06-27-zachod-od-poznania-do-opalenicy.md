@@ -10,7 +10,7 @@ tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 
-coords-multi:           [[52.48654,16.79887], [52.45945,16.73072], [52.43194,16.69252], [52.42864,16.64618], [52.39660,16.62043], [52.35059,16.63364], [52.35049,16.64635], [52.34199,16.63038], [52.31860,16.62334], [52.31262,16.58850], [52.32259,16.53786], [52.30590,16.50696], [52.30706,16.44911], [52.31010,16.40430]]
+coords:                 [{"route": [[52.48654,16.79887], [52.45945,16.73072], [52.43194,16.69252], [52.42864,16.64618], [52.39660,16.62043], [52.35059,16.63364], [52.35049,16.64635], [52.34199,16.63038], [52.31860,16.62334], [52.31262,16.58850], [52.32259,16.53786], [52.30590,16.50696], [52.30706,16.44911], [52.31010,16.40430]], "type": "bicycle"}]
 ---
 
 [route]:                        https://www.strava.com/activities/334055350
@@ -81,7 +81,7 @@ Ciekawie zaczęło się robić po wyjeździe z Kiekrza ulicą Podjazdową. Na wy
 maksymalność prędkość podczas zjazdu na tej trasie - prawie 50km/h.
 
 Szlak rowerowy przebiega nad drogą [S11][wiki-s11] i jest przykładem "Polski w budowie". Jest to bardzo ładny wiadukt, do którego
-ktoś zapomniał poprowadzić odpowiednią drogę. Podobnym przykład jest niedaleko, między 
+ktoś zapomniał poprowadzić odpowiednią drogę. Podobnym przykład jest niedaleko, między
 [Pawłowicami][wiki-pawlowice] a [Sobotą][wiki-sobota].
 
 Dalej jechałem w stronę [Lusowa][wiki-lusowo], gdzie pojechałem do [Jeziora Lusowskiego][wiki-jezioro-lusowskie],
@@ -113,4 +113,3 @@ Dojechałem do dworca w [Opalenicy][wiki-opalenica] i tam postanowiłem skończy
 [małe czarne robaczki][wiki-wciornastki], których było wszędzie. Wszędzie na mnie. To był ciepły i parny dzień i chyba to je
 obudziło. Nie miałem ochoty ich zbierać i postanowiłem, że wrócę pociągiem do Poznania. Miałem ambicje na
 więcej, chciałem dojechać do Nowego Tomyśla, zrobić więcej niż 73km za jednym razem.
-

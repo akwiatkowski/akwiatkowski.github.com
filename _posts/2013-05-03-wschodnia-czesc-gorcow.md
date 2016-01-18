@@ -10,7 +10,7 @@ tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
 
-coords-multi:           [[49.44170,20.42852], [49.44510,20.41582], [49.46731,20.39951], [49.46848,20.38938], [49.48900,20.33951], [49.49240,20.27154], [49.49670,20.25969], [49.49146,20.23188], [49.49491,20.21394]]
+coords:                 [{"route": [[49.44170,20.42852], [49.44510,20.41582], [49.46731,20.39951], [49.46848,20.38938], [49.48900,20.33951], [49.49240,20.27154], [49.49670,20.25969], [49.49146,20.23188], [49.49491,20.21394]], "type": "hike"}]
 ---
 
 [wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
@@ -37,7 +37,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Zaczęliśmy od zamówienia transportu z [Jaworek][wiki-jaworki] do [Krościenka nad Dunajcem][wiki-kroscienko] i tam 
+Zaczęliśmy od zamówienia transportu z [Jaworek][wiki-jaworki] do [Krościenka nad Dunajcem][wiki-kroscienko] i tam
 zgodnie z [Głównym Szlakiem Beskidzkim][wiki-gsb] rozpoczął się dzisiejsza trasa. Poranek jak wspominałem był ładny
 i słoneczny. Gdzieniegdzie było widać poranne mgły powoli znikające.
 
@@ -58,7 +58,7 @@ Od tego momentu do końca dnia i przez następny dzień jestem słabo zadowolony
 Burza wracała, raz padało, raz nie padało. Cały czas szliśmy przez las, widoków za bardzo nie było. Tylko iść
 i nie myśleć.
 
-Dotarliśmy do [Studzionek][wiki-studzionki], jest to przysiółek [Ochotnicy Górnej][wiki-ochotnica]. 
+Dotarliśmy do [Studzionek][wiki-studzionki], jest to przysiółek [Ochotnicy Górnej][wiki-ochotnica].
 I mogę spokojnie polecić [nocleg][studzinki-nocleg] tam. Jest niedrogo, jest dobry klimat oraz
 jedzenie jest rewelacyjne.
 
