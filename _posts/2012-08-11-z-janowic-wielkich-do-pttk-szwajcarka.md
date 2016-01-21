@@ -10,12 +10,12 @@ tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
-coords:                 [{"route": [[50.87858,15.91902], [50.86033,15.91344], [50.85979,15.90640], [50.85507,15.90683], [50.85193,15.89387], [50.86477,15.87550], [50.86331,15.87215]], "type": "hike"}]
+coords:                 [{"route": [[50.87858,15.91902], [50.86033,15.91344], [50.85979,15.90640], [50.85507,15.90683], [50.85193,15.89387], [50.86477,15.87550], [50.86331,15.87215]], "type": "hike"}, {"route": [[50.77405,16.15106], [50.81333,16.11741], [50.80790,16.09853], [50.83220,16.03295], [50.88497,15.94455], [50.87717,15.91313], [50.87869,15.91880]], "type": "train"}]
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
 [wiki-janowice]:        https://pl.wikipedia.org/wiki/Janowice_Wielkie
-[wiki-bolczow]:		https://pl.wikipedia.org/wiki/Zamek_Bolcz%C3%B3w
+[wiki-bolczow]:		      https://pl.wikipedia.org/wiki/Zamek_Bolcz%C3%B3w
 [wiki-karpnicka]:       https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Karpnicka
 [wiki-szwajcarka]:      https://pl.wikipedia.org/wiki/Szwajcarka
 

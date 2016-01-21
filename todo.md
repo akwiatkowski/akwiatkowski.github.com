@@ -13,19 +13,12 @@ W planach
 --------------------------
 
 * [Beskid Makowski rowerem](/todos/beskid-makowski-rowerem)
-
 * [Kaczawskie rowerem](/todos/gory-kaczawskie-rowerem)
-
 * [Beskid Niski rowerem](/todos/beskid-niski-rowerem)
-
 * Jesień Karkonoszach/Rudawach/... - tylko na robienie zdjęć
-
 * [Dokończyć posty](/todos/posty-do-zrobienia)
-
 * Mazury rowerem
-
 * Drawieński Park Narodowy
-
 * Okolice Nowego Sącza rowerem
 
 Krótsze plany
