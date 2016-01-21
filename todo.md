@@ -38,14 +38,14 @@ Zima
 Plany
 -----
 
-* Wschód Słońca ze Śnieżnika zimą
+* Wschód/zachód Słońca w Karkonoszach - był Śnieżnik, jednak Karkonosze są
+  łatwiejsze do tego
 
 
 
 Wykonane
---------
+========
 
 * [Beskid Sądecki](/todos/beskid-sadecki)
-
 * Przejażdzka nad morze, ale zamiast Kołobrzeg koniec w Szczecinku:
   [1](/trip/2015/08/22/z-rebusza-do-cieszyno/) i [2](/trip/2015/08/23/z-cieszyno-do-szczecinka/)
