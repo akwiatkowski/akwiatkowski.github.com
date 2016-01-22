@@ -25,6 +25,7 @@ Krótsze plany
 -------------
 
 * rower [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km
+* rower [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km
 * rower [Trzcianka - Piła - Szczecinek](http://umapa.pl/kkMoT) - 105km, jednak
   prawdopodonie trasa będzie rozszerzona i zrobiona na 2 dni. Zalecałbym rozpocząć
   w Obornikach.

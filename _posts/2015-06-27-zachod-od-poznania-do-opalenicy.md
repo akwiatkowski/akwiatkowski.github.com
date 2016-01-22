@@ -6,7 +6,7 @@ date:                   2015-06-27 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/113434405/m%3D2048/b37a325381b845d289fc2f26ef14e99b"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 
@@ -41,6 +41,12 @@ coords:                 [{"route": [[52.48654,16.79887], [52.45945,16.73072], [5
 [wiki-opalenica]:               https://pl.wikipedia.org/wiki/Opalenica
 [wiki-wciornastki]:             https://pl.wikipedia.org/wiki/Wciornastki
 
+[vimeo-1]:                      https://vimeo.com/132985175
+[vimeo-2]:                      https://vimeo.com/133060105
+[vimeo-3]:                      https://vimeo.com/133060106
+[vimeo-4]:                      https://vimeo.com/133072226
+[vimeo-5]:                      https://vimeo.com/133091398
+
 Wstęp
 -----
 
@@ -70,12 +76,15 @@ Chcąc ruszyć na zachód wybrałem pierwszą możliwość. Tym razem nie chcia�
 [Moraską Górą][wiki-moraska-gora]. Dzień
 wcześniej padało i wszędzie były kałuże, nie chciało mi się bezcelowo walczyć z błotem.
 
-Trasa do [Złotnik][wiki-zlotniki] jest w miarę ciekawa, jak się jeździ ją rzadko. Trochę ubitego terenu, trochę cywilizacji obok,
+Trasa do [Złotnik][wiki-zlotniki] jest w miarę ciekawa, jak się jeździ ją rzadko.
+Trochę ubitego terenu, trochę cywilizacji obok,
 krótki "singletrack". Za Złotnikami w stronę [Kiekrza][wiki-kiekrz] zaczęło robić się ciekawiej,
 chociaż to bardzo subiektywne stwierdzenie
 gdyż trudno określić dlaczego było ciekawiej. Jest to po prostu długa droga przecinająca pola.
 
 Kiekrz jest w praktyce częścią Poznania, jak i wioską obok.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/132985175' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Ciekawie zaczęło się robić po wyjeździe z Kiekrza ulicą Podjazdową. Na wysokości [Regierówka][wiki-regierowko] osiągnąłem chyba
 maksymalność prędkość podczas zjazdu na tej trasie - prawie 50km/h.
@@ -88,16 +97,22 @@ Dalej jechałem w stronę [Lusowa][wiki-lusowo], gdzie pojechałem do [Jeziora L
 obok którego jest żółty szlak rowerowy.
 Jest to chyba najciekawszy element całej trasy. Szlak ten wije się w pobliżu jeziora, trzeba uważać na drzewa i zakręty.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/133060105' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Następnie chciałem jechać czerwonym szlakiem, skręcając w las, ale nie chciało mi się walczyć z błotem. To mi
 ponownie przypomniało, że tego dnia należy przemyśleć swoje plany i będzie trzeba je zmieniać na bieżąco.
 
 Dojechałem do [Drwęsy][wiki-drwesa] wybierając asfalt i ubitą polną ścieżkę, obok której było pole jakiś
 niebieskich roślinek. Wrzucę zdjęcie później.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/133060106' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Następnie kierowałem się na południe, obok [Jeziora Niepruszewskiego][wiki-jezioro-niepruszewskie].
 Ma one około 5km długości. Minąłem tory,
 którymi później będę wracał, i dotarłem do miejscowości [Podłoziny][wiki-podloziny]. Zaciekawiło mnie to, że jeździ tam autobus
 [792][dopiewo-bus-792]. Przejechałem sporo na trasie tego autobusu, a trasa częściowo nie jest asfaltowa.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/133072226' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 [Żarnowiec][wiki-zarnowiec] jest małą osadą, w którym jest [źródełko][wiki-zarnowiec-zrodelko]. Woda wypływa ze zbocza
 wzniesienia. Według wikipedii takie źródełka są tylko w Tatrach i Jurze Krakowsko-Częstochowskiej.
@@ -108,6 +123,8 @@ Nie był to fragment żadnego szlaku rowerowego, ale musiałem przez nie jechać
 
 Dopiero za [Kozłowem][wiki-kozlowo] wjechałem w las i minąłem rzekę Mogielnicę. Było to chyba jedyne co mnie zaciekawiło
 pod koniec trasy. Chyba robię się *wymagający*.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/133091398' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Dojechałem do dworca w [Opalenicy][wiki-opalenica] i tam postanowiłem skończyć trasę na dzisiaj. Głównym powodem były
 [małe czarne robaczki][wiki-wciornastki], których było wszędzie. Wszędzie na mnie. To był ciepły i parny dzień i chyba to je

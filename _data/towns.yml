@@ -96,6 +96,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: brodnica
+  name: Brodnica
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: buk
   name: Buk
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
