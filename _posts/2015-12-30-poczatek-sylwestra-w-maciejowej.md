@@ -35,7 +35,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem IC[wiki-pkp-ic] całkiem szybko.
+Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem szybko.
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 

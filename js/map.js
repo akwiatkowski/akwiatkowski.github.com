@@ -31,12 +31,13 @@ this.BlogMap = (function() {
   };
 
   BlogMap.prototype.startMap = function() {
-    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, post, ref, ref1, ref2, route, sourceCircles, sourceLinesBus, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
+    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, post, ref, ref1, ref2, route, sourceCircles, sourceLinesBus, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
     strokeWidth = 3;
     strokeWidthLesser = 3;
+    opacityLesser = 0.4;
     styleLineCar = new ol.style.Style({
       stroke: new ol.style.Stroke({
-        color: [0, 0, 80, 0.7],
+        color: [0, 0, 80, opacityLesser],
         width: strokeWidthLesser
       }),
       fill: new ol.style.Fill({
@@ -45,7 +46,7 @@ this.BlogMap = (function() {
     });
     styleLineBus = new ol.style.Style({
       stroke: new ol.style.Stroke({
-        color: [0, 80, 80, 0.7],
+        color: [0, 80, 80, opacityLesser],
         width: strokeWidthLesser
       }),
       fill: new ol.style.Fill({
@@ -54,7 +55,7 @@ this.BlogMap = (function() {
     });
     styleLineTrain = new ol.style.Style({
       stroke: new ol.style.Stroke({
-        color: [80, 80, 0, 0.7],
+        color: [80, 80, 0, opacityLesser],
         width: strokeWidthLesser
       }),
       fill: new ol.style.Fill({

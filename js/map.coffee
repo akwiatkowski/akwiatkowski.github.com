@@ -29,23 +29,24 @@ class @BlogMap
   startMap: () ->
     strokeWidth = 3
     strokeWidthLesser = 3
+    opacityLesser = 0.4
     styleLineCar = new ol.style.Style(
       stroke: new ol.style.Stroke(
-        color: [0, 0, 80, 0.7]
+        color: [0, 0, 80, opacityLesser]
         width: strokeWidthLesser
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
     styleLineBus = new ol.style.Style(
       stroke: new ol.style.Stroke(
-        color: [0, 80, 80, 0.7]
+        color: [0, 80, 80, opacityLesser]
         width: strokeWidthLesser
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
     styleLineTrain = new ol.style.Style(
       stroke: new ol.style.Stroke(
-        color: [80, 80, 0, 0.7]
+        color: [80, 80, 0, opacityLesser]
         width: strokeWidthLesser
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")

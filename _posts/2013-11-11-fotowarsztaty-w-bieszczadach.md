@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "Fotowarsztaty w Bieszczadach"
+title:                  "Fotowarsztaty w Bieszczadach w 2013r."
 subtitle:               "czyli jak wydobyć coś ciekawego z mgły, deszczu i złej pogody"
 date:                   2013-11-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -10,7 +10,7 @@ tags:                   [hike, workshop, mountains]
 towns:                  [podkarpackie, olszanica, lutowiska, czarna_bieszczady]
 lands:                  [bieszczady]
 
-coords:                 [{"route": [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]], "type": "hike"}]
+coords:                 [{"route": [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]], "type": "hike"}, {"route": [[49.31687,22.72390], [49.29314,22.73463]], "type": "bus"}]
 ---
 
 [wiki-bieszczady]:      https://pl.wikipedia.org/wiki/Bieszczady
