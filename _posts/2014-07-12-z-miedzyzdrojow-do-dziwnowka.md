@@ -11,6 +11,8 @@ towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
 lands:                  [wybrzeze_trzebiatowskie]
 
 coords:                 [{"route": [[53.92476,14.45505], [53.93289,14.48303], [53.93198,14.53744], [53.96522,14.61658], [53.95896,14.65246], [53.99086,14.68730], [53.99954,14.67735], [54.03464,14.80644]], "type": "bicycle"}]
+distance:               40
+time_spent:             7
 ---
 
 [wiki-miedzyzdroje]:      https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje   

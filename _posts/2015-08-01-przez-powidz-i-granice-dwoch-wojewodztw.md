@@ -11,6 +11,8 @@ towns:                  [wielkopolskie, kujawsko_pomorskie, strzalkowo, powidz, 
 lands:                  [powidzki_park_krajobrazowy]
 
 coords:                 [{"route": [[52.31132,17.80849], [52.36512,17.88866], [52.36397,17.93930], [52.41112,17.90909], [52.45162,18.02341], [52.48676,18.04436], [52.48017,18.08607], [52.53889,18.14547], [52.56467,18.10547], [52.62150,18.16006], [52.62182,18.12555], [52.64567,18.11594]], "type": "bicycle"}]
+distance:               78
+time_spent:             8
 ---
 
 [vimeo-1]:               https://vimeo.com/135293381

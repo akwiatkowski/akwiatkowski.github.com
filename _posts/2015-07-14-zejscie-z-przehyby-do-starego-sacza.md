@@ -11,6 +11,8 @@ towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
 lands:                  [beskid_sadecki]
 
 coords:                 [{"route": [[49.46621,20.55671], [49.46682,20.56692], [49.46955,20.57293], [49.47680,20.56104], [49.49412,20.56563], [49.49866,20.57915], [49.51271,20.59864], [49.51739,20.61700], [49.55638,20.63735]], "type": "hike"}]
+distance:               16
+time_spent:             6
 ---
 
 Wstęp

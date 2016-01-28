@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [[50.85242,16.00485], [50.85345,15.99515], [50.83697,15.97112], [50.81984,15.97446]], "type": "hike"}, {"route": [[50.86322,15.87262], [50.86609,15.87000], [50.86403,15.86859]], "type": "hike"}, {"route": [[50.86319,15.87284], [50.86666,15.88047], [50.87327,15.87850], [50.87842,15.87138], [50.88348,15.87090]], "type": "hike"}]
+distance:               12
+time_spent:             5
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie

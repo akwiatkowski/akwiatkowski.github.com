@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.76273,15.63848], [50.76059,15.65569], [50.75953,15.68328], [50.75299,15.69453], [50.74289,15.69788], [50.73935,15.72903]], "type": "hike"}]
+distance:               8
+time_spent:             5
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki

@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, gluszyca, walim, pieszyce]
 lands:                  [gory_sowie]
 
 coords:                 [{"route": [[50.67679,16.39555], [50.68552,16.41276], [50.68528,16.42194], [50.67543,16.43907], [50.66224,16.46585], [50.67135,16.48026], [50.68027,16.48559], [50.67638,16.51155], [50.68237,16.50417], [50.68900,16.51644], [50.68389,16.54374], [50.67323,16.54322]], "type": "hike"}]
+distance:               20
+time_spent:             8
 ---
 
 [wiki-gory-sowie]:      https://pl.wikipedia.org/wiki/G%C3%B3ry_Sowie
@@ -76,13 +78,13 @@ minęliśmy tylko dwa ciekawe miejsce:
 * [Stara Jodła][wiki-stara-jodla] - miejsce znane, ale mnie tam nic nie poruszyło,
   jak mam być szczery
 
-  <div class='pixels-photo'>
-    <p>
-      <img src='https://drscdn.500px.org/photo/61626643/m%3D900/33b8b8eb53df6600912fbf554b702f08' alt='Old house in Kamionki by Aleksander Kwiatkowski on 500px.com'>
-    </p>
-    <a href='https://500px.com/photo/61626643/old-house-in-kamionki-by-aleksander-kwiatkowski' alt='Old house in Kamionki by Aleksander Kwiatkowski on 500px.com'></a>
-  </div>
-  <script type='text/javascript' src='https://500px.com/embed.js'></script>
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/61626643/m%3D900/33b8b8eb53df6600912fbf554b702f08' alt='Old house in Kamionki by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/61626643/old-house-in-kamionki-by-aleksander-kwiatkowski' alt='Old house in Kamionki by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Po rozpakowaniu się wyskoczyliśmy "na miasto". Każdemu polecam spróbować spokój,
 jaki jest po sezonie w sudeckich wioskach.

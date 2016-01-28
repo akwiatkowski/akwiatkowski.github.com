@@ -11,6 +11,8 @@ towns:                  [zachodnio_pomorskie, dziwnow, rewal, trzebiatow, kolobr
 lands:                  [wybrzeze_trzebiatowskie, wybrzeze_slowinskie]
 
 coords:                 [{"route": [[54.03434,14.80592], [54.05167,14.92986], [54.06044,14.93038], [54.09529,15.08127], [54.10002,15.17002], [54.14378,15.28932], [54.16419,15.47729], [54.17554,15.55969], [54.21039,15.72517]], "type": "bicycle"}]
+distance:               81
+time_spent:             11
 ---
 
 [vimeo-1]:               https://vimeo.com/103796121

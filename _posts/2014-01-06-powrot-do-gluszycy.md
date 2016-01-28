@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, walim, gluszyca]
 lands:                  [gory_sowie]
 
 coords:                 [{"route": [[50.66415,16.47301], [50.66224,16.46576], [50.66828,16.44855], [50.65971,16.43907], [50.65977,16.42546], [50.67160,16.41443], [50.67312,16.40190], [50.67663,16.39521]], "type": "hike"}]
+distance:               9
+time_spent:             3
 ---
 
 [wiki-gss]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki

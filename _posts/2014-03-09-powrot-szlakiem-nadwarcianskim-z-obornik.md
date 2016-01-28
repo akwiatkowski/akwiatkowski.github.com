@@ -10,6 +10,8 @@ tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, oborniki, murowana_goslina, czerwonak, poznan]
 
 coords:                 [{"route": [[52.64383,16.82057], [52.63810,16.87825], [52.62763,16.91610], [52.61893,16.93661], [52.61184,16.92649], [52.60845,16.93584], [52.60861,16.95670], [52.58948,16.97009], [52.58348,16.97189], [52.57639,16.95979], [52.54164,16.96562], [52.54080,16.95361]], "type": "bicycle"}]
+distance:               46
+time_spent:             6
 ---
 
 [wiki-nadwiarcianski]:      https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy

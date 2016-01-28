@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 
 coords:                 [{"route": [[50.68911,16.20685], [50.68520,16.23346], [50.68696,16.23981], [50.69577,16.25208], [50.69430,16.26178], [50.68685,16.26689], [50.68487,16.27818], [50.68702,16.23981]], "type": "hike"}]
+distance:               12
+time_spent:             6
 ---
 
 [wiki-kamienne]:        https://pl.wikipedia.org/wiki/G%C3%B3ry_Kamienne

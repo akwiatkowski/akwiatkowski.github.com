@@ -11,7 +11,8 @@ towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
 
 coords:                 [{"route": [[50.78088,15.90932], [50.76296,15.86743], [50.74613,15.82332], [50.75558,15.81611], [50.75243,15.79156], [50.78196,15.76203]], "type": "hike"}]
-
+distance:               20
+time_spent:             8
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie

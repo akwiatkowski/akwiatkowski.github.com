@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
 coords:                 [{"route": [[50.20816,16.83277], [50.21552,16.83552], [50.24786,16.81406], [50.25181,16.80479], [50.24434,16.78325], [50.22837,16.76514]], "type": "hike"}, {"route": [[50.22852,16.76361], [50.22939,16.73838], [50.21676,16.70233], [50.20798,16.65117]], "type": "bus"}]
+distance:               14
+time_spent:             5
 ---
 
 [wiki-masyw-snieznika]:         https://pl.wikipedia.org/wiki/Masyw_%C5%9Anie%C5%BCnika

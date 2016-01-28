@@ -11,6 +11,8 @@ towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
 coords:                 [{"route": [[49.58598,19.99756], [49.58976,19.98898], [49.59799,19.98649], [49.60300,19.96598], [49.60951,19.95267]], "type": "hike"}]
+distance:               7
+time_spent:             2
 ---
 
 [wiki-luban]:           https://pl.wikipedia.org/wiki/Luba%C5%84_(Gorce)

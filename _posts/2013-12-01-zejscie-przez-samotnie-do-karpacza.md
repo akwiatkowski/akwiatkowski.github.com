@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.75098,15.70817], [50.74829,15.70410], [50.74992,15.69994], [50.75570,15.70260], [50.76501,15.70483], [50.77088,15.71470], [50.77576,15.71654], [50.77706,15.72633]], "type": "hike"}]
+distance:               8
+time_spent:             3
 ---
 
 [wiki-karpacz]:                 https://pl.wikipedia.org/wiki/Karpacz

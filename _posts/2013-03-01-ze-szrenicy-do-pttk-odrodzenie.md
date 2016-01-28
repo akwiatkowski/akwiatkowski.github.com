@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, szklarska, podgorzyn]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.79134,15.51325], [50.77956,15.53544], [50.77742,15.55724], [50.77671,15.60179], [50.76520,15.62239], [50.76314,15.63985]], "type": "hike"}]
+distance:               12
+time_spent:             6
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki

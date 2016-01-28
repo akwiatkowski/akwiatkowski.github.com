@@ -10,6 +10,8 @@ tags:                   [bicycle, todo_media]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 
 coords:                 [{"route": [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]], "type": "bicycle"}, {"route": [[52.74809,18.11518], [52.71940,18.04738], [52.66321,17.94781], [52.65827,17.94601]], "type": "train"}]
+distance:               18
+time_spent:             1
 ---
 
 [vimeo]:                 https://vimeo.com/136709850

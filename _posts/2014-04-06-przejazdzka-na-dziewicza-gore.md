@@ -9,8 +9,9 @@ categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, swarzedz, czerwonak]
 
-distance:               75
 coords:                 [{"route": [[52.40338,16.95538], [52.39951,16.98800], [52.39532,17.01572], [52.40589,17.03091], [52.41684,17.06636], [52.42720,17.06318], [52.42997,17.07288], [52.46225,17.06722], [52.48991,17.06378], [52.49017,17.02877], [52.47977,17.01031], [52.47428,17.00722], [52.44070,17.05821], [52.42956,17.07074]], "type": "bicycle"}]
+distance:               66
+time_spent:             7
 ---
 
 [wiki-puszcza-zielonka]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka

@@ -11,6 +11,8 @@ towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
 
 coords:                 [{"route": [[50.76105,16.16990], [50.74517,16.16728], [50.73827,16.14261], [50.72007,16.15801], [50.70213,16.17827], [50.70221,16.19265], [50.69091,16.19874], [50.68917,16.20719]], "type": "hike"}]
+distance:               17
+time_spent:             8
 ---
 
 [wiki-boguszow-gorce]:  https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce
