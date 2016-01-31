@@ -5,7 +5,7 @@ subtitle:               "czyli zmęczenie przed Sylwestrem"
 date:                   2015-12-31 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/134921833/m%3D2048/1a17b6a07b5deb734f47a9da30bae87b"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka, niedzwiedz, nowy_targ]
 lands:                  [gorce]

@@ -5,7 +5,7 @@ subtitle:               "zapierająca dech biel"
 date:                   2016-01-16 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136604421/m%3D2048/7163852183b878689a3c4c405f636b4d"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]

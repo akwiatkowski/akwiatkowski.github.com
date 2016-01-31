@@ -5,7 +5,7 @@ subtitle:               "zejście czarnym szlakiem"
 date:                   2016-01-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]

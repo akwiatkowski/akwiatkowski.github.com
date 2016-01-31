@@ -5,7 +5,7 @@ subtitle:               "na koniec świata przez śnieg"
 date:                   2016-01-15 23:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, klodzko, miedzylesie]
 lands:                  [masyw_snieznika]

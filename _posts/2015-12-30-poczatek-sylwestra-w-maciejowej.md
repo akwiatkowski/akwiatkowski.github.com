@@ -5,7 +5,7 @@ subtitle:               "dojazd do Rabki przez Beskid Makowski i podejście"
 date:                   2015-12-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/134966611/m%3D2048/c9bf3a2f10eb9b591a0b5ed15e53494b"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]

@@ -5,7 +5,7 @@ subtitle:               "pierwsza szansa na wieczorne zdjęcia w zimie w górach
 date:                   2016-01-17 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012"
-categories:             localhost
+categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, miedzylesie]
 lands:                  [masyw_snieznika]
