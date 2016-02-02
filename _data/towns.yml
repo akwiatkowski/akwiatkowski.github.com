@@ -61,6 +61,13 @@
   inside:
     - lubuskie
 
+- slug: bedzin
+  name: Będzin
+  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
+  type: town
+  inside:
+    - slaskie
+
 - slug: bedzino
   name: Będzino
   header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
@@ -152,6 +159,13 @@
   inside:
     - dolnoslaskie
 
+- slug: czeladz
+  name: Czeladź
+  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
+  type: town
+  inside:
+    - slaskie
+
 - slug: czempin
   name: Czempin
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -172,6 +186,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: dabrowa_gornicza
+  name: Dąbrowa Górnicza
+  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
+  type: town
+  inside:
+    - slaskie
 
 - slug: darlowo
   name: Darłowo
@@ -305,6 +326,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: krakow
+  name: Kraków
+  header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
+  type: town
+  inside:
+    - malopolskie
 
 - slug: krynica_zdroj
   name: Krynica Zdrój

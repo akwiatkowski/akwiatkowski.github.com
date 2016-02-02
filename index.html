@@ -11,11 +11,11 @@ header-ext-img: https://drscdn.500px.org/photo/98061073/m%3D2048/008b8fbb94a699c
 {% assign post_number = posts_count | plus: paginator.per_page | minus: counter | plus: 1%}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title"> 
+        <h2 class="post-title">
           {{ post_number }}.
           {{ post.title }}
         </h2>
-        
+
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
@@ -26,6 +26,8 @@ header-ext-img: https://drscdn.500px.org/photo/98061073/m%3D2048/008b8fbb94a699c
 </div>
 <hr>
 {% endfor %}
+
+<p>{{ if paginator.total_pages }}</p>
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
