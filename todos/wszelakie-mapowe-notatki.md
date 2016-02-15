@@ -14,3 +14,5 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 * [Mosina - Jelenia Góra](http://umapa.pl/yJzD9) - 205km
 * [Szczecin - Kostrzyn](http://umapa.pl/Zptz7) - 166km
 * [Rabka - Szaflary: wokół Gorców](http://umapa.pl/UmwFO) - 107km
+* [Skoki - Somonino](http://umapa.pl/KejlQ) - 236km
+* [Wronki - Skwierzyna](http://umapa.pl/uv9TG) - 76km

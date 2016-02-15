@@ -7,34 +7,38 @@ permalink: /todos/beskid-niski-rowerem/
 header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
 ---
 
+[wiki-zadowice]:                  https://pl.wikipedia.org/wiki/Wadowice
+
+
 Beskid Niski na rowerze
 =======================
 
-Trasa ogólna to pociągiem do Nowego Sącza i dalej na wschód. Przejazd przez
+[Pełna trasa](http://umapa.pl/8oPCq)
 
-* Hańczowa
-* Krempna
-* Jaśliska
+Plan części początkowej:
 
-Powrót również pociągiem. Jazda asfaltem i polnymi drogami, możliwe unikanie podjazdów w terenie.
-Jazda ze sakwami, śpiwór, ale bez karimaty i namiotu. Możliwość rozszerzenia przez Bieszczady, jak się da.
-Średnio ponad 50km dziennie, powinno wyjść 5 dni.
+* dzień 0 - dojazd do Gliwic pociągiem, tam nocleg
+* dzień 1 - dojazd za Oświęcim, gdzieś w okolicy [Wadowic][wiki-zator] - [91km](http://umapa.pl/j5mnL)
+* dzień 2 - dojazd do [Kasiny Wielkiej][wiki-kasina-wielka] - [65km](http://umapa.pl/9oncO)
+* dzień 3 - dojazd za Nowy Sącz - przynajmniej [49km](http://umapa.pl/I5MNK)
+* dzień 4 - dojazd do Hańczowej - przynajmniej [49km](http://umapa.pl/50Pz8)
+* dzień 5 - dojazd do okolic Tylawy [55km](http://umapa.pl/SV0bQ)
+* dzień 6 - dojazd do okolic Komańczy - przynajmniej [38km](http://umapa.pl/ySI7m)
 
-[Mapa](https://goo.gl/maps/qDDyy)
+Wersja z szybkim powrotem:
+
+* dzień 7 - dojazd do Zagórza [30km](http://umapa.pl/Jg5Wf)
+
+Opcje:
+
+* można skrócić 3 dni dojeżdzajac pociągiem do Nowego Sącza
+* można rozszerzyć o 2-4 robiąc pętle przez Bieszczady
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgUZ0efaplU" frameborder="0" allowfullscreen></iframe>
 
-Trasy UMP
 
-[bn-pelny]:     http://trasy.ump.waw.pl/?hl=pl&loc=49.625671,20.691305&loc=49.577259,20.757935&loc=49.602287,20.922318&loc=49.579556,20.989141&loc=49.541306,21.025652&loc=49.549286,21.077976&loc=49.490871,21.344561&loc=49.476925,21.428392&loc=49.500954,21.544144&loc=49.455040,21.777435&loc=49.420795,21.903467&loc=49.342247,22.074541&loc=50.037231,22.005520&z=10&center=49.790131,21.025085&alt=0&df=0&re=2&ly=611352508
-[bsc-pelny]:    http://trasy.ump.waw.pl/?hl=pl&loc=49.625671,20.691303&loc=49.577259,20.757936&loc=49.602287,20.922318&loc=49.579556,20.989140&loc=49.541306,21.025652&loc=49.549286,21.077976&loc=49.490871,21.344561&loc=49.476925,21.428392&loc=49.500954,21.544147&loc=49.455040,21.777435&loc=49.420795,21.903467&loc=49.342247,22.074533&loc=49.209167,22.273413&loc=49.145428,22.497482&loc=49.102425,22.635183&loc=49.254601,22.690060&loc=49.551998,22.646465&loc=49.709396,22.758362&loc=49.780910,22.774445&z=9&center=49.491323,21.066284&alt=0&df=0&re=2&ly=611352508
-
-Wersja Beskid Niski [skrót][http://umapa.pl/AhXxV] [pełny][bn-pelny].
-
-Wersja z Bieszczadami [skrót][http://umapa.pl/d74Am] [pełny][bsc-pelny].
-
-Szczegółowa analiza
-===================
+Śmieci szczegółowej analizy
+---------------------------
 
 Etap 1
 ------
@@ -49,7 +53,7 @@ Etap 1
 [gugle-kamionka-wlk]:   https://www.google.pl/maps/@49.575251,20.778068,3a,75y,69.97h,75.78t/data=!3m7!1e1!3m5!1ss8MWGdeNkv0198_KttzVIg!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3Ds8MWGdeNkv0198_KttzVIg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D100%26h%3D80%26yaw%3D154.66179%26pitch%3D0!7i13312!8i6656!6m1!1e1
 
 Dojazd pociagiem do [Nowego Sącza][ump-nowy-sacz]. Następnie po 4km wyjazd [zielonym szlakiem rowerowym na wschód][ump-nowy-sacz2].
-Można jechać przez [Kamionkę Małą][gugle-kamionka-wlk] - lepsza droga, albo przez [Głębuszek][gugle-glebuszek] - też asfalt, 
+Można jechać przez [Kamionkę Małą][gugle-kamionka-wlk] - lepsza droga, albo przez [Głębuszek][gugle-glebuszek] - też asfalt,
 bardziej pofalowany teren. Do [Królowej Polski][ump-krolowa-pl] droga jest dobra, aż do [Grybowa][ump-grybow].
 
 Z Grybowa wyjazd ulicą Zdrojową, jest całkiem spoko droga. Problemem może się okazać 1.5km pod górą Chełm, tam będzie teren

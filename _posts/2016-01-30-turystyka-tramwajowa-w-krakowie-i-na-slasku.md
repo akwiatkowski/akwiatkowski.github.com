@@ -6,7 +6,7 @@ date:                   2016-01-30 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d"
 categories:             trip
-tags:                   [rail, tram, todo]
+tags:                   [rail, tram, todo_media]
 towns:                  [malopolskie, slaskie, krakow, czeladz, bedzin, dabrowa_gornicza]
 lands:                  [gop]
 

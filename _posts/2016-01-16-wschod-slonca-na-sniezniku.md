@@ -6,7 +6,7 @@ date:                   2016-01-16 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136604421/m%3D2048/7163852183b878689a3c4c405f636b4d"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -47,7 +47,23 @@ Trasy opisywać nie będę, bo był tylko śnieg i drzewa. Z czasem było tylko 
 Było to ogromnie monotonne i przydałoby się trochę słońca, które dałoby jakieś
 barwy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/139588949/m%3D900/9edefb2999974c9ae72c17d3c7631289' alt='Meeting below Śnieżnik by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/139588949/meeting-below-%C5%9Anie%C5%BCnik-by-aleksander-kwiatkowski' alt='Meeting below Śnieżnik by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Z ciekawszysch momentów dnia były trzy zwierzaki, które spotkaliśmy wokół
 [schroniska][wiki-schronisko].
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/137672441/m%3D900/76ec513cc1b09e512ee4776a8641fe8e' alt='Wild animals not being such wild by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/137672441/wild-animals-not-being-such-wild-by-aleksander-kwiatkowski' alt='Wild animals not being such wild by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Tego dnia poszliśmy spać około 20-tej. Wszyscy byli bardzo zmęczeni.
