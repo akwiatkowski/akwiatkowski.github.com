@@ -60,6 +60,14 @@ Następnie kolejne podejście na wzgórze nad [Rdzawką][wiki-rdzawka]. Mieliśm
 tam zobaczyć [kościół][wiki-rdzawka-kosciol], jednak robiło się zimniej niż
 w poprzednich dniach i trzeba było wracać.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/140612373/m%3D900/ea8f35e67c6490acb16d81eeace7302a' alt='Wooden fence in Gorce by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/140612373/wooden-fence-in-gorce-by-aleksander-kwiatkowski' alt='Wooden fence in Gorce by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Szliśmy przez [Rdzawkę][wiki-rdzawka] na północ. Gdy doszliśmy do miejsca, w którym
 [Rdzawka][wiki-rdzawka] i [Ponice][wiki-ponice] łączą się z [Rabką][wiki-rabka]
 zaczęliśmy szukać szlaku. Udało nam się znaleźć stary szlak (był na mapie papierowej),

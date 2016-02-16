@@ -39,6 +39,14 @@ Dostałem informację o utrudnieniach na drodzę i reszta ludzi przyjedzie z op�
 Wyciągnąłem statyw i zacząłem robić zdjęcia w okolicy stacji. Te 20 minut
 upłynęło bardzo szybko.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/140420543/m%3D900/d4917b566ab4d20bb8d0107072aebca3' alt='Night near Kłodzko Główne by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/140420543/night-near-k%C5%82odzko-g%C5%82%C3%B3wne-by-aleksander-kwiatkowski' alt='Night near Kłodzko Główne by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Ruszyliśmy samochodem na południę w stronę [Międzylesia][wiki-miedzylesie] jadąc
 drogą [33][wiki-33].
 Docelowo jechaliśmy do [Jodłowa][wiki-jodlow], gdzie mieliśmy nocleg. Zgodnie

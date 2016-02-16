@@ -62,6 +62,14 @@ powrót do [bazy][wiki-maciejowa]. Tłumów dużych nie było, wydaję mi się, 
 Zastanawiam się, jak zimno było rowerzystom, którzy przyjechali na
 [Turbacz][wiki-turbacz] tego dnia.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/140613147/m%3D900/fea86be28dd81642846429e9449ce517' alt='Babia Góra and return from Turbacz by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/140613147/babia-g%C3%B3ra-and-return-from-turbacz-by-aleksander-kwiatkowski' alt='Babia Góra and return from Turbacz by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Wracaliśmy po zmroku końcówkę. Chyba z ponad 30 minut szliśmy na czołówce. Byliśmy
 wyraźnie zmęczeni, a przecież jeszcze impreza sylwestrowa się szykowała.
 
