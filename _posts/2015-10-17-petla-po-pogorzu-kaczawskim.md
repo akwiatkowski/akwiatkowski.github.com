@@ -52,6 +52,14 @@ Przez te tereny biegnie trasa kolejowa, niestety już nieczynna i bardzo zaniedb
 Ruszyliśmy lekkim podejściem na zachód w stronę [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Szliśmy przez lekko
 pofalowane pola. Bym powiedział że miejscami zbyt lekko, ale w zimie może to być istotna zaleta.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/140810969/m%3D900/9d44c157d9117b2429449f799876a447' alt='Old house in Rząśnik by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/140810969/old-house-in-rz%C4%85%C5%9Bnik-by-aleksander-kwiatkowski' alt='Old house in Rząśnik by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Dotarliśmy do [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Jesienią sudecki w taką pogodę
 wioski robią się jeszcze bardziej sudecki, czyli smutniejsze, szarsze. Bieda, opuszczone domy, gdzieniegdzie
 mniej biedy. W lecie jak jest ciepło na pewno będzie tam radośniej.
@@ -72,7 +80,23 @@ Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre
 Szliśmy przez las we mgle, niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/130141625/m%3D900/96d7ec1e102c8db42d1f649d4c6b786f' alt='Ascend in the fog by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/130141625/ascend-in-the-fog-by-aleksander-kwiatkowski' alt='Ascend in the fog by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i dalej.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/128754487/m%3D900/0e6e89497cbbf9abedef167fd568acea' alt='Wood storage and hut in Kaczawskie mountains by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/128754487/wood-storage-and-hut-in-kaczawskie-mountains-by-aleksander-kwiatkowski' alt='Wood storage and hut in Kaczawskie mountains by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Po dotarciu do drogi asfaltowej, którą już wracaliśmy i schodziliśmy miałem na GPS około 18km.
 Droga ta idealna jest na rower, którym bez wysiłku pokonałbym większość pozostałej trasy. Jak widzę
