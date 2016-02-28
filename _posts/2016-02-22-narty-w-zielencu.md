@@ -4,7 +4,7 @@ title:                  "Narty w Zieleńcu"
 subtitle:               "przyjazd w zimie, odjazd podczas jesieni"
 date:                   2016-02-22 22:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d"
+header-ext-img:         "https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b"
 categories:             trip
 tags:                   [ski, todo]
 towns:                  [dolnoslaskie]
