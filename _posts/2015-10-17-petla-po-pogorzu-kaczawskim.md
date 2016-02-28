@@ -77,6 +77,14 @@ już, a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przer
 podejście. Niby strome, ale szybko minęło. Pogoda zaczęła się "psuć", pojawiała się mgła.
 Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre zdjęcia, a bez mgły robi się nudniejszy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/140836127/m%3D900/906711beccdeaddbcc0e2a49960cc86c' alt='Ruin of Rząśnik palace by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/140836127/ruin-of-rz%C4%85%C5%9Bnik-palace-by-aleksander-kwiatkowski' alt='Ruin of Rząśnik palace by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Szliśmy przez las we mgle, niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 

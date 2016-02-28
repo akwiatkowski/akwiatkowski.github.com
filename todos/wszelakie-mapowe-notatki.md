@@ -16,3 +16,5 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 * [Rabka - Szaflary: wokół Gorców](http://umapa.pl/UmwFO) - 107km
 * [Skoki - Somonino](http://umapa.pl/KejlQ) - 236km
 * [Wronki - Skwierzyna](http://umapa.pl/uv9TG) - 76km
+* [Bardo - Brzeg](http://umapa.pl/s0qFp) - 82km
+* [Bardo - Poznań](http://umapa.pl/GvhCw) - 302km

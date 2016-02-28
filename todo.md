@@ -6,6 +6,8 @@ permalink: /todos/
 header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9
 ---
 
+[Wszelakie linki mapowe](/todos/linki_mapowe/)
+
 Lato
 ====
 

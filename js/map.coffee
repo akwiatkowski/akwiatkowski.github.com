@@ -72,6 +72,13 @@ class @BlogMap
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
+    styleLineCanoe = new ol.style.Style(
+      stroke: new ol.style.Stroke(
+        color: "#000099"
+        width: strokeWidth
+      )
+      fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
+    )
     styleCircle = new ol.style.Style(
       stroke: new ol.style.Stroke(
         color: "#FF0000"
@@ -82,6 +89,7 @@ class @BlogMap
 
     geojsonObject = {}
     sourceCircles = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
+    sourceLinesCanoe = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
     sourceLinesCycle = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
     sourceLinesHike = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
     sourceLinesTrain = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
@@ -143,6 +151,8 @@ class @BlogMap
               sourceLinesHike.addFeature(feature)
             else if route["type"] == "bicycle"
               sourceLinesCycle.addFeature(feature)
+            else if route["type"] == "canoe"
+              sourceLinesCanoe.addFeature(feature)
             else if route["type"] == "car"
               sourceLinesCar.addFeature(feature)
             else if route["type"] == "bus"
@@ -157,6 +167,10 @@ class @BlogMap
       style: styleCircle
     )
 
+    lineLayerCanoe = new ol.layer.Vector(
+      source: sourceLinesCanoe,
+      style: styleLineCanoe
+    )
     lineLayerCycle = new ol.layer.Vector(
       source: sourceLinesCycle,
       style: styleLineCycle
@@ -193,7 +207,8 @@ class @BlogMap
         lineLayerBus,
         lineLayerTrain,
         lineLayerHike,
-        lineLayerCycle
+        lineLayerCycle,
+        lineLayerCanoe
       ]
       view: new ol.View(
         center: ol.proj.transform([19.4553, 51.7768], 'EPSG:4326', 'EPSG:3857'),

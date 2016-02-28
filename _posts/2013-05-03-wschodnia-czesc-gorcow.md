@@ -54,6 +54,14 @@ i słoneczny. Gdzieniegdzie było widać poranne mgły powoli znikające.
 Rozpoczęliśmy około 3-godzinne podejście z trochę ponad 400m n.p.m do 1211m n.p.m. - do [Lubania][wiki-luban].
 Strasznie rozgrzewające są takie podejścia. A przez początkową część mieliśmy całkiem dobre widoki.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/141732027/m%3D900/d3582f42c9b7cad08e416978685bbbae' alt='Entering Gorce from Krościenko by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/141732027/entering-gorce-from-kro%C5%9Bcienko-by-aleksander-kwiatkowski' alt='Entering Gorce from Krościenko by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Gdy dotarliśmy na [Lubań][wiki-luban] zaczęła się burza. Schroniliśmy się w drewnianym szałasie, pod którym
 ktoś już rozpalił ognisko. Burza była krótka, ale z gradobiciem. Postanowiliśmy ruszać dalej jak się ona skończyła.
 Od tego momentu do końca dnia i przez następny dzień jestem słabo zadowolony z trasy, ale to nie jest wina trasy.

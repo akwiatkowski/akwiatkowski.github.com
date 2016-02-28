@@ -37,6 +37,14 @@ Szczegóły
 Opis będzie bardzo krótki. Nie było żadnych widoków, tylko wilgoć, szaruga, mgła i... totalnie szaro. Przeszliśmy
 [22km][trasa] i zrobiłem jedynie 3 zdjęcia, z których byłbym zadowolony.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/141793991/m%3D900/17e97545515183d8ead80cdb0157438c' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/141793991/foggy-forest-in-gorce-by-aleksander-kwiatkowski' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Jak jest tak brzydko to się tylko idzie i nie zwraca uwagi na nic. Może mając statyw i czas bym coś w lesie zrobił.
 Może.
 
