@@ -6,7 +6,7 @@ date:                   2013-07-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/49060748/m%3D2048/16f60768c8815f6fdec6cdc226da8192"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -25,7 +25,9 @@ time_spent:             7
 Wstęp
 -----
 
-Pierwsza wizyta w [Beskidzie Żywieckim][wiki-beskid-zywiecki], w [Worku Raczański][wiki-worek].
+Pierwsza wizyta w [Beskidzie Żywieckim][wiki-beskid-zywiecki], w [Worku Raczańskim][wiki-worek].
+
+Po słabej pogodzie na majówce, ten wypad miał mieć znacznie lepszą pogodę.
 
 Opis trasy
 ----------
@@ -35,10 +37,8 @@ Opis trasy
 Szczegóły
 ---------
 
-Po słabej pogodzie na majówce, ten wypad miał mieć znacznie lepszą pogodę.
-
 Wysiadliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
-wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze widoki, moim zdaniem.
+wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze, moim zdaniem, widoki.
 
 <div class='pixels-photo'>
   <p>
@@ -48,7 +48,7 @@ wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze widoki, 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Minęliśmy schronisko [Dworzec Beskidz][wiki-zwardon-schron]. Wyglądało ono jakby było w wiecznym remoncie wtedy.
+Minęliśmy schronisko [Dworzec Beskidzki][wiki-zwardon-schron]. Wyglądało ono wtedy jakby było w wiecznym remoncie.
 Może teraz funkcjonuje, ale tego sam nie wiem. Tam podejście było raczej normalne, nawet lekkie.
 
 Po pewnym czasie pojawiły się polany. Według mnie to są najładniejsze tereny w górach. Wyżej są lasy, z których widoków
@@ -63,14 +63,17 @@ widok na doliny i góry, takie dobre urozmaicenie.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Gdy minęliśmy polany rozpoczęło się mocniejsze podejście. Z ciekawostek na trasie to mieliśmy spotkanie ze
-słowacką terenówką, która ugrzęzła w błocie. Pomogliśmy im, chociaż później przypomnieliśmy że jesteśmy
-w obszarze [Natura 2000][wiki-natura].
+Gdy minęliśmy polany rozpoczęło się konkretniejsze podejście.
 
-Po tym znowu podejście. Było ciepło i zaczęło brakować nam wody. Może nie że zaczęło, ale mieliśmy jej nie za dużo.
+Z ciekawostek na trasie to mieliśmy spotkanie ze
+słowacką terenówką która ugrzęzła w błocie. Pomogliśmy im, chociaż później przypomnieliśmy że jesteśmy
+w obszarze [Natura 2000][wiki-natura] i oni nie powinni tu jeździć.
+
+Dalej znowu podejście. Było bardzo ciepło i zaczęło brakować nam wody. Może nie że zaczęło brakować, ale mieliśmy jej
+nie za dużo i musieliśmy oszczędzać.
 A jak jest ciepło nikt nie lubi jej oszczędzać. Jakiś czas później spotkaliśmy sztucznie ulepszony strumyk i
 skorzystaliśmy z niego. Nikt nie miał sraczki, więc jest dobrze.
 
 Do [Schroniska na Wielkiej Raczy][wiki-schron-racza] dotarliśmy chyba przed 17tą. Jedzenie, a po tym odpoczynek
 i oglądanie zachodu Słońca na wieży obserwacyjnej. Zasnąłem po 20tej tak dobrze, że Krzychu musiał mnie obudzić
-bo ktoś do mnie dzwonił i ja tego nie słyszałem.
+bo ktoś do mnie dzwonił i ja tego nie słyszałem. Ten dzień to najlepsze lekarstwo na bezsenność.

@@ -6,7 +6,7 @@ date:                   2013-05-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33587579/m%3D2048/f3a8c435a5a9d2fef30eb5aba09f155d"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 
@@ -32,8 +32,8 @@ time_spent:             7
 Wstęp
 -----
 
-Zaplanowanie majówki nie było łatwe. Koniec końców wyszło że 2 dni w [Pieninach][wiki-pieniny] i 3 dni na [Gorce][wiki-gorce],
-które są obok.
+Zaplanowanie majówki nie było łatwe. Koniec końców wyszło że 2 dni na [Pieniny][wiki-pieniny] i 3 dni na [Gorce][wiki-gorce],
+które są niedaleko.
 
 Opis trasy
 ----------
@@ -43,10 +43,12 @@ Opis trasy
 Szczegóły
 ---------
 
-Pierwszego dnia wyruszyliśmy na wschód żółtym szlakiem przez [Białą wodę][wiki-biala-woda]. Wiosna była
-wtedy jeszcze trochę niemrawa, jakby potrzebowała z 2 tygodnie aby pokazać się w pełni. Po drodzę na początku
+Pierwszego dnia wyruszyliśmy w kierunku wschódnim żółtym szlakiem przez [Białą wodę][wiki-biala-woda]. Wiosna była
+wtedy jeszcze trochę niemrawa, jakby potrzebowała z dodatkowe 2 tygodnie aby pokazać się w pełni.
+
+Trasa na początku
 wyglądało jakbyśmy szli przez mały wąwóz, później trochę więcej polan, jakiś strumyk i podejście
-na [Przełęcz Roździela][wiki-rozdziela].
+na [Przełęcz Roździela][wiki-rozdziela]. Im wyżej tym mieliśmy lepsze widoki za plecami.
 
 <div class='pixels-photo'>
   <p>
@@ -56,13 +58,15 @@ na [Przełęcz Roździela][wiki-rozdziela].
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Tam dalej znowu podejście, ale znacznie lżejsze, na północ niebieskim szlakiem. W większości szliśmy lekkim lasem.
-Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
-[Obidzy][wiki-obidza] lub [Przełęcz Gromadzka][wiki-gromadza].
+Dalej było znowu podejście na północ niebieskim szlakiem, ale tym razem znacznie lżejsze. Prawie cały czas
+szliśmy lekkim lasem. Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
+[Obidzy][wiki-obidza] lub [Przełęczy Gromadzkiej][wiki-gromadza].
 
-Pomimo tego że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,
-to zachowawczość wzięła górę. Chociaż to tłumaczyliśmy "zgodnością z podstawowym planem", albo "może
-być za późno". Faktycznie to teraz nie pamiętam jak późno było.
+Pomimo tego, że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,
+to zachowawczość wzięła górę i nie zaliczyliśmy jej.
+Chociaż to tłumaczyliśmy "zgodnością z podstawowym planem", albo "może
+być za późno". Faktycznie to teraz nie pamiętam jak późno było, ale jestem zadowolony z godziny
+o której wracaliśmy.
 
 <div class='pixels-photo'>
   <p>

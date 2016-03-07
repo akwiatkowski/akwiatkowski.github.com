@@ -6,7 +6,7 @@ date:                   2013-02-08 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28173489/m%3D2048/41ecb7f85314d5275a384ec04d0774b5"
 categories:             trip
-tags:                   [hike, mountains, best, uncorrected]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, swieradow_zdroj, szklarska]
 lands:                  [gory_izerskie]
 
@@ -27,7 +27,7 @@ Wstęp
 -----
 
 Początkowy plan to było jak najsensowniej wrócić z [Chatki Górzystów][wiki-chatka-gorzystow] na
-[Główny Szlak Sudecki][wiki-gss]. Okazało się że plany się rozbiegły z rzeczywistością.
+[Główny Szlak Sudecki][wiki-gss]. Okazało się, że plany się rozbiegły z rzeczywistością.
 
 Opis trasy
 ----------
@@ -37,8 +37,9 @@ Opis trasy
 Szczegóły
 ---------
 
-Zaczęliśmy około godziny 8 wychodząc ze schroniska. Powinniśmy iść szlakie żółtym w stronę czerwonego, ale nie
-zauważyliśmy szlaku, więc poszliśmy niebieskim. Tam jacyś ludzie kiedyś szli i były ślady, wiec pewnie warto nim iść.
+Zaczęliśmy około godziny 8 wychodząc ze schroniska. Powinniśmy iść szlakiem żółtym w stronę czerwonego, ale nie
+zauważyliśmy szlaku, więc poszliśmy ostatecznie niebieskim. Tam jacyś ludzie kiedyś
+szli i były ślady, wiec pewnie warto nim iść.
 
 <div class='pixels-photo'>
   <p>
@@ -49,7 +50,7 @@ zauważyliśmy szlaku, więc poszliśmy niebieskim. Tam jacyś ludzie kiedyś sz
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Okazało się, że to ludzie szli pewnie do schroniska [Orle][wiki-orle], co nie było nam po drodzę.
-Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwone. Taki był aktualny plan.
+Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwonego. Taki był aktualny plan.
 
 <div class='pixels-photo'>
   <p>
@@ -59,9 +60,9 @@ Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwo
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Niestety te 2-3km szlaku obok Jagnięcego Potoku było przez las, kompletnie nieprzetartym szlakiem.
+Niestety te 2-3km szlaku obok Jagnięcego Potoku było przez las kompletnie nieprzetartym szlakiem.
 Co ciekawe, były tam malutkie szczeliny, ale wystarczające aby się w nie władować. Raz się
-przewróciłem i nie miałem plecaka dobrze zapiętego. Teraz wiem że wstać z plecakiem nie jest łatwe,
+przewróciłem i nie miałem dobrze zapiętego plecaka. Teraz wiem, że wstać z plecakiem nie jest łatwe,
 zwłaszcza jeżeli jest się w zapadającym śniegu.
 
 <div class='pixels-photo'>
@@ -88,14 +89,15 @@ Skróciliśmy sobie drogę z 13km do około 6km. Cóż, zima.
 Z centrum [Szklarskiej Poręby][wiki-szklarska] dotarliśmy do schroniska [Kamieńczyk][wiki-kamienczyk]
 idąc głównie przez miasto. Jedynie ostatnie kilkaset metrów jest trochę stromę.
 
-Schronisko to jest z jednej strony nie za daleko od miasta, a z drugiej stronie akceptują tam ludzi,
+Schronisko to jest z jednej strony blisko miasta, a z drugiej strony akceptują tam ludzi,
 którzy chcą spać tylko jedną noc. W mieście chyba nikt takich ludzi nie chce.
 
 Wnioski
 -------
 
 Zima nigdy nie jest pewna i nigdy niewiadomo ile czasu zajmie dany szlak. Standardowe mnożenie razy 2
-nie zawsze działa. A jak nie działa, to mocno nie działa.
+nie zawsze działa. A jak nie działa, to może być źle. Czas przejścia to jedno, ale jak dane przejście
+męczy to drugie.
 
 Wiele osób lubi koloryzować o przechodzeniu bardzo długich odległości w śniegu po kolana, ale ja uważam,
 że jest to tak męczące, że aż bezsensowne i niemożliwe.

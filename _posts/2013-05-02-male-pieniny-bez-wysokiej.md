@@ -6,7 +6,7 @@ date:                   2013-05-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33223201/m%3D2048/1bf72e0a8a4a64cee53fe2a207e36209"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 
@@ -46,10 +46,12 @@ Ruszyliśmy w kierunku [Wąwózu Homole][wiki-homole]. Niby znane miejsce, a tru
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Jak się on skończył to zaczęły się pienińskie polany. I to one były dla mnie bardziej interesujące.
+Po tym jak przeszliśmy [Wąwóz Homole][wiki-homole] to zaczęły się pienińskie polany.
+I to one były dla mnie bardziej interesujące.
 
-W planie było wejście na [Wysoką][wiki-wysoka], jednak lekko popadało i słychać było burzę. Jakoś mi się
+W planie było wejście na [Wysoką][wiki-wysoka], jednak trochę popadało i słychać było burzę. Jakoś mi się
 odechciało. Znowu przejaw ostrożności, albo zachowawczości, jednak ja uważam, że to jest zaleta.
+[Wysoką][wiki-wysoka] nie ucieknie, a ciekawe jak wyglądają te tereny jesienią.
 
 <div class='pixels-photo'>
   <p>
@@ -63,7 +65,7 @@ Kierowaliśmy się na zachód widząc zbliżającą się burzę. Na wysokości [
 w stronę [schroniska][wiki-durbaszka-schron] o takiej samej nazwie. Tam przeczekaliśmy burzę siedząc ponad godzinę
 i patrząc co się dzieje wokół. Zrobiło się dość mgliście.
 
-Jak deszcz się uspokoił zaczęliśmy schodzić, pomimo tego, że burzę było cały czas słychać i nie uciekła
+Jak deszcz się uspokoił zaczęliśmy schodzić, pomimo tego, że burzę było cały czas było słychać i widac. Nie uciekła
 ona daleko.
 
 <div class='pixels-photo'>
@@ -74,7 +76,7 @@ ona daleko.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Będąc już w dolinie zaczęło ponownie padać, więc schroniliśmy się obok wejścia do [Wąwózu Homole][wiki-homole]
+Będąc już w dolinie zaczęło ponownie mocno padać, więc schroniliśmy się obok wejścia do [Wąwózu Homole][wiki-homole]
 i po pewnym czasie wracaliśmy do [Jaworek][wiki-jaworki].
 
-Pogorszenie pogody towarzyszyło nam prawie do końca majówki.
+Pogorszenie pogody towarzyszyło nam prawie do końca majówki, jak się później okazało.

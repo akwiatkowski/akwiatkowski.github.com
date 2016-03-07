@@ -6,7 +6,7 @@ date:                   2013-03-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28149127/m%3D2048/aad9f95f41b5dabe9ecff196f1ae8298"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]
 
@@ -38,8 +38,8 @@ Opis trasy
 Szczegóły
 ---------
 
-Wstałem około 6tej i poszedłem korytarzem w schronisku do okna z którego mogłem zrobić jakieś zdjęcia okolicy o poranku.
-Gdybym wiedział że będzie taka pogoda, to wziąłbym statyw, wsałbym godzinę wcześniej i wyszedł ze schroniska.
+Wstałem około 6-tej i poszedłem korytarzem w schronisku do okna z którego mogłem zrobić jakieś zdjęcia okolicy o poranku.
+Gdybym wiedział że będzie taka pogoda, to wziąłbym statyw, wstałbym godzinę wcześniej, ubrał i wyszedł ze schroniska.
 
 <div class='pixels-photo'>
   <p>
@@ -53,8 +53,8 @@ Wyruszliśmy na wschód idąc [Głównym Szlakiem Sudeckim][wiki-gss]. Szliśmy 
 polskiej. Najstromiej na lewo było w okolicy [Samotni][wiki-samotnia], czyli obok [Wielkiego Stawu][wiki-wielki-staw]
 oraz [Małego Stawu][wiki-maly-staw].
 
-Idąc na wysokości widok w dolinie z jednej strony jest idealny, z drugiej strony zmienia się on bardzo powoli.
-Chociaż dziwię się, że w najlepszych zdjęciach, nie mam żadnego zdjęcia dolin.
+Idąc na wysokości widok dolin z jednej strony jest idealny, z drugiej strony zmienia się on bardzo powoli.
+Chociaż dziwię się, że w najlepszych zdjęciach, nie mam żadnego zdjęcia "dolin z góry".
 
 <div class='pixels-photo'>
   <p>
@@ -64,9 +64,9 @@ Chociaż dziwię się, że w najlepszych zdjęciach, nie mam żadnego zdjęcia d
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Gdy po lewej widzieliśmy schronisko [Strzecha Akademicka][wiki-strzecha] na wprost była [Śnieżka][wiki-sniezka].
+Gdy po lewej widzieliśmy schronisko [Strzecha Akademicka][wiki-strzecha] na wprost już była [Śnieżka][wiki-sniezka].
 Dotarliśmy do [Domu Śląskiego][wiki-dom-slaski] na jedzenie. Były plany aby spróbować wejść na [Śnieżkę][wiki-sniezka]
-przy tak idealnej pogodzie, ale możliwe, że byłyby problemy z powrotem wtedy. Dlatego zachowawczo zjechaliśmy
+przy tak idealnej pogodzie, ale możliwe że byłyby problemy z powrotem wtedy. Dlatego zachowawczo zjechaliśmy
 kolejką do [Karpacza][wiki-karpacz].
 
 <div class='pixels-photo'>

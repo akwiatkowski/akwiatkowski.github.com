@@ -6,7 +6,7 @@ date:                   2013-02-07 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28157011/m%3D2048/2e4a7c609eb6d14033338dd2dab9ced0"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
 
@@ -25,7 +25,7 @@ time_spent:             7
 Wstęp
 -----
 
-Była to pierwszy wycieczka z Krzychem i jednocześnie próba przejścia liniowego pewnej trasy przez więcej niż 2 dni.
+Była to pierwszy wycieczka z Krzychem i jednocześnie próba przejścia liniowo pewnej trasy, przez więcej niż 2 dni.
 
 Opis trasy
 ----------
@@ -74,7 +74,7 @@ W sumie nawet fajnie.
 
 I tak kierowaliśmy się już po raczej płaskim terenie do [Chatki Górzystów][wiki-chatka-gorzystow]. Wszędzie drzewa
 i śnieg. Po drodzę minęliśmy ludzi, którzy średnio potrafili mówić po polsku, a tym bardziej już teraz nie
-pamiętam czego chcieli.
+pamiętam czego chcieli, ale chyba być w innym miejscu niż byli.
 
 Dopiero wieczorem, gdy już zbliżaliśmy się do schroniska chmury robiły się rzadsze i przedostawało się słońce.
 Wieczorne słońce w zimie w górach to jedna z najpiękniejszych rzeczy.
@@ -99,4 +99,4 @@ krajobraz.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 [Chatka Górzystów][wiki-chatka-gorzystow] jest specyficznym schroniskiem. Klimatyczne, bez prądu, w zimie przystosowane
-głównie dla narciarzy biegowych. Oprócz jednej rodziny byliśmy tam jedynymi osobami, które dostały się na pieszo.
+głównie dla narciarzy biegowych. Oprócz jednej rodziny byliśmy tam jedynymi osobami, które dostały się pieszo.

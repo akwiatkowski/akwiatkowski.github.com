@@ -6,7 +6,7 @@ date:                   2013-05-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -23,7 +23,7 @@ time_spent:             2
 Wstęp
 -----
 
-Jak to pisałem wcześniej, jeżeli pogoda jest zła, to następnego dnia będzie dobra (ale nadal zła). I tak tutaj mocno się
+Tak jak to pisałem wcześniej, jeżeli pogoda jest zła, to następnego dnia będzie dobra (albo nadal zła). I tak tutaj mocno się
 to spełniło. W sensie - była dobra.
 
 Opis trasy
@@ -47,5 +47,5 @@ Z jednej strony za drzewami widzieliśmy [Tatry][wiki-tatry], z drugiej [Luboń 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Przeszliśmy przez 3 dni całe [Gorce][wiki-gorce], jednak w najciekawszym obszarze pogoda nie pozwalała
-abyśmy cokolwiek ciekawego widzieli. Niestety czasem tak bywa.
+Przeszliśmy przez 3 dni całe [Gorce][wiki-gorce], jednak w pogoda nie pozwalała
+abyśmy mieli szanse podziwiać widoki. Niestety czasem tak bywa.

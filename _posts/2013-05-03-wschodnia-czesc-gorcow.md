@@ -6,7 +6,7 @@ date:                   2013-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/34474028/m%3D2048/95df032502c17261a54d2896d072d890"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
 
@@ -28,8 +28,8 @@ time_spent:             9
 Wstęp
 -----
 
-Poranek był ładny, ale parny, a my chcieliśmy przejść prawie połowę [Gorców][wiki-gorce] idąc
-[Głównym Szlakiem Beskidzkim][wiki-gsb]
+Poranek był ładny, ale było czuć wilgoś w powietrzu, a my chcieliśmy przejść prawie połowę [Gorców][wiki-gorce] idąc
+[Głównym Szlakiem Beskidzkim][wiki-gsb]. Nic złego nie może się wydarzyć.
 
 Opis trasy
 ----------
@@ -40,8 +40,8 @@ Szczegóły
 ---------
 
 Zaczęliśmy od zamówienia transportu z [Jaworek][wiki-jaworki] do [Krościenka nad Dunajcem][wiki-kroscienko] i tam
-zgodnie z [Głównym Szlakiem Beskidzkim][wiki-gsb] rozpoczął się dzisiejsza trasa. Poranek jak wspominałem był ładny
-i słoneczny. Gdzieniegdzie było widać poranne mgły powoli znikające.
+zgodnie z [Głównym Szlakiem Beskidzkim][wiki-gsb] rozpoczęła się dzisiejsza trasa. Poranek jak wspominałem był ładny
+i słoneczny, jednak wilgotny. Gdzieniegdzie było widać powoli znikające poranne mgły.
 
 <div class='pixels-photo'>
   <p>
@@ -63,13 +63,14 @@ Strasznie rozgrzewające są takie podejścia. A przez początkową część mie
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Gdy dotarliśmy na [Lubań][wiki-luban] zaczęła się burza. Schroniliśmy się w drewnianym szałasie, pod którym
-ktoś już rozpalił ognisko. Burza była krótka, ale z gradobiciem. Postanowiliśmy ruszać dalej jak się ona skończyła.
-Od tego momentu do końca dnia i przez następny dzień jestem słabo zadowolony z trasy, ale to nie jest wina trasy.
+ktoś już rozpalił ognisko. Burza z gradobiciem była krótka. Postanowiliśmy ruszać dalej jak się skończyła.
+Od tego momentu do końca dnia i przez następny dzień jestem słabo zadowolony z trasy, ale to nie jest wina samej trasy.
 Burza wracała, raz padało, raz nie padało. Cały czas szliśmy przez las, widoków za bardzo nie było. Tylko iść
 i nie myśleć.
 
 Dotarliśmy do [Studzionek][wiki-studzionki], jest to przysiółek [Ochotnicy Górnej][wiki-ochotnica].
-I mogę spokojnie polecić [nocleg][studzinki-nocleg] tam. Jest niedrogo, jest dobry klimat oraz
+Mogę spokojnie polecić [nocleg][studzinki-nocleg] tam. Jest niedrogo, dobry klimat oraz
 jedzenie jest rewelacyjne.
 
 Wieczorem poszwendaliśmy się jeszcze chwilę po okolicy, ale raczej nic istotnego nie widziałem.
+Dobrze oceniam tą wioskę.

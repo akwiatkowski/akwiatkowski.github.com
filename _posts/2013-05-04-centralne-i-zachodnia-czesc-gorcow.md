@@ -6,7 +6,7 @@ date:                   2013-05-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/34473826/m%3D2048/4e1d4f7f46cb5ba9b277a92ebac70dba"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, nowy_targ, niedzwiedz, rabka]
 lands:                  [gorce]
 
@@ -16,6 +16,8 @@ time_spent:             11
 ---
 
 [trasa]:                http://mapa-turystyczna.pl/route/zwiw
+
+[wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
 [wiki-schron-turbacz]:  https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Turbaczu
 [wiki-stare-wierchy]:   https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Starych_Wierchach
 [wiki-maciejowa]:       https://pl.wikipedia.org/wiki/Bac%C3%B3wka_PTTK_na_Maciejowej
@@ -24,7 +26,7 @@ time_spent:             11
 Wstęp
 -----
 
-Trasa ta jest połączeniem najciekawszego szlaku z prawie najgorszą możliwą pogodą.
+Trasa ta jest połączeniem najciekawszego szlaku w [Gorcach][wiki-gorce] z prawie najgorszą możliwą pogodą.
 
 Opis trasy
 ----------

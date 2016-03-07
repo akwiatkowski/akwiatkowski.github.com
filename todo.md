@@ -22,6 +22,7 @@ W planach
 * Mazury rowerem
 * Drawieński Park Narodowy
 * Okolice Nowego Sącza rowerem
+* Pieniny jesienią
 
 Krótsze plany
 -------------

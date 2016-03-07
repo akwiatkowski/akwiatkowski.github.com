@@ -6,7 +6,7 @@ date:                   2013-07-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41617556/m%3D2048/7427716299d2442b18d82293caf50d88"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -17,6 +17,7 @@ time_spent:             7
 
 [wiki-rycerzowa]:               https://pl.wikipedia.org/wiki/Wielka_Rycerzowa
 [wiki-przegibek]:               https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Przegibek_(Beskid_%C5%BBywiecki)
+[wiki-schron-racza]:            https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Wielkiej_Raczy
 
 [trasa]:                        http://mapa-turystyczna.pl/route/zkb2
 
@@ -30,12 +31,14 @@ Szczegóły
 
 GPS mi coś źle nagrał trasę, dlatego szlak jest [tutaj][trasa].
 
-Po wyjściu ze schroniska było trochę chłodno, ale po rozruszaniu się już zrobiło się idealnie. Rosa na trawie,
-szczyty w chmórach, bardziej soczysta zieleń trasy i lasów. Chociaż z tą zielona trawą to nie jest taka
+Po wyjściu rano ze [schroniska][wiki-schron-racza] było trochę chłodno, jednak po rozruszaniu
+się już zrobiło się idealnie. Rosa na trawie,
+szczyty w chmurach, bardziej soczysta zieleń trawy i lasów - całkiem było fajnie. Chociaż z tą zieloną
+trawą to nie jest taka
 całkowita prawda. W niektórych miejscach ona była brązowa, albo nawet czerwonana.
 
 Po pewnym czasie weszliśmy w las i tak szliśmy prawie aż do [Przełęczy Przegibek][wiki-przegibek], gdzie
-był czas na jakieś solidne jedzenie. Trochę musieliśmy spowrotem pójść, aby dostać się do czerwonego
+był czas na jakieś solidne jedzenie. Trochę musieliśmy się cofnąć, aby dostać się do czerwonego
 szlaku do [Rycerzowej][wiki-rycerzowa].
 
 Znowu szliśmy przez las i chyba nic ciekawego tam nie było. Dopiero gdy schodziliśmy z

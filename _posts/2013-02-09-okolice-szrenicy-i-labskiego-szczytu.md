@@ -35,7 +35,7 @@ Szczegóły
 ---------
 
 Nie chciało nam się podchodzić na [Szrenicę][wiki-szrenica], dlatego poszliśmy w stronę wyciągu. Tutaj pokręciły się nam
-drogi i nadłożyliśmy trochę drogi. Chyba musieliśmy zejść fragmentem stoku.
+drogi i nadłożyliśmy trochę trasy. Chyba musieliśmy zejść fragmentem stoku.
 
 <div class='pixels-photo'>
   <p>
@@ -46,10 +46,11 @@ drogi i nadłożyliśmy trochę drogi. Chyba musieliśmy zejść fragmentem stok
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Ze [Szrenicy][wiki-szrenica] szliśmy dalej [Głównym Szlakiem Sudeckim][wiki-gss] obserwując jak Polska
-wygląda z dołu, a Czechy z porównywalnego poziomu.
+wygląda z dołu, a Czechy z porównywalnego poziomu. Wydaję mi się że Polska dostała tylko 1/3 gór, a 2/3
+mają Czechy.
 
 Chciałem iść w stronę [Śnieżnych Kotłów][wiki-kotly], ale niepewna pogoda oraz nawisy
-mnie przekonały, że to nie jest takie ważne. Również ludziom się średnio chciało chodzić. Takie
+mnie przekonały, że to nie jest takie istotne. Również ludziom się średnio chciało chodzić. Takie
 lenistwo nas zaatakowało.
 
 <div class='pixels-photo'>
