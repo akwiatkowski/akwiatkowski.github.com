@@ -6,7 +6,7 @@ date:                   2012-04-15 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/24121245/m%3D2048/2dcbb0c6d9c7a029f0c9a75a7e55492f"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [slaskie, ustron]
 lands:                  [beskid_slaski]
 
@@ -15,10 +15,15 @@ distance:               14
 time_spent:             5
 ---
 
+[wiki-beskid-slaski]:         https://pl.wikipedia.org/wiki/Beskid_%C5%9Al%C4%85ski
+[wiki-orlowa]:                https://pl.wikipedia.org/wiki/Or%C5%82owa_(g%C3%B3ra)
+[wiki-rownica]:               https://pl.wikipedia.org/wiki/R%C3%B3wnica
+[wiki-brenna]:                https://pl.wikipedia.org/wiki/Brenna
+
 Wstęp
 -----
 
-Pierwszy dzień krótkiej wycieczki w Beskid Śląski. Tego dnia jeszcze nie było tak szaro, dlatego postanowiliśmy
+Pierwszy dzień krótkiej wycieczki w [Beskid Śląski][wiki-beskid-slaski]. Tego dnia jeszcze nie było tak szaro, dlatego postanowiliśmy
 pozwiedzać trochę okolicy.
 
 Opis trasy
@@ -29,11 +34,13 @@ Opis trasy
 Szczegóły
 ---------
 
-Na Orłowej nawet nie zauważyliśmy czy to już to, czy już przeszliśmy szczyt. Spotkaliśmy tam szwendającego się kota
-obok byłego schroniska. Trasa na Równicę była jeszcze bardziej depresyjna - oprócz tego że szaro to mieliśmy jeszcze
-większy wiatr.
+Na [Orłowej][wiki-orlowa] nawet nie zauważyliśmy czy to już to, czy już przeszliśmy szczyt.
+Spotkaliśmy tam szwendającego się kota
+obok byłego schroniska. Trasa na [Równicę][wiki-rownica] była jeszcze bardziej depresyjna -
+oprócz tego że cały świat jest szary, to mieliśmy jeszcze silniejszy wiatr.
 
-Z okolic Równicy widzieliśmy Brennę i był to w sumie jedyny widok, jaki mieliśmy okazję zaobserwować w całym wyjeździe.
+Z okolic [Równicy][wiki-rownica] widzieliśmy [Brennę][wiki-brenna]
+i był to w sumie jedyny widok, jaki mieliśmy okazję zaobserwować w całym wyjeździe.
 
 Drugiego dnia było jeszcze bardziej szaro i smutno, najlepiej przedstawi to poniższe zdjęcie.
 
@@ -42,3 +49,10 @@ Drugiego dnia było jeszcze bardziej szaro i smutno, najlepiej przedstawi to pon
   <a href="https://500px.com/photo/28457347/dark-fog-by-aleksander-kwiatkowski">Dark fog by Aleksander Kwiatkowski on 500px</a>
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
+
+
+Wnioski dodatkowe
+-----------------
+
+Kwiecień to najbardziej depresyjny miesiąc w górach. Wszyscy czekają za wiosną,
+a nie ma już od dawna żółtych jesiennych barw.

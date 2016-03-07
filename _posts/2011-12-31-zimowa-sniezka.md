@@ -6,7 +6,7 @@ date:                   2011-12-31 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/29603221/m%3D2048/8d44953076484c4890bad2174a699570"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -15,23 +15,27 @@ distance:               4
 time_spent:             3
 ---
 
+[wiki-karkonosze]:      https://pl.wikipedia.org/wiki/Karkonosze
 [wiki-karpacz]:         https://pl.wikipedia.org/wiki/Karpacz
 [wiki-kopa]:            https://pl.wikipedia.org/wiki/Kopa_(Karkonosze)
 [wiki-kamienna]:        https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra
 [wiki-kowary]:          https://pl.wikipedia.org/wiki/Kowary
+[wiki-sniezka]:         https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
 
 Wstęp
 -----
 
-Pierwsza zimowa styczność z górami i Karkonoszami.
+Pierwsza zimowa styczność z górami - [Karkonoszami][wiki-karkonosze].
 
 Szczegóły
 ---------
 
 Wyruszyliśmy dość wcześnie z centrum [Karpacza][wiki-karpacz] w kierunku wyciągu na [Kopę][wiki-kopa]. Dzień wcześniej
-był bardzo silny wiatr, na górze około 25m/s, przez co wyciąg był nieczynny. Tego dnia na szczęście pogoda się uspokoiła
-i udało się nam wjechać na górę. Siedzenia są pojedyńcze i wjeżdza się 20 minut. Trzeba mieć na uwadzę, że może być wtedy
-zimno.
+był bardzo silny wiatr, na górze wiało około 25m/s, przez co wyciąg tego dnia
+był nieczynny.
+
+Tego dnia na szczęście pogoda się uspokoiła
+i udało się wjechać na [Kopę][wiki-kopa]. Siedzenia są pojedyńcze i wjeżdza się całe 20 minut. Trzeba mieć na uwadzę, że może być wtedy zimno. Taka oczywista rada.
 
 <div class='pixels-photo'>
   <p>
@@ -51,11 +55,12 @@ Na górze wszystko było ośnieżone po wczorajszej zamieci. Był to dla mnie ca
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Ruszyliśmy w kierunku [Śnieżki][wiki-sniezka]. Byliśmy jednymi z pierwszych osób na szlaku. Próbowaliśmy wejść, jednak
-było zbyt dużo lodu na szlaku. Do tego miałem zamiast sensownych górskich butów glany. Nie było zimno, ale nie mają one
-dobrego vibrama. Postanowiliści cofnąć.
+Ruszyliśmy w kierunku [Śnieżki][wiki-sniezka]. Byliśmy jednymi z pierwszych osób na szlaku. Próbowaliśmy wejść
+na [Śnieżkę][wiki-sniezka], jednak szlak był mocno oblodzony. Gdzieniegdzie pokryty śniegiem.
+Do tego miałem zamiast sensownych górskich zimowych butów glany. Nie było mi zimno, ale z jakiegoś
+powodu ludzie używają innych butów w tych warunkach. Postanowiliści się wycofać.
 
-W tym momencie pokręciliśmy się po okolicy, gdyż zrobiło się bardziej przejrzyście i ładnie.
+W tym momencie pokręciliśmy się po tutejszej okolicy, gdyż niebo zrobiło się bardziej przejrzyśte a tereny ładniejsze.
 
 <div class='pixels-photo'>
   <p>
@@ -65,7 +70,8 @@ W tym momencie pokręciliśmy się po okolicy, gdyż zrobiło się bardziej prze
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Zadziwiało mnie to, że większość ludzi wchodziła na śnieżkę tego dnia. Ja uznałem, że wejście nie było bezpieczne, a oni jednak
+Zadziwiało mnie to, że większość ludzi wchodziła na [Śnieżkę][wiki-sniezka] tego dnia.
+Ja uznałem, że wejście nie było bezpieczne, a oni jednak
 nie mieli takich wątpliwości. Ciekawe.
 
 
@@ -77,4 +83,5 @@ Bardzo zaciekawiły mnie mniejsze górki i trasa między [Kamienną Górą][wiki
 [Kowarami][wiki-kowary]. Dopiero jakiś czas później dowiedziałem się, że to są [Rudawy Janowickie](/land/rudawy_janowickie/)
 Później miałem okazje trochę bardziej zwiedzić te okolice.
 
-Kupno odpowiednich butów na zimę zostało dodane do listy do zrobienia. Glany to słabe buty w góry, zwłaszcza zimą.
+Kupno odpowiednich butów na zimę zostało dodane do listy do zrobienia.
+Glany to słabe buty w góry, zwłaszcza zimą.

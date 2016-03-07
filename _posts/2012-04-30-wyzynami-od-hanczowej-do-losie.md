@@ -6,7 +6,7 @@ date:                   2012-04-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/118550999/m%3D2048/d71681fbd7dfd77aa7eefbe4625982ea"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
@@ -30,7 +30,7 @@ time_spent:             7
 Wstęp
 -----
 
-Drugi dzień w Beskidzie Niskim. Tym razem liniowa trasa w kierunku północnym.
+Drugi dzień w [Beskidzie Niskim][wiki-beskid-niski]. Tym razem liniowa trasa w kierunku północnym.
 
 Opis trasy
 ----------
@@ -40,10 +40,11 @@ Opis trasy
 Szczegóły
 ---------
 
-Wyruszyliśmy z bazy na północ w stronę centrum [Hańczowej][wiki-hanczowa], gdzie skręciliśmy na lewo i przeszliśmy trochę.
-Był to fragment [Głównego Szlaku Beskidzkiego][wiki-gsb].
+Wyruszyliśmy z bazy na północ w stronę centrum [Hańczowej][wiki-hanczowa], gdzie skręciliśmy w lewo i przeszliśmy trochę
+po białych kamyczkach. Był to fragment [Głównego Szlaku Beskidzkiego][wiki-gsb].
 
-Po chwili skręt w prawo na niebieski szlak i podejście w kierunku Dzielca. W Beskidzie Niskim są przynajmniej dwa Dzielce,
+Po chwili skręciliśmy w prawo na niebieski szlak i podejście w kierunku Dzielca. W
+[Beskidzie Niskim][wiki-beskid-niski] są przynajmniej dwa Dzielce,
 to jest ten mniej znany i niższy.
 
 <div class='pixels-photo'>
@@ -69,8 +70,9 @@ Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejsc
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Pierwszym ciekawym miejscem była polana niedaleko góry [Flasza][wiki-flasza]. Chwilę po tym zaczęliśmy schodzić do wsi
-[Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro. Od tego momentu trasa, w mojej ocenie, była naprawdę
-ciekawa. Szkoda że to to były ostatnie 5km. Całkiem duże jezioro, góry, zieleń, idealne miejsce tego dnia.
+[Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro o tej samej nazwie.
+Od tego momentu trasa, w mojej ocenie, była naprawdę
+ciekawa. Szkoda że to to były ostatnie 5km - całkiem duże jezioro, góry, zieleń, idealne miejsce tego dnia.
 
 <div class='pixels-photo'>
   <p>
@@ -81,4 +83,4 @@ ciekawa. Szkoda że to to były ostatnie 5km. Całkiem duże jezioro, góry, zie
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Przeszliśmy obok zapory (elektrowni wodnej) i kierowaliśmy się w stronę wsi [Łosie][wiki-losie]. Po najedzeniu się wróciliśmy do
-Hańczowej autobusem.
+[Hańczowej][wiki-hanczowa] autobusem.

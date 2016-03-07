@@ -6,7 +6,7 @@ date:                   2012-04-29 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23973493/m%3D2048/10b9f90c22d87bcc8426d1dbe716aeb4"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
@@ -26,10 +26,13 @@ time_spent:             7
 [bn-kapliczka-jpg]:             http://www.malypodroznik.pl/polska/w_bn2013a/wyprawa/BNwyprawa_4046_TP.jpg
 [regietow-cmentarz]:            http://wikimapia.org/#lang=pl&lat=49.457699&lon=21.236572&z=17&m=b&show=/10369038/pl/Kaplica-w-miejscu-dawnej-czasowni
 
+[regietow-namiot]:              http://www.chatki.com.pl/regetow.html
+
 Wstęp
 -----
 
-Jest to pierwsza trasa zrobione na mojej pierwszej wizycie w [Beskidzie Niskim][wiki-beskid-niski].
+Jest to pierwsza trasa zrobione na mojej pierwszej wizycie w [Beskidzie Niskim][wiki-beskid-niski] -
+paśmie, które okaże się być inne niż wszystkie.
 
 Opis trasy
 ----------
@@ -39,7 +42,8 @@ Opis trasy
 Szczegóły
 ---------
 
-Jak się nie mylę to po przyjechaniu samochodem zostawiliśmy rzeczy i poszliśmy się przejść. Na początku szliśmy dosyć
+Jak się nie mylę, to po przyjechaniu samochodem zostawiliśmy rzeczy i poszliśmy się przejść.
+Na początku szliśmy raczej
 główną drogą do [Wysowej][wiki-wysowa]. Było bardzo ciepło, chyba żadnej chmury na niebie.
 
 <div class='pixels-photo'>
@@ -50,12 +54,14 @@ główną drogą do [Wysowej][wiki-wysowa]. Było bardzo ciepło, chyba żadnej 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Po pewnym czasie zaczęliśmy podchodzić przez las, jak to bywa często w górach. A w Beskidzie Niskim tym bardziej.
-Tam to mało co jest widoków.
+Po pewnym czasie minęliśmy już [wioskę][wiki-wysowa] i zaczęliśmy podchodzić przez
+las, jak to bywa często w górach. A w [Beskidzie Niskim][wiki-beskid-niski] tym bardziej.
+Tam to widoków "w górze" jest mało. Co zrozumiałem na tej wycieczce.
 
 Przeszliśmy przez [Obycz][wiki-obycz] i kierowaliśmy się w stronę [Regietowa][wiki-regietow]. Po drodzę widzieliśmy
 jakąś zablokowaną terenówkę.
-Błota już nie było bo ciepło, ale pojazd nadal był. Stopniowo robiło się ładniej, wyszliśmy z "puszczy".
+Błota już nie było bo ciepło, ale pojazd nadal tam był.
+Stopniowo robiło się ładniej, wyszliśmy z "puszczy" w kierunku [Regietowa][wiki-regietow].
 
 <div class='pixels-photo'>
   <p>
@@ -65,10 +71,16 @@ Błota już nie było bo ciepło, ale pojazd nadal był. Stopniowo robiło się 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Po prawej minęliśmy chyba najbardziej znaną [kapliczkę][bn-kapliczka-jpg] [(strona)][bn-kapliczka-html] Beskidzie Niskim, a dalej
-był [cmentarz][regietow-cmentarz] i dalej bazę namiotową.
+Po prawej minęliśmy chyba najbardziej znaną [kapliczkę][bn-kapliczka-jpg] [Beskidzie Niskim][wiki-beskid-niski], a dalej
+był [cmentarz][regietow-cmentarz], a następnie [baza namiotową][regietow-namiot].
 
 Od tego momentu skręciliśmy w lewo na zachód w stronę [Koziego Żebra][wiki-kozie-zebro]. Podejście było, według mnie,
-solidnie stromę i męczące. Patrząc na warunki tego pasma widok z tego miejsca był bardzo dobry.
+mocno strome i męczące. Patrząc na warunki tego pasma widok z tego miejsca był bardzo dobry. Mieliśmy widok na
+zachodzące słońce.
 
 Do bazy wróciliśmy prawie o zmroku.
+
+Wnioski dodatkowe
+-----------------
+
+Czołówka zawsze się przyda, nawet jak się nie przyda.
