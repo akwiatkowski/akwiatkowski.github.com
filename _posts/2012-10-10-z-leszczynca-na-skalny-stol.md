@@ -6,7 +6,7 @@ date:                   2012-10-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23974581/m%3D2048/55807aaa8314d4254722015ea685a54d"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
 
@@ -35,7 +35,7 @@ time_spent:             8
 Wstęp
 -----
 
-Ten dzień połączył południowe [Rudawy Janowickie][wiki-rudawy] z wschodnimi [Karkonoszami][wiki-karkonosze].
+Ten dzień połączył południowe [Rudawy Janowickie][wiki-rudawy] ze wschodnimi [Karkonoszami][wiki-karkonosze].
 
 Opis trasy
 ----------
@@ -81,7 +81,7 @@ Od tego miejsca szliśmy cały czas żółtym szlakiem w kierunku [Malá Úpa][w
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Droga była raczej umiarkowana ciekawa, oprócz miejsc, takich jak to. Oczywiście ciekawość jest subiektywna.
+Dalej droga była raczej umiarkowanie ciekawa, oprócz miejsc, takich jak to. Oczywiście ciekawość jest subiektywna.
 
 <div class='pixels-photo'>
   <p>
@@ -106,7 +106,7 @@ Poszliśmy coś zjeść i dalej wyruszyliśmy w drogę szlakiem granicznym. Nie 
 
 Im wyżej byliśmy tym pogoda robiła się gorsza. Powoli robiło się szaro i zapierające widoki ze szczytu przestawały być
 opcją. Jedyny plus to trochę popadało śniegu. Fajnie, pierwszy śnieg w tym roku miałem zaliczony. Szkoda że było tak mało.
-Powrót w śnieżycy mógłby być fajny.
+Powrót w śnieżycy mógłby być ciekawym doświadczeniem.
 
 Doszliśmy do [Skalnego Stołu][wiki-skalny-stol] który przy tej pogodzie okazał się kupą kamieni. Po tym zejście
 do [Karpacza][wiki-karpacz] przez las. Nie pamiętam abym zauważył coś ciekawego wtedy.

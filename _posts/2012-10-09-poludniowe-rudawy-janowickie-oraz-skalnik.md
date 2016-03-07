@@ -6,7 +6,7 @@ date:                   2012-10-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28630325/m%3D2048/16d1d770d1e913616204f2d913698cb0"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
 lands:                  [rudawy_janowickie]
 
@@ -53,9 +53,9 @@ autobusem w stronę [Kowar][wiki-kowary].
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Droga [367][wiki-367] położona jest
-całkiem wysoko. [Leszczyniec][wiki-leszczyniec] jest na wysokości około 560m n.p.m., porównywalnie do szczytów
-północych częśći Rudaw - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
+Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Sama droga [367][wiki-367]
+położona jest całkiem wysoko. [Leszczyniec][wiki-leszczyniec] jest na wysokości około 560m n.p.m., porównywalnie do szczytów
+północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
 [Przełęcz Kowarska][wiki-przel-kowarska], gdzie drogą położona jest na wysokości 727 m n.p.m.
 
 <div class='pixels-photo'>
@@ -66,8 +66,8 @@ północych częśći Rudaw - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejsc
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry Rudaw - [Skalnika][wiki-skalnik].
-Najpierw do centrum wsi, obok [kościoła][wiki-leszcz-kosciol] a dalej podejście w las na
+Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry [Rudaw][wiki-rudawy] - [Skalnika][wiki-skalnik].
+Najpierw poszliśmy do centrum wsi, obok [kościoła][wiki-leszcz-kosciol] a dalej podejście w las na
 Rozdroże pod Bobrzakiem.
 
 <div class='pixels-photo'>
@@ -79,7 +79,7 @@ Rozdroże pod Bobrzakiem.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Później szliśmy niebieskim szlakiem obok schroniska [Czartak][wiki-czartak], obok którego na asfaltowej drodzę leżał
-czarny kot. Schronisko jest nieczynne, ale zostało przekształcone teraz w gospodarstwo agroturystyczne.
+czarny kot. Schroniska już nie ma, zostało przekształcone teraz w gospodarstwo agroturystyczne.
 
 Szliśmy niebieskiem szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
 
@@ -97,4 +97,4 @@ tylko tą wspomnianą chwilę.
 Schodziliśmy inaczej - czerwonym szlakiem. Był on łatwiejszy, jednak podobnie jak niebieski był umiarkowanie ciekawy.
 
 Wieczór we wsiach jak [Leszczyniec][wiki-leszczyniec] jest ogromnie spokojnym wydarzeniem. Chociaż
-spokój tego miejsca został pobity w [Pasterce][wiki-pasterka], w Górach Stołowych.
+rekordowy spokój tego miejsca został pobity później w [Pasterce][wiki-pasterka], w Górach Stołowych.

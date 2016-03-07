@@ -6,7 +6,7 @@ date:                   2012-08-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28528345/m%3D2048/cec636ea7df78c68891f7e1fc2361082"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
@@ -26,7 +26,7 @@ time_spent:             3
 Wstęp
 -----
 
-Jest to pierwsza styczność z [Rudawami Janowickimi][wiki-rudawy].
+Jest to pierwsza bliska styczność z [Rudawami Janowickimi][wiki-rudawy].
 
 Opis trasy
 ----------
@@ -40,10 +40,10 @@ Przyjechaliśmy pociągiem do [Janowic Wielkich][wiki-janowice] i po krótkiej c
 Celem początkowym był [Zamek Bolczów][wiki-bolczow].
 
 Pogoda była dosyć mokra i mglista. Szliśmy przez las z lekkim podejściem. Co chwilę z mgły wynurzały się kolejne
-kamienie. Jak to jeden kolega powiedział, że te pasmo to tereny głównie spacerowe, ale co chwilę jest
+kamienie. Jak to jeden kolega powiedział - te pasmo to tereny głównie spacerowe, ale co chwilę jest
 jakiś kamlot. Faktycznie tak było.
 
-Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow].
+Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow]. To jest taka ciekawa ruina pośrodku lasu.
 
 <div class='pixels-photo'>
   <p>
@@ -65,4 +65,4 @@ niewiele było do opisywania. Las, gdzieniegdzie strumyk. Chyba właśnie te str
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Po jakimś czasie dotarliśmy do [Schroniska Szwajcarka][wiki-szwajcarka] ([www][szwajcarka]). Nie było późno, ale pogoda
-była niemrawa, więc zaczęliśmy testować ofertę kulinarną.
+nie zachęcała do dalszych spacerów, więc zaczęliśmy testować ofertę kulinarną schroniska.

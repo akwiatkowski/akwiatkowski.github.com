@@ -6,7 +6,7 @@ date:                   2012-12-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/31440617/m%3D2048/02d36f9c27f804af2a1872ea6c17ae1e"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 
@@ -27,7 +27,7 @@ Wstęp
 -----
 
 Zakończenie wizyty w [Górach Kamiennych][wiki-kamienne] i jednocześnie poznanie co
-zima robi z górami na własnej skórze.
+zima robi z małymi górami na własnej skórze.
 
 Opis trasy
 ----------
@@ -38,12 +38,12 @@ Szczegóły
 ---------
 
 W [Kowalowie][wiki-kowalowa] byliśmy chyba jedynymi goścmi pensjonatu i przez to były problemy z ciepłą wodą,
-ale jaki to problem
-kąpać się w zimie w zimnej wodzie.
+ale jaki to problem kąpać się w zimie w zimnej wodzie?
 
 Ruszyliśmy dalej w kierunku [Sokołowska][wiki-sokolowsko] idąc ulicą Główną, całkiem długa ona była, położona pośrodku
 gór. [Sokołowsko][wiki-sokolowsko] okazało być się najbardziej zapomnianą miejscowością sudecką jaką widziałem.
 To znaczy widziałem dużo zapomnianych, ale widać że kiedyś ta miejscowość żyła, a teraz prawie nic się tam nie dzieje.
+
 
 <div class='pixels-photo'>
   <p>
@@ -53,11 +53,11 @@ To znaczy widziałem dużo zapomnianych, ale widać że kiedyś ta miejscowość
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Idąc dalej opuszczaliśmy tą miejscowość i zaczynało się podejście na [Bukowiec][wiki-bukowiec]. W lecie idzie się
+Idąc dalej opuszczaliśmy [Sokołowsko][wiki-sokolowsko] i zaczynało się podejście na [Bukowiec][wiki-bukowiec]. W lecie idzie się
 tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
 
 Niby tylko dzień różnicy i chyba 100 metrów wyżej, ale różnica widoczna od razu. Wszystkie drzewa
-wokoło pięknie ośnieżone, co doskonale widać na powyższym zdjęciu.
+wokoło były pięknie ośnieżone, co doskonale widać na zdjęciach.
 
 <div class='pixels-photo'>
   <p>
@@ -67,7 +67,7 @@ wokoło pięknie ośnieżone, co doskonale widać na powyższym zdjęciu.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Oprócz tego totalny spokój, zero wiatru, zero dźwięków, oraz śladów na śniegu. Nie muszę mówić że na szlaku nie
+Cały czas tego totalny spokój, zero wiatru, zero dźwięków, oraz śladów na śniegu. Nie muszę mówić że na szlaku nie
 spotkaliśmy nikogo. Bardzo bym się ździwił, jakby było inaczej.
 
 Idąc dalej zauważyliśmy tablice ostrzegawcze pobliskiej kopalni. Istnienie i rozwój tej kopalni zagrażało
@@ -81,12 +81,11 @@ schronisku [Andrzejówka][wiki-andrzejowka], do której się kierowaliśmy.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Na powyższym zdjęciu widać jak szlak czasami był subtelnie widoczny. Oznakowania również były
-czasem ciężko widoczne przez ośnieżone drzewa.
+Na powyższym zdjęciu widać jak szlak czasami był widoczny. Oznakowania również były
+czasem ciężko widoczne przez oszronione drzewa.
 
 Dotarliśmy do schroniska [Andrzejówki][wiki-andrzejowka], zjedliśmy i przeanalizowaliśmy możliwości powrotu.
-Zadecydowaliśmy że wrócimy prostym szlakiem rowerowym i podjedziemy autobusem do [Wałbrzycha][wiki-walbrzych],
-a tam dalej pociągiem do domu.
+Zadecydowaliśmy że wrócimy prostym szlakiem rowerowym do [Sokołowska][wiki-sokolowsko] i podjedziemy autobusem do [Wałbrzycha][wiki-walbrzych], a tam dalej pociągiem do domu pociągiem.
 
 Wnioski
 -------

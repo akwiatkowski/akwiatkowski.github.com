@@ -6,7 +6,7 @@ date:                   2012-08-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23974025/m%3D2048/ae3e7c8b21dabc52db3613217e155890"
 categories:             trip
-tags:                   [hike, mountains, best, uncorrected]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
@@ -36,7 +36,7 @@ Wstęp
 -----
 
 Drugi dzień wizyty w [Rudawach Janowickich][wiki-rudawy]. Tytuł jest o [Kolorowych Jeziorkach][wiki-kolorowe],
-jednak tego dnia było więcej, niż tylko same jeziorka.
+jednak tego dnia było więcej ciekawych rzeczy, niż tylko same jeziorka.
 
 Opis trasy
 ----------
@@ -51,8 +51,8 @@ Jak to często bywa, były chmury i mgła. Nic nie było widać jak byliśmy na 
 poświata. Posiedzieliśmy chwilę i zeszliśmy do schroniska. Jak się okazało później, wschodu i tak nie byłoby
 widać z [Krzyżnej Górę][wiki-krzyzna], co najwyżej z [Sokolika][wiki-sokolik].
 
-Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawił mnie jak
-szybko się widok zmieniał.
+Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawiło mnie jak
+szybko się widok zmieniał - jak szybko one się przesuwały.
 
 <div class='pixels-photo'>
   <p>
@@ -62,7 +62,7 @@ szybko się widok zmieniał.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-A poniżej zdjęcie jak wyglądał las w okolicach [Szwajcarki][wiki-szwajcarka].
+A poniższe zdjęcie pokazuje jak wyglądał las w okolicach schroniska [Szwajcarki][wiki-szwajcarka].
 
 <div class='pixels-photo'>
   <p>
@@ -72,8 +72,8 @@ A poniżej zdjęcie jak wyglądał las w okolicach [Szwajcarki][wiki-szwajcarka]
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Wróciliśmy spać i wstaliśmy po 9-tej. Było już zdecydowanie ładnie, zero śladów wczorajszej pogody -
-dobry słoneczny dzień.
+Wróciliśmy spać i wstaliśmy po 9-tej. Było już zdecydowanie ładniej, zero śladów wczorajszej pogody -
+dobry słoneczny dzień. Ponownie wyruszyliśmy na [Krzyżną Górę][wiki-krzyzna].
 
 <div class='pixels-photo'>
   <p>
@@ -83,9 +83,10 @@ dobry słoneczny dzień.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Trochę długo zasiedzieliśmy na szczycie [Krzyżnej Góry][wiki-krzyzna] i zauważyliśmy, że mamy półtora godziny do pociągu.
+Trochę długo zasiedzieliśmy na szczycie [Krzyżnej Góry][wiki-krzyzna] i zauważyliśmy, że mamy półtora godziny do
+odjazdu pociągu.
 Wcześniej chcieliśmy się przejść do [Kolorowych Jeziorek][wiki-kolorowe] pieszo, jednak z jakiegoś
-powodu zmieniliśmy plan na dojechanie pociągiem do [Marciszowa][wiki-marciszow]. Nie wykluczam, że było to
+powodu zmieniliśmy plan na dojazd pociągiem do [Marciszowa][wiki-marciszow]. Nie wykluczam, że było to
 lenistwo.
 
 Po drodzę zrozumiałem że branie taniego plecaka używanego w środowisku miejskim i troczenie śpiwora do niego,
@@ -101,7 +102,8 @@ Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta na
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Dotarliśmy kilkanaście minut przed odjazdem pociągu do [Marciszowa][wiki-marciszow]. Czekamy i czekamy. Nie jedzie.
+Dotarliśmy kilkanaście minut przed odjazdem pociągu w kierunku [Marciszowa][wiki-marciszow]. Czekamy i czekamy.
+Nic nie jedzie.
 W końcu dzwonię do PKP w cenie 1 PLN za minutę rozmowy. Na linii siedzę 10 minut i jestem przełączany od
 Jeleniej Góry po Warszawę. Udaję mi się dowiedzieć, że pociag nie wyruszył, nikt jednak nie wie czemu, i że
 jest "zastępcza komunikacja autobusowa". Idę do człowieka pilnującego stację, on mi mówi, że on już nie ogarnia
@@ -109,14 +111,14 @@ co tu się dzieje, i że nie ma szans aby ci biedni zwykli ludzie się połapali
 zatrzymać, to dostaję informację o remoncie mostu i najbliższe miejsce jest 3km gdzieś. Czekamy na kolejny pociąg
 i jedziemy do [Jeleniej Góry][wiki-jelenia].
 
-Tam przerwa aby coś zjeść i chwilę później powrotny pociąg, tym razem już do [Marciszowa][wiki-marciszow]. Jestem
-pewien że pierwsze P w skrócie PKP musi oznaczać *przygodę*.
+Tam przerwa aby coś zjeść i chwilę później lecimy na powrotny pociąg, tym razem już do [Marciszowa][wiki-marciszow]. Jestem
+pewien że pierwsze P w skrócie PKP musi oznaczać słowo *przygoda*.
 
 Kolorowe Jeziorka
 -----------------
 
 Jest to chyba najbardziej znana atrakcja [Rudaw Janowickich][wiki-rudawy] pomimo tego że w praktyce to są
-2 jeziorka (czasem 3), które po prostu mają nienaturalny kolor. Zapominane są skałki, które są obok nich.
+tylko 2 jeziorka (czasem 3), które po prostu mają nienaturalny kolor. Zapominane są skałki, które są obok nich.
 
 <div class='pixels-photo'>
   <p>
@@ -141,7 +143,8 @@ zadbany i drewniany.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Poniżej Niebieskie Jeziorko, jednak jest niezadowolony ze zdjęć, jakie zrobiłem jeziorkom.
+Poniżej Niebieskie Jeziorko, jednak jestem niezadowolony ze zdjęć, jakie zrobiłem jeziorkom.
+Żadne nie podoba mi sie wystarczająco.
 
 <div class='pixels-photo'>
   <p>
@@ -151,6 +154,6 @@ Poniżej Niebieskie Jeziorko, jednak jest niezadowolony ze zdjęć, jakie zrobi�
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Wracaliśmy już jak zachodziło słońce. Małe zakupy i kierunek dworzec. Dobrze że sklepy w niedziele były
-tam otwarte do tak późna, oraz że Marciszów jest ważniejszą miejscowością, gdyż zatrzymują się tam
-również TLKi.
+Wracaliśmy już podczas zachodu słońca. Małe zakupy i kierunek dworzec. Dobrze że sklepy w niedziele były
+tam otwarte do tak późna, oraz że [Marciszów][wiki-marciszow] jest ważniejszą miejscowością, gdyż zatrzymują się tam
+również pociągi TLK.

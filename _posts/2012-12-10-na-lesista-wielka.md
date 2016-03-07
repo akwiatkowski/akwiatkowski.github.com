@@ -6,7 +6,7 @@ date:                   2012-12-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/31897229/m%3D2048/dcafcad935ef3832444e2725cb4c4ceb"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
 
@@ -37,7 +37,7 @@ Szczegóły
 
 Rano wysiedliśmy z pociągu na stacji [Boguszów-Gorce][wiki-boguszow-gorce] i ruszyliśmy żółtym szlakiem na zachód.
 Było wszędzie biało, co w tym momencie mi się podobało. Teraz mi się jeszcze bardziej podoba, bo było naprawdę
-ładnie.
+ładnie, a trud już minął.
 
 <div class='pixels-photo'>
   <p>
@@ -47,10 +47,11 @@ Było wszędzie biało, co w tym momencie mi się podobało. Teraz mi się jeszc
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Szliśmy przez ośnieżone pola ufając że ta śnieżka jest szlakiem i jednocześnie sprawdzając co mówi GPS.
+Szliśmy przez ośnieżone pola ufając że ta ścieżka jest szlakiem i jednocześnie sprawdzając co mówi GPS.
 Chcieliśmy dojśc do wsi [Grzędy][wiki-grzedy], z której zaczynał się [Główny Szlak Sudecki][wiki-gss].
 Tam kupiliśmy trochę zapasów w sklepie i zjedliśmy, a następnie ruszyliśmy na południe do
-[Grząd Górnych][wiki-grzedy-gorne]. Tutaj ulica się kończyła, a zaczynało się lekkie podejście.
+[Grząd Górnych][wiki-grzedy-gorne]. Tutaj ulica się kończyła, a zaczynało się lekkie podejście
+i śnieg w terenie.
 
 <div class='pixels-photo'>
   <p>
@@ -71,11 +72,12 @@ Gdzieś na podejściu do [Lesistej Wielkiej][wiki-lesista] zrobiłem poniższe z
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Sam szczyt [Lesistej Wielkiej][wiki-lesista] raczej nie był specjalnie interesujący, oprócz tego, że byl tam szałas.
+Sam szczyt [Lesistej Wielkiej][wiki-lesista] raczej nie był specjalnie interesujący, oprócz tego, że był tam szałas.
 Powoli zaczęło robić się ciemno, a musieliśmy dojść do noclegu w [Kowalowej][wiki-kowalowa].
 
-Było jedno takie miejsce podczas zejścia, że jak je zobaczyłem to zastanawiałem się czy to nie jest jakiś
-chory żart. Było stromo, bardzo. Zwłaszcza w zimie jest trudno.
+Było jedno takie miejsce podczas zejścia, że jak je zobaczyłem to zastanawiałem się, czy to nie jest jakiś
+chory żart. Było stromo, bardzo. Wywaliłem się podczas zejścia i lekko ugiąłem jeden ze swoich kijków.
+Teraz trudniej się on chowa.
 
-Do [Kowalowej][wiki-kowalowa] dotarliśmy około 16tej, czyli jak na ten miesiąc, tuż przed zmrokiem. Nie pamiętam czy
+Do [Kowalowej][wiki-kowalowa] dotarliśmy około 16-tej, czyli jak na ten miesiąc, tuż przed zmrokiem. Nie pamiętam czy
 miałem czołówkę, ale znając mnie, to na pewno musiałem ją mieć.
