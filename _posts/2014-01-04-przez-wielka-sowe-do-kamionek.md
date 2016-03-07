@@ -45,6 +45,14 @@ czy była to zwykła droga gruntowa. Naszym celem było dojście do czerwonego s
 będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 [Rozdrożu pod Moszną][wiki-rozdroze].
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/143308299/m%3D900/d8ab83d5d4daf03796f70b5d4323ef46' alt='Entering Rzeczka village in Owl Mountains by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/143308299/entering-rzeczka-village-in-owl-mountains-by-aleksander-kwiatkowski' alt='Entering Rzeczka village in Owl Mountains by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Dopiero od tego momentu rozpoczęły się najciekawsze widoki - wioski i pagórki w
 okolicy [Rzeczki Górnej][wiki-rzeczka-gorna]. Trudno mi wytłymaczyć teraz dlaczego,
 ale dla mnie teren jest tam bardzo ciekawy. Zwłaszcza [Przełęcz Sokola][wiki-przelecz-sokola].

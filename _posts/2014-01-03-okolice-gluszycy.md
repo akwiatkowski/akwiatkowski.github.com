@@ -46,6 +46,14 @@ w ostatnich latach. Czyli realna późna jesień.
 Wysiadłem na stacji kolejowej w [Głuszycy Górnej][wiki-gluszyca-g] i powoli
 ruszyłem w stronę noclegu.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/143308007/m%3D900/cd2ff98e5a229114c7c361ecc08e67ff' alt='Głuszyca and Góry Kamienne by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/143308007/g%C5%82uszyca-and-g%C3%B3ry-kamienne-by-aleksander-kwiatkowski' alt='Głuszyca and Góry Kamienne by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Gdy dojechała reszta i rozpakowaliśmy się, pojechaliśmy ulicą Graniczną do
 granicy czeskiej. Tam pieszo przeszliśmy przez granicę do osady
 [Janovičky][wiki-janovicky]. Do 2007 roku było tutaj [przejście graniczne][wiki-przejscie-gr].
