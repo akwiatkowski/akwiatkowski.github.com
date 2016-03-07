@@ -15,6 +15,7 @@ distance:               4
 time_spent:             3
 ---
 
+[wiki-tatry]:           https://pl.wikipedia.org/wiki/Tatry
 [wiki-swinica]:         https://pl.wikipedia.org/wiki/%C5%9Awinica
 [wiki-trzy-korony]:     https://pl.wikipedia.org/wiki/Trzy_Korony_(szczyt)
 [wiki-kasprowy]:        https://pl.wikipedia.org/wiki/Kasprowy_Wierch
@@ -24,13 +25,14 @@ time_spent:             3
 Wstęp
 -----
 
-W związku z tym że z kolanami nie było jeszcze dobrze, postanowiliśmy skorzystać z wyciągu aby móc zobaczyć centralną część Tatr.
+W związku z tym, że z kolanami nie było jeszcze dobrze, postanowiliśmy skorzystać z wyciągu aby móc zobaczyć centralną część [Tatr][wiki-tatry].
 
 Szczegóły
 ---------
 
-Powiedziano nam że kolejka do kolejki jest na 2-3 godziny, jednak jak się okazało czekaliśmy tylko godzinę. Zmniejszona została
-częstotliwość kursowania aby ograniczyć negatywny wpływ człowieka. Człowiek = szkodnik, na to wygląda.
+Powiedziano nam, że kolejka do kolejki jest na 2-3 godziny czekania, jednak jak
+się okazało czekaliśmy tylko godzinę. Zmniejszona została
+częstotliwość kursowania o połowę aby ograniczyć negatywny wpływ człowieka. Człowiek = szkodnik, na to wygląda.
 
 <div class='pixels-photo'>
   <p>
@@ -40,10 +42,12 @@ częstotliwość kursowania aby ograniczyć negatywny wpływ człowieka. Człowi
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Jak już dojechaliśmy zobaczyliśmy co tam jest. Chciałem iść w stronę [Świnicy][wiki-swinica], jednak za chwilę zaczęło robić się
-stromiej i musiałem zawrócić. Kolana zaczęły się odzywać.
+Jak już dojechaliśmy na górę to szybko rozeznaliśmy co tam jest.
 
-Raczej nie mam chwalić się trasą, jaką zrobiłem, ale mogę pochwalić się [najlepszą panoramą jaką zrobiłem][panoramio-tatry].
+Chciałem iść w stronę [Świnicy][wiki-swinica], jednak za chwilę zaczęło robić się
+stromiej i musiałem zawrócić. Kolana zaczęły się wyraźnie odzywać.
+
+Raczej nie mogę chwalić się jakąkolwiek trasą jaką zrobiłem, ale mogę pochwalić się [najlepszą panoramą jaką zrobiłem][panoramio-tatry].
 360 stopni widoku z [Kasprowego Wierchu][wiki-kasprowy] podczas dobrej widoczności i pogody.
 
 <div class='pixels-photo'>

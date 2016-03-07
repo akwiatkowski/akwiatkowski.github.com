@@ -6,7 +6,7 @@ date:                   2014-06-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains, todo_media, uncorrected]
 towns:                  [slaskie, czernichow, porabka, andrychow, lekawica]
 lands:                  [beskid_maly]
 

@@ -6,7 +6,7 @@ date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/97144903/m%3D2048/912df5c155c296b53a1edf92c86a41de"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains, todo_media, uncorrected]
 towns:                  [slaskie, andrychow, lekawica]
 lands:                  [beskid_maly]
 

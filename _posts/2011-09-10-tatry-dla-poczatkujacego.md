@@ -15,17 +15,19 @@ distance:               20
 time_spent:             8
 ---
 
+[wiki-tatry]:           https://pl.wikipedia.org/wiki/Tatry
 [wiki-gubalowka]:       https://pl.wikipedia.org/wiki/Guba%C5%82%C3%B3wka
 [wiki-tatry-zachodnie]: https://pl.wikipedia.org/wiki/Tatry_Zachodnie
 [wiki-kiry]:            https://pl.wikipedia.org/wiki/Kiry
 [wiki-polana-choch]:    https://pl.wikipedia.org/wiki/Polana_Chocho%C5%82owska
 [wiki-trzydniowianski]: https://pl.wikipedia.org/wiki/Trzydniowia%C5%84ski_Wierch
 [wiki-konczysty]:       https://pl.wikipedia.org/wiki/Ko%C5%84czysty_Wierch
+[wiki-zakopane]:        https://pl.wikipedia.org/wiki/Zakopane
 
 Wstęp
 -----
 
-Kupon na zakupach grupowych był idealnym impulsem aby spróbować własnego wyjazdu w Tatry. Pierwszego dnia
+Kupon na zakupach grupowych był idealnym impulsem aby spróbować własnego wyjazdu w [Tatry][wiki-tatry]. Pierwszego dnia
 jako rozgrzewka [Gubałówka][wiki-gubalowka], drugiego [Tatry Zachodnie][wiki-tatry-zachodnie].
 
 Szczegóły
@@ -34,7 +36,7 @@ Szczegóły
 <a href="http://mapa-turystyczna.pl/route/z1gy" title="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl"><img alt="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
 
-Z Kościeliska dojechaliśmy do centrum, a następnie do [Kir][wiki-kiry] (nie wiem czy dobrze odmieniam).
+Z Kościeliska dojechaliśmy do centrum [Zakopanego][wiki-zakopane], a następnie do [Kir][wiki-kiry] (nie wiem czy dobrze odmieniam).
 Dojazd "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [Polany Chochołowskiej][wiki-polana-choch]
 
 <div class="pixels-photo">
@@ -43,9 +45,10 @@ Dojazd "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [P
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
-Krótkie wejście do schroniska i dalej w górę. Wszystko takie duże, odległe, nowe i męczące. Udało mi się dostać na
-[Trzydniowiański Wierch][wiki-trzydniowianski] około 15tej. Zobaczyłem na mapę, że obok jest [Kończysty Wierch][wiki-konczysty],
-który ma *tylko* 2002 metry wysokości, i tylko 45 minut podejścia i zejścia. No w sumie dobra okazja.
+Krótkie wejście do schroniska i dalej w górę. Wszystko takie duże, odległe, nowe i męczące. Udało nam się dostać na
+[Trzydniowiański Wierch][wiki-trzydniowianski] około 15-tej. Zobaczyłem na mapę, że obok jest [Kończysty Wierch][wiki-konczysty],
+który ma *tylko* 2002 metry wysokości, i tylko 45 minut podejścia i zejścia. No w sumie głupio by było nie skorzystać
+z tej szansy.
 
 <div class="pixels-photo">
   <p><img src="https://drscdn.500px.org/photo/24011503/m%3D900/111e76b4f1e7a5d77beaaf6ce204f7b0" alt="Photograph Chochołowska Valley by Aleksander Kwiatkowski on 500px"></p>
@@ -53,4 +56,7 @@ który ma *tylko* 2002 metry wysokości, i tylko 45 minut podejścia i zejścia.
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
-A po tym była krew, pot i łzy... i bolące kolana. Udało nam się wrócić na ostatni autobus powrotny, który ruszał po 20tej.
+A po tym była krew, pot i łzy... i bolące kolana. Udało nam się wrócić na ostatni autobus powrotny, który ruszał po 20-tej.
+Po drodzę zjedliśmy coś ciepłego, doczołgałem się do bazy, umyć i spać.
+
+Następne dnie to było dochodzenie do siebie po przemęczonych kolanach.

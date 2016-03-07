@@ -6,7 +6,7 @@ date:                   2015-08-25 14:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/121995105/m%3D2048/205dbef26167c9ec60c50021a8929537"
 categories:             localhost
-tags:                   [localhost]
+tags:                   [localhost, uncorrected]
 ---
 
 
@@ -31,8 +31,8 @@ Czołówka - sens uzależniony od pory roku, jednak dużo nie zajmuje, a daje pe
 z lampką rowerową. W praktyce używam bardzo rzadko, chyba tylko gdy zaplanowałem robić coś po zmroku.
 
 Koszulki zwykłe - najlepiej pomyśleć ile godzin będzie się miało ją na sobie. Zakładając że ubierałbym po myciu, to jedna powinna
-wytrzymać kilka dni, gdyż zakładana by była też na kilka godzin. Jak sam jechałem 2 dni, to w ogóle jej nie ubierałem. 
-Po umyciu się szedłem spać, nie była ona w ogóle potrzebna. 
+wytrzymać kilka dni, gdyż zakładana by była też na kilka godzin. Jak sam jechałem 2 dni, to w ogóle jej nie ubierałem.
+Po umyciu się szedłem spać, nie była ona w ogóle potrzebna.
 
 Powerbank - nad morzem go nie miałem, a by się przydał. Na polach namiotowych aby naładować telefon, trzeba było
 go zostawić gdzieś. Dobrze było, jak to było w zasięgu wzroku. Teraz mam i używam bardzo rzadko, na ogół jest prąd
@@ -40,4 +40,3 @@ i korzystam ze zwykłych ładowarek.
 
 Druga komórka - tak jak czołówka, nie pamiętam kiedy się przydała (nie mówię tutaj o pracy). Jednak mam, bo dużo miejsca
 nie zajmuje.
-

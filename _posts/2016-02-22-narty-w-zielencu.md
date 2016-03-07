@@ -6,7 +6,7 @@ date:                   2016-02-22 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b"
 categories:             trip
-tags:                   [ski, todo]
+tags:                   [ski, todo, uncorrected]
 towns:                  [dolnoslaskie]
 lands:                  [gory_bystrzyckie, gory_orlickie]
 

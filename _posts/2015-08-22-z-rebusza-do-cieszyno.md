@@ -6,7 +6,7 @@ date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"
 categories:             trip
-tags:                   [bicycle, panniers, best]
+tags:                   [bicycle, panniers, best, uncorrected]
 towns:                  [zachodnio_pomorskie, bierzwnik, choszczno, drawno, kalisz_pomorski, drawsko_pomorskie, miroslawiec, zlocieniec, ostrowice]
 lands:                  [drawski_park_krajobrazowy]
 

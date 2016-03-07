@@ -6,7 +6,7 @@ date:                   2013-05-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, uncorrected]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 

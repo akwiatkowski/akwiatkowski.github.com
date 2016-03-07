@@ -6,7 +6,7 @@ date:                   2015-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115280885/m%3D2048/6a887062c0757287d1c14a468a40cf79"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains, todo_media, uncorrected]
 towns:                  [malopolskie, rytro, szczawnica]
 lands:                  [beskid_sadecki]
 

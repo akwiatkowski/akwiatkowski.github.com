@@ -21,22 +21,24 @@ time_spent:             5
 Wstęp
 -----
 
-Był to mój pierwszy wyjazd w góry. Brak sprzętu i doświadczenie, tylko informacja - że tam jest ładnie.
+Był to mój pierwszy wyjazd w góry. Brak sprzętu i doświadczenie, tylko wiedziałem jedno - że tam jest ładnie.
 
 Szczegóły
 ---------
 
 To były czasy, kiedy przejazd TLKą i możliwość bezproblemowego oparcia się o ścianę w pociągu była sporym sukcesem.
-Później wprowadzili pełną rezerwacje miejsc i do kolei przyszedł ład i porządek.
+Później wprowadzono pełną rezerwacje miejsc i do kolei przyszedł ład, porządek i cywilizacja.
 
-Bazę mieliśmy w dolinie, w [Porębie Wielkiej][wiki-poreba].
-Nie było żadnych planów trasy, dzięki temu jak udało nam się rozlokować i wyruszyć była przynajmniej 16-ta. Udało nam się
-wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego.
+Bazę mieliśmy w dolinie, w wiosce [Porębie Wielkiej][wiki-poreba].
+Nie było żadnych planów tras, przez to jak udało nam się rozlokować i wyruszyć była już przynajmniej 16-ta. Udało nam się
+wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego, i musiałem robić zdjęcia.
 
-Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10tej. Po przejściu 20-30 minut zaczęło padać.
-Już wiem że warto sprawdzać pogodę prognozy, oraz warto mieć trochę odpowiedniejsze ubranie. Padało tak cały dzień, dopiero
-wieczorem było można wyjść i pozwiedzać wioskę. Udało się nam znaleźć polanę, położoną bardzo blisko, ale z której jest widok
-na całą dolinę.
+Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10-tej. Po przejściu 20-30 minut zaczęło padać.
+Już wiem, że warto sprawdzać prognozę pogody wcześniej, oraz warto mieć trochę odpowiedniejsze ubranie.
+
+Padało tak cały dzień, dopiero
+wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
+z której jest widok na całą dolinę.
 
 <div class="pixels-photo">
   <p><img src="https://drscdn.500px.org/photo/29288073/m%3D900/6649c40fd373786cedbe69c5aa9448b7" alt="Photograph Poręba Górna by Aleksander Kwiatkowski on 500px"></p>
@@ -44,8 +46,9 @@ na całą dolinę.
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
-Następnego dnia musieliśmy (w sumie to nawet nie musieliśmy) wracać już, ale poszliśmy przed autobusem na tą polanę.
-Dodatkową atrakcją były pasące się tam owce.
+Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliśmy przed autobusem ponownie na tą polanę.
+Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.
+Dodatkową atrakcją były pasące się owce.
 
 <div class="pixels-photo">
   <p><img src="https://drscdn.500px.org/photo/23972025/m%3D900/18b5d50d25aaa05a6840bd81c0015ac2" alt="Photograph Poręba Wielka by Aleksander Kwiatkowski on 500px"></p>
@@ -53,4 +56,5 @@ Dodatkową atrakcją były pasące się tam owce.
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
-Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach.
+Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach. Było to
+trochę zaskakujące.

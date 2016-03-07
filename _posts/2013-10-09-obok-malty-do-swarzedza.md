@@ -6,7 +6,7 @@ date:                   2013-10-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/123052575/m%3D2048/b8e355a5e4445749bb7862b52bea3439"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, uncorrected]
 towns:                  [wielkopolskie, poznan]
 priority:               low
 

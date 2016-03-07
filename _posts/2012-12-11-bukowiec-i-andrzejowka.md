@@ -6,7 +6,7 @@ date:                   2012-12-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/31440617/m%3D2048/02d36f9c27f804af2a1872ea6c17ae1e"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, uncorrected]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 

@@ -6,7 +6,7 @@ date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains, todo_media, uncorrected]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
 lands:                  [beskid_sadecki]
 

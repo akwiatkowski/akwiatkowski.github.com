@@ -6,7 +6,7 @@ date:                   2013-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/44132576/m%3D2048/6e9a578dfcb2652ea46afe64b8a9cb5d"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [bicycle, uncorrected]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, pobiedziska]
 lands:                  [puszcza_zielonka]
 

@@ -6,7 +6,7 @@ date:                   2012-10-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28630325/m%3D2048/16d1d770d1e913616204f2d913698cb0"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, uncorrected]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
 lands:                  [rudawy_janowickie]
 

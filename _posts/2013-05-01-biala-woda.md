@@ -6,7 +6,7 @@ date:                   2013-05-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/33587579/m%3D2048/f3a8c435a5a9d2fef30eb5aba09f155d"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, uncorrected]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 

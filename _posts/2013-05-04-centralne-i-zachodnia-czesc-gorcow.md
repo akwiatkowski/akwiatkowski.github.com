@@ -6,7 +6,7 @@ date:                   2013-05-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/34473826/m%3D2048/4e1d4f7f46cb5ba9b277a92ebac70dba"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [hike, mountains, uncorrected]
 towns:                  [malopolskie, nowy_targ, niedzwiedz, rabka]
 lands:                  [gorce]
 

@@ -6,7 +6,7 @@ date:                   2013-02-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28180619/m%3D2048/7d23bd05da156b9a4603497d2a63c918"
 categories:             trip
-tags:                   [hike, mountains, best]
+tags:                   [hike, mountains, best, uncorrected]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [karkonosze]
 

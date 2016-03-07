@@ -6,7 +6,7 @@ date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
 categories:             trip
-tags:                   [bicycle, panniers, best]
+tags:                   [bicycle, panniers, best, uncorrected]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
 lands:                  [drawski_park_krajobrazowy]
 

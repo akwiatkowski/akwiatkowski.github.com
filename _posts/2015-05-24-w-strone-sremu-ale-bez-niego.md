@@ -6,7 +6,7 @@ date:                   2015-05-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/137154151/m%3D2048/5d17bcb45467e65bba131a334e9c47bf"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [bicycle, todo_media, uncorrected]
 towns:                  [wielkopolskie, poznan, mosina, brodnica, czempin]
 
 coords:                 [{"route": [[52.24325,16.85449], [52.23704,16.88152], [52.21707,16.90693], [52.20844,16.95045], [52.19818,16.95628], [52.18908,16.97439], [52.14223,16.97448], [52.13638,16.92650], [52.15102,16.84307], [52.15450,16.82385], [52.14428,16.76943], [52.13912,16.75346]], "type": "bicycle"}, {"route": [[52.14197,16.75640], [52.18377,16.79957], [52.24115,16.85218], [52.29499,16.87081], [52.40331,16.91209]], "type": "train"}]

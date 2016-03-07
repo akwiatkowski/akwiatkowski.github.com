@@ -1,4 +1,4 @@
----
+, uncorrected---
 layout:                 post
 title:                  "Przejście do Rdzawki"
 subtitle:               "ładne polanki, nie za długa trasa, jednak zimniej niż dzień wcześniej"
@@ -6,7 +6,7 @@ date:                   2016-01-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135034595/m%3D2048/92f3adfbd746da32aa9443b60dcbd98a"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains, todo_media, uncorrected]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
