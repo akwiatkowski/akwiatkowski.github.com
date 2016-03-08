@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Zejście z Rycerzowej do Rajczy"
-subtitle:               "ponownie ciepło"
+subtitle:               "znowu ciepło"
 date:                   2013-07-21 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/43162646/m%3D2048/9be5d19077b62d49d9eea687a18d1f43"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -24,7 +24,7 @@ time_spent:             6
 Wstęp
 -----
 
-Ostatni dzień w [Beskidzie Żywieckim][wiki-beskid-zywiecki] i jednocześnie początek upałów.
+Ostatni dzień w [Beskidzie Żywieckim][wiki-beskid-zywiecki] i jednocześnie powrót i początek upałów.
 
 Opis trasy
 ----------
@@ -41,7 +41,7 @@ Nie trudno było zrobić zdjęcie, na którym nie byłoby ani jednej chmury. Spo
 prowadziło nas otwartymi terenami.
 
 Bardzo podobały mi się wioski, które mijaliśmy po drodzę. Zwłaszcza [Młada Hora][wiki-mlada-hora]
-ulokowana totalnie w górach. Z tego co widziałem na mapie, to prowadzi do niej droga
+ulokowana totalnie "w górach". Z tego co widziałem na mapie, to prowadzi do niej droga
 położona równolegle do szlaku, którym szliśmy dalej.
 
 Po pewnym czasie szlak się zagęścił i zaczęło się trochę ostrzejsze zejście.

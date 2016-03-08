@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Z Międzylesia do Schroniska pod Śnieżnikiem"
-subtitle:               "sudeckie wioski, żar i pod koniec lasy"
+subtitle:               "sudeckie wioski, żar, a pod koniec lasy"
 date:                   2013-07-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41466174/m%3D2048/fd9d01b4921aceabcd40a34afa8ab71c"
@@ -28,7 +28,7 @@ time_spent:             8
 Wstęp
 -----
 
-Pierwszy kontakt z [Masywem Śnieżnika][wiki-masyw-snieznika], a jednocześnie zobaczenie jak wyglądają
+Był to pierwszy kontakt z [Masywem Śnieżnika][wiki-masyw-snieznika], a jednocześnie możliwość poznania jak wyglądają
 [Sudety Wschodnie][wiki-sudety-wschodnie].
 
 Opis trasy
@@ -40,10 +40,11 @@ Szczegóły
 ---------
 
 W [Międzylesiu][wiki-miedzylesie] wysiedliśmy około 8 rano. Jest to ostatni przystanek kolejowy na trasie z
-[Kłodzka][wiki-klodzko] i dalej na południe Polski.
+[Kłodzka][wiki-klodzko] w kierunku południowym, chociaż są połączenia, które
+zatrzymują się za granicą Polski.
 
 Powoli przeszliśmy przez miasto i kierowaliśmy się niebieskim szlakiem w stronę
-[Schroniska na Śnieżniku][wiki-schronisko],
+[Schroniska "Na Śnieżniku"][wiki-schronisko],
 które w rzeczywistości jest trochę pod nim.
 
 <div class='pixels-photo'>
@@ -54,7 +55,7 @@ które w rzeczywistości jest trochę pod nim.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Początkowo szliśmy po w miarę płaskim terenie, przez pola, jednocześnie widząc przed sobą góry
+Początkowo szliśmy po terenie w miarę płaskim, przez pola, jednocześnie widząc przed sobą góry
 [Masywu Śnieżnika][wiki-masyw-snieznika]. Minęliśmy wieś [Szklarnia][wiki-szklarnia].
 
 <div class='pixels-photo'>
@@ -65,12 +66,13 @@ Początkowo szliśmy po w miarę płaskim terenie, przez pola, jednocześnie wid
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Tereny te bardzo mi się podobały. Lubię delikatne pagórki oraz pola i wyższe góry dalej. Za wsią
-[Szklarnia][wiki-szklarnia] rozpoczęło się chwilowe, lekkie podejście i znowu chwila spaceru po (w miarę)
-płaskim.
+Tereny te bardzo mi się podobały. Lubię delikatne pagórki oraz pola i wyższe góry widoczne dalej na horyzoncie.
 
-Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal domy, pola, ale już góry są bliżej i pola nie
-są takie płaskie jak wcześniej. Cały czas było ciepło.
+Za wsią
+[Szklarnia][wiki-szklarnia] rozpoczęło się chwilowe, lekkie podejście i znowu chwila spaceru po  płaskim.
+
+Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal mijaliśmy domy, pola, ale już góry były bliżej
+i pola nie są takie już płaskie jak wcześniej. Cały czas było ciepło.
 
 <div class='pixels-photo'>
   <p>
@@ -102,12 +104,16 @@ wschód. Patrząc po cieniach drzew to się zgadza.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 W najwyższej partii wioski jest [Leśniczówka Ostoja][ostoja], w której kupiliśmy herbatę i wodę. Była to
-mądra decyzja. A za nią rozpoczęło się podejscie przez lasy. Miało to akurat pewną zaletę - nie ma
-tyle słońca w lesie, jednak i widoków też nie ma. Czasowo byliśmy za połową drogi.
+mądra decyzja. Tego dnia nie wiedziałem, że trzy lata później będę nocował w tym miejscu.
 
-Pozytywne podczas podejścia jest to, że z metrami zmniejsza się temperatura (bardzo powoli), ale
-jest sie bliżej szczytów, a tam wiatr powinien mocniej wiać. Tego dnia wiatru w dolinach prawie nie było, jednak
-na górze już trochę to nas chłodziło.
+Rozpoczęło się podejscie przez las. Miało to akurat pewną zaletę - nie ma
+tyle słońca w lesie, jednak i widoków też nie ma. Czasowo byliśmy za połową dzisiejszej
+zaplanowanej trasy.
+
+Pozytywne podczas podejścia jest to, że z wysokością zmniejsza się
+temperatura (niestety bardzo powoli), ale
+jest sie bliżej szczytów, a tam wiatr powinien wiać mocniej. Tego dnia wiatru w dolinach prawie nie było, jednak
+na górze już trochę nas chłodziło.
 
 Widoki pojawiły się dopiero w okolicy [schroniska][wiki-schronisko]. Pomimo że to był środek lata, to jakoś
-w schronisku czułem, że są pustki.
+w schronisku czułem, że są pustki. Trochę mnie to dziwiło.
