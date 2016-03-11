@@ -1,12 +1,12 @@
 ---
 layout:                 post
-title:                  "Śnieżnik, jaskinia Niedzwiedzia i Kopalnia uranu w Kletnie"
-subtitle:               "szczyty i trochę poniżej"
+title:                  "Śnieżnik, jaskinia Niedzwiedzia i kopalnia uranu w Kletnie"
+subtitle:               "szczyt i zalesiona dolina"
 date:                   2013-07-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/122690929/m%3D2048/7cf75942fe15e285bb6226c3fb3d398f"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -41,14 +41,15 @@ Szczegóły
 Rano wyszliśmy w stronę [Śnieżnika][wiki-snieznik]. Trochę chodzenia po kamieniach i byliśmy na miejscu. Rowerem
 na pewno tą drogą bym nie wjechał.
 
-Na środku ruiny starej wieży widokowej, którą ponoć mają odbudować. Idealny widok w każdą stronę, dlatego
+Na szczycie jest ruina starej wieży widokowej, którą ponoć mają odbudować niedługo.
+Jest tam idealny widok z każdej strony, dlatego
 zrobiłem [panoramę][snieznik-panorama].
 
 Później zeszliśmy do [Kletna][wiki-kletno] do [Jasnikini Niedźwiedzia][wiki-niedzwiedzia]. Całkiem ciekawie
-jest tam pod ziemią. Zdecydowanie było zimniej, co było dobre tego dnia.
+jest tam pod ziemią. Zdecydowanie było tam zimniej, co było akurat dobre tego dnia.
 
-Kolejnym elementem była [kopalnia uranu w Kletnie][wiki-kopalnia-uranu]. Pierwszy raz widziałem uran na żywo.
+Kolejnym celem była [kopalnia uranu w Kletnie][wiki-kopalnia-uranu]. Pierwszy raz widziałem uran na żywo.
 Taki naturalnie występujący w przyrodzie, ale to też się liczy.
 
-Następnie wróciliśmy do schroniska, bo trochę czasu na to wszystko poszło. W międzyczasie jak w schronisku było
-nie dużu ludzi, tak na dole były prawie tłumy.
+Powróciliśmy do schroniska wieczorem. Jak na dole w jaskini były prawie tłumy, tak na górze
+w schronisku były pustki.

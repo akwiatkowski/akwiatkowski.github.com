@@ -6,7 +6,7 @@ date:                   2013-07-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41466174/m%3D2048/fd9d01b4921aceabcd40a34afa8ab71c"
 categories:             trip
-tags:                   [hike, mountains, best, uncorrected]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
