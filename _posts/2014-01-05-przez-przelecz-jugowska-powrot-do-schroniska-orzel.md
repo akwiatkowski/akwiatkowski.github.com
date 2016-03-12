@@ -29,7 +29,7 @@ time_spent:             6
 Wstęp
 -----
 
-W tym momencie powoli zaczęliśmy wracać do centrum [Gór Sowich][wiki-gory-sowie],
+W tym momencie zaczęliśmy powoli wracać do centrum [Gór Sowich][wiki-gory-sowie],
 aby później robiąc pętle wrócić do miejsca, w którym zostawiliśmy samochód.
 
 Szczegóły
@@ -41,8 +41,8 @@ Opis trasy
 ----------
 
 Dzień rozpoczęliśmy wyruszając na południe z [Kamionek][wiki-kamionki]. Początkowo
-szlak wyglądał jak spacer z podejściem po późno-jesiennym lesie. Szlak to taki
-odpowiednik "na skróty" do położonej obok drogi.
+szlak wyglądał jak spacer z lekkim podejściem po późno-jesiennym lesie. Szlak to taki
+odpowiednik "na skróty" do położonej obok drogi dla samochodów.
 
 Gdy już byliśmy w pobliżu [Przełęczy Jugowskiej][wiki-jugowska] zrobiło się znacznie
 bardziej mgliście. Zeszliśmy coś zjeść do schroniska [Zygmuntówka][wiki-zygmuntowka].
@@ -68,4 +68,4 @@ Wnioski
 
 Czy te tereny są depresyjne? O tej porze roku mogą być.
 [Góry Sowie][wiki-gory-sowie] są chyba terenem z którego najwięcej osób się
-wyniosło.
+wyniosło. Najwięcej widziałem opuszczonych domów.

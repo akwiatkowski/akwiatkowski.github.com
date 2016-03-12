@@ -43,7 +43,7 @@ Szczegóły
 
 Wyruszyliśmy tak wcześnie, jak to się udało (po Andrzejkach), czyli po 9-tej.
 Zeszliśmy do [Samotni][wiki-samotnia], która jest całkiem blisko od [Strzechy Akademickiej][wiki-strzecha].
-Tam zjedliśmy śniadanie i dalej w drogę.
+Tam zjedliśmy śniadanie i dalej w drogę. Subiektywnie jedzenie w [Samotni][wiki-samotnia] jest lepsze.
 
 <div class='pixels-photo'>
   <p>
@@ -53,14 +53,13 @@ Tam zjedliśmy śniadanie i dalej w drogę.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Zaskoczył mnie ogrom ścian [Kocioła Małego Stawu][wiki-kociol]. Tak się widzi zdjęcia, przechodziło
+Zaskoczył mnie ogrom ściany [Kocioła Małego Stawu][wiki-kociol]. Widzi się zdjęcia, przechodziło
 się obok szlakiem na górze, ale dopiero jak się na żywo stanie na dole to widać, jakie to jest duże.
-W końcu 200 metrów
-wysokości różnicy to 200 metrów - musi być duże.
+W końcu 200 metrów wysokości różnicy to 200 metrów - musi być duże.
 
 Zrobiłem kilka zdjęć, jednak wiem że nie udało mi się pokazać (i chyba się nie da)
 jakie to jest duże. Na pewno trzeba tu wrócić, tylko tym razem jak będzie zielono.
-Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo byłem tylko w zimie.
+Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo wycieczki byłem tylko w zimie.
 
 <div class='pixels-photo'>
   <p>
@@ -70,7 +69,7 @@ Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo byłem tylko w zimi
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Dalsza część wycieczki była mniej interesująca. Sobie schodziliśmy po
+Dalsza część wycieczki była mniej interesująca. Schodziliśmy sobie po
 dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już koniec
 trasy - [Karpacz][wiki-karpacz].
 
@@ -95,4 +94,4 @@ Wnioski
 -------
 
 Dzięki naprawie szlaku na Śnieżke oraz dużym opadom śniegu udało się wejść bezproblemowo.
-Zejście było trochę trudniejsze.
+Zejście było trochę trudniejsze, ale i tak raczej łatwe.

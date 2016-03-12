@@ -6,7 +6,7 @@ date:                   2013-11-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/55590686/m%3D2048/c78578fb07a2484e09de6017b2b568fb"
 categories:             trip
-tags:                   [hike, mountains, best, uncorrected]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -32,7 +32,7 @@ Wstęp
 -----
 
 Nie przypuszczałem, że tego dnia zrobię swoje najlepsze zdjęcie. Nie przypuszczałem również, że zrobię je w tak
-brzydkiej pogodzie.
+nieprzyjaznej pogodzie.
 
 Opis trasy
 ----------
@@ -54,8 +54,8 @@ do [czerwonego szlaku][wiki-gss] po drodzę obserwując mniej lub bardziej ośni
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Gdy już doszliśmy do [czerwonego szlaku][wiki-gss] teren się trochę wypłaszczył i szliśmy wzdłuż tyczek
-w stronę [Śnieżki][wiki-sniezka]. Raczej po drodzę niewiele ciekawego widzieliśmy, oprócz wspomnianych
-wcześniej drzew. Zrobiliśmy małą przerwę w [Domy Śląskim][wiki-dom-slaski].
+w stronę [Śnieżki][wiki-sniezka]. Po drodzę raczej niewiele ciekawego widzieliśmy, oprócz wspomnianych
+wcześniej drzew. Zrobiliśmy małą przerwę w [Domu Śląskim][wiki-dom-slaski].
 
 Jak trochę zjedliśmy rozpoczęła się przygoda z górą, która [wcześniej][post-wczesniejszy] nie była zakończona.
 Teraz na szczęście naprawili łańcuchy i popadało dużo śniegu, co znacząco zwiększyło bezpieczeństwo.
@@ -72,11 +72,11 @@ Pogoda była dość średnia. Co chwilę chmura, szaro, czasami jakieś promieni
 ze zdjęcia będą mało ciekawe ostatecznie, ale jednak je robiłem. Głupio tak z pustymi rękoma wrócić do domu.
 
 Podejście ani nie było straszne, ani nie było lekkie, było gdzieś pośrodku. Nie widzieliśmy tej przepaści dzięki
-słabej pogodzie, więc byliśmy spokojniejsi. Chociaż po dojściu na szczyt małe uczucie wytchnienia.
+słabej pogodzie, więc byliśmy spokojniejsi. Chociaż po dojściu na szczyt było małe uczucie wytchnienia.
 
 Pokręciliśmy się po [Śnieżce][wiki-sniezka], porobiłem trochę zdjęć i weszliśmy do środka. Tam zamówiliśmy
 lody. Specjalnie dla mnie i Krzycha musieli włączać automat do lodów. W końcu co lepiej byłoby zjeść w zimie,
-na szczycie góry gdzie jest jeszcze mocniejsza zima, niż właśnie lody.
+na szczycie góry gdzie jest jeszcze mocniejsza zima, niż właśnie lody?
 
 <div class='pixels-photo'>
   <p>
@@ -86,7 +86,7 @@ na szczycie góry gdzie jest jeszcze mocniejsza zima, niż właśnie lody.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Teraz czas na zejście. Zawsze lubię ten moment, w którym muszę ubrać raczki. Ta gumowa konstrukcja jest
+Teraz czas na zejście. Zawsze "lubię" ten moment, w którym muszę ubrać raczki. Ta gumowa konstrukcja jest
 bardzo łatwa do założenia (ironia). Jednak jest to potrzebne gdyż daje luksuk normalnego zchodzenia.
 Nie trzeba sprawdzać czy stopa jest stabilna, bo będzie stabilna. Można normalne sobie iść. Każdy kto
 jest świadom tego, że [Śnieżka][wiki-sniezka] jest bardzo wybitnym szczytem doceni ten luksus.
@@ -99,12 +99,12 @@ jest świadom tego, że [Śnieżka][wiki-sniezka] jest bardzo wybitnym szczytem 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Podczas zejście połączenie słabej widoczności z czasami przebijającymi się promieniami, umożliwiło mi
+Podczas zejście połączenie słabej widoczności z chwilowo przebijającymi się promieniami, umożliwiło mi
 zrobienie bardzo ciekawych zdjęć.
 
 Obok [Domu Śląskiego][wiki-dom-slaski] ruszyliśmy niebieskim szlakiem do [Luční Bouda][wiki-lucni].
 Szliśmy raczej po płaski, wokół pełno śniegu i nie zauważyliśmy nic ciekawego. No może oprócz
-tego że przeszliśmy przez jakieś mokradła.
+tego że przeszliśmy przez jakieś mokradła bo szliśmy po drewnianym moście.
 
 <div class='pixels-photo'>
   <p>

@@ -6,7 +6,7 @@ date:                   2013-10-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/50459912/m%3D2048/750b58d4934278a4818697c526d28c90"
 categories:             trip
-tags:                   [hike, workshop, mountains, best, uncorrected]
+tags:                   [hike, workshop, mountains, best]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
@@ -32,11 +32,11 @@ Szczegóły
 ---------
 
 [Pasterka][wiki-pasterka] okazała się miejscowością faktycznie na końcu świata. W niektórych
-miejscach jest zasięg. Rzadko kiedy w środku budynku takie miejsca są.
+miejscach jest zasięg. Rzadko gdzie w środku budynków takie miejsca są.
 
 Wykłady pierwszego dnia pamiętam częściowo. Czyste niewyspanie w połączeniu z ciemnym, ciepłym powietrzem w
 dolnych salach powodowało, że co chwilę zasypiałem. Delikatnie mówiąc tego dnia wieczorem nie miałem
-problemu z zaśnięciem. Pełen 5-osobowy pokój to również nie problem. Wydaję mi się, że im gorsze
+problemu z zaśnięciem. Pełen 5-osobowy pokój to również nie był problem. Wydaję mi się, że im gorsze
 warunki, tym jest fajniej.
 
 W sobotę pobudka około 5-tej rano i wyjście na wschód słońca na [Szczeliniec Wielki][wiki-szczeliniec].
@@ -62,8 +62,8 @@ Chmury (lub mgły) unoszące się nad dolinami.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Następnie wycieczka przez labirynt na [Szczelińcu][wiki-szczeliniec]. Z jednej strony fajne, z drugiej tak trochę
-czasem ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mnie.
+Następnie wycieczka przez labirynt na [Szczelińcu][wiki-szczeliniec]. Z jednej strony fajne miejsce, z drugiej tak trochę
+ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mnie.
 
 Tak wyglądały oba Szczelińce ([Wielki][wiki-szczeliniec] i [Mały][wiki-szczeliniec-maly]) widziane z trasy powrotnej
 do [Pasterki][wiki-pasterka].
@@ -77,7 +77,7 @@ do [Pasterki][wiki-pasterka].
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wieczorem pojechaliśmy na [Wodospad Pośny][wiki-posna]. Wodospad to może zbyt mocna nazwa, widocznie
-w każdej dziedzinie życia jest marketing. Mały strumień jednak idealnie komponował się z jesiennymi kolorami.
+w każdej dziedzinie życia musi być marketing. Mały strumień jednak idealnie komponował się z jesiennymi kolorami.
 
 <div class='pixels-photo'>
   <p>
@@ -88,7 +88,7 @@ w każdej dziedzinie życia jest marketing. Mały strumień jednak idealnie komp
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Następnego ranka pobudka o bardziej ludzkiej godzinie i ruszyliśmy do [Błędnych Skał][wiki-bledne-skaly],
-gdzie zrobiłem poniższe (i powyższe w sumie też) zdjęcie.
+gdzie zrobiłem poniższe (główne zdjęcie tego wpisu) zdjęcie.
 
 <div class='pixels-photo'>
   <p>

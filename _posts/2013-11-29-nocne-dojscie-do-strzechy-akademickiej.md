@@ -1,12 +1,12 @@
 ---
 layout:                 post
-title:                  "Nocne dojście do Strzechy Akademickie"
-subtitle:               "przechadzka po 21 w zimie w górach"
+title:                  "Nocne dojście do Strzechy Akademickiej"
+subtitle:               "przechadzka po godzinie 21 w zimie w górach"
 date:                   2013-11-29 23:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/54269044/m%3D2048/e89b5ade629e7c1af495e592ae29a076"
 categories:             trip
-tags:                   [hike, mountains, uncorrected]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -24,7 +24,7 @@ time_spent:             2
 Wstęp
 -----
 
-Jest to początek odpowiedzi na pytanie "a może by wejść na [Śnieżkę][wiki-sniezka]?".
+Cały wyjazd jest odpowiedzią na pytanie "a może by wejść na [Śnieżkę][wiki-sniezka]?".
 
 Opis trasy
 ----------
@@ -35,27 +35,29 @@ Szczegóły
 ---------
 
 Nie pamiętam o której wyjechałem pociągiem z Poznania, ale wiem że w [Jeleniej Górze][wiki-jelenia]
-byłem już w okolicy godziny 17-tej. Było już ciemno, byłem głodny i poszedłem zjeść obok dworca czekając na
+byłem już około godziny 17-tej. Było już ciemno, byłem głodny i poszedłem zjeść obok dworca czekając na
 "resztę". Resztą jechała z Gliwic. Przyjechali, spakowaliśmy się (a raczej mnie) ledwo
 i jedziemy do [Karpacza][wiki-karpacz].
 
-Jedziemy, wokół ciemno i widać światła - skupiska ludzkie. I tak fajnie było widać jak ten [Karpacz][wiki-karpacz]
-jest wysoko położony. Widać to było znacznie wyraźniej niż za dnia.
+Jedziemy, wokół ciemno ale widać światła - skupiska ludzkie. I tak fajnie było widać jak ten [Karpacz][wiki-karpacz]
+jest wysoko położony. Wydaję mi się, że widać to było znacznie wyraźniej niż za dnia.
 
 Wjeżdzamy do [Karpacza][wiki-karpacz] i zaczyna śnieg padać. Nie wiem czemu, ale Karpacz mi się podoba.
 [Szklarska Poręba][wiki-szklarska] jest bardzo praktyczna, dojeżdza tam pociąg i wiem co gdzie jest, ale
 Karpacz jest dla mnie jakoś trochę ładniejszy. Możliwe że to przez różnicę wysokości między dolną częścią,
 a górną, bo [Szklarska Poręba][wiki-szklarska] jest bardziej płáska.
 
-Dojechaliśmy na parking obok tego mniejszego wyciągu narcarskiego. Pakowanie rzeczy na siebie trochę potrwało
-i ruszamy. Śnieg już mocniej sypie, a ja się cieszę jak dziecko.
+Dojechaliśmy na parking obok "mniejszego wyciągu narcarskiego". Pakowanie rzeczy na siebie trochę potrwało
+i ruszamy. Śnieg już mocniej sypie, a ja się cieszę jak dziecko bo się robi biało.
 
 Idąc przez miasto zobaczył nas człowiek odśnieżający chodnik. Jak powiedzieliśmy mu dokąd idziemy to
 powiedział coś w stylu "po co w taką pogodę i w nocy?".
 
-Po pewnym czasie miasto się skończyło i był ciemny las. Mieliśmy czołówki, ale bez nich też się dałoby iść.
-Oczy szybko przyzwyczajały się do śniegu.
+Po pewnym czasie miasto się skończyło i był już tylko ciemny las. Mieliśmy czołówki, ale bez nich też się dałoby iść.
+Oczy szybko przyzwyczajały się do jasności śniegu.
 
 Przez większość czasu było tak samo, las, śnieg, ciemno i spokojnie. Dopiero pod koniec trochę wiało i miejscami
-było trochę lodu. Dotarliśmy do [Strzechy Akademickiej][wiki-strzecha]. Było za późno aby się umyć więc
-poszliśmy spać.
+było trochę lodu.
+
+Dotarliśmy do [Strzechy Akademickiej][wiki-strzecha]. Było za późno aby się umyć więc
+poszliśmy spać w brudzie.

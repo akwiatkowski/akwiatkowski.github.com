@@ -6,7 +6,7 @@ date:                   2013-11-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538"
 categories:             trip
-tags:                   [hike, workshop, mountains, uncorrected]
+tags:                   [hike, workshop, mountains]
 towns:                  [podkarpackie, olszanica, lutowiska, czarna_bieszczady]
 lands:                  [bieszczady]
 
@@ -28,11 +28,11 @@ stają się zapomniane od turystów.
 Szczegóły
 ---------
 
-Dzień wcześniej przed przyjazdem ponoć było widać gwiazdy na niebie. Jak my dojechaliśmy to zdecydowanie
+Dzień wcześniej przed naszym przyjazdem ponoć było widać gwiazdy na niebie. Jak my dojechaliśmy to zdecydowanie
 już nic nie było widać.
 
 Ponownie miałem okazję przypomnieć sobie jak to jest zasypiać w środku dnia. Było to jadąc z Krakowa
-samochodem. Podobało mi się, że za [Duklą][wiki-dukla] teren robił się już ciekawszy.
+samochodem. Podobało mi się, że za [Duklą][wiki-dukla] teren robił się już ciekawszy - bardziej pofalowany, dzikszy.
 
 Najciekawszym dniem miał być drugi, kiedy planowany był zachód słońca na [Połoninie Caryńskiej][wiki-carynska].
 

@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "W stronę Skoków, po razy 1-szy"
-subtitle:               "odkrywanie trasy, na początku deszczowo, później lepiej"
+subtitle:               "odkrywanie trasy, na początku deszczowo, później już ładnie"
 date:                   2013-08-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/40521228/m%3D2048/01442be977b7390281beb951e5f3e7f9"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, rogozno, skoki]
 
 coords:                 [{"route": [[52.48936,16.90530], [52.50154,16.88942], [52.50786,16.88787], [52.52112,16.91174], [52.53052,16.91388], [52.54321,16.94864],   [52.54164,16.96589], [52.57660,16.96014], [52.58365,16.97182], [52.63670,16.94564], [52.65581,16.95834], [52.66290,17.05748], [52.69469,17.07052], [52.71393,17.09498], [52.70691,17.10906], [52.68517,17.14631], [52.67211,17.15343], [52.67450,17.16176]], "type": "bicycle"}]
@@ -42,7 +42,7 @@ Wstęp
 -----
 
 Jest to moja pierwsza dłuższa przejażdzka rowerem, który kupiłem kilka miesięcy temu.
-Trasa została zaproponowana mi na forum i chciałem ją tego dnia przetestować.
+Trasa została zaproponowana mi na forum i chciałem ją tego dnia spróbować.
 
 Opis trasy
 ----------
@@ -81,9 +81,9 @@ Wjeżdzając do [Łoskonia Starego][wiki-loskon] po lewej stronie jest staw, kt�
 Na skrzyżowaniu dróg polnych skręcamy w lewo i jedziemy na północ. Mijamy [Budziszewice][wiki-budziszewice]
 oraz [Budziszewko][wiki-budziszewko]. To od tych wiosek ma swoją nazwę [Jezioro Budziszewskie][wiki-jezioro-budz].
 
-Wjeżdzamy na drogą już bardzo polną i kierujemy się na północ w stronę [Jeziora Budziszewskiego][wiki-jezioro-budz].
-Przejeżdzamy przez most i widziemy je po prawej stronie, a następnie dalej jedziemy przez las.
-Droga jest bardzo terenowa i jak jest susza robi się tam okrutnie.
+Wjeżdzamy na drogą już zdecydowanie polną i kierujemy się na północ w stronę [Jeziora Budziszewskiego][wiki-jezioro-budz].
+Przejeżdzamy przez most i widziemy to jezioro po prawej stronie, a następnie dalej jedziemy przez las.
+Droga jest czysto terenowo-leśna i jak jest susza jest tam okrutnie.
 
 W [Grzybowie][wiki-grzybowo] robimy przerwę, a po niej jedziemy przez [Rościnno][wiki-roscinno] i
 wracamy pociągiem ze [Skoków][wiki-skoki].
@@ -91,6 +91,6 @@ wracamy pociągiem ze [Skoków][wiki-skoki].
 Informacje końcowe
 ------------------
 
-Trasa ta, nie licząc pewnych rozbieżności, jest dla mnie wzorcowa. Jedzie się przez bardzo różne tereny i
-dlatego opis skopiuję do jednej z późniejszych przejażdzek. Rozszerzę go o opisy i filmy, jednak kolejne
-opisy będą już tylko odnosiły się, oraz będę w nich umieszczał tylko nowe ciekawostki.
+Trasa ta, nie licząc pewnych rozbieżności, jest dla mnie wzorcowa. Jedzie się przez różne tereny i
+dlatego opis skopiuję do jednej z późniejszych przejażdzek. Rozszerzę go o opisy i filmy.
+Kolejne opisy będą już tylko odnosiły się do tego wpisu, oraz będę w nich umieszczał tylko nowe ciekawostki.

@@ -19,7 +19,7 @@ time_spent:             4
 Wstęp
 -----
 
-Trasa taka, jak widać poniżej. Za Zoo są fajne lesiste tereny.
+Trasa taka, jak widać poniżej. Za Zoo są fajne leśne tereny.
 
 Opis trasy
 ----------

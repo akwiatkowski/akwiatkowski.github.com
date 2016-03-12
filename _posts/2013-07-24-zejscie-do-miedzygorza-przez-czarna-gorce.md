@@ -6,7 +6,7 @@ date:                   2013-07-24 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41495140/m%3D2048/d63e6ac9124d094d1d38d9abe41b042f"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -31,7 +31,7 @@ time_spent:             5
 Wstęp
 -----
 
-Trasa opisuje zejście ze [schroniska][wiki-schronisko] i powrót do cywilizacji.
+Trasa ta opisuje zejście ze [schroniska][wiki-schronisko] i powrót do cywilizacji.
 
 Opis trasy
 ----------
@@ -42,22 +42,27 @@ Szczególy
 ---------
 
 Ze [schroniska][wiki-schronisko] wyruszyliśmy czerwonym szlakiem ([Główny Szlak Sudecki][wiki-gss])
-w stronę [Czarnej Góry][wiki-czarna-gora]. Obok jest usytuowany resort narciarski. Cały czas szło się w miarę
-po płaskim, jedynie krotkie podejście do [Czarnej Góry][wiki-czarna-gora] było strome.
+w stronę [Czarnej Góry][wiki-czarna-gora]. Obok jest usytuowany resort narciarski. Cały czas szliśmy się w miarę
+po płaskim terenie, jedynie krotkie podejście do [Czarnej Góry][wiki-czarna-gora] było strome.
 
-Schodziliśmy zielonym szlakiem, głównie przez las. Tuż przed skręceniem w niebieski szlak, było trochę
+Schodziliśmy następnie zielonym szlakiem, głównie przez las. Po drodzę było trochę
 widoków i polanek. Zejście na niebieski szlak było trochę ukrytę, oraz trochę stromę.
+Wyglądało to tak, że idziemy sobie spokojnie drogą a w jednym miejscu trzeba skręcić
+w lewo w jakieś krzaki.
 
-Od tego momentu już szliśmy przez las. Widoków nie było, ale też było ciekawie - miejscami trochę stromo.
+Od tego momentu już szliśmy przez las. Widoków nie było, ale też było ciekawie - miejscami trochę stromo,
+jak wspomniałem.
 
-[Międzygórze][wiki-miedzygorze] okazało się dość dziwnym miastem. Jest ono położone totalnie pośrodku gór.
+[Międzygórze][wiki-miedzygorze] okazało się dość dziwną miejscowością. Jest ono położone totalnie pośrodku gór.
 Gdziekolwiek się spojrzy, wszystko jest wyżej niż sama wioska.
 
 Poczekaliśmy trochę obok przystanku autobusowego, który dopełnia dziwny klimat tej miejscowości. Jest to
-chyba na ogół ostatni przystanek na trasie autobusów.
+chyba ostatni przystanek na trasie autobusów.
 
 Jechaliśmy nim do [Kłodzka][wiki-klodzko] przez wiele lokalnych miejscowości. Co ciekawe, autobusy
 do [Kłodzka][wiki-klodzko] dojeżdzają do PKS, który jest obok stacji kolejowej
 [Kłodzko Miasto][wiki-klodzko-miasto], a głównym przystankiem kolejowym jest
-[Kłodzko Główne][wiki-klodzko-glowne]. Szybko pobiegliśmy aby dojechać jeden przystanek dalej i
-się przesiąść na dalszy pociąg. Odległe one są o 2km od siebie licząc szacunkową pieszą drogę.
+[Kłodzko Główne][wiki-klodzko-glowne]. Szybko pobiegliśmy aby dojechać jeden przystanek dalej pociągiem i
+się przesiąść na dalszy pociąg.
+
+Dworca te odległe są o 2-3km od siebie szacunkowo.

@@ -6,7 +6,7 @@ date:                   2013-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/44132576/m%3D2048/6e9a578dfcb2652ea46afe64b8a9cb5d"
 categories:             trip
-tags:                   [bicycle, uncorrected]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, pobiedziska]
 lands:                  [puszcza_zielonka]
 
@@ -15,22 +15,31 @@ distance:               38
 time_spent:             3
 ---
 
-[wiki-szlak-kosc]:      https://pl.wikipedia.org/wiki/Szlak_ko%C5%9Bcio%C5%82%C3%B3w_drewnianych_wok%C3%B3%C5%82_Puszczy_Zielonka
-[wiki-biedrusko]:       https://pl.wikipedia.org/wiki/Biedrusko
-[wiki-nadwarcianski]:   https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy
-[wiki-bolechowo]:       https://pl.wikipedia.org/wiki/Bolechowo_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-trzaskowo]:       https://pl.wikipedia.org/wiki/Trzaskowo
-[wiki-tuczno]:          https://pl.wikipedia.org/wiki/Tuczno_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-kowalskie]:       https://pl.wikipedia.org/wiki/Kowalskie_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-biskupice]:       https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
+[wiki-szlak-kosc]:       https://pl.wikipedia.org/wiki/Szlak_ko%C5%9Bcio%C5%82%C3%B3w_drewnianych_wok%C3%B3%C5%82_Puszczy_Zielonka
+[wiki-biedrusko]:        https://pl.wikipedia.org/wiki/Biedrusko
+[wiki-nadwarcianski]:    https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy
+[wiki-bolechowo]:        https://pl.wikipedia.org/wiki/Bolechowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-trzaskowo]:        https://pl.wikipedia.org/wiki/Trzaskowo
+[wiki-tuczno]:           https://pl.wikipedia.org/wiki/Tuczno_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kowalskie]:        https://pl.wikipedia.org/wiki/Kowalskie_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-biskupice]:        https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
+[wiki-puszcza-zielonka]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka
+
+Wstęp
+-----
+
+Pierwsza przejażdzka przez [Puszczę Zielonkę][wiki-puszcza-zielonka].
+
 
 Opis trasy
 ----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137188530/embed/0bf41ac8fb78d5ac54ad4bd8ecc927a6c1446868'></iframe>
 
-Do [Biedruska][wiki-biedrusko] dojechałem [Nadwarciańskim szlakiem rowerowym][wiki-nadwarcianski]. Następnie kierowałem się na zachód
-przez [Bolechowo][wiki-bolechowo], [Trzaskowo][wiki-trzaskowo].
+Do [Biedruska][wiki-biedrusko] dojechałem [Nadwarciańskim szlakiem rowerowym][wiki-nadwarcianski].
+Następnie kierowałem się na zachód
+przez [Bolechowo][wiki-bolechowo], [Trzaskowo][wiki-trzaskowo]. W tej ostatniej miejscowości
+jest fajny staw i podczas wiosny jest tam naprawdę ładnie.
 
 <div class='pixels-photo'>
   <p>
@@ -40,10 +49,15 @@ przez [Bolechowo][wiki-bolechowo], [Trzaskowo][wiki-trzaskowo].
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Nie będzie tutaj dokładnego opisu. Sporo trasy było drogami polnymi przez las.
+Nie będzie tutaj dokładnego opisu. Sporo trasy było drogami polnymi przez las i
+nie zapamiętałem dużo ciekawostek.
 
-[Tuczno][wiki-tuczno] minąłem pod koniec trasy. Jest to miejscowośc wypoczynkowa, obok której jest w miarę duże jezioro. Z niej jechałem dalej
-[szlakiem kościołów drewnianych][wiki-szlak-kosc] do wsi [Kowalskie][wiki-kowalskie], obok ktorej jest jezioro o tej samej nazwie. Tam tereny były
+
+
+[Tuczno][wiki-tuczno] minąłem pod koniec trasy. Jest to miejscowośc wypoczynkowa, obok
+której jest w miarę duże jezioro. Z niej jechałem dalej
+[szlakiem kościołów drewnianych][wiki-szlak-kosc] do wsi [Kowalskie][wiki-kowalskie],
+obok ktorej jest jezioro o tej samej nazwie. Tam tereny były
 jedna z najciekawszych tego dnia.
 
 Do stacji w [Biskupicach][wiki-biskupice] było blisko z tego miejsca.

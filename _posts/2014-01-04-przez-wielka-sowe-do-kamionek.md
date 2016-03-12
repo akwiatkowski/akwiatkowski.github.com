@@ -6,7 +6,7 @@ date:                   2014-01-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/58673886/m%3D2048/b0dfdf4a1b0772b8a27aa9f74cf5063f"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, gluszyca, walim, pieszyce]
 lands:                  [gory_sowie]
 
@@ -40,7 +40,7 @@ Szczegóły
 Opis trasy
 ----------
 
-Dzień rozpoczeliśmy spokojnym podejściem na wschód w las. Nie wiem, czy szliśmy szlakiem,
+Dzień rozpoczeliśmy spokojnym podejściem na wschód przez las. Nie wiem, czy szliśmy szlakiem,
 czy była to zwykła droga gruntowa. Naszym celem było dojście do czerwonego szlaku,
 będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 [Rozdrożu pod Moszną][wiki-rozdroze].
@@ -54,7 +54,7 @@ będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Dopiero od tego momentu rozpoczęły się najciekawsze widoki - wioski i pagórki w
-okolicy [Rzeczki Górnej][wiki-rzeczka-gorna]. Trudno mi wytłymaczyć teraz dlaczego,
+okolicy [Rzeczki Górnej][wiki-rzeczka-gorna]. Trudno mi wytłumaczyć teraz dlaczego,
 ale dla mnie teren jest tam bardzo ciekawy. Zwłaszcza [Przełęcz Sokola][wiki-przelecz-sokola].
 Jest to miejsce łączące góry - gdyż na południe jest lekki spad terenu, jak i doliny -
 gdyż jest to wioska ukryta w lekkiej dolinie.

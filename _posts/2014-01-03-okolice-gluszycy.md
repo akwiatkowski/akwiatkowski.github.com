@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Okolice Głuszycy"
-subtitle:               "Głuszyca Górna i spacer do Czech na jedzenie"
+subtitle:               "Głuszyca Górna i spacer do Czech na kolacje"
 date:                   2014-01-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, gluszyca, nowa_ruda]
 lands:                  [gory_sowie]
 
@@ -31,7 +31,7 @@ Wstęp
 
 Patrząc na mapę środkowa część [Sudetów][wiki-sudety] miała najwięcej braków.
 Nigdy nie byliśmy w [Górach Sowich][wiki-gory-sowie], chociaż kiedyś byłem w
-okolicy - w [Górach kamiennych][wiki-gory-kamienne].
+okolicy - w [Górach Kamiennych][wiki-gory-kamienne].
 
 Szczegóły
 ---------
@@ -40,8 +40,8 @@ Jechałem jakimś porannym pociągiem do [Wałbrzycha][wiki-walbrzych], gdzie sz
 przesiadłem się na szynobus [Wałbrzych][wiki-walbrzych] - [Kłodzko][wiki-klodzko],
 [linią 286][wiki-linia-286].
 
-Tak przy okazji, co widać po zdjęciu, była to idealna zima w górach, jaka bywa
-w ostatnich latach. Czyli realna późna jesień.
+Tak przy okazji co widać po zdjęciu, była to idealna zima w górach, jaka bywa
+w ostatnich latach. Czyli prawdziwa późna jesień.
 
 Wysiadłem na stacji kolejowej w [Głuszycy Górnej][wiki-gluszyca-g] i powoli
 ruszyłem w stronę noclegu.
@@ -54,7 +54,7 @@ ruszyłem w stronę noclegu.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Gdy dojechała reszta i rozpakowaliśmy się, pojechaliśmy ulicą Graniczną do
+Gdy dojechała reszta i rozpakowaliśmy się, a wieczorem pojechaliśmy ulicą Graniczną do
 granicy czeskiej. Tam pieszo przeszliśmy przez granicę do osady
 [Janovičky][wiki-janovicky]. Do 2007 roku było tutaj [przejście graniczne][wiki-przejscie-gr].
 Obiadokolacje zjedliśmy w [Zámeček][zamecek].
