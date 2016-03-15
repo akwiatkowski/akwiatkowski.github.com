@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Drugie zimowe wejście na Śnieżkę"
-subtitle:               "ogólnie też jest to drugie"
+subtitle:               "ogólne też jest to drugie - nigdy nie byłem w innej porze roku"
 date:                   2015-02-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/101052739/m%3D2048/e417fab7574c638c651d16c4b31283f2"
 categories:             trip
-tags:                   [hike, mountains, best, uncorrected]
+tags:                   [hike, mountains, best]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -46,37 +46,40 @@ Szczegóły
 
 To był krótki weekendowy wyjazd do [Szklarskiej Poręby][wiki-szklarska]. Miało być
 trochę nart i trochę chodzenia. Przyjechaliśmy wieczorem dwa dni wcześniej, z tym że
-ja pociągiem.
+ja przyjechałem pociągiem.
 
 Dzień przed wejściem na [Śnieżkę][wiki-sniezka] dyskutowaliśmy co robimy. Ja
-wolałem narty i koniec końców poszedłem sam pozjeżdzać. Całkiem mi się to udało,
+wolałem narty i ostatecznie poszedłem sam pozjeżdzać. Całkiem mi się to udało,
 tylko dwa razy się wywaliłem na Puchatku. Przez ostatnie dwa lata nie miałem
-czasu, albo nie miałem zimy, dlatego nie chciałem czekać dalej i skorzystałem
+czasu, albo nie było zimy gdy ja miałem czas, dlatego nie chciałem czekać dalej i skorzystałem
 z odpowiedniej pogody.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/118859974' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Przyszedł czas spakować się i ruszyć dalej. Pojechaliśmy samochodem do [Karpacza][wiki-karpacz],
-gdzie rozpoczęło się główny punkt programu - zimowe zejście na [Śnieżkę][wiki-sniezka]
+gdzie rozpoczął się główny punkt programu - zimowe zejście na [Śnieżkę][wiki-sniezka]
 z parkingu obok Białego Jaru w [Karpaczu][wiki-karpacz].
 
 <a href="http://mapa-turystyczna.pl/route/zkdz" title="Trasa Karpacz, Hotel Majestic ↔ Kopa w serwisie mapa-turystyczna.pl"><img alt="Trasa Karpacz, Hotel Majestic ↔ Kopa w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
 Szliśmy żółtym szlakiem do [Strzechy Akademickiej][wiki-strzecha] obserwując
 pogłębiającą się zimę na drzewach. W podejściach raczej nie ma nic dynamicznego.
+Zmiana ta była delikatnie stopniowana.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/118575991' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Następnie śniadanie w [schronisku][wiki-strzecha] i po chwili dalej. Wyszliśmy
+Następnie śniadanie w [schronisku][wiki-strzecha]. Wyszliśmy
 ze [schroniska][wiki-strzecha]
-już w mgle, lub chmurze. Widoczność była minimalna więc tylko sobie szliśmy dalej,
-aż do [Domu Śląskiego][wiki-dom-slaski].
+już we mgle, lub chmurze. Widoczność była minimalna więc tylko sobie szliśmy dalej,
+aż do [Domu Śląskiego][wiki-dom-slaski]. Tyczki i wydeptany śnieg pokazywały nam gdzie
+iść.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/118589851' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Podejście na [Śnieżkę][wiki-sniezka] również nie było zbyt interesujące, jednak na górze
-zaczęło robić się lepiej. Chmury poruszały się bardzo szybko i tuż przed zejściem
-mieliśmy szczęście mieć bardzo dobrą widoczność.
+zaczęło robić się ciekawiej. Chmury poruszały się bardzo szybko i tuż przed zejściem
+mieliśmy szczęście mieć bardzo dobrą widoczność. Rozpoczęło się ponad półgodzinne
+okno z bardzo dobrą widocznością i niebieskim niebem.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/118605307' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 

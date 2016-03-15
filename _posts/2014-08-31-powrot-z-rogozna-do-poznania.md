@@ -6,7 +6,7 @@ date:                   2014-08-31 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/74025541/m%3D2048/ec9fa92b983add7b72530e15e82e534d"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, rogozno, oborniki, suchy_las, poznan]
 
 
@@ -36,10 +36,10 @@ Opis trasy
 Szczegóły
 ---------
 
-Pojechaliśmy pociągiem do [Rogoźna][wiki-rogozno] i mieliśmy z niego wrócić.
+Pojechaliśmy pociągiem do [Rogoźna][wiki-rogozno] i mieliśmy z niego wrócić rowerem.
 
 Próbowaliśmy przejechać wokół [jeziora][wiki-jezioro-rogozno], jednak w praktyce
-nie było tam żadnej sensownej ścieżki dla nas. Olaliśmy i jechaliśmy dalej,
+nie było tam żadnej sensownej ścieżki dla nas. Zignorowaliśmy i jechaliśmy dalej,
 w stronę [Obornik][wiki-oborniki].
 
 Gdzieś mam zdjecia, na którym widać jakieś interesujące wioski, ale w tym
@@ -49,22 +49,22 @@ niestety mniej.
 Gdy dojeżdzaliśmy do [Obornik][wiki-oborniki] pojawiły się bardzo podejrzane
 chmury, które odezwały się w momencie wyjazdu z tej miejscowości.
 
-Żółty szlak rowerowy początkowo jest asfaltowy, była to wtedy ogromna zaleta bo
+Żółty szlak rowerowy początkowo jest asfaltowy, było to wtedy ogromną zaletą bo
 zaczęło padać. Padać nie byle jak! Zaczęło tak lać, że rzadko kiedy pada mocniej.
 A jak pada mocniej to tylko na chwilę.
 
-Więc padało tak mocno jak jest to możliwe aby padało na dłużej, a my musimy jechać.
+Więc padało tak mocno jak jest to możliwe, a my musimy jechać.
 Nie było żadnego sensownego pociągu, już byliśmy mokrzy, a mieliśmy nadzieje, że
-może przestanie. Przestałem myśleć i jechaliśmy dalej.
+może przestanie. Przestałem myśleć po pewnym czasie i jechaliśmy dalej.
 
 Po jakimś czasie asfaltowy szlak zamienił się na terenowy. A błoto to zabójca
-hamulców tarczowych (w przenośni). Coś tam ocierało, ale jedziemy dalej bo co
-mógłbym wtedy zrobić.
+hamulców tarczowych. Coś tam ocierało i szurało, ale jedziemy dalej bo co
+mógłbym wtedy zrobić innego.
 
-W [Stanicy rowerowej w Złotkowie][face-stanica] zrobiliśmy przerwę na herbatę i dalej.
-Bez włączonego umysłu jechaliśmy dalej.
+W [Stanicy rowerowej w Złotkowie][face-stanica] zrobiliśmy przerwę na herbatę.
+Bez włączania umysłu jechaliśmy dalej.
 
 Przez [Morasko][wiki-morasko] jechaliśmy asfaltem. Poboczem płynął już strumyk deszczu.
 
 Po wejściu do domu zauważyłem kałużę w butach, oraz że nic już suchego na sobie nie miałem.
-Klocki hamulcowe wymieniłem jakiś czas później.
+Klocki hamulcowe wymieniłem jakiś czas później. Jedne zostały całkowicie starte.

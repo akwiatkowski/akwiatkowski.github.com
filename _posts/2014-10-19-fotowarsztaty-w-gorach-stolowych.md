@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Fotowarsztaty w Górach Stołowych w 2014r."
-subtitle:               "Szczeliniec Wielki oraz droga na północ od Kudowy Zdrój"
+subtitle:               "Szczeliniec Wielki, oraz droga na północ od Kudowy Zdrój"
 date:                   2014-10-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/87300393/m%3D2048/9293889b89d2e64faed85e0fbf303dbd"
 categories:             trip
-tags:                   [hike, workshop, mountains, todo_media, uncorrected]
+tags:                   [hike, workshop, mountains, todo_media]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
@@ -39,9 +39,9 @@ następnego dnia będzie mokro i mgliście.
 
 Obudziliśmy się przed 5 rano z planem wyjścia na [Szczeliniec][wiki-szczeliniec]
 aby zrobić zdjęcia wschodu słońca. Dobrze że ten cel nie mieliśmy wypisany na czole
-w tym momencie.
+w tym momencie bo by było wstyd.
 
-Na szczęście nawet gdy pogoda jest zła zdarza się coś dobrego z niej wyciągnąć. Przykładem jest
+Na szczęście nawet gdy pogoda jest zła, zdarza się coś dobrego z niej wyciągnąć. Przykładem jest
 główne zdjęcie, które tutaj poniżej ponownie umieszczę.
 
 <div class='pixels-photo'>
@@ -53,7 +53,7 @@ główne zdjęcie, które tutaj poniżej ponownie umieszczę.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Później wyruszyliśmy w stronę [Błędnych Skał][wiki-bledne-skaly], jednak wiedząc
-jak jest tam ciasno opuściłem grupę i przeszedłem się w stronę
+jak jest tam ciasno opuściłem grupę i przeszedłem się drogą w stronę
 [Kudowy Zdrój][wiki-kudowa].
 
 <div class='pixels-photo'>
