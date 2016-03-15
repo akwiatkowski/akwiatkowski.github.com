@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Zachodnia część Beskidu Małego"
-subtitle:               "trochę szaro i mokro, ale bardziej to jednak zielono"
+subtitle:               "trochę szaro i mokro, ale chyba bardziej zielono"
 date:                   2014-05-31 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133430575/m%3D2048/c1b9301da35ab06a28e4468c6bbe2295"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, bielsko-biala, wilkowice, czernichow]
 lands:                  [beskid_maly]
 
@@ -30,7 +30,7 @@ Wstęp
 -----
 
 [Beskid Mały][wiki-beskid-maly] był pewnego rodzaju kolejną dziurą na
- mapie "tu byłem". Teraz przyszedł na niego czas.
+ mapie gdzie byłem. Teraz przyszedł czas aby odkryć to miejsce.
 
 
 Opis trasy
@@ -45,7 +45,7 @@ Szczegóły
 To w sumie jak [Katowice][wiki-katowice] i [Kraków][wiki-krakow].
 
 Jakoś z Krzychem dojechaliśmy do [Bielska-Białej][wiki-bielsko-biala]. Wysiedliśmy
-i od razu szukaliśmy sklepu, bo jedzenia nigdy za wiele. Późnie
+i od razu szukaliśmy sklepu, bo jedzenia nigdy za wiele. Następnie
 kierowaliśmy się na wschód.
 
 Przeszliśmy nad drogą [S69][wiki-s69] i chwilę po tym rozpoczęło się podejście.
@@ -53,13 +53,15 @@ Znając siebie na pewno pomyślałem "znowu?!". Szliśmy czerwonym szlakiem.
 
 Na [Magurce Wilkowickiej][wiki-magurka-w] wskoczyliśmy do schroniska coś zjeść.
 
-Starając się myśleć pozytywnie, to mogę powiedzieć, że pogoda uwypuklała
+Starając się myśleć pozytywnie mogę powiedzieć, że pogoda uwypuklała
 zieloną barwę otaczającej nas przyrody. Mówiąc realistycznie - szaro i wilgotno.
 Mogło być gorzej - mogło padać.
 
-Dalej szliśmy niebieskim szlakiem. Minęliśmy [Czupel][wiki-czupel], najwyższą
-górę [Beskidu Małego][wiki-beskid-maly]. Fajnie, będzie do [korony][wiki-korona-gor].
+Szliśmy dalej niebieskim szlakiem. Minęliśmy [Czupel][wiki-czupel], najwyższą
+górę [Beskidu Małego][wiki-beskid-maly]. Fajnie, będzie szczyt do [korony][wiki-korona-gor].
 
-Czerwony zeszliśmy do [Międzybrodzia Bialskiego][wiki-miedzybrodzie-b], gdzie
-mieliśmy nocleg. Z ciekawostek to w pizzerii widzieliśmy jak natywni mieszkańcy walczyli
-ze sobą.
+Czerwonym szlakiem zeszliśmy do [Międzybrodzia Bialskiego][wiki-miedzybrodzie-b], gdzie
+mieliśmy nocleg.
+
+Z ciekawostek to w pizzerii widzieliśmy jak natywni mieszkańcy walczyli
+ze sobą. Tak to widocznie bywa w małych miejscowościach.
