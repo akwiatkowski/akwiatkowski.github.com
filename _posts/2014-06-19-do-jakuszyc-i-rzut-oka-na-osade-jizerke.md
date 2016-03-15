@@ -6,7 +6,7 @@ date:                   2014-06-19 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133471253/m%3D2048/9915b70e044776f3ad9a4b62188e73a9"
 categories:             trip
-tags:                   [bicycle, mountains, best, uncorrected]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [gory_izerskie]
 
@@ -45,7 +45,6 @@ Szczegóły
 
 Dzień rozpoczął się od bardzo ładnej pogody.
 Do [Jakuszyc][wiki-jakuszyce] [dojechaliśmy][vimeo-1] klasycznym szlakiem rowerowym.
-Trochę się zapędziliśmy i zamiast jechać w stronę schroniska [Orle][wiki-orle]
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/98865089' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -66,5 +65,5 @@ tego dnia.
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/98945741' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Spokojne 10 minut zjazdu, lekkie chwilowe podjazdy, bardzo dobra
-asfaltowa droga i minimalny ruch - dlatego on mi się najbardziej podobał.
-Prawie nie trzeba hamować, jednak ja się bałem i to robiłem.
+asfaltowa droga i minimalny ruch - dlatego on mi się bardzo podobało.
+Hamowanie nie było konieczne, jednak ja wolę jeździć ostrożnie i to robiłem.

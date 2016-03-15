@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Przez Jakuszyce i Stóg Izerski"
-subtitle:               "w tym zjazd z 1050 do 600m npm"
+subtitle:               "zjazd z 1050 do 600m npm w ciągu 15 minut"
 date:                   2014-06-20 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133477751/m%3D2048/b047bb4a0114af939e6cad9b443e3faa"
 categories:             trip
-tags:                   [bicycle, mountains, best, uncorrected]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska, swieradow_zdroj]
 lands:                  [karkonosze, gory_izerskie]
 
@@ -50,16 +50,17 @@ Szczegóły
 ---------
 
 Ruszyliśmy w kierunku stacji [Szklarska Poręba Górna][wiki-szklarska-gorna], ale
-jechaliśmy dalej na północ. Skręciliśmy na zachód w Osiedle Podgórze, a następnie
+tym razem jechaliśmy dalej na północ. Skręciliśmy na zachód w Osiedle Podgórze, a następnie
 jechaliśmy prawie równolegle do szlaku pieszego na
 [Wysoki Kamień][wiki-wysoki-kamien]. ([filmik][vimeo-1])
 
-Podjazd był raczej rozłożony na sporą odległość. Wjechaliśmy na wysokość ponad 1000m n.p.m.,
+Podjazd był raczej rozłożony na sporą odległość, dlatego nie był ciężki, lecz długi.
+Wjechaliśmy na wysokość ponad 1000m n.p.m.,
 na takiej jest [Kopalnia "Stanisław"][wiki-kopalnia].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/101720539' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Zjazd z [kopalni][wiki-kopalnia] do [Orle][wiki-orle] był w miarę bezproblemowy,
+Zjazd z [kopalni][wiki-kopalnia] do [schroniska Orle][wiki-orle] był w miarę bezproblemowy,
 nie był on zbyt stromy i droga była, z tego co pamiętam, dobra. Niestety
 zaczęło trochę kropić, co widać na filmiku.
 
@@ -74,18 +75,21 @@ Zostaliśmy tylko na jakieś ciepłe picie.
 To była druga przerwa tego dnia.
 Nie przestawało padać, a trasa jest do zrobienia. [Ruszyliśmy][vimeo-4] dalej w stronę
 [Stogu Izerskiego][wiki-stog-izerski]. Pod koniec rowery juz prowadziliśmy, gdyż
-poruszaliśmy się po szlaku pieszym.
+poruszaliśmy się po szlaku pieszym - kamienie.
 
-Tutaj zrobiliśmy trzecią przerwę - najdłuższą, z jedzeniem i suszeniem ciuchów.
+Tutaj zrobiliśmy trzecią przerwę - najdłuższą, z jedzeniem i suszeniem ubrań.
 Czekał na nas najciekawszy fragment - zjazd ze [Stogu Izerskiego][wiki-stog-izerski]
 do [drogi 358][wiki-358].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/102571591' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Przez około 13 minut zjechaliśmy 400 metrów w dół. Od razu poczułem różnicę
-temperatury. Sporo musiałem hamować i hamulce też poczułem. Niestety znowu kamerka
-była trochę wilgotna i jakość jest, jaka jest.
+temperatur. Sporo musiałem hamować i hamulce też poczułem (zapach). Niestety znowu kamerka
+była trochę wilgotna przez deszcz i jakość jest, jaka jest.
 
 Teraz najnudniejszy [fragment][vimeo-6] tego dnia, dla kontrasu, dojazd do
 [Zakrętu Śmierci][wiki-zakret]. A za nim był już [lekki zjazd][vimeo-7]
 do centrum [Szklarskiej Poręby][wiki-szklarska].
+
+Jestem zadowolony z tej trasy. Gdyby była lepsza pogoda, gdyby było niebiesko
+i zielono to byłoby idealnie.

@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Centralna część Beskidu Małego"
-subtitle:               "niskie górki, trochę widoków, nienaturalne jezioro"
+subtitle:               "niskie górki, trochę widoków, ciekawy staw"
 date:                   2014-06-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, czernichow, porabka, andrychow, lekawica]
 lands:                  [beskid_maly]
 
@@ -47,26 +47,32 @@ północnym, gdyż musieliśmy dostać się na drugą stronę
 [Zapora Porąbka][wiki-zapora-porabka] jest jedną z trzech elektrowni w rejonie rzeki
 [Soła][wiki-sola].
 
-Szliśmy dalej czerwonym szlakiem. Na początku wokół były domki letniskowe i
+Szliśmy dalej czerwonym szlakiem. Na początku wokół nas były domki letniskowe i
 podejście było w miarę lekkie. Po minięciu ulicy Szczytowej szlak
-stał się bardziej terenowy, rozpoczął się dość okrutnie gdyż trzeba było
-wysoko stawiać kolejne kroki, oraz zrobiło się miejscami wąsko.
+stał się bardziej terenowy, rozpoczął się dość okrutnie, gdyż trzeba było
+wysoko stawiać kolejne kroki oraz zrobiło się miejscami wąsko.
 
 Były chyba dwa punkty widokowe przed dojściem do góry [Żar][wiki-zar], na której
-przerwa na jedzenie i zdjęcia.
+zrobiliśmy przerwę na jedzenie i zdjęcia.
 
 Szliśmy cały czas czerwonym szlakiem dalej. Przebiega on na południe od
-zbiornika [elektrowni][wiki-zar-elektrownia].
+zbiornika [elektrowni][wiki-zar-elektrownia]. Sam zbiornik jest chyba najciekawszym
+elementem trasy. Jest on też dobrym punktem widokowym.
 
 Dalsza część trasy była, w mojej ocenie, mało interesująca. Na szczęście ma to
 również swoje plusy - nie było ciasno, nie było mocnego podejścia. Przeszliśmy
 przez [Kiczerę][wiki-kiczera], [Kocierz][wiki-kocierz] i na
-[przełęczy][wiki-kocierz-przelecz] zjedliśmy.
+[przełęczy][wiki-kocierz-przelecz] zjedliśmy obiado-kolacje.
 
 Nocleg mieliśmy w [Chatce na Potrójnej][wiki-chatka], który zapamiętam na długo,
-gdyż nie było cicho. Przyjechali znajomi rodziny prowadzącej z wódką, kiełbaskami
+gdyż noc tam nie była synonimem spokoju.
+Przyjechali znajomi rodziny prowadzącej schronisko z wódką, kiełbaskami
 i skwierczącymi dziećmi. Dodatkowo była jeszcze jedna grupa, która miała wieczór
 panieński.
+
+O grupie wieczoru panieńskiego nic złego nie powiem, jednak byłbym bardziej
+zadowolony gdybyśmy dostali informacje o szykującej się imprezie i się mogli do
+niej przygotować. Chociażby wspomnianymi kiełbaskami.
 
 [Chatka na Potrójnej][wiki-chatka] jest prowadzona przez rodzinę, a
 [Chatka pod Potrójną][wiki-chatka-pod] jest raczej studenckim schroniskiem.

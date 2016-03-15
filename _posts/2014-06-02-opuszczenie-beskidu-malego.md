@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Opuszczenie Beskidu Małego"
-subtitle:               "zejście do Inwałdu"
+subtitle:               "zejście do Inwałdu prawie o wschodzie słońca"
 date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/97144903/m%3D2048/912df5c155c296b53a1edf92c86a41de"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [slaskie, andrychow, lekawica]
 lands:                  [beskid_maly]
 
@@ -22,7 +22,6 @@ time_spent:             5
 [wiki-zagornik]:                https://pl.wikipedia.org/wiki/Zag%C3%B3rnik_(wojew%C3%B3dztwo_ma%C5%82opolskie)
 [wiki-inwald]:                  https://pl.wikipedia.org/wiki/Inwa%C5%82d
 [wiki-beskid-makowski]:         https://pl.wikipedia.org/wiki/Beskid_Makowski
-
 
 Wstęp
 -----
@@ -42,21 +41,21 @@ dwóch imprez. Wyszliśmy około 6:15, co jest niebywałe patrząc na to, o któ
 normalnie się budzę.
 
 Schodziliśmy czarnym szlakiem na północ przez [Czarny Groń][wiki-czarny-gron].
-Od tego miejsca zrobiło sie trochę stromiej, ale było bez tragedii. Szliśmy już
-wtedy przez las. Raczej za wiele nie widziałem mgieł porannych.
+Od tego miejsca zrobiło sie trochę stromiej, ale nie było tragedii. Szliśmy już
+wtedy przez las. Porannych mgieł nie stwierdziłem.
 
 Doszliśmy do drogi asfaltowej i kierując się na północ szukaliśmy pożywienia.
-Udało nam się to. Nie pamiętam o której godzinie, ale na pewno to było dość
+Udało nam się to w południowej części wsi [Rzyki][wiki-rzyki].
+Nie pamiętam o której godzinie, ale na pewno to było dość
 wcześnie w niedzielę, więc całkiem duży fart.
 
-Dotarliśmy do [Rzyków][wiki-rzyki]. Prawda, że piękna nazwa?
-
-Tam miał się rozpocząć czarny szlak i chyba się rozpoczął. Problemem było przejście
+W centrum [Rzyków][wiki-rzyki] miał się rozpocząć czarny szlak i chyba się rozpoczął.
+Problemem było przejście
 przez wzniesienie do ulicy Skórnickiej, oraz ponowne podejście i przejście przez
 kolejne wzniesienie. Szlak był tutaj kiedyś, ale raczej mało ludzi tam chodzi, więc
-delikatnie sobie zarósł.
+delikatnie sobie zarósł. Idealne miejsce na testowanie maczet.
 
-Miło było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzniesienia
+Miłe było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzniesienia
 i wysoką trawę. Tutaj zaczęła ona mnie delikatnie irytować, ale przemilczałem to,
 gdyż rzadko się chodzi po takich terenach.
 
@@ -65,9 +64,10 @@ na przystanku to "obalaliśmy".
 
 Ruszyliśmy ulicą Inwałdzką, która miała zaprowadzić nas do [Inwałdu][wiki-inwald].
 Nie pamiętam już szczegółów, ale kojarzę, że ten fragment mi się najbardziej
-podobał. Zwłaszcza przełęcz, z której zdjęcie użyłem do tego wpisu.
+podobał. Zwłaszcza przełęcz, której zdjęcie użyłem do tego wpisu.
 
 W [Inwałdzie][wiki-inwald] szlak również był ciekawy, zwłaszcza taki mały mostek.
+
 Na stację dotarliśmy ze spokojem i mogliśmy poleżeć na peronie czekając na
 pociąg.
 
