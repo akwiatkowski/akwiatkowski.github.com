@@ -1,12 +1,12 @@
 ---
 layout:                 post
-title:                  "Z Dziwnówka do Ustroni Morskich"
+title:                  "Z Dziwnówka do Sianożęt (Ustroni Morskich)"
 subtitle:               "drugi dzień przejażdzki na wybrzeżu, 80km i 11 godzin an rowerze"
 date:                   2014-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff"
 categories:             trip
-tags:                   [bicycle, coast, panniers, best, uncorrected]
+tags:                   [bicycle, coast, panniers, best]
 towns:                  [zachodnio_pomorskie, dziwnow, rewal, trzebiatow, kolobrzeg, ustronie_morskie]
 lands:                  [wybrzeze_trzebiatowskie, wybrzeze_slowinskie]
 
@@ -41,14 +41,14 @@ Szczegóły
 ---------
 
 Najgorszą wadą namiotów jest to, że trzeba je składać. Wyruszyliśmy w trasę chwilę
-po 9-tej.
+po 9-tej. Musieliśmy wszystko poskładać i to trwało.
 
 Do [Pobierowa][wiki-pobierowo] jechaliśmy głównie lasami, dalej musieliśmy jechać
 główną drogą przez standardowe polskie miasteczko wypoczynkowe na wybrzeżu.
 Brutalnie mówiąc - ogrom tandety.
 
 W okolicy [Niechorza][wiki-niechorze] jechaliśmy ścieżką rowerową obok [torów][kolej]
-kolejki wąskotorowej. Ciekawostka - można ją przewozić rower.
+kolejki wąskotorowej. Ciekawostka - można przewozić rower w niej.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/103796121' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -65,4 +65,4 @@ jest on w bardzo dobrej jakości.
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/103808770' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Na nocleg wybraliśmy [Sianożęty][wiki-sianozety]. Pole namiotowe było tańsze,
-jednak tym razem ciepłej wody nie było, ale człowiek w wakacje jej nie potrzebuje.
+jednak tym razem nie było ciepłej wody, ale człowiek w wakacje jej nie potrzebuje.

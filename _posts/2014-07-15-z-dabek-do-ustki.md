@@ -6,7 +6,7 @@ date:                   2014-07-15 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133511713/m%3D2048/e94716760c96f76e3352b095377b798e"
 categories:             trip
-tags:                   [bicycle, coast, todo_media, best, uncorrected]
+tags:                   [bicycle, coast, todo_media, best]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
 lands:                  [wybrzeze_slowinskie]
 
@@ -51,7 +51,7 @@ filmik z tego dnia byłby najciekawszy.
 Wyruszyliśmy dość późno, bo po godzinie 10-tej, z [Dąbek][wiki-dabki] kierując
 się do [Darłowa][wiki-darlowo]. Tam się rozdzieliliśmy, gdyż część chciała zwiedzić
 [zamek][wiki-darlowo-zamek], a część wolała popływać. Mi się pływać nie chciało, ale
-również nie chciało mi się łazić po zamku. Wybrałem to drugie.
+również nie chciało mi się łazić po zamku. Wybrałem pływanie jako mniejsze zło.
 
 Z [Darłowa][wiki-darlowo] jechaliśmy drogą równoległą do aleji Jana Pawła II.
 Całkiem fajna trasa - pola i wiatraki. Wyjechaliśmy tą drogą na plażę i tam
@@ -74,7 +74,7 @@ Przejechaliśmy przez [Królewo][wiki-krolewo] i tamte tereny mi się bardzo
 podobało. Możliwe że to było wynikiem dobrej pogody. Po pewnym czasie najlepiej
 pamięta się uczucia, które się miało w danym miejscu, oraz wyolbrzymia się je.
 Może to wszystko w tym momencie jest pewną wizją tych terenów popartą kilkoma
-ładnymi zdjęciami. Nie mogłem ich robić dużo, gdyż jeszcze się spieszyliśmy,
+ładnymi zdjęciami. Nie mogłem ich robić dużo, gdyż się spieszyliśmy,
 a hamowanie i ruszanie obciążonym rowerem trwa.
 Niemniej chciałbym jeszcze odwiedzić te tereny kiedyś.
 
@@ -93,12 +93,13 @@ W jednym momencie nie zauważyliśmy skrętu w lewo na drogę [203][wiki-203] pr
 co nadłożyliśmy trochę kilometrów. Robiło się ciasno z czasem, a przez brak
 sensownego posiłku siły nie były w szczytowej formie. Zdecydowaliśmy, że
 jednak nie ma sensu się przesadnie spieszyć, bo byłoby głupio jakbyśmy dali z
-siebie dużo, a nie zdąrzyli na pociąg. Zwolniliśmy i dojechaliśmy do [Ustki][wiki-ustka].
+siebie dużo, a nie zdąrzyli na pociąg. Zwolniliśmy i dojechaliśmy do [Ustki][wiki-ustka]
+ze spokojem.
 
 Będąc w okolicach dworca PKP pojechaliśmy na północ zjeść coś, a następnie zobaczyć
 port.
 
-Wracaliśmy w pociągu nocą. Zapieliśmy rowery do ostatnich drzwi i trochę udało się
+Wracaliśmy pociągiem w nocy. Zapieliśmy rowery do ostatnich drzwi i trochę udało się
 pospać.
 
 
@@ -107,18 +108,18 @@ Wnioski
 
 Sakwy i namiot zamieniają rower w mały czołg. Zapomnieć należy o dynamicznej jeździe.
 
-Rogi na kierownice były konieczne. Długotrwałe trzymanie jej spowodowało problemy
+Rogi na kierownice były konieczne. Długotrwałe trzymanie jej spowodowało
 tymczasowe problemy z czuciem.
 
 Najciekawsze tereny, dla mnie, są trochę dalej od wybrzeża. Jazda samym wybrzeżem
-na ogół nie jest taka ciekawa, wyjątkiem był szlak za [Kołobrzegiem][wiki-kolobrzeg]
+na ogół nie jest tak atrakcyjna, wyjątkiem był szlak za [Kołobrzegiem][wiki-kolobrzeg]
 dnia [drugiego][day-2]
 
 Dodatkowe baterie do kamerki są bardzo przydatne, tak samo jak powerbank. Baterie
 kupiłem dość szybko, powerbank trochę później. Ładowanie sprzętu jest dość utrudnione,
-a nie chciałem zostawiać komórki i kamerki gdzieś bez widoku.
+a nie chciałem zostawiać komórki i kamerki gdzieś bez nadzoru.
 
-Rozstawianie namiotu jest denerwujące, ale składanie go jest jeszcze bardziej denerwujące.
+Rozstawianie namiotu jest denerwujące, ale składanie go jest jeszcze bardziej.
 Teraz namiot tylko w miejscach, gdzie nie ma innej opcji, czyli tam gdzie jest dziko.
 
-Jak jest weekend i ładna pogoda to spokojnie spotka się sakwiarzy na Wybrzeżu.
+Jak jest weekend i ładna pogoda to zawsze spotka się sakwiarzy na Wybrzeżu.

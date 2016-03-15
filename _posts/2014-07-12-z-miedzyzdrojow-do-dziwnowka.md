@@ -6,7 +6,7 @@ date:                   2014-07-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318"
 categories:             trip
-tags:                   [bicycle, coast, panniers, uncorrected]
+tags:                   [bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
 lands:                  [wybrzeze_trzebiatowskie]
 
@@ -27,7 +27,7 @@ Wstęp
 -----
 
 Jest to moja pierwsza wycieczka rowerowa z sakwami. Wybrzeże jest jednym z najpopularniejszych
-miejsc takich wycieczek.
+miejsc takich wycieczek w Polsce.
 
 Opis trasy
 ----------
@@ -37,18 +37,19 @@ Opis trasy
 Szczegóły
 ---------
 
-Jechaliśmy pociągiem do [Międzyzdroi][wiki-miedzyzdroje] około 6 rano, a na miejscu wysiadliśmy
-(po przepakowaniu się) około 12-tej. Touring na 100%, razem z namiotami. Tylko kuchenki by brakowało.
+Jechaliśmy pociągiem do [Międzyzdroi][wiki-miedzyzdroje] około 6 rano, a na miejscu wysiedliśmy
+(po przepakowaniu się) około 12-tej. Touring na 100% - razem z namiotami. Tylko kuchenki by brakowało.
 
 Pojechaliśmy do centrum coś zjeść, a następnie na wschód. Lizneliśmy
 [Wolimski Park Narodowy][wiki-park-wolimski]. Przyznam, że szlak ten mnie nie zachwycił.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/103762175' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Dalej jechaliśmy przez wioski i lekkie lasy, czasem pola. To jest najlepszy opis.
-Podobała mi się drogą przed [Kołczewem][wiki-kolczewo] oraz pole w okolocy
+Dalej jechaliśmy przez wioski i lekkie lasy, czasem pola. To jest najlepszy opis
+jaki potrafię wymyśleć.
+Podobała mi się drogą przed [Kołczewem][wiki-kolczewo] oraz pole w okolicy
 [Jeziora Koprowo][wiki-j-koprowo].
 
 Nocleg mieliśmy na polu namiotowym w [Dziwnówki][wiki-dziwnowek]. Nie było tanie,
-ale mieli bardzo dobre łazienki. Podobało mi się jak mocno w nocy wiał wiatr.
-Reszta wniosków będzie opisana ostatniego dnia.
+ale mieli bardzo dobre łazienki. Podobało mi się gdy w nocy wiał silny wiatr, który
+wszystko zagłuszał. Reszta wniosków będzie opisana ostatniego dnia.
