@@ -6,7 +6,7 @@ date:                   2014-03-29 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/74025541/m%3D2048/ec9fa92b983add7b72530e15e82e534d"
 categories:             trip
-tags:                   [bicycle, uncorrected]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina]
 
 distance:               75
@@ -30,7 +30,7 @@ Wstęp
 -----
 
 Ta jazda to była próba pokazania mi [Puszczy Zielonki][wiki-puszcza-zielonka]
-w skrócie.
+w skrócie, ale trochę dokładniej niż kiedyś jechałem.
 
 Opis trasy
 ----------
@@ -41,13 +41,16 @@ Szczegóły
 ---------
 
 Rano miałem trochę problemów podczas pompowania z wentylem i dlatego musiałem się
-bardzo spieszyć jadąc do [Biedruska][wiki-biedrusko]. Jak się nie mylę udało mi
- się tam dojechać w 45 minut.
+bardzo spieszyć jadąc do [Biedruska][wiki-biedrusko]. Jak się nie mylę, udało mi
+się tam dojechać w 45 minut.
 
 Za [Biedruskiem][wiki-biedrusko] dołączyłem się do kolegi i jechaliśmy dalej
 na wschód przez [Bolechowo][wiki-bolechowo], a następnie [Kamińsko][wiki-kaminsko],
 Celiniec, [Łopuchówko][wiki-lopuchowko], [Wojnowo][wiki-wojnowo],
 [Długą Goślinę][wiki-dluga-goslina].
+
+Nie opowiem tutaj o szczegółach, jednak zauważyłem, że są miejsca tam które wyglądają
+jak tereny górskie.
 
 Zjechaliśmy do [Śnieżycowego Jaru][wiki-sniezycowy-jar]. Od tamtego miejsca miałem
 znacznie większe problemy z podjazdami. Okazało się, że zużyłem energię jaką miałem.
@@ -60,7 +63,7 @@ Wnioski
 
 Jedzenie jest bardzo ważne. Niekoniecznie słodkie, ale konkretne jedzenie,
 które daje energię. Po tym dniu zacząłem dowiadywać się, co powinienem jeść.
-Wyszło na to, że zacząłem co 1 godzinę jeść solidną kanapkę, a po kilku godzinach
+Wyszło na to, że powinienem co 1 godzinę jeść solidną kanapkę, a po kilku godzinach
 ciepły obiad.
 
 [Puszcza Zielonka][wiki-puszcza-zielonka] miejscami wygląda jakby to były

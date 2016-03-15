@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Wieczorna przejażdżka z Poznania do Szamotuł"
-subtitle:               "ogólny lekki spad terenu zaowocował dobrą średnią prędkością - rzędu 21 km/h"
+subtitle:               "lekki spad terenu zaowocował dobrą średnią prędkością - rzędu 21 km/h"
 date:                   2014-04-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63248073/m%3D2048/291f13454efe2dd994f79a083e4ef9d9"
 categories:             trip
-tags:                   [bicycle, uncorrected]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, szamotuly]
 
 
@@ -31,7 +31,7 @@ Wstęp
 -----
 
 To akurat był impuls - miałem chwilę, utworzyłem trasę na szybko, a ciekawiło mnie
-co jest za [Sobotą][wiki-sobota].
+jak wygląda szlak za [Sobotą][wiki-sobota].
 
 Opis trasy
 ----------
@@ -41,8 +41,8 @@ Opis trasy
 Szczegóły
 ---------
 
-Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki], a następnie kierowałem
-się w stronę [Kiekrzu][wiki-kiekrz] i na północ w stronę [Soboty][wiki-sobota].
+Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki]. Następnie kierowałem
+się w stronę [Kiekrza][wiki-kiekrz] i dalej na północ w stronę [Soboty][wiki-sobota].
 
 Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za dużo
 razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest
@@ -50,7 +50,7 @@ most nad drogą [S11][wiki-s11].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/93087936' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Za [Sobotą][wiki-sobota] wjechałem las i skręciłem lekko na zachód przez
+Za [Sobotą][wiki-sobota] wjechałem w las i skręciłem lekko na zachód przez
 [Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] w stronę [Pamiątkowa][wiki-pamiatkowo].
 
 Z [Pamiątkowa][wiki-pamiatkowo] już w miarę bezpośrednio mniej uczęszczaną drogą jechałem
@@ -58,4 +58,5 @@ do [Szamotuł][wiki-szamotuly].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/93147135' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Szukałem wiosny, jednak jeszcze jej w pełni na trasie nie było.
+Szukałem wiosny, jednak jeszcze jej w pełni na trasie nie było. Gdzieniegdzie powoli się
+zieleniło.

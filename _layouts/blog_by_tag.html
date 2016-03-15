@@ -29,12 +29,20 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
+        {% assign post_number = 0 %}
+        {% for post in site.tags[page.tag] %}
+          {% assign post_number = post_number | plus: 1%}
+        {% endfor %}
+
+        <h4>{{ post_number }}/{{ site.posts | size }} wpisów w tagu "{{ tag.name }}"</h4>
+
         {% if site.tags[page.tag] %}
           {% for post in site.tags[page.tag] %}
-            
+
             <div class="post-preview">
               <a href="{{ post.url | prepend: site.baseurl }}">
                 <h2 class="post-title">
+                  {{ post_number }}.
                   {{ post.title }}
                 </h2>
                 {% if post.subtitle %}
@@ -44,20 +52,20 @@ layout: default
                 {% endif %}
               </a>
               <p class="post-meta">
-                Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+                Utworzone przez {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} dnia {{ post.date | date: "%B %-d, %Y" }}
               </p>
             </div>
             <hr>
-            
+
+            {% assign post_number = post_number | minus: 1%}  
           {% endfor %}
         {% else %}
-          <p>There are no posts for this tag.</p>
-        {% endif %}            
-            
+          <p>Nie ma wpisów do tego tagu.</p>
+        {% endif %}
+
       </div>
     </div>
   </div>
 </article>
 
 <hr>
-

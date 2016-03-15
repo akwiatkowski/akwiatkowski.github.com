@@ -6,7 +6,7 @@ date:                   2014-04-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb81337b0bdb0ab84db53bdf5c66e1c"
 categories:             trip
-tags:                   [bicycle, uncorrected]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, swarzedz, czerwonak]
 
 coords:                 [{"route": [[52.40338,16.95538], [52.39951,16.98800], [52.39532,17.01572], [52.40589,17.03091], [52.41684,17.06636], [52.42720,17.06318], [52.42997,17.07288], [52.46225,17.06722], [52.48991,17.06378], [52.49017,17.02877], [52.47977,17.01031], [52.47428,17.00722], [52.44070,17.05821], [52.42956,17.07074]], "type": "bicycle"}]
@@ -39,6 +39,6 @@ Szczegóły
 
 Z ciekawych fragmentów poleciłbym:
 
-* [Mechowo][wiki-mechowo] - ciekawie położony szlak obok [rzeczki][wiki-rzeka-glowna]
+* [Mechowo][wiki-mechowo] - ciekawie położony szlak obok [rzeczki Główna][wiki-rzeka-glowna]
 * za [Dziewiczą Górą][wiki-dziewicza-gora] - zupełnie jak w górach
 * przed [Wierzenicą][wiki-wierzenica] - całkiem fajna droga polna
