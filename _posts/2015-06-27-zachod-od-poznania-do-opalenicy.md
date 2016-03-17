@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Na zachód od Poznania do Opalenicy."
-subtitle:               "parno i chmara małych czarnych robaczków"
+subtitle:               "wilgotno i chmara małych czarnych robaczków"
 date:                   2015-06-27 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/113434405/m%3D2048/b37a325381b845d289fc2f26ef14e99b"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan, tarnowo_podgorne, dopiewo, buk, opalenica]
 lands:                  [pojezierze_poznanskie]
 
@@ -54,9 +54,10 @@ Wstęp
 
 Pomysł zobaczenia co jest po zachodniej stronie [Poznania][wiki-poznan] pojawił się 2 dni przed jego realizacją.
 Przypomniało mi się,
-jak jechałem początkiem tej trasy w listopadzie i było trochę szaro. W końcu jesień to musi być szaro i brzydko.
+jak jechałem początkiem tej trasy w listopadzie i było trochę szaro i nudno. W końcu jesień to musi być szaro i brzydko.
 
-Teraz nie ma jesieni, wiec jest szansa że będzie bardziej zielono niż szaro. W pewnym sensie było.
+Teraz nie ma jesieni, wiec jest szansa że będzie bardziej zielono niż szaro. Zielono
+było, tylko nie nazwałbym pogody idealną tego dnia.
 
 
 Opis trasy
@@ -75,7 +76,7 @@ Aby wydostać się z [Piątkowa][wiki-piatkowo] w Poznaniu można wyruszyć w 3 
 * na południe wzdłuż PST i dalej do [Malty][wiki-malta]
 
 Chcąc ruszyć na zachód wybrałem pierwszą możliwość. Tym razem nie chciało mi się jechać przez
-[Moraską Górą][wiki-moraska-gora]. Dzień
+[Moraską Górę][wiki-moraska-gora]. Dzień
 wcześniej padało i wszędzie były kałuże, nie chciało mi się bezcelowo walczyć z błotem.
 
 Trasa do [Złotnik][wiki-zlotniki] jest w miarę ciekawa, jak się jeździ ją rzadko.
@@ -111,7 +112,8 @@ niebieskich roślinek. Wrzucę zdjęcie później.
 
 Następnie kierowałem się na południe, obok [Jeziora Niepruszewskiego][wiki-jezioro-niepruszewskie].
 Ma one około 5km długości. Minąłem tory,
-którymi później będę wracał, i dotarłem do miejscowości [Podłoziny][wiki-podloziny]. Zaciekawiło mnie to, że jeździ tam autobus
+którymi później będę wracał w pociągu, i dotarłem do
+miejscowości [Podłoziny][wiki-podloziny]. Zaciekawiło mnie to, że jeździ tam autobus
 [792][dopiewo-bus-792]. Przejechałem sporo na trasie tego autobusu, a trasa częściowo nie jest asfaltowa.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/133072226' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
@@ -132,3 +134,4 @@ Dojechałem do dworca w [Opalenicy][wiki-opalenica] i tam postanowiłem skończy
 [małe czarne robaczki][wiki-wciornastki], których było wszędzie. Wszędzie na mnie. To był ciepły i parny dzień i chyba to je
 obudziło. Nie miałem ochoty ich zbierać i postanowiłem, że wrócę pociągiem do Poznania. Miałem ambicje na
 więcej, chciałem dojechać do Nowego Tomyśla, zrobić więcej niż 73km za jednym razem.
+Przeszkodziłi mi małe robaczki.

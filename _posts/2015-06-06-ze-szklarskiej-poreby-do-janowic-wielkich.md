@@ -6,7 +6,7 @@ date:                   2015-06-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
 categories:             trip
-tags:                   [bicycle, mountains, best, uncorrected]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska, piechowice, podgorzyn, myslakowice, janowice_wielkie]
 lands:                  [karkonosze, rudawy_janowickie]
 
@@ -60,10 +60,10 @@ Opis trasy
 
 Trasę [zaczęliśmy][vimeo-1] Drogą pod reglami (nie jestem pewien czy ta trasa się tak nazywa) jadąc utwardczonym terenem
 w stronę [Przesieki][wiki-przesieka]. Ostatni fragment (zjazd do Przesieki) miał w sobie tak dziwnie zbudowane
-przerwy aby spływająca woda nie niszczyła szlaku, że bardzo utrudniał jazdę. Nie rozumiem jak to jest, że
+przerwy aby spływająca woda nie niszczyła szlaku, które bardzo utrudniały jazdę. Nie rozumiem jak to jest, że
 w każdym innym miejscu można zbudować je w taki sposób, że rower spokojnie przejedzie, a tam musiało być
-zbudowane w inny sposób. W skrócie chodzi o to, że zjeżdzając opona uderza o betonowy fragment przerwy w szlaku.
-Straciliśmy na zjeździe w sumie 3 dętki, oraz Krzychu poleciał na zakręcie.
+zbudowane inaczej. W skrócie chodzi o to, że zjeżdzając opona uderza o betonowy fragment przerwy w szlaku.
+Straciliśmy na zjeździe 3 dętki, oraz Krzychu poleciał na zakręcie.
 
 Z [Przesieki][wiki-przesieka] ruszyliśmy lekkim zjazdem w stronę [Podgórzyna][wiki-podgorzyn] i dalej w
 stronę [Kowar][wiki-kowary]. Co ciekawe, do Podgórzyna jeżdzą autobusy komunikacji miejskiej z
@@ -82,22 +82,24 @@ w miejscowości [Kostrzyca][wiki-kostrzyca] i [Bukowiec][wiki-bukowiec]. ([filmi
 W [Bukowcu][wiki-bukowiec] byliśmy zaciekawieni znakiem szlaku rowerowego na drzewie i [skręciliśmy][vimeo-5] z drogi
 asfaltowej. Asfalt był nudny dla większości osób z naszej grupy. Wybór ten zaowocował wieloma
 skrajnymi emocjami. [Szlak ten][bukowiec-grass-trail] okazał się być jakimś starym, zarośniętym czymś.
-Jazda przez wysoką trawę, gdzie nic nie widać. Co chwilę gałęzie uderzające w głowę. Fajnie!
-[Tutaj][vimeo-6] jest filmik, szkoda tylko że przetarłem mokrą ręką kamerkę.
+Jazda przez wysoką trawę gdzie nic nie widać. Co chwilę gałęzie uderzające w głowę. Fajnie!
+[Tutaj][vimeo-6] jest filmik, szkoda tylko że przetarłem mokrą ręką kamerkę i jest
+trochę zamazany później.
 
 
-Następnym przystankiem był [Zamek][wiki-karpniki-zamek] w [Karpnikach][wiki-karpniki]. Bardzo zadbane miejsce,
-aż to nie pasuje do sudeckich klimatów.
+Następnym przystankiem był [Zamek][wiki-karpniki-zamek] w [Karpnikach][wiki-karpniki]. Bardzo zadbane miejsce.
+Nie pasuje do sudeckich klimatów.
 
 Z Karpnik wyruszyliśmy w stronę [Szwajcarki][szwajcarka]. Na [filmiku][vimeo-7] widać podjazd do schroniska,
 jak również Przemka, który padł przed schroniskiem.
 
-Mogliśmy szybko ruszyć dalej, aby zdąrzyć na pociąg o 17,
+Mogliśmy szybko ruszyć dalej, aby zdążyć na pociąg o 17-tej,
 jednak postanowiliśmy *ze spokojem* przejechać jeszcze trochę i wracać z innej stacji.
-Mając trochę czasu [poszedłem zobaczyć][vimeo-8] na widok z Krzyżnej Góry, która jest około 15 minut pieszo obok schroniska.
+Mając trochę czasu [poszedłem zobaczyć][vimeo-8] na widok z Krzyżnej Góry, która jest
+w odległości około 15 minut pieszo obok schroniska.
 
 Nie mogliśmy
 zdecydować czy [Wojanów][wiki-wojanow] czy [Janowice Wielkie][wiki-janowice-wielkie].
-Koniec końców wybraliśmy to drugie, trasa miała być ciekawsza. Czy była? Nie wiem.
+Ostatecznie wybraliśmy to drugie, trasa miała być ciekawsza. Czy była? Nie wiem.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/131361750' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>

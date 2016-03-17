@@ -6,7 +6,7 @@ date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
 lands:                  [beskid_sadecki]
 
@@ -21,21 +21,22 @@ time_spent:             8
 [wiki-jaworzyna]:       https://pl.wikipedia.org/wiki/Jaworzyna_Krynicka
 [wiki-gsb]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki#Beskid_S.C4.85decki
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej
+[wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
 
 Wstęp
 -----
 
-Pierwszy dzień małej wycieczki przez cały Beskid Sądecki rozpoczynająca się w Muszynie.
+Pierwszy dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki] rozpoczynająca się w Muszynie.
 
 Szczegóły
 ---------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346183284/embed/926ca2b771ca87dbd178ef7f3944c436c43ab6c9'></iframe>
 
-Wyrusziliśmy pociągiem przed 20 w Poznaniu, niecałe dwie godziny później przesiadka w Kutnie i 10 godzin w pociągu do
-[Muszyny][wiki-muszyna]. Odzwyczaiłem się i tyle godzin w pociągu spędzać i tym razem nie było to łatwe.
+Wyrusziliśmy pociągiem przed 20-tą w Poznaniu, niecałe dwie godziny później przesiadka w Kutnie i 10 godzin w pociągu do
+[Muszyny][wiki-muszyna]. Odzwyczaiłem się i tyle godzin w pociągu spędzać nie było to dla mnie łatwe.
 
-Na szczęście za Tarnowem teren zaczął robić się bardziej wypukły i zaczęło pojawiaś się Słońce, dzięki
+Na szczęście za Tarnowem teren zaczął robić się bardziej wypukły i zaczęło pojawiaś się słońce, dzięki
 czemu z pociągu widoki były całkiem interesujące.
 
 <div class="pixels-photo">
@@ -44,7 +45,7 @@ czemu z pociągu widoki były całkiem interesujące.
 </div>
 <script type="text/javascript" src="https://500px.com/embed.js"></script>
 
-Pierwszy dzień był zaplanowany na jatrudniejszy, mapowe 6h chodzenia. Wysiedliśmy w [Muszynie][wiki-muszyna] i kierowaliśmy się
+Pierwszy dzień był zaplanowany jako jatrudniejszy, mapowe 6h chodzenia. Wysiedliśmy w [Muszynie][wiki-muszyna] i kierowaliśmy się
 w stronę wsi [Złockie][wiki-zlockie] zielonym szlakiem. Ciekawoską były zbudowane z kwiatów "pomniki" zwierząt na
 ulicy Zazamcze.
 
@@ -52,13 +53,15 @@ Niedaleko [cerkwi w Złockie][wiki-zlockie-cerkiew] zielony szlak pieszy prowadz
 Pagórki i polany są najciekawszymi krajobrazami w tamtych rejonach.
 
 Po pewnym czasie weszliśmy w las i tym lasem doszliśmy do [Jaworzyny Krynickiej][wiki-jaworzyna], gdzie oprócz widoków
-była przerwa na jedzenie. Dzięki kolejce był tam ogrom ludzi, prawie jak Krupówki.
+była przerwa na jedzenie. Dzięki kolejce linowej był tam ogrom ludzi, prawie jak na Krupówkach.
 
 Dalej ruszyliśmy czerwonym szlakiem ([GSB][wiki-gsb]) aż do [Hali Łabowskiej][wiki-labowska]. Raczej nie ma co pisać,
 większośc trasy to był las, czasami
-może coś było widać przez dziury, jednak raczej nic specjalnie ciekawego. Może jestem ignorantem, ale chodzenie po lesie
-po drugiej stronie Polski, to nie jest to co najbardziej mnie interesuje. Jednocześnie nie jestem zwolennikiem wycinania
+może coś było widać przez dziury między drzewami,
+jednak raczej nic specjalnie ciekawego. Może jestem ignorantem, ale chodzenie po lesie
+po drugiej stronie Polski, to nie jest to co najbardziej mnie interesuje.
+Jednocześnie nie jestem zwolennikiem wycinania
 aby zrobić specjalnie miejsca widokowe. W zimie pewnie jest tam bardzo ładnie.
 
-Około 17tej godziny dotarliśmy do schroniska. Okazało się że prąd jest tylko wieczorami, oraz jest w nim bardzo
+Około 17-tej godziny dotarliśmy do schroniska. Okazało się że prąd jest tylko wieczorami, oraz jest w nim bardzo
 dobry widok na wschód Słońca.
