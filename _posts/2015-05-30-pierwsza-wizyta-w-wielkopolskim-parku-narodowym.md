@@ -6,7 +6,7 @@ date:                   2015-05-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/137171697/m%3D2048/0950532b87dde74f1df75e724a9d2340"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, mosina, poznan]
 
 coords:                 [{"route": [[52.34561,16.87809], [52.33895,16.87028], [52.33135,16.87097], [52.32075,16.85320], [52.31556,16.84925], [52.28328,16.80359], [52.26952,16.75364], [52.25302,16.74162], [52.22963,16.75999], [52.22790,16.77638], [52.23694,16.82745], [52.24566,16.84410], [52.24493,16.85526]], "type": "bicycle"}]
@@ -30,7 +30,7 @@ Wstęp
 -----
 
 Bardzo mało terenów na południu Poznania udało mi się zobaczyć, jak również nigdy nie miałem
-okazji być w Wielkopolskim Parku Narodowym.
+okazji być w [Wielkopolskim Parku Narodowym][wiki-wpn].
 
 Opis trasy
 ----------
@@ -53,7 +53,7 @@ miejsce jeszcze raz odwiedzić.
 Następnie jechaliśmy do [Łodzi][wiki-lodz]. Tam teren zrobił się trochę bardziej
 pofalowany.
 
-Z [Łodzi][wiki-lodz] już wracaliśmy drogą do [Mosiny][wiki-mosina]. Ruch nie był duży,
+Z [Łodzi][wiki-lodz] już wracaliśmy drogą asfaltową do [Mosiny][wiki-mosina]. Ruch nie był duży,
 ale nie był też minimalny - dało się jechać.
 
 Z jednej strony zauważyłem potencjal tamtych terenów, z drugiej wydaję mi się, że

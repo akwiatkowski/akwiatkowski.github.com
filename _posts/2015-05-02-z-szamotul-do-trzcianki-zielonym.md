@@ -6,7 +6,7 @@ date:                   2015-05-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
 categories:             trip
-tags:                   [bicycle, best, uncorrected]
+tags:                   [bicycle, best]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
 lands:                  [pojezierze_poznanskie]
 
@@ -37,6 +37,7 @@ time_spent:             5
 [wiki-radolin]:                 https://pl.wikipedia.org/wiki/Radolin_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-krzyz]:                   https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
 [wiki-trzcianka]:               https://pl.wikipedia.org/wiki/Trzcianka
+[wiki-pila]:                    https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
 
 [ump-grabowiec]:                http://mapa.ump.waw.pl/ump-www/?zoom=14&lat=52.6442&lon=16.58207&layers=B000000FFFFTFF&mlat=52.64503&mlon=16.58208&mbody=Grabowiec
 
@@ -56,8 +57,7 @@ Wstęp
 -----
 
 W zamierzeniu miała to być pierwsza trasa, w której bym przejechał przez [Puszczę Notecką][wiki-puszcza-notecka] i
-rozszerzył swoją "strefę eksploracji rowerowej" bardziej na północ. Do [Szamotuł][wiki-szamotuly]
-dojechałem pociągiem.
+rozszerzył swoją "strefę eksploracji rowerowej" bardziej na północ.
 
 Opis trasy
 ----------
@@ -68,17 +68,17 @@ Szczegóły
 ---------
 
 Wyjeżdzając z [Szamotuł][wiki-szamotuly] trafiłem na bardzo ładne tereny wiejskie w okolicy [Grabowca][ump-grabowiec], niestety
-były one bardzo krótkie i po chwili jechałem już asfaltem w stronę [Piotrkówka][wiki-piotrkowko].
+szybko one minęły i po chwili jechałem już asfaltem w stronę [Piotrkówka][wiki-piotrkowko].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/126749638' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 
 [Piotrkówko][wiki-piotrkowko] jest wsią znacznie większą niż Grabowiec. Prawdopodobnie dlatego ma swoją stronę na wikipedii. Przejazd przez nią widać
-[tutaj][vimeo-2]. Patrząc na gęstość zabudowy, to jest to jednak spora wioska.
+[tutaj][vimeo-2]. Patrząc na gęstość zabudowy jest to jednak spora wioska.
 
 Na szlaku w obrębie Sycyna
 minąłem gospodarstwo agroturystyczne. Następnie krótka, mało ciekawa trasa przez las i wyjazd
-w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce nie jest blisko cywilizacji. Z północy graniczy ona z
+w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce jest trochę daleko od cywilizacji. Z północy graniczy ona z
 rzeką [Wartą][wiki-warta].
 
 Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej. [Wyjeżdzając z niej][vimeo-3] jedzie się po moście,
@@ -86,7 +86,7 @@ położonym nad nieistniejącą już linią kolejową [Oborniki][wiki-oborniki] 
 oraz widzi się fragment [mostu][most-stobnica] łączącego ze [Stobnicą][wiki-stobnica].
 
 Dalej jadąc do [Obrzycka][wiki-obrzycko] przez las mijałem coś co wyglądało na przystanek. Mógł to być przystanek
-nieistniejącej kolei, chociaż w pobliżu żadnych innych zabudowań nie widziałem.
+nieistniejącej już kolei, chociaż w pobliżu żadnych innych zabudowań nie widziałem.
 Jeżdząc po Polsce gdzieniegdzie widać takie ciekawostki.
 
 Z [Obrzycka][wiki-obrzycko] wyjechałem przez most w stronę [Zielonejgóry][wiki-zielonagora] (nie Zielonej Góry).
@@ -103,9 +103,10 @@ się szum powietrza. Po wyjechaniu z puszczy przejechałem przez wieś
 [Tarnówko][wiki-tarnowko]. Ponownie, kolejna w miarę duża wieś po drodzę.
 
 Wyjeżdzajac z [Młynkowa][wiki-mlynkowo] do [Jędrzejewa][wiki-jedrzejewo] zaczęło trochę wiać. Ostudziło to moje myśli aby
-przedłużyć trasę dalej, a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.
-Przez cały czas wokół były pola i raczej nie ma co opisywać. [Młynkowo][wiki-mlynkowo] to kolejna duża wioska. Chyba nawet jest tam
-szkoła. [Filmik][vimeo-5] przedstawia trasę aż do wyjazdu z Młynkowa.
+przedłużyć trasę dalej do [Piły][wiki-pila], a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.
+Przez cały czas jechałem wokół pól i raczej nie ma co więcej opisywać.
+[Młynkowo][wiki-mlynkowo] to kolejna duża wioska. Chyba nawet jest tam
+szkoła. [Filmik][vimeo-5] przedstawia trasę aż do wyjazdu z [Młynkowa][wiki-mlynkowo].
 
 Na drodzę z [Młynkowa][wiki-mlynkowo] w stronę [Prusinowa][wiki-prusinowo] zatrzymałem się, aby zrobić główne zdjęcie tego wpisu.
 W tym miejscu równiez widać ślady starej linii kolejowej. [(filmik)][vimeo-6]
@@ -113,15 +114,17 @@ W tym miejscu równiez widać ślady starej linii kolejowej. [(filmik)][vimeo-6]
 Z [Prusinowa][wiki-prusinowo] kierowałem się w stronę [Czarnkowa][wiki-czarnkow]. Początkowo wiejską drogą, później polną, a
 później przywitał mnie znak "Droga nieprzejezdna". Faktycznie samochód by tam miał spore problemy. Gdy udało mi się pokonać
 ten fragment wjechałem w rejon ogródków działkowych Czarnkowa. Na mapie UMP nazwane "Osiedle Zacisze". Podczas zjazdu miałem
-możliwość usunięcia brudu z opon, oczywiście część na siebie. Nie zatrzymywałem się w Czarnkowie, wolałem szybko przejechać
+możliwość usunięcia brudu z opon, oczywiście część na siebie. Nie zatrzymywałem się w [Czarnkowie][wiki-czarnkow],
+wolałem szybko przejechać
 i dojechać maksymalnie szybko do [Trzcianki][wiki-trzcianka] na dworzec.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/126940266' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Niestety musiałem trochę pojechać główną drogą wyjazdową z Czarnkowa, prawie aż do [Kuźnicy Czarnkowskiej][wiki-kuznica-czarnk],
 gdzie zjechałem na szlak rowerowy w teren. Kierowałem się na północ przez [Radolinek][wiki-radolinek]. Bardzo mała wioska, ale
-ciekawie położona. Po prawej płaska dolina [Noteci][wiki-notec], a po lewej od drogi 10 metrów terenu wyżej. [(filmik)][vimeo-8] I tak cały czas
-jadąc na północ aż przez [Radolin][wiki-radolin] gdzie dalej zgodnie z zielonym szlakiem kierowałem się w stronę Trzcianki.
+ciekawie położona. Po prawej płaska dolina [Noteci][wiki-notec], a po lewej od drogi 10 metrów terenu wyżej. [(filmik)][vimeo-8]
+I tak cały czas
+jadąc na północ przez [Radolin][wiki-radolin], gdzie dalej zgodnie z zielonym szlakiem kierowałem się w stronę Trzcianki.
 
 Na północ od [Radolina][wiki-radolin] nierówności terenu są jeszcze bardziej widoczne, gdyż nie ma tam tyle lasów.
 

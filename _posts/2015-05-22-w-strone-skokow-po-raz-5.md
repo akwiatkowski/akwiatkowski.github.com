@@ -56,7 +56,7 @@ A poniżej lista filmików z przejazdu nagrane kamerką:
 6. [Budziszewko - Lechlin][vimeo-6]
 7. [Lechlin - Przysieczyn][vimeo-7]
 
-Za [Lechlinem][wiki-lechlin] jechałem w takim tunelu, jak widać poniżej.
+Za [Lechlinem][wiki-lechlin] jechałem w takim "tunelu", jak widać poniżej.
 
 <div class='pixels-photo'>
   <p>

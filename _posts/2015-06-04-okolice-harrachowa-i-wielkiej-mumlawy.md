@@ -1,12 +1,12 @@
 ---
 layout:                 post
-title:                  "Okolice Harrachova, Wielkiej Mumławy"
-subtitle:               "pierwszy dzień rowerowego wyjazdu do Szklarskiej Poręby"
+title:                  "Okolice Harrachova i Wielkiej Mumławy"
+subtitle:               "pierwszy dzień drugiego rowerowego wyjazdu do Szklarskiej Poręby"
 date:                   2015-06-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
 categories:             trip
-tags:                   [bicycle, mountains, best, uncorrected]
+tags:                   [bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska]
 lands:                  [karkonosze, gory_izerskie]
 
@@ -23,6 +23,7 @@ time_spent:             8
 [wiki-izery]:           http://pl.wikipedia.org/wiki/G%C3%B3ry_Izerskie
 [wiki-orle]:            http://pl.wikipedia.org/wiki/Schronisko_Turystyczne_%E2%80%9EOrle%E2%80%9D
 [wiki-szklarska]:       http://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
+[wiki-huta]:            https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba_Huta
 
 [vimeo-1]:              https://vimeo.com/130132107
 [vimeo-2]:              https://vimeo.com/130038345
@@ -53,23 +54,24 @@ Opis trasy
 
 Większość trasy to asfalt. Chyba jedynie podjazd do [Jakuszyc][wiki-jakuszyce] ścieżką rowerową jest po utwardzonym terenie. Widoki,
 jak na trasę górską przystało, są tylko w górnych partiach. Reszta to lasy mocno ograniczające widoczność.
+Chociaż nie uznałbym to za istotną wadę.
 
 Szczegóły
 ---------
 
-Do [Jakuszyc][wiki-jakuszyce] dojechaliśmy terenowym szlakiem rowerowym. Po drodzę minęliśmy trochę zabudowań
-i ruin, dużo lasu, oraz tory trasy kolejowej [Szklarska Poręba][wiki-szklarska] - [Harrachov][wiki-harrachov].
+Do [Jakuszyc][wiki-jakuszyce] dojechaliśmy terenowym szlakiem rowerowym. Po drodzę minęliśmy trochę [ruin][wiki-huta] i
+zabudowań, dużo lasu, oraz tory trasy kolejowej [Szklarska Poręba][wiki-szklarska] - [Harrachov][wiki-harrachov].
 [Film][vimeo-1].
 
 
 
 Zjechaliśmy trochę zbyt daleko w stronę [Harrachova][wiki-harrachov], gdyż trudno było chcieć się
-zatrzymać na takim [zjeździe][vimeo-2]. Z tego powodu czeski fragment trasy został odwrócony.
+zatrzymać na takim [zjeździe][vimeo-2]. Z tego powodu czeski fragment trasy został odwrócony od planowanego.
 Filmik z drugiej części zjazdu jest [tutaj][vimeo-3].
 
 
 Następnie był bardzo długi podjazd, podczas którego jedyną ciekawą rzeczą
-był [Wodospad Mumlawy][wiki-mumlawa]. [Film][vimeo-4].
+jest [Wodospad Mumlawy][wiki-mumlawa]. [Film][vimeo-4].
 
 Po minięciu [Krakonošova snídaně][wiki-snidane] były naprzemiennie
 podjazdy i zjazdy z widokiem na [czeskie Góry Izerskie][wiki-izery] podczas
