@@ -18,6 +18,7 @@ time_spent:             7
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej
 [wiki-poprad]:          https://pl.wikipedia.org/wiki/Poprad_(rzeka)
 [wiki-rytro]:           https://pl.wikipedia.org/wiki/Rytro
+[wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
 
 [pano-nowy-sacz]:       http://www.panoramio.com/photo/121590280
 [pano-rytro]:           http://www.panoramio.com/photo/121603318
@@ -27,7 +28,7 @@ time_spent:             7
 Wstęp
 -----
 
-Drugi dzień małej wycieczki przez cały Beskid Sądecki. Spore zejście i nowe podejście.
+Drugi dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki]. Spore zejście i nowe podejście.
 
 Szczegóły
 ---------
