@@ -6,7 +6,7 @@ date:                   2015-07-26 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, panniers, todo_media]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 
@@ -33,6 +33,12 @@ time_spent:             7
 [wiki-wszewilki]:               https://pl.wikipedia.org/wiki/Wszewilki
 [wiki-ruda-milicka]:            https://pl.wikipedia.org/wiki/Ruda_Milicka
 
+[vimeo-1]:                      https://vimeo.com/134810731
+[vimeo-2]:                      https://vimeo.com/134814391
+[vimeo-3]:                      https://vimeo.com/134878409
+[vimeo-4]:                      https://vimeo.com/135268126
+
+
 Wstęp
 -----
 
@@ -45,30 +51,51 @@ Szczegóły
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/354708275/embed/0d907e24326f9bdec8ec53c84a1c88e2de3f390b'></iframe>
 
-Zgodnie z tym że większośc dzień wcześniej wracała inaczej niż ja, oraz ja mało co zwracałem na widoki (spieszyłem się
-bo padało), postanowiliśmy pojechać przez [Rudę Żmigrodzką][wiki-ruda-zmigrodzka]. A dalej jechaliśmy drogą polną
-wzdłuż [Baryczy][wiki-barycz], bo ktoś nam powiedział że tam jest fajnie. Jedyną fajną rzeczą była stara zapora na rzecze.
+Zgodnie z tym że większośc osób od nas dzień wcześniej wracała inaczej niż ja, oraz ja mało co zwracałem na widoki (spieszyłem się
+gdyż padało), postanowiliśmy [pojechać][vimeo-1] przez [Rudę Żmigrodzką][wiki-ruda-zmigrodzka]. Dalej jechaliśmy drogą polną
+wzdłuż [Baryczy][wiki-barycz], gdyż ktoś lokalny nam powiedział że tam jest fajnie.
+Jedyną fajną rzeczą była stara zapora na rzecze.
 Odwiedziliśmy jeszcze nową, która była niedaleko.
+
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/134814391' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Dalej pojechaliśmy już główną drogą, aby jak najszybciej dostać się do [Sułowa][wiki-sulow]. Miała być tam smażalnia ryb.
 Mieszkańcy mówili że nic takiego tutaj nie ma, ale okazało się że jedna jest - na ulicy Leśnej.
+Miałem pewne wrażenie opuszczenia tych terenów przez turystykę.
 
-Rudzyliśmy przez las aby dostać się do szlaku dawnej kolei wąskotorowej od wsi [Pracze][wiki-pracze]. Od tego miejsca aż po
+Ruszyliśmy przez las aby dostać się do szlaku dawnej kolei wąskotorowej od wsi [Pracze][wiki-pracze]. Od tego miejsca aż po
 [Milicz][wiki-milicz] była to najlepsza część trasy.
 
-TODO: coś więcej napiszę jak skończę sklejać filmiki
+Idealna, spokojna trasa rowerowa po drodze asfaltowej przez pola. Poniższy film chyba
+lepiej ją opisze niż ja jestem w stanie.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/134878409' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 W związku z tym że mieliśmy trochę czasu, a ja chciałem trochę kilometrów dorobić, to pojechałem z [Milicza][wiki-milicz]
-na małą przejażdżkę. Pojechałem tam gdzie jest dużo stawów, czyli przez [Rudę Milicką][wiki-ruda-milicka] i [Stawno][wiki-stawno].
-Drogą za [Stawnem][wiki-stawno] była bardzo dobra, jednak mocno zarośnięta i z roweru widziałem że jest woda obok, ale niewiele
-więcej. Myślałem że będzie trochę lepiej.
+na małą przejażdżkę. Pojechałem tam gdzie jest dużo stawów na mapie,
+czyli przez [Rudę Milicką][wiki-ruda-milicka] i [Stawno][wiki-stawno].
+Drogą za [Stawnem][wiki-stawno] była bardzo dobra, jednak mocno zarośnięta i z roweru widziałem widoków na
+wodę nie było. Myślałem że będzie trochę lepiej.
 
 Miałem ponad godzinę do odjazdu pociągu i zastanawiałem się czy jechać dalej, czy wrócić. Zawsze jest to jakieś ryzyko.
 Mapa na GPS może nie być aktualna, może coś się wydarzyć, może droga być nieprzejezdna.
 
-Przejechałem przez [Nowy Zamek][wiki-nowy-zamek] i dojechałem do wsi [Wszewilki][wiki-wszewilki] i tam w lewo żółtym
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/135268126' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+Przejechałem przez [Nowy Zamek][wiki-nowy-zamek], dojechałem do wsi [Wszewilki][wiki-wszewilki] i tam w lewo żółtym
 szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co robić dalej. Wniosłem rower po schodach,
-przejechałem przez most i pod koniec mam zejście w lewo i prawo. W lewo nic nie widzę, w prawo jakaś droga tam jest.
-Przechodzę przez tory i znoszę rower z sakwami i jadę. Okazuje się że ludzie się tam kręcą i mówią że dojadę do dworca.
-Przejeżdzam obok zalewu i kilka minut później jestem przy dworcu. Wszystko dobrze, tylko nie zdąrzyłem kupić sobie jedzenia
-na drogę. Od zjedzenia ruby w [Sułowie][wiki-sulow] nic nie jadłem a mieliśmy 2h pociągiem do Poznania. Wytrzymałem.
+przejechałem przez most i pod koniec mam do wyboru zejście w lewo lub w prawo.
+Gdy wybiorę w lewo nic nie widzę co jest dalej, gdy w prawo jest jakaś droga tam.
+Przechodzę przez tory i znoszę rower z sakwami po schodach. Okazuje się, że ludzie się tam kręcą i dowiaduję
+się że dojadę do dworca.
+Przejeżdzam obok zalewu i kilka minut później jestem przy dworcu. Wszystko dobrze, tylko nie zdążyłem kupić sobie jedzenia
+na drogę. Od zjedzenia ryby w [Sułowie][wiki-sulow] nic nie jadłem a mieliśmy 2h
+jazdy pociągiem do Poznania. Wytrzymałem obserwując tereny jakie mijaliśmy.
+
+Wnioski
+-------
+
+[Dolina Baryczy][wiki-dolina-baryczy] okazała się być ciekawym terenem z dużą ilością wód i lasów.
+Niestety pomimo dużej ilości stawów większość ich jest niedostępna. Dlatego nie miałem gdzie robić zdjęć
+zachodzącego słońca bez dłuższej jazdy.

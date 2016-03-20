@@ -6,7 +6,7 @@ date:                   2015-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28744393/m%3D2048/8a95b0b5cec67fec50454980f44e880e"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.38012,16.94313], [52.36713,16.93094], [52.36435,16.93103], [52.36257,16.93893], [52.35523,16.94339], [52.33929,16.93781], [52.33856,16.93326], [52.33226,16.93283], [52.31789,16.95377], [52.31065,16.97729], [52.30740,16.98304], [52.30472,16.98210], [52.30278,16.97892], [52.30082,16.97753], [52.30095,16.97665]], "type": "bicycle"}]
@@ -27,7 +27,8 @@ time_spent:             3
 Wstęp
 -----
 
-Bardzo krótka trasa do jednego z najdzikszych miejsc Poznania.
+Bardzo krótka trasa do jednego z najdzikszych miejsc Poznania, gdzie
+można dojechać komunikacją miejską.
 
 Opis trasy
 ----------
@@ -38,16 +39,16 @@ Szczegóły
 ---------
 
 Na początku ruszyliśmy czerwonym szlakiem rowerowym w stronę [Kórnika][wiki-kornik], najpierw w stronę [Starołęki][wiki-staroleka].
-Minęliśmy autostradę A2, a po niej jechaliśmy obok [tajnej bazy lotniczej Krzesiny][wikil-baza-krzesiny].
+Minęliśmy autostradę A2, dalej jechaliśmy obok [tajnej bazy lotniczej Krzesiny][wikil-baza-krzesiny].
 
 Jeżeli chcielibyśmy jechać zgodnie z czerwonym szlakiem rowerowym, to na skrzyżowaniu z ulicą Głuszyna powinniśmy jechać prosto.
 Skręciliśmy w lewo jadąc zgodnie z linią autobusową [58][mpk-58]. Jak na razie jest to, według mnie, linia najbardziej odległa od
-cywilizacji w Poznaniu. Zakładając, że nie patrzymy ma linie podmiejskie, które to od niedawna zostają włączane w
+cywilizacji w Poznaniu. Zakładając, że nie patrzymy ma linie podmiejskie, które to od niedawna zostały włączane w
 poznański [ZTM][ztm].
 
-Jechaliśmy cały czas zgodnie z linią autobusową mijając tereny bardzo małomiasteczkowe i wiejskie.
+Jechaliśmy cały czas zgodnie z linią autobusową mijając tereny małomiasteczkowe i wiejskie.
 
 Z ciekawostek, jest tam [schronisko][gluszyna-schron] turystyczne dla osób korzystajacych z tutejszych szlaków.
 
-Podjechaliśmy żółtym szlakiem pieszy do rzeki [Głuszynki][wiki-gluszynka], przez którą istnieje przejście *w bród*. Chwila
+Podjechaliśmy żółtym szlakiem pieszym do rzeki [Głuszynki][wiki-gluszynka], przez którą istnieje przejście *w bród*. Chwila
 przerwy i powrót tą samą trasą.

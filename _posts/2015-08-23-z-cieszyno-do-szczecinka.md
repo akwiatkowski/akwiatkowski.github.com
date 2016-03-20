@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Z Cieszyno do Szczecinka"
-subtitle:               "długa jazda w kierunku Drawskiego Parku Krajobrazowego"
+subtitle:               "przejazd przez Drawski Park Krajobrazowy"
 date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
 categories:             trip
-tags:                   [bicycle, panniers, best, uncorrected]
+tags:                   [bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -64,7 +64,7 @@ Szczegóły
 Wstałem około 7:30 i w pół godziny się spakowałem, zrobiłem kanapki i o 8:00 wyruszyłem.
 
 [Jechałem][vimeo1] w kierunku [Nowe Worowo][wiki-nowe-worowo] po drodzę obserwując jak teren jest już trochę pofalowany.
-Ranek był spokojny, lekko chłodny w dobrym sensie.
+Ranek był spokojny, lekko chłodny w pozytywnym sensie.
 
 Od tego momentu zaczęły się "prawdziwe wyżyny". Co chwilę lekki podjazd i zjazd. Tym razem więcej pól i lepsza widoczność.
 Ciekawe były zakręty podczas zjazdu z [Bolegorzyna][wiki-bolegorzyn] w kierunku [Kluczewa][wiki-kluczewo].
@@ -72,17 +72,20 @@ Ciekawe były zakręty podczas zjazdu z [Bolegorzyna][wiki-bolegorzyn] w kierunk
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137749089' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Z [Kluczewa][wiki-kluczewo] zjechałem do drogi [163][wiki-163] w stronę [Starego Drawska][wiki-stare-drawsko]. Nadrobiłem trochę
-trasy jadąc drogą polną w okolicy [Prosinka][wiki-prosinko], bo droga ruchu głównego to nie jest najlepsze miejsce dla rowerzysty.
-[Filmik][vimeo3] z całęgo przejazdu fragmentem.
+trasy jadąc drogą polną w okolicy [Prosinka][wiki-prosinko], bo nie lubię jeździć po głównych drogach.
+[Filmik][vimeo3] przedstawia przejazd tym fragmentem.
 
-Wyruszyłem ze [Starego Drawska][wiki-stare-drawsko] i znowu musiałem jechać główną drogą. Aż do wyjazdu z [Czaplinka][wiki-czaplinek]
-raczej nic bardzo ciekawego nie było. Chyba tylko to że spotkałem tam jedynego sakwiarza na drodzę (oprócz mnie oczywiście).
+Wyruszyłem ze [Starego Drawska][wiki-stare-drawsko] i znowu musiałem jechać główną drogą.
+Aż do wyjazdu z [Czaplinka][wiki-czaplinek]
+raczej nic bardzo ciekawego nie było.
+Chyba tylko to, że spotkałem tam jedynego sakwiarza na trasie (oprócz mnie oczywiście).
 
-Za [Czaplinkiem][wiki-czaplinek] zamiast jechać dokładnie zgodnie z szlakiem rowerowym, wybrałem asfalt.
+Za [Czaplinkiem][wiki-czaplinek] zamiast jechać dokładnie zgodnie ze szlakiem rowerowym, wybrałem asfalt.
 Nie chciało mi się jeździć po terenie z sakwami.
 Droga była absolutnie spokojna tam.
-Wydaję mi się, że to właśnie rozpoczynał się najciekawszy fragment trasy tego dnia. Chmury zniknęły a wokół lekko pofalowane pola.
-Mój ulubiony rodzaj krajobrazu, no może wolałbym bardziej pofalowany.
+Wydaję mi się, że tam właśnie rozpoczynał się najciekawszy fragment trasy tego dnia.
+Chmury zniknęły a wokół widziałem lekko pofalowane pola, bardzo to mnie uspokajało.
+Jest to mój ulubiony rodzaj krajobrazu, no może wolałbym bardziej pofalowany.
 
 Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [pociąg][wiki-linia-210] między
 [Szczecinem][wiki-szczecin] a [Chojnicami][wiki-chojnice]. Stacja oddalona jest około półtora kilometra od centrum wsi.
@@ -92,24 +95,25 @@ Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [p
 Lubię takie dziwne połączenia kolejowe i na pewno kiedyś się tą linią przejadę.
 
 Dalej [jechałem][vimeo5] na wschód, w stronę [Łubowa][wiki-lubowo]. Wioska, która ma szczęście posiadać połączenie kolejowe.
-Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Borne Sulinowo][wiki-borne-sulinowo].
-Ciekawią mnie wiaty autobusowe widoczne po drodzę, które stoją pośrodku niczego. Może jakaś wioska jest w oddali, ale conajmniej
-kilkaset metrów trzeba do niej dojść. Bardzo fajny był zjazd w stronę doliny rzeki [Piławki][wiki-pilawka].
+Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Bornego Sulinowo][wiki-borne-sulinowo].
+Ciekawią mnie wiaty autobusowe widoczne po drodze, które stoją pośrodku niczego. Może jakaś wioska jest w oddali, ale conajmniej
+kilkaset metrów trzeba do niej dojść pieszo. Bardzo fajny był zjazd w stronę doliny rzeki [Piławki][wiki-pilawka].
 
 W [Borne Sulinowo][wiki-borne-sulinowo] był [zlot pojazdów militarnych][borne-zlot]. Dowiedziałem się o tym będąc na miejscu.
 
 Wyruszyłem wokół jeziora dość terenowym szlakiem, minąłem drogę niedaleko wsi [Krągi][wiki-kragi]. Według mapy UMP miała być
 tam droga. Ja bym tego drogą nie nazwał. Jechałem przez las, w pewnym miejscu mapa papierowa i UMP mówiły że mam jechać
-prosto, tylko że nic tam nie było. Pojechałem zgodnie z drogą i skrzyżowanie. Z jednej strony szlak, z drugiej jakaś dziwna
+prosto, tylko że nie było drogi. Pojechałem dalej. Z jednej strony szlak, z drugiej jakaś dziwna
 żółta kropka na drzewie. Wybrałem tą żółtą kropkę bo tak mój zmysł nawigacji podpowiadał i to była dobra decyzja.
 
-Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20tki, na szczęście był tam dobry chodnik wzdłuż.
+Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20-tki, na szczęście wzdłuż niej
+był dobry chodnik.
 Przejechałem przez [Przyjezierze][wiki-przyjezierze]. Jechałem dalej na północ i nie zauważyłem, ale przejechałem przez tory
 w pobliżu [stacji Jelenino][wiki-jelenino]. Kompletnie nie zauważyłem jej.
 
 Po chwili skręciłem w prawo i jechałem szerokim szlakiem bardzo dobrej jakości w stronę [Szczecinka][wiki-szczecinek].
-Całkowicie proste przez prawie 3km, a lekkim obniżeniem. Wjechałem do miasta i kierowałem się na dworzec. Tam chciałem jechać
-TLK, jednak był cały zawalony. Zjadłem i "po ludzku" wróciłem osobówką do Poznania.
+Całkowicie prosty przez prawie 3km, z lekkim obniżeniem. Wjechałem do miasta i kierowałem się na dworzec. Tam chciałem jechać
+TLKą, jednak był cały zawalony ludźmi wracającymi z Wybrzeża. Zjadłem i "po ludzku" wróciłem osobówką do Poznania.
 
 Wnioski
 -------

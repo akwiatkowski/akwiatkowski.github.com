@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Przez Powidz i granicę dwóch województw"
-subtitle:               "Wielkopolskie i kujawsko-pomorskie. Od Strzałkowa do Strzelna."
+subtitle:               "wielkopolskie i kujawsko-pomorskie, od Strzałkowa do Strzelna"
 date:                   2015-08-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, kujawsko_pomorskie, strzalkowo, powidz, orchowo, jeziora_wielkie, strzelno]
 lands:                  [powidzki_park_krajobrazowy]
 
@@ -50,8 +50,8 @@ Wstęp
 -----
 
 Jeden z kolegów od dawna chciał pojeździć po [Powidzkim Parku Krajobrazowym][wiki-powidzki-park],
-jednak nie udało się to zrealizować. Zapowiadała się ciepła pogoda i ja spróbowałem samemu
-zrealizować ten pomysł.
+jednak nie udało się tego zrealizować. Zapowiadała się ciepła pogoda i ja spróbowałem samemu
+odwiedzić te tereny.
 
 Opis trasy
 ----------
@@ -69,7 +69,7 @@ Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i pr
 do jazdy.
 
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
-starej stodoły. Zdjęcie to, jest głównym zdjęciem tego wpisu.
+starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/135331028' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
@@ -92,7 +92,7 @@ spory las.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/135355794' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Dalej jechałem niebieskim szlakiem rowerowym przez [Osówiec][wiki-osowiec].
+Następnie jechałem niebieskim szlakiem rowerowym przez [Osówiec][wiki-osowiec].
 Całkiem fajne dość dzikie tereny, zwłaszcza [Mlecze][wiki-mlecze]. Czułem że opuszczam
 województwo [wielkopolskie][wiki-wielkopolskie].
 

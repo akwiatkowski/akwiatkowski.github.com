@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Z Rębusza do Cieszyno"
-subtitle:               "długa jazda w kierunku Drawskiego Parku Krajobrazowego"
+subtitle:               "długa samotna jazda w kierunku Drawskiego Parku Krajobrazowego"
 date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"
 categories:             trip
-tags:                   [bicycle, panniers, best, uncorrected]
+tags:                   [bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, bierzwnik, choszczno, drawno, kalisz_pomorski, drawsko_pomorskie, miroslawiec, zlocieniec, ostrowice]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -36,6 +36,7 @@ time_spent:             10
 [wiki-chlebowo]:        https://pl.wikipedia.org/wiki/Chlebowo_(powiat_drawski)
 [wiki-stare-worowo]:    https://pl.wikipedia.org/wiki/Stare_Worowo
 [wiki-zlocieniec]:      https://pl.wikipedia.org/wiki/Z%C5%82ocieniec
+[wiki-swinoujscie]:     https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
 
 [vimeo3]:               https://vimeo.com/137227073
 [vimeo4]:               https://vimeo.com/137231111
@@ -45,8 +46,8 @@ time_spent:             10
 Wstęp
 -----
 
-Chciałem spróbować przejechać dłuższy dystans samemu z sakwami. Miało to być elementem własnego zrozumienia "że się da",
-jak również, że da się również dłuższe trasy zrobić samemu.
+Chciałem spróbować przejechać dłuższy dystans samemu z sakwami. Miało to być etapem zrozumienia własnego "że się da",
+jak również, że da się samemu zrobić również dłuższe trasy.
 
 Początkowo planowałem jechać do [Kołobrzegu][wiki-kolobrzeg], jednak wracanie 5h pociągiem mi się nie uśmiechało,
 a tereny [Drawskiego Parku Krajobrazowego][wiki-dpk] były warte do zobaczenia samemu.
@@ -59,33 +60,37 @@ Opis trasy
 Szczegóły
 ---------
 
-Pakować się dzień wcześniej. Ustawiłem budzik na 4:45 i poszedłem spać trochę po 22. Rano dokończyłem pakowanie, zrobiłem kanapki
-i ruszyłem na dworzeć, na pociag o 6:14. Zauważyłem w nim, że coraz więcej ludzi jeździ pociągiem z rowerem.
+Pakowałem się dzień wcześniej. Ustawiłem budzik na 4:45 i poszedłem spać trochę po 22. Rano dokończyłem pakowanie, zrobiłem kanapki
+i ruszyłem na dworzeć, na pociag o 6:14. Zauważyłem w nim, że coraz więcej ludzi jeździ pociągiem z rowerem
+w stronę [Świnoujścia][wiki-swinoujscie].
 
-Chyba dokładnie o 8:00 wysiadłem i zaczęła się moja trasa we wsi [Rębusz][wiki-rebusz]. Sam nie zauważyłem, w którym miejscu się
-już ta wioska skończyła. A za nią pola lekko odgrodzone od drogi drzewa lub innymi krzaczorami.
+Chyba dokładnie o 8:00 wysiadłem z pociągu i zaczęła się moja trasa we wsi
+[Rębusz][wiki-rebusz]. Sam nie zauważyłem, w którym miejscu już się
+ta wioska skończyła.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137187474' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 
-Po drodzę minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno].
-Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia].
+Po drodze minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno].
+Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia]. Co chwilę
+widziałem znak dojazdu do jakieś kolonii.
 
 Wyjeżdzając z [Pławna][wiki-plawno] zauważyłem pierwsze oznaki tego, że teren nie będzie absolutnie płaski. Z jednej strony
-to była to dobra informacja, z drugiej strony nie jeździłem nigdy z sakwami po pagórkach.
+to była to dobra informacja, z drugiej strony nigdy nie jeździłem z sakwami po pagórkach.
 
 Przejechałem przez [Zieleniewo][wiki-zieleniewo] w kierunku [Brzezin][wiki-brzeziny]. Trochę jechałem przez las, więc była
-przerwa od widoków. Na pocieszenie trochę lepsze powietrze. A następnie skierowałem się drogą polną w kierunku
+przerwa od widoków. Na pocieszenie w lesie jest trochę lepsze powietrze.
+Następnie skierowałem się drogą polną w kierunku
 [Drawna][wiki-drawno]. Po drodzę minąłem szyny niedziałającej już [linii kolejowej][wiki-drawno-kolej].
 Jakoś ostatnio jest modna zamiana mało popularnych linii kolejowych na szlaki rowerowe i tutaj również w planach
 jest zrobienie szlaku rowerowego. Według mnie jest to i dobre i złe.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137224194' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-Przejechałem przez [Drawna][wiki-drawno] i [kierowałem się][vimeo3]
+Przejechałem przez [Drawno][wiki-drawno] i [kierowałem się][vimeo3]
 w stronę [Kalisza Pomorskiego][wiki-kalisz-pomorski] przez
 [Dębsko][wiki-debsko]. Przed [Dębskiem][wiki-debsko] miałem okazję zobaczyć bardzo ładne polany, lekko pofałdowane.
-A na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
+Na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
 
 Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną,
 która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół pola, dobrze ubita, jednak później pojawiło się
@@ -106,9 +111,9 @@ pod koniec [filmiku][vimeo4]. Drugim to solidny zjazd za
 Następnie [przejechałem][vimeo6]
 przez [Osiek Drawski][wiki-osiek], w którym zdziwiło mnie to, że fragment drogi w centrum jest brukowany.
 Zrobiłem sobie kilkunastuminutową przerwę we wiacie przystanku autobusowego na wzgórzu obok wsi. Trochę pagórków po drodzę i
-wjazd do do [Złocieńca][wiki-zlocieniec].
+wjechałem do [Złocieńca][wiki-zlocieniec].
 
-Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się że jezioro jest tak blisko, i że jest całkiem solidna
+Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się, że jezioro jest tak blisko, i że jest całkiem solidna
 plaża tam. Zostawiłem sakwy i pojechałem pokręcić się po okolicy. Miałem 88km na liczniku i chciałem pobić mój dotychczasowy
 rekord - 95km.
 

@@ -6,7 +6,7 @@ date:                   2015-07-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776"
 categories:             trip
-tags:                   [bicycle, todo_media, uncorrected]
+tags:                   [bicycle, panniers, todo_media]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 
@@ -30,8 +30,13 @@ time_spent:             6
 [wiki-osiek]:                   https://pl.wikipedia.org/wiki/Osiek_(powiat_trzebnicki)
 [wiki-ksiazeca-wies]:           https://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BC%C4%99ca_Wie%C5%9B
 
-
-
+[vimeo-1]:                      https://vimeo.com/album/3497859/video/134568901
+[vimeo-2]:                      https://vimeo.com/album/3497859/video/134636069
+[vimeo-3]:                      https://vimeo.com/album/3497859/video/134642618
+[vimeo-4]:                      https://vimeo.com/album/3497859/video/134669867
+[vimeo-5]:                      https://vimeo.com/album/3497859/video/134766300
+[vimeo-6]:                      https://vimeo.com/album/3497859/video/134781826
+[vimeo-7]:                      https://vimeo.com/album/3497859/video/134785986
 
 
 Wstęp
@@ -45,10 +50,11 @@ Szczegóły
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/354707728/embed/e49f55ab099fe2169f4a35e945423b55e4431413'></iframe>
 
 Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu po zapasy i później zjeść coś ciepłego.
-Było bardzo ciepło i wilgotno, pojawiły się szare chmury. Zaskoczyła nas burza w momencie gdy jedliśmy siedząc pod parasolami.
+Było bardzo ciepło i wilgotno, pojawiły się szare chmury.
+[Zaskoczyła][vimeo-1] nas burza w momencie gdy jedliśmy siedząc pod parasolami.
 
-Na szczeście nie trwała ona długo i między 13-tą a 14-tą wyruszyliśmy w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
-nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to głównie ruina, ale można powiedzieć, że
+Na szczeście nie trwała ona długo i między 13-tą a 14-tą [wyruszyliśmy][vimeo-2] w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
+nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to ruiny, ale można powiedzieć, że
 w dobrym stanie.
 
 Następnie pojechaliśmy do [Radziądza][wiki-radziadz] zostawić sakwy i wyruszyć dalej z mniejszym obciążeniem. Niestety
@@ -56,14 +62,18 @@ udało nam się wyruszyć dopiero około 16-tej. Wcześniej rozważałem długą
 jednak teraz
 było to absolutnie niemożliwe.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/134642618' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Pojechałem trochę szybciej. Przejechałem przez [Niezgodę][wiki-niezgoda] i kierowałem się w stronę wieży widokowej na
 Starym Stawie, a
 przynajmniej tak mi się wydaje, że się tak on nazywa. Trasa jest trochę terenowa i nie wygląda źle, ale jakoś mało przyjemnie
 się po niej jechało. Z wieży był bardzo dobry widok na cały staw, który jest domem ogromnej ilości ptaków. Z tego miejsca widać
-najlepiej ogrom tej ilości.
+najlepiej ogrom ich ilości.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/134669867' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Ruszyłem dalej w stronę [Olszy][wiki-olsza] przez [Wilkowo][wiki-wilkowo]. Ta ostatnia wieś ma bardzo duży starych,
-opuszczonych domów. Dziko, ale bardzo ładnie.
+opuszczonych domów. Jest dziko, ale bardzo ładnie.
 
 <div class='pixels-photo'>
   <p>
@@ -74,16 +84,19 @@ opuszczonych domów. Dziko, ale bardzo ładnie.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Od [Grabówki][wiki-grabowka] aż za [Rudę Sułowską][wiki-ruda-sulowska] do drogi 439 ([Radziądz][wiki-radziadz]-[Sułów][wiki-sulow])
-prowadził najbardziej wodnisty szlak tego dnia.
+[prowadził][vimeo-5] najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.
 I co za tym idzie, najładniejszy moim zdaniem również.
 
-Dalej pojechałem mniej ciekawym szlakiem przez las w kierunku zapory na [Baryczy][wiki-barycz]. Ponoć postawili ją
+Dalej [pojechałem][vimeo-6] mniej ciekawym szlakiem przez las w kierunku zapory na [Baryczy][wiki-barycz]. Ponoć postawili ją
 niedawno. I dalej przez las w kierunki wsi [Osiek][wiki-osiek]. Po drodzę minąłem [Książęcą Wieś][wiki-ksiazeca-wies].
 Wieś podobnie zapuszczona jak [Wilkowo][wiki-wilkowo].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/134785986' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Gdy dojechałem do głównego skrzyżowania we wsi [Osiek][wiki-osiek] zobaczyłem, że chmury stają się być podejrzane.
-Od tego momentu starałem się w miarę szybko jechać do [Radziądza][wiki-radziadz]. Mniej już zwracałem na to co mijałem.
-Powoli zaczęło padać, oraz słyszałem grzmoty w oddali. Ostatnie 3km trasy przejechałem w deszczu.
+Od tego momentu starałem się w miarę szybko jechać do [Radziądza][wiki-radziadz]. Mniej już zwracałem uwagę na
+to co mijałem.
+Powoli zaczęło padać, oraz słyszałem grzmoty w oddali. Ostatnie 3km trasy przejechałem w solidnym deszczu.
 
 Po powrocie czułem że to była walka z czasem, ucieczka od ogromnej ulewy, jednak po 15 minutach nie było śladu deszczu.
 Nawet zrobiło się w miarę słonecznie i ładnie.
