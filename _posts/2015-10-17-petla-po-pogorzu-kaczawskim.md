@@ -26,7 +26,7 @@ time_spent:             9
 Wstęp
 -----
 
-W czerwcu [jeździłem](/trip/2015/06/05/wokol-jeleniej-gory/) rowerem okolicy. Bardzo mi się
+W czerwcu [jeździłem]({% post_url 2015-06-05-wokol-jeleniej-gory %}) rowerem po okolicy. Bardzo mi się
 spodobała, dlatego chciałem zobaczyć jak wyglądają te tereny jesienią.
 
 Zaplanowaliśmy trasę - pętle po [Pogórzu Kaczawskim][wiki-pogorze]. Na mapie nie wyglądała ona na tak
@@ -40,14 +40,16 @@ Opis trasy
 Szczegóły
 ---------
 
-Dzień niecierpliwie sprawdzałem różne prognozy
-pogody, szukając tej najlepszej. W nocy zaczęło padać. Pogodziłem się, że pogoda będzie raczej słaba.
-Słaba jeżeli chodzi o widoki, jeżeli chodzi o zdjęcia to z tym bywa różnie.
+Dzień wcześniej niecierpliwie sprawdzałem różne prognozy
+pogody szukając tej najlepszej. W nocy zaczęło padać. Pogodziłem się, że pogoda będzie raczej słaba.
+Słaba jeżeli chodzi o widoki, jeżeli chodzi o zdjęcia to z tym bywa różnie - nigdy niewiadomo
+jaka jest najlepsza.
 
 Wyruszyliśmy dość wcześnie, ale bez przesady i kierowaliśmy się na północ od [Sędziszowej][wiki-sedziszowa].
-Jak zwykle w mało popularnych pasmach szlaki są malowane czasem mniej intuicyjnie, dlatego się trochę pokręciliśmy.
+Jak zwykle w mało popularnych pasmach oznaczenia szlaków są namalowane czasem mniej
+intuicyjnie, dlatego się trochę pokręciliśmy.
 
-Przez te tereny biegnie trasa kolejowa, niestety już nieczynna i bardzo zaniedbana.
+Przez te tereny biegnie nieczynna trasa kolejowa.
 
 Ruszyliśmy lekkim podejściem na zachód w stronę [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Szliśmy przez lekko
 pofalowane pola. Bym powiedział że miejscami zbyt lekko, ale w zimie może to być istotna zaleta.
@@ -60,8 +62,8 @@ pofalowane pola. Bym powiedział że miejscami zbyt lekko, ale w zimie może to 
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Dotarliśmy do [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Jesienią sudecki w taką pogodę
-wioski robią się jeszcze bardziej sudecki, czyli smutniejsze, szarsze. Bieda, opuszczone domy, gdzieniegdzie
+Dotarliśmy do [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Jesienią sudeckie wioski w taką pogodę
+robią się jeszcze bardziej "sudeckie", czyli smutniejsze, bardziej szarse. Bieda, opuszczone domy, gdzieniegdzie
 mniej biedy. W lecie jak jest ciepło na pewno będzie tam radośniej.
 
 <div class='pixels-photo'>
@@ -72,9 +74,9 @@ mniej biedy. W lecie jak jest ciepło na pewno będzie tam radośniej.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Szliśmy cały czas asfaltem w kierunku [Rząśnika][wiki-rzasnik] z lekkim podeściem. Szliśmy trochę żółtym szlakiem
-już, a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przerwy na picie i rozpoczęło się
-podejście. Niby strome, ale szybko minęło. Pogoda zaczęła się "psuć", pojawiała się mgła.
+Szliśmy cały czas asfaltem w kierunku [Rząśnika][wiki-rzasnik] z lekkim podeściem. Dalej trochę żółtym szlakiem,
+a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przerwy na picie i rozpoczęło się
+podejście. Niby strome, ale szybko je pokonaliśmy. Pogoda zaczęła się "psuć", pojawiała się mgła.
 Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre zdjęcia, a bez mgły robi się nudniejszy.
 
 <div class='pixels-photo'>
@@ -85,7 +87,7 @@ Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Szliśmy przez las we mgle, niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
+Szliśmy przez las we mgle. Niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 
 <div class='pixels-photo'>
@@ -96,7 +98,7 @@ ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodz
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i dalej.
+Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i idziemy dalej.
 
 <div class='pixels-photo'>
   <p>
@@ -106,13 +108,13 @@ Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i dalej.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Po dotarciu do drogi asfaltowej, którą już wracaliśmy i schodziliśmy miałem na GPS około 18km.
-Droga ta idealna jest na rower, którym bez wysiłku pokonałbym większość pozostałej trasy. Jak widzę
+Po dotarciu do drogi asfaltowej, którą już wracaliśmy i schodziliśmy, miałem na GPS około 18km trasy.
+Droga którą schodziliśmy jest idealna jest na rower. Bez wysiłku pokonałbym większość pozostałej trasy. Jak widzę
 na mapie wszystko było z górki.
 
-W [Lubiechowej][wiki-lubiechowa] wybraliśmy dłuższą trasę, która prowadziłą do centrum
+W [Lubiechowej][wiki-lubiechowa] wybraliśmy dłuższą trasę, która prowadziła do centrum
 [Świerzawy][wiki-swierzawa] ufajac, że po drodzę będziemy mijać jakieś miejsca gdzie można zjeść
-coś ciepłego. Była sobota i już po południu, więc miasto powoli zasypiało.
+coś ciepłego. Była już sobota po południu, więc miasto powoli zasypiało.
 
 Do bazy wracaliśmy już po zmroku z czołówkami aby samochody nas widziały. Byłem bardzo zmęczony.
 30km pieszo to jest dla mnie dużo.
@@ -120,8 +122,10 @@ Do bazy wracaliśmy już po zmroku z czołówkami aby samochody nas widziały. B
 Dodatkowe opinie
 ----------------
 
-Gminy sudeckie widać że próbuję ściągnąć turystów, drukują bardzo dużo darmowych informatorów
+Widać że gminy sudeckie próbuję ściągnąć turystów, drukują bardzo dużo darmowych informatorów
 o tym co jest ciekawe w tamtych okolicach.
 
-Jest tam trochę rolnictwa, gdyż teren nie jest jeszcze mocno pofalowany. Będę musiał zobaczyć jak tam
-jest w zimie jak śnieg spadnie.
+Jest tam też trochę rolnictwa, gdyż teren nie jest jeszcze mocno pofalowany.
+
+Będę musiał zobaczyć jak tam jest w zimie jak śnieg spadnie. Niestety kolejna
+słaba zima nie umożliwiła mi tego zrobić.

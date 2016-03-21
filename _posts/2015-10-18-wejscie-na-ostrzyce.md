@@ -6,7 +6,7 @@ date:                   2015-10-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, swierzawa, pielgrzymka]
 lands:                  [pogorze_kaczawskie]
 
@@ -25,7 +25,7 @@ Wstęp
 -----
 
 To był dzień powrotu, ale udało się nam obwiedzić dwa bardzo ważne obiekty w
-[Pogórzu Kaczawski][wiki-pogorze] oraz wrócić do Poznania.
+[Pogórzu Kaczawski][wiki-pogorze].
 
 Szczegóły
 ---------
@@ -33,11 +33,11 @@ Szczegóły
 Prognoza pogody nadal była niepewna. Okno dobrej widoczności poprzedniego wieczoru nadal było zmienne.
 Nie mieliśmy jednak wyboru - warto wyruszyć i zobaczyć, jakakolwiek pogoda by była.
 
-Najpierw poszliśmy wejść na [Wielisławke][wiki-organy], które mieliśmy całkiem blisko.
+Najpierw poszliśmy wejść na [Wielisławkę][wiki-organy], które mieliśmy całkiem blisko.
 Podejście było dość mocne, wszędzie bardzo dużo liści, tylko kolory były trochę wczesne -
 bardziej zielone niż czerwone.
 
-Na górze okazało się, że tylko z rogu jest dobry widok. Reszta jest zasłonięta przez drzewa.
+Na górze okazało się, że tylko z jednego miejsca jest dobry widok. Reszta jest zasłonięta przez drzewa.
 
 <div class='pixels-photo'>
   <p>

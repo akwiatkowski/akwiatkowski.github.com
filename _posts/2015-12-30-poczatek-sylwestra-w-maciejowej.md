@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Początek Sylwestra w Maciejowej"
-subtitle:               "dojazd do Rabki przez Beskid Makowski i podejście"
+subtitle:               "dojazd do Rabki koleją przez Beskid Makowski i podejście do schroniska"
 date:                   2015-12-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/134966611/m%3D2048/c9bf3a2f10eb9b591a0b5ed15e53494b"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -25,8 +25,8 @@ time_spent:             2
 Wstęp
 -----
 
-Chęc spędzenia Sylwestra w schronisku w górach pojawiłą się już wcześniej.
-Gdzieś w październiku dowiedziałem się, że [Maciejowa][wiki-maciejowa] organizuje,
+Chęc spędzenia Sylwestra w schronisku w górach pojawiła się już wcześniej.
+Gdzieś w październiku dowiedziałem się, że [Maciejowa][wiki-maciejowa] organizuje Sylwester,
 a miałem dobre wspomnienia o tym miejscu.
 
 Opis trasy
@@ -41,7 +41,7 @@ Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem sz
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 
-Dopiero teraz zauważyłem, że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
+Dopiero teraz zauważyłem że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
 Myślałem, że jest jakieś bardziej bezpośrednie połączenie, ale innych torów tam nie ma.
 
 W [Rabce][wiki-rabka] zrobiliśmy małe zapasy w sklepie i rozpoczęliśmy podejście
@@ -49,5 +49,5 @@ W [Rabce][wiki-rabka] zrobiliśmy małe zapasy w sklepie i rozpoczęliśmy podej
 Powoli robiło się już ciemno i ostatnie 10-15 minut doszliśmy na czołówce.
 
 Wieczorem wyszedłem ze statywem porobić trochę nocnych zdjęć, gdyż widoczność była
-bardzo dobra. Gdyby był wiatr to mogła by być idealna, ale to byłby problem
-ze stabilnością statywu.
+bardzo dobra. Gdyby był lekki wiatr to mogła by być idealna, ale to byłby problem
+z ewentualną stabilnością statywu.
