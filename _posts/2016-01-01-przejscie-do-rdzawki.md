@@ -1,4 +1,4 @@
-, uncorrected---
+---
 layout:                 post
 title:                  "Przejście do Rdzawki"
 subtitle:               "ładne polanki, nie za długa trasa, jednak było zimniej niż dzień wcześniej"

@@ -35,6 +35,7 @@ Wjeżdzaliśmy w trakcie zimy.
 narciarską. Ogromny wybór tras i wyciągów, jak i odpowiedni chłodny klimat.
 
 Tam są tylko 5 rodzajów obiektów:
+
 * noclegi
 * wypożyczalnie
 * instruktorzy

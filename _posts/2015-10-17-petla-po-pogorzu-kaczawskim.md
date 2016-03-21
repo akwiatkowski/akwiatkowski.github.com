@@ -6,7 +6,7 @@ date:                   2015-10-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a"
 categories:             trip
-tags:                   [hike, mountains, todo_media, best, uncorrected]
+tags:                   [hike, mountains, todo_media, best]
 towns:                  [dolnoslaskie, swierzawa]
 lands:                  [gory_kaczawskie, pogorze_kaczawskie]
 
