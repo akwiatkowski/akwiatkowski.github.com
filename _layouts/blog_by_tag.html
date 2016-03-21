@@ -52,7 +52,7 @@ layout: default
                 {% endif %}
               </a>
               <p class="post-meta">
-                Utworzone przez {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} dnia {{ post.date | date: "%B %-d, %Y" }}
+                Utworzone przez {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} dnia {{ post.date | date: "%Y-%m-%d" }}
               </p>
             </div>
             <hr>

@@ -13,7 +13,8 @@ facebook_username:  bobik314
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 5
+paginate_path: "/list/page/:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems:

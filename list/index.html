@@ -1,0 +1,46 @@
+---
+layout:         page
+description:    "trochę tekstu obok zdjęć i filmów"
+header-ext-img: https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86
+---
+
+{% for post in paginator.posts %}
+{% assign counter = counter | plus: 1 %}
+{% assign page_desc = paginator.total_pages | minus: paginator.page %}
+{% assign posts_count = page_desc | times: paginator.per_page %}
+{% assign post_number = posts_count | plus: paginator.per_page | minus: counter | plus: 1%}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+          {{ post_number }}.
+          {{ post.title }}
+        </h2>
+
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%Y-%m-%d" }}</p>
+</div>
+<hr>
+{% endfor %}
+
+<p>{{ if paginator.total_pages }}</p>
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
