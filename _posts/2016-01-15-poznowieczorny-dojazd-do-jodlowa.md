@@ -6,7 +6,7 @@ date:                   2016-01-15 23:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, klodzko, miedzylesie]
 lands:                  [masyw_snieznika]
 ---
@@ -27,12 +27,12 @@ Wstęp
 
 Miałem jeden wolny weekend w styczniu a jednocześnie od dawna poluję na zdjęcia
 zimowego zachodu słońca. Po rozmowie z Krzychem ustaliliśmy, że jedziemy
-w rejon Śnieżnika. Dla niego głównym powodem była [Korona Polski][wiki-korona].
+w rejon Śnieżnika. Dla niego głównym motywem było zaliczanie [Korony Polski][wiki-korona].
 
 Szczegóły
 ---------
 
-Za [Wrocławiem][wiki-wroclaw] już widziałem, że jest sporo śniegu na dworzu, a gdy
+Za [Wrocławiem][wiki-wroclaw] już widziałem, że jest sporo śniegu, a gdy
 dojechałem do [Kłodzka][wiki-klodzko] rozpadało się już całkiem solidnie.
 
 Dostałem informację o utrudnieniach na drodzę i reszta ludzi przyjedzie z opóźnieniem.
@@ -52,14 +52,14 @@ drogą [33][wiki-33].
 Docelowo jechaliśmy do [Jodłowa][wiki-jodlow], gdzie mieliśmy nocleg. Zgodnie
 z otrzymana radą jechaliśmy przez [Dolnik][wiki-dolnik] i [Pisary][wiki-pisary].
 
-Było to już późno oraz śniegu napadło sporo, dlatego jechaliśmy bardzo wolno.
+Było już późno oraz śniegu napadało sporo, dlatego jechaliśmy bardzo wolno.
 O widokach nie można mówić, ale dziwne uczucie tak jechać wieczorem w odludne miejsce.
 
 Z ciekawszych przygód to:
 
 * sarna na drodzę wpatrzona w światła samochodu
-* *cofanie się do przodu* jako metoda na wjazd przy nachyleniu
+* *cofanie się do przodu* jako metoda wjazdu przy nachyleniu
 
 Spać poszliśmy dość szybko (przynajmniej ja), gdyż następnego dnia wstawaliśmy o
 czwartej rano. Godzina czysto nieludzka, ale co się robi po to aby zobaczyć
-zapierający dech wschód słońca.
+zapierający dech wschód słońca na szczycie.

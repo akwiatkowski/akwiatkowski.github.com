@@ -6,7 +6,7 @@ date:                   2016-02-22 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b"
 categories:             trip
-tags:                   [ski, todo, uncorrected]
+tags:                   [ski, todo_media]
 towns:                  [dolnoslaskie]
 lands:                  [gory_bystrzyckie, gory_orlickie]
 
@@ -15,7 +15,40 @@ time_spent:             12
 
 ---
 
+[wiki-zieleniec]:         https://pl.wikipedia.org/wiki/Zieleniec_(dzielnica_Dusznik-Zdroju)
+[wiki-duszniki]:          https://pl.wikipedia.org/wiki/Duszniki-Zdr%C3%B3j
+[wiki-klodzko]:           https://pl.wikipedia.org/wiki/K%C5%82odzko
+
 Wstęp
 -----
 
-TODO
+Słyszałem dużo dobrego o [Zieleńcu][wiki-zieleniec]. Mając niepewną zimę w tym
+sezonie postanowiłem sprawdzić to miejsce, gdyż warunki miały być najlepsze.
+
+Szczegóły
+---------
+
+Do [Duszników Zdrój][wiki-duszniki] dojechaliśmy autobusem z Wrocławia.
+Wjeżdzaliśmy w trakcie zimy.
+
+[Zieleniec][wiki-zieleniec] okazał być się naprawdę solidną, jak na polskie warunki, miejscowością
+narciarską. Ogromny wybór tras i wyciągów, jak i odpowiedni chłodny klimat.
+
+Tam są tylko 5 rodzajów obiektów:
+* noclegi
+* wypożyczalnie
+* instruktorzy
+* restauracje
+* wyciągi
+
+Widziałem dwa albo trzy sklepy, żadnej biedronki ani żabki. Sklepy tylko lokalne.
+
+Dwa dni później zjechaliśmy autobusem do [Dusznik Zdrój][wiki-duszniki]. Po tym
+jak spadł solidny deszcz znacząco pogorszyły się warunki.
+
+Trochę pochodziliśmy po mieście, jednak zauważam, że skoro zimy nie ma dobrej to
+pozostaje czekać na wiosnę. Gdy się zazieleni będzie wszędzie ładniej. Teraz
+było tak szarawo.
+
+Wracaliśmy pociągiem z [Dusznik][wiki-duszniki] przez [Kłodzko][wiki-klodzko] do
+Poznania.

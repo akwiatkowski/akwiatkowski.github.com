@@ -55,7 +55,7 @@ barwy.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Z ciekawszysch momentów dnia były trzy zwierzaki, które spotkaliśmy wokół
+Z ciekawszych momentów dnia była wizyta trzech zwierzaków, które spotkaliśmy obok
 [schroniska][wiki-schronisko].
 
 <div class='pixels-photo'>

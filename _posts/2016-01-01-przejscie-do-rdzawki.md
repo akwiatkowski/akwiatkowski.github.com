@@ -6,7 +6,7 @@ date:                   2016-01-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135034595/m%3D2048/92f3adfbd746da32aa9443b60dcbd98a"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -47,11 +47,11 @@ Szczegóły
 ---------
 
 Wyruszyliśmy dość późno, bo około 12-tej. Musieliśmy przenieść rzeczy do innego
-pokoju, oraz wstać.
+pokoju, a wcześniej wstać po Sylwestrze.
 
-Ruszyliśmy na wschód od [schroniska][wiki-maciejowa] ze sto metrów, a później
-zielonym na południe. Jednocześnie z zielonym przebiega tam żółty szlak rowerowy,
-jednak chyba nie rzuciłbym się na niego.
+Ruszyliśmy na wschód od [schroniska][wiki-maciejowa], ze sto metrów, a później
+zielonym szlakiem na południe. Jednocześnie z zielonym przebiega tam żółty szlak rowerowy,
+jednak chyba nie rzuciłbym się na niego rowerem.
 
 Zeszliśmy do [Ponic][wiki-ponice], takiej małej wsi pośrodku gór. Chociaż bardziej
 to były duże pagórki.

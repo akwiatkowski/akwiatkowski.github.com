@@ -6,7 +6,7 @@ date:                   2016-01-17 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, miedzylesie]
 lands:                  [masyw_snieznika]
 
@@ -49,7 +49,7 @@ Szczegóły
 
 Wstaliśmy dość wcześnie. Szybko się spakowałem z najważniejszych rzeczy i wyszedłem
 na dwór porobić trochę zdjęć o poranku. Gdzieś około 8-ej musiałem wrócić aby dokończyć
-śniadanie i pakowanie się. Ruszyliśmy samochodem to [Międzylesia][wiki-miedzylesie].
+śniadanie i pakowanie się. Ruszyliśmy samochodem do [Międzylesia][wiki-miedzylesie].
 
 
 <div class='pixels-photo'>
@@ -70,7 +70,7 @@ niebieskim szlakiem pieszym. Szybko skręciłem na północ w stronę [Nagodzic]
 gdzie przeszedłem przez wioskę robiąc zdjęcia wszystkiemu, co było chociaż trochę
 ciekawe.
 
-Chmury zalegały całe niebo i było trochę szaro i nudno. Na szczeście śniegu nie było
+Chmury zalegały całe niebo, było trochę szaro i nudno. Na szczeście śniegu nie było
 tak dużo jak dzień wcześniej na [Śnieżniku][wiki-snieznik].
 
 Chwilę później musiałem iść drogą asfaltową. Na papierowej mapie była jakaś dróżka,
@@ -80,11 +80,11 @@ przypadkiem, oraz powoli zacząłem zastanawiać się "gdzie tu jest jakieś lud
 W [Roztokach][wiki-roztoki] dowiedziałem się w sklepie, że jest w [Międzylesiu][wiki-miedzylesie].
 Fajnie, z tamtąd przyszedłem. Chwila na analizę: trasa, pociągi, pogoda. Wyszło na to,
 że w [Międzylesiu][wiki-miedzylesie] można coś zjeść, wartość iść pieszo, oraz
-tam będzie najlepsza pogoda.
+tam będzie najlepsza pogoda za 3 godziny.
 
 Ruszyłem na wschód w kierunku wsi [Gajnik][wiki-gajnik] niebieskim szlakiem rowerowym.
 Zaciekawiło mnie, że w każdej tej wsi jest przystanek autobusowy. Oczywiście w niedziele
-żadnej nie kursuj. W ogóle bardzo mało ludzi po drodzę spotkałem po drodzę.
+żaden nie kursuje. W ogóle bardzo mało ludzi po drodzę spotkałem.
 
 Gdy doszedłem do [Goworowa][wiki-goworow] pogoda powoli zaczęła się poprawiać. Ruszyłem
 drogą do [Międzylesia][wiki-miedzylesie] i w ciągu pół godziny chmur już prawie nie było.
@@ -118,5 +118,6 @@ słońca. W [Szklarni][wiki-szklarnia] zacząłem wracać tą samą trasą.
 Niestety pojawiła się duża chmura, która blokowała przez pewien czas światło.
 Zrozumiałem również, że południowe [Góry Bystrzyckie][wiki-bystrzyckie] i
 [Góry Orlickie][wiki-orlickie] blokują słońce. Następnym razem będę celował
-w tereny górskie i spanie w schronisku. Dzięki temu będę miał szansę robić zdjęcia
-ze słońcem jeszcze później.
+w tereny bardziej górskie i spanie w schronisku.
+Dzięki temu będę miał szansę robić zdjęcia ze słońcem jeszcze później,
+kiedy jest ono czerwone, a później nawet fioletowe.

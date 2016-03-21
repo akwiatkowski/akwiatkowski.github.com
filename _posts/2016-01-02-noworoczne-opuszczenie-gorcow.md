@@ -6,7 +6,7 @@ date:                   2016-01-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
 categories:             trip
-tags:                   [hike, mountains, todo_media, uncorrected]
+tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -44,9 +44,10 @@ sankach.
 
 Po tym jak zeszliśmy na ulicę Poniatowskiego w [Rabce][wiki-rabka] zaczęła się
 najdłuższa i najspokojniejsza część trasy - przejście do centrum miasta po
-ulicy.
+ulicy. Spokojna w znaczniu nudna.
 
 Okazało się, że autobus do [Krakowa][wiki-krakow] odjeżdza prawie "po drodzę".
 
-Udało nam się zdąrzyć na wcześniejszy pociąg, jednak wyruszył on godzinę później,
-a po drodzę załapał kolejną godzinę opóźnienia.
+Udało nam się zdążyć na wcześniejszy pociąg, jednak wyruszył on godzinę później,
+a po drodzę załapał kolejną godzinę opóźnienia. Z tego powodu w Poznaniu byliśmy
+dwie godziny później niż powinniśmy być.

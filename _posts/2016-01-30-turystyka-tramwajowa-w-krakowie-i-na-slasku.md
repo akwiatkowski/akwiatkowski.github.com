@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Turystyka tramwajowa w Krakowie i na Śląsku"
-subtitle:               "czyli dojazd tramwajem do dwóch gut"
+subtitle:               "czyli dojazd tramwajem do dwóch hut"
 date:                   2016-01-30 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d"
 categories:             trip
-tags:                   [rail, tram, todo_media, uncorrected]
+tags:                   [rail, tram, todo_media]
 towns:                  [malopolskie, slaskie, krakow, czeladz, bedzin, dabrowa_gornicza]
 lands:                  [gop]
 
@@ -40,7 +40,7 @@ Kraków - 29 stycznia
 że kiedyś odwiedzę to miejsce, musiałem tylko wybrać "jak" - czyli jaką linią tramwajową.
 Dowiedziałem się, że najlepiej pojechać 10-tką.
 
-Dowiedziałem się również, że na dworcu [Kraków Główny][wiki-krakow-glowny] jeat podziemny
+Dowiedziałem się również, że na dworcu [Kraków Główny][wiki-krakow-glowny] jest podziemny
 przystanek tramwajowy. On również mnie ciekawił.
 
 Ruszyłem 5-tką aż do [Czyżyny][wiki-czyzyny], tam przesiadłem się na wspomnianą 10-tkę.
@@ -59,10 +59,10 @@ Wróciłem tramwajem 21 do przystanku Kombinat, gdzie przesiadłem się na 4-kę
 którą dojechałem do Wzgórz Krzesławickich. Robiło się już ciemno, czyli moje tramwajowe
 zwiedzania miasta dobiegało do końca.
 
-W okolicy przystanku Wiadukty były 2... wiadukty przez które prowadziły tylko
+W okolicy przystanku Wiadukty były 2... wiadukty przez które prowadziła tylko
 jedna para torów. Pomiędzy nimi było miejsce umożliwiające mijanie się tramwajów.
 
-Z pętli Wzgórz Krzesławickich wracałem już pod koncert, podjechałem tramwajem 1.
+Z pętli Wzgórz Krzesławickich wracałem już pod koncert, podjechałem tramwajem 1-ką.
 
 Dąbrowa Górnicza - 30 stycznia
 ------------------------------
@@ -91,7 +91,7 @@ domyślić [Huta Katowice][wiki-huta-katowice].
 
 Trudno mi opisać klimat trasy, jaki pojawił się już od Tworzeń Polna (2 stacja
 przed pętlą) od pętli. Słowo "industrialny", jest zbyt oczywistym zwrotem a mi
-osobiście trudno to opisać.
+osobiście trudno to opisać szerzej.
 
 Później wróciłem do Gołonóg Manhattan, gdzie przeszedłeł się na pieszo do zbiornika
 [Pogoria III][wiki-pogoria-iii], część [Zbiorników Pogoria][wiki-pogoria]. Całkiem
