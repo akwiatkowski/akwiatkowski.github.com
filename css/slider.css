@@ -1,0 +1,32 @@
+.slider-title {
+  font-size: 80px;
+  text-shadow: 1px 1px #555;
+  color: #fff;
+  line-height: 1.1;
+
+  padding-top: 220px;
+  text-align: center;
+}
+
+.slider-hr {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: white;
+}
+
+.slider-subtitle {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'DejaVu Sans', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+
+  color: #fff;
+  text-align: center;
+}
+
+.slider-link, .slider-link:hover {
+  text-decoration: none;
+}
