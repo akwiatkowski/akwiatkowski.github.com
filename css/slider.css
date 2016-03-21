@@ -1,11 +1,19 @@
 .slider-title {
-  font-size: 80px;
   text-shadow: 1px 1px #555;
   color: #fff;
   line-height: 1.1;
 
-  padding-top: 220px;
   text-align: center;
+
+  font-size: 50px;
+  padding-top: 150px;
+}
+
+@media only screen and (min-width: 768px) {
+  .slider-title {
+    font-size: 72px;
+    padding-top: 220px;
+  }
 }
 
 .slider-hr {

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Miejscowości"
+ignore_nav: true
 permalink: /towns/
 header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832
 ---
@@ -36,7 +37,7 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
                   {{ town.name }}
                 </h3>
               </a>
-              
+
               <ul>
                 {% for subplace in site.data.towns %}
                   {% for within_place in subplace.inside %}
@@ -49,19 +50,18 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
                         </a>
                       </li>
                     {% endif %}
-                  {% endfor %}  
+                  {% endfor %}
                 {% endfor %}
               </ul>
-              
+
             </li>
           {% endif %}
         {% endfor %}
         </ul>
-        
+
       </div>
     </div>
   </div>
 </article>
 
 <hr>
-
