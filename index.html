@@ -5,6 +5,7 @@ layout:         default
 <div class="loading-container">
   <div class="pulse">
     <h2>Wczytywanie zdjęć...</h2>
+    <p>Gdyby trwało to zbyt długo kliknij <a href="/list">tutaj</a>.</p>
   </div>
 </div>
 
@@ -83,7 +84,7 @@ $(document).ready(function() {
     play: 8000,
     animation: 'slide',
     pagination: true,
-    hashchange: true,
+    hashchange: false,
     scrollable: true
   });
 

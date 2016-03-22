@@ -48,8 +48,9 @@
 }
 
 .loading-container {
-  position: fixed;
-  height: 400px;
+  position: relative;
+  top: 0px;
+  height: 500px;
   width: 100%;
   padding-top: 180px;
   text-align: center;
