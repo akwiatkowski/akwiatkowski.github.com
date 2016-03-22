@@ -4,9 +4,9 @@ title:                  "Zejście z Rycerzowej do Rajczy"
 subtitle:               "znowu ciepło"
 date:                   2013-07-21 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/43162646/m%3D2048/9be5d19077b62d49d9eea687a18d1f43"
+header-ext-img:         "https://drscdn.500px.org/photo/145660147/q%3D80_m%3D2000/d0333b476745c2db89bd8df01da998c1"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -39,6 +39,14 @@ przez [Małą Rycerzową][wiki-mala-rycerzowa]. Po drodzę spotkaliśmy lokalne 
 
 Nie trudno było zrobić zdjęcie, na którym nie byłoby ani jednej chmury. Sporo szlaku, z tego co pamiętam,
 prowadziło nas otwartymi terenami.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145660669/m%3D900/c9bdb0606c6bc144d186081921182767' alt='Wooden house in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145660669/wooden-house-in-%C5%BBywiec-beskid-by-aleksander-kwiatkowski' alt='Wooden house in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Bardzo podobały mi się wioski, które mijaliśmy po drodzę. Zwłaszcza [Młada Hora][wiki-mlada-hora]
 ulokowana totalnie "w górach". Z tego co widziałem na mapie, to prowadzi do niej droga

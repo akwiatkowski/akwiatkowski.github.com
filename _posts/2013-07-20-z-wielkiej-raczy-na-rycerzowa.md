@@ -6,7 +6,7 @@ date:                   2013-07-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41617556/m%3D2048/7427716299d2442b18d82293caf50d88"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -37,6 +37,14 @@ szczyty w chmurach, bardziej soczysta zieleń trawy i lasów - całkiem było fa
 trawą to nie jest taka
 całkowita prawda. W niektórych miejscach ona była brązowa, albo nawet czerwonana.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145659105/m%3D900/1492837d1dcd32a35e6fa81f7a96e875' alt='Sheaf in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145659105/sheaf-in-%C5%BBywiec-beskid-by-aleksander-kwiatkowski' alt='Sheaf in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Po pewnym czasie weszliśmy w las i tak szliśmy prawie aż do [Przełęczy Przegibek][wiki-przegibek], gdzie
 był czas na jakieś solidne jedzenie. Trochę musieliśmy się cofnąć, aby dostać się do czerwonego
 szlaku do [Rycerzowej][wiki-rycerzowa].
@@ -44,5 +52,21 @@ szlaku do [Rycerzowej][wiki-rycerzowa].
 Znowu szliśmy przez las i chyba nic ciekawego tam nie było. Dopiero gdy schodziliśmy z
 [Rycerzowej Wielkiej][wiki-rycerzowa] ukazał się nam najlepszy widok tego dnia - okolica schroniska.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/77156083/m%3D900/156f6c3765379077cd69e5cc19e3c00f' alt='Bacówka PTTK na Rycerzowej by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/77156083/bac%C3%B3wka-pttk-na-rycerzowej-by-aleksander-kwiatkowski' alt='Bacówka PTTK na Rycerzowej by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Główną atrakcją był baca i stado owiec, które kręciło się wokół schroniska. Mniejsza atrakcja była dla
 mieszkajacych w namiotach, gdyż owce je trochę taranowały.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/43162646/m%3D900/e485c78007d895fec8c6094b2154ff9b' alt='Mean sheep by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/43162646/mean-sheep-by-aleksander-kwiatkowski' alt='Mean sheep by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
