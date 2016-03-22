@@ -6,7 +6,7 @@ date:                   2013-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/34474028/m%3D2048/95df032502c17261a54d2896d072d890"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
 
@@ -71,6 +71,14 @@ i nie myśleć.
 Dotarliśmy do [Studzionek][wiki-studzionki], jest to przysiółek [Ochotnicy Górnej][wiki-ochotnica].
 Mogę spokojnie polecić [nocleg][studzinki-nocleg] tam. Jest niedrogo, dobry klimat oraz
 jedzenie jest rewelacyjne.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145653025/m%3D900/f0baf000f97598c99950ccdfe86669ec' alt='Leaving Krościenko nad Dunajdem by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145653025/leaving-kro%C5%9Bcienko-nad-dunajdem-by-aleksander-kwiatkowski' alt='Leaving Krościenko nad Dunajdem by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wieczorem poszwendaliśmy się jeszcze chwilę po okolicy, ale raczej nic istotnego nie widziałem.
 Dobrze oceniam tą wioskę.

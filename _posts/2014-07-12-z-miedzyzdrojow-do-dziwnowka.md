@@ -50,6 +50,14 @@ jaki potrafię wymyśleć.
 Podobała mi się drogą przed [Kołczewem][wiki-kolczewo] oraz pole w okolicy
 [Jeziora Koprowo][wiki-j-koprowo].
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145390331/m%3D900/26eb605a7cb49c3cf75180e70c336def' alt='Balic Sea at Międzywodzie by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145390331/balic-sea-at-mi%C4%99dzywodzie-by-aleksander-kwiatkowski' alt='Balic Sea at Międzywodzie by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Nocleg mieliśmy na polu namiotowym w [Dziwnówki][wiki-dziwnowek]. Nie było tanie,
 ale mieli bardzo dobre łazienki. Podobało mi się gdy w nocy wiał silny wiatr, który
 wszystko zagłuszał. Reszta wniosków będzie opisana ostatniego dnia.
