@@ -6,7 +6,7 @@ date:                   2014-07-15 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133511713/m%3D2048/e94716760c96f76e3352b095377b798e"
 categories:             trip
-tags:                   [bicycle, panniers, coast, todo_media, best]
+tags:                   [bicycle, panniers, coast, best]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
 lands:                  [wybrzeze_slowinskie]
 
@@ -53,6 +53,14 @@ się do [Darłowa][wiki-darlowo]. Tam się rozdzieliliśmy, gdyż część chcia
 [zamek][wiki-darlowo-zamek], a część wolała popływać. Mi się pływać nie chciało, ale
 również nie chciało mi się łazić po zamku. Wybrałem pływanie jako mniejsze zło.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145868575/m%3D900/21d288fe564fa9f2e9ba83974d0e4a62' alt='Coastline wind turbines near Darłowo by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145868575/coastline-wind-turbines-near-dar%C5%82owo-by-aleksander-kwiatkowski' alt='Coastline wind turbines near Darłowo by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Z [Darłowa][wiki-darlowo] jechaliśmy drogą równoległą do aleji Jana Pawła II.
 Całkiem fajna trasa - pola i wiatraki. Wyjechaliśmy tą drogą na plażę i tam
 "przeczekaliśmy".
@@ -98,6 +106,14 @@ ze spokojem.
 
 Będąc w okolicach dworca PKP pojechaliśmy na północ zjeść coś, a następnie zobaczyć
 port.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/145868751/m%3D900/6076e14dbaa50c4d28b13b9276901b74' alt='Ustka coastline by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/145868751/ustka-coastline-by-aleksander-kwiatkowski' alt='Ustka coastline by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wracaliśmy pociągiem w nocy. Zapieliśmy rowery do ostatnich drzwi i trochę udało się
 pospać.

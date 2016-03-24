@@ -50,3 +50,11 @@ Większe miejscowości, które minęliśmy to:
 * [Mielno][wiki-mielno]
 * [Łazy][wiki-lazy]
 * [Bukowo Morskie][wiki-bukowo]
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/80117625/m%3D900/75f7c21469383551df0153d2b5aeb1f4' alt='Flame evening by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/80117625/flame-evening-by-aleksander-kwiatkowski' alt='Flame evening by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
