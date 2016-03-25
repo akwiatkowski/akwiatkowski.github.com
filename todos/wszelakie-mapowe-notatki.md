@@ -20,3 +20,4 @@ header-ext-img: https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95
 * [Bardo - Poznań](http://umapa.pl/GvhCw) - 302km
 * [Przemyśl - Jaśliska](http://umapa.pl/uPdwI) - 168km
 * [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km
+* [Jelenia Góra - Gorzów Wlkp](http://umapa.pl/ffCv8) - 280km

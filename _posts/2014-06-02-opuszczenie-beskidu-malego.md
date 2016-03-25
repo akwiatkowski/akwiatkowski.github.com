@@ -6,7 +6,7 @@ date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/97144903/m%3D2048/912df5c155c296b53a1edf92c86a41de"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [slaskie, andrychow, lekawica]
 lands:                  [beskid_maly]
 
@@ -49,6 +49,14 @@ Udało nam się to w południowej części wsi [Rzyki][wiki-rzyki].
 Nie pamiętam o której godzinie, ale na pewno to było dość
 wcześnie w niedzielę, więc całkiem duży fart.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/146076093/m%3D900/1dc38fdef88a2f44b97263feadd9c415' alt='Walking on high grass by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/146076093/walking-on-high-grass-by-aleksander-kwiatkowski' alt='Walking on high grass by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 W centrum [Rzyków][wiki-rzyki] miał się rozpocząć czarny szlak i chyba się rozpoczął.
 Problemem było przejście
 przez wzniesienie do ulicy Skórnickiej, oraz ponowne podejście i przejście przez
@@ -58,6 +66,14 @@ delikatnie sobie zarósł. Idealne miejsce na testowanie maczet.
 Miłe było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzniesienia
 i wysoką trawę. Tutaj zaczęła ona mnie delikatnie irytować, ale przemilczałem to,
 gdyż rzadko się chodzi po takich terenach.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/146076309/m%3D900/d69a308a469c9ef062db2646305ca144' alt='Walking on high grass, the other side by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/146076309/walking-on-high-grass-the-other-side-by-aleksander-kwiatkowski' alt='Walking on high grass, the other side by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 W [Zagórniku][wiki-zagornik] kupiliśmy za dużo picia (soki, jogurty, ...) i
 na przystanku to "obalaliśmy".
