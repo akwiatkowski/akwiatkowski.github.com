@@ -6,7 +6,7 @@ date:                   2016-02-22 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b"
 categories:             trip
-tags:                   [ski, todo_media]
+tags:                   [relax]
 towns:                  [dolnoslaskie]
 lands:                  [gory_bystrzyckie, gory_orlickie]
 
@@ -46,6 +46,14 @@ Widziałem dwa albo trzy sklepy, żadnej biedronki ani żabki. Sklepy tylko loka
 
 Dwa dni później zjechaliśmy autobusem do [Dusznik Zdrój][wiki-duszniki]. Po tym
 jak spadł solidny deszcz znacząco pogorszyły się warunki.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/146061597/m%3D900/39e9ad2f36a49b88792927468e5ed3ba' alt='Shop in Duszniki Zdrój by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/146061597/shop-in-duszniki-zdr%C3%B3j-by-aleksander-kwiatkowski' alt='Shop in Duszniki Zdrój by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Trochę pochodziliśmy po mieście, jednak zauważam, że skoro zimy nie ma dobrej to
 pozostaje czekać na wiosnę. Gdy się zazieleni będzie wszędzie ładniej. Teraz
