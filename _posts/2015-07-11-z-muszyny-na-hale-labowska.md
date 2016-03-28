@@ -4,7 +4,7 @@ title:                  "Z Muszyny na Halę Łabowską"
 subtitle:               "trochę małego miasta, łąk i dużo lasu gdzie nic nie widać"
 date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e"
+header-ext-img:         "https://drscdn.500px.org/photo/146665187/q%3D80_m%3D2000/89026865477689dffa587d9459ac2d82"
 categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
@@ -52,6 +52,14 @@ ulicy Zazamcze.
 Niedaleko [cerkwi w Złockie][wiki-zlockie-cerkiew] zielony szlak pieszy prowadził po najlepszych miejscach widokowych, moim zdaniem.
 Pagórki i polany są najciekawszymi krajobrazami w tamtych rejonach.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/115739183/m%3D900/ad9f6800bbbdfaa6d3d74aff33f5eda4' alt='One tree on trail in Beskid Sądecki by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/115739183/one-tree-on-trail-in-beskid-s%C4%85decki-by-aleksander-kwiatkowski' alt='One tree on trail in Beskid Sądecki by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Po pewnym czasie weszliśmy w las i tym lasem doszliśmy do [Jaworzyny Krynickiej][wiki-jaworzyna], gdzie oprócz widoków
 była przerwa na jedzenie. Dzięki kolejce linowej był tam ogrom ludzi, prawie jak na Krupówkach.
 
@@ -62,6 +70,14 @@ jednak raczej nic specjalnie ciekawego. Może jestem ignorantem, ale chodzenie p
 po drugiej stronie Polski, to nie jest to co najbardziej mnie interesuje.
 Jednocześnie nie jestem zwolennikiem wycinania
 aby zrobić specjalnie miejsca widokowe. W zimie pewnie jest tam bardzo ładnie.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/115181755/m%3D900/03b70c2803de9a75e2c7fd5f33d70c46' alt='Near Jaworzyna Krynicka by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/115181755/near-jaworzyna-krynicka-by-aleksander-kwiatkowski' alt='Near Jaworzyna Krynicka by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Około 17-tej godziny dotarliśmy do schroniska. Okazało się że prąd jest tylko wieczorami, oraz jest w nim bardzo
 dobry widok na wschód Słońca.
