@@ -222,6 +222,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: duszniki_zdroj
+  name: Duszniki Zdrój
+  header-ext-img: https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: dziwnow
   name: Dziwnów
   header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
