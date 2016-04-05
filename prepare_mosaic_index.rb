@@ -1,7 +1,7 @@
 require "json"
 
-x = 4
-y = 4
+x = 6
+y = 6
 max = x*y
 
 width = 2048.0 / 3.0
@@ -11,10 +11,10 @@ height_int = height.floor
 magik_resize = "#{width_int}x#{height_int}^"
 # http://www.imagemagick.org/Usage/thumbnails/#pad
 
-quality = 40
+quality = 30
 
 output = "img/mosaic.jpg"
-output_html = "mosaic.html"
+output_html = "_includes/mosaic.html"
 
 s = File.read("_site/payload.json")
 data = JSON.parse(s)
