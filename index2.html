@@ -1,46 +1,106 @@
 ---
-layout:         page
-description:    "trochę tekstu obok zdjęć i filmów"
-header-ext-img: https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86
+layout:         default
 ---
 
-<h3>Witaj</h3>
+<div class="loading-container" style="padding-top: 0px !important;">
+  <div class="pulse">
+    {% include mosaic.html %}
+  </div>
+</div>
 
-<p>Poniżej jest lista pięciu najciekawszych ostatnich wpisów. <a href="/list">Tutaj</a> możesz zobaczyć
-wszystkie.</p>
+<div id="slides" style="display: none;">
+  <ul class="slides-container">
 
-{% assign max_posts = 5 %}
-
-{% for data_tag in site.data.tags %}
-  {% if data_tag.slug == "best" %}
-    {% assign tag = data_tag %}
-  {% endif %}
-{% endfor %}
-
-{% if site.tags["best"] %}
-  {% for post in site.tags["best"] %}
-    {% if max_posts > 0 %}
-
-      <div class="post-preview">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <h2 class="post-title">
-            {{ post.title }}
-          </h2>
-          {% if post.subtitle %}
-            <h3 class="post-subtitle">
-              {{ post.subtitle }}
-            </h3>
-          {% endif %}
+    <!-- <li>
+      <img src="{{ site.header-ext-img }}" alt="Aleksander Kwiatkowski">
+      <div class="container">
+        <a href="/list" class="slider-link">
+          <h1 class="slider-title">Aleksander Kwiatkowski</h1>
+          <hr class="slider-hr">
+          <span class="slider-subtitle">trochę tekstu obok zdjęć</span>
         </a>
-        <p class="post-meta">
-          Utworzone przez {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} dnia {{ post.date | date: "%Y-%m-%d" }}
-        </p>
       </div>
-      <hr>
-      {% assign max_posts = max_posts | minus: 1%}
+    </li> -->
+
+
+
+    {% assign max_posts = 10 %}
+
+    {% for data_tag in site.data.tags %}
+      {% if data_tag.slug == "main" %}
+        {% assign tag = data_tag %}
+      {% endif %}
+    {% endfor %}
+
+    {% if site.tags["main"] %}
+      {% for post in site.tags["main"] %}
+        {% if max_posts > 0 %}
+          {% assign background = post.header-ext-img %}
+
+    <li>
+      <img src="{{ background }}" alt="{{ post.title }}">
+      <div class="container">
+        <a href="{{ post.url }}" class="slider-link">
+          <h1 class="slider-title">{{ post.title }}</h1>
+          <hr class="slider-hr">
+          <span class="slider-subtitle">{{ post.subtitle }}</span>
+        </a>
+      </div>
+    </li>
+
+    {% assign max_posts = max_posts | minus: 1%}
 
     {% endif %}
-  {% endfor %}
-{% else %}
-  <p>Nie ma wpisów do tego tagu.</p>
-{% endif %}
+    {% endfor %}
+    {% else %}
+    {% endif %}
+
+  </ul>
+
+  <nav class="slides-navigation">
+    <a href="#" class="next">
+      <i class="icon-chevron-right"></i>
+    </a>
+    <a href="#" class="prev">
+      <i class="icon-chevron-left"></i>
+    </a>
+  </nav>
+
+</div>
+
+<script>
+$(document).ready(function() {
+  // init slider
+  $(window).on("load", function() {
+    // $('.loading-container').remove();
+    // $("#slides").show();
+
+    //$('#slides').superslides('start');
+  });
+
+  $('img[usemap]').rwdImageMaps();
+  $('footer').hide();
+
+  $('#slides').superslides({
+    slide_easing: 'easeInOutCubic',
+    slide_speed: 800,
+    play: 8000,
+    animation: 'slide',
+    pagination: true,
+    hashchange: false,
+    scrollable: true
+  });
+
+  document.ontouchmove = function(e) {
+    e.preventDefault();
+  };
+  $('#slides').hammer().on('swipeleft', function() {
+    $(this).superslides('animate', 'next');
+  });
+
+  $('#slides').hammer().on('swiperight', function() {
+    $(this).superslides('animate', 'prev');
+  });
+
+});
+</script>
