@@ -131,6 +131,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: chrzypsko_wielkie
+  name: Chrzypsko Wielkie
+  header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: czaplinek
   name: Czaplinek
   header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
@@ -567,6 +574,13 @@
   inside:
     - wielkopolskie
 
+- slug: ostrorog
+  name: Ostroróg
+  header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: ostrowice
   name: Ostrowice
   header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
@@ -601,6 +615,13 @@
   type: town
   inside:
     - malopolskie
+
+- slug: pniewy
+  name: Pniewy
+  header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: pobiedziska
   name: Pobiedziska
