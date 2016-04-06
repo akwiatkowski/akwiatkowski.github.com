@@ -81,6 +81,14 @@ Według [niej][nsr-mapa] biegnie on przez rzekę [Wartę][wiki-warta] na wysoko�
 [Wartosławia][wiki-wartoslaw]. Trzeba tam skorzystać z promu. Jednak na mapie UMP
 szlak ten biegnie dalej i przeprawa promowa jest na wysokości wsi [Chojno][wiki-chojno].
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/148034387/m%3D900/ea6208548de6ec6973c3692c6e780d1b' alt='Blocks in Pożarowo by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/148034387/blocks-in-po%C5%BCarowo-by-aleksander-kwiatkowski' alt='Blocks in Pożarowo by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Ruszyłem dalej na zachód w stronę wsi [Lubowo][wiki-lubowo], gdzie drogą gruntową
 skręciłem na południe w stronę [Pożarowa][wiki-pozarowo].
 
