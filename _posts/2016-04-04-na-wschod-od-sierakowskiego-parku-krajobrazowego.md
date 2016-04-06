@@ -95,6 +95,8 @@ skręciłem na południe w stronę [Pożarowa][wiki-pozarowo].
 [Pożarowo][wiki-pozarowo] jest bardzo spokojną wsią rolniczą, położoną totalnie na uboczu.
 Rozpoczęły się lekkie pagórki.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161780188' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Następnie kierowałem się na zachód, w stronę wsi [Pakawie][wiki-pakawie], jednak nie
 wjeżdzałem do niej. Od razu skręciłem na południe jadąc do wsi [Kłodzisko][wiki-klodzisko].
 Była to raczej zwykła polna droga i chyba niewiele z niej nagrałem.
@@ -120,6 +122,8 @@ i już kierowałem się do cywilizacji. Wiedziałem, że zostało mi jeszcze spo
 Tereny już nie były tak ciekawe jak wcześniej, oprócz infrastruktury kolejowej -
 głównie mostów.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161797157' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Przejechałem przez [Nojewo][wiki-nojewo] przez normalne już tereny wiejskie, gdzie
 w [Zajączkowie][wiki-zajaczkowo] musiałem przejechać przez las drogą gruntową -
 7km w linii prostej.
@@ -132,6 +136,8 @@ Wybrałem ambitniej - to pierwsze. Wolałem mieć ładniejszą pętle na mapie t
 Wyjazd z [Ostroroga][wiki-ostrorog] niestety był przez kilka kilometrów drogą nie
 najspokojniejszą. Cały czas jechałem czarnym szlakiem - [Szlak Stu Jezior][wiki-szlak-stu-jezior].
 Tu jest jego [mapa][ssj-mapa].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161818790' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Spokojnie dojechałem do [Szamotuł][wiki-szamotuly] przez [Jastrowo][wiki-jastrowo],
 chociaż nie był to fragment z którego zapamiętałem coś ciekawego. Zdecydowanie zmęczony
