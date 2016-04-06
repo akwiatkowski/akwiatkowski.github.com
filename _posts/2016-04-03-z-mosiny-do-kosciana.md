@@ -59,6 +59,8 @@ Wcześniej planowałem
 jechać bezpośrednio do [Drużyny][wiki-druzyna], a przez pomyłkę przejechaliśmy
 trochę dalej przez las. Jechaliśmy szlakami pieszymi w okolicy cmentarza wojennego.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161747055' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Dotarliśmy do [Drużyny][wiki-druzyna] a następnie zielonym szlakiem rowerowym
 kierowaliśmy się na południe
 przez [Nowinki][wiki-nowinki]. W rzeczywistości ten szlak był oznaczony czarną farbą.
@@ -77,6 +79,8 @@ chyba nic specjalnie ciekawego nie było.
 Ruszyliśmy dalej na południe przez [Borowo][wiki-borowo]. Tutaj wcześniej planowałem
 jechać czerwonym szlakiem rowerowym ulicą Kolejową. Każdy plan jest taką ogólną ideą i
 jest ona później modyfikowana na bieżąco.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161758002' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 W [Górzycach][wiki-gorzyce] skręciliśmy na zachód i już jechaliśmy czarnym szlakiem
 rowerowym. Po pewnym czasie dołączyliśmy do wcześniej planowanego szlaku i jechaliśmy

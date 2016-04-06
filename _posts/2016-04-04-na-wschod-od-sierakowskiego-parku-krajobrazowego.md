@@ -67,6 +67,8 @@ Z dworca kolejowego ruszyłym na północny-zachód w stronę [Warty][wiki-warta
 niebieskiego szlaku rowerowego. Nie mam pewności, ale jest to chyba
 [Nadwiarciański Szlak Rowerowy][wiki-nadwarcianski].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/161771412' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Minąłem [Stare Miasto][wiki-stare-miasto], bardzo ciekawa nazwa miejscowości,
 która nie jest miastem. Musiałem pokonać lekki podjazd i czekał mnie miły
 zjazd.

@@ -31,6 +31,8 @@ Szczegóły
 Do [Duszników Zdrój][wiki-duszniki] dojechaliśmy autobusem z Wrocławia.
 Wjeżdzaliśmy w trakcie zimy.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/156331426' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 [Zieleniec][wiki-zieleniec] okazał być się naprawdę solidną, jak na polskie warunki, miejscowością
 narciarską. Ogromny wybór tras i wyciągów, jak i odpowiedni chłodny klimat.
 
