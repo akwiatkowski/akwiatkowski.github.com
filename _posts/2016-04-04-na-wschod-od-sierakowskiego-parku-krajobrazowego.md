@@ -36,7 +36,8 @@ time_spent:             5
 [wiki-gnuszyn]:                https://pl.wikipedia.org/wiki/Gnuszyn
 [wiki-zajaczkowo]:             https://pl.wikipedia.org/wiki/Zaj%C4%85czkowo_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-ostrorog]:               https://pl.wikipedia.org/wiki/Ostror%C3%B3g
-
+[wiki-szamotuly]:              https://pl.wikipedia.org/wiki/Szamotu%C5%82y
+[wiki-jastrowo]:               https://pl.wikipedia.org/wiki/Jastrowo
 
 [nsr-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2054857&type=relation&map=13!52.6859!16.2531
 [ssj-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2772128&type=relation&map=10!52.593!16.6072
