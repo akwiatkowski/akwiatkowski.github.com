@@ -327,6 +327,13 @@
   inside:
     - wielkopolskie
 
+- slug: koscian
+  name: Kościan
+  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: kowary
   name: Kowary
   header-ext-img: https://drscdn.500px.org/photo/28671083/m%3D2048/3a1ce45a9282bba8e50b665a2f9b8425
@@ -697,6 +704,13 @@
 - slug: skoki
   name: Skoki
   header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: smigiel
+  name: Śmigiel
+  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
   type: town
   inside:
     - wielkopolskie
