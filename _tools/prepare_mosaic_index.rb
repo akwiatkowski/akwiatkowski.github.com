@@ -1,11 +1,12 @@
 require "json"
 
-x = 6
-y = 6
+x = 9
+y = 12
 max = x*y
 
 width = 2048.0 / 3.0
 height = width * 2.0 / 3.0
+height = height * (y.to_f / x.to_f)
 width_int = width.floor
 height_int = height.floor
 magik_resize = "#{width_int}x#{height_int}^"
@@ -19,8 +20,8 @@ output_html = "_includes/mosaic.html"
 s = File.read("_site/payload.json")
 data = JSON.parse(s)
 
-tmp_path = "_tmp/index"
-resized_path = "_tmp/index/resized"
+tmp_path = "_tools/gallery"
+resized_path = "_tools/gallery/resized"
 
 Dir.mkdir(tmp_path) unless File.exists?(tmp_path)
 Dir.mkdir(resized_path) unless File.exists?(resized_path)
@@ -44,8 +45,8 @@ limited_posts.each_with_index do |post, i|
 
   puts date
 
-  tmp_file = "_tmp/index/#{safe_file_name}.jpg"
-  resized_file = "_tmp/index/resized/#{resized_safe_name}.jpg"
+  tmp_file = "#{tmp_path}/#{safe_file_name}.jpg"
+  resized_file = "#{resized_path}/#{resized_safe_name}.jpg"
   command = "wget -c \"#{image_url}\" -O#{tmp_file}"
   `#{command}` unless File.exists?(tmp_file)
 
