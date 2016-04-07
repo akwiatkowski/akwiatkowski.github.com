@@ -6,7 +6,7 @@ date:                   2016-04-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce"
 categories:             trip
-tags:                   [bicycle, todo_media, main]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, wronki, chrzypsko_wielkie, pniewy, ostrorog, szamotuly]
 
 coords:                 [{"route": [[52.70521,16.38581], [52.70713,16.36954], [52.69725,16.35675], [52.70804,16.31959], [52.71548,16.29208], [52.71358,16.29195], [52.70825,16.25397], [52.69806,16.26466], [52.68786,16.26594], [52.68422,16.24603], [52.66814,16.26504], [52.66999,16.24861], [52.66471,16.22329], [52.65445,16.22689], [52.64091,16.24354], [52.62961,16.24234], [52.62784,16.22947], [52.62468,16.23547], [52.61689,16.23693], [52.60141,16.25268], [52.59026,16.26178], [52.59049,16.30105], [52.58356,16.30010], [52.57891,16.32388], [52.57005,16.33736], [52.57119,16.34740], [52.58043,16.34465], [52.62421,16.42430], [52.62666,16.45263], [52.60769,16.47546], [52.59597,16.52163], [52.59649,16.56103], [52.60608,16.58111], [52.60352,16.58566]], "type": "bicycle"}]
@@ -72,6 +72,14 @@ niebieskiego szlaku rowerowego. Nie mam pewności, ale jest to chyba
 Minąłem [Stare Miasto][wiki-stare-miasto], bardzo ciekawa nazwa miejscowości,
 która nie jest miastem. Musiałem pokonać lekki podjazd i czekał mnie miły
 zjazd.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/148162013/m%3D900/6296f1cbbe31abaa17d7cf7570e70606' alt='Bus station near Warta and Stare Miasto by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/148162013/bus-station-near-warta-and-stare-miasto-by-aleksander-kwiatkowski' alt='Bus station near Warta and Stare Miasto by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Według mapy przez dłuższy czas nie było żadnej miejscowości, ale z tego co
 pamiętam przy drodze były domy. Dopiero po niecałych 5km

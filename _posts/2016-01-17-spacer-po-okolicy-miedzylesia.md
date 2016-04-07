@@ -6,7 +6,7 @@ date:                   2016-01-17 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012"
 categories:             trip
-tags:                   [hike, mountains, todo_media, main]
+tags:                   [hike, mountains, main]
 towns:                  [dolnoslaskie, miedzylesie]
 lands:                  [masyw_snieznika]
 
@@ -72,6 +72,14 @@ ciekawe.
 
 Chmury zalegały całe niebo, było trochę szaro i nudno. Na szczeście śniegu nie było
 tak dużo jak dzień wcześniej na [Śnieżniku][wiki-snieznik].
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/148163223/m%3D900/1354cb114bc983a103561733fe96b3dd' alt='One and a half of tree by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/148163223/one-and-a-half-of-tree-by-aleksander-kwiatkowski' alt='One and a half of tree by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Chwilę później musiałem iść drogą asfaltową. Na papierowej mapie była jakaś dróżka,
 ale na GPS jej nie widziałem. Nie chciałem wylądować u kogoś na terenie prywatnym

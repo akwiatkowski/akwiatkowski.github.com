@@ -87,6 +87,14 @@ rowerowym. Po pewnym czasie dołączyliśmy do wcześniej planowanego szlaku i j
 na południe przez [Witkówki][wiki-witkowki] aż do miejscowości [Racot][wiki-racot],
 przez którą przepływa Racocki Rów. Podobały mi się tory na zachód w tej miejscowości.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/148162379/m%3D900/cf40e1a1136a6d6ea99760e750803ed3' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/148162379/old-railroad-tracks-by-aleksander-kwiatkowski' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Dalej ruszyliśmy do [Gryżyny][wiki-gryzyna], a dalej wokół jeziora [Wonieść][wiki-jezioro-woniesc].
 Bardzo fajny, długi, ale lekki zjazd, oraz jezioro po lewej stronie - to były jedne z ciekawszych
 terenów tego dnia.
