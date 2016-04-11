@@ -15,11 +15,6 @@ permalink: /payload.json
       "month": "{{ post.date | date: "%m" }}",
       "day": "{{ post.date | date: "%d" }}",
       "header-ext-img": "{{ post.header-ext-img }}",
-      "coords-circle": {% if post.coords-circle[0] %}[{{ post.coords-circle[0] }}, {{ post.coords-circle[1] }}]{% else %}null{% endif %},
-      "coords-from": {% if post.coords-from[0] %}[{{ post.coords-from[0] }}, {{ post.coords-from[1] }}]{% else %}null{% endif %},
-      "coords-to": {% if post.coords-to[0] %}[{{ post.coords-to[0] }}, {{ post.coords-to[1] }}]{% else %}null{% endif %},
-      "range": {% if post.range %}{{ post.range }}{% else %}null{% endif %},
-
       "coords": {% if post.coords %}[
         {% for route in post.coords %}
           {

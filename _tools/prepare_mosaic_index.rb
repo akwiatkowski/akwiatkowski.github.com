@@ -1,18 +1,24 @@
 require "json"
 
-x = 9
-y = 12
+posts = 110
+x = 5
+y = 22
+y = (posts.to_f / x.to_f).ceil
 max = x*y
+
+puts "x #{x}, y #{y}"
 
 width = 2048.0 / 3.0
 height = width * 2.0 / 3.0
 height = height * (y.to_f / x.to_f)
 width_int = width.floor
 height_int = height.floor
-magik_resize = "#{width_int}x#{height_int}^"
+magik_resize = "#{width_int}x#{height_int}"
 # http://www.imagemagick.org/Usage/thumbnails/#pad
 
-quality = 30
+puts "width_int #{width_int}, #{height_int}"
+
+quality = 28
 
 output = "img/mosaic.jpg"
 output_html = "_includes/mosaic.html"
@@ -51,6 +57,7 @@ limited_posts.each_with_index do |post, i|
   `#{command}` unless File.exists?(tmp_file)
 
   command = "convert -resize #{magik_resize} \"#{tmp_file}\" \"#{resized_file}\""
+  # puts command
   `#{command}`
 
 end
