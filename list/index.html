@@ -22,7 +22,7 @@ header-ext-img: https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd300
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%Y-%m-%d" }}</p>
+    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}, {{ post.date | date: "%Y-%m-%d" }}</p>
 </div>
 <hr>
 {% endfor %}

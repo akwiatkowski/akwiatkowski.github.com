@@ -5,15 +5,40 @@
 
   text-align: center;
 
-  font-size: 50px;
+  font-size: 48px;
   padding-top: 150px;
+}
+
+.loading-container {
+  text-shadow: 1px 1px #555;
+  color: #fff;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.loading-container h1 {
+  font-size: 48px;
+}
+
+.loading-container a {
+  color: #fff;
+  font-weight: 600;
+}
+.loading-container a:visited {
+  color: #fff;
 }
 
 @media only screen and (min-width: 768px) {
   .slider-title {
-    font-size: 72px;
+    font-size: 68px;
     padding-top: 220px;
   }
+
+  .loading-container h1 {
+    font-size: 68px;
+    padding-top: 50px;
+  }
+
 }
 
 @media only screen and (min-width: 1150px) {
@@ -22,6 +47,13 @@
     line-height: 1.3;
     padding-top: 260px;
   }
+
+  .loading-container h1 {
+    font-size: 82px;
+    padding-top: 60px;
+
+  }
+
 }
 
 .slider-hr {
@@ -48,10 +80,32 @@
 }
 
 .loading-container {
+}
+
+.loading-content {
+  z-index: 2;
+
   position: relative;
   top: 0px;
-  height: 500px;
+  height: 800px;
   width: 100%;
   padding-top: 180px;
   text-align: center;
+}
+
+.loading-container-background {
+  position: fixed;
+  left: 0;
+  right: 0;
+  display: block;
+  background-image: url("/img/back.jpg");
+  width: 100%;
+  height: 100%;
+
+  z-index: -1;
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
 }
