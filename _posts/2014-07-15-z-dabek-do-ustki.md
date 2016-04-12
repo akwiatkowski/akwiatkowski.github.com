@@ -15,8 +15,6 @@ distance:               57
 time_spent:             7
 ---
 
-[day-2]:                /trip/2014/07/13/z-dziwnowka-do-ustroni-morskich/
-
 [wiki-darlowo-zamek]:   https://pl.wikipedia.org/wiki/Zamek_Ksi%C4%85%C5%BC%C4%85t_Pomorskich_w_Dar%C5%82owie
 [wiki-dabki]:           https://pl.wikipedia.org/wiki/D%C4%85bki_(wojew%C3%B3dztwo_zachodniopomorskie)
 [wiki-darlowo]:         https://pl.wikipedia.org/wiki/Dar%C5%82owo
@@ -129,7 +127,7 @@ tymczasowe problemy z czuciem.
 
 Najciekawsze tereny, dla mnie, są trochę dalej od wybrzeża. Jazda samym wybrzeżem
 na ogół nie jest tak atrakcyjna, wyjątkiem był szlak za [Kołobrzegiem][wiki-kolobrzeg]
-dnia [drugiego][day-2]
+dnia [drugiego]({% post_url 2014-07-13-z-dziwnowka-do-sianozet %})
 
 Dodatkowe baterie do kamerki są bardzo przydatne, tak samo jak powerbank. Baterie
 kupiłem dość szybko, powerbank trochę później. Ładowanie sprzętu jest dość utrudnione,
