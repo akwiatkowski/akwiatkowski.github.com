@@ -8,7 +8,7 @@ header-ext-img:         "https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd7
 categories:             trip
 tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, klodzko, miedzylesie]
-lands:                  [masyw_snieznika]
+lands:                  [masyw_snieznika, kotlina_klodzka]
 ---
 
 [wiki-korona]:           https://pl.wikipedia.org/wiki/Korona_G%C3%B3r_Polski

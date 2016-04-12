@@ -2,6 +2,7 @@
 # https://pl.wikipedia.org/wiki/Regionalizacja_fizycznogeograficzna_Polski
 # https://upload.wikimedia.org/wikipedia/commons/7/7c/Physico-Geographical_Regionalization_of_Poland.png
 # http://wgik.dolnyslask.pl/documents/10179/21831/plany+urz-rol2.JPG/3fce5151-1276-4882-aafd-95509e54335b?t=1362648369000?t=1362648369516
+# BEST: https://upload.wikimedia.org/wikipedia/commons/4/4e/Mezoregiony_Kondrackiego.png
 
 # sudety
 - slug: gory_izerskie
@@ -351,6 +352,42 @@
   visited: 2015-07
   train_time_poznan: 3
 
+- slug: drawski_park_krajobrazowy
+  name: Drawski Park Krajobrazy
+  header-ext-img: https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2015-07
+  train_time_poznan: 3
+
+- slug: kotlina_sremska
+  name: Kotlina Śremska
+  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2015-08
+  train_time_poznan: 2
+
+- slug: pojezierze_gnieznienskie
+  name: Pojezierze Gnieźnieńskie
+  header-ext-img: https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2013-08
+  train_time_poznan: 1
+
+- slug: pojezierze_krzywinskie
+  name: Pojezierze Krzywińskie
+  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2016-04
+  train_time_poznan: 1
+
 - slug: pojezierze_poznanskie
   name: Pojezierze Poznańskie
   header-ext-img: https://drscdn.500px.org/photo/106720173/m%3D2048/e461630e194db4b9f03003d144588e37
@@ -377,3 +414,49 @@
   type: lowland
   visited: 2013-08
   train_time_poznan: 1
+
+- slug: rownina_koscianska
+  name: Równina Kościańska
+  header-ext-img: https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2015-08
+  train_time_poznan: 2
+
+- slug: sierakowski_park_krajobrazowy
+  name: Sierakowski Park Krajobrazowy
+  header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
+  main: lowland
+  country: Polska
+  type: lowland
+  visited: 2016-04
+  train_time_poznan: 2
+
+# highlands
+- slug: gop
+  name: Górnośląski Okręg Przemysłowy
+  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2012-07
+  train_time_poznan: 6
+
+- slug: wyzyna_slaska
+  name: Wyżyna Śląska
+  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2012-07
+  train_time_poznan: 6
+
+- slug: kotlina_klodzka
+  name: Kotlina Kłodzka
+  header-ext-img: https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2013-08
+  train_time_poznan: 6
