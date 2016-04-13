@@ -115,5 +115,13 @@ temperatura (niestety bardzo powoli), ale
 jest sie bliżej szczytów, a tam wiatr powinien wiać mocniej. Tego dnia wiatru w dolinach prawie nie było, jednak
 na górze już trochę nas chłodziło.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/43162480/m%3D900/4f60366c482e62a8ba98f70d24466f63' alt='Mountain hut near Śnieżnik by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/43162480/mountain-hut-near-%C5%9Anie%C5%BCnik-by-aleksander-kwiatkowski' alt='Mountain hut near Śnieżnik by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Widoki pojawiły się dopiero w okolicy [schroniska][wiki-schronisko]. Pomimo że to był środek lata, to jakoś
 w schronisku czułem, że są pustki. Trochę mnie to dziwiło.
