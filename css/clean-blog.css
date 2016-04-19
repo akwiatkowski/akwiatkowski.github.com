@@ -7,11 +7,11 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-p a {
+p a, article > li a {
   text-decoration: none;
   border-bottom: 1px black dotted;
 }
-p a:hover {
+p a:hover, article > li a:hover {
   text-decoration: none;
   border-bottom: 1px #0085a1 dotted;
 }
