@@ -6,7 +6,7 @@ date:                   2016-04-15 13:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/149930057/q%3D80_m%3D2000/02947906efa7be5804909a200beb18e3"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [bicycle, todo_media, main]
 towns:                  [wielkopolskie, poznan, kleszczewo, kornik]
 lands:                  [pojezierze_poznanskie]
 

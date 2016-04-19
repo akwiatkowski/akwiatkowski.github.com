@@ -6,7 +6,7 @@ date:                   2016-04-17 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/149930427/q%3D80_m%3D2000/0d02170007537812b905118117788e99"
 categories:             trip
-tags:                   [hike, todo_media]
+tags:                   [hike, todo_media, main]
 towns:                  [wielkopolskie, skoki]
 lands:                  [pojezierze_poznanskie]
 

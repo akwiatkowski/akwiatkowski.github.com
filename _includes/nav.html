@@ -15,13 +15,23 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                {% for page in site.pages %}{% if page.title %}
+              <li>
+                <a href="{{ "/list" | prepend: site.baseurl }}">Lista</a>
+              </li>
+              <li>
+                <a href="{{ "/map" | prepend: site.baseurl }}">Mapa</a>
+              </li>
+              <li>
+                <a href="{{ "/more" | prepend: site.baseurl }}">Więcej</a>
+              </li>
+
+                <!-- {% for page in site.pages %}{% if page.title %}
                   {% if page.ignore_nav == nil %}
                     <li>
                       <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
                   {% endif %}
-                {% endif %}{% endfor %}
+                {% endif %}{% endfor %} -->
 
             </ul>
         </div>
