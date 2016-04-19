@@ -42,7 +42,7 @@ layout: default
         {% for post in site.posts %}
           {% for town_slug in post.towns %}
             {% if town_slug == town.slug %}
-            
+
               <div class="post-preview">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                   <h2 class="post-title">
@@ -55,19 +55,18 @@ layout: default
                   {% endif %}
                 </a>
                 <p class="post-meta">
-                  Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%Y-%m-%d" }}
+                  {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}, {{ post.date | date: "%Y-%m-%d" }}
                 </p>
               </div>
               <hr>
-            
+
             {% endif %}
           {% endfor %}
-        {% endfor %}          
-            
+        {% endfor %}
+
       </div>
     </div>
   </div>
 </article>
 
 <hr>
-
