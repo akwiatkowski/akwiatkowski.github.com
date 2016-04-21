@@ -86,6 +86,14 @@ jednak szybko zboczyliśmy i szliśmy wokół [Małej Wełny][wiki-mala-welna]. 
 chwili wydeptany szlak się skończył i musieliśmy skrócić przez podmokłą polanę.
 Przeszliśmy przez tory i skręciliśmy na południę.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/150272357/m%3D900/8c1e586965884e1a4deb502ddd24cffe' alt='Fish pond near Skoki by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/150272357/fish-pond-near-skoki-by-aleksander-kwiatkowski' alt='Fish pond near Skoki by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Dotarliśmy do [czarnego szlaku rowerowego][wiki-szlak-kosciolow] i szliśmy
 na wschód. Była to druga najładniejsza atrakcja dzisiejszego dnia. Po
 lewej [Mała Wełna][wiki-mala-welna] a po prawej stawy rybne - dużo wody.
