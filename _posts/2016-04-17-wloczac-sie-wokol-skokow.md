@@ -44,12 +44,28 @@ na lewą stronę drogi i za około pół kilometra szliśmy drogą gruntową. Na
 mapie jest to ulica Włókna, a według [wikipedii][wiki-potrzanowo] Włókna to
 folwark częsci [Potrzanowa][wiki-potrzanowo].
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/150271183/m%3D900/851e9ac281c6fdfb72eb6b6b9c30e208' alt='Trail near Sława Wielkopolska by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/150271183/trail-near-s%C5%82awa-wielkopolska-by-aleksander-kwiatkowski' alt='Trail near Sława Wielkopolska by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Po prawej minęliśmy Jezioro Lisówka, a po lewej Jezioro Włókieńskie. Domki
 rekreacyjne są tam chyba przy każdym jeziorze. Ich ilość pokazuje, że
 muszą być to jedne z najciekawszych terenów w okolicy.
 
 Kierowaliśmy się na północ w stronę Starego Potrzanowa, było tam krótkie
 podejście.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/150271317/m%3D900/fd37153b0d3baa6c63f496b69c3410b2' alt='Spring in Potrzanowo by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/150271317/spring-in-potrzanowo-by-aleksander-kwiatkowski' alt='Spring in Potrzanowo by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Co chwilę widzieliśmy tabliczki "teren prywatny". Jakby każdy chciał mieć
 kawałek terenu przy jeziorach bez dostępu innych osób. Powoli opuszczając
