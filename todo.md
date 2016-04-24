@@ -14,7 +14,10 @@ Jednodniowe z Poznania z dojazdem PKP
 
 Odległość rosnąca:
 
+* [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie)
 * [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km
+* [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
+* [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
 * [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
 * [Miały - Słonice](http://umapa.pl/FPynh) - 75km
 * [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km
