@@ -6,7 +6,7 @@ date:                   2016-04-23 16:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, todo_media]
 towns:                  [wielkopolskie, poznan, kornik, zaniemysl, krzykosy]
 lands:                  [pojezierze_poznanskie]
 
@@ -16,10 +16,35 @@ time_spent:             4
 
 ---
 
+[wiki-krzesiny-baza]:      https://pl.wikipedia.org/wiki/31_Baza_Lotnictwa_Taktycznego
+[wiki-gluszynka]:          https://pl.wikipedia.org/wiki/G%C5%82uszynka_(rzeka)
+[wiki-aleja-kaszt]:        https://pl.wikipedia.org/wiki/Aleja_kasztanowc%C3%B3w_Piotrowo_-_Koninko
+[wiki-koninko]:            https://pl.wikipedia.org/wiki/Koninko
+[wiki-kornik]:             https://pl.wikipedia.org/wiki/K%C3%B3rnik
+[wiki-borowiec]:           https://pl.wikipedia.org/wiki/Bor%C3%B3wiec_(powiat_pozna%C5%84ski)
+[wiki-moscienica]:         https://pl.wikipedia.org/wiki/Mo%C5%9Bcienica
+[wiki-arboretum-kornik]:   https://pl.wikipedia.org/wiki/Arboretum_w_K%C3%B3rniku
+[wiki-blazejewko]:         https://pl.wikipedia.org/wiki/B%C5%82a%C5%BCejewko
+[wiki-blazejewo]:          https://pl.wikipedia.org/wiki/B%C5%82a%C5%BCejewo_(wie%C5%9B_w_powiecie_pozna%C5%84skim)
+[wiki-doliwiec-lesny]:     https://pl.wikipedia.org/wiki/Doliwiec_Le%C5%9Bny
+[wiki-kolej-sredzka]:      https://pl.wikipedia.org/wiki/%C5%9Aredzka_Kolej_Powiatowa
+[wiki-majdany]:            https://pl.wikipedia.org/wiki/Majdany_(powiat_%C5%9Bredzki)
+[wiki-kepa-wielka]:        https://pl.wikipedia.org/wiki/K%C4%99pa_Wielka
+[wiki-potachy]:            https://pl.wikipedia.org/wiki/Potachy
+[wiki-mlodzikowice]:       https://pl.wikipedia.org/wiki/M%C5%82odzikowice
+[wiki-solec]:              https://pl.wikipedia.org/wiki/Solec_Wielkopolski
+[wiki-bnin]:               https://pl.wikipedia.org/wiki/Bnin_(K%C3%B3rnik)
+[wiki-zaniemysl]:          https://pl.wikipedia.org/wiki/Zaniemy%C5%9Bl
+[wiki-warta]:              https://pl.wikipedia.org/wiki/Warta
+
+[mpk-58]:                  http://www.mpk.poznan.pl/component/transport/58/
 
 Wstęp
 -----
 
+Umówiłem się z kolegą na sobotę aby pojeździć. Preferował on południowe-wschodnie
+tereny Poznania, gdyż tam mieszka. Wybraliśmy kierunek - [Kórnik][wiki-kornik], a
+reszta była uzależniona od pogody.
 
 Opis trasy
 ----------
@@ -28,3 +53,72 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Moją trasę rozpocząłem na skrzyżowaniu ulic Głogowska/Hetmańska w Poznaniu.
+Jechałem na wschód na Rondo Starołęka, gdzie dołączyłem do Marcina i jechaliśmy
+dalej.
+
+Jechaliśmy czerwonym szlakiem rowerowym obok [lotniska w Krzesinach][wiki-krzesiny-baza],
+za którym skręciliśmy na wschód ulicą Głuszyna. Nazwa pochodzi od płynącej równolegle
+[rzeki Głuszynki][wiki-gluszynka]. Tą drogą dojechaliśmy do pętli końcowej
+linii autobusowej [58][mpk-58].
+
+Tam znajduje się [Aleja kasztanowców][wiki-aleja-kaszt], wzdłuż której jechaliśmy
+dalej do osady [Koninko][wiki-koninko]. Najładniejsza część to początek, gdyż droga jest
+znacząco niżej położona niż drzewa wokół niej. Następnie kierowaliśmy się do
+[Borówca][wiki-borowiec].
+
+Ogólnie oceniając trasę to cały czas jechaliśmy przez takie normalne, spokojne wioski.
+Nie było tam nic nadzwyczajnego, jednak było ładnie i spokojnie, więc to
+chyba dobrze.
+
+Podczas wyjazdu z [Borówca][wiki-borowiec] Marcin miał solidną przygodę z
+pszczółą/osą. Wleciała mu pod kask i użądliła w tył głowy. Podjechaliśmy do sklepu,
+gdzie odczekaliśmy trochę i Marcin wybrał drogę powrotną, a ja sam kontynuowałem
+trasę dalej.
+
+Ruszyłym dalej do [Mościenicy][wiki-moscienica] czerwonym szlakiem rowerowym.
+Kojarzyłem te tereny, kilka lat temu byłem nad tamtejszym jeziorem.
+
+Szlak był normalna drogą gruntową przez las, ale centrum
+[Mościenicy][wiki-moscienica] było znacznie ciekawsze gdyż jest to miejscowość rekreacyjna.
+Jest ona położona na uboczu, z jednej strony las, z drugiej jezioro.
+
+Wyjeżdzając na drogę asfaltową po prawej minąłem ładnie kwitnąsy sad.
+
+Chwilę przejechałem przez drogą dojazdową do [Kórnika][wiki-kornik].
+Tym razem jechałem po zachodniej stronie od jeziora i nie przejeżdzałem przez miasto.
+
+
+
+Szlak rowerowy przechodzi obok [ogrodu dendrologicznego - arboretum][wiki-arboretum-kornik].
+Jadąc nie miałem czasu zwrócić na to miejsce uwagi, a według wikipedii jest to
+najstarszy ogród dendrologiczny w Polsce, w którym jest 3000 gatunków drzew i krzewów.
+
+Jechałem dalej na południe przez [Bnin][wiki-bnin], a później przejeżdzałem przez
+[Błażejewo][wiki-blazejewo]. Zaciekawił mnie przystanek (pętla) autobusowy
+w [Błażejewku][wiki-blazejewko] obok ośrodka wypoczynkowego o tej samej nazwie.
+
+Tereny te były jest spokojniejsze i dziksze, niż podczas wyjazdu z Poznania.
+Wydaję się że "dzikość" cały czas się zwiększała.
+
+Dojeżdzając do [Zaniemyśla][wiki-zaniemysl] jechałem już przez las. W okolicy
+[Doliwca Leśnego][wiki-doliwiec-lesny] widziałem bardzo duży dąb - Dziadziuś.
+Jego obwód wynosi ponad 8 metrów i jest to szóste najgrubsze drzewo w Polsce
+(według Lasów Państwowych).
+
+W [Zaniemyślu][wiki-zaniemysl] przejechałem obok stacji [Średzkiej Kolei Powiatowej][wiki-kolej-sredzka],
+która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
+
+Przejechałem przez miasto, w którym ruch był minimalny. Kierowałem się do
+osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warty].
+
+Przejechałem przez [Kępę Wielką][wiki-kepa-wielka], [Potachy][wiki-potachy] i
+[Młodzikowice][wiki-mlodzikowice]. Wszystkie te miejscowości to są naprawdę dzikie
+wioski (jak na Wielkopolskę). Jest tam tylko jedna droga szutrowa i chyba nie ma
+żadnego sklepu, tylko gospodarstwa rolne, a każde jest oddalone od siebie. Zastanawiam się,
+jak te tereny będą wyglądały przed żniwami.
+
+Zostało mi około 40 minut do odjazdu pociągu z [Solca Wielkopolskiego][wiki-solec].
+Pospieszyłem się
+i zdążyłem 15 minut przed czasem.

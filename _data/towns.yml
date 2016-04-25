@@ -271,6 +271,13 @@
   inside:
     - dolnoslaskie
 
+- slug: jarocin
+  name: Jarocin
+  header-ext-img: https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: jelenia_gora
   name: Jelenia Góra
   header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
@@ -362,6 +369,13 @@
   inside:
     - malopolskie
 
+- slug: krzykosy
+  name: Krzykosy
+  header-ext-img: "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: kudowa_zdroj
   name: Kudowa Zdrój
   header-ext-img: https://drscdn.500px.org/photo/50459912/m%3D2048/750b58d4934278a4818697c526d28c90
@@ -446,6 +460,13 @@
   inside:
     - dolnoslaskie
 
+- slug: miloslaw
+  name: Miłosław
+  header-ext-img: https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: miroslawiec
   name: Mirosławiec
   header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
@@ -508,6 +529,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: nowe_miasto_nad_warta
+  name: Nowe Miasto nad Wartą
+  header-ext-img: https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: nowy_sacz
   name: Nowy Sącz
@@ -925,6 +953,13 @@
   inside:
     - malopolskie
 
+- slug: zaniemysl
+  name: Zaniemyśl
+  header-ext-img: "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: zbaszyn
   name: Zbąszyń
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -938,6 +973,13 @@
   type: town
   inside:
     - zachodnio_pomorskie
+
+- slug: zerkow
+  name: Żerków
+  header-ext-img: https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: zmigrod
   name: Żmigród

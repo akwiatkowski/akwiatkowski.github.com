@@ -2,7 +2,7 @@
 layout:                 post
 title:                  "Walka z wiatrem w okolicy Jarocina"
 subtitle:               "sporo jezior, stawów, wody i domków rekreacyjnych obok nich"
-date:                   2016-04-23 16:00:00
+date:                   2016-04-24 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"
 categories:             trip
@@ -17,8 +17,10 @@ time_spent:             4
 ---
 
 
+
 Wstęp
 -----
+
 
 
 Opis trasy
