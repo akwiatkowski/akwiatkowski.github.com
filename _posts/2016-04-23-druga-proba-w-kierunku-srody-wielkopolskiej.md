@@ -6,7 +6,7 @@ date:                   2016-04-23 16:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [bicycle, todo_media, main]
 towns:                  [wielkopolskie, poznan, kornik, zaniemysl, krzykosy]
 lands:                  [pojezierze_poznanskie]
 
@@ -68,6 +68,8 @@ dalej do osady [Koninko][wiki-koninko]. Najładniejsza część to początek, gd
 znacząco niżej położona niż drzewa wokół niej. Następnie kierowaliśmy się do
 [Borówca][wiki-borowiec].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/164115943' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Ogólnie oceniając trasę to cały czas jechaliśmy przez takie normalne, spokojne wioski.
 Nie było tam nic nadzwyczajnego, jednak było ładnie i spokojnie, więc to
 chyba dobrze.
@@ -99,6 +101,8 @@ w [Błażejewku][wiki-blazejewko] obok ośrodka wypoczynkowego o tej samej nazwi
 
 Tereny te były jest spokojniejsze i dziksze, niż podczas wyjazdu z Poznania.
 Wydaję się że "dzikość" cały czas się zwiększała.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/164115956' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Dojeżdzając do [Zaniemyśla][wiki-zaniemysl] jechałem już przez las. W okolicy
 [Doliwca Leśnego][wiki-doliwiec-lesny] widziałem bardzo duży dąb - Dziadziuś.

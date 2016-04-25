@@ -64,6 +64,8 @@ Jechało mi się całkiem przyjemnie - dość łatwo osiągałem prędkość pra
 Było zdecydowanie chłodniej niż wczoraj, jednak częściej pojawiało się słońce i dlatego
 momentami było tylko chłodniej niż wczoraj, momentami.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/164115986' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Przejechałem przez [Krzykosy][wiki-krzykosy]. Tak samo jak wczoraj mijałem spokojne
 wioski. Ruch jakby był jeszcze mniejszy. Pewnie wszyscy siedzą w domach bo jest chłodno.
 Nie wiedziałem w tym momencie, że później sam będę sobie takie pytanie zadawał -
@@ -105,13 +107,15 @@ Okazało się, że tam gdzie chciałem przedostać się przez [Wartę][wiki-wart
 znowu nie ma mostu. Na szczęście był działający prom.
 
 Bardzo podobały mi się tereny wokół [Lutynii][wiki-lutynia] - pusta droga,
-pola i spokój. Mógłbym dorzucić pagórki na horyzoncie do tego.
+pola i spokój. Mógłbym dorzucić pagórki na horyzoncie do tego. Z jednej strony
+raczej dzikie tereny, ale jednocześnie pewnego rodzaju porządek.
 
 Wyjeżdzając z tej wioski rozpoczął się lekki podjazd - tylko 30 metrów przez niecały kilometr.
 Ogólnie tereny na północ od [Żerkowa][wiki-zerkow] są trochę pofalowane.
 
 W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bardzo
-ładna i spokojna wioska. Gdy specjalnie o tym piszę, to oznacza że jest wyjątkowo spokojna.
+ładna i spokojna wioska. Gdy specjalnie o tym piszę że jest spokojna, to
+oznacza że jest wyjątkowo spokojna.
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę wioski [Chrzan][wiki-chrzan].
