@@ -16,12 +16,35 @@ time_spent:             4
 
 ---
 
-
+[wiki-choszczno]:        https://pl.wikipedia.org/wiki/Choszczno
+[wiki-jarocin]:          https://pl.wikipedia.org/wiki/Jarocin
+[wiki-krzykosy]:         https://pl.wikipedia.org/wiki/Krzykosy_(powiat_%C5%9Bredzki)
+[wiki-witowo]:           https://pl.wikipedia.org/wiki/Witowo_(powiat_%C5%9Bredzki)
+[wiki-pieczkowo]:        https://pl.wikipedia.org/wiki/Pi%C4%99czkowo
+[wiki-orzechowo]:        https://pl.wikipedia.org/wiki/Orzechowo
+[wiki-warta]:            https://pl.wikipedia.org/wiki/Warta
+[wiki-czeszewo]:         https://pl.wikipedia.org/wiki/Czeszewo_(powiat_wrzesi%C5%84ski)
+[wiki-szczodrzejewo]:    https://pl.wikipedia.org/wiki/Szczodrzejewo
+[wiki-pogorzelica]:      https://pl.wikipedia.org/wiki/Pogorzelica_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-chocicza]:         https://pl.wikipedia.org/wiki/Chocicza_(gmina_Nowe_Miasto_nad_Wart%C4%85)
+[wiki-lutynia]:          https://pl.wikipedia.org/wiki/Lutynia_(gmina_Nowe_Miasto_nad_Wart%C4%85)
+[wiki-zerkow]:           https://pl.wikipedia.org/wiki/%C5%BBerk%C3%B3w
+[wiki-biezdziadow]:      https://pl.wikipedia.org/wiki/Bie%C5%BAdziad%C3%B3w
+[wiki-chrzan]:           https://pl.wikipedia.org/wiki/Chrzan_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-katy]:             https://pl.wikipedia.org/wiki/K%C4%85ty_(powiat_jaroci%C5%84ski)
+[wiki-wilkowyja]:        https://pl.wikipedia.org/wiki/Wilkowyja_(powiat_jaroci%C5%84ski)
+[wiki-solec]:              https://pl.wikipedia.org/wiki/Solec_Wielkopolski
 
 Wstęp
 -----
 
+Tego dnia planowałem pojechać do [Choszczna][wiki-choszczno]. Miałem wszystko zaplanowane, tylko
+trzeba się obudzić wcześnie i mieć dobrą pogodę. Pogoda niestety była daleka od idealnej - chłodno
+i wiał dość silny wiatr.
 
+Planów mam dużo, tak i jednym z nich jest dojazd rowerem do [Jarocina][wiki-jarocin]. W związku z tym,
+że dojazd w te rejony pociągiem jest dość łatwy i szybki, postanowiłem wybrać kontynuowanie terenów
+na południowy-wschód od Poznania.
 
 Opis trasy
 ----------
@@ -30,3 +53,72 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Wyruszyłem pociągiem chwilę przed 11-tą kierując się do tego samego przystanku, gdzie
+[wczoraj]({{ post_url 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej }})
+skończyłem swoją trasę - do [Solca Wielkopolskiego][wiki-solec].
+Po ponad 30 minutach wysiadłem z pociągu i kierowałem się
+na wschód.
+
+Jechało mi się całkiem przyjemnie - dość łatwo osiągałem prędkość prawie 30km/h.
+Było zdecydowanie chłodniej niż wczoraj, jednak częściej pojawiało się słońce i dlatego
+momentami było tylko chłodniej niż wczoraj, momentami.
+
+Przejechałem przez [Krzykosy][wiki-krzykosy]. Tak samo jak wczoraj mijałem spokojne
+wioski. Ruch jakby był jeszcze mniejszy. Pewnie wszyscy siedzą w domach bo jest chłodno.
+Nie wiedziałem w tym momencie, że później sam będę sobie takie pytanie zadawał -
+po co wychodziłem z domu.
+
+Minąłem drogę 11 i jechałem dalej przez [Witowo][wiki-witowo] i [Pięczkowo][wiki-pieczkowo],
+a następnie [Orzechowo][wiki-orzechowo]. Jak już pisałem - spokojna niedziela i spokojne wioski
+(lub miasteczka).
+
+Za [Orzechowem][wiki-orzechowo] szlak rowerowy przebiegał w okolicy [Warty][wiki-warta].
+Tereny były bardzo ładne, a gdy pojawiało się słońce to tym bardziej. W tym momencie
+cieszyłem się, że jednak wyszedłem z domu. Okolice [Warty][wiki-warta] były jednym
+z najładniejszych widoków tego dnia.
+
+Jechałem cały czas na wschód szlakiem przez [Czeszewo][wiki-czeszewo],
+[Szczodrzejewo][wiki-szczodrzejewo] i chciałem dojechać do [Pogorzelicy][wiki-pogorzelica].
+Zjeżdzam sobie do [Warty][wiki-warta] i widzę, że nie ma mostu. Widzę coś na brzegu
+i po chwili zaczynam rozumieć - nie ma przejazdu. Przejechałem 8km po to, aby dowiedzieć się,
+że prom kursuje dopiero od czerwca.
+
+Wracam. W tym momencie zrozumiałem dlaczego tak łatwo mi się jechało na wschód.
+Przez te 8km zacząłem zastanawiać się, gdzie tu jest najbliższy dworzec kolejowy.
+W [Orzechowie][wiki-orzechowo] jest, ale pociągi pasażerskie tam nie jeźdzą. Myśle o
+[Chociczy][wiki-chocicza], ale tam musiałbym jechać pod wiatr daleko. Mówię sobie,
+że przejadę przez [Wartę][wiki-warta] za [Orzechowem][wiki-orzechowo] i wtedy
+przeanalizuję możliwości.
+
+Kolejną osłodą trudu tego dnia był szlak wokół [Orzechowa][wiki-orzechowo], gdzie
+można było jechać rowerem po wale przeciwpowodziowym. Warta i tereny wokół
+bardzo fajnie widać z tego miejsca.
+
+Po drodzę musiałem zejść niżej, aby przedostać się pod mostem kolejowym.
+Zauważyłem że ma on w miarę świeży nasyp, ale dlaczego pociągi pasażerskie tam
+nie jeżdzą? A może nic tam nie jeździ? Później jednak widziałem jeden pociąg
+towarowy, więc chyba coś tu jednak jeździ. Tylko dlaczego nie ma pociągów
+pasażerskich?
+
+Okazało się, że tam gdzie chciałem przedostać się przez [Wartę][wiki-warta]
+znowu nie ma mostu. Na szczęście był działający prom.
+
+Bardzo podobały mi się tereny wokół [Lutynii][wiki-lutynia] - pusta droga,
+pola i spokój. Mógłbym dorzucić pagórki na horyzoncie do tego.
+
+Wyjeżdzając z tej wioski rozpoczął się lekki podjazd - tylko 30 metrów przez niecały kilometr.
+Ogólnie tereny na północ od [Żerkowa][wiki-zerkow] są trochę pofalowane.
+
+W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bardzo
+ładna i spokojna wioska. Gdy specjalnie o tym piszę, to oznacza że jest wyjątkowo spokojna.
+
+Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
+w stronę wioski [Chrzan][wiki-chrzan].
+
+Od tego momentu już bardziej spieszyłem się na pociąg, gdyż zauważyłem, że mogę zdąrzyć na
+wcześniejszy. Pół godziny różnicy, a byłem zmęczony dzisiejszym wiatrem i chłodem.
+Zawsze się jakieś wymówki pojawiają i czasami one są dobre.
+
+Kierowałem się do [Jarocina][wiki-jarocin] przez [Kąty][wiki-katy] i
+[Wilkowyje][wiki-wilkowyja].

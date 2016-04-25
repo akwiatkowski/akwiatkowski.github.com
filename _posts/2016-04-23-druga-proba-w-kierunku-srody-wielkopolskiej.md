@@ -89,8 +89,6 @@ Wyjeżdzając na drogę asfaltową po prawej minąłem ładnie kwitnąsy sad.
 Chwilę przejechałem przez drogą dojazdową do [Kórnika][wiki-kornik].
 Tym razem jechałem po zachodniej stronie od jeziora i nie przejeżdzałem przez miasto.
 
-
-
 Szlak rowerowy przechodzi obok [ogrodu dendrologicznego - arboretum][wiki-arboretum-kornik].
 Jadąc nie miałem czasu zwrócić na to miejsce uwagi, a według wikipedii jest to
 najstarszy ogród dendrologiczny w Polsce, w którym jest 3000 gatunków drzew i krzewów.
@@ -111,7 +109,7 @@ W [Zaniemyślu][wiki-zaniemysl] przejechałem obok stacji [Średzkiej Kolei Powi
 która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
 
 Przejechałem przez miasto, w którym ruch był minimalny. Kierowałem się do
-osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warty].
+osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warta].
 
 Przejechałem przez [Kępę Wielką][wiki-kepa-wielka], [Potachy][wiki-potachy] i
 [Młodzikowice][wiki-mlodzikowice]. Wszystkie te miejscowości to są naprawdę dzikie
