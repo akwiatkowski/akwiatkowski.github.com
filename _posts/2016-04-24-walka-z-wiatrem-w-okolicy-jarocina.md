@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Walka z wiatrem w okolicy Jarocina"
-subtitle:               "sporo jezior, stawów, wody i domków rekreacyjnych obok nich"
+subtitle:               "przez Wartę, wokół Żerkowa"
 date:                   2016-04-24 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"

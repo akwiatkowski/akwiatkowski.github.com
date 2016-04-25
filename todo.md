@@ -16,6 +16,8 @@ Odległość rosnąca:
 
 * [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie)
 * [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km
+* [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km
+* [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
 * [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
 * [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
@@ -26,6 +28,7 @@ Odległość rosnąca:
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km
 * [Wronki - Zbąszyń](http://umapa.pl/pnhVh) - 90km
+* [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km
 * [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km
 * [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić
 
