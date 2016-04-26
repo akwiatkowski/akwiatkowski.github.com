@@ -6,7 +6,7 @@ date:                   2016-04-24 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, todo_media, main]
 towns:                  [wielkopolskie, krzykosy, miloslaw, nowe_miasto_nad_warta, zerkow, jarocin]
 lands:                  [pojezierze_poznanskie]
 
@@ -33,7 +33,9 @@ time_spent:             4
 [wiki-chrzan]:           https://pl.wikipedia.org/wiki/Chrzan_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-katy]:             https://pl.wikipedia.org/wiki/K%C4%85ty_(powiat_jaroci%C5%84ski)
 [wiki-wilkowyja]:        https://pl.wikipedia.org/wiki/Wilkowyja_(powiat_jaroci%C5%84ski)
-[wiki-solec]:              https://pl.wikipedia.org/wiki/Solec_Wielkopolski
+[wiki-solec]:            https://pl.wikipedia.org/wiki/Solec_Wielkopolski
+[wiki-ruiny-radlin]:     https://pl.wikipedia.org/wiki/Ruiny_pa%C5%82acu_Opali%C5%84skich_w_Radlinie
+[wiki-stegosz]:          https://pl.wikipedia.org/wiki/St%C4%99gosz
 
 Wstęp
 -----
@@ -110,15 +112,25 @@ Bardzo podobały mi się tereny wokół [Lutynii][wiki-lutynia] - pusta droga,
 pola i spokój. Mógłbym dorzucić pagórki na horyzoncie do tego. Z jednej strony
 raczej dzikie tereny, ale jednocześnie pewnego rodzaju porządek.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/164151503' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Wyjeżdzając z tej wioski rozpoczął się lekki podjazd - tylko 30 metrów przez niecały kilometr.
 Ogólnie tereny na północ od [Żerkowa][wiki-zerkow] są trochę pofalowane.
 
 W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bardzo
 ładna i spokojna wioska. Gdy specjalnie o tym piszę że jest spokojna, to
-oznacza że jest wyjątkowo spokojna.
+oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
+soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
-w stronę wioski [Chrzan][wiki-chrzan].
+w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą
+Żerkowską - możliwy jest tam znacznie większy ruch samochodowy.
+
+Jadąc przez [Chrzan][wiki-chrzan] i [Stęgosz][wiki-stegosz] również mijałem
+spokojne wioski, jednak nie były aż tak urokliwe jak wcześniej wspomniany
+[Bieździadów][wiki-biezdziadow].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/164216565' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Od tego momentu już bardziej spieszyłem się na pociąg, gdyż zauważyłem, że mogę zdąrzyć na
 wcześniejszy. Pół godziny różnicy, a byłem zmęczony dzisiejszym wiatrem i chłodem.
@@ -126,3 +138,11 @@ Zawsze się jakieś wymówki pojawiają i czasami one są dobre.
 
 Kierowałem się do [Jarocina][wiki-jarocin] przez [Kąty][wiki-katy] i
 [Wilkowyje][wiki-wilkowyja].
+
+W [Kątach][wiki-katy] przed skrętem w lewo widziałem jakieś ruiny obok cmentarza.
+Doszukując się szczegółów na wikipedii odkryłem że są to
+[Ruiny pałacu Opalińskich w Radlinie][wiki-ruiny-radlin]. Kolejny dowód, że
+w każdym miejscu można znaleźć coś ciekawego.
+
+Uczucie cywilizacji zaczęło pojawiać się dopiero za miejscowością
+[Wilkowyje][wiki-wilkowyje].
