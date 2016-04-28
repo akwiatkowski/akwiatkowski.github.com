@@ -36,6 +36,7 @@ time_spent:             4
 [wiki-solec]:            https://pl.wikipedia.org/wiki/Solec_Wielkopolski
 [wiki-ruiny-radlin]:     https://pl.wikipedia.org/wiki/Ruiny_pa%C5%82acu_Opali%C5%84skich_w_Radlinie
 [wiki-stegosz]:          https://pl.wikipedia.org/wiki/St%C4%99gosz
+[wiki-annapol]:          https://pl.wikipedia.org/wiki/Annapol_(powiat_jaroci%C5%84ski)
 
 Wstęp
 -----
@@ -81,6 +82,14 @@ Za [Orzechowem][wiki-orzechowo] szlak rowerowy przebiegał w okolicy [Warty][wik
 Tereny były bardzo ładne, a gdy pojawiało się słońce to tym bardziej. W tym momencie
 cieszyłem się, że jednak wyszedłem z domu. Okolice [Warty][wiki-warta] były jednym
 z najładniejszych widoków tego dnia.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/151132991/m%3D900/f4b6a210e1cf96d1341f8665efcb6ee8' alt='Spring near Czeszewo by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/151132991/spring-near-czeszewo-by-aleksander-kwiatkowski' alt='Spring near Czeszewo by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Jechałem cały czas na wschód szlakiem przez [Czeszewo][wiki-czeszewo],
 [Szczodrzejewo][wiki-szczodrzejewo] i chciałem dojechać do [Pogorzelicy][wiki-pogorzelica].
@@ -146,3 +155,11 @@ w każdym miejscu można znaleźć coś ciekawego.
 
 Uczucie cywilizacji zaczęło pojawiać się dopiero za miejscowością
 [Wilkowyje][wiki-wilkowyja].
+
+Jechałem dalej przez [Annapol][wiki-annapol]. Tak już było czuć, że to jest miasto.
+Podczas wjazdu do [Jarocina][wiki-jarocin] widziałem jakby budowali albo remontowali
+coś dużego, przez co zamiast drogi musiałem jechać po płytach betonowych.
+
+Przejechałem obok parku, obok którego przechodzi się na festiwal, następnie przez
+rynek. Musiałem rower wnieść po schodach i przejść przez "tunel w powietrzu"
+aby dostać się na stację kolejową.
