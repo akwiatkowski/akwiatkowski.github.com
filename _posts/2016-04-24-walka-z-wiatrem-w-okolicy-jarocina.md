@@ -145,4 +145,4 @@ Doszukując się szczegółów na wikipedii odkryłem że są to
 w każdym miejscu można znaleźć coś ciekawego.
 
 Uczucie cywilizacji zaczęło pojawiać się dopiero za miejscowością
-[Wilkowyje][wiki-wilkowyje].
+[Wilkowyje][wiki-wilkowyja].
