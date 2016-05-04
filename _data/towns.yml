@@ -138,6 +138,13 @@
   inside:
     - wielkopolskie
 
+- slug: cieplowody
+  name: Ciepłowody
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: czaplinek
   name: Czaplinek
   header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
@@ -326,6 +333,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: klodzko
+  name: Kłodzko
+  header-ext-img: https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: kolobrzeg
   name: Kołobrzeg
@@ -778,6 +792,13 @@
   inside:
     - malopolskie
 
+- slug: stoszowice
+  name: Stoszowice
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: stronie_slaskie
   name: Stronie Śląskie
   header-ext-img: https://drscdn.500px.org/photo/43162480/m%3D2048/4014ec8df8f5f14edf6decfd7debb345
@@ -946,6 +967,13 @@
   inside:
     - wielkopolskie
 
+- slug: zabkowice_slaskie
+  name: Ząbkowice Śląskie
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: zakopane
   name: Zakopane
   header-ext-img: "https://drscdn.500px.org/photo/28834387/m%3D2048/3e3608be6f00568f8573381240916563"
@@ -966,6 +994,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: ziebice
+  name: Ziębice
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: zlocieniec
   name: Złocieniec
