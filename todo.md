@@ -61,6 +61,7 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * [Leszno - Jelenia Góra](http://umapa.pl/8zUGU) - 149km, 2 dni, sensowniejsza wersja dojazdu
 * [Rębusz - Świnoujście](http://umapa.pl/4A8H5) - 159km, 2 dni, skrócona wersja dojazdu do Świnoujścia
 * [Szczecin - Kostrzyn](http://umapa.pl/Zptz7) - 166km, 2 dni, nocleg okolice Bielinka
+* [Gliwice - Henryków](http://umapa.pl/Hih4s) - 184km, 2 dni, nocleg w okolicy Racławic Śląskich
 * [Kościan - Jelenia Góra](http://umapa.pl/w8QOM) - 188km, 2 dni, odwrócić najlepiej
 * [Dobiegniew - Świnoujście](http://umapa.pl/kJsS6) - 190km, mocne 2 dni
 * [Mosina - Jelenia Góra](http://umapa.pl/yJzD9) - 205km, 2-3 dni, lepiej zacząć z Leszna

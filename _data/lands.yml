@@ -460,3 +460,48 @@
   type: highland
   visited: 2013-08
   train_time_poznan: 6
+
+- slug: obnizenie_otmuchowskie
+  name: Obniżenie Otmuchowskie
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2016-05
+  train_time_poznan: 5
+
+- slug: wzgorza_niemczansko_strzelinskie
+  name: Wzgórza Niemczańsko-Strzelińskie
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2016-05
+  train_time_poznan: 4
+
+- slug: obnizenie_scinawki
+  name: Obniżenie Ścinawki
+  header-ext-img: https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2016-05
+  train_time_poznan: 6
+
+- slug: obnizenie_nowej_rudy
+  name: Obnizenie Nowej Rudy
+  header-ext-img: https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2016-05
+  train_time_poznan: 6
+
+- slug: pogorze_orlickie
+  name: Pogorze Orlickie
+  header-ext-img: https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec
+  main: highland
+  country: Polska
+  type: highland
+  visited: 2016-05
+  train_time_poznan: 6
