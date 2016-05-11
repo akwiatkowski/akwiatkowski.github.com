@@ -2,7 +2,7 @@
 layout: post
 title: "Plany"
 subtitle: "coś, czego jest zawsze za dużo"
-permalink: /todos/
+permalink: /todo/
 header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9
 ---
 
@@ -16,9 +16,13 @@ Odległość rosnąca:
 
 * [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie)
 * [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km
+* [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km
+* [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km
 * [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
+* [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km
+* [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km
 * [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
 * [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
 * [Miały - Słonice](http://umapa.pl/FPynh) - 75km

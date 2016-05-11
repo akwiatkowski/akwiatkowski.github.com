@@ -236,6 +236,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: drezdenko
+  name: Drezdenko
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+  type: town
+  inside:
+    - lubuskie
+
 - slug: duszniki_zdroj
   name: Duszniki Zdrój
   header-ext-img: https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b
@@ -386,6 +393,13 @@
 - slug: krzykosy
   name: Krzykosy
   header-ext-img: "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: krzyz
+  name: Krzyż
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
   type: town
   inside:
     - wielkopolskie
@@ -757,6 +771,13 @@
   inside:
     - malopolskie
 
+- slug: santok
+  name: Santok
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+  type: town
+  inside:
+    - lubuskie
+
 - slug: sianow
   name: Sianów
   header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
@@ -785,6 +806,13 @@
   inside:
     - dolnoslaskie
 
+- slug: stare_kurowo
+  name: Stare Kurowo
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+  type: town
+  inside:
+    - lubuskie
+
 - slug: stary_sacz
   name: Stary Sącz
   header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
@@ -812,6 +840,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: strzelce_krajenskie
+  name: Strzelce Krajeńskie
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+  type: town
+  inside:
+    - lubuskie
 
 - slug: strzelno
   name: Strzelno
@@ -1008,6 +1043,13 @@
   type: town
   inside:
     - zachodnio_pomorskie
+
+- slug: zwierzyn
+  name: Zwierzyń
+  header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+  type: town
+  inside:
+    - lubuskie
 
 - slug: zerkow
   name: Żerków

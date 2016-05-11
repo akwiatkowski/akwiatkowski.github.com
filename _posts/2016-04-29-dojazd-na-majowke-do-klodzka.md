@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Dojazd na majówkę do Kłodzka"
-subtitle:               "wiosna i góry"
+subtitle:               "niespodziewanie dobra pogoda, lekkie górki i sudecki klimat"
 date:                   2016-04-29 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152227501/q%3D80_m%3D2000/e5818de7f8598a7adc53d04222d20740"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [bicycle, panniers, todo_media]
 towns:                  [dolnoslaskie, klodzko]
 lands:                  [kotlina_klodzka]
 
