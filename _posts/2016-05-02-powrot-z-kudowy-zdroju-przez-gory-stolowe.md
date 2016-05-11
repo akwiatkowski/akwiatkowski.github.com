@@ -6,7 +6,7 @@ date:                   2016-05-02 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip
-tags:                   [bicycle, mountains, todo]
+tags:                   [bicycle, mountains, todo_media]
 towns:                  [dolnoslaskie, kudowa_zdroj, szczytna, radkow]
 lands:                  [pogorze_orlickie, gory_stolowe, obnizenie_scinawki, kotlina_klodzka]
 
@@ -16,7 +16,23 @@ time_spent:             7
 
 ---
 
-[wiki-droga-387]:       https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_387
+[wiki-droga-387]:             https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_387
+[wiki-kregielny-trakt]:       https://pl.wikipedia.org/wiki/Kr%C4%99gielny_Trakt
+[wiki-kudowa-zdroj]:          https://pl.wikipedia.org/wiki/Kudowa-Zdr%C3%B3j
+[wiki-szalejow-dolny]:        https://pl.wikipedia.org/wiki/Szalej%C3%B3w_Dolny
+[wiki-klodzko-zagorze]:       https://pl.wikipedia.org/wiki/K%C5%82odzko_Zag%C3%B3rze
+[wiki-lewin-klodzki]:         https://pl.wikipedia.org/wiki/Lewin_K%C5%82odzki
+[wiki-nowa-ruda]:             https://pl.wikipedia.org/wiki/Nowa_Ruda
+[wiki-bledne-skaly]:          https://pl.wikipedia.org/wiki/B%C5%82%C4%99dne_Ska%C5%82y
+[wiki-gory-stolowe]:          https://pl.wikipedia.org/wiki/G%C3%B3ry_Sto%C5%82owe
+[wiki-karlow]:                https://pl.wikipedia.org/wiki/Kar%C5%82%C3%B3w
+[wiki-szczeliniec-wielki]:    https://pl.wikipedia.org/wiki/Szczeliniec_Wielki
+[wiki-schronisko-pasterka]:   https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9EPasterka%E2%80%9D
+[wiki-pasterka]:              https://pl.wikipedia.org/wiki/Pasterka_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-batorow]:               https://pl.wikipedia.org/wiki/Bator%C3%B3w
+[wiki-chocieszow]:            https://pl.wikipedia.org/wiki/Chociesz%C3%B3w
+[wiki-niwa]:                  https://pl.wikipedia.org/wiki/Niwa_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-roszyce]:               https://pl.wikipedia.org/wiki/Roszyce
 
 Wstęp
 -----
@@ -40,19 +56,19 @@ Wstaliśmy dość wcześnie, gdyż mieliśmy pociąg chwilę po 9-tej. Przejecha
 przez [Szalejów Dolny][wiki-szalejow-dolny] do stacji [Kłodzko Zagórze][wiki-klodzko-zagorze].
 
 Ruszyliśmy pociągiem na zachód. W okolicy [Lewina Kłodzkiego][wiki-lewin-klodzki]
-mieliśmy okazje podziwiać bardzo ładne górskie widoki już z pociągu. Dyskutowałem krótko
+mieliśmy okazję podziwiać bardzo ładne górskie widoki już z pociągu. Dyskutowałem krótko
 z Przemkiem, mi się podobały widoki w okolicy [Nowej Rudy][wiki-nowa-ruda] bardziej,
 jemu odwrotnie.
 
 Gdy dojechaliśmy do celu ruszyliśmy przez park zdrojowy i tam coś szybkiego
-ciepłego na początek dnia.
+ciepłego zjedliśmy na początek dnia.
 
 Jechaliśmy cały czas drogą [387][wiki-droga-387]. Nie pamiętam ile tego podjazdu było,
 chyba ponad godzinę. Co jakiś czas wyprzedzały nas samochody, ale nie pamiętam
-nic istotnie niebezpiecznego.
+nic niebezpiecznego.
 
 Pierwszym ciekawym miejscem był parking obok drogi dojazdowej do
-[Błędnych Skał][wiki-bledne-skaly]. Zdecydowanie widać że jest majówką i każdy musi
+[Błędnych Skał][wiki-bledne-skaly]. Zdecydowanie widać było, że jest majówką i każdy musi
 zobaczyć jedną z dwu największych atrakcji [Gór Stołowych][wiki-gory-stolowe].
 
 Kierowaliśmy się dalej do [Karłowa][wiki-karlow]. Jest to wioska pod
@@ -69,8 +85,24 @@ rozpoczęła się oficjalna przerwa na solidny obiad. Bardzo polecam pasterskie
 pierogniewy - są to bardzo duże pierogi. Mają ich chyba 5 rodzajów i każdy
 ma inne ciasto i farsz. Są słodkie i "nie słodkie".
 
-[wiki-kregielny-trakt]:     https://pl.wikipedia.org/wiki/Kr%C4%99gielny_Trakt
-
 Nie chciało się nam jechać dalej, ale jakoś trzeba do domu dojechać.
 Z [Pasterki][wiki-pasterka] wyjechaliśmy drogą dla samochodów i ruszyliśmy
 w stronę [Kręgielnego Traktu][wiki-kregielny-trakt].
+
+Pojechałem trochę szybciej, jednak jakość drogi uniemożliwiła mi swobodny
+szybki zjazd. Tak było aż dojechalem do wsi [Batorów][wiki-batorow], a raczej
+aż nie wyjechałem z niej. Od tego momentu droga była znacznie lepszej jakości.
+Udało mi się rozpędzić do 56 km/h. Reszta skontaktowała się ze mną i wiedząc
+o jakości drogi udało im się osiągnąć maksymalną prędkość trochę ponad 60 km/h.
+
+Po dojechaniu do skrzyżowania skręciliśmy w prawo na północ do miejscowści
+[Chocieszów][wiki-chocieszow], gdzie dalej jechaliśmy na wschód.
+
+Bardzo podobała mi się ta trasa, jakby droga ciekawie wiła się przez pagórki i
+wioski. Przejechaliśmy przez [Niwę][wiki-niwa], minęliśmy
+skrzyżowanie z którego jest bardzo ładny widok na okolicę. Widać było z niego
+[Szczeliniec Wielki][wiki-szczeliniec-wielki]. To ciekawe uczucie gdy jest on
+"tak daleko", a było się tam niedawno, jakby przed chwilą.
+
+Powrót skróciliśmy drogą asfaltową a później gruntową przez pole. Wjechaliśmy
+w sam środek [Roszyc][wiki-roszyce].
