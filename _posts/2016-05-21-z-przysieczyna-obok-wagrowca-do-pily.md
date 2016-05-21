@@ -4,7 +4,7 @@ title:                  "Z Przysieczyna obok Wągrowca do Piły"
 subtitle:               "bardzo ciepły dzień wokół rzeki Noteć"
 date:                   2016-05-10 17:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
+header-ext-img:         "https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, wagrowiec, budzyn, margonin, chodziez, kaczory, pila]

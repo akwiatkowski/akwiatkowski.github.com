@@ -110,6 +110,13 @@
   inside:
     - wielkopolskie
 
+- slug: budzyn
+  name: Budzyń
+  header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: buk
   name: Buk
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -123,6 +130,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: chodziez
+  name: Chodzież
+  header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: choszczno
   name: Choszczno
@@ -306,6 +320,13 @@
   inside:
     - kujawsko_pomorskie
 
+- slug: kaczory
+  name: Kaczory
+  header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: kamienna_gora
   name: Kamienna Góra
   header-ext-img: https://drscdn.500px.org/photo/23974233/m%3D2048/bfec1ac2f4b66e3f3352106f7cb12ed7
@@ -452,6 +473,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: margonin
+  name: Margonin
+  header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: miedzylesie
   name: Międzylesie
@@ -664,6 +692,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: pila
+  name: Piła
+  header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: piwniczna_zdroj
   name: Piwniczna Zdrój
