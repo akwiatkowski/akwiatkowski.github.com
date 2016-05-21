@@ -15,19 +15,26 @@ Jednodniowe z Poznania z dojazdem PKP
 Odległość rosnąca:
 
 * [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie)
+* [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km (w pobliżu Bałtyku, wokół kolej)
 * [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km
+* [Wągrowiec - Piła](http://umapa.pl/QqS4K) - 62km
+* [Słupca - Jarocin](http://umapa.pl/FgUKd) - 62km
 * [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km
 * [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km
 * [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
+* [Przysieczyn - Piła](http://umapa.pl/kkKna) - 70km
 * [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km
 * [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km
 * [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
 * [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
 * [Miały - Słonice](http://umapa.pl/FPynh) - 75km
 * [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km
+* [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km
 * [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km
+* [Konin - Jarocin](http://umapa.pl/vH29C) - 78km
+* [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km
 * [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, długi dojazd
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km
