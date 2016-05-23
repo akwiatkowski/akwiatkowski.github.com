@@ -62,6 +62,8 @@ Regionami podzielone na województwa.
  * [Szczecinek - Słupsk - Ustka](http://umapa.pl/nX58U) - 131km, jednak
    również ta trasa prawdopodobnie będzie rozszerzona. Najłatwiej rozszerzyć
    przez kręcenie się po okolicy.
+ * [Piła - Czaplinek - Białogard - Kołobrzeg](http://umapa.pl/Q22oD) - 174km, można
+   łatwo skończyć w Koszalinie  
 
 Wielodniowe z sakwami, pełne
 ---------------------
