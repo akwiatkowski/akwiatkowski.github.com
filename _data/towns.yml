@@ -432,6 +432,13 @@
   inside:
     - dolnoslaskie
 
+- slug: ladek
+  name: Lądek
+  header-ext-img: https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: lekawica
   name: Łękawica
   header-ext-img: https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2
@@ -763,6 +770,13 @@
   inside:
     - wielkopolskie
 
+- slug: pyzdry
+  name: Pyzdry
+  header-ext-img: https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: rabka
   name: Rabka
   header-ext-img: https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646
@@ -823,6 +837,13 @@
 - slug: skoki
   name: Skoki
   header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: slupca
+  name: Słupca
+  header-ext-img: https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709
   type: town
   inside:
     - wielkopolskie
@@ -1037,12 +1058,12 @@
   inside:
     - wielkopolskie
 
-- slug: zabkowice_slaskie
-  name: Ząbkowice Śląskie
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+- slug: zagorow
+  name: Zagorów
+  header-ext-img: https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20
   type: town
   inside:
-    - dolnoslaskie
+    - wielkopolskie
 
 - slug: zakopane
   name: Zakopane
@@ -1057,6 +1078,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: zabkowice_slaskie
+  name: Ząbkowice Śląskie
+  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: zbaszyn
   name: Zbąszyń

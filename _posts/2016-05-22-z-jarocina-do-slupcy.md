@@ -1,10 +1,10 @@
 ---
 layout:                 post
 title:                  "Z Jarocina do Słupcy"
-subtitle:               "bardzo ciepły dzień wokół rzeki Noteć"
-date:                   2016-05-22 17:00:00
+subtitle:               "żerkowskie pagórki, nadwarciańskie lasy w bardzo ciepły dzień"
+date:                   2016-05-22 15:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac"
+header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, jarocin, zerkow, pyzdry, zagorow, ladek, slupca]
@@ -15,4 +15,4 @@ time_spent:             4
 
 ---
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/583258728/embed/cb43359cc0e0cf82f98fca70bf734e95283f851e'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/584342247/embed/8fb09f8d6d427a58f189b24c1712132c7f6ea3bd'></iframe>
