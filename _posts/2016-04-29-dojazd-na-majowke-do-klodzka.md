@@ -47,7 +47,7 @@ Szczegóły
 ---------
 
 Z Poznania wyruszyłem pociągiem po 10-tej. Miałem przesiadkę we Wrocławiu, gdzie
-małą niedogodnością było znoszenie i wnoszenie rowera z sakwami po schodach.
+małą niedogodnością było znoszenie i wnoszenie roweru z sakwami po schodach.
 
 W pociągu wolnego miejsca było całkiem sporo. Wydaję mi się, że na majówkę pociągi
 osobowe są znacznie rzadziej wykorzystywane. To jest w sumie sensowne - większość
@@ -66,9 +66,10 @@ się podjazd. W [Ruszowicach][wiki-ruszowice] skręciłem jadąc prawie bezpośr
 do [Roszyc][wiki-roszyce].
 
 Dojazd był demonstracją tego, co mnie czeka przez najbliższe dni: pofalowany teren,
-podjazdy, rzeki, wioski, górki na horyzoncie. Wszystko było inne i przez to ciekawsze.
+podjazdy, rzeki, wioski, górki na horyzoncie. Wszystko było inne
+niż to co mam w okolicy Poznania, i przez to ciekawsze.
 
 Po zostawieniu sakw miałem jeszcze dwie godziny na przyjazd reszty. Postanowiłem
-pokręcić się po okolicy. Sprawdziłem głównie bliskie ścieżki polne. Dwie były
+pokręcić się po okolicy. Sprawdziłem głównie okoliczne ścieżki polne. Dwie były
 najciekawsze, jednak nie powiedziałbym aby były bardzo ciekawe: wolniejszy skrót do
 [Ruszowic][wiki-ruszowice] oraz zjazd do [Piszkowic][wiki-piszkowice].

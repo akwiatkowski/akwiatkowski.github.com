@@ -82,6 +82,15 @@ layout: default
               <p id="post-meta">{{ towns_content }}</p>
               <p id="post-meta">{{ lands_content }}</p>
 
+              {% if post.pois.size > 0 %}
+                <h2>Najciekawsze miejsca</h2>
+                  <ul>
+                  {% for poi in post.pois %}
+                    <li><a target="_blank" href="http://mapa.ump.waw.pl/ump-www/?zoom=11&lat={{ poi.lat }}&lon={{ poi.lon }}">{{ poi.name}}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+
 				{{ content }}
 
                 <hr>

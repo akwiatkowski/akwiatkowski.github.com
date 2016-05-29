@@ -27,6 +27,7 @@ Odległość rosnąca:
 * [Przysieczyn - Piła](http://umapa.pl/kkKna) - 70km
 * [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km
 * [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km
+* [Drezdenko - Międzyrzecz](http://umapa.pl/KwUyx) - 72km
 * [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
 * [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
 * [Miały - Słonice](http://umapa.pl/FPynh) - 75km
