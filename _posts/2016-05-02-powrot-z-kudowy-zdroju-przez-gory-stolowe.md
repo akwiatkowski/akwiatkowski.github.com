@@ -6,7 +6,7 @@ date:                   2016-05-02 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media]
+tags:                   [bicycle, mountains, todo_media, main]
 towns:                  [dolnoslaskie, kudowa_zdroj, szczytna, radkow]
 lands:                  [pogorze_orlickie, gory_stolowe, obnizenie_scinawki, kotlina_klodzka]
 
@@ -63,6 +63,8 @@ jemu odwrotnie.
 Gdy dojechaliśmy do celu ruszyliśmy przez park zdrojowy i tam coś szybkiego
 ciepłego zjedliśmy na początek dnia.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/168917316' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Jechaliśmy cały czas drogą [387][wiki-droga-387]. Nie pamiętam ile tego podjazdu było,
 chyba ponad godzinę. Co jakiś czas wyprzedzały nas samochody, ale nie pamiętam
 nic niebezpiecznego.
@@ -94,6 +96,8 @@ szybki zjazd. Tak było aż dojechalem do wsi [Batorów][wiki-batorow], a raczej
 aż nie wyjechałem z niej. Od tego momentu droga była znacznie lepszej jakości.
 Udało mi się rozpędzić do 56 km/h. Reszta skontaktowała się ze mną i wiedząc
 o jakości drogi udało im się osiągnąć maksymalną prędkość trochę ponad 60 km/h.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/168932067' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Po dojechaniu do skrzyżowania skręciliśmy w prawo na północ do miejscowści
 [Chocieszów][wiki-chocieszow], gdzie dalej jechaliśmy na wschód.

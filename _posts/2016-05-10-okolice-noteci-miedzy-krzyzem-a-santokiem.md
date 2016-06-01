@@ -57,6 +57,8 @@ następnie kierowałem się cały czas na zachód.
 Okazało się, że ładując baterie do aparatu zapomniałem ją umieścić. Tego dnia
 nie zrobiłem żadnego zdjęcia nim, tylko kamerką.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/167416679' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Poczułem taką standardową niepewność - czy nic się nie wydarzy, czy dam radę.
 Z doświadczenia najsilniej takie uczucie pojawia się na początku i w połowie trasy,
 kiedy jest się najdalej od jakiegoś pociągu.
@@ -87,6 +89,8 @@ Za [Starym Kurowem][wiki-stare-kurowo] skręciłem na północny-zachód w stron
 
 Po dotarciu do [Gardzka][wiki-gardzko] skręciłem na południe i jechałem
 bardzo ciekawe tereny - małe wioski położone wokół pofalowanego terenu.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/167449698' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Jechałem cały czas względnie wzdłuż torów kolejowych drogą asfaltową. W
 [Górce Noteckiej][wiki-gorka-notecka] ruszyłym wzdłuż [Kanału Otok][wiki-otok].

@@ -6,7 +6,7 @@ date:                   2016-05-27 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, mountains, todo]
 towns:                  [podkarpackie, krempna, sekowa, uscie_gorlickie, ropa, gorlice]
 lands:                  [beskid_niski]
 

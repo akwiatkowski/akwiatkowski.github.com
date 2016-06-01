@@ -6,7 +6,7 @@ date:                   2016-04-30 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media]
+tags:                   [bicycle, mountains, todo_media, main]
 towns:                  [dolnoslaskie, klodzko, stoszowice, zabkowice_slaskie, cieplowody, ziebice]
 lands:                  [kotlina_klodzka, gory_bardzkie, obnizenie_otmuchowskie, wzgorza_niemczansko_strzelinskie]
 
@@ -63,6 +63,8 @@ Przez prawię połowę drogi do [Srebrnej Góry][wiki-srebrna-gora] jechaliśmy 
 pól, bardzo mi się podobało wzgórze obok miejscowości [Huberek][wiki-huberek].
 Po drodzę zrobiliśmy przerwę w sklepie w [Łącznej][wiki-laczna].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/166655142' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Po wyjeździe z [Wojborza][wiki-wojborz] jechaliśmy już przez las wyraźnym podjazdem aż pod
 przełęcz obok góry [Wilczak][wiki-gora-wilczak], za którą rozpoczął się zjazd.
 Pierwszy fajny zjazd tego dnia. Niestety nie można było szaleć do woli, gdyż
@@ -93,6 +95,8 @@ Ruszyliśmy dalej jadąc po ścieżce rowerowej równoległej do drogi. Powstał
 po usunięciu torów do [Ząbkowic Śląskich][wiki-zabkowice-slaskie], do których
 sami się kierowaliśmy.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/167418180' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Pod względem terenu szlak nie był zbyt ciekawy - normalna droga gruntowa wokół
 pól. Jedyne co odróżniało to góry widoczne na horyzoncie.
 
@@ -122,6 +126,8 @@ dziur.
 Obok [Czesławic][wiki-czeslawice] przejechaliśmy drogą polną zamiast ulicą.
 Jakoś ta droga wydawała się ciekawsza, chociaż jakość jazdy po niej rzuciła
 wątpliwość w sens tej decyzji.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/168864374' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Do [Henrykowa][wiki-henrykow] dojechaliśmy już drogą normalną - asfaltową. W sklepie
 kupiliśmy jedzenie, gdyż nie mieliśmy możliwości nic ciepłego zjeść wcześniej.
