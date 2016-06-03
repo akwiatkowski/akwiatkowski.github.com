@@ -290,7 +290,7 @@
   header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
   type: town
   inside:
-    - podkarpackie
+    - malopolskie
 
 - slug: gluszyca
   name: Głuszyca
@@ -846,7 +846,7 @@
   header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
   type: town
   inside:
-    - podkarpackie
+    - malopolskie
 
 - slug: rymanow
   name: Rymanów
@@ -874,7 +874,7 @@
   header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
   type: town
   inside:
-    - podkarpackie
+    - malopolskie
 
 - slug: sianow
   name: Sianów
@@ -1029,13 +1029,6 @@
   type: town
   inside:
     - wielkopolskie
-
-- slug: uscie_gorlickie
-  name: Uście Gorlickie
-  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
-  type: town
-  inside:
-    - podkarpackie
 
 - slug: ustka
   name: Ustka
