@@ -257,6 +257,13 @@
   inside:
     - lubuskie
 
+- slug: dukla
+  name: Dukla
+  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
+  type: town
+  inside:
+    - podkarpackie
+
 - slug: duszniki_zdroj
   name: Duszniki Zdrój
   header-ext-img: https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b
@@ -277,6 +284,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: gorlice
+  name: Gorlice
+  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
+  type: town
+  inside:
+    - podkarpackie
 
 - slug: gluszyca
   name: Głuszyca
@@ -305,6 +319,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: jasliska
+  name: Jaśliska
+  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
+  type: town
+  inside:
+    - podkarpackie
 
 - slug: jelenia_gora
   name: Jelenia Góra
@@ -403,6 +424,13 @@
   type: town
   inside:
     - malopolskie
+
+- slug: krempna
+  name: Krempna
+  header-ext-img: https://drscdn.500px.org/photo/156858245/q%3D80_m%3D2000/f78d6ec50b11528fe329fd7d7daf4940
+  type: town
+  inside:
+    - podkarpackie
 
 - slug: krynica_zdroj
   name: Krynica Zdrój
@@ -813,6 +841,20 @@
   inside:
     - wielkopolskie
 
+- slug: ropa
+  name: Ropa
+  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
+  type: town
+  inside:
+    - podkarpackie
+
+- slug: rymanow
+  name: Rymanów
+  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
+  type: town
+  inside:
+    - podkarpackie
+
 - slug: rytro
   name: Rytro
   header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
@@ -826,6 +868,13 @@
   type: town
   inside:
     - lubuskie
+
+- slug: sekowa
+  name: Sękowa
+  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
+  type: town
+  inside:
+    - podkarpackie
 
 - slug: sianow
   name: Sianów
@@ -980,6 +1029,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: uscie_gorlickie
+  name: Uście Gorlickie
+  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
+  type: town
+  inside:
+    - podkarpackie
 
 - slug: ustka
   name: Ustka
