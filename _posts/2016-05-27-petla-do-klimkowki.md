@@ -4,7 +4,7 @@ title:                  "Pętla do Klimkówki i jednocześnie moja 'naj' trasa"
 subtitle:               "najdłuższa, najmocniejsza i z największymi przygodami"
 date:                   2016-05-27 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
+header-ext-img:         "https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650"
 categories:             trip
 tags:                   [bicycle, mountains, todo]
 towns:                  [podkarpackie, krempna, sekowa, uscie_gorlickie, ropa, gorlice]
