@@ -46,7 +46,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Wyruszyliśmy tak jak [pierwszego]({{ post_url 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy }})
+Wyruszyliśmy tak jak [pierwszego]({% post_url 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy %})
 dnia na wschód przez [Polany][wiki-polany]. Tym
 razem nie jechaliśmy do [Huty Polańskiej][wiki-huta-polanska] a w kierunku
 [Olchowca][wiki-olchowiec].
