@@ -24,6 +24,7 @@ Odległość rosnąca:
 * [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
+* [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km
 * [Przysieczyn - Piła](http://umapa.pl/kkKna) - 70km
 * [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km
 * [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km

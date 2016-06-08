@@ -925,6 +925,13 @@
   inside:
     - malopolskie
 
+- slug: steszew
+  name: Stęszew
+  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: stoszowice
   name: Stoszowice
   header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db

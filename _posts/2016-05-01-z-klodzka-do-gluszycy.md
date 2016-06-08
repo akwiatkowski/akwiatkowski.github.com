@@ -6,7 +6,7 @@ date:                   2016-05-01 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media]
+tags:                   [bicycle, mountains, todo_media, main]
 towns:                  [dolnoslaskie, klodzko, radkow, nowa_ruda, gluszyca]
 lands:                  [kotlina_klodzka, obnizenie_scinawki, obnizenie_nowej_rudy, gory_kamienne]
 
@@ -58,6 +58,8 @@ Ruszyliśmy z [Roszyc][wiki-roszyce] na północ przez [Ruszowice][wiki-ruszowic
 skręciliśmy w stronę [Ścinawki Dolnej][wiki-scinawka-dolna]. Teren który mijaliśmy
 to głównie spokojne wioski oraz droga słabej jakości.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/169337003' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Całą trasę wokół rzeki [Ścinawki][wiki-rzeka-scinawka] można opisać podobnie, jednak
 nie da się nie powtórzyć. Były to bardzo ładne tereny, pagórki po lewej stronie należące
 do [Wzgórz Ścinawskich][wiki-wzgorza-scinawskie], a po prawej mniej lub bardziej
@@ -69,6 +71,8 @@ spokojem zjedliśmy i zastanawialiśmy się, gdzie ruszyć dalej. Bardzo mnie ci
 trasa przez [Krajanów][wiki-krajanow] do [Świerków][wiki-swierki].
 Głównym powodem było to, że była ona totalnie na uboczu. Na mapie nie było tam
 prawie nic i dlatego czułem, że muszę to zobaczyć.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/169522232' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Na początku czekał na nas długi podjazd, a później znowu podjazd, ale jechaliśmy
 już przez wioski. Wioski te były również bardzo spokojne, ale jakoś w inny sposób.
@@ -86,6 +90,8 @@ i rzeki [Bystrzycy][wiki-rzeka-bystrzyca].
 Prawdopodobnie jechaliśmy lekko z górki, gdyż cały czas utrzymywaliśmy
 dużą szybkość bez większego zwracania uwagi na okolicę. Jednym zdaniem
 można powiedzieć, że sudeckie wioski zamieniły się w sudeckie miasteczka.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/167879418' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 W jednym momencie byliśmy oddaleni o 3km od miejsca w którym jedliśmy kolacje
 po czeskiej stronie [Gór Kamiennych][wiki-gory-kamienne] w

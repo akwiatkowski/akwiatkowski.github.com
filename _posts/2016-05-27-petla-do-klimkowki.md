@@ -91,6 +91,14 @@ podziwiając widoki podczas zjazdów.
 Skręciliśmy w lewo w stronę [Kwiatonia][wiki-kwiaton], gdzie zrobiliśmy przerwę przy
 cerkwi, która jest jedną z najlepiej zachowanych cerkwi łemkowskich w Polsce.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/157540231/m%3D900/20cc482c1af39d72fc452c9459d6c596' alt='Orthodox church in Kwiatoń by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/157540231/orthodox-church-in-kwiato%C5%84-by-aleksander-kwiatkowski' alt='Orthodox church in Kwiatoń by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 [Uście Gorlickie][wiki-uscie-gorlickie] jak i sama [Klimkówka][wiki-klimkowka-jezioro] było już
 blisko.
 

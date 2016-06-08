@@ -37,6 +37,14 @@ Pierwszy raz w [Beskidzie Niskim][wiki-beskid-niski] byłem w 2012 roku. Trochę
 od tego momentu minęło. W międzyczasie planowałem dłuższą wycieczkę z sakwami po tym
 paśmie. Niestety się nie udało.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/157539497/m%3D900/5e3648072f9c9ba45277dca144809406' alt='Road to Krempna by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/157539497/road-to-krempna-by-aleksander-kwiatkowski' alt='Road to Krempna by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Planowaliśmy w okolice Bożego Ciała wyruszyć na pętle wokół Tatr, jednak niepewna
 pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górskie pasmo
 Polski.
