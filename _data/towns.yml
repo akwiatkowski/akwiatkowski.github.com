@@ -516,6 +516,20 @@
   inside:
     - wielkopolskie
 
+- slug: miedzichowo
+  name: Miedzichowo
+  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: miedzychod
+  name: Międzychód
+  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: miedzylesie
   name: Międzylesie
   header-ext-img: https://drscdn.500px.org/photo/41466174/m%3D2048/fd9d01b4921aceabcd40a34afa8ab71c
@@ -798,6 +812,13 @@
   inside:
     - wielkopolskie
 
+- slug: pszczew
+  name: Pszczew
+  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
+  type: town
+  inside:
+    - lubuskie
+
 - slug: pyzdry
   name: Pyzdry
   header-ext-img: https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709
@@ -825,6 +846,13 @@
   type: town
   inside:
     - slaskie
+
+- slug: rakoniewice
+  name: Rakoniewice
+  header-ext-img: https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: rewal
   name: Rewal
@@ -882,6 +910,13 @@
   type: town
   inside:
     - zachodnio_pomorskie
+
+- slug: siedlec
+  name: Siedlec
+  header-ext-img: https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: skoki
   name: Skoki
@@ -1023,6 +1058,13 @@
   inside:
     - wielkopolskie
 
+- slug: trzciel
+  name: Trzciel
+  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
+  type: town
+  inside:
+    - lubuskie
+
 - slug: trzebiatow
   name: Trzebiatów
   header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
@@ -1106,6 +1148,13 @@
   type: town
   inside:
     - zachodnio_pomorskie
+
+- slug: wolsztyn
+  name: Wolsztyn
+  header-ext-img: https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: wronki
   name: Wronki

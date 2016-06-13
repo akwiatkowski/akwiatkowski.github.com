@@ -42,6 +42,7 @@ Odległość rosnąca:
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km
 * [Wronki - Zbąszyń](http://umapa.pl/pnhVh) - 90km
+* [Santok - Wronki](http://umapa.pl/JGGIo) - 91km
 * [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km
 * [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km
 * [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić
@@ -79,6 +80,7 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * [Szczecin - Kostrzyn](http://umapa.pl/Zptz7) - 166km, 2 dni, nocleg okolice Bielinka
 * [Gliwice - Henryków](http://umapa.pl/Hih4s) - 184km, 2 dni, nocleg w okolicy Racławic Śląskich
 * [Kościan - Jelenia Góra](http://umapa.pl/w8QOM) - 188km, 2 dni, odwrócić najlepiej
+* [Jelenia Góra - Zbąszyn](http://umapa.pl/4IYJx) - 188km, 2 dni
 * [Dobiegniew - Świnoujście](http://umapa.pl/kJsS6) - 190km, mocne 2 dni
 * [Mosina - Jelenia Góra](http://umapa.pl/yJzD9) - 205km, 2-3 dni, lepiej zacząć z Leszna
 * [Skoki - Somonino](http://umapa.pl/KejlQ) - 236km, 3 dni, można rozszerzyć do Gdyni
