@@ -85,6 +85,8 @@ tylnim kołem. Trochę to trwało, ale załatwiliśmy transport do [Gorlic][wiki
 gdyż tam jest najbliższy serwis rowerowy. Sami ruszyliśmy dalej. Świadomość
 kryzysowej sytuacji spowodowała, że nie podjechaliśmy do [Regietowa][wiki-regietow].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/170867109' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Jechaliśmy główną drogą na północ do [Smerekowca][wiki-smerekowiec] jednocześnie
 podziwiając widoki podczas zjazdów.
 

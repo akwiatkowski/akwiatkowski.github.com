@@ -66,6 +66,8 @@ Wyruszyłem na wschód i zjechałem do głównego skrzyżowania w [Krempnej][wik
 Był to całkiem fajny zjazd. Nie znając drogi i znaków zjechałem dość spokojnie i
 kierowałem się dalej na wschód.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/170483059' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Niecały kilometr dalej przejechałem przez [Wisłokę][wiki-wisloka]. Jechałem spokojnie,
 a rzeka w tym miejscu jest raczej szeroka. Udało mi się przejechać, jednak buty
 miałem solidnie przemoczone (co nie jest jakimś wielkim wyczynem).
@@ -86,6 +88,8 @@ pierwszeństwo. Podjechaliśmy pod [Wisłokę][wiki-wisloka], gdyż chciałem po
 reszcie przejazd przez rzekę. Dopiero w tym momencie zauważyłem most wiszący obok,
 którym mógłbym przeprowadzić rower.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/170490805' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Krzychu miał jedną przygodę z rzeką, a Ewa miała aż dwie. Szczegółów tutaj nie będę
 opisywał.
 
@@ -95,6 +99,10 @@ mosty i beskidzkie polany, wioski i kościoły. Minęliśmy również krowy i ow
 Dojechaliśmy do schroniska [Hajstra][schronisko-hajstra].
 Problematyczne było dostanie się za dolinę [Ciechanii][wiki-ciechania], gdyż
 jest to teren parku i jest zakaz wchodzenia tam.
+
+<!--
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/170495557' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+-->
 
 Kolejnym etapem był zjazd od wsi [Żydowskie][wiki-zydowskie] do [Ożennej][wiki-ozenna].
 Bardzo mi się podobała droga, z której widać dolinię [Ciechanii][wiki-ciechania].
@@ -106,6 +114,8 @@ Zrobiliśmy przerwę przy sklepie. Widzieliśmy w pewnym momencie jak drogą
 prowadzone jest małe stado krów. Zaczęliśmy wracać przez [Grab][wiki-grab]
 i [Rozstajne][wiki-rozstajne]. Miałem wrażenie, że był to lekki zjazd gdyż
 łatwo było osiągać prędkość 30km/h.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/170867075' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Co chwilę przy drodzę widzieliśmy
 tabliczki "Zwolnij, Ryś", czasem to byl niedźwiedź albo wilk.

@@ -14,38 +14,37 @@ Jednodniowe z Poznania z dojazdem PKP
 
 Odległość rosnąca:
 
-* [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie)
-* [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km (w pobliżu Bałtyku, wokół kolej)
-* [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km
-* [Wągrowiec - Piła](http://umapa.pl/QqS4K) - 62km
-* [Słupca - Jarocin](http://umapa.pl/FgUKd) - 62km
-* [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km
-* [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km
-* [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km
-* [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty
-* [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km
-* [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km
-* [Przysieczyn - Piła](http://umapa.pl/kkKna) - 70km
-* [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km
-* [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km
-* [Drezdenko - Międzyrzecz](http://umapa.pl/KwUyx) - 72km
-* [Komańcza - pętla przez Orzechową obok Rymanowa](http://umapa.pl/JoG54) - 72km
-* [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km (robiło by fragment solidnej pętli)
-* [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km
-* [Miały - Słonice](http://umapa.pl/FPynh) - 75km
-* [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km
-* [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km
-* [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km
-* [Konin - Jarocin](http://umapa.pl/vH29C) - 78km
-* [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km
-* [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, długi dojazd
-* [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km
-* [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km
-* [Wronki - Zbąszyń](http://umapa.pl/pnhVh) - 90km
-* [Santok - Wronki](http://umapa.pl/JGGIo) - 91km
-* [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km
-* [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km
-* [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić
+* [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km, w pobliżu Bałtyku, wokół kolej
+* [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km, lekkie wyżyny drawskie
+* [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km, północ od Poznania
+* [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty, południe od Poznania
+* [Dolice - Barlinek - Górki Noteckie](http://umapa.pl/XOD3h) - 68km, północny-zachód od Poznania
+* [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km, południe od Poznania
+* [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km, dolnośląskie
+* [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km, zachód od Poznania
+* [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km, zachód Polski, obok szynobus
+* [Drezdenko - Międzyrzecz](http://umapa.pl/KwUyx) - 72km, wokół Puszczy Noteckiej
+* [Komańcza - pętla przez Orzechową obok Rymanowa](http://umapa.pl/JoG54) - 72km, podkarpackie
+* [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km, wokół południowej
+  krawędzi Puszczy Noteckiej
+* [Miały - Słonice](http://umapa.pl/FPynh) - 75km, północ od Poznania
+* [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km, zachód i lekko północ od Poznania
+* [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km, na wschód od Poznania
+* [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km, na wschód od Poznania
+* [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km, północ od Poznania
+* [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, pogranicze z dolnośląskim, można skrócić
+* [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
+* [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, możliwe piaski
+* [Santok - Wronki](http://umapa.pl/JGGIo) - 91km, północny-zachód od Poznania, wokół
+  Puszczy Noteckiej
+* [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km, południe od Poznania, przez
+  pagórki wokół Dolska
+* [Szczecinek - Koszalin](http://umapa.pl/7GSTu) - 97km, wybrzeże, chociaż może lepiej było
+  przez Kaszuby, tam są większe pagórki
+* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/t77LG) - 101km, trasa raczej głównymi drogami
+* [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km, pagórki obok doliny Noteci
+* [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić gdyż pociąg jest blisko
+* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/0MeGw) - 111km, drogi bardziej poboczne
 
 Jedno/wielo-dniowe z bazą zewnętrzną:
 ------------------------------
@@ -99,13 +98,14 @@ Pieszo
 
 * Jesień Karkonoszach/Rudawach/... - tylko na robienie zdjęć
 * Pieniny jesienią
+* Gorce w lecie, przed żniwami - tylko na robienie zdjęć
 
 
 Zima
 ====
 
 * Wschód/zachód Słońca w Karkonoszach - był Śnieżnik, jednak Karkonosze były by
-  lepsze
+  lepsze dla uzyskania czerwieni
 
 
 Wykonane
@@ -117,3 +117,23 @@ Wykonane
   [4]({% post_url 2015-07-14-zejscie-z-przehyby-do-starego-sacza %})
 * Przejażdzka nad morze, ale zamiast Kołobrzeg koniec był w Szczecinku:
   [1](/trip/2015/08/22/z-rebusza-do-cieszyno/) i [2](/trip/2015/08/23/z-cieszyno-do-szczecinka/)
+* [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie),
+  trasy [1]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}),
+  [2]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
+* [Mosina - Leszno](http://umapa.pl/sEf8N) - 60km,
+  wykonane [częściowo]({% post_url 2016-04-03-z-mosiny-do-kosciana %})
+* [Wągrowiec - Piła](http://umapa.pl/QqS4K) - 62km,
+  [trasa]({% post_url 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily %})
+* [Słupca - Jarocin](http://umapa.pl/FgUKd) - 62km,
+  [trasa]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
+* [Słupca - Chocicza](http://umapa.pl/4EYn3) - 67km, częściowo
+  [wykonane]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
+* [Przysieczyn - Piła](http://umapa.pl/kkKna) - 70km,
+  [trasa]({% post_url 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily %})
+* [Strzałkowo - Chocicza](http://umapa.pl/Nm5D2) - 72km,
+  [wykonane]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
+* [Konin - Jarocin](http://umapa.pl/vH29C) - 78km,
+  częściowo [wykonane]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
+* [Wronki - Zbąszyń](http://umapa.pl/pnhVh) - 90km,
+  częściowo [wykonane]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}),
+  trasa w okolicy Sierakowa nadal do zrobiona

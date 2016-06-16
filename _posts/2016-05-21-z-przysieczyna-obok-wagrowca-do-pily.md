@@ -16,3 +16,7 @@ time_spent:             5
 ---
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/583258728/embed/cb43359cc0e0cf82f98fca70bf734e95283f851e'></iframe>
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/169553899' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/169553900' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
