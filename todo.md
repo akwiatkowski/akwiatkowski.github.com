@@ -89,6 +89,7 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * [Jelenia Góra - Gorzów Wlkp](http://umapa.pl/ffCv8) - 280km
 * [Osowiec - Sochaczew](http://umapa.pl/QPCfj) - 298km
 * [Bardo - Poznań](http://umapa.pl/GvhCw) - 302km, 3-4 dni
+* [Wysoka Kamieńska - Gryfice - Białogard - Bytów - Kartuzy - Gdynia](http://umapa.pl/OBmHq) - 316km, 3-4 dni
 * Beskid Niski: [Gliwice - Przemyśl](http://umapa.pl/8oPCq) - 455km, 7 dni, ultra wycieczka
 * Mazury - 4 dni przynajmniej
 * Drawieński Park Narodowy - 2 dni

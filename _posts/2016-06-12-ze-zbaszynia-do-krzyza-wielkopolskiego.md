@@ -15,4 +15,20 @@ time_spent:             7
 
 ---
 
+Wstęp
+-----
+
+Jakiś czas temu udało mi się dojechać do [Zbąszynia][wiki-zbaszyn] rowerem. Na
+mapie trasa ta wyglądała dość samotnie i dlatego chciałem połączyć z okolicami
+[Drezdenka][wiki-drezdenko].
+
+Byłaby to długa trasa przecinająca [Puszczę Notecką][wiki-puszcza-notecka]. Chciałem
+przez nią w szerszym miejscu przejechać, ale tylko raz
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/607399894/embed/4cf7b7a642a429319cf1281c21a20ce5ec26133a'></iframe>
+
+Szczegóły
+---------

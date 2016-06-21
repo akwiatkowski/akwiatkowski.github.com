@@ -15,6 +15,22 @@ time_spent:             4
 
 ---
 
+Wstęp
+-----
+
+[Kiedyś]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}) chciałem przejechać
+przez pagórkowate tereny wokół [Żerkowa][wiki-zerkow], jednak brak czynnego promu
+mocno wpłynął na zmianę planów.
+
+Tego dnia chciałem spróbować jeszcze raz zobaczyć te tereny, sprawdzić czy faktycznie
+tam są te pagórki
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/584342247/embed/8fb09f8d6d427a58f189b24c1712132c7f6ea3bd'></iframe>
+
+Szczegóły
+---------
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/170464924' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>

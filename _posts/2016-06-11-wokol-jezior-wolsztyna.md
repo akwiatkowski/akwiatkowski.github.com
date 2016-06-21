@@ -15,4 +15,17 @@ time_spent:             3
 
 ---
 
+Wstęp
+-----
+
+Najrzadziej zwiedzałem tereny na zachód od [Poznania][wiki-poznania]. Szukałem
+miejsca, do którego jest dość łatwy dojazd, jest na zachodzie, oraz wokół są
+jakieś jeziora. Tego dnia padło na odwiedzenie [Wolsztyna][wiki-wolsztyn].
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/607401262/embed/879f690a6f1a16102dcef16186b25cccc9f46dcb'></iframe>
+
+Szczegóły
+---------
