@@ -56,6 +56,8 @@ wracać tą samą drogą. Z tego powodu były dwa "odbicia". Pierwsze
 przez [Olchowiec][wiki-olchowiec] zielonym szlakiem rowerowym. Drugie
 przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska] później.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748211' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 W okolicy [Olchowca][wiki-olchowiec] jechaliśmy jeszcze szutrem, jednak dalej
 trasa zrobiła się bardziej terenowa. Zaczęła przypominać mi się wczorajsza
 walka przed schroniskiem,
@@ -86,6 +88,8 @@ przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska]. Minęliśmy most na
 rzecze [Jasiołka][wiki-jasiolka]. Bardzo podobają mi się te drewniane mosty
 w tych stronach.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748258' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Było ciepło i parno, a na horyzoncie robiło się szaro. Zaczęliśmy podjazd, a
 raczej podejście, na Kamińską - górę o wysokości 639m. Podejście było całkiem
 stromę a już słyszeliśmy głosy burzy.
@@ -109,6 +113,14 @@ i wydaję mi się że gdy będę tutaj następnym razem to pojadę tą trasą.
 Po chwili rozpoczęliśmy trasę powrotną. Tym razem już mieliśmy jechać tylko
 asfaltem. Najpierw zjazd z centrum wsi, później drogą do [Tylawy][wiki-tylawa]
 przez gęsty las.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/159793907/m%3D900/ce25dd7732df06220bdcb617958fefb3' alt='Road in Low Beskid near Mszana by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/159793907/road-in-low-beskid-near-mszana-by-aleksander-kwiatkowski' alt='Road in Low Beskid near Mszana by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 W [Tylawie][wiki-tylawa] przerwa na obiadokolację i powrót najspokojniejszą
 częścią trasy. Inaczej niż zawsze ta spokojność nie równałą się nudzie. Było

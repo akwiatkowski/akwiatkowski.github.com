@@ -17,6 +17,24 @@ time_spent:             5
 
 [wiki-skoki]:            https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
 [wiki-wagrowiec]:        https://pl.wikipedia.org/wiki/W%C4%85growiec
+[wiki-przysieczyn]:      https://pl.wikipedia.org/wiki/Przysieczyn
+[wiki-nielba]:           https://pl.wikipedia.org/wiki/Nielba
+[wiki-welna]:            https://pl.wikipedia.org/wiki/We%C5%82na_(rzeka)
+[wiki-kamienica]:        https://pl.wikipedia.org/wiki/Kamienica_(powiat_w%C4%85growiecki)
+[wiki-bartodzieje]:      https://pl.wikipedia.org/wiki/Bartodzieje_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-margonin]:         https://pl.wikipedia.org/wiki/Margonin
+[wiki-dziewoklucz]:      ttps://pl.wikipedia.org/wiki/Dziewoklucz
+[wiki-zacharzyn]:        https://pl.wikipedia.org/wiki/Zacharzyn
+[wiki-konstantynowo]:    https://pl.wikipedia.org/wiki/Konstantynowo_(powiat_chodzieski)
+[wiki-krzewina]:         https://pl.wikipedia.org/wiki/Krzewina_(powiat_pilski)
+[wiki-kaczory]:          https://pl.wikipedia.org/wiki/Kaczory_(gmina)
+[wiki-pila]:             https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
+[wiki-chodziez]:         https://pl.wikipedia.org/wiki/Chodzie%C5%BC
+[wiki-notec]:            https://pl.wikipedia.org/wiki/Note%C4%87
+[wiki-golancz]:          https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
+
+[alpakoland]:            http://alpakoland.pl/pl/index
+
 
 Wstęp
 -----
@@ -35,10 +53,6 @@ Opis trasy
 Szczegóły
 ---------
 
-[wiki-przysieczyn]: https://pl.wikipedia.org/wiki/Przysieczyn
-[wiki-nielba]:      https://pl.wikipedia.org/wiki/Nielba
-[wiki-welna]:       https://pl.wikipedia.org/wiki/We%C5%82na_(rzeka)
-
 Trasę rozpocząłem w [Przysieczynie][wiki-przysieczyn] po wyjściu z pociągu.
 Wiedziałem, że muszę jechać dalej na północ i ze spokojnej miejscowości
 kierowałem się dość dobrą, jednak mało uczęszczaną drogą.
@@ -52,15 +66,6 @@ Drugim ciekawym miejscem był kościół i okoliczne budynki. Wszystkie bardzo �
 z czerwonej cegły.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/169553899' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
-[wiki-kamienica]: https://pl.wikipedia.org/wiki/Kamienica_(powiat_w%C4%85growiecki)
-[wiki-bartodzieje]: https://pl.wikipedia.org/wiki/Bartodzieje_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-margonin]: https://pl.wikipedia.org/wiki/Margonin
-[wiki-dziewoklucz]: https://pl.wikipedia.org/wiki/Dziewoklucz
-[wiki-zacharzyn]: https://pl.wikipedia.org/wiki/Zacharzyn
-[wiki-konstantynowo]: https://pl.wikipedia.org/wiki/Konstantynowo_(powiat_chodzieski)
-[alpakoland]: http://alpakoland.pl/pl/index
-
 
 Kierowałem się w stronę [Kamienicy][wiki-kamienica] przez [Bartodzieje][wiki-bartodzieje].
 Powoli robiło się trochę dziko, czyli tak jak preferuję.
@@ -86,24 +91,15 @@ z [Gołańczą][wiki-golancz].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/169553900' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-[wiki-chodziez]: https://pl.wikipedia.org/wiki/Chodzie%C5%BC
-[wiki-notec]: https://pl.wikipedia.org/wiki/Note%C4%87
-[wiki-golancz]: https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
-
 [Chodzież][wiki-chodziez] przejechałem szybko i nie poświęciłem dużo
 uwagi temu miast. Jechałem na północ drogą przecinającą
 [Noteć][wiki-notec]. Zaciekawił mnie samotny dom położony w pobliżu mostu nad
 rzeką. Sam most i widok z niego był również bardzo ciekawy.
 
-[wiki-krzewina]: https://pl.wikipedia.org/wiki/Krzewina_(powiat_pilski)
-
 Na wysokości wsi [Krzewiny][wiki-krzewina] zaciekawiła mnie ścieżka polna
 w kierunku wschodnim, gdyż pole było wybitnie pofalowane. Zastanawiałem się
 co jest za horyzontem, jednak nie miałem czasu i nie chciało mi się tego
 teraz sprawdzić.
-
-[wiki-kaczory]: https://pl.wikipedia.org/wiki/Kaczory_(gmina)
-[wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
 
 Po dojechaniu do [Kaczorów][wiki-kaczory] skręciłem na zachód na szlak rowerowy
 w stronę [Piły][wiki-pila]. Wiedziałem już, że nie zostało dużo kilometrów trasy.

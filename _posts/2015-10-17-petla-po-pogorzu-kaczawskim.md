@@ -127,5 +127,13 @@ o tym co jest ciekawe w tamtych okolicach.
 
 Jest tam też trochę rolnictwa, gdyż teren nie jest jeszcze mocno pofalowany.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/159619267/m%3D900/16f719a86ffb2f9c8cea1fc9cb1ff979' alt='Foggy forest in Kaczawskie Mountains by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/159619267/foggy-forest-in-kaczawskie-mountains-by-aleksander-kwiatkowski' alt='Foggy forest in Kaczawskie Mountains by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Będę musiał zobaczyć jak tam jest w zimie jak śnieg spadnie. Niestety kolejna
 słaba zima nie umożliwiła mi tego zrobić.

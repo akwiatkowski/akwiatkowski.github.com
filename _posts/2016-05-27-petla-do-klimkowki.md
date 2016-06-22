@@ -71,6 +71,8 @@ przejazd, przejście w butach, przejście gołymi stopami, a nawet budowa wysepe
 z kamieni aby przejść suchymi butami. Ja nie pamiętam teraz co wybierałem, ale buty
 miałem i tak mokre.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748057' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Bardzo podobał mi się ten szlak, ta bliskość rzeki, która sprawiała, że jest
 tutaj trochę inaczej. Może było bardziej dziko niż zwykle jest.
 
@@ -117,6 +119,8 @@ Ruszyliśmy na północ w stronę wsi [Łosie][wiki-losie]. Zjazd do niej był c
 najładniejszym widokowo zjazdem. Mieliśmy idealną widoczność na
 [Suchy Wierch][wiki-suchy-wierch] i okoliczne polany.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748108' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Za wsią [Łosie][wiki-losie] czekał nas podjazd do [Bielanki][wiki-bielanka], a
 następnie kolejny podjazd już drogą mało uczęszczaną.
 
@@ -142,6 +146,8 @@ ze stabilnością podczas zjazdu.
 W [Pętnej][wiki-petna] ruszyliśmy na wschód. Robiło się już ciemno co mnie bardzo
 martwiło.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748141' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Cały czas czuliśmy że jedziemy przez [Beskid Niski][wiki-beskid-niski]. Przejechaliśmy
 przez [Banicę][wiki-banica] i teraz zjeżdzaliśmy do [Wołowca][wiki-wolowiec].
 Zjazd ten był osłodą na to, co nas czeka później. Podczas niego udało mi się
@@ -157,6 +163,14 @@ z guglowych map i tam kierowaliśmy się, gdzie powinna być droga. Najpierw by�
 300m, później z połowy po przejściu 100m zrobiła się znowu połowa. Komórki
 nasze się wyładowywały gdyż każdy rejestrował trasę. Ja nie rejestrowałem, po prostu
 moja komórka jest słaba (dosadniejsze słowo lepiej będzie pasowało tutaj).
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/159792723/m%3D900/1c59da05369fcfff22ef346a731be12f' alt='Evenining in Wołowiec in Low Beskid by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/159792723/evenining-in-wo%C5%82owiec-in-low-beskid-by-aleksander-kwiatkowski' alt='Evenining in Wołowiec in Low Beskid by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Szliśmy przez las czymś co wyglądało w miarę sensownie na jakąś drogę, jakby
 raz na jakiś czas człowiek tam szedł. Co chwilę wchodziłem w błoto.
