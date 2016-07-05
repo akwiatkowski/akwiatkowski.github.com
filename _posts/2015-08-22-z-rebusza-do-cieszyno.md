@@ -124,4 +124,23 @@ przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dy
 do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/160644311/m%3D900/2e09ac47e5dfe90bc9832307cf729d48' alt='Late summer near Cieszyno by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/160644311/late-summer-near-cieszyno-by-aleksander-kwiatkowski' alt='Late summer near Cieszyno by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/160644845/m%3D900/06468d4ac4bad5b48bae70903e10eaf6' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/160644845/lake-in-cieszyno-by-aleksander-kwiatkowski' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Ostatnią godzinę dnia spędziłem leżąc na plaży i czekając na zachód słońca. Gdybym miał
+statyw mógłbym lepsze zdjęcia zrobić.

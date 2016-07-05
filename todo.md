@@ -76,6 +76,7 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * [Rogoźno - Szczecinek](http://umapa.pl/9JasB) - 144km, 2 dni, nocled za Piłą
 * [Leszno - Jelenia Góra](http://umapa.pl/8zUGU) - 149km, 2 dni, sensowniejsza wersja dojazdu
 * [Rębusz - Świnoujście](http://umapa.pl/4A8H5) - 159km, 2 dni, skrócona wersja dojazdu do Świnoujścia
+* [Jelenia Góra - Włoszakowice (Leszno)](http://umapa.pl/auYmT) - 153km, 2 dni na spokojnie
 * [Szczecin - Kostrzyn](http://umapa.pl/Zptz7) - 166km, 2 dni, nocleg okolice Bielinka
 * [Gliwice - Henryków](http://umapa.pl/Hih4s) - 184km, 2 dni, nocleg w okolicy Racławic Śląskich
 * [Kościan - Jelenia Góra](http://umapa.pl/w8QOM) - 188km, 2 dni, odwrócić najlepiej
@@ -84,12 +85,14 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * [Mosina - Jelenia Góra](http://umapa.pl/yJzD9) - 205km, 2-3 dni, lepiej zacząć z Leszna
 * [Skoki - Somonino](http://umapa.pl/KejlQ) - 236km, 3 dni, można rozszerzyć do Gdyni
 * [Rogoźno - Koszalin](http://umapa.pl/OPiTu) - 243km, 3 dni
+* [Piła - Gdynia](http://umapa.pl/p5dqI) - 252km, 3 dni
 * [Rębusz - Toruń](http://umapa.pl/ECzrt) - 255km, 3 dni, sporo przez lasy początkowo
 * [Wronki - Świnoujście](http://umapa.pl/q2Ao1) - 270km, 3-4 dni, ale lepiej skrócić i zacząć później
 * [Jelenia Góra - Gorzów Wlkp](http://umapa.pl/ffCv8) - 280km
 * [Osowiec - Sochaczew](http://umapa.pl/QPCfj) - 298km
 * [Bardo - Poznań](http://umapa.pl/GvhCw) - 302km, 3-4 dni
-* [Wysoka Kamieńska - Gryfice - Białogard - Bytów - Kartuzy - Gdynia](http://umapa.pl/OBmHq) - 316km, 3-4 dni
+* [Wysoka Kamieńska - Gryfice - Białogard - Bytów - Kartuzy - Gdynia](http://umapa.pl/OBmHq) - 316km, 3-4 dni,
+  [szczegółowa 320km](http://umapa.pl/macvM)
 * Beskid Niski: [Gliwice - Przemyśl](http://umapa.pl/8oPCq) - 455km, 7 dni, ultra wycieczka
 * Mazury - 4 dni przynajmniej
 * Drawieński Park Narodowy - 2 dni
