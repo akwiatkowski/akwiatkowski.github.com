@@ -29,6 +29,20 @@ pois:
 [wiki-puszcza-notecka]: https://pl.wikipedia.org/wiki/Puszcza_Notecka
 [wiki-piaski]: https://pl.wikipedia.org/wiki/Piaski_(powiat_nowotomyski)
 [wiki-r1]: https://pl.wikipedia.org/wiki/Szlak_rowerowy_R1#Polska
+[wiki-lutol-mokry]: https://pl.wikipedia.org/wiki/Lutol_Mokry
+[wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
+[wiki-jablonka-stara]: https://pl.wikipedia.org/wiki/Jab%C5%82onka_Stara
+[wiki-wielkopolska]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_wielkopolskie
+[wiki-lubuskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_lubuskie
+[wiki-silna]: https://pl.wikipedia.org/wiki/Silna
+[wiki-pszczew]: https://pl.wikipedia.org/wiki/Pszczew
+[wiki-stoki]: https://pl.wikipedia.org/wiki/Stoki_(wojew%C3%B3dztwo_lubuskie)
+[wiki-dormowo]: https://pl.wikipedia.org/wiki/Dormowo
+[wiki-miedzychod]: https://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d
+[wiki-wielowies]: https://pl.wikipedia.org/wiki/Wielowie%C5%9B_(powiat_mi%C4%99dzychodzki)
+[wiki-radgoszcz]: https://pl.wikipedia.org/wiki/Radgoszcz_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-drezdenko]: https://pl.wikipedia.org/wiki/Drezdenko
+[wiki-krzyz]: https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
 
 Wstęp
 -----
@@ -55,12 +69,11 @@ Niebo było całe zachmurzone przez co miałem wrażenie, że widoki są mniej c
 mniej ładne.
 Zadziwiające jak dużo może dać odpowiednia ilość słońca.
 
-[wiki-lutol-mokry]: https://pl.wikipedia.org/wiki/Lutol_Mokry
-[wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
-
 Jechaliśmy w okolicy jeziora Lutol przez [Lutol Mokry][wiki-lutol-mokry] i
 dalej minęliśmy przejazd nad autostradą A2 w Trzcielu. Co ciekawe do samej
 miejscowości [Trzeciel][wiki-trzciel] mieliśmy jeszcze 4km.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/173513183' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Po lewej stronie mijaliśmy głównie pola, a po prawej lasy. Patrzyłem z lekką
 obawą na chmury.
@@ -76,14 +89,6 @@ czy się ono tak nazywało.
 Przejechaliśmy obok dosyć dużego tartaku. Dalej jechaliśmy głównie przez lasy aż
 do [Jabłonki Starej][wiki-jablonka-stara], w której wyjeżdzając widziałem
 bardzo dużo ładnych starych domów.
-
-[wiki-jablonka-stara]: https://pl.wikipedia.org/wiki/Jab%C5%82onka_Stara
-[wiki-wielkopolska]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_wielkopolskie
-[wiki-lubuskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_lubuskie
-[wiki-silna]: https://pl.wikipedia.org/wiki/Silna
-[wiki-pszczew]: https://pl.wikipedia.org/wiki/Pszczew
-[wiki-stoki]: https://pl.wikipedia.org/wiki/Stoki_(wojew%C3%B3dztwo_lubuskie)
-
 
 Ciekawostką tej trasy była naprzemienna zmiana województw. Raz byliśmy w
 [wielkopolskim][wiki-wielkopolska], raz w [lubuskiem][wiki-lubuskie].
@@ -106,11 +111,6 @@ aby jechać. Wokół drogi są lekko pofalowane pola.
 Mieliśmy lekki podjazd, ktory nie był problemem, a lekką pracą w celu otrzymania
 późniejszej nagrody. Nagrodą tą był fajny terenowy zjazd do [Dormowa][wiki-dormowo].
 
-[wiki-dormowo]: https://pl.wikipedia.org/wiki/Dormowo
-[wiki-miedzychod]: https://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d
-[wiki-wielowies]: https://pl.wikipedia.org/wiki/Wielowie%C5%9B_(powiat_mi%C4%99dzychodzki)
-[wiki-radgoszcz]: https://pl.wikipedia.org/wiki/Radgoszcz_(wojew%C3%B3dztwo_wielkopolskie)
-
 Dojechaliśmy po pewnym czasie do lepszej drogi i kierowaliśmy się
 na północ w stronę [Międzychodu][wiki-miedzychod].
 
@@ -125,8 +125,6 @@ ruszamy dalej na północ. Czekała nas ponad 20 kilometrowa trasa przez
 Skręciliśmy na chwilę do ośrodka wypoczynkowego w [Radgoszczy][wiki-radgoszcz].
 Całkiem klimatyczne miejsce, ciekawe czy ono "żyje w sezonie".
 
-[wiki-drezdenko]: https://pl.wikipedia.org/wiki/Drezdenko
-
 Większość trasy przez [Puszczę Notecką][wiki-puszcza-notecka] określiłbym jako
 cierpienie. Jest to jazda po asfalcie gdzie po prawej i lewej jest las i piaski.
 Bardzo rzadko jest coś ciekawego, a co chwilę wyprzedzają nas samochody jadące
@@ -139,8 +137,6 @@ której mógłbym tutaj ponownie przejechać, chociaż może pojawią się kiedy
 
 Z ciekawostek po drodzę mijaliśmy jakiś [zakład przemysłowy][gaz] związane z
 gazem.
-
-[wiki-krzyz]: https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
 
 Michał przekonał mnie abyśmy pojechali do [Krzyża][wiki-krzyz] cały czas
 szlakiem [R1][wiki-r1]. Przystanąłem na jego wersje, chociaż wolałem pojechać

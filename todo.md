@@ -15,12 +15,13 @@ Jednodniowe z Poznania z dojazdem PKP
 Odległość rosnąca:
 
 * [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km, w pobliżu Bałtyku, wokół kolej
-* [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km, lekkie wyżyny drawskie
 * [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km, północ od Poznania
 * [Ziemomyśl - Gorzów](http://umapa.pl/2cJBW) - 66, przez Barlinecko-Gorzowski Park Krajobrazowy
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty, południe od Poznania
 * [Dolice - Barlinek - Górki Noteckie](http://umapa.pl/XOD3h) - 68km, północny-zachód od Poznania
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km, południe od Poznania
+* [Stargard - Wysoka Kamieńska](http://umapa.pl/9J0mm) - 69km, północ-zachód Polski, możliwe rozszerzenie
+  do [Kamienia Pomorskiego](http://umapa.pl/ajfGU) - 23km, lub [Międzyzdroi](http://umapa.pl/cIWou) - 96km
 * [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km, dolnośląskie
 * [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km, zachód od Poznania
 * [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km, zachód Polski, obok szynobus
@@ -31,11 +32,12 @@ Odległość rosnąca:
 * [Miały - Słonice](http://umapa.pl/FPynh) - 75km, północ od Poznania
 * [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km, zachód i lekko północ od Poznania
 * [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km, na wschód od Poznania
+* [Rębusz - Barlinek - Gorzów](http://umapa.pl/lMlCS) - 77km, na północny zachód od Poznania
 * [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km, na wschód od Poznania
 * [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km, północ od Poznania
 * [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, pogranicze z dolnośląskim, można skrócić
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
-* [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, możliwe piaski
+* [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, bardzo możliwe piaski
 * [Santok - Wronki](http://umapa.pl/JGGIo) - 91km, północny-zachód od Poznania, wokół
   Puszczy Noteckiej
 * [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km, południe od Poznania, przez
@@ -142,3 +144,5 @@ Wykonane
 * [Wronki - Zbąszyń](http://umapa.pl/pnhVh) - 90km,
   częściowo [wykonane]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}),
   trasa w okolicy Sierakowa nadal do zrobiona
+* [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km, lekkie wyżyny drawskie
+  [wykonane]({% post_url 2016-07-10-przez-pagorki-do-stargardu %})  

@@ -29,3 +29,5 @@ Opis trasy
 
 Szczegóły
 ---------
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/173498192' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>

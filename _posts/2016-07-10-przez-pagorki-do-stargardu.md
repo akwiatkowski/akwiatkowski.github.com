@@ -95,6 +95,8 @@ a w [Zwierzynie][wiki-zwierzyn] odległym o 6km.
 Wyrusziliśmy do [Strzelców Krajeńskich][wiki-strzelce-krajenskie] lekkim podjazdem.
 Powoli robiło się cieplej a zachmurzenie, które było rano, mijało.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/174201014' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Niedaleko miejscowości [Owczarki][wiki-owczarki] minęliśmy rowerową pielgrzymkę.
 
 Powoli teren robił się bardziej pofalowany, a po kilkunastu minutach wjechaliśmy do
@@ -112,6 +114,14 @@ duży blok na końcu wsi. Blok ten nie pasował do małej wioski.
 Przejechaliśmy przez [Sokólsko][wiki-sokolsko]. Tam z kolei było dość dużo
 starych domów. Według wikipedii wioski te były do 1945 roku miały [połączenie][wiki-pol-kolej] kolejowe.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/162583897/m%3D900/2f31fed605a4d50395e7225ca178aba8' alt='Old buildings in Żabicko by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/162583897/old-buildings-in-%C5%BBabicko-by-aleksander-kwiatkowski' alt='Old buildings in Żabicko by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Bardzo szybko przejechaliśmy przez [Żabisko][wiki-zabicko]. Jest to mała wioska,
 za którą kończy się województwo [lubuskie][wiki-lubuskie] a zaczyna
 [zachodniopomorskie][wiki-zachodniopomorskie].
@@ -124,7 +134,7 @@ regionów częste małe podjazdy i zjazdy.
 Po chwili znowu pola i kolejna wioska - [Trzęsacz][wiki-trzesacz]. A po nim
 jeszcze trochę do [Pełczyc][wiki-pelczyce].
 
-<!-- video2 -->
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/174212033' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Do [Pełczyc][wiki-pelczyce] wjechaliśmy tak jak najbardziej lubię - solidnym
 zjazdem. Z górki widzieliśmy bardzo dobrą panoramę na całe miasto. Patrząc na mapę
@@ -137,6 +147,14 @@ Na prawo przez [Jagów][wiki-jagow], a na lewo [Chrapowo][wiki-chrapowo].
 Wcześniej na mapie ustaliłem, że pojedziemy na prawo, teraz widzę że gdybyśmy
 skręcili w lewo przejechalibyśmy przez [Niepołcko][wiki-niepolcko]. Trasa
 byłaby tam trudniejsza, ale moglibyśmy zobaczyć ciekawsze miejsca.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/162557465/m%3D900/d331b36daa2ca6b941ba0821a213f017' alt='Sheep in Jagów by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/162557465/sheep-in-jag%C3%B3w-by-aleksander-kwiatkowski' alt='Sheep in Jagów by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Zjazd do [Jagowa][wiki-jagowa] był bardzo ładny widokowo. Chciałem się zatrzymać
 aby zrobić zdjęcie, jednak sam zjazd mnie przekonał, abym tego nie robił.
@@ -156,6 +174,8 @@ był on oddalony całkiem sporo - od 1 do 3km.
 Dojechaliśmy do ważniejszej drogi wiedząc, że na dziś już raczej kończymy
 przygodę z pagórkami. Minęliśmy rzekę [Płonie][wiki-rzeka-plonia] i wjeżdzaliśmy
 do [Przywodzia][wiki-przywodzie].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/174225024' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Do [Pomiętowa][wiki-pomietow] dojechaliśmy drogą polną, która była całkiem
 interesująca. Wokół mijaliśmy pola, a pod koniec był lekki zjazd. Następnie
