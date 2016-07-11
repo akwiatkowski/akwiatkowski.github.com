@@ -17,6 +17,7 @@ Odległość rosnąca:
 * [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km, w pobliżu Bałtyku, wokół kolej
 * [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km, lekkie wyżyny drawskie
 * [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km, północ od Poznania
+* [Ziemomyśl - Gorzów](http://umapa.pl/2cJBW) - 66, przez Barlinecko-Gorzowski Park Krajobrazowy
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty, południe od Poznania
 * [Dolice - Barlinek - Górki Noteckie](http://umapa.pl/XOD3h) - 68km, północny-zachód od Poznania
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km, południe od Poznania
