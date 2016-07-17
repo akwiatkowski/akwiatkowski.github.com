@@ -939,6 +939,13 @@
   inside:
     - wielkopolskie
 
+- slug: sierakow
+  name: Sieraków
+  header-ext-img: https://drscdn.500px.org/photo/163437443/q%3D80_m%3D2000/790beb90af9a6fde691dfffd30790117
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: skoki
   name: Skoki
   header-ext-img: https://drscdn.500px.org/photo/40391240/m%3D2048/62a84cb9b0a0e07bfe71fa030f2cfbba
