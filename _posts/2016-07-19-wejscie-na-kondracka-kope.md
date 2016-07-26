@@ -8,10 +8,11 @@ header-ext-img:         "https://drscdn.500px.org/photo/163437443/q%3D80_m%3D200
 categories:             trip
 tags:                   [todo]
 towns:                  [malopolskie, zakopane]
+lands:                  [tatry]
 
-coords:                 [{"route": [[]], "type": "hike"}]
-distance:               8
-time_spent:             3
+coords:                 [{"route": [[49.25956,19.96665], [49.25634,19.96863], [49.25239,19.96515], [49.24973,19.95167], [49.24645,19.94279], [49.24572,19.93477], [49.24637,19.93219], [49.24138,19.93421], [49.23894,19.93391], [49.23639,19.93223], [49.23410,19.93884], [49.24169,19.94378], [49.24979,19.95185]], "type": "hike"}]
+distance:               11
+time_spent:             5
 
 
 pois:
