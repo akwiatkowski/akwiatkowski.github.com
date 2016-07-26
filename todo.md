@@ -47,6 +47,7 @@ Odległość rosnąca:
 * [Szczecinek - Koszalin](http://umapa.pl/7GSTu) - 97km, wybrzeże, chociaż może lepiej było
   przez Kaszuby, tam są większe pagórki
 * [Szczecin - Gorzów Wielkopolski](http://umapa.pl/t77LG) - 101km, trasa raczej głównymi drogami
+* [Szczecinej - Białogard - Mielno](http://umapa.pl/J7gmy) - 104km, można przerwać w Białogardzie
 * [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km, pagórki obok doliny Noteci
 * [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić gdyż pociąg jest blisko
 * [Szczecin - Gorzów Wielkopolski](http://umapa.pl/0MeGw) - 111km, drogi bardziej poboczne

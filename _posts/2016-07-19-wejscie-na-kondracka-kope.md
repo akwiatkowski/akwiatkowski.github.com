@@ -4,7 +4,7 @@ title:                  "Wejście na Kondracką Kopę"
 subtitle:               "jak spacer przez mleko"
 date:                   2016-07-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/163437443/q%3D80_m%3D2000/790beb90af9a6fde691dfffd30790117"
+header-ext-img:         "https://drscdn.500px.org/photo/164958819/q%3D80_m%3D2000/8e2ebdff84017c72cc5353842f977361"
 categories:             trip
 tags:                   [todo]
 towns:                  [malopolskie, zakopane]

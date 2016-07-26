@@ -4,7 +4,7 @@ title:                  "Dotarcie do Zakopanego"
 subtitle:               "najtrudniejszy dzień wycieczki, spanie w pociągu"
 date:                   2016-07-18 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/163437443/q%3D80_m%3D2000/790beb90af9a6fde691dfffd30790117"
+header-ext-img:         "https://drscdn.500px.org/photo/164958501/q%3D80_m%3D2000/669c477d8f84b7ef1d1d790e02302b9e"
 categories:             trip
 tags:                   [todo]
 towns:                  [malopolskie, zakopane]
