@@ -8,6 +8,7 @@ permalink: /payload.json
   {% for post in site.posts %}
     {
       "url":  "{{ post.url | json_escape }}",
+      "slug":  "{{ post.slug | json_escape }}",
       "title":  "{{ post.title | json_escape }}",
       "category": "{{ post.categories | json_escape }}",
       "date": "{{ post.date | date: "%Y-%m-%d" }}",

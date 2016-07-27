@@ -27,7 +27,7 @@ s = File.read("_site/payload.json")
 data = JSON.parse(s)
 
 tmp_path = "_tools/gallery"
-resized_path = "_tools/gallery/resized"
+resized_path = "_tools/gallery/resized_mosaic"
 
 Dir.mkdir(tmp_path) unless File.exists?(tmp_path)
 Dir.mkdir(resized_path) unless File.exists?(resized_path)
