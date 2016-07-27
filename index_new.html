@@ -30,9 +30,19 @@ permalink:      /index_new/
         cols = Math.floor( $(window).width() / 600 );
         $(".grid-item.hidden:lt(" + cols + ")").hide().removeClass("hidden").show();
         $('.grid').masonry();
+        return true;
       }
+      return false;
+    }
 
-      //console.log()
+    function showLoop() {
+      setTimeout(function(){
+        result = showNext();
+        if (result) {
+          showLoop();
+        }
+      },
+      400);
     }
 
     $(window).scroll(function() {
@@ -45,8 +55,7 @@ permalink:      /index_new/
       // other options
     });
 
-    showNext();
-    showNext();
+    showLoop();
 
   });
 </script>
