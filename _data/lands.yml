@@ -325,6 +325,16 @@
   near:
     - gory_kaczawskie
 
+- slug: podhale
+  name: Podhale
+  header-ext-img: https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501
+  main: sudety
+  country: Polska
+  type: foothill
+  near:
+    - gorce
+    - pieniny
+
 # coastline
 - slug: wybrzeze_trzebiatowskie
   name: Wybrzeże Trzebiatowskie

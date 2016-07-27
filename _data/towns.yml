@@ -215,6 +215,13 @@
   inside:
     - wielkopolskie
 
+- slug: czorsztyn
+  name: Czorsztyn
+  header-ext-img: https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501
+  type: town
+  inside:
+    - malopolskie
+
 - slug: dabrowa_gornicza
   name: Dąbrowa Górnicza
   header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d
@@ -505,6 +512,13 @@
 - slug: labowa
   name: Łabowa
   header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
+  type: town
+  inside:
+    - malopolskie
+
+- slug: lapsze_nizne
+  name: Lapsze Niżne
+  header-ext-img: https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b
   type: town
   inside:
     - malopolskie
