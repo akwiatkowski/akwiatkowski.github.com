@@ -2,7 +2,7 @@
 layout:                 post
 title:                  "Nocne dojście do Strzechy Akademickiej"
 subtitle:               "przechadzka po godzinie 21 w zimie w górach"
-date:                   2013-11-29 23:00:00
+date:                   2013-11-29 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/54269044/m%3D2048/e89b5ade629e7c1af495e592ae29a076"
 categories:             trip
