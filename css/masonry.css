@@ -29,6 +29,11 @@
   transform: translateY(-50%);
 }
 
+.grid-item-post h1 a {
+  color: #fff;
+  text-shadow: 1px 1px #555;
+}
+
 .grid-item-post h4 {
   color: #fff;
   text-shadow: 1px 1px #555;
