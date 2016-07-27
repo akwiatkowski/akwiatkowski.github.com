@@ -27,7 +27,8 @@ permalink:      /index_new/
     function showNext() {
       isVis = $('#after-grid').visible(true);
       if (isVis) {
-        $(".grid-item.hidden:lt(3)").hide().removeClass("hidden").show();
+        cols = Math.floor( $(window).width() / 600 );
+        $(".grid-item.hidden:lt(" + cols + ")").hide().removeClass("hidden").show();
         $('.grid').masonry();
       }
 
