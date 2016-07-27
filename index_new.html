@@ -5,23 +5,47 @@ permalink:      /index_new/
 <div class="grid-super-container">
   <div class="grid grid-container">
     {% for post in site.posts %}
-    <div class="grid-item grid-item-post" style="background-repeat: no-repeat; background-image: url('/img/posts/{{ post.date || date: "%Y-%m-%d" }}_{{ post.slug }}.jpg');">
+    <div class="grid-item grid-item-post hidden" style="background-repeat: no-repeat; background-image: url('/img/posts/{{ post.date || date: "%Y-%m-%d" }}_{{ post.slug }}.jpg');">
       <h1>{{ post.title }}</h1>
       <h4>{{ post.date | date: "%Y-%m-%d" }}</h4>
     </div>
     {% endfor %}
   </div>
+  <div id="after-grid"></div>
 </div>
+
 
 <script type="text/javascript">
   $(document).ready(function () {
+    // masonry
     var $grid = $('.grid').masonry({
       fitWidth: true,
+      columnWidth: 600,
       gutter: 20
     });
-    // layout Masonry after each image loads
-    $grid.imagesLoaded().progress( function() {
-      $grid.masonry('layout');
+
+    function showNext() {
+      isVis = $('#after-grid').visible(true);
+      if (isVis) {
+        $(".grid-item.hidden:lt(3)").hide().removeClass("hidden").show();
+        $('.grid').masonry();
+      }
+
+      //console.log()
+    }
+
+    $(window).scroll(function() {
+      showNext();
     });
+
+    $('.grid').infinitescroll({
+      behavior: 'local',
+      binder: $('.grid'), // scroll on this element rather than on the window
+      // other options
+    });
+
+    showNext();
+    showNext();
+
   });
 </script>

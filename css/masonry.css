@@ -7,6 +7,10 @@
   margin: 0 auto;
 }
 
+#after-grid {
+  height: 500px;
+}
+
 .grid-item-post {
   width: 600px;
   height: 400px;
