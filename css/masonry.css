@@ -1,18 +1,17 @@
 .grid-super-container {
-  background-color: #000;
-  align: center;
+  background-color: #555;
 }
 
 .grid-container {
   top: 50px;
-  align: center;
+  margin: 0 auto;
 }
 
 .grid-item-post {
   width: 600px;
   height: 400px;
 
-  margin: 20px;
+  margin-bottom: 20px;
   padding: 10px;
 }
 

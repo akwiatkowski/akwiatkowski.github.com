@@ -16,7 +16,8 @@ permalink:      /index_new/
 <script type="text/javascript">
   $(document).ready(function () {
     var $grid = $('.grid').masonry({
-      // options...
+      fitWidth: true,
+      gutter: 20
     });
     // layout Masonry after each image loads
     $grid.imagesLoaded().progress( function() {
