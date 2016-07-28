@@ -68,7 +68,13 @@ Teraz
 musieliśmy przepłynąć jezioro i kontynuować trasę. To była zmiana początkowego
 planu.
 
-
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/165257317/m%3D900/56bcb9b01a3bc8978b9c127fc283252b' alt='Czorsztyn Castle by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/165257317/czorsztyn-castle-by-aleksander-kwiatkowski' alt='Czorsztyn Castle by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Rejs był bardzo spokojny a widoki... nastawiłem się na lepsze, szczerze mówiąc.
 Widzieliśmy jednocześnie oba zamki: w [Czorsztynie][wiki-czorsztyn-zamek]
