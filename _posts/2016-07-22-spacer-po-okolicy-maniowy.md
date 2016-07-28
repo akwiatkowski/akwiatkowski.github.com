@@ -22,3 +22,5 @@ pois:
 
 Wstęp
 -----
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650903338/embed/ece651f58c89ac3a61cb94dfd6461ebf7053f2ce'></iframe>
