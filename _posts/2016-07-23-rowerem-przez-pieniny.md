@@ -6,7 +6,7 @@ date:                   2016-07-23 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b"
 categories:             trip
-tags:                   [todo]
+tags:                   [hike, bicycle, todo_media]
 towns:                  [malopolskie, czorsztyn, lapsze_nizne]
 lands:                  [gorce, podhale, pieniny]
 
@@ -16,11 +16,92 @@ time_spent:             8
 
 
 pois:
-
+  - name: Zjazd z Czorsztyna z idealnym widokiem na wioski i Gorce. Spokojnie można osiągnąć >60km/h.
+    lat: 49.44424
+    lon: 20.32914
 
 ---
+
+[wiki-kluszkowce]: https://pl.wikipedia.org/wiki/Kluszkowce
+[wiki-czorsztyn]: https://pl.wikipedia.org/wiki/Czorsztyn
+[wiki-niedzica]: https://pl.wikipedia.org/wiki/Niedzica_(wojew%C3%B3dztwo_ma%C5%82opolskie)
+[wiki-sromowce-wyzne]: https://pl.wikipedia.org/wiki/Sromowce_Wy%C5%BCne
+[wiki-maniowy]: https://pl.wikipedia.org/wiki/Maniowy
+[wiki-nowy-targ]: https://pl.wikipedia.org/wiki/Nowy_Targ
+[wiki-czorsztyn-zamek]: https://pl.wikipedia.org/wiki/Zamek_w_Czorsztynie
+[wiki-niedzica-zamek]: https://pl.wikipedia.org/wiki/Zamek_w_Niedzicy
+[wiki-pieniny-park]: https://pl.wikipedia.org/wiki/Pieni%C5%84ski_Park_Narodowy
+[wiki-podbrzezie]: https://pl.wikipedia.org/wiki/Podbrzezie_(wojew%C3%B3dztwo_ma%C5%82opolskie)
 
 Wstęp
 -----
 
+Mieliśmy cały dzień i chcieliśmy zrobić coś innego, niż robiliśmy przez prawie cały tydzień.
+Znalazłem wypożyczalnię rowerów w [Kluszkowcach][wiki-kluszkowce] i to był nasz cel
+na ten dzień.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650905209/embed/9b3479b18e786aedb496ad82bef21557ae4a4b38'></iframe>
+
+Szczegóły
+---------
+
+Na początku musieliśmy dojść ponad 5 km do [Kluszkowców][wiki-kluszkowce],
+gdzie dowiedziliśmy się, że jednak mają tańsze rowery (MTB XC - cross country)
+dostępne. Naszym celem było pojeździć wokół jeziora, a nie ostro w terenie.
+Do tego ja miałem ciężkie górskie buty i plecak na sobie. Plecak był prawie pusty,
+ale był duży.
+
+Dostaliśmy rowery, tylko mój miał krótką sztycę, ale lepsze to niż nic.
+
+Zjechaliśmy przez centrum [Kluszkowców][wiki-kluszkowce] i ruszyliśmy w stronę
+[Czorsztyna][wiki-czorsztyn]. Czekał na nas podjazd, był on średni, ale
+tego dnia było bardzo ciepło, więc nie szaleliśmy.
+
+Myślałem że [Czorsztyn][wiki-czorsztyn] będzie większą miejscowością, a tu
+takie 2-3 ulice, trochę domów i chyba koniec. Jedynie coś się dzieje w okolicy portu.
+
+Zjechaliśmy do portu i wiedziałem, że nie będzie mi się chciało wracać - podjeżdzać.
+Teraz
+musieliśmy przepłynąć jezioro i kontynuować trasę. To była zmiana początkowego
+planu.
+
+
+
+Rejs był bardzo spokojny a widoki... nastawiłem się na lepsze, szczerze mówiąc.
+Widzieliśmy jednocześnie oba zamki: w [Czorsztynie][wiki-czorsztyn-zamek]
+oraz w [Niedzicy][wiki-niedzica-zamek].
+
+Po dotarciu na brzeg w [Niedzicy][wiki-niedzica] ruszyliśmy dalej. Zjechaliśmy
+do [Sromowców Wyżnych][wiki-sromowce-wyzne] mijając jezioro po lewej. W tym
+momencie byliśmy mniej niż kilometr od granicy oraz czekał na nas podjazd.
+Niestety bezpieczniejszy i przyjemniejszy byłby podjazd jakbyśmy jechali odwrotnie.
+
+Trochę prowadziliśmy rower aby nie przemęczać się. Mieliśmy mało wody, a ja nie
+miałem bukłaku. Dość mocno tego żałowałem, nawet podczas chodzenia możliwość
+popijania by mi pomogła bardzo.
+
+
+
+Przejechaliśmy przez [Pieniński Park Narodowy][wiki-pieniny-park] i czekał na nas
+lekki zjazd do [Czorsztyna][wiki-czorsztyn] gdzie zrobiliśmy dłuższą przerwę na
+obiad.
+
+Wracaliśmy do [Maniowy][wiki-maniowy] i czekał na nas zjazd. Jadąc ostrożnie na
+nie swoim rowerze udało mi się osiągnąć prędkość 61.8km/h, co mnie bardzo
+pozytywnie zaskoczyło. Na swoim możliwe że prędkość byłaby znacznie większa.
+Miałem kask, ale nie miałem okularów, ani kamerki.
+
+
+
+Na chwilę pojechaliśmy na [Podbrzezie][wiki-podbrzezie] na punkt widokowy.
+Już trochę domów tam się pobudowało. Później ruszyliśmy oddać rowery i
+zrobiliśmy sobie chwilowy odpoczynek.
+
+Z ciekawości do [Maniowy][wiki-maniowy] wróciliśmy autobusem, dzięki czemu
+dowiedzieliśmy się że mamy autobus do [Nowego Targu][wiki-nowy-targ] tuż
+obok noclegu.
+
+Następnego dnia spakowaliśmy się i wracaliśmy do domów.
