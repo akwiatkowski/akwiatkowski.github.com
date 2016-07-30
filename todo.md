@@ -34,11 +34,13 @@ Odległość rosnąca:
 * [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km, na wschód od Poznania
 * [Rębusz - Barlinek - Gorzów](http://umapa.pl/lMlCS) - 77km, na północny zachód od Poznania
 * [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km, na wschód od Poznania
+* [Ziemomyśl - Gorzów](http://umapa.pl/QTzsM) - 79km, na północny-zachód od Poznania, obok Choszczna
 * [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km, północ od Poznania
 * [Szczecinek - Ciecholub](http://umapa.pl/HurnC) - 81km, dojazd >3h w jedną stronę
 * [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, pogranicze z dolnośląskim, można skrócić
 * [Szczecinek - Koszalin](http://umapa.pl/qFrcO) - 82km, prawie do Wybrzeża
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
+* [Krzyż - Piła](http://umapa.pl/4gBuA) - 87km, na północ od Poznania
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, bardzo możliwe piaski
 * [Santok - Wronki](http://umapa.pl/JGGIo) - 91km, północny-zachód od Poznania, wokół
   Puszczy Noteckiej

@@ -90,9 +90,25 @@ Schodziliśmy czerwonym szlakiem do [Jarząbczej Doliny][wiki-jarzabcza-dolina].
 Jest on znacznie ładniejszy i łatwiejszy, niż
 ten którym wchodziliśmy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/165346943/m%3D900/8af6d4e896cee67a1125976b6ed716fe' alt='Stream in Chochołowska Valley by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/165346943/stream-in-chocho%C5%82owska-valley-by-aleksander-kwiatkowski' alt='Stream in Chochołowska Valley by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Mijaliśmy kilka razy strumyk na szlaku i tam ponownie próbowałem odpowiednio
 uchwycić płynącą wodę. Przez to trochę zostawałem w tyle. Zdenerwowanie innych
 przeminie, ale zdjecia pozostaną.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/165348185/m%3D900/4cdcdee8a7992caf2bcbb70360532fc3' alt='Wet rocks by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/165348185/wet-rocks-by-aleksander-kwiatkowski' alt='Wet rocks by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Powoli robiło się już ciemniej i chłodniej. Jakby podczas jednej godziny
 temperatura spadłą o kilka stopni.
