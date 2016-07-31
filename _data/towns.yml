@@ -75,6 +75,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: bialosliwie
+  name: Białośliwie
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: bielsko-biala
   name: Bielsko-Biała
   header-ext-img: https://drscdn.500px.org/photo/97144903/m%3D2048/912df5c155c296b53a1edf92c86a41de
@@ -123,6 +130,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: bydgoszcz
+  name: Bydgoszcz
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
+  type: town
+  inside:
+    - kujawsko_pomorskie
 
 - slug: bystrzyca_klodzka
   name: Bystrzyca Kłodzka
@@ -516,6 +530,13 @@
   inside:
     - podkarpackie
 
+- slug: lapsze_nizne
+  name: Lapsze Niżne
+  header-ext-img: https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b
+  type: town
+  inside:
+    - malopolskie
+
 - slug: labowa
   name: Łabowa
   header-ext-img: https://drscdn.500px.org/photo/115181755/m%3D2048/6e480e9898c8e11dfe841e3a18089e2e
@@ -523,12 +544,12 @@
   inside:
     - malopolskie
 
-- slug: lapsze_nizne
-  name: Lapsze Niżne
-  header-ext-img: https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b
+- slug: lobzenica
+  name: Łobżenica
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
   type: town
   inside:
-    - malopolskie
+    - wielkopolskie
 
 - slug: marciszow
   name: Marciszów
@@ -540,6 +561,13 @@
 - slug: margonin
   name: Margonin
   header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: miasteczko_krajenskie
+  name: Miasteczko Krajeńskie
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
   type: town
   inside:
     - wielkopolskie
@@ -620,6 +648,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: mrocza
+  name: Mrocza
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
+  type: town
+  inside:
+    - kujawsko_pomorskie
 
 - slug: murowana_goslina
   name: Murowana Goślina
@@ -953,6 +988,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: sicienko
+  name: Sicienko
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
+  type: town
+  inside:
+    - kujawsko_pomorskie
+
 - slug: siedlec
   name: Siedlec
   header-ext-img: https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0
@@ -1215,6 +1257,13 @@
 - slug: wronki
   name: Wronki
   header-ext-img: https://drscdn.500px.org/photo/70436241/m%3D2048/6d181d226318384026e9aab3630b11b5
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: wyrzysk
+  name: Wyrzysk
+  header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
   type: town
   inside:
     - wielkopolskie
