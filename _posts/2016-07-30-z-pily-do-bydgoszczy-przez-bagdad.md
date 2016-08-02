@@ -4,7 +4,7 @@ title:                  "Z Piły do Bydgoszczy przez Bagdad"
 subtitle:               "promem przez Czorsztyn, a później powrót przez Pieniński Park Narodowy"
 date:                   2016-07-30 16:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948"
+header-ext-img:         "https://drscdn.500px.org/photo/165987109/q%3D80_m%3D2000/1b8db0fa93e90986612ce6d01b0d4780"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, kujawsko_pomorskie, kaczory, miasteczko_krajenskie, bialosliwie, wyrzysk, lobzenica, mrocza, sicienko, bydgoszcz]
