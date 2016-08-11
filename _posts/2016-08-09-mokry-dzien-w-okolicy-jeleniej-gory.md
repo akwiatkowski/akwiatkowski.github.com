@@ -4,7 +4,7 @@ title:                  "Mokry dzień w okolicy Jeleniej Góry"
 subtitle:               "przez Pilchowice"
 date:                   2016-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/165987109/q%3D80_m%3D2000/1b8db0fa93e90986612ce6d01b0d4780"
+header-ext-img:         "https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk, stara_kamienica, lubomierz, wlen, jezow_sudecki, jelenia_gora]

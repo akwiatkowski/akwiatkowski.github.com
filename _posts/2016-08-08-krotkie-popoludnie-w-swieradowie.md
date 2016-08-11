@@ -4,7 +4,7 @@ title:                  "Krótkie popołudnie w Świeradowie"
 subtitle:               "wjazd gondolą, do Chatki Górzystów i pierwszy singletrak"
 date:                   2016-08-08 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/165987109/q%3D80_m%3D2000/1b8db0fa93e90986612ce6d01b0d4780"
+header-ext-img:         "https://drscdn.500px.org/photo/167328031/q%3D80_m%3D2000/6a49b4365f8f63b54ff7588f816d16ff"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk]
