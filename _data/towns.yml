@@ -635,6 +635,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: mirsk
+  name: Mirsk
+  header-ext-img: https://drscdn.500px.org/photo/167328031/q%3D80_m%3D2000/6a49b4365f8f63b54ff7588f816d16ff
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: mogilno
   name: Mogilno
   header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1
