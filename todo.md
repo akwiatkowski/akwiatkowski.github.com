@@ -52,6 +52,8 @@ Odległość rosnąca:
 * [Szczecinej - Białogard - Mielno](http://umapa.pl/J7gmy) - 104km, można przerwać w Białogardzie
 * [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km, pagórki obok doliny Noteci
 * [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić gdyż pociąg jest blisko
+* [Sławno - Jarosławiec](http://umapa.pl/MgI5f) - 110km, niestety aby wrócić trzeba rozszerzyć do 150km (Słupsk),
+  albo 130km (przez Ustke), albo wrócić z Ustki 117km
 * [Szczecin - Gorzów Wielkopolski](http://umapa.pl/0MeGw) - 111km, drogi bardziej poboczne
 
 Jedno/wielo-dniowe z bazą zewnętrzną:
