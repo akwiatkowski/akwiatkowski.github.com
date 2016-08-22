@@ -31,14 +31,70 @@ pois:
 [event]: https://www.facebook.com/events/1022297097848300/
 [trip]: {% post_url 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego %}
 
+[wiki-mokrz]: https://pl.wikipedia.org/wiki/Mokrz
+
+
 Wstęp
 -----
 
-Tego dnia miałem jechać uczestniczyć w [wydarzeniu][event], jednak tego dnia
-później pojawiły się inne obowiązki, związane z przyszłym wyjazdem w góry.
+Tego dnia miałem jechać uczestniczyć w [wydarzeniu][event], jednak
+pojawiły się inne obowiązki do wykonania po południu, związane one były z [przyszłym wyjazdem
+w Tatry]({% post_url 2016-07-18-dotarcie-do-zakopanego %}).
 
-Była połowa lipca - tuż przed zbiorami, jednocześnie pogoda była całkiem obiecująca
-dlatego musiałem gdzieś pojechać. Wiedziałem że w okolicy będzie dużo pól, trochę
+Była to połowa lipca - tuż przed zbiorami, jednocześnie pogoda była całkiem obiecująca
+dlatego musiałem gdzieś pojechać. Wiedziałem że w tamtej okolicy będzie dużo pól, trochę
 jezior i po [wcześniejszym przejeździe][trip] wiedziałem, że jest tam ładnie.
 
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/642594997/embed/a0fbdac8d6b0b2045eaf87a11bc91c89566d656e'></iframe>
+
+Szczegóły
+---------
+
+Dojechałem pociągiem do [Mokrza][wiki-mokrz] - mała osada w
+[Puszczy Noteckiej][wiki-puszcza-notecka]. Stacja jest malutka, trochę pocieszna,
+bo taka sama postawiona pośrodku wielkiego lasu. Zielono z każdej strony tam jest.
+
+Ruszyłem niebieskim szlakiem rowerowym na południe do drogi 150. Okazało się, że
+w całkiem dobrej jakości jest ta droga i jechało się przyjemnie.
+
+Gdy dojechałem do drogi 150 uderzył mnie charakterystyczny klimat wiosek wokół
+[Warty][wiki-warta]. Połączenie lekko pofalowanego terenu, spokoju, odległości od
+większych miast z naprzemiennymi polami i lasami.
+
+Największą miejscowością w tej okolicy jest wieś [Chojno][wiki-chojno]. Tak jak
+Eskimosi mają wiele określeń na śnieg, tak Polacy powinni mieć wiele określeń
+na wioski gdyż wioska może bardzo różnić się od wioski. Widziałem tam nawet jakąś
+agroturystykę.
+
+Wyjeżdzając z [Chojna][wiki-chojno] zaczęły się pola i rzadko umieszczone
+gospodarstwa rolne.
+
+Przed [Sierakowem][wiki-sierakow] musiałem przejechać jeszcze trochę przez
+tereny leśne. Minąłem duży most nad [Wartą][wiki-warta] i przejechałem przez
+rynek zatrzymując się obok kościoła. Potrzebowałem godzinę i 6 minut aby
+dojechać do [Sierakowa][wiki-sierakow], czyli oznaczam to jako dobry szlak dojazdowy.
+
+Wyjeżdzając przejechałem pod torami kolejowymi. Szkoda że nie są one teraz
+używane, bo trasa jest bardzo ładna, do tego [Sieraków][wiki-sierakow] jest
+istotną miejscowością wypoczynkową w okolicy [Poznania][wiki-poznan].
+
+[wiki-szlak-stu]: https://pl.wikipedia.org/wiki/Szlak_Stu_Jezior
+
+Od tego momentu rozpoczął się szybki i sprawny powrót. Celem były [Wronki][wiki-wronki].
+Jechałem głównie [Szlakiem Stu Jezior][wiki-szlak-stu].
+
+Nie będę opisywał co jest najciekawsze, ale zdecydowanie polecam ten szlak.
+W przyszłości spróbuję przejechać resztę jego.
+
+Spieszyłem się i dlatego jechałem główną drogą. Niestety dojeżdzając do
+[Starego Miasta][wiki-stare-miasto] obok [Wronek][wiki-wronki] kamerka mi się
+wyładowała, a spiesząc się na pociąg nie chciałem zmieniać baterii. Z tego
+powodu nie nagrałem zjazdu. Zjazd ten jest jednym z najciekawszych gdyż
+widzi się okolicę [Warty][wiki-warta].
+
+
+Na dworzec dojechałem chyba minutę przed odjazdem, na szczęście pociąg
+spóźnił się kilka minut.
