@@ -325,7 +325,14 @@
   header-ext-img: https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f
   type: town
   inside:
-    - zachodnio_pomorskie
+    - dolnoslaskie
+
+- slug: gryfow_slaski
+  name: Gryfów Śląski
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: janikowo
   name: Janikowo
@@ -516,9 +523,23 @@
   inside:
     - slaskie
 
+- slug: lesna
+  name: Leśna
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: lubomierz
   name: Lubomierz
   header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
+  type: town
+  inside:
+    - dolnoslaskie
+
+- slug: luban
+  name: Lubań
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   inside:
     - dolnoslaskie
@@ -565,6 +586,13 @@
   inside:
     - wielkopolskie
 
+- slug: malechowo
+  name: Malechowo
+  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
+  type: town
+  inside:
+    - zachodnio_pomorskie
+
 - slug: marciszow
   name: Marciszów
   header-ext-img: https://drscdn.500px.org/photo/23973831/m%3D2048/a725d7a3c1f1f54288e68f2d4b71ff31
@@ -585,6 +613,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: miastko
+  name: Miastko
+  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
+  type: town
+  inside:
+    - pomorskie
 
 - slug: miedzichowo
   name: Miedzichowo
@@ -777,6 +812,13 @@
   inside:
     - podkarpackie
 
+- slug: olszyna
+  name: Olszyna
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: opalenica
   name: Opalenica
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -847,6 +889,13 @@
   inside:
     - malopolskie
 
+- slug: platerowka
+  name: Platerówka
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: pniewy
   name: Pniewy
   header-ext-img: https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce
@@ -867,6 +916,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: polanow
+  name: Polanow
+  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
+  type: town
+  inside:
+    - zachodnio_pomorskie
 
 - slug: polczyn_zdroj
   name: Polczyn Zdrój
@@ -1022,6 +1078,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: siekierczyn
+  name: Siekierczyn
+  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: sierakow
   name: Sieraków
