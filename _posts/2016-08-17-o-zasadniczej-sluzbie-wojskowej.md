@@ -16,7 +16,7 @@ tags:                   [article]
 O co chodzi?
 ------------
 
-Natrafiłem dzisiaj na, jak się domyślam jedną z wielu, [wpis o zasadniczej
+Natrafiłem dzisiaj na [wpis o zasadniczej
 służbie wojskowej][fejs]. Powodują one zażarte dyskusje ze sporą dawką agresji. Zastanawia
 mnie to dlaczego nawet na najbardziej dziwnych subredditach na [reddicie](https://www.reddit.com)
 ludzie potrafią komentować w sposób kulturalny.
@@ -139,7 +139,7 @@ Najciekawsze wypowiedzi
 
 "Konrad, ty "polaku" to tak pamiętaj, że w naszym języku nazwy narodowości piszemy wielką literą. Więc takie pseudowojaki, zamiast łapać za karabin niech łapią za słowniki j. polskiego. A tak w ogóle to go nie wyzywajcie. Kto chce to niech idzie do wojska. Wojsko nie jest dla wszystkich. Nie udawajcie wojaków w intrenecie. Łatwo wam wykrzykiwać to a nie byliście nigdy na wojnie. I nie wiecie jak zachowalibyście gdybyście usłyszeli świst pocisków nad waszymi głowami, martwymi i rozszarpanymi zwłokami, umieranie rannych" [źródło](https://www.facebook.com/noszkurwamac/photos/a.426768790205.369963.426279270205/10158093582885206/?type=3&comment_id=10158093623070206&reply_comment_id=10158094488365206&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-"Ty spierdolino końska!!.. Zresztą.. Nie mam nawet słów na hah "głebszy" komentarz.. Niczyja wina, że za grosz w Tobie patriotyzmu i historii, którą powinniśmy przekazywać z pokolenia na pokolenie, choćby poprzez odbicie służby przygotowawczej a o służbie zawodowej już nie mówię bo broni do rąk to bym Ci nie dał Kolego.. Najpierw poznaj się, na czym polega rzemiosło wojskowe, poznaj takich ludzi, ŻOŁNIERZY, a później bierz się do pierdolenie farmazonów.."] [źródło](https://www.facebook.com/noszkurwamac/photos/a.426768790205.369963.426279270205/10158093582885206/?type=3&comment_id=10158093623070206&reply_comment_id=10158095289335206&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
+"Ty spierdolino końska!!.. Zresztą.. Nie mam nawet słów na hah "głebszy" komentarz.. Niczyja wina, że za grosz w Tobie patriotyzmu i historii, którą powinniśmy przekazywać z pokolenia na pokolenie, choćby poprzez odbicie służby przygotowawczej a o służbie zawodowej już nie mówię bo broni do rąk to bym Ci nie dał Kolego.. Najpierw poznaj się, na czym polega rzemiosło wojskowe, poznaj takich ludzi, ŻOŁNIERZY, a później bierz się do pierdolenie farmazonów.." [źródło](https://www.facebook.com/noszkurwamac/photos/a.426768790205.369963.426279270205/10158093582885206/?type=3&comment_id=10158093623070206&reply_comment_id=10158095289335206&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 rzekł "Ładowniczy w załodze czołgu Leopard 2A5 w: 34 Brygada Kawalerii Pancernej".
 
 "Za swój kraj oddał bym życie i jeśli będzie tak ze wojna zapuka do oolskich drzwi to będę na jednostce zanim list dotrze do mnie do domu ale jeśli ktoś mi każe jechać do Iraku Afganistanu albo na inne zadupie walczyć za żydowska ropę ruski gaz czy chuj wie co jeszcze innego to sam się zgłosze do więzienia bo w przysiędze nie było o tym mowy ze mamy umierać za czyjeś pieniądze" [źródło](https://www.facebook.com/noszkurwamac/photos/a.426768790205.369963.426279270205/10158093582885206/?type=3&comment_id=10158093623070206&reply_comment_id=10158101375175206&comment_tracking=%7B%22tn%22%3A%22R9%22%7D) piszę osoba mieszkająca w Coventry w Wielkiej Brytanii

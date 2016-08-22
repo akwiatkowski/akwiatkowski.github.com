@@ -369,6 +369,13 @@
   inside:
     - kujawsko_pomorskie
 
+- slug: jezow_sudecki
+  name: Jeżów Sudecki
+  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: kaczory
   name: Kaczory
   header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
@@ -509,16 +516,23 @@
   inside:
     - slaskie
 
-- slug: lubowo
-  name: Łubowo
-  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1
+- slug: lubomierz
+  name: Lubomierz
+  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
   type: town
   inside:
-    - wielkopolskie
+    - dolnoslaskie
 
 - slug: lubon
   name: Luboń
   header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
+  type: town
+  inside:
+    - wielkopolskie
+
+- slug: lubowo
+  name: Łubowo
+  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1
   type: town
   inside:
     - wielkopolskie
@@ -1246,6 +1260,13 @@
   type: town
   inside:
     - slaskie
+
+- slug: wlen
+  name: Wleń
+  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: wolin
   name: Wolin
