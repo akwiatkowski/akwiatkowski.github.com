@@ -29,6 +29,9 @@ pois:
 [wiki-sierakow]: https://pl.wikipedia.org/wiki/Sierak%C3%B3w
 [wiki-notec]: https://pl.wikipedia.org/wiki/Note%C4%87
 [wiki-drawski-mlyn]: https://pl.wikipedia.org/wiki/Drawski_M%C5%82yn
+[wiki-kruszwica]: https://pl.wikipedia.org/wiki/Kruszwica
+[wiki-miedzychod]: https://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d
+[wiki-krzyz]: https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
 
 [turkol]: http://www.turkol.pl/
 
@@ -38,11 +41,12 @@ Wstęp
 
 O [TurKol.pl][turkol] dowiedziałem się niedawno. Bardzo spodobał mi się pomysł
 przejazdu liniami kolejowymi, po których nie jeżdzą już pociągi pasażarskie. Widzę jak co
-chwilę były kolejne linie rozbierane, na ogół na rzecz budowy ścieżek rowerowych.
+chwilę były rozbierane kolejne linie, na ogół na rzecz późniejszej budowy ścieżek rowerowych.
 
-Prywatnie uważam że ma to sens czasem, ale bardzo rzadko. Na ogół jest to
+Prywatnie uważam że ma to sens czasem i jest nadużywane. Na ogół jest to
 "łatwym rozwiązaniem" problemu nieużywanych, niszczejących linii, a ogólnie
-jest to efektem strategii olewania transportu szynowego przez ostatnie lata.
+jest to efektem strategii olewania transportu szynowego przez ostatnie lata (od końca
+lat 80-tych).
 
 Jako pierwszy przejazd z [TurKolem][turkol] wybrałem trasę do [Czarnkowa][wiki-czarnkow].
 Powodów było kilka: plotki o ciekawych terenach wokół [Czarnkowa][wiki-czarnkow]
@@ -66,10 +70,10 @@ jednak są miejsca które zawsze mi się podobają.
 Za [Wągrowcem][wiki-wagrowiec] pociąg jechał już bardzo wolno. Na GPSie miałem 20km/h.
 Nie było to dla mnie problemem gdyż mogłem lepiej obserwować okolicę, chociaż
 przez dłuższy czas za [Wągrowcem][wiki-wagrowiec] nie było wiele do obserwacji.
-Linia kolejowa mocno zarosła ponieważ chyba nic tam nie jeździ teraz. Wyglądało to
+Linia kolejowa mocno zarosła ponieważ (chyba) nic tam nie jeździ teraz. Wyglądało to
 jakby pociąg przedzierał się przez puszczę.
 
-Gdy minęliśmy las jechaliśmy wokół pól. Wioski były obok, ale były one bardzo małe
+Gdy minęliśmy lasy jechaliśmy wokół pól. Wioski były obok, ale były one bardzo małe
 i jakoś budynków niewiele widziałem.
 Dopiero [Runowo][wiki-runowo] było "większą" miejscowością - posiadało
 swoją stację kolejową. Stacja ta teraz jest bardziej zapomniana niż
@@ -82,7 +86,8 @@ do siebie tereny wielkopolskich wiosek.
 W [Ryczywole][wiki-ryczywol] przesiedliśmy się na autobus, którym teraz będziemy
 jechać robiąc zdjęcia pociągowi na stacjach oraz przy najciekawszych przejazdach.
 Jak mam być szczery to linia kolejowa między [Sierakowem][wiki-sierakow]
-a [Szamotułami][wiki-szamotuly] jest ciekawsza pod względem infrastruktury.
+a [Szamotułami][wiki-szamotuly] jest ciekawsza pod względem infrastruktury,
+jednak nie można jej przejechać.
 
 <div class='pixels-photo'>
   <p>
@@ -94,7 +99,7 @@ a [Szamotułami][wiki-szamotuly] jest ciekawsza pod względem infrastruktury.
 
 Najciekawszym przystankiem na robienie zdjęć była Szwajcaria Czarnkowska.
 Zdziwiłęm się jak wysokie są tam górki. Gdybym wiedział co mnie czeka to ubrałbym
-lepsze buty gdyż wejście i zejście po mokrej ziemii było bardzo trudne.
+lepsze buty, gdyż wejście i zejście po mokrej ziemii było bardzo trudne.
 Schodziłem prawie na czworakach a do tego zaczęło padać.
 
 Następnie dojechaliśmy na dworzec w [Czarnkowie][wiki-czarnkow] i udaliśmy się
@@ -122,3 +127,7 @@ podwójną tęczę.
 
 W międzyczasie rozmawiałem o sprawach kolejowych, o tym co jest dobre i co jest
 złe. Mam nadzieje że wszystko powoli będzie się zmieniało w dobrym kierunku.
+
+
+W przyszłości skorzystam z kolejnych wydarzeń [Turkol.pl][turkol], głównie
+do [Kruszwicy][wiki-kruszwica] i [Międzychodu][wiki-miedzychod].

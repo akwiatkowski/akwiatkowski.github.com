@@ -565,8 +565,15 @@
   inside:
     - podkarpackie
 
+- slug: lubasz
+  name: Lubasz
+  header-ext-img: https://drscdn.500px.org/photo/166693909/q%3D80_m%3D2000/9340e4a63640d49b4304052304dc8023
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: lapsze_nizne
-  name: Lapsze Niżne
+  name: Łapsze Niżne
   header-ext-img: https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b
   type: town
   inside:
@@ -917,6 +924,13 @@
   inside:
     - dolnoslaskie
 
+- slug: polajewo
+  name: Połajewo
+  header-ext-img: https://drscdn.500px.org/photo/166693909/q%3D80_m%3D2000/9340e4a63640d49b4304052304dc8023
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: polanow
   name: Polanow
   header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
@@ -1029,6 +1043,13 @@
   type: town
   inside:
     - malopolskie
+
+- slug: ryczywol
+  name: Ryczywól
+  header-ext-img: https://drscdn.500px.org/photo/166693909/q%3D80_m%3D2000/9340e4a63640d49b4304052304dc8023
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: rymanow
   name: Rymanów
