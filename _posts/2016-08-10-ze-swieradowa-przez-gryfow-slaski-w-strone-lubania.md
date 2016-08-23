@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Ze Świeradowa przez Gryfów Śląski w stronę Lubania"
-subtitle:               "przez Pilchowice"
+subtitle:               "sudeckie rejony mają swój klimat również gdy jest szaro"
 date:                   2016-08-10 15:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e"

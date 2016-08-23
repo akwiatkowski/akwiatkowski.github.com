@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Aby nie czekać za pociągiem w Zielonej Górze"
-subtitle:               "przez Pilchowice"
+subtitle:               "przez małe wioski otulone lasami"
 date:                   2016-08-10 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920"

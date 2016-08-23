@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Mokry dzień w okolicy Jeleniej Góry"
-subtitle:               "przez Pilchowice"
+subtitle:               "przez zaporę w Pilchowicach i kończąć susząc się na dworcu kolejowym"
 date:                   2016-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e"
