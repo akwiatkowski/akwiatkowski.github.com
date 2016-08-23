@@ -1212,6 +1212,13 @@
   inside:
     - wielkopolskie
 
+- slug: swidnica
+  name: Świdnica
+  header-ext-img: https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920
+  type: town
+  inside:
+    - lubuskie
+
 - slug: swierzawa
   name: Świerzawa
   header-ext-img: https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a
@@ -1421,6 +1428,13 @@
   type: town
   inside:
     - dolnoslaskie
+
+- slug: zielona_gora
+  name: Zielona Góra
+  header-ext-img: https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920
+  type: town
+  inside:
+    - lubuskie
 
 - slug: zlocieniec
   name: Złocieniec

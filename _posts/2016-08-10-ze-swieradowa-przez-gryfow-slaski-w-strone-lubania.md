@@ -39,5 +39,45 @@ Szczegóły
 
 Tak jak [dzień wcześniej]({% post_url 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory %})
 ruszyliśmy ze [Świeradowa][wiki-swieradow] na północ. Tym razem w [Orłowicach][wiki-orlowice]
-nie skręciliśmy na wschód, ale dalej jechaliśmy niebieskim szlakiem rowerowym.
-Przez
+nie skręciliśmy na wschód, ale dalej jechaliśmy niebieskim szlakiem rowerowym przez
+[Mroczkowice][wiki-mroczkowice] aż do [Mirska][wiki-mirsk].
+
+W [Mirsku][wiki-mirsk] skręciliśmy na czerwony szlak rowerowy i niestety jechaliśmy
+trochę drogą z większym ruchem samochodowym. Czekał na nas podjazd aż do
+[Proszkówki][wiki-proszkowka], gdzie musieliśmy podjechać do trochę ponad 400m n.p.m.
+
+Następną miejscowością był [Gryfów Śląski][wiki-gryfow-slaski] gdzie przejechaliśmy
+przez raczej ładny rynek i wyjechaliśmy ulicą Partyzantów na zachód.
+
+Aby nie jechać po drodzę krajowej 30 przejechaliśmy przez
+[Nową Świdnicę][wiki-nowa-swidnica]. Miejscowość ta skojarzyła mi się z wioskami,
+przez które przejeżdzałem
+[w okolicy Kłodzka (pod koniec dnia)]({% post_url 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe %}).
+
+Kierowaliśmy się do [Biedrzychowic][wiki-biedrzychowice] i następnie dalej na zachód,
+aż do [Bożkowic][wiki-bozkowice], przed którymi był krótki ale fajny zjazd wokół pól.
+W samej wsi zauwayliśmy ostrzeżenie o barszczu sosnowskiego.
+
+Skręciliśmy na północ kierując się przez [Kościelnik][wiki-koscielnik] do
+[Lubania][wiki-luban]. Jechaliśmy wokół linii kolejowej, która jest chyba w tym
+momencie nieużywana. W [Lubaniu][wiki-luban] zrobiliśmy przerwę na solidny obiad.
+Znaleźliśmy miejsce gdzie można było zjeść dwa dania za 12zł.
+
+Miałem półtora godziny do odjazdu pociągu w [Zgorzelcu][wiki-zgorzelec],
+ale nie było konieczne abym dojechał aż tam. Wystarczyło wybrać dowolną stację
+przed.
+
+[map-lubanski-las]: http://wikimapia.org/15374323/pl/Luba%C5%84ski-Wielki-Las
+
+Wjechaliśmy w [Lubański Wielki Las][map-lubanski-las], który zaczął się od
+parku w [Lubaniu][wiki-luban]. Niedługo rozdzieliśmy się, gdyż ja jechałem na pociąg
+a Maciej wracał do [Świeradowa][wiki-swieradow].
+
+Zjechałem w stronę [Zaręby][wiki-zareba] jadąc obok terenów kopalni.
+Do stacji są dwie drogi dojazdowe, po chwili zrozumiałem czemu. Jedna jest
+położona w tunelu pod torami kolejowymi i była tam ogromna kałuża.
+Gdyby nie było drugiej drogi miałbym solidny problem. Jeżeli jednak w jakimś
+miejscu żyją ludzie to sami muszą się poruszać i sami by jakąś drogę wydeptali.
+
+Postanowiłęm że dalej nie jadę. Trochę lenistwo, trochę niepewność czy dojechałbym,
+trochę pogoda nie przekonywała mnie i trochę ciekawość tej linii kolejowej.

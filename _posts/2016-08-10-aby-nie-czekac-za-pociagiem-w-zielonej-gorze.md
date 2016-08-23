@@ -19,4 +19,25 @@ pois:
 
 ---
 
+Wstęp
+-----
+
+Miałem kupiony bilet do [Zielonej Góry][wiki-zielona-gora], tylko że musiałbym
+czekać na pociąg do [Poznania][wiki-poznan] około 2.5 godziny. Jestem zbyt leniwy
+aby tyle czekać.
+
+Przeanalizowałem gdzie mógłbym wysiąść. Myślałe o [Nowogrodzie Bobrzańskim][wiki-nowogrod]
+tylko że wtedy musiałbym jechać około 30km. A co jakbym złapał gumę i spóźniłbym się na
+pociąg? Wersją lżejszą było wysiąść na stacji w [Koźli][wiki-kozla] i tam miałem nieco
+poniżej 20km oraz pewniejszą i spokojniejszą trasę.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/671669007/embed/239797b88ecd7843eea797980fde44e9c9890dbc'></iframe>
+
+Szczegóły
+---------
+
+Pogoda się trochę poprawiała, pojawiało się słońce, ale godzina była zbyt późna
+aby było ciepło.
