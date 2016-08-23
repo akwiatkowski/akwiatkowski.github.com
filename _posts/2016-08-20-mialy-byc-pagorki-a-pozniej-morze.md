@@ -22,6 +22,9 @@ pois:
 Wstęp
 -----
 
+Trasę zaplanowaliśmy korzystając z mapy [UMP][ump]. Wybraliśmy drogi o bardzo małym ruchu
+ograniczając jazdę po drogach gruntowych. Miały być pagórki i dość dobra pogoda bez deszczu.
+Trochę się przeliczyliśmy.
 
 Opis trasy
 ----------
@@ -30,3 +33,13 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Tego dnia wstałem o 5 rano, gdyż miałem pociąg do [Szczecinka][wiki-szczecinek]
+około 6:40. Niestety połączenie kolejowe nie jest najszybsze.
+
+Przetrwaliśmy te 3 godziny jazdy pociągiem i przesiadliśmy się do kolejnego
+pociągu. Nigdy nie jechałem takim szynobusem. Wyglądał on bardziej jak autobus
+lub tramwaj na torach niż zwykły pociąg.
+
+Jechał on przez ciekawy tereny. Ogrom lasów oraz rozpoczynające się pagórki. Ciekawe
+było umieszczenie linii telefonicznych obok torów.

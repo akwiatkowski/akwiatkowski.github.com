@@ -41,3 +41,7 @@ Szczegóły
 
 Pogoda się trochę poprawiała, pojawiało się słońce, ale godzina była zbyt późna
 aby było ciepło.
+
+Notki:
+* sporo podjazdów na początku, aby dostać się do ok 100m
+* pierwszy zjazd Letnica przed Buchałowem
