@@ -58,7 +58,7 @@ Szczegóły
 ---------
 
 Wyruszyłem pociągiem chwilę przed 11-tą kierując się do tego samego przystanku, gdzie
-[wczoraj]({{ post_url 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej }})
+[wczoraj]({% post_url 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej %})
 skończyłem swoją trasę - do [Solca Wielkopolskiego][wiki-solec].
 Po ponad 30 minutach wysiadłem z pociągu i kierowałem się
 na wschód.
