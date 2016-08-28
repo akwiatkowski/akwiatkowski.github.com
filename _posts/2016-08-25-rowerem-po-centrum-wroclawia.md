@@ -22,4 +22,17 @@ pois:
 Wstęp
 -----
 
+Chciałem zrobić małą przerwę z jeżdzeniem rowerem aby psychicznie odpocząć od
+[ostatniej wycieczki]({% post_url 2016-08-20-mialy-byc-pagorki-a-pozniej-morze %}).
+"Niestety" zapowiadana była bardzo dobra pogoda na końcówkę wakacji i
+Michał mnie przekonywał aby gdzieś pojechać z noclegiem.
+
+Trasę określaliśmy dzień wcześniej, a nocleg załatwiłem po 20-tej dnia poprzedniego.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/688891299/embed/28dfaf7e6bd347ebc16e3dfbb657e6b891689ea6'></iframe>
+
+Szczegóły
+---------

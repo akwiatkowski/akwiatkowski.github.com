@@ -117,6 +117,13 @@
   inside:
     - wielkopolskie
 
+- slug: brzeg_dolny
+  name: Brzeg Dolny
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: budzyn
   name: Budzyń
   header-ext-img: https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac
@@ -299,6 +306,13 @@
   inside:
     - dolnoslaskie
 
+- slug: dzierzoniow
+  name: Dzierżoniow
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: dziwnow
   name: Dziwnów
   header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
@@ -439,6 +453,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: kondratowice
+  name: Kondratowice
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: kornik
   name: Kórnik
   header-ext-img: https://drscdn.500px.org/photo/70195929/m%3D2048/fc4e0a58e418db923d890481d6570b18
@@ -466,6 +487,13 @@
   type: town
   inside:
     - malopolskie
+
+- slug: kostomloty
+  name: Kostomłoty
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: krakow
   name: Kraków
@@ -586,6 +614,13 @@
   inside:
     - malopolskie
 
+- slug: lagiewniki
+  name: Łagiewniki
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: lobzenica
   name: Łobżenica
   header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
@@ -599,6 +634,13 @@
   type: town
   inside:
     - zachodnio_pomorskie
+
+- slug: marcinowice
+  name: Marcinowice
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: marciszow
   name: Marciszów
@@ -656,6 +698,13 @@
   inside:
     - zachodnio_pomorskie
 
+- slug: miekinia
+  name: Miękinia
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: mielno
   name: Mielno
   header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
@@ -666,6 +715,13 @@
 - slug: mieroszow
   name: Mieroszów
   header-ext-img: https://drscdn.500px.org/photo/31992145/m%3D2048/6bf9379d0fe28f5d35db5a4339f190f7
+  type: town
+  inside:
+    - dolnoslaskie
+
+- slug: mietkow
+  name: Mietków
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   inside:
     - dolnoslaskie
@@ -754,6 +810,13 @@
   inside:
     - malopolskie
 
+- slug: niemcza
+  name: Niemcza
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: nowa_ruda
   name: Nowa Ruda
   header-ext-img: https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f
@@ -796,6 +859,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: oborniki_slaskie
+  name: Oborniki Śląskie
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: obrzycko
   name: Obrzycko
@@ -972,6 +1042,13 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: prusice
+  name: Prusice
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: przelewice
   name: Przelewice
@@ -1191,12 +1268,26 @@
   inside:
     - wielkopolskie
 
+- slug: sroda_slaska
+  name: Środa Śląska
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
+
 - slug: strzelce_krajenskie
   name: Strzelce Krajeńskie
   header-ext-img: "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
   type: town
   inside:
     - lubuskie
+
+- slug: strzelin
+  name: Strzelin
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: strzelno
   name: Strzelno
@@ -1261,6 +1352,14 @@
   inside:
     - dolnoslaskie
 
+
+- slug: tarnowo_podgorne
+  name: Tarnowo Podgórne
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
+  type: town
+  inside:
+    - wielkopolskie
+
 - slug: trzcianka
   name: Trzcianka
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -1288,6 +1387,7 @@
   type: town
   inside:
     - wielkopolskie
+
 
 - slug: ustka
   name: Ustka
@@ -1317,12 +1417,7 @@
   inside:
     - malopolskie
 
-- slug: tarnowo_podgorne
-  name: Tarnowo Podgórne
-  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
-  type: town
-  inside:
-    - wielkopolskie
+
 
 - slug: wagrowiec
   name: Wągrowiec
@@ -1372,6 +1467,20 @@
   type: town
   inside:
     - wielkopolskie
+
+- slug: wolow
+  name: Wołów
+  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
+  type: town
+  inside:
+    - dolnoslaskie
+
+- slug: wroclaw
+  name: Wrocław
+  header-ext-img: https://drscdn.500px.org/photo/169702587/q%3D80_m%3D2000/594094c7dcea153f834db12796a4fe40
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: wronki
   name: Wronki
@@ -1449,6 +1558,13 @@
   type: town
   inside:
     - lubuskie
+
+- slug: zarow
+  name: Żarow
+  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
+  type: town
+  inside:
+    - dolnoslaskie
 
 - slug: zerkow
   name: Żerków
