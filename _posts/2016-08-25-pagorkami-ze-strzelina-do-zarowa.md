@@ -19,7 +19,21 @@ pois:
 
 ---
 
+[wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
+
+
 Wstęp
 -----
+
+Ida tego wyjazdu została lepiej napisana we
+[wcześniejszym wpisie]({% post_url 2016-08-25-rowerem-po-centrum-wroclawia %})
+
+Będąc we [Wrocławiu][wiki-wroclaw] mieliśmy chyba półtora godziny do odjazdu
+pociągu do [Strzelina][wiki-strzelin]. Ciekawostką jest remont torów
+kolejowych do [Kłodzka][wiki-klodzko] przez co nie mogliśmy jechać dalej.
+Ja chciałem rozpocząć od stacji w [Henrykowie][wiki-henrykow] gdyż
+[na majówce]({% post_url 2016-04-30-przez-srebrna-gore-do-henrykowa %})
+tam skończyliśmy trasę. Lubię łączyć wszystkie trasy,
+chociaż jeszcze bardzo dużo jest do zrobienia.
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/688885800/embed/39561237ec386b7ec48e447d25faf365108757c9'></iframe>
