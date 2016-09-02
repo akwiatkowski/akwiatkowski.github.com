@@ -15,25 +15,84 @@ time_spent:             8
 
 
 pois:
-
+  - lat: 50.72438
+    lon: 16.95992
+    name: Lekki zjazd do Czerwieńca i dalsza ciekawa droga na zachód za skrzyżowaniem prawie aż do Strachowa.
 
 ---
 
 [wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
-
+[wiki-przedgorze-sudeckie]: https://pl.wikipedia.org/wiki/Przedg%C3%B3rze_Sudeckie
 
 Wstęp
 -----
 
-Ida tego wyjazdu została lepiej napisana we
-[wcześniejszym wpisie]({% post_url 2016-08-25-rowerem-po-centrum-wroclawia %})
+Idea tego wyjazdu została lepiej napisana we
+[wcześniejszym wpisie]({% post_url 2016-08-25-rowerem-po-centrum-wroclawia %}).
+Teraz ją skrócę.
 
-Będąc we [Wrocławiu][wiki-wroclaw] mieliśmy chyba półtora godziny do odjazdu
-pociągu do [Strzelina][wiki-strzelin]. Ciekawostką jest remont torów
-kolejowych do [Kłodzka][wiki-klodzko] przez co nie mogliśmy jechać dalej.
-Ja chciałem rozpocząć od stacji w [Henrykowie][wiki-henrykow] gdyż
-[na majówce]({% post_url 2016-04-30-przez-srebrna-gore-do-henrykowa %})
-tam skończyliśmy trasę. Lubię łączyć wszystkie trasy,
-chociaż jeszcze bardzo dużo jest do zrobienia.
+Ostatnie dni lata miały mieć bardzo dobrą pogodę. Michałowi odpowiadała
+trasa 2-dniowa z noclegiem. Ja chciałem odwiedzić [Przedgórze Sudeckie][wiki-przedgorze-sudeckie]
+kiedyś i okazało się, że jest to najlepszy pomysł na teraz. Michał
+będzie miał okazję zobaczyć pagórki na rowerze, a ja zrobić to co chciałem
+zachowując jednocześnie nie za duży koszt. Dojazd w [Kaszuby][wiki-kaszuby]
+był znacznie trudniejszy, a je również rozważaliśmy.
+
+Opis trasy
+----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/688885800/embed/39561237ec386b7ec48e447d25faf365108757c9'></iframe>
+
+Szczegóły
+---------
+
+[wiki-gosciecice]: https://pl.wikipedia.org/wiki/Go%C5%9Bci%C4%99cice
+
+Z pociągu w [Strzelinie][wiki-strzelin] wysiadliśmy około 12:30.
+Trochę początkowo czułem się zagubiony
+jak jechać, czy trasa jest dobra, czy nie lepiej było ją minimalizować oraz
+jak nasze opóźnienie wpłynie na jej realizację.
+
+Zatrzymaliśmy się przy wyjeździe ze [Strzelina][wiki-strzelin]
+w stronę [Gościęcic][wiki-gosciecice] aby
+odwiedzić sklep. Obok niego na samochodzie leżał bardzo puchaty kot, a gdy
+ja wychodziłem ze sklepu drugi kot do niego wszedł. Tak po prostu kot
+sobie wszedł do sklepu. W małych miejscowościach takie ciekawe sytuacje
+zdarzają się częściej.
+
+Miałem obawy przed tym czy warto jechać przez [Gościęcice][wiki-gosciecice]
+szlakiem pieszym. Będzie to podjazd jako sztuka dla sztuki, a mając 80km
+trasy do przejechania nie można szaleć.
+
+Przycisk powiększania mapy w GPS zaczął sprawiać problemy - przestał działać.
+Pierwszy raz udało mi się go naprawić, ale później podczas podjazdu już nie byłem
+w stanie. Zostało powiększenie ustawione na 500m i albo uda mi się go później naprawić,
+albo będę musiał kupić nowe urządzenie. Napiszę wkrótce recenzję tego urządzenia.
+
+Szlak pieszy na szczęście nie był zły. Mieliśmy podjazd na 280m n.p.m. i widoki
+były zerowe, ale był dość szeroki i szutrowy.
+
+Skręcając na zachód czułem lekki spokój, gdyż to właśnie już teraz zbliżamy się
+do celu, oraz w planie nie było już żadnych szlaków pieszych.
+
+Trasa zjazdowa nie była już tak dobra. To była klasyczna droga gruntowa, trochę
+zarośnięta i zjazdowa (lekkie kamienie), ale sucha. Widoki ciekawsze
+pojawiły się dopiero jak zjechaliśmy do poziomu pól - jechaliśmy tunelem
+między drzewami i krzewami.
+
+Cieszyłem się gdy dotarliśmy do drogi asfaltowej w [Białym Kosciele][wiki-bialy-kosciol].
+Oprócz kilku budujących się nowych domów czuć tu klimat sudeckiej wioski.
+
+Przejechaliśmy ulicą Leśną, Kamienną i wyjechaliśmy Piastowską jadąc pod torami
+kolejowymi.
+
+Przejechaliśmy przez [Wąwolnice][wiki-wawolnica] i jechaliśmy na zachód
+lekkim podjazdem w stronę [Stachowa][wiki-stachow].
+
+Raz był podjazd, a raz zjazd, chociaż patrząc na mapę to mieliśmy więcej podjazdów.
+Na filmikach widać że mieliśmy pagórki na horyzoncie. Czułem że powoli wjeżdzamy
+w inne tereny, bardziej pofalowane i będzie ciekawiej jednak również trudniej.
+
+Za [Czerwieńcem][wiki-czerwieniec] mieliśmy krótki ale bardzo fajny zjazd
+jadąc w lesie. Na mapie widać że jest tam delikatna przełęcz - różnica
+40 metrów w pionie od pobliskiej górki.

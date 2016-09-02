@@ -41,6 +41,7 @@ Odległość rosnąca:
 * [Szczecinek - Koszalin](http://umapa.pl/qFrcO) - 82km, prawie do Wybrzeża
 * [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
 * [Krzyż - Piła](http://umapa.pl/4gBuA) - 87km, na północ od Poznania
+* [Strzelin - Otmuchów - Prudnik](http://umapa.pl/YuWDv) - 89km, południe od Wrocławia i Poznania
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, bardzo możliwe piaski
 * [Santok - Wronki](http://umapa.pl/JGGIo) - 91km, północny-zachód od Poznania, wokół
   Puszczy Noteckiej
