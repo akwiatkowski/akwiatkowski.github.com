@@ -18,11 +18,38 @@ pois:
   - lat: 50.72438
     lon: 16.95992
     name: Lekki zjazd do Czerwieńca i dalsza ciekawa droga na zachód za skrzyżowaniem prawie aż do Strachowa.
+  - lat: 50.74327
+    lon: 16.80173  
+    name: Fajna droga gruntowa do Ligoty Wielkiej. Wokół bardzo pofalowane pola, trochę drzew i miejscami dobre widoki.
 
 ---
 
 [wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
 [wiki-przedgorze-sudeckie]: https://pl.wikipedia.org/wiki/Przedg%C3%B3rze_Sudeckie
+[wiki-arbotreum-wojslawice]: https://pl.wikipedia.org/wiki/Arboretum_w_Wojs%C5%82awicach
+[wiki-kaszuby]: https://pl.wikipedia.org/wiki/Kaszuby
+[wiki-strzelin]: https://pl.wikipedia.org/wiki/Strzelin
+[wiki-bialy-kosciol]: https://pl.wikipedia.org/wiki/Bia%C5%82y_Ko%C5%9Bci%C3%B3%C5%82_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-wawolnica]: https://pl.wikipedia.org/wiki/W%C4%85wolnica_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-stachow]: https://pl.wikipedia.org/wiki/Stach%C3%B3w
+[wiki-czerwieniec]: https://pl.wikipedia.org/wiki/Czerwieniec_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-niemcza]: https://pl.wikipedia.org/wiki/Niemcza
+[wiki-kowalskie]: https://pl.wikipedia.org/wiki/Kowalskie_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-zelowice]: https://pl.wikipedia.org/wiki/%C5%BBelowice
+[wiki-strachow]: https://pl.wikipedia.org/wiki/Strach%C3%B3w_(powiat_strzeli%C5%84ski)
+[wiki-wojslawice]: https://pl.wikipedia.org/wiki/Wojs%C5%82awice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-dzierzoniow]: https://pl.wikipedia.org/wiki/Dzier%C5%BConi%C3%B3w
+[wiki-zabkowice]: https://pl.wikipedia.org/wiki/Z%C4%85bkowice_%C5%9Al%C4%85skie
+[wiki-kietlin]: https://pl.wikipedia.org/wiki/Kietlin_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-gola-dzierzoniowska]: https://pl.wikipedia.org/wiki/Gola_Dzier%C5%BConiowska
+[wiki-kolaczow]: https://pl.wikipedia.org/wiki/Ko%C5%82acz%C3%B3w
+[wiki-debowa-gora]: https://pl.wikipedia.org/wiki/D%C4%99bowa_G%C3%B3ra_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-stoszow]: https://pl.wikipedia.org/wiki/Stosz%C3%B3w
+[wiki-kuchary]: https://pl.wikipedia.org/wiki/Kuchary_(powiat_dzier%C5%BConiowski)
+[wiki-myslakow]: https://pl.wikipedia.org/wiki/Mys%C5%82ak%C3%B3w_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-wierzbna]: https://pl.wikipedia.org/wiki/Wierzbna_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-zarow]: https://pl.wikipedia.org/wiki/%C5%BBar%C3%B3w
+
 
 Wstęp
 -----
@@ -96,3 +123,62 @@ w inne tereny, bardziej pofalowane i będzie ciekawiej jednak również trudniej
 Za [Czerwieńcem][wiki-czerwieniec] mieliśmy krótki ale bardzo fajny zjazd
 jadąc w lesie. Na mapie widać że jest tam delikatna przełęcz - różnica
 40 metrów w pionie od pobliskiej górki.
+
+Od tego miejsca aż do [Niemczy][wiki-niemcza] prawie cały czas był przyjemny zjazd.
+Wokół były pola, pagórki i czasem lasy. Przejechaliśmy przez [Kowalskie][wiki-kowalskie],
+[Żelowice][wiki-zelowice], [Strachów][wiki-strachow], Piotrówek
+i [Wojsławice][wiki-wojslawice] jadąc do [Niemczy][wiki-niemcza].
+
+
+
+W [Wojsławicach][wiki-wojslawice] obok [Niemczy][wiki-niemcza]
+jest [arbotreum][wiki-arbotreum-wojslawice].
+
+Dojechaliśmy do rynku w [Niemczy][wiki-niemcza] i tam zrobiliśmy przerwę na jedzenie.
+Miasto to należy do jednych z wielu, które kiedyś miało połączenie kolejowe, a teraz
+jest ono nieczynne. Z powodu bliskości do linii kolejowej do [Dzierżoniowa][wiki-dzierzoniow]
+i [Ząbkowic Śląskich][wiki-zabkowice] wątpie czy kiedykolwiek wzniową dojazd
+pociągów do [Niemczy][wiki-niemcza].
+
+Następnie ruszyliśmy na północ zjeżdzając lekko z centrum. Przejechaliśmy
+obok Stawu Zamkowego, jednak samego zamku nie zauważyliśmy. Po chwili musieliśmy wjechać
+na drogę 8-kę. Dobre jest to, że musieliśmy przejechać tylko kilometr.
+Skręciliśmy do [Kietlina][wiki-kietlin].
+
+Jest tam bardzo dużo różnych dróg polnych i na pewno można dostać się w
+ciekawe miejsca, jednak jadąc z sakwami i mając określoną konkretnę trasę
+nie można się rozpraszać, chociaż czasem jest
+[tak ładnie jak tu]({% post_url 2016-09-03-zachodnie-okolice-dobiegniewa %}).
+
+Podjechaliśmy rowerem pod [Golę Dzierżoniowską][wiki-gola-dzierzoniowska]
+i obok górki Działowa skręciliśmy na północ. Jechaliśmy bo fajnej drodzę polnej.
+Po lewej stronie mijaliśmy już zaorane pole w kształcie małej górki.
+
+Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][wiki-debowa-gora].
+Śłońce już zmieniało swoją barwę i widać było że zbliża się powoli zachód.
+
+Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
+skręciliśmy na zachód.
+
+Mijane wioski przestały się tak wyróźniać jak wcześniej, teraz droga była ciekawsza.
+Minęliśmy kilka małych pagórków z których mieliśmy bardzo ładny widok na okolicę.
+
+Za [Mysłakowem][wiki-myslakow] przez większość czasu jechaliśmy pod słońce.
+Nie wiem czy to kwestia zmęczenia, czy nie nagrywałem aby oszczędzić akumulatorki w kamerce,
+czy tereny te były mniej spektakularne, ale efekt jest taki sam. Nie opiszę
+dalszych miejscowości przez które przejechaliśmy.
+Wyjątkiem jest tylko [Wierzbna][wiki-wierzbna] gdzie wjechaliśmy na teren kościoła
+i dowiedzieliśmy się, że mieszka w tej miejscowości dużo polityków, oraz że
+najwięcej dla kościoła zrobili politycy SLD (zdanie jednego mieszkańca).
+
+Ostatnim etapem pozostał nocleg pod [Żarowem][wiki-zarow].
+Podczas rezerwacji prosiłem o pokój z łazienką
+w środku, za który mieliśmy zapłacić po 40zł. Okazało się że pomimo telefonu
+potwierdzającego w trasie wspomnianego pokoju nie było dostępnego. Był albo
+camper, w którym mogło w nocy być chłodno, albo spanie w pokoju robotniczym.
+Ostatecznie pojechaliśmy do mieszkania w centrum, również robotniczego.
+Z jednej strony nic nie mam do kierowców tirów, ale coś mi nie pasuje, gdy
+w mieszkaniu nie ma ani sztućców, naczyń, nawet tacki aby móc pokroić ważywa.
+Jako klient chciałbym konkretne warunki za które mógłbym zapłacić i to również
+więcej niż 40zł. Z tego powodu nie zaznaczyłem
+tego miejsca na swojej liście polecanych noclegów.
