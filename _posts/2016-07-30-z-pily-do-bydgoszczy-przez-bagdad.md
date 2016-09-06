@@ -87,7 +87,7 @@ Będąc na stacji odkryłem, że ten pociąg jedzie docelowo do [Kołobrzegu][wi
 To bardzo dobra wiadomość ponieważ mógłbym rano dojechać nad morze i wrócić w nocy.
 Mało opłacalne ale możliwe.
 
-Wysiadliśmy z pociągu o 8:30 w [Dziembówku][wiki-dziembowko] przed [Piłą][wiki-pila]
+wysiedliśmy z pociągu o 8:30 w [Dziembówku][wiki-dziembowko] przed [Piłą][wiki-pila]
 i ruszyliśmy na wschód, aby dołączyć do szlaku rowerowego [R1][wiki-r1]. Przejechaliśmy
 przez skrzyżowanie obok [Krzewiny][wiki-krzewina], gdzie
 [wcześniej]({% post_url 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily %})

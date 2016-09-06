@@ -37,7 +37,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Wysiadliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
+wysiedliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
 wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze, moim zdaniem, widoki.
 
 <div class='pixels-photo'>

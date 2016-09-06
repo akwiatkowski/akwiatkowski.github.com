@@ -72,7 +72,7 @@ lub tramwaj na torach niż zwykły pociąg.
 Jechał on przez ciekawy tereny. Ogrom lasów oraz rozpoczynające się pagórki. Ciekawe
 było umieszczenie linii telefonicznych obok torów.
 
-Wysiadliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
+wysiedliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
 Możliwe że w okolicy był jakiś tartak.
 
 Przez [Świerzno][wiki-swierzno] ruszyliśmy na zachód w stronę
