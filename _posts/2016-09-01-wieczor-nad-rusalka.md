@@ -22,9 +22,9 @@ pois:
 Wstęp
 -----
 
-Miałem czas tego wieczoru i sprawdzając pogodę okazało się, że będzie prawie
+Miałem czas tego wieczoru i sprawdziłem że pogoda będzie prawie
 bezchmurna. To powinien być idealny dzień aby spróbować robić wieczorne
-zdjęcia odbijające się od [Rusałki][wiki-rusalka].
+zdjęcia odbijającego się słońca od [Rusałki][wiki-rusalka].
 
 Zdjęcia
 -------
@@ -47,7 +47,8 @@ Było trochę zwierzaków w wodzie - głównie kaczki i chyba dwa łabędzie.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-Próba wykorzystania odbitego światła od jeziora jako tła do zdjęcia. Mogłem to lepiej wykadrować.
+Próba wykorzystania odbitego światła od jeziora jako tła do zdjęcia. Mogłem to lepiej wykadrować,
+chociaż nie jest to łatwe patrzyć wtedy przez wizjer.
 
 <div class='pixels-photo'>
   <p>

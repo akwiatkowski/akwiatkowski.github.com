@@ -250,12 +250,19 @@
   inside:
     - slaskie
 
-- slug: darlowo
-  name: Darłowo
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
+- slug: dobiegniew
+  name: Dobiegniew
+  header-ext-img: https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0
   type: town
   inside:
-    - zachodnio_pomorskie
+    - lubuskie
+
+- slug: dopiewo
+  name: Dopiewo
+  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
+  type: town
+  inside:
+    - wielkopolskie
 
 - slug: dolice
   name: Dolice
