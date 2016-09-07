@@ -8,7 +8,26 @@
 }
 
 #after-grid {
+  margin-top: 50px;
+  text-align: center;
   height: 500px;
+}
+
+.grid-paginate-container {
+  border: 0px dotted blue;
+
+  color: #fff;
+  letter-spacing: 0.5px;
+  word-spacing: 10px;
+}
+
+.grid-paginate-container a {
+  color: #fff;
+}
+
+.grid-paginate-container em {
+  font-size: 150%;
+  font-weight: 600;
 }
 
 .grid-item-post {

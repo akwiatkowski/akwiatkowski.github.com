@@ -8,10 +8,7 @@ permalink:      /
       {% if post.tags contains "todo" %}
         <!-- {{ post.title }} -->
       {% else %}
-        <div class="grid-item grid-item-post hidden" style="background-repeat: no-repeat; background-image: url('/img/posts/{{ post.date || date: "%Y-%m-%d" }}_{{ post.slug }}.jpg');">
-            <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<a/></h1>
-            <h6 class="grid-item-date">{{ post.date | date: "%Y-%m-%d" }}</h6>
-        </div>
+        {% include post_box.html klass="hidden"%}
       {% endif %}
     {% endfor %}
   </div>
