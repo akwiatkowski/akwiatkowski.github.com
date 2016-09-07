@@ -92,6 +92,8 @@ Następną miejscowością był [Gryfów Śląski][wiki-gryfow-slaski] gdzie prz
 przez raczej ładny rynek i wyjechaliśmy ulicą Partyzantów na zachód. W tym
 miejscu jest osiedle domów jednorodzinnych.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/181651825' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Aby nie jechać po drodzę krajowej nr 30 przejechaliśmy przez
 [Nową Świdnicę][wiki-nowa-swidnica]. Miejscowość ta skojarzyła mi się z wioskami,
 przez które przejeżdzałem

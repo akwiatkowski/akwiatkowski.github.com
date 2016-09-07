@@ -87,7 +87,7 @@ Będąc na stacji odkryłem, że ten pociąg jedzie docelowo do [Kołobrzegu][wi
 To bardzo dobra wiadomość ponieważ mógłbym rano dojechać nad morze i wrócić w nocy.
 Mało opłacalne ale możliwe.
 
-wysiedliśmy z pociągu o 8:30 w [Dziembówku][wiki-dziembowko] przed [Piłą][wiki-pila]
+Wysiedliśmy z pociągu o 8:30 w [Dziembówku][wiki-dziembowko] przed [Piłą][wiki-pila]
 i ruszyliśmy na wschód, aby dołączyć do szlaku rowerowego [R1][wiki-r1]. Przejechaliśmy
 przez skrzyżowanie obok [Krzewiny][wiki-krzewina], gdzie
 [wcześniej]({% post_url 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily %})
@@ -96,6 +96,8 @@ osiągnąłem szybkość 50 km/h.
 
 Do szlaku [R1][wiki-r1] dołączyliśmy w [Rzadkowie][wiki-rzadkowo], przed którym
 jechaliśmy chyba jedyną drogą gruntową tego dnia.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/178881357' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Po lewej stronie widzieliśmy tory po których jeździ pociąg osobowy
 [Piła][wiki-pila]-[Bydgoszcz][wiki-bydgoszcz] ([linia 18][wiki-linia-18]).
@@ -130,6 +132,8 @@ Dojechaliśmy do [Krostkowa][wiki-krostkowo]. Czekał tam na nas całkiem solidn
 zjazd, a raczej dwa zjazdy. Pierwszy był do centrum wsi. Przez ostrość zakrętów musiałem
 hamować. Drugi natomiast był bardziej widokowy i był tuż za wioską. Jest tam bardzo
 dobry widok w stronę [Gołańczy][wiki-golancz].
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/178881366' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Po zjechaniu w dół prawie 40 metrów byliśmy już na tym samym poziomie co
 tory kolejowe.
@@ -173,6 +177,8 @@ miejscowość. Wyjeżdzając z niej ponownie jechaliśmy pomiędzy polami.
 
 Zbliżaliśmy się do [Mroczy][wiki-mrocza], która będzie mi się kojarzyła z wąskimi
 chodnikami na drogach wylotowych.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/178881370' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Kierowaliśmy się do [Słupowa][wiki-slupowo] przez [Drzewiatowo][wiki-drzewiatowo].
 Po drodzę była informacja o objeździe, jednak my mając rowery postanowiliśmy

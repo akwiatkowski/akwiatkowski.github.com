@@ -59,6 +59,8 @@ Przejechaliśmy wokół [Stogu Izerskiego][wiki-stog-izerski]
 w stronę Drogi Telefonicznej. Celem na początek była
 [Chatka Górzystów][wiki-chatka-gorzystow].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/178881418' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Miałem wrażenie że
 wszystko jest bardziej stromę. Możliwe że czułem tak z powodu dobrej widoczności
 oraz musiałem się przyzwyczaić do prędkości. Zjazd "na szczęście" skończył się
@@ -90,6 +92,8 @@ Nie lubiłem kamieni, korzeni, jednak tutaj było znacznie milej. Jechaliśmy
 czerwonym singletrakiem, czyli średnio trudnym. Początkowa jego część to lekki
 zjazd, który później trzeba było nadrobić. Patrząc na mapę zjechaliśmy ponad
 100 metrów w dół.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/181178278' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Nie przejechaliśmy całej długości gdyż robiło się już późno. Wróciliśmy do drogi
 asfaltowej i zjeżdzaliśmy do centrum. Miałem wrażenie że albo jest ten zajzd

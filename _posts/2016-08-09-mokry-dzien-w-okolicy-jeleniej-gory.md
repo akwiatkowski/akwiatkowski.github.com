@@ -78,7 +78,7 @@ jechaliśmy przez wioski. Przejechaliśmy przez [Gierczyn][wiki-gierczyn],
 Wsie te są [wsiami łańcuchowymi][wiki-wies-lancuchowa] - gospodarstwa
 ułożone są wzdłuż drogi.
 
-
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/181612453' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 W tym momencie byliśmy najbliżej do stacji kolejowej, która jest najbliżej
 [Świeradowa][wiki-swieradow] - [Rębiszów][wiki-rebiszow]. Niestety do
@@ -147,6 +147,8 @@ Dopiero teraz patrząc na filmik widzę, że były jakieś szczątkowe widoki.
 Podczas jazdy koncentrowałem
 się na drodzę, nie myślałem o tym co jest obok. Do tego deszcz uderzał w okulary
 rowerowe.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/181612464' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Jechaliśmy jakby cały czas drogą wiedząc tylko że jedziemy gdzieś w stronę
 [Jeleniej Góry][wiki-jelenia-gora]. Sam [Jeżów Sudecki][wiki-jezow-sudecki]
