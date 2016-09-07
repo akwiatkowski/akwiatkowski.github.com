@@ -2,13 +2,26 @@
 layout:         default
 permalink:      /
 ---
+
+{% assign counter = 0 %}
+{% assign already_visible = 8 %}
+
 <div class="grid-super-container">
   <div class="grid grid-container">
     {% for post in site.posts %}
       {% if post.tags contains "todo" %}
         <!-- {{ post.title }} -->
       {% else %}
-        {% include post_box.html klass="hidden"%}
+        {% assign counter = counter | plus: 1 %}
+        {% if counter < already_visible %}
+          {% assign klass = "" %}
+        {% else %}
+          {% assign klass = "hidden" %}
+        {% endif %}
+
+        {{ count }}
+        {% include post_box.html klass=klass %}
+
       {% endif %}
     {% endfor %}
   </div>
@@ -28,8 +41,16 @@ permalink:      /
     function showNext() {
       isVis = $('#after-grid').visible(true);
       if (isVis) {
+        visible_count = $(".grid-item:not('.hidden')").length;
         cols = Math.floor( $(window).width() / 600 );
-        $(".grid-item.hidden:lt(" + cols + ")").hide().removeClass("hidden").show();
+        rest_cols = visible_count % cols;
+        rest_cols = cols - rest_cols;
+
+        console.log( "cols " + cols + " rest " + rest_cols );
+
+        show_cols = cols + rest_cols;
+
+        $(".grid-item.hidden:lt(" + show_cols + ")").hide().removeClass("hidden").show();
         $('.grid').masonry();
         return true;
       }
