@@ -43,14 +43,19 @@ function masShowNext() {
 
 
     cols = Math.floor( windowWidth / colWidth );
-    rest_cols = visible_count % cols;
-    rest_cols = cols - rest_cols;
+    restCols = visible_count % cols;
+    restCols = cols - restCols;
 
-    console.log( "cols " + cols + " rest " + rest_cols );
+    // looks better on mobile
+    if (cols == 1) {
+      restCols += 3;
+    }
 
-    show_cols = cols + rest_cols;
+    console.log( "cols " + cols + " rest " + restCols );
 
-    $(".grid-item.hidden:lt(" + show_cols + ")").hide().removeClass("hidden").show();
+    showNextPosts = cols + restCols;
+
+    $(".grid-item.hidden:lt(" + showNextPosts + ")").hide().removeClass("hidden").show();
     $('.grid').masonry();
     return true;
   }
