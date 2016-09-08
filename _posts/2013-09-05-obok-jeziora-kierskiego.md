@@ -15,6 +15,7 @@ time_spent:             4
 ---
 
 [wiki-rusalka]:         https://pl.wikipedia.org/wiki/Jezioro_Rusa%C5%82ka_(Pozna%C5%84)
+[wiki-strzeszyn]:       https://pl.wikipedia.org/wiki/Jezioro_Strzeszy%C5%84skie
 [wiki-kiekrz]:          https://pl.wikipedia.org/wiki/Jezioro_Kierskie
 
 Opis trasy

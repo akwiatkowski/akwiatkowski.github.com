@@ -6,10 +6,10 @@ date:                   2016-09-03 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0"
 categories:             trip
-tags:                   [hike, todo_media]
+tags:                   [hike]
 towns:                  [lubuskie, dobiegniew]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[52.96947,15.78454], [52.96823,15.77570], [52.97020,15.75372], [52.97357,15.71692], [52.97036,15.69995], [52.97614,15.69841], [52.98193,15.70489], [52.97844,15.70107], [52.97971,15.69145], [52.97655,15.69180], [52.97591,15.69926]], "type": "hike"}]
 distance:               30
 time_spent:             10
 
@@ -24,6 +24,9 @@ pois:
 [wiki-osiek]: https://pl.wikipedia.org/wiki/Osiek_(powiat_strzelecko-drezdenecki)
 [wiki-osieczek]: https://pl.wikipedia.org/wiki/Osieczek_(wojew%C3%B3dztwo_lubuskie)
 [wiki-mierzecin]: https://pl.wikipedia.org/wiki/Mierz%C4%99cin_(wojew%C3%B3dztwo_lubuskie)
+[wiki-ustka]: https://pl.wikipedia.org/wiki/Ustka
+
+[turkol]: http://www.turkol.pl/
 
 Wstęp
 -----
@@ -43,6 +46,14 @@ Opis trasy
 Szczegóły
 ---------
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/171605911/m%3D900/4671698f4ef34a79a491bc59f2af0606' alt='Lake Osiek by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/171605911/lake-osiek-by-aleksander-kwiatkowski' alt='Lake Osiek by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Do [Dobiegniewa][wiki-dobiegniew] dojechaliśmy trochę późno - po 13-tej.
 Chwilę po tym wyruszyliśmy niebieskim szlakiem pieszym na zachód przez
 [Urszulankę][wiki-urszulanka] aż do [Osiek][wiki-osiek].
@@ -52,6 +63,14 @@ Pokręciliśmy się chwilę po wiosce [Osiek][wiki-osiek], która jest jednocze�
 tak wyraźnie dzika a jednocześnie położona blisko do miejscowości w której
 nawet pociągi IC się zatrzymują.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/171605485/m%3D900/74dbc9701659ceb468f437c74752c82e' alt='Road leaving Osieczek by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/171605485/road-leaving-osieczek-by-aleksander-kwiatkowski' alt='Road leaving Osieczek by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Następnie poszliśmy zobaczyć na staw położony na północ. Okazał się to być
 staw rybny z bardzo ładnym widokiem, ale tylko w kilku miejscach.
 
@@ -60,6 +79,14 @@ osadą z tylko jednym budynkiem gospodarczym i ruinami obok. Pomimo tego, a
 raczej głównie z tego powodu, była to bardzo ładna okolica.
 Ciekawiło mnie "co jest tam za wzgórzem", ale niestety nie było na to czasu.
 Wrócę tutaj rowerem i zobaczę więcej następnym razem.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/171086331/m%3D900/5ce898139017c75bc0fa8f955d90530e' alt='Grasshopper by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/171086331/grasshopper-by-aleksander-kwiatkowski' alt='Grasshopper by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wróciliśmy drogą "główną", która nawet nie była asfaltowa, do [Osieka][wiki-osiek]
 i dalej do [Dobiegniewa][wiki-dobiegniew].
