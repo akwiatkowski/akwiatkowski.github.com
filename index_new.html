@@ -19,7 +19,6 @@ permalink:      /
           {% assign klass = "hidden" %}
         {% endif %}
 
-        {{ count }}
         {% include post_box.html klass=klass %}
 
       {% endif %}
@@ -31,10 +30,18 @@ permalink:      /
 
 <script type="text/javascript">
   $(document).ready(function () {
+    window_width = $(window).width()
+    col_width = 600;
+
+    if (window_width < 650) {
+      window_width = 350;
+      col_width = 300;
+    }
+
     // masonry
     var $grid = $('.grid').masonry({
       fitWidth: true,
-      columnWidth: 600,
+      columnWidth: col_width,
       gutter: 20
     });
 
@@ -42,7 +49,16 @@ permalink:      /
       isVis = $('#after-grid').visible(true);
       if (isVis) {
         visible_count = $(".grid-item:not('.hidden')").length;
-        cols = Math.floor( $(window).width() / 600 );
+        window_width = $(window).width()
+        col_width = 600;
+
+        if (window_width < 650) {
+          window_width = 350;
+          col_width = 300;
+        }
+
+
+        cols = Math.floor( window_width / col_width );
         rest_cols = visible_count % cols;
         rest_cols = cols - rest_cols;
 
@@ -64,7 +80,7 @@ permalink:      /
           showLoop();
         }
       },
-      400);
+      600);
     }
 
     $(window).scroll(function() {
