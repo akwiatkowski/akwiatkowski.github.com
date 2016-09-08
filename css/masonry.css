@@ -37,6 +37,8 @@
   text-align: center;
 
   position: relative;
+
+  z-index: 1;
 }
 
 .grid-item-post h1 a {
@@ -54,6 +56,14 @@
   right: 8px;
 }
 
+.grid-item-post .blank-gif {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+  z-index: 0;
+  cursor: pointer;
+}
 
 @media screen and (max-width: 649px) {
   .grid-item-post {
@@ -64,6 +74,11 @@
 
     margin-bottom: 20px;
     padding: 10px;
+  }
+
+  .grid-item-post .blank-gif {
+    width: 300px;
+    height: 200px;
   }
 
   .grid-item-post h1 a {
@@ -81,6 +96,11 @@
 @media screen and (min-width: 650px) {
   #after-grid {
     height: 500px;
+  }
+
+  .grid-item-post .blank-gif {
+    width: 600px;
+    height: 400px;
   }
 
   .grid-item-post {
