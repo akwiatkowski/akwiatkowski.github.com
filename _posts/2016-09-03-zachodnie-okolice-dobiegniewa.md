@@ -15,7 +15,15 @@ time_spent:             10
 
 
 pois:
-
+  - lat: 52.97022
+    lon: 15.72019
+    name: Plaża w Osieku obok Dobiegniewa. Można dojść na pieszo ze stacji kolejowej w godzinę.
+  - lat: 52.96810
+    lon: 15.77793
+    name: Ciekawa ścieżka łącząca Dobiegniew i Mierzęcin, obok Jezioro Rolewiec.
+  - lat: 52.97969
+    lon: 15.69199
+    name: Osieczek - mała osada chyba z tylko jednym gospodarstwem. Ciekawe drogi gruntowe na północ i zachód.
 
 ---
 
