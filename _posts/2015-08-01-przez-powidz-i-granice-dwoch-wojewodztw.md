@@ -6,7 +6,7 @@ date:                   2015-08-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, strzalkowo, powidz, orchowo, jeziora_wielkie, strzelno]
 lands:                  [powidzki_park_krajobrazowy]
 
@@ -68,6 +68,14 @@ jest miasteczkiem przed [Słupcą][wiki-slupca].
 Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i przyjemne
 do jazdy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/171796395/m%3D900/18551951b23e8c5fe50ecee6b3711b58' alt='Road near Powidzkie Lake by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/171796395/road-near-powidzkie-lake-by-aleksander-kwiatkowski' alt='Road near Powidzkie Lake by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
 starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
 
@@ -103,6 +111,14 @@ Do [Przyjezierza][wiki-przyjezierze] [wjechałem][vimeo-6] przez las.
 Przejechałem [Przyjezierze][wiki-przyjezierze] i kierowałem sie w stronę [Strzelna][wiki-strzelno].
 Mijałem wsie ([Ostrowo][wiki-ostrowo] i [Cieńcisko][wiki-ciensisko]),
 które znałem całkiem dobrze.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/171797517/m%3D900/98f9d67786b79d2c3797e7821732d14d' alt='Field after harvest by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/171797517/field-after-harvest-by-aleksander-kwiatkowski' alt='Field after harvest by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Mając trochę czasu przejechałem się do [Bronisławia][wiki-bronislaw] przez małe
 kujawskie wioski.
