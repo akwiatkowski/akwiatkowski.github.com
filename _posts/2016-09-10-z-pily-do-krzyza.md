@@ -4,7 +4,7 @@ title:                  "Z Piły do Krzyża"
 subtitle:               "szlakiem R1, głownie przez tereny lesiste"
 date:                   2016-09-10 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0"
+header-ext-img:         "https://drscdn.500px.org/photo/172235283/q%3D80_m%3D2000/122dd7657020136b9660dc61256b9bc4"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, pila, trzcianka, czarnkow, wielen, krzyz_wielkopolski]
@@ -20,3 +20,11 @@ pois:
 ---
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/707229346/embed/b384a30989ed65d542987042adfe2bab08931724'></iframe>
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/172234947/m%3D900/3d67378a682417b6b7f9485e0c5bc0a7' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/172234947/leaving-%C5%81omnica-river-valley-by-aleksander-kwiatkowski' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
