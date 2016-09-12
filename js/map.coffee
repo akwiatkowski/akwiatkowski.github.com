@@ -197,6 +197,8 @@ class @BlogMap
     )
 
     map = new ol.Map(
+      controls: [new ol.control.Zoom()]
+      pixelRatio: 1.0
       target: "content"
       projection: "EPSG:4326"
       layers: [
@@ -215,6 +217,9 @@ class @BlogMap
         zoom: 6
       )
     )
+
+    # map.addControl(new ol.control.ZoomSlider())
+    # map.addControl(new ol.control.Zoom())
 
     interaction = new ol.interaction.Select()
     interaction.getFeatures().on "add", (e) =>

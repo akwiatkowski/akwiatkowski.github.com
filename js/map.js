@@ -31,7 +31,7 @@ this.BlogMap = (function() {
   };
 
   BlogMap.prototype.startMap = function() {
-    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, post, ref, ref1, ref2, route, sourceCircles, sourceLinesBus, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
+    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, post, ref, ref1, ref2, route, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
     strokeWidth = 3;
     strokeWidthLesser = 3;
     opacityLesser = 0.4;
@@ -89,6 +89,15 @@ this.BlogMap = (function() {
         color: "rgba(255, 0, 0, 0.2)"
       })
     });
+    styleLineCanoe = new ol.style.Style({
+      stroke: new ol.style.Stroke({
+        color: "#000099",
+        width: strokeWidth
+      }),
+      fill: new ol.style.Fill({
+        color: "rgba(255, 0, 0, 0.2)"
+      })
+    });
     styleCircle = new ol.style.Style({
       stroke: new ol.style.Stroke({
         color: "#FF0000",
@@ -100,6 +109,9 @@ this.BlogMap = (function() {
     });
     geojsonObject = {};
     sourceCircles = new ol.source.Vector({
+      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
+    });
+    sourceLinesCanoe = new ol.source.Vector({
       features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
     });
     sourceLinesCycle = new ol.source.Vector({
@@ -151,6 +163,8 @@ this.BlogMap = (function() {
               sourceLinesHike.addFeature(feature);
             } else if (route["type"] === "bicycle") {
               sourceLinesCycle.addFeature(feature);
+            } else if (route["type"] === "canoe") {
+              sourceLinesCanoe.addFeature(feature);
             } else if (route["type"] === "car") {
               sourceLinesCar.addFeature(feature);
             } else if (route["type"] === "bus") {
@@ -167,6 +181,10 @@ this.BlogMap = (function() {
     circleLayer = new ol.layer.Vector({
       source: sourceCircles,
       style: styleCircle
+    });
+    lineLayerCanoe = new ol.layer.Vector({
+      source: sourceLinesCanoe,
+      style: styleLineCanoe
     });
     lineLayerCycle = new ol.layer.Vector({
       source: sourceLinesCycle,
@@ -193,12 +211,14 @@ this.BlogMap = (function() {
       style: styleLineRegular
     });
     map = new ol.Map({
+      controls: [new ol.control.Zoom()],
+      pixelRatio: 1.0,
       target: "content",
       projection: "EPSG:4326",
       layers: [
         new ol.layer.Tile({
           source: new ol.source.OSM()
-        }), circleLayer, lineLayerRegular, lineLayerCar, lineLayerBus, lineLayerTrain, lineLayerHike, lineLayerCycle
+        }), circleLayer, lineLayerRegular, lineLayerCar, lineLayerBus, lineLayerTrain, lineLayerHike, lineLayerCycle, lineLayerCanoe
       ],
       view: new ol.View({
         center: ol.proj.transform([19.4553, 51.7768], 'EPSG:4326', 'EPSG:3857'),
