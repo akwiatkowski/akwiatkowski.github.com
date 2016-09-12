@@ -87,15 +87,14 @@ class @BlogMap
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
     )
 
-    geojsonObject = {}
-    sourceCircles = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesCanoe = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesCycle = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesHike = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesTrain = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesBus = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesCar = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
-    sourceLinesRegular = new ol.source.Vector(features: (new ol.format.GeoJSON()).readFeatures(geojsonObject))
+    sourceCircles = new ol.source.Vector()
+    sourceLinesCanoe = new ol.source.Vector()
+    sourceLinesCycle = new ol.source.Vector()
+    sourceLinesHike = new ol.source.Vector()
+    sourceLinesTrain = new ol.source.Vector()
+    sourceLinesBus = new ol.source.Vector()
+    sourceLinesCar = new ol.source.Vector()
+    sourceLinesRegular = new ol.source.Vector()
 
     for post in @data["posts"]
       if false #post["coords-circle"]
@@ -129,7 +128,6 @@ class @BlogMap
       if post["coords"]
         for route in post["coords"]
           if route["route"]
-            console.log route
 
             coords = []
             for c in route["route"]
@@ -146,6 +144,7 @@ class @BlogMap
             feature.set("post-date", post["date"])
             feature.set("post-url", post["url"])
             feature.set("post-title", post["title"])
+            feature.set("post-slug", post["slug"])
 
             if route["type"] == "hike"
               sourceLinesHike.addFeature(feature)
@@ -197,7 +196,7 @@ class @BlogMap
     )
 
     map = new ol.Map(
-      controls: [new ol.control.Zoom()]
+      controls: [new ol.control.Zoom(), new ol.control.ZoomSlider()]
       pixelRatio: 1.0
       target: "content"
       projection: "EPSG:4326"
@@ -218,23 +217,20 @@ class @BlogMap
       )
     )
 
-    # map.addControl(new ol.control.ZoomSlider())
-    # map.addControl(new ol.control.Zoom())
-
+    # change only background
     interaction = new ol.interaction.Select()
     interaction.getFeatures().on "add", (e) =>
-      last_p = null
-      for obj in e.target.b
-        p = obj.B
-        last_p = p
+      p = e.element.U
+      last_p = p
 
-        $("#links").html("")
-
-        $("<a>",
-          text: p["post-date"] + " - " + p["post-title"]
-          title: p["post-date"] + " - " + p["post-title"]
-          href: p["post-url"]
-        ).appendTo "#links"
+      # showPopup(e, p)
+      # $("#links").html("")
+      #
+      # $("<a>",
+      #   text: p["post-date"] + " - " + p["post-title"]
+      #   title: p["post-date"] + " - " + p["post-title"]
+      #   href: p["post-url"]
+      # ).appendTo "#links"
 
       for post in @data["posts"]
         if post.url == last_p["post-url"]
@@ -247,8 +243,42 @@ class @BlogMap
               $('#background2').show()
               $('#background1').css('background-image', "url(" + new_image + ")")
               $("#background2").fadeOut 1500, =>
-              console.log("done")
+              # console.log("done")
 
           img.src = new_image
 
     map.addInteraction( interaction )
+
+    # # hover popup
+    popup = new ol.Overlay.Popup
+    map.addOverlay popup
+
+    map.on "pointermove", (evt) =>
+      return true if evt.dragging
+      displayFeatureInfo evt
+
+    map.on "click", (evt) ->
+      displayFeatureInfo evt
+
+    displayFeatureInfo = (evt) =>
+      pixel = map.getEventPixel(evt.originalEvent)
+
+      feature = map.forEachFeatureAtPixel(pixel, (feature) =>
+        feature
+      )
+
+      if feature
+        showPopup(evt, feature.U)
+      else
+        null
+
+    showPopup = (evt, p) =>
+      # prettyCoord = ol.coordinate.toStringHDMS(ol.proj.transform(evt.coordinate, "EPSG:3857", "EPSG:4326"), 2)
+
+      bgImgName = p["post-date"] + "_" + p["post-slug"]
+
+      div = '<div class="map-image" style="background-image: url(\'/img/posts/' + bgImgName + '.jpg\')">'
+      div += '<div class="map-image-date">' + p["post-date"] + '</div>'
+      div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>'
+      div += '</div>'
+      popup.show evt.coordinate, div

@@ -505,10 +505,3 @@ body {
   background-color: #5ec;
   color; #fff;
 }
-
-/* map */
-.ol-overlaycontainer-stopevent {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-}

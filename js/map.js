@@ -31,7 +31,7 @@ this.BlogMap = (function() {
   };
 
   BlogMap.prototype.startMap = function() {
-    var c, circleLayer, coords, ct, feature, geojsonObject, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, post, ref, ref1, ref2, route, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
+    var c, circleLayer, coords, ct, displayFeatureInfo, feature, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, popup, post, ref, ref1, ref2, route, showPopup, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
     strokeWidth = 3;
     strokeWidthLesser = 3;
     opacityLesser = 0.4;
@@ -107,31 +107,14 @@ this.BlogMap = (function() {
         color: "rgba(255, 0, 0, 0.2)"
       })
     });
-    geojsonObject = {};
-    sourceCircles = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesCanoe = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesCycle = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesHike = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesTrain = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesBus = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesCar = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
-    sourceLinesRegular = new ol.source.Vector({
-      features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
-    });
+    sourceCircles = new ol.source.Vector();
+    sourceLinesCanoe = new ol.source.Vector();
+    sourceLinesCycle = new ol.source.Vector();
+    sourceLinesHike = new ol.source.Vector();
+    sourceLinesTrain = new ol.source.Vector();
+    sourceLinesBus = new ol.source.Vector();
+    sourceLinesCar = new ol.source.Vector();
+    sourceLinesRegular = new ol.source.Vector();
     ref = this.data["posts"];
     for (i = 0, len = ref.length; i < len; i++) {
       post = ref[i];
@@ -147,7 +130,6 @@ this.BlogMap = (function() {
         for (j = 0, len1 = ref1.length; j < len1; j++) {
           route = ref1[j];
           if (route["route"]) {
-            console.log(route);
             coords = [];
             ref2 = route["route"];
             for (k = 0, len2 = ref2.length; k < len2; k++) {
@@ -159,6 +141,7 @@ this.BlogMap = (function() {
             feature.set("post-date", post["date"]);
             feature.set("post-url", post["url"]);
             feature.set("post-title", post["title"]);
+            feature.set("post-slug", post["slug"]);
             if (route["type"] === "hike") {
               sourceLinesHike.addFeature(feature);
             } else if (route["type"] === "bicycle") {
@@ -211,7 +194,7 @@ this.BlogMap = (function() {
       style: styleLineRegular
     });
     map = new ol.Map({
-      controls: [new ol.control.Zoom()],
+      controls: [new ol.control.Zoom(), new ol.control.ZoomSlider()],
       pixelRatio: 1.0,
       target: "content",
       projection: "EPSG:4326",
@@ -228,24 +211,13 @@ this.BlogMap = (function() {
     interaction = new ol.interaction.Select();
     interaction.getFeatures().on("add", (function(_this) {
       return function(e) {
-        var img, l, last_p, len3, len4, m, new_image, obj, p, ref3, ref4, results;
-        last_p = null;
-        ref3 = e.target.b;
-        for (l = 0, len3 = ref3.length; l < len3; l++) {
-          obj = ref3[l];
-          p = obj.B;
-          last_p = p;
-          $("#links").html("");
-          $("<a>", {
-            text: p["post-date"] + " - " + p["post-title"],
-            title: p["post-date"] + " - " + p["post-title"],
-            href: p["post-url"]
-          }).appendTo("#links");
-        }
-        ref4 = _this.data["posts"];
+        var img, l, last_p, len3, new_image, p, ref3, results;
+        p = e.element.U;
+        last_p = p;
+        ref3 = _this.data["posts"];
         results = [];
-        for (m = 0, len4 = ref4.length; m < len4; m++) {
-          post = ref4[m];
+        for (l = 0, len3 = ref3.length; l < len3; l++) {
+          post = ref3[l];
           if (post.url === last_p["post-url"]) {
             new_image = post["header-ext-img"];
             if (new_image) {
@@ -254,8 +226,7 @@ this.BlogMap = (function() {
                 $('#background2').css('background-image', $('#background1').css('background-image'));
                 $('#background2').show();
                 $('#background1').css('background-image', "url(" + new_image + ")");
-                $("#background2").fadeOut(1500, function() {});
-                return console.log("done");
+                return $("#background2").fadeOut(1500, function() {});
               };
             }
             results.push(img.src = new_image);
@@ -266,7 +237,45 @@ this.BlogMap = (function() {
         return results;
       };
     })(this));
-    return map.addInteraction(interaction);
+    map.addInteraction(interaction);
+    popup = new ol.Overlay.Popup;
+    map.addOverlay(popup);
+    map.on("pointermove", (function(_this) {
+      return function(evt) {
+        if (evt.dragging) {
+          return true;
+        }
+        return displayFeatureInfo(evt);
+      };
+    })(this));
+    map.on("click", function(evt) {
+      return displayFeatureInfo(evt);
+    });
+    displayFeatureInfo = (function(_this) {
+      return function(evt) {
+        var pixel;
+        pixel = map.getEventPixel(evt.originalEvent);
+        feature = map.forEachFeatureAtPixel(pixel, function(feature) {
+          return feature;
+        });
+        if (feature) {
+          return showPopup(evt, feature.U);
+        } else {
+          return null;
+        }
+      };
+    })(this);
+    return showPopup = (function(_this) {
+      return function(evt, p) {
+        var bgImgName, div;
+        bgImgName = p["post-date"] + "_" + p["post-slug"];
+        div = '<div class="map-image" style="background-image: url(\'/img/posts/' + bgImgName + '.jpg\')">';
+        div += '<div class="map-image-date">' + p["post-date"] + '</div>';
+        div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>';
+        div += '</div>';
+        return popup.show(evt.coordinate, div);
+      };
+    })(this);
   };
 
   return BlogMap;
