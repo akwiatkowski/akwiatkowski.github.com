@@ -253,9 +253,10 @@ class @BlogMap
     popup = new ol.Overlay.Popup
     map.addOverlay popup
 
-    map.on "pointermove", (evt) =>
+    map.on "pointermove", throttle((evt) =>
       return true if evt.dragging
       displayFeatureInfo evt
+    , 200)
 
     map.on "click", (evt) ->
       displayFeatureInfo evt
@@ -282,3 +283,24 @@ class @BlogMap
       div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>'
       div += '</div>'
       popup.show evt.coordinate, div
+
+  # https://remysharp.com/2010/07/21/throttling-function-calls    
+  throttle = (fn, threshhold, scope) ->
+    threshhold or (threshhold = 250)
+    last = undefined
+    deferTimer = undefined
+    ->
+      context = scope or this
+      now = +new Date
+      args = arguments
+      if last and now < last + threshhold
+
+        # hold on to it
+        clearTimeout deferTimer
+        deferTimer = setTimeout(->
+          last = now
+          fn.apply context, args
+        , threshhold)
+      else
+        last = now
+        fn.apply context, args

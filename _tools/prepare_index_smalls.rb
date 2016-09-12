@@ -1,9 +1,11 @@
 require "json"
 
 reset = false # CHANGE
-quality = 50 # CHANGE
+quality = 70 # CHANGE
 max = 200 # CHANGE
 width = 600.0 # CHANGE
+
+progressive_flags = "-strip -interlace Plane -quality #{quality}"
 
 height = width * 2.0 / 3.0
 width_int = width.floor
@@ -46,7 +48,7 @@ limited_posts.each_with_index do |post, i|
   command = "wget -c \"#{image_url}\" -O#{tmp_file}"
   `#{command}` unless File.exists?(tmp_file)
 
-  command = "convert -resize #{magik_resize} \"#{tmp_file}\" \"#{resized_file}\""
+  command = "convert #{progressive_flags} -resize #{magik_resize} \"#{tmp_file}\" \"#{resized_file}\""
   # puts command
   if File.exists?(resized_file) == false or reset == true
     `#{command}`
