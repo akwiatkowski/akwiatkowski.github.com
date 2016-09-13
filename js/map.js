@@ -33,7 +33,7 @@ this.BlogMap = (function() {
   };
 
   BlogMap.prototype.startMap = function() {
-    var c, circleLayer, coords, ct, displayFeatureInfo, feature, i, interaction, j, k, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, popup, post, ref, ref1, ref2, route, showPopup, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
+    var c, circleLayer, coords, ct, displayFeatureInfo, feature, i, interaction, j, k, lastPopupTime, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, popup, poputThreshold, post, ref, ref1, ref2, route, showPopup, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
     strokeWidth = 3;
     strokeWidthLesser = 3;
     opacityLesser = 0.4;
@@ -242,6 +242,8 @@ this.BlogMap = (function() {
     map.addInteraction(interaction);
     popup = new ol.Overlay.Popup;
     map.addOverlay(popup);
+    lastPopupTime = +(new Date);
+    poputThreshold = 500;
     map.on("pointermove", throttle((function(_this) {
       return function(evt) {
         if (evt.dragging) {
@@ -249,19 +251,24 @@ this.BlogMap = (function() {
         }
         return displayFeatureInfo(evt);
       };
-    })(this), 200));
+    })(this)), 60);
     map.on("click", function(evt) {
       return displayFeatureInfo(evt);
     });
     displayFeatureInfo = (function(_this) {
       return function(evt) {
-        var pixel;
+        var now, pixel;
         pixel = map.getEventPixel(evt.originalEvent);
         feature = map.forEachFeatureAtPixel(pixel, function(feature) {
           return feature;
         });
         if (feature) {
-          return showPopup(evt, feature.U);
+          now = +(new Date);
+          console.log(now, lastPopupTime, now - lastPopupTime);
+          if (lastPopupTime < now - poputThreshold) {
+            lastPopupTime = now;
+            return showPopup(evt, feature.U);
+          }
         } else {
           return null;
         }

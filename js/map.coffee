@@ -252,11 +252,13 @@ class @BlogMap
     # # hover popup
     popup = new ol.Overlay.Popup
     map.addOverlay popup
+    lastPopupTime = +new Date
+    poputThreshold = 500
 
     map.on "pointermove", throttle((evt) =>
       return true if evt.dragging
       displayFeatureInfo evt
-    , 200)
+    ), 60
 
     map.on "click", (evt) ->
       displayFeatureInfo evt
@@ -269,7 +271,13 @@ class @BlogMap
       )
 
       if feature
-        showPopup(evt, feature.U)
+        now = +new Date
+        console.log(now, lastPopupTime, now - lastPopupTime)
+        if lastPopupTime < now - poputThreshold
+          lastPopupTime = now
+          showPopup(evt, feature.U)
+
+
       else
         null
 
@@ -284,7 +292,7 @@ class @BlogMap
       div += '</div>'
       popup.show evt.coordinate, div
 
-  # https://remysharp.com/2010/07/21/throttling-function-calls    
+  # https://remysharp.com/2010/07/21/throttling-function-calls
   throttle = (fn, threshhold, scope) ->
     threshhold or (threshhold = 250)
     last = undefined
