@@ -1359,6 +1359,12 @@
   inside:
     - dolnoslaskie
 
+- slug: swinoujscie
+  name: Świnoujście
+  header-ext-img: https://drscdn.500px.org/photo/173700561/q%3D80_m%3D2000/3eb0c5d8ff3d62e17e1e971cf794b7b7
+  type: town
+  inside:
+    - zachodnio_pomorskie
 
 - slug: tarnowo_podgorne
   name: Tarnowo Podgórne
