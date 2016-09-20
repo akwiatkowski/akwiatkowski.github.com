@@ -4,7 +4,7 @@ title:                  "Pętla przez Wolinski Park Narodowy"
 subtitle:               "szlakiem R1, głownie przez tereny lesiste"
 date:                   2016-09-18 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173198195/q%3D80_m%3D1500/3b7532db1daeac8fa4ae517ccad23f43"
+header-ext-img:         "https://drscdn.500px.org/photo/173702069/q%3D80_m%3D2000/4b57690cd127b3ab4f8ff8ae72983c96"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [zachodnio_pomorskie, swinoujscie]

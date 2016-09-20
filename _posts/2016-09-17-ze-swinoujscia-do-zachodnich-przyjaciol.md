@@ -1,10 +1,10 @@
 ---
 layout:                 post
-title:                  "Ze Świnoujsca do Zachodnich Przyjaciół"
+title:                  "Ze Świnoujscia do Zachodnich Przyjaciół"
 subtitle:               "szlakiem R1, głownie przez tereny lesiste"
 date:                   2016-09-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173198195/q%3D80_m%3D1500/3b7532db1daeac8fa4ae517ccad23f43"
+header-ext-img:         "https://drscdn.500px.org/photo/173701521/q%3D80_m%3D2000/7d28a87f42da5ce0a62e372839e9aa5d"
 categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [zachodnio_pomorskie, swinoujscie]
