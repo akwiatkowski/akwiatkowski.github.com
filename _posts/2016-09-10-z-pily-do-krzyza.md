@@ -37,6 +37,34 @@ Opis trasy
 Szczegóły
 ---------
 
+Miałem jechać z Michałem, jednak miał on problemy z rowerem i dlatego będąc na dworcu
+musiałem zadecydować czy jadę sam. Trzy lata wcześniej bym chyba wrócił do domu,
+teraz wiedziałem, że nie mogę nie wykorzystać tego dnia.
+
+Czekały na mnie dwie godziny jazdy w pociągu. W [Pile][wiki-pila] wysiadłem
+około 10:30.
+
+Pierwsze co mnie rzuciło w oczy to informacja strażnika, że z rowerem nie można wejść
+na dworzec. Rozumiem że miałbym przypiąć i pójść kupić bilet? Nie ma takiej opcji.
+Następnym razem albo ponownie udam głupiego i wejdę z rowerem, albo kupię w pociągu
+dopłacając. Tym małym akcentem [Piła][wiki-pila] dostała minusa w moich oczach.
+
+Wyruszyłem jadąc na zachód w kierunku do [Krzyża][wiki-krzyz]. Początkowo jechałem
+spokojną drogą przez las przejeżdzając przez dwie pary torów kolejowych.
+Tymi torami jedzie sie albo w kierunku [Kołobrzega][wiki-kolobrzeg] albo do
+[Szczecina][wiki-szczecin] przez [Kalisz Pomorski][wiki-kalisz-pomorski].
+Wychodzi na to, że [Piła][wiki-pila] jest istotnym punktem w mniej popularnych
+liniach kolejowych, które chciałbym kiedyś zwiedzić.
+
+Pierwszą wioską przez którą przejeżdzałem to był [Kotuń][wiki-kotun].
+Wioska jak wioska, raczej ta była spokojna, chociaż rozległa. Trochę taka
+sypialnia [Piły][wiki-pila] gdyż widziałem tam sporo nowych domów.
+
+Jechałem dalej w stronę [Łomnicy][wiki-lomnica]. Znowu miałem obok siebie lasy.
+
+Obok skrzyżowania do [Stobna][wiki-stobno] gdzie sąsiaduje linia kolejowa,
+minąłem jakieś stawy. Sądzę że są to stawy hodowlane.
+
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/172234947/m%3D900/3d67378a682417b6b7f9485e0c5bc0a7' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'>
@@ -44,3 +72,39 @@ Szczegóły
   <a href='https://500px.com/photo/172234947/leaving-%C5%81omnica-river-valley-by-aleksander-kwiatkowski' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
+w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
+
+W [Łomnicy][wiki-lomnica] skręciłem na zachód. Oczywiście cały czas jechałem
+tym samym szlakiem - [R1][wiki-r1]. Podobały mi się domy po obu stronach drogi,
+którą wtedy jechałem.
+
+Dojechałem do [Trzcianki][wiki-trzcianka], gdzie zrobiłem przerwę na kurczaka z
+rożna. Do [Trzcianki][wiki-trzcianka] już
+[wcześniej]({% post_url 2015-05-02-z-szamotul-do-trzcianki-zielonym %})
+dotarłem rowerem.
+
+W [Siedlisku][wiki-siedlisko] zrobiłem przerwę przy sklepie obok dworca kolejowego.
+
+Przez dłuższy czas nic specjalnie ciekawego nie widziałem.
+Zjechałem do [Gajewa][wiki-gajewo]. Tam już jechałem wprost w kierunku do
+[Krzyża][wiki-krzyz].
+
+Wioski które mijałem specjalnie się też niczym nie odróżniały, albo Słońce
+zaczęło mnie już męczyć i przestałem zapamiętywać szczegóły, a myślałem o
+końcu dzisiejszej trasy. Taką ogólną ciekawostką były lekkie zbocza,
+które mijałem z prawej strony. Towarzyszyłu one aż do [Wielenia][wiki-wielen].
+Miałem myśl aby zboczyć i przejechać jakąś ścieżką polną, ale jednak
+ostatecznie wolałem utrzymać dobrą średnią prędkość i krócej jechać w tym
+gorącym dniu.
+
+Przez [Wieleń][wiki-wielen] przejechałem szybko. Podczas wyjazdu minąłem
+mauzoleum rodziny von Blonkensee von Schulenburg. Na pierwszy rzut oka
+wygląda to jak ruiny kapliczki na cmentarzu.
+
+Dalej minąłem jakieś małe lotnisko, chociaż nie pamiętam już teraz gdzie
+dokładniej ono było.
+
+Do [Krzyża][wiki-krzyz] dojechałem przez [Lubcz Mały][wiki-lubcz-maly].
+Kupiłem bilet, poczekałem na pociąg i wróciłem nim do [Poznania][wiki-poznan].
