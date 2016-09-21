@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Szukając szlaku na Karsiborze"
-subtitle:               "szlakiem R1, głownie przez tereny lesiste"
+subtitle:               "dlaczego szlak przebiega przez teren prywatny?"
 date:                   2016-09-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173702209/q%3D80_m%3D2000/a8db9f45feeaa66629a951bcb7c056fe"

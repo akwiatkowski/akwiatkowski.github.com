@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Pętla przez Wolinski Park Narodowy"
-subtitle:               "szlakiem R1, głownie przez tereny lesiste"
+subtitle:               "demonstracja jakie mogą być szlaki rowerowe w Polsce"
 date:                   2016-09-18 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173702069/q%3D80_m%3D2000/4b57690cd127b3ab4f8ff8ae72983c96"

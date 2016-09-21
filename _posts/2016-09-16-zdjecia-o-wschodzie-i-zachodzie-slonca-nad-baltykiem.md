@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Zdjęcia o wschodzie i zachodzie Słońca nad Bałtykiem"
-subtitle:               "szlakiem R1, głownie przez tereny lesiste"
+subtitle:               "wstawanie o 5 rano jako nowa forma odpoczynku"
 date:                   2016-09-16 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173700561/q%3D80_m%3D2000/3eb0c5d8ff3d62e17e1e971cf794b7b7"
@@ -66,7 +66,7 @@ Bardziej agresywnie uderzająca woda mogła by dać lepsze efekty.
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Tutaj jest przykład balansu bieli, który idzie w stronę fioletu.
-Kamienny pierwszy plan jest jakiś, ale mógłby być ciekawszy. 
+Kamienny pierwszy plan jest jakiś, ale mógłby być ciekawszy.
 
 Wnioski
 -------
