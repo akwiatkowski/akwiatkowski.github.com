@@ -19,7 +19,23 @@ pois:
 
 ---
 
+[wiki-r1]: https://pl.wikipedia.org/wiki/Szlak_rowerowy_R1
+
+Wstęp
+-----
+
+Już wcześniej jechałem [szlakiem rowerowym R1][wiki-r1]:
+fragment [Pszczew - Krzyż]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %})
+oraz fragment [Piła - Mrocza]({% post_url 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad %}).
+Z tego powodu fajnie by było załatać ten brakujący fragment.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/707229346/embed/b384a30989ed65d542987042adfe2bab08931724'></iframe>
+
+Szczegóły
+---------
 
 <div class='pixels-photo'>
   <p>

@@ -130,6 +130,6 @@ Na północ od [Radolina][wiki-radolin] nierówności terenu są jeszcze bardzie
 
 Dojechałem na dworzec w [Trzciance][wiki-trzcianka]. Miałem godzinę do odjazdu pociagu i w sumie nie chciało mi się jechać
 dalej. Pogoda robiła się powoli bardziej szara. Może nie wiało mocno, ale to był też kolejny czynnik, który mnie przekonał, aby
-zakończyć trasę w Trzciance. Powróciłem do Poznania pociągiem z przesiadką w [Krzyżu][wiki-krzyz].
+zakończyć trasę w Trzciance. Powróciłem do Poznania pociągiem z przesiadką w [Krzyżu Wielkopolskim][wiki-krzyz].
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/127342600' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
