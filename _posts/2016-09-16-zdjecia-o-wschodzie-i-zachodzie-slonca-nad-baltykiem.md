@@ -20,6 +20,7 @@ pois:
 ---
 
 [wiki-morze-baltyckie]: https://pl.wikipedia.org/wiki/Morze_Ba%C5%82tyckie
+[wiki-swinoujscie]: https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
 
 Wstęp
 -----
@@ -68,7 +69,7 @@ Bardziej agresywnie uderzająca woda mogła by dać lepsze efekty.
 Tutaj jest przykład balansu bieli, który idzie w stronę fioletu.
 Kamienny pierwszy plan jest, ale mógłby być znacznie ciekawszy.
 
-[wiki-swinoujscie]: https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
+
 
 Wnioski
 -------
