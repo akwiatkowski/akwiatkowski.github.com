@@ -134,7 +134,13 @@ Dojechaliśmy do mostu kolejowego z [Pilchowice Zapora][wiki-pilchowice-zapora] 
 na kilka zdjęć. Autorzy gry [The Vanishing Of Ethan Carter][gra-porownanie]
 inspirowali się właśnie tymi terenami.
 
-
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/174092337/m%3D900/dce15888cc2392a3330d80e0be379a95' alt='Countryside near Czernica by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/174092337/countryside-near-czernica-by-aleksander-kwiatkowski' alt='Countryside near Czernica by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Z jednej strony nie chcieliśmy wracać najkrótszą drogą, z drugiej strony
 pogoda nas przekonywała do tego. Wracać przez [Siedlęcin][wiki-siedlecin] byłoby

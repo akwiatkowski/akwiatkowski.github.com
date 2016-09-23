@@ -69,6 +69,16 @@ Bardziej agresywnie uderzająca woda mogła by dać lepsze efekty.
 Tutaj jest przykład balansu bieli, który idzie w stronę fioletu.
 Kamienny pierwszy plan jest, ale mógłby być znacznie ciekawszy.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/174093173/m%3D900/eee795b674ab656a524a9c57e63a6c7f' alt='Lighthouse windmill Świnoujście by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/174093173/lighthouse-windmill-%C5%9Awinouj%C5%9Bcie-by-aleksander-kwiatkowski' alt='Lighthouse windmill Świnoujście by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Pomimo ptaków na pierwszym planie coś temu zdjęciu brakuje. Może powinienem mieć
+coś z większą ogniskową i przyciąć aby widoczny był wiatrak z dwoma ptakami pod nim.
 
 
 Wnioski

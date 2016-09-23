@@ -6,7 +6,7 @@ date:                   2015-10-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, swierzawa, pielgrzymka]
 lands:                  [pogorze_kaczawskie]
 
@@ -32,6 +32,14 @@ Szczegóły
 
 Prognoza pogody nadal była niepewna. Okno dobrej widoczności poprzedniego wieczoru nadal było zmienne.
 Nie mieliśmy jednak wyboru - warto wyruszyć i zobaczyć, jakakolwiek pogoda by była.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/174094649/m%3D900/df2ba02fc5e6a5faa8ab990d3c79a683' alt='Ostrzyca Proboszczowa by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/174094649/ostrzyca-proboszczowa-by-aleksander-kwiatkowski' alt='Ostrzyca Proboszczowa by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Najpierw poszliśmy wejść na [Wielisławkę][wiki-organy], które mieliśmy całkiem blisko.
 Podejście było dość mocne, wszędzie bardzo dużo liści, tylko kolory były trochę wczesne -

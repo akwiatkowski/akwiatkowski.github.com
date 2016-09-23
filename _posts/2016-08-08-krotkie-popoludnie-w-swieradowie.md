@@ -67,6 +67,14 @@ oraz musiałem się przyzwyczaić do prędkości. Zjazd "na szczęście" skończ
 dość szybko i jechaliśmy po dobrej drodze polnej. Nie było żadnych przepaści obok
 gdyż [Góry Izerskie][wiki-gory-izerskie] są na ogół dość spokojne.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/174092785/m%3D900/2bc2a5adcaf8eed168c48ed8da31988c' alt='Sun in Izery by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/174092785/sun-in-izery-by-aleksander-kwiatkowski' alt='Sun in Izery by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Okazało się że można już zamawiać jedzenie w [schronisku][wiki-chatka-gorzystow]
 gdy się w nim nie nocuje, dlatego zamówiliśmy legendarne naleśniki z jagodami.
 Faktycznie są one bardzo dobre i każdemu polecam spróbować.

@@ -19,4 +19,30 @@ pois:
 
 ---
 
+Wstęp
+-----
+
+Już wcześniej słyszałem wiele dobrego o szlaku rowerowym do [Niemiec][wiki-niemcy].
+Będąc w [Świnoujściu][wiki-swinoujscie] kierunek na zachód był prawie oczywisty.
+Z tego powodu pierwszego dnia wyruszyliśmy przekonać się jak tam jest.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/716965794/embed/f786bf86908a11bcc7974b2971674c43c8c084b6'></iframe>
+
+Szczegóły
+---------
+
+Ruszyliśmy ulicą Uzdrowiskową kierując się na zachód. Jest to w pewnym sensie
+główna ulica w tym mieście, jest blisko morza i większość gastronomii tam
+jest.
+
+Ruch pieszy i wolno-rowerowy (rowerzyści, którzy zatrzymali się na granicy 20km/h)
+był wyraźny.
+
+Polskie wybrzeże to na ogół tandeta taka sama jak Krupówki w [Zakopanem][wiki-zakopane].
+Są wyjątki i wydaję mi się, że jest ich coraz więcej.
+[Świnoujście][wiki-swinoujscie] również należy do nich i widać, że miasto stara się
+z jednej strony dbać, a z drugiej strony naturalnie stara się przypodobać zachodnim
+sąsiadom. Niemcy lubią porządek, powtarzam to co sam słyszałem.
