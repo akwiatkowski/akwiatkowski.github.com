@@ -1,4 +1,5 @@
 release:
+	$(MAKE) reset
 	$(MAKE) coffee
 	$(MAKE) create_thumbnails
 	$(MAKE) generate_towns
@@ -19,5 +20,6 @@ update_gems:
 	bundle update
 
 reset:
+	echo "Clear _site, refresh payload.json"
 	jekyll clean
 	jekyll build
