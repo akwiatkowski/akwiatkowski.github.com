@@ -60,6 +60,7 @@ permalink: /payload.json
       "header-ext-img": "{{ town.header-ext-img }}",
       "type": "{{ town.type | json_escape }}",
       "url": "/town/{{ town.slug }}",
+      "voivodeship": "{{ town.voivodeship | json_escape }}",
       "inside": [
         {% for inside in town.inside %}
           "{{ inside }}"{% if forloop.last %}{% else %},{% endif %}

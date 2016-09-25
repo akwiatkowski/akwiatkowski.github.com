@@ -91,7 +91,8 @@ this.BlogSummary = (function() {
           results1 = [];
           for (j = 0, len1 = ref1.length; j < len1; j++) {
             town = ref1[j];
-            if (town.inside.indexOf(voivodeship.slug) >= 0) {
+            console.log(town, voivodeship);
+            if (town.voivodeship === voivodeship.slug) {
               town_object = $("<li>", {
                 id: town.slug,
                 "class": "summary-town"
