@@ -6,30 +6,24 @@ struct TownEntity
   @slug : String
   @name : String
   @type : String
+  @header_ext_img : String
 
-  @header_ext_img : String | Nil
   @voivodeship : String | Nil
 
-  @inside : Array(String)
-
-  getter :name, :slug
+  getter :name, :slug, :voivodeship
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
     @name = y["name"].to_s
     @type = y["type"].to_s
 
-    @header_ext_img = y["header-ext-img"].to_s if y["header-ext-img"]?
-    @voivodeship = y["voivodeship"].to_s if y["voivodeship"]?
+    @header_ext_img = y["header-ext-img"].to_s
 
-    @inside = Array(String).new
     if y["inside"]?
-      y["inside"].each do |i|
-        @inside << i.to_s
-      end
-      @voivodeship = @inside[0].to_s if @voivodeship.nil?
+      @voivodeship = y["inside"][0].to_s
     end
 
+    @voivodeship = y["voivodeship"].to_s if y["voivodeship"]?
   end
 
   def to_hash
@@ -40,12 +34,6 @@ struct TownEntity
     h["type"] = @type.to_s unless @type.nil?
     h["voivodeship"] = @voivodeship.to_s unless @voivodeship.nil?
 
-    # disabled "inside"
-    # if @inside.size > 0
-    #   h["inside"] = @inside
-    #   h["voivodeship"] = @inside[0].to_s unless @voivodeship.nil?
-    # end
-
     return h
   end
 
@@ -55,11 +43,6 @@ struct TownEntity
 
   def is_voivodeship?
     return @type == "voivodeship"
-  end
-
-  def voivodeship
-    return nil if @inside.size == 0
-    return @inside[0]
   end
 end
 
@@ -91,11 +74,16 @@ class TownGenerator
   end
 
   def load_yaml(f)
+    puts "Loading #{f}"
+
     YAML.parse(File.read(f)).each do |town|
       o = TownEntity.new(town)
       @towns << o if o.is_town?
       @voivodeships << o if o.is_voivodeship?
     end
+
+    @towns = @towns.sort{|a,b| a.slug <=> b.slug }.uniq{|a| a.slug}
+    @voivodeships = @voivodeships.sort{|a,b| a.slug <=> b.slug }.uniq{|a| a.slug}
   end
 
   def scan_towns
@@ -106,9 +94,6 @@ class TownGenerator
 
   def save_output
     ta = Array(TownEntityHash).new
-
-    @towns = @towns.sort{|a,b| a.slug <=> b.slug }.uniq{|a| a.name}
-    @voivodeships = @voivodeships.sort{|a,b| a.slug <=> b.slug }.uniq{|a| a.name}
 
     @voivodeships.each do |v|
       ta << v.to_hash
@@ -162,3 +147,5 @@ end
 
 tg = TownGenerator.new
 tg.make_it_so
+
+sleep 0.2

@@ -1,4 +1,12 @@
-compile_js:
+release:
+	$(MAKE) coffee
+	$(MAKE) create_thumbnails
+	$(MAKE) generate_towns
+
+coffee:
+	coffee -bc js/*.coffee
+
+coffee_watch:
 	coffee -bcw js/*.coffee
 
 create_thumbnails:
