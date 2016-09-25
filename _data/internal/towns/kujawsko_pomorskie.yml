@@ -4,9 +4,24 @@
   header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
   type: town
   voivodeship: kujawsko_pomorskie
+- slug: dabrowa
+  name: Dąbrowa
+  header-ext-img: https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: gasawa
+  name: Gąsawa
+  header-ext-img: https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0
+  type: town
+  voivodeship: kujawsko_pomorskie
 - slug: janikowo
   name: Janikowo
   header-ext-img: https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: janowiec_wielkopolski
+  name: Janowiec Wielkopolski
+  header-ext-img: https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0
   type: town
   voivodeship: kujawsko_pomorskie
 - slug: jeziora_wielkie
@@ -22,6 +37,11 @@
 - slug: mrocza
   name: Mrocza
   header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: rogowo_zninski
+  name: Rogowo (powiat żniński)
+  header-ext-img: https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0
   type: town
   voivodeship: kujawsko_pomorskie
 - slug: sicienko
