@@ -48,4 +48,26 @@ Ja wysiałem w [Skokach][wiki-skoki]. Rano nie było zimno, ale od razu
 uderzył mnie zapach lasu. Pojawiły się standardowe wątpliwości: czy dam radę
 i czy trasa była ciekawa.
 
-Ruszyłem ulicą Rakojedzką na północny-wschód.
+Ruszyłem ulicą Rakojedzką na północny-wschód. Prowadzi ona w kierunku wsi
+[Rakojady][wiki-rakojady].
+
+...
+
+W [Łopiennie][wiki-lopienno] skręciłem na wschód przejeżdzając pomiędzy
+jeziorami.
+
+...
+
+W [Rogiwie][wiki-rogowo] zastanawiałem się jak dalej jechać. Miałem do wyboru
+albo [Wydartowo][wiki-wydartowo] albo jakoś do [Janikowa][wiki-janikowo].
+Obliczyłem jakie jest ryzyko i zawierzyłem mapom googlowym - wybrałem
+jazdę do [Janikowa][wiki-janikowo].
+
+...
+
+[wiki-chomiaza-szlachecka]: https://pl.wikipedia.org/wiki/Chomi%C4%85%C5%BCa_Szlachecka
+
+W [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka] widziałem informacje
+o Grodzie Piasta.
+
+...
