@@ -18,6 +18,32 @@ pois:
 
 
 ---
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-skoki]: https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
+[wiki-lopuchowo]: https://pl.wikipedia.org/wiki/%C5%81opuchowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kolej-356]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_356
+[wiki-rakojady]: https://pl.wikipedia.org/wiki/Rakojady_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kakulin]: https://pl.wikipedia.org/wiki/Kakulin
+[wiki-kuszewo]: https://pl.wikipedia.org/wiki/Kuszewo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-plaskowo]: https://pl.wikipedia.org/wiki/Pl%C4%85skowo
+[wiki-klodzin]: https://pl.wikipedia.org/wiki/K%C5%82odzin_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-lopienno]: https://pl.wikipedia.org/wiki/%C5%81opienno
+[wiki-bydgoszcz]: https://pl.wikipedia.org/wiki/Bydgoszcz
+[wiki-golancz]: https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
+[wiki-gacz]: https://pl.wikipedia.org/wiki/G%C4%85cz
+[wiki-miniszewo]: https://pl.wikipedia.org/wiki/Miniszewo
+[wiki-sarbinowo-drugie]: https://pl.wikipedia.org/wiki/Sarbinowo_Drugie
+[wiki-rzym]: https://pl.wikipedia.org/wiki/Rzym_(wojew%C3%B3dztwo_kujawsko-pomorskie)
+[wiki-rogowo]: https://pl.wikipedia.org/wiki/Rogowo_(powiat_%C5%BCni%C5%84ski)
+[wiki-wydartowo]: https://pl.wikipedia.org/wiki/Wydartowo
+[wiki-janikowo]: https://pl.wikipedia.org/wiki/Janikowo
+[wiki-grochowicka-szlacheckie]: https://pl.wikipedia.org/wiki/Grochowiska_Szlacheckie
+[wiki-szelejewo]: https://pl.wikipedia.org/wiki/Szelejewo_(wojew%C3%B3dztwo_kujawsko-pomorskie)
+[wiki-ocwieka]: https://pl.wikipedia.org/wiki/O%C4%87wieka_(wie%C5%9B_w_wojew%C3%B3dztwie_kujawsko-pomorskim)
+[wiki-nowowies]: https://pl.wikipedia.org/wiki/Nowawie%C5%9B_Pa%C5%82ucka
+[wiki-dabrowa]: https://pl.wikipedia.org/wiki/D%C4%85browa_(powiat_mogile%C5%84ski)
+[wiki-mierucin]: https://pl.wikipedia.org/wiki/Mierucin_(powiat_mogile%C5%84ski)
+[wiki-broniewice]: https://pl.wikipedia.org/wiki/Broniewice
 
 [maraton-lopuchowo]: http://gpmtb.pl/mtb/Lopuchowo
 
@@ -44,17 +70,98 @@ Ruszyłem pociągiem w stronę [Skoków][wiki-skoki] o 9:30. Jadąc dowiedziałe
 Myślałem że to raczej będzie jakieś małe wydarzenie, ale gdy pociąg dojeżdzał do
 stacji zobaczyłem jak dużo osób przyjechało samochodami.
 
+Samo połączenie kolejowe to fragment [linii 356][wiki-kolej-356] która zaczynając
+się w [Poznaniu][wiki-poznan] kończy się w [Bydgoszczy][wiki-bydgoszcz]. Pociągi
+dojeżdzają do [Gołańczy][wiki-golancz], jednak są plany rewitalizacji dalszej
+części tej linii kolejowej.
+
 Ja wysiałem w [Skokach][wiki-skoki]. Rano nie było zimno, ale od razu
 uderzył mnie zapach lasu. Pojawiły się standardowe wątpliwości: czy dam radę
 i czy trasa była ciekawa.
 
 Ruszyłem ulicą Rakojedzką na północny-wschód. Prowadzi ona w kierunku wsi
-[Rakojady][wiki-rakojady].
+[Rakojady][wiki-rakojady], które były nie były jakieś specjalnie ciekawie.
+Następnie przejechałem przez [Kakulin][wiki-kakulin] przez który przechodzi
+Cysterski Szlak Rowerowy. Sama wioska była trochę bardziej dziksza niż poprzednia,
+ale jadąc pod słońce filmik niewiele ciekawego by pokazywał z tej miejscowości.
 
-...
+Podobały mi się drzewa wokół drogi do [Kuszewa][wiki-kuszewo].
+Dalej powinienem jechać prosto i szybko skorygowałem kierunek.
 
-W [Łopiennie][wiki-lopienno] skręciłem na wschód przejeżdzając pomiędzy
+Patrząc na nagrane filmiki mam wrażenie, że na żywo trasa mi się bardziej podobała.
+Na pewno ładniejsza by była gdybym jechał przed żniwami, kiedy pola są
+bardziej kolorowe.
+
+Przejechałem przez [Pląskowo][wiki-plaskowo] - bardzo krótką wioskę.
+Na mapie wychodzą z niej 3 drogi polne, które mogą być ciekawe do przejechania
+kiedyś. Tylko nie wiem kiedy będzie czas na tak dokładną eksplorację.
+
+Kolejną mijaną wioską był [Kłodzin][wiki-klodzin]. Jechałem cały czas drogą
+takiej samej klasy, ale tutaj ruch był znacznie mniejszy. Było widać to po
+jakości drogi, a nie samochodach, które tego dnia i tej pory jeździły raczej rzadko.
+
+Przejechałem przez główną ulicę w [Łopiennie][wiki-lopienno], która
+po obu stronach była mocno zabudowana, a następnie
+skręciłem na wschód przejeżdzając pomiędzy
 jeziorami.
+
+(video1 koniec)
+
+Jadąc na wschód przejechałem przez stary przejazd kolejowy. Był on gdzieś
+w połowie między [Łopienną][wiki-lopienno] a [Gączem][wiki-gacz], przez który
+przejechałem chwilę później.
+
+[Miniszewo][wiki-miniszewo] było krótką wioską, jeszcze dzikszą. Czułem jak
+stopniowo zmieniał sie charakter tych miejscowości.
+Obok było [Sarbinowo Drugie][wiki-sarbinowo-drugie] i [Rzym][wiki-rzym].
+Niestety z [Rzymu][wiki-rzym] nie mam żadnego ciekawego filmiku.
+
+(TODO Dąb Chrobry)
+
+Wjechałem obok cmentarzy i kościoła do [Rogowo][wiki-rogowo]. Jest to większa
+miejscowość na dzisiejszej trasie. Tam musiałem zadecydować, czy będę jechał
+do [Wydartowa][wiki-wydartowo] czy do [Janikowa][wiki-janikowo]. To drugie
+jest trochę dalej.
+
+Wyjechałem ulicą Bydgoską i tym razem jechałem po bardziej ruchliwej drodze,
+jednak w zamian dostałem trochę asfaltowanego pobocza.
+
+w [Grochowicach Szlacheckich][wiki-grochowicka-szlacheckie] skręciłem
+z tej ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
+po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
+
+W [Szelejewie][wiki-szelejewo] po prawej widziałem 3 bloki, co jest dosyć
+ciekawe, gdyż sama wioska wyglądałą na dość małą.
+
+(video 2)
+
+Jechałem skrótem do [Oćwieki][wiki-ocwieka] drogą gruntową przez pola.
+Sama wioska położona jest nad Jeziorem Oćwieckim i wyjechając z niej
+znowu jechałem drogą gruntową, tym razem w lesie. Po niecałych
+dwóch kilometrach dołączyłem do niebieskiego szlaku rowerowego, chociaż
+jakość trasy się nie zmieniła. Tereny były ogólnie ciekawe, lekko pofalowane.
+Mam wrażenie jakbym za często używał tego słowa.
+
+(TODO Gród Piasta)
+
+Po jakimś czasie zobaczyłem tablicę [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka].
+Widziałem obok informacje o Grodzie Piasta po lewej stronie, jednak nie miałem czasu
+i nie chciało mi się tego teraz sprawdzać. (TODO)
+
+Od tego momentu jechałem głównie wąskimi drogami asfaltowymi wokół pól.
+Niestety o tej porze roku większość jest już zaorane.
+Przejechałem przez [Nowowieś Pałucką][wiki-nowowies]. Jest to wieś zdecydowanie
+rolnicza, gdzie domy położone nie są bardzo blisko gdyż chyba każdy dom ma trochę
+ziemii.
+
+Większą miejscowością od poprzedniej wioski była [Dąbrowa][wiki-dabrowa].
+(TODO tory po zachodniej części)
+Z niej kierowałem się do [Mierucina][wiki-mierucin] za którym musiałem
+przejechać przez las i od tego miejsca prostą drogą jechałem do
+[Broniewic][wiki-broniewice].
+
+Z [Broniewic][wiki-broniewice] do [Janikowa][wiki-janikowo] dojechałem już
+bezpośrednio znając tą drogę.
 
 ...
 
@@ -67,7 +174,6 @@ jazdę do [Janikowa][wiki-janikowo].
 
 [wiki-chomiaza-szlachecka]: https://pl.wikipedia.org/wiki/Chomi%C4%85%C5%BCa_Szlachecka
 
-W [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka] widziałem informacje
-o Grodzie Piasta.
+W [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka]
 
 ...
