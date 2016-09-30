@@ -15,7 +15,12 @@ time_spent:             5
 
 
 pois:
-
+  - lat: 52.70729
+    lon: 17.57403
+    name: Dąb Chrobry w okolicy Rzecza.
+  - lat: 52.74487
+    lon: 17.83281  
+    name: Okolica jeziora Oćwieckiego i Chomląskiego może być ciekawym miejscem.
 
 ---
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84

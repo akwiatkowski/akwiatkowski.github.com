@@ -14,6 +14,20 @@ coords:                 [{"route": [[49.51233,21.49731], [49.50419,21.51791], [4
 distance:               51
 time_spent:             6
 
+pois:
+  - lat: 49.55564
+    lon: 21.51750
+    name: Okoliczne góry wokół Kątów. Na pewno jest tam bardzo dużo nieopisanych ścieżek z przepięknymi widokami.
+  - lat: 49.50667
+    lon: 21.51265
+    name: Przejazd przez Wisłokę i szlak zielony jako bardzo fajna krótka pętla pokazująca istotę tych terenów.
+  - lat: 49.44988
+    lon: 21.49604
+    name: Miejsce z którego można legalnie zobaczyć Ciechanię
+  - lat: 49.43084
+    lon: 21.45278
+    name: Ożenna - jedna z wielu wiosek na końcu świata
+
 ---
 
 [schronisko-hajstra]:             http://hutapolanska.krak.pl/

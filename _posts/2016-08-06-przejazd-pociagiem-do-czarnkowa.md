@@ -15,7 +15,9 @@ time_spent:             12
 
 
 pois:
-
+  - lat: 52.87367
+    lon: 16.48595
+    name: Szwajcaria Czarnkowska - dość wysokie górki. Kiedyś przejeżdzał tam normalny pociag osobowy.
 
 ---
 

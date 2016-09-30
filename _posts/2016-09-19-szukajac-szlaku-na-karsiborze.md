@@ -15,7 +15,10 @@ time_spent:             5
 
 
 pois:
-
+  - lat: 53.85917
+    lon: 14.32182
+    name: Ostoja ptaków Karsiborska Kępa
+    
 
 ---
 

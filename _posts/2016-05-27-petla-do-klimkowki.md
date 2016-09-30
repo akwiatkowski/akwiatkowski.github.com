@@ -14,6 +14,17 @@ coords:                 [{"route": [[49.51428,21.49603], [49.52225,21.47362], [4
 distance:               93
 time_spent:             11
 
+pois:
+  - lat: 49.48758
+    lon: 21.38939
+    name: Miejsce ćwiczenia przechodzenia przez Wisłokę.
+  - lat: 49.54292
+    lon: 21.08890  
+    name: Restauracja i chyba też pensjonat z widokiem na Jezioro Klimkówka.
+  - lat: 49.52047
+    lon: 21.36304  
+    name: Przedostanie się z Wołowca do Świątkowej Wielkiej nie zapomnę do końca życia.
+
 ---
 [chatka-w-nieznajowej]:           http://www.nieznajowa.obozy.pl/
 

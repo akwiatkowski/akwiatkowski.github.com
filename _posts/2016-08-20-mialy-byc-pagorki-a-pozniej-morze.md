@@ -15,7 +15,12 @@ time_spent:             9
 
 
 pois:
-
+  - lat: 54.07276
+    lon: 16.81554
+    name: Droga z Kawcze w kierunku Żydow, mały ruch, dużo drzew wokół. Nie jakoś bardzo ciekawe, ale warto przejechać.
+  - lat: 54.20229
+    lon: 16.60843  
+    name: Drąga z Kręgu do Sianowa.
 
 ---
 

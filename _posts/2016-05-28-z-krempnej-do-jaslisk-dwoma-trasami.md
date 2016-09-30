@@ -14,6 +14,20 @@ coords:                 [{"route": [[49.51116,21.50092], [49.50386,21.53602], [4
 distance:               71
 time_spent:             9
 
+pois:
+  - lat: 49.46947
+    lon: 21.59176
+    name: Kamienny mostek w Olchowcu
+  - lat: 49.46646
+    lon:  21.62155  
+    name: Trudniejsza część szlaku rowerowego za Olchowcem
+  - lat: 49.50148
+    lon: 21.77793  
+    name: Wejście na Kamińską nie jest łatwe, do tego jest to teren prywatny, ale widoki są warte tego.
+  - lat: 49.44044
+    lon: 21.80198  
+    name: Kościół w Jaśliskach oraz bardziej ciekawy szlak zielony na południe.
+
 ---
 
 [wiki-beskid-niski]:        https://pl.wikipedia.org/wiki/Beskid_Niski

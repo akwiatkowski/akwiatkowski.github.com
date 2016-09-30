@@ -14,6 +14,14 @@ coords:                 [{"route": [[50.44745,16.58105], [50.43575,16.58860], [5
 distance:               50
 time_spent:             7
 
+pois:
+  - lat: 50.44485
+    lon: 16.43370
+    name: Zjazd z Góry Stołowych do Chocieszowa drogą dobrej jakości
+  - lat: 50.45064
+    lon: 16.54357
+    name: Ciekawie pofalowany teren przy opuszczaniu Niwy. Sporob fajnych dróg gruntowych.
+
 ---
 
 [wiki-droga-387]:             https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_387

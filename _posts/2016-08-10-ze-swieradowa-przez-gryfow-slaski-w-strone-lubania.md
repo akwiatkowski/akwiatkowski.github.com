@@ -15,6 +15,18 @@ time_spent:             5
 
 
 pois:
+  - lat: 50.99309
+    lon: 15.42328
+    name: Zjazd z Proszówka do Gryfowa Śląskiego
+  - lat: 51.04627
+    lon: 15.39582  
+    name: Nowa Świdnica - klimatyczna sudecka wioska.
+  - lat: 51.04627
+    lon: 15.39582  
+    name: Widok na Jezioro Leśniańskie a wokół pola.
+  - lat: 51.11641
+    lon: 15.28898
+    name: Restauracja Słoneczna (dobre obiady i tanio)
 
 
 ---

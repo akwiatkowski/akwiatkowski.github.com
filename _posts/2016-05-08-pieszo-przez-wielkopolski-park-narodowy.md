@@ -13,6 +13,18 @@ coords:                 [{"route": [[52.27920,16.70861], [52.27862,16.72298], [5
 distance:               50
 time_spent:             7
 
+pois:
+  - lat: 52.28133
+    lon: 16.73613
+    name: Rezerwat Bagno Dębienko i Suche Zbocze, trochę na wschód tereny podmokłe
+  - lat: 52.26198
+    lon: 16.80209  
+    name: Obok Jeziora Góreckiego. W weekend jest tam dużo ludzi
+  - lat: 52.24982
+    lon: 16.81689
+    name: Jezioro Kociołek i opuszczona ostatnia stacja kolei. Spore różnice wysokości.
+
+
 ---
 
 [wiki-bagno-debienko]:      https://pl.wikipedia.org/wiki/Obszar_ochrony_%C5%9Bcis%C5%82ej_Bagno_D%C4%99bienko

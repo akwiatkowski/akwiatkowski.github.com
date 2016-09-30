@@ -13,6 +13,21 @@ coords:                 [{"route": [[52.75155,17.18300], [52.79974,17.19124], [5
 distance:               74
 time_spent:             5
 
+pois:
+  - lat: 52.94938
+    lon: 17.07700
+    name: Hodowla alpak - Alpakoland obok Klotyldzina.
+  - lat: 52.98696
+    lon: 17.07340
+    name: Ciekawa droga przez las z Margonina
+  - lat: 53.05078
+    lon: 16.87710
+    name: Most i samotny dom nad Notecią, a dalej na północ podwyższenie terenu
+  - lat: 53.09595
+    lon: 16.80003  
+    name: Pagórkowate tereny i przejazd pod torami kolejowymi niedaleko Piły
+
+
 ---
 
 [wiki-skoki]:            https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)

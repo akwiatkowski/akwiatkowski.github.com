@@ -16,7 +16,12 @@ time_spent:             9
 
 
 pois:
-
+  - lat: 49.23658
+    lon: 19.76670
+    name: Już od wysokości Grzesia idealnie widać słowackie Tatry Zachodnie.
+  - lat: 49.20678
+    lon:  19.76597  
+    name: Za Wołowcem robi się znacznie stromiej i szlak jest trudniejszy.
 
 ---
 

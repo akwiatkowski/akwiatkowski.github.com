@@ -16,7 +16,9 @@ time_spent:             10
 
 
 pois:
-
+  - lat: 49.21365
+    lon: 19.79927
+    name: Pierwsze przejście przez strumień podczas zejścia z Trzydniowiańskiego Wierchu.
 
 ---
 

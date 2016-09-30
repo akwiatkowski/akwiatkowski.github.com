@@ -14,6 +14,14 @@ coords:                 [{"route": [[50.44783,16.58070], [50.45691,16.58585], [5
 distance:               74
 time_spent:             8
 
+pois:
+  - lat: 50.56939
+    lon: 16.64558
+    name: Wiadukty starej kolei obok Srebrnej Góry
+  - lat: 50.62662
+    lon: 16.90418  
+    name: Idealna droga do jazdy wokół pól w lecie przed żniwami 
+
 ---
 
 [wiki-przedgorze-sudeckie]:          https://pl.wikipedia.org/wiki/Przedg%C3%B3rze_Sudeckie

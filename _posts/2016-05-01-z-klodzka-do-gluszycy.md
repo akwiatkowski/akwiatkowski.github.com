@@ -14,6 +14,14 @@ coords:                 [{"route": [[50.45663,16.58577], [50.46385,16.57246], [5
 distance:               57
 time_spent:             7
 
+pois:
+  - lat: 50.50930
+    lon: 16.50709
+    name: Ciekawie widać część przemysłową Ścinawki
+  - lat: 50.59732
+    lon: 16.44469  
+    name: Droga ta nie jest bardzo ciekawa, ale czuć na niej odległość i dzikość.
+
 ---
 
 [wiki-wzgorza-scinawskie]:     https://pl.wikipedia.org/wiki/Wzg%C3%B3rza_%C5%9Acinawskie

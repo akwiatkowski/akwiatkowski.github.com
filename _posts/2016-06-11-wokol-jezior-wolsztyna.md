@@ -29,7 +29,7 @@ time_spent:             3
 Wstęp
 -----
 
-Najrzadziej zwiedzałem tereny na zachód od [Poznania][wiki-poznania]. Szukałem
+Najrzadziej zwiedzałem tereny na zachód od [Poznania][wiki-poznan]. Szukałem
 miejsca, do którego jest dość łatwy dojazd, jest na zachodzie, oraz wokół są
 jakieś jeziora. Tego dnia padło na odwiedzenie [Wolsztyna][wiki-wolsztyn].
 

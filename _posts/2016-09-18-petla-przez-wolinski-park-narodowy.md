@@ -15,7 +15,9 @@ time_spent:             11
 
 
 pois:
-
+  - lat: 53.87546
+    lon: 14.43846
+    name: Punkt widokowy na Turkusowe Jezioro
 
 ---
 

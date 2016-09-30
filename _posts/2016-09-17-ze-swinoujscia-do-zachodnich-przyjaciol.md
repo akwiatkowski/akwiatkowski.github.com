@@ -15,7 +15,9 @@ time_spent:             8
 
 
 pois:
-
+  - lat: 53.95584
+    lon: 14.12282
+    name: Punkt widokowy na okoliczne jeziora obok Neu Sallenthin.
 
 ---
 

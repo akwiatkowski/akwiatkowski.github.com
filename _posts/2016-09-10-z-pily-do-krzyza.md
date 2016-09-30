@@ -15,6 +15,9 @@ time_spent:             5
 
 
 pois:
+  - lat: 53.10734
+    lon: 16.54011
+    name: Dolina rzeki Łomnica
 
 
 ---
