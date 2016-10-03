@@ -6,66 +6,69 @@ permalink: /todo/
 header-ext-img: https://drscdn.500px.org/photo/108958627/m%3D2048/11298784dfc9b54b1c430165add677d9
 ---
 
-Trasy rowerowe
-==============
+# Trasy rowerowe
 
-Jednodniowe z Poznania z dojazdem PKP
--------------------------------------
+## Jednodniowe z Poznania z dojazdem PKP
 
-Odległość rosnąca:
+Czasy szacunkowe w obie strony.
 
-* [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km, w pobliżu Bałtyku, wokół kolej
+### Do 2h pociągiem
+
 * [Rogoźno - Miały](http://umapa.pl/Qt3xv) - 66km, północ od Poznania
-* [Ziemomyśl - Gorzów](http://umapa.pl/2cJBW) - 66, przez Barlinecko-Gorzowski Park Krajobrazowy
 * [Chocicza - Poznań Starołęka](http://umapa.pl/mXmx9) - 67km, przez Śrem wzdłuż Warty, południe od Poznania
-* [Dolice - Barlinek - Górki Noteckie](http://umapa.pl/XOD3h) - 68km, północny-zachód od Poznania
 * [Solec Wielkopolski - Stare Bojanowo](http://umapa.pl/DKJnG) -  69km, południe od Poznania
-* [Stargard - Wysoka Kamieńska](http://umapa.pl/9J0mm) - 69km, północ-zachód Polski, możliwe rozszerzenie
-  do [Kamienia Pomorskiego](http://umapa.pl/ajfGU) - 23km, lub [Międzyzdroi](http://umapa.pl/cIWou) - 96km
-* [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km, dolnośląskie
 * [Stęszew - Wronki](http://umapa.pl/acGtR) - 71km, zachód od Poznania
-* [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km, zachód Polski, obok szynobus
-* [Drezdenko - Międzyrzecz](http://umapa.pl/KwUyx) - 72km, wokół Puszczy Noteckiej
-* [Komańcza - pętla przez Orzechową obok Rymanowa](http://umapa.pl/JoG54) - 72km, podkarpackie
-* [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km, wokół południowej
-  krawędzi Puszczy Noteckiej
-* [Miały - Słonice](http://umapa.pl/FPynh) - 75km, północ od Poznania
-* [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km, zachód i lekko północ od Poznania
-* [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km, na wschód od Poznania
-* [Rębusz - Barlinek - Gorzów](http://umapa.pl/lMlCS) - 77km, na północny zachód od Poznania
+
+### Ok 3h pociągiem
+
 * [Przysieczyn - Janikowo](http://umapa.pl/VH1ky) - 78km, na wschód od Poznania
-* [Ziemomyśl - Gorzów](http://umapa.pl/QTzsM) - 79km, na północny-zachód od Poznania, obok Choszczna
-* [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km, północ od Poznania
-* [Szczecinek - Ciecholub](http://umapa.pl/HurnC) - 81km, dojazd >3h w jedną stronę
-* [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, pogranicze z dolnośląskim, można skrócić
-* [Szczecinek - Koszalin](http://umapa.pl/qFrcO) - 82km, prawie do Wybrzeża
-* [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
-* [Kawcze - Lutyń](http://umapa.pl/9Kxuw) - 85km, na północ od Poznania
-* [Krzyż - Piła](http://umapa.pl/4gBuA) - 87km, na północ od Poznania
-* [Strzelin - Otmuchów - Prudnik](http://umapa.pl/YuWDv) - 89km, południe od Wrocławia i Poznania
 * [Wronki - Rębusz](http://umapa.pl/ZHbl9) - 89km, północny-zachód od Poznania, bardzo możliwe piaski
 * [Santok - Wronki](http://umapa.pl/JGGIo) - 91km, północny-zachód od Poznania, wokół
   Puszczy Noteckiej
 * [Stara Przesieka - Chocicza](http://umapa.pl/XVIRB) - 90km, południe od Poznania, przez
   pagórki wokół Dolska
+
+
+### Ok 4h pociągiem
+
+* [Ziemomyśl - Gorzów](http://umapa.pl/2cJBW) - 66, przez Barlinecko-Gorzowski Park Krajobrazowy
+* [Dolice - Barlinek - Górki Noteckie](http://umapa.pl/XOD3h) - 68km, północny-zachód od Poznania
+* [Kostrzyn nad Odrą - Santok](http://umapa.pl/lBrSe) - 71km, zachód Polski, obok szynobus
+* [Drezdenko - Międzyrzecz](http://umapa.pl/KwUyx) - 72km, wokół Puszczy Noteckiej
+* [Wronki - Skwierzyna](http://umapa.pl/bYRQ7)/[lub](http://umapa.pl/pdXVv)- 74km, wokół południowej
+  krawędzi Puszczy Noteckiej
+* [Miały - Słonice](http://umapa.pl/FPynh) - 75km, północ od Poznania, blisko linia kolejowa
+* [Rębusz - Barlinek - Gorzów](http://umapa.pl/lMlCS) - 77km, na północny zachód od Poznania
+  [wykonana podobna]({% post_url 2016-09-25-ze-skokow-do-janikowa %}) ale warto tą trasę też zrobić
+* [Ziemomyśl - Gorzów](http://umapa.pl/QTzsM) - 79km, na północny-zachód od Poznania, obok Choszczna
+* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/0MeGw) - 111km, drogi bardziej poboczne, ok 4.5h pociągiem
+
+
+### Ponad 5h pociągiem
+
+* [Stargard - Wysoka Kamieńska](http://umapa.pl/9J0mm) - 69km, północ-zachód Polski, możliwe rozszerzenie
+  do [Kamienia Pomorskiego](http://umapa.pl/ajfGU) - 23km, lub [Międzyzdroi](http://umapa.pl/cIWou) - 96km
+* [Piła - Szczecinek](http://umapa.pl/bUIAp) - 80km, północ od Poznania, jest to dokładnie 5h pociągiem
+* [Szczecinek - Ciecholub](http://umapa.pl/HurnC) - 81km, dojazd >3h w jedną stronę
+* [Leszno - Rudna](http://umapa.pl/A33cY) - 80km, pogranicze z dolnośląskim, można skrócić
+* [Szczecinek - Koszalin](http://umapa.pl/qFrcO) - 82km, prawie do Wybrzeża
+* [Kawcze - Lutyń](http://umapa.pl/9Kxuw) - 85km, na północ od Poznania, może wyjść dokładnie 5h
 * [Szczecinek - Koszalin](http://umapa.pl/7GSTu) - 97km, wybrzeże, chociaż może lepiej było
   przez Kaszuby, tam są większe pagórki
-* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/t77LG) - 101km, trasa raczej głównymi drogami
-* [Szczecinej - Białogard - Mielno](http://umapa.pl/J7gmy) - 104km, można przerwać w Białogardzie
-* [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km, pagórki obok doliny Noteci
-* [Szamotuły - Rębusz](http://umapa.pl/XWpIL) - 105km, można skrócić gdyż pociąg jest blisko
-* [Sławno - Jarosławiec](http://umapa.pl/MgI5f) - 110km, niestety aby wrócić trzeba rozszerzyć do 150km (Słupsk),
+* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/t77LG) - 101km, trasa raczej głównymi drogami, 6h pociągiem
+* [Szczecinek - Białogard - Mielno](http://umapa.pl/J7gmy) - 104km, można przerwać w Białogardzie, wokół kolei, lekko ponad 6h pociągiem
+* [Szczecinek - Jarosławiec](http://umapa.pl/MgI5f) - 110km, niestety aby wrócić trzeba rozszerzyć do 150km (Słupsk),
   albo 130km (przez Ustke), albo wrócić z Ustki 117km
-* [Szczecin - Gorzów Wielkopolski](http://umapa.pl/0MeGw) - 111km, drogi bardziej poboczne
 
-Jedno/wielo-dniowe z bazą zewnętrzną:
-------------------------------
+
+## Jedno/wielo-dniowe z bazą zewnętrzną:
 
 Regionami podzielone na województwa.
 
 1. Dolnośląskie
   * [Bardo - Brzeg](http://umapa.pl/s0qFp) - 82km, jednodniowa
   * [Kłodzko - Jelenia Góra](http://umapa.pl/kmzsb) - 97km, lepiej podzielić na 2 dni
+  * [Strzelin - Otmuchów - Prudnik](http://umapa.pl/YuWDv) - 89km
   * po Górach Kaczawskich
 2. Małopolskie
   * [Rabka - Szaflary: wokół Gorców](http://umapa.pl/UmwFO) - 107km, góry
@@ -73,6 +76,7 @@ Regionami podzielone na województwa.
   * okolice Nowego Sącza
 3. Podkarpackie
   * [Przemyśl - Jaśliska](http://umapa.pl/uPdwI) - 168km, 3 dni, trasę trzeba dokończyć
+  * [Komańcza - pętla przez Orzechową obok Rymanowa](http://umapa.pl/JoG54) - 72km
 4. Pomorze
  * [Szczecinek - Słupsk - Ustka](http://umapa.pl/nX58U) - 131km, jednak
    również ta trasa prawdopodobnie będzie rozszerzona. Najłatwiej rozszerzyć
@@ -80,8 +84,7 @@ Regionami podzielone na województwa.
  * [Piła - Czaplinek - Białogard - Kołobrzeg](http://umapa.pl/Q22oD) - 174km, można
    łatwo skończyć w Koszalinie  
 
-Wielodniowe z sakwami, pełne
----------------------
+## Wielodniowe z sakwami, pełne
 
 Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 
@@ -109,23 +112,57 @@ Są to trasy pełne - po ich zrobieniu zakładam powrót do domu.
 * Mazury - 4 dni przynajmniej
 * Drawieński Park Narodowy - 2 dni
 
-Pieszo
-======
+# Zdjęcia czyli głównie pieszo
 
-* Jesień Karkonoszach/Rudawach/... - tylko na robienie zdjęć
-* Pieniny jesienią
+## Jeziora, stawy, puszcze
+
+### Najbliższe (do 1h)
+
+Dojazd chyba tylko komunikacją miejską. Powrót nie jest problemem nawet rano/wieczorem
+w lecie.
+
+* Strzeszyn - przystanek Strzeszyn i spacer solidny, lub Strzeszynek, bus 46 i 95
+* Warta obok Radojewa - przystanek Boranta/Park Naukowo-Techniczny, bus 46, **15 minut spacerem**, najdziksze
+  miejsce na tej liście
+* Rusałka (zachód) i Bogdanka (wschód) - przystanek Wojska Polskiego, bus 93
+* Łęgi Dębińskie - przystanek Dolna Wilda, bus 71 lub 76
+
+### W miarę bliskie (1-2h)
+
+Dojazd komunikacją podmiejską, czasem pociągami.
+
+* Skoi - pierwszy 5:17 (dzień roboczy), ostatni 20:45
+* Tuczno - 1:05, przystanek Tuczno, bus 323 ze Śródki
+* Stęszew w kierunku Mosiny, stacja kolejowa Stęszew w kierunku Wolsztyna, pierwszy 5:21 ostatni 20:46
+  z Mosiny odjeżdzają później
+* Niepruszewo - stacja Skrzynki w kierunku Zbąszynka, trochę spaceru
+
+### Średnia odległość (>2h, bez noclegu)
+
+Dłuższy dojazd pociągiem, jednak konieczne jest sprawdzenie aktualnego rozkładu
+czy czasem dane miejsce nie wpadnie w kategorię niższą.
+
+* Dobiegniew - półtora godziny pociągiem i półtora godziny spacerkiem
+
+### Dalsze miejsca (powyżej 2h, utrudnione godziny dojazdu, nocleg zalecany)
+
+* Karkonosze/Rudawy Janowickie - 4-6h pociągiem
+* Pieniny - przynajmniej 8h
+
+## Lato, żniwa
+
 * Gorce w lecie, przed żniwami - tylko na robienie zdjęć
+* Przedgórze Sudeckie, na północ od Kłodzka
 
-
-Zima
-====
+## Zima
 
 * Wschód/zachód Słońca w Karkonoszach - był Śnieżnik, jednak Karkonosze były by
   lepsze dla uzyskania czerwieni
 
 
-Wykonane
-========
+# Wykonane
+
+## 2015
 
 * Beskid Sądecki: [1]({% post_url 2015-07-11-z-muszyny-na-hale-labowska %}),
   [2]({% post_url 2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca %}),
@@ -133,6 +170,9 @@ Wykonane
   [4]({% post_url 2015-07-14-zejscie-z-przehyby-do-starego-sacza %})
 * Przejażdzka nad morze, ale zamiast Kołobrzeg koniec był w Szczecinku:
   [1](/trip/2015/08/22/z-rebusza-do-cieszyno/) i [2](/trip/2015/08/23/z-cieszyno-do-szczecinka/)
+
+## 2016
+
 * [Solec Wielkopolski - Jarocin](http://umapa.pl/TOIJk) - 47km (przez wzgórza Żerkowskie),
   trasy [1]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}),
   [2]({% post_url 2016-05-22-z-jarocina-do-slupcy %})
@@ -154,4 +194,19 @@ Wykonane
   częściowo [wykonane]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}),
   trasa w okolicy Sierakowa nadal do zrobiona
 * [Witkowe pod Stargardem - Strzelce Krajeńskie](http://umapa.pl/HaM02) - 66km, lekkie wyżyny drawskie
-  [wykonane]({% post_url 2016-07-10-przez-pagorki-do-stargardu %})  
+  [wykonane]({% post_url 2016-07-10-przez-pagorki-do-stargardu %})
+* [Świnoujście - Peenemunde (Niemcy)](http://umapa.pl/nKdrV) - 47km, w pobliżu Bałtyku, wokół kolej
+  [wykonane częściowo]({% post_url 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol %})
+* [Strzelin - Mietków](http://umapa.pl/cXOHT) - 70km, dolnośląskie
+  [wykonane w większości]({% post_url 2016-08-25-pagorkami-ze-strzelina-do-zarowa %})
+* [Wronki - Sieraków - Szamotuły](http://umapa.pl/OmYei) - 76km, zachód i lekko północ od Poznania
+  wykonane: [1]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %})
+  i [2]({% post_url 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego %})
+* [Rogoźno - Mogilno](http://umapa.pl/V3j7q) - 77km, na wschód od Poznania
+  [wykonana podobna]({% post_url 2016-09-25-ze-skokow-do-janikowa %})  
+* [Skoki - Janikowo](http://umapa.pl/IXCMj) - 85km, na wschód od Poznania
+  [wykonane]({% post_url 2016-09-25-ze-skokow-do-janikowa %})
+* [Krzyż - Piła](http://umapa.pl/4gBuA) - 87km, na północ od Poznania
+  [wykonane]({% post_url 2016-09-10-z-pily-do-krzyza %})
+* [Piła - Bydgoszcz](http://umapa.pl/NoB6a) - 105km, pagórki obok doliny Noteci
+  [wykonane]({% post_url 2016-07-30-z-pily-do-bydgoszczy-przez-bagdad %})
