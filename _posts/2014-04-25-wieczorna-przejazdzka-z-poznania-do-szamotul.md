@@ -6,7 +6,7 @@ date:                   2014-04-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63248073/m%3D2048/291f13454efe2dd994f79a083e4ef9d9"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, szamotuly]
 
 

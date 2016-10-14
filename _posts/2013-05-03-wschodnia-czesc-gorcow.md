@@ -6,7 +6,7 @@ date:                   2013-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/34474028/m%3D2048/95df032502c17261a54d2896d072d890"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
 

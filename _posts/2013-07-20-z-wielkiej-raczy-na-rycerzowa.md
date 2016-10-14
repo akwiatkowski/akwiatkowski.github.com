@@ -6,7 +6,7 @@ date:                   2013-07-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41617556/m%3D2048/7427716299d2442b18d82293caf50d88"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [main, hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 

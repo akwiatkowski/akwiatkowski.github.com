@@ -6,7 +6,7 @@ date:                   2012-08-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23974025/m%3D2048/ae3e7c8b21dabc52db3613217e155890"
 categories:             trip
-tags:                   [hike, mountains, best]
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 

@@ -6,7 +6,7 @@ date:                   2016-07-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164958819/q%3D80_m%3D2000/8e2ebdff84017c72cc5353842f977361"
 categories:             trip
-tags:                   [hike, todo_media]
+tags:                   [main, hike, todo_media]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 

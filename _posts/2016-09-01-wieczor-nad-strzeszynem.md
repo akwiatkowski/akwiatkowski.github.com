@@ -6,7 +6,7 @@ date:                   2016-09-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/171156045/q%3D80_m%3D2000/690440e63f2fdce7cc9a8c8eaa3097ac"
 categories:             trip
-tags:                   [hike, todo_media]
+tags:                   [main, photo, todo_media]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.46617,16.82573], [52.46353,16.82502], [52.46019,16.82644]], "type": "hike"}]

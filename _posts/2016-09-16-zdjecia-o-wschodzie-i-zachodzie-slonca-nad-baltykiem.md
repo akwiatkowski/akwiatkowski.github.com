@@ -6,7 +6,7 @@ date:                   2016-09-16 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173700561/q%3D80_m%3D2000/3eb0c5d8ff3d62e17e1e971cf794b7b7"
 categories:             trip
-tags:                   [workshop, hike, todo_media]
+tags:                   [main, photo, todo_media]
 towns:                  [zachodnio_pomorskie, swinoujscie]
 
 coords:                 [{"route": [[53.92244,14.25623], [53.92191,14.26854], [53.92451,14.27872], [53.92628,14.27730], [53.92214,14.27906]], "type": "hike"}]

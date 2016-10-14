@@ -6,7 +6,7 @@ date:                   2015-08-25 14:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/121995105/m%3D2048/205dbef26167c9ec60c50021a8929537"
 categories:             localhost
-tags:                   [localhost, article]
+tags:                   [main, localhost, article]
 ---
 
 [wiki-mre]:             https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat

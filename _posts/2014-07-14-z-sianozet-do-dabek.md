@@ -6,7 +6,7 @@ date:                   2014-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6"
 categories:             trip
-tags:                   [bicycle, coast, panniers]
+tags:                   [main, bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, ustronie_morskie, bedzino, mielno, sianow, darlowo]
 lands:                  [wybrzeze_slowinskie]
 

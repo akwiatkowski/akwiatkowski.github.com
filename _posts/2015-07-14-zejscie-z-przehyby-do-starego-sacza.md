@@ -6,7 +6,7 @@ date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115266201/m%3D2048/4353b56cc0fe5416ed412cf530fcfcfa"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [main, hike, mountains, todo_media]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
 lands:                  [beskid_sadecki]
 

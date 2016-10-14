@@ -6,7 +6,7 @@ date:                   2016-08-17 09:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167920975/q%3D80_m%3D2000/a20ed066eec5b4095e1df039ce01b0cd"
 categories:             article
-tags:                   [article]
+tags:                   [opinion]
 ---
 
 [wiki-stuxnet]: https://pl.wikipedia.org/wiki/Stuxnet
@@ -165,3 +165,9 @@ bronić narodu. Może naród musi sam się bronić?
 
 Bohaterami okazują się ludzie, po których nikt się nie spodziewał i którzy
 najmniej mówili co to nie oni zrobią.
+
+Aktualizacja
+------------
+
+Fala nie jest już takim zjawiskiem jak kiedyś, jest już mocniej tępiona po
+tym jak wojsko stało zawodowe. Tak przynajmniej dosłyszałem.

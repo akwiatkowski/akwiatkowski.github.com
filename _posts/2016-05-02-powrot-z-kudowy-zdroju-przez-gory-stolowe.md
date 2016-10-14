@@ -6,7 +6,7 @@ date:                   2016-05-02 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media, main]
+tags:                   [main, bicycle, mountains, todo_media]
 towns:                  [dolnoslaskie, kudowa_zdroj, szczytna, radkow]
 lands:                  [pogorze_orlickie, gory_stolowe, obnizenie_scinawki, kotlina_klodzka]
 

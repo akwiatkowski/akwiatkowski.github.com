@@ -6,7 +6,7 @@ date:                   2015-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28744393/m%3D2048/8a95b0b5cec67fec50454980f44e880e"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [main, bicycle, todo_media]
 towns:                  [wielkopolskie, poznan]
 lands:                  [pojezierze_poznanskie]
 

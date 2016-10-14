@@ -6,7 +6,7 @@ date:                   2016-07-23 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b"
 categories:             trip
-tags:                   [hike, bicycle, todo_media]
+tags:                   [main, hike, bicycle, todo_media]
 towns:                  [malopolskie, czorsztyn, lapsze_nizne]
 lands:                  [gorce, podhale, pieniny]
 

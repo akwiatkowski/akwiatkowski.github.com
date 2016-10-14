@@ -6,7 +6,7 @@ date:                   2014-08-31 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/74025541/m%3D2048/ec9fa92b983add7b72530e15e82e534d"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [main, bicycle, todo_media]
 towns:                  [wielkopolskie, rogozno, oborniki, suchy_las, poznan]
 
 

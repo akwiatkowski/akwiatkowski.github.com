@@ -6,7 +6,7 @@ date:                   2015-08-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b"
 categories:             trip
-tags:                   [bicycle]
+tags:                   [main, bicycle]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 
 coords:                 [{"route": [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]], "type": "bicycle"}, {"route": [[52.74809,18.11518], [52.71940,18.04738], [52.66321,17.94781], [52.65827,17.94601]], "type": "train"}]

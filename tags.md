@@ -1,5 +1,7 @@
 ---
 layout: post
+author: Aleksander Kwiatkowski
+date: 2016-01-01 13:00:00
 title: "Tagi"
 subtitle: "lista wszystkich tagów"
 permalink: /tags/

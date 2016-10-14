@@ -6,7 +6,7 @@ date:                   2015-06-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff"
 categories:             trip
-tags:                   [bicycle, mountains, best]
+tags:                   [main, bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska, stara_kamienica, jezow_sudecki, jelenia_gora]
 lands:                  [gory_izerskie, gory_kaczawskie]
 

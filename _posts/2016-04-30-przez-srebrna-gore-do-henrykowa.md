@@ -6,7 +6,7 @@ date:                   2016-04-30 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media, main]
+tags:                   [main, bicycle, mountains, todo_media]
 towns:                  [dolnoslaskie, klodzko, stoszowice, zabkowice_slaskie, cieplowody, ziebice]
 lands:                  [kotlina_klodzka, gory_bardzkie, obnizenie_otmuchowskie, wzgorza_niemczansko_strzelinskie]
 
@@ -20,7 +20,7 @@ pois:
     name: Wiadukty starej kolei obok Srebrnej Góry
   - lat: 50.62662
     lon: 16.90418  
-    name: Idealna droga do jazdy wokół pól w lecie przed żniwami 
+    name: Idealna droga do jazdy wokół pól w lecie przed żniwami
 
 ---
 
@@ -122,6 +122,14 @@ mniej niż 40km zrobionej trasy. Z tego powodu ruszyliśmy bardzo szybko.
 Ruszyliśmy na wschód i lekko na północ w stronę [Sieroszowa][wiki-sieroszow], gdzie
 skręciliśmy na północ. Droga do [Baldwinowic][wiki-baldwinowice] bardzo mi się podobała. Jechaliśmy w
 obniżeniu mając po obu stronach pola, wokół kwitnął rzepak.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/176807465/m%3D900/e5e892f036bc508b637b647222776e9f' alt='Between Sieroszów and Baldwinowice by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/176807465/between-sierosz%C3%B3w-and-baldwinowice-by-aleksander-kwiatkowski' alt='Between Sieroszów and Baldwinowice by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Ogólnie dzikość wiosek i pagórkowatość to to co najbardziej lubię i w tym miejscu
 mogłem tego doświadczyć. Planuję przejechać te okolice ponownie ale tym razem przed żniwami.

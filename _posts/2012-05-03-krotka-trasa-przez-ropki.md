@@ -6,7 +6,7 @@ date:                   2012-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/143377393/q%3D80_m%3D2000/b8736231e9ab23d6aa6737b7d3deec8a"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 

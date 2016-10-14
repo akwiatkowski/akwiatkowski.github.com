@@ -6,7 +6,7 @@ date:                   2016-07-22 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501"
 categories:             trip
-tags:                   [hike, todo_media]
+tags:                   [main, hike, todo_media]
 towns:                  [malopolskie, czorsztyn]
 lands:                  [gorce, podhale]
 

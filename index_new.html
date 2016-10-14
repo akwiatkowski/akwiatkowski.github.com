@@ -11,7 +11,7 @@ permalink:      /
     {% for post in site.posts %}
       {% if post.tags contains "todo" %}
         <!-- {{ post.title }} -->
-      {% else %}
+      {% elsif post.tags contains "main" %}  
         {% assign counter = counter | plus: 1 %}
         {% if counter < already_visible %}
           {% assign klass = "" %}
@@ -21,6 +21,8 @@ permalink:      /
 
         {% include post_box.html klass=klass %}
 
+      {% else %}
+        <!-- {{ post.title }} -->
       {% endif %}
     {% endfor %}
   </div>

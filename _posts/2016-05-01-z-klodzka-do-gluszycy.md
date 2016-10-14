@@ -6,7 +6,7 @@ date:                   2016-05-01 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c"
 categories:             trip
-tags:                   [bicycle, mountains, todo_media, main]
+tags:                   [main, bicycle, mountains, todo_media]
 towns:                  [dolnoslaskie, klodzko, radkow, nowa_ruda, gluszyca]
 lands:                  [kotlina_klodzka, obnizenie_scinawki, obnizenie_nowej_rudy, gory_kamienne]
 

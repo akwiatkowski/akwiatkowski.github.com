@@ -6,11 +6,9 @@ date:                   2015-10-23 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f"
 categories:             localhost
-tags:                   [localhost, article]
+tags:                   [main, localhost, article]
 lands:                  [pogorze_kaczawskie]
 ---
-
-[blog-wycieczka-rower]:       /localhost//
 
 [wiki-ostrzyca]:              https://pl.wikipedia.org/wiki/Ostrzyca_(Pog%C3%B3rze_Kaczawskie)
 

@@ -6,7 +6,7 @@ date:                   2016-08-25 13:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169702587/q%3D80_m%3D2000/594094c7dcea153f834db12796a4fe40"
 categories:             trip
-tags:                   [bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers, todo_media]
 towns:                  [dolnoslaskie, wroclaw]
 
 coords:                 [{"route": [], "type": "bicycle"}]

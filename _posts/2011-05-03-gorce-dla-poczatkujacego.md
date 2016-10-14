@@ -6,7 +6,7 @@ date:                   2011-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23972019/m%3D2048/86a68c26bb4cf5b84c890ee96e4a3f1c"
 categories:             trip
-tags:                   [hike, mountains]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, niedzwiedz]
 lands:                  [gorce]
 coords:                 [{"route": [[49.60748,20.06279], [49.59268,20.08082], [49.58561,20.07807], [49.57938,20.06863]], "type": "hike"}, {"route": [[49.60784,20.06275], [49.59724,20.06090], [49.59816,20.07326]], "type": "hike"}, {"route": [[49.71931,19.98258], [49.70332,20.03683], [49.67445,20.07287], [49.66773,20.08369], [49.65578,20.07262], [49.62721,20.08566], [49.61098,20.06283], [49.60792,20.06283]], "type": "bus"}]

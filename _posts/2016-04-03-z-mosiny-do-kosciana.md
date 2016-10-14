@@ -6,7 +6,7 @@ date:                   2016-04-03 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9"
 categories:             trip
-tags:                   [bicycle, todo_media]
+tags:                   [main, bicycle, todo_media]
 towns:                  [wielkopolskie, mosina, czempin, brodnica, koscian, smigiel]
 lands:                  [pojezierze_poznanskie, rownina_koscianska, kotlina_sremska, pojezierze_krzywinskie]
 

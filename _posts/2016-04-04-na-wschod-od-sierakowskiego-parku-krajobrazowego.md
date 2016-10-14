@@ -6,7 +6,7 @@ date:                   2016-04-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce"
 categories:             trip
-tags:                   [bicycle, main]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, wronki, chrzypsko_wielkie, pniewy, ostrorog, szamotuly]
 lands:                  [pojezierze_poznanskie, sierakowski_park_krajobrazowy]
 
