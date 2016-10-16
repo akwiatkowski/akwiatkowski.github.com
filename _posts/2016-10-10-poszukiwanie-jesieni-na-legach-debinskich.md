@@ -19,6 +19,17 @@ pois:
 
 ---
 
+Wstęp
+-----
+
+Zamarzyłem sobie robienie jesiennych zdjęć przy porannej mgle.
+Znalazłem 3 najlepsze miejsca do takich zdjęć i tym razem chciałem odwiedzić
+Łęgi Dębińskie.
+
+Zdjęcia
+-------
+
+
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/177091667/m%3D900/5a6ba51c4925708c94334bc4cb262540' alt='Bridge in Łęgi Dębińskie by Aleksander Kwiatkowski on 500px.com'>
