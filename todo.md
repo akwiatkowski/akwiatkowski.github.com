@@ -159,6 +159,9 @@ czy czasem dane miejsce nie wpadnie w kategorię niższą.
 * Wschód/zachód Słońca w Karkonoszach - był Śnieżnik, jednak Karkonosze były by
   lepsze dla uzyskania czerwieni
 
+# Kolejowe
+
+[Tutaj jest szerszy opis](/todos/kolejowe).
 
 # Wykonane
 
