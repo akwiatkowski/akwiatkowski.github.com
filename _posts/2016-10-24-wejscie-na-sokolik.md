@@ -1,8 +1,8 @@
 ---
 layout:                 post
 title:                  "Wejście na Sokolik"
-subtitle:               "odkrycie krótszej trasy nad Wartę"
-date:                   2016-10-24 17:00:00
+subtitle:               "jesień w Rudawach Janowickich"
+date:                   2016-10-24 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179415965/q%3D80_m%3D1500/7e3a2365ee73a407af07b0eecc79f8c6"
 categories:             trip
