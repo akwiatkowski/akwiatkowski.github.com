@@ -1,0 +1,40 @@
+---
+layout:                 post
+title:                  "Opuszczając jesienne Rudawy Janowickie"
+subtitle:               "czyli spacerek z Wojanowa do Trzcińska"
+date:                   2016-10-26 11:00:00
+author:                 "Aleksander Kwiatkowski"
+header-ext-img:         "https://drscdn.500px.org/photo/179415965/q%3D80_m%3D1500/7e3a2365ee73a407af07b0eecc79f8c6"
+categories:             trip
+tags:                   [main, hike, photo, todo]
+towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
+lands:                  [rudawy_janowickie]
+
+coords:                 [{"route": [], "type": "hike"}]
+distance:               5
+time_spent:             2
+
+
+pois:
+
+
+---
+
+Wstęp
+-----
+
+Poprzednie dwa dni mnie trochę zmęczyły. Zwłaszcza
+dzień [wczorajszy]({% post_url 2016-10-25-mgliste-rudawy-janowickie %}),
+w którym zrobiłem bardzo dużo jesienno-mglistych zdjęć.
+
+
+Szczegóły
+---------
+
+Wnioski
+-------
+
+* Pogoda jest zmienna i nieprzewidywalna, czasem nawet złośliwa. Gdybym koniecznie
+  celował na dobrą pogodę teraz to wyruszałbym z dnia na dzień.  
+* Po deszczu bardzo często są mgły, ale dopiero na odpowiedniej wysokości.
+  Zalecan jest być na 500-600m n.p.m.
