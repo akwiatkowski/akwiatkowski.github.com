@@ -20,6 +20,10 @@ pois:
 
 ---
 
+[wiki-wojanow]: https://pl.wikipedia.org/wiki/Wojan%C3%B3w
+[wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
+[wiki-bobrow]: https://pl.wikipedia.org/wiki/Bobr%C3%B3w_(powiat_jeleniog%C3%B3rski)
+
 Wstęp
 -----
 
@@ -27,14 +31,31 @@ Poprzednie dwa dni mnie trochę zmęczyły. Zwłaszcza
 dzień [wczorajszy]({% post_url 2016-10-25-mgliste-rudawy-janowickie %}),
 w którym zrobiłem bardzo dużo jesienno-mglistych zdjęć.
 
+Dopiero jak wrócę do domu i je przeobię będę mógł coś o nich powiedzieć.
+Niestety ekran mojego przenośnego 12" della ma słabe odwzorowanie kolorów
+dlatego zdjęcia oglądałem tylko pobieżnie.
 
 Szczegóły
 ---------
+
+Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
+słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
+zapomnieć. Nie spieszyłem się aby wstawać rano na wschód słońca.
+
+Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudecki
+wioski. Chociaż przeszedłem tylko przez
+[Wojanów][wiki-wojanow], [Bobrów][wiki-bobrow] i [Trzcińsko][wiki-trzcinsko].
+
+Po drodzę zrobiłem kilka zdjęć, które postaram się tutaj wrzucić i zaktualizować
+opis tego dnia.
 
 Wnioski
 -------
 
 * Pogoda jest zmienna i nieprzewidywalna, czasem nawet złośliwa. Gdybym koniecznie
-  celował na dobrą pogodę teraz to wyruszałbym z dnia na dzień.  
+  celował na dobrą pogodę teraz to wyruszałbym z dnia na dzień.
 * Po deszczu bardzo często są mgły, ale dopiero na odpowiedniej wysokości.
   Zalecan jest być na 500-600m n.p.m.
+* Teoretycznie dałoby się przejechać 5h pociągiem, przejść 1.5h pieszo i wejść
+  na wschód słońca (lub zachód) i wrócić, ale pogoda musiałaby być idealna
+  aby mi się coś takiego chciało robić.
