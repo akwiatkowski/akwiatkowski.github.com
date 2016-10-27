@@ -4,7 +4,7 @@ title:                  "Opuszczając jesienne Rudawy Janowickie"
 subtitle:               "czyli spacerek z Wojanowa do Trzcińska"
 date:                   2016-10-26 11:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/179415965/q%3D80_m%3D1500/7e3a2365ee73a407af07b0eecc79f8c6"
+header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
 categories:             trip
 tags:                   [main, hike, photo, todo]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
