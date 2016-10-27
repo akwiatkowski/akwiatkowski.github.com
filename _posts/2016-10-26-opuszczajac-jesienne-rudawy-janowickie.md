@@ -6,7 +6,7 @@ date:                   2016-10-26 11:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
 categories:             trip
-tags:                   [main, hike, photo, todo]
+tags:                   [main, hike, photo, todo_media]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
@@ -31,7 +31,7 @@ Poprzednie dwa dni mnie trochę zmęczyły. Zwłaszcza
 dzień [wczorajszy]({% post_url 2016-10-25-mgliste-rudawy-janowickie %}),
 w którym zrobiłem bardzo dużo jesienno-mglistych zdjęć.
 
-Dopiero jak wrócę do domu i je przeobię będę mógł coś o nich powiedzieć.
+Dopiero jak wrócę do domu i je przerobię będę mógł coś o nich powiedzieć.
 Niestety ekran mojego przenośnego 12" della ma słabe odwzorowanie kolorów
 dlatego zdjęcia oglądałem tylko pobieżnie.
 
@@ -40,10 +40,10 @@ Szczegóły
 
 Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
-zapomnieć. Nie spieszyłem się aby wstawać rano na wschód słońca.
+zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
-Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudecki
-wioski. Chociaż przeszedłem tylko przez
+Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
+wioski - chociaż przeszedłem tylko przez
 [Wojanów][wiki-wojanow], [Bobrów][wiki-bobrow] i [Trzcińsko][wiki-trzcinsko].
 
 Po drodzę zrobiłem kilka zdjęć, które postaram się tutaj wrzucić i zaktualizować
@@ -53,9 +53,9 @@ Wnioski
 -------
 
 * Pogoda jest zmienna i nieprzewidywalna, czasem nawet złośliwa. Gdybym koniecznie
-  celował na dobrą pogodę teraz to wyruszałbym z dnia na dzień.
-* Po deszczu bardzo często są mgły, ale dopiero na odpowiedniej wysokości.
-  Zalecan jest być na 500-600m n.p.m.
+  celował na dobrą pogodę teraz, to wyruszałbym z dnia na dzień.
 * Teoretycznie dałoby się przejechać 5h pociągiem, przejść 1.5h pieszo i wejść
   na wschód słońca (lub zachód) i wrócić, ale pogoda musiałaby być idealna
   aby mi się coś takiego chciało robić.
+* Po deszczu bardzo często pojawiają się mgły, ale dopiero na odpowiedniej wysokości.
+  Zalecane jest być na 500-600m n.p.m.
