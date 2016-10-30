@@ -110,6 +110,14 @@ i warunki w jakich chciałbym się znaleźć. Te rzeczy nie są deterministyczne
 Ruszyłem zielony szlakiem pieszym z [Wojanowa][wiki-wojanow] na wschód
 w stronę [Sokolika][wiki-sokolik]. Zaskoczył mnie las pełen kolorów.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/180310375/m%3D900/c4d6cbb5649be2048a22552362fadf06' alt='Rudawy Janowickie by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/180310375/rudawy-janowickie-by-aleksander-kwiatkowski' alt='Rudawy Janowickie by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Będąc kiedyś w [Rudawach Janowickich][wiki-rudawy-janowickie] udało mi się
 wejść na [Krzyżną Górę][wiki-krzyzna-gora], ale nigdy nie byłem na
 [Sokoliku][wiki-sokolik]. To był dobry moment aby to zmienić.
@@ -118,6 +126,14 @@ Ostatni fragment podejścia to był trawers, po którym czekało jeszcze
 wejście na punkt widokowy no schodach. Pomimo tego, że ta góra jest niższa o 12 metrów,
 widok jest chyba ciekawszy niż z [Krzyżnej Góry][wiki-krzyzna-gora] na której
 (jeżeli się nie mylę) jest blokowany drzewami ze wschodniej strony.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/180309893/m%3D900/4d6b2ea5407e811912d60bc12bea0690' alt='Śnieżka from Sokolnik by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/180309893/%C5%9Anie%C5%BCka-from-sokolnik-by-aleksander-kwiatkowski' alt='Śnieżka from Sokolnik by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Następnie odwiedziłem [schronisko][wiki-szwajcarka]
 aby coś zjeść i ruszyłem żółtym szlakiem do
