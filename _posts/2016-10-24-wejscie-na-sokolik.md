@@ -4,7 +4,7 @@ title:                  "Wejście na Sokolik"
 subtitle:               "jesień w Rudawach Janowickich"
 date:                   2016-10-24 19:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/179415965/q%3D80_m%3D1500/7e3a2365ee73a407af07b0eecc79f8c6"
+header-ext-img:         "https://drscdn.500px.org/photo/180309893/q%3D80_m%3D2000/d8b48b8f2ac5b1aedd46361663a289c8"
 categories:             trip
 tags:                   [main, hike, photo, todo_media]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
