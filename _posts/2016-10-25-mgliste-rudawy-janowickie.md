@@ -10,7 +10,7 @@ tags:                   [main, hike, photo, todo_media]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.86915,15.86542], [50.86295,15.87301], [50.85225,15.86915], [50.84856,15.86237], [50.84827,15.84907], [50.84726,15.84816]], "type": "hike"}]
 distance:               16
 time_spent:             8
 
@@ -93,7 +93,40 @@ aparacie była prawie wyładowana, a tego dnia zapomniałem wyjąć drugiej bate
 z ładowarki. Na szczęście nie miałem w planach więcej zdjęć, więc nawet jakby mi
 aparat padł nie byłbym smutny z tego powodu.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/179850119/m%3D900/8bb3dd56d7dab389d0757587cde51923' alt='Autumn pond in Karpniki by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/179850119/autumn-pond-in-karpniki-by-aleksander-kwiatkowski' alt='Autumn pond in Karpniki by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Do bazy wróciłem tą samą drogą jak dzień wcześnie gdyż nie chciało mi się iść
 inną dłuższą trasą.
 Czułem się zmęczony w pozytywnym sensie i nie chciałem więcej
 eksplorować.
+
+Zdjęcia
+-------
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/181983809/m%3D900/d8415c1b201e6c05c7553d0c6af0edfc' alt='Leaves on the ground by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/181983809/leaves-on-the-ground-by-aleksander-kwiatkowski' alt='Leaves on the ground by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+W niektórych miejscach spadało bardzo dużo liści. W innych jeszcze nie spadły,
+albo nie miały z czego spaść.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/180894849/m%3D900/7912beb4e56f4d4373ee7a6f671cb46f' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/180894849/under-autumn-tree-by-aleksander-kwiatkowski' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+To zdjęcie podobało się ludziom bardziej. Prawdopodobnie przez umieszczenie
+(jeszcze) kolorowego drzewa.

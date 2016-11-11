@@ -10,7 +10,7 @@ tags:                   [main, hike, photo, todo_media]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.87075,15.82688], [50.87424,15.83598], [50.87571,15.84701], [50.87511,15.84752], [50.88275,15.85752], [50.88199,15.86434], [50.87806,15.87065], [50.87942,15.87001], [50.88258,15.87327]], "type": "hike"}]
 distance:               5
 time_spent:             2
 

@@ -6,7 +6,7 @@ date:                   2014-01-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/58673886/m%3D2048/b0dfdf4a1b0772b8a27aa9f74cf5063f"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, gluszyca, walim, pieszyce]
 lands:                  [gory_sowie]
 
@@ -76,6 +76,14 @@ Dalsze podejście to był głównie spacer w lesie. Pojawiło się trochę stare
 w okolicach [Wielkiej Sowy][wiki-wielka-sowa]. Weszliśmy na wieżę, w której był
 całkiem ładny widok na okolicę. Tam właśnie zrobiłem główne zdjęcie tego posta -
 widok na [Śnieżkę][wiki-sniezka]. Odległość w linii prostej - około 53km.
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/181140893/m%3D900/3bcbb25909c390d483ca2e9ef4e5cf07' alt='Layers in Owl Mountains and Sudetes by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/181140893/layers-in-owl-mountains-and-sudetes-by-aleksander-kwiatkowski' alt='Layers in Owl Mountains and Sudetes by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Zejście do [Kamionek][wiki-kamionki] było już mniej interesujące jeżeli chodzi o
 widoki. Był to styczeń, więc zeszliśmy prawie przed zmrokiem. Po drodzę

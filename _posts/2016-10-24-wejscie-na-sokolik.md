@@ -10,7 +10,7 @@ tags:                   [main, hike, photo, todo_media]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.90229,15.75538], [50.89547,15.78465], [50.88781,15.79379], [50.88914,15.79860], [50.88608,15.80521], [50.87676,15.81392], [50.87067,15.82053], [50.87070,15.82705], [50.86842,15.83177], [50.86967,15.86954]], "type": "hike"}, {"route": [[50.85187,15.86778], [50.85016,15.85327], [50.85675,15.84499], [50.86850,15.83164]], "type": "hike"}]
 distance:               21
 time_spent:             8
 
@@ -140,5 +140,27 @@ aby coś zjeść i ruszyłem żółtym szlakiem do
 [Karpnik][wiki-karpniki]. Gdzieś w oddali ulicy Janowickiej chyba
 widziałem wilka.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/182430269/m%3D900/8a51df63b97c05fb361abcd722131eca' alt='A house in Karpniki by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/182430269/a-house-in-karpniki-by-aleksander-kwiatkowski' alt='A house in Karpniki by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Wracałem ulicą Stawową. Powoli robiło się ciemno. W bazie byłem przed godziną
 19-tą. Czołówka zdecydowanie się przydała.
+
+Zdjęcia
+-------
+
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/182430933/m%3D900/c24e303942efa961ff5f9cccbd4a78f4' alt='Trzcińsko and Wojanów from Sokolik by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/182430933/trzci%C5%84sko-and-wojan%C3%B3w-from-sokolik-by-aleksander-kwiatkowski' alt='Trzcińsko and Wojanów from Sokolik by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
+Po lewej stronie na dole widać rzekę [Bóbr][wiki-bobr]. Wokół tej rzeki jest
+między innymi [Wojanów][wiki-wojanow] i [Trzcińsko][wiki-trzcinsko].
