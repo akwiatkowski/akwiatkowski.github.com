@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28173489/m%3D2048/41ecb7f85314d5275a384ec04d0774b5"
 categories:             trip
 tags:                   [main, hike, mountains, best]
-towns:                  [dolnoslaskie, swieradow_zdroj, szklarska]
+towns:                  [dolnoslaskie, swieradow_zdroj, szklarska_poreba]
 lands:                  [gory_izerskie]
 
 coords:                 [{"route": [[50.85396,15.35867], [50.84580,15.36713], [50.85000,15.38652], [50.84375,15.39906], [50.83578,15.41588], [50.81992,15.43880]], "type": "hike"}, {"route": [[50.81718,15.43235], [50.83165,15.43647], [50.82916,15.48651], [50.82661,15.49793], [50.83485,15.50059], [50.83268,15.51870]], "type": "train"}, {"route": [[50.83252,15.51861], [50.82501,15.50720], [50.81409,15.49621]], "type": "hike"}]

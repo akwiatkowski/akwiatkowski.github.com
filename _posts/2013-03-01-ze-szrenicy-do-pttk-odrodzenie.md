@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/55122504/m%3D2048/a7b986c54d906906cb017b97de8d07db"
 categories:             trip
 tags:                   [main, hike, mountains]
-towns:                  [dolnoslaskie, szklarska, podgorzyn]
+towns:                  [dolnoslaskie, szklarska_poreba, podgorzyn]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.79134,15.51325], [50.77956,15.53544], [50.77742,15.55724], [50.77671,15.60179], [50.76520,15.62239], [50.76314,15.63985]], "type": "hike"}]

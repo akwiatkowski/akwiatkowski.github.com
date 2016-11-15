@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
 categories:             trip
 tags:                   [main, bicycle, mountains, best]
-towns:                  [dolnoslaskie, szklarska]
+towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze, gory_izerskie]
 
 coords:                 [{"route": [[50.82035,15.51900], [50.82767,15.50330], [50.83109,15.44038], [50.81699,15.43266], [50.78358,15.42382], [50.77071,15.44193], [50.76588,15.50561], [50.80376,15.44596], [50.80728,15.42605]], "type": "bicycle"}]

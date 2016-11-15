@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
 categories:             trip
 tags:                   [main, bicycle, mountains, best]
-towns:                  [dolnoslaskie, szklarska, piechowice, podgorzyn, myslakowice, janowice_wielkie]
+towns:                  [dolnoslaskie, szklarska_poreba, piechowice, podgorzyn, myslakowice, janowice_wielkie]
 lands:                  [karkonosze, rudawy_janowickie]
 
 coords:                 [{"route": [[50.82044,15.51969], [50.82306,15.53239], [50.81442,15.53913], [50.81648,15.57776], [50.81146,15.61994], [50.80959,15.65196], [50.81843,15.67985], [50.83518,15.71358], [50.81452,15.76251], [50.81696,15.79572], [50.82651,15.82181], [50.85106,15.85529], [50.86293,15.87228], [50.87262,15.89468], [50.87820,15.91855]], "type": "bicycle"}]
