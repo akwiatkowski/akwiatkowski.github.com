@@ -4,7 +4,7 @@ title:                  "Polowanie na wschód i zachód w okolicy Szrenicy"
 subtitle:               "pasmo graniczne blokujące wschód, drzewa i kosodrzewina blokujące zachodzące słońce, ale kilka sukcesów"
 date:                   2016-11-14 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
+header-ext-img:         "https://drscdn.500px.org/photo/183176257/q%3D80_m%3D2000/a6c4fc32e01c5ffe4c80b23cf0d9fce8"
 categories:             trip
 tags:                   [main, hike, photo, todo]
 towns:                  [dolnoslaskie, szklarska_poreba]

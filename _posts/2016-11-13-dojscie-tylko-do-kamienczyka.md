@@ -4,7 +4,7 @@ title:                  "Dojście tylko do Kamieńczyka"
 subtitle:               "wyciąg w serwisie a chciałem dostać się na Szrenicę, oblodzona prawie cała trasa"
 date:                   2016-11-13 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
+header-ext-img:         "https://drscdn.500px.org/photo/183241207/q%3D80_m%3D2000/736bf2de38bd0ddec97f0958722c4947"
 categories:             trip
 tags:                   [main, hike, photo, todo]
 towns:                  [dolnoslaskie, szklarska_poreba]
