@@ -97,6 +97,14 @@ jest plan reaktywacji połączenia
 kolejowe, jednak jeszcze żadne konkretne kroki nie zostały postawione.
 Linia jest utrzymywana przez miłośników drezyn.
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/183595381/m%3D900/92af72f282ae35b592ab4d3feb4d1031' alt='Castle Boberstein by Aleksander Kwiatkowski on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/183595381/castle-boberstein-by-aleksander-kwiatkowski' alt='Castle Boberstein by Aleksander Kwiatkowski on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 Przeszedłem przez rzekę [Bóbr][wiki-bobr] w [Łomnicy][wiki-lomnica]
 i ruszyłem do [Wojanowa][wiki-wojanow]. Tam zostawiłem większość swoich rzeczy
 w bazie i ruszyłem na spacerek.
