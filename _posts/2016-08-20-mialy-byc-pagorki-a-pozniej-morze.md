@@ -91,6 +91,8 @@ zapytałem jednego z mieszkańców i pojechaliśmy dalej "gdzieś przez pola".
 Powiedział mi że najpierw miniemy starą stodołę, a później transformator i
 faktycznie tak było. Drogę tę jednak trudno nazwać zwykłą drogą, była solidnie zarośnięta.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184214244' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Patrząc teraz na nagrane filmiki te tereny mogą być fajne jak jest odpowiednia pogoda
 oraz jak wcześniej była odpowiednia pogoda - nie padało,
 a dodatkowo nie ma się konkretnej długiej trasy do zrobienia.
@@ -128,6 +130,7 @@ skręciliśmy na zachód drogą 208. Droga była bardzo
 dobrej jakości i ten zjazd już mi się podobał. Niestety zawsze jest jakieś "ale",
 tak i tutaj po pewnym czasie wjechaliśmy na fragment jeszcze nie wyremontowany.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/182864927' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Na skrzyżowaniu z drogą 205 skręciliśmy na północ i dojechaliśmy do
 miejscowości [Krąg][wiki-krag]. Tutaj droga była też dobrej jakości, jednak z

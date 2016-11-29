@@ -57,6 +57,8 @@ Sam klimat jednak znacząco się zmienił po opuszczeniu
 okolic dworca kolejowego. Trochę jakby się wjechało w część przemysłową jakiegoś
 miasta.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184317998' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Przejechaliśmy przez [Ognicę][wiki-ognica] w stronę "drugiego promu". W
 [Świnoujściu][wiki-swinoujscie] są dwa promy: "pierwszy" jest dla pieszych,
 rowerzystów, motorów i samochodów mieszkańców, "drugi" jest dla samochodów

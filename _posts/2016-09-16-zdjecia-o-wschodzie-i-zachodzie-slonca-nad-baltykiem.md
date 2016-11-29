@@ -17,7 +17,7 @@ time_spent:             5
 pois:
   - lat: 53.92358
     lon: 14.27916
-    name: Wejściu morskie do Świnoujścia z kamienistym wybrzeżem
+    name: Wejście do portu w Świnoujściu z kamienistym wybrzeżem
 
 ---
 

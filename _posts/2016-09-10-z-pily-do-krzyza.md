@@ -31,6 +31,14 @@ pois:
 [wiki-kolobrzeg]: https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
 [wiki-szczecin]: https://pl.wikipedia.org/wiki/Szczecin
 [wiki-kalisz-pomorski]: https://pl.wikipedia.org/wiki/Kalisz_Pomorski
+[wiki-kepa]: https://pl.wikipedia.org/wiki/K%C4%99pa_(powiat_czarnkowsko-trzcianecki)
+[wiki-trzcianka]: https://pl.wikipedia.org/wiki/Trzcianka
+[wiki-siedlisko]: https://pl.wikipedia.org/wiki/Siedlisko_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-gajewo]: https://pl.wikipedia.org/wiki/Gajewo_(powiat_czarnkowsko-trzcianecki)
+[wiki-wielen]: https://pl.wikipedia.org/wiki/Wiele%C5%84
+[wiki-lubcz-maly]: https://pl.wikipedia.org/wiki/Lubcz_Ma%C5%82y
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+
 
 Wstęp
 -----
@@ -69,7 +77,7 @@ Tymi torami jedzie sie albo w kierunku [Kołobrzegu][wiki-kolobrzeg] albo do
 Wychodzi na to, że [Piła][wiki-pila] jest istotnym punktem w mniej popularnych
 liniach kolejowych, które chciałbym kiedyś zwiedzić.
 
-
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/183806495' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Pierwszą wioską przez którą przejeżdzałem to był [Kotuń][wiki-kotun].
 Wioska jak to wioska, raczej ta była spokojna chociaż jednocześnie rozległa.
@@ -89,13 +97,7 @@ minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-[wiki-kepa]: https://pl.wikipedia.org/wiki/K%C4%99pa_(powiat_czarnkowsko-trzcianecki)
-[wiki-trzcianka]: https://pl.wikipedia.org/wiki/Trzcianka
-[wiki-siedlisko]: https://pl.wikipedia.org/wiki/Siedlisko_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-gajewo]: https://pl.wikipedia.org/wiki/Gajewo_(powiat_czarnkowsko-trzcianecki)
-[wiki-wielen]: https://pl.wikipedia.org/wiki/Wiele%C5%84
-[wiki-lubcz-maly]: https://pl.wikipedia.org/wiki/Lubcz_Ma%C5%82y
-[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+
 
 Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
 w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
@@ -126,6 +128,8 @@ które mijałem z prawej strony. Towarzyszyłu one aż do [Wielenia][wiki-wielen
 Miałem myśl aby zboczyć i przejechać jakąś ścieżką polną, ale jednak
 ostatecznie wolałem utrzymać dobrą średnią prędkość i krócej jechać w tym
 gorącym dniu.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/183995863' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Przez [Wieleń][wiki-wielen] przejechałem szybko. Podczas wyjazdu minąłem
 mauzoleum rodziny von Blonkensee von Schulenburg. Na pierwszy rzut oka

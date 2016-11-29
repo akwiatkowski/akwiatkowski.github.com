@@ -15,7 +15,9 @@ time_spent:             2
 
 
 pois:
-
+  - name: Drzewo leżące w wodzie na Łęgach Dębińskich
+    lat: 52.36720
+    lon: 16.91554
 
 ---
 

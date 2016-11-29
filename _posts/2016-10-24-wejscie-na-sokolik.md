@@ -16,7 +16,9 @@ time_spent:             8
 
 
 pois:
-
+- name: Ponoć Sokolik to jedno z najlepszych miejsc na robienie zdjęć wschodu słońca
+  lat: 50.86962
+  lon: 15.86963
 
 ---
 

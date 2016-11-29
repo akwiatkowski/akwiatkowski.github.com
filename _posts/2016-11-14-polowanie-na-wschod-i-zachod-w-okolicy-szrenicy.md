@@ -16,7 +16,12 @@ time_spent:             14
 
 
 pois:
-
+  - name: Aby robić zdjęcia wschodowi słońca ze Szrenicy należy podejść w stronę granicy z Czechami
+    lat: 50.77916
+    lon: 15.52749
+  - name: Początek rzeki Łaby w Czechach tylko 400 metrów od polskiej granicy
+    lat: 50.77571
+    lon: 15.53615
 
 ---
 

@@ -52,6 +52,7 @@ pois:
 [wiki-rzecz]: https://pl.wikipedia.org/wiki/Recz_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 
 [maraton-lopuchowo]: http://gpmtb.pl/mtb/Lopuchowo
+[grood-piasta]: http://martina.nazwa.pl/grod_piasta/
 
 Wstęp
 -----
@@ -84,6 +85,8 @@ części tej linii kolejowej.
 Ja wysiadłem w [Skokach][wiki-skoki]. Rano nie było zimno, ale od razu
 uderzył mnie zapach lasu. Pojawiły się standardowe wątpliwości: czy dam radę
 i czy trasa będzie ciekawa.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184823748' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Ruszyłem ulicą Rakojedzką na północny-wschód. Prowadzi ona w kierunku wsi
 [Rakojady][wiki-rakojady], które nie były jakieś specjalnie ciekawie.
@@ -126,6 +129,7 @@ stopniowo zmieniał sie charakter tych miejscowości.
 Obok było [Sarbinowo Drugie][wiki-sarbinowo-drugie] i [Rzym][wiki-rzym].
 Niestety z [Rzymu][wiki-rzym] nie mam żadnego ciekawego filmiku.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184848025' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Niedaleko jest [Rzecz][wiki-rzecz], wioska w której znajduje się Dąb Chrobry
 (pomnik przyrody).
@@ -159,7 +163,8 @@ Tereny były ogólnie ciekawe, lekko pofalowane.
 Mam wrażenie jakbym za często używał tego słowa, ale użycie "pagórkowate"
 byłoby przesadą.
 
-[grood-piasta]: http://martina.nazwa.pl/grod_piasta/
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184830155' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 
 Po jakimś czasie zobaczyłem tablicę [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka].
 Widziałem obok informacje o Grodzie Piasta po lewej stronie, jednak nie miałem czasu

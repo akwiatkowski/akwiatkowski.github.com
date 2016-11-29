@@ -15,7 +15,9 @@ time_spent:             2
 
 
 pois:
-
+  - name: Chyba najciekawsze (a jednocześnie najbliższe) tereny nad Wartą w północnej części Poznania
+    lat: 52.45594
+    lon: 16.97581
 
 ---
 

@@ -16,6 +16,9 @@ time_spent:             2
 
 
 pois:
+  - name: Stacja kolejowa Ciechanowice jest położona wśród pagórków 
+    lat: 50.86532
+    lon: 15.98012
 
 
 ---

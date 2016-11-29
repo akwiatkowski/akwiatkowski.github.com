@@ -104,6 +104,8 @@ go naprawić. Napiszę wkrótce recenzję tego urządzenia.
 Szlak pieszy na szczęście nie był zły. Mieliśmy podjazd na 280m n.p.m. i widoki
 były zerowe, ale był dość szeroki i szutrowy.
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/182319120' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Skręcając później na zachód czułem lekki spokój, gdyż to właśnie już teraz
 zaczęliśmy zbliżamy się
 do celu na ten dzień
@@ -167,6 +169,8 @@ Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][
 
 Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
 skręciliśmy na zachód.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/182319149' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Mijane wioski przestały się tak wyróźniać jak wcześniej, teraz to właśnie
 droga była ciekawsza.

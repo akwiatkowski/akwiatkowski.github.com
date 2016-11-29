@@ -62,6 +62,8 @@ Są jednak wyjątki i wydaję mi się, że jest ich coraz więcej. Do tych wyją
 (przynajnmniej) [Świnoujście][wiki-swinoujscie], [Kołobrzeg][wiki-kolobrzeg] i
 [Ustka][wiki-ustka]
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184297131' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 [Świnoujście][wiki-swinoujscie] stara się
 z jednej strony dbać o wizerunek, a z drugiej strony naturalnie stara się
 przypodobać zachodnim
@@ -101,7 +103,7 @@ Dopiero Ulrichshorst było miejscowością, która w pełni mi się podobała. T
 klasyczna mała niemiecka wioska. Sporo domów było pokrytych strzechą i oferowało noclegi.
 
 
-
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/184303445' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 
 Zadecydowaliśmy że wjedziemy do [Kamminke][wiki-kamminke]

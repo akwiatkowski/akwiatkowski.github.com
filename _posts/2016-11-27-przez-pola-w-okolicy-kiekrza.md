@@ -6,7 +6,7 @@ date:                   2016-11-27 15:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/185489845/q%3D80_m%3D2000/8a49e25e4be269f01fcf1a231e0ebf6c"
 categories:             trip
-tags:                   [main, hike, todo]
+tags:                   [hike, todo]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.45209,16.84828], [52.44765,16.84017], [52.44974,16.83875], [52.45290,16.83918], [52.45487,16.84326]], "type": "hike"}, {"route": [[52.47704,16.78489], [52.47879,16.78708], [52.48827,16.78361], [52.48221,16.79133], [52.48671,16.79910], [52.48368,16.80008], [52.48375,16.82914], [52.47973,16.83086], [52.46710,16.82742], [52.46666,16.82498], [52.46420,16.82819]], "type": "hike"}]
@@ -15,11 +15,18 @@ time_spent:             5
 
 
 pois:
-
+- name: Pola między Kiekrzem a Złotnikami
+  lat: 52.48330
+  lon: 16.82025
+- name: Trochę już zapuszczone domki letniskowe na Strzeszynie
+  lat: 52.46601
+  lon: 16.82695
 
 ---
 
 Wstęp
 -----
 
-Był to spacer po okolicy [Strzeszyna][wiki-strzeszyn] i [Kiekrza][wiki-kierz].
+Tego dnia pogoda zapowiadała się na całkiem przyzwoitą. Postanowiliśmy
+zobaczyć coś z północnych okolic [Poznania][wiki-poznan]
+- okolice [Strzeszyna][wiki-strzeszyn] i [Kiekrza][wiki-kierz].

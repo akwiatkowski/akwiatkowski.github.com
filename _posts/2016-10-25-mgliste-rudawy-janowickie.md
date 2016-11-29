@@ -16,7 +16,15 @@ time_spent:             8
 
 
 pois:
-
+  - name: Po deszczu mgły pojawiają się na wysokości trochę ponad 500m n.p.m dlatego warto podejść pod Sokoliki
+    lat: 50.86763
+    lon: 15.86543
+  - name: Dobry widok na Śnieżkę (z Karpników) jako dalszy plan, do robienia zdjęć 
+    lat: 50.85779
+    lon: 15.87221
+  - name: Stawy obok zamku w Karpnikach
+    lat: 50.84793
+    lon: 15.84876
 
 ---
 

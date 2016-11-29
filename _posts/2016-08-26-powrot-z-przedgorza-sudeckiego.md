@@ -70,6 +70,8 @@ Ruszyliśmy na północ i przejechaliśmy przez [Imbramowice][wiki-imbramowice],
 które są odgraniczone linią kolejową przez którą jeździ pociąg
 do [Dzierżoniowa][wiki-dzierzoniow].
 
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/182319161' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+
 Kierowaliśmy się prawie cały czas na północ aż do [Bogdanowa][wiki-bogdanow], tam
 na wschód do [Paździorna][wiki-pazdziorno] i ponownie na północ. Mineliśmy
 autostradę A4 i zjechaliśmy do kolejnej wioski - [Kostomłotów][wiki-kostomloty].
@@ -99,6 +101,8 @@ Przejechaliśmy przez całe [miasto][wiki-brzeg-dolny] i kierowaliśmy się na
 północ. Wyjeżdzaliśmy z dzielnicy przemysłowej a
 wjechaliśmy w bardzo lesiste tereny. Prawie cały czas jechaliśmy przez lasy
 od tego momentu aż do końca dzisiejszej trasy.
+
+<div class="vimeo"><iframe src='http://player.vimeo.com/video/182319352' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 W [Górowie][wiki-gorowo] zrobiliśmy kolejną przerwę aby odwiedzić sklep i
 dowiedziałem się jaką trasą najlepiej jechać do [Żmigrodu][wiki-zmigrod].
