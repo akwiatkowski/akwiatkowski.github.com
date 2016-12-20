@@ -69,6 +69,8 @@ Regionami podzielone na województwa.
   * [Bardo - Brzeg](http://umapa.pl/s0qFp) - 82km, jednodniowa
   * [Kłodzko - Jelenia Góra](http://umapa.pl/kmzsb) - 97km, lepiej podzielić na 2 dni
   * [Strzelin - Otmuchów - Prudnik](http://umapa.pl/YuWDv) - 89km
+  * [Wojanów - Głuszyca Górna](http://umapa.pl/sdfpQ) - 78km
+  * [Wojanów - Lubań Śląski](http://umapa.pl/mfn5W) - 83km
   * po Górach Kaczawskich
 2. Małopolskie
   * [Rabka - Szaflary: wokół Gorców](http://umapa.pl/UmwFO) - 107km, góry
