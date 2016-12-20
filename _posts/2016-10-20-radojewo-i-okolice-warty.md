@@ -30,4 +30,4 @@ Niestety się spóźniłem, nie wziąłem butów terenowych i musiałem wcześni
 Największą zaletą jest jednak odkrycie skrótu nad wartę, dzięki czemu mam
 tylko 1.2km z przystanku autobusowego.
 
-Zdjęć nie będzie, nie są aż tak ciekawe.
+Zdjęć nie będzie, nie są aż tak ciekawe.  

@@ -6,7 +6,7 @@ date:                   2016-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/184879713/q%3D80_m%3D2000/bb166ac6db3d49f999d290a66af9fc8f"
 categories:             trip
-tags:                   [main, photo, todo]
+tags:                   [main, photo, todo_media]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]
@@ -20,6 +20,9 @@ pois:
     lon: 16.91554
 
 ---
+
+[wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/Park_Jana_Paw%C5%82a_II_w_Poznaniu
+
 
 Wstęp
 -----
@@ -35,16 +38,20 @@ Dzień wcześniej pojechałem kupić zmienny filtr szary. Są one złożone z dw
 polaryzacyjnych i przekręcając je można uzyskać filtr między NDx2 a NDx400.
 Jest to całkiem spory zakres.
 
-Dzień wcześniej wieczorem była bardzo gęsta mgła. Miała ona również powtórzyć
-się dnia następnego.
+Dwa dni wcześniej wieczorem była bardzo gęsta mgła. Miała ona również powtórzyć
+się dnia dzisiejszego.
 
 Nie ustawiłem budzika wcześniej. Mając tak szeroki zakrec przyciemnienia nie
-musiałem być na miejscu o wczesniej godzinie. Wstałem po 8 i na miejscu
+musiałem być na miejscu o wczesnej godzinie. Wstałem po 8 i na miejscu
 byłem około 9:30.
 
-Podobał mi się las we mgle pomimo tego, że już widać było, że jesień minęła.
+Podobał mi się las we mgle pomimo tego, że już widać było, że
+kolorowa jesień minęła.
 
-Przeszedłem się moją standardową trasą przez trzy mosty.
+Przeszedłem się moją standardową trasą przez trzy mosty robiąc zdjęcia.
+
+Zdjęcia
+-------
 
 <div class='pixels-photo'>
   <p>
