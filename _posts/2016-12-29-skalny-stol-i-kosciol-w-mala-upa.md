@@ -10,7 +10,7 @@ tags:                   [hike, todo]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.75246,15.79160], [50.75542,15.81584], [50.74695,15.82383], [50.74535,15.82185], [50.74369,15.82468], [50.73163,15.81649], [50.72707,15.81756], [50.72386,15.81391]], "type": "hike"}]
 distance:               7
 time_spent:             3
 
