@@ -2,15 +2,14 @@ require "xml"
 
 class RssGenerator
   def initialize(
-    @blog : Tremolite::Blog,
-    @posts : Array(Tremolite::Post),
-    @site_title : String,
-    @site_url : String,
-    @site_desc : String,
-    @url : String = "/feed.xml",
-    @site_language : (String | Nil) = nil,
-    @site_webmaster : (String | Nil) = nil,
-    )
+                 @blog : Tremolite::Blog,
+                 @posts : Array(Tremolite::Post),
+                 @site_title : String,
+                 @site_url : String,
+                 @site_desc : String,
+                 @url : String = "/feed.xml",
+                 @site_language : (String | Nil) = nil,
+                 @site_webmaster : (String | Nil) = nil)
   end
 
   getter :url
@@ -83,8 +82,7 @@ class RssGenerator
   def rss_post_image(post : Tremolite::Post)
     # TODO later
     s = ""
-    #s += "<enclosure url="http://example.com/file.mp3" length="123456789" type="audio/mpeg" />"
+    # s += "<enclosure url="http://example.com/file.mp3" length="123456789" type="audio/mpeg" />"
     return s
   end
-
 end

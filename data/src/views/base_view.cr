@@ -99,7 +99,6 @@ class BaseView < Tremolite::Views::BaseView
 
     return load_html("include/footer", h)
   end
-
 end
 
 # a little dirty hax

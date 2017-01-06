@@ -38,14 +38,14 @@ class BaseView
     s = ""
 
     h = {
-      "keywords" => meta_keywords_string,
-      "description" => meta_description_string,
-      "author" => author_string,
-      "robots" => robots_string,
-      "og:title" => title,
+      "keywords"       => meta_keywords_string,
+      "description"    => meta_description_string,
+      "author"         => author_string,
+      "robots"         => robots_string,
+      "og:title"       => title,
       "og:description" => meta_description_string,
-      "og:url" => current_full_url,
-      "og:site_name" => site_title
+      "og:url"         => current_full_url,
+      "og:site_name"   => site_title,
     }
 
     h.each do |k, v|

@@ -2,17 +2,16 @@ require "xml"
 
 class AtomGenerator
   def initialize(
-    @blog : Tremolite::Blog,
-    @posts : Array(Tremolite::Post),
-    @site_title : String,
-    @site_url : String,
-    @site_desc : String,
-    @url : String = "/feed_atom.xml",
-    @site_guid : (String | Nil) = nil,
-    @site_language : (String | Nil) = nil,
-    @site_webmaster : (String | Nil) = nil,
-    @author_name : (String | Nil) = nil,
-    )
+                 @blog : Tremolite::Blog,
+                 @posts : Array(Tremolite::Post),
+                 @site_title : String,
+                 @site_url : String,
+                 @site_desc : String,
+                 @url : String = "/feed_atom.xml",
+                 @site_guid : (String | Nil) = nil,
+                 @site_language : (String | Nil) = nil,
+                 @site_webmaster : (String | Nil) = nil,
+                 @author_name : (String | Nil) = nil)
   end
 
   getter :url
@@ -67,5 +66,4 @@ class AtomGenerator
              <id>urn:uuid:#{post.guuid}</id>
           </entry>"
   end
-
 end
