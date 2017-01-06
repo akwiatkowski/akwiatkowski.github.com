@@ -1,4 +1,14 @@
-_site
-node_modules
-.jekyll-metadata
-_tools/gallery
+/doc/
+/libs/
+/lib/
+/bin/
+/.shards/
+
+/data/images/**/*
+/public/**/*
+
+# sensitive data
+release_ovh.sh
+
+# old, temp files to look up later
+old

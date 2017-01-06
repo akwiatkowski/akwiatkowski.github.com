@@ -1,0 +1,30 @@
+version: 1.0
+shards:
+  common_mark:
+    github: ysbaddaden/crystal-cmark
+    commit: 386765a43a59ce1542f869b955af980d29b3d2fd
+
+  crystal_gpx:
+    github: akwiatkowski/crystal_gpx
+    commit: 829974b1f37113266bb33910ff70a27114de25b0
+
+  kemal:
+    github: kemalcr/kemal
+    commit: 99ae8c376e2de8afa35ce70439b9c0107848403b
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  multipart:
+    github: RX14/multipart.cr
+    version: 0.1.1
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.5
+
+  tremolite:
+    github: akwiatkowski/tremolite
+    commit: ebe28127b1dfd22fd43823836f1ce02ee7a0d70c
+

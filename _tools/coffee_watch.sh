@@ -1,1 +1,0 @@
-coffee -bcw js/*.coffee

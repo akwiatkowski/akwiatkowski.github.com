@@ -1,6 +1,0 @@
-<div class="grid-item grid-item-post {{include.klass}}" style="background-repeat: no-repeat; background-image: url('/img/posts/{{ post.date || date: "%Y-%m-%d" }}_{{ post.slug }}.jpg');">
-  <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-  <h6 class="grid-item-date">{{ post.date | date: "%Y-%m-%d" }}</h6>
-
-  <a href="{{ post.url | prepend: site.baseurl }}"><img src="/img/blank.gif" class="blank-gif" /></a>
-</div>

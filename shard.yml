@@ -1,0 +1,18 @@
+name: odkrywajac_polske
+version: 0.1.0
+
+authors:
+  - Aleksander Kwiatkowski <bobikx@poczta.fm>
+
+targets:
+  odkrywajac_polske:
+    main: src/odkrywajac_polske.cr
+
+dependencies:
+  tremolite:
+    github: akwiatkowski/tremolite
+    branch: master
+
+crystal: 0.20.3
+
+license: GPLv3
