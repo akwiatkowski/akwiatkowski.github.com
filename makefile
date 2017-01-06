@@ -1,6 +1,9 @@
 watch:
 	bash watch.sh
 
+watch_compiled:
+	bash watch_compiled.sh
+
 watch_coffee:
 	coffee -bcw data/assets/js/*.coffee
 
@@ -12,3 +15,6 @@ run:
 
 serve:
 	cd public && serve
+
+compile:
+	crystal build src/odkrywajac_polske.cr -o blog --release

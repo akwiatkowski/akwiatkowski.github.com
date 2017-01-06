@@ -10,5 +10,8 @@
 # sensitive data
 release_ovh.sh
 
+# compiled blog processor
+blog
+
 # old, temp files to look up later
 old
