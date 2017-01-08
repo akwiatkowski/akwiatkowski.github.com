@@ -7,6 +7,8 @@ class PayloadJsonGenerator
   getter :url
 
   def to_json
+    return ""
+
     result = String.build do |io|
       io.json_object do |root|
         root.field "posts" do

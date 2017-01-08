@@ -1,12 +1,12 @@
 ---
 layout:                 post
 title:                  "Podejście na Przełęcz Okraj"
-subtitle:               "spacer z Przełęczy Karkonoskiej, przywitanie lekko oblodzone Karkonosze"
+subtitle:               "spacer z Przełęczy Kowarskiej i przywitanie lekko oblodzone Karkonosze"
 date:                   2016-12-28 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/191102529/q%3D80_m%3D2000/ab49bb8cb37510f931da133b75ffa9c6"
 categories:             trip
-tags:                   [hike, todo]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
@@ -56,6 +56,8 @@ jest na wysokości 726m n.p.m, czyli całkiem wysoko. Oddziela on
 [Karkonosze][wiki-karkonosze] z [Rudawami Janowickimi][wiki-rudawy].
 
 ![Wieś Podgórze](/images/2016-12-28-podejscie-na-okraj/medium/IMGP0670raw1.jpg)
+{% post_image medium IMGP0670raw1.jpg %}
+
 
 Przez chwilę widzieliśmy po prawej okolice [Jeleniej Góry][wiki-jelenia-gora]
 oraz [Kowar][wiki-kowary], a później rozpoczął się las.
