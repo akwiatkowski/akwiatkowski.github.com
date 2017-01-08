@@ -7,105 +7,120 @@ class PayloadJsonGenerator
   getter :url
 
   def to_json
-    return ""
-
-    result = String.build do |io|
-      io.json_object do |root|
-        root.field "posts" do
-          io.json_array do |posts|
+    result = JSON.build do |json|
+      json.object do
+        # posts
+        json.field "posts" do
+          json.array do
             @blog.post_collection.posts.each do |post|
-              posts << {
-                "url"            => post.url,
-                "slug"           => post.slug,
-                "title"          => post.title,
-                "category"       => post.category,
-                "date"           => post.date,
-                "year"           => post.time.year,
-                "month"          => post.time.month,
-                "day"            => post.time.day,
-                "header-ext-img" => post.image_url,
-                "image_url"      => post.image_url,
-                "coords"         => post.coords,
-                "tags"           => post.tags,
-                "towns"          => post.towns,
-                "lands"          => post.lands,
-              }
+              json.object do
+                json.field("url", post.url)
+                json.field("slug", post.slug)
+                json.field("title", post.title)
+                json.field("category", post.category)
+                json.field("date", post.date)
+                json.field("year", post.time.year)
+                json.field("month", post.time.month)
+                json.field("header-ext-img", post.image_url)
+                json.field("image_url", post.image_url)
+                json.field("small_image_url", post.small_image_url)
+
+                json.field "coords" do
+                  json.raw post.coords.to_json
+                end
+                json.field "tags" do
+                  json.raw post.tags.to_json
+                end
+                json.field "towns" do
+                  json.raw post.towns.to_json
+                end
+                json.field "lands" do
+                  json.raw post.lands.to_json
+                end
+              end
             end
           end
         end
 
-        root.field "towns" do
-          io.json_array do |towns|
+        # towns
+        json.field "towns" do
+          json.array do
             @blog.data_manager.not_nil!.towns.not_nil!.each do |town|
-              towns << {
-                "url"            => town.url,
-                "slug"           => town.slug,
-                "name"           => town.name,
-                "image_url"      => town.image_url,
-                "header-ext-img" => town.image_url,
-                "voivodeship"    => town.voivodeship,
-                "inside"         => town.voivodeship,
-              }
+              json.object do
+                json.field("url", town.url)
+                json.field("slug", town.slug)
+                json.field("name", town.name)
+                json.field("header-ext-img", town.image_url)
+                json.field("image_url", town.image_url)
+                json.field("voivodeship", town.voivodeship)
+                json.field("inside", town.voivodeship)
+              end
             end
           end
         end
 
-        root.field "voivodeships" do
-          io.json_array do |voivodeships|
+        # voivodeships
+        json.field "towns" do
+          json.array do
             @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-              voivodeships << {
-                "url"            => voivodeship.url,
-                "slug"           => voivodeship.slug,
-                "name"           => voivodeship.name,
-                "image_url"      => voivodeship.image_url,
-                "header-ext-img" => voivodeship.image_url,
-              }
+              json.object do
+                json.field("url", voivodeship.url)
+                json.field("slug", voivodeship.slug)
+                json.field("name", voivodeship.name)
+                json.field("header-ext-img", voivodeship.image_url)
+                json.field("image_url", voivodeship.image_url)
+              end
             end
           end
         end
 
-        root.field "tags" do
-          io.json_array do |tags|
+        # tags
+        json.field "tags" do
+          json.array do
             @blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
-              tags << {
-                "url"            => tag.url,
-                "slug"           => tag.slug,
-                "name"           => tag.name,
-                "image_url"      => tag.image_url,
-                "header-ext-img" => tag.image_url,
-              }
+              json.object do
+                json.field("url", tag.url)
+                json.field("slug", tag.slug)
+                json.field("name", tag.name)
+                json.field("header-ext-img", tag.image_url)
+                json.field("image_url", tag.image_url)
+              end
             end
           end
         end
 
-        root.field "lands" do
-          io.json_array do |lands|
+        # lands
+        json.field "lands" do
+          json.array do
             @blog.data_manager.not_nil!.lands.not_nil!.each do |land|
-              lands << {
-                "url"               => land.url,
-                "slug"              => land.slug,
-                "name"              => land.name,
-                "image_url"         => land.image_url,
-                "header-ext-img"    => land.image_url,
-                "country"           => land.country,
-                "visited"           => land.visited,
-                "type"              => land.type,
-                "train_time_poznan" => land.train_time_poznan,
-              }
+              json.object do
+                json.field("url", land.url)
+                json.field("slug", land.slug)
+                json.field("name", land.name)
+                json.field("header-ext-img", land.image_url)
+                json.field("image_url", land.image_url)
+                json.field("country", land.country)
+                json.field("visited", land.visited.to_s) if land.visited
+                json.field("type", land.type)
+                json.field("train_time_poznan", land.train_time_poznan)
+              end
             end
           end
         end
 
-        root.field "land_types" do
-          io.json_array do |land_types|
+        # land_types
+        json.field "lands" do
+          json.array do
             @blog.data_manager.not_nil!.land_types.not_nil!.each do |land_type|
-              land_types << {
-                "slug" => land_type.slug,
-                "name" => land_type.name,
-              }
+              json.object do
+                json.field("slug", land_type.slug)
+                json.field("name", land_type.name)
+              end
             end
           end
         end
+
+        # END
       end
     end
 

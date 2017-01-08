@@ -145,6 +145,8 @@ class @BlogMap
             feature.set("post-url", post["url"])
             feature.set("post-title", post["title"])
             feature.set("post-slug", post["slug"])
+            feature.set("post-image", post["image_url"])
+            feature.set("post-small-image", post["small_image_url"])
 
             if route["type"] == "hike"
               sourceLinesHike.addFeature(feature)
@@ -284,9 +286,7 @@ class @BlogMap
     showPopup = (evt, p) =>
       # prettyCoord = ol.coordinate.toStringHDMS(ol.proj.transform(evt.coordinate, "EPSG:3857", "EPSG:4326"), 2)
 
-      bgImgName = p["post-date"] + "_" + p["post-slug"]
-
-      div = '<div class="map-image" style="background-image: url(\'/img/posts/' + bgImgName + '.jpg\')">'
+      div = '<div class="map-image" style="background-image: url(\'' + p["post-small-image"] + '\')">'
       div += '<div class="map-image-date">' + p["post-date"] + '</div>'
       div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>'
       div += '</div>'

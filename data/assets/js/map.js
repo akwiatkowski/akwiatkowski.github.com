@@ -144,6 +144,8 @@ this.BlogMap = (function() {
             feature.set("post-url", post["url"]);
             feature.set("post-title", post["title"]);
             feature.set("post-slug", post["slug"]);
+            feature.set("post-image", post["image_url"]);
+            feature.set("post-small-image", post["small_image_url"]);
             if (route["type"] === "hike") {
               sourceLinesHike.addFeature(feature);
             } else if (route["type"] === "bicycle") {
@@ -276,9 +278,8 @@ this.BlogMap = (function() {
     })(this);
     return showPopup = (function(_this) {
       return function(evt, p) {
-        var bgImgName, div;
-        bgImgName = p["post-date"] + "_" + p["post-slug"];
-        div = '<div class="map-image" style="background-image: url(\'/img/posts/' + bgImgName + '.jpg\')">';
+        var div;
+        div = '<div class="map-image" style="background-image: url(\'' + p["post-small-image"] + '\')">';
         div += '<div class="map-image-date">' + p["post-date"] + '</div>';
         div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>';
         div += '</div>';
