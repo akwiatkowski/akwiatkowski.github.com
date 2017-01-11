@@ -55,7 +55,61 @@ i bardzo możliwe, że trochę tego śniegu było na drzewach.
 
 {% post_image "medium","IMGP0741raw1.jpg","Pełnia wschodu" %}
 
-Szliśmy dalej na [Skalny Stół][wiki-skalny-stol]. Słońce powoli zmieniło
-swoją barwę z czerwienie w stronę pomarańczowej i żółtej.
+Szliśmy dalej na [Skalny Stół][wiki-skalny-stol]. Słońce powoli zmieniało
+swoją barwę z czerwieni w stronę pomarańczowej i żółtej.
 
 {% post_image "medium","IMGP0749raw1.jpg","Oświetlone drzewo" %}
+
+Gdy dotarliśmy do [Skalnego Stołu][wiki-skalny-stol] mieliśmy
+idealny widok na okolię [Jeleniej Góry][wiki-jelenia-gora] oraz
+[Śnieżkę][wiki-sniezka]. W tym miejscu byłem tylko
+[raz]({% post_url 2012-10-10-z-leszczynca-na-skalny-stol %}), ale nie w
+zimie tylko późną jesienią. Do tego widoczność tamtego dnia była
+daleka od idealnej. Z drugiej strony już kilka razy byłem
+w [Karkonoszach][wiki-karkonosze] i widok sam w sobie mnie nie szokował.
+Najbardziej podobały mi się mgiełki w dolinach które, jak się okaże, dzień
+później będą ciekawsze.
+
+Musieliśmy wracać na śniadanie do [schroniska][wiki-schronisko-okraj].
+Podczas podejścia na szlaku leżał, można powiedzieć, świeży śnieg. Śnieg ten
+został przetransportowany przez wiatr i dlatego podejście nie było jakieś
+straszne. Zejście niestety było już bardziej problematyczne w momencie
+gdy już faktycznie musieliśmy schodzić tracić (zmniejszać wysokość).
+Szkoda że nie mieliśmy wtedy raczków.
+
+Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki
+niej uzyskałbym ciekawsze zdjęcia w dolinach.
+
+Po śniadaniu zrobiliśmy dłuższą przerwę i dość późno wyruszyliśmy w trasę.
+Nie mieliśmy żadnej konkretnej ustalonej bo wiedzieliśmy, że
+jutro czeka nas ważny dzień - wejście na [Śnieżkę][wiki-sniezka].
+
+Postanowiliśmy że przejdziemy się do kościoła w Małej Upie
+
+TODO doszukać w wiki
+
+TODO oblodzenie, stok narciarski, ludzie którzy musieli daleko iść
+stare domki, stara szkoła
+
+Wschód słońca
+-------------
+
+Te fragmenty piszę w pociągu jadącym z Poznania obserwując niebo. Normalnie
+rzadko kiedy wstaję o tej porze.
+
+Obok godziny podam kąt pod jakim aktualnie było słońce. Jest to informacja
+bardziej uniwersalna, gdyż znając czas i współrzędne można obliczyć kąt.
+
+* 7:00, -10 stopni - niebo powoli się zabarwia, ale nadal jest ciemno
+* 7:20, -6 stopni - na wschodzie niebo jest już zdecydowanie zabarwione, przejście od jasno-niebieskiej do pomarańcza. Światła uliczne są zdecydowanie widoczne
+* 7:30, -8 stopni - śnieg na ziemii jest już wyraźnie ciemno-niebieski. Po stronie
+  przeciwnej niebo jst interesująco ciemno-niebieskie (a może to chmura...).
+  Najlepiej robić zdjęcia pod
+  "wschód", albo w drugą stronę z filtrem polaryzacyjnym aby niebo było
+  jeszcze ciemniejsze.
+* 7:40, -4 stopnie - śnieg jest już jasno-niebieski, taka "zimna" barwa. Większość
+   świateł ulicznych jest już wyłączone.
+* 8:00, -2 stopnie
+* 8:20, 0 stopni
+* 8:40, 2 stopnie
+* 8:50 - slońce powoli przestaje mieć barwę żółtą

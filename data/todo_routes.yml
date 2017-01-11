@@ -564,3 +564,17 @@
   distance: 455
   time_length: 27
   url: http://umapa.pl/8oPCq
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Leszno
+  to: Zbąszyń
+  through:
+    - Włoszakowice
+    - Błotnica
+    - Wolsztyn
+  info: Trasa wzdłuż linii kolejowej Leszno-Zbąszyń. Trochę jezior. Może być ciekawa.
+  priority: 0 # idea
+  distance: 455
+  time_length: 5.5
+  url: http://umapa.pl/hvBkW

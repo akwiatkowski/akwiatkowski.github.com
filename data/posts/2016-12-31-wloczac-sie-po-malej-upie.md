@@ -16,4 +16,26 @@ time_spent:             7
 
 ---
 
+Wstęp
+-----
+
+W Sylwestra planowaliśmy zrobić raczej spokojną trasę. Chcieliśmy mieć siły
+na później oraz obiad był planowany wcześniej.
+
+Opis trasy
+----------
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/818482777/embed/88445ae49f28c419b8b732a3d6c962afee438ae3'></iframe>
+
+Szczegóły
+---------
+
+Opcji do włóczenia się nie było dużo. Rozważaliśmy sprawdzenie czerwonego
+szlaku pieszego na Rozdroże pod [Łysociną][wiki-lysocina] ale rozwalony
+raczek mnie przekonał aby tego nie próbować.
+
+Postanowiliśmy przejść się drogą wzdłuż rzeki w [Małej Upie][wiki-mala-upa].
+
+TODO szlak rowerowy, dokąd ta droga prowadziła
+
+Następnego dnia dość szybko byliśmy gotowi do powrotu.
