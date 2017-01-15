@@ -5,7 +5,7 @@ subtitle:               "idealna pogoda w teorii nie musi być idealną w prakty
 date:                   2017-01-11 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, hike, todo]
+tags:                   [photo, hike, mountains, todo]
 towns:                  [dolnoslaskie]
 lands:                  [rudawy_janowickie]
 
@@ -14,6 +14,13 @@ distance:               12
 time_spent:             7
 
 ---
+
+[wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
+[wiki-szklarska]: https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
+[wiki-wojanow]: https://pl.wikipedia.org/wiki/Wojan%C3%B3w
+[wiki-lomnica]: https://pl.wikipedia.org/wiki/%C5%81omnica_(powiat_jeleniog%C3%B3rski)
+[wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
+[wiki-bobrow]: https://pl.wikipedia.org/wiki/Bobr%C3%B3w_(powiat_jeleniog%C3%B3rski)
 
 Wstęp
 -----

@@ -271,7 +271,10 @@ class Tremolite::Renderer
   end
 
   def render_year_stat_reports_pages
-    view = YearStatReportView.new(blog: @blog, year: 2016)
-    write_output(view.url, view.to_html)
+    years = @blog.post_collection.posts.map(&.time).map(&.year).uniq
+    years.each do |year|
+      view = YearStatReportView.new(blog: @blog, year: year)
+      write_output(view.url, view.to_html)
+    end
   end
 end
