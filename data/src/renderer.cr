@@ -15,6 +15,7 @@ require "./views/todos_view"
 require "./views/pois_view"
 require "./views/towns_index_view"
 require "./views/lands_index_view"
+require "./views/year_stat_report_view"
 
 require "./views/payload_json_generator"
 require "./views/rss_generator"
@@ -38,6 +39,7 @@ class Tremolite::Renderer
     render_more_page
     render_about_page
     render_summary_page
+    render_year_stat_reports_pages
 
     render_payload_json
     render_rss
@@ -265,6 +267,11 @@ class Tremolite::Renderer
 
   def render_lands_index
     view = LandsIndexView.new(blog: @blog, url: "/lands")
+    write_output(view.url, view.to_html)
+  end
+
+  def render_year_stat_reports_pages
+    view = YearStatReportView.new(blog: @blog, year: 2016)
     write_output(view.url, view.to_html)
   end
 end

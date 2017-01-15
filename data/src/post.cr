@@ -15,12 +15,17 @@ class Tremolite::Post
     @small_image_url = "/images/#{slug}/small/header.jpg"
     @thumb_image_url = "/images/#{slug}/thumb/header.jpg"
 
+    # obsolote
     @ext_image_url = String.new
+
+    @distance = 0.0
+    @time_spent = 0.0
   end
 
   getter :coords
   getter :small_image_url, :thumb_image_url
   getter :tags, :towns, :lands, :pois
+  getter :distance, :time_spent
 
   def custom_process_header
     if @header["coords"]?
@@ -39,6 +44,15 @@ class Tremolite::Post
         @coords.not_nil! << ro
       end
     end
+
+    if @header["distance"]?
+      @distance = @header["distance"].to_s.to_f
+    end
+
+    if @header["time_spent"]?
+      @time_spent = @header["time_spent"].to_s.to_f
+    end
+
 
     # tags, towns and lands
     if @header["tags"]?
@@ -66,7 +80,7 @@ class Tremolite::Post
 
     # download previous external heade images locally
     # now we will only use local images
-    @ext_image_url = @header["header-ext-img"].to_s # TODO
+    @ext_image_url = @header["header-ext-img"].to_s if @header["header-ext-img"]?
     download_header_image
   end
 
@@ -116,7 +130,7 @@ class Tremolite::Post
   # temporary download external image as title
   private def download_header_image
     img_url = File.join(["data", @image_url])
-    if @ext_image_url != "" && false == File.exists?(img_url)
+    if @ext_image_url.to_s != "" && false == File.exists?(img_url)
       ImageResizer.download_image(source: @ext_image_url.not_nil!, output: img_url)
     end
   end

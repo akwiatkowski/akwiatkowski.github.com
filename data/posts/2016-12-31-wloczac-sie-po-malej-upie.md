@@ -6,7 +6,7 @@ date:                   2016-12-31 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/191104655/q%3D80_m%3D2000/61a9620c2506c0d9da6c8770605736c0"
 categories:             trip
-tags:                   [hike, todo]
+tags:                   [hike, mountains, todo_media]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
@@ -15,12 +15,14 @@ distance:               18
 time_spent:             7
 
 ---
+[wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
+
 
 Wstęp
 -----
 
 W Sylwestra planowaliśmy zrobić raczej spokojną trasę. Chcieliśmy mieć siły
-na później oraz obiad był planowany wcześniej.
+na później oraz obiad był zaplanowany wcześniej.
 
 Opis trasy
 ----------
@@ -30,12 +32,18 @@ Opis trasy
 Szczegóły
 ---------
 
-Opcji do włóczenia się nie było dużo. Rozważaliśmy sprawdzenie czerwonego
+Opcji do włóczenia się nie pozostało dużo. Rozważaliśmy sprawdzenie czerwonego
 szlaku pieszego na Rozdroże pod [Łysociną][wiki-lysocina] ale rozwalony
 raczek mnie przekonał aby tego nie próbować.
 
-Postanowiliśmy przejść się drogą wzdłuż rzeki w [Małej Upie][wiki-mala-upa].
+Postanowiliśmy przejść się drogą wzdłuż rzeki w [Małej Upie][wiki-mala-upa] o tej
+samej nazwie. Rzeka ta najpierw nazywa się Cerna Voda.
 
-TODO szlak rowerowy, dokąd ta droga prowadziła
+Na tej drodze jest szlak rowerowy. Nie jest ona szokująca piękna, ale bardzo
+malownicza i pozbawiona natłoku ludzi. Bardzo dużo ładnych domków jest położonych
+w okolicy.
+
+Koniec tej drogi łączy się z główną drogą dojazdową
+do [Małej Upy][wiki-mala-upa].
 
 Następnego dnia dość szybko byliśmy gotowi do powrotu.

@@ -6,7 +6,7 @@ date:                   2016-12-29 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/190327035/q%3D80_m%3D2000/f96b1840189f36a1e0162fbf51ee0bb0"
 categories:             trip
-tags:                   [main, photo, hike, mountains, todo]
+tags:                   [main, photo, hike, mountains, todo_media]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
@@ -22,6 +22,12 @@ pois:
 ---
 
 [wiki-skalny-stol]: https://pl.wikipedia.org/wiki/Skalny_St%C3%B3%C5%82
+[wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
+[wiki-sniezka]: https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
+[wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
+[wiki-schronisko-okraj]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_Prze%C5%82%C4%99czy_Okraj%E2%80%9D
+[wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
+[wiki-karpacz]: https://pl.wikipedia.org/wiki/Karpacz
 
 Wstęp
 -----
@@ -37,79 +43,73 @@ Opis trasy
 Szczegóły
 ---------
 
+### Wschód Słońca
+
 Wyszliśmy ze schroniska niezbyt wcześnie. Zgodnie ze sztuką powinniśmy być
-15-30 minut wcześniej aby wykorzystać światła w dolinach.
+15-30 minut przed wschodem Słońca (gdy jest ono dokładnie na
+wysokości horyzontu) aby wykorzystać światła uliczne w dolinach.
 
 Okazało się, że już po podejściu 700 metrów od schroniska mieliśmy
 ciekawe widoki.
 
 {% post_image "medium","IMGP0708raw1.jpg","Tuż przed wschodem słońca" %}
 
-O godzinie 7:56 zaczęło pojawiać się słońce na horyzoncie.
+O godzinie 7:56 Słońce zaczęło pojawiać się na horyzoncie.
 
 {% post_image "medium","IMGP0732raw1.jpg","Pierwsze promienie słońca" %}
 
-Bardzo szybko zaczęło malować wszystko w okolicy na czerwono. Drzewa były ośnieżone
-przez wiatr dzień wcześniej. W okolicy jest sztucznie naśnieżany stok narciarski
-i bardzo możliwe, że trochę tego śniegu było na drzewach.
+Bardzo szybko Słońce zaczęło malować wszystko w na kolor czerwono. Drzewa były ośnieżone
+przez wiatr wiejący dzień wcześniej. W okolicy jest sztucznie naśnieżany stok narciarski
+i bardzo możliwe, że trochę tego śniegu teraz było na drzewach.
 
 {% post_image "medium","IMGP0741raw1.jpg","Pełnia wschodu" %}
 
 Szliśmy dalej na [Skalny Stół][wiki-skalny-stol]. Słońce powoli zmieniało
-swoją barwę z czerwieni w stronę pomarańczowej i żółtej.
+swoją barwę z koloru czerwonego w stronę pomarańczowego i żółtego.
 
 {% post_image "medium","IMGP0749raw1.jpg","Oświetlone drzewo" %}
 
+
+
 Gdy dotarliśmy do [Skalnego Stołu][wiki-skalny-stol] mieliśmy
-idealny widok na okolię [Jeleniej Góry][wiki-jelenia-gora] oraz
-[Śnieżkę][wiki-sniezka]. W tym miejscu byłem tylko
-[raz]({% post_url 2012-10-10-z-leszczynca-na-skalny-stol %}), ale nie w
+idealny widok na okolicę [Jeleniej Góry][wiki-jelenia-gora] oraz
+[Śnieżkę][wiki-sniezka]. W tym miejscu byłem
+[kiedyś]({% post_url 2012-10-10-z-leszczynca-na-skalny-stol %}), ale nie w
 zimie tylko późną jesienią. Do tego widoczność tamtego dnia była
 daleka od idealnej. Z drugiej strony już kilka razy byłem
-w [Karkonoszach][wiki-karkonosze] i widok sam w sobie mnie nie szokował.
+w [Karkonoszach][wiki-karkonosze] i widok który mieliśmy
+sam w sobie mnie nie szokował.
 Najbardziej podobały mi się mgiełki w dolinach które, jak się okaże, dzień
-później będą ciekawsze.
+później będą znacznie ciekawsze.
 
 Musieliśmy wracać na śniadanie do [schroniska][wiki-schronisko-okraj].
-Podczas podejścia na szlaku leżał, można powiedzieć, świeży śnieg. Śnieg ten
-został przetransportowany przez wiatr i dlatego podejście nie było jakieś
-straszne. Zejście niestety było już bardziej problematyczne w momencie
-gdy już faktycznie musieliśmy schodzić tracić (zmniejszać wysokość).
-Szkoda że nie mieliśmy wtedy raczków.
+Podczas podejścia na szlaku leżał, można powiedzieć, bardziej świeży śnieg.
+Śnieg ten
+został przetransportowany przez wiatr, nie był ubity
+i dlatego podejście nie było jakieś
+straszne. Zejście niestety było już bardziej problematyczne od momentu
+gdy już faktycznie musieliśmy schodzić (zejście).
+Raczki by się nam wtedy bardzo przydały.
 
 Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki
-niej uzyskałbym ciekawsze zdjęcia w dolinach.
+niej uzyskałbym ciekawsze zdjęcia w dolinach. Nie miałem jej bo ten obiektyw
+waży swoje.
+
+### Kościół w Mala Upa
 
 Po śniadaniu zrobiliśmy dłuższą przerwę i dość późno wyruszyliśmy w trasę.
-Nie mieliśmy żadnej konkretnej ustalonej bo wiedzieliśmy, że
+Nie mieliśmy żadnej konkretnej ustalonej trasy i celu bo wiedzieliśmy, że
 jutro czeka nas ważny dzień - wejście na [Śnieżkę][wiki-sniezka].
 
-Postanowiliśmy że przejdziemy się do kościoła w Małej Upie
+Postanowiliśmy że przejdziemy się do kościoła św. Piotra i Pawła w
+[Małej Upie][wiki-mala-upa].
 
-TODO doszukać w wiki
 
-TODO oblodzenie, stok narciarski, ludzie którzy musieli daleko iść
-stare domki, stara szkoła
 
-Wschód słońca
--------------
+Szliśmy najbardziej wschodnią drogą w tej miejscowości. Jeździł po niej
+darmowy (dla korzystających z wyciągów) skibus co 16 minut.
 
-Te fragmenty piszę w pociągu jadącym z Poznania obserwując niebo. Normalnie
-rzadko kiedy wstaję o tej porze.
+Przechodziliśmy obok ciekawych domków, tak jak w reszcie tej czeskiej
+miejscowości. Tutaj również droga chyba nie była odśnieżana.
 
-Obok godziny podam kąt pod jakim aktualnie było słońce. Jest to informacja
-bardziej uniwersalna, gdyż znając czas i współrzędne można obliczyć kąt.
-
-* 7:00, -10 stopni - niebo powoli się zabarwia, ale nadal jest ciemno
-* 7:20, -6 stopni - na wschodzie niebo jest już zdecydowanie zabarwione, przejście od jasno-niebieskiej do pomarańcza. Światła uliczne są zdecydowanie widoczne
-* 7:30, -8 stopni - śnieg na ziemii jest już wyraźnie ciemno-niebieski. Po stronie
-  przeciwnej niebo jst interesująco ciemno-niebieskie (a może to chmura...).
-  Najlepiej robić zdjęcia pod
-  "wschód", albo w drugą stronę z filtrem polaryzacyjnym aby niebo było
-  jeszcze ciemniejsze.
-* 7:40, -4 stopnie - śnieg jest już jasno-niebieski, taka "zimna" barwa. Większość
-   świateł ulicznych jest już wyłączone.
-* 8:00, -2 stopnie
-* 8:20, 0 stopni
-* 8:40, 2 stopnie
-* 8:50 - slońce powoli przestaje mieć barwę żółtą
+Zaciekawił mnie budynek starej szkoły. Teraz chyba jest tam jakiś nocleg.
