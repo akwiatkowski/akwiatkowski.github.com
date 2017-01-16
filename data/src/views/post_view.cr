@@ -62,7 +62,7 @@ class PostView < BaseView
     if links.size > 0
       pd["taggable.content"] = links.join(", ")
       taggable_content = load_html("post/taggable", pd)
-      data["tags_content"] = taggable_content
+      data["tags_content"] = taggable_content + "<br/>"
     else
       data["tags_content"] = ""
     end
@@ -82,7 +82,7 @@ class PostView < BaseView
     if links.size > 0
       pd["taggable.content"] = links.join(", ")
       taggable_content = load_html("post/taggable", pd)
-      data["lands_content"] = taggable_content
+      data["lands_content"] = taggable_content + "<br/>"
     else
       data["lands_content"] = ""
     end
@@ -102,9 +102,29 @@ class PostView < BaseView
     if links.size > 0
       pd["taggable.content"] = links.join(", ")
       taggable_content = load_html("post/taggable", pd)
-      data["towns_content"] = taggable_content
+      data["towns_content"] = taggable_content + "<br/>"
     else
       data["towns_content"] = ""
+    end
+
+    # voivodeships
+    pd = Hash(String, String).new
+    pd["taggable.name"] = "Województwa"
+    pd["taggable.content"] = ""
+    links = Array(String).new
+    @post.towns.not_nil!.each do |voivodeship|
+      @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship_entity|
+        if voivodeship == voivodeship_entity.slug
+          links << "<a href=\"" + voivodeship_entity.url + "\">" + voivodeship_entity.name + "</a>"
+        end
+      end
+    end
+    if links.size > 0
+      pd["taggable.content"] = links.join(", ")
+      taggable_content = load_html("post/taggable", pd)
+      data["voivodeships_content"] = taggable_content + "<br/>"
+    else
+      data["voivodeships_content"] = ""
     end
 
     # pois

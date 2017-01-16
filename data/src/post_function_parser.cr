@@ -19,10 +19,11 @@ class Tremolite::Views::BaseView
   end
 
   def post_image(post : Tremolite::Post, size : String, image : String, alt : String)
+    url = "/images/processed/#{post.slug}_#{size}_#{image}"
     data = {
-      "img.src" => "/images/#{post.slug}/#{size}/#{image}",
+      "img.src" => url,
       "img.alt" => alt,
-      "img.size" => (File.size("data/images/#{post.slug}/#{size}/#{image}") / 1024).to_s + " kB",
+      "img.size" => (File.size(File.join(["data", url])) / 1024).to_s + " kB",
       "img_full.src" => "/images/#{post.slug}/#{image}"
     }
     return load_html("post/post_image_partia", data)

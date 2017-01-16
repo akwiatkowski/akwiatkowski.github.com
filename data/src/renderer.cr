@@ -34,6 +34,7 @@ class Tremolite::Renderer
     render_todo_routes
     render_pois
     render_towns_index
+    render_voivodeships_pages
     render_lands_index
 
     render_more_page
@@ -212,6 +213,15 @@ class Tremolite::Renderer
       write_output(view.url, view.to_html)
     end
     @logger.info("Renderer: Towns finished")
+  end
+
+  def render_voivodeships_pages
+    blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
+      download_image_if_needed(local: voivodeship.image_url, remote: voivodeship.header_ext_img)
+      view = TownView.new(blog: @blog, town: voivodeship)
+      write_output(view.url, view.to_html)
+    end
+    @logger.info("Renderer: Voivodeships (town) finished")
   end
 
   def render_posts

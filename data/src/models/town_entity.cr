@@ -50,7 +50,11 @@ struct TownEntity
   end
 
   def url
-    "/town/#{@slug}"
+    if is_town?
+      return "/town/#{@slug}"
+    else
+      return "/voivodeship/#{@slug}"
+    end
   end
 
   def image_url
