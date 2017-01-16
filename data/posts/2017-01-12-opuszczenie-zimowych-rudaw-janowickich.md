@@ -5,7 +5,7 @@ subtitle:               "dojście na dworzec kolejowy oraz przemyślenia na tema
 date:                   2017-01-12 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, hike, todo]
+tags:                   [photo, hike]
 towns:                  [dolnoslaskie, myslakowice]
 lands:                  [rudawy_janowickie]
 
@@ -21,6 +21,13 @@ time_spent:             2
 [wiki-lomnica]: https://pl.wikipedia.org/wiki/%C5%81omnica_(powiat_jeleniog%C3%B3rski)
 [wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
 [wiki-bobrow]: https://pl.wikipedia.org/wiki/Bobr%C3%B3w_(powiat_jeleniog%C3%B3rski)
+[wiki-wojanow-palac]: https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wojanowie
+[wiki-janowice-wielkie]: https://pl.wikipedia.org/wiki/Janowice_Wielkie
+[wiki-ciechanowice]: https://pl.wikipedia.org/wiki/Ciechanowice
+[wiki-sedzislaw]: https://pl.wikipedia.org/wiki/S%C4%99dzis%C5%82aw_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-radomierz]: https://pl.wikipedia.org/wiki/Radomierz_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-pastewnik]: https://pl.wikipedia.org/wiki/Pastewnik_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-dziwiszow]: https://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
 
 Wstęp
 -----
@@ -37,7 +44,7 @@ Szczegóły
 ---------
 
 Obudziłem się po 7-ej i wyruszyłem na pociąg powrotny. Miałem do przejścia
-prawie 3km. Nic ciekawego, szedłem tam
+prawie 3km. Nic ciekawego, szedłem tam  już
 [pierwszego dnia]({% post_url 2017-01-10-zimowe-okolice-wojanowa %}).
 
 Udało mi się jednak zrobić dwa ciekawe zdjęcia. Najciekawsze jest zdjęciem
@@ -55,8 +62,8 @@ Wnioski
 -------
 
 Podczas jazdy pociągiem obserwowałem na pobliskie tereny szukając gdzie
-najlepiej byłoby udać się na wschód i zachód Słońca. Podczas zimy Słońce
-zachodzi i wschodzi trochę na południu,
+najlepiej byłoby udać się na wschód lub zachód Słońca. Podczas zimy Słońce
+zachodzi i wschodzi trochę bardziej na południu,
 
 * [Janowice Wielkie][wiki-janowice-wielkie] - i ruszyć w stronę [Radomierza][wiki-radomierz].
   Wystarczy przejść 2.5km, czyli nie jest to dużo.

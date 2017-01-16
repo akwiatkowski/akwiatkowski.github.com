@@ -99,6 +99,25 @@ class BaseView < Tremolite::Views::BaseView
 
     return load_html("include/footer", h)
   end
+
+  def render_posts_preview(posts : Array(Tremolite::Post))
+    content = ""
+
+    posts.each_with_index do |post, i|
+      ph = Hash(String, String).new
+      ph["post.index_prefix"] = "#{i + 1}. "
+      ph["post.url"] = post.url
+      ph["post.title"] = post.title
+      ph["post.subtitle"] = post.subtitle
+      ph["post.date"] = post.date
+      ph["post.author"] = post.author
+
+      content += load_html("post/preview", ph)
+      content += "\n"
+    end
+
+    return content
+  end
 end
 
 # a little dirty hax

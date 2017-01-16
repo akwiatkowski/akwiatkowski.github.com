@@ -12,8 +12,8 @@ class Tremolite::Post
     # yey, static typing
     @coords = Array(TremolitePostRouteObject).new
 
-    @small_image_url = "/images/#{slug}/small/header.jpg"
-    @thumb_image_url = "/images/#{slug}/thumb/header.jpg"
+    @small_image_url = "/images/processed/#{slug}_small_header.jpg"
+    @thumb_image_url = "/images/processed/#{slug}_thumb_header.jpg"
 
     # obsolote
     @ext_image_url = String.new

@@ -24,21 +24,14 @@ class LandView < BaseView
     content = ""
     data = Hash(String, String).new
 
+    posts = Array(Tremolite::Post).new
     @blog.post_collection.each_post_from_latest do |post|
       if @land.belongs_to_post?(post)
-        ph = Hash(String, String).new
-        ph["post.url"] = post.url
-        ph["post.title"] = post.title
-        ph["post.subtitle"] = post.subtitle
-        ph["post.date"] = post.date
-        ph["post.author"] = post.author
-
-        content += load_html("post/preview", ph)
-        content += "\n"
+        posts << post
       end
     end
 
-    data["content"] = content
+    data["content"] = render_posts_preview(posts)
     return load_html("page/article", data)
   end
 end
