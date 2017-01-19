@@ -6,7 +6,7 @@ date:                   2016-12-31 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/191104655/q%3D80_m%3D2000/61a9620c2506c0d9da6c8770605736c0"
 categories:             trip
-tags:                   [hike, mountains, todo_media]
+tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
@@ -15,8 +15,9 @@ distance:               18
 time_spent:             7
 
 ---
-[wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
 
+[wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
+[wiki-lysocina]: https://pl.wikipedia.org/wiki/%C5%81ysocina
 
 Wstęp
 -----
@@ -36,12 +37,17 @@ Opcji do włóczenia się nie pozostało dużo. Rozważaliśmy sprawdzenie czerw
 szlaku pieszego na Rozdroże pod [Łysociną][wiki-lysocina] ale rozwalony
 raczek mnie przekonał aby tego nie próbować.
 
+{% post_image "medium","IMGP1158raw1.jpg","Domek w Małej Upie" %}
+
+
 Postanowiliśmy przejść się drogą wzdłuż rzeki w [Małej Upie][wiki-mala-upa] o tej
 samej nazwie. Rzeka ta najpierw nazywa się Cerna Voda.
 
 Na tej drodze jest szlak rowerowy. Nie jest ona szokująca piękna, ale bardzo
 malownicza i pozbawiona natłoku ludzi. Bardzo dużo ładnych domków jest położonych
 w okolicy.
+
+{% post_image "medium","IMGP1189raw1.jpg","U Basnika, Cerna Voda" %}
 
 Koniec tej drogi łączy się z główną drogą dojazdową
 do [Małej Upy][wiki-mala-upa].

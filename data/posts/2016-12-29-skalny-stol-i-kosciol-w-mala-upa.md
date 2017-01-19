@@ -6,7 +6,7 @@ date:                   2016-12-29 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/190327035/q%3D80_m%3D2000/f96b1840189f36a1e0162fbf51ee0bb0"
 categories:             trip
-tags:                   [main, photo, hike, mountains, todo_media]
+tags:                   [main, photo, hike, mountains]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
@@ -82,6 +82,9 @@ sam w sobie mnie nie szokował.
 Najbardziej podobały mi się mgiełki w dolinach które, jak się okaże, dzień
 później będą znacznie ciekawsze.
 
+{% post_image "medium","IMGP0772raw1.jpg","Śnieżnie" %}
+
+
 Musieliśmy wracać na śniadanie do [schroniska][wiki-schronisko-okraj].
 Podczas podejścia na szlaku leżał, można powiedzieć, bardziej świeży śnieg.
 Śnieg ten
@@ -90,6 +93,9 @@ i dlatego podejście nie było jakieś
 straszne. Zejście niestety było już bardziej problematyczne od momentu
 gdy już faktycznie musieliśmy schodzić (zejście).
 Raczki by się nam wtedy bardzo przydały.
+
+{% post_image "medium","IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu" %}
+
 
 Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki
 niej uzyskałbym ciekawsze zdjęcia w dolinach. Nie miałem jej bo ten obiektyw
@@ -104,12 +110,14 @@ jutro czeka nas ważny dzień - wejście na [Śnieżkę][wiki-sniezka].
 Postanowiliśmy że przejdziemy się do kościoła św. Piotra i Pawła w
 [Małej Upie][wiki-mala-upa].
 
-
+{% post_image "medium","IMGP0869raw2.jpg","Domek w Małej Upie" %}
 
 Szliśmy najbardziej wschodnią drogą w tej miejscowości. Jeździł po niej
 darmowy (dla korzystających z wyciągów) skibus co 16 minut.
 
 Przechodziliśmy obok ciekawych domków, tak jak w reszcie tej czeskiej
 miejscowości. Tutaj również droga chyba nie była odśnieżana.
+
+{% post_image "medium","IMGP0889raw1.jpg","Okolica koscioła w Małej Upie" %}
 
 Zaciekawił mnie budynek starej szkoły. Teraz chyba jest tam jakiś nocleg.
