@@ -6,7 +6,7 @@ date:                   2016-04-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce"
 categories:             trip
-tags:                   [main, bicycle]
+tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, wronki, chrzypsko_wielkie, pniewy, ostrorog, szamotuly]
 lands:                  [pojezierze_poznanskie, sierakowski_park_krajobrazowy]
 
@@ -39,6 +39,7 @@ time_spent:             5
 [wiki-ostrorog]:               https://pl.wikipedia.org/wiki/Ostror%C3%B3g
 [wiki-szamotuly]:              https://pl.wikipedia.org/wiki/Szamotu%C5%82y
 [wiki-jastrowo]:               https://pl.wikipedia.org/wiki/Jastrowo
+[wiki-peckowo]:                https://pl.wikipedia.org/wiki/P%C4%99ckowo_(powiat_szamotulski)
 
 [nsr-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2054857&type=relation&map=13!52.6859!16.2531
 [ssj-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2772128&type=relation&map=10!52.593!16.6072

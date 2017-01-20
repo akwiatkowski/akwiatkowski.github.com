@@ -6,7 +6,7 @@ date:                   2014-06-19 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133471253/m%3D2048/9915b70e044776f3ad9a4b62188e73a9"
 categories:             trip
-tags:                   [main, bicycle, mountains, best]
+tags:                   [main, bicycle, mountains, best, todo_media_later]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [gory_izerskie]
 

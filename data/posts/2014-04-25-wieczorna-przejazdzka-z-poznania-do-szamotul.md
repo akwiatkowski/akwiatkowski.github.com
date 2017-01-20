@@ -44,6 +44,8 @@ Szczegóły
 Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki]. Następnie kierowałem
 się w stronę [Kiekrza][wiki-kiekrz] i dalej na północ w stronę [Soboty][wiki-sobota].
 
+{% post_image "medium","IMGP5478raw1.jpg","Zielone pole" %}
+
 Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za dużo
 razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest
 most nad drogą [S11][wiki-s11].

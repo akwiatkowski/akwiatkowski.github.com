@@ -42,11 +42,11 @@ Schodziliśmy cały czas czerwonym szlakiem GSB. Po drodzę odwiedziliśmy [Chat
 nas wyglądem, stanem, jedzeniem jak i jego ceną. Zdecydowanie warto odwiedzić to miejsce.
 
 Dalej szlak robił się bardziej interesujący, w sensie wąski. Robiło się coraz cieplej i po dotarciu do drogi asfaltowej
- w [Rytrze]
+ w [Rytrze][wiki-rytro]
 było już ciężko. Musieliśmy zejść do mostu przez rzekę [Poprad][wiki-poprad], a następnie odwiedziliśmy sklep.
 Jak się okazało była to bardzo dobra decyzja.
 
-Pamiętam, że schodząc ze wschodniej częscie Rytra widziałem na wzgórzu po drugiej stronie drogę. Zastanawiało mnie
+Pamiętam, że schodząc ze wschodniej częscie [Rytra][wiki-rytro] widziałem na wzgórzu po drugiej stronie drogę. Zastanawiało mnie
 jaki jest z niej widok. Również, jakby to z niej zjechać rowerem kiedyś, ale to teraz mniej istotne. Mieliśmy okazję
 przekonać się, gdyż musieliśmy podejść tam. W końcu te metry wysokości gdzieś trzeba zrobić.
 

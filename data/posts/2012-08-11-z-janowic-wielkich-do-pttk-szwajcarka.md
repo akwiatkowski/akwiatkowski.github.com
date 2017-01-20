@@ -6,7 +6,7 @@ date:                   2012-08-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28528345/m%3D2048/cec636ea7df78c68891f7e1fc2361082"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 

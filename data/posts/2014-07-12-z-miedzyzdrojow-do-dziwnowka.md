@@ -6,7 +6,7 @@ date:                   2014-07-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318"
 categories:             trip
-tags:                   [main, bicycle, coast, panniers]
+tags:                   [main, bicycle, coast, panniers, todo_media_later]
 towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
 lands:                  [wybrzeze_trzebiatowskie]
 

@@ -6,7 +6,7 @@ date:                   2015-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28744393/m%3D2048/8a95b0b5cec67fec50454980f44e880e"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan]
 lands:                  [pojezierze_poznanskie]
 
@@ -46,6 +46,8 @@ Jeżeli chcielibyśmy jechać zgodnie z czerwonym szlakiem rowerowym, to na skrz
 Skręciliśmy w lewo jadąc zgodnie z linią autobusową [58][mpk-58]. Jak na razie jest to, według mnie, linia najbardziej odległa od
 cywilizacji w Poznaniu. Zakładając, że nie patrzymy ma linie podmiejskie, które to od niedawna zostały włączane w
 poznański [ZTM][ztm].
+
+{% post_image "medium","IMGP2659raw1.jpg","Droga niedaleko Głuszynki" %}
 
 Jechaliśmy cały czas zgodnie z linią autobusową mijając tereny małomiasteczkowe i wiejskie.
 

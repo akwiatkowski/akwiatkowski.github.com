@@ -6,7 +6,7 @@ date:                   2016-12-06 22:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/188888973/q%3D80_m%3D2000/d18f11cba30923f68ca1f0842753c906"
 categories:             trip
-tags:                   [photo, todo_media]
+tags:                   [photo]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]
@@ -26,6 +26,8 @@ Szczegóły
 
 To będą najkrótsze szczegóły :) Przeszedłem się po okolicach rynku w
 bardzo spokojny wieczór.
+
+{% post_image "medium","IMGP0254raw1.jpg","Aleje Marcinkowskiego" %}
 
 Zdecydowanie lepiej uliczki by wyglądały gdyby były wilgotne po delikatnym
 deszczu.

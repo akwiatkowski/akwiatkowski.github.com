@@ -6,7 +6,7 @@ date:                   2015-07-26 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers, todo_media_later]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 

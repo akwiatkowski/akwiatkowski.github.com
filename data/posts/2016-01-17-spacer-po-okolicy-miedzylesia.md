@@ -6,7 +6,7 @@ date:                   2016-01-17 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, miedzylesie]
 lands:                  [masyw_snieznika, kotlina_klodzka]
 

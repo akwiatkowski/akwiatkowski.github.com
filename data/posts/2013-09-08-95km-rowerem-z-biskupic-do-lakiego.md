@@ -58,6 +58,8 @@ Na wysokości [Kapalicy][wiki-kapalica] skręciliśmy na północ i przejechali�
 [Węglewa][wiki-weglewo]. Następnie skręciliśmy w stronę [Lednogory][wiki-lednogora].
 Musieliśmy objechać delikatnie jezioro z południowej strony.
 
+{% post_image "medium","IMGP8486raw_b.jpg","Wieś Dziekanowice" %}
+
 W [Dziekanowicach][wiki-dziekanowice] jechaliśmy w stronę [Żydówka][wiki-zydowko], i dalej znowu na wschód.
 Zbyt wiele ciekawych elementów terenu nie zapamiętałem.
 
@@ -66,6 +68,8 @@ Będąc już w [Gnieźnie][wiki-gniezno] woleliśmy jechać chodnikami z wiadomy
 Wyjechaliśmy z [Gniezna][wiki-gniezno] w stronę [Strzyżewa Smykowego][wiki-strzyzewo-smykowe]. W [Kozłowie][wiki-kozlowo]
 skręciliśmy na północ. A w [Jastrzębowie][wiki-jastrzebowo] znowu na wschód przez [Wydartowo][wiki-wydartowo] do
 [Wylatowa][wiki-wylatowo].
+
+{% post_image "medium","IMGP8506raw_b.jpg","Okolice wsi Wełnica po wyjeździe z Gniezna" %}
 
 Nie pamiętam dokładnie miejsca, ale gdzieś w okolicy jest punkt widokowy [Duszno][wiki-duszno]. Był w okolicy
 bardzo fajny zjazd za
@@ -78,6 +82,8 @@ Do [Wylatowa][wiki-wylatowo] musieliśmy trochę podjechać [główną drogą][
 początkowo spróbowaliśmy dalej jechać główną drogą. Na szczeście szybko wróciliśmy się i wybraliśmy dokończenie
 spokojniejszymi drogami.
 Jest ich tam naprawdę sporo, tylko trudno wybrać najsensowniejszą trasę bez dokładnej mapy.
+
+{% post_image "medium","IMGP8526raw_b.jpg","Okolice wsi Łąkie" %}
 
 O zmęczeniu nie pisałem, ale już od jakiegoś czasu wyłączyłem swój umysł i po prostu chciałem dojechać.
 

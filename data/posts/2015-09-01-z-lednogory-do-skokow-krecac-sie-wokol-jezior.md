@@ -6,7 +6,7 @@ date:                   2015-09-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225"
 categories:             trip
-tags:                   [main, bicycle]
+tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, pobiedziska, kiszkowo, klecko, skoki]
 lands:                  [pojezierze_gnieznienskie]
 

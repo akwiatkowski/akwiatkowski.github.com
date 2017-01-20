@@ -6,7 +6,7 @@ date:                   2014-06-20 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133477751/m%3D2048/b047bb4a0114af939e6cad9b443e3faa"
 categories:             trip
-tags:                   [main, bicycle, mountains, best]
+tags:                   [main, bicycle, mountains, best, todo_media_later]
 towns:                  [dolnoslaskie, szklarska_poreba, swieradow_zdroj]
 lands:                  [karkonosze, gory_izerskie]
 

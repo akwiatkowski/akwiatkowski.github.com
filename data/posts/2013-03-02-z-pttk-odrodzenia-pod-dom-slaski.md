@@ -6,7 +6,7 @@ date:                   2013-03-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28149127/m%3D2048/aad9f95f41b5dabe9ecff196f1ae8298"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]
 

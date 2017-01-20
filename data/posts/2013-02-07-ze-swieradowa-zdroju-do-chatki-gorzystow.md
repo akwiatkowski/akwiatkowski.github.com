@@ -6,7 +6,7 @@ date:                   2013-02-07 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28157011/m%3D2048/2e4a7c609eb6d14033338dd2dab9ced0"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
 

@@ -6,7 +6,7 @@ date:                   2016-09-03 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0"
 categories:             trip
-tags:                   [main, hike]
+tags:                   [main, hike, todo_media_later]
 towns:                  [lubuskie, dobiegniew]
 
 coords:                 [{"route": [[52.96947,15.78454], [52.96823,15.77570], [52.97020,15.75372], [52.97357,15.71692], [52.97036,15.69995], [52.97614,15.69841], [52.98193,15.70489], [52.97844,15.70107], [52.97971,15.69145], [52.97655,15.69180], [52.97591,15.69926]], "type": "hike"}]

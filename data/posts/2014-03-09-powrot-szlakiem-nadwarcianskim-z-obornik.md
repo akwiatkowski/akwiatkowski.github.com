@@ -6,7 +6,7 @@ date:                   2014-03-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb81337b0bdb0ab84db53bdf5c66e1c"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, oborniki, murowana_goslina, czerwonak, poznan]
 
 coords:                 [{"route": [[52.64383,16.82057], [52.63810,16.87825], [52.62763,16.91610], [52.61893,16.93661], [52.61184,16.92649], [52.60845,16.93584], [52.60861,16.95670], [52.58948,16.97009], [52.58348,16.97189], [52.57639,16.95979], [52.54164,16.96562], [52.54080,16.95361]], "type": "bicycle"}]
@@ -41,6 +41,8 @@ Szczegóły
 Dojechaliśmy pociagiem do [Obornik][wiki-oborniki], a następnie kierowaliśmy się w stronę
 [Łukowa][wiki-lukowo]. Te 4km trasy musieliśmy przejechać po uczęszczanej drodze.
 
+{% post_image "medium","IMGP4074raw1.jpg","Wieś Łukowo" %}
+
 W [Łukowie][wiki-lukowo] skręciliśmy na drogą polną, którą jechaliśmy w kierunku
 do [Szymankowa][wiki-szymankowo]. Bardzo ciekawe jest oświetlenie drogi za pomocą
 paneli fotowoltaicznych i małych generatorów wiatrowych, a raczej to, że akurat
@@ -48,6 +50,8 @@ tak mało istotną drogę oświetlili w ten sposób.
 
 Następnie zjechaliśmy do [Śnieżycowego Jaru][wiki-sniezycowy-jar]. Akurat
 udało nam się trafić na czas kwitnięcia tych roślinek. Ludzi było tam całkiem sporo.
+
+{% post_image "medium","IMGP4084raw1.jpg","Śnieżycowy Jar z bliska" %}
 
 Ruszyliśmy dalej w stronę [Mściszewa][wiki-msciszewo] i dalej na południe znaną
 trasą. W [Biedrusku][wiki-biedrusko] podjechaliśmy do sklepu i po tym dalszy powrót do
