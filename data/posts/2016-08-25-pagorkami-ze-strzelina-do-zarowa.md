@@ -6,7 +6,7 @@ date:                   2016-08-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, strzelin, kondratowice, niemcza, lagiewniki, dzierzoniow, marcinowice, zarow]
 
 coords:                 [{"route": [[50.78253,17.06040], [50.77716,17.07259], [50.73823,17.09139], [50.73187,17.09165], [50.73116,17.02607], [50.72872,17.02599], [50.72698,17.01680], [50.72051,17.01448], [50.72562,16.98041], [50.72358,16.94402], [50.73081,16.92672], [50.72948,16.91003], [50.73078,16.90853], [50.72608,16.88754], [50.71872,16.87969], [50.71296,16.85596], [50.71435,16.85299], [50.71470,16.83463], [50.72182,16.83720], [50.73263,16.83630], [50.73996,16.83982], [50.74518,16.83072], [50.73681,16.80849], [50.73757,16.80540], [50.74472,16.79974], [50.75927,16.79918], [50.75848,16.78609], [50.76502,16.76364], [50.76717,16.74193], [50.76345,16.72223], [50.78171,16.72403], [50.78294,16.72837], [50.79118,16.73446], [50.79398,16.72257], [50.79585,16.70095], [50.80065,16.67408], [50.80749,16.66773], [50.81288,16.65773], [50.81529,16.66309], [50.81990,16.66206], [50.83454,16.64837], [50.83489,16.64554], [50.84137,16.64533], [50.84319,16.65125], [50.85113,16.64897], [50.85338,16.65258], [50.86069,16.65224], [50.86521,16.63734], [50.86895,16.61859], [50.87347,16.61370], [50.87299,16.60372], [50.87667,16.58475], [50.88842,16.56896], [50.89946,16.56947], [50.90187,16.55128], [50.89868,16.52918], [50.89990,16.50416], [50.90536,16.50308], [50.91300,16.50849], [50.92022,16.50806], [50.92265,16.50265], [50.93656,16.49433], [50.93729,16.49519], [50.93740,16.50081], [50.94061,16.50184], [50.94183,16.51064]], "type": "bicycle"}]
@@ -50,6 +50,7 @@ pois:
 [wiki-wierzbna]: https://pl.wikipedia.org/wiki/Wierzbna_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-zarow]: https://pl.wikipedia.org/wiki/%C5%BBar%C3%B3w
 [wiki-gosciecice]: https://pl.wikipedia.org/wiki/Go%C5%9Bci%C4%99cice
+[wiki-sleza]: https://pl.wikipedia.org/wiki/%C5%9Al%C4%99%C5%BCa
 
 Wstęp
 -----
@@ -116,6 +117,8 @@ zarośnięta i miejscami były lekkie kamienie. Widoki ciekawsze
 pojawiły się dopiero jak zjechaliśmy do poziomu pól - jechaliśmy tunelem
 między drzewami i krzewami.
 
+{% post_image "medium","IMGP4948raw1.jpg","Stawy w Białym Kościele" %}
+
 Cieszyłem się gdy dotarliśmy do drogi asfaltowej w [Białym Kosciele][wiki-bialy-kosciol].
 Oprócz kilku budujących się nowych domów czuć tu klimat sudeckiej wioski.
 
@@ -124,6 +127,8 @@ kolejowymi.
 
 Przejechaliśmy przez [Wąwolnice][wiki-wawolnica] i jechaliśmy na zachód
 lekkim podjazdem w stronę [Stachowa][wiki-stachow].
+
+{% post_image "medium","IMGP4960raw1.jpg","Jadąc do Czerwieńca" %}
 
 Raz był podjazd, a raz zjazd, chociaż patrząc na mapę to mieliśmy więcej podjazdów.
 Na filmiku widać że mieliśmy pagórki na horyzoncie. Czułem że powoli wjeżdzamy
@@ -139,7 +144,7 @@ Wokół były pola, pagórki i czasem lasy. Przejechaliśmy przez [Kowalskie][wi
 [Żelowice][wiki-zelowice], [Strachów][wiki-strachow], Piotrówek
 i [Wojsławice][wiki-wojslawice] jadąc do [Niemczy][wiki-niemcza].
 
-
+{% post_image "medium","IMGP4972raw1.jpg","Rynek w Niemczy" %}
 
 W [Wojsławicach][wiki-wojslawice] obok [Niemczy][wiki-niemcza]
 jest [arbotreum][wiki-arbotreum-wojslawice].
@@ -155,17 +160,24 @@ obok Stawu Zamkowego, jednak samego zamku nie zauważyliśmy. Po chwili musieli�
 na drogę 8-kę. Dobre jest to, że musieliśmy przejechać tylko kilometr.
 Skręciliśmy do [Kietlina][wiki-kietlin].
 
+{% post_image "medium","IMGP4982raw1.jpg","Dolnośląskie pola" %}
+
 W okolicy jest bardzo dużo różnych dróg polnych i na pewno można dostać się w
 ciekawe miejsca, jednak jadąc z sakwami i mając określoną konkretnę trasę
 nie można się rozpraszać pomimo tego, że czasem jest
 [tak ładnie jak tu]({% post_url 2016-09-03-zachodnie-okolice-dobiegniewa %}).
 
+{% post_image "medium","IMGP4990raw1.jpg","Obok góry Działowa" %}
+
 Podjechaliśmy rowerem pod [Golę Dzierżoniowską][wiki-gola-dzierzoniowska]
 i obok górki Działowa skręciliśmy na północ. Jechaliśmy bo fajnej polnej drodze.
 Po lewej stronie mijaliśmy już zaorane pole w kształcie małej górki.
 
+
 Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][wiki-debowa-gora].
 Śłońce już zmieniało swoją barwę i widać było że zbliża się powoli zachód.
+
+{% post_image "medium","IMGP5001raw1.jpg","Widok na Ślężę" %}
 
 Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
 skręciliśmy na zachód.
@@ -177,7 +189,8 @@ droga była ciekawsza.
 Minęliśmy kilka małych pagórków z których mieliśmy bardzo ładny widok na okolicę.
 Towarzyszył nam widok na [Ślężę][wiki-sleza].
 
-[wiki-sleza]: https://pl.wikipedia.org/wiki/%C5%9Al%C4%99%C5%BCa
+{% post_image "medium","IMGP5017raw1.jpg","Między miejscowościami Jaźwina a Kiełczyn" %}
+
 
 Za [Mysłakowem][wiki-myslakow] przez większość czasu jechaliśmy pod słońce.
 Nie wiem czy to kwestia mojego zmęczenia,
@@ -188,6 +201,8 @@ dalszych miejscowości przez które przejechaliśmy.
 Wyjątkiem jest tylko [Wierzbna][wiki-wierzbna] gdzie wjechaliśmy na teren kościoła
 i dowiedzieliśmy się, że mieszka w tej miejscowości dużo polityków, oraz że
 najwięcej dla kościoła zrobili politycy SLD (zdanie jednego mieszkańca).
+
+{% post_image "medium","IMGP5038raw1.jpg","Zaorane pole" %}
 
 Ostatnim etapem pozostał nocleg pod [Żarowem][wiki-zarow].
 Podczas rezerwacji prosiłem o pokój z łazienką
@@ -201,3 +216,5 @@ w mieszkaniu nie ma ani sztućców, naczyń, nawet tacki aby móc pokroić warzy
 Jako klient chciałbym konkretne warunki za które mógłbym zapłacić i to również
 więcej niż 40zł. Z tego powodu nie zaznaczyłem
 tego miejsca na swojej liście polecanych noclegów.
+
+{% post_image "medium","IMGP5055raw1.jpg","Ruiny w Pankowie" %}

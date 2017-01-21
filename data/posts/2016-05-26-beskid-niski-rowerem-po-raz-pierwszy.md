@@ -6,7 +6,7 @@ date:                   2016-05-26 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/156858245/q%3D80_m%3D2000/f78d6ec50b11528fe329fd7d7daf4940"
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media]
+tags:                   [main, bicycle, mountains, todo_media_later]
 towns:                  [podkarpackie, krempna]
 lands:                  [beskid_niski]
 

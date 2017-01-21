@@ -6,7 +6,7 @@ date:                   2016-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/184879713/q%3D80_m%3D2000/bb166ac6db3d49f999d290a66af9fc8f"
 categories:             trip
-tags:                   [main, photo, todo_media]
+tags:                   [main, photo]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]
@@ -53,24 +53,20 @@ Przeszedłem się moją standardową trasą przez trzy mosty robiąc zdjęcia.
 Zdjęcia
 -------
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/184881933/m%3D900/7d10108abc59dea92019ef3307462ed1' alt='Late autumn at Dębic by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/184881933/late-autumn-at-d%C4%99bic-by-aleksander-kwiatkowski' alt='Late autumn at Dębic by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP9912raw2.jpg","Późna jesień na Łęgach Dębińskich" %}
 
 Pomarańczowa barwa jest zdecydowanie oszustwem. Była to normalna mgła i
 wszystko było białe, jednak wolałem ocieplić scenę aby dodać klimatu.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/184879713/m%3D900/8ba11b51244a7a8bad64f634ed9ba4bc' alt='Flowing leaves at Dębiec by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/184879713/flowing-leaves-at-d%C4%99biec-by-aleksander-kwiatkowski' alt='Flowing leaves at Dębiec by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP9973raw1.jpg","Łęgi Dębińskie" %}
 
-Konar zanurzony w wodzie i jednocześnie płynące liście okazały się moim
-najlepszym zdjęciem od dłuższego czasu.
+Zatoczka na Łęgach Dębińskich. Wokół spadły już chyba wszystkie liście.
+
+{% post_image "medium","IMGP9927raw1.jpg","Łęgi Dębińskie - staw najbliżej ulicy" %}
+
+Jest to moje ulubione miejsce. Staw ten jest bardzo rozciągnięty. Można spokojnie chodzić
+wokół niego.
+
+{% post_image "medium","IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy" %}
+
+Główna ścieżka przechodząca przez Łęgi - niebieski (Nadwarciański) szlak rowerowy.

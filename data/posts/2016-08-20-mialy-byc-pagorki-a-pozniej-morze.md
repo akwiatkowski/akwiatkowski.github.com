@@ -6,7 +6,7 @@ date:                   2016-08-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169017253/q%3D80_m%3D2000/c8674dece586aa81e8e6250ffaf782bd"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [pomorskie, zachodnio_pomorskie, miastko, polanow, malechowo, sianow, mielno]
 
 coords:                 [{"route": [[54.07417,16.88013], [54.07160,16.84563], [54.07356,16.84323], [54.07462,16.82280], [54.06485,16.78495], [54.07286,16.78134], [54.07024,16.77096], [54.07462,16.76340], [54.07925,16.76581], [54.09244,16.76546], [54.09496,16.77113], [54.10226,16.77070], [54.11101,16.75216], [54.12027,16.75250], [54.12007,16.74778], [54.12922,16.72693], [54.13642,16.72401], [54.15034,16.72418], [54.15798,16.73319], [54.15808,16.70864], [54.15095,16.68513], [54.17657,16.68332], [54.21027,16.70195], [54.21418,16.68315], [54.20163,16.65311], [54.19973,16.63432], [54.20239,16.61312], [54.19862,16.57990], [54.20043,16.57775], [54.18692,16.51707], [54.19777,16.50840], [54.20816,16.46531], [54.20741,16.44832], [54.21644,16.41313], [54.22477,16.38661], [54.22738,16.34472], [54.23069,16.30618], [54.23486,16.29906], [54.24113,16.29700], [54.24659,16.28275], [54.26013,16.26627], [54.27712,16.22164], [54.28519,16.21726], [54.28354,16.20980], [54.29466,16.21066], [54.30728,16.19615], [54.28203,16.13487], [54.25803,16.05247], [54.25427,16.05333]], "type": "bicycle"}]
@@ -77,11 +77,15 @@ lub tramwaj na torach niż zwykły pociąg.
 Jechał on przez ciekawy tereny. Ogrom lasów oraz rozpoczynające się pagórki. Ciekawe
 było umieszczenie linii telefonicznych obok torów.
 
-wysiedliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
+{% post_image "medium","IMGP4669raw1.jpg","Stacja kolejowa Kawcze" %}
+
+Wysiedliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
 Możliwe że w okolicy był jakiś tartak.
 
 Przez [Świerzno][wiki-swierzno] ruszyliśmy na zachód w stronę
 [Nowego Żeliborza][wiki-nowy-zeliborz].
+
+{% post_image "medium","IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza" %}
 
 W tamtej okolicy sytuacja zaczęła się komplikować. O tyle jak do tej pory jechaliśmy
 drogą o prawie zerowym ruchu, z gęsto posadzonymi drzewami na poboczu, tak teraz
@@ -97,6 +101,8 @@ Patrząc teraz na nagrane filmiki te tereny mogą być fajne jak jest odpowiedni
 oraz jak wcześniej była odpowiednia pogoda - nie padało,
 a dodatkowo nie ma się konkretnej długiej trasy do zrobienia.
 
+{% post_image "medium","IMGP4679raw1.jpg","Tutaj kończyła się droga" %}
+
 Przejechaliśmy drogą przez jedno gospodarstwo. Trudno ocenić czy jest to droga
 prywatna, czy tutaj jest tak dziko że nikomu nie przeszkadza jak się ma publiczną drogę
 przez posesję.
@@ -106,11 +112,15 @@ Jechaliśmy na północ obok Baraniej Góry (217 m n.p.m). Tam już asfaltu nie 
 była ziemia mniej lub bardziej ubita. Wokół sporo odpadów po wywożeniu drzewa
 oraz lekki spad powodował, że nie był to całkowicie niewinny zjazd.
 
+{% post_image "medium","IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki" %}
+
 Wyjechaliśmy na polankę obok rzeki Pustynki, na horyzoncie widzieliśmy
 górki: Przelęki i Dziewcza Góra.
 
 Jechaliśmy na północ. Droga niestety była pełna kałuż i miejscami lepiej było
 jechać po polu niż drogą.
+
+{% post_image "medium","IMGP4687raw1.jpg","Stary wiadukt kolejowy" %}
 
 Dojechaliśmy do drogi, którą mogliśmy pojechać na zachód do [Polanowa][wiki-polanow].
 Chciałem zobaczyć na chwilę jak wyglą rozebrana trasa kolejowa
@@ -119,6 +129,8 @@ ale droga na północ jest poprowadzona przez krótki tunelik.
 
 Ruszyliśmy w stronę [Warblewa][wiki-warblewo] gdzie dołączyliśmy do szlaku rowerowego
 mając nadzieję, że to poprawi jakość naszej drogi.
+
+{% post_image "medium","IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte" %}
 
 Przed Jeziorem Trzcińskim był lekki zjazd, niestety tutaj ziemia była
 najbardziej mokra. Opony zbierały glebę co znacząco zmniejszało zdolność do
@@ -140,12 +152,16 @@ Polska ma dużo lasów.
 
 Zrobiliśmy przerwę przy sklepie, ponieważ tutaj sklepy są rzadkością.
 
+{% post_image "medium","IMGP4704raw1.jpg","Gdzieniegdzie były ciekawsze widoki, Słońce dodało barw" %}
+
 Następnie ruszyliśmy na zachód przez [Komorowo][wiki-komorowo]
 i [Bożenice][wiki-bozenice]. Pola po prawej stronie (północna) leżą
 na zboczu niewielkich górek.
 
 Teraz rozpoczęła
 się jazda przez wioski drogami o znikomym ruchu samochodowym.
+
+{% post_image "medium","IMGP4714raw1.jpg","Drzewa wokół drogi" %}
 
 Przed miejscowością [Laski][wiki-laski] gęste drzewa blokowały większość
 śłońca. Patrząc na mapę widzę, że kiedyś była tutaj linia kolejowa,
@@ -165,6 +181,8 @@ dzień jest drugim dniem z dobrą pogodą w tym miesiącu.
 
 Dalej jechaliśmy przez [Suchą Koszalińską][wiki-sucha-koszalinska] i
 [Osieki][wiki-osieki].
+
+{% post_image "medium","IMGP4733raw1.jpg","Jest woda (Morze Bałtyckie)" %}
 
 Poszliśmy na nadmorską plażę trochę na zachód od [Łazów][wiki-lazy].
 Tam mieliśmy z 30 minut na odpoczynek gdyż po tym czasie z zachodu
