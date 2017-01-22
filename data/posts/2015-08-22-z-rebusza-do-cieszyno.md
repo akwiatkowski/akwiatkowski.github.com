@@ -6,7 +6,7 @@ date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"
 categories:             trip
-tags:                   [main, bicycle, panniers, best, todo_media_later]
+tags:                   [main, bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, bierzwnik, choszczno, drawno, kalisz_pomorski, drawsko_pomorskie, miroslawiec, zlocieniec, ostrowice]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -75,11 +75,18 @@ Po drodze minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno].
 Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia]. Co chwilę
 widziałem znak dojazdu do jakieś kolonii.
 
+{% post_image "medium","IMGP2776raw1.jpg","Złote pola o poranku" %}
+
 Wyjeżdzając z [Pławna][wiki-plawno] zauważyłem pierwsze oznaki tego, że teren nie będzie absolutnie płaski. Z jednej strony
 to była to dobra informacja, z drugiej strony nigdy nie jeździłem z sakwami po pagórkach.
 
+{% post_image "medium","IMGP2786raw1.jpg","Kościół w Brzezinach" %}
+
 Przejechałem przez [Zieleniewo][wiki-zieleniewo] w kierunku [Brzezin][wiki-brzeziny]. Trochę jechałem przez las, więc była
 przerwa od widoków. Na pocieszenie w lesie jest trochę lepsze powietrze.
+
+{% post_image "medium","IMGP2790raw1.jpg","Wjazd do lasu za Zieleniewem" %}
+
 Następnie skierowałem się drogą polną w kierunku
 [Drawna][wiki-drawno]. Po drodzę minąłem szyny niedziałającej już [linii kolejowej][wiki-drawno-kolej].
 Jakoś ostatnio jest modna zamiana mało popularnych linii kolejowych na szlaki rowerowe i tutaj również w planach
@@ -92,17 +99,24 @@ w stronę [Kalisza Pomorskiego][wiki-kalisz-pomorski] przez
 [Dębsko][wiki-debsko]. Przed [Dębskiem][wiki-debsko] miałem okazję zobaczyć bardzo ładne polany, lekko pofałdowane.
 Na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
 
+{% post_image "medium","IMGP2808raw1.jpg","Centrum wsi Dębsko" %}
+
 Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną,
 która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół pola, dobrze ubita, jednak później pojawiło się
 więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
 [szynobus z Piły do Szczecina][wiki-kalisz-pom-tor].
 
 
+{% post_image "medium","IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno" %}
 
 Z [Kalisza Pomorskiego][wiki-kalisz-pomorski] wyruszyłem w kierunku [Wierzchowa Pomorskiego][wiki-wierzchowo]. Przez ten dłuższy
 czas niewiele rzeczy się odznaczało, jednak tereny były według mnie ładne. Jednym z ciekawszych fragmentów to
 wyraźne zafałdowanie terenu między [Pepłówkiem][wiki-peplowek] a [Starą Studnicą][wiki-stara-studnica]. Widać to
-pod koniec [filmiku][vimeo4]. Drugim to solidny zjazd za
+pod koniec [filmiku][vimeo4].
+
+{% post_image "medium","IMGP2836raw1.jpg","Stara Sienica" %}
+
+Drugim to solidny zjazd za
 [Starą Studnicą][wiki-stara-studnica] w stronę doliny rzeki Studzienica przedstawiony na filmiku poniżej.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137234071' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
@@ -112,6 +126,8 @@ Następnie [przejechałem][vimeo6]
 przez [Osiek Drawski][wiki-osiek], w którym zdziwiło mnie to, że fragment drogi w centrum jest brukowany.
 Zrobiłem sobie kilkunastuminutową przerwę we wiacie przystanku autobusowego na wzgórzu obok wsi. Trochę pagórków po drodzę i
 wjechałem do [Złocieńca][wiki-zlocieniec].
+
+{% post_image "medium","IMGP2854raw1.jpg","Stary skle w Cieszyno" %}
 
 Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się, że jezioro jest tak blisko, i że jest całkiem solidna
 plaża tam. Zostawiłem sakwy i pojechałem pokręcić się po okolicy. Miałem 88km na liczniku i chciałem pobić mój dotychczasowy
@@ -124,6 +140,8 @@ przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dy
 do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
+{% post_image "medium","IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/160644311/m%3D900/2e09ac47e5dfe90bc9832307cf729d48' alt='Late summer near Cieszyno by Aleksander Kwiatkowski on 500px.com'>
@@ -131,9 +149,17 @@ do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższ
   <a href='https://500px.com/photo/160644311/late-summer-near-cieszyno-by-aleksander-kwiatkowski' alt='Late summer near Cieszyno by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
 
+{% post_image "medium","IMGP2901raw1.jpg","Jeziora Siecino" %}
+
+
+Ostatnią godzinę dnia spędziłem leżąc na plaży i czekając na zachód słońca. Gdybym miał
+statyw mógłbym lepsze zdjęcia zrobić.
+
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/160644845/m%3D900/06468d4ac4bad5b48bae70903e10eaf6' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'>
@@ -141,6 +167,6 @@ Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Ca
   <a href='https://500px.com/photo/160644845/lake-in-cieszyno-by-aleksander-kwiatkowski' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
-Ostatnią godzinę dnia spędziłem leżąc na plaży i czekając na zachód słońca. Gdybym miał
-statyw mógłbym lepsze zdjęcia zrobić.
+{% post_image "medium","IMGP2956raw1.jpg","Zachód Słońca nad Jeziorem Siecino" %}

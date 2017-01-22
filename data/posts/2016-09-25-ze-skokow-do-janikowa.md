@@ -6,7 +6,7 @@ date:                   2016-09-25 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, skoki, miescisko, mieleszyn, janowiec_wielkopolski, rogowo_zninski, gasawa, dabrowa, janikowo]
 
 coords:                 [{"route": [[52.67185,17.16131], [52.68553,17.21590], [52.67970,17.24928], [52.68605,17.28430], [52.68522,17.32215], [52.69474,17.35640], [52.69266,17.37460], [52.69958,17.39846], [52.69760,17.43047], [52.70218,17.47056], [52.71461,17.47751], [52.71216,17.50592], [52.71799,17.52171], [52.71362,17.53338], [52.70884,17.56514], [52.71300,17.57613], [52.71222,17.61192], [52.72293,17.62788], [52.71752,17.63938], [52.71788,17.64222], [52.72495,17.65071], [52.73602,17.68917], [52.73519,17.71397], [52.73306,17.75071], [52.74273,17.77105], [52.73717,17.81559], [52.74527,17.83302], [52.74616,17.84049], [52.75140,17.84340], [52.74585,17.85748], [52.75166,17.87962], [52.75177,17.91121], [52.74855,17.94365], [52.74543,17.94425], [52.74486,17.95335], [52.75270,17.99592], [52.73810,18.03009], [52.74564,18.07789], [52.74408,18.08450], [52.73478,18.08991], [52.74164,18.10922], [52.75052,18.11763]], "type": "bicycle"}]
@@ -50,7 +50,7 @@ pois:
 [wiki-mierucin]: https://pl.wikipedia.org/wiki/Mierucin_(powiat_mogile%C5%84ski)
 [wiki-broniewice]: https://pl.wikipedia.org/wiki/Broniewice
 [wiki-rzecz]: https://pl.wikipedia.org/wiki/Recz_(wojew%C3%B3dztwo_kujawsko-pomorskie)
-
+[wiki-chomiaza-szlachecka]: https://pl.wikipedia.org/wiki/Chomi%C4%85%C5%BCa_Szlachecka
 [maraton-lopuchowo]: http://gpmtb.pl/mtb/Lopuchowo
 [grood-piasta]: http://martina.nazwa.pl/grod_piasta/
 
@@ -94,6 +94,8 @@ Następnie przejechałem przez [Kakulin][wiki-kakulin] przez który przechodzi
 Cysterski Szlak Rowerowy. Sama wioska była trochę bardziej dziksza niż poprzednia,
 ale jadąc pod słońce filmik niewiele ciekawego by pokazywał z tej miejscowości.
 
+{% post_image "medium","IMGP6973raw1.jpg","Końcówka lata gdzieś na wschód od Skoków" %}
+
 Podobały mi się drzewa wokół drogi do [Kuszewa][wiki-kuszewo].
 Dalej powinienem jechać prosto i szybko skorygowałem kierunek, gdyż omyłkowo
 skręciłem w prawo.
@@ -101,6 +103,9 @@ skręciłem w prawo.
 Patrząc na nagrane filmiki mam wrażenie, że na żywo trasa mi się bardziej podobała.
 Na pewno ładniejsza by była gdybym jechał przed żniwami, kiedy pola są
 bardziej kolorowe.
+
+{% post_image "medium","IMGP6980raw1.jpg","Stary dom przy drodze" %}
+
 
 Przejechałem przez [Pląskowo][wiki-plaskowo] - bardzo krótką wioskę.
 Na mapie wychodzą z niej 3 drogi polne, które mogą być ciekawe do przejechania
@@ -111,6 +116,9 @@ Kolejną mijaną wioską był [Kłodzin][wiki-klodzin]. Jechałem cały czas dro
 takiej samej klasy, ale tutaj ruch był znacznie mniejszy. Było widać to po
 jakości drogi, a nie samochodach, które tego dnia i tej pory jeździły raczej rzadko
 prawie wszędzie.
+
+{% post_image "medium","IMGP6986raw1.jpg","Gdzieniegdzie można znaleźć brukowane drogi" %}
+
 
 Przejechałem przez główną ulicę w [Łopiennie][wiki-lopienno], która
 po obu stronach była mocno zabudowana, a następnie
@@ -123,6 +131,9 @@ Jadąc na wschód przejechałem przez stary przejazd kolejowy. Był on gdzieś
 w połowie między [Łopienną][wiki-lopienno] a [Gączem][wiki-gacz], przez
 tą drugą miejscowość
 przejechałem chwilę później.
+
+{% post_image "medium","IMGP7004raw1.jpg","Wjeżdzając do Rzymu" %}
+
 
 [Miniszewo][wiki-miniszewo] było krótką wioską, jeszcze dzikszą. Czułem jak
 stopniowo zmieniał sie charakter tych miejscowości.
@@ -145,6 +156,8 @@ jednak w zamian dostałem trochę asfaltowanego pobocza.
 W miejscowości [Grochowicka Szlacheckie][wiki-grochowicka-szlacheckie] skręciłem
 z tej trochę ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
 po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
+
+{% post_image "medium","IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa" %}
 
 Wcześniej stwierdziłem, że o tej porze ruch wszędzie będzie znikomy, jednak w
 okolicy dróg krajowych tak nie było i mnie to nie dziwiło.
@@ -171,6 +184,8 @@ Widziałem obok informacje o Grodzie Piasta po lewej stronie, jednak nie miałem
 i nie chciało mi się tego teraz sprawdzać. Jak się później okazało, jest to
 raczej [komercyjne miejsce][grood-piasta].
 
+{% post_image "medium","IMGP7020raw1.jpg","Jezioro Oćwieckie" %}
+
 Od tego momentu jechałem głównie wąskimi drogami asfaltowymi wokół pól.
 Niestety o tej porze roku większość jest już zaorana.
 Przejechałem przez [Nowowieś Pałucką][wiki-nowowies]. Jest to wieś zdecydowanie
@@ -180,6 +195,8 @@ gospodarstw ma trochę swojej ziemii.
 Większą miejscowością od poprzedniej wioski była [Dąbrowa][wiki-dabrowa].
 Na mapie widać jakieś tory po zachodniej stronie, prawdopodobnie jest to
 nieużywana kolej wąskotorowa.
+
+{% post_image "medium","IMGP7023raw1.jpg","Droga przez pola" %}
 
 Z niej kierowałem się do [Mierucina][wiki-mierucin] za którym musiałem
 przejechać przez las i od tego miejsca prostą drogą jechałem do
