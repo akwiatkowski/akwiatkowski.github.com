@@ -2,6 +2,8 @@
 layout:                 post
 title:                  "Z Rębusza do Cieszyno"
 subtitle:               "długa samotna jazda w kierunku Drawskiego Parku Krajobrazowego"
+desc:                   "Moja pierwsza samotna dwudniowa wycieczka rowerowa. Przejazd przez Pojezierze Drawskie wypełnione jeziorami oraz pagórkami w słoneczny weekend."
+keywords:               [drawski, wioska, lato, pojezierze, pagórki, wycieczka]
 date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"

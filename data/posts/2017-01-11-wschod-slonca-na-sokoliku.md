@@ -2,6 +2,8 @@
 layout:                 post
 title:                  "Wschód słońca na Sokoliku"
 subtitle:               "idealna pogoda w teorii nie musi być idealną w praktyce, może być zbyt wietrznie"
+desc:                   "Sokolik jest bardzo znanym punktem widokowym dla fotografów. Sporo ludzi przychodzi tam robić swoje pierwsze zdjęcia wschodu Słońca i ja nie chciałem być gorszy."
+keywords:               [sokolik, rudawy, trzcińsko, wojanów, janowice, janowickie, poranek, wschód, zima, śnieżka, wiatr, wietrznie, gruszków]
 date:                   2017-01-11 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

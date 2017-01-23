@@ -139,4 +139,14 @@ class PostView < BaseView
 
     return load_html("post/article", data)
   end
+
+  # overriden here
+  def page_desc
+    return @post.desc.not_nil!
+  end
+
+  # overriden here
+  def meta_keywords_string
+    return @post.keywords.not_nil!.join(", ").as(String)
+  end
 end

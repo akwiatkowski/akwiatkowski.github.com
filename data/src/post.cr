@@ -20,11 +20,16 @@ class Tremolite::Post
 
     @distance = 0.0
     @time_spent = 0.0
+
+    # seo
+    @desc = String.new
+    @keywords = Array(String).new
   end
 
   getter :coords
   getter :small_image_url, :thumb_image_url
   getter :tags, :towns, :lands, :pois
+  getter :desc, :keywords
   getter :distance, :time_spent
 
   def custom_process_header
@@ -77,6 +82,15 @@ class Tremolite::Post
         @pois.not_nil! << PoiEntity.new(poi)
       end
     end
+
+    # seo keywords
+    if @header["keywords"]? && "" != @header["keywords"]?.to_s
+      @header["keywords"].each do |keyword|
+        @keywords.not_nil! << keyword.to_s
+      end
+    end
+
+    @desc = @header["desc"].to_s if @header["desc"]?
 
     # download previous external heade images locally
     # now we will only use local images

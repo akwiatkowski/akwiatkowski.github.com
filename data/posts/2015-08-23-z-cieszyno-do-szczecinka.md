@@ -6,7 +6,7 @@ date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
 categories:             trip
-tags:                   [main, bicycle, panniers, best, todo_media_later]
+tags:                   [main, bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
 lands:                  [drawski_park_krajobrazowy]
 
@@ -66,6 +66,8 @@ Wstałem około 7:30 i w pół godziny się spakowałem, zrobiłem kanapki i o 8
 [Jechałem][vimeo1] w kierunku [Nowe Worowo][wiki-nowe-worowo] po drodzę obserwując jak teren jest już trochę pofalowany.
 Ranek był spokojny, lekko chłodny w pozytywnym sensie.
 
+{% post_image "medium","IMGP2997raw1.jpg","Prawie każda droga jest szlakiem rowerowym" %}
+
 Od tego momentu zaczęły się "prawdziwe wyżyny". Co chwilę lekki podjazd i zjazd. Tym razem więcej pól i lepsza widoczność.
 Ciekawe były zakręty podczas zjazdu z [Bolegorzyna][wiki-bolegorzyn] w kierunku [Kluczewa][wiki-kluczewo].
 
@@ -75,10 +77,14 @@ Z [Kluczewa][wiki-kluczewo] zjechałem do drogi [163][wiki-163] w stronę [Stare
 trasy jadąc drogą polną w okolicy [Prosinka][wiki-prosinko], bo nie lubię jeździć po głównych drogach.
 [Filmik][vimeo3] przedstawia przejazd tym fragmentem.
 
+{% post_image "medium","IMGP3006raw1.jpg","Za Nowym Worowem" %}
+
 Wyruszyłem ze [Starego Drawska][wiki-stare-drawsko] i znowu musiałem jechać główną drogą.
 Aż do wyjazdu z [Czaplinka][wiki-czaplinek]
 raczej nic bardzo ciekawego nie było.
 Chyba tylko to, że spotkałem tam jedynego sakwiarza na trasie (oprócz mnie oczywiście).
+
+{% post_image "medium","IMGP3019raw1.jpg","Dom w Kluczewie" %}
 
 Za [Czaplinkiem][wiki-czaplinek] zamiast jechać dokładnie zgodnie ze szlakiem rowerowym, wybrałem asfalt.
 Nie chciało mi się jeździć po terenie z sakwami.
@@ -87,12 +93,16 @@ Wydaję mi się, że tam właśnie rozpoczynał się najciekawszy fragment trasy
 Chmury zniknęły a wokół widziałem lekko pofalowane pola, bardzo to mnie uspokajało.
 Jest to mój ulubiony rodzaj krajobrazu, no może wolałbym bardziej pofalowany.
 
+{% post_image "medium","IMGP3072raw1.jpg","Stacja kolejowa Czarne Małe" %}
+
 Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [pociąg][wiki-linia-210] między
 [Szczecinem][wiki-szczecin] a [Chojnicami][wiki-chojnice]. Stacja oddalona jest około półtora kilometra od centrum wsi.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/137774510' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Lubię takie dziwne połączenia kolejowe i na pewno kiedyś się tą linią przejadę.
+
+{% post_image "medium","IMGP3073raw1.jpg","Zielone okolice wokół stacji kolejowej Czarne Małe" %}
 
 Dalej [jechałem][vimeo5] na wschód, w stronę [Łubowa][wiki-lubowo]. Wioska, która ma szczęście posiadać połączenie kolejowe.
 Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Bornego Sulinowo][wiki-borne-sulinowo].
@@ -105,6 +115,9 @@ Wyruszyłem wokół jeziora dość terenowym szlakiem, minąłem drogę niedalek
 tam droga. Ja bym tego drogą nie nazwał. Jechałem przez las, w pewnym miejscu mapa papierowa i UMP mówiły że mam jechać
 prosto, tylko że nie było drogi. Pojechałem dalej. Z jednej strony szlak, z drugiej jakaś dziwna
 żółta kropka na drzewie. Wybrałem tą żółtą kropkę bo tak mój zmysł nawigacji podpowiadał i to była dobra decyzja.
+
+{% post_image "medium","IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino" %}
+
 
 Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20-tki, na szczęście wzdłuż niej
 był dobry chodnik.
