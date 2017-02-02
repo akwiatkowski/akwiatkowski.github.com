@@ -10,6 +10,8 @@ class @TodoRoute
       success: (data) =>
         @data = data
         @loadRoutes()
+        # first execute
+        @executeFilter()
 
   executeFilter: () =>
     filter_route_from = $("#filter-route-from").val()

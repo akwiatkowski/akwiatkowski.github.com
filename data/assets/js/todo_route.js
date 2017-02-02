@@ -14,7 +14,8 @@ this.TodoRoute = (function() {
       success: (function(_this) {
         return function(data) {
           _this.data = data;
-          return _this.loadRoutes();
+          _this.loadRoutes();
+          return _this.executeFilter();
         };
       })(this)
     });
