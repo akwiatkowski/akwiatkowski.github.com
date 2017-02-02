@@ -18,6 +18,10 @@ class TodosView < PageView
       data["route.from"] = todo_route.from
       data["route.to"] = todo_route.to
       data["route.url"] = todo_route.url
+      data["route.flag_normal"] = todo_route.flag_normal.to_s
+      data["route.flag_long"] = todo_route.flag_long.to_s
+      data["route.flag_touring"] = todo_route.flag_touring.to_s
+      data["route.flag_small"] = todo_route.flag_small.to_s
 
       if todo_route.transport_from_cost_minutes > 0
         data["route.from_cost"] = "#{todo_route.transport_from_cost_minutes} min = #{todo_route.transport_from_cost_hours.round(1)} h"

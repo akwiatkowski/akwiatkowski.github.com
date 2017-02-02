@@ -384,3 +384,41 @@
   time_cost: 480
   lat: 53.47235
   lon: 22.65804
+
+- commune_slug: babimost
+  name: Babimost
+  time_cost: 70
+  lat: 52.16832
+  lon: 15.81551
+
+- commune_slug: smigiel
+  name: Przysieka Stara
+  time_cost: 55
+  lat: 52.03603
+  lon: 16.60490
+
+- commune_slug: lagow
+  name: Toporów
+  time_cost: 120
+  lat: 52.25993
+  lon: 15.26138
+
+- commune_slug: rzepin
+  name: Rzepin
+  time_cost: 100
+  time_cost_min: 70
+  time_cost_max: 130
+  lat: 52.35020
+  lon: 14.81455
+
+- commune_slug: zlocieniec
+  name: Złocieniec
+  time_cost: 300
+  lat: 53.52804
+  lon: 16.01824
+
+- commune_slug: bialogard
+  name: Białogard
+  time_cost: 210
+  lat: 54.00956
+  lon: 15.97721

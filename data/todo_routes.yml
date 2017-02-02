@@ -1,5 +1,9 @@
 # TODO add coords and inner waypoints
 
+# priorities
+# super - very interesting ride to try at first possible moment
+# interesting - good to ride
+
 - voivodeship: wielkopolskie
   type: bicycle
   from: Rogoźno
@@ -87,7 +91,8 @@
   url: http://umapa.pl/JGGIo
 
 - voivodeship: wielkopolskie
-  priority: 1
+  priorities:
+    - easy
   type: bicycle
   from: Stara Przesieka
   to: Chocicza
@@ -419,7 +424,8 @@
     - Kąkolewo
     - Wonieść
   info: Można wybrać nocleg w okolicy Nowego Kościoła gdyż są tam ładne tereny i jest dużo mniejszych tras.
-  priority: 1
+  priorities:
+    - divice
   time_length: 11.25
   url: http://umapa.pl/w8QOM
 
@@ -453,7 +459,9 @@
     - Kościerzyna
     - Gołubie
   info: Do zmodyfikowania - przesunięcie początku do Piły albo Nakła nad Notecią, a rozszerzenie końca.
-  priority: -1
+  priorities:
+    - divide
+    - modify
   distance: 236
   time_length: 14.5
   url: http://umapa.pl/KejlQ
@@ -474,7 +482,8 @@
   # TODO through
   distance: 252
   info: Połączenie aktualnej mapy z morzem przez Kaszuby.
-  priority: 1
+  priorities:
+    - divide
   time_length: 15.5
   url: http://umapa.pl/p5dqI
 
@@ -487,7 +496,9 @@
   time_length: 16.25
   # TODO through
   info: Między Bolesławcem a Leszno Górne trasa może być mało ciekawa. Trasa do przebudowania pod względem szczegółow. Można skrócić końcówki.
-  priority: 0
+  priorities:
+    - divide
+    - idea
   url: http://umapa.pl/ffCv8
 
 - voivodeship: mazowieckie
@@ -497,7 +508,9 @@
   info: Trasa do modyfikacji - bliżej jezior i bez zbliżania się do Warszawy.
   distance: 292
   time_length: 17.25
-  priority: 0 # idea
+  priorities:
+    - divide
+    - idea
   url: http://umapa.pl/QPCfj
 
 - voivodeship: dolnoslaskie
@@ -523,7 +536,9 @@
     - Dolsk
     - Śrem
   info: Pomysł dobry, ale należałoby usunąć jazdę po drogach "pomarańczowych" oraz w okolicy autostrad.
-  priority: 0 # idea
+  priorities:
+    - divide
+    - idea
   distance: 304
   time_length: 17.5
   url: http://umapa.pl/GvhCw
@@ -532,7 +547,9 @@
   type: bicycle
   from: Wysoka Kamieńska
   to: Gdynia
-  priority: 0 # idea
+  priorities:
+    - divide
+    - idea
   info: Trasa ta jest tylko ideą - przejechać Pobrzeże. Podzieliłbym ją na dwie mniejsze, dokładniej określone trasy.
   distance: 317
   time_length: 19
@@ -560,7 +577,9 @@
     - Wojtkówka
     - Fredropol
   info: Bardzo długa trasa przez kilka pasm górskich. Duży koszt powoduje że nie daję jej priorytetu.
-  priority: 0 # idea
+  priorities:
+    - divide
+    - idea
   distance: 455
   time_length: 27
   url: http://umapa.pl/8oPCq
@@ -574,7 +593,123 @@
     - Błotnica
     - Wolsztyn
   info: Trasa wzdłuż linii kolejowej Leszno-Zbąszyń. Trochę jezior. Może być ciekawa.
-  priority: 0 # idea
-  distance: 455
+  priorities:
+    - normal
+  distance: 89
   time_length: 5.5
   url: http://umapa.pl/hvBkW
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Babimost
+  to: Przysieka Stara
+  through:
+    - Kargowa
+    - Rudno
+    - Wieleń
+    - Przemęt
+    - Śmigiel
+  info: Trasa przez kilka jezior gdzie wokół jest trochę szlaków rowerowych
+  priorities:
+    - normal
+  distance: 82
+  time_length: 5
+  url: http://umapa.pl/A21QH
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Babimost
+  to: Toporów
+  through:
+    - Brudzewo
+    - Kępsko
+    - Skąpe
+    - Węgrzynice
+  info: Trasa głównie wokół terenów leśnych. Można ją dalej rozszerzyć w stronę Rzepina. Blisko są stacje kolejowe.
+  priorities:
+    - short
+  distance: 56
+  time_length: 3.5
+  url: http://umapa.pl/df89d
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Babimost
+  to: Rzepin
+  through:
+    - Brudzewo
+    - Kępsko
+    - Skąpe
+    - Węgrzynice
+    - Drzewce
+    - Mierczany
+  info: Trasa głównie wokół terenów leśnych. Można ją skrócić.
+  priorities:
+    - normal
+  distance: 98
+  time_length: 6
+  url: http://umapa.pl/unC5c
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Toporów
+  to: Santok
+  through:
+    - Łagów
+    - Wielowieś
+    - Templewo
+    - Bledzew
+    - Skwierzyna
+  info: Trasa przez lasy, jeziora, głównie przez trochę dzikie tereny. Skrócić można dopiero w Skwierzynie.
+  priorities:
+    - normal
+  distance: 64
+  time_length: 4
+  url: http://umapa.pl/rcaoU
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Piła
+  to: Złocieniec
+  through:
+    - Szydłowo
+    - Wałcz
+    - Świerczyna
+  info: Trasa głównie przez mniejsze wioski
+  priorities:
+    - normal
+  distance: 75
+  time_length: 4.5
+  url: http://umapa.pl/6gixV
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Złocieniec
+  to: Białogard
+  through:
+    - Połczyn Zdrój
+    - Rąbino
+  info: Większe pofalowanie terenu ale ponownie prawie cała trasa przez mniejsze wioski
+  priorities:
+    - normal
+  distance: 64
+  time_length: 3.5
+  url: http://umapa.pl/TZGKb
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Złocieniec
+  to: Kołobrzeg
+  through:
+    - Połczyn Zdrój
+    - Rąbino
+    - Stanomino
+    - Kowańcz
+    - Pustary
+  info: Rozszerzenie trasy z Białogardu do Kołobrzegu. Patrząc na mapę to może być to bardzo fajna trasa.
+  priorities:
+    - normal
+    - high
+  distance: 110
+  time_length: 6.5
+  url: http://umapa.pl/02mLh

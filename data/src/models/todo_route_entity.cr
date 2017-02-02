@@ -195,4 +195,33 @@ struct TodoRouteEntity
   def time_length_external_accommodation_percentage
     100.0 * time_length_hours / total_cost_external_accommodation
   end
+
+  def flag_normal
+    if self.type == "bicycle"
+      return self.distance >= 30.0 && self.distance <= 80.0
+    end
+    return false
+  end
+
+  def flag_long
+    if self.type == "bicycle"
+      return self.distance >= 50.0 && self.distance <= 120.0
+    end
+    return false
+  end
+
+  def flag_touring
+    if self.type == "bicycle"
+      return self.distance >= 110.0
+    end
+    return false
+  end
+
+  def flag_small
+    if self.type == "bicycle"
+      return self.distance <= 40.0
+    end
+    return false
+  end
+
 end

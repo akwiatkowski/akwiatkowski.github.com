@@ -3,6 +3,24 @@
   <form class="form-horizontal">
 
     <div class="form-group">
+      <label for="filter-flag-normal" class="col-sm-5 control-label">Typ odległościowy trasy</label>
+      <div class="col-sm-7">
+        <input type="checkbox" id="filter-flag-small" value="small" class="route-filter-field">
+        Krótkie (do 40km)<br/>
+
+        <input type="checkbox" id="filter-flag-normal" value="normal" class="route-filter-field" checked>
+        Normalna (30-80km)<br/>
+
+        <input type="checkbox" id="filter-flag-long" value="long" class="route-filter-field" checked>
+        Długie (50-120km)<br/>
+
+        <input type="checkbox" id="filter-flag-touring" value="touring" class="route-filter-field">
+        Wielodniowe (>110km)<br/>
+
+      </div>
+    </div>
+
+    <div class="form-group">
       <label for="filter-route-both" class="col-sm-5 control-label">Początek lub koniec trasy</label>
       <div class="col-sm-7">
         <select name="filter-route-both" id="filter-route-both" class="route-filter-field form-control input-lg">

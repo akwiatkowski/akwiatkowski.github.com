@@ -21,15 +21,35 @@ this.TodoRoute = (function() {
   };
 
   TodoRoute.prototype.executeFilter = function() {
-    var filter_route_both, filter_route_from, filter_route_less, filter_route_more, filter_route_to, filter_route_total_cost, filter_route_transport_cost;
-    $(".todo_route").show();
+    var filter_route_both, filter_route_flag_long, filter_route_flag_normal, filter_route_flag_small, filter_route_flag_touring, filter_route_from, filter_route_less, filter_route_more, filter_route_to, filter_route_total_cost, filter_route_transport_cost;
     filter_route_from = $("#filter-route-from").val();
     filter_route_to = $("#filter-route-to").val();
     filter_route_both = $("#filter-route-both").val();
     filter_route_less = $("#filter-distance-less-than").val();
     filter_route_more = $("#filter-distance-more-than").val();
+    filter_route_flag_small = $("#filter-flag-small").prop("checked");
+    filter_route_flag_normal = $("#filter-flag-normal").prop("checked");
+    filter_route_flag_long = $("#filter-flag-long").prop("checked");
+    filter_route_flag_touring = $("#filter-flag-touring").prop("checked");
     filter_route_total_cost = $("#filter-total-cost-less-than").val();
     filter_route_transport_cost = $("#filter-transport-cost-less-than").val();
+    $(".todo_route").hide();
+    $(".todo_route").each((function(_this) {
+      return function(index, todo_route) {
+        if ($(todo_route).data("route-flag-small") && filter_route_flag_small) {
+          $(todo_route).show();
+        }
+        if ($(todo_route).data("route-flag-normal") && filter_route_flag_normal) {
+          $(todo_route).show();
+        }
+        if ($(todo_route).data("route-flag-long") && filter_route_flag_long) {
+          $(todo_route).show();
+        }
+        if ($(todo_route).data("route-flag-touring") && filter_route_flag_touring) {
+          return $(todo_route).show();
+        }
+      };
+    })(this));
     if (filter_route_from.length > 1) {
       $(".todo_route").each((function(_this) {
         return function(index, todo_route) {
