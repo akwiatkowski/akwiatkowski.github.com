@@ -16,7 +16,7 @@ class Tremolite::DataManager
     @todo_routes = Array(TodoRouteEntity).new
   end
 
-  getter :tags, :towns, :voivodeships, :land_types, :lands, :todo_routes
+  getter :tags, :towns, :voivodeships, :land_types, :lands, :todo_routes, :transport_pois
 
   def custom_load
     load_towns

@@ -1,6 +1,7 @@
 # odkrywajac_polske
 
-TODO: Write a description here
+This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
+[Jekyll](https://jekyllrb.com/) to [`tremolite`](https://github.com/akwiatkowski/tremolite).
 
 ## Installation
 

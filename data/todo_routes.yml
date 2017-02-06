@@ -713,3 +713,134 @@
   distance: 110
   time_length: 6.5
   url: http://umapa.pl/02mLh
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Kobylnica
+  to: Gołańcz
+  through:
+    - Tuczno
+    - Dąbrówka Kościelna
+    - Kakulin
+    - Mieścisko
+    - Łękno
+  info: Przez Puszczę Zielonką wzdłuż linii kolejowej
+  priorities:
+    - normal
+  distance: 66
+  time_length: 4
+  url: http://umapa.pl/Brs6p
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Pobiedziska
+  to: Kościan
+  through:
+    - Wagowo
+    - Brzeźno
+    - Gultowy
+    - Dębicz
+    - Środa Wielkopolska
+    - Zaniemyśl
+    - Śrem
+    - Donatowo
+    - Stary Lubosz
+  info: Głównie przez wioski. Można skrócić w połowie gdyż przejeżdza przez 2 linie kolejowe (Września i Środa)
+  priorities:
+    - low
+    - normal
+  distance: 93
+  time_length: 6
+  url: http://umapa.pl/VLs8R
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Ścinawa
+  to: Bolesławiec
+  through:
+    - Czerniec
+    - Gorzelin
+    - Jaroszówka
+    - Chojnów
+    - Groble
+    - Krzyżowa
+  info: Trochę wiosek i lasów
+  priorities:
+    - low
+    - normal
+  distance: 82
+  time_length: 4.75
+  url: http://umapa.pl/pGQzl
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Nakło nad Notecią
+  to: Chojnice
+  through:
+    - Witosław
+    - Dźwierszno Małe
+    - Więcbork
+    - Nowy Dwór
+    - Lutówko
+    - Stare Gronowo
+    - Niwy
+    - Zamarte
+  info: Wokół nieużywanej linii kolejowej. Można skrócić do linii Piła-Chojnice. Miejscami trasa terenowa, sporo lasów i jezior.
+  priorities:
+    - high
+  distance: 93
+  time_length: 6
+  url: http://umapa.pl/tEFhu
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Opalenica
+  to: Wronki
+  through:
+    - Rudniki-Dwór
+    - Brody
+    - Pawłówek
+    - Niemierzewo
+    - Mościejewo
+    - Ryżym
+    - Pakawie
+    - Biezdrowo
+  info: Przez okolice Sierakowa, można trochę skrócić albo pokręcić się bo jest tam dużo spokojnych wiosek. Może być trochę terenu.
+  priorities:
+    - high
+  distance: 72
+  time_length: 4.6
+  url: http://umapa.pl/8vijA
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Opalenica
+  to: Przysieka Stara
+  through:
+    - Urbanowo
+    - Karczewo
+    - Łęki Wielkie
+    - Krzan
+  info: Trochę terenu, przejazd obok Grodziska Wielkopolskiego
+  priorities:
+    - high
+  distance: 41
+  time_length: 3
+  url: http://umapa.pl/8vijA
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Poznań
+  to: Drużyna Poznańska
+  through:
+    - Łęczyca
+    - Jarosławiec
+    - Jeziory
+    - Górka
+    - Dymaczewo Stare
+  info: Krótka trasa przez WPN, sporo terenu
+  priorities:
+    - normal
+  distance: 32
+  time_length: 2.5
+  url: http://umapa.pl/XVsht

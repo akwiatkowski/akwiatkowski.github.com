@@ -73,7 +73,18 @@ class TodosView < PageView
       end
 
       if todo_route.through.size > 0
-        data["partial.through"] = load_html("todo_route/item_through", {"route.through" => todo_route.through.join(", ")})
+        # show transport cost for intermediate points if is defined as TransportPoiEntity
+        transport_pois = @blog.data_manager.not_nil!.transport_pois.not_nil!
+        todo_route_string = todo_route.through.map{|t|
+          ts = transport_pois.select{|p| p.name.strip == t.strip}
+          if ts.size > 0
+            "#{t} (<strong>#{ts[0].time_cost}min</strong>)"
+          else
+            t
+          end
+        }.join(", ")
+
+        data["partial.through"] = load_html("todo_route/item_through", {"route.through" => todo_route_string})
       else
         data["partial.through"] = ""
       end

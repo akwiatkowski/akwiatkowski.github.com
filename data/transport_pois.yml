@@ -422,3 +422,93 @@
   time_cost: 210
   lat: 54.00956
   lon: 15.97721
+
+- commune_slug: kobylnica
+  name: Kobylnica
+  time_cost: 15
+  lat: 52.44575
+  lon: 17.08021
+
+- commune_slug: golancz
+  name: Gołańcz
+  time_cost: 100
+  lat: 52.94760
+  lon: 17.30629
+
+- commune_slug: kostrzyn
+  name: Gultowy
+  time_cost: 30
+  lat: 52.36836
+  lon: 17.31710
+
+- commune_slug: pobiedziska
+  name: Pobiedziska
+  time_cost: 30
+  lat: 52.47880
+  lon: 17.27762
+
+- commune_slug: sroda_wielkopolska
+  name: Środa Wielkopolska
+  time_cost: 35
+  lat: 52.21812
+  lon: 17.27530
+
+- commune_slug: rabino
+  name: Rąbino
+  time_cost: 240
+  lat: 53.87004
+  lon: 15.95317
+
+- commune_slug: scinawa
+  name: Ścinawa
+  time_cost: 210
+  lat: 51.40955
+  lon: 16.42072
+
+- commune_slug: scinawa
+  name: Ścinawa
+  time_cost: 210
+  lat: 51.40955
+  lon: 16.42072
+
+- commune_slug: chojnow
+  name: Chojnów
+  time_cost: 210
+  lat: 51.27712
+  lon: 15.93578
+
+- commune_slug: boleslawiec
+  name: Bolesławiec
+  time_cost: 220
+  lat: 51.26574
+  lon: 15.56791
+
+- commune_slug: naklo_nad_notecia
+  name: Nakło nad Notecią
+  time_cost: 190
+  lat: 53.14111
+  lon: 17.60184
+
+- commune_slug: naklo_nad_notecia
+  name: Nakło nad Notecią
+  time_cost: 190
+  lat: 53.14111
+  lon: 17.60184
+
+- commune_slug: chojnice
+  name: Chojnice
+  time_cost: 230
+  lat: 53.68848
+  lon: 17.57712
+
+- commune_slug: opalenica
+  name: Opalenica
+  time_cost: 30
+  lat: 52.30999
+  lon: 16.40269
+
+- commune_slug: mosina
+  name: Drużyna Poznańska
+  time_cost: 30
+  lat: 52.21059
+  lon: 16.82412
