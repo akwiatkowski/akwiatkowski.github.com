@@ -1,6 +1,7 @@
 class @TodoRoute
   constructor: ->
-    @route_destination = []
+    @route_destination_names = []
+    @route_destination_objects = []
 
   # run everything
   start: () ->
@@ -91,32 +92,63 @@ class @TodoRoute
   loadRoutes: () =>
     # load all from/to
     $(".todo_route").each (index, todo_route) =>
+
       route_from = $(todo_route).data("route-from")
+      route_from_cost_minutes = $(todo_route).data("route-from-cost-minutes")
+      route_from_distance = $(todo_route).data("route-from-distance")
+      route_from_direction_human = $(todo_route).data("route-from-direction-human")
+      route_from_label = route_from
+      if parseFloat(route_from_distance) > 0.0
+        route_from_label += " (" + Math.round(parseFloat(route_from_distance)) + "km " + route_from_direction_human + ")"
+
       route_to = $(todo_route).data("route-to")
+      route_to_cost_minutes = $(todo_route).data("route-to-cost-minutes")
+      route_to_distance = $(todo_route).data("route-to-distance")
+      route_to_direction_human = $(todo_route).data("route-to-direction-human")
+      route_to_label = route_to
+      if parseFloat(route_to_distance) > 0.0
+        route_to_label += " (" + Math.round(parseFloat(route_to_distance)) + "km " + route_to_direction_human + ")"
 
-      if @route_destination.indexOf(route_from) < 0
-        @route_destination.push(route_from)
+      if @route_destination_names.indexOf(route_from) < 0
+        @route_destination_names.push(route_from)
+        @route_destination_objects.push(
+          name: route_from,
+          cost_minutes: route_from_cost_minutes,
+          distance: route_from_distance,
+          direction_human: route_from_direction_human,
+          label: route_from_label
+        )
 
-      if @route_destination.indexOf(route_to) < 0
-        @route_destination.push(route_to)
+      if @route_destination_names.indexOf(route_to) < 0
+        @route_destination_names.push(route_to)
+        @route_destination_objects.push(
+          name: route_to,
+          cost_minutes: route_to_cost_minutes,
+          distance: route_to_distance,
+          direction_human: route_to_direction_human,
+          label: route_to_label
+        )
 
-    @route_destination = @route_destination.sort()
+    @route_destination_names = @route_destination_names.sort()
+    @route_destination_objects = @route_destination_objects.sort (a, b) ->
+      a.name.localeCompare(b.name)
 
     # add filter data
-    for route_element_name in @route_destination.sort()
+    for route_element_object in @route_destination_objects
+
       $("#filter-route-from").append $("<option>",
-        value: route_element_name
-        text: route_element_name
+        value: route_element_object.name
+        text: route_element_object.label
       )
 
       $("#filter-route-to").append $("<option>",
-        value: route_element_name
-        text: route_element_name
+        value: route_element_object.name
+        text: route_element_object.label
       )
 
       $("#filter-route-both").append $("<option>",
-        value: route_element_name
-        text: route_element_name
+        value: route_element_object.name
+        text: route_element_object.label
       )
 
     # add filter callbacks

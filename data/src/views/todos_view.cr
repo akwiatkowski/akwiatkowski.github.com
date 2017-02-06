@@ -25,14 +25,27 @@ class TodosView < PageView
 
       if todo_route.transport_from_cost_minutes > 0
         data["route.from_cost"] = "#{todo_route.transport_from_cost_minutes} min = #{todo_route.transport_from_cost_hours.round(1)} h"
+        data["route.from_cost_minutes"] = todo_route.transport_from_cost_minutes.to_s
+        data["route.from_distance"] = todo_route.from_poi.not_nil!.line_distance_from_home.to_s
+        data["route.from_direction_human"] = todo_route.from_poi.not_nil!.direction_from_home_human
       else
         data["route.from_cost"] = ""
+        data["route.from_cost_minutes"] = ""
+        data["route.from_distance"] = ""
+        data["route.from_direction_human"] = ""
       end
 
       if todo_route.transport_to_cost_minutes > 0
         data["route.to_cost"] = "#{todo_route.transport_to_cost_minutes} min = #{todo_route.transport_to_cost_hours.round(1)} h"
+        data["route.to_cost_minutes"] = todo_route.transport_to_cost_minutes.to_s
+        data["route.to_distance"] = todo_route.to_poi.not_nil!.line_distance_from_home.to_s
+        data["route.to_direction_human"] = todo_route.to_poi.not_nil!.direction_from_home_human
+
       else
         data["route.to_cost"] = ""
+        data["route.to_cost_minutes"] = ""
+        data["route.to_distance"] = ""
+        data["route.to_direction_human"] = ""
       end
 
       data["route.distance"] = todo_route.distance.to_i.to_s

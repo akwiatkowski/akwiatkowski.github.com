@@ -25,8 +25,12 @@ struct TransportPoiEntity
     @lat = y["lat"].to_s.to_f
     @lon = y["lon"].to_s.to_f
 
-    @line_distance = HOME_POINT.distance_to(other_lat: @lat, other_lon: @lon).as(Float64)
+    @line_distance_from_home = HOME_POINT.distance_to(other_lat: @lat, other_lon: @lon).as(Float64)
+    @direction_from_home = HOME_POINT.direction_to(other_lat: @lat, other_lon: @lon).as(Float64)
+    @direction_from_home_human = CrystalGpx::Point.direction_to_human(@direction_from_home)
   end
+
+  getter :line_distance_from_home, :direction_from_home, :direction_from_home_human
 
   def with_train?
     false == @time_cost.nil? && false == @no_train
@@ -42,15 +46,6 @@ struct TransportPoiEntity
       lon1: self.lon,
       lat2: other.lat,
       lon2: other.lon
-    )
-  end
-
-  def distance_from_home
-    return CrystalGpx::Point.distance(
-      lat1: self.lat,
-      lon1: self.lon,
-      lat2: HOME_LAT,
-      lon2: HOME_LON
     )
   end
 end

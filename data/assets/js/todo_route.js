@@ -5,7 +5,8 @@ this.TodoRoute = (function() {
   function TodoRoute() {
     this.loadRoutes = bind(this.loadRoutes, this);
     this.executeFilter = bind(this.executeFilter, this);
-    this.route_destination = [];
+    this.route_destination_names = [];
+    this.route_destination_objects = [];
   }
 
   TodoRoute.prototype.start = function() {
@@ -126,35 +127,66 @@ this.TodoRoute = (function() {
   };
 
   TodoRoute.prototype.loadRoutes = function() {
-    var i, len, ref, route_element_name;
+    var i, len, ref, route_element_object;
     $(".todo_route").each((function(_this) {
       return function(index, todo_route) {
-        var route_from, route_to;
+        var route_from, route_from_cost_minutes, route_from_direction_human, route_from_distance, route_from_label, route_to, route_to_cost_minutes, route_to_direction_human, route_to_distance, route_to_label;
         route_from = $(todo_route).data("route-from");
-        route_to = $(todo_route).data("route-to");
-        if (_this.route_destination.indexOf(route_from) < 0) {
-          _this.route_destination.push(route_from);
+        route_from_cost_minutes = $(todo_route).data("route-from-cost-minutes");
+        route_from_distance = $(todo_route).data("route-from-distance");
+        route_from_direction_human = $(todo_route).data("route-from-direction-human");
+        route_from_label = route_from;
+        if (parseFloat(route_from_distance) > 0.0) {
+          route_from_label += " (" + Math.round(parseFloat(route_from_distance)) + "km " + route_from_direction_human + ")";
         }
-        if (_this.route_destination.indexOf(route_to) < 0) {
-          return _this.route_destination.push(route_to);
+        route_to = $(todo_route).data("route-to");
+        route_to_cost_minutes = $(todo_route).data("route-to-cost-minutes");
+        route_to_distance = $(todo_route).data("route-to-distance");
+        route_to_direction_human = $(todo_route).data("route-to-direction-human");
+        route_to_label = route_to;
+        if (parseFloat(route_to_distance) > 0.0) {
+          route_to_label += " (" + Math.round(parseFloat(route_to_distance)) + "km " + route_to_direction_human + ")";
+        }
+        if (_this.route_destination_names.indexOf(route_from) < 0) {
+          _this.route_destination_names.push(route_from);
+          _this.route_destination_objects.push({
+            name: route_from,
+            cost_minutes: route_from_cost_minutes,
+            distance: route_from_distance,
+            direction_human: route_from_direction_human,
+            label: route_from_label
+          });
+        }
+        if (_this.route_destination_names.indexOf(route_to) < 0) {
+          _this.route_destination_names.push(route_to);
+          return _this.route_destination_objects.push({
+            name: route_to,
+            cost_minutes: route_to_cost_minutes,
+            distance: route_to_distance,
+            direction_human: route_to_direction_human,
+            label: route_to_label
+          });
         }
       };
     })(this));
-    this.route_destination = this.route_destination.sort();
-    ref = this.route_destination.sort();
+    this.route_destination_names = this.route_destination_names.sort();
+    this.route_destination_objects = this.route_destination_objects.sort(function(a, b) {
+      return a.name.localeCompare(b.name);
+    });
+    ref = this.route_destination_objects;
     for (i = 0, len = ref.length; i < len; i++) {
-      route_element_name = ref[i];
+      route_element_object = ref[i];
       $("#filter-route-from").append($("<option>", {
-        value: route_element_name,
-        text: route_element_name
+        value: route_element_object.name,
+        text: route_element_object.label
       }));
       $("#filter-route-to").append($("<option>", {
-        value: route_element_name,
-        text: route_element_name
+        value: route_element_object.name,
+        text: route_element_object.label
       }));
       $("#filter-route-both").append($("<option>", {
-        value: route_element_name,
-        text: route_element_name
+        value: route_element_object.name,
+        text: route_element_object.label
       }));
     }
     return $(".route-filter-field").on("change", (function(_this) {

@@ -12,7 +12,10 @@ dependencies:
   tremolite:
     github: akwiatkowski/tremolite
     branch: master
-
+  crystal_gpx:
+    github: akwiatkowski/crystal_gpx
+    branch: master
+    
 crystal: 0.20.5
 
 license: GPLv3
