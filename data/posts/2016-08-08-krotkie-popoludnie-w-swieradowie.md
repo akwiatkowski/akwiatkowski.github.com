@@ -6,7 +6,7 @@ date:                   2016-08-08 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328031/q%3D80_m%3D2000/6a49b4365f8f63b54ff7588f816d16ff"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk]
 lands:                  [gory_izerskie]
 
@@ -55,6 +55,8 @@ Ostatni raz w okolicy [Stogu Izerskiego][wiki-stog-izerski] byłem
 [w 2014 roku]({% post_url 2014-06-20-przez-jakuszyce-i-stog-izerski %}). Tamtego dnia
 nie mieliśmy takiego szczęścia do pogody.
 
+{% post_image "medium","IMGP4137raw1.jpg","Gondolowa kolejka na Stóg Izerski" %}
+
 Przejechaliśmy wokół [Stogu Izerskiego][wiki-stog-izerski]
 w stronę Drogi Telefonicznej. Celem na początek była
 [Chatka Górzystów][wiki-chatka-gorzystow].
@@ -67,17 +69,13 @@ oraz musiałem się przyzwyczaić do prędkości. Zjazd "na szczęście" skończ
 dość szybko i jechaliśmy po dobrej drodze polnej. Nie było żadnych przepaści obok
 gdyż [Góry Izerskie][wiki-gory-izerskie] są na ogół dość spokojne.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/174092785/m%3D900/2bc2a5adcaf8eed168c48ed8da31988c' alt='Sun in Izery by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/174092785/sun-in-izery-by-aleksander-kwiatkowski' alt='Sun in Izery by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP4140raw1.jpg","Zachodnie okolice Świeradowa Zdroju" %}
 
 Okazało się że można już zamawiać jedzenie w [schronisku][wiki-chatka-gorzystow]
 gdy się w nim nie nocuje, dlatego zamówiliśmy legendarne naleśniki z jagodami.
 Faktycznie są one bardzo dobre i każdemu polecam spróbować.
+
+{% post_image "medium","IMGP4147raw1.jpg","Chata Górzystów" %}
 
 Bardzo podobała mi się polana oświetlona powoli zachodzącym słońcem.
 
@@ -85,8 +83,12 @@ Teraz kierowaliśmy się na północ do drogi zjazdowej do [Świeradowa][wiki-sw
 Wydaje mi się, że z roku na rok droga ta jest w gorszym stanie, co jest w sumie
 normalne gdyż chyba się jej nie remontuje często (tak mi się wydaje, mogę się mylić).
 
+{% post_image "medium","IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej" %}
+
 Zjazd trudno mi opisać. Był fajny i każdemu polecam, ale wiedząc co mnie czeka
 nie przeżyłem wyraźnego zaskoczenia.
+
+{% post_image "medium","IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów" %}
 
 Do centrum [miasta][wiki-swieradow] dojechaliśmy drogą 358.
 Chcieliśmy jeszcze spróbować pobliski singletrak. Niestety dla nas musieliśmy
@@ -108,6 +110,8 @@ asfaltowej i zjeżdzaliśmy do centrum. Miałem wrażenie że albo jest ten zajz
 dość stromy,
 albo muszę wymienić klocki hamulcowe i uzupełnić płyn, gdyż sporo siły
 musiałem włożyć aby zahamować do zera.
+
+{% post_image "medium","IMGP4160raw1.jpg","Opuszczając okolice polskiego singletraka" %}
 
 W centrum skoczyliśmy do sklepu po zapasy a rowery już prowadziliśmy. Odkryłem
 że dojście do naszej bazy jest bardzo proste, praktycznie cały czas wystarczy iść

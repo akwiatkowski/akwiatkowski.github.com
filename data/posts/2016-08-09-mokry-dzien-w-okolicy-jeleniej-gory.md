@@ -6,7 +6,7 @@ date:                   2016-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk, stara_kamienica, lubomierz, wlen, jezow_sudecki, jelenia_gora]
 lands:                  [gory_izerskie, gory_kaczawskie]
 
@@ -65,12 +65,16 @@ Naszą bazę mieliśmy na wysokości około 550m n.p.m., dzięki czemu początko
 część naszej trasy to był całkiem fajny zjazd do miejscowości poniżej
 [Świeradowa][wiki-swieradow]. Nie muszę pisać o tym, że nam się to podobało.
 
+{% post_image "medium","IMGP4162raw1.jpg","Szkoła podstawowa w Krobicy" %}
+
 Zjechaliśmy do [Orłowic][wiki-orlowice] i skręciliśmy do [Krobicy][wiki-krobica]
 jadąc na wschód czarnym szlakiem rowerowym. Szlak ten przebiegał przez wioski pod
 [Górami Izerskimi][wiki-gory-izerskie]. Myślałem że teren po lewej stronie
 (na północ) będzie bardziej pofalowany - w końcu to [Pogórze Izerskie][wiki-pogorze-izerskie].
 Z tego co pamiętam to na północ od
 [Jeleniej Góry][wiki-jelenia-gora] jest znacznie więcej górek.
+
+{% post_image "medium","IMGP4171raw1.jpg","Izerskie pola" %}
 
 Jechało się nam całkiem dobrze. Raz widzieliśmy pola, czasem las, czasem
 jechaliśmy przez wioski. Przejechaliśmy przez [Gierczyn][wiki-gierczyn],
@@ -97,8 +101,6 @@ Do [Starej Kamienicy][wiki-stara-kamienica] dojechaliśmy przez
 sklepem, gdzie byliśmy [rok temu]({% post_url 2015-06-05-wokol-jeleniej-gory %}).
 Wtedy to mieliśmy akurat idealną pogodę.
 
-
-
 Podobnie jak [rok temu]({% post_url 2015-06-05-wokol-jeleniej-gory %}) ruszyliśmy
 do [Barcinka][wiki-barcinek]. Bardzo charakterystyczne są wijące się drogi i domy
 położone bardzo blisko samej drogi w tym regionie (możliwe że
@@ -111,6 +113,8 @@ się nam znaleźć odpowiednią trasę wokół jeziora. Trasa ta z początku by�
 po chwili wjechaliśmy w las. Nie była ona tak przyjemna jak singletraki
 [dzień wcześniej]({% post_url 2016-08-08-krotkie-popoludnie-w-swieradowie %})
 gdyż czasami była bardzo kamienista. Na szczęścia nie była ona stroma.
+
+{% post_image "medium","IMGP4188raw1.jpg","Tutaj czekaliśmy aż deszcz przestanie padać, ale nie przestawał" %}
 
 Po chwili natrafiliśmy na wycinkę drzew i musieliśmy chwilę poczekać, aż
 leśnicy ściągną drzewo. Chwilę dalej zaczęło padać. Schroniliśmy się pod drzewem, ale
@@ -125,22 +129,21 @@ bardziej przytłumione, szare.
 Na [zaporze][wiki-zapora-pilchowice] było szaro, smutno i depresyjnie, ale i
 ciekawie.
 
+{% post_image "medium","IMGP4192raw1.jpg","Dolna część elektrowni wodnej w Pilchowicach" %}
+
+
 Niestety po tym jak zjedliśmy pogoda się nie poprawiła. Gdy ruszyliśmy nie
 padało mocno, ale to miało się zmienić później.
 
+{% post_image "medium","IMGP4209raw1.jpg","Krzyż między Strzyżowcem a Czernicą" %}
 
 Dojechaliśmy do mostu kolejowego z [Pilchowice Zapora][wiki-pilchowice-zapora] w stronę
 [Jeleniej Góry][wiki-jelenia-gora] i tam zrobiliśmy przerwę
 na kilka zdjęć. Autorzy gry [The Vanishing Of Ethan Carter][gra-porownanie]
 inspirowali się właśnie tymi terenami.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/174092337/m%3D900/dce15888cc2392a3330d80e0be379a95' alt='Countryside near Czernica by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/174092337/countryside-near-czernica-by-aleksander-kwiatkowski' alt='Countryside near Czernica by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP4211raw1.jpg","Okolice Czernicy" %}
+
 
 Z jednej strony nie chcieliśmy wracać najkrótszą drogą, z drugiej strony
 pogoda nas przekonywała do tego. Wracać przez [Siedlęcin][wiki-siedlecin] byłoby
@@ -166,6 +169,8 @@ tylko po tym czekało na nas jeszcze 14km jazdy aby wrócić do bazy. Lepsze by�
 dojechać do stacji w [Jeleniej Górze][wiki-jelenia-gora], przesuszyć się, zjeść,
 odpocząć i pojechać
 mając więcej siły i nastroju. Tak właśnie zrobiliśmy.
+
+{% post_image "medium","IMGP4214raw1.jpg","Mokre drogi zjazdowe z Płoszczynki" %}
 
 Niestety w jednym miejscu nie skręciliśmy w lewo i dlatego do miasta wjechaliśmy
 praktycznie z drugiej strony. Trochę sporo musieliśmy pokombinować aby dostać się na

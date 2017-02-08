@@ -6,7 +6,7 @@ date:                   2016-07-10 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [lubuskie, zachodnio_pomorskie, strzelce_krajenskie, pelczyce, dolice, przelewice, stargard]
 
 coords:                 [{"route": [[52.83735,15.58413], [52.85166,15.54550], [52.87715,15.52988], [52.89787,15.50602], [52.91242,15.49984], [52.94636,15.45486], [52.98399,15.42654], [53.00414,15.42122], [53.01726,15.37040], [53.02913,15.35805], [53.04275,15.30637], [53.04864,15.29848], [53.04730,15.29642], [53.06061,15.24664], [53.06618,15.24217], [53.06710,15.21728], [53.07056,15.20492], [53.08263,15.20029], [53.09175,15.18038], [53.09582,15.18381], [53.10020,15.18132], [53.11241,15.16338], [53.11314,15.15445], [53.12709,15.16544], [53.12952,15.15960], [53.13410,15.16647], [53.13600,15.16149], [53.16128,15.18166], [53.16344,15.17274], [53.17810,15.18063], [53.19004,15.20243], [53.20531,15.14699], [53.21497,15.14939], [53.23177,15.11643], [53.25966,15.09858], [53.28199,15.07635], [53.29636,15.04991], [53.31420,15.04142], [53.33430,15.03893], [53.33338,15.03609], [53.33958,15.03189]], "type": "bicycle"}]
@@ -65,6 +65,8 @@ Pagórkowatych terenów w okolicy [Poznania][wiki-poznan] szukałem od dawna. Za
 pojawił mi się pomysł trasy z [Choszczna][wiki-choszczno] na południe i kiedyś już miałem
 zrealizować tą trasę, jednak wtedy wybrałem inną.
 
+{% post_image "medium","IMGP1991raw1.jpg","Klasyczne ujęcie drogi" %}
+
 Podczas tego weekendu pogoda w sobotę była daleka do odpowiedniej, ale
 niedziela zapowiadała się znacznie lepsza. Wybraliśmy się zobaczyć tą
 trasę. Nie wiedziałem co tam będzie, nie widziałem na mapie [UMP][ump]
@@ -114,13 +116,7 @@ duży blok na końcu wsi. Blok ten nie pasował do małej wioski.
 Przejechaliśmy przez [Sokólsko][wiki-sokolsko]. Tam z kolei było dość dużo
 starych domów. Według wikipedii wioski te były do 1945 roku miały [połączenie][wiki-pol-kolej] kolejowe.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/162583897/m%3D900/2f31fed605a4d50395e7225ca178aba8' alt='Old buildings in Żabicko by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/162583897/old-buildings-in-%C5%BBabicko-by-aleksander-kwiatkowski' alt='Old buildings in Żabicko by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP1997raw1.jpg","Stare budynki w Żabicko" %}
 
 Bardzo szybko przejechaliśmy przez [Żabisko][wiki-zabicko]. Jest to mała wioska,
 za którą kończy się województwo [lubuskie][wiki-lubuskie] a zaczyna
@@ -130,6 +126,8 @@ Do [Jarosławska][wiki-jaroslawsko] również wjechaliśmy bardzo szybko i równ
 przy wyjeżdzie były bloki, tym razem trzy. Tym razem wyjechaliśmy na zachód
 w kierunku [Będargowa][wiki-bedargowo]. Rozpoczęły się charakterystyczne dla tych
 regionów częste małe podjazdy i zjazdy.
+
+{% post_image "medium","IMGP2004raw1.jpg","Granica województwa lubuskiego z zachodniopomorskim" %}
 
 Po chwili znowu pola i kolejna wioska - [Trzęsacz][wiki-trzesacz]. A po nim
 jeszcze trochę do [Pełczyc][wiki-pelczyce].
@@ -142,24 +140,22 @@ widać, że kiedyś było tutaj połączenie kolejowe. Gdyby ono istniało dalej
 bym miał znacznie łatwiejszy dojazd do bardzo ciekawych terenów, które są
 w okolicy.
 
+{% post_image "medium","IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne" %}
+
 Wyjeżdzając z [Pełczyc][wiki-pelczyce] na zachód dojechaliśmy do rozdroża.
 Na prawo przez [Jagów][wiki-jagow], a na lewo [Chrapowo][wiki-chrapowo].
 Wcześniej na mapie ustaliłem, że pojedziemy na prawo, teraz widzę że gdybyśmy
 skręcili w lewo przejechalibyśmy przez [Niepołcko][wiki-niepolcko]. Trasa
 byłaby tam trudniejsza, ale moglibyśmy zobaczyć ciekawsze miejsca.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/162557465/m%3D900/d331b36daa2ca6b941ba0821a213f017' alt='Sheep in Jagów by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/162557465/sheep-in-jag%C3%B3w-by-aleksander-kwiatkowski' alt='Sheep in Jagów by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP2094raw1.jpg","Owce w Jagowie" %}
 
-Zjazd do [Jagowa][wiki-jagowa] był bardzo ładny widokowo. Chciałem się zatrzymać
+Zjazd do [Jagowa][wiki-jagow] był bardzo ładny widokowo. Chciałem się zatrzymać
 aby zrobić zdjęcie, jednak sam zjazd mnie przekonał, abym tego nie robił.
 Tutaj były najciekawsze tereny podczas tego wyjazdu, zdecydowanie tu kiedyś
 powrócę.
+
+{% post_image "medium","IMGP2066raw2.jpg","Idealna droga na rower" %}
 
 Czekał na nas teraz dojazd do [Laskówka][wiki-laskowko]. Sama droga aż do
 [Wołdowa][wiki-woldowo] była bardzo ładna. W okolicy płynie rzeka
@@ -170,6 +166,8 @@ miejsce, z którego idealnie widać całą [Wołdowę][wiki-woldowo]. Zaciekawi�
 mnie przystanek autobusowy na skrzyżowaniu dróg między [Gardźcem][wiki-gardziec],
 [Wołdowem][wiki-woldowo] i [Warszynem][wiki-warszyn]. Do każdej z tych miejscowości
 był on oddalony całkiem sporo - od 1 do 3km.
+
+{% post_image "medium","IMGP2155raw1.jpg","Widok na wieś Wołdowa" %}
 
 Dojechaliśmy do ważniejszej drogi wiedząc, że na dziś już raczej kończymy
 przygodę z pagórkami. Minęliśmy rzekę [Płonie][wiki-rzeka-plonia] i wjeżdzaliśmy
@@ -185,6 +183,9 @@ gdyż mieliśmy jeszcze siły.
 
 w [Dolicach][wiki-dolice] skręciliśmy na zachód i cały czas jechaliśmy tą
 samą drogą.
+
+{% post_image "medium","IMGP2181raw1.jpg","Droga do Witkowa Pierwszego" %}
+
 
 Powoli okolica stawała się bardziej podmiejska. Co się najbardziej rzuciło to
 [Agrofirma] - duża spółdzielnia zajmująca się produkcją żywności w okolicy

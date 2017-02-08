@@ -512,3 +512,33 @@
   time_cost: 30
   lat: 52.21059
   lon: 16.82412
+
+- commune_slug: zmigrod
+  name: Żmigród
+  time_cost: 100
+  lat: 51.47468
+  lon: 16.90193
+
+- commune_slug: zmigrod
+  name: Ostrów Wielkopolski
+  time_cost: 100
+  lat: 51.64948
+  lon: 17.80564
+
+- commune_slug: kepno
+  name: Kępno
+  time_cost: 150
+  lat: 51.29207
+  lon: 18.00151
+
+- commune_slug: ostrzeszow
+  name: Ostrzeszów
+  time_cost: 135
+  lat: 51.42924
+  lon: 17.94087
+
+- commune_slug: jarocin
+  name: Jarocin
+  time_cost: 60
+  lat: 51.96897
+  lon: 17.49455

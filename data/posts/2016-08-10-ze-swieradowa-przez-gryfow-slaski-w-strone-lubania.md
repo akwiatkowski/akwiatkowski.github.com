@@ -6,7 +6,7 @@ date:                   2016-08-10 15:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk, gryfow_slaski, olszyna, lesna, luban, platerowka, siekierczyn]
 
 coords:                 [{"route": [[50.93580,15.35884], [50.94667,15.36571], [50.96353,15.38382], [50.97067,15.38622], [50.98002,15.39884], [50.98985,15.42210], [51.00627,15.42527], [51.01146,15.42210], [51.01178,15.41746], [51.02836,15.41575], [51.03057,15.39935], [51.03548,15.40279], [51.04622,15.39532], [51.03980,15.38476], [51.03980,15.38004], [51.03619,15.37043], [51.03602,15.32022], [51.03667,15.30812], [51.05221,15.30915], [51.06586,15.29121], [51.07611,15.29558], [51.09304,15.29876], [51.09961,15.29464], [51.10694,15.29215], [51.11745,15.28915], [51.11497,15.28322], [51.11023,15.27996], [51.10393,15.26700], [51.09040,15.26185], [51.07977,15.23044], [51.09315,15.22452], [51.09525,15.21967], [51.09773,15.22070], [51.09813,15.21606], [51.10287,15.21572]], "type": "bicycle"}]
@@ -96,6 +96,8 @@ W [Mirsku][wiki-mirsk] skręciliśmy na czerwony szlak rowerowy i niestety jecha
 trochę drogą z większym ruchem samochodowym. Czekał na nas podjazd aż do
 [Proszówki][wiki-proszowka], gdzie musieliśmy podjechać do trochę ponad 400m n.p.m.
 
+{% post_image "medium","IMGP4220raw1.jpg","Rynek w Gryfowie Śląskim" %}
+
 Za podjazdem był zjazd, jak to zawsze bywa.
 Ten zjazd był bardzo przyjemny przez sudeckie wioski. Zjazd jest przyjemny gdy nie
 trzeba hamować a droga jest dobrej jakości. Widoki to dodatkowy plus.
@@ -112,6 +114,8 @@ przez które przejeżdzałem
 [w okolicy Kłodzka (pod koniec dnia)]({% post_url 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe %}).
 Dojazd do niej był drogą szutrowo-polną, raczej dobrej jakości.
 
+{% post_image "medium","IMGP4225raw1.jpg","Kościół w Biedrzychowicach" %}
+
 Kierowaliśmy się do [Biedrzychowic][wiki-biedrzychowice] i następnie dalej na zachód,
 aż do [Bożkowic][wiki-bozkowice], przed którymi był bardzo fajny zjazd. Nie był on
 stromy, ale dawał dość dobry widok na Jezioro Leśniańskie. Do tego po obu stronach
@@ -119,6 +123,8 @@ drogi były pola. Tego dnia chmury miały bardziej nieregularną strukturę, dzi
 czemu niebo na filmiku jest znacznie ciekawsze.
 W samej wsi [Bożkowice][wiki-bozkowice] zauwayliśmy ostrzeżenie przed
 [Barszczem Sosnowskiego][wiki-barszcz-s].
+
+{% post_image "medium","IMGP4231raw1.jpg","Jadąc do Kościelników Średnich" %}
 
 Skręciliśmy na północ kierując się przez [Kościelnik][wiki-koscielnik] do
 [Lubania][wiki-luban]. Ta droga również była szutrowa oraz również widać z niej
@@ -142,11 +148,15 @@ Wjechaliśmy w [Lubański Wielki Las][map-lubanski-las], który zaczął się od
 parku w [Lubaniu][wiki-luban]. Niedługo rozdzieliśmy się, gdyż ja jechałem na pociąg
 a Maciej wracał do [Świeradowa][wiki-swieradow].
 
+{% post_image "medium","IMGP4239raw1.jpg","Magazyn węgla (chyba?) w Zarębie" %}
+
 Zjechałem w stronę [Zaręby][wiki-zareba] jadąc obok terenów kopalni.
 Do stacji są dwie drogi dojazdowe, po chwili zrozumiałem czemu. Jedna jest
 położona w tunelu pod torami kolejowymi i była tam ogromna kałuża.
 Gdyby nie było drugiej drogi miałbym solidny problem. Jeżeli jednak w jakimś
 miejscu żyją ludzie to sami muszą się poruszać i sami by jakąś drogę wydeptali.
+
+{% post_image "medium","IMGP4240raw1.jpg","Zalany tunel przy stacji w Zarębie" %}
 
 Postanowiłęm że dalej nie jadę. Trochę lenistwo, trochę niepewność czy dojechałbym
 bez problemów,

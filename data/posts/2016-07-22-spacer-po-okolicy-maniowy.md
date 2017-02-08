@@ -6,7 +6,7 @@ date:                   2016-07-22 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501"
 categories:             trip
-tags:                   [main, hike, todo_media]
+tags:                   [main, hike]
 towns:                  [malopolskie, czorsztyn]
 lands:                  [gorce, podhale]
 
@@ -47,10 +47,26 @@ Szczegóły
 To wcale nie była żadna istotna trasa, tylko zwiedzanie okolicy [Maniów][wiki-maniowy]
 (nie wiem czy dobrze odmieniam nazwę tej miejscowości - Maniowy).
 
+{% post_image "medium","IMGP3508raw1.jpg","Droga do Czorsztyna" %}
+
 Z jednej strony te tereny mógłbym podsumować jako idealne tereny na rower, ale
 tego dnia akurat rowerów nie używaliśmy. Jest tam i spokojna wioska, bardzo wijące
 się drogi, pola, widok na [Jezioro Czorsztyńskie][wiki-jezioro-czorsztynskie] oraz...
-widok na [Tatry][wiki-tatry]. Będąc w większości miejsc w tej okolicy
+widok na [Tatry][wiki-tatry].
+
+{% post_image "medium","IMGP3530raw1.jpg","Jezioro Czorsztyńskie" %}
+
+Będąc w większości miejsc w tej okolicy
 ma się idealny widok na góry.
 Jest to nawet lepsze niż w [Gorcach][wiki-gorce], gdzie jest kilka punktów widokowych,
 bo tutaj wszystko jest jednym wielkim punktem widokowym.
+
+{% post_image "medium","IMGP3557raw1.jpg","Widok z Maniowy na Tatry" %}
+
+[Maniowy][wiki-maniowy] jest wioską położoną bardzo ciekawie wokół pagórków.
+
+{% post_image "medium","IMGP3571raw1.jpg","Widok z Maniowy na Pieniny (wschód)" %}
+
+Słońce powoli zmieniało swoją barwę pozostawiając bardziej wyraźne cienie.
+
+{% post_image "medium","IMGP3575raw1.jpg","Uliczka we wsi Maniowy" %}

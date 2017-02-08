@@ -80,12 +80,15 @@ class @TodoRoute
     if filter_route_transport_cost.length > 1
       $(".todo_route").each (index, todo_route) =>
         c = 0
-        if $(todo_route).data("route-from-cost").length > 1
-          c += parseFloat($(todo_route).data("route-from-cost"))
-        if $(todo_route).data("route-to-cost").length > 1
-          c += parseFloat($(todo_route).data("route-to-cost"))
+
+        if $(todo_route).data("route-from-cost-minutes")
+          c += parseFloat($(todo_route).data("route-from-cost-minutes"))
+
+        if $(todo_route).data("route-to-cost-minutes")
+          c += parseFloat($(todo_route).data("route-to-cost-minutes"))
 
         console.log(c)
+
         if c > parseFloat(filter_route_transport_cost)
           $(todo_route).hide()
 

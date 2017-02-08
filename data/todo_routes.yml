@@ -844,3 +844,97 @@
   distance: 32
   time_length: 2.5
   url: http://umapa.pl/XVsht
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Żmigród
+  to: Solec Wielkopolski
+  through:
+    - Stwolno
+    - Miejska Górka
+    - Krobia
+    - Gostyń
+    - Dolsk
+    - Książ Wielkopolski
+  info: Za Krobią robi się bardziej pagórkowato i tam jest połączenie kolejowe. Pagórki kończą się w Książu. Sporo alternatyw - tras terenowych zamiast szosy. Można skończyć w Chociczy.
+  priorities:
+    - normal
+  distance: 98
+  time_length: 6
+  url: http://umapa.pl/c3t9B
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Żmigród
+  to: Ostrów Wielkopolski
+  through:
+    - Ruda Żmigrodzka
+    - Milicz
+    - Nowy Zamek
+    - Sulmierzyce
+    - Gliśnica
+  info: Można skrócić do Odolanowa (70km), albo za Miliczem bardziej na południe do Sośnie (65km)
+  priorities:
+    - normal
+  distance: 81
+  time_length: 4.5
+  url: http://umapa.pl/jEyaY
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Żmigród
+  to: Kępno
+  through:
+    - Przeborów
+    - Czeszów
+    - Bukowice
+    - Twardogóra
+    - Drołtowice
+    - Święty Marek
+    - Syców
+    - Bralin
+  info: W Bukowicach Trzebnickich jest stacja kolei, ale pociąg jest sezonowy. W Twardogórze Sycowskiej jest pociąg Wrocław-Ostrów Wlkp. Kępno ma ciekawą stację kolejową.
+  priorities:
+    - normal
+  distance: 90
+  time_length: 5.24
+  url: http://umapa.pl/YUZ8w
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Ostrzeszów
+  to: Jarocin
+  through:
+    - Komorów
+    - Rososzyce
+    - Nowe Skalmierzyce
+    - Gałązki Wielkie
+    - Gołuchów
+    - Pleszew
+    - Kurcew
+    - Wola Książęca
+  info: Trasa głównie przez wioski, blisko linia kolejowa.
+  priorities:
+    - normal
+  distance: 93
+  time_length: 5.125
+  url: http://umapa.pl/J1pdE
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Jarocin
+  to: Leszno
+  through:
+    - Nosków
+    - Borek Wielkopolski
+    - Lafajetowo
+    - Gostyń
+    - Żelazno
+    - Krzywin
+    - Osieczna
+  info: Można skrócić do Lipna Nowego (80km). Trasa przez wioski. Za Gostyniem więcej pagórków i ciekawsze tereny powinny być.
+  priorities:
+    - normal
+  distance: 85
+  time_length: 5
+  url: http://umapa.pl/NgBSY
