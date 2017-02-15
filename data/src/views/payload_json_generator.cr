@@ -109,7 +109,7 @@ class PayloadJsonGenerator
         end
 
         # land_types
-        json.field "lands" do
+        json.field "land_types" do
           json.array do
             @blog.data_manager.not_nil!.land_types.not_nil!.each do |land_type|
               json.object do
