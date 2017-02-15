@@ -938,3 +938,252 @@
   distance: 85
   time_length: 5
   url: http://umapa.pl/NgBSY
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Trzcianka
+  to: Szczecinek
+  through:
+    - Róża Mała
+    - Wałcz
+    - Szwecja
+    - Sypniewo
+    - Krągi
+  info: Niepewna trasa, może być trochę ruchliwych dróg. Z drugiej strony fragment będzie przez dość dzikie tereny.
+  priorities:
+    - low
+  distance: 92
+  time_length: 6
+  url: http://umapa.pl/wKJtr
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Zielona Góra
+  to: Skwierzyna
+  through:
+    - Wysokie
+    - Pałck
+    - Skąpe
+    - Wilkowo Świebodzińskie
+    - Lubrza
+    - Boryszyn
+    - Pieski
+    - Goruńsko
+    - Bledzew
+  info: Trasa raczej przez tereny zielone i wioski. Mała szansa na ruchliwe drogi.
+  priorities:
+    - normal
+  distance: 86
+  time_length: 5.5
+  url: http://umapa.pl/C21Sa
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Skwierzyna
+  to: Zbąszyń
+  through:
+    - Chełmsko
+    - Rokitno
+    - Lubikowo
+    - Kuligowo
+    - Policko
+    - Rańsko
+    - Bukowiec Międzyrzecki
+    - Lutol Suchy
+    - Chociszewo Rogoziniec
+    - Dąbrówka Wielkopolska
+  info: Jest tam bardzo dużo terenowych i lekkich szlaków rowerowych
+  priorities:
+    - normal
+  distance: 65
+  time_length: 4
+  url: http://umapa.pl/dt3A4
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Skwierzyna
+  to: Kostrzyn nad Odrą
+  through:
+    - Zemsko
+    - Bledzew
+    - Lubniewice
+    - Sulęcin
+    - Lubień
+    - Ośno Lubuskie
+    - Stańsk
+  info: Obok Kostrzyna trasa niepewna. Można w Lubieniu skrócić i dojechać do Boczowa (61km), Rzepina (69km). Trasa głównie przez spokojne, leśne tereny.
+  priorities:
+    - normal
+  distance: 105
+  time_length: 5.5
+  url: http://umapa.pl/mSv0s
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Rzepin
+  to: Bytnica
+  through:
+    - Radzików
+    - Cybinka
+    - Kłopot
+    - Rybaki
+    - Maszewo
+    - Czetowice
+  info: Trasa przy zachodniej granicy Polski. Bardzo dużo lasów i małych wiosek.
+  priorities:
+    - normal
+  distance: 72
+  time_length: 4.5
+  url: http://umapa.pl/yZhhI
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Santok
+  to: Rębusz
+  through:
+    - Górki
+    - Rybakowo
+    - Danki
+    - Samik
+    - Pełczyce
+    - Przekolno
+    - Granowo
+    - Krzęcin
+    - Chłopowo
+  info: "Trasa może być mocno terenowa, drogi są niepewne, ale można sporo skracać: koniec w Słonicach (68km). Za Różankami przejazd przez Łośno (62km)"
+  priorities:
+    - normal
+  distance: 76
+  time_length: 5
+  url: http://umapa.pl/NfEYm
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Słonice
+  to: Chojna
+  through:
+    - Granowo
+    - Przekolno
+    - Chrapowo
+    - Barlinek
+    - Dzikowo
+    - Mostkowo
+    - Lipiany
+    - Derczewo
+    - Sitno
+    - Tetyń
+    - Piaseczno
+    - Swobodnica
+    - Grzybno
+  info: Spokojna trasa w stronę zachodniej granicy. Większość trasy przez wioski, lasów mało. Raczej trudno skrócić.
+  priorities:
+    - normal
+  distance: 93
+  time_length: 6
+  url: http://umapa.pl/mlv5E
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Stargard
+  to: Gryfice
+  through:
+    - Klępino
+    - Łęczyca
+    - Maszewo
+    - Krasnołęka
+    - Nowogard
+    - Miętno
+    - Truskolas
+    - Jabłonowo
+  info: Dwa większe miasta a reszta to trasa przez wioski. Raczej standardowa.
+  priorities:
+    - normal
+  distance: 73
+  time_length: 4.5
+  url: http://umapa.pl/8txhr
+
+- voivodeship: Wielkopolskie
+  type: bicycle
+  from: Szamotuły
+  to: Grodzisk Wielkopolski
+  through:
+    - Myszkowo
+    - Kaźmierz
+    - Młodarsko
+    - Grzebienisko
+    - Wilkowo
+    - Buk
+    - Szewce
+    - Woźniki
+  info: Wioski, ale większe. Zachodnia część Poznania jest bardziej ucywilizowana.
+  priorities:
+    - normal
+  distance: 55
+  time_length: 3.5
+  url: http://umapa.pl/RS8RR
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Gniezno
+  to: Nakło nad Notecią
+  through:
+    - Obórka
+    - Mączniki
+    - Ośno
+    - Janowiec Wielkopolski
+    - Damasławek
+    - Wapno
+    - Panigródź
+    - Gołańcz
+    - Dobieszewko
+    - Chwaliszewo
+    - Gromadno
+    - Weronika
+    - Paterek
+  info: Głównie wioski, można skrócić w Gołańczy
+  priorities:
+    - high
+  distance: 88
+  time_length: 5.5
+  url: http://umapa.pl/rJM5n
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Wydartowo
+  to: Jankowo Dolne
+  through:
+    - Łosośniki
+    - Kątno
+    - Ostrówek
+    - Rękawczyn
+    - Ostrowite
+    - Gaj
+    - Lubochnia
+    - Wierzbiczany
+  info: Prawie pętelka po okolicy początku Noteci na Kujawach
+  priorities:
+    - high
+  distance: 45
+  time_length: 3.5
+  train_return_time_cost: 12
+  url: http://umapa.pl/XUZuh
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Wydartowo
+  to: Konin
+  through:
+    - Gębice
+    - Przyjezierze
+    - Skulsk
+    - Koszewo
+    - Nockie Holendry
+    - Leśnictwo
+    - Licheń Stary
+    - Izabelin
+  info: Można za Skulskiem rozszerzyć w stronę Koła (82km) lub Barłogi (90km)
+  priorities:
+    - normal
+  distance: 77
+  time_length: 5.0
+  url: http://umapa.pl/lSdzu

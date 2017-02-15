@@ -542,3 +542,105 @@
   time_cost: 60
   lat: 51.96897
   lon: 17.49455
+
+- commune_slug: trzcianka
+  name: Trzcianka
+  time_cost: 110
+  lat: 53.03346
+  lon: 16.46595
+
+- commune_slug: swiebodzin
+  name: Wilkowo Świebodzińskie
+  time_cost: 110
+  lat: 52.25659
+  lon: 15.46740
+
+- commune_slug: zielona_gora
+  name: Zielona Góra
+  time_cost: 90
+  lat: 51.94716
+  lon: 15.51401
+
+- commune_slug: zbaszynek
+  name: Dąbrówka Wielkopolska
+  time_cost: 90
+  lat: 52.27770
+  lon: 15.80051
+
+- commune_slug: trzciel
+  name: Chociszewo Rogoziniec
+  time_cost: 95
+  lat: 52.30689
+  lon: 15.77030
+
+- commune_slug: miedzyrzecz
+  name: Bukowiec Międzyrzecki
+  time_cost: 105
+  lat: 52.38512
+  lon: 15.70669
+
+- commune_slug: bytnica
+  name: Bytnica
+  time_cost: 160
+  lat: 52.13268
+  lon: 15.14459
+
+- commune_slug: chojna
+  name: Chojna
+  time_cost: 240
+  lat: 52.96326
+  lon: 14.44421
+
+- commune_slug: gryfice
+  name: Gryfice
+  time_cost: 250
+  lat: 52.96326
+  lon: 14.44421
+
+- commune_slug: nowogard
+  name: Nowogard
+  time_cost: 210
+  lat: 53.66624
+  lon: 15.12122
+
+- commune_slug: szamotuly
+  name: Szamotuły
+  time_cost: 30
+  lat: 52.60356
+  lon: 16.58549
+
+- commune_slug: buk
+  name: Buk
+  time_cost: 25
+  lat: 52.34492
+  lon: 16.52537
+
+- commune_slug: grodzisk_wielkopolski
+  name: Grodzisk Wielkopolski
+  time_cost: 55
+  lat: 52.22989
+  lon: 16.36426
+
+- commune_slug: gniezno
+  name: Gniezno
+  time_cost: 40
+  lat: 52.53000
+  lon: 17.60357
+
+- commune_slug: trzemeszno
+  name: Wydartowo
+  time_cost: 80
+  lat: 52.61085
+  lon: 17.90381
+
+- commune_slug: gniezno
+  name: Jankowo Dolne
+  time_cost: 65
+  lat: 52.53908
+  lon: 17.71910
+
+- commune_slug: konin
+  name: Konin
+  time_cost: 90
+  lat: 52.23178
+  lon: 18.25074

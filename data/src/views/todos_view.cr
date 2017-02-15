@@ -11,6 +11,7 @@ class TodosView < PageView
 
   def inner_html
     todo_routes_string = ""
+    todo_routes_string += load_html("todo_route/links")
     todo_routes_string += load_html("todo_route/filters")
 
     @todos.each do |todo_route|
