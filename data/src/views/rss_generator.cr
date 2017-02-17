@@ -9,7 +9,8 @@ class RssGenerator
                  @site_desc : String,
                  @url : String = "/feed.xml",
                  @site_language : (String | Nil) = nil,
-                 @site_webmaster : (String | Nil) = nil)
+                 @site_webmaster : (String | Nil) = nil,
+                 @updated_at : (Time) = Time.now)
   end
 
   getter :url
@@ -37,7 +38,7 @@ class RssGenerator
     s = "<title>#{@site_title}</title>
     <link>#{@site_url}</link>
     <description>#{@site_desc}</description>
-    <lastBuildDate>#{Time.now.to_s}</lastBuildDate>
+    <lastBuildDate>#{@updated_at.to_s}</lastBuildDate>
     "
     s += rss_header_language
     s += rss_header_webmaster

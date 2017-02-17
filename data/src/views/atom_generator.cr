@@ -11,7 +11,8 @@ class AtomGenerator
                  @site_guid : (String | Nil) = nil,
                  @site_language : (String | Nil) = nil,
                  @site_webmaster : (String | Nil) = nil,
-                 @author_name : (String | Nil) = nil)
+                 @author_name : (String | Nil) = nil,
+                 @updated_at : (Time) = Time.now)
   end
 
   getter :url
@@ -32,7 +33,7 @@ class AtomGenerator
   def atom_header
     s = "<title>#{@site_title}</title>
     <link href=\"#{@site_url}\" />
-    <updated>#{Time.now.to_s}</updated>
+    <updated>#{@updated_at.to_s}</updated>
     <description>#{@site_desc}</description>
     "
     s += "<id>urn:uuid:#{@site_guid}</id>" unless @site_guid.nil?
