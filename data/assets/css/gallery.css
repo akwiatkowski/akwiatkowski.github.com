@@ -1,0 +1,15 @@
+.gallery-post {
+  display: inline-block;
+  /*border: 1px red dotted;*/
+}
+
+.gallery-post .gallery-image {
+  padding: 4px;
+  padding-bottom: 8px;
+  display: inline-block;
+  /*border: 1px red blue;*/
+}
+
+.gallery-post img {
+  display: inline;
+}

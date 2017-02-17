@@ -13,6 +13,7 @@ class Tremolite::Post
     @coords = Array(TremolitePostRouteObject).new
 
     @small_image_url = "/images/processed/#{slug}_small_header.jpg"
+    @big_thumb_image_url = "/images/processed/#{slug}_big_thumb_header.jpg"
     @thumb_image_url = "/images/processed/#{slug}_thumb_header.jpg"
 
     # obsolote
@@ -27,7 +28,7 @@ class Tremolite::Post
   end
 
   getter :coords
-  getter :small_image_url, :thumb_image_url
+  getter :small_image_url, :thumb_image_url, :big_thumb_image_url
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent

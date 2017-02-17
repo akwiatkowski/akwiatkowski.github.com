@@ -3,6 +3,7 @@ class Tremolite::ImageResizer
     "medium" => {width: 780, height: 520, quality: 88},
     "small" => {width: 600, height: 400, quality: 65},
     "thumb" => {width: 60, height: 40, quality: 70},
+    "big_thumb" => {width: 120, height: 80, quality: 70},
   }
   @@quality = 70
 end
