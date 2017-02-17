@@ -6,7 +6,7 @@ date:                   2016-07-23 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b"
 categories:             trip
-tags:                   [main, hike, bicycle, todo_media]
+tags:                   [main, hike, bicycle]
 towns:                  [malopolskie, czorsztyn, lapsze_nizne]
 lands:                  [gorce, podhale, pieniny]
 
@@ -48,6 +48,8 @@ Opis trasy
 Szczegóły
 ---------
 
+{% post_image "medium","IMGP3581raw1.jpg","Poranny widok na Tatry" %}
+
 Na początku musieliśmy dojść ponad 5 km do [Kluszkowców][wiki-kluszkowce],
 gdzie dowiedziliśmy się, że jednak mają tańsze rowery (MTB XC - cross country)
 dostępne. Naszym celem było pojeździć wokół jeziora, a nie ostro w terenie.
@@ -56,9 +58,14 @@ ale był duży.
 
 Dostaliśmy rowery, tylko mój miał krótką sztycę, ale lepsze to niż nic.
 
+{% post_image "medium","IMGP3592raw1.jpg","Widok na Tatry z Kluszkowców" %}
+
 Zjechaliśmy przez centrum [Kluszkowców][wiki-kluszkowce] i ruszyliśmy w stronę
 [Czorsztyna][wiki-czorsztyn]. Czekał na nas podjazd, był on średni, ale
 tego dnia było bardzo ciepło, więc nie szaleliśmy.
+
+{% post_image "medium","IMGP3593raw1.jpg","Widok na pienińskie/gorczańskie wioski - Kluszkowce i Maniowy" %}
+
 
 Myślałem że [Czorsztyn][wiki-czorsztyn] będzie większą miejscowością, a tu
 takie 2-3 ulice, trochę domów i chyba koniec. Jedynie coś się dzieje w okolicy portu.
@@ -68,6 +75,8 @@ Teraz
 musieliśmy przepłynąć jezioro i kontynuować trasę. To była zmiana początkowego
 planu.
 
+{% post_image "medium","IMGP3598raw1.jpg","Zamek Czorsztyn" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/165257317/m%3D900/56bcb9b01a3bc8978b9c127fc283252b' alt='Czorsztyn Castle by Aleksander Kwiatkowski on 500px.com'>
@@ -75,15 +84,22 @@ planu.
   <a href='https://500px.com/photo/165257317/czorsztyn-castle-by-aleksander-kwiatkowski' alt='Czorsztyn Castle by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
 Rejs był bardzo spokojny a widoki... nastawiłem się na lepsze, szczerze mówiąc.
 Widzieliśmy jednocześnie oba zamki: w [Czorsztynie][wiki-czorsztyn-zamek]
 oraz w [Niedzicy][wiki-niedzica-zamek].
 
+{% post_image "medium","IMGP3600raw1.jpg","Jezioro Czorsztyn" %}
+
+
 Po dotarciu na brzeg w [Niedzicy][wiki-niedzica] ruszyliśmy dalej. Zjechaliśmy
 do [Sromowców Wyżnych][wiki-sromowce-wyzne] mijając jezioro po lewej. W tym
 momencie byliśmy mniej niż kilometr od granicy oraz czekał na nas podjazd.
 Niestety bezpieczniejszy i przyjemniejszy byłby podjazd jakbyśmy jechali odwrotnie.
+
+{% post_image "medium","IMGP3607raw1.jpg","Jezioro Sromowce" %}
+
 
 Trochę prowadziliśmy rower aby nie przemęczać się. Mieliśmy mało wody, a ja nie
 miałem bukłaku. Dość mocno tego żałowałem, nawet podczas chodzenia możliwość
@@ -95,11 +111,14 @@ Przejechaliśmy przez [Pieniński Park Narodowy][wiki-pieniny-park] i czekał na
 lekki zjazd do [Czorsztyna][wiki-czorsztyn] gdzie zrobiliśmy dłuższą przerwę na
 obiad.
 
+{% post_image "medium","IMGP3618raw1.jpg","Pienińsko-gorczańskie wioski" %}
+
 Wracaliśmy do [Maniowy][wiki-maniowy] i czekał na nas zjazd. Jadąc ostrożnie na
 nie swoim rowerze udało mi się osiągnąć prędkość 61.8km/h, co mnie bardzo
 pozytywnie zaskoczyło. Na swoim możliwe że prędkość byłaby znacznie większa.
 Miałem kask, ale nie miałem okularów, ani kamerki.
 
+{% post_image "medium","IMGP3619raw1.jpg","Domek przy jeziorze" %}
 
 
 Na chwilę pojechaliśmy na [Podbrzezie][wiki-podbrzezie] na punkt widokowy.
@@ -109,5 +128,7 @@ zrobiliśmy sobie chwilowy odpoczynek.
 Z ciekawości do [Maniowy][wiki-maniowy] wróciliśmy autobusem, dzięki czemu
 dowiedzieliśmy się że mamy autobus do [Nowego Targu][wiki-nowy-targ] tuż
 obok noclegu.
+
+{% post_image "medium","IMGP3629raw1.jpg","Ostatni rzut oka na Czorsztyn" %}
 
 Następnego dnia spakowaliśmy się i wracaliśmy do domów.

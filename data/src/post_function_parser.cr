@@ -23,9 +23,17 @@ class Tremolite::Views::BaseView
     data = {
       "img.src" => url,
       "img.alt" => alt,
-      "img.size" => (File.size(File.join(["data", url])) / 1024).to_s + " kB",
+      "img.size" => (image_size(url) / 1024).to_s + " kB",
       "img_full.src" => "/images/#{post.slug}/#{image}"
     }
-    return load_html("post/post_image_partia", data)
+    return load_html("post/post_image_partial", data)
+  end
+
+  def public_path
+    @blog.public_path.as(String)
+  end
+
+  def image_size(url)
+    File.size(File.join([public_path, url]))
   end
 end

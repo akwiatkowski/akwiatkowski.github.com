@@ -6,7 +6,7 @@ date:                   2016-05-22 15:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, jarocin, zerkow, pyzdry, zagorow, ladek, slupca]
 
 coords:                 [{"route": [[51.96899,17.49534], [51.97608,17.51191], [52.00821,17.54358], [52.01059,17.54461], [52.02612,17.58015], [52.03272,17.58761], [52.04486,17.58924], [52.04671,17.57208], [52.05125,17.57414], [52.06096,17.56701], [52.07188,17.57783], [52.08344,17.59774], [52.08249,17.60564], [52.09857,17.6319], [52.10543,17.62529], [52.11064,17.63139], [52.11433,17.64332], [52.11903,17.64297], [52.12071,17.63851], [52.12040,17.67241], [52.13599,17.68589], [52.13726,17.68872], [52.15437,17.70400], [52.15685,17.71979], [52.15353,17.75344], [52.16316,17.78528], [52.16159,17.80553], [52.17769,17.81841], [52.16843,17.86193], [52.16827,17.89669], [52.18585,17.90167], [52.20032,17.88690], [52.20753,17.88828], [52.20700,17.89334], [52.27102,17.88716], [52.28898,17.86132], [52.28730,17.85205]], "type": "bicycle"}]
@@ -61,8 +61,12 @@ Przed 10-tą dojechaliśmy pociągiem do [Jarocina][wiki-jarocin], gdzie czekał
 pierwszy "duży wysiłek" - wniesienie i zniesienie rowerów po schodach. Taki urok tego
 miasta - izoluje się ono od stacji kolejowej. A może to dworzec się izoluje?
 
+{% post_image "medium","IMGP0437raw1.jpg","Przed podjazdem do Żerkowa" %}
+
 Przejechaliśmy przez miasto. W niedzielę rano na szczęście ruch samochodowy jest
 minimalny, dlatego jechaliśmy głównymi drogami.
+
+{% post_image "medium","IMGP0441raw1.jpg","Wiosna w pełni" %}
 
 Dojechaliśmy do [Wilkowyi][wiki-wilkowyja], a dalej jakąś boczną drogą do
 [Żerkowa][wiki-zerkow]. Cały czas jechaliśmy wokół spokojnym wiosek, jednak
@@ -76,14 +80,21 @@ Nie wiedziałem w tym momencie, że czeka na mnie najciekawszy fragment dzisiejs
 trasy. Wyjeżdzając z wioski rozpoczął się solidny zjazd (jak na te tereny) - około
 38 metrów w dół przez pół kilometra.
 
+{% post_image "medium","IMGP0453raw1.jpg","Wiosna w pełni" %}
+
+
 Wokół mijaliśmy pola kwitnącego rzepaku oraz przydrożne drzewa.
 
 W [Przybysławie][wiki-przybyslaw] widzieliśmy dużo budynków gospodarczych.
 Wyglądały one raczej na PGR niż budynki przemysłowe, ale pewne jest, że
 najlepszy czas mają za sobą.
 
+{% post_image "medium","IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej" %}
+
 Przejechaliśmy mostem w stronę [Rudy Komorskiej][wiki-ruda-komorska] - kolejna
 wioska w podobnym klimacie.
+
+{% post_image "medium","IMGP0458raw1.jpg","Ruiny jakiegoś budynku w miejscowości Wrąbczynkowskie Holendry" %}
 
 W okolicy [Pyzdr][wiki-pyzdry] nie jechaliśmy trasą nad [Wartą][wiki-warta], gdyż
 obawialiśmy się piasków. Jazda w takim żarze po plaży to ogromne wyzwanie. Z Tego
@@ -96,6 +107,9 @@ W miejscowości [Zagórów][wiki-zagorow] skręciliśy na północ i już bezpo�
 kierowaliśmy się do [Słupcy][wiki-slupca]. Sporo zieleni oraz trochę wody
 mijaliśmy po drodzę. Istnienie różnych wód w okolicy jest chyba związane z bliskością
 rzeki [Warty][wiki-warta].
+
+{% post_image "medium","IMGP0465raw1.jpg","Kolonia Ląd" %}
+
 
 Stacja kolejowa w [Słupcy][wiki-slupca] jest położona na uboczu. Cieszyłem się,
 że jest to koniec trasy. Dzisiejszy dzień był zbyt ciepły aby móc zrobić coś

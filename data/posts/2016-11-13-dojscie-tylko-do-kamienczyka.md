@@ -6,7 +6,7 @@ date:                   2016-11-13 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/183241207/q%3D80_m%3D2000/736bf2de38bd0ddec97f0958722c4947"
 categories:             trip
-tags:                   [main, hike, photo, todo_media]
+tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze]
 
@@ -63,6 +63,7 @@ otwartego ognia i nie wiadomo, co się paliło.
 Na wysokości [Wałbrzycha][wiki-walbrzych] pobliskie górki
 bardzo ładnie przechodziły gradientem ośnieżenia.
 
+{% post_image "medium","IMGP8986raw1.jpg","Wodospad Kamieńczyk" %}
 
 
 Po dotarciu do stacji [Szklarska Poręba Górna][wiki-szklarska-gorna]
@@ -75,6 +76,7 @@ blokując wejście.
 Dzisiaj była niedziela i trochę ludzi poruszało się po mieście. Większość to
 były zwykłe osoby, którzy przyjechali odpocząć i pojeść, a nie się zmęczyć.
 
+{% post_image "medium","IMGP8993raw1.jpg","Wodospad Kamieńczyk" %}
 
 
 Zostawiłem moje rzeczy w bazie i ruszyłem aby zobaczyć trasę dojściową
@@ -88,6 +90,9 @@ podczas tego wyjazdu.
 Skoro wyciągów nie ma to pomyślałem, że przejdę się do [Kamieńczyka][wiki-kamienczyk]
 i może trochę dalej - aby mieć rozpoznanie trasy przed dniem
 [jutrzejszym]({% post_url 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy %}).
+
+{% post_image "medium","IMGP9011raw1.jpg","Rzeka Kamieńczyk" %}
+
 
 Gdy
 [robiliśmy fragment Głownego Szlaku Sudeckiego]({% post_url 2013-02-09-okolice-szrenicy-i-labskiego-szczytu %})
@@ -108,20 +113,14 @@ to szlak głównie kamienisty. Połowa trasy jest lekkim podejściem, a druga po
 jest wyraźnie bardziej stroma. Raczki się przydały i wiele
 ludzi zauważało, że dzięki nim poruszam się sprawniej.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/183427777/m%3D900/ea3e06ae19019ab8c348d6a78270b809' alt='Kamieńczyk waterfall by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/183427777/kamie%C5%84czyk-waterfall-by-aleksander-kwiatkowski' alt='Kamieńczyk waterfall by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 Wiedziałem już, że tego dnia wejścia na [Szrenicę][wiki-szrenica] odpada.
 Skorzystałem z możliwości i odwiedziłem [wodospad Kamieńczyk][wiki-kamienczyk-wodospad].
 Próbowałem na dole zrobić zdjęcia z długim naświetlaniem, tylko
 jakoś specjalnie nie jestem z nich zadowolony. Częściowo wodospad jest
 zamarznięty, a najlepsze rezultaty są, gdy można zarejestrować ruch
 jakiś cząsteczek na wodzie (np. liści). Muszę tutaj więcej eksperymentować.
+
+{% post_image "medium","IMGP9022raw1.jpg","Szklarska Poręba wieczorem" %}
 
 Wskoczyłem na chwilę do schroniska aby coś zjeść. Później porozmawiałem z
 ludźmi schodzącymi z góry o tym jak wygląda szlak na [Szrenicę][wiki-szrenica].
