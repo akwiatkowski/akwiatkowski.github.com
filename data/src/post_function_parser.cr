@@ -20,6 +20,7 @@ class Tremolite::Views::BaseView
 
   def post_image(post : Tremolite::Post, size : String, image : String, alt : String)
     url = "/images/processed/#{post.slug}_#{size}_#{image}"
+    add_post_photo(post: post, image: image, desc: alt)
     data = {
       "img.src" => url,
       "img.alt" => alt,
@@ -27,6 +28,14 @@ class Tremolite::Views::BaseView
       "img_full.src" => "/images/#{post.slug}/#{image}"
     }
     return load_html("post/post_image_partial", data)
+  end
+
+  private def add_post_photo(post : Tremolite::Post, image : String, desc : String)
+    @blog.data_manager.not_nil!.add_post_image_entity(
+      post: post,
+      desc: desc,
+      image: image
+    )
   end
 
   def public_path
