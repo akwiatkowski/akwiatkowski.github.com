@@ -1,6 +1,10 @@
 <div class="gallery-image {{ klass }}">
-  <a href="{{ url }}" target="_blank">
-    <img src="{{ img.src }}" alt="{{ img.alt }}" />
+  <img src="{{ img.src }}" alt="{{ img.alt }}" />
+
+  <a href="{{ img.url }}" target="_blank" class="gallery-zoom">
+    <img src="/img/gallery-zoom.png" alt="{{ post.title }}" />
   </a>
-  <!-- {{ post.url }} -->
+  <a href="{{ post.url }}" target="_blank" class="gallery-book">
+    <img src="/img/gallery-book.png" alt="{{ post.title }}" />
+  </a>
 </div>

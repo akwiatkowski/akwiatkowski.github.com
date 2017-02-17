@@ -8,8 +8,22 @@
   padding-bottom: 8px;
   display: inline-block;
   /*border: 1px red blue;*/
+
+  position: relative;
 }
 
 .gallery-post img {
   display: inline;
+}
+
+.gallery-post .gallery-zoom {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.gallery-post .gallery-book {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
 }

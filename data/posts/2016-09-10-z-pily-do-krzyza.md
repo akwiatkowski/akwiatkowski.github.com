@@ -6,7 +6,7 @@ date:                   2016-09-10 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/172235283/q%3D80_m%3D2000/122dd7657020136b9660dc61256b9bc4"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, pila, szydlowo, trzcianka, czarnkow, wielen, krzyz_wielkopolski]
 
 coords:                 [{"route": [[53.14327,16.74392], [53.14965,16.72058], [53.13524,16.70230], [53.12602,16.63560], [53.11057,16.63003], [53.12453,16.56067], [53.11479,16.55115], [53.11613,16.53896], [53.09902,16.53518], [53.09325,16.49330], [53.07443,16.47871], [53.05974,16.48034], [53.05386,16.46858], [53.04034,16.46188], [53.04039,16.45141], [53.01824,16.40747], [53.00983,16.39751], [52.98803,16.39236], [52.96994,16.41974], [52.95490,16.41519], [52.92950,16.44815], [52.91910,16.45639], [52.90683,16.39725], [52.90114,16.37013], [52.89922,16.31975], [52.90373,16.24816], [52.91077,16.19890], [52.90549,16.17967], [52.90191,16.10457], [52.91361,16.05728], [52.89617,16.03805], [52.87965,16.01410], [52.87732,16.01865]], "type": "bicycle"}]
@@ -70,6 +70,8 @@ na dworzec. Rozumiem że miałbym przypiąć i pójść kupić bilet? Nie ma tak
 Następnym razem albo ponownie udam głupiego i wejdę z rowerem, albo kupię w pociągu
 dopłacając. Tym małym akcentem [Piła][wiki-pila] dostała minusa w moich oczach.
 
+{% post_image "medium","IMGP5908raw1.jpg","Pomalowany przystanek autobusowy w Kotuniu" %}
+
 Wyruszyłem jadąc na zachód w kierunku do [Krzyża][wiki-krzyz]. Początkowo jechałem
 spokojną drogą przez las przejeżdzając przez dwie pary torów kolejowych.
 Tymi torami jedzie sie albo w kierunku [Kołobrzegu][wiki-kolobrzeg] albo do
@@ -84,11 +86,20 @@ Wioska jak to wioska, raczej ta była spokojna chociaż jednocześnie rozległa.
 Trochę taka
 sypialnia [Piły][wiki-pila] gdyż widziałem tam sporo nowych domów.
 
+{% post_image "medium","IMGP5910raw1.jpg","Trasa przez większość czasu to jazda przez las" %}
+
+
 Jechałem dalej w stronę [Łomnicy][wiki-lomnica]. Znowu miałem obok siebie lasy.
 
 Obok skrzyżowania do [Stobna][wiki-stobno] gdzie sąsiaduje linia kolejowa,
 minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
 
+
+Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
+w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
+
+{% post_image "medium","IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/172234947/m%3D900/3d67378a682417b6b7f9485e0c5bc0a7' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'>
@@ -96,11 +107,7 @@ minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
   <a href='https://500px.com/photo/172234947/leaving-%C5%81omnica-river-valley-by-aleksander-kwiatkowski' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-
-
-Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
-w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
+-->
 
 W [Łomnicy][wiki-lomnica] skręciłem na zachód. Oczywiście cały czas jechałem
 tym samym szlakiem - [R1][wiki-r1]. Podobały mi się domy po obu stronach drogi,
@@ -122,6 +129,8 @@ od siebie, albo Słońce
 zaczęło mnie już męczyć i przestałem zapamiętywać szczegóły a zacząłem
 myśleć już o
 końcu dzisiejszej trasy.
+
+{% post_image "medium","IMGP5938raw1.jpg","Po prawej teren był wyraźnie wyżej" %}
 
 Taką ogólną ciekawostką były lekkie zbocza,
 które mijałem z prawej strony. Towarzyszyłu one aż do [Wielenia][wiki-wielen].

@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Przywitanie z Karkonoszami"
-subtitle:               "pożegnanie z dobrą pogodą"
+subtitle:               "stopniowe pożegnanie z dobrą pogodą"
 desc:                   ""
 keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-09 18:00:00
@@ -11,7 +11,7 @@ tags:                   [photo, workshop, todo]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               5
-time_spent:             2
+distance:               9
+time_spent:             5
 
 ---
