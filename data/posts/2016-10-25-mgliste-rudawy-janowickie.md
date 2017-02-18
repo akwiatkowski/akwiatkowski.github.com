@@ -6,7 +6,7 @@ date:                   2016-10-25 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179579181/q%3D80_m%3D1500/f307716032b722891b7de92a81cf8fc0"
 categories:             trip
-tags:                   [main, hike, photo, todo_media]
+tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
@@ -19,7 +19,7 @@ pois:
   - name: Po deszczu mgły pojawiają się na wysokości trochę ponad 500m n.p.m dlatego warto podejść pod Sokoliki
     lat: 50.86763
     lon: 15.86543
-  - name: Dobry widok na Śnieżkę (z Karpników) jako dalszy plan, do robienia zdjęć 
+  - name: Dobry widok na Śnieżkę (z Karpników) jako dalszy plan, do robienia zdjęć
     lat: 50.85779
     lon: 15.87221
   - name: Stawy obok zamku w Karpnikach
@@ -54,11 +54,15 @@ opiszę po kolei z naciskiem na różnice i dylematy.
 Najpierw poszedłem do "centrum" [Wojanowa][wiki-wojanow] aby kupić sobie
 wodę na drogę.
 
+{% post_image "medium","IMGP8442raw1.jpg","Tuż po lekkim deszczu" %}
+
 Zauważyłem ciekawą polną drogą na północ i przeszedłem
 się nią trochę. Wokół
 bardzo ładnie było widać okoliczne góry oraz przesuwające się nisko
 chmury. Będąc w tym miejscu zauważyłem, że te chmury zaczęły zakrywać
 szczyty [Gór Sokolich][wiki-gory-sokole].
+
+{% post_image "medium","IMGP8443raw1.jpg","Rzut oka na Wojanów" %}
 
 W tym momencie miałem pomysł aby pojechać pociągiem do
 [Szklarskiej Poręby][wiki-szklarska-poreba] i tam wykorzystać chmuro-mgły,
@@ -67,9 +71,13 @@ jest wyraźnie wyżej niż [Wojanów][wiki-wojanow]. Również miałbym tam wyb�
 dwóch (znam tylko dwa) wodospadów. To był mój pierwszy istotny wybór tego dnia.
 Postanowiłem jednak, że pójdę w kierunku [Sokolików][wiki-gory-sokole].
 
+{% post_image "medium","IMGP8445raw1.jpg","Pola na północ od Wojanowa" %}
+
 Idąc zielonym szlakiem pieszym nie zauważyłem żadnej mgły. Powoli traciłem
 nadzieję i rozważałem aby zejść z terenów górskich, abym miał czas i
 (przykładowo) mógłbym dojść aż do [Gruszkowa][wiki-gruszkow].
+
+{% post_image "medium","IMGP8505raw1.jpg","Idąc przez las nie widziałem żadnego śladu mgły" %}
 
 Przypomniało mi się, że
 [rok temu w Górach Kaczawskich]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %})
@@ -78,22 +86,20 @@ trochę wyżej. W tym momencie musiałbym przejść około
 400 metrów w poziomie i 50-80 metrów
 w pionie. Mgła zaczęła się pojawiać na wysokości około 500m n.p.m.
 
+{% post_image "medium","IMGP8531raw2.jpg","Mgła pojawiła się pod Sokolikiem" %}
+
 Wyjąłem statyw i założyłem stałoogniskową 15mm robiąc zdjęcia prawie do oporu.
 Byłem bardzo szczęśliwy gdyż udało mi się być we właściwym miejscu o właściwym
 czasie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/179563659/m%3D900/1547cf77ac40163c58cc818323686a25' alt='Autumn forest near Sokolik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/179563659/autumn-forest-near-sokolik-by-aleksander-kwiatkowski' alt='Autumn forest near Sokolik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP8551raw1.jpg","Mgła pojawiła się pod Sokolikiem (2)" %}
 
 Gdy zgłodniałem zacząłem kierować się w stronę [schroniska][wiki-szwajcarka]
 i następnie zszedłem żółtym szlakiem do [Karpnik][wiki-karpniki].
 
 Tym razem poszedłem ulicą Turystyczną cały czas robiąc zdjęcia.
+
+{% post_image "medium","IMGP8635raw1.jpg","Idąc do schroniska Szwajcarka" %}
 
 Dotarłem do [Zamku w Karpnikach][wiki-zamek-karpniki] bardzo ładnie umieszczonego
 wokół stawów. Chwilę tam posiedziałem robiąc kilka zdjęć stawów. Bateria w
@@ -101,33 +107,44 @@ aparacie była prawie wyładowana, a tego dnia zapomniałem wyjąć drugiej bate
 z ładowarki. Na szczęście nie miałem w planach więcej zdjęć, więc nawet jakby mi
 aparat padł nie byłbym smutny z tego powodu.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/179850119/m%3D900/8bb3dd56d7dab389d0757587cde51923' alt='Autumn pond in Karpniki by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/179850119/autumn-pond-in-karpniki-by-aleksander-kwiatkowski' alt='Autumn pond in Karpniki by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP8729raw1.jpg","Staw w Karpnikach obok zamku" %}
 
 Do bazy wróciłem tą samą drogą jak dzień wcześnie gdyż nie chciało mi się iść
 inną dłuższą trasą.
 Czułem się zmęczony w pozytywnym sensie i nie chciałem więcej
 eksplorować.
 
+{% post_image "medium","IMGP8685raw1.jpg","Przywitany przez psa" %}
+
+Idąc przez [Karpniki][wiki-karpniki] przywitał mnie pies. Zrobiłem mu zdjęcie i
+wrzucam tu jako ciekawostkę, chociaż wiem, że pod względem artystycznym jest
+tam niewiele.
+
 Zdjęcia
 -------
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/181983809/m%3D900/d8415c1b201e6c05c7553d0c6af0edfc' alt='Leaves on the ground by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/181983809/leaves-on-the-ground-by-aleksander-kwiatkowski' alt='Leaves on the ground by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image "medium","IMGP8541raw1.jpg","Jesienny las w Rudawach Janowickich" %}
+
+Często sam nie wiem czy zdjęcie które zrobiłem, jest dobre. Nie wiem czy ono jest
+dobre, ale dla mnie jest ciekawe.
+
+{% post_image "medium","IMGP8562raw1.jpg","Blask" %}
+
+Gdy w lesie jest przerzedzenie może tam docierać więcej światła. Gdy połączy się
+takie miejsce z mgłą można zrobić zdjęcie "blasku"
+
+{% post_image "medium","IMGP8569raw1.jpg","Korzenie na szlaku" %}
+
+Trochę wyżej było mniej drzew liściastych. Widać jak bardzo rozrosły się korzenie
+na szlaku.
+
+{% post_image "medium","IMGP8593raw1.jpg","Dużo liści na szlaku" %}
 
 W niektórych miejscach spadało bardzo dużo liści. W innych jeszcze nie spadły,
 albo nie miały z czego spaść.
 
+{% post_image "medium","IMGP8614raw1.jpg","Pod jesiennym drzewem" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/180894849/m%3D900/7912beb4e56f4d4373ee7a6f671cb46f' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'>
@@ -135,6 +152,16 @@ albo nie miały z czego spaść.
   <a href='https://500px.com/photo/180894849/under-autumn-tree-by-aleksander-kwiatkowski' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
 To zdjęcie podobało się ludziom bardziej. Prawdopodobnie przez umieszczenie
 (jeszcze) kolorowego drzewa.
+
+{% post_image "medium","IMGP8578raw1.jpg","Zakręcający szlak" %}
+
+Zacząłem schodzić w dół czerwonym szlakiem. Szlak ten miejscami bardzo ostro
+zakręca, trawersuje.
+
+{% post_image "medium","IMGP8716raw1.jpg","Budynek między Krogulcem a Karpnikami" %}
+
+Idąc do [zamku w Karpnikach][wiki-zamek-karpniki] minąłem taki chyba opuszczony budynek.

@@ -68,7 +68,7 @@ Szczegóły
 
 Poniżej jest złączona panorama z 14 wykoanych zdjęć.
 
-{% post_image "medium","IMGP1737raw1-IMGP1753raw1names.jpg","Panorama z Sokolika w kierunku północnym" %}
+{% post_image_no_gallery "medium","IMGP1737raw1-IMGP1753raw1names.jpg","Panorama z Sokolika w kierunku północnym" %}
 
 Wstałem o 5:40, powoli zacząłem się budzić i szykować do wyjścia na
 wschód Słońca na [Sokoliku][wiki-sokolik].

@@ -6,7 +6,7 @@ date:                   2016-09-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173701521/q%3D80_m%3D2000/7d28a87f42da5ce0a62e372839e9aa5d"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [zachodnio_pomorskie, swinoujscie]
 
 coords:                 [{"route": [[53.91873,14.25914], [53.92105,14.24309], [53.92878,14.21983], [53.94197,14.19013], [53.97217,14.14412], [53.97949,14.13520], [53.98151,14.12061], [53.99186,14.11391], [53.97611,14.10687], [53.96440,14.12971], [53.96374,14.13314], [53.96142,14.13108], [53.94914,14.11683], [53.93606,14.09735], [53.93015,14.09666], [53.91524,14.11125], [53.91119,14.14945], [53.89107,14.14086], [53.89445,14.16129], [53.88742,14.17125], [53.87938,14.17013], [53.87083,14.20489], [53.86764,14.20687], [53.87892,14.21004], [53.87720,14.21914], [53.89521,14.22489], [53.90861,14.24918], [53.90882,14.25545], [53.91862,14.25948]], "type": "bicycle"}]
@@ -57,6 +57,8 @@ się znajduje.
 Ruch pieszy i wolno-rowerowy (rowerzyści, którzy zatrzymali się na granicy 20km/h)
 był wyraźny i trochę mi przeszkadzał.
 
+{% post_image "medium","IMGP6378raw1.jpg","Granica między Polską a Niemcami" %}
+
 Polskie wybrzeże to na ogół tandeta taka sama jak Krupówki w [Zakopanem][wiki-zakopane].
 Są jednak wyjątki i wydaję mi się, że jest ich coraz więcej. Do tych wyjątków należą
 (przynajnmniej) [Świnoujście][wiki-swinoujscie], [Kołobrzeg][wiki-kolobrzeg] i
@@ -70,13 +72,15 @@ przypodobać zachodnim
 sąsiadom. Niemcy lubią porządek, powtarzam to co sam słyszałem. Lubią przyjeżdzać
 tutaj bo jest taniej.
 
+{% post_image "medium","IMGP6382raw1.jpg","Niemiecka fortyfikacja na plażdy obsługiwana przez dwie osoby" %}
+
 Dojechaliśmy do granicy państwa.  Tłok na ścieżce rowerowej był wyraźny przez
 co nie mogłem się rozpędzić.
 
 Po niemieckiej stronie szlak jest bardzo dobrej jakości. Jechaliśmy przez las
 a po pewnym czasie wkroczyliśmy do [Ahlbeck][wiki-ahlbeck].
 
-
+{% post_image "medium","IMGP6438raw1.jpg","Jestem pod wrażeniem utrzymania budynków w Ahlbeck i okilicach" %}
 
 Od tego momentu przez kolejne 5km jechaliśmy przez bardzo zadbane niemieckie miejscowości,
 aż do [Bansin][wiki-bansin]. Trudno mi opisywać je szerzej niż tylko to, że były
@@ -85,6 +89,9 @@ klimatem, gdzie jest bardziej swojsko niż zadbanie.
 
 Chcieliśmy wejść na punkt widokowy Langer Berg, jednak ostatecznie nie chciało mi się
 wchodzić na teren prywatny.
+
+{% post_image "medium","IMGP6456raw1.jpg","Drewniane falochrony" %}
+
 
 Zrobiliśmy przerwę na bułkę z rybą i ruszyliśmy na południę. Czułem jakby to był już
 powrót i dzień miał się kończyć jednak, jak się później okazało, jeszcze nie było
@@ -95,9 +102,11 @@ jak bardzo malowniczy jest ten teren: dużo pagórków i jezior. Chociaż
 montując teraz film większość nagranych filmików usuwam, gdyż nie podobają mi się,
 nie mają tego klimatu, który lubię podczas jeżdzenia.
 
-
+{% post_image "medium","IMGP6480raw1.jpg","Widok na Gothensee" %}
 
 Wyruszyliśmy dalej na południe wracając do Polski przez [Reetzow][wiki-reetzow].
+
+{% post_image "medium","IMGP6490raw1.jpg","Wiejska niemiecka droga" %}
 
 Dopiero Ulrichshorst było miejscowością, która w pełni mi się podobała. To była
 klasyczna mała niemiecka wioska. Sporo domów było pokrytych strzechą i oferowało noclegi.
@@ -113,9 +122,13 @@ przy [Zalewie Szczecińskim][wiki-zalew-szczecinki].
 W [Zirchow][wiki-zirchow] skręciliśmy w prawo na wschód. Mieliśmy bardzo
 fajny zjazd, ale musieliśmy trochę przejechać główną drogą.
 
+{% post_image "medium","IMGP6506raw1.jpg","Kamminke - wioska tuż przy granicy z Polską" %}
+
 Powoli robiło się późno. Na szczęście odkryłem przejściu pieszo-rowerowym
 granicznym, dzięki któremu przez Forst wjechaliśmy w południowo-zachodnie
 [Świnoujście][wiki-swinoujscie].
+
+{% post_image "medium","IMGP6513raw1.jpg","Zalew Szczeciński" %}
 
 Sprawnie jechaliśmy gdyż tego dnia krótka i długa koszulka to było za mało
 aby zachować komfort termiczny.

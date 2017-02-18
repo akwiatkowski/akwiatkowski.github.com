@@ -6,7 +6,7 @@ date:                   2016-09-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173702209/q%3D80_m%3D2000/a8db9f45feeaa66629a951bcb7c056fe"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [zachodnio_pomorskie, swinoujscie]
 
 coords:                 [{"route": [[53.90172,14.27717], [53.87228,14.28764], [53.87122,14.28481], [53.86049,14.28923], [53.85624,14.28610], [53.85208,14.28631], [53.85127,14.29357], [53.85292,14.30039], [53.84127,14.31653], [53.84616,14.31884], [53.85041,14.31258], [53.85338,14.31764], [53.85408,14.32897], [53.84667,14.33983], [53.84201,14.34009]], "type": "bicycle"}]
@@ -49,16 +49,26 @@ Szczegóły
 Początek trasy jest podobny do dojazdu do "drugiego promu" z
 [dnia wcześniej]({% post_url 2016-09-18-petla-przez-wolinski-park-narodowy %}).
 
+{% post_image "medium","IMGP6922raw1.jpg","Jadąc w stronę Karsiboru" %}
+
 Ruszyliśmy żółtym szlakiem rowerowym. Na mapie on bardzo ładnie okrążał
 cały [Karsibór][wiki-karsibór-wyspa]. W teorii było to idealne. Praktyka okazała
 się być trochę bardziej skomplikowana.
+
+{% post_image "medium","IMGP6935raw1.jpg","Basen U-Bootów" %}
 
 Zgodnie ze szlakiem wjechaliśmy w las, gdzie zobaczyliśmy
 [pomnik lotników RAF][wiki-raf]. I dalej, oczywiście zgodnie ze szlakiem,
 wróciliśmy do głównej drogi w [Karsiborze][wiki-karsibor].
 
+{% post_image "medium","IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego" %}
+
+
 Wjechaliśmy w Ostoję Ptaków Karsiborska Kępa, gdzie była remontowana
 wieża obserwacyjna. Tam zrobiliśmy chwilę przerwy.
+
+{% post_image "medium","IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach" %}
+
 
 Wróciliśmy aby kontynuować jazdę szlakiem, jednak nie znaleźliśmy nic co by wyglądało
 na sensowną drogą. Tam gdzie mógł być szlak umieszczono ostrzeżenie o terenie prywatnym.

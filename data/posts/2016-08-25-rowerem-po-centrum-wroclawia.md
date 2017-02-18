@@ -6,10 +6,10 @@ date:                   2016-08-25 13:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169702587/q%3D80_m%3D2000/594094c7dcea153f834db12796a4fe40"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, wroclaw]
 
-coords:                 [{"route": [], "type": "bicycle"}]
+coords:                 [{"route": [[51.09988,17.03603], [51.10772,17.03869], [51.10715,17.04401], [51.10971,17.05350], [51.11214,17.04963], [51.11378,17.05019], [51.11491,17.04092], [51.10777,17.03856], [51.09974,17.03594]], "type": "bicycle"}]
 distance:               10
 time_spent:             1
 
@@ -52,10 +52,14 @@ wjechałem chwilę po 6-tej, kupiłem bilety i dotarłem na peron. W wyniku cią
 ostatnio remontów sposoby dostania sie na perony bywają zmienne i z tego powodu
 Michał miał problem aby dostać się na właściwy peron - 4a.
 
+{% post_image "medium","IMGP4924raw1.jpg","Widok na katedre we Wrocławiu" %}
+
 Gdy czas odjazdu zbliżał się postanowiłem wyjśc z pociągu, aby przypadkiem samemu
 nie odjechać. To był dobry pomysł gdyż Michał dotarł 3 minuty po odjeździe pociągu.
 Powodem spóźnienia była otrzymana zła informacja od pracownika PKP (PKP chyba już nie ma,
 więc pracownika któreś ze spółek związanych z koleją) jak dojść na peron 4a.
+
+{% post_image "medium","IMGP4934raw1.jpg","Katedra we Wrocławiu" %}
 
 Na szczęście następny pociąg mieliśmy za trochę ponad godzinę i czas dojazdu do
 [Strzelina][wiki-strzelin] opóźniał się "tylko" o trochę ponad półtorej godziny.
@@ -71,6 +75,9 @@ chociaż jeszcze bardzo dużo jest do zrobienia.
 Michał zaproponował abyśmy pojeździli po centrum [Wrocławia][wiki-wroclaw].
 Ja osobiście nigdy nie byłem dalej niż okolica dworca dlatego uznałęm, że to
 może być dobrym pomysłem.
+
+{% post_image "medium","IMGP4942raw1.jpg","Okolicę katedtry" %}
+
 
 Przejechaliśmy przez:
 
