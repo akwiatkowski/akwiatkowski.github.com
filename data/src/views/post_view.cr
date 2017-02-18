@@ -14,12 +14,16 @@ class PostView < BaseView
 
   def post_header_html
     data = Hash(String, String).new
-    data["post.image_url"] = @post.image_url
+    data["post.image_url"] = image_url
     data["post.title"] = @post.title
     data["post.subtitle"] = @post.subtitle
     data["post.author"] = @post.author
     data["post.date"] = @post.date
     return load_html("post/header", data)
+  end
+
+  def image_url
+    @post.image_url
   end
 
   def post_article_html

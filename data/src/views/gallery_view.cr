@@ -4,14 +4,14 @@ class GalleryView < PageView
     @data_manager = @blog.data_manager.not_nil!.as(Tremolite::DataManager)
     @post_image_entities = @data_manager.post_image_entities.not_nil!.as(Array(PostImageEntity))
 
-    @image_path = @blog.data_manager.not_nil!["gallery.backgrounds"].as(String)
+    @image_url = @blog.data_manager.not_nil!["gallery.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["gallery.title"].as(String)
     @subtitle = @blog.data_manager.not_nil!["gallery.subtitle"].as(String)
 
     @url = "/gallery"
   end
 
-  getter :image_path, :title, :subtitle, :year, :url
+  getter :image_url, :title, :subtitle, :year, :url
 
   def inner_html
     s = ""

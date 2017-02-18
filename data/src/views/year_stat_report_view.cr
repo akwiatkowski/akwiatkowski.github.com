@@ -1,13 +1,13 @@
 class YearStatReportView < PageView
   def initialize(@blog : Tremolite::Blog, @year : Int32)
     @posts = @blog.post_collection.posts.select{|p| p.time.year == @year}.as(Array(Tremolite::Post))
-    @image_path = generate_image_url.as(String)
+    @image_url = generate_image_url.as(String)
     @title = "#{@year}"
     @subtitle = "Podsumowanie roku #{@year}"
     @url = "/year/#{@year}"
   end
 
-  getter :image_path, :title, :subtitle, :year, :url
+  getter :image_url, :title, :subtitle, :year, :url
 
   def inner_html
     data = Hash(String, String).new

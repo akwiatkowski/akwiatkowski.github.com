@@ -9,6 +9,7 @@ class BaseView < Tremolite::Views::BaseView
       head_open_html +
       head_title_html +
       seo_html +
+      share_image_html +
       tracking_html +
       head_close_html +
       open_body_html +
@@ -47,6 +48,10 @@ class BaseView < Tremolite::Views::BaseView
     @blog.data_manager.not_nil!["site.desc"]
   end
 
+  def site_url
+    @blog.data_manager.not_nil!["site.url"]
+  end
+
   def title
     return ""
   end
@@ -57,6 +62,20 @@ class BaseView < Tremolite::Views::BaseView
 
   def seo_html
     return ""
+  end
+
+  def image_url
+    return ""
+  end
+
+  def share_image_html
+    if image_url != ""
+      h = Hash(String, String).new
+      h["ol.image"] = site_url + image_url
+      return load_html("include/share_image", h)
+    else
+      return ""
+    end
   end
 
   def tracking_html
