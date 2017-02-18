@@ -51,6 +51,8 @@ class GalleryView < PageView
   end
 
   def post_images(post)
+    s = ""
+
     data = Hash(String, String).new
     data["klass"] = "gallery-header-image"
     data["post.url"] = post.url
@@ -59,7 +61,7 @@ class GalleryView < PageView
     data["post.title"] = post.title
     data["img.url"] = post.image_url
     data["img.size"] = "" # TODO
-    post_header_image_string = load_html("gallery/gallery_post_image", data)
+    s += load_html("gallery/gallery_post_image", data)
 
     post_images_string = ""
     images = @post_image_entities.select{|pie| pie.post_slug == post.slug}
@@ -72,13 +74,10 @@ class GalleryView < PageView
       data["img.size"] = image.full_image_size.to_s
       data["post.title"] = post.title
       data["img.url"] = image.full_image_src
-      post_images_string += load_html("gallery/gallery_post_image", data)
+      s += load_html("gallery/gallery_post_image", data)
     end
 
-    data = Hash(String, String).new
-    data["post.images"] = post_images_string
-    data["post.header_image"] = post_header_image_string
-    return load_html("gallery/gallery_post", data)
+    return s
   end
 
 end

@@ -6,7 +6,7 @@ date:                   2016-10-26 11:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
 categories:             trip
-tags:                   [main, hike, photo, todo_media]
+tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
@@ -16,7 +16,7 @@ time_spent:             2
 
 
 pois:
-  - name: Stacja kolejowa Ciechanowice jest położona wśród pagórków 
+  - name: Stacja kolejowa Ciechanowice jest położona wśród pagórków
     lat: 50.86532
     lon: 15.98012
 
@@ -34,6 +34,8 @@ Poprzednie dwa dni mnie trochę zmęczyły. Zwłaszcza
 dzień [wczorajszy]({% post_url 2016-10-25-mgliste-rudawy-janowickie %}),
 w którym zrobiłem bardzo dużo jesienno-mglistych zdjęć.
 
+{% post_image "medium","IMGP8755raw1.jpg","Między Bobrowem a Trzcińskiem" %}
+
 Dopiero jak wrócę do domu i je przerobię będę mógł coś o nich powiedzieć.
 Niestety ekran mojego przenośnego 12" della ma słabe odwzorowanie kolorów
 dlatego zdjęcia oglądałem tylko pobieżnie.
@@ -45,9 +47,13 @@ Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
 zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
+{% post_image "medium","IMGP8757raw1.jpg","Rzeka Bóbr" %}
+
 Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
 wioski - chociaż przeszedłem tylko przez
 [Wojanów][wiki-wojanow], [Bobrów][wiki-bobrow] i [Trzcińsko][wiki-trzcinsko].
+
+{% post_image "medium","IMGP8761raw1.jpg","Jesienna droga do Trzcińska" %}
 
 Po drodzę zrobiłem kilka zdjęć, które postaram się tutaj wrzucić i zaktualizować
 opis tego dnia.
@@ -62,3 +68,5 @@ Wnioski
   aby mi się coś takiego chciało robić.
 * Po deszczu bardzo często pojawiają się mgły, ale dopiero na odpowiedniej wysokości.
   Zalecane jest być na 500-600m n.p.m.
+
+  {% post_image "medium","IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku" %}
