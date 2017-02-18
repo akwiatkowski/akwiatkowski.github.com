@@ -223,5 +223,4 @@ struct TodoRouteEntity
     end
     return false
   end
-
 end

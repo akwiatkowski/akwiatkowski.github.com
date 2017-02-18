@@ -3,7 +3,7 @@ struct PostImageEntity
   @image : String
   @desc : String
 
-  THUMB_PREFIX = "thumb"
+  THUMB_PREFIX     = "thumb"
   BIG_THUMB_PREFIX = "big_thumb"
 
   getter :post_slug, :image, :desc

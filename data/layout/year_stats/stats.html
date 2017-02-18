@@ -1,4 +1,8 @@
 <p>
+  Lata: {{ other_year_links }}
+</p>
+
+<p>
   W roku <strong>{{ year }}</strong> napisałem <strong>{{ post.count }}</strong> wpisów.
 </p>
 
@@ -8,5 +12,18 @@
 </p>
 
 <p>
-  Byłem w tych województwach: {{ voivodeships_stats }}
+  Tyle razy byłem w województwach: {{ voivodeships_stats }}
 </p>
+
+<table class="table">
+  <thead>
+    <th>Data</th>
+    <th>Tytuł</th>
+    <th>[km]</th>
+    <th>[h]</th>
+    <th></th>
+  </thead>
+  <tbody>
+    {{ posts_list }}
+  </tbody>
+</table>

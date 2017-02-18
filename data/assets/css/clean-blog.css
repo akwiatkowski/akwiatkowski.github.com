@@ -580,3 +580,42 @@ body {
   text-align: left;
   font-size: 80%
 }
+
+.text-nowrap {
+    white-space: nowrap;
+}
+
+.icon-bicycle {
+  margin-top: 5px;
+  background-image: url("/img/icon-bicycle.png");
+  width: 22px;
+  height: 14px;
+}
+
+.icon-hike {
+  margin-top: 5px;
+  background-image: url("/img/icon-hike.png");
+  width: 8px;
+  height: 14px;
+}
+
+.icon-train {
+  margin-top: 5px;
+  background-image: url("/img/icon-train.png");
+  width: 30px;
+  height: 14px;
+}
+
+.icon-car {
+  margin-top: 5px;
+  background-image: url("/img/icon-car.png");
+  width: 14px;
+  height: 14px;
+}
+
+.icon-walk {
+  margin-top: 5px;
+  background-image: url("/img/icon-walk.png");
+  width: 14px;
+  height: 14px;
+}

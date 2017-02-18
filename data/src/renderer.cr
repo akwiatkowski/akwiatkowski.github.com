@@ -287,9 +287,17 @@ class Tremolite::Renderer
   def render_year_stat_reports_pages
     years = @blog.post_collection.posts.map(&.time).map(&.year).uniq
     years.each do |year|
-      view = YearStatReportView.new(blog: @blog, year: year)
+      view = YearStatReportView.new(blog: @blog, year: year, all_years: years)
       write_output(view.url, view.to_html)
     end
+
+    # # current year for easier linking
+    # view = YearStatReportView.new(blog: @blog,
+    #   year: Time.now.year,
+    #   all_years: years,
+    # )
+    # view.url = "/year/current"
+    # write_output(view.url, view.to_html)
   end
 
   def render_gallery

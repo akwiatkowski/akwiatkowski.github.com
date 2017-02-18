@@ -41,7 +41,6 @@ class TodosView < PageView
         data["route.to_cost_minutes"] = todo_route.transport_to_cost_minutes.to_s
         data["route.to_distance"] = todo_route.to_poi.not_nil!.line_distance_from_home.to_s
         data["route.to_direction_human"] = todo_route.to_poi.not_nil!.direction_from_home_human
-
       else
         data["route.to_cost"] = ""
         data["route.to_cost_minutes"] = ""
@@ -89,8 +88,8 @@ class TodosView < PageView
       if todo_route.through.size > 0
         # show transport cost for intermediate points if is defined as TransportPoiEntity
         transport_pois = @blog.data_manager.not_nil!.transport_pois.not_nil!
-        todo_route_string = todo_route.through.map{|t|
-          ts = transport_pois.select{|p| p.name.strip == t.strip}
+        todo_route_string = todo_route.through.map { |t|
+          ts = transport_pois.select { |p| p.name.strip == t.strip }
           if ts.size > 0
             "#{t} (<strong>#{ts[0].time_cost}min</strong>)"
           else

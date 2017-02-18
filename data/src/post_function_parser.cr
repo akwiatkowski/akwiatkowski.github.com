@@ -1,9 +1,12 @@
 class Tremolite::Views::BaseView
   def custom_process_function(
-      command : String,
-      string : String,
-      post : (Tremolite::Post | Nil)
-    ) : (String | Nil)
+                              command : String,
+                              string : String,
+                              post : (Tremolite::Post | Nil)) : (String | Nil)
+    result = command.scan(/current_year/)
+    if result.size > 0
+      return Time.now.year.to_s
+    end
 
     result = command.scan(/post_image\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
@@ -34,11 +37,11 @@ class Tremolite::Views::BaseView
     url = "/images/processed/#{post.slug}_#{size}_#{image}"
     add_post_photo_to_gallery(post: post, image: image, desc: alt) if gallery
     data = {
-      "img.src" => url,
-      "img.alt" => alt,
-      "img.size" => (image_size(url) / 1024).to_s + " kB",
-      "img_full.src" => "/images/#{post.slug}/#{image}",
-      "img.is_in_gallery" => gallery.to_s
+      "img.src"           => url,
+      "img.alt"           => alt,
+      "img.size"          => (image_size(url) / 1024).to_s + " kB",
+      "img_full.src"      => "/images/#{post.slug}/#{image}",
+      "img.is_in_gallery" => gallery.to_s,
     }
     return load_html("post/post_image_partial", data)
   end

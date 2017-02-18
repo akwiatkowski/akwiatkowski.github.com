@@ -2,6 +2,7 @@
 * [**Najciekawsze miejsca**](/pois) - Zestawienie najciekawszych miejsc, które odkrywam na trasie.
 * [**Galeria**](https://akwiatkowski.smugmug.com/Seasons) - Najlepsze zdjęcia na Smugmug.
 * [**Plany**](/todos) - Wrzucam tutaj wszystkie trasy, które mnie zaciekawiły i chciałbym je zwiedzić.
+* [**Roczne statystyki**](/year/{% current_year %}) - Tutaj będę umieszczał dynamicznie obliczane informacje o aktywności w skali całego roku
 * [**Gminy**](/towns) - Lista wszystkich gmin podzielona na województwa.
 * [**Krainy**](/lands) - Lista zdefiniowanych krain.
 * [**O mnie**](/about) - Tutaj nie ma jeszcze nic o mnie, gdyż nie wiem co napisać.
