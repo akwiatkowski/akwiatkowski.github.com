@@ -7,6 +7,10 @@ class TagView < BaseView
     @tag.name
   end
 
+  def image_url
+    return @tag.image_url
+  end
+
   def content
     tag_header_html +
       tag_article_html
@@ -14,7 +18,7 @@ class TagView < BaseView
 
   def tag_header_html
     data = Hash(String, String).new
-    data["post.image_url"] = @tag.image_url # TODO
+    data["post.image_url"] = image_url
     data["post.title"] = @tag.name
     data["post.subtitle"] = ""
     return load_html("page/header", data)

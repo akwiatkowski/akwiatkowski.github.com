@@ -7,6 +7,10 @@ class LandView < BaseView
     @land.name
   end
 
+  def image_url
+    return @land.image_url
+  end
+
   def content
     land_header_html +
       land_article_html
@@ -14,7 +18,7 @@ class LandView < BaseView
 
   def land_header_html
     data = Hash(String, String).new
-    data["post.image_url"] = @land.image_url # TODO
+    data["post.image_url"] = image_url
     data["post.title"] = @land.name
     data["post.subtitle"] = @land.main
     return load_html("page/header", data)

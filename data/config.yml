@@ -4,40 +4,42 @@ site.email: aleksander_kwiatkowski1@interia.pl
 site.url: "http://odkrywajacpolske.pl"
 site.author: Aleksander Kwiatkowski
 
-map.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+map.backgrounds: /images/2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw/header.jpg
 map.title: Mapa
+map.subtitle: Wszystkie trasy narysowane na mapie
 
-planner.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
-planner.title: Planer
+planner.backgrounds: /images/2016-07-21-grania-tatr-zachodnich-na-wolowiec/header.jpg
+planner.title: Planer górski
+more.subtitle: Jakie pasmo powinienem odwiedzić teraz
 
-more.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+more.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9169raw1.jpg
 more.title: Więcej linków...
-more.subtitle: to co nie zmieściło się w nagłówku
+more.subtitle: czyli to co nie zmieściło się w nagłówku
 
-about.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+about.backgrounds: http://localhost:5000/images/2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem/G0034499b.jpg
 about.title: O mnie
-about.subtitle:
+about.subtitle: I o tej stronie
 
-summary.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
-summary.title: Zestawienie
-summary.subtitle:
+summary.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9706raw1.jpg
+summary.title: Zestawienie wpisów
+summary.subtitle: Podzielone przez krainy i gminy
 
-todos.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
-todos.title: Plany
-todos.subtitle:
+todos.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9451raw1.jpg
+todos.title: Plany tras
+todos.subtitle: Czyli to co mogę robić gdy nie ma odpowiedniej pogody
 
-pois.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+pois.backgrounds: /images/2016-10-24-wejscie-na-sokolik/IMGP8192raw1.jpg
 pois.title: Najciekawsze miejsca
-pois.subtitle:
+pois.subtitle: Zwłaszcza te niezaznaczone na żadnej mapie
 
-towns.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+towns.backgrounds: /images/2016-08-26-powrot-z-przedgorza-sudeckiego/IMGP5135raw1.jpg
 towns.title: Województwa i gminy
-towns.subtitle:
+towns.subtitle: Lista wszystkich gmin w których byłem
 
-lands.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+lands.backgrounds: /images/2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem/header.jpg
 lands.title: Krainy
-lands.subtitle:
+lands.subtitle: Lista krain geograficznych, góry, pogórza, niziny, ...
 
-gallery.backgrounds: /images/2011-09-14-dolina-pieciu-stawow-polskich/header.jpg
+gallery.backgrounds: /images/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
 gallery.title: Galeria
-gallery.subtitle:
+gallery.subtitle: Lista zdjęć dodanych do wpisów

@@ -60,7 +60,7 @@ class PayloadJsonGenerator
         end
 
         # voivodeships
-        json.field "towns" do
+        json.field "voivodeships" do
           json.array do
             @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
               json.object do

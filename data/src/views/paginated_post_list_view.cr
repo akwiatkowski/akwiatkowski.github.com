@@ -4,6 +4,14 @@ class PaginatedPostListView < BaseView
   def initialize(@blog : Tremolite::Blog, @posts : Array(Tremolite::Post), @page : Int32, @count : Int32, @url : String)
   end
 
+  def image_url
+    if @posts.size > 0
+      return @posts[0].image_url
+    else
+      return ""
+    end
+  end
+
   def title
     "Lista wpisów #{@page}/#{@count}"
   end

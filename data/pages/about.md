@@ -121,6 +121,12 @@ Przyszedł również czas na zmiany techniczne.
 Cały blog renderuje się teraz 30 sekund. Trafiłem na limit możliwości
 technicznych Jekylla. Rozpocząłem pisanie własnego silnika blogowego w Crystalu.
 
+### 2017
+
+Wykupiłem sewer i stworzyłem swój silnik blogowy [tremolite](https://github.com/akwiatkowski/tremolite)
+na który przepisałem cały blog. Jestem zadowolony z szybkości jak i możliwości.
+Trudno abym nie był skoro sam to zacząłem pisać.
+
 ### Przyszłość
 
 Moje określone cele wolę zostawić dla siebie i będę pisał dopiero po ich

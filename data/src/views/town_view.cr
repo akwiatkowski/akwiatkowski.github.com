@@ -7,6 +7,10 @@ class TownView < BaseView
     @town.name
   end
 
+  def image_url
+    return @town.image_url
+  end
+
   def content
     town_header_html +
       town_article_html
@@ -14,7 +18,7 @@ class TownView < BaseView
 
   def town_header_html
     data = Hash(String, String).new
-    data["post.image_url"] = @town.image_url # TODO
+    data["post.image_url"] = image_url
     data["post.title"] = @town.name
     data["post.subtitle"] = ""
     return load_html("page/header", data)
