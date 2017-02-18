@@ -1,6 +1,7 @@
 * [**Zestawienie**](/summary) - Lista wszystkich wpisów posortowane chronologicznie, pogrupowanych po krainach lub miejscowościach.
 * [**Najciekawsze miejsca**](/pois) - Zestawienie najciekawszych miejsc, które odkrywam na trasie.
-* [**Galeria**](https://akwiatkowski.smugmug.com/Seasons) - Najlepsze zdjęcia na Smugmug.
+* [**Galeria**](/gallery) - Galeria ze zdjęć umieszczonych we wpisach. Są one podzielona na miesiące.
+* [**Galeria zewnętrzna**](https://akwiatkowski.smugmug.com/Seasons) - Najlepsze zdjęcia na Smugmug.
 * [**Plany**](/todos) - Wrzucam tutaj wszystkie trasy, które mnie zaciekawiły i chciałbym je zwiedzić.
 * [**Roczne statystyki**](/year/{% current_year %}) - Tutaj będę umieszczał dynamicznie obliczane informacje o aktywności w skali całego roku
 * [**Gminy**](/towns) - Lista wszystkich gmin podzielona na województwa.

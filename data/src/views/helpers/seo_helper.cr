@@ -37,20 +37,29 @@ class BaseView
   def build_seo_html
     s = ""
 
-    h = {
+    h_name = {
       "keywords"       => meta_keywords_string,
       "description"    => meta_description_string,
       "author"         => author_string,
       "robots"         => robots_string,
+    }
+
+    h_property = {
       "og:title"       => title,
       "og:description" => meta_description_string,
       "og:url"         => current_full_url,
       "og:site_name"   => site_title,
     }
 
-    h.each do |k, v|
+    h_name.each do |k, v|
       if v.to_s != ""
         s += "<meta name=\"#{k}\" content=\"#{v}\">\n"
+      end
+    end
+
+    h_property.each do |k, v|
+      if v.to_s != ""
+        s += "<meta property=\"#{k}\" content=\"#{v}\">\n"
       end
     end
 

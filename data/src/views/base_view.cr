@@ -9,7 +9,7 @@ class BaseView < Tremolite::Views::BaseView
       head_open_html +
       head_title_html +
       seo_html +
-      share_image_html +
+      open_graph_html +
       tracking_html +
       head_close_html +
       open_body_html +
@@ -68,14 +68,15 @@ class BaseView < Tremolite::Views::BaseView
     return ""
   end
 
-  def share_image_html
+  def open_graph_html
+    s = ""
     if image_url != ""
       h = Hash(String, String).new
       h["ol.image"] = site_url + image_url
-      return load_html("include/share_image", h)
-    else
-      return ""
+      s += load_html("include/open_graph_image", h)
     end
+
+    return s
   end
 
   def tracking_html
