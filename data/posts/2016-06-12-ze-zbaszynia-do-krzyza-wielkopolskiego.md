@@ -43,6 +43,7 @@ pois:
 [wiki-radgoszcz]: https://pl.wikipedia.org/wiki/Radgoszcz_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-drezdenko]: https://pl.wikipedia.org/wiki/Drezdenko
 [wiki-krzyz]: https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
+[wiki-sierakow]: https://pl.wikipedia.org/wiki/Sieraków
 
 Wstęp
 -----

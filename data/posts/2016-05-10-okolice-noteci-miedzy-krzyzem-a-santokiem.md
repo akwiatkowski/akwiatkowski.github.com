@@ -44,6 +44,9 @@ pois:
 [wiki-gardzko]:          https://pl.wikipedia.org/wiki/Gardzko
 [wiki-santok]:           https://pl.wikipedia.org/wiki/Santok
 [wiki-gralewo]:          https://pl.wikipedia.org/wiki/Gralewo
+[wiki-gorki-noteckie]:   https://pl.wikipedia.org/wiki/Górki_Noteckie
+[wiki-plomykowo]:        https://pl.wikipedia.org/wiki/Płomykowo
+
 
 Wstęp
 -----
@@ -111,7 +114,7 @@ przez bardzo ciekawe tereny - małe wioski położone wokół pofalowanego teren
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/167449698' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Jechałem cały czas względnie wzdłuż torów kolejowych drogą asfaltową. W
-[Górce Noteckiej][wiki-gorka-notecka] ruszyłym wzdłuż [Kanału Otok][wiki-otok].
+[Górkach Noteckiech][wiki-gorki-noteckie] ruszyłym wzdłuż Kanału Otok.
 Niestety bardzo trudno się jechało po tak dziwnie ukształtowanym szutrze.
 Z tego powodu na wysokości wsi [Płomykowo][wiki-plomykowo] skręciłem i wolałem
 jechać dalej drogą do [Santoka][wiki-santok].

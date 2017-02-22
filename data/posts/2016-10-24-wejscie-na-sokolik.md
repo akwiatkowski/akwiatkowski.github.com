@@ -40,7 +40,7 @@ pois:
 [wiki-rudawy-janowickie]: https://pl.wikipedia.org/wiki/Rudawy_Janowickie
 [wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
-
+[wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
 
 Wstęp
 -----

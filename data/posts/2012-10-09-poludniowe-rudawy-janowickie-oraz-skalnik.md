@@ -26,6 +26,7 @@ time_spent:             5
 [wiki-czartak]:         https://pl.wikipedia.org/wiki/Schronisko_%E2%80%9ECzartak%E2%80%9D
 [wiki-przel-kowarska]:  https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Kowarska
 [wiki-pasterka]:        https://pl.wikipedia.org/wiki/Pasterka_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-kowary]:          https://pl.wikipedia.org/wiki/Kowary
 
 Wstęp
 -----

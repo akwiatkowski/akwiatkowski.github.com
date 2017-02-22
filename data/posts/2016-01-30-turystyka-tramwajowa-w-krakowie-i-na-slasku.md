@@ -25,6 +25,7 @@ time_spent:             7
 [wiki-huta-katowice]:      https://pl.wikipedia.org/wiki/Huta_Katowice
 [wiki-pogoria]:            https://pl.wikipedia.org/wiki/Zbiorniki_Pogoria
 [wiki-pogoria-iii]:        https://pl.wikipedia.org/wiki/Zbiornik_Pogoria_III
+[wiki-bedzin]:             https://pl.wikipedia.org/wiki/Będzin   
 
 Wstęp
 -----

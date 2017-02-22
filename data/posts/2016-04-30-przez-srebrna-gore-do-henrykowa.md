@@ -44,6 +44,8 @@ pois:
 [wiki-henrykow]:                 https://pl.wikipedia.org/wiki/Henryk%C3%B3w_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-klodzko-glowne]:               https://pl.wikipedia.org/wiki/K%C5%82odzko_G%C5%82%C3%B3wne
 [wiki-korytow]:                      https://pl.wikipedia.org/wiki/Koryt%C3%B3w_(powiat_k%C5%82odzki)
+[wiki-klodzko]:                      https://pl.wikipedia.org/wiki/Kłodzko
+[wiki-ziebice]:                      https://pl.wikipedia.org/wiki/Ziębice
 
 Wstęp
 -----

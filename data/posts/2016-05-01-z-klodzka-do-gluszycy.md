@@ -92,7 +92,7 @@ musieliśmy przeczekać aż sobie przejdą.
 
 Gdy zjechaliśmy do [Świerków][wiki-swierki] przejechaliśmy jakąś
 spokojną drogą do [Bartnicy][wiki-bartnica], z której już dalej
-kierowaliśmy się do [Głuszyce][wiki-gluszyce]. Jechaliśmy obok torów kolejowych
+kierowaliśmy się do [Głuszycy][wiki-gluszyca]. Jechaliśmy obok torów kolejowych
 i rzeki [Bystrzycy][wiki-rzeka-bystrzyca].
 
 Prawdopodobnie jechaliśmy lekko z górki, gdyż cały czas utrzymywaliśmy

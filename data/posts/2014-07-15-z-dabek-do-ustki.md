@@ -25,6 +25,7 @@ time_spent:             7
 [wiki-krolewo]:         https://pl.wikipedia.org/wiki/Kr%C3%B3lewo_(wojew%C3%B3dztwo_zachodniopomorskie)
 [wiki-zlakowo]:         https://pl.wikipedia.org/wiki/Z%C5%82akowo
 [wiki-kolobrzeg]:       https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
+[wiki-203]:             https://pl.wikipedia.org/wiki/Droga_wojewódzka_nr_203
 
 Wstęp
 -----

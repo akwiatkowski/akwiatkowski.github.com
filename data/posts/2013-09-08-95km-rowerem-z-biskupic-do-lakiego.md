@@ -34,7 +34,7 @@ time_spent:             8
 [wiki-gebice]:                          https://pl.wikipedia.org/wiki/G%C4%99bice_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-zbytowo]:                         https://pl.wikipedia.org/wiki/Zbytowo
 [wiki-lakie]:                           https://pl.wikipedia.org/wiki/%C5%81%C4%85kie_(powiat_mogile%C5%84ski)
-
+[wiki-duszno]:                          https://pl.wikipedia.org/wiki/Duszno
 
 Wstęp
 -----
