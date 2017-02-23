@@ -6,7 +6,7 @@ date:                   2016-04-30 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db"
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media]
+tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, klodzko, stoszowice, zabkowice_slaskie, cieplowody, ziebice]
 lands:                  [kotlina_klodzka, gory_bardzkie, obnizenie_otmuchowskie, wzgorza_niemczansko_strzelinskie]
 
@@ -69,6 +69,8 @@ dalej ruszyliśmy na północ w kierunku [Srebrnej Góry][wiki-srebrna-gora].
 Podjazdy czekaly nas już trochę większe, a wioski mniejsze i zabudowy rzadsze.
 Cywilizacji było jakby trochę mniej, co jest w sumie oczywiste.
 
+{% post_image "medium","IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie" %}
+
 Przez prawię połowę drogi do [Srebrnej Góry][wiki-srebrna-gora] jechaliśmy wokół
 pól, bardzo mi się podobało wzgórze obok miejscowości [Huberek][wiki-huberek].
 Po drodzę zrobiliśmy przerwę w sklepie w [Łącznej][wiki-laczna].
@@ -79,6 +81,8 @@ Po wyjeździe z [Wojborza][wiki-wojborz] jechaliśmy już przez las wyraźnym po
 przełęcz obok góry [Wilczak][wiki-gora-wilczak], za którą rozpoczął się zjazd.
 Pierwszy fajny zjazd tego dnia. Niestety nie można było szaleć do woli, gdyż
 droga była daleka do bycia idealną.
+
+{% post_image "medium","IMGP9752raw1.jpg","Widok ze Srebrnej Góry" %}
 
 Zjechaliśmy przy wylocie ze [Żdanowa][wiki-zdanow] i chcieliśmy podjechać do
 [Srebrnej Góry][wiki-srebrna-gora] teraz. W tym momencie nie wiedziałem, że
@@ -91,6 +95,9 @@ Odwiedziłem twierdzę południową - [Fort Ostróg][wiki-fort-ostrog], z które
 Chciałem wrócić drogą asfaltową, jednak Krzychu szybko mnie przekonał aby przejechać
 przez wiadukty. Ja sam w sumie też chciałem, ale obawiałem się jaki to będzie teren.
 
+{% post_image "medium","IMGP9777raw1.jpg","Srebrna Góra z dołu" %}
+
+
 Okazało się, że jest to najlepsza górska trasa terenowa jaką jechałem. Kamieni
 jest mało a korzenii prawie w ogóle tam nie ma. Stromość jest idealna dla mnie, a widoki
 rewelacyjne. Raz jedzie się w wąwozie, a raz przejeżdza przez wiadukt. Wiadukty te
@@ -100,6 +107,8 @@ mają wysokość 24 i 27 metrów. Patrząc na mapie to jechaliśmy ścieżką dy
 Zatrzymaliśmy się przy wyjeździe ze [Żdanowa][wiki-zdanow] czekając na resztę.
 Przejechaliśmy 1/3 trasy tego dnia a już byliśmy trochę zmęczeni co mnie
 martwiło.
+
+{% post_image "medium","IMGP9796raw1.jpg","Ścieżka rowerowa na rozebranej linii kolejowej" %}
 
 Ruszyliśmy dalej jadąc po ścieżce rowerowej równoległej do drogi. Powstała ona
 po usunięciu torów do [Ząbkowic Śląskich][wiki-zabkowice-slaskie], do których
@@ -140,6 +149,8 @@ Za [Piotrowicami Polskimi][wiki-piotrowice-polskie] ruszyliśmy już bezpośredn
 Prawie cały czas drogą asfaltową. Niestety drogi w tej częsci Sudetów nie są
 tak dobre jak w zachodniej częsci. Jest widoczne od razu, że jest tutaj więcej
 dziur.
+
+{% post_image "medium","IMGP9815raw1.jpg","Polna droga do Czesławic" %}
 
 Obok [Czesławic][wiki-czeslawice] przejechaliśmy drogą polną zamiast ulicą.
 Jakoś ta droga wydawała się ciekawsza, chociaż jakość jazdy po niej rzuciła

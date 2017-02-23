@@ -6,7 +6,7 @@ date:                   2016-05-01 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c"
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media]
+tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, klodzko, radkow, nowa_ruda, gluszyca]
 lands:                  [kotlina_klodzka, obnizenie_scinawki, obnizenie_nowej_rudy, gory_kamienne]
 
@@ -73,6 +73,8 @@ nie da się nie powtórzyć. Były to bardzo ładne tereny, pagórki po lewej st
 do [Wzgórz Ścinawskich][wiki-wzgorza-scinawskie], a po prawej mniej lub bardziej
 spokojne wioski. Chyba był to najładniejszy fragment trasy.
 
+{% post_image "medium","IMGP9835raw1.jpg","Opuszczając Kamieniec" %}
+
 Gdy dojechaliśmy do miejscowości [Sarny][wiki-sarny] musieliśmy przejechać trochę
 bardziej uczęszczaną drogą aby dostać się do [Nowej Rudy][wiki-nowa-ruda]. Tam ze
 spokojem zjedliśmy i zastanawialiśmy się, gdzie ruszyć dalej. Bardzo mnie ciekawiła
@@ -87,8 +89,12 @@ już przez wioski. Wioski te były również bardzo spokojne, ale jakoś w inny 
 Patrząc na mapę teraz to widzę, że przejeżdzaliśmy wokół, albo przez,
 [Wzgórza Włodzickich][wiki-wzgorza-wlodzickie].
 
+{% post_image "medium","IMGP9860raw1.jpg","Okolice Ścinawki Średniej" %}
+
 Gdzieś po drodzę spotkaliśmy stado owiec, które nawet zablokowały nam drogę i
 musieliśmy przeczekać aż sobie przejdą.
+
+{% post_image "medium","IMGP9914raw1.jpg","Owce blokujące drogę" %}
 
 Gdy zjechaliśmy do [Świerków][wiki-swierki] przejechaliśmy jakąś
 spokojną drogą do [Bartnicy][wiki-bartnica], z której już dalej
@@ -105,6 +111,8 @@ W jednym momencie byliśmy oddaleni o 3km od miejsca w którym jedliśmy kolacje
 po czeskiej stronie [Gór Kamiennych][wiki-gory-kamienne] w
 [styczniu 2014]({% post_url 2014-01-03-okolice-gluszycy %}).
 
+{% post_image "medium","IMGP9940raw1.jpg","Nad torami linii Wałbrzych-Kłodzko" %}
+
 Wyjeżdzajac z [Głuszycy][wiki-gluszyca] zrobiliśmy przerwę. Nie mogłem
 odmówić karkówce z grilla za 10zł.
 
@@ -114,3 +122,5 @@ wiedzieliśmy jak szybko byśmy byli w stanie pokonać te 2km. Prawdopodobnie
 było tam duże podejście. Dlatego grzecznie wróciliśmy do stacji [Głuszyca][wiki-gluszyca-pkp]
 z którego dojechaliśmy pociągiem do [Bierkowic][wiki-bierkowice], a dalej już
 spokojny powrót do bazy.
+
+{% post_image_no_gallery "medium","IMGP9943raw1.jpg","Kierunek Łomnica" %}

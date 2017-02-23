@@ -6,7 +6,7 @@ date:                   2016-05-08 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/153295727/q%3D80_m%3D2000/420a9e584e02488cc5d6f8945d527686"
 categories:             trip
-tags:                   [main, hike, todo_media]
+tags:                   [main, hike]
 towns:                  [wielkopolskie, steszew, mosina]
 
 coords:                 [{"route": [[52.27920,16.70861], [52.27862,16.72298], [52.27978,16.72521], [52.28277,16.72586], [52.27996,16.73208], [52.28109,16.73594], [52.28424,16.73612], [52.28450,16.75393], [52.28658,16.75749], [52.27925,16.76358], [52.27631,16.76010], [52.27242,16.76375], [52.27576,16.77654], [52.27027,16.79954], [52.26867,16.80341], [52.26581,16.80010], [52.25753,16.80684], [52.25493,16.80650], [52.24952,16.81495], [52.24970,16.81778], [52.24744,16.82538], [52.25070,16.82559], [52.25343,16.83113], [52.24560,16.84353], [52.24542,16.84958], [52.24111,16.85212]], "type": "hike"}]
@@ -55,17 +55,25 @@ pieszym przez [Rezerwat Bagno Dębienko][wiki-bagno-debienko], jednak nie doszli
 do tunelu pod torami kolejowymi. Skręciliśmy na wschód i szliśmy wokół
 rzeczki.
 
+{% post_image "medium","IMGP0158raw1.jpg","Rezerwat Bagno Dębieńko" %}
+
 Dotarliśmy do drogi asfaltowej wokół [Trzebawia][wiki-trzebaw]. Tam szliśmy
 obok stawu z którego było słychać ogrom dźwięków żab. Wioska za to była całkiem spokojna,
 więc zwierzęta korzystają z tego faktu.
+
+{% post_image "medium","IMGP0168raw1.jpg","Aleja drzew" %}
 
 Następnie dotarliśmy do [Jezior][wiki-jeziory], gdzie dalej poruszaliśmy się
 czerwonym szlakiem obok jeziora. Byłem zaskoczony ile ludzi tam się poruszało,
 oraz wielkością budynków dyrekcji parku.
 
+{% post_image "medium","IMGP0185raw1.jpg","Trzebaw" %}
+
 Przeszliśmy obok Jeziora Kociołek i trafiliśmy do starej stacji kolejowej.
 Powłóczyliśmy się trochę wokół torów i zaczęło się spore podejście - krótkie,
 ale takie "górskie", abyśmy mogli dostać się na niebieski szlak pieszy i wrócić
 do [Mosiny][wiki-mosina].
+
+{% post_image "medium","IMGP0239raw1.jpg","Trochę kolorów" %}
 
 Były to najbardziej pofalowane tereny w tej okolicy chyba.

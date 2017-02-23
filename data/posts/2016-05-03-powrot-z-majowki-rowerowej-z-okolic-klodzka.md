@@ -6,7 +6,7 @@ date:                   2016-05-03 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152227501/q%3D80_m%3D2000/e5818de7f8598a7adc53d04222d20740"
 categories:             article
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, klodzko]
 lands:                  [kotlina_klodzka]
 ---

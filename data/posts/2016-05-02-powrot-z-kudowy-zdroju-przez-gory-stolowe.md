@@ -6,7 +6,7 @@ date:                   2016-05-02 19:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media]
+tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, kudowa_zdroj, szczytna, radkow]
 lands:                  [pogorze_orlickie, gory_stolowe, obnizenie_scinawki, kotlina_klodzka]
 
@@ -63,6 +63,8 @@ Szczegóły
 Wstaliśmy dość wcześnie, gdyż mieliśmy pociąg chwilę po 9-tej. Przejechaliśmy
 przez [Szalejów Dolny][wiki-szalejow-dolny] do stacji [Kłodzko Zagórze][wiki-klodzko-zagorze].
 
+{% post_image "medium","IMGP9951raw1.jpg","Kudowa Zdrój" %}
+
 Ruszyliśmy pociągiem na zachód. W okolicy [Lewina Kłodzkiego][wiki-lewin-klodzki]
 mieliśmy okazję podziwiać bardzo ładne górskie widoki już z pociągu. Dyskutowałem krótko
 z Przemkiem, mi się podobały widoki w okolicy [Nowej Rudy][wiki-nowa-ruda] bardziej,
@@ -80,6 +82,8 @@ nic niebezpiecznego.
 Pierwszym ciekawym miejscem był parking obok drogi dojazdowej do
 [Błędnych Skał][wiki-bledne-skaly]. Zdecydowanie widać było, że jest majówką i każdy musi
 zobaczyć jedną z dwu największych atrakcji [Gór Stołowych][wiki-gory-stolowe].
+
+{% post_image "medium","IMGP9956raw1.jpg","Jadąc do Pasterki" %}
 
 Kierowaliśmy się dalej do [Karłowa][wiki-karlow]. Jest to wioska pod
 [Szczelińcem Wielkim][wiki-szczeliniec-wielki].
@@ -115,6 +119,8 @@ wioski. Przejechaliśmy przez [Niwę][wiki-niwa], minęliśmy
 skrzyżowanie z którego jest bardzo ładny widok na okolicę. Widać było z niego
 [Szczeliniec Wielki][wiki-szczeliniec-wielki]. To ciekawe uczucie gdy jest on
 "tak daleko", a było się tam niedawno, jakby przed chwilą.
+
+{% post_image "medium","IMGP9975raw1.jpg","Niedaleko Niwy" %}
 
 Powrót skróciliśmy drogą asfaltową a później gruntową przez pole. Wjechaliśmy
 w sam środek [Roszyc][wiki-roszyce].

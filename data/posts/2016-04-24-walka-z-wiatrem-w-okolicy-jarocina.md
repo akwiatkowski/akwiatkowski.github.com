@@ -6,7 +6,7 @@ date:                   2016-04-24 17:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, krzykosy, miloslaw, nowe_miasto_nad_warta, zerkow, jarocin]
 lands:                  [pojezierze_poznanskie]
 
@@ -63,6 +63,7 @@ skończyłem swoją trasę - do [Solca Wielkopolskiego][wiki-solec].
 Po ponad 30 minutach wysiadłem z pociągu i kierowałem się
 na wschód.
 
+
 Jechało mi się całkiem przyjemnie - dość łatwo osiągałem prędkość prawie 30km/h.
 Było zdecydowanie chłodniej niż wczoraj, jednak częściej pojawiało się słońce i dlatego
 momentami było tylko chłodniej niż wczoraj, momentami.
@@ -74,22 +75,18 @@ wioski. Ruch jakby był jeszcze mniejszy. Pewnie wszyscy siedzą w domach bo jes
 Nie wiedziałem w tym momencie, że później sam będę sobie takie pytanie zadawał -
 po co wychodziłem z domu.
 
+{% post_image "medium","IMGP9424raw1.jpg","Domy w okolicy Witkowa" %}
+
 Minąłem drogę 11 i jechałem dalej przez [Witowo][wiki-witowo] i [Pięczkowo][wiki-pieczkowo],
 a następnie [Orzechowo][wiki-orzechowo]. Jak już pisałem - spokojna niedziela i spokojne wioski
 (lub miasteczka).
+
+{% post_image "medium","IMGP9440raw1.jpg","Warta niedaleko Orzechowa" %}
 
 Za [Orzechowem][wiki-orzechowo] szlak rowerowy przebiegał w okolicy [Warty][wiki-warta].
 Tereny były bardzo ładne, a gdy pojawiało się słońce to tym bardziej. W tym momencie
 cieszyłem się, że jednak wyszedłem z domu. Okolice [Warty][wiki-warta] były jednym
 z najładniejszych widoków tego dnia.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/151132991/m%3D900/f4b6a210e1cf96d1341f8665efcb6ee8' alt='Spring near Czeszewo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/151132991/spring-near-czeszewo-by-aleksander-kwiatkowski' alt='Spring near Czeszewo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Jechałem cały czas na wschód szlakiem przez [Czeszewo][wiki-czeszewo],
 [Szczodrzejewo][wiki-szczodrzejewo] i chciałem dojechać do [Pogorzelicy][wiki-pogorzelica].
@@ -130,6 +127,8 @@ W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bard
 ładna i spokojna wioska. Gdy specjalnie o tym piszę że jest spokojna, to
 oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
 soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
+
+{% post_image "medium","IMGP9450raw1.jpg","Droga do Bieździadowa" %}
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą

@@ -6,7 +6,7 @@ date:                   2016-04-29 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152227501/q%3D80_m%3D2000/e5818de7f8598a7adc53d04222d20740"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, klodzko]
 lands:                  [kotlina_klodzka]
 
@@ -49,10 +49,14 @@ Szczegóły
 Z Poznania wyruszyłem pociągiem po 10-tej. Miałem przesiadkę we Wrocławiu, gdzie
 małą niedogodnością było znoszenie i wnoszenie roweru z sakwami po schodach.
 
+{% post_image "medium","IMGP9516raw1.jpg","Ślęża" %}
+
 W pociągu wolnego miejsca było całkiem sporo. Wydaję mi się, że na majówkę pociągi
 osobowe są znacznie rzadziej wykorzystywane. To jest w sumie sensowne - większość
 ludzi jedzie z daleka na kilka dni wolnego i woli dojechać szybko jednym
 pociągiem do celu.
+
+{% post_image "medium","IMGP9651raw1.jpg","Wioska Starczów" %}
 
 Swoją trasę rozpocząłem w [Ławicy][wiki-lawica]. Od razu poczułem, że jest to
 inny teren niż ten po jakim normalnie jeżdzę.
@@ -61,15 +65,23 @@ Przejechałem przez [Nysę Kłodzką][wiki-nysa-klodzka] i kierowałem się prze
 [Ścinawicę][wiki-scinawica]. Musiałem przejechać przez [Bierkowice][wiki-bierkowice]
 jadąc prawie 2km po trochę bardziej uczęszczanej drodze.
 
+{% post_image "medium","IMGP9676raw1.jpg","Widok na Śnieżnik z okolicy Gołogłów" %}
+
 Skręciłem na południe przez [Piszkowice][wiki-piszkowice]. Od tego momentu zaczął
 się podjazd. W [Ruszowicach][wiki-ruszowice] skręciłem jadąc prawie bezpośrednio
 do [Roszyc][wiki-roszyce].
+
+{% post_image "medium","IMGP9678raw1.jpg","Pola Kotliny Kłodzkiej" %}
 
 Dojazd był demonstracją tego, co mnie czeka przez najbliższe dni: pofalowany teren,
 podjazdy, rzeki, wioski, górki na horyzoncie. Wszystko było inne
 niż to co mam w okolicy Poznania, i przez to ciekawsze.
 
+{% post_image "medium","IMGP9696raw1.jpg","Droga przez pole" %}
+
 Po zostawieniu sakw miałem jeszcze dwie godziny na przyjazd reszty. Postanowiłem
 pokręcić się po okolicy. Sprawdziłem głównie okoliczne ścieżki polne. Dwie były
 najciekawsze, jednak nie powiedziałbym aby były bardzo ciekawe: wolniejszy skrót do
 [Ruszowic][wiki-ruszowice] oraz zjazd do [Piszkowic][wiki-piszkowice].
+
+{% post_image "medium","IMGP9711raw1.jpg","Widok na Piszkowice" %}
