@@ -6,7 +6,7 @@ date:                   2016-07-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164958819/q%3D80_m%3D2000/8e2ebdff84017c72cc5353842f977361"
 categories:             trip
-tags:                   [main, hike, todo_media]
+tags:                   [main, hike]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
@@ -24,6 +24,8 @@ pois:
 [wiki-kondracka-kopa]: https://pl.wikipedia.org/wiki/Kopa_Kondracka
 [wiki-schr-hala]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_Kondratowej
 [wiki-kondracka-przelecz]: https://pl.wikipedia.org/wiki/Kondracka_Prze%C5%82%C4%99cz
+[wiki-ciemniak]: https://pl.wikipedia.org/wiki/Ciemniak
+
 [pentax-macro]: http://www.pentaxforums.com/lensreviews/SMC-Pentax-FA-50mm-F2.8-Macro-Lens.html
 [kolatowki]: http://www.kalatowki.pl/
 
@@ -46,8 +48,12 @@ Szczegóły
 Niestety pogoda tego dnia nas nie rozpieszczała. Ruszyliśmy niebieskim szlakiem idąc
 przez standardowy las.
 
+{% post_image "medium","IMGP2388raw1.jpg","Widok tuż obok 'schroniska'" %}
+
 Dotarliśmy do małego [schroniska na Hali Kondratowej][wiki-schr-hala], gdzie nie
 zrobiliśmy przerwy. Postanowiliśmy iść dalej.
+
+{% post_image "medium","IMGP2429raw1.jpg","Oset" %}
 
 Z każdym metrem widoczność stopniowo się pogarszała. Bardzo mnie to demotywowało,
 gdyż sprawdziłem wcześniej jakie widoki są na górze przy dobrej pogodzie.
@@ -55,15 +61,21 @@ Próbowałem myśleć pozytywnie, że przynajmniej zdjęcia w mgle są interesuj
 albo że uda mi się zrobić jakieś fajne zdjęcia mokrej przyrody. Niestety nie
 wziąłem mojego ulubionego [szkła][pentax-macro] do macro.
 
+{% post_image "medium","IMGP2419raw1.jpg","Na Hali Kondratowej'" %}
+
 Rozpoczęło się kamieniaste podejście w kierunku [Kondrackiej Przełęczy][wiki-kondracka-przelecz].
 Po drodzę zrobiłem trochę zdjęć strumyczka ucząć się, że tryb preselekcji czasu
 jest przydatny.
+
+{% post_image "medium","IMGP2459raw1.jpg","Źródło strumyku" %}
 
 Ten strumyk płynął szlakiem wcześniej, ale nie zwracałem na niego za bardzo uwagi.
 
 Na [przełęczy][wiki-kondracka-przelecz] było już "solidne mleko" i trochę wiało, a mieliśmy
 jeszcze podejść wyżej.
 
+{% post_image "medium","IMGP2511raw1.jpg","Kropelki deszczu" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/165213721/m%3D900/3cea99cb0baef264da64d938de74d76d' alt='A lot of bubbles on green by Aleksander Kwiatkowski on 500px.com'>
@@ -71,22 +83,30 @@ jeszcze podejść wyżej.
   <a href='https://500px.com/photo/165213721/a-lot-of-bubbles-on-green-by-aleksander-kwiatkowski' alt='A lot of bubbles on green by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
 Zastanawiałem się dlaczego są umieszczone siatki na ziemii wokół szlaku.
 
-[wiki-ciemniak]: https://pl.wikipedia.org/wiki/Ciemniak
 
 Na [Kondrackiej Kopie][wiki-kondracka-kopa] była widoczność na kilkanaście metrów
 oraz solidny wiatr. Nie było sensu iść dalej w stronę [Ciemniaka][wiki-ciemniak] dlatego
 postanowiliśmy że schodzimy.
+
+{% post_image "medium","IMGP2523raw1.jpg","Na szczycie Kondrackiej Kopy" %}
 
 Początkowa część zejścia to były trawersy - szlak był jednym wielkim zyzgakiem.
 Dopiero będąc poniżej chmur pojawił się dobry widok na dolinę
 wokół [schroniska][wiki-schr-hala]. Od tego momentu trochę zwolniłem, aby móc
 zrobić więcej zdjęć.
 
+{% post_image_no_gallery "medium","IMGP2563raw1.jpg","Schodząc, opuszczając chmury" %}
+
 Tym razem zrobiliśmy sobie dłuższą przerwę w [schroniska][wiki-schr-hala].
 W międzyczasie raz solidniej padało.
 
+{% post_image "medium","IMGP2627raw1.jpg","Okolice schroniska na Hali Kondrackiej" %}
+
 Około 16-tej wróciliśmy do [Kolatówki][kolatowki] przygotowując się mentalnie na zmianę
 noclegu dnia następnego.
+
+{% post_image "medium","IMGP2704raw1.jpg","Wyciąg na Kasprowy Wierch we mgle" %}
