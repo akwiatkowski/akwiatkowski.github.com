@@ -6,7 +6,7 @@ date:                   2016-07-18 18:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164958501/q%3D80_m%3D2000/669c477d8f84b7ef1d1d790e02302b9e"
 categories:             trip
-tags:                   [main, hike, todo_media]
+tags:                   [main, hike]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
@@ -35,17 +35,23 @@ Nie udało mi się załatwić kuszetki. Spóźniłem się z wolnymi miejscami na
 o 23-ciej, a w pociągu o 2-giej nie było wagonu pierwszej klasy. Kupiłem w drugiej, jednak
 to miejsce było w wagonie bezprzedziałowym z cały czas włączonym światłem.
 
+{% post_image "medium","IMGP2270raw1.jpg","Drewniana architektura Zakopanego" %}
+
 Trudno odpowiedzieć w prosty sposób na pytanie "czy się wyspałem?". Raczej
 egzystowałem w trybie zombie.
 
 W [Krakowie][wiki-krakow] była przesiadka na autobus, który o dziwo znaleźliśmy
 bardzo łatwo.
 
+{% post_image "medium","IMGP2324raw1.jpg","Okolice Kolatówki" %}
+
 Teoretyczne 2 godziny i 10 minut przez korki na zakopiance, które są chyba już
 tradycją, zamieniło się na 3 godziny.
 
 Po wyjściu ruszyliśmy w stronę ["schroniska"][kolatowki] robiąc przerwę na jedzenie w
 Obrochtówce. Co ciekawe miejsce to nie ma ani strony, ani fanpage'a.
+
+{% post_image "medium","IMGP2362raw1.jpg","Okolice Kolatówki" %}
 
 Pomimo krótkiej odległości wyraźnie czułem napakowany plecak. Zastanawiałem się,
 co mnie czeka w kolejnych dniach.

@@ -6,7 +6,7 @@ date:                   2016-06-12 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, lubuskie, zbaszyn, trzciel, miedzichowo, pszczew, miedzychod, drezdenko, krzyz_wielkopolski]
 
 coords:                 [{"route": [[52.25982,15.89612], [52.25981,15.90134], [52.27030,15.88582], [52.30668,15.86913], [52.31193,15.86587], [52.32662,15.87213], [52.34419,15.87548], [52.36076,15.87505], [52.36479,15.87282], [52.36993,15.88544], [52.37925,15.88861], [52.39644,15.87480], [52.40628,15.87385], [52.41419,15.88097], [52.43465,15.87806], [52.43507,15.86930], [52.45438,15.84510], [52.45934,15.83986], [52.47043,15.81437], [52.47576,15.78416], [52.48371,15.77506], [52.50184,15.78519], [52.50487,15.81016], [52.51088,15.81858], [52.52248,15.84647], [52.52916,15.87437], [52.54096,15.87934], [52.55208,15.89479], [52.56502,15.89625], [52.56486,15.89325], [52.57769,15.89883], [52.59574,15.89436], [52.60799,15.88441], [52.60986,15.87840], [52.64180,15.85540], [52.64524,15.85771], [52.66929,15.85274], [52.67262,15.84733], [52.68813,15.84029], [52.70275,15.84544], [52.70576,15.84510], [52.72188,15.85523], [52.74044,15.85900], [52.75259,15.85694], [52.78531,15.83969], [52.79304,15.85943], [52.79922,15.84802], [52.81577,15.84364], [52.81624,15.85385], [52.82262,15.85454], [52.83496,15.83669], [52.84149,15.83574], [52.84253,15.83171]], "type": "bicycle"}]
@@ -81,11 +81,16 @@ obawą na chmury.
 
 W [Trzcielu][wiki-trzciel] podobały mi się stare domy w okolicach rynku.
 
+{% post_image "medium","IMGP1434raw1.jpg","Centrum miejscowości Trzciel" %}
+
+
 Jechaliśmy dalej na północ niebieskim szlakiem rowerowym. Po lewej stronie minęliśmy
 stary żydowski cmentarz. To że był on żydowski wiemy z tabliczki.
 
 Zjechaliśmy na chwilę na plażę obok jeziora Konin, chociaż nie mam pewności
 czy się ono tak nazywało.
+
+{% post_image "medium","IMGP1441raw2.jpg","Jezioro na północ od Trzcielu" %}
 
 Przejechaliśmy obok dosyć dużego tartaku. Dalej jechaliśmy głównie przez lasy aż
 do [Jabłonki Starej][wiki-jablonka-stara], w której wyjeżdzając widziałem
@@ -94,16 +99,24 @@ bardzo dużo ładnych starych domów.
 Ciekawostką tej trasy była naprzemienna zmiana województw. Raz byliśmy w
 [wielkopolskim][wiki-wielkopolska], raz w [lubuskiem][wiki-lubuskie].
 
+{% post_image "medium","IMGP1443raw1.jpg","Opuszczony sklep niedaleko plaży" %}
+
 Czekała na nas kilkokilometrowa droga przez las. Na szczęście nie jechaliśmy
 w czasie upałów i piasek nie był takim problemem.
 
 Kierowaliśmy się przez [Silną][wiki-silna] do [Pszczewa][wiki-pszczew] znowu jadąc
 przez głęboki las. Na szczęście tym razem był dobry asfalt.
 
+{% post_image "medium","IMGP1448raw1.jpg","Wrób przy Jeziorze Cegielnia obok Pszczewa" %}
+
+
 W [Pszczewie][wiki-pszczew] zjechaliśmy w okolice jeziora Kochle i po chwili
 opuściliśmy tą miejscowość jadąc w stronę [Stoków][wiki-stoki]. Są one całkiem
 klimatyczną wioską. Jeżeli się nie mylę to jechaliśmy szlakiem rowerowym
 [R1][wiki-r1].
+
+{% post_image "medium","IMGP1449raw1.jpg","Jezioro Cegielnia obok Pszczewa" %}
+
 
 Gdy minęliśmy ostatnie zabudowania przywitała nas już droga gruntowa. Wydaję mi
 się, że ta droga robi się często piaszczysta. Już my mieliśmy czasami problem
@@ -111,6 +124,8 @@ aby jechać. Wokół drogi są lekko pofalowane pola.
 
 Mieliśmy lekki podjazd, ktory nie był problemem, a lekką pracą w celu otrzymania
 późniejszej nagrody. Nagrodą tą był fajny terenowy zjazd do [Dormowa][wiki-dormowo].
+
+{% post_image "medium","IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem" %}
 
 Dojechaliśmy po pewnym czasie do lepszej drogi i kierowaliśmy się
 na północ w stronę [Międzychodu][wiki-miedzychod].
@@ -138,6 +153,8 @@ której mógłbym tutaj ponownie przejechać, chociaż może pojawią się kiedy
 
 Z ciekawostek po drodzę mijaliśmy jakiś [zakład przemysłowy][gaz] związane z
 gazem.
+
+{% post_image "medium","IMGP1463raw1.jpg","Noteć z mostu niedaleko Starych Bielic" %}
 
 Michał przekonał mnie abyśmy pojechali do [Krzyża][wiki-krzyz] cały czas
 szlakiem [R1][wiki-r1]. Przystanąłem na jego wersje, chociaż wolałem pojechać
