@@ -6,7 +6,7 @@ date:                   2016-01-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -45,6 +45,8 @@ sankach.
 Po tym jak zeszliśmy na ulicę Poniatowskiego w [Rabce][wiki-rabka] zaczęła się
 najdłuższa i najspokojniejsza część trasy - przejście do centrum miasta po
 ulicy. Spokojna w znaczniu nudna.
+
+{% post_image "medium","IMGP7310raw1.jpg","Oszroniona poranna Rabka Zdrój" %}
 
 Okazało się, że autobus do [Krakowa][wiki-krakow] odjeżdza prawie "po drodzę".
 

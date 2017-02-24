@@ -6,7 +6,7 @@ date:                   2016-04-23 16:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, kornik, zaniemysl, krzykosy]
 lands:                  [pojezierze_poznanskie]
 
@@ -86,6 +86,8 @@ Szlak był normalna drogą gruntową przez las, ale centrum
 [Mościenicy][wiki-moscienica] było znacznie ciekawsze gdyż jest to miejscowość rekreacyjna.
 Jest ona położona na uboczu, z jednej strony las, z drugiej jezioro.
 
+{% post_image "medium","IMGP9399raw1.jpg","Wiosenne drzewa niedaleko Błażejewka" %}
+
 Wyjeżdzając na drogę asfaltową po prawej minąłem ładnie kwitnąsy sad.
 
 Chwilę przejechałem przez drogą dojazdową do [Kórnika][wiki-kornik].
@@ -109,11 +111,15 @@ Dojeżdzając do [Zaniemyśla][wiki-zaniemysl] jechałem już przez las. W okoli
 Jego obwód wynosi ponad 8 metrów i jest to szóste najgrubsze drzewo w Polsce
 (według Lasów Państwowych).
 
+{% post_image "medium","IMGP9403raw1.jpg","Mniejsze jezioro niedaleko jeziora Wielkie Jeziory" %}
+
 W [Zaniemyślu][wiki-zaniemysl] przejechałem obok stacji [Średzkiej Kolei Powiatowej][wiki-kolej-sredzka],
 która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
 
 Przejechałem przez miasto, w którym ruch był minimalny. Kierowałem się do
 osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warta].
+
+{% post_image "medium","IMGP9413raw1.jpg","Dąb Dziadziuś" %}
 
 Przejechałem przez [Kępę Wielką][wiki-kepa-wielka], [Potachy][wiki-potachy] i
 [Młodzikowice][wiki-mlodzikowice]. Wszystkie te miejscowości to są naprawdę dzikie
@@ -124,3 +130,5 @@ jak te tereny będą wyglądały przed żniwami.
 Zostało mi około 40 minut do odjazdu pociągu z [Solca Wielkopolskiego][wiki-solec].
 Pospieszyłem się
 i zdążyłem 15 minut przed czasem.
+
+{% post_image "medium","IMGP9420raw1.jpg","Stacja kolejowa Solec Wielkopolski" %}

@@ -6,7 +6,7 @@ date:                   2016-04-15 13:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/149930057/q%3D80_m%3D2000/02947906efa7be5804909a200beb18e3"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, kleszczewo, kornik]
 lands:                  [pojezierze_poznanskie]
 
@@ -52,6 +52,8 @@ aby móc zobaczyć coś nowego.
 W momencie gdy minąłem tablicę oznaczającą koniec miasta i tak miałem
 świadomość, że są to miejscowości pod-poznańskie, że są to "sypialnie Poznania".
 Musiałbym pojechać gdzieś dalej, a niestety tego dnia nie miałem dużo czasu.
+
+{% post_image "medium","IMGP9223raw1.jpg","Podmiejska wioska" %}
 
 Na szczęście nie wszystko tego dnia było złe. Wymienię miejsca, które najbardziej mi się
 spodobały:

@@ -6,7 +6,7 @@ date:                   2016-04-03 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9"
 categories:             trip
-tags:                   [main, bicycle, todo_media]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, mosina, czempin, brodnica, koscian, smigiel]
 lands:                  [pojezierze_poznanskie, rownina_koscianska, kotlina_sremska, pojezierze_krzywinskie]
 
@@ -67,6 +67,8 @@ kierowaliśmy się na południe
 przez [Nowinki][wiki-nowinki]. W rzeczywistości ten szlak był oznaczony czarną farbą.
 Przez dłuższy czas szlak był poprowadzony ścieżką w lesie, równolegle do drogi asfaltowej.
 
+{% post_image "medium","IMGP9037raw1.jpg","W lesie obok Drużyny (Poznańskiej)" %}
+
 Kilka kilometór musieliśmy jechać po drodzę asfaltowej, na szczęście ruch nie był duży.
 Po lewej stronie mijaliśmy ogrodzenie, prawdopodobnie od jakiegoś dużego gospodarstwa
 rolnego. Z tego co się orientuję, jest tam sporo takich obiektów.
@@ -76,6 +78,8 @@ lekkiego spadu terenu udało się osiągnąć całkiem dużą prędkość.
 
 Przejechaliśmy przez [Pecnę][wiki-pecna] i [Czempiń][wiki-czempin]. Nic tam nie nagrałem,
 chyba nic specjalnie ciekawego nie było.
+
+{% post_image "medium","IMGP9073raw1.jpg","Między Gorzycami a Witkówkiem" %}
 
 Ruszyliśmy dalej na południe przez [Borowo][wiki-borowo]. Tutaj wcześniej planowałem
 jechać czerwonym szlakiem rowerowym ulicą Kolejową. Każdy plan jest taką ogólną ideą i
@@ -88,6 +92,8 @@ rowerowym. Po pewnym czasie dołączyliśmy do wcześniej planowanego szlaku i j
 na południe przez [Witkówki][wiki-witkowki] aż do miejscowości [Racot][wiki-racot],
 przez którą przepływa Racocki Rów. Podobały mi się tory na zachód w tej miejscowości.
 
+{% post_image "medium","IMGP9088raw1.jpg","Zarośnięta linia kolejowa Kościan-Gostyń" %}
+<!--
 <div class='pixels-photo'>
   <p>
     <img src='https://drscdn.500px.org/photo/148162379/m%3D900/cf40e1a1136a6d6ea99760e750803ed3' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'>
@@ -95,10 +101,13 @@ przez którą przepływa Racocki Rów. Podobały mi się tory na zachód w tej m
   <a href='https://500px.com/photo/148162379/old-railroad-tracks-by-aleksander-kwiatkowski' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'></a>
 </div>
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
+-->
 
 Dalej ruszyliśmy do [Gryżyny][wiki-gryzyna], a dalej wokół jeziora [Wonieść][wiki-jezioro-woniesc].
 Bardzo fajny, długi, ale lekki zjazd, oraz jezioro po lewej stronie - to były jedne z ciekawszych
 terenów tego dnia.
+
+{% post_image "medium","IMGP9104raw1.jpg","Okolica jeziora Wonieść" %}
 
 Do cywilizacji (dworca kolejowego w [Przysiece Polskiej][wiki-przysieka-polska])
 wracaliśmy przez [Gniewowo][wiki-gniewowo]. Tam widzieliśmy pawia. Pierwszy raz
