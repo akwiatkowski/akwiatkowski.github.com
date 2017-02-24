@@ -6,7 +6,7 @@ date:                   2014-01-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/57453366/m%3D2048/35b8b3d3cc6ea1fe7a1bdeac11d2a378"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, walim, gluszyca]
 lands:                  [gory_sowie]
 
@@ -36,6 +36,8 @@ Opis trasy
 Ruszyliśmy podobnie jak drugiego dnia, tylko odwrotnie. Nie poszliśmy szlakiem
 czerwonym [GSS][wiki-gss] tylko drogą do [Sierpnicy][wiki-sierpnica], a następnie
 przez [Osówkę][wiki-osowka] i żółtym szlakiem rowerowym przez las.
+
+{% post_image "medium","IMGP3176raw1.jpg","Poranny widok z okolic schroniska Orzeł" %}
 
 Raczej niewiele było ciekawego tego dnia. Czasami pojawiło się słońce i było
 trochę ładniej.
