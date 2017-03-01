@@ -6,7 +6,7 @@ date:                   2015-07-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115281185/m%3D2048/54cf24301a0275031f2d8ec66989f280"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, piwniczna_zdroj, labowa, rytro, nawojowa]
 lands:                  [beskid_sadecki]
 
@@ -30,31 +30,75 @@ Wstęp
 
 Drugi dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki]. Spore zejście i nowe podejście.
 
-Szczegóły
----------
+Opis trasy
+----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346183870/embed/51fc7d270ff506cf683c46b1ec87d68348785916'></iframe>
+
+Szczegóły
+---------
 
 Trasa od [Hali Łabowskiej][wiki-labowska] na zachód jest znacznie ciekawsza. Jest więcej polan i punktów widokowych.
 Z jednej z tych polan widać ładnie [okolice Nowego Sącza][pano-nowy-sacz], a w innej bardzo dobrze widać [okolice Rytra][pano-rytro].
 
+{% post_image "medium","IMGP1260raw1.jpg","Widok z Jaworzyny Kokuszczańskiej" %}
+
 Schodziliśmy cały czas czerwonym szlakiem GSB. Po drodzę odwiedziliśmy [Chatę Cyrla][cyrla], która bardzo pozytywnie zaskoczyła
 nas wyglądem, stanem, jedzeniem jak i jego ceną. Zdecydowanie warto odwiedzić to miejsce.
+
+{% post_image "medium","IMGP1262raw1.jpg","Widok na Tatry" %}
 
 Dalej szlak robił się bardziej interesujący, w sensie wąski. Robiło się coraz cieplej i po dotarciu do drogi asfaltowej
  w [Rytrze][wiki-rytro]
 było już ciężko. Musieliśmy zejść do mostu przez rzekę [Poprad][wiki-poprad], a następnie odwiedziliśmy sklep.
 Jak się okazało była to bardzo dobra decyzja.
 
+{% post_image "medium","IMGP1284raw1.jpg","Chata Cyrla" %}
+
 Pamiętam, że schodząc ze wschodniej częscie [Rytra][wiki-rytro] widziałem na wzgórzu po drugiej stronie drogę. Zastanawiało mnie
 jaki jest z niej widok. Również, jakby to z niej zjechać rowerem kiedyś, ale to teraz mniej istotne. Mieliśmy okazję
 przekonać się, gdyż musieliśmy podejść tam. W końcu te metry wysokości gdzieś trzeba zrobić.
+
+{% post_image "medium","IMGP1306raw1.jpg","Zejście do Rytra" %}
 
 Podejście nie było trudne, ale byliśmy zmęczeni zejściem oraz wysoką temperaturą. Nagrodą za to były, według mnie, najlepsze
 widoki z całego wyjazdu. Górki i pagórki, wioski, domy, drogi. Wiem że wyżej takie widoki będą tylko w miejscach niezalesionych.
 Tutaj było ich znacznie więcej.
 
+{% post_image "medium","IMGP1381raw1.jpg","Pole na zachód od Rytra" %}
+
 Szlak w stronę Kordowca miał w sobie nie tylko widoki, było też trochę tunelów przez las lub inne krzaczory.
+
+{% post_image "medium","IMGP1393raw2.jpg","Szlak w stronę Kordowca" %}
 
 Gdy dotarliśmy do Kordowca, dowiedzieliśmy się że to takie małe schronisko, oraz nie ma tam jedzenia. Bo po
 co zapytać się podczas rezerwacji. Rozpoczęła się analiza ile mamy jedzenia, i wyszło że powinno jakoś wystarczyć.
+
+{% post_image "medium","IMGP1462raw1.jpg","Strumyk niedaleko Kordowca" %}
+
+Dodatkowe zdjęcia
+-----------------
+
+To był najciekawszy dzień pod względem pogody i widoków. Dlatego warto by było
+umieścić więcej zdjęć. Wszystkie te zdjęcia były wykonane na szlaku czerwonym
+między [Rytrem][wiki-rytro] a Kordowcem.
+
+{% post_image "medium","IMGP1399raw1.jpg","Okolica Roztoki Ryterskiej" %}
+
+Okolica Roztoki Ryterskiej
+
+{% post_image "medium","IMGP1404raw1.jpg","Ścieżka wokół zieleni" %}
+
+Ścieżka wokół zieleni
+
+{% post_image "medium","IMGP1422raw1.jpg","Widok na Rytro" %}
+
+Widok na Rytro
+
+{% post_image "medium","IMGP1439raw1.jpg","Domy na zboczach" %}
+
+Domy na zboczach
+
+{% post_image "medium","IMGP1448raw1.jpg","Wyżyny Rytra" %}
+
+Wyżyny Rytra

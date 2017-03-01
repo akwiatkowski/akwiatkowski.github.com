@@ -6,7 +6,7 @@ date:                   2015-12-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/134966611/m%3D2048/c9bf3a2f10eb9b591a0b5ed15e53494b"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -41,13 +41,21 @@ Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem sz
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 
+{% post_image "medium","IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój" %}
+
 Dopiero teraz zauważyłem że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
 Myślałem, że jest jakieś bardziej bezpośrednie połączenie, ale innych torów tam nie ma.
+
+{% post_image "medium","IMGP6634raw1.jpg","Słońce już zachodziło nad Rabką" %}
 
 W [Rabce][wiki-rabka] zrobiliśmy małe zapasy w sklepie i rozpoczęliśmy podejście
 [czerwonym szlakiem][wiki-gsb] w stronę [schroniska][wiki-maciejowa].
 Powoli robiło się już ciemno i ostatnie 10-15 minut doszliśmy na czołówce.
 
+{% post_image "medium","IMGP6664raw1.jpg","Rabka nocą" %}
+
 Wieczorem wyszedłem ze statywem porobić trochę nocnych zdjęć, gdyż widoczność była
 bardzo dobra. Gdyby był lekki wiatr to mogła by być idealna, ale to byłby problem
 z ewentualną stabilnością statywu.
+
+{% post_image "medium","IMGP6685raw1.jpg","Luboń Wielki" %}

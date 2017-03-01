@@ -6,7 +6,7 @@ date:                   2016-01-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/135034595/m%3D2048/92f3adfbd746da32aa9443b60dcbd98a"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -49,24 +49,24 @@ Szczegóły
 Wyruszyliśmy dość późno, bo około 12-tej. Musieliśmy przenieść rzeczy do innego
 pokoju, a wcześniej wstać po Sylwestrze.
 
+{% post_image "medium","IMGP7175raw1.jpg","Ponice" %}
+
 Ruszyliśmy na wschód od [schroniska][wiki-maciejowa], ze sto metrów, a później
 zielonym szlakiem na południe. Jednocześnie z zielonym przebiega tam żółty szlak rowerowy,
 jednak chyba nie rzuciłbym się na niego rowerem.
 
+{% post_image "medium","IMGP7208raw1.jpg","Kryształki lodu" %}
+
 Zeszliśmy do [Ponic][wiki-ponice], takiej małej wsi pośrodku gór. Chociaż bardziej
 to były duże pagórki.
+
+{% post_image "medium","IMGP7252raw1.jpg","Idąc do Rdzawki" %}
 
 Następnie kolejne podejście na wzgórze nad [Rdzawką][wiki-rdzawka]. Mieliśmy
 tam zobaczyć [kościół][wiki-rdzawka-kosciol], jednak robiło się zimniej niż
 w poprzednich dniach i trzeba było wracać.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/140612373/m%3D900/ea8f35e67c6490acb16d81eeace7302a' alt='Wooden fence in Gorce by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/140612373/wooden-fence-in-gorce-by-aleksander-kwiatkowski' alt='Wooden fence in Gorce by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% post_image_no_gallery "medium","IMGP7285raw1.jpg","Lekkie zamglenie" %}
 
 Szliśmy przez [Rdzawkę][wiki-rdzawka] na północ. Gdy doszliśmy do miejsca, w którym
 [Rdzawka][wiki-rdzawka] i [Ponice][wiki-ponice] łączą się z [Rabką][wiki-rabka]
