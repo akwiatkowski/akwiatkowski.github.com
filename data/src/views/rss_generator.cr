@@ -15,6 +15,10 @@ class RssGenerator
 
   getter :url
 
+  def output
+    to_xml
+  end
+
   def to_xml
     content
   end

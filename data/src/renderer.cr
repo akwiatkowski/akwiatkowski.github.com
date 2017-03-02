@@ -44,6 +44,8 @@ class Tremolite::Renderer
     render_year_stat_reports_pages
     render_gallery
 
+    render_sitemap
+
     render_payload_json
     render_rss
     render_atom
@@ -51,7 +53,7 @@ class Tremolite::Renderer
 
   def render_index
     view = HomeView.new(blog: @blog, url: "/")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_paginated_list
@@ -93,12 +95,12 @@ class Tremolite::Renderer
 
   def render_map
     view = MapView.new(blog: @blog, url: "/map")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_planner
     view = PlannerView.new(blog: @blog, url: "/planner")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_todo_routes
@@ -107,37 +109,37 @@ class Tremolite::Renderer
     # all
     todos = todos_all.sort { |a, b| a.distance <=> b.distance }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # close - within 150 minutes of train
     todos = todos_all.select { |t| t.close? }.sort { |a, b| a.distance <=> b.distance }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/close")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # full_day - 150-270 (2.5-4.5h) minutes of train
     todos = todos_all.select { |t| t.full_day? }.sort { |a, b| a.distance <=> b.distance }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/full_day")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # external - >270 (4.5h) minutes of train
     todos = todos_all.select { |t| t.external? }.sort { |a, b| a.distance <=> b.distance }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/external")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # touring - longer than 140km
     todos = todos_all.select { |t| t.touring? }.sort { |a, b| a.distance <=> b.distance }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/touring")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # order by "from"
     todos = todos_all.sort { |a, b| a.from <=> b.from }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/order_by/from")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # order by "transport_total_cost_minutes"
     todos = todos_all.sort { |a, b| a.transport_total_cost_minutes <=> b.transport_total_cost_minutes }
     view = TodosView.new(blog: @blog, todos: todos, url: "/todos/order_by/transport_cost")
-    write_output(view.url, view.to_html)
+    write_output(view)
 
     # notes from markdown
     view = MarkdownPageView.new(
@@ -148,12 +150,12 @@ class Tremolite::Renderer
       title: @blog.data_manager.not_nil!["todos.title"],
       subtitle: @blog.data_manager.not_nil!["todos.subtitle"]
     )
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_payload_json
     view = PayloadJsonGenerator.new(blog: @blog, url: "/payload.json")
-    write_output(view.url, view.to_json)
+    write_output(view)
   end
 
   def render_rss
@@ -170,7 +172,7 @@ class Tremolite::Renderer
       updated_at: blog.post_collection.last_updated_at
     )
 
-    write_output(view.url, view.to_xml)
+    write_output(view)
   end
 
   def render_atom
@@ -189,14 +191,14 @@ class Tremolite::Renderer
       updated_at: blog.post_collection.last_updated_at
     )
 
-    write_output(view.url, view.to_xml)
+    write_output(view)
   end
 
   def render_tags_pages
     blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
       download_image_if_needed(local: tag.image_url, remote: tag.header_ext_img)
       view = TagView.new(blog: @blog, tag: tag)
-      write_output(view.url, view.to_html)
+      write_output(view)
     end
     @logger.info("Renderer: Tags finished")
   end
@@ -205,7 +207,7 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.lands.not_nil!.each do |land|
       download_image_if_needed(local: land.image_url, remote: land.header_ext_img)
       view = LandView.new(blog: @blog, land: land)
-      write_output(view.url, view.to_html)
+      write_output(view)
     end
     @logger.info("Renderer: Lands finished")
   end
@@ -214,7 +216,7 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.towns.not_nil!.each do |town|
       download_image_if_needed(local: town.image_url, remote: town.header_ext_img)
       view = TownView.new(blog: @blog, town: town)
-      write_output(view.url, view.to_html)
+      write_output(view)
     end
     @logger.info("Renderer: Towns finished")
   end
@@ -223,7 +225,7 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
       download_image_if_needed(local: voivodeship.image_url, remote: voivodeship.header_ext_img)
       view = TownView.new(blog: @blog, town: voivodeship)
-      write_output(view.url, view.to_html)
+      write_output(view)
     end
     @logger.info("Renderer: Voivodeships (town) finished")
   end
@@ -237,7 +239,7 @@ class Tremolite::Renderer
 
   def render_post(post : Tremolite::Post)
     view = PostView.new(blog: @blog, post: post)
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_more_page
@@ -249,7 +251,7 @@ class Tremolite::Renderer
       title: @blog.data_manager.not_nil!["more.title"],
       subtitle: @blog.data_manager.not_nil!["more.subtitle"]
     )
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_about_page
@@ -261,47 +263,44 @@ class Tremolite::Renderer
       title: @blog.data_manager.not_nil!["about.title"],
       subtitle: @blog.data_manager.not_nil!["about.subtitle"]
     )
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_summary_page
     view = SummaryView.new(blog: @blog, url: "/summary")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_pois
     view = PoisView.new(blog: @blog, url: "/pois")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_towns_index
     view = TownsIndexView.new(blog: @blog, url: "/towns")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_lands_index
     view = LandsIndexView.new(blog: @blog, url: "/lands")
-    write_output(view.url, view.to_html)
+    write_output(view)
   end
 
   def render_year_stat_reports_pages
     years = @blog.post_collection.posts.map(&.time).map(&.year).uniq
     years.each do |year|
       view = YearStatReportView.new(blog: @blog, year: year, all_years: years)
-      write_output(view.url, view.to_html)
+      write_output(view)
     end
-
-    # # current year for easier linking
-    # view = YearStatReportView.new(blog: @blog,
-    #   year: Time.now.year,
-    #   all_years: years,
-    # )
-    # view.url = "/year/current"
-    # write_output(view.url, view.to_html)
   end
 
   def render_gallery
     view = GalleryView.new(blog: @blog)
-    write_output(view.url, view.to_html)
+    write_output(view)
+  end
+
+  def render_sitemap
+    view = Tremolite::Views::SiteMapGenerator.new(blog: @blog, url: "/sitemap.xml")
+    write_output(view)
   end
 end

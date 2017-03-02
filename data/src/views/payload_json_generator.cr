@@ -6,6 +6,10 @@ class PayloadJsonGenerator
 
   getter :url
 
+  def output
+    to_json
+  end
+
   def to_json
     result = JSON.build do |json|
       json.object do
