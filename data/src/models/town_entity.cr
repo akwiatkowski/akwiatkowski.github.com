@@ -7,12 +7,13 @@ struct TownEntity
   @name : String
   @type : String
   @header_ext_img : String
+  @header_img : (String | Nil)
 
   @voivodeship : String | Nil
   @lat : Float64 | Nil
   @lon : Float64 | Nil
 
-  getter :name, :slug, :voivodeship, :header_ext_img, :lat, :lon
+  getter :name, :slug, :voivodeship, :header_ext_img, :header_img, :lat, :lon
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
@@ -20,6 +21,9 @@ struct TownEntity
     @type = y["type"].to_s
 
     @header_ext_img = y["header-ext-img"].to_s
+    if y["header-img"]?
+      @header_img = y["header-img"].to_s
+    end
 
     if y["inside"]?
       @voivodeship = y["inside"][0].to_s

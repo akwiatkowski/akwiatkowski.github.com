@@ -2,6 +2,7 @@ struct LandEntity
   @slug : String
   @name : String
   @header_ext_img : String
+  @header_img : (String | Nil)
   @main : String
   @country : String
   @type : String
@@ -9,12 +10,15 @@ struct LandEntity
   @train_time_poznan : (Int32 | Nil)
   @near : Array(String)
 
-  getter :name, :slug, :main, :header_ext_img, :country, :type, :visited, :train_time_poznan
+  getter :name, :slug, :main, :header_ext_img, :header_img, :country, :type, :visited, :train_time_poznan
 
   def initialize(y : YAML::Any)
     @slug = y["slug"].to_s
     @name = y["name"].to_s
     @header_ext_img = y["header-ext-img"].to_s
+    if y["header_img"]?
+      @header_img = y["header_img"].to_s
+    end
     @main = y["main"].to_s
     @country = y["country"].to_s
     @type = y["type"].to_s

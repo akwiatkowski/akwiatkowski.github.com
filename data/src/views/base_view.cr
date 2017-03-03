@@ -132,6 +132,8 @@ class BaseView < Tremolite::Views::BaseView
       ph["post.date"] = post.date
       ph["post.author"] = post.author
 
+      ph["post.thumb_image_url"] = post.big_thumb_image_url.not_nil!
+
       content += load_html("post/preview", ph)
       content += "\n"
     end

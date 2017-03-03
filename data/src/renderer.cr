@@ -45,6 +45,7 @@ class Tremolite::Renderer
     render_gallery
 
     render_sitemap
+    render_robot
 
     render_payload_json
     render_rss
@@ -196,7 +197,11 @@ class Tremolite::Renderer
 
   def render_tags_pages
     blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
-      download_image_if_needed(local: tag.image_url, remote: tag.header_ext_img)
+      copy_or_download_image_if_needed(
+        destination: tag.image_url,
+        external: tag.header_ext_img,
+        local: tag.header_img
+      )
       view = TagView.new(blog: @blog, tag: tag)
       write_output(view)
     end
@@ -205,7 +210,11 @@ class Tremolite::Renderer
 
   def render_lands_pages
     blog.data_manager.not_nil!.lands.not_nil!.each do |land|
-      download_image_if_needed(local: land.image_url, remote: land.header_ext_img)
+      copy_or_download_image_if_needed(
+        destination: land.image_url,
+        external: land.header_ext_img,
+        local: land.header_img
+      )
       view = LandView.new(blog: @blog, land: land)
       write_output(view)
     end
@@ -214,7 +223,11 @@ class Tremolite::Renderer
 
   def render_towns_pages
     blog.data_manager.not_nil!.towns.not_nil!.each do |town|
-      download_image_if_needed(local: town.image_url, remote: town.header_ext_img)
+      copy_or_download_image_if_needed(
+        destination: town.image_url,
+        external: town.header_ext_img,
+        local: town.header_img
+      )
       view = TownView.new(blog: @blog, town: town)
       write_output(view)
     end
@@ -223,7 +236,11 @@ class Tremolite::Renderer
 
   def render_voivodeships_pages
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-      download_image_if_needed(local: voivodeship.image_url, remote: voivodeship.header_ext_img)
+      copy_or_download_image_if_needed(
+        destination: voivodeship.image_url,
+        external: voivodeship.header_ext_img,
+        local: voivodeship.header_img
+      )
       view = TownView.new(blog: @blog, town: voivodeship)
       write_output(view)
     end
@@ -301,6 +318,11 @@ class Tremolite::Renderer
 
   def render_sitemap
     view = Tremolite::Views::SiteMapGenerator.new(blog: @blog, url: "/sitemap.xml")
+    write_output(view)
+  end
+
+  def render_robot
+    view = Tremolite::Views::RobotGenerator.new
     write_output(view)
   end
 end
