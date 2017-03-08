@@ -10,7 +10,7 @@ categories:             trip
 tags:                   [photo, workshop, todo]
 towns:                  [dolnoslaskie, karpacz]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.73932,15.72902], [50.73413,15.69718], [50.72745,15.69293]], "type": "hike"}]
 distance:               8
 time_spent:             3
 
@@ -33,11 +33,11 @@ time_spent:             3
 Wstęp i szczegóły
 -----------------
 
-Tego dnia pogoda była najgorsza. Nie było żadnej przejrzystości.
+Tego dnia pogoda była najgorsza. Nie było żadnej przejrzystości nieba.
 
 Dla rozrywki przeszliśmy się do [Lucni Bouda][wiki-lucni-bouda]. Schronisko to
-ma całkiem wysoki standard i małe porcje jedzenia.
+ma całkiem wysoki standard i stosunkowo małe porcje jedzenia.
 
-Pamiętam że pierwszy obiad zjadłem o 12-tej, w [Lucni Boudzie][wiki-lucni-bouda]
+Pamiętam, że pierwszy obiad zjadłem o 12-tej, w [Lucni Boudzie][wiki-lucni-bouda]
 zjadłem zupę i po powrocie do [Domu Śląskiego][wiki-dom-slaski] zjadłem
-drugi obiad. Jadło się dużo bo za oknem zimno i wieje.
+drugi obiad. Jadło się dużo bo za oknem zimno, wieje i co innego można robić wtedy.

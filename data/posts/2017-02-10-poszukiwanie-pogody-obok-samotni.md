@@ -7,10 +7,10 @@ keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-10 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, todo]
+tags:                   [photo, workshop, todo_media]
 towns:                  [dolnoslaskie, karpacz]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.74114,15.70645], [50.74980,15.71121], [50.74836,15.70387]], "type": "hike"}]
 distance:               10
 time_spent:             6
 
@@ -33,7 +33,7 @@ Wstęp
 -----
 
 Budząc się drugiego dnia nie miałem już nadziei na dobrą pogodę, ale to nie
-przeszkodziło nam aby wstać rano na wejście na [Śnieżkę][wiki-sniezka].
+przeszkodziło nam aby wstać rano aby wejść na [Śnieżkę][wiki-sniezka].
 
 Opis trasy
 ----------
@@ -49,15 +49,20 @@ o 6:30, maksymalnie czekając na spóźnialskich 2 minuty - tak ustalił
 
 Na [Śnieżce][wiki-sniezka] wiało, była mgła i ogólnie średnio ciekawie.
 
+Przyzwyczajałem się do otaczającej mnie monotonii, gdzie tylko ja albo inny
+człowiek jest czymś innym niż bielą.
+
 Wróciliśmy na wykłady po których około 13-tej poszliśmy na spacer w stronę
 [Samotni][wiki-samotnia]. Im bardziej schodziliśmy tym chmury się robiły
-nieznacznie bardziej rzadkie. Na wysokości [schroniska][wiki-samotnia]
+rzadsze. Na wysokości [schroniska][wiki-samotnia]
 coś tam było widać.
 
-TODO: mocno wiało, drobinki lodu uderzały twarz
+Przez całą drogę bardzo mocno wiało. Drobinki lodu uderzały mnie w twarz.
 
-Wróciliśmy tą samą drogą.
+Wróciliśmy tą samą drogą do [Domu Śląskiego][wiki-dom-slaski].
 
 Mój pokój był na południowo-wschodnim rogu [schroniska][wiki-dom-slaski].
-Od południa zaczęło bardzo mocno wiać. W nocy było mi zimno, ale nie pomyślałem
-aby ubrać polar. Średnio mi się spało.
+Od południa bardzo mocno wiał wiatr. W nocy było mi zimno, ale nie pomyślałem
+aby ubrać polar. Przez zimno miałem problemy ze spaniem.
+
+W tej sytuacji otwarcie okna aby przewietrzyć nabiera zupełnie innego znaczenia.
