@@ -6,7 +6,9 @@ this.TodoRoute = (function() {
     this.loadRoutes = bind(this.loadRoutes, this);
     this.executeFilter = bind(this.executeFilter, this);
     this.route_destination_names = [];
+    this.route_destination_major_names = [];
     this.route_destination_objects = [];
+    this.route_destination_major_objects = [];
   }
 
   TodoRoute.prototype.start = function() {
@@ -23,10 +25,11 @@ this.TodoRoute = (function() {
   };
 
   TodoRoute.prototype.executeFilter = function() {
-    var filter_route_both, filter_route_flag_long, filter_route_flag_normal, filter_route_flag_small, filter_route_flag_touring, filter_route_from, filter_route_less, filter_route_more, filter_route_to, filter_route_total_cost, filter_route_transport_cost;
+    var filter_route_both, filter_route_both_major, filter_route_flag_long, filter_route_flag_normal, filter_route_flag_small, filter_route_flag_touring, filter_route_from, filter_route_less, filter_route_more, filter_route_to, filter_route_total_cost, filter_route_transport_cost;
     filter_route_from = $("#filter-route-from").val();
     filter_route_to = $("#filter-route-to").val();
     filter_route_both = $("#filter-route-both").val();
+    filter_route_both_major = $("#filter-route-both-major").val();
     filter_route_less = $("#filter-distance-less-than").val();
     filter_route_more = $("#filter-distance-more-than").val();
     filter_route_flag_small = $("#filter-flag-small").prop("checked");
@@ -74,6 +77,15 @@ this.TodoRoute = (function() {
       $(".todo_route").each((function(_this) {
         return function(index, todo_route) {
           if (($(todo_route).data("route-to") !== filter_route_both) && ($(todo_route).data("route-from") !== filter_route_both)) {
+            return $(todo_route).hide();
+          }
+        };
+      })(this));
+    }
+    if (filter_route_both_major.length > 1) {
+      $(".todo_route").each((function(_this) {
+        return function(index, todo_route) {
+          if (($(todo_route).data("route-to-major") !== filter_route_both_major) && ($(todo_route).data("route-from-major") !== filter_route_both_major)) {
             return $(todo_route).hide();
           }
         };
@@ -127,10 +139,10 @@ this.TodoRoute = (function() {
   };
 
   TodoRoute.prototype.loadRoutes = function() {
-    var i, len, ref, route_element_object;
+    var i, j, len, len1, ref, ref1, route_element_major_object, route_element_object;
     $(".todo_route").each((function(_this) {
       return function(index, todo_route) {
-        var route_from, route_from_cost_minutes, route_from_direction_human, route_from_distance, route_from_label, route_to, route_to_cost_minutes, route_to_direction_human, route_to_distance, route_to_label;
+        var route_from, route_from_cost_minutes, route_from_direction_human, route_from_distance, route_from_label, route_from_major, route_from_major_cost_minutes, route_from_major_direction_human, route_from_major_distance, route_from_major_label, route_to, route_to_cost_minutes, route_to_direction_human, route_to_distance, route_to_label, route_to_major, route_to_major_cost_minutes, route_to_major_direction_human, route_to_major_distance, route_to_major_label;
         route_from = $(todo_route).data("route-from");
         route_from_cost_minutes = $(todo_route).data("route-from-cost-minutes");
         route_from_distance = $(todo_route).data("route-from-distance");
@@ -147,6 +159,22 @@ this.TodoRoute = (function() {
         if (parseFloat(route_to_distance) > 0.0) {
           route_to_label += " (" + Math.round(parseFloat(route_to_distance)) + "km " + route_to_direction_human + ")";
         }
+        route_from_major = $(todo_route).data("route-from-major");
+        route_from_major_cost_minutes = null;
+        route_from_major_distance = null;
+        route_from_major_direction_human = null;
+        route_from_major_label = route_from_major;
+        if (parseFloat(route_from_major_distance) > 0.0) {
+          route_from_major_label += " (" + Math.round(parseFloat(route_from_major_distance)) + "km " + route_from_major_direction_human + ")";
+        }
+        route_to_major = $(todo_route).data("route-to-major");
+        route_to_major_cost_minutes = null;
+        route_to_major_distance = null;
+        route_to_major_direction_human = null;
+        route_to_major_label = route_to_major;
+        if (parseFloat(route_to_major_distance) > 0.0) {
+          route_to_label += " (" + Math.round(parseFloat(route_to_major_distance)) + "km " + route_to_major_direction_human + ")";
+        }
         if (_this.route_destination_names.indexOf(route_from) < 0) {
           _this.route_destination_names.push(route_from);
           _this.route_destination_objects.push({
@@ -159,7 +187,7 @@ this.TodoRoute = (function() {
         }
         if (_this.route_destination_names.indexOf(route_to) < 0) {
           _this.route_destination_names.push(route_to);
-          return _this.route_destination_objects.push({
+          _this.route_destination_objects.push({
             name: route_to,
             cost_minutes: route_to_cost_minutes,
             distance: route_to_distance,
@@ -167,10 +195,38 @@ this.TodoRoute = (function() {
             label: route_to_label
           });
         }
+        if (route_from_major.length > 1) {
+          if (_this.route_destination_major_names.indexOf(route_from_major) < 0) {
+            _this.route_destination_major_names.push(route_from_major);
+            _this.route_destination_major_objects.push({
+              name: route_from_major,
+              cost_minutes: route_from_major_cost_minutes,
+              distance: route_from_major_distance,
+              direction_human: route_from_major_direction_human,
+              label: route_from_major_label
+            });
+          }
+        }
+        if (route_to_major.length > 1) {
+          if (_this.route_destination_major_names.indexOf(route_to_major) < 0) {
+            _this.route_destination_major_names.push(route_to_major);
+            return _this.route_destination_major_objects.push({
+              name: route_to_major,
+              cost_minutes: route_to_major_cost_minutes,
+              distance: route_to_major_distance,
+              direction_human: route_to_major_direction_human,
+              label: route_to_major_label
+            });
+          }
+        }
       };
     })(this));
     this.route_destination_names = this.route_destination_names.sort();
     this.route_destination_objects = this.route_destination_objects.sort(function(a, b) {
+      return a.name.localeCompare(b.name);
+    });
+    this.route_destination_major_names = this.route_destination_major_names.sort();
+    this.route_destination_major_objects = this.route_destination_major_objects.sort(function(a, b) {
       return a.name.localeCompare(b.name);
     });
     ref = this.route_destination_objects;
@@ -187,6 +243,14 @@ this.TodoRoute = (function() {
       $("#filter-route-both").append($("<option>", {
         value: route_element_object.name,
         text: route_element_object.label
+      }));
+    }
+    ref1 = this.route_destination_major_objects;
+    for (j = 0, len1 = ref1.length; j < len1; j++) {
+      route_element_major_object = ref1[j];
+      $("#filter-route-both-major").append($("<option>", {
+        value: route_element_major_object.name,
+        text: route_element_major_object.label
       }));
     }
     return $(".route-filter-field").on("change", (function(_this) {

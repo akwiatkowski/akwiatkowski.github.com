@@ -18,6 +18,7 @@ class TodosView < PageView
       data = Hash(String, String).new
       data["route.from"] = todo_route.from
       data["route.to"] = todo_route.to
+
       data["route.url"] = todo_route.url
       data["route.flag_normal"] = todo_route.flag_normal.to_s
       data["route.flag_long"] = todo_route.flag_long.to_s
@@ -46,6 +47,19 @@ class TodosView < PageView
         data["route.to_cost_minutes"] = ""
         data["route.to_distance"] = ""
         data["route.to_direction_human"] = ""
+      end
+
+      # closest major poi
+      if todo_route.from_poi && todo_route.from_poi.not_nil!.closest_major_name
+        data["route.from-major"] = todo_route.from_poi.not_nil!.closest_major_name.not_nil!
+      else
+        data["route.from-major"] = ""
+      end
+
+      if todo_route.to_poi && todo_route.to_poi.not_nil!.closest_major_name
+        data["route.to-major"] = todo_route.to_poi.not_nil!.closest_major_name.not_nil!
+      else
+        data["route.to-major"] = ""
       end
 
       data["route.distance"] = todo_route.distance.to_i.to_s

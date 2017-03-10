@@ -18,6 +18,7 @@
 
 - commune_slug: poznan
   name: Poznań
+  major: true
   time_cost: 0
   lat: 52.40513
   lon: 16.91354
@@ -41,6 +42,7 @@
   lon: 16.70943
 
 - commune_slug: wronki
+  major: true
   name: Wronki
   time_cost: 42
   lat: 52.70519
@@ -83,6 +85,7 @@
   lon: 15.30206
 
 - commune_slug: gorzow_wielkopolski
+  major: true
   name: Gorzów Wielkopolski
   time_cost: 130
   lat: 52.72817
@@ -101,6 +104,7 @@
   lon: 15.48588
 
 - commune_slug: kostrzyn_nad_odra
+  major: true
   name: Kostrzyn nad Odrą
   time_cost: 160
   lat: 52.59029
@@ -133,12 +137,14 @@
   lon: 15.51791
 
 - commune_slug: szczecin
+  major: true
   name: Szczecin
   time_cost: 150
   lat: 53.41916
   lon: 14.55017
 
 - commune_slug: stargard
+  major: true
   name: Stargard
   time_cost: 110
   lat: 53.33950
@@ -151,12 +157,14 @@
   lon: 14.83214
 
 - commune_slug: pila
+  major: true
   name: Piła
   time_cost: 120
   lat: 53.14329
   lon: 16.74256
 
 - commune_slug: szczecinek
+  major: true
   name: Szczecinek
   time_cost: 180
   lat: 53.69378
@@ -175,6 +183,7 @@
   lon: 16.27179
 
 - commune_slug: leszno
+  major: true
   name: Leszno
   time_cost: 280
   lat: 51.84576
@@ -199,6 +208,7 @@
   lon: 16.78021
 
 - commune_slug: bardo
+  major: true
   name: Bardo
   time_cost: 250
   lat: 50.50498
@@ -211,12 +221,14 @@
   lon: 17.47036
 
 - commune_slug: klodzko
+  major: true
   name: Kłodzko
   time_cost: 240
   lat: 50.43609
   lon: 16.65857
 
 - commune_slug: jelenia_gora
+  major: true
   name: Jelenia Góra
   time_cost: 240
   lat: 50.90202
@@ -277,6 +289,7 @@
   lon: 19.78746
 
 - commune_slug: przemysl
+  major: true
   name: Przemyśl
   time_cost: 560
   lat: 49.78351
@@ -296,12 +309,14 @@
   lon: 16.86072
 
 - commune_slug: kolobrzeg
+  major: true
   name: Kołobrzeg
   time_cost: 270
   lat: 54.18216
   lon: 15.57060
 
 - commune_slug: swinoujscie
+  major: true
   name: Świnoujście
   time_cost: 260
   lat: 53.90487
@@ -326,18 +341,21 @@
   lon: 17.03021
 
 - commune_slug: koscian
+  major: true
   name: Kościan
   time_cost: 45
   lat: 52.07896
   lon: 16.64209
 
 - commune_slug: koscian
+  major: true
   name: Zbąszyń
   time_cost: 60
   lat: 52.25963
   lon: 15.89562
 
 - commune_slug: dobiegniew
+  major: true
   name: Dobiegniew
   time_cost: 80
   lat: 52.96832
@@ -350,6 +368,7 @@
   lon: 16.85254
 
 - commune_slug: skoki
+  major: true
   name: Skoki
   time_cost: 50
   lat: 52.67465
@@ -362,12 +381,14 @@
   lon: 18.19322
 
 - commune_slug: gdynia
+  major: true
   name: Gdynia
   time_cost: 240
   lat: 54.52142
   lon: 18.53010
 
 - commune_slug: torun
+  major: true
   name: Toruń
   time_cost: 135
   lat: 53.00020
@@ -404,6 +425,7 @@
   lon: 15.26138
 
 - commune_slug: rzepin
+  major: true
   name: Rzepin
   time_cost: 100
   time_cost_min: 70
@@ -418,6 +440,7 @@
   lon: 16.01824
 
 - commune_slug: bialogard
+  major: true
   name: Białogard
   time_cost: 210
   lat: 54.00956
@@ -489,12 +512,6 @@
   lat: 53.14111
   lon: 17.60184
 
-- commune_slug: naklo_nad_notecia
-  name: Nakło nad Notecią
-  time_cost: 190
-  lat: 53.14111
-  lon: 17.60184
-
 - commune_slug: chojnice
   name: Chojnice
   time_cost: 230
@@ -502,6 +519,7 @@
   lon: 17.57712
 
 - commune_slug: opalenica
+  major: true
   name: Opalenica
   time_cost: 30
   lat: 52.30999
@@ -514,6 +532,7 @@
   lon: 16.82412
 
 - commune_slug: zmigrod
+  major: true
   name: Żmigród
   time_cost: 100
   lat: 51.47468
@@ -538,6 +557,7 @@
   lon: 17.94087
 
 - commune_slug: jarocin
+  major: true
   name: Jarocin
   time_cost: 60
   lat: 51.96897
@@ -556,6 +576,7 @@
   lon: 15.46740
 
 - commune_slug: zielona_gora
+  major: true
   name: Zielona Góra
   time_cost: 90
   lat: 51.94716
@@ -604,12 +625,14 @@
   lon: 15.12122
 
 - commune_slug: szamotuly
+  major: true
   name: Szamotuły
   time_cost: 30
   lat: 52.60356
   lon: 16.58549
 
 - commune_slug: buk
+  major: true
   name: Buk
   time_cost: 25
   lat: 52.34492
@@ -622,6 +645,7 @@
   lon: 16.36426
 
 - commune_slug: gniezno
+  major: true
   name: Gniezno
   time_cost: 40
   lat: 52.53000
@@ -633,6 +657,12 @@
   lat: 52.61085
   lon: 17.90381
 
+- commune_slug: trzemeszno
+  name: Trzemeszno
+  time_cost: 80
+  lat: 52.56962
+  lon: 17.81825
+
 - commune_slug: gniezno
   name: Jankowo Dolne
   time_cost: 65
@@ -640,7 +670,14 @@
   lon: 17.71910
 
 - commune_slug: konin
+  major: true
   name: Konin
   time_cost: 90
   lat: 52.23178
   lon: 18.25074
+
+- commune_slug: bydgoszcz
+  name: Trzciniec
+  time_cost: 130
+  lat: 53.08539
+  lon: 17.94823

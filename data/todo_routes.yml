@@ -1,5 +1,3 @@
-# TODO add coords and inner waypoints
-
 # priorities
 # super - very interesting ride to try at first possible moment
 # interesting - good to ride
@@ -1187,3 +1185,21 @@
   distance: 77
   time_length: 5.0
   url: http://umapa.pl/lSdzu
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Trzemeszno
+  to: Trzciniec
+  through:
+    - Ławki
+    - Gąsawa
+    - Żnin
+    - Chomętowo
+    - Łabiszyn
+    - Władysławowo
+  info: Przez okolice Żnina. Można skracać i przejechać przez tereny wiejskie, inaczej głównie lasy.
+  priorities:
+    - normal
+  distance: 81
+  time_length: 5.25
+  url: http://umapa.pl/mtn7m

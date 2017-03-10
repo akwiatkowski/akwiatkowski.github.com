@@ -47,25 +47,30 @@ class Tremolite::DataManager
 
   def load_land_types
     f = File.join([@data_path, "land_types.yml"])
-    YAML.parse(File.read(f)).each do |tag|
-      o = LandTypeEntity.new(tag)
+    YAML.parse(File.read(f)).each do |land_type|
+      o = LandTypeEntity.new(land_type)
       @land_types.not_nil! << o
     end
   end
 
   def load_lands
     f = File.join([@data_path, "lands.yml"])
-    YAML.parse(File.read(f)).each do |tag|
-      o = LandEntity.new(tag)
+    YAML.parse(File.read(f)).each do |land|
+      o = LandEntity.new(land)
       @lands.not_nil! << o
     end
   end
 
   def load_transport_pois
     f = File.join([@data_path, "transport_pois.yml"])
-    YAML.parse(File.read(f)).each do |tag|
-      o = TransportPoiEntity.new(tag)
+    YAML.parse(File.read(f)).each do |transport_poi|
+      o = TransportPoiEntity.new(transport_poi)
       @transport_pois.not_nil! << o
+    end
+
+    # setup closest
+    @transport_pois.not_nil!.each do |transport_poi|
+      transport_poi.assign_closest_major(@transport_pois.not_nil!)
     end
   end
 
