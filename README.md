@@ -3,6 +3,38 @@
 This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
 [Jekyll](https://jekyllrb.com/) to [`tremolite`](https://github.com/akwiatkowski/tremolite).
 
+## Roadmap
+
+1. [ ] Copy [my blog in Jekyll](http://odkrywajacpolske.pl/) features:
+  * [x] Index
+  * [x] Paginated list
+  * [x] Header image resize
+  * [x] Summary
+  * [x] Pois
+  * [x] Remove gallery, link to smugmug, 500px, panoramio dead (ugly google)
+  * [x] Plans / TODO
+  * [x] Plans / TODO - notes link
+  * [x] Plans / TODO - predefined filters (short 4h trip, day 4-8h, long day 6-12h, external 1day, external)
+  * [x] Planner
+  * [x] Tag pages `/tag/{{name}}`
+  * [x] Tags list page `/tags/`
+  * [x] Tags post field
+  * [x] Land pages `/land/{{name}}`
+  * [x] Lands list `/lands/`
+  * [x] Lands post field
+  * [x] Towns pages `/town/{{name}}`
+  * [x] Towns list `/towns`
+  * [x] Towns post field
+  * [x] Pois post field
+  * [x] RSS/Atom
+
+
+2. [ ] TODO
+  * [ ] Town statistics
+  * [x] RSS/Atom by tags
+  * [ ] Post summary JSON - partially
+  * [ ] About: check this http://kolejnapodroz.pl/blogu/
+
 ## Installation
 
 TODO: Write installation instructions here
