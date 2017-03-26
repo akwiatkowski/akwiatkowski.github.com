@@ -681,3 +681,33 @@
   time_cost: 130
   lat: 53.08539
   lon: 17.94823
+
+- commune_slug: wagrowiec
+  name: Wągrowiec
+  time_cost: 70
+  lat: 52.80932
+  lon: 17.20246
+
+- commune_slug: tuczno
+  name: Tuczno Krajeńskie
+  time_cost: 230
+  lat: 53.21853
+  lon: 16.17076
+
+- commune_slug: kalisz_pomorski
+  name: Kalisz Pomorski
+  time_cost: 250
+  lat: 53.28878
+  lon: 15.90417
+
+- commune_slug: bialosliwie
+  name: Białośliwie
+  time_cost: 200
+  lat: 53.09656
+  lon: 17.11679
+
+- commune_slug: golina
+  name: Kawnice
+  time_cost: 80
+  lat: 52.24947
+  lon: 18.15156

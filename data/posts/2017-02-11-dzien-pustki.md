@@ -7,7 +7,7 @@ keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-11 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, todo]
+tags:                   [photo, workshop, todo_media]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.73932,15.72902], [50.73413,15.69718], [50.72745,15.69293]], "type": "hike"}]
@@ -40,4 +40,4 @@ ma całkiem wysoki standard i stosunkowo małe porcje jedzenia.
 
 Pamiętam, że pierwszy obiad zjadłem o 12-tej, w [Lucni Boudzie][wiki-lucni-bouda]
 zjadłem zupę i po powrocie do [Domu Śląskiego][wiki-dom-slaski] zjadłem
-drugi obiad. Jadło się dużo bo za oknem zimno, wieje i co innego można robić wtedy.
+drugi obiad. Jadło się dużo bo za oknem zimno, wieje i nic innego nie ma co robić wtedy.

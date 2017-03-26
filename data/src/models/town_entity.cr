@@ -6,7 +6,7 @@ struct TownEntity
   @slug : String
   @name : String
   @type : String
-  @header_ext_img : String
+  @header_ext_img : (String | Nil)
   @header_img : (String | Nil)
 
   @voivodeship : String | Nil
@@ -20,9 +20,11 @@ struct TownEntity
     @name = y["name"].to_s
     @type = y["type"].to_s
 
-    @header_ext_img = y["header-ext-img"].to_s
     if y["header-img"]?
       @header_img = y["header-img"].to_s
+    end
+    if y["header-ext-img"]?
+      @header_img = y["header-ext-img"].to_s
     end
 
     if y["inside"]?

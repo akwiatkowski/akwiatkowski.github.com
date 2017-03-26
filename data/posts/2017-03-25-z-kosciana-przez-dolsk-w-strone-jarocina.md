@@ -1,0 +1,123 @@
+---
+layout:                 post
+title:                  "Z Kościana, przez Dolsk, w stronę Jarocina"
+subtitle:               ""
+desc:                   ""
+keywords:               [promno]
+date:                   2017-03-25 18:00:00
+author:                 "Aleksander Kwiatkowski"
+categories:             trip
+tags:                   [bicycle, todo]
+towns:                  [wielkopolskie, koscian, krzywin, dolsk, ksiaz_wielkopolski, nowe_miasto_nad_warta, krzykosy]
+
+coords:                 [{"route": [[52.07902,16.64186], [52.08150,16.65533], [52.08432,16.65980], [52.07546,16.71082], [52.06382,16.73121], [52.05213,16.77099], [52.04981,16.79236], [52.05219,16.80893], [52.03846,16.81476], [52.03815,16.82532], [52.04057,16.82541], [52.03873,16.84498], [52.02399,16.85579], [52.00424,16.90978], [52.00500,16.91171], [52.00257,16.91780], [51.98696,16.93518], [51.97961,16.93870], [51.97567,16.96441], [51.97445,16.99050], [51.97784,17.00621], [51.97363,17.02647], [51.98180,17.06226], [51.98709,17.06243], [51.98645,17.06612], [51.99132,17.06766], [51.99908,17.10191], [51.99650,17.12406], [51.99940,17.15092], [52.00447,17.15744], [52.01377,17.19821], [52.02656,17.21152], [52.03252,17.20937], [52.04250,17.22637], [52.04852,17.22903], [52.03516,17.26396], [52.04224,17.28422], [52.06018,17.30996], [52.06915,17.35897], [52.08540,17.34601], [52.09099,17.34301], [52.09721,17.32679], [52.10075,17.32447], [52.10681,17.32765], [52.10944,17.31975]], "type": "bicycle"}]
+distance:               71
+time_spent:             5
+
+pois:
+  - lat: 52.04356
+    lon: 16.82583
+    name: Zielony, terenowy szlak rowerowy obok Turewa
+  - lat: 51.97659
+    lon: 16.96355
+    name: Między Bieżyniem a Łagowem. Ciekawy szlak przez pola, miejscami jest mokro.
+
+---
+
+Wstęp
+-----
+
+
+Opis trasy
+----------
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/913965919/embed/15d9a2bffe235db77b074c6f9923523d24a517c2'></iframe>
+
+Szczegóły
+---------
+
+Dojechaliśmy pociągiem TLK do [Kościana][wiki-koscian]. Dobre na tej stacji jest to, że
+można spokojnie wyjechać z peronu na ulicę.
+
+Ruszyliśmy na wschód w stronę [Starego Lubosza][wiki-stary-lubosz]. Powoli opuszczaliśmy
+tereny podmiejskie. Widać było to na podstawie nowo powstałych domów.
+
+Za [Starym Luboszem][wiki-stary-lubosz] przejechałem przez drogę, którą
+[rok temu]({% post_url 2016-04-03-z-mosiny-do-kosciana %}) jechałem na południe.
+Skróciliśmy drogą polną aby nie musieć jechać w stronę [Racota][wiki-racot].
+
+Przed [Turewem][wiki-turew] skręciliśmy do [Rogaczewa Małego][wiki-rogaczewo-male]
+przejeżdzając mostem przez Rów Wyskoc, a przynajmniej tak na mapie UMP jest
+ten strumyk nazwany.
+
+Spodobało mi się główne skrzyżowanie w [Rogaczewie Małym][wiki-rogaczewo-male].
+Jeden albo dwa budynki oraz jakiś budynek przemysłowy dalej i to cała wioska.
+Zapomniałem jeszcze o wiacie autobusowej.
+
+Ruszyliśmy na wschód mijając zielony (albo czarny) szlak rowerowy
+[Turew][wiki-turew]-[Krzywiń][wiki-krzywin]. Szlak ten jest terenowy głównie,
+ale mnie zaciekawił.
+
+Przez [Rogaczewo Wielkie][wiki-rogaczewo-wielkie] jechaliśmy w stronę kolejnego
+szlaku rowerowego. Nie zatrzymaliśmy się przy jeziorze [Zbęchy][wik-jezioro-zbechy]
+gdyż myślałem, że później będzie odpowiedniejsze miejsce.
+
+Wyjeżdzając z wioski wkroczyliśmy na drogę gruntową i bardziej pofalowany teren.
+
+W [Bieżyniu][wiki-biezyn] skręciliśmy na wschód na niebieski szlak rowerowy i
+jechaliśmy na wschód do [Łagowa][wiki-lagowo]. Szlak ten okazał się ciekawszy niż
+myślałem i jak zrobi się bardziej kolorowo może tam być naprawdę ładnie.
+
+W jednym miejscu zbiera się wilgoć i tam miałem problem aby przejechać, ale oprócz
+tego zdecydowanie polecam to miejsce. Później tego dnia jechaliśmy podobnym szlakiem
+obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
+
+Ruszyliśmy na wschód. Do [Dolska][wiki-dolsk] już mieliśmy w miarę blisko. Jechaliśmy
+teraz przez las, ale jechało się całkiem przyjemnie.
+
+TODO gdzieś wcześniej też był fajny zjazd
+
+Podobał mi się zjazd ulicą Podrzekta, ale ten wcześniejszy był znacznie fajniejszy.
+
+W [Dolsku][wiki-dols] dojechaliśmy nad jezioro na chwilkę i kontynuowaliśmy
+trasę. Ruszyliśmy na północ widząc wysokie pagórki naprzeciw. Myślałem że
+będzie ich więcej i więcej widoków, a mam wrażenie że trochę ich ominęliśmy.
+
+Skręciliśmy w prawo na wschód i jechaliśmy w stronę [Trąbinka][wiki-trabinek].
+Po lewej stronie było podwyższenie terenu a po prawej obniżenie.
+
+Za [Błażejewem][wiki-blazejewo] jechaliśmy żółtym szlakiem rowerowym do
+[Włościejewek][wiki-wlosciejewki]. Miejscami teren był lekko pofalowany, ale las
+ograniczał widoczność.
+
+Chcieliśmy dojechać do [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski] i dalej
+do stacji kolejowej. Mieliśmy ponad godzinę do odjazdu więc postanowiliśmy się
+trochę pokręcić po okolicy. Obok nieużywanej stacji kolejowej skręciliśmy
+w prawo i przejechaliśmy przez okoliczną wioskę. Trasa ta była podobna do
+niebieskiego szlaku obok [Łagowa][wiki-lagowo], ale szybko wyjechaliśmy na
+drodze gruntowej. Drogi te były pewnego rodzaju labiryntem łączącym tutejsze
+gospodarstwa rolne.
+
+Przejechaliśmy przez [Chromiec][wiki-chomiec] i zrobiliśmy przerwę na jedzenie
+na przystanku na skrzyżowaniu dróg do [Chociczy][wiki-chocicza] i
+[Boguszynka][wiki-boguszynek].
+
+Do [Chociczy][wiki-chocicza] mieliśmy 3 kilometry a godzinę do odjazdu pociągu.
+Postanowiliśmy spróbować pojechać dalej.
+
+Bardzo szybko przejechaliśmy przez miejscowość i skręciliśmy na północ w ulicę
+Leśną. Dojechaliśmy do wsi [Rogusko][wiki-rogusko] nie wiedząc o tym, że
+jest to osobna miejscowość. To jest kilka domów niedaleko rzeki [Warty][wiki-warta].
+
+Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy pod wiatr i tylko
+las, oraz lekkie obniżenie terenu, nam ułatwiały. Gdy już byliśmy w okolicy warty
+nie było drzew, które mogły nam pomagać. Spokojniej, powoli dojechaliśmy pod most
+kolejowy.
+
+Nie byłem pewien czy tym mostem można przedostać się na drugą stronę, na szczeście
+jest tam dobra kładka i nie musieliśmy się wracać. Wyjechaliśmy w
+[Solcu Wielkopolskim][wiki-solec-wielkopolski].
+W tym miejscu
+[kończyłem jedną trasę]({% post_url 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej %})
+, a
+[zaczynałem drugą ]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}).

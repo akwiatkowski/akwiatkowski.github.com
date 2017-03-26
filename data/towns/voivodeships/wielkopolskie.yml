@@ -1,4 +1,4 @@
---- 
+---
 - slug: bialosliwie
   name: Białośliwie
   header-ext-img: https://drscdn.500px.org/photo/165636075/q%3D80_m%3D2000/5a4eaea7ae1fa34fb7cb37b4ef56b948
@@ -347,5 +347,18 @@
 - slug: zerkow
   name: Żerków
   header-ext-img: https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96
+  type: town
+  voivodeship: wielkopolskie
+
+- slug: krzywin
+  name: Krzywin
+  type: town
+  voivodeship: wielkopolskie
+- slug: dolsk
+  name: Dolsk
+  type: town
+  voivodeship: wielkopolskie
+- slug: ksiaz_wielkopolski
+  name: Książ Wielkopolski
   type: town
   voivodeship: wielkopolskie

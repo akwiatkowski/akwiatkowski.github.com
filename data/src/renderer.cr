@@ -225,9 +225,9 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.towns.not_nil!.each do |town|
       copy_or_download_image_if_needed(
         destination: town.image_url,
-        external: town.header_ext_img,
+        external: town.header_ext_img.not_nil!,
         local: town.header_img
-      )
+      ) if town.header_ext_img
       view = TownView.new(blog: @blog, town: town)
       write_output(view)
     end
@@ -238,9 +238,9 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
       copy_or_download_image_if_needed(
         destination: voivodeship.image_url,
-        external: voivodeship.header_ext_img,
+        external: voivodeship.header_ext_img.not_nil!,
         local: voivodeship.header_img
-      )
+      ) if voivodeship.header_ext_img
       view = TownView.new(blog: @blog, town: voivodeship)
       write_output(view)
     end

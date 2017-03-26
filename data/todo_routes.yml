@@ -1203,3 +1203,122 @@
   distance: 81
   time_length: 5.25
   url: http://umapa.pl/mtn7m
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Wronki
+  to: Wągrowiec
+  through:
+    - Piotrowo
+    - Sokołowo
+    - Połajewo
+    - Tamowo
+  info: Można skrócić do Rogoźna. Początkowo lasy, później więcej wiosek
+  priorities:
+    - normal
+  distance: 68
+  time_length: 4.5
+  url: http://umapa.pl/Ky5ik
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Miały
+  to: Kalisz Pomorski
+  through:
+    - Wieleń
+    - Żelichowo
+    - Szczuczarz
+    - Człopa
+    - Golin
+    - Niemieńsko
+  info: Tereny głównie lesiste, raczej mało pól. Za Człopą może być trochę gruntowo. Można skrócić do Tuczna Krajeńskiego (61km i 4h powrót)
+  priorities:
+    - low
+  distance: 82
+  time_length: 6
+  url: http://umapa.pl/UUJni
+
+- voivodeship: pomorskie
+  type: bicycle
+  from: Białośliwie
+  to: Lotyń
+  through:
+    - Młotkowo
+    - Bługowo
+    - Kleszczyna
+    - Złotów
+    - Sławnica
+    - Łąkie
+    - Trudna
+    - Lędyczek Drugi
+    - Węgorzewo
+  info: Głównie przez spokojne wioski. Można skrócić w okolicy linii Piła-Chojnice. Przed końcówką trochę lasów.
+  priorities:
+    - low
+  distance: 91
+  time_length: 6
+  url: http://umapa.pl/A9jnU
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Wojanów
+  to: Głuszyca Górna
+  through:
+    - Janowice Wielkie
+    - Marciszów
+    - Kamienna Góra
+    - Krzeszów
+    - Kochanów
+    - Mieroszów
+    - Mezimesti
+    - Hermankovice
+    - Janovicky
+  info: Lekkimi pagórkowatymi terenami przez sudecki wioski. Na ogół drogami z małym ruchem samochodów. Obok Janovicky trochę trzeba będzie poprowadzić rower. Ostatni pociąg jest o 18:42, a poprzedni o 16:00. Za Kochanowem nie można już skrócić trasy.
+  priorities:
+    - normal
+  distance: 74
+  time_length: 5.5
+  train_return_time_cost: 90
+  url: http://umapa.pl/a7aoE
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Wojanów
+  to: Głuszyca Górna
+  through:
+    - Janovicky
+    - Hermankovice
+    - Mezimesti
+    - Mieroszów
+    - Chełmsko Śląskie
+    - Lubawka
+    - Przełęcz Kowarska
+    - Kowary
+    - Strużnica
+  info: Trochę przez pagórki. Najtrudniejsza część to podjazd na Przełęcz Kowarską. Zaletą jest brak ograniczeń czasowych, ale trzeba wstać rano na pociąg o 7 godzinie.
+  priorities:
+    - normal
+  distance: 80
+  time_length: 6
+  train_return_time_cost: 90
+  url: http://umapa.pl/ay8Ts
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Kawnice
+  to: Janikowo
+  through:
+    - Kazimierz Biskupi
+    - Kleczew
+    - Kopydłowo
+    - Wilczogóra
+    - Wójcin
+    - Miradz
+    - Strzelno
+    - Rzadkwin
+  info: Przez okolicę elektrowni Konin/Pątnów, dalej trochę pól i lasy w okolicy Strzelna.
+  priorities:
+    - normal
+  distance: 65
+  time_length: 4
+  url: http://umapa.pl/yRYcf

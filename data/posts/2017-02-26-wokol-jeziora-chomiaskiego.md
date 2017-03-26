@@ -17,11 +17,15 @@ time_spent:             6
 ---
 
 [wiki-jezioro-chomiaskie]: https://pl.wikipedia.org/wiki/Jezioro_Chomi%C4%85skie
+[wiki-jezioro-foluskie]: https://pl.wikipedia.org/wiki/Jezioro_Foluskie
+
+[hotel]: http://www.herbariumhotel.pl/
+[grod-piasta]: http://grodpiasta.pl/
 
 Wstęp
 -----
 
-Był to weekend nastawiony na odpoczynek po bardzo spokojnej wiosce położonej
+W ten weekend nastawiliśmy się na odpoczynek w okolicach bardzo spokojnej wioski położonej
 przy [Jeziorze Chomiąskim][wiki-jezioro-chomiaskie].
 
 Opis trasy
@@ -31,3 +35,39 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Tego dnia pogoda się trochę pogorszyła, zrobiło się szaro. Taka wczesna szara, smutna,
+polska wiosna.
+
+{% post_image "medium","IMGP2908raw1.jpg","Jezioro Chomiąskie podczas dobrej pogody" %}
+
+Dzień rozpoczęliśmy w okolicy [hotelu][hotel] i ruszyliśmy na północ idąc najpierw
+drogą asfaltową.
+
+Szybko weszliśmy do lasu. Co jakiś czas mijaliśmy domy. Po lewej stronie był jeden z
+dwóch ośrodków wczasowych. Nazwy jego już nie pamiętam.
+
+{% post_image "medium","IMGP2950raw1.jpg","Jezioro Chomiąskie" %}
+
+Domy występowały w grupie, która była oddzielona od innych lasem.
+
+Kierowaliśmy się na północ aby przejść przez strumień łączący
+[Jezioro Chomiąskie][wiki-jezioro-chomiaskie] z
+[Jeziorem Foluskim][wiki-jezioro-foluskie].
+
+{% post_image "medium","IMGP2959raw1.jpg","Droga przez las" %}
+
+Dotarliśmy do drogi asfaltowej i skręciliśmy na południe idąc po niebieskim
+szlaku rowerowym. Szliśmy teraz w stronę [Grodu Piasta][grod-piasta].
+
+{% post_image "medium","IMGP2994raw2.jpg","Pierwszy kot w Grodzie Piasta" %}
+
+[Gród Piasta][grod-piasta] to specyficzny hotel. Posiadają tam sporo własnych
+zwierząt hodowlanych.
+
+{% post_image "medium","IMGP3007raw1.jpg","Zwierzęta w Grodzie Piasta" %}
+
+Idąc dalej na południe minęliśmy osiedle domków letniskowych a dalej drugi
+ośrodek wczasowy.
+
+{% post_image "medium","IMGP3023raw1.jpg","Drugi kot w Grodzie Piasta" %}
