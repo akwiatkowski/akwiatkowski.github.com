@@ -6,12 +6,6 @@ class YearStatReportView < PageView
     @image_url = generate_image_url.as(String)
     @title = "#{@year}"
     @subtitle = "Podsumowanie roku #{@year}"
-
-    # if Time.now.year == @year
-    #   @url = "/year/current"
-    # else
-    #   @url = "/year/#{@year}"
-    # end
     @url = "/year/#{@year}"
   end
 
@@ -45,7 +39,8 @@ class YearStatReportView < PageView
     end
     data["other_year_links"] = years_strings.join(", ")
 
-    posts_list = "<ul>\n"
+    # post lists
+    posts_list = ""
     @posts.each do |post|
       post_data = Hash(String, String).new
       post_data["post.date"] = post.date
@@ -83,8 +78,43 @@ class YearStatReportView < PageView
 
       posts_list += load_html("year_stats/post_row", post_data)
     end
-    posts_list += "</ul>\n"
     data["posts_list"] = posts_list
+
+    # months list
+    months_list = ""
+    (1..12).each do |month|
+      month_data = Hash(String, String).new
+
+      month_distance = 0
+      month_distance_bicycle = 0
+      month_distance_hike = 0
+      month_time_spent = 0
+
+      @posts.select{ |post| post.time.month == month }.each do |post|
+        post_distance = post.distance.as(Float64).ceil.to_i
+        post_time_spent = post.time_spent.as(Float64).ceil.to_i
+
+        if post.self_propelled?
+          month_distance += post_distance.to_i
+          month_time_spent += post_time_spent.to_i
+        end
+        if post.bicycle?
+          month_distance_bicycle += post_distance.to_i
+        end
+        if post.hike? || post.walk?
+          month_distance_hike += post_distance.to_i
+        end
+      end
+
+      month_data["month"] = month.to_s
+      month_data["month.distance"] = month_distance.to_s
+      month_data["month.distance_bicycle"] = month_distance_bicycle.to_s
+      month_data["month.distance_hike"] = month_distance_hike.to_s
+      month_data["month.time_spent"] = month_time_spent.to_s
+
+      months_list += load_html("year_stats/month_row", month_data)
+    end
+    data["months_list"] = months_list
 
     return load_html("year_stats/stats", data)
   end

@@ -70,6 +70,20 @@ class Tremolite::Post
     return false
   end
 
+  # TODO implement this
+  def related_posts(blog : Tremolite::Blog)
+    posts = blog.post_collection.posts
+    return posts.select{|post| self.is_related_to_other_post?(post) }
+  end
+
+  def is_related_to_other_post?(post : Tremolite::Post, blog : Tremolite::Blog)
+    # TODO get list of towns
+    towns = blog.data_manager.towns
+    # TODO check towns
+
+    return false
+  end
+
   def custom_process_header
     if @header["coords"]?
       # TODO refactor to structure
