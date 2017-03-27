@@ -24,6 +24,29 @@ pois:
 
 ---
 
+[wiki-koscian]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcian
+[wiki-stary-lubosz]: https://pl.wikipedia.org/wiki/Stary_Lubosz
+[wiki-racot]: https://pl.wikipedia.org/wiki/Racot
+[wiki-turew]: https://pl.wikipedia.org/wiki/Turew_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-rogaczewo-male]: https://pl.wikipedia.org/wiki/Rogaczewo_Ma%C5%82e
+[wiki-krzywin]: https://pl.wikipedia.org/wiki/Krzywi%C5%84
+[wiki-rogaczewo-wielkie]: https://pl.wikipedia.org/wiki/Rogaczewo_Wielkie
+[wiki-zbechy]: https://pl.wikipedia.org/wiki/Zb%C4%99chy
+[wiki-biezyn]: https://pl.wikipedia.org/wiki/Bie%C5%BCy%C5%84
+[wiki-lagowo]: https://pl.wikipedia.org/wiki/%C5%81agowo
+[wiki-ksiaz-wielkopolski]: https://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Wielkopolski
+[wiki-dolsk]: https://pl.wikipedia.org/wiki/Dolsk
+[wiki-trabinek]: https://pl.wikipedia.org/wiki/Tr%C4%85binek
+[wiki-blazejewo]: https://pl.wikipedia.org/wiki/B%C5%82a%C5%BCejewo_(powiat_%C5%9Bremski)
+[wiki-wlosciejewki]: https://pl.wikipedia.org/wiki/W%C5%82o%C5%9Bciejewki_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-chromiec]: https://pl.wikipedia.org/wiki/Chromiec_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-chocicza]: https://pl.wikipedia.org/wiki/Chocicza_(gmina_Nowe_Miasto_nad_Wart%C4%85)
+[wiki-boguszynek]: https://pl.wikipedia.org/wiki/Boguszynek
+[wiki-rogusko]: https://pl.wikipedia.org/wiki/Rogusko
+[wiki-warta]: https://pl.wikipedia.org/wiki/Warta
+[wiki-solec-wielkopolski]: https://pl.wikipedia.org/wiki/Solec_Wielkopolski
+
+
 Wstęp
 -----
 
@@ -42,6 +65,8 @@ można spokojnie wyjechać z peronu na ulicę.
 Ruszyliśmy na wschód w stronę [Starego Lubosza][wiki-stary-lubosz]. Powoli opuszczaliśmy
 tereny podmiejskie. Widać było to na podstawie nowo powstałych domów.
 
+{% post_image "medium","IMGP3236raw1.jpg","Przejeżdzając przez Darnowo" %}
+
 Za [Starym Luboszem][wiki-stary-lubosz] przejechałem przez drogę, którą
 [rok temu]({% post_url 2016-04-03-z-mosiny-do-kosciana %}) jechałem na południe.
 Skróciliśmy drogą polną aby nie musieć jechać w stronę [Racota][wiki-racot].
@@ -49,6 +74,8 @@ Skróciliśmy drogą polną aby nie musieć jechać w stronę [Racota][wiki-raco
 Przed [Turewem][wiki-turew] skręciliśmy do [Rogaczewa Małego][wiki-rogaczewo-male]
 przejeżdzając mostem przez Rów Wyskoc, a przynajmniej tak na mapie UMP jest
 ten strumyk nazwany.
+
+{% post_image "medium","IMGP3238raw1.jpg","Krzyż na skrzyżowaniu dróg niedaleko Rogaczewa" %}
 
 Spodobało mi się główne skrzyżowanie w [Rogaczewie Małym][wiki-rogaczewo-male].
 Jeden albo dwa budynki oraz jakiś budynek przemysłowy dalej i to cała wioska.
@@ -59,10 +86,12 @@ Ruszyliśmy na wschód mijając zielony (albo czarny) szlak rowerowy
 ale mnie zaciekawił.
 
 Przez [Rogaczewo Wielkie][wiki-rogaczewo-wielkie] jechaliśmy w stronę kolejnego
-szlaku rowerowego. Nie zatrzymaliśmy się przy jeziorze [Zbęchy][wik-jezioro-zbechy]
+szlaku rowerowego. Nie zatrzymaliśmy się przy jeziorze w [Zbęchach][wiki-zbechy]
 gdyż myślałem, że później będzie odpowiedniejsze miejsce.
 
 Wyjeżdzając z wioski wkroczyliśmy na drogę gruntową i bardziej pofalowany teren.
+
+{% post_image "medium","IMGP3241raw1.jpg","Pofalowane pola niedaleko Bieżynia" %}
 
 W [Bieżyniu][wiki-biezyn] skręciliśmy na wschód na niebieski szlak rowerowy i
 jechaliśmy na wschód do [Łagowa][wiki-lagowo]. Szlak ten okazał się ciekawszy niż
@@ -72,6 +101,8 @@ W jednym miejscu zbiera się wilgoć i tam miałem problem aby przejechać, ale 
 tego zdecydowanie polecam to miejsce. Później tego dnia jechaliśmy podobnym szlakiem
 obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
 
+{% post_image "medium","IMGP3256raw1.jpg","Wjeżdzając do Łagowa" %}
+
 Ruszyliśmy na wschód. Do [Dolska][wiki-dolsk] już mieliśmy w miarę blisko. Jechaliśmy
 teraz przez las, ale jechało się całkiem przyjemnie.
 
@@ -79,9 +110,11 @@ TODO gdzieś wcześniej też był fajny zjazd
 
 Podobał mi się zjazd ulicą Podrzekta, ale ten wcześniejszy był znacznie fajniejszy.
 
-W [Dolsku][wiki-dols] dojechaliśmy nad jezioro na chwilkę i kontynuowaliśmy
+W [Dolsku][wiki-dolsk] dojechaliśmy nad jezioro na chwilkę i kontynuowaliśmy
 trasę. Ruszyliśmy na północ widząc wysokie pagórki naprzeciw. Myślałem że
 będzie ich więcej i więcej widoków, a mam wrażenie że trochę ich ominęliśmy.
+
+{% post_image "medium","IMGP3278raw1.jpg","Jezioro w Dolsku" %}
 
 Skręciliśmy w prawo na wschód i jechaliśmy w stronę [Trąbinka][wiki-trabinek].
 Po lewej stronie było podwyższenie terenu a po prawej obniżenie.
@@ -89,6 +122,11 @@ Po lewej stronie było podwyższenie terenu a po prawej obniżenie.
 Za [Błażejewem][wiki-blazejewo] jechaliśmy żółtym szlakiem rowerowym do
 [Włościejewek][wiki-wlosciejewki]. Miejscami teren był lekko pofalowany, ale las
 ograniczał widoczność.
+
+Jechaliśmy bardzo szybko i tylko przez chwilę zwróciłem na drewniany kościół.
+Czytając wikipedię dowiedziałem się, że jest to zabytek z 1646 roku.
+
+{% post_image "medium","IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim" %}
 
 Chcieliśmy dojechać do [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski] i dalej
 do stacji kolejowej. Mieliśmy ponad godzinę do odjazdu więc postanowiliśmy się
@@ -98,7 +136,7 @@ niebieskiego szlaku obok [Łagowa][wiki-lagowo], ale szybko wyjechaliśmy na
 drodze gruntowej. Drogi te były pewnego rodzaju labiryntem łączącym tutejsze
 gospodarstwa rolne.
 
-Przejechaliśmy przez [Chromiec][wiki-chomiec] i zrobiliśmy przerwę na jedzenie
+Przejechaliśmy przez [Chromiec][wiki-chromiec] i zrobiliśmy przerwę na jedzenie
 na przystanku na skrzyżowaniu dróg do [Chociczy][wiki-chocicza] i
 [Boguszynka][wiki-boguszynek].
 
@@ -109,10 +147,14 @@ Bardzo szybko przejechaliśmy przez miejscowość i skręciliśmy na północ w 
 Leśną. Dojechaliśmy do wsi [Rogusko][wiki-rogusko] nie wiedząc o tym, że
 jest to osobna miejscowość. To jest kilka domów niedaleko rzeki [Warty][wiki-warta].
 
+{% post_image "medium","IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy" %}
+
 Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy pod wiatr i tylko
 las, oraz lekkie obniżenie terenu, nam ułatwiały. Gdy już byliśmy w okolicy warty
 nie było drzew, które mogły nam pomagać. Spokojniej, powoli dojechaliśmy pod most
 kolejowy.
+
+{% post_image "medium","IMGP3299raw1.jpg","Tereny zalewowe obok Warty" %}
 
 Nie byłem pewien czy tym mostem można przedostać się na drugą stronę, na szczeście
 jest tam dobra kładka i nie musieliśmy się wracać. Wyjechaliśmy w
@@ -120,4 +162,4 @@ jest tam dobra kładka i nie musieliśmy się wracać. Wyjechaliśmy w
 W tym miejscu
 [kończyłem jedną trasę]({% post_url 2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej %})
 , a
-[zaczynałem drugą ]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}).
+[zaczynałem drugą]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}).

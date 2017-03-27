@@ -29,13 +29,13 @@ pois:
 [wiki-swarzedz]: https://pl.wikipedia.org/wiki/Swarz%C4%99dz
 [wiki-gruszczyn]: https://pl.wikipedia.org/wiki/Gruszczyn_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-uzarzewo]: https://pl.wikipedia.org/wiki/Uzarzewo
-[wiki-katarzynka]
-[wiki-cybina]
-[wiki-pkp-kobylnica]
-[wiki-biskupice]
-[wiki-promienko]
-[wiki-kaczyna]
-[wiki-pobiedziska-letniska]
+[wiki-katarzynki]: https://pl.wikipedia.org/wiki/Katarzynki_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-cybina]: https://pl.wikipedia.org/wiki/Cybina
+[wiki-pkp-kobylnica]: https://pl.wikipedia.org/wiki/Kobylnica_(stacja_kolejowa)
+[wiki-biskupice]: https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
+[wiki-promienko]: https://pl.wikipedia.org/wiki/Promienko
+[wiki-kaczyna]: https://pl.wikipedia.org/wiki/Kaczyna_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-pobiedziska-letniska]: https://pl.wikipedia.org/wiki/Pobiedziska_Letnisko
 
 Wstęp
 -----
@@ -75,7 +75,7 @@ Przejechaliśmy przez [Swarzędz][wiki-swarzedz] gdzie również wokół jeziora
 przyjemnie terenowa.
 
 Z [Gruszczyna][wiki-gruszczyn] jechaliśmy cały czas na wschód do [Uzarzewa][wiki-uzarzewo].
-Podobał mi się zjazd w [Katarzynce][wiki-katarzynka].
+Podobał mi się zjazd w [Katarzynkach][wiki-katarzynki].
 
 {% post_image "medium","IMGP3071raw1.jpg","Droga do Promienka" %}
 
