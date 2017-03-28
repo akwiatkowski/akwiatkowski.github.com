@@ -9,6 +9,7 @@ require "./models/post_image_entity"
 class Tremolite::DataManager
   def custom_initialize
     @towns = Array(TownEntity).new
+    @town_slugs = Array(String).new
     @voivodeships = Array(TownEntity).new
     @tags = Array(TagEntity).new
     @land_types = Array(LandTypeEntity).new
@@ -18,7 +19,9 @@ class Tremolite::DataManager
     @post_image_entities = Array(PostImageEntity).new
   end
 
-  getter :tags, :towns, :voivodeships, :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities
+  getter :tags
+  getter :towns, :town_slugs, :voivodeships
+  getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities
 
   def custom_load
     load_towns
@@ -93,11 +96,17 @@ class Tremolite::DataManager
   private def load_town_yaml(f)
     YAML.parse(File.read(f)).each do |town|
       o = TownEntity.new(town)
-      @towns.not_nil! << o if o.is_town?
-      @voivodeships.not_nil! << o if o.is_voivodeship?
+      if o.is_town?
+        @towns.not_nil! << o
+        @town_slugs.not_nil! << o.slug
+      end
+      if o.is_voivodeship?
+        @voivodeships.not_nil! << o
+      end
     end
 
     @towns = @towns.not_nil!.sort { |a, b| a.slug <=> b.slug }.uniq { |a| a.slug }
+    @town_slugs = @town_slugs.not_nil!.sort.uniq
     @voivodeships = @voivodeships.not_nil!.sort { |a, b| a.slug <=> b.slug }.uniq { |a| a.slug }
   end
 end

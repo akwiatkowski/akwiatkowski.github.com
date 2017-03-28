@@ -141,6 +141,29 @@ class PostView < BaseView
       data["pois_container"] = ""
     end
 
+    # related
+    related_posts = @post.related_posts(@blog)
+    if related_posts.size > 0
+      pd = Hash(String, String).new
+
+      related_content = ""
+
+      # all related post items
+      related_posts.each do |related_post|
+        rpd = Hash(String, String).new
+        rpd["post.url"] = related_post.url
+        rpd["post.title"] = related_post.title
+        rpd["post.date"] = related_post.date
+        related_content += load_html("post/related_post", rpd)
+      end
+
+      pd["related.content"] = related_content
+      related_container = load_html("post/related_list", pd)
+      data["related_container"] = related_container
+    else
+      data["related_container"] = ""
+    end
+
     return load_html("post/article", data)
   end
 
