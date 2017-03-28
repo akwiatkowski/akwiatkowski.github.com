@@ -52,8 +52,6 @@ class TransportPoiEntity
     @major = true if y["major"]?
   end
 
-
-
   def with_train?
     false == @time_cost.nil? && false == @no_train
   end
@@ -72,9 +70,9 @@ class TransportPoiEntity
   end
 
   def assign_closest_major(transport_pois : Array(TransportPoiEntity))
-    close_majors = transport_pois.select{|m| self.distance_to(m) < MAX_DISTANCE_TO_MAJOR }
+    close_majors = transport_pois.select { |m| self.distance_to(m) < MAX_DISTANCE_TO_MAJOR }
 
-    majors = close_majors.select(&.major).sort{ |a,b|
+    majors = close_majors.select(&.major).sort { |a, b|
       self.distance_to(a) <=> self.distance_to(b)
     }
 

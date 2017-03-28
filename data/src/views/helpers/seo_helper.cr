@@ -38,10 +38,10 @@ class BaseView
     s = ""
 
     h_name = {
-      "keywords"       => meta_keywords_string,
-      "description"    => meta_description_string,
-      "author"         => author_string,
-      "robots"         => robots_string,
+      "keywords"    => meta_keywords_string,
+      "description" => meta_description_string,
+      "author"      => author_string,
+      "robots"      => robots_string,
     }
 
     h_property = {

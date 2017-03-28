@@ -160,7 +160,7 @@ class Tremolite::Renderer
   end
 
   def render_rss
-    posts = @blog.post_collection.posts.sort{|a,b| b.time <=> a.time}
+    posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
     view = RssGenerator.new(
       blog: @blog,
       posts: posts,
@@ -177,7 +177,7 @@ class Tremolite::Renderer
   end
 
   def render_atom
-    posts = @blog.post_collection.posts.sort{|a,b| b.time <=> a.time}
+    posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
     view = AtomGenerator.new(
       blog: @blog,
       posts: posts,

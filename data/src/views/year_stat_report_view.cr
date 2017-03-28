@@ -90,7 +90,7 @@ class YearStatReportView < PageView
       month_distance_hike = 0
       month_time_spent = 0
 
-      @posts.select{ |post| post.time.month == month }.each do |post|
+      @posts.select { |post| post.time.month == month }.each do |post|
         post_distance = post.distance.as(Float64).ceil.to_i
         post_time_spent = post.time_spent.as(Float64).ceil.to_i
 
