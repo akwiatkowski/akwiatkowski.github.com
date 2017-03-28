@@ -1,8 +1,8 @@
 class YearStatReportView < PageView
   BICYCLE_MAX_DISTANCE = 800.0
-  HIKE_MAX_DISTANCE = 100.0
-  OPACITY_MAX = 1.0
-  OPACITY_MIN = 0.02
+  HIKE_MAX_DISTANCE    = 100.0
+  OPACITY_MAX          =   1.0
+  OPACITY_MIN          =  0.02
 
   def initialize(@blog : Tremolite::Blog,
                  @year : Int32,
@@ -119,7 +119,6 @@ class YearStatReportView < PageView
         month_data["month.distance_hike"] = month_distance_hike.to_s
         month_data["month.time_spent"] = month_time_spent.to_s
 
-
         bicycle_opacity = month_distance_bicycle.to_f / BICYCLE_MAX_DISTANCE
         bicycle_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
         bicycle_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
@@ -131,7 +130,7 @@ class YearStatReportView < PageView
         month_data["month.style_distance_hike"] = "background-color: rgba(100,255,100,#{hike_opacity});"
 
         months_list += load_html("year_stats/month_row", month_data)
-      end  
+      end
     end
     data["months_list"] = months_list
 
