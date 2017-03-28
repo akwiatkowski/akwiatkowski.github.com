@@ -88,47 +88,50 @@ class YearStatReportView < PageView
     # months list
     months_list = ""
     (1..12).each do |month|
-      month_data = Hash(String, String).new
+      time = Time.new(@year, month, 1).at_beginning_of_month
+      if time < Time.now
+        month_data = Hash(String, String).new
 
-      month_distance = 0
-      month_distance_bicycle = 0
-      month_distance_hike = 0
-      month_time_spent = 0
+        month_distance = 0
+        month_distance_bicycle = 0
+        month_distance_hike = 0
+        month_time_spent = 0
 
-      @posts.select { |post| post.time.month == month }.each do |post|
-        post_distance = post.distance.as(Float64).ceil.to_i
-        post_time_spent = post.time_spent.as(Float64).ceil.to_i
+        @posts.select { |post| post.time.month == month }.each do |post|
+          post_distance = post.distance.as(Float64).ceil.to_i
+          post_time_spent = post.time_spent.as(Float64).ceil.to_i
 
-        if post.self_propelled?
-          month_distance += post_distance.to_i
-          month_time_spent += post_time_spent.to_i
+          if post.self_propelled?
+            month_distance += post_distance.to_i
+            month_time_spent += post_time_spent.to_i
+          end
+          if post.bicycle?
+            month_distance_bicycle += post_distance.to_i
+          end
+          if post.hike? || post.walk?
+            month_distance_hike += post_distance.to_i
+          end
         end
-        if post.bicycle?
-          month_distance_bicycle += post_distance.to_i
-        end
-        if post.hike? || post.walk?
-          month_distance_hike += post_distance.to_i
-        end
-      end
 
-      month_data["month"] = month.to_s
-      month_data["month.distance"] = month_distance.to_s
-      month_data["month.distance_bicycle"] = month_distance_bicycle.to_s
-      month_data["month.distance_hike"] = month_distance_hike.to_s
-      month_data["month.time_spent"] = month_time_spent.to_s
+        month_data["month"] = month.to_s
+        month_data["month.distance"] = month_distance.to_s
+        month_data["month.distance_bicycle"] = month_distance_bicycle.to_s
+        month_data["month.distance_hike"] = month_distance_hike.to_s
+        month_data["month.time_spent"] = month_time_spent.to_s
 
 
-      bicycle_opacity = month_distance_bicycle.to_f / BICYCLE_MAX_DISTANCE
-      bicycle_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
-      bicycle_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
-      month_data["month.style_distance_bicycle"] = "background-color: rgba(100,100,255,#{bicycle_opacity});"
+        bicycle_opacity = month_distance_bicycle.to_f / BICYCLE_MAX_DISTANCE
+        bicycle_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
+        bicycle_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
+        month_data["month.style_distance_bicycle"] = "background-color: rgba(100,100,255,#{bicycle_opacity});"
 
-      hike_opacity = month_distance_hike.to_f / HIKE_MAX_DISTANCE
-      hike_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
-      hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
-      month_data["month.style_distance_hike"] = "background-color: rgba(100,255,100,#{hike_opacity});"
+        hike_opacity = month_distance_hike.to_f / HIKE_MAX_DISTANCE
+        hike_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
+        hike_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
+        month_data["month.style_distance_hike"] = "background-color: rgba(100,255,100,#{hike_opacity});"
 
-      months_list += load_html("year_stats/month_row", month_data)
+        months_list += load_html("year_stats/month_row", month_data)
+      end  
     end
     data["months_list"] = months_list
 
