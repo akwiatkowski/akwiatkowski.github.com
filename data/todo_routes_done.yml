@@ -1,0 +1,30 @@
+- voivodeship: wielkopolskie
+  priorities:
+    - easy
+  type: bicycle
+  from: Stara Przysieka
+  to: Chocicza
+  through:
+    - Wojnowice
+    - Krzywin
+    - Stary Gostyń (bez wjazdu do Gostynia)
+    - Kunowo
+    - Dolsk
+    - Błażejewo
+    - Książ Wielkopolski
+  distance: 81
+  time_length: 5
+  url: http://umapa.pl/XVIRB
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Solec Wielkopolski
+  to: Stare Bojanowo
+  through:
+    - Książ Wielkopolski
+    - Rusocin
+    - Dalewo
+    - Jezierzyce
+  distance: 69
+  time_length: 4.5
+  url: http://umapa.pl/DKJnG  

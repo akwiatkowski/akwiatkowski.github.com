@@ -24,7 +24,7 @@
   <div class="route_to">{{ route.to }}</div>
   <div class="route_to_cost">{{ route.to_cost }}</div>
 
-  <div class="route_inner"><a href="{{ route.url }}" target="_blank">{{ route.distance }}km</a></div>
+  <div class="route_inner"><a href="{{ route.url }}" target="_blank"><i style="font-size:22px; transform: rotate({{ route.direction }}deg); -ms-transform: rotate({{ route.direction }}deg); -webkit-transform: rotate({{ route.direction }}deg);" class="fa">&#xf07e;</i>{{ route.distance }}km</a></div>
   <div class="route_inner_cost">{{ route.time_length }}h</div>
 
   <div class="route_cost_summary">
@@ -48,4 +48,6 @@
     {{ partial.post_links }}
 
   </div>
+
+  <div class="route_direction">{{ route.direction }}</div>
 </div>

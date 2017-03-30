@@ -29,19 +29,6 @@
 
 - voivodeship: wielkopolskie
   type: bicycle
-  from: Solec Wielkopolski
-  to: Stare Bojanowo
-  through:
-    - Książ Wielkopolski
-    - Rusocin
-    - Dalewo
-    - Jezierzyce
-  distance: 69
-  time_length: 4.5
-  url: http://umapa.pl/DKJnG
-
-- voivodeship: wielkopolskie
-  type: bicycle
   from: Stęszew
   to: Wronki
   through:
@@ -87,24 +74,6 @@
   distance: 91
   time_length: 5.25
   url: http://umapa.pl/JGGIo
-
-- voivodeship: wielkopolskie
-  priorities:
-    - easy
-  type: bicycle
-  from: Stara Przesieka
-  to: Chocicza
-  through:
-    - Wojnowice
-    - Krzywin
-    - Stary Gostyń (bez wjazdu do Gostynia)
-    - Kunowo
-    - Dolsk
-    - Błażejewo
-    - Książ Wielkopolski
-  distance: 81
-  time_length: 5
-  url: http://umapa.pl/XVIRB
 
 - voivodeship: zachodnio_pomorskie
   type: bicycle
@@ -932,7 +901,7 @@
     - Osieczna
   info: Można skrócić do Lipna Nowego (80km). Trasa przez wioski. Za Gostyniem więcej pagórków i ciekawsze tereny powinny być.
   priorities:
-    - normal
+    - low
   distance: 85
   time_length: 5
   url: http://umapa.pl/NgBSY

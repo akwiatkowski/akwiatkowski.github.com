@@ -140,6 +140,33 @@ struct TodoRouteEntity
     (distance_to_straight - 1.0) * 100.0
   end
 
+  def direction
+    @from_poi.not_nil!.direction_to(@to_poi.not_nil!)
+  end
+
+  def direction_human
+    CrystalGpx::Point.direction_to_human(direction)
+  end
+
+  def bidirection_human
+    h = 45.0 / 2.0
+    dp = (direction / h).floor.to_i
+
+    return case dp
+    when      0 then '|' # "N"
+    when 1, 2   then '/' # "NE"
+    when 3, 4   then '-' # "E"
+    when 5, 6   then '\\' # "NW"
+    when 7, 8   then '|' # "N"
+    when 9, 10  then '/' # "NE"
+    when 11, 12 then '-' # "E"
+    when 13, 14 then '\\' # "NW"
+    when     15 then '|' # "N"
+    else
+      raise "direction is wrong"
+    end
+  end
+
   def center_point : CrystalGpx::Point
     p = CrystalGpx::Point.new(
       lat: (@from_poi.not_nil!.lat + @to_poi.not_nil!.lat) / 2.0,

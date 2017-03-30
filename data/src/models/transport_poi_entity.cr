@@ -29,6 +29,7 @@ class TransportPoiEntity
   getter :commune_slug, :name, :time_cost, :lat, :lon
   getter :major
   getter :line_distance_from_home, :direction_from_home, :direction_from_home_human
+  getter :point
 
   getter :closest_major_name, :closest_major_lat, :closest_major_lon, :closest_major_time_cost
   getter :closest_major_line_distance_from_home, :closest_major_direction_from_home, :closest_major_direction_from_home_human
@@ -44,8 +45,9 @@ class TransportPoiEntity
     @lat = y["lat"].to_s.to_f
     @lon = y["lon"].to_s.to_f
 
-    @line_distance_from_home = HOME_POINT.distance_to(other_lat: @lat, other_lon: @lon).as(Float64)
-    @direction_from_home = HOME_POINT.direction_to(other_lat: @lat, other_lon: @lon).as(Float64)
+    @point = CrystalGpx::Point.new(lat: @lat, lon: @lon)
+    @line_distance_from_home = HOME_POINT.distance_to(@point).as(Float64)
+    @direction_from_home = HOME_POINT.direction_to(@point).as(Float64)
     @direction_from_home_human = CrystalGpx::Point.direction_to_human(@direction_from_home)
 
     @major = false
@@ -62,6 +64,15 @@ class TransportPoiEntity
 
   def distance_to(other : TransportPoiEntity)
     return CrystalGpx::Point.distance(
+      lat1: self.lat,
+      lon1: self.lon,
+      lat2: other.lat,
+      lon2: other.lon
+    )
+  end
+
+  def direction_to(other : TransportPoiEntity)
+    return CrystalGpx::Point.direction(
       lat1: self.lat,
       lon1: self.lon,
       lat2: other.lat,
