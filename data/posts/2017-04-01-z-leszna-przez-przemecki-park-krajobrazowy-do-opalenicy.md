@@ -24,6 +24,37 @@ pois:
 
 ---
 
+[wiki-leszno]: https://pl.wikipedia.org/wiki/Leszno
+[wiki-swieciechowa]: https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ciechowa
+[wiki-niechlod]: https://pl.wikipedia.org/wiki/Niech%C5%82%C3%B3d
+[wiki-golanice]: https://pl.wikipedia.org/wiki/Go%C5%82anice
+[wiki-jezierzyce-koscielne]: https://pl.wikipedia.org/wiki/Jezierzyce_Ko%C5%9Bcielne
+[wiki-wloszakowice]: https://pl.wikipedia.org/wiki/W%C5%82oszakowice
+[wiki-zbarzewo]: https://pl.wikipedia.org/wiki/Zbarzewo
+[wiki-zaborowiec]: https://pl.wikipedia.org/wiki/Zabor%C3%B3wiec
+[wiki-papiernia]: https://pl.wikipedia.org/wiki/Papiernia_(powiat_leszczy%C5%84ski)
+[wiki-miastko]: https://pl.wikipedia.org/wiki/Miastko_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-gorsko]: https://pl.wikipedia.org/wiki/G%C3%B3rsko_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-olejnica]: https://pl.wikipedia.org/wiki/Olejnica
+[wiki-perkowo]: https://pl.wikipedia.org/wiki/Perkowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-mochy]: https://pl.wikipedia.org/wiki/Mochy
+[wiki-solec-nowy]: https://pl.wikipedia.org/wiki/Solec_Nowy
+[wiki-solec]: https://pl.wikipedia.org/wiki/Solec_(powiat_wolszty%C5%84ski)
+[wiki-wolsztyn]: https://pl.wikipedia.org/wiki/Wolsztyn
+[wiki-zbaszyn]: https://pl.wikipedia.org/wiki/Zb%C4%85szy%C5%84
+[wiki-nowa-dabrowa]: https://pl.wikipedia.org/wiki/Nowa_D%C4%85browa_(powiat_wolszty%C5%84ski)
+[wiki-stara-dabrowa]: https://pl.wikipedia.org/wiki/Stara_D%C4%85browa_(wie%C5%9B_w_powiecie_wolszty%C5%84skim)
+[wiki-goscieszyn]: https://pl.wikipedia.org/wiki/Go%C5%9Bcieszyn_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-lakie]: https://pl.wikipedia.org/wiki/%C5%81%C4%85kie_(powiat_grodziski)
+[wiki-terespol]: https://pl.wikipedia.org/wiki/Terespol_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-wielichowo]: https://pl.wikipedia.org/wiki/Wielichowo
+[wiki-gradowice]: https://pl.wikipedia.org/wiki/Gradowice
+[wiki-ruchocice]: https://pl.wikipedia.org/wiki/Ruchocice_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-opalenica]: https://pl.wikipedia.org/wiki/Opalenica
+[wiki-grodzisk-wielkopolski]: https://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski
+
+
+
 Wstęp
 -----
 
@@ -92,8 +123,11 @@ ale jest dużo korzeni i leżącego drzewa. Widać też miejsca pracy bobrów.
 Kończy się on niedaleko leśniczówki i tam zaczęła się piaszczysta droga do
 [Perkowa][wiki-perkowo].
 
-Asfaltem dojechaliśmy na zachód do [Nowej Wsi][wiki-nowa-wies]. Chyba najczęście
-występująca miejscowość w Polsce. Zrobiliśmy przerwę przy sklepie gdzie widzieliśmy
+Asfaltem dojechaliśmy na zachód do Nowej Wsi. Chyba najczęściej
+występująca miejscowość w Polsce. Według wikipedii tylko 117 miejscowości tak
+się nazywa.
+
+Zrobiliśmy przerwę przy sklepie gdzie widzieliśmy
 lokalnego mieszkańca już pijanego z butelką w ręce. Kończyć dzień w południe
 to ciężka sprawa.
 
