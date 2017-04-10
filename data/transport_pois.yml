@@ -711,3 +711,22 @@
   time_cost: 80
   lat: 52.24947
   lon: 18.15156
+
+- commune_slug: raciborz
+  major: true
+  name: Racibórz
+  time_cost: 330
+  lat: 50.09000
+  lon: 18.22617
+
+- commune_slug: ziebice
+  name: Ziębice
+  time_cost: 240
+  lat: 50.60779
+  lon: 17.03449
+
+- commune_slug: glucholazy
+  name: Nowy Świętów
+  time_cost: 330
+  lat: 50.37824
+  lon: 17.36889

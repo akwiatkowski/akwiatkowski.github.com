@@ -1291,3 +1291,26 @@
   distance: 65
   time_length: 4
   url: http://umapa.pl/yRYcf
+
+- voivodeship: opolskie
+  type: bicycle
+  from: Racibórz
+  to: Ziębice
+  through:
+    - Pawłów
+    - Baborów
+    - Głubczyce
+    - Pomorzowniki
+    - Prudnik
+    - Szybowice
+    - Nowy Świętów
+    - Biskupów
+    - Otmuchów
+    - Starczówek
+  info: Cały czas przez pofalowane pola i wioski. Chwila przez Czechy. Zalecane rozbić na 2 dni.
+  priorities:
+    - normal
+  distance: 128
+  time_length: 8
+  train_return_time_cost: 270
+  url: http://umapa.pl/AxlcO
