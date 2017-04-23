@@ -14,7 +14,7 @@ run:
 	crystal src/odkrywajac_polske.cr
 
 serve:
-	cd public && serve
+	cd public && serve -p 5001
 
 compile:
 	crystal build src/odkrywajac_polske.cr -o blog --release
