@@ -15,6 +15,19 @@ distance:               200
 time_spent:             8
 
 pois:
+  - lat: 53.03800
+    lon: 17.77088
+    name: Pagórki na północny-wschód od Szubina
+  - lat: 53.13594
+    lon: 17.72590
+    name: Ciekawe tereny na rower w Dolinie Noteci
+  - lat: 53.05116
+    lon: 17.56153
+    name: Duży obszar leśny między Kcynią a Nakłem  
+  - lat: 52.49458
+    lon: 17.57175
+    name: Okolice Gębarzewa (Gniezno) - ciekawie ale delikatnie pofalowane tereny wiejskie
+
 
 ---
 
@@ -88,3 +101,72 @@ widzieliśmy dolinę [Noteci][wiki-notec], a po prawej podwyższenie.
 
 Gdy dojeżdzaliśmy do [Ślesina][wiki-slesin] widziałem spory zbiornik
 wodny - Staw Kardynalski, a obok niego zielony szlak rowerowy.
+
+Na półnc od [Nakla nad Notecią][wiki-naklo] jest trasa kolejowa
+w stronę [Więcborka][wiki-wiecbork]. Zaciekawiło mnie i kiedyś bym chętnie
+przejechał rowerem przez wioski obok niej. Możnaby tam dojechać aż
+do [Tucholi][wiki-tuchola].
+
+[zespol-paluki]: http://www.kcynia.pl/zespol-regionalny-paluki.html
+
+Gdy dojechaliśmy do [Nakła nad Notecią][wiki-naklo] do pociągu dołączył lokalny
+[zespół pieśni Pałuki][zespol-paluki] z [Kcyni][wiki-kcynia].
+
+Nie zauważyłem kiedy minęliśmy [Noteć][wiki-notec] i kierowaliśmy się na południe.
+
+Niedaleko wsi [Pasterek][wiki-pasterek] widziałem zakład remontu pojazdów
+szynowych, którego lata świetności już zdecydowanie minęły.
+
+Chwilę później wjechaliśmy w las. Patrząc teraz na mapę zaciekawiło mnie
+wzniesienie niedaleko [Dębogóry][wiki-debogora]. Kolejny argument aby
+przejechać te tereny rowerem.
+
+W [Kcyni][wiki-kcynia] zrobiliśmy dłuższą przerwę na wodowanie i występ
+artystyczny (który mnie osobiście mało interesował). Samo wodowanie też mnie
+jakoś nie interesowało szczerze mówiąc.
+Natomiast ilość osób które nas odwiedziły mnie zaskoczyła.
+
+Jednym z podróżnych
+był burmistrz [Kcyni][wiki-kcynia], który dąży do rewitalizacji linii
+[kolejowej 356][wiki-linia-365]. Jak do tej pory województwo wielkopolskie
+w 2011-2013 roku wykonało remont linii z [Poznania][wiki-poznan] do
+[Wągrowca][wiki-wagrowiec] zwiększając maksymalną prędkość z 60km/h do 120km/h.
+Trasa [Wągrowiec][wiki-wagrowiec]-[Gołańcz][wiki-golancz] nie została jeszcze
+wyremontowana. Natomiast województwo kujawsko-pomorskie niechętnie myśli o
+planie wyremontowania fragmentu z [Gołańczy][wiki-golancz] przez
+[Kcynię][wiki-kcynia] i [Szubin][wiki-szubin].
+
+Jednym z elementów misji [Turkolu][turkol] jest wpływanie w stronę reaktywacji
+połączeń kolejowych i tak tutaj było czuć, że dzisiejszy przejazd ma być
+kolejnym impulsem do władz.
+
+Ruszyliśmy dalej na południe w stronę [Gniezna][wiki-gniezno]. Przejechaliśmy
+przez [Wapno][wiki-wapno] a następnie [Damasławek][wiki-damaslawek].
+
+W [Damasławku][wiki-damaslawek] zrobiliśmy przerwę i zrobiłem kilka zdjęć
+klimatycznego dworca. Wyjeżdzając widziałem miejsce od którego zostały rozebrane
+tory do [Wągrowca][wiki-wagrowiec].
+
+
+
+Prawie cały czas stałem przy oknie skierowany na zachód i obserwowałem
+zielone pola. Zachodzące powoli Słońce dodawało barw. Bardzo chętnie bym
+pojeździł po tych terenach tego dnia, ale po otwarciu okna z pociągu i czując
+jaki jest wiatr szybko mi mijała ta chęć.
+
+Za [Janowcem Wielkopolskim][wiki-janowiec-wielkopolski] jeszcze chwilę
+obserwowałem widoki przez okno. Były one ładne, jednak bardzo podobne
+do siebie i nie wiem czy coś specjalnie przykuło moją uwagę.
+
+Dojeżdzając do [Gniezna][wiki-gniezno] pojawiały się standardowe podmiejskie
+widoki. Jest to to co mnie najbardziej interesuje, a nawet nudzi dlatego
+przestałem zwracać co się dzieje i usiadłem przy laptopie.
+
+Nie wiem czemu, ale myślałem że będziemy jechać normalnie przez
+[Pobiedziska][wiki-pobiedziska]. Nie patrzyłem nawet jak pociąg ruszył.
+Dopiero gdy patrząc przez okno nie poznawałem okolicy zobaczyłem na GPS
+i wtedy rozumiałem, że jedziemy na południe do [Wrześni][wiki-wrzesnia].
+Myśląc o tym ucieszyłem się, gdyż zobaczę jeszcze więcej nowych terenów.
+
+Najciekawsze tereny były na wysokości [Gębarzewa][wiki-gebarzewo] gdyż
+wtedy przejeżdzaliśmy przez wioski położone w pobliżu lasu.
