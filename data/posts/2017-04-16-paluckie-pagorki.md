@@ -18,7 +18,26 @@ pois:
 
 ---
 
+[wiki-duszno-widokowy]: https://pl.wikipedia.org/wiki/Wa%C5%82_Wydartowski
 
 
 Wstęp
 -----
+
+Na niedzielne pytanie "gdzie jechać?"
+zaproponowałem punkt widokowy [Duszno][wiki-duszno]. Szybko sprawdziłem trasę
+i zobaczyłem jakie są opcję rozszerzenia trasy samochodowej, ale nie myślałem
+że cała trasa wyniesie aż 100km.
+
+Szczegóły
+---------
+
+Najpierw dojechaliśmy do [Wylatowa][wiki-wylatowo], tak jak normalnie się
+jedzie ze [Strzelna][wiki-strzelno] do [Poznania][wiki-poznan].
+
+Niedaleko stacji kolejowej w [Wydartowie][wiki-wydartowo] skręciliśmy w
+prawo kierując się na północ, zgodnie ze znakami w kierunku
+[punktu widokowego][wiki-duszno-widokowy].
+
+Dojechaliśmy do centrum wsi [Wydartowo][wiki-wydartowo] gdzie
+skręciliśmy ponownie w prawo
