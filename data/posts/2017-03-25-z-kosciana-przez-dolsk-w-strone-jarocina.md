@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Z Kościana, przez Dolsk, w stronę Jarocina"
-subtitle:               ""
-desc:                   ""
-keywords:               [promno]
+subtitle:               "wiosny jeszcze nie było ani widać ani widać, myślałem że będzie więcej górek"
+desc:                   "Przejazd z Kościanu na wschód przez wypukłe tereny wokół Dolska. Koniec miał być w Jarocinie, ale odbiliśmy do Chociczy i dojechaliśmy do Solca Wielkopolskiego."
+keywords:               [koscian, dolsk, chocicza, solec, jarocin, warta, most]
 date:                   2017-03-25 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

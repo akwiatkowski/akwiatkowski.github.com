@@ -1314,3 +1314,24 @@
   time_length: 8
   train_return_time_cost: 270
   url: http://umapa.pl/AxlcO
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Garbce
+  to: Jarocin
+  through:
+    - Nowe Domy
+    - Olsza
+    - Pomocno
+    - Dubin
+    - Kobylin
+    - Wziąchów
+    - Kaczagórka
+    - Wyrębin
+    - Potarzyca
+  info: Przez bardzo spokojne wioski, głównie dobrym szlakiem rowerowym. Na początku trochę lasu.
+  priorities:
+    - high
+  distance: 84
+  time_length: 5
+  url: http://umapa.pl/wLIcW
