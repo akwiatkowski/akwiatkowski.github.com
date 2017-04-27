@@ -6,25 +6,21 @@ shards:
 
   crystal_gpx:
     github: akwiatkowski/crystal_gpx
-    commit: c75f39b50fbfa3d68cfafefde6df673f1a9d326e
+    commit: fd4d057a60ee45b48b28e11badb755ec587aeccd
 
   kemal:
     github: kemalcr/kemal
-    commit: 72dc6cf77513e7b392dbeea260eaee4ffb9624b0
+    commit: 0b4856b7417592743a27fc3e30867fd141395bf6
 
   kilt:
     github: jeromegn/kilt
     version: 0.3.3
 
-  multipart:
-    github: RX14/multipart.cr
-    version: 0.1.2
-
   radix:
     github: luislavena/radix
-    version: 0.3.7
+    version: 0.3.8
 
   tremolite:
     github: akwiatkowski/tremolite
-    commit: 803a23f876b2a512a66e646dd1fc93b77871a343
+    commit: 3f904e8d1536f21b0d89c6d66e13726bb8f08f41
 
