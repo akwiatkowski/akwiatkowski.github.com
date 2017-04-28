@@ -61,7 +61,7 @@ class Tremolite::Post
 
   def ready?
     return false if self.tags.not_nil!.includes?(TODO_TAG)
-    return false if self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
+    # return false if self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
     return true
   end
 
