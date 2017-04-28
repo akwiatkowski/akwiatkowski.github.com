@@ -57,7 +57,7 @@ class AtomGenerator
   def atom_posts
     s = ""
     @posts.each do |post|
-      s += atom_post(post)
+      s += atom_post(post) if post.ready?
     end
     return s
   end

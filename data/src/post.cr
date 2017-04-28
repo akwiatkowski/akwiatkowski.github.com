@@ -34,6 +34,9 @@ class Tremolite::Post
   TRAIN_TAG   = "train"
   CAR_TAG     = "car"
 
+  TODO_TAG = "todo"
+  TODO_MEDIA_TAG = "todo_media"
+
   getter :coords
   getter :small_image_url, :thumb_image_url, :big_thumb_image_url
   getter :tags, :towns, :lands, :pois
@@ -54,6 +57,12 @@ class Tremolite::Post
 
   def car?
     self.tags.not_nil!.includes?(CAR_TAG)
+  end
+
+  def ready?
+    return false if self.tags.not_nil!.includes?(TODO_TAG)
+    return false if self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
+    return true
   end
 
   # all other types of light walking activities with >0 distance

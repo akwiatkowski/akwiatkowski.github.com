@@ -68,7 +68,7 @@ class RssGenerator
   def rss_posts
     s = ""
     @posts.each do |post|
-      s += rss_post(post)
+      s += rss_post(post) if post.ready?
     end
     return s
   end
