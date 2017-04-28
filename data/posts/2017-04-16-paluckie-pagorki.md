@@ -7,7 +7,7 @@ keywords:               [pałuki]
 date:                   2017-04-16 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [car, todo]
+tags:                   [car, main]
 towns:                  [kujawsko_pomorskie, wielkopolskie, strzelno, mogilno, trzemeszno, rogowo_zninski]
 
 coords:                 [{"route": [[52.62021,18.04796], [52.62167,17.98273], [52.60885,17.93689], [52.61177,17.90102], [52.60353,17.87716], [52.60624,17.81055], [52.61938,17.81433], [52.63647,17.79768], [52.66125,17.84334], [52.68499,17.83355], [52.68696,17.87098], [52.67999,17.89449], [52.66344,17.90788], [52.66063,17.96161], [52.66084,18.02358], [52.64032,18.06907], [52.62063,18.05208]], "type": "car"}, {"route": [[52.64100,18.06830], [52.63735,18.07543]], "type": "hike"}]
@@ -20,7 +20,10 @@ pois:
     name: Punkt widokowy w Dusznie - Wał Wydartowski
   - lat: 52.65774
     lon: 17.83579
-    name: Zjazd z widokiem na Jezioro Palędzie
+    name: Zjazd z widokiem na Jezioro Palędzie. Sporo pagórków w okolicy.
+  - lat: 52.63785
+    lon: 18.07194  
+    name: Most nad Jeziorem Pakoskim
 
 ---
 
@@ -71,14 +74,14 @@ prawo kierując się na północ, zgodnie ze znakami w kierunku
 [punktu widokowego][wiki-duszno-widokowy].
 
 Dojechaliśmy do centrum wsi [Wydartowo][wiki-wydartowo] gdzie
-skręciliśmy ponownie w prawo o jechaliśmy do centrum wsi [Duszno][wiki-duszno].
+skręciliśmy ponownie w prawo i jechaliśmy do centrum wsi [Duszno][wiki-duszno].
 
 {% post_image "medium","IMGP4256raw1.jpg","Widok w kierunku północnym z punktu widokowego Duszno" %}
 
 Z samego [punktu widokowego][wiki-duszno-widokowy] mieliśmy tego dnia bardzo
 dobrą widoczność, nawet można było zauważyć
-[elektrownie][wiki-konin-elektrownia] w [Koninie][wiki-konin],
-która jest oddalona około 45km w linii prostej.
+[elektrownię][wiki-konin-elektrownia] w [Koninie][wiki-konin],
+która jest oddalona o około 45km w linii prostej.
 
 Wróciliśmy tą samą drogą do [Wydartowa][wiki-wydartowo]. Pojechaliśmy przez
 [Kruchowo][wiki-kruchowo] i [Ławki][wiki-lawki] do [Gołąbek][wiki-golabki].
@@ -97,8 +100,9 @@ Następnie ruszyliśmy w kierunku północno-wschodnim do
 
 Zbiornik ten jest trzecim największym zbiornikiem gazu w Polsce.
 
-Na północ jadąc dojechaliśmy do [Wymysłowa Szlacheckiego][wiki-wymyslowo-szlacheckie],
-gdzie kończy się droga i zaczyna las.
+Jadąc na północ dotarliśmy do [Wymysłowa Szlacheckiego][wiki-wymyslowo-szlacheckie],
+gdzie kończy się droga i zaczyna las. Nie pamiętam czy jest tam jakaś droga
+przez las, którą można spokojnie jechać rowerem.
 
 {% post_image "medium","IMGP4301raw1.jpg","Jezioro Palędzie" %}
 
@@ -107,7 +111,7 @@ Jest tam bardzo fajna górka z której jest widok na
 [Jezioro Palędzie][wiki-jezioro-paledzie].
 
 Patrząc jakiś czas temu na mapę zauważyłem wyraźne nierówności terenu w okolicy
-miejscowości [Drewno][wiki-drewno] dlatego zaproponowałem abyśmy tam dojechali.
+miejscowości [Drewno][wiki-drewno] dlatego zaproponowałem abyśmy się tam udali.
 Jest tam ciekawy zjazd w stronę Jeziora Drewienko (a raczej jego okolic),
 który kończy się w miejscowości [Belki][wiki-belki].
 
@@ -119,22 +123,22 @@ Raczej niewiele ciekawego było na trasie. Już taka nieduża miejscowość jak
 
 Gdy wjechaliśmy do [Szczeglina][wiki-szczeglin] było już znacznie bardziej dziko.
 Nie pamiętam dokładnie co było w jakiej miejscowości, ale ogólnie oceniam
-pozytywnie. Czasami z drogi widzieliśmy starą linię kolejową z
+te miejsca pozytywnie. Czasami z drogi widzieliśmy starą linię kolejową z
 [Mogilna][wiki-mogilno] do [Strzelna][wiki-strzelno].
 
 {% post_image "medium","IMGP4369raw1.jpg","Most kolejowy nad Jeziorem Pakoskim" %}
 
-Zatrzymaliśmy się na skrzyżowaniu w [Kunowie][wiki-kunowo] i proso poszliśmy
+Zatrzymaliśmy się na skrzyżowaniu w [Kunowie][wiki-kunowo] i prosto poszliśmy
 w kierunku Jeziora Pakoskiego, chociaż może ono mieć w tym miejscu inną nazwę
-gdyż jest bardzo długie - około 20km długości.
+gdyż jezioro jest bardzo długie - około 20km długości.
 
 {% post_image "medium","IMGP4382raw1.jpg","Jaszczurka na moście kolejowym" %}
 
 Najpierw poszedłem na wysokości torów i dotarłem na most. Ma on sporo dziur
-i nie był projektowany z myślą aby ludzie tam chodzili, dlatego zachowałem
+i nie był projektowany z myślą aby ludzie po nim chodzili, dlatego zachowałem
 się zgodnie z zamiarem projektanta i nie wchodziłem na niego.
 
-Wróciłem się około stu metrów i poszedłem zobaczyć jak wygląda on z dołu.
+Cofnąłem się około stu metrów i poszedłem zobaczyć jak wygląda most z dołu.
 Droga była trochę podmokła miejscami przez sąsiedztwo dużej ilości wody z
 Jeziora Pakoskiego.
 
