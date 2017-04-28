@@ -272,6 +272,7 @@ hr.small {
 }
 .post-preview .post-preview-thumb {
   float: right;
+  padding: 5px;
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {

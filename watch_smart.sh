@@ -5,6 +5,7 @@ while read path action file; do
     echo "The file '$file' appeared in directory '$path' via '$action'"
 
     # --release flag is not suitable here
+    rm ./blog
     crystal src/odkrywajac_polske.cr -o blog
     echo "Compiled"
 

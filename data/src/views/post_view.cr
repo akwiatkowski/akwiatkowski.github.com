@@ -1,6 +1,7 @@
 class PostView < BaseView
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
     @url = @post.url.as(String)
+    @validator = @blog.validator.as(Tremolite::Validator)
   end
 
   def title
@@ -91,16 +92,26 @@ class PostView < BaseView
       data["lands_content"] = ""
     end
 
+    # check missing towns
+    # XXX move it to validator
+    towns_or_voivodeships = @post.towns.not_nil!
+    all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
+    towns_or_voivodeships.each do |slug|
+      common_count = all_towns_or_voivodeships.select{|s| slug == s}.size
+      if common_count == 0
+        @validator.error_in_post(@post, "missing town #{slug}")
+      end
+    end
+
     # towns
     pd = Hash(String, String).new
     pd["taggable.name"] = "Miejscowości"
     pd["taggable.content"] = ""
     links = Array(String).new
     @post.towns.not_nil!.each do |town|
-      @blog.data_manager.not_nil!.towns.not_nil!.each do |town_entity|
-        if town == town_entity.slug
-          links << "<a href=\"" + town_entity.url + "\">" + town_entity.name + "</a>"
-        end
+      town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select{ |town_entity| town == town_entity.slug }
+      town_entities.each do |town_entity|
+        links << "<a href=\"" + town_entity.url + "\">" + town_entity.name + "</a>"
       end
     end
     if links.size > 0
