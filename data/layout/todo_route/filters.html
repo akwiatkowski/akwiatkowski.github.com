@@ -5,16 +5,16 @@
     <div class="form-group">
       <label for="filter-flag-normal" class="col-sm-5 control-label">Typ odległościowy trasy</label>
       <div class="col-sm-7">
-        <input type="checkbox" id="filter-flag-small" value="small" class="route-filter-field">
+        <input type="checkbox" id="filter-flag-small" value="small" class="route-filter-field" {{ filter.small.checked }}>
         Krótkie (do 40km)<br/>
 
-        <input type="checkbox" id="filter-flag-normal" value="normal" class="route-filter-field" checked>
+        <input type="checkbox" id="filter-flag-normal" value="normal" class="route-filter-field" {{ filter.normal.checked }}>
         Normalna (30-80km)<br/>
 
-        <input type="checkbox" id="filter-flag-long" value="long" class="route-filter-field" checked>
+        <input type="checkbox" id="filter-flag-long" value="long" class="route-filter-field" {{ filter.long.checked }}>
         Długie (50-120km)<br/>
 
-        <input type="checkbox" id="filter-flag-touring" value="touring" class="route-filter-field">
+        <input type="checkbox" id="filter-flag-touring" value="touring" class="route-filter-field" {{ filter.touring.checked }}>
         Wielodniowe (>110km)<br/>
 
       </div>

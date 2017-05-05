@@ -1,7 +1,22 @@
 class TodosView < PageView
   CLOSE_POST_DISTANCE = 12.0
 
-  def initialize(@blog : Tremolite::Blog, @todos : Array(TodoRouteEntity), @url : String)
+  FILTER_CHECKED_SMALL = :small
+  FILTER_CHECKED_NORMAL = :normal
+  FILTER_CHECKED_LONG = :long
+  FILTER_CHECKED_TOURING = :touring
+  FILTER_CHECKED_ALL = [
+    FILTER_CHECKED_SMALL,
+    FILTER_CHECKED_NORMAL,
+    FILTER_CHECKED_LONG,
+    FILTER_CHECKED_TOURING
+  ]
+  FILTER_CHECKED_STANDARD = [
+    FILTER_CHECKED_NORMAL,
+    FILTER_CHECKED_LONG,
+  ]
+
+  def initialize(@blog : Tremolite::Blog, @todos : Array(TodoRouteEntity), @url : String, @prechecked = [FILTER_CHECKED_NORMAL, FILTER_CHECKED_LONG])
     @image_url = @blog.data_manager.not_nil!["todos.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["todos.title"].as(String)
     @subtitle = @blog.data_manager.not_nil!["todos.subtitle"].as(String)
@@ -12,7 +27,17 @@ class TodosView < PageView
   def inner_html
     todo_routes_string = ""
     todo_routes_string += load_html("todo_route/links")
-    todo_routes_string += load_html("todo_route/filters")
+
+    # prechecked filters
+    filter_hash = Hash(String, String).new
+    FILTER_CHECKED_ALL.each do |filter_length|
+      if @prechecked.includes?(filter_length)
+        filter_hash["filter.#{filter_length}.checked"] = "checked"
+      else
+        filter_hash["filter.#{filter_length}.checked"] = ""
+      end
+    end
+    todo_routes_string += load_html("todo_route/filters", filter_hash)
 
     @todos.each do |todo_route|
       data = Hash(String, String).new
