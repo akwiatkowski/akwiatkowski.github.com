@@ -1335,3 +1335,29 @@
   distance: 84
   time_length: 5
   url: http://umapa.pl/wLIcW
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Janowice Wielkie
+  to: Rydzyna
+  through:
+    - Radomierz
+    - Wojcieszów
+    - Kondratów
+    - Kozów
+    - Podolany
+    - Chojnów
+    - Trzebnice
+    - Sobin
+    - Tarnówek
+    - Żelazny Most
+    - Rudna
+    - Nieszczyce
+    - Osetno
+    - Góra
+  info: Początek przez Góry i Pogórze Kaczawskie. Za Złotoryją klimatyczne tereny, sporo lasów. Można skracać, ale nie jest to trywialne.
+  priorities:
+    - high
+  distance: 161
+  time_length: 10
+  url: http://umapa.pl/ggIP7

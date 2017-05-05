@@ -736,3 +736,15 @@
   time_cost: 120
   lat: 51.51303
   lon: 16.88932
+
+- commune_slug: janowice_wielkie
+  name: Janowice Wielkie
+  time_cost: 280
+  lat: 50.87840
+  lon: 15.91903
+
+- commune_slug: janowice_wielkie
+  name: Rydzyna
+  time_cost: 80
+  lat: 51.77076
+  lon: 16.64705
