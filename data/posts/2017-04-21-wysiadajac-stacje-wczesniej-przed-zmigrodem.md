@@ -22,6 +22,9 @@ pois:
 Wstęp
 -----
 
+Jest to pierwszy dzień krótkiego wyjazdu w [Dolinę Baryczy][wiki-dolina-baryczy].
+Celem było lekkie zwiedzenie okolicy i obserwacja ptaków.
+
 Opis trasy
 ----------
 
@@ -30,12 +33,30 @@ Opis trasy
 Szczegóły
 ---------
 
+Kilka dni wcześniej patrzyłem na mapę i zapamiętałem, że między [Rawiczem][wiki-rawicz]
+a [Żmigrodem][wiki-zmigrod] jest tylko jeden przystanek kolejowy. Więc gdy minęliśmy
+stację w [Korzeńsku][wiki-korzensko] przygotowaliśmy się do wyjścia.
+
+Pociąg zatrzymał się i wysiedliśmy i okazało się, że to nie jest [Zmigród][wiki-zmigrod]
+a [Garbce][wiki-garbce]. Szybka analiza i już wiedziałem gdzie trzeba jechać.
+
+Ruszyliśmy na wschód przez [Borek][wiki-borek]. Jest to całkiem ładna wieś,
+gdzie już widać popularny styl domów z czerwonej cegły.
+Przejeżdzając naliczyliśmy aż cztery koty.
+
+Przejechaliśmy przez [Nowe Domy][wiki-nowe-domy] i skręciliśmy na południe
+w stronę skrzyżowania w [Zielonym Domu][wiki-zielony-dom].
+W tym miejscu przejeżdzaliśmy jadąc do [Radziądza][wiki-radziadz]
+[dwa late temu]({% post_url 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu %}).
+
+Dojeżdzając do [Żmigrodu][wiki-zmigrod] ruch samochodowy stał się znacznie wyraźniejszy.
+Co jakiś czas mijaliśmy stare budynki, które dodawały uroku tym okolicom.
+
+Przejechaliśmy przez centrum miasta i ulicą sportową wyjechaliśmy na wschód.
+Droga ta była spokojna, wokół mijaliśmy jeszcze gołe pola. Niebo
+
 TODO:
 
-* na starej mapie nie było jednej stacji i wysiedliśmy wcześniej
-* Borek jest ładną wsią, domy z czerwonej cegły i 4 koty
-* na skrzyżowaniu w Zielonym Domu skręciliśmy w miejscu gdzie kiedys jechaliśmy do Radziądza
-* przed Żmigrodem trochę ruch, chwilę musiałem zastanowić jak skręcić na skrzyżowaniu z 5-ką
 * na wschód przez pola, jedyną wioską to Osiek Mały
 * po drodzę przystanek chyba niedaleko Kancerzowic
 * dojechaliśmy do Stawu Rudego
