@@ -15,6 +15,15 @@ distance:               40
 time_spent:             6
 
 pois:
+  - lat: 51.51875
+    lon: 17.06935
+    name: Asfaltowy szlak rowerowy przez las między Grabówką a Niezgodą
+  - lat: 51.51934
+    lon: 17.04159
+    name: Punkt obserwacyjny w Niezgodzie  
+  - lat: 51.53795
+    lon: 17.16872
+    name: Na północ od Sułowa są ciekawe wioski
 
 ---
 
@@ -29,22 +38,57 @@ Opis trasy
 Szczegóły
 ---------
 
+Tym razem z [Rudy Sułowskiej][wiki-ruda-sulowska] ruszyliśmy na zachód do
+[Grabownicy][wiki-grabownica], którego początek widzieliśmy podczas
+[spaceru wzdłuż Młynówki]({% post_url 2017-04-21-wieczorny-spacer-wzdluz-mlynowki %}).
+
+Dużym pozytywnym zaskoczeniem był szlak rowerowy w kierunku
+[Niezgody][wiki-niezgoda]. Na mapie widać go jako marnej jakości droga gruntowa
+a w rzeczywistości jest to droga asfaltowa.
+
+Punkt widokowy w [Niezgodzie][wiki-niezgoda] był trochę w innym miejscu niż
+oznaczony na mapie. Jest on położony trochę na północ patrząc z miejsca
+gdzie centrum wsi łączy się z jeziorem.
+
+Jest on dobrze obudowany i wiatr nie jest problemem gdy się obserwuje ptaki w
+tym miejscu.
+
+Kolejnym celem był punkt widokowy, na którym byłem
+[dwa lata temu]({% post_url 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu %}).
+
+Droga do tego punktu jest nieoznaczona. Początkowo jedzie się drogą gruntową która
+stopniowo robi się bardziej trawiasta i podmokła na samym końcu.
+
+W punkcie widokowym byliśmy dosyć krótko. Tym razem widziałem mniej ptaków tam
+i znacznie bardziej wietrznie było.
+
+Gdy dotarliśmy do drogi asfaltowej zaczęło padać. Nie zatrzymywaliśmy się a
+deszcz szybko minął i pojawiło się Słońce.
+
+Przez [Wilkowo][wiki-wilkowo], gdzie jest dużo ciekawych
+starych budynków, dojechaliśmy do [Olszy][wiki-olsza] obok
+której jest miejscowość o pięknej nazwie - [Białykał][wiki-bialykal].
+Zrobiłem tylko zdjęcie tabliczki ale już pojawiła mi się myśl aby kiedyś przejechać
+dalej na północ, może nawet aż do [Jarocina][wiki-jarocin].
+
+Wróciliśmy jadąc na południe do [Grabówki][wiki-grabowka].
+
+Tutaj musielismy podjąć decyzję czy pojedziemy dalej niebieskim szlakiem
+czy spokojnie wrócimy do bazy. Dla mnie tego dnia było trochę mało jeszcze.
+
+Niebieski szlak okazał się faktycznie pieszy. Początkowo musieliśmy
+pokonać piaski, a później przywitał nas nieznacznie przyjemniejszy teren.
+Faktycznie są to bardzo fajne tereny na spacer, ale trochę trudniej jest
+jechać rowerem tam.
+
+
+
+
+
+
+
 TODO:
 
-* ruszyliśmy do Grabówki
-* na zachód szlak rowerowy, za chwilę był asfaltowy
-* punkt widokowy Staw Niezgoda 1 - małe robaczki, na południowej stronie
-* punkt widokowy na ptaki miał być na południowej stronie
-* dojechaliśmy do centrum Niezgody i znaleźliśmy go na północno-wschodniej
-* następnie tak jak kiedyś dojechalismy na punkt widokowy
-* końcówka trasy była dość mokra, lekkie błotko pod trawą
-* zaczęło padać gdy jechaliśmy na północ
-* szybko się wypogodziło, słońce, chmury pierzaste
-* w Wilkowie dużo fajnych starych budynków
-* z Olszy chciałem do Białegokału
-* na południe do Grabówki
-* z Grabówki niebieskim szlakiem pieszym
-* na poczatku dużo piasku, później terenowy, pagórki, las
 * widok na Staw Mała Mewa
 * na północ obok Wzgórze Czarownic
 * dojechaliśmy do trochę lepszej drogi do Brzezina Sułowska - Gajówka
@@ -55,6 +99,7 @@ TODO:
 * chcieliśmy skrócić do drogi do Rudy Sułowskiej przez drogę z mapy papierowej
 * jechaliśmy bardzo terenowym szlakiem konnym
 * wjechaliśmy w dziką drogę obok Młynówki
-* nie mogliśmy wydostać się na drogę
+* nie mogliśmy wydostać się na drogę, w pewnym miejscu ograniczała nas
+  zamknięta brama
 * wróciliśmy do szlaku konnego
 * bardzo ładne widoki, prawie idealne chmury, światło, zieleń

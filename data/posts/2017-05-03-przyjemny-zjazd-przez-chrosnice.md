@@ -22,6 +22,10 @@ pois:
   - lat: 51.14236
     lon: 15.97319
     name: Stacja kolejowa w Kozowie (Złotoryja-Legnica). Ciekawe pola są w jej okolicy.  
+  - lat: 51.51285
+    lon: 16.20983
+    name: Żelazny Most - zbiornik odpadów związanych z wydobyciem miedzi. Niedaleko Rudny.
+      
 
 ---
 

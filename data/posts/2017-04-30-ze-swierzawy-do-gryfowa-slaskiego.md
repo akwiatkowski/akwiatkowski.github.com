@@ -22,6 +22,11 @@ pois:
 Wstęp
 -----
 
+Zorganizowanie majówki było znacznie trudniejsze w tym roku. Musiałem być
+2-go w [Jeleniej Górze][wiki-jelenia-gora] aby móc
+[przejechać pociągiem TurKolu]({% post_url 2017-05-02-pociagiem-pierscien-i-granica %}).
+Do tego przez niepewność pogodową ludzie ze Śląska nie byli pewni.
+
 Opis trasy
 ----------
 
@@ -29,6 +34,9 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Dopiero dwa tygodnie przed zacząłem dzwonić poszukując noclegu. Ta majówka
+
 
 * dojazd: zła pogoda, spory podjazd
 * planowaliśmy dojechać przez las, ale nie przejechaliśmy przez pewien most
