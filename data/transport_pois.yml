@@ -743,8 +743,28 @@
   lat: 50.87840
   lon: 15.91903
 
-- commune_slug: janowice_wielkie
+- commune_slug: rydzyna
   name: Rydzyna
   time_cost: 80
   lat: 51.77076
   lon: 16.64705
+
+- commune_slug: mogilno
+  name: Mogilno
+  major: true
+  time_cost: 80
+  lat: 52.65825
+  lon: 17.94609
+
+- commune_slug: inowroclaw
+  name: Inowrocław
+  major: true
+  time_cost: 95
+  lat: 52.65825
+  lon: 17.94609
+
+- commune_slug: inowroclaw
+  name: Jaksice
+  time_cost: 105
+  lat: 52.80534
+  lon: 18.24375

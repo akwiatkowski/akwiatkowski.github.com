@@ -1361,3 +1361,63 @@
   distance: 161
   time_length: 10
   url: http://umapa.pl/ggIP7
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Miały
+  to: Gorzów Wielkopolski
+  through:
+    - Piłka
+    - Kwiejce
+    - Drezdenko
+    - Trzebicz
+    - Goszczanowo
+    - Ludzisławice
+    - Santok
+  info: Znaczna większość trasy jest przez spokojne wioski przez tereny leśne, przynajmniej z jednej strony drogi. Można łatwo skrócić na szynobus Gorzów-Krzyż.
+  priorities:
+    - normal
+  distance: 78
+  time_length: 5
+  url: http://umapa.pl/8s42B
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Mogilno
+  to: Wągrowiec
+  through:
+    - Wieniec
+    - Drewno
+    - Chomiąża Szlachecka
+    - Gąsawa
+    - Żernik
+    - Janowiec Wielkopolski
+    - Mirkowice
+    - Rąbczyn
+  info: Głównie przez wioski. Nie można skrócić. Teren powinien być urozmaicony.
+  priorities:
+    - high
+  distance: 68
+  time_length: 4.5
+  url: http://umapa.pl/dEPNh
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Jaksice
+  to: Wągrowiec
+  through:
+    - Leszcze
+    - Dźwierzchno
+    - Barcin
+    - Pturek
+    - Murczyn
+    - Żnin
+    - Słębowo
+    - Damasławek
+    - Łekno
+  info: Głównie przez wioski. Nie można skrócić. Teren powinien być urozmaicony.
+  priorities:
+    - high
+  distance: 75
+  time_length: 5
+  url: http://umapa.pl/ERSHy
