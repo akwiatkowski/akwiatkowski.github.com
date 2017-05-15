@@ -15,13 +15,27 @@ distance:               69
 time_spent:             5
 
 pois:
-
+  - lat: 52.39202
+    lon: 16.18244
+    name: Bardzo lekki i długi zjazd z Małej Lipki do Lwówka
+  - lat: 52.58597
+    lon: 16.14751
+    name: Zjazd w Mościejewie na wysokość zbiorników wodnych
+  - lat: 52.61824
+    lon: 16.15051
+    name: Między Lutomiem a Lutomkiem. Stosunkowo mocny zjazd i widok na pagórki okolic Sierakowa.
 
 ---
 
 Wstęp
 -----
 
+[Dzień wcześniej]({% post_url 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem %})
+przejechałem 85km z tego powodu miałem mniejszą ochotę na jazdę w niedzielę.
+
+Trasę wymyśliłem wieczorem uwzględniając pogodę, aby wiatr nam nie utrudniał.
+
+Nie myślałem, że tak bardzo mi się spodoba.
 
 Opis trasy
 ----------
@@ -30,3 +44,91 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Wysiedliśmy w [Nowym Tomyślu][wiki-nowy-tomysl] i po zakupienie zapasów na
+drogę ruszyliśmy drogą do [Starego Tomyśla][wiki-stary-tomysl].
+
+Jechaliśmy niebieskim szlakiem rowerowym.
+[Nowy Tomyśl][wiki-nowy-tomysl] nie jest dużym miastem, ale jest na tyle duże,
+że przestaje być dla mnie tak ciekawe. Trasa wyjazdowa wyglądała jak tereny
+podmiejskie.
+
+W [Starym Tomyślu][wiki-stary-tomysl] przestaliśmy jechać po trasie
+rozebranej kolei wąskotorowej a ruszyliśmy normalną drogą regionalną
+na północ.
+
+Niebieski szlak rowerowy skręcał na lewo, ale według mapy prowadził on
+przez bardziej gruntowe drogi. Obawiam się takich szlaków rowerowych
+przez gęsty las. Widokowo często nie są tak atrakcyjne, a porusza się po
+nich znacznie wolniej.
+
+Zaciekawiła mnie miejscowość [Kozie Laski][wiki-kozie-laski]. Nie jechaliśmy tam,
+ale według mapy ta wieś powinna być położona na górce.
+
+Jechaliśmy na północ kierując się w stronę [Wytomyśla][wiki-wytomysl].
+Wkroczyliśmy w las co jakiś czas mijając domy. Przed przejazdem pod autostradą
+A2 zastanawiałem się czy jeden z położonych blisko domów ma odpowiednią izolację
+przed hałasem.
+
+Do [Lwówka][wiki-lwowek] mieliśmy 10km. Las dość szybko się skończył.
+[Wytomyśl][wiki-wytomysl] pokazał już nam w jakie tereny wkroczyliśmy.
+Bliskość autostrady nie przeszkadza w istnieniu tak spokojnych miejscowości.
+Do tego jak się nie mylę jest tam ładny kościół w centrum wsi.
+
+Rozpoczał się delikatny (czym jest 20 metrów w górę po jeździe w górach?)
+podjazd do [Małej Lipki][wiki-mala-lipka]. Mogę się mylić w którym miejscu
+dokładniej był najwyższy punkt, ale ważne jest że rozpoczął się bardzo
+fajny zjazd.
+
+Gdy przerobię filmiki z tego wyjazdu może coś napiszę więcej o tych terenach.
+
+W [Lwówku][wiki-lwowek] zrobiliśmy sobie przerwę na rynku po kolejną część zapasów.
+Wyjeżdzając musieliśmy przejechać przez drogę nr 92.
+Jechaliśmy do miejscowości [Linie][wiki-linie].
+
+Musieliśmy skręcić w prawi i jechać drogą gruntową do [Chudobczyc][wiki-chudobczyce].
+Jest to jedna z tych miejscowości gdzie człowiek czuje maksymalną
+dzicz. Dowodem jest stara tablica miejscowości pomalowana zgodnie z wcześniejszym
+stylem. Dziwne że w odległości 5km jest droga nr 24.
+
+Ruszyliśmy dalej w stronę [Lubosza][wiki-lubosz]. Tereny te zaczeły mi się mocno
+kojarzyć z
+[trasą przez okolice Barlinka]({% post_url 2016-07-10-przez-pagorki-do-stargardu %}).
+Dzisiejsza trasa bardzo mi się podobała, ale zacząłem się obawiam burzy która
+gdzieś na północy się pojawiła.
+
+[wiki-kolej-363]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_363
+
+Przejechaliśmy po torach [linii kolejowej 363][wiki-kolej-363]. Linia ta miała
+zostać zlikwidowana, jednak po staraniach różnych środowisk pojawiła się
+szansa na rewitalizację po roku 2020-tym.
+
+W [Luboszu][wiki-lubosz] minęliśmy drogę nr 24 i zaczęliśmy powoli zbliżać się
+do [Sierakowskiego Parku Krajobrazowego][wiki-park-sierakow].
+Okoliczne tereny cały czas miały swój klimat, zwłaszcza pola kwitnącego rzepaku.
+
+Może coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
+drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewie]
+podczas zjazdu musiałem uważać na wiewiórkę która była na drodzę. Wokół
+jest trochę zbiorników wodnych.
+
+Ponownie czekał na nas nie za długi podjazd. Mielśmy idealny widok na
+okolice Jeziora Lutomskiego i okoliczne pagórki. Naprzeciwko nas na północ
+zbierała się burza pod postacią bardzo ciemnych chmur. Błysków nie widziałem,
+ale grzmoty było delikatnie słychać.
+
+Zaskoczył mnie gwałtowny zjazd, a podjazd po nim już był bardziej
+przewidywalny.
+
+W [Lutomiu][wiki-lutom] skręciliśmy w stronę drogi 133 i przez
+[Ryżyn][wiki-ryzyn] jechaliśmy do [Wronek][wiki-wronki].
+
+W [Chrzypsku Wielkim][wiki-chrzypsko-wielki] zrobiliśmy przerwę na jedzenie.
+Analizując opcje powrotu pociągiem i patrząc na niepewną pogodę postanowiliśmy
+sprawnie ruszyć już na powrotny pociąg.
+
+Trasę tą opisałem już [tutaj]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %}).
+
+Przejeżdzając przez okolice [Łucjanowa][wiki-lucjanowo] widzieliśmy ślady
+ulewy, która tutaj niedawno przeszła. Mieliśmy sporo szczęścia gdyż się z nią
+nie spotkaliśmy.
