@@ -1,8 +1,8 @@
-class TownsIndexView < PageView
+class TownsHistoryView < PageView
   def initialize(@blog : Tremolite::Blog, @url : String)
-    @image_url = @blog.data_manager.not_nil!["towns.backgrounds"].as(String)
-    @title = @blog.data_manager.not_nil!["towns.title"].as(String)
-    @subtitle = @blog.data_manager.not_nil!["towns.subtitle"].as(String)
+    @image_url = @blog.data_manager.not_nil!["towns_history.backgrounds"].as(String)
+    @title = @blog.data_manager.not_nil!["towns_history.title"].as(String)
+    @subtitle = @blog.data_manager.not_nil!["towns_history.subtitle"].as(String)
 
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
   end
@@ -14,16 +14,35 @@ class TownsIndexView < PageView
 
     @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
       s += "<li>\n<h2>#{voivodeship.name}</h2>\n"
-      s += "<ol>\n"
+      s += "<ul>\n"
 
-      @blog.data_manager.not_nil!.towns.not_nil!.select { |t| t.voivodeship == voivodeship.slug }.each do |town|
+      towns = Array(Tuple(TownEntity, (Time))).new
+      towns_in_voivodeship(voivodeship).each do |t|
+        vt = visited_since(t)
+        towns << {t, vt.not_nil!} unless vt.nil?
+      end
+
+      towns.sort{|a,b| a[1] <=> b[1]}.map{|a| a[0]}.each do |town|
         s += town_element(town)
       end
 
-      s += "</ol></li>\n"
+      s += "</ul></li>\n"
     end
 
     return s
+  end
+
+  def towns_in_voivodeship(voivodeship)
+    @blog.data_manager.not_nil!.towns.not_nil!.select { |t| t.voivodeship == voivodeship.slug }
+  end
+
+  def visited_since(town)
+    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug )}
+    if posts_for_town.size > 0
+      return posts_for_town.sort{|a,b| a.time <=> b.time }.first.time
+    else
+      return nil
+    end
   end
 
   def town_element(town)
