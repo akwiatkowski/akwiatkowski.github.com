@@ -43,3 +43,16 @@ TODO:
 * do zamku w Karpnikach, przerwa na jedzenie, objechaliśmy go
 * ?
 * Bukowiec?
+* znowu przerwa na jedzenie, były dobre pierogi ruskie domowej roboty
+* kupiłem miód
+* podjazd do Gruszkowa w stronę Góry Parkowej
+* gruntowy zjazd do Kowar
+* na zachód do Miłkowa, widok na Karkonosze
+* przerwa przy Pałacu Spiż(owym?)
+* przejazd obok stawów w Głebocku
+* wjechaliśmy do Sosnówki widząc Zbiornik Sosnówka
+* podjazd przed Staniszowem
+* zjazd do Cieplic, osiedle identycznych domków
+* Park Zdrojowy i wiewiórki w Parku Norweskim
+* powrót do centrum Jeleniej bocznymi drogami, a później jazda główną drogą
+* smutny podjazd do bazy

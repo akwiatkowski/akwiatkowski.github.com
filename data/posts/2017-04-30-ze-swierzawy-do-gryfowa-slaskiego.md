@@ -35,7 +35,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Dopiero dwa tygodnie przed zacząłem dzwonić poszukując noclegu. Ta majówka
+Dopiero dwa tygodnie przed zacząłem dzwonić poszukując noclegu. Ta majówka...
 
 
 * dojazd: zła pogoda, spory podjazd
@@ -46,4 +46,41 @@ Dopiero dwa tygodnie przed zacząłem dzwonić poszukując noclegu. Ta majówka
 * podjechaliśmy do drogi do Świerzawy
 * kilka zdjęć Karkonoszy
 * zjazd i skręcenie na drogę asfaltową przez las - niebieski szlak rowerowy
-*
+* obok jest Okole
+* zjazd do Lubiechowa, problemy z hamulcami
+* Świerzawa, tory kolejowe
+* pizza z października
+* podjazd, widok na pagórki
+* jazda przez las
+* Biegoszów - fajna droga, pagórki, zielono
+* wjazd do Nowego Koscioła
+* tory, stacja kolejowa
+* przypomnienie jak wygladają okolice trasy kolejowej, jak zarośnięta
+* jazda na południe
+* płaskie tereny a wokół góry
+* obiad w młynie
+* organy Wielisławskie, mokry szlak pieszy
+* przejazd przez gospodarstwo, chociaż szlak namalowany
+* do Sokołowca
+* większość dróg między wioskami to podjazd a nastepnie zjazd
+* piękne widoki na pagórki okoliczne
+* wioski w sumie podobne, Sokołowiek, Proboszczów
+* za Proboszczowem trochę teren zrobił się nudniejszy, jakby stracił klimat
+* w Bełczycy było roździelenie, ja z Maciejem jechałem dalej
+* coś fajnego było między Bełczycą a Bystrzycą, ale nie pamiętam
+* bardzo fajny i długi zjazd w stronę Wlenia
+* podjazd wzłuż linii kolejowj, skała po lewej stronie
+* kombinowanie jak najlepiej jechać dalej
+* co było w Łupkach?
+* bardzo ciekawy most - skrzyżowanie dróg
+* autobus Kolei Dolnośląskich
+* zjazd do Golejowa i ponownie zmiana trasy, pojechaliśmy na północ
+* trasa miała być lepsza, pewniejsza
+* w Młodochowie jechaliśmy chwilę po trasie na zlikwidowanej kolei
+* ktoś powiedział że ma być rozszerzana
+* trasa wzdłuż wiosek, z jednej strony nic ciekawe, pewna dzikość, ale też nuda
+* sklep w Lubomierzu
+* było coś ciekawego do dojazdu do drogi 30-tki?
+* chwila jazdy po drodzę 30, całkiem szybko poszło, sporo miejsca na wyprzedzanie, dobry wiatr
+* przerwa na stacji
+* z Jeleniej jechaliśmy głównymi drogami, wyszło 8km i ten straszny podjazd
