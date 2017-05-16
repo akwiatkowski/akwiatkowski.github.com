@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Wysiadając stację wcześniej przed Żmigrodem"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "dzięki tej pomyłce zrozumiałem, że nie trzeba wysiadać w Żmigrodzie"
+desc:                   "Pierwszy dzień krótkiej wycieczki po Dolinie Baryczy. Dojechaliśmy z południowej strony przez Osiek do Rudy Sułowskiej."
+keywords:               [barycz, dolina baryczy]
 date:                   2017-04-21 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -17,6 +17,21 @@ time_spent:             4
 pois:
 
 ---
+
+[wiki-dolina-baryczy]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
+[wiki-rawicz]: https://pl.wikipedia.org/wiki/Rawicz
+[wiki-zmigrod]: https://pl.wikipedia.org/wiki/%C5%BBmigr%C3%B3d
+[wiki-korzensko]: https://pl.wikipedia.org/wiki/Korze%C5%84sko
+[wiki-garbce]: https://pl.wikipedia.org/wiki/Garbce
+[wiki-borek]: https://pl.wikipedia.org/wiki/Borek_(wie%C5%9B_w_powiecie_trzebnickim)
+[wiki-nowe-domy]: https://pl.wikipedia.org/wiki/Nowe_Domy_(powiat_trzebnicki)
+[wiki-radziadz]: https://pl.wikipedia.org/wiki/Radzi%C4%85dz
+[wiki-osiek-maly]: https://pl.wikipedia.org/wiki/Osiek_Ma%C5%82y_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-osiek]: https://pl.wikipedia.org/wiki/Osiek_(powiat_trzebnicki)
+[wiki-ruda-zmigrodzka]: https://pl.wikipedia.org/wiki/Ruda_%C5%BBmigrodzka
+[wiki-ruda-sulowska]: https://pl.wikipedia.org/wiki/Ruda_Su%C5%82owska
+[wiki-hucisko]
+
 
 
 Wstęp
@@ -45,7 +60,7 @@ gdzie już widać popularny styl domów z czerwonej cegły.
 Przejeżdzając naliczyliśmy aż cztery koty.
 
 Przejechaliśmy przez [Nowe Domy][wiki-nowe-domy] i skręciliśmy na południe
-w stronę skrzyżowania w [Zielonym Domu][wiki-zielony-dom].
+w stronę skrzyżowania w Zielonym Domu.
 W tym miejscu przejeżdzaliśmy jadąc do [Radziądza][wiki-radziadz]
 [dwa late temu]({% post_url 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu %}).
 
@@ -53,26 +68,43 @@ Dojeżdzając do [Żmigrodu][wiki-zmigrod] ruch samochodowy stał się znacznie 
 Co jakiś czas mijaliśmy stare budynki, które dodawały uroku tym okolicom.
 
 Przejechaliśmy przez centrum miasta i ulicą sportową wyjechaliśmy na wschód.
-Droga ta była spokojna, wokół mijaliśmy jeszcze gołe pola. Niebo
+Droga ta była spokojna, wokół mijaliśmy jeszcze gołe pola. Niebo jak i
+krajobraz był raczej wczesnowiosenny, bardziej szary niż zielone.
 
-TODO:
+Jedyną osadą jaką mineliśmy był [Osiek Mały][wiki-osiek-maly], a
+w normalnym [Osieku][wiki-osiek] skręciliśmy w lewo na północ.
 
-* na wschód przez pola, jedyną wioską to Osiek Mały
-* po drodzę przystanek chyba niedaleko Kancerzowic
-* dojechaliśmy do Stawu Rudego
-* chcieliśmy dojechać do Karczmy Rybnej, ale okazało się że w piątek jest nieczynna teraz
-* przejechaliśy przez las, minęliśmy maszynę zbierającą drewno
-* dojechaliśmy do drogi 439 i chwilę później skręciliśmy na północ
-* wody nie było w stawach na południe od Rudy Sułowskiej
+Dojechaliśmy do Stawu Rudego i od tego momentu czuliśmy już lesisty klimat
+[Doliny Baryczy][wiki-dolina-baryczy]. Podjechaliśmy nad staw na chwilę.
 
-Wieczorem:
+Teraz celem było jedzenie. Dowiedzieliśmy się wcześniej że w sezonie jest
+czynna restauracja Karczma Rybna w [Rudzie Żmigrodzkiej][wiki-ruda-zmigrodzka].
+Na miejscu okazała się, że sezonu jeszcze nie ma i będzie czynna dopiero w
+sobotę. Oczywiście w pobliżu nie było sklepów.
+[Dolina Baryczy][wiki-dolina-baryczy] to specyficzne miejsce, z jednej strony
+popularne i znane, z drugiej strony niedotkniętę tak komercją że nie ma tak
+dużo sklepów. W [Rudzie Sułowskiej][wiki-ruda-sulowska] był tylko jeden sklep,
+średnio zaopatrzony.
 
-* Poszliśmy na południe za rzekę Młynówkę i ruszyliśmy na zachód drogą gruntową
-* droga skręcała w lewo, ale my szliśmy prosto lekko wydeptaną ścieżką
-* nie było żadnego znaku że nie można iść to szliśmy
-* co jakiś czas ustaliśmy że będziemy wracać
-* bardzo ładnie rzeka wyglądała, ale nie miałem pomyślu jakie ciekawe zdjęcia zrobić
-* spłoszone sarny na drugim brzegu rzeki
-* ostatecznie doszliśmy do miejsca gdzie nie mogliśmy iść prosto (zakaz), nie mogliśmy
-  iść drugim brzegiem rzeki (zakaz i bez sensu), ale mogliśmy iść w stronę drogi
-* Słońce powoli zachodziło, miałem okazję zrobić ciekawe zdjęcia
+W osadzie Hucisko było kilka domów i tam zrobiłem krótką przerwę
+na zdjęcia. Miejsce było według mnie urokliwe.
+
+Chwilę później jechaliśmy czerwonym szlakiem rowerowym przez las. Zignorowaliśmy
+informację o zakazie wejścia z powodu zrywki drzew. W takich sytuacjach po
+prostu trzeba chociaż trochę uważac i szanować pracujące tam osoby a nie szukać
+innej drogi.
+
+Dojechaliśmy do drogi 439 i po pewnym czasie skręciliśmy znowu
+na północ. Byłem zaskoczony widząc stawy z upuszczoną wodą. Wyglądało jakby
+wiosna w te strony miała przyjsć później a ludzie jeszcze nie skończyli
+przygotowań na jej przyjście.
+
+Dotarliśmy do [Rudy Sułowskiej][wiki-ruda-sulowska] widząc spacerującego
+sobie bociana. Chyba jest mało miejscowości w Polsce gdzie można zobaczyć
+spokojnie sobie chodzącego bociana. Oczywiście gdy zbliżyliśmy się zbyt bardzo
+to uciekł, niemniej zdjęcie udało mi się zrobić.
+
+[8-ryb]: http://www.gospoda8ryb.pl/index.php?idS=21&ln=pl
+
+Ciepłe jedzenie znaleźliśmy w [Gospodzie 8 Ryb][8-ryb]. Miejsce to jest
+akceptowalnie tanie.

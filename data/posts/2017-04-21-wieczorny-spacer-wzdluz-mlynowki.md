@@ -38,6 +38,11 @@ Najpierw szliśmy drogą, która było ledwie zaznaczona na mapie. Później dro
 zniknęła z mapy, a my zauważyliśmy lekko wydeptaną ścieżkę i spróbowaliśmy
 pójść i zobaczyć co jest dalej.
 
+Nie było żadnego znaku "zakaz wejścia" to uznaliśmy, że można tam iść.
+
+Rzeka wyglądała bardzo ładnie, ale niestety nie miałem pomysłu jak mógłbym
+zrobić dobre zdjęcie.
+
 {% post_image "medium","IMGP4716raw1.jpg","Rzeka Młynówka" %}
 
 W pewnym momencie proponowałem aby wrócić gdyż według mapy na GPS musielibyśmy
