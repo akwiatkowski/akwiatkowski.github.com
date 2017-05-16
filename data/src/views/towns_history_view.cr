@@ -14,7 +14,7 @@ class TownsHistoryView < PageView
 
     @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
       s += "<li>\n<h2>#{voivodeship.name}</h2>\n"
-      s += "<ul>\n"
+      s += "<ol>\n"
 
       towns = Array(Tuple(TownEntity, (Time))).new
       towns_in_voivodeship(voivodeship).each do |t|
@@ -26,7 +26,7 @@ class TownsHistoryView < PageView
         s += town_element(town)
       end
 
-      s += "</ul></li>\n"
+      s += "</ol></li>\n"
     end
 
     return s
