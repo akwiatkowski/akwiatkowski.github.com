@@ -48,6 +48,10 @@ na nim, ale wtedy wiosny jeszcze nie było widać.
 Postanowiliśmy że cofniemy się do [Wydartowa][wiki-wydartowo] przez
 [Chabsko][wiki-chabsko].
 
+W mieście przejechaliśmy obok Jeziora Mogileńskiego a następnie przejechaliśmy
+mostem nad torami do [Orchowa][wiki-orchowo]. Jakiś czas temu jeździł
+po nich maluch-drezyna.
+
 Ruch stopniowo się zmniejszał po opuszczeniu [Mogilna][wiki-mogilno].
 Miejscami trasa była ciekawa dzięki świeżo zazielenionymi drzewami wokół drogi.
 
@@ -57,27 +61,34 @@ Musieliśmy przenieść rowery przez przejazd kolejowy będący właśnie w
 Do punktu widokowego jechaliśmy tak samo jak
 [miesiąc temu]({% post_url 2017-04-16-paluckie-pagorki %}). Chwilę
 przerwy zrobiliśmy sobie na wieży. Najbardziej podobały mi się jak
-są cieniowane pola wokół.
+są cieniowane pola wokół. Pofalowane te pola wyglądały interesująca z góry,
+jednak sporo gołych płaskich pól było mało interesujące.
 
 Zapytaliśmy się kogoś z domu sołtysa jak najlepiej dostać się do
 [Palędzia][wiki-paledzie]. Osoba ta poleciła abyśmy pojechali szlakiem
 pieszym. Teren był niepewny dlatego zjeżdzaliśmy na hamulców aby zbyt szybko
 nie wjechać w jakąś dziurę.
 
-TODO Jak przejrzę nagrane filmiki to coś więcej napiszę o zjeździe do
-[Padniewa][wiki-padniewo]. Wydaję mi się że zjazd był bardzo przyjemny z
-dobrym widokiem na okolicę, jednak w tym momencie nie pamiętam niczego
-szczególnego.
+Zjazd do [Padniewa][wiki-padniewo] był długi i spokojny. Jak to przy zjazdach
+najlepsze widoki są na początku i wtedy też było najbardziej stromo, chociaż
+nie tak bardzo stromo nawet na te tereny. Widać było wiosnę w pełni i jedynie
+istotna część pól na których jeszcze nic nie rosło psuła klimat wiosny.
 
-W [Józefowie][wiki-jozefowo] zatrzymaliśmy się na skrzyżowaniu abym mógł
+W [Padniewie][wiki-padniewo] zatrzymaliśmy się na skrzyżowaniu abym mógł
 sprawdzić mapę. Słyszeliśmy dziwne buczenie i patrząc na niebo zauważyliśmy
-jakąś dziwną dużą chmarę owadów.
+jakąś dziwną dużą chmarę owadów. Nie pamiętam abym coś podobnego
+widział.
+
+Do [Józefowa][wiki-jozefowo] wjechaliśmy bez zatrzymywania się. Hamowałem na tyle
+aby można bezpiecznie skręcić w lewo w [Palędziu Kościelnym][wiki-paledzie-koscielne].
+Nie chciałem tracić prędkości nabytej podczas delikatnego zjazdu.
 
 Bardzo podobał mi się fragment trasy między [Józefowem][wiki-jozefowo] a
 [Niestronnem][wiki-niestronno]. Nie pamiętam ile było zjazdów, ale polecam
 każdemu się tutaj przejechać.
 
-W okolicy wsi [Drewno][wiki-drewno] również był interesujący zjazd. Niestety
+W okolicy wsi [Drewno][wiki-drewno]/[Belki][wiki-belki]
+również był interesujący zjazd. Niestety
 od razu czekał na nas mniej interesujący podjazd. Podjazd ten wymagał zrzucenia
 przerzutki przedniej na jedynkę nawet.
 

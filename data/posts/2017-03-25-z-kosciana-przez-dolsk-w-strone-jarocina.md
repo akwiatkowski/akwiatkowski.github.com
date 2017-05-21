@@ -7,7 +7,7 @@ keywords:               [koscian, dolsk, chocicza, solec, jarocin, warta, most]
 date:                   2017-03-25 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, koscian, krzywin, dolsk, ksiaz_wielkopolski, nowe_miasto_nad_warta, krzykosy]
 
 coords:                 [{"route": [[52.07902,16.64186], [52.08150,16.65533], [52.08432,16.65980], [52.07546,16.71082], [52.06382,16.73121], [52.05213,16.77099], [52.04981,16.79236], [52.05219,16.80893], [52.03846,16.81476], [52.03815,16.82532], [52.04057,16.82541], [52.03873,16.84498], [52.02399,16.85579], [52.00424,16.90978], [52.00500,16.91171], [52.00257,16.91780], [51.98696,16.93518], [51.97961,16.93870], [51.97567,16.96441], [51.97445,16.99050], [51.97784,17.00621], [51.97363,17.02647], [51.98180,17.06226], [51.98709,17.06243], [51.98645,17.06612], [51.99132,17.06766], [51.99908,17.10191], [51.99650,17.12406], [51.99940,17.15092], [52.00447,17.15744], [52.01377,17.19821], [52.02656,17.21152], [52.03252,17.20937], [52.04250,17.22637], [52.04852,17.22903], [52.03516,17.26396], [52.04224,17.28422], [52.06018,17.30996], [52.06915,17.35897], [52.08540,17.34601], [52.09099,17.34301], [52.09721,17.32679], [52.10075,17.32447], [52.10681,17.32765], [52.10944,17.31975]], "type": "bicycle"}]
@@ -60,7 +60,7 @@ Szczegóły
 ---------
 
 Dojechaliśmy pociągiem TLK do [Kościana][wiki-koscian]. Dobre na tej stacji jest to, że
-można spokojnie wyjechać z peronu na ulicę.
+można bezproblemowo wyjechać z peronu na ulicę.
 
 Ruszyliśmy na wschód w stronę [Starego Lubosza][wiki-stary-lubosz]. Powoli opuszczaliśmy
 tereny podmiejskie. Widać było to na podstawie nowo powstałych domów.
@@ -69,7 +69,7 @@ tereny podmiejskie. Widać było to na podstawie nowo powstałych domów.
 
 Za [Starym Luboszem][wiki-stary-lubosz] przejechałem przez drogę, którą
 [rok temu]({% post_url 2016-04-03-z-mosiny-do-kosciana %}) jechałem na południe.
-Skróciliśmy drogą polną aby nie musieć jechać w stronę [Racota][wiki-racot].
+Skróciliśmy drogą polną abyśmy nie musieli jechać w stronę [Racota][wiki-racot].
 
 Przed [Turewem][wiki-turew] skręciliśmy do [Rogaczewa Małego][wiki-rogaczewo-male]
 przejeżdzając mostem przez Rów Wyskoc, a przynajmniej tak na mapie UMP jest
@@ -79,7 +79,8 @@ ten strumyk nazwany.
 
 Spodobało mi się główne skrzyżowanie w [Rogaczewie Małym][wiki-rogaczewo-male].
 Jeden albo dwa budynki oraz jakiś budynek przemysłowy dalej i to cała wioska.
-Zapomniałem jeszcze o wiacie autobusowej.
+Zapomniałem jeszcze o wiacie autobusowej. Ciekawe czy się tutaj jakiś
+autobus zatrzymuje.
 
 Ruszyliśmy na wschód mijając zielony (albo czarny) szlak rowerowy
 [Turew][wiki-turew]-[Krzywiń][wiki-krzywin]. Szlak ten jest terenowy głównie,
@@ -97,8 +98,10 @@ W [Bieżyniu][wiki-biezyn] skręciliśmy na wschód na niebieski szlak rowerowy 
 jechaliśmy na wschód do [Łagowa][wiki-lagowo]. Szlak ten okazał się ciekawszy niż
 myślałem i jak zrobi się bardziej kolorowo może tam być naprawdę ładnie.
 
-W jednym miejscu zbiera się wilgoć i tam miałem problem aby przejechać, ale oprócz
-tego zdecydowanie polecam to miejsce. Później tego dnia jechaliśmy podobnym szlakiem
+W jednym miejscu na polu zbiera się woda i tam miałem problem aby przejechać
+rowerem, ale oprócz
+tej niedogodności zdecydowanie polecam to miejsce.
+Później tego dnia jechaliśmy podobnym szlakiem
 obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
 
 {% post_image "medium","IMGP3256raw1.jpg","Wjeżdzając do Łagowa" %}
@@ -106,30 +109,33 @@ obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
 Ruszyliśmy na wschód. Do [Dolska][wiki-dolsk] już mieliśmy w miarę blisko. Jechaliśmy
 teraz przez las, ale jechało się całkiem przyjemnie.
 
-TODO gdzieś wcześniej też był fajny zjazd
+Podobał mi się zjazd ulicą Podrzekta (nawet teraz ponownie sprawdziłem czy jest
+to prawidłowa nazwa), ale zjazd wcześniejszy w [Łagowie][wiki-lagowo]
+znacznie bardziej mi się podobał.
 
-Podobał mi się zjazd ulicą Podrzekta, ale ten wcześniejszy był znacznie fajniejszy.
-
-W [Dolsku][wiki-dolsk] dojechaliśmy nad jezioro na chwilkę i kontynuowaliśmy
-trasę. Ruszyliśmy na północ widząc wysokie pagórki naprzeciw. Myślałem że
-będzie ich więcej i więcej widoków, a mam wrażenie że trochę ich ominęliśmy.
+W [Dolsku][wiki-dolsk] dojechaliśmy nad jezioro na chwilkę.
+Ruszyliśmy na północ widząc wysokie pagórki naprzeciw. Myślałem że
+będzie ich więcej i więcej ciekawych widoków,
+a mam wrażenie że trochę ich ominęliśmy podczas dzisiejszej trasy.
 
 {% post_image "medium","IMGP3278raw1.jpg","Jezioro w Dolsku" %}
 
 Skręciliśmy w prawo na wschód i jechaliśmy w stronę [Trąbinka][wiki-trabinek].
 Po lewej stronie było podwyższenie terenu a po prawej obniżenie.
+Całkiem fajnie to było widać.
 
 Za [Błażejewem][wiki-blazejewo] jechaliśmy żółtym szlakiem rowerowym do
 [Włościejewek][wiki-wlosciejewki]. Miejscami teren był lekko pofalowany, ale las
 ograniczał widoczność.
 
-Jechaliśmy bardzo szybko i tylko przez chwilę zwróciłem na drewniany kościół.
+Jechaliśmy bardzo szybko i tylko przez chwilę zwróciłem uwagę na drewniany kościół.
 Czytając wikipedię dowiedziałem się, że jest to zabytek z 1646 roku.
 
 {% post_image "medium","IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim" %}
 
 Chcieliśmy dojechać do [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski] i dalej
-do stacji kolejowej. Mieliśmy ponad godzinę do odjazdu więc postanowiliśmy się
+do stacji kolejowej (przykładowo do [Chociczy][wiki-chocicza]).
+Mieliśmy ponad godzinę do odjazdu pociągu więc postanowiliśmy się
 trochę pokręcić po okolicy. Obok nieużywanej stacji kolejowej skręciliśmy
 w prawo i przejechaliśmy przez okoliczną wioskę. Trasa ta była podobna do
 niebieskiego szlaku obok [Łagowa][wiki-lagowo], ale szybko wyjechaliśmy na
@@ -140,19 +146,20 @@ Przejechaliśmy przez [Chromiec][wiki-chromiec] i zrobiliśmy przerwę na jedzen
 na przystanku na skrzyżowaniu dróg do [Chociczy][wiki-chocicza] i
 [Boguszynka][wiki-boguszynek].
 
-Do [Chociczy][wiki-chocicza] mieliśmy 3 kilometry a godzinę do odjazdu pociągu.
+Do [Chociczy][wiki-chocicza] mieliśmy 3 kilometry oraz godzinę do odjazdu pociągu.
 Postanowiliśmy spróbować pojechać dalej.
 
-Bardzo szybko przejechaliśmy przez miejscowość i skręciliśmy na północ w ulicę
+Bardzo szybko przejechaliśmy przez tą miejscowość i skręciliśmy na północ w ulicę
 Leśną. Dojechaliśmy do wsi [Rogusko][wiki-rogusko] nie wiedząc o tym, że
 jest to osobna miejscowość. To jest kilka domów niedaleko rzeki [Warty][wiki-warta].
 
 {% post_image "medium","IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy" %}
 
-Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy pod wiatr i tylko
-las, oraz lekkie obniżenie terenu, nam ułatwiały. Gdy już byliśmy w okolicy warty
-nie było drzew, które mogły nam pomagać. Spokojniej, powoli dojechaliśmy pod most
-kolejowy.
+Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy
+tym razem pod wiatr i tylko las oraz
+lekkie obniżenie terenu nam ułatwiały. Gdy już byliśmy w okolicy [Warty][wiki-warta]
+nie było drzew które mogłyby nam pomagać w walce z wiatrem.
+Powoli dojechaliśmy pod most kolejowy.
 
 {% post_image "medium","IMGP3299raw1.jpg","Tereny zalewowe obok Warty" %}
 

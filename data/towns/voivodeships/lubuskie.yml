@@ -1,4 +1,4 @@
---- 
+---
 - slug: babimost
   name: Babimost
   header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
@@ -52,5 +52,29 @@
 - slug: zwierzyn
   name: Zwierzyń
   header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
+  type: town
+  voivodeship: lubuskie
+- slug: sulechow
+  name: Sulechów
+  type: town
+  voivodeship: lubuskie
+- slug: trzebiechow
+  name: Trzebiechów
+  type: town
+  voivodeship: lubuskie
+- slug: bojadla
+  name: Bojadła
+  type: town
+  voivodeship: lubuskie
+- slug: nowa_sol
+  name: Nowa Sól
+  type: town
+  voivodeship: lubuskie
+- slug: slawa
+  name: Sława
+  type: town
+  voivodeship: lubuskie
+- slug: wschowa
+  name: Wschowa
   type: town
   voivodeship: lubuskie

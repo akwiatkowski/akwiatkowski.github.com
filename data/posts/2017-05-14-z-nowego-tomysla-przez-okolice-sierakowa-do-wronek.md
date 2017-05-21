@@ -27,15 +27,34 @@ pois:
 
 ---
 
+[wiki-nowy-tomysl]: https://pl.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl
+[wiki-stary-tomysl]: https://pl.wikipedia.org/wiki/Stary_Tomy%C5%9Bl
+[wiki-kozie-laski]: https://pl.wikipedia.org/wiki/Kozie_Laski
+[wiki-wytomysl]: https://pl.wikipedia.org/wiki/Wytomy%C5%9Bl_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-lwowek]: https://pl.wikipedia.org/wiki/Lw%C3%B3wek
+[wiki-mala-lipka]: https://pl.wikipedia.org/wiki/Ma%C5%82a_Lipka
+[wiki-linie]: https://pl.wikipedia.org/wiki/Linie_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-chudobczyce]: https://pl.wikipedia.org/wiki/Chudobczyce
+[wiki-lubosz]: https://pl.wikipedia.org/wiki/Lubosz
+[wiki-park-sierakow]: https://pl.wikipedia.org/wiki/Sierakowski_Park_Krajobrazowy
+[wiki-niemierzewo]: https://pl.wikipedia.org/wiki/Niemierzewo
+[wiki-mosciejewo]: https://pl.wikipedia.org/wiki/Mo%C5%9Bciejewo
+[wiki-lutom]: https://pl.wikipedia.org/wiki/Lutom_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-ryzyn]: https://pl.wikipedia.org/wiki/Ry%C5%BCyn
+[wiki-wronki]: https://pl.wikipedia.org/wiki/Wronki
+[wiki-chrzypsko-wielkie]: https://pl.wikipedia.org/wiki/Chrzypsko_Wielkie
+[wiki-lucjanowo]: https://pl.wikipedia.org/wiki/Lucjanowo
+
+
 Wstęp
 -----
 
 [Dzień wcześniej]({% post_url 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem %})
-przejechałem 85km z tego powodu miałem mniejszą ochotę na jazdę w niedzielę.
+przejechałem 85km rowerem.
+Z tego powodu miałem mniejszą ochotę na jazdę w niedzielę, chciałem odpocząć.
 
 Trasę wymyśliłem wieczorem uwzględniając pogodę, aby wiatr nam nie utrudniał.
-
-Nie myślałem, że tak bardzo mi się spodoba.
+Nie przewidywałem, że tak bardzo mi się spodoba.
 
 Opis trasy
 ----------
@@ -53,9 +72,9 @@ Jechaliśmy niebieskim szlakiem rowerowym.
 że przestaje być dla mnie tak ciekawe. Trasa wyjazdowa wyglądała jak tereny
 podmiejskie.
 
-W [Starym Tomyślu][wiki-stary-tomysl] przestaliśmy jechać po trasie
-rozebranej kolei wąskotorowej a ruszyliśmy normalną drogą regionalną
-na północ.
+Do [Starego Tomyśla][wiki-stary-tomysl] dojechaliśmy ścieżką rowerową po
+rozebranej kolei wąskotorowej. Ruszyliśmy normalną drogą regionalną
+na północ wyjeżdzając z tej miejscowości.
 
 Niebieski szlak rowerowy skręcał na lewo, ale według mapy prowadził on
 przez bardziej gruntowe drogi. Obawiam się takich szlaków rowerowych
@@ -74,6 +93,8 @@ Do [Lwówka][wiki-lwowek] mieliśmy 10km. Las dość szybko się skończył.
 [Wytomyśl][wiki-wytomysl] pokazał już nam w jakie tereny wkroczyliśmy.
 Bliskość autostrady nie przeszkadza w istnieniu tak spokojnych miejscowości.
 Do tego jak się nie mylę jest tam ładny kościół w centrum wsi.
+
+Bardzo mi się spodobała wieś [Chmielinko][wiki-chmielinko].
 
 Rozpoczał się delikatny (czym jest 20 metrów w górę po jeździe w górach?)
 podjazd do [Małej Lipki][wiki-mala-lipka]. Mogę się mylić w którym miejscu
@@ -108,7 +129,7 @@ do [Sierakowskiego Parku Krajobrazowego][wiki-park-sierakow].
 Okoliczne tereny cały czas miały swój klimat, zwłaszcza pola kwitnącego rzepaku.
 
 Może coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
-drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewie]
+drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewo]
 podczas zjazdu musiałem uważać na wiewiórkę która była na drodzę. Wokół
 jest trochę zbiorników wodnych.
 
