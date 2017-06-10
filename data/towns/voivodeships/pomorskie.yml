@@ -1,4 +1,4 @@
---- 
+---
 - slug: miastko
   name: Miastko
   header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
@@ -7,5 +7,45 @@
 - slug: ustka
   name: Ustka
   header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
+  type: town
+  voivodeship: pomorskie
+- slug: wejherowo
+  name: Wejherowo
+  type: town
+  voivodeship: pomorskie
+- slug: luzino
+  name: Luzino
+  type: town
+  voivodeship: pomorskie
+- slug: szemud
+  name: Szemud
+  type: town
+  voivodeship: pomorskie
+- slug: przodkowo
+  name: Przodkowo
+  type: town
+  voivodeship: pomorskie
+- slug: kartuzy
+  name: Kartuzy
+  type: town
+  voivodeship: pomorskie
+- slug: zukowo
+  name: Żukowo
+  type: town
+  voivodeship: pomorskie
+- slug: kolbudy
+  name: Kolbudy
+  type: town
+  voivodeship: pomorskie
+- slug: pruszcz_gdanski
+  name: Pruszcz Gdański
+  type: town
+  voivodeship: pomorskie
+- slug: suchy_dab
+  name: Suchy Dąb
+  type: town
+  voivodeship: pomorskie
+- slug: tczew
+  name: Tczew
   type: town
   voivodeship: pomorskie
