@@ -15,14 +15,26 @@ distance:               80
 time_spent:             7
 
 pois:
-
+  - lat: 53.63351
+    lon: 18.63629
+    name: W okolicy Gajewa jest kilka ciekawych jezior a niedaleko Wdecki Park Krajobrazowy
+  - lat: 53.83709
+    lon: 18.68676
+    name: Bardzo pofalowany teren w okolicy Morzeszczyna
 
 ---
 
+[stary-wentyl]: https://www.facebook.com/starywentyl/
 
 Wstęp
 -----
 
+Około dwa miesiące temu [kolega][stary-wentyl] poinformował mnie, że będzie chciał
+okrążyć Polskę. Miałem około dwa tygodnie temu dołączyć do niego w okolicy
+[Kostrzynia][wiki-kostrzyn] jednak pojawiły się pewne opóźnienia. Ten wyjazd
+również nie był pewny z powodu nieprzewidywalnej pogody dnia następnego.
+Na szczęście prognoza pogody się poprawiła a [Michał][stary-wentyl] ma dar
+przekonywania.
 
 Opis trasy
 ----------
@@ -31,3 +43,66 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Z [Poznania][wiki-poznan] ruszyłem pociągiem IC do [Gdyni][wiki-gdynia] o 6:45.
+Trasę do [Inowrocławia][wiki-inowroclaw] znam bardzo dobrze, chociaż czasami
+coś mnie zaciekawiło, na przykład duża ilość czerwonych maków w jednym miejscu.
+
+Wiele lat temu jechałem do [Gdańska][wiki-gdansk] pociągiem i nic z tego nie
+pamiętam, więc można założyć że pierwszy raz jechałem pociągiem z
+[Bydgoszczy][wiki-bydgoszcz] do [Gdańska][wiki-gdansk].
+
+Najbardziej mnie zaciekawiły dwa miejsca. Pierwsze to okolice wsi
+[Gajewo][wiki-gajewo], która jest chyba dokładnie pośrodku między stacją
+kolejową w miejscowości [Warlubie][wiki-warlubie] a [Twardą Górą][wiki-twarda-gora].
+Jest tutaj kilka ciekawych jezior które chciałbym kiedyś zobaczyć.
+
+Drugim taki miejscem jest okolica [Morzeszczyna][wiki-morzeszczyn]. Teren
+jest tu bardzo "górzysty". Chętnie bym coś więcej napisał o tej okolicy, ale
+zrobię to w nowym wpisie gdy faktycznie będę w tej okolicy.
+
+Dojechałem do stacji [Gdynia Główna][wiki-gdynia-glowna] gdzie musiałem
+przesiąść się na pociąg SKM do [Wejherowa][wiki-wejherowo]. Zaskoczyło mnie
+to, ze zapłaciłem za bilet tylko 6.5zł. Normalnie w pociągach regionalnych
+sam bilet za rower kosztuje 7zł.
+
+Trasa SKM nie była jakoś specjalnie ciekawa dla mnie. Jedynie byłem ponownie
+pozytywnie zaskoczony praktycznością tego rozwiązania. SKM to takie metro
+łączące kilka miejscowości.
+
+Wysiadłem w [Wejherowie][wiki-wejherowo] i ruszyłem aby złapać
+Michała po drodzę (spotkaliśmy się niedaleko [Zybertowa][wiki-zybertowo]).
+Niedaleko stacji zobaczyłem coś co wyglądało jak radar i
+wyrzutnia Patriotów. Radar się kręcił, tylko tyle mogę powiedzieć bo sam
+się na tym nie znam.
+
+Jadąc już razem ruszyliśmy bardzo mało uczęśzczaną drogą
+do [Zybertowa][wiki-zybertowo]. Mieliśmy skręcić w ulicę Kazimierza Grubby jednak
+remont drogi wybił nas i skręciliśmy później w Żwirową. Jak sama nazwa
+wskazuje droga ta nie była asfaltowa. Rozpoczął się stopniowy podjazd
+przez malutki las do miejscowości [Gowino][wiki-gowino]
+z około 40m n.p.m. do prawie 100m n.p.m.
+
+Podobała mi się okolica i sam podjazd mnie nie bolał, ale miałem ciągłe
+uczucie że jesteśmy blisko dużej miejscości. Duża ilość nowo wybudowanych
+domów takie sprawiała wrażenie. Od [Gdyni][wiki-gdynia] odgradzał
+nas [Trójmiejski Park Krajobrazowy][wiki-trojmiejski-park].
+
+
+TODO:
+
+* po obejrzeniu filmów opis szczegółów (teraz nie pamiętam)
+* wybór dróg gruntowych zamiast głównych
+* trasa generowana dynamicznie, Michał głównym nawigatorem
+* przerwa na obiad w Kartuzach, oraz na loda na rynku
+* pierwsze telefony w sprawie noclegu - niepowodzenie, drogo, nie ma miejsc, albo brak odbioru
+* postanowiliśmy że dojedziemy w okolicę dwóch jeziorek bo tam było sporo miejsc noclegowych
+* gdzie było to wesele?
+* zacząłem trochę panikować gdyż nie miałem sprzętu na nocleg pod chmurką
+* zaczęliśmy sprawdzać noclegi w Łapino
+* jeden ośrodek pełny, noclegi robotnicze - zostaliśmy olani, pojechaliśmy do ośrodków nad jeziorem
+* po krótkiej analizie zgodziliśmy się na niezbyt tani nocleg
+* pojechaliśmy do sklepu do Kolbudy
+* wróciliśmy, podjazd
+* jedzenie na pomoście
+* impreza obok

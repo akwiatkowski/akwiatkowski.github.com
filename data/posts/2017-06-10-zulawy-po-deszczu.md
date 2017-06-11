@@ -31,3 +31,31 @@ Opis trasy
 
 Szczegóły
 ---------
+
+TODO:
+
+* rano dobra pogoda, trochę się pogorszyła
+* bardzo fajny zjazd do Kolbud
+* drezyny
+* skręciliśmy w prawo na żółty szlak rowerowy obok Bielkowskiego Zbornika Wodnego
+* bardzo fajna trasa w takim jakby wąwozie, zdecydowanie dla MTB
+* jakiś zamek obok Bielkowa?
+* chmury na horyzonie
+* szybki zjazd z Bielkówka do Straszyna
+* zaczęło padać
+* chwila przerwy przy sklepie
+* decyzja aby ruszać
+* w deszczu dojechaliśmy do Pruszczu Gdańskiego
+* chaos gdyż sam nie wiedziałem jak powinienem jechać (zostać w Pruszczu, Gdańsk, Tczew)
+* dojechaliśmy do lidla i tam analizowałem sytuację
+* 20km do Gdańska z niepewną drogą i brakiem możliwości skrócenia (miałem prawie 2h czasu)
+* 27km do Tczewa ale z możliwością skrócenia
+* rozdzieliliśmy się i znacznie szybciej ruszyłym
+* jechałem obok lotniska gdzie był jakiś event, helikiptery
+* w Grabiny-Zameczek skręciłem na południe
+* jechałem czerwonym szlakiem rowerowym
+* przestawało padać
+* wjechałem w Żuławy albo okolice
+* jadąc bardzo szybko dojechałem do Tczewa
+* po lewej stronie jakby wał przeciwpowodziowy
+* nie mogłem kupić biletu na rower pomimo że było miejsce na rower w pociągu
