@@ -76,7 +76,8 @@ Niedaleko stacji zobaczyłem coś co wyglądało jak radar i
 wyrzutnia Patriotów. Radar się kręcił, tylko tyle mogę powiedzieć bo sam
 się na tym nie znam.
 
-Jadąc już razem ruszyliśmy bardzo mało uczęśzczaną drogą
+Jadąc już razem ruszyliśmy bardzo mało uczęszczaną drogą
+(i jednocześnie lekkim zjazdem, przez las)
 do [Zybertowa][wiki-zybertowo]. Mieliśmy skręcić w ulicę Kazimierza Grubby jednak
 remont drogi wybił nas i skręciliśmy później w Żwirową. Jak sama nazwa
 wskazuje droga ta nie była asfaltowa. Rozpoczął się stopniowy podjazd
@@ -92,6 +93,12 @@ nas [Trójmiejski Park Krajobrazowy][wiki-trojmiejski-park].
 TODO:
 
 * po obejrzeniu filmów opis szczegółów (teraz nie pamiętam)
+* bardzo fajny zjazd do Sobieszyno, tylko za krótki i niestety zakończony hamowaniem bo ustąp pierwszeństwa
+* wyjeżdzając z Przetoczyna - fajna droga, idealna na zjazd, Głazica?
+* co chwilę widzieliśmy podmiejskie autobusy, np 632 - Smażyno
+* Jeleńska Huta - pofalowane pola, zjazd do wioski
+* Trzy Rzeki - zbyt mocny zjazd z lasu, wolałem wyhamować zamiast skręcać
+* Hopy - fajna droga, obok chyba jakieś jeziora były
 * wybór dróg gruntowych zamiast głównych
 * trasa generowana dynamicznie, Michał głównym nawigatorem
 * przerwa na obiad w Kartuzach, oraz na loda na rynku

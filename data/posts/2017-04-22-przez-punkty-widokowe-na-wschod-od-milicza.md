@@ -1,9 +1,9 @@
 ---
 layout:                 post
-title:                  "Przez punkty widokowe na wschód od Milicza"
-subtitle:               ""
-desc:                   ""
-keywords:               [barycz, milicz]
+title:                  "Przez punkty widokowe w okolicy Milicza"
+subtitle:               "wietrzny dzień łączący w sobie trochę zimy i lata"
+desc:                   "Trudna próba połączenia zwiedzenia wschodniej części Doliny Baryczy rowerem jak i obserwację ptaków."
+keywords:               [barycz, milicz, wiatr, stawy,  ]
 date:                   2017-04-22 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -18,7 +18,7 @@ time_spent:             8
 pois:
   - lat: 51.52895
     lon: 17.24769
-    name: Wjazd żółtym szlakiem pieszym do Milicza wzdłuż Baryczy
+    name: Wjazd żółtym szlakiem pieszym do Milicza wzdłuż Baryczy. Bardzo ładna ścieżka.
   - lat: 51.53952
     lon: 17.36208
     name: Punkt widokowy przy Stawie Polnym
@@ -31,13 +31,30 @@ pois:
 
 ---
 
+[wiki-dolina-baryczy]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
+[wiki-milicz]: https://pl.wikipedia.org/wiki/Milicz
+[wiki-ruda-sulowska]: https://pl.wikipedia.org/wiki/Ruda_Su%C5%82owska
+[wiki-sulow]: https://pl.wikipedia.org/wiki/Su%C5%82%C3%B3w_(wie%C5%9B_w_wojew%C3%B3dztwie_dolno%C5%9Bl%C4%85skim)
+[wiki-barycz]: https://pl.wikipedia.org/wiki/Barycz_(rzeka)
+[wiki-ruda-milicka]: https://pl.wikipedia.org/wiki/Ruda_Milicka
+[wiki-stawno]: https://pl.wikipedia.org/wiki/Stawno_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-dyminy]: https://pl.wikipedia.org/wiki/Dyminy_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-nowe-grodzisko]: https://pl.wikipedia.org/wiki/Nowe_Grodzisko
+[wiki-grabownica]: https://pl.wikipedia.org/wiki/Grabownica_(gmina_Milicz)
+[wiki-czatkowice]: https://pl.wikipedia.org/wiki/Czatkowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-niesulowice]: https://pl.wikipedia.org/wiki/Niesu%C5%82owice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-duchowo]: https://pl.wikipedia.org/wiki/Duchowo
+[wiki-sulow-milicki]: https://pl.wikipedia.org/wiki/Su%C5%82%C3%B3w_Milicki
+[wiki-zamek-milicz]: https://pl.wikipedia.org/wiki/Zamek_w_Miliczu
+
 Wstęp
 -----
 
 Mając nocleg w centrum [Doliny Baryczy][wiki-dolina-baryczy] można
-podzielić na eksplorację części wschodnie i zachodniej.
+podzielić na eksplorację części wschodnie i zachodniej tego rejonu.
 
-Część wschodnia to okolice [Milicza][wiki-milicz] i tego dnia był to nasz cel.
+Część wschodnia to głównie okolice [Milicza][wiki-milicz] i to był to nasz cel
+tego dnia.
 
 Opis trasy
 ----------
@@ -50,22 +67,25 @@ Szczegóły
 Ruszyliśmy drogą z [Rudy Sułowskiej][wiki-ruda-sulowska] do
 [Sułowa][wiki-sulow]. W centrum tej miejscowości minęliśmy ciekawy kościół
 i musieliśmy przejechać przez brukowany rynek.
-Miejscami ulice są gęsto zabudowane połączonymi niskimi domami.
+Miejscami ulice są gęsto zabudowane połączonymi ze sobą niskimi domami.
 
-Do [Milicza][wiki-milicz] jechaliśmy dalej bardziej ruchliwą drogą wojewódzką 439.
-Droga ta nie była idealnie płaska, były dwie lekkie górki na które prawie
-niezauważalnie musieliśmy podjechać, ale zauważalnie mogliśmy zjechać.
+Do [Milicza][wiki-milicz] jechaliśmy dalej już bardziej uczęszczaną drogą
+wojewódzką 439.
+Droga ta nie była położona po płaskim terenie.
+Były dwie lekkie górki na które prawie
+niezauważalnie musieliśmy podjechać, ale za to zauważalnie mogliśmy
+z nich zjechać.
 Po prawej widzieliśmy faktyczne obniżenie wokół rzeki [Baryczy][wiki-barycz].
 
 Zbliżając się do [Milicza][wiki-milicz] przejechaliśmy nad rzeką
 [Baryczą][wiki-barycz]. Skręciliśmy na żółty szlak pieszy i wzdłuż
 [Baryczy][wiki-barycz] jechaliśmy do centrum miasta.
-Bardzo ładnie wyglądały drzewa posadzone wokół drogi.
+Bardzo ładnie wyglądały drzewa posadzone wokół ścieżki.
 Minęliśmy bardzo ładne budynki Technikum Leśnego.
 
-[wiki-zamek-milicz]: https://pl.wikipedia.org/wiki/Zamek_w_Miliczu
+#####
 
-Dojechaliśmy do ruin [zamku][wiki-zamek-milicz]. TODO coś na nim było
+Dojechaliśmy do ruin [zamku][wiki-zamek-milicz] książąt oleśnickich.
 Następnie kierowaliśmy się przez centrum do szlaku rowerowego na dawnej
 kolei wąskotorowej. Minęliśmy zalew obok dworca kolejowego, do którego
 teraz nie dojeżdza żaden pociąg, ale
