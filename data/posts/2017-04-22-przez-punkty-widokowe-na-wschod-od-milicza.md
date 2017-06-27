@@ -7,7 +7,7 @@ keywords:               [barycz, milicz, wiatr, stawy,  ]
 date:                   2017-04-22 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [dolnoslaskie, milicz]
 lands:                  [dolina_baryczy]
 
@@ -69,6 +69,8 @@ Ruszyliśmy drogą z [Rudy Sułowskiej][wiki-ruda-sulowska] do
 i musieliśmy przejechać przez brukowany rynek.
 Miejscami ulice są gęsto zabudowane połączonymi ze sobą niskimi domami.
 
+{% post_image "medium","IMGP4821raw2.jpg","Ulica w Sułowie" %}
+
 Do [Milicza][wiki-milicz] jechaliśmy dalej już bardziej uczęszczaną drogą
 wojewódzką 439.
 Droga ta nie była położona po płaskim terenie.
@@ -77,64 +79,90 @@ niezauważalnie musieliśmy podjechać, ale za to zauważalnie mogliśmy
 z nich zjechać.
 Po prawej widzieliśmy faktyczne obniżenie wokół rzeki [Baryczy][wiki-barycz].
 
+{% post_image "medium","IMGP4829raw1.jpg","Obniżenie terenu w okolicy Baryczy" %}
+
 Zbliżając się do [Milicza][wiki-milicz] przejechaliśmy nad rzeką
 [Baryczą][wiki-barycz]. Skręciliśmy na żółty szlak pieszy i wzdłuż
 [Baryczy][wiki-barycz] jechaliśmy do centrum miasta.
 Bardzo ładnie wyglądały drzewa posadzone wokół ścieżki.
 Minęliśmy bardzo ładne budynki Technikum Leśnego.
 
-#####
+{% post_image "medium","IMGP4836raw1.jpg","Aleja drzew podczas wjazdu do Milicza" %}
 
 Dojechaliśmy do ruin [zamku][wiki-zamek-milicz] książąt oleśnickich.
-Następnie kierowaliśmy się przez centrum do szlaku rowerowego na dawnej
-kolei wąskotorowej. Minęliśmy zalew obok dworca kolejowego, do którego
-teraz nie dojeżdza żaden pociąg, ale
+Jak się nie mylę przy nim jest tabliczka z jego ciekawą historią, jednak nie
+zapamiętałem za wiele z niej.
+
+{% post_image "medium","IMGP4853raw1.jpg","Zamek w Miliczu" %}
+
+Następnie kierowaliśmy się przez centrum do szlaku rowerowego na trasie dawnej
+kolei wąskotorowej. Minęliśmy zalew obok dworca kolejowego.
+Do dworca kolejowego teraz nie dojeżdza żaden pociąg, ale
 [dwa lata temu]({% post_url 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej %})
-udało mi się wracać pociągiem.
+udało mi się wracać pociągiem właśnie z tej stacji.
+
+{% post_image "medium","IMGP4868raw1.jpg","Podejrzanie wyglądające chmury" %}
 
 Tymczasowo pogoda nam dopisywała, Słońce dostarczało trochę ciepła i nie
-czuliśmy wiatru. To jednak miało się zmienić. Widać to było po gęstych chmurach
+czuliśmy wiatru. To jednak miało się zmienić - widać było po gęstych chmurach
 z południowego-zachodu.
 
 Wjechaliśmy do [Rudy Milickiej][wiki-ruda-milicka] gdy Słońce schowało się
 za chmurami.
 
+{% post_image "medium","IMGP4875raw1.jpg","Wieś Dyminy" %}
+
 W [Stawnie][wiki-stawno] skręliśmy na wschód w stronę punktu widokowego
-na którym byliśmy dość krótko gdyż wiało.Punkt ten był przy Stawie
-Rolnym.
+na którym byliśmy dość krótko z powodu nieprzyjemnego wiatru.
+Punkt ten był przy Stawie Rolnym.
 
-Spodobała mi się wieś [Dyminy][wiki-dyminy] w której widziałem tylko dwa domy,
-ale za to były duże kwitnące drzewa owocowe. Bardzo mi się one podobały.
+Spodobała mi się wieś [Dyminy][wiki-dyminy] w której widziałem chyba tylko dwa domy,
+ale za to były duże kwitnące drzewa owocowe.
 
+<!--
 Na północ od [Dymin][wiki-dyminy] widzieliśmy jakiś budynek. Zaciekawił mnie i
 zrobiłem mu zdjęcie.
+-->
+
+{% post_image "medium","IMGP4887raw1.jpg","Fale na jednym ze Stawów Milickich" %}
 
 Zrobiliśmy krótką przerwę na punkt widokowy Godnowiec
 obok [Nowego Grodziska][wiki-nowe-grodzisko].
-Wiało tam dość mocno dlatego nie siedzieliśmy długo.
+Ponownie wiatr szybko nas przekonał do kontynuowania trasy.
 
-Chociaż dopiero jadąc między stawami do [Stawna][wiki-stawno] doświadczyłem,
-że do tej pory nie wiało jeszcze mocno. Na powierzchni stawu po prawej stronie
-robiły się małe fale od wiatru, a w jednym miejscu był ślad fali, która uderzyła
-o drogę po której jechaliśmy. Na szczęście żadna fala nie uderzyła w nas.
+{% post_image "medium","IMGP4879raw1.jpg","Jeden z mniejszych stawów" %}
+
+Dopiero jadąc między stawami do [Stawna][wiki-stawno] doświadczyłem,
+że do tej pory jeszcze nie wiało mocno. Na powierzchni stawu po prawej stronie
+od drogi robiły się małe fale od wiatru. Widać było że te fale czasem
+dosięgały drogi po której jechaliśmy.
 
 Dojechaliśmy ponownie do punktu widokowego przy Stawie Polnym.
-Ruszyliśmy na południe obok Stawu Golica płosząc ptaki jazdą. Były
+Ruszyliśmy na południe obok Stawu Golica płosząc ptaki. Były
 to chyba żurawie albo czaple.
 
+{% post_image "medium","IMGP4888raw1.jpg","Rodzina kaczek" %}
+
 Dojechaliśmy do szlaku rowerowego po kolejce wąskotorowej i ruszyliśmy do
-[Grabownicy][wiki-grabownica], gdzie miała być przerwa aby coś zjeść.
+[Grabownicy][wiki-grabownica] gdzie mieliśmy zrobić przerwę aby coś zjeść.
 
 Podczas jedzenia myśleliśmy nad trasą powrotną. Teoretycznie zrobiliśmy już
-wszystko to co sobie zaplanowaliśmy. Mogliśmy albo wracać trasą tą samą drogą,
-ale ta wersja mi się nie uśmiechała. Wybraliśmy wersje nieznacznie dłuższą, ale
-aż do [Milicza][wiki-milicz] byśmy jechali przez nowe tereny.
+wszystko to co sobie zaplanowaliśmy na ten dzień.
+Mogliśmy wracać tą samą drogą jaką przyjechaliśmy z
+[Milicza][wiki-milicz] ale nie miałem ochoty na powtórkę.
+Wybraliśmy wersje nieznacznie dłuższą ale
+byśmy zobaczyli nowe tereny jadąc do [Milicza][wiki-milicz] .
 
 Po drodzę wskoczyliśmy do wieży widokowej w [Grabownicy][wiki-grabownica].
-Wiało i zaczął padać lekki grad dlatego zacząłem się ruszać aby nie czuć zimna.
+Pogoda była niesprzyjająca, wiało mocno i zaczął padać lekki grad.
+
+{% post_image "medium","IMGP4908raw1.jpg","Dom w Czatkowicach" %}
 
 W [Czatkowicach][wiki-czatkowice] zrobiłem kilka zdjęć lokalnej architekturze.
-Skręciliśmy na zachód i już jechaliśmy bezpośrednio do [Milicza][wiki-milicz].
+Skręciliśmy na zachód i od tego momentu już jechaliśmy bezpośrednio
+do [Milicza][wiki-milicz].
+
+{% post_image "medium","IMGP4912raw1.jpg","Kolejny dom w Czatkowicach" %}
 
 Tym razem widzieliśmy obniżenie wokół [Baryczy][wiki-barycz] z drugiej strony.
 
@@ -143,16 +171,20 @@ Po drodzę mieliśmy dwa ciekawe wzniesienia: przed
 
 W [Duchowie][wiki-duchowo] widzieliśmy duży drewniany młyn w centrum wsi.
 
-Większą część trasy rowerowej po rozmontowanej kolei
+Większą część trasy rowerowej na trasie rozmontowanej kolei
 opisałem [tutaj]({% post_url 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej %}).
-Miejscami lekko padało i miałem wrażenie, że robi się jeszcze bardziej
+Chwilami padał deszcz i miałem wrażenie, że robi się jeszcze bardziej
 szaro.
 
+{% post_image "medium","IMGP4930raw1.jpg","Budynek nieistniejącej stacji kolejowej Sułów Milicki" %}
+
 Tym razem jednak pojechaliśmy dalej trasą kolei wąskotorowej aż do stacji
-[Sułów Milicki][wiki-sulow-milicki] z którego bokiem przejechaliśmy
+[Sułów Milicki][wiki-sulow-milicki] z którego przejechaliśmy
 bez wjeżdzania do centrum [Sułowa][wiki-sulow].
+
+{% post_image "medium","IMGP4953raw1.jpg","Zgrupowanie ptaków" %}
 
 Przed dojazdem do [Rudy Sułowskiej][wiki-ruda-sulowska] po lewej zobaczyliśmy
 dużą ilość żurawi, było ich około 30-tu. Podczas próby podejście uciekły.
 
-Spokojnie wróciliśmy do bazy.
+Spokojnie wróciliśmy do bazy kończąc dzień.
