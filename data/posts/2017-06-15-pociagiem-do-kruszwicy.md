@@ -23,19 +23,55 @@ pois:
 Wstęp
 -----
 
+Trasa kolejowa do [Kruszwicy][wiki-kruszwica] ma dla mnie specjalne znaczenie gdyż
+przebiegała ona przez [Strzelno][wiki-strzelno].
+
+Nie mogłem nie skorzystać z okazji gdy [Turkol][turkol] opublikował swoją
+ofertę. Bliskość terenów umożliwiła moim rodzicom również uczestniczenie w
+tym przejeździe.
 
 Szczegóły
 ---------
 
-TODO:
+W wyniku remontu linii kolejowej [Poznań-Warszawa][wiki-linia-3] na kilka dni
+przed przejazdem dostałem informację o anulowaniu przejazdu pociągu do
+[Wapiennej][wiki-wapienna]. Trochę byłem niezadowolony z tej informacji ale
+w czasie wielu remontów na kolei mniejsze podmioty muszą się dostosować.
+Może za rok albo dwa ponownie będzie okazja i wtedy uda mi się przejechać
+do [Wapiennej][wiki-wapienna].
 
-* w wyniku remontu linii do Warszawy anulowanie pociągu do Wapiennej
-* opóźnienie 30 minut
-* historia połączenia do Strzelna
-* pola po wyjeździe z Kruszwicy
-* w Przedbojewicach tory na wschód do Jednostki wojskowej 1523 - 2 Pułk Inżynieryjny
-* przejazd przez most nad Notecią w Tupadłach
-* czy był kiedyś przystanek w Mątwach?
-* nowy wyrementowany przystanek Rąbinek - remont trasy Poznań-Warszawa
-* pociąg Wars w Turkolu
-* 
+Do [Kruszwicy][wiki-kruszwica] dojechaliśmy około 11-tej. Pociąg miał przyjechać
+około 11:30 ale pojawiło się półgodzinne opóźnienie.
+
+Ruszyliśmy pociągiem na północ w kierunku do [Inowrocławia][wiki-inowroclaw].
+Trasa nie była zbyt długa i można podzielić ją na trzy części:
+
+* opuszczenie [Kruszwicy][wiki-kruszwica]
+* tereny wiejskie, pola - krótki ale chyba najciekawszy fragment
+* wjazd do [Inowrocławia][wiki-inowroclaw]
+
+Podział może mało oryginalny ale według mnie najwłaściwszy.
+
+Opuszczając [Kruszwicę][wiki-kruszwica] mijaliśmy zakłady przemysłowe po lewej
+stronie. Dzięki ich istnieniu ta linia kolejowa nie została rozebrana.
+
+[osm-tory]: http://www.openstreetmap.org/search?query=kruszwica#map=15/52.7311/18.2948
+
+Tereny wiejskie to głównie pola po obu stronach i gdzieniegdzie budynki.
+Najciekawszym miejscem był most kolejowy i tory w kierunku wschodnim. Według
+[Openstreetmap][osm-tory] tory te prowadzą do Jednostki Wojskowej 1523
+2 Pułku Inżynieryjnego.
+
+Po przejechaniu mostu w [Tupadłach][wiki-tupadly] rozpoczął się ostatni
+fragment trasy - wjazd do [Inowrocławia][wiki-inowroclaw]. Z lewej strony
+mijaliśmy Soda Mątwy a po prawej część inowrocławia o podobnej nazwie.
+Kiedyś w tym miejscu był przystanek kolejowy.
+
+Następnie przjechaliśmy przez Inowrocław Rąbinek. Niedawno wyremontowany
+przystanek który będzie służył w czasie objazdu podczas remontu
+linii kolejowej [nr 3][wiki-linia-3]. Specjalnie skorzystam z tego remontu
+aby dostać się do miejsc gdzie pociąg nie jeździł, czyli:
+[Piotrkow Kujawski][wiki-piotrkow-kujawski] albo [Babiak][wiki-babiak].
+
+Na trasie powrotnej niewiele więcej się działo. Zauważyłem większy ruch
+pociągów towarowych w okolicy.

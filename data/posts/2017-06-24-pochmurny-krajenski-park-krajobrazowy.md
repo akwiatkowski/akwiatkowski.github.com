@@ -38,6 +38,109 @@ Opis trasy
 Szczegóły
 ---------
 
-TODO:
+Tego dnia wstałem około 5:20 i po szybkim dopakowaniu wyruszyłem na dworzec.
+Byłem zadowolony gdy zauważyłem, że najpierw pojedziemy pociągiem
+do [Krzyża][wiki-krzyz] gdzie zrobimy przesiadkę na pociąg spalinowy
+w stronę stacji docelowej jaką jest [Krajenka][wiki-krajenka].
 
-*
+[wiki-linia-203]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_203
+
+Pociąg ten przejeżdza przez niezelektryfikowaną linię kolejową [203][wiki-linia-203]
+w okolicach której
+[jechałem rowerem]({% post_url 2016-09-10-z-pily-do-krzyza %}). Co było dla
+mnie wartością dodaną.
+
+Zrobiłem trochę zdjęć z pociągu, ale jak to zdjęcia przez szybę z poruszającego
+się obiektu, rzadko kiedy są wystarcająco dobre.
+
+Jeżeli się nie mylę to w [Skórce][wiki-skorka] jest bardzo ładny budynek
+stacji kolejowej. Jest on bardzo zadbany jednocześnie wygląda na dość stary.
+
+Gdy wysiedliśmy w [Krajence][wiki-krajenka] zaczął lekko padać deszcz. Dojechaliśmy
+do centrum w okolicy kościoła szukając na rynku jakieś kawiarni. Nic takiego
+nie znaleźliśmy więc ruszyliśmy w stronę [Wąsoszek][wiki-wasoszki].
+
+Wyjeżdzając przejechaliśmy przez tory po których dalej jechał pociąg
+którym tutaj przejeżdzaliśmy. Jechał on w stronę [Chojnic][wiki-chojnice].
+
+Niebo było w pełni zachmurzone. Robiąc filmik teraz właśnie widzę jak bardzo
+ponuro to wyglądało. Na ekranie aparatu widziałem że chmury wyglądają złowrogo,
+ale nie powiedziałbym że ponuro i depresyjnie jak to teraz mogę ocenić
+filmiki z kamerki.
+
+Same [Wąsoszki][wiki-wasoszki] są chyba bardzo malutką wsią położoną w okolicy
+torów kolejowych.
+
+Po pewnym czasie skończyła się droga asfaltowa a my wjechaliśmy w las.
+Ostatnimi czasy preferowałem zawsze drogi asfaltowe, ale dzięki kupieniu
+dodatkowego roweru "na asfalty" jazda po terenie starszym rowerem daje
+więcej radości.
+
+Nazwy miejscowości nie są tak istotne w tej trasie. Są one na ogół dość
+podobne do siebie. Ważne jest ogólne spojrzenie na te tereny. Praktycznie
+zerowy ruch, spokojne wioski, pola zboża które za 2-4 tygodnie będzie można
+zbierać. Jeżeli będzie jedno ciekawe miejsce to je opiszę, ale w tych
+rejonach każde miejsce jest wystarczająco ciekawe abym polecił przejazd.
+
+[greenway]: http://lubimyrowery.pl/trasy/kujawsko-pomorskie/greenway-naszyjnik-polnocy/
+[wiki-pojezierze-drawskie]: https://pl.wikipedia.org/wiki/Pojezierze_Drawskie
+
+Dojechaliśmy do [Świętej][wiki-swieta] i od tego momentu jechaliśmy
+zgodnie ze szlakiem
+[Greenway Naszyjnik Północy][greenway]. Szlakiem tym jechałem kiedyś
+na [Pojezierzu Drawskim][wiki-pojezierze-drawskie], co opisałem
+[tutaj]({% post_url 2015-08-22-z-rebusza-do-cieszyno %}).
+
+Z [Nowej Świętej][wiki-nowa-swieta] opuściliśmy asfalt i jechaliśmy
+obok Jeziora Śmiardówka. Chcieliśmy je zobaczyć ale przeoczyliśmy zjazd
+który był trochę wcześniej.
+
+Lekkim zjazdem wyjechaliśmy do drogi 189
+i kierowaliśmy się na wschód do [Kujan][wiki-kujan]. Na prawie całej długości
+tej drogi była ścieżka którą można było spokojnie jechać nie martwiąc się
+ruchem, i tak słabym, samochodów.
+
+W [Kujanie][wiki-kujan] zrobiliśmy przerwę przy sklepie a później dłuższą
+przy Jeziorze Borówno. Jezioro to ma bardzo czystą wodę gdyż chyba
+widzieliśmy lilie wodne.
+
+Ruszyliśny drogą asfaltową na północ kierując się do wsi
+[Wersk][wiki-wersk]. Po chwili opuściliśmy drogę asfaltową i
+ponownie wkroczyliśmy do lasu.
+
+Szlak rowerowy przebiega przez [Zakrzewo][wiki-zakrzewo] w którym jest stacja
+kolejowa, ale my wjechaliśmy od razu do lasu. Jadąc po drodze gruntowej
+widzieliśmy Jezioro Borówko które było połączone strumieniem z
+Jeziorem Wierzchołek. W okolicy Jeziora Borówko były trochę podmokłe tereny
+i rosła jakieś dziwne roślinki z takim jakby białym puchem.
+
+Przed dojazdem do [Werska][wiki-wersk] widzieliśmy jeszcze Jezioro Wielki Smolsk.
+
+[wiki-lobzonka]: https://encrypted.google.com/search?hl=en&q=wiki%20rzeka%20%C5%82obzonka
+
+Wyjeżdzając z [Wersku][wiki-wersk] widzieliśmy bardzo ładnie położony dom.
+Od tego momentu jechaliśmy drogą gruntową i przejechaliśmy przez całkiem
+ładny most nad rzeką [Łobżonką][wiki-lobzonka].
+
+Ponownie jechaliśmy lasem i zbyt wiele o nim powiedzieć nie mogę.
+Naszym celem była teraz miejscowość [Jazdrowo][wiki-jazdrowo].
+
+Będąc w lesie prawie na ogół jechaliśmy szlakami pieszymi. Jest ich tam całkiem
+sporo.
+
+Jechaliśmy teraz do [Iłowa][wiki-ilowo]. Zdecydowanie czułem klimat tych stron
+chociaż trudno mi opisać co to oznacza. Trochę tego widać na filmiku ale
+ostatecznie chyba konieczne jest bycie tam samemu. Spokojna jazda przez
+wioski, obok zboże które powoli zbliża się do żniwa ale już tak charakterystycznie
+pachnie.
+
+Wjechaliśmy do [Radońska][wiki-radonsk] mając do wyboru dwie drogi dojazdu
+do [Sępólna Krajeńskiego][wiki-sepolno-krajenski]. Wybraliśmy wersję
+przez [Wiśniewę][wiki-wisniewa], która
+miała być nieznacznie spokojniejsza gdyż obie są drogami o bardzo małym
+ruchu.
+
+Samo [Sępólno Krajeńskie][wiki-sepolno-krajenski] zaskoczyło mnie różnicami
+wysokości. Jezioro Sępolskie jest położone wyraźnie niżej niż droga którą
+dojechaliśmy. Podjechaliśmy do kawiarni położone nad jeziorem i powoli
+kończyliśmy plany tego dnia.
