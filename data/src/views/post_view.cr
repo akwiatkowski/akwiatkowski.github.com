@@ -175,6 +175,13 @@ class PostView < BaseView
       data["related_container"] = ""
     end
 
+    # todo notice
+    if @post.ready?
+      data["todo"] = ""
+    else
+      data["todo"] = load_html("post/todo")
+    end
+
     return load_html("post/article", data)
   end
 
