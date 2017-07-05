@@ -30,6 +30,9 @@ pois:
 Wstęp
 -----
 
+Dzień wcześniej zwiedziliśmy wschodnie okolice [Doliny Baryczy][wiki-dolina-baryczy]
+dlatego zostały nam jeszcze zachodnie.
+
 Opis trasy
 ----------
 
@@ -81,25 +84,26 @@ pokonać piaski, a później przywitał nas nieznacznie przyjemniejszy teren.
 Faktycznie są to bardzo fajne tereny na spacer, ale trochę trudniej jest
 jechać rowerem tam.
 
+Widzieliśmy z prawej Staw Mała Mewa, a później Staw Duża Mewa. Przejechaliśmy
+przez Wzgórza Czarownic.
 
+Droga nieznacznie się poprawiła gdy dojechaliśmy do części wsi
+[Brzezina Sułowska][wiki-brzezina-sulowska] o nazwie Gajówka. Sama wieś była
+bardzo klimatycznym miejsce. Czuć było pewnego rodzaju odgrodzenie od
+znacznie bardziej popularnej [Rudy Sułowskiej][wiki-ruda-sulowska].
 
+Robiliśmy się głodni i chcieliśmy jak najszybciej dojechać do
+[Rudy Sułowskiej][wiki-ruda-sulowska]. Nie wiedzieliśmy jak najlepiej.
+Wybraliśmy połączenie szlaku konnego którym jechaliśmy i drogi gruntowej na
+mapie papierowej. Droga ta miała bezpośrednio doprowadzić nas do wjazdu do
+[Rudy Sułowskiej][wiki-ruda-sulowska].
 
+Dojechaliśmy do rzeki [Młynówki][wiki-rzeka-mlynowka] i okazało się, że
+nie ma tam przejazdu przez rzekę. Spróbowaliśmy iść skrótem do restauracji ale
+po walce z trawą odbiliśmy się od zamkniętych drzwi. Cel tak blisko a tak
+niedostępny.
 
-
-
-TODO:
-
-* widok na Staw Mała Mewa
-* na północ obok Wzgórze Czarownic
-* dojechaliśmy do trochę lepszej drogi do Brzezina Sułowska - Gajówka
-* droga miejscami bardzo terenowa
-* bardzo fajne wioski, w idealnym klimacie
-* nie bardzo wiedzieliśmy jak idealnie dalej jechać
-* tereny do przejechania w przyszłości
-* chcieliśmy skrócić do drogi do Rudy Sułowskiej przez drogę z mapy papierowej
-* jechaliśmy bardzo terenowym szlakiem konnym
-* wjechaliśmy w dziką drogę obok Młynówki
-* nie mogliśmy wydostać się na drogę, w pewnym miejscu ograniczała nas
-  zamknięta brama
-* wróciliśmy do szlaku konnego
-* bardzo ładne widoki, prawie idealne chmury, światło, zieleń
+Wróciliśmy do szlaku konnego i ostatecznie dojechaliśmy do celu. Analizując
+trasę dochodzę do wniosku że lepiej od początku było nie kombinować i pojechać
+asfaltem. Przejechalibyśmy więcej kilometrów ale może szybciej byśmy
+dojechali, a na pewno z mniejszą ilością nerwów.
