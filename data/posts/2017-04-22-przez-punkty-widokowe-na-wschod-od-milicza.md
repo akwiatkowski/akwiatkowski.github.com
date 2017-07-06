@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Przez punkty widokowe w okolicy Milicza"
 subtitle:               "wietrzny dzień łączący w sobie trochę zimy i lata"
 desc:                   "Trudna próba połączenia zwiedzenia wschodniej części Doliny Baryczy rowerem jak i obserwację ptaków."
-keywords:               [barycz, milicz, wiatr, stawy,  ]
+keywords:               [barycz, milicz, wiatr, stawy, wieża]
 date:                   2017-04-22 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
