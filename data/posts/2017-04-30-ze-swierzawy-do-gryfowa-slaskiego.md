@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Ze Świerzawy do Gryfowa Śląskiego"
-subtitle:               ""
-desc:                   ""
-keywords:               [jelenia]
+subtitle:               "przez Góry i Pogórze Kaczawskie"
+desc:                   "Przejazd przez bardzo malownicze i trochę zapomniane tereny Gór Kaczawskich oraz mało znanymi wioskami w stronę Gryfowa Śląskiego"
+keywords:               [jelenia, świerzawa, nowy kościół, sędziszów, kaczawskie, kaczawa, proboszczów, ostrzyca, wleń, młodochów, lubomierz, gryfów]
 date:                   2017-04-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -23,9 +23,10 @@ Wstęp
 -----
 
 Zorganizowanie majówki było znacznie trudniejsze w tym roku. Musiałem być
-2-go w [Jeleniej Górze][wiki-jelenia-gora] aby móc
+2-go maja w [Jeleniej Górze][wiki-jelenia-gora] aby móc
 [przejechać pociągiem TurKolu]({% post_url 2017-05-02-pociagiem-pierscien-i-granica %}).
-Do tego przez niepewność pogodową ludzie ze Śląska nie byli pewni.
+Miałem trochę problemów z określeniem listy uczestników gdyż prognoza pogody
+nie była zbyt optymistyczna.
 
 Opis trasy
 ----------
@@ -35,19 +36,54 @@ Opis trasy
 Szczegóły
 ---------
 
-Dopiero dwa tygodnie przed zacząłem dzwonić poszukując noclegu. Ta majówka...
+Dopiero dwa tygodnie przed wyjazdem zacząłem dzwonić szukując noclegu.
+W tą majówkę wystarczyło wziąć 3 dni urlopu aby mieć wolne od piątku do
+przyszłej niedzieli.
+
+Dzień wcześniej wyruszyliśmy z [Poznania][wiki-poznan]
+pociągiem. Standardowa przesiadka we [Wrocławiu][wiki-wroclaw] po której
+jechaliśmy już pociągiem Kolei Dolnośląskich.
+
+Z jednej strony miałem okazję porozmawiać z jednym pasażerem o aktualnej
+sytuacji w kraju, a z drugiej strony obserwowałem trochę już pijanego
+pasażera, który beztrosko opierał się o swój rower. Jego rower był oparty o mój rower,
+a mój rower oparty o kogoś innego rower. Mogło to wpłynąć na moje problemy
+z hamulcami później.
+
+Wysiedliśmy w [Jeleniej Górze][wiki-jelenia-gora]. Pogoda była trochę
+depresyjna - szaro i padał lekki deszcz.
+
+Planowałem podjechać boczną drogą przez las ale jak to bywa jest plan trasy i jest
+jej realizacja. Skręciliśmy nie w tym miejscu w którym powinniśmy.
+Probując skrócić i jechać w dobrym kierunku kluczyliśmy trochę
+w okolicach krzyża na północnych obrzeżach [miasta][wiki-jelenia-gora].
+
+Dojechaliśmy do drogi i czekał nas męczący podjazd z sakwami. Na mapie podjazdy
+nie wyglądają tak męcząco.
+
+Następnego dnia zaczęliśmy realizacje trasy tego wpisu. Pogoda zmieniła się
+diametralnie na lepszą.
+
+Podjechaliśmy w stronę przełęczy pod [Łysą Górą][wiki-lysa-gora] z której
+mieliśmy idealny zjazd do [Świerzawy][wiki-swierzawa] przez
+[Lubiechową][wiki-lubiechowa].
+
+Przed zjazdem zrobiłem kilka zdjęć gdyż z tego miejsca jest idealny widok
+na [Karkonosze][wiki-karkonosze].
+
+Droga była z tego co pamiętam dobrej jakości,
+ale chyba nie wystarczająco dobrej na rower szosowy.
+Minęliśmy punkt z którego wychodziliśmy kiedyś
+[schodząc z Okole]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %}).
+Jeżeli się nie mylę to jechaliśmy niebieskim szlakiem rowerowym.
+
+W [Lubiechowej][wiki-lubiechowa] pojawił się problem z przednim hamulcem.
+Siła hamowania widocznie słabła.
+
+Dojeżdzając do [Świerzawy][wiki-swierzawa] przejechaliśmy nad torami kolejowymi
+nieczynnej linii kolejowej
 
 
-* dojazd: zła pogoda, spory podjazd
-* planowaliśmy dojechać przez las, ale nie przejechaliśmy przez pewien most
-* kluczenie przez lasek obok krzyża
-* męczący podjazd z sakwami
-* następnego dnia totalna zmiana pogody
-* podjechaliśmy do drogi do Świerzawy
-* kilka zdjęć Karkonoszy
-* zjazd i skręcenie na drogę asfaltową przez las - niebieski szlak rowerowy
-* obok jest Okole
-* zjazd do Lubiechowa, problemy z hamulcami
 * Świerzawa, tory kolejowe
 * pizza z października
 * podjazd, widok na pagórki

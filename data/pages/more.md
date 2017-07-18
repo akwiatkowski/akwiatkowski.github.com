@@ -1,4 +1,5 @@
 * [**Zestawienie**](/summary) - Lista wszystkich wpisów posortowane chronologicznie, pogrupowanych po krainach lub miejscowościach.
+* [**Zaliczone gminy**](/towns/history) - chronologiczne zestawienie zaliczonych gmin (niekoniecznie na rowerze).
 * [**Najciekawsze miejsca**](/pois) - Zestawienie najciekawszych miejsc, które odkrywam na trasie.
 * [**Galeria**](/gallery) - Galeria ze zdjęć umieszczonych we wpisach. Są one podzielona na miesiące.
 * [**Galeria zewnętrzna**](https://akwiatkowski.smugmug.com/Seasons) - Najlepsze zdjęcia na Smugmug.

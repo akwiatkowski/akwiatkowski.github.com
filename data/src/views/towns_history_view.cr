@@ -10,21 +10,25 @@ class TownsHistoryView < PageView
   getter :image_url, :title, :subtitle
 
   def inner_html
-    s = "<ol>"
+    s = ""
+    s += "<h3>razem #{@blog.data_manager.not_nil!.towns.not_nil!.size} gmin</h3>\n"
+
+    s += "<ol>\n"
 
     @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-      s += "<li>\n<h2>#{voivodeship.name}</h2>\n"
-      s += "<ol>\n"
-
       towns = Array(Tuple(TownEntity, (Time))).new
       towns_in_voivodeship(voivodeship).each do |t|
         vt = visited_since(t)
         towns << {t, vt.not_nil!} unless vt.nil?
       end
 
+      s += "<li>\n<h2>#{voivodeship.name} - #{towns.size} gmin</h2>\n"
+      s += "<ol>\n"
+
       towns.sort{|a,b| a[1] <=> b[1]}.map{|a| a[0]}.each do |town|
         s += town_element(town)
       end
+
 
       s += "</ol></li>\n"
     end
