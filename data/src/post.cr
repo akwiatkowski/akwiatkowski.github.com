@@ -117,7 +117,11 @@ class Tremolite::Post
         ro["route"] = Array(Array(Float64)).new
 
         ch["route"].each do |coord|
-          ro["route"].as(Array) << [coord[0].to_s.to_f, coord[1].to_s.to_f]
+          if coord.size == 2
+            ro["route"].as(Array) << [coord[0].to_s.to_f, coord[1].to_s.to_f]
+          else
+            @logger.error("Post #{@slug} - error in route coords")
+          end
         end
 
         @coords.not_nil! << ro
