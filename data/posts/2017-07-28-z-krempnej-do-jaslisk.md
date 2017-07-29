@@ -8,7 +8,7 @@ date:                   2017-07-28 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, todo]
-towns:                  [podkarpackie, krempna]
+towns:                  [podkarpackie, krempna, dukla, jasliska]
 lands:                  [beskid_niski]
 
 coords:                 [{"route": [], "type": "bicycle"}]
@@ -32,3 +32,27 @@ Szczegóły
 ---------
 
 TODO:
+
+* ruszyliśmy na wschód przez Polany
+* planowaliśmy dojechać do Olchowca - kamienny most
+* zapomniałem że należy skręcić tak jak do Huty Polańskiej
+* rozpoczął się stopniowy podjazd
+* w najwyższym miejscu spotkaliśmy parę emerytów którzy jechali z sakwami z Białegostoku
+* koniec wycieczki zaplanowali w Bielsku-białej
+* zjazd do Mszanej
+* rozpędziłem się z sakwami do 66km/h
+* początkowo mocniejszy zjazd, później delikatniejszy ale nadal umożliwiał
+* osiągnięcie >30km/h bezproblemowo
+* w Tylawie myślałem że zdążymy do muzeum w Zyndranowej
+* muzeum otwarte do 12 i od 14 do 17
+* zrobiliśmy przerwę na solidny obiad (wątróbką za 7.5)
+* pojechaśmy do Zyndranowej, byliśmy ok 13-tej, ale pani oprowadzająca przyszła o 13:30
+* sama została kiedyś wypędzona z tych terenów i teraz wróciła
+* co tam było ciekawego?
+* podjechaliśmy dalej w głąb wsi, ale patrząc na pogodę nie chciało nam się sztucznie zwiększać kilometrów
+* szybko wróciliśmy do Tylawy
+* musieliśmy chwilę jechać główną drogą (tiry, dzień pracujący)
+* skręciliśmy w prawo do Daliowej, droga raczej mało ciekawa
+* trasa przez las, trochę podjazdów
+* ostatnim podjazdm był do centrum wsi Jaśliska
+* rynek
