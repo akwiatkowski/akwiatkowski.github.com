@@ -11,9 +11,10 @@ tags:                   [bicycle, todo]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
-coords:                 [{"route": [], "type": "bicycle"}]
+coords:                 [{"route": [[49.47386,21.15906], [49.46878,21.14712], [49.45941,21.12283], [49.44011,21.14738], [49.44128,21.17373], [49.45690,21.16180], [49.47297,21.15957]], "type": "bicycle"}]
 distance:               12
 time_spent:             2
+elevation:              210
 
 pois:
 

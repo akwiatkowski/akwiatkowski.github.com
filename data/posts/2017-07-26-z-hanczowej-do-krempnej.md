@@ -7,13 +7,14 @@ keywords:               []
 date:                   2017-07-26 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, todo, panniers]
 towns:                  [malopolskie, podkarpackie, uscie_gorlickie, sekowa, krempna]
 lands:                  [beskid_niski]
 
-coords:                 [{"route": [], "type": "bicycle"}]
+coords:                 [{"route": [[49.47269,21.15966], [49.48830,21.17021], [49.49683,21.18403], [49.50113,21.17691], [49.51255,21.20137], [49.50586,21.23579], [49.52097,21.26540], [49.52932,21.28917], [49.52721,21.30789], [49.51679,21.31029], [49.50380,21.31458], [49.47659,21.37672], [49.47185,21.37732], [49.44753,21.43286], [49.46577,21.42135], [49.51021,21.42676], [49.51773,21.44041], [49.52197,21.47337], [49.51105,21.50066], [49.50397,21.49285], [49.50832,21.48847]], "type": "bicycle"}]
 distance:               50
 time_spent:             7
+elevation:              524
 
 pois:
 

@@ -11,9 +11,10 @@ tags:                   [bicycle, todo]
 towns:                  [podkarpackie, jasliska]
 lands:                  [beskid_niski]
 
-coords:                 [{"route": [], "type": "bicycle"}]
+coords:                 [{"route": [[49.44156,21.80253], [49.40605,21.77644], [49.38901,21.77867], [49.37471,21.78536], [49.37186,21.79180]], "type": "bicycle"}]
 distance:               20
 time_spent:             3
+elevation:              185
 
 pois:
 

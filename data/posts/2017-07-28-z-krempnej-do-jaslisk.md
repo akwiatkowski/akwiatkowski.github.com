@@ -1,19 +1,20 @@
 ---
 layout:                 post
 title:                  "Z Krempnej do Jaślisk"
-subtitle:               ""
+subtitle:               "przerwa na obiad i zwiedzanie muzeum w Zyndranowej"
 desc:                   ""
 keywords:               []
 date:                   2017-07-28 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, todo, panniers]
 towns:                  [podkarpackie, krempna, dukla, jasliska]
 lands:                  [beskid_niski]
 
-coords:                 [{"route": [], "type": "bicycle"}]
+coords:                 [{"route": [[49.51121,21.50092], [49.50486,21.53911], [49.49471,21.56606], [49.50051,21.62005], [49.51082,21.62855], [49.48892,21.65310], [49.46689,21.69687], [49.47492,21.70974], [49.46181,21.73670], [49.45439,21.78313], [49.44111,21.80218]], "type": "bicycle"}, {"route": [[49.46745,21.69696], [49.43581,21.71326], [49.42660,21.71567], [49.42258,21.72399]], "type": "bicycle"}]
 distance:               44
 time_spent:             7
+elevation:              466
 
 pois:
 
