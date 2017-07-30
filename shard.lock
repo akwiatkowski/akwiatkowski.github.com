@@ -10,7 +10,7 @@ shards:
 
   kemal:
     github: kemalcr/kemal
-    commit: cd5fab8c2f7e279a9e5caaef8efeb46f187f7e0e
+    commit: fc4c97aafd9aa8aa0fe2f112dd8af9f47777b1c9
 
   kilt:
     github: jeromegn/kilt
@@ -22,5 +22,5 @@ shards:
 
   tremolite:
     github: akwiatkowski/tremolite
-    commit: c3c4d38c14bb229dfddb69cdeadf8d867f9f05bf
+    commit: e3f91588a8d06d4781e3fbd98a1df0d0a4aac4f7
 

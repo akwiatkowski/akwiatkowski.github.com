@@ -14,13 +14,6 @@ class Tremolite::Post
     # yey, static typing
     @coords = Array(TremolitePostRouteObject).new
 
-    @small_image_url = "/images/processed/#{slug}_small_header.jpg"
-    @big_thumb_image_url = "/images/processed/#{slug}_big_thumb_header.jpg"
-    @thumb_image_url = "/images/processed/#{slug}_thumb_header.jpg"
-
-    # obsolote
-    @ext_image_url = String.new
-
     @distance = 0.0
     @time_spent = 0.0
 
@@ -168,11 +161,6 @@ class Tremolite::Post
     end
 
     @desc = @header["desc"].to_s if @header["desc"]?
-
-    # download previous external heade images locally
-    # now we will only use local images
-    @ext_image_url = @header["header-ext-img"].to_s if @header["header-ext-img"]?
-    download_header_image
   end
 
   def related_coords : Array(Tuple(Float64, Float64))
@@ -218,11 +206,17 @@ class Tremolite::Post
     end
   end
 
-  # temporary download external image as title
-  private def download_header_image
-    img_url = File.join(["data", @image_url])
-    if @ext_image_url.to_s != "" && false == File.exists?(img_url)
-      ImageResizer.download_image(source: @ext_image_url.not_nil!, output: img_url)
-    end
+  def small_image_url
+    "/images/processed/#{self.year}/#{slug}_small_header.jpg"
   end
+
+  def big_thumb_image_url
+    "/images/processed/#{self.year}/#{slug}_big_thumb_header.jpg"
+  end
+
+  def thumb_image_url
+    "/images/processed/#{self.year}/#{slug}_thumb_header.jpg"
+  end
+
+
 end

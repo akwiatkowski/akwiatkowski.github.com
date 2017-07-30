@@ -34,7 +34,7 @@ class Tremolite::Views::BaseView
   end
 
   def post_image(post : Tremolite::Post, size : String, image : String, alt : String, gallery : Bool)
-    url = "/images/processed/#{post.slug}_#{size}_#{image}"
+    url = "/images/processed/#{post.year}/#{post.slug}_#{size}_#{image}"
     add_post_photo_to_gallery(post: post, image: image, desc: alt) if gallery
     data = {
       "img.src"           => url,
