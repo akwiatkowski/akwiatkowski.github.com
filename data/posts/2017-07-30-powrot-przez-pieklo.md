@@ -33,3 +33,24 @@ Szczegóły
 TODO:
 
 * Czarnorzecko-Strzyżowski Park Krajobrazowy
+* nie byliśmy pewni czy uda się wbić na TLK z Krosna (nie było ikonki roweru)
+* załatwiliśmy transport do Krosna i dalej rowerem w stronę Rzeszowa
+* fala upałów
+* rano było jeszcze akceptowalnie
+* pojechaliśmy do Odrzykonia aby jechać spokojniejszą drogą aż do Wiśniowej
+* spokojne wioski, lekkie podjazdy i zjazdy
+* Dąb Józej w Wiśniowej
+* był ruch i postanowiliśmy wybrać spokojniejszą, acz dłuższą trasę
+* gugiel mówił chyba o 350m podjazdu, a trasą bardziej ruchliwą 150-250m
+* niedaleko Kalembiny był krótki okrutny podjazd
+* jechaliśmy w dolinach, brak wiatru - cieplej
+* fajny zjazd do Różanki
+* z Grodziska rozpoczął się okrutny podjazd do Zawadki
+* słońce męczyło nas okrutnie
+* na skrzyżowaniu na północ od Zawadki podjazd się skończył
+* bardzo szybki i fajny zjazd do Bystrzycy, chociaż widoki nie rękompensowały cierpienia
+* wg gugla mieliśmy czysta zjazd, ale w praktyce czasami pojawiły się do 10m górki na trasie
+* myśleliśmy tylko aby dojechać na dworzec
+* negatywne emocje
+* 18 minut przed odjazdem
+* totalnie wymęczeni

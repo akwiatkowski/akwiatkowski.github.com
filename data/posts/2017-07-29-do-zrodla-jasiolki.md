@@ -1,9 +1,9 @@
 ---
 layout:                 post
-title:                  "Do źródła Jasiołki"
-subtitle:               ""
+title:                  "Do źródła rzeki Jasiołki"
+subtitle:               "zapomniane gospodarstwa, lilie wodne, polany, obóz gdzie nie ma zasięgu i zjazd do Wisłoka Wielkiego"
 desc:                   ""
-keywords:               []
+keywords:               [wisłok, jasiołka, beskid niski]
 date:                   2017-07-29 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
