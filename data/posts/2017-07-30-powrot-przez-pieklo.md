@@ -26,6 +26,7 @@ Wstęp
 Opis trasy
 ----------
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1108698274/embed/57854b6dc8a1d8721d8f2d3769ea3cde530326db'></iframe>
 
 Szczegóły
 ---------

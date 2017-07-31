@@ -4,6 +4,12 @@ class PostView < BaseView
     @validator = @blog.validator.as(Tremolite::Validator)
   end
 
+  # not ready posts will not be added to sitemap.xml
+  # this generator is part of `Tremolite` engine
+  def ready
+    @post.ready?
+  end
+
   def title
     @post.title
   end

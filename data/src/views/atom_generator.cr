@@ -1,6 +1,6 @@
 require "xml"
 
-class AtomGenerator
+class AtomGenerator < Tremolite::Views::AbstractView
   def initialize(
                  @blog : Tremolite::Blog,
                  @posts : Array(Tremolite::Post),

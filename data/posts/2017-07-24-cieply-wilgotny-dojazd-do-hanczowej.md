@@ -48,6 +48,8 @@ TODO:
 * rozpoczął się bardzo fajny zjazd którego nie nagrałem gdyż miałem załadowaną słabą baterię
 * prędkość maks 58.2km/h z sakwami, idealna droga
 * podjechaliśmy pod pstrąga w Łosiach, była 10 a otwierali o 12
+* zeszliśmy nad rzekę (jaka?), niebieski ślimak, mało ciekawych ujęć do zdjęć
+* ruiny ośrodku wczasowego
 * kręciliśmy się, podjechaliśmy pod rzekę Ropę gdzie widzieliśmy niebieskiego ślimaka
 * podjechaliśmy pod zaporę i tam spotkaliśmy lokalsa który opowiedział trochę o okolicy
 * i o ośrodku wczasowym

@@ -1,6 +1,6 @@
 require "xml"
 
-class RssGenerator
+class RssGenerator < Tremolite::Views::AbstractView
   def initialize(
                  @blog : Tremolite::Blog,
                  @posts : Array(Tremolite::Post),
