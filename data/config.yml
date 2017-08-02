@@ -4,46 +4,46 @@ site.email: aleksander_kwiatkowski1@interia.pl
 site.url: "http://odkrywajacpolske.pl"
 site.author: Aleksander Kwiatkowski
 
-map.backgrounds: /images/2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw/header.jpg
+map.backgrounds: /images/2015/2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw/header.jpg
 map.title: Mapa
 map.subtitle: Wszystkie trasy narysowane na mapie
 
-planner.backgrounds: /images/2016-07-21-grania-tatr-zachodnich-na-wolowiec/header.jpg
+planner.backgrounds: /images/2016/2016-07-21-grania-tatr-zachodnich-na-wolowiec/header.jpg
 planner.title: Planer górski
 more.subtitle: Jakie pasmo powinienem odwiedzić teraz
 
-more.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9169raw1.jpg
+more.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9169raw1.jpg
 more.title: Więcej linków...
 more.subtitle: czyli to co nie zmieściło się w nagłówku
 
-about.backgrounds: http://localhost:5000/images/2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem/G0034499b.jpg
+about.backgrounds: /images/2016/2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem/G0034499b.jpg
 about.title: O mnie
 about.subtitle: I o tej stronie
 
-summary.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9706raw1.jpg
+summary.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9706raw1.jpg
 summary.title: Zestawienie wpisów
 summary.subtitle: Podzielone przez krainy i gminy
 
-todos.backgrounds: /images/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9451raw1.jpg
+todos.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9451raw1.jpg
 todos.title: Plany tras
 todos.subtitle: Czyli to co mogę robić gdy nie ma odpowiedniej pogody
 
-pois.backgrounds: /images/2016-10-24-wejscie-na-sokolik/IMGP8192raw1.jpg
+pois.backgrounds: /images/2016/2016-10-24-wejscie-na-sokolik/IMGP8192raw1.jpg
 pois.title: Najciekawsze miejsca
 pois.subtitle: Zwłaszcza te niezaznaczone na żadnej mapie
 
-towns.backgrounds: /images/2016-08-26-powrot-z-przedgorza-sudeckiego/IMGP5135raw1.jpg
+towns.backgrounds: /images/2016/2016-08-26-powrot-z-przedgorza-sudeckiego/IMGP5135raw1.jpg
 towns.title: Województwa i gminy
 towns.subtitle: Lista wszystkich gmin w których byłem
 
-towns_history.backgrounds: /images/2017-01-10-zimowe-okolice-wojanowa/IMGP1536raw1.jpg
+towns_history.backgrounds: /images/2017/2017-01-10-zimowe-okolice-wojanowa/IMGP1536raw1.jpg
 towns_history.title: Historia zaliczonych gmin
 towns_history.subtitle: Lista zaliczonych gmin w kolejności chronologicznej
 
-lands.backgrounds: /images/2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem/header.jpg
+lands.backgrounds: /images/2013/2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem/header.jpg
 lands.title: Krainy
 lands.subtitle: Lista krain geograficznych, góry, pogórza, niziny, ...
 
-gallery.backgrounds: /images/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
+gallery.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
 gallery.title: Galeria
 gallery.subtitle: Lista zdjęć dodanych do wpisów
