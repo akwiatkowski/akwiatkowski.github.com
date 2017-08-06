@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Wzdłuż Jeziora Pakoskiego"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "obserwując czas żniw w okolicznych wioskach oraz działanie kolei linowej"
+desc:                   "Krótki przejazd rowerem przez okolice Janikowa i Pakości"
+keywords:               [strzelno, janikowo, pakość, wapienno]
 date:                   2017-08-06 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -23,6 +23,10 @@ pois:
 Wstęp
 -----
 
+Ten krótki przejazd jest rozszerzeniem znanej
+[trasy]({% post_url 2015-08-02-szybki-kurs-do-janikowa %})
+do [Janikowa][wiki-janikowo]. Tym razem chciałem pojechać trochę dalej.
+
 Opis trasy
 ----------
 
@@ -30,6 +34,14 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Trasę do [Janikowa][wiki-janikowo] opisałem już [wcześniej]({% post_url 2015-08-02-szybki-kurs-do-janikowa %}).
+Tym razem nie skręciłem w prawo a skręciłem prosto jadąc do
+[Broniewic][wiki-broniewice].
+
+Wkraczając do [Dobieszewic][wiki-dobieszewice] widziałem pasące się krowy
+na tle Jeziora Pakoskiego i zakładów sodowych.
+
 
 TODO:
 
