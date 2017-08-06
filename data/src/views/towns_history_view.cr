@@ -11,7 +11,10 @@ class TownsHistoryView < PageView
 
   def inner_html
     s = ""
-    s += "<h3>razem #{@blog.data_manager.not_nil!.towns.not_nil!.size} gmin</h3>\n"
+    s += "<p>"
+    s += "Razem <strong>#{@blog.data_manager.not_nil!.towns.not_nil!.size}</strong> zdefiniowanych gmin, "
+    s += "a <strong>#{town_hike_or_bicycle}</strong> zaliczone pieszo lub rowerem."
+    s += "</p>\n"
 
     s += "<ol>\n"
 
@@ -70,5 +73,9 @@ class TownsHistoryView < PageView
 
     s += "</li>\n"
     return s
+  end
+
+  def town_hike_or_bicycle
+    @blog.post_collection.posts.select{|p| p.bicycle? || p.hike? }.map{|p| p.towns.not_nil! }.flatten.uniq.size
   end
 end
