@@ -40,7 +40,11 @@ Tym razem nie skręciłem w prawo a skręciłem prosto jadąc do
 [Broniewic][wiki-broniewice].
 
 Wkraczając do [Dobieszewic][wiki-dobieszewice] widziałem pasące się krowy
-na tle Jeziora Pakoskiego i zakładów sodowych.
+na tle Jeziora Pakoskiego i zakładów sodowych. Gdybym miał więcej czasu i
+mniej szerokokątny obiektyw, oraz jakby nie było siatki odgradzającej,
+to mógłbym zrobić trochę ciekawych zdjęć.
+
+
 
 
 TODO:
