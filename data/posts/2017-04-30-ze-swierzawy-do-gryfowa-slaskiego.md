@@ -16,8 +16,26 @@ distance:               71
 time_spent:             9
 
 pois:
+  - lat: 50.97692
+    lon: 15.83524
+    name: Zjazd z przełęczy pod Okolem w stronę Świerzawy
+  - lat: 51.03119
+    lon: 15.71857  
+    name: Zjazd z Bystrzycy do Wlenia
+  - lat: 51.03081
+    lon: 15.61583  
+    name: Ciekawe skrzyżowanie bezkolizyjne między Golejowem a Marczowem
+
 
 ---
+
+[wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
+[wiki-swierzawa]: https://pl.wikipedia.org/wiki/%C5%9Awierzawa
+[wiki-lubiechowa]: https://pl.wikipedia.org/wiki/Lubiechowa
+[wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
+
 
 Wstęp
 -----
@@ -25,7 +43,7 @@ Wstęp
 Zorganizowanie majówki było znacznie trudniejsze w tym roku. Musiałem być
 2-go maja w [Jeleniej Górze][wiki-jelenia-gora] aby móc
 [przejechać pociągiem TurKolu]({% post_url 2017-05-02-pociagiem-pierscien-i-granica %}).
-Miałem trochę problemów z określeniem listy uczestników gdyż prognoza pogody
+Miałem również trochę problemów z określeniem listy uczestników gdyż prognoza pogody
 nie była zbyt optymistyczna.
 
 Opis trasy
@@ -33,55 +51,185 @@ Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/964997664/embed/1ba703295a129f8a3405a0564c0f0d301c368a5d'></iframe>
 
-Szczegóły
----------
+Dojazd
+-----
 
-Dopiero dwa tygodnie przed wyjazdem zacząłem dzwonić szukując noclegu.
-W tą majówkę wystarczyło wziąć 3 dni urlopu aby mieć wolne od piątku do
+Dopiero dwa tygodnie przed wyjazdem zacząłem poszukiwać noclegu.
+Na tą majówkę wystarczyło wziąć 3 dni urlopu aby mieć wolne od piątku do
 przyszłej niedzieli.
 
 Dzień wcześniej wyruszyliśmy z [Poznania][wiki-poznan]
-pociągiem. Standardowa przesiadka we [Wrocławiu][wiki-wroclaw] po której
-jechaliśmy już pociągiem Kolei Dolnośląskich.
+pociągiem. Standardowo przesiadliśmy się we [Wrocławiu][wiki-wroclaw] na
+pociąg Kolei Dolnośląskich jadący już do [Jeleniej Góry][wiki-jelenia-gora].
 
-Z jednej strony miałem okazję porozmawiać z jednym pasażerem o aktualnej
-sytuacji w kraju, a z drugiej strony obserwowałem trochę już pijanego
-pasażera, który beztrosko opierał się o swój rower. Jego rower był oparty o mój rower,
+Miałem okazję porozmawiać z jednym pasażerem o aktualnej
+sytuacji w kraju, co było miłym urozmaiceniem.
+Z drugiej strony obserwowałem trochę już pijanego
+pasażera beztrosko opierającego się o swój rower. Jego rower był oparty o mój rower,
 a mój rower oparty o kogoś innego rower. Mogło to wpłynąć na moje problemy
 z hamulcami później.
 
 Wysiedliśmy w [Jeleniej Górze][wiki-jelenia-gora]. Pogoda była trochę
-depresyjna - szaro i padał lekki deszcz.
+depresyjna - zachmurzone niebo i padał lekki deszcz.
 
-Planowałem podjechać boczną drogą przez las ale jak to bywa jest plan trasy i jest
+Planowałem podjechać boczną drogą przez las na północny-wschód,
+ale jak to bywa jest plan trasy i jest
 jej realizacja. Skręciliśmy nie w tym miejscu w którym powinniśmy.
-Probując skrócić i jechać w dobrym kierunku kluczyliśmy trochę
+Probując skrócić kluczyliśmy trochę
 w okolicach krzyża na północnych obrzeżach [miasta][wiki-jelenia-gora].
 
-Dojechaliśmy do drogi i czekał nas męczący podjazd z sakwami. Na mapie podjazdy
-nie wyglądają tak męcząco.
+Dojechaliśmy do drogi gdzie czekał nas męczący podjazd z sakwami. Na mapie podjazdy
+nie wyglądają tak męcząco. Dobre to, że jechaliśmy już bezpośrednio.
+
+Szczegóły
+---------
 
 Następnego dnia zaczęliśmy realizacje trasy tego wpisu. Pogoda zmieniła się
 diametralnie na lepszą.
 
-Podjechaliśmy w stronę przełęczy pod [Łysą Górą][wiki-lysa-gora] z której
+Nasza baza była w miejscu położonym dość wysoko - w górnej części
+wsi [Dziwiszów][wiki-dziwiszow] do której dojeżdzają autobus miejski linii 9.
+
+Podjechaliśmy w stronę przełęczy pod Łysą Górą z której
 mieliśmy idealny zjazd do [Świerzawy][wiki-swierzawa] przez
-[Lubiechową][wiki-lubiechowa].
+[Lubiechową][wiki-lubiechowa]. **Zjazd ten polecam każdemu**.
 
 Przed zjazdem zrobiłem kilka zdjęć gdyż z tego miejsca jest idealny widok
-na [Karkonosze][wiki-karkonosze].
+na całe [Karkonosze][wiki-karkonosze].
 
-Droga była z tego co pamiętam dobrej jakości,
-ale chyba nie wystarczająco dobrej na rower szosowy.
-Minęliśmy punkt z którego wychodziliśmy kiedyś
-[schodząc z Okole]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %}).
+Droga była, z tego co pamiętam, dobrej jakości
+ale chyba nie wystarczająco dobrej na rower szosowy. Patrząc na filmiki to
+większość osób szosówką by przejechało ale ja sam tego bym nie zrobił.
+
+Minęliśmy punkt z którego kiedyś wychodziliśmy
+[schodząc z góry Okole]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %}).
 Jeżeli się nie mylę to jechaliśmy niebieskim szlakiem rowerowym.
+
 
 W [Lubiechowej][wiki-lubiechowa] pojawił się problem z przednim hamulcem.
 Siła hamowania widocznie słabła.
 
-Dojeżdzając do [Świerzawy][wiki-swierzawa] przejechaliśmy nad torami kolejowymi
-nieczynnej linii kolejowej
+Wokół czuć było jak przyroda budzi się do życia zakrywając wiele ponurych miejsc.
+Chyba każda miejsce w [Sudetach][wiki-sudety] jest mniej lub bardziej ponure
+będąc dowodem przemijania lepszych czasów.
+
+[wiki-linia-312]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_312
+
+Po opuszczeniu [Lubiechowej][wiki-lubiechowa] dziwnie teren zrobił się
+płaski.
+
+Wybraliśmy czerwony szlak rowerowy opuszczając niebieski. Była to
+zmiana subtelna ale zamiast [Świerzawy][wiki-swierza] dojechaliśmy do
+[Sędziszowej][wiki-sedziszowa] by po chwili faktycznie
+wjechać do [Świerzawy][wiki-swierza].
+
+Przejechaliśmy nad torami kolejowymi
+nieczynnej [linii kolejowej 312][wiki-linia-312]. Jest to chyba linia którą
+najbardziej chciałbym się przejechać z tych już teraz niedostępnych.
+
+Skręciliśmy w ulicę Lipową i podjeżdzając zaczęliśmy opuszczać tą
+klimatyczną miejscowość. Polecam każdemu odwiedzić ją jesienią, najlepiej
+w pochmurny dzień.
+
+Na tej drodzę spotkaliśmy starszego pana, który swoją aktywnością fizyczną
+mógłby zawstydzić wiele osób. Również mnie. Coś w stylu biegania po bółki do
+wioski obok 7km.
+
+Jechaliśmy czerwonym szlakiem rowerowym na północ. Powoli opuściliśmy pola
+i wjechaliśmy w las, a później znowu trochę pól przed wsią [Gozdno][wiki-gozdno].
+Sama wieś wyglądała jak cztery domy ukryte drzewami ale jadąc w tym kierunku
+czekał na nas bardzo przyjemny zjazd.
+
+Dojeżdzając do [Biegoszówa][biegoszow] wyraźnie poprawiła się jakość drogi.
+Będąc już we wsi skręciliśmy na zachód jadąc nadal czerwonym szlakiem rowerowym.
+Droga zapowiadała się interesująco i taka się okazała.
+Opuszczaliśmy ją jadąc slalomami przez las kierując się do kolejnej miejscowości,
+czyli do [Nowego Kościoła][wiki-nowy-kosciol].
+
+Mijaliśmy po lewej stronie jakieś zbiorniki wodne, prawdopodobnie to były
+stawy hodowlane.
+
+Ponownie przejechaliśmy przez [tory kolejowe linii 312][wiki-linia-312].
+Oznaczało to, że dojechaliśmy do [Nowego Kościoła][wiki-nowy-kosciol],
+miejscowości którą bardzo chciałem zobaczyć. Przejeżdzając samochodem w 2015
+roku bardzo mi się spodobały te okolice.
+
+Ruszyliśmy drogą 328 na południe jadąc w dolinie
+[Pogórza Kaczawskiego][wiki-pogorze-kaczawskie].
+W planie mieliśmy zjeść a później jechać dalej i
+skręcić na zachód do [Sokołowca][wiki-sokolowiec].
+
+Będąc tak blisko [Organów Wielisławskich][wiki-organy-wielislawskie]
+błędem było by nie zobaczenie ich ponownie. Podjechaliśmy żółtym
+szlakiem pieszym. Po prawej stronie od nas płynęła rzeka [Kaczawa][wiki-rzeka-kaczawa].
+
+Jadąc do [Sokołowca][wiki-sokolowiec] teren zrobił się wyraźnie spokojniejszy
+ale nie płaski. Jechaliśmy przez pofalowane pola widząc góry na horyzoncie.
+Teren zdecydowanie uspokajał. Widać było położenie wsi w dolinach. Opuszczając
+daną wieś czekał delikatny podjazd, który zamieniał się w zjazd gdy
+wjeżdzaliśmy do kolejnej miejscowości.
+
+Na horyzoncie widzieliśmy [Ostrzycę][wiki-ostrzyca] obok [Proboszczowa][wiki-proboszczow],
+jednak nie była ona naszym celem. Byłem na niej
+[jesienią 2015 roku]({% post_url 2015-10-18-wejscie-na-ostrzyce %}).
+
+Z [Proboszczowa][wiki-proboszczow] ruszyliśmy na zachód w stronę [Bełczyny][wiki-belczyna].
+Od tego momentu czułej jak opuszczamy [Pogórze Kaczawskie][wiki-pogorze-kaczawskie].
+Prawie momentalnie zmniejszyła się uwypuklenie terenu. Nie oznacza to, że nie było
+podjazdów, tylko znacznie mniej wypukłych pól.
+
+Za [Bystrzycą][wiki-bystrzyca] czekał na nas bardzo fajny zjazd aż do [Wlenia][wiki-wlen].
+Około 4km i 120m obniżenia terenu po drodze o dobrej jakości.
+
+Wjeżdzając do [Wlenia][wiki-wlen] zdziwił mnie brak samochodów zaparkowanych na ulicy
+niedaleko centrum. Zrobiliśmy małą przerwę na rynku robiąc na zdjecia i jedzenie.
+
+Tutaj mieliśmy wybór: albo wracać już do bazy, albo pojechać dalej na zachód i wracać
+pociągiem do [Jeleniej Góry][wiki-jelenia-gora]. Wybraliśmy to drugie myśląc, że
+uda nam się dojechać do [Lubania][wiki-luban].
+
+Dostaliśmy się do [Pławna Górnego][wiki-plawno-gorne] cały czas analizując powrót.
+Klasyczne zachowanie podczas ostatniej części trasy. Myślenie o tym aby
+za długo nie czekać na pociąg, jak i aby w ogóle można na niego sobie poczekać.
+
+Jest takie ciekawe skrzyżowanie między [Marczowem][wiki-marczow] a
+[Golejowem][wiki-golejow]. Jest ono bezkolizyjne gdyż jest dwupoziomowe.
+
+Droga w stronę [Golejowa][wiki-golejow] jest miejscami bardzo wąska. Wygląda
+jakby to była droga poprowadzona przez czyjeś podwórko niż normalna droga
+publiczna. Polecam ją kiedyś przejechać.
+
+W [Pławnie Górnym][wiki-plawno-gorne] widziałem duży pomnik jelenia oraz
+koniec szlaku rowerowego na zlikwidowanej linii kolejowej. Patrząc na mapę
+trasa rowerowa jest aż do [Lwówka Śląskiego][wiki-lwowek-slaski].
+
+Skręciliśmy na zachód i jechaliśmy lekkim podjazdem do [Lubomierza][wiki-lubomierz].
+Droga ta raczej nie miała nic ciekawego ale polecam sobie przejechać aby
+zobaczyć to własnymi oczami.
+
+Z [Lubomierza][wiki-lubomierz] pojechaliśmy przez [Radoniów][wiki-radoniow]
+chcąc jak najbszybciej dostać się na stację w [Gryfowie Śląskim][wiki-gryfow].
+Gdy teraz patrzę na mapę to chyba lepszą opcją byłoby przez
+[Oleszną Podgórską][wiki-oleszna-podgorska]. Byśmy nie musieli jechać drogą
+30-tką i może mielibyśmy ciekawsze widoki.
+
+Poczekaliśmy trochę na stacji w [Gryfowie][wiki-gryfow] obserwując w jakim
+opuszczonym jest stanie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 * Świerzawa, tory kolejowe
