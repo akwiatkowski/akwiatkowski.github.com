@@ -1,7 +1,7 @@
 ---
 layout:                 post
-title:                  "Dolina Pałaców"
-subtitle:               "i Ogrodów"
+title:                  "Dolina Pałaców i Ogrodów"
+subtitle:               ""
 desc:                   ""
 keywords:               [jelenia]
 date:                   2017-05-01 20:00:00
@@ -16,11 +16,17 @@ distance:               76
 time_spent:             11
 
 pois:
+  - lat: 50.85927
+    lon: 15.79394
+    name: Widok na Karkonosze w Łomnicy niedaleko Wojanowa
 
 ---
 
 Wstęp
 -----
+
+Tego dnia mieliśmy "załatwionego" lokalną osobę. Miał on nam pokazać najciekawsze
+tereny "Doliny Pałaców i Ogrodów".
 
 Opis trasy
 ----------
@@ -29,6 +35,68 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Początek trasy był fajny. Mogliśmy zjechać przez cały [Dziwiszów][wiki-dziwiszow]
+aż do wjazdu do [Jeleniej Góry][wiki-jelenia-gora]. Zbyt wiele o nim nie napiszę
+ale jak każdy (prawie) zjazd jest on fajny.
+Uszkodzony przedni hamulec wymuszał znacznie spokojniejszą jazdę
+
+Kierowaliśmy się na rynek gdyż tam mieliśmy punkt spotkania z Tomkiem.
+Tomek robi regularne filmiki z serii "Jelenia Jest Spoko". Poznałem go
+podczas
+[porannego wejścia na Sokolik]({% post_url 2017-01-11-wschod-slonca-na-sokoliku %}).
+
+Gdy już byliśmy całą grupą ruszyliśmy w stronę [Łomnicy][wiki-lomnica].
+Rozważaliśmy zobaczyć [Pałac Paulinum][wiki-palac-paulinum] jeszcze w
+[Jeleniej Górze][wiki-jelenia-gora], jednak ważniejsze i ciekawsze były dla
+nas okoliczne tereny.
+
+Przejazd przez [miasto][wiki-jelenia-gora] o poranku w święto był całkiem
+przyjemny. Widzieliśmy dużo starych kamienic.
+
+Opuszczając [Jelenią Górę][wiki-jelenia-gora] jechaliśmy po ścieżce rowerowej,
+po której można dojechać do [Karpacza][wiki-karpacz].
+
+Gdy opuściliśmy jazdę wzdłuż drogi 367 trasa wiodła nas przez osiedle identycznie
+ale ciekawie wyglądających domów.
+
+Na chwilę podjechaliśmy na ulicę Klonową aby zobaczyć widok na
+[Karkonosze][wiki-karkonosze].
+
+Przejechaliśmy przez
+[tory kolejowe linii 308][wiki-linia-308] które łączą [Jelenią Górę][wiki-jelenia-gora]
+z [Mysłakowicami][wiki-myslakowice].
+
+[wiki-linia-308]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_308
+[wiki-palac-lomnica]: https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_%C5%81omnicy
+
+Naszym pierwszym celem był [Pałac w Łomnicy][wiki-palac-lomnica]. Oprócz
+samego pałacu jest jeszcze "Dom wdowy" a po drugiej stronie ulicy jest
+restauracja oraz sklep z wyrobami z lnu.
+Z tej restauracji wracałem [będąc ostatnio w Rudawach Janowickich]({% post_url 2017-01-10-zimowe-okolice-wojanowa }). Kolejną ciekawostką jest to, że restauracja
+serwuje dania regionalna, a w pałacu serwowane są trochę droższe, chociaż sam
+tego nie sprawdzałem.
+
+[wiki-palac-wojanow]: https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wojanowie
+
+Kolejny [pałac][wiki-palac-wojanow] jest oddalony kilkaset
+metrów dalej, co może być zaskakujące
+dla osoby będącej tu pierwszy raz. [Pałac w Wojanowie][wiki-palac-wojanow]
+jest wyraźnie obiektem hotelowym.
+
+[wiki-palac-bobrow]: https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Bobrowie
+
+Na chwilę pojechaliśmy zobaczyć trzeci pałac tego dnia -
+[Pałac w Bobrowie][wiki-palac-bobrow]. Jest on zdecydowanie najsmutniejszym
+gdyż jest w ciągłym remoncie. Ponoć jeden z lokalnych polityków pożyczył sobie
+dachówki z tego pałacu.
+
+[wiki-zamek-karpniki]: https://pl.wikipedia.org/wiki/Zamek_w_Karpnikach
+
+Ruszyliśmy do [Karpnik][wiki-karpniki] w których wyjechaliśmy ulicą Stawową.
+Jesteśmy w kolejnej miejscowości i odwiedzamy kolejny pałac, a raczej
+[zamek][wiki-zamek-karpniki].
+
 
 TODO:
 
