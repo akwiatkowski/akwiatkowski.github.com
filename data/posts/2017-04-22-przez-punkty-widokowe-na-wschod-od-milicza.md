@@ -38,7 +38,6 @@ pois:
 [wiki-barycz]: https://pl.wikipedia.org/wiki/Barycz_(rzeka)
 [wiki-ruda-milicka]: https://pl.wikipedia.org/wiki/Ruda_Milicka
 [wiki-stawno]: https://pl.wikipedia.org/wiki/Stawno_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
-[wiki-dyminy]: https://pl.wikipedia.org/wiki/Dyminy_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-nowe-grodzisko]: https://pl.wikipedia.org/wiki/Nowe_Grodzisko
 [wiki-grabownica]: https://pl.wikipedia.org/wiki/Grabownica_(gmina_Milicz)
 [wiki-czatkowice]: https://pl.wikipedia.org/wiki/Czatkowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -46,6 +45,8 @@ pois:
 [wiki-duchowo]: https://pl.wikipedia.org/wiki/Duchowo
 [wiki-sulow-milicki]: https://pl.wikipedia.org/wiki/Su%C5%82%C3%B3w_Milicki
 [wiki-zamek-milicz]: https://pl.wikipedia.org/wiki/Zamek_w_Miliczu
+[wiki-dyminy]: https://pl.wikipedia.org/wiki/Dyminy_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+
 
 Wstęp
 -----
@@ -120,7 +121,7 @@ Spodobała mi się wieś [Dyminy][wiki-dyminy] w której widziałem chyba tylko 
 ale za to były duże kwitnące drzewa owocowe.
 
 <!--
-Na północ od [Dymin][wiki-dyminy] widzieliśmy jakiś budynek. Zaciekawił mnie i
+Na północ od Dymin widzieliśmy jakiś budynek. Zaciekawił mnie i
 zrobiłem mu zdjęcie.
 -->
 

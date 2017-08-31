@@ -82,7 +82,8 @@ tego nie sprawdzałem.
 Kolejny [pałac][wiki-palac-wojanow] jest oddalony kilkaset
 metrów dalej, co może być zaskakujące
 dla osoby będącej tu pierwszy raz. [Pałac w Wojanowie][wiki-palac-wojanow]
-jest wyraźnie obiektem hotelowym.
+jest wyraźnie obiektem hotelowym. Na jego terenie są 4 budynki hotelowe:
+sam pałac, oficyna, spichlerz oraz stajnia.
 
 [wiki-palac-bobrow]: https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Bobrowie
 
@@ -96,31 +97,71 @@ dachówki z tego pałacu.
 Ruszyliśmy do [Karpnik][wiki-karpniki] w których wyjechaliśmy ulicą Stawową.
 Jesteśmy w kolejnej miejscowości i odwiedzamy kolejny pałac, a raczej
 [zamek][wiki-zamek-karpniki].
+Pierwszy raz przy tym pałacu byłem w
+[czerwcu 2015 roku]({% post_url 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich %}).
 
+Wyjechaliśmy skrótem w stronę [Krogulca][wiki-krogulec] jadąc ulicą Łąkową.
+Jak nazwa wskazuje jadąc mieliśmy widok na łąki ale z dodatkiem drzew liściastych i krzewów.
+Droga ta była zdecydowanie gruntowa.
+Po lekkim podjeździe dotarliśmy do [Krogulca][wiki-krogulca].
 
-TODO:
+Kolejną odwiedzoną wioską był [Bukowiec][wiki-bukowiec] do którego wjechaliśmy
+przez ulicę Robotniczą. Jest z niej dobry widok na południowe
+[Rudawy Janowickie][wiki-rudawy-janowickie] a gdy bardziej zliżyliśmy
+się do [wsi][wiki-bukowiec] nawet na [Karkonosze][wiki-karkonosze].
+Ciekawie wyglądała ośnieżona [Śnieżka][wiki-sniezka] na horyzoncie.
 
-* umówiliśmy się z Tomkiem przy Ratuszu
-* ruszyliśmy przez miasto aż do ścieżki rowerowej wzdłuż drogi do Karpacza
-* skręciliśmy do Łomnicy widząc nowo wybudowane osiedle domków
-* raczej są one wynajmowane, basen, ...
-* zamek w Łomnicy
-* do Wojanowa: zamek (tym razem zobaczyliśmy do z tyłu, 4 budynku: oficyna, spichlerz, stajnia i chyba zamek) i sklep
-* zamek w Bobrowie
-* czarnym szlakiem rowerowym przez las do Karpnik, tak jak z nich już kiedyś wracałem
-* do zamku w Karpnikach, przerwa na jedzenie, objechaliśmy go
-* ?
-* Bukowiec?
-* znowu przerwa na jedzenie, były dobre pierogi ruskie domowej roboty
-* kupiłem miód
-* podjazd do Gruszkowa w stronę Góry Parkowej
-* gruntowy zjazd do Kowar
-* na zachód do Miłkowa, widok na Karkonosze
-* przerwa przy Pałacu Spiż(owym?)
-* przejazd obok stawów w Głebocku
-* wjechaliśmy do Sosnówki widząc Zbiornik Sosnówka
-* podjazd przed Staniszowem
-* zjazd do Cieplic, osiedle identycznych domków
-* Park Zdrojowy i wiewiórki w Parku Norweskim
-* powrót do centrum Jeleniej bocznymi drogami, a później jazda główną drogą
-* smutny podjazd do bazy
+Podjechaliśmy do Kawiarni w Artystycznej Stodole. Był tam festyn i mogłem
+najeść się lokalnie wyrobionych pierogów ruskich i popić je barszczem.
+Jeden pieróg kosztował 1zł. Jako pamiątkę kupił miód spadziowy.
+
+Ulicą Wiejską kierowaliśmy się do [Kowar][wiki-kowary].
+
+Każda z tych
+sudeckich wiosek w rzeczywistości wygląda inaczej niż sobie je wyobrażam
+patrząc na mapę. Jednym z przykładów jest gęsta zabudowa przy skrzyżowaniu
+ulicy Wiejskiej, gdzie teoretycznie powinien być szczery las.
+
+Musieliśmy trochę podjechać, niestety trud został zmarnowany gdyż zjazd
+był po drodzę gruntowej dość słabej jakości. Drogi gruntowe muszą mieć
+kamienie aby ziemia nie spłynęła po pierwszej lepszej ulewie. Ta
+droga dodatkowo była miejscami błotnista.
+
+W [Kowarach][wiki-kowary] byliśmy tylko na chwilkę. Przez [Gąskę][wiki-gaska]
+pojechaliśmy do [Miłkowa][wiki-milkow]. Przejeżdzaliśmy teraz przez płaskie
+tereny bezpośrednio pod [Karkonoszami][wiki-karkonosze].
+
+[milkow-browar]: http://palac.spiz.pl/browar
+
+W [Miłkowie][wiki-milkow] podjechaliśmy do [browaru][milkow-browar] aby
+osoby zainteresowane mogły nabyć lokalne produkty.
+
+Przejechaliśmy przez [Głębock][wiki-glebock] (i jego stawy)
+do [Sosnówki][wiki-sosnowka].
+Można powiedzieć, że dojechaliśmy do Zbiornika Sosnówka "od tyłu"
+wąską ulicą.
+Widziałem sporo nowych domów z widokiem na Zbiornik.
+
+Wracaliśmy przez [Staniszów][wiki-staniszow] tylko tym razem zamiast
+kierować się bezpośredio do centrum [Jeleniej Góry][wiki-jelenia-gora]
+jak to było [w 2014 roku]({% post_url 2014-06-21-ze-szklarskiej-poreby-przez-karpacz-do-jeleniej-gory %})
+skręciliśmy do [Cieplic][wiki-cieplice].
+
+Zaciekawiło mnie osiedle identycznie wyglądających domków w
+[Cieplicach][wiki-cieplice]. Gdy je minęliśmy czekał malutki podjazd i za nim
+już dzielnica [Jeleniej Góry][wiki-jelenia-gora].
+
+Podjechaliśmy do Parku Zdrojowego gdzie aby nie straszyć spacerujących tam
+ludzi zszedliśmy z rowerów.
+Przeszliśmy do Parku Norweskiego. Faktycznie tak jak Tomek mówił można tam bardzo
+łatwo zobaczyć wiewiórki. Wiewiórki te nie są rude ale ciemno szare.
+
+Robiliśmy się zmęczeni. Ruszyliśmy bocznymi drogami do centrum
+[Jeleniej Góry][wiki-jelenia-gora] ale nie obyło się bez jazdy głównymi
+arteriami później.
+
+Pożegnaliśmy Tomka i głodni szukaliśmy miejsca aby zjeść. Znaleźliśmy pizzerie
+gdzie przesiedzieliśmy prawie godzinę. Wychodząc z ciepłego miejsca chłod
+wieczoru był bardzo odczuwalny. Czuliśmy zmęczenie ale jednocześnie chcieliśmy
+jak najszybciej dojechać do bazy. Wiedzieliśmy że czeka nas jeszcze nasz
+ulubiony podjazd do [Dziwiszowa][wiki-dziwiszow].
