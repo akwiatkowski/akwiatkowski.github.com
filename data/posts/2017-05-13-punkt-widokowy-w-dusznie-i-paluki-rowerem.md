@@ -21,13 +21,39 @@ pois:
 
 ---
 
+[wiki-paluki]: https://pl.wikipedia.org/wiki/Pa%C5%82uki
+[wiki-mogilno]: https://pl.wikipedia.org/wiki/Mogilno
+[wiki-padniewo]: https://pl.wikipedia.org/wiki/Padniewo
+[wiki-duszno]: https://pl.wikipedia.org/wiki/Duszno
+[wiki-wydartowo]: https://pl.wikipedia.org/wiki/Wydartowo
+[wiki-chabsko]: https://pl.wikipedia.org/wiki/Chabsko
+[wiki-orchowo]: https://pl.wikipedia.org/wiki/Orchowo
+[wiki-paledzie]: https://pl.wikipedia.org/wiki/Pal%C4%99dzie_Dolne
+[wiki-jozefowo]: https://pl.wikipedia.org/wiki/J%C3%B3zefowo_(powiat_mogile%C5%84ski)
+[wiki-paledzie-koscielne]: https://pl.wikipedia.org/wiki/Pal%C4%99dzie_Ko%C5%9Bcielne
+[wiki-niestronno]: https://pl.wikipedia.org/wiki/Niestronno
+[wiki-drewno]: https://pl.wikipedia.org/wiki/Drewno_(wojew%C3%B3dztwo_kujawsko-pomorskie)
+[wiki-belki]: https://pl.wikipedia.org/wiki/Be%C5%82ki
+[wiki-chomiaza]: https://pl.wikipedia.org/wiki/Chomi%C4%85%C5%BCa_Szlachecka
+[wiki-ocwieka]: https://pl.wikipedia.org/wiki/O%C4%87wieka_(wie%C5%9B_w_wojew%C3%B3dztwie_kujawsko-pomorskim)
+[wiki-marcinkowo-gorne]: https://pl.wikipedia.org/wiki/Marcinkowo_G%C3%B3rne
+[wiki-gasawa]: https://pl.wikipedia.org/wiki/G%C4%85sawa
+[wiki-wola]: https://pl.wikipedia.org/wiki/Wola_(powiat_%C5%BCni%C5%84ski)
+[wiki-kaczkowo]: https://pl.wikipedia.org/wiki/Kaczkowo_(powiat_%C5%BCni%C5%84ski)
+[wiki-damaslawek]: https://pl.wikipedia.org/wiki/Damas%C5%82awek
+[wiki-wagrowiec]: https://pl.wikipedia.org/wiki/W%C4%85growiec
+[wiki-turza]: https://pl.wikipedia.org/wiki/Turza_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-mokronosy]: https://pl.wikipedia.org/wiki/Mokronosy
+[wiki-kaliska]: https://pl.wikipedia.org/wiki/Kaliska_(powiat_w%C4%85growiecki)
+
 Wstęp
 -----
 
-W ten weekend prognoza pogody była obiecująca. Patrząc na
-zachodni (z wschodu na zachód) kierunek wiatru chciałem ponownie odwiedzić
-[Pałuki][wiki-paluki] aby zobaczyć jak te tereny wyglądają gdy wiosna jest w pełni
-oraz aby pojeździć po małych górkach.
+Prognoza pogoda na tyn weekend była obiecująca. Przewidywany był stały wiatr ze
+wschodu na zachód co powinno być pomocne. Wpadł do mojej głowy pomysł aby ponownie
+odwiedzić [Pałuki][wiki-paluki]. Bym mógł zobaczyć jak te tereny wyglądają wiosną
+i przy okazji pojeździć po małych górkach.
 
 Opis trasy
 ----------
@@ -37,15 +63,15 @@ Opis trasy
 Szczegóły
 ---------
 
-Niestety nie mogłem ruszyć wcześniejszym pociągiem niż po 10-tej dlatego
-pojechaliśmy IC do [Mogilna][wiki-mogilno].
+Niestety nie mogłem ruszyć wcześniejszym pociągiem niż przed godziną 10-tą, dlatego
+pojechaliśmy pociągiem IC do [Mogilna][wiki-mogilno].
 
-Z [Mogilna][wiki-mogilno] mogliśmy pojechać do [Padniewa][wiki-padniewo], ale
+Z [Mogilna][wiki-mogilno] mogliśmy pojechać do [Padniewa][wiki-padniewo] ale
 wtedy ominęlibyśmy punkt widokowy w [Dusznie][wiki-duszno].
 [Całkiem niedawno]({% post_url 2017-04-16-paluckie-pagorki %}) byłem
-na nim, ale wtedy wiosny jeszcze nie było widać.
+na nim, lecz wtedy śladów wiosny jeszcze nie było widać.
 
-Postanowiliśmy że cofniemy się do [Wydartowa][wiki-wydartowo] przez
+Postanowiliśmy, że cofniemy się do [Wydartowa][wiki-wydartowo] przez
 [Chabsko][wiki-chabsko].
 
 W mieście przejechaliśmy obok Jeziora Mogileńskiego a następnie przejechaliśmy
@@ -87,7 +113,7 @@ Bardzo podobał mi się fragment trasy między [Józefowem][wiki-jozefowo] a
 [Niestronnem][wiki-niestronno]. Nie pamiętam ile było zjazdów, ale polecam
 każdemu się tutaj przejechać.
 
-W okolicy wsi [Drewno][wiki-drewno]/[Belki][wiki-belki]
+W okolicy wsi [Drewno][wiki-drewno]/[Bełki][wiki-belki]
 również był interesujący zjazd. Niestety
 od razu czekał na nas mniej interesujący podjazd. Podjazd ten wymagał zrzucenia
 przerzutki przedniej na jedynkę nawet.

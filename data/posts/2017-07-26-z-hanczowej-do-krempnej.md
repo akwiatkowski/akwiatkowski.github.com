@@ -25,6 +25,9 @@ pois:
 Wstęp
 -----
 
+Przyszedł czas na pierwszą zmianę bazy. Musieliśmy udać się teraz do
+[Krempnej][wiki-krempna] jako środkową część [Beskidu Niskiego][wiki-beskid-niski].
+
 Opis trasy
 ----------
 
@@ -32,6 +35,28 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Wyruszyliśmy z bazy chwilę przed godziną 9-tą jadąc na północ.
+Był to bardzo delikatny zjazd.
+
+Gdy dojechaliśmy do centrum [Hańczowej][wiki-hanczowa] skręciliśmy
+na wschód przejeżdzając obok cerkwi, a następnie szukając żółtego szlaku rowerowego.
+Szlak ten biednie obok
+góry [Kiczerka][wiki-kiczerka] czyli czekał nas pierwszy podjazd niecałe
+100m abyśmy skrócili sobie drogę do wsi [Skwirtne][wiki-skwirtne].
+
+Najwyższy punkt od którego rozpoczynał się zjazd był w lesie. W pewnym momencie
+musiałem zahamować gdyż z przeciwnej strony jechał samochód. Pomyślałem sobie
+"po co on tu jedzie?" tylko psuje mi dobry zjazd zmuszając do hamowania.
+
+Gdy skończył się las widzieliśmy to co jest najlepsze w [Beskidzie Niskim][wiki-beskid-niski]
+czyli zjazd przez pofalowane pola z lekkimi górami na horyzoncie.
+
+Robiąc teraz filmik i widząc jak trzęsie się kamerka zastanawiam się nad
+wymianą na jakąś ze stabilizacją obrazu.
+
+Skręciliśmy na północ gdyż jednym z naszych celów była
+[cerkiew][wiki-kwiaton-cerkiew] w [Kwiatoniu][wiki-kwiaton].
 
 TODO:
 

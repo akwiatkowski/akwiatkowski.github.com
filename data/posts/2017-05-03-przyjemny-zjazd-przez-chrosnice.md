@@ -2,12 +2,12 @@
 layout:                 post
 title:                  "Przyjemny zjazd przez Chrośnicę"
 subtitle:               "krótka pętla na pożegnanie z Górami Kaczawskimi"
-desc:                   ""
-keywords:               [jelenia]
+desc:                   "Krótka pętla jako pożegnanie z Górami Kaczawskimi i Kotliną Jeleniogórską."
+keywords:               [jelenia, chrośnica, czernica, płoszczyna, dziwiszów, poranek]
 date:                   2017-05-03 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [dolnoslaskie, jezow_sudecki, swierzawa, zlotoryja]
 lands:                  [gory_kaczawskie]
 
@@ -25,15 +25,32 @@ pois:
   - lat: 51.51285
     lon: 16.20983
     name: Żelazny Most - zbiornik odpadów związanych z wydobyciem miedzi. Niedaleko Rudny.
-      
+
 
 ---
+
+[wiki-chrosnica]: https://pl.wikipedia.org/wiki/Chro%C5%9Bnica_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-lysa-gora]: https://pl.wikipedia.org/wiki/%C5%81ysa_G%C3%B3ra_(G%C3%B3ry_Kaczawskie)
+[wiki-lubiechowa]: https://pl.wikipedia.org/wiki/Lubiechowa
+[wiki-dziwiszow]: https://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
+[wiki-czernica]: https://pl.wikipedia.org/wiki/Czernica_(powiat_jeleniog%C3%B3rski)
+[wiki-ploszczynka]: https://pl.wikipedia.org/wiki/P%C5%82oszczynka
+[wiki-jezow-sudecki]: https://pl.wikipedia.org/wiki/Je%C5%BC%C3%B3w_Sudecki
+[wiki-ploszczyna]: https://pl.wikipedia.org/wiki/P%C5%82oszczyna
+[wiki-legnica]: https://pl.wikipedia.org/wiki/Legnica
+[wiki-zlotoryja]: https://pl.wikipedia.org/wiki/Z%C5%82otoryja
+[wiki-kozow]: https://pl.wikipedia.org/wiki/Koz%C3%B3w_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+
+[turkol]: http://www.turkol.pl/
 
 Wstęp
 -----
 
-Dzień wcześniej jeszcze nie wiedziałem czy tego dnia będziemy coś robić.
-Byliśmy zmęczeni i rozważaliśmy wcześniejszy powrót do Poznania.
+Wczoraj wieczorem rozważaliśmy aby wcześniej wyruszyć w drogę powrotną.
+Byliśmy zmęczeni i wiedzieliśmy że i tak mamy mało czasu.
+
+Po przebudzeniu wróciło nam trochę siły na tyle, że chcieliśmy wykorzystać ostatnie
+2-3 godziny aby przejechać krótką trasę.
 
 Opis trasy
 ----------
@@ -43,46 +60,54 @@ Opis trasy
 Szczegóły
 ---------
 
-Musieliśmy się wyprowadzić z pokoju do godziny 12-tej. Zakładając że będziemy
-obudzeni o 8-ej, musimy wrócić, umyć się, dokończyć pakowanie to mamy
-okno czasowe między 9-tą a 11-tą godziną aby coś porobić.
+Musieliśmy się wymeldować z pokoju do godziny 12-tej. Zakładając że wstaniemy
+o godzinie 8-ej a musimy wrócić, umyć się, dokończyć pakowanie, to mamy
+okno czasowe między 9-tą a 11-tą godziną aby pojeździć.
 
-Najsensowniejsza była pętla przez [Chrośnicę][wiki-chrosnica] gdyż ta trasa miała
-by mieć trochę ponad 20km.
+Najsensowniejszą opcją była pętla przez [Chrośnicę][wiki-chrosnica].
+Planowana trasa powinna mieć nieznacznie ponad 20km długości.
 
-Rano nie mieliśmy dużo siły, ale jednak warto było wykorzystać ostatni dzień.
-Zobaczyłem na googlach, że lepiej podjechać do przełęczy obok [Łysej Góry][wiki-lysa-gora].
+Rano nie mieliśmy dużo siły, ale jednak warto by było wykorzystać ostatni dzień.
+Zobaczyłem na mapach google że lepszym rozwiązaniem jest
+podjechać do przełęczy obok [Łysej Góry][wiki-lysa-gora].
 Zjazd będzie delikatniejszy i znacznie dłuższy. Jak się nie mylę
-miało być to około 12km lekkiego, jak na te tereny, zjazdu.
+miało być około 12km lekkiego, jak na te tereny, zjazdu.
+
+{% post_image "medium","IMGP6019raw1.jpg","Konie w Janówku" %}
 
 Z przełęczy zjechaliśmy podobnie jak
 [pierwszego dnia]({% 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego %}) na skrzyżowanie do [Lubiechowej][wiki-lubiechowa] i
-[Chrośnicy][wiki-chrosnica], ale tym razem skręciliśmy mocniej w lewo
-do wspomnianej [Chrośnicy][wiki-chrosnicy].
+[Chrośnicy][wiki-chrosnica] ale tym razem skręciliśmy mocniej w lewo
+do wspomnianej [Chrośnicy][wiki-chrosnica]. Jest to raczej oczywiste.
 
 Trochę mniej byłem zadowolony z pogody. Rano podczas robienia kanapek jeszcze
-było słonecznie, teraz było pochmurno, nawet mgliście.
+było słonecznie, gdy ruszaliśmy zrobiło się pochmurno, nawet
+lekko mgliście.
 
 Podczas tak fajnego zjazdu trudno zatrzymywać się i robić zdjęcia. Z tego powodu
 nagrywam i później jak przerobię filmik będę mógł coś więcej opowiedzieć o
-częście zjazdowej. Teraz mogę tylko każdemu ją polecić.
+części zjazdowej.
 
-Aby szybko wrócić do [Dziwiszowa][wiki-dziwiszów] należy w odpowiednim miejscu
+Aby szybko wrócić do [Dziwiszowa][wiki-dziwiszow] należy w odpowiednim miejscu
 skręcić w [Czernicy][wiki-czernica]. Jak się nie mylę miejsce to jest obok kościoła.
-W innym wypadku pojedzie się przez [Płoszczynkę][wiki-ploszczynka] do
+W innym wypadku dojedzie się przez [Płoszczynkę][wiki-ploszczynka] do
 [Jeżowa Sudeckiego][wiki-jezow-sudecki].
 
-Teraz rozpoczął się najtrudniejszy fragment trasy - podjazd. O tyle do
-[Płoszczyny][wiki-ploszczyna] podjazd był całkiem delikatny, ale dalej
-zrobiło się gorzej. Chociaż najgorszy jest i tak fragment podjazdu do bazy.
+{% post_image "medium","IMGP6047raw1.jpg","Zjazd do Dziwiszowa" %}
 
-Podjeżdzając miałem więcej czasu na robienie zdjęcia, chociaż nie miałem
-pomysłów i ochotę. W końcu trochę się spieszyliśmy a akurat wtedy miałem
-obiektyw szerokokątny. Chyba lepszy byłby mój stałoogniskowy 70mm.
+Teraz rozpoczął się dla nas najtrudniejszy fragment trasy - podjazd. O tyle do
+[Płoszczyny][wiki-ploszczyna] podjazd był całkiem delikatny to później
+był on trudniejszy. Chociaż najgorszy jest i tak fragment podjazdu do naszej
+bazy w [Dziwiszowie][wiki-dziwiszow].
+
+Podjeżdzając miałem więcej czasu na robienie zdjęcia, lecz nie miałem
+pomysłów i ochoty. W końcu trochę się spieszyliśmy a akurat w tym momencie miałem
+założony obiektyw szerokokątny. Może lepszy byłby obiektyw bardziej normalny
+niż szerokokątny.
 
 Ostatni podjazd do bazy sprawił mi mniej problemów niż w czasie poprzednich dni.
 Nie wiem czemu. Może dlatego że wiedziałem, że po nim będzie już ostateczny
-koniec tego wyjazdu. A może dlatego że nie byłem zmęczony długą trasą.
+koniec tego wyjazdu, a może dlatego że nie byłem zmęczony długą trasą.
 
 Powrót
 ------
@@ -92,13 +117,19 @@ Trochę po 12-tej wyruszyłem z Maciejem samochodem do Poznania.
 Okazało się, że prawie idealnie będziemy w miejscowości przejazdu pociągu
 [TurKolu][turkol] na trasie [Legnica][wiki-legnica]-[Złotoryja][wiki-zlotoryja].
 
+{% post_image "medium","IMGP6097raw1.jpg","Parowóz dojeżdzający do Kozowa" %}
+
 Zatrzymaliśmy się w [Kozowie][wiki-kozow]. Bardzo mi się podobała okolica tej
-stacji. Pola kwitnącego rzepaku sprawiały specyficzny miły klimat tego miejsca.
+stacji. Pola kwitnącego rzepaku tworzyły specyficzny miły klimat.
 
 Za około 25 minut miał przyjechać pociąg parowy. Poczekaliśmy na niego.
-Oczywiście zrobiłem mu zdjęcia, ale jestem średnio zadowolony. Wolałem zobaczyć
-z zewnątrz jak jedzie niż koniecznie jakieś dobre zdjęcie zrobić.
+Oczywiście zrobiłem mu zdjęcia ale jestem średnio zadowolony. Wolałem zobaczyć
+z zewnątrz jak jedzie niż koniecznie zrobić jakieś dobre zdjęcie.
+
+{% post_image "medium","IMGP6108raw1.jpg","Parowóz wyruszył do Złotoryi" %}
 
 Ruszyliśmy dalej. Nie będę opisywał całej trasy, ale oprócz większych miast
 to jechaliśmy głównie pobocznymi drogami. Większość trasy chętnie przejechałbym
 kiedyś rowerem.
+
+{% post_image "medium","IMGP6112raw1.jpg","Linia kolejowa przebiega wzdłuż drogi do Legnicy" %}

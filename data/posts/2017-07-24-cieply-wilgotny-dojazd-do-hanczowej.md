@@ -25,6 +25,11 @@ pois:
 Wstęp
 -----
 
+Będąc [na chwilę]({% post_url 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy %})
+w [Beskidzie Niskim][wiki-beskid-niski] w 2016 roku chciałem ponownie zawitać w te
+strony. Duża odległość od Poznania wymaga zaplanowania dłuższej wycieczki,
+którą dopiero teraz udało się zrealizować.
+
 Opis trasy
 ----------
 
@@ -32,6 +37,88 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Wyruszliśmy pociągiem z Poznania po godzinie 22-giej. W naszym przedziale
+jechał człowiek wracający z chyba [Międzyzdroi][wiki-miedzyzdroi] do
+[Ostrowa Wielkopolskiego][wiki-ostrow-wielkopolski]. Chciał pojechać za jednym
+razem z miejscowości rodzinnej nad [Morze Bałtyckie][wiki-morze-baltyckie] i się
+mu udało to zrealizować.
+
+Ledwo udawało nam się spać a mieliśmy całą jechać pociągiem. Przed godziną 7
+byliśmy w [Krakowie][wiki-krakow] gdzie miałem problem z kupnem biletów z przewozem
+rowerów. W pociągu takich problemów nie było i oprócz naszych rowerów nie pamiętam
+aby ktokolwiek jeszcze nim jechał, chyba że w drugiej cześci pociągu.
+
+W [Grybowie][wiki-grybow] wysiedliśmy z pociągu około gidziny 8-ej. Pisząc ten
+wpis jest już wrzesień i widzę, że w tym momencie jest zastępcza komunikacja
+autobusowa.
+
+Musieliśmy przejechać przez centrum [Grybowa][wiki-grybow] aby opuścić tą miejscowość
+ruszając ulicą Zdrojową. Na niej jest oznaczony czerwony szlak rowerowy i
+niebieski szlak pieszy.
+
+Czekał na nas długi, lekko stromy podjazd, którego celem była drewniana kaplica
+usytuowana na wzgórzu. Z tego miejsca mieliśmy bardzo ładny widok na okoliczne
+miejscowości.
+
+[wiki-chelm]: https://pl.wikipedia.org/wiki/Che%C5%82m_(Beskid_Niski)
+
+Chcieliśmy przejechać czerwonym szlakiem rowerowym pod [Chełmem][wiki-chelm]
+jednak ilość błota na początku mnie przeraził. Ja wiem "że można" tylko po co
+się męczyć i brudzić, a zwłaszcza brudzić hamulce tarczowe. One się nam jeszcze
+przydadzą na tym wyjeździe. Dlatego wróciliśmy w kierunku kapliczki i zjechaliśmy
+do drogi 28.
+
+Sam zjazd był stosunkowo lekki. Podczas zjazdu zauważyłem nowe domy mieszkalne.
+Bardzo ciekawe miejsce aby się osiedlić - idealny widok za cenę utrudnionego
+dojazdu zimą.
+
+Droga 28 jest położona tylko 70m poniżej kapliczki. Kierowaliśmy się do
+[Ropy][wiki-ropa] do której mieliśmy dwa razy większy zjazd. Miejscowość ta
+położona jest 140m poniżej skrzyżowania z drogą 28, a 210m poniżej kapliczki
+do której tak mozolnie podjeżdzaliśmy.
+
+Musieliśmy chwilę poczekać gdyż był jakiś wypadek i ruch był prowadzony
+wahadłowo.
+
+W [Ropie][wiki-ropa] skręciliśmy na południe jadąc już spokojniej na
+skrzyżowanie dróg pod górą [Kiczera Zdzar][wiki-kiczera-zdzar]. Robiliśmy się
+głódni dlatego zaproponowałem aby się udać do łowiska pstrąga w
+miejscowości [Łosie][wiki-losie]. Jak się okazało restauracja jest otwierana
+o godzinie 12-tej (może o 11-tej) a my byliśmy niecałą godzinę przed otwarciem.
+
+Mając trochę czasu pojechaliśmy pod zaporę gdzie porozmawialiśmy z osobą
+przyjeżdzającą tutaj często. Pan ten pamiętał istnienie ośrodka wypoczynkowego,
+ktory został zamknięty po wybudowaniu zapory. Jadąc widzieliśmy opuszczone
+budynki i teraz rozumiemy już dlaczego są one opuszczone.
+
+Po zjedzeniu pstrąga wracaliśmy aby skręcić do [Klimkówki][wiki-klimkowka].
+Tutaj czekał na nas drugi podjazd. Pogoda tego dnia zaczęła już nas męczyć i
+razem z brakiem snu niektórzy szybciej się denerwowali. Wiedziałem o tym,
+że każdy podjazd się kiedyś kończy, a ten miał tylko 50m przewyższenia.
+
+Zmęczenie nie pozwoliło odpowiednio podziwiać przejazdu obok
+[Jeziora Klimkówki][wiki-klimkowka-jezioro] ale udało mi się
+nagrać ostatni zjazd przed dojazdem do [Uścia Gorlickiego][wiki-uscie-gorlickie].
+
+Opuszczając jechaliśmy wijącą się drogą pośrodku całkowicie zielonych gór.
+Czuć było dzikość okolicy kontrastującą z ruchem samochodów dostawczych, prawdopodobnie
+do [Wysowej][wiki-wysowa].
+
+Podczas jazdy zauważyłem ciekawą miejsce. Skręciłem i zrobiłem kilka zdjęć.
+
+Reszta dojazdu do bazy w [Hańczowej][wiki-hanczowa] przebiegła bez niczego
+nadzwyczajnego.
+
+W bazie niestety mieliśmy dość mały pokój lecz takie problemy nie są istotne na wyjeździe.
+
+
+
+
+
+
+
+
 
 TODO:
 

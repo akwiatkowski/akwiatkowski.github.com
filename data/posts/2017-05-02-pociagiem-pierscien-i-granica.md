@@ -38,7 +38,7 @@ pois:
 [wiki-turoszow]: https://pl.wikipedia.org/wiki/Turosz%C3%B3w
 [wiki-turow]: https://pl.wikipedia.org/wiki/Elektrownia_Tur%C3%B3w
 [wiki-luban]: https://pl.wikipedia.org/wiki/Luba%C5%84_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
-[wiki-dziwiszow]
+[wiki-dziwiszow]: https://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
 
 Wstęp
 -----
