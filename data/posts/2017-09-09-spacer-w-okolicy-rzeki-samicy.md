@@ -4,7 +4,7 @@ title:                  "Spacer w okolicy rzeki Samicy"
 subtitle:               ""
 desc:                   ""
 keywords:               [stęszew, samica, rzeka]
-date:                   2017-08-15 16:00:00
+date:                   2017-09-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, todo]

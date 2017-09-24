@@ -4,7 +4,7 @@ title:                  "Z Gniezna do Środy Wielkopolskiej"
 subtitle:               "spokojna, poranna przejażdżka"
 desc:                   ""
 keywords:               [gniezno, września, gród grzybowo, wielkopolska]
-date:                   2017-08-15 16:00:00
+date:                   2017-08-26 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, todo]
