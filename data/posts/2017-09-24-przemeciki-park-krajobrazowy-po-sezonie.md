@@ -8,7 +8,7 @@ date:                   2017-09-24 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, todo]
-towns:                  [wielkopolskie]
+towns:                  [wielkopolskie, wloszakowice, wijewo]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 distance:               37

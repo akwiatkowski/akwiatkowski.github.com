@@ -86,7 +86,8 @@ kilkunastu minut. Rozważałem nawet aby następnego dnia pojechać w to miejsce
 Nie zrobiłem tego, nie miałem czasu, nie chciało mi się, praca i inne sensowne
 wytłumaczenia się pojawiły.
 
-
+Wróciłem przez [Kowalewko][wiki-kowalewko] gdyż nie byłem pewien czy
+zdążyłbym dojechać do [Obornik][wiki-oborniki].
 
 
 TODO:
