@@ -2,12 +2,12 @@
 layout:                 post
 title:                  "Krótka ucieczka w stronę Obornik Wielkopolskich"
 subtitle:               "wyjazd z Poznania, wkroczenie w bardzo spokojne wioski i ponowne spotkanie z Doliną Samicy"
-desc:                   ""
-keywords:               [samica, oborniki, wargowo]
+desc:                   "Jest to kolejny przykład tego, że mając godzinę można wydostać się rowerem z miejskiem dżungli. Tego dnia wyruszyłem z Poznania na północ w stronę Rokietnicy aby jeszcze pojeździć przed nadchodzącym końcem sezonu."
+keywords:               [rokietnica, samica, oborniki, wargowo, żydowo]
 date:                   2017-09-19 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, oborniki]
 
 coords:                 [{"route": [[52.51209,16.74139], [52.53851,16.75984], [52.54718,16.75401], [52.55182,16.77435], [52.58177,16.75855], [52.59058,16.77933], [52.59767,16.76516], [52.59053,16.77967], [52.58344,16.78765], [52.58844,16.82653], [52.58088,16.82782], [52.58020,16.82310]], "type": "bicycle"}]
@@ -27,9 +27,24 @@ pois:
 ---
 
 
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-kiekrz]: https://pl.wikipedia.org/wiki/Kiekrz_(Pozna%C5%84)
+[wiki-rokietnica]: https://pl.wikipedia.org/wiki/Rokietnica_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-rostworowo]: https://pl.wikipedia.org/wiki/Rostworowo
+[wiki-zydowo]: https://pl.wikipedia.org/wiki/%C5%BBydowo_(powiat_pozna%C5%84ski)
+[wiki-sepno]: https://pl.wikipedia.org/wiki/Sepno_(powiat_obornicki)
+[wiki-nieczajna]: https://pl.wikipedia.org/wiki/Nieczajna
+[wiki-rzeka-samica]: https://pl.wikipedia.org/wiki/Samica_Kierska
+[wiki-kowalewko]: https://pl.wikipedia.org/wiki/Kowalewko_(powiat_obornicki)
+[wiki-objezierza]: https://pl.wikipedia.org/wiki/Objezierze_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-oborniki]: https://pl.wikipedia.org/wiki/Oborniki
+[wiki-wargowo]: https://pl.wikipedia.org/wiki/Wargowo_(wojew%C3%B3dztwo_wielkopolskie)
+
 Wstęp
 -----
 
+Wrześniowa pogoda bardzo zniechęcała mnie do jeżdzenia. Od kilku dni wyjątkowo
+była ona na tyle dobra, że trudno nie było sobie zrobić chwily przerwy w środku dnia.
 
 Opis trasy
 ----------
@@ -41,12 +56,14 @@ Szczegóły
 
 Nie korzystałem z dojazdu pociągiem dlatego najpierw musiałem wyjechać z
 [Poznania][wiki-poznan]. Pisałem to wiele razy i powtórzę - nie lubię jeździć
-po mieście, nie lubię dojeżdzać również do stacji, tylko inaczej się nie da.
+po mieście, nie lubię dojeżdzać również do stacji, tylko inaczej się niestety da
+dostać w nowe miejsca.
 
-Wyjeżdzając z [Kiekrza][wiki-kiekrz] ruch się uspokoił ale i tak tereny te nie
-są dla mnie nowe jak i nie są interesujące.
+Wyjeżdzając z [Kiekrza][wiki-kiekrz] ruch samochodowy się uspokoił ale i
+tak tereny te nie
+są dla mnie ani nowe ani interesujące.
 
-W [Rokietnicy][wiki-rokietnica] byłem już kilka raz ale tym razem na skrzyżowaniu
+W [Rokietnicy][wiki-rokietnica] byłem już kilka razy lecz razem na skrzyżowaniu
 pojechałem w zupełnie innym kierunku - na północny-wschód w stronę
 [Rostworowa][wiki-rostworowo]. Powoli wkraczałem w ciekawsze tereny.
 
@@ -55,53 +72,52 @@ kiedyś byłem. W 2014 roku
 [przejechałem się do Szamotuł]({% post_url 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul %})
 zielonym szlakiem rowerowym.
 
-[Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] to bardzo spokojne wioski.
-Wiele razy mówiłem że to są moje ulubione tereny. Są one blisko a pozwalają
+{% post_image "medium","IMGP0550raw1.jpg","Wieś Żydowo" %}
+
+[Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] to bardzo spokojne wsie.
+Wiele razy pisałem, że miejsca jak te wsie to są moje ulubione tereny
+do jeżdzenia rowerem. Są one z jednej strony blisko a jednocześnie pozwalają
 na umysłową ucieczkę z "dużego miasta".
 
 Tym razem w [Żydowie][wiki-zydowo] skręciłem w prawo i ubitą drogą gruntową dojechałem
-do [Sepna][wiki-sepno]. Jechałem moją niby-szosówką dlatego lekko się ucieszyłem
-gdy po 2km mogłem jechać asfaltem.
+do [Sepna][wiki-sepno]. Jechałem moją niby-szosówką dlatego trochę się ucieszyłem
+gdy po dwóch kilometrach mogłem już jechać po asfalcie.
 
 Skręciłem na północ jadąc do [Nieczajny][wiki-nieczajna] widząc delikatną zmianę
 ukształtowania terenu. Po prawej było jakieś obniżenie terenu - dolina rzeki. Jak
 później sprawdziłem była to dolina rzeki [Samicy][wiki-rzeka-samica].
 Co ciekawe
 [10 dni]({% post_url 2017-09-09-spacer-w-okolicy-rzeki-samicy %})
-temu spacerowałem również w okolicy doliny tej rzeki.
+temu spacerowałem również w okolicy doliny rzeki albo tej samej albo o tej
+samej nazwie.
+
+{% post_image "medium","IMGP0562raw1.jpg","Jadąc w stronę Nieczajny" %}
 
 W [Kowalewku][wiki-kowalewko] skręciłem w lewo jadąc w stronę [Objezierza][wiki-objezierza].
-Byłem w tym momencie w moich ulubionych terenach ale patrząc na godzinę
+Byłem w tym momencie w moich ulubionych terenach ale patrząc na czas
 zacząłem się zastanawiać nad powrotem. Wiedziałem o której godzinie rusza
 pociąg z [Obornik][wiki-oborniki] i że mam do niego 20 minut. Wiedziałem że
-10 minut później będzie on zatrzymywał się w [Wargowie][wiki-wargowo].
+10 minut później będzie się on zatrzymywał w [Wargowie][wiki-wargowo].
 W tym momencie
 chciałem przejechać [Objezierze][wiki-objezierza] i zrobić zdjęcie
-jeziorom, które są trochę na zachód.
+jeziorom. Są one położone trochę na zachód od wsi.
 
 Gdy minąłem mały las z lewej strony ukazał mi się widok na jeziora
 niedaleko [Objezierza][wiki-objezierza]. Zatrzymałem się aby zrobić kilka zdjęć
-i zacząłem bardziej zastanawiać się nad powrotem już teraz, aby mieć rezerwę
-kilkunastu minut. Rozważałem nawet aby następnego dnia pojechać w to miejsce.
+i zacząłem solidniej zastanawiać się aby wracać już teraz, by
+nie być na ostatnią chwilę.
+Rozważałem nawet aby następnego dnia pojechać w to miejsce.
 Nie zrobiłem tego, nie miałem czasu, nie chciało mi się, praca i inne sensowne
 wytłumaczenia się pojawiły.
 
+{% post_image "medium","IMGP0566raw1.jpg","Wieś Nieczajna" %}
+
 Wróciłem przez [Kowalewko][wiki-kowalewko] gdyż nie byłem pewien czy
-zdążyłbym dojechać do [Obornik][wiki-oborniki].
+zdążyłbym dojechać do [Obornik][wiki-oborniki] a akurat tego dnia nie
+mogłem sobie pozwolić na spóźnienie. Jakoś zbyt często ten czas mnie tak goni.
 
-
-TODO:
-
-* najgorszy fragment to wyjazd z Poznania
-* dopiero za Kiekrzem ruch się uspokoił
-* wyjeżdzając z Rokietnicy klimat zmieniał się z podmiejskiego na wiejski
-* Rostworowo/Żydowo - spokojna, fajna wioska
-* przez Żydowo się jedzie do Szamotuł
-* jazda po twardej drodze gruntowej do Sępna
-* jazda na północ, po lewej teren nieznacznie wyżej, po prawej dolina Samicy
-* jakieś suche drzewa, stogi
-* Kowalewko - skrzyżowanie 5 dróg w centrum wioski, praktycznie zerowy ruch
-* dojechałem pod Objezierze widząc zbiorniki wodne
-* czasu nie miałem dużo
-* wracałem do Wargowa, wjechałem w Wargowo Drugie i musiałem
-* dojechać do drogi 11 gdyż stacja PKP jest trochę na południe
+Wracając wjechałem w [Wargowo Drugie][wiki-wargowo] gdyż nie byłem
+pewien którą drogą szybciej dojadę na przystanek kolejowy. Dojechałem do
+drogi 11-tki i tam pasem pobocza jechałem na południe. Miałem jeszcze chwilę i
+kupiłem coś do jedzenia na drogę powrotną w pociągu.
+Dworzec kolejowy był 200 metrów obok.
