@@ -6,7 +6,7 @@ date:                   2014-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff"
 categories:             trip
-tags:                   [main, bicycle, coast, panniers, best, todo_media_later]
+tags:                   [main, bicycle, coast, panniers, best, todo_media_later, photo_of_the_year]
 towns:                  [zachodnio_pomorskie, dziwnow, rewal, trzebiatow, kolobrzeg, ustronie_morskie]
 lands:                  [wybrzeze_trzebiatowskie, wybrzeze_slowinskie]
 

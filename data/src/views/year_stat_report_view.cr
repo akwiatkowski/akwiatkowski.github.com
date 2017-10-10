@@ -10,7 +10,7 @@ class YearStatReportView < PageView
     @posts = @blog.post_collection.posts.select { |p| p.time.year == @year }.as(Array(Tremolite::Post))
     @image_url = generate_image_url.as(String)
     @title = "#{@year}"
-    @subtitle = "Podsumowanie roku #{@year}"
+    @subtitle = "Podsumowanie roku #{@year}, czyli #{hours.to_i} godzin i #{distance.to_i} kilometrów w terenie"
     @url = "/year/#{@year}"
   end
 
@@ -171,8 +171,14 @@ class YearStatReportView < PageView
   end
 
   private def generate_image_url
-    return @posts.select { |p| true }.sort { |a, b|
-      b.distance.not_nil! <=> a.distance.not_nil!
-    }.first.image_url
+    # selected posts with proper tag
+    posts_photo_of_the_year = @posts.select { |p| p.tags.not_nil!.includes?(Tremolite::Post::PHOTO_OF_THE_YEAR) }
+    # or longest self propelled trip
+    if posts_photo_of_the_year.size == 0
+      posts_photo_of_the_year = @posts.select { |p| p.self_propelled? }.sort { |a, b|
+        b.distance.not_nil! <=> a.distance.not_nil!
+      }
+    end
+    return posts_photo_of_the_year.first.image_url
   end
 end

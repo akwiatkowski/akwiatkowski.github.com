@@ -27,6 +27,8 @@ class Tremolite::Post
   TRAIN_TAG   = "train"
   CAR_TAG     = "car"
 
+  PHOTO_OF_THE_YEAR = "photo_of_the_year"
+
   TODO_TAG = "todo"
   TODO_MEDIA_TAG = "todo_media"
 
