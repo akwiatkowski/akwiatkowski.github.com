@@ -2,12 +2,12 @@
 layout:                 post
 title:                  "Z Nowego Tomyśla przez okolice Sierakowa do Wronek"
 subtitle:               "połączenie dzikich asfaltowych dróg z pagórkami Sierakowskiego Parku Krajobrazowego"
-desc:                   ""
-keywords:               []
+desc:                   "Nigdy nie wiadomo jaka będzie trasa przed jej przejazdem. Czasami coś mało ciekawego może okazać się czymś wyjątkowym. Tego dnia odkryłem trasę, którą polecam każdemu. Ruch samochodów praktycznie nie występuje."
+keywords:               [nowy tomyśl, sieraków, lwówek, rzepak, zielony, wiosna, chodobczyce, mościejewo, lutom, chrzypsko]
 date:                   2017-05-14 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, nowy_tomysl, lwowek, kwilicz, chrzypsko_wielkie, sierakow, wronki]
 
 coords:                 [{"route": [[52.30405,16.12830], [52.31691,16.13697], [52.33878,16.16375], [52.37888,16.17817], [52.38548,16.17817], [52.41120,16.19765], [52.44741,16.17740], [52.44935,16.17989], [52.46509,16.16255], [52.47309,16.16195], [52.48919,16.13199], [52.49787,16.16607], [52.50811,16.16761], [52.51093,16.16504], [52.51955,16.16529], [52.53192,16.18469], [52.55541,16.17474], [52.55833,16.16753], [52.56282,16.17096], [52.58280,16.14701], [52.60016,16.14624], [52.60407,16.15019], [52.61632,16.15251], [52.62653,16.14221], [52.64101,16.16924], [52.63065,16.21714], [52.62716,16.21894], [52.63122,16.25490], [52.62549,16.25808], [52.64388,16.29275], [52.66595,16.30932], [52.67152,16.30237], [52.69067,16.33258], [52.69712,16.35747], [52.70706,16.36992], [52.70498,16.38545]], "type": "bicycle"}]
@@ -44,7 +44,8 @@ pois:
 [wiki-wronki]: https://pl.wikipedia.org/wiki/Wronki
 [wiki-chrzypsko-wielkie]: https://pl.wikipedia.org/wiki/Chrzypsko_Wielkie
 [wiki-lucjanowo]: https://pl.wikipedia.org/wiki/Lucjanowo
-
+[wiki-chmielinko]: https://pl.wikipedia.org/wiki/Chmielinko
+[wiki-kolej-363]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_363
 
 Wstęp
 -----
@@ -53,8 +54,8 @@ Wstęp
 przejechałem 85km rowerem.
 Z tego powodu miałem mniejszą ochotę na jazdę w niedzielę, chciałem odpocząć.
 
-Trasę wymyśliłem wieczorem uwzględniając pogodę, aby wiatr nam nie utrudniał.
-Nie przewidywałem, że tak bardzo mi się spodoba.
+Trasę wymyśliłem wieczorem uwzględniając pogodę, aby wiatr nam nie utrudniał jazdy.
+Nie przewidywałem że te tereny tak bardzo mi się spodobają.
 
 Opis trasy
 ----------
@@ -67,8 +68,10 @@ Szczegóły
 Wysiedliśmy w [Nowym Tomyślu][wiki-nowy-tomysl] i po zakupienie zapasów na
 drogę ruszyliśmy drogą do [Starego Tomyśla][wiki-stary-tomysl].
 
+{% post_image "medium","IMGP6323raw1.jpg","Wyjeżdzając ze Starego Tomyśla" %}
+
 Jechaliśmy niebieskim szlakiem rowerowym.
-[Nowy Tomyśl][wiki-nowy-tomysl] nie jest dużym miastem, ale jest na tyle duże,
+[Nowy Tomyśl][wiki-nowy-tomysl] nie jest dużym miastem ale jest na tyle duże,
 że przestaje być dla mnie tak ciekawe. Trasa wyjazdowa wyglądała jak tereny
 podmiejskie.
 
@@ -76,7 +79,7 @@ Do [Starego Tomyśla][wiki-stary-tomysl] dojechaliśmy ścieżką rowerową po
 rozebranej kolei wąskotorowej. Ruszyliśmy normalną drogą regionalną
 na północ wyjeżdzając z tej miejscowości.
 
-Niebieski szlak rowerowy skręcał na lewo, ale według mapy prowadził on
+Niebieski szlak rowerowy skręcał na lewo ale według mapy prowadził on
 przez bardziej gruntowe drogi. Obawiam się takich szlaków rowerowych
 przez gęsty las. Widokowo często nie są tak atrakcyjne, a porusza się po
 nich znacznie wolniej.
@@ -84,33 +87,38 @@ nich znacznie wolniej.
 Zaciekawiła mnie miejscowość [Kozie Laski][wiki-kozie-laski]. Nie jechaliśmy tam,
 ale według mapy ta wieś powinna być położona na górce.
 
+{% post_image "medium","IMGP6329raw1.jpg","Zjazd do Lwówka" %}
+
 Jechaliśmy na północ kierując się w stronę [Wytomyśla][wiki-wytomysl].
 Wkroczyliśmy w las co jakiś czas mijając domy. Przed przejazdem pod autostradą
 A2 zastanawiałem się czy jeden z położonych blisko domów ma odpowiednią izolację
 przed hałasem.
 
-Do [Lwówka][wiki-lwowek] mieliśmy 10km. Las dość szybko się skończył.
+Do [Lwówka][wiki-lwowek] mieliśmy jeszcze 10km. Las dość szybko się skończył.
 [Wytomyśl][wiki-wytomysl] pokazał już nam w jakie tereny wkroczyliśmy.
 Bliskość autostrady nie przeszkadza w istnieniu tak spokojnych miejscowości.
 Do tego jak się nie mylę jest tam ładny kościół w centrum wsi.
 
 Bardzo mi się spodobała wieś [Chmielinko][wiki-chmielinko].
 
-Rozpoczał się delikatny (czym jest 20 metrów w górę po jeździe w górach?)
+Rozpoczał się delikatny (czym jest 20 metrowy podjazd po wyjeździe w góry?)
 podjazd do [Małej Lipki][wiki-mala-lipka]. Mogę się mylić w którym miejscu
-dokładniej był najwyższy punkt, ale ważne jest że rozpoczął się bardzo
+dokładniej był najwyższy punkt ale ważne jest, że rozpoczął się bardzo
 fajny zjazd.
 
-Gdy przerobię filmiki z tego wyjazdu może coś napiszę więcej o tych terenach.
+{% post_image "medium","IMGP6344raw1.jpg","Piaszczysta droga niedaleko Chudobczyc" %}
 
 W [Lwówku][wiki-lwowek] zrobiliśmy sobie przerwę na rynku po kolejną część zapasów.
 Wyjeżdzając musieliśmy przejechać przez drogę nr 92.
 Jechaliśmy do miejscowości [Linie][wiki-linie].
 
-Musieliśmy skręcić w prawi i jechać drogą gruntową do [Chudobczyc][wiki-chudobczyce].
+Musieliśmy skręcić w prawo i jechać drogą gruntową do [Chudobczyc][wiki-chudobczyce].
 Jest to jedna z tych miejscowości gdzie człowiek czuje maksymalną
-dzicz. Dowodem jest stara tablica miejscowości pomalowana zgodnie z wcześniejszym
-stylem. Dziwne że w odległości 5km jest droga nr 24.
+izolację od dużego miasta.
+Dowodem jest stara tablica miejscowości pomalowana zgodnie z wcześniejszym
+stylem. Co ciekawe w odległości 5km jest droga nr 24.
+
+{% post_image "medium","IMGP6348raw1.jpg","Centrum Chudobczyc" %}
 
 Ruszyliśmy dalej w stronę [Lubosza][wiki-lubosz]. Tereny te zaczeły mi się mocno
 kojarzyć z
@@ -118,38 +126,52 @@ kojarzyć z
 Dzisiejsza trasa bardzo mi się podobała, ale zacząłem się obawiam burzy która
 gdzieś na północy się pojawiła.
 
-[wiki-kolej-363]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_363
+{% post_image "medium","IMGP6357raw1.jpg","Pola niedaleko Lubosza" %}
 
-Przejechaliśmy po torach [linii kolejowej 363][wiki-kolej-363]. Linia ta miała
+Przejechaliśmy przez tory [linii kolejowej 363][wiki-kolej-363]. Linia ta miała
 zostać zlikwidowana, jednak po staraniach różnych środowisk pojawiła się
 szansa na rewitalizację po roku 2020-tym.
 
 W [Luboszu][wiki-lubosz] minęliśmy drogę nr 24 i zaczęliśmy powoli zbliżać się
 do [Sierakowskiego Parku Krajobrazowego][wiki-park-sierakow].
-Okoliczne tereny cały czas miały swój klimat, zwłaszcza pola kwitnącego rzepaku.
+Okoliczne tereny cały czas miały swój klimat, a pola kwitnącego rzepaku
+dodawały uroku.
 
-Może coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
+{% post_image "medium","IMGP6359raw1.jpg","Stóg w rzepaku" %}
+
+Może kiedyś coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
 drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewo]
-podczas zjazdu musiałem uważać na wiewiórkę która była na drodzę. Wokół
+podczas zjazdu musiałem uważać na wiewiórkę gdyż była ona na drodzę. Wokół
 jest trochę zbiorników wodnych.
+
+{% post_image "medium","IMGP6365raw1.jpg","Jezioro w Mościejewie" %}
 
 Ponownie czekał na nas nie za długi podjazd. Mielśmy idealny widok na
 okolice Jeziora Lutomskiego i okoliczne pagórki. Naprzeciwko nas na północ
-zbierała się burza pod postacią bardzo ciemnych chmur. Błysków nie widziałem,
+zbierała się burza pod postacią bardzo ciemnych chmur. Błysków nie widziałem
 ale grzmoty było delikatnie słychać.
 
-Zaskoczył mnie gwałtowny zjazd, a podjazd po nim już był bardziej
+{% post_image "medium","IMGP6369raw1.jpg","Pole rzepaku" %}
+
+Zaskoczył mnie gwałtowny zjazd, podjazd po nim już był bardziej
 przewidywalny.
 
 W [Lutomiu][wiki-lutom] skręciliśmy w stronę drogi 133 i przez
 [Ryżyn][wiki-ryzyn] jechaliśmy do [Wronek][wiki-wronki].
 
-W [Chrzypsku Wielkim][wiki-chrzypsko-wielki] zrobiliśmy przerwę na jedzenie.
+{% post_image "medium","IMGP6384raw1.jpg","Przed burzą" %}
+
+W [Chrzypsku Wielkim][wiki-chrzypsko-wielkie] zrobiliśmy przerwę na jedzenie.
 Analizując opcje powrotu pociągiem i patrząc na niepewną pogodę postanowiliśmy
 sprawnie ruszyć już na powrotny pociąg.
 
-Trasę tą opisałem już [tutaj]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %}).
+{% post_image "medium","IMGP6390raw1.jpg","Stacja w Ryżynie" %}
+
+Trasę tą opisałem [tutaj]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %})
+gdyż już tutaj jechałem rowerem.
 
 Przejeżdzając przez okolice [Łucjanowa][wiki-lucjanowo] widzieliśmy ślady
-ulewy, która tutaj niedawno przeszła. Mieliśmy sporo szczęścia gdyż się z nią
+ulewy, która niedawno przeszła. Mieliśmy sporo szczęścia gdyż się z nią
 nie spotkaliśmy.
+
+{% post_image "medium","IMGP6391raw1.jpg","Deszcz który nas nie złapał" %}
