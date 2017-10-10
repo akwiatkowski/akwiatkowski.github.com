@@ -11,9 +11,9 @@ tags:                   [hike, todo]
 towns:                  [wielkopolskie, wloszakowice, wijewo]
 
 coords:                 [{"route": [[51.96051,16.33642], [51.95390,16.33771], [51.93638,16.29265], [51.94009,16.25918], [51.93088,16.25703], [51.91945,16.28973], [51.92950,16.28836], [51.93644,16.29248]], "type": "hike"}]
-distance:               37
-time_spent:             2
-elevation:              158  
+distance:               18
+time_spent:             6
+elevation:              190  
 
 pois:
 
