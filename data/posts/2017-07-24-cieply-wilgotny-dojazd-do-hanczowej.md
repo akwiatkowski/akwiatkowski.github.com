@@ -7,7 +7,7 @@ keywords:               [beskid niski, grybów, hańczowa, klimkówka, lato, sak
 date:                   2017-07-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, main, panniers]
+tags:                   [bicycle, mountains, main, panniers]
 towns:                  [malopolskie, grybow, ropa, uscie_gorlickie]
 lands:                  [beskid_niski]
 

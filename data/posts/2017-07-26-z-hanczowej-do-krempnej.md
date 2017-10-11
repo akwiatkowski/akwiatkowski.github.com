@@ -7,7 +7,7 @@ keywords:               []
 date:                   2017-07-26 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo, panniers]
+tags:                   [bicycle, mountains, todo, panniers]
 towns:                  [malopolskie, podkarpackie, uscie_gorlickie, sekowa, krempna]
 lands:                  [beskid_niski]
 

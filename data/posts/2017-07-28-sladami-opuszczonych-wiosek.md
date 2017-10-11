@@ -7,7 +7,7 @@ keywords:               []
 date:                   2017-07-28 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, mountains, todo]
 towns:                  [podkarpackie, jasliska]
 lands:                  [beskid_niski]
 

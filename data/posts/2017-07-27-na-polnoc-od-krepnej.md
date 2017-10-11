@@ -7,7 +7,7 @@ keywords:               []
 date:                   2017-07-27 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, mountains, todo]
 towns:                  [podkarpackie, krempna, nowy_zmigrod]
 lands:                  [beskid_niski]
 

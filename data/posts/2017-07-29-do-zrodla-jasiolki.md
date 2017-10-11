@@ -7,7 +7,7 @@ keywords:               [wisłok, jasiołka, beskid niski]
 date:                   2017-07-29 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, mountains, todo]
 towns:                  [podkarpackie, jasliska, komancza]
 lands:                  [beskid_niski]
 

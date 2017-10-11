@@ -7,7 +7,7 @@ keywords:               []
 date:                   2017-07-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, mountains, todo]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
