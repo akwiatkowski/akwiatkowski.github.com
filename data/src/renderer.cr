@@ -112,7 +112,7 @@ class Tremolite::Renderer
 
     # all
     todos = todos_all.sort { |a, b| a.distance <=> b.distance }
-    view = TodosView.new(blog: @blog, todos: todos, url: "/todos/", prechecked: TodosView::FILTER_CHECKED_STANDARD )
+    view = TodosView.new(blog: @blog, todos: todos, url: "/todos/", prechecked: TodosView::FILTER_CHECKED_STANDARD)
     write_output(view)
 
     # close - within 150 minutes of train
@@ -148,15 +148,14 @@ class Tremolite::Renderer
     # by major town near
     major_towns = @blog.data_manager.not_nil!.transport_pois.not_nil!.select(&.major)
     major_towns.each do |major_town|
-      todos = todos_all.select{|todo_route|
+      todos = todos_all.select { |todo_route|
         (todo_route.from_poi && todo_route.from_poi.not_nil!.closest_major_name == major_town.name) ||
-        (todo_route.to_poi && todo_route.to_poi.not_nil!.closest_major_name == major_town.name)
+          (todo_route.to_poi && todo_route.to_poi.not_nil!.closest_major_name == major_town.name)
       }
       url = "/todos/town/#{major_town.name.downcase.gsub(/\s/, "_")}"
       view = TodosView.new(blog: @blog, todos: todos, url: url, prechecked: TodosView::FILTER_CHECKED_ALL)
       write_output(view)
     end
-
 
     # notes from markdown
     view = MarkdownPageView.new(

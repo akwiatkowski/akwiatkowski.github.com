@@ -28,10 +28,9 @@ class TownsHistoryView < PageView
       s += "<li>\n<h2>#{voivodeship.name} - #{towns.size} gmin</h2>\n"
       s += "<ol>\n"
 
-      towns.sort{|a,b| a[1] <=> b[1]}.map{|a| a[0]}.each do |town|
+      towns.sort { |a, b| a[1] <=> b[1] }.map { |a| a[0] }.each do |town|
         s += town_element(town)
       end
-
 
       s += "</ol></li>\n"
     end
@@ -44,9 +43,9 @@ class TownsHistoryView < PageView
   end
 
   def visited_since(town)
-    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug )}
+    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug) }
     if posts_for_town.size > 0
-      return posts_for_town.sort{|a,b| a.time <=> b.time }.first.time
+      return posts_for_town.sort { |a, b| a.time <=> b.time }.first.time
     else
       return nil
     end
@@ -62,12 +61,12 @@ class TownsHistoryView < PageView
     end
 
     # posts
-    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug )}
+    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug) }
     if posts_for_town.size > 0
       # s += " - #{posts_for_town.size} wpisów od "
       s += " - od "
       s += "<strong>"
-      s += posts_for_town.sort{|a,b| a.time <=> b.time }.first.date
+      s += posts_for_town.sort { |a, b| a.time <=> b.time }.first.date
       s += "</strong>"
     end
 
@@ -76,6 +75,6 @@ class TownsHistoryView < PageView
   end
 
   def town_hike_or_bicycle
-    @blog.post_collection.posts.select{|p| p.bicycle? || p.hike? }.map{|p| p.towns.not_nil! }.flatten.uniq.size
+    @blog.post_collection.posts.select { |p| p.bicycle? || p.hike? }.map { |p| p.towns.not_nil! }.flatten.uniq.size
   end
 end

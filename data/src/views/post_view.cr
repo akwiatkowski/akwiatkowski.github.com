@@ -103,7 +103,7 @@ class PostView < BaseView
     towns_or_voivodeships = @post.towns.not_nil!
     all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
     towns_or_voivodeships.each do |slug|
-      common_count = all_towns_or_voivodeships.select{|s| slug == s}.size
+      common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
       if common_count == 0
         @validator.error_in_post(@post, "missing town #{slug}")
       end
@@ -115,7 +115,7 @@ class PostView < BaseView
     pd["taggable.content"] = ""
     links = Array(String).new
     @post.towns.not_nil!.each do |town|
-      town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select{ |town_entity| town == town_entity.slug }
+      town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select { |town_entity| town == town_entity.slug }
       town_entities.each do |town_entity|
         links << "<a href=\"" + town_entity.url + "\">" + town_entity.name + "</a>"
       end

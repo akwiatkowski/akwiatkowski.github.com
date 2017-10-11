@@ -17,10 +17,10 @@ class TownView < BaseView
   def subtitle
     s = @posts.size
     return case s
-    when 0 then "brak wpisów"
-    when 1 then "1 wpis"
+    when       0 then "brak wpisów"
+    when       1 then "1 wpis"
     when 2, 3, 4 then "#{s} wpisy, między #{time_range_string}"
-    else "#{s} wpisów, między #{time_range_string}"
+    else              "#{s} wpisów, między #{time_range_string}"
     end
   end
 

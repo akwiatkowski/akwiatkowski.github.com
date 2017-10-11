@@ -29,7 +29,7 @@ class Tremolite::Post
 
   PHOTO_OF_THE_YEAR = "photo_of_the_year"
 
-  TODO_TAG = "todo"
+  TODO_TAG       = "todo"
   TODO_MEDIA_TAG = "todo_media"
 
   getter :coords
@@ -219,6 +219,4 @@ class Tremolite::Post
   def thumb_image_url
     "/images/processed/#{self.year}/#{slug}_thumb_header.jpg"
   end
-
-
 end

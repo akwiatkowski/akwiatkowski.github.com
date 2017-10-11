@@ -36,12 +36,12 @@ class TownsIndexView < PageView
     end
 
     # posts
-    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug )}
+    posts_for_town = @posts.select { |post| post.towns && post.towns.not_nil!.includes?(town.slug) }
     if posts_for_town.size > 0
       # s += " - #{posts_for_town.size} wpisów od "
       s += " - od "
       s += "<strong>"
-      s += posts_for_town.sort{|a,b| a.time <=> b.time }.first.date
+      s += posts_for_town.sort { |a, b| a.time <=> b.time }.first.date
       s += "</strong>"
     end
 
