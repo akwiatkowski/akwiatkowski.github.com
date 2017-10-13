@@ -7,7 +7,7 @@ keywords:               [trzeba, rosnowko, wpn, jezioro, szynobus]
 date:                   2017-05-22 22:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, todo]
+tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, steszew]
 lands:                  [wielkopolski_park_narodowy]
 
