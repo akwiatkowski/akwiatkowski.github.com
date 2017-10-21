@@ -10,7 +10,7 @@ categories:             trip
 tags:                   [hike, photo, todo]
 towns:                  [dolnoslaskie]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.79517,16.12804], [50.79241,16.12418]], "type": "hike"}]
 distance:               1
 time_spent:             1
 elevation:              36

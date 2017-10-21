@@ -8,9 +8,10 @@ date:                   2017-10-20 09:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, todo]
-towns:                  [dolnoslaskie]
+towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
+lands:                  [rudawy_janowickie]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[50.88369,15.87089], [50.87551,15.86901], [50.86717,15.87115], [50.86890,15.86523]], "type": "hike"}]
 distance:               8
 time_spent:             4
 elevation:              311  
