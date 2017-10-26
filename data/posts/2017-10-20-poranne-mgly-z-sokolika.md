@@ -25,6 +25,8 @@ pois:
 Wstęp
 -----
 
+Na wschód Słońca na [Sokoliku][wiki-sokolik] ruszyłem dzień wcześniej. Czując niedosyt
+brakiem widocznego Słońca chciałem to powtórzyć.
 
 Opis trasy
 ----------

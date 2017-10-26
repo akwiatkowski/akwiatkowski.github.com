@@ -22,6 +22,9 @@ pois:
 Wstęp
 -----
 
+Trasa kolejowa [Wałbrzych][wiki-walbrzych] - [Kłodzko][wiki-klodzko] jest
+aktualnie obsługiwana. Pomimo jej niby "mainstreamowego" charakteru polecam
+każdemu jej przejazd tak samo jak polecam pojechać do [Kudowy Zdrój][wiki-kudowa-zdroj].
 
 Szczegóły
 ---------
