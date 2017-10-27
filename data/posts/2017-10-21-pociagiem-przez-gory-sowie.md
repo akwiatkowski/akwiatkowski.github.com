@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, walbrzych, jedlina_zdroj, gluszyca, nowa_
 lands:                  [gory_sowie]
 
 coords:                 [{"route": [], "type": "train"}]
+distance:               52
+time_spent:             2
 
 pois:
 

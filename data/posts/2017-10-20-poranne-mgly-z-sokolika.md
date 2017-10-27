@@ -7,7 +7,7 @@ keywords:               []
 date:                   2017-10-20 09:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, todo]
+tags:                   [hike, photo, todo, photo_of_the_year]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
