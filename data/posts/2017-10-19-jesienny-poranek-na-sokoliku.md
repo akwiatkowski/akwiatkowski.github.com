@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Jesienny poranek na Sokoliku"
 subtitle:               "czyli pobudka o 4:45 i godzinny spacer w ciemności na spotkanie z mgłą"
 desc:                   "Opis i zdjęcia wejścia i robienia zdjęć wschodu Słońca na Sokoliku. Tym razem przywitała mnie gęsta mgła i chmury."
-keywords:               [sokolik, wschód, mgła, mgły, trzcińsko, poranek]
+keywords:               [sokolik, wschód, mgła, mgły, trzcińsko, poranek, rudawy janowickie]
 date:                   2017-10-19 09:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
