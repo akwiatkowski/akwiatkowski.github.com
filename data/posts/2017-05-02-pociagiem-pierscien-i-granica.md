@@ -148,7 +148,7 @@ Wracaliśmy przez [Lubań][wiki-luban] podczas zachodzącego Słońca.
 Próbowałem robić zdjęcia lecz albo autofocus nie był zbyt szybki, albo
 jakieś drzewa niespodziewanie pojawiały się w kadrze.
 
-{% post_image "medium","IMGP5922raw1.jpg","Dom pośrodku drzew przed Gryfowem Śląskim" %}
+{% post_image "medium","IMGP6002raw1.jpg","Dom pośrodku drzew przed Gryfowem Śląskim" %}
 
 Po dojechaniu do [Jeleniej Góry][wiki-jelenia-gora] z Maciejem poszliśmy zjeść
 do restauracji obok dworca. Wiele podróżnych również tam było.
