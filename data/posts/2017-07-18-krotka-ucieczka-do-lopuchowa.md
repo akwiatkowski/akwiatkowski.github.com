@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Krótka ucieczka do Łopuchowa"
-subtitle:               ""
+subtitle:               "czyli kolejna szybka popołudniowa trasa"
 desc:                   ""
-keywords:               []
+keywords:               [łopuchowo, murowana goślina, biedrusko, północ poznania]
 date:                   2017-07-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -22,6 +22,8 @@ pois:
 
 Wstęp
 -----
+
+
 
 Opis trasy
 ----------
