@@ -1,13 +1,13 @@
 ---
 layout:                 post
 title:                  "Deszcz w Wysowie"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "czyli dlaczego czasem mniejszym złem jest zmoknąć niż się nudzić"
+desc:                   "Drugiego dnia wycieczki w Beskidzie Niskim pogoda była bardzo deszczowa. Chcąc wykorzystać czas pomimo deszczu postanowiliśmy przejechać się robiąc pętlę przez wieś Ropki."
+keywords:               [beskid niski, wysowa, hańczowa, wioski, droga polna]
 date:                   2017-07-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, mountains, todo]
+tags:                   [bicycle, mountains, main]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
@@ -21,12 +21,18 @@ pois:
 
 ---
 
+[wiki-beskid-niski]: https://pl.wikipedia.org/wiki/Beskid_Niski
+[wiki-wysowa]: https://pl.wikipedia.org/wiki/Wysowa-Zdr%C3%B3j
+[wiki-hanczowa]: https://pl.wikipedia.org/wiki/Ha%C5%84czowa
+[wiki-huta-wysowska]: https://pl.wikipedia.org/wiki/Huta_Wysowska
+
+[goscinna-chata]: http://www.goscinna-chata.pl/wysowa/restauracja/
 
 Wstęp
 -----
 
-Pogoda się popsuła podczas drugiego dnia wyjazdu w [Beskid Niski][wiki-beskid-niski]
-jednak nie przeszkodziło to nam w zrobieniu chociaż krótkiej trasy.
+Pogoda się popsuła podczas drugiego dnia wyjazdu w [Beskid Niski][wiki-beskid-niski].
+Nie przeszkodziło to nam w wyjściu i przejechaniu chociaż krótkiej trasy.
 
 Opis trasy
 ----------
@@ -36,39 +42,51 @@ Opis trasy
 Szczegóły
 ---------
 
-[goscinna-chata]: http://www.goscinna-chata.pl/wysowa/restauracja/
 
 Rano podjechaliśmy do [Wysowej Zdrój][wiki-wysowa] zobaczyć park zdrojowy.
 Przed powrotem udaliśmy się do [restauracji Gościnna Chata][goscinna-chata].
-Jest w niej do wyboru wiele regionalnych dań i większość z nich trzeba
-zapytać się co to jest. Osobiście polecam to miejsce.
+Jest w niej do wyboru wiele regionalnych dań i
+w przypadku większości z nich trzeba
+zapytać się kelnera co to właściwie jest. Osobiście polecam to miejsce.
+
+{% post_image "medium","IMGP9037raw1.jpg","Droga w stronę Hańczowej" %}
 
 Po powrocie deszcz przestawał padać tylko chwilami. Nudziło się nam i
-ruszyliśmy chociaż na chwilę się przejechać.
+ruszyliśmy aby chociaż na chwilę się przejechać i coś nowego zobaczyć.
 
-Jadąc po kałużach już trochę żałowałem tej decyzji. Woda z kół uderzała w
-plecy i nogi.
+Jadąc po kałużach na drodze asfaltowej już trochę żałowałem tej decyzji.
+Woda z kół roweru uderzała w plecy i nogi.
 
 Postanowiliśmy zrobić dokładnie identyczną trasę jak
-[ostatniego dnia wyjazdu w roku 2012]({% post_url 2012-05-03-krotka-trasa-przez-ropki %}).
+[ostatniego dnia wyjazdu w 2012 roku]({% post_url 2012-05-03-krotka-trasa-przez-ropki %}).
+
+{% post_image "medium","IMGP9041raw1.jpg","Deszczowy Beskid Niski w okolicy Hańczowej" %}
 
 Podjechaliśmy na północ do centrum [Hańczowej][wiki-hanczowa] i skręciliśmy
 szlakiem w lewo. Teraz zamiast drogi szutrowej z białych kamienii jest tu
 droga asfaltowa.
 
-Asfalt się skończył i jechaliśmy mokrą drogą gruntową. Ignorowałem latające
-błoto. Może któreś ze zdjęć przedstawi te tereny. Ja sam niewiele napiszę
-z powodu pogody niewiele zapamiętałem a już raz tutaj byłem
+{% post_image "medium","IMGP9052raw1.jpg","Podmokłe tereny niedaleko Ropek" %}
+
+Później jechaliśmy mokrą drogą gruntową. Ignorowałem latające
+błoto wyrzucane przez koła roweru.
+Może któreś ze zdjęć albo filmik przedstawi to co widzieliśmy.
+Ja sam niewiele napiszę.
+Z powodu pogody niewiele zapamiętałem, a że już raz tutaj byłem
 dlatego nie chce mi się powtarzać.
 
-Gdy dojechaliśmy do polany w [Hucie Wysowskiej][wiki-huta-wysowska] założyłem
-kamerkę aby chociaż nagrać zjazdy.
+{% post_image "medium","IMGP9076raw1.jpg","Rozdroże niedaleko Huty Wysowskiej" %}
 
-W pewnym momencie zauważyłem, że dzięki prędkości zjazdu woda sama spływa z
+Gdy dojechaliśmy do polany w [Hucie Wysowskiej][wiki-huta-wysowska] założyłem
+kamerkę aby chociaż nagrać zjazd do [Wysowej][wiki-wysowa].
+
+W pewnym momencie zauważyłem, że dzięki prędkości zjazdu, woda sama spływa z
 obudowy kamerki i nie musiałem się martwić z jej wycieraniem.
 
-Podczas zjazdu musiałem uważać na mokrą ziemię leżącą na asfalcie i nie zawsze
-byłem pewien zakrętów.
+{% post_image "medium","IMGP9084raw1.jpg","Najwyższy punkt przed zjazdem do Wysowej" %}
 
-Do bazy wróciliśmy mokrzy nie wiedząc jak będziemy mogli wysuszyć swoje ubranie
+Podczas zjazdu musiałem uważać na mokrą ziemię leżącą na asfalcie i nie zawsze
+byłem pewien bezpieczeństwa zakrętów.
+
+Do bazy wróciliśmy mokrzy nie wiedząc jak będziemy mogli wysuszyć swoje ubrania,
 a następnego dnia czekała na nas zmiana bazy.
