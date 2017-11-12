@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Leśne okolice Łopuchowa"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "spacer północną częścią Puszczy Zielonki, chyba ostatni tak ciepły dzień tej jesieni"
+desc:                   "Opis dość długiego spaceru po północnej części Puszczy Zielonki odwiedzając kilka jezior, rzekę Dzwonówkę i stary cmentarz"
+keywords:               [łopuchowo]
 date:                   2017-11-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -23,6 +23,11 @@ pois:
 Wstęp
 -----
 
+W ten weekend była zapowiadana wyjątkowo dobra pogoda.
+[Wczoraj]({% post_url 2017-11-04-poludniowo-zachodnia-sypialnia-poznania %})
+jeździłem rowerem dlatego dzisiaj wolałem przejść się pieszo aby móc zrobić
+więcej ciekawych zdjęć.
+
 Opis trasy
 ----------
 
@@ -30,3 +35,15 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Wysiedli na przystanku [Łopouchowo Osiedle][wiki-lopuchowo-osiedle]
+chwilę po godzinie 12-tej.
+
+Tuż przy stacji jest w budowie osiedle domów jednorodzinnych. Zaletą tego miejsca
+jest bliskość wspomnianej stacji oraz [Jezioro Gacko][wiki-jezioro-gacko].
+
+[wiki-dzwonowka]: https://pl.wikipedia.org/wiki/Dzwon%C3%B3wka
+
+Cały czas szliśmy na południowy-wschód około kilometr. Na skrzyżowaniu skręciliśmy
+w lewo i doszliśmy do pierwszego ciekawego miejsca -
+[struga Dzwonówka][wiki-dzwonowka]. Bardzo ciekawie wyglądały podmokłe drzewa. 

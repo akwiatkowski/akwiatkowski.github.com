@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Najlepszy punkt widok na Bardo"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "deszczowe południe w Bardzie aby zobaczyć dwa punkty widokowe"
+desc:                   "Bardzo krótka piesza wycieczka po drodze krzyżowej na punkt widokowy, z którego widać prawie całe Bardo. Podczas zejścia odwiedziliśmy drugi punkt widokowy a na koniec pospacerowaliśmy po zaspanym mieście."
+keywords:               [bardzo, bardzkie, jesień]
 date:                   2017-10-22 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -25,6 +25,10 @@ pois:
 Wstęp
 -----
 
+[Bardo][wiki-bardo] mnie intrygowało od dłuższego czasu za sprawą zdjęcia
+z punktu widokowego. Okoliczne góry mnie ciekawiły gdyż bardzo słabo je znam.
+Tego dnia chciałem zaspokoić swoją ciekawość mając na uwadzę, że nie zrobię
+zbyt długiej trasy gdy pogoda jest niepewna.
 
 Opis trasy
 ----------
@@ -33,3 +37,28 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Z pociągu wysiedliśmy około 10:40. Poszliśmy trochę na wschód aż do
+ulicy Skalnej gdzie niebieski szlak pieszy rozpoczynał swoję podejście.
+
+Niebieski szlak pieszy (chociaż nie wiem na jakiej odległości) jest
+drogą krzyżową.
+
+Oprócz źródła Marii i samych pomników-stacji drogi krzyżowej szlak ten nie
+miał w sobie nic ciekawego.
+
+W okolicy jest żółty szlak rowerowy, który powinien być całkiem przyjemny i
+łatwy do jeżdzenia. Tak przewiduję, nie jestem tego pewien gdyż widziałem
+tylko krótki fragment.
+
+Dotarliśmy na punkt widokowy obok krzyża z którego był widok na
+[miasto][wiki-bardo]. Akurat ruszał w tym momencie pociąg i mogłem zrobić
+zdjęcie z pociągiem.
+
+Wracając nie schodziliśmy niebieskim szlakiem tylko poszliśmy żółtym
+szlakiem rowerowym i dotarliśmy do ulicy Krakowskiej.
+
+Kierowaliśmy się do centrum. Miasto wydawało się ospałe. Chcieliśmy się powłóczyć
+lecz deszcz przekonywał nas, że przyda się ciepłe herbata.
+W tym momencie pojawiał się pomysł na
+[dalszą część dnia]({% post_2017-10-22-palac-w-kamiencu-zabkowickim url %}). 
