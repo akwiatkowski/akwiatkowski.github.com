@@ -1,13 +1,13 @@
 ---
 layout:                 post
 title:                  "Z Kościana do Opalenicy"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "popołudniowa trasa o mieszanej atrakcyjności"
+desc:                   "Popołudniowy przejazd który można podzielić na: wyjazd z Kościana drogą 308, kilka ciekawych wiosek w okolicy Granowa oraz szybki powród do pociągu z Opalenicy."
+keywords:               [kościan, opalenica, konojad, żniwa, granówko, urbanowo]
 date:                   2017-08-08 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, koscian, kamieniec, granowo, grodzisk_wielkopolski, opalenica]
 
 coords:                 [{"route": [[52.07921,16.64179], [52.08892,16.65089], [52.12376,16.62858], [52.15100,16.54524], [52.16290,16.53682], [52.18943,16.55021], [52.19774,16.54395], [52.19685,16.53966], [52.22199,16.53279], [52.19679,16.53974], [52.22225,16.53159], [52.22414,16.48618], [52.24711,16.46481], [52.24974,16.46610], [52.26760,16.44138], [52.26758,16.41460], [52.27535,16.39177], [52.30808,16.41108]], "type": "bicycle"}]
@@ -22,13 +22,25 @@ pois:
 
 ---
 
+[wiki-koscian]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcian
+[wiki-sepno]: https://pl.wikipedia.org/wiki/Sepno_(powiat_grodziski)
+[wiki-konojad]: https://pl.wikipedia.org/wiki/Konojad
+[wiki-granowko]: https://pl.wikipedia.org/wiki/Gran%C3%B3wko_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-granowo]: https://pl.wikipedia.org/wiki/Granowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kotowo]: https://pl.wikipedia.org/wiki/Kotowo_(powiat_grodziski)
+[wiki-dakowy-mokre]: https://pl.wikipedia.org/wiki/Dakowy_Mokre
+[wiki-urbanowo]: https://pl.wikipedia.org/wiki/Urbanowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-opalenica]: https://pl.wikipedia.org/wiki/Opalenica
+[wiki-linia-376]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_376
+[wiki-grodzisk-drezyna]: https://pl.wikipedia.org/wiki/Grodziska_Kolej_Drezynowa
+
 
 Wstęp
 -----
 
 Nie udało się w weekend pojeździć razem z Maciejem. Tego dnia miał być
 stabilny wiatr w kierunku północno-zachodnim co nie jest częstym zjawiskiem.
-Na ogół wieją wiatry w kierunku wschodnim. Chcieliśmy wykorzystać dobrą
+Na ogół wiatr wieje w kierunku wschodnim. Chcieliśmy wykorzystać dobrą
 pogodę aby odwiedzić jakieś nowe miejsca.
 
 Opis trasy
@@ -39,59 +51,66 @@ Opis trasy
 Szczegóły
 ---------
 
-[wiki-linia-376]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_376
-[wiki-grodzisk-drezyna]: https://pl.wikipedia.org/wiki/Grodziska_Kolej_Drezynowa
-
 O 16-tej wyruszyliśmy pociągiem regionalnym do [Kościana][wiki-koscian].
 Jechał on niecałą godzinę.
 
 Trochę problemów sprawiło nam przedostanie się przez centrum tego miasta.
-Chcieliśmy dostać się do drogi 308 i ruszyć ją dalek w kierunku
+Chcieliśmy dostać się do drogi 308 i ruszyć dalej w kierunku
 północno-zachodnim.
 
-Zaskoczyłem się jednocześnie małym i dużym ruchem na tej drodzę. Samochody
-nie często nas wyprzedzały, za to jak wyprzedzały to i również były to tiry.
-Nie licząc kolein podczas wyjazdu asfalt był bardzo dobrej jakości.
+Był dość dziwny ruch. Samochody
+nie często nas wyprzedzały, za to jak wyprzedzały to kolumną w której również były tiry.
+Nie licząc kolein asfalt był bardzo dobrej jakości.
 
-Po prawej widziałem [tory linii 376][wiki-linia-376] które biegły wzdłuż drogi.
-Linia ta nie jest wykorzystywana ale działa regionalne stowarzyszenie i
-jeździ po niej [drezynami][wiki-grodzisk-drezyna].
+{% post_image "medium","IMGP0107raw1.jpg","Tory linii 376" %}
+
+Po prawej stronie widziałem [tory linii 376][wiki-linia-376] które położone są wzdłuż drogi.
+Linia ta jest częściowo zlikwidowana chyba ale działa tu regionalne stowarzyszenie i
+jeździ po niej [drezyna][wiki-grodzisk-drezyna].
 
 Za [Sępnem][wiki-sepno] już nie chcieliśmy jechać po ruchliwej drodze.
 Skręciliśmy na północ w stroną [Konojada][wiki-konojad]. Od razu poczuliśmy
-spokój zmieniając drogę. Wokół widać było prace związane ze żniwami.
+spokój zmieniając drogę. Wokół widać było wykonywane prace związane ze żniwami.
+
+{% post_image "medium","IMGP0109raw1.jpg","Ceglany budynek w Granówku" %}
 
 W [Granówku][wiki-granowko] zauważyliśmy zniszczoną bramę przy czymś co
-wyglądało jak zapomniany park. Wydaję mi się że tam w głębi jest pałac.
+wyglądało jak zapomniany park. Wydaję mi się, że tam w głębi jest jakiś pałac.
 Wiele budynków jest z czerwonej cegły i cała wioska wygląda klimatycznie.
 
-Zrobiliśmy przerwę przy sklepie w [Granowie][wiki-granowo] widząc teraz, że
+Zrobiliśmy przerwę przy sklepie w [Granowie][wiki-granowo] zauważając teraz, że
 jest to miejscowość gminna. Ruszyliśmy na zachód chodnikami i ścieżką
-rowerową, chociaż prawdziwym rowerem szosowym bym ją wolał nie jechać.
+rowerową, chociaż prawdziwym rowerem szosowym wolałbym tam nie jechać.
+
+{% post_image "medium","IMGP0118raw1.jpg","Wyjeżdzając z Kotowa" %}
 
 W [Kotowie][wiki-kotowo] skręciliśmy na północ mijając po lewej stronie
-przystanek kolejowy w polu. Lubię takie przystanki, tak samo jak te w
-szczerym lesie. Im dalej od większych miejscowości tym lepiej.
+przystanek kolejowy położony "w szczerym polu".
+Lubię takie przystanki, tak samo jak te w
+szczerym lesie. Im dalej od większych miejscowości tym spokojniej
+czyli lepiej.
 
-Ruszyliśmy na północ widząc również tutaj żniwa w pełni, chociaż zbieranie
-siana to już raczej schyłek niż środek żniw.
+Ruszyliśmy na północ również tutaj widząc żniwa w pełni, chociaż zbieranie
+siana to już raczej końcówka.
 
 Widzieliśmy drogą złożoną z płyt betonowych skręcającą lekko w lewo. Mogliśmy
-jechać asfaltem do miejscowości [Dakowy Mokre][wiki-dakowy-mokre], jednak
-zaciekawiła mnie informacja o klasztorze 300 metrów od drogi. Spokojne
-miejsce w lesie wybrali.
+jechać asfaltem do miejscowości [Dakowy Mokre][wiki-dakowy-mokre] jednak
+zaciekawiła mnie informacja o klasztorze 300 metrów od drogi.
 
-Droga z płyt asfaltowych nie była komfortowa jednak mając 36mm opony udało
-mi się ją przejechać i wjechaliśmy na kraniec wsi [Urbanowo][wiki-urbanowo].
-Pierwsze co tam było to po lewej stronie gospdarstwo z dużą ilością krów,
-a po prawej staw. Zrobiłem kilka zdjęć mu.
+Droga z płyt asfaltowych nie była komfortowa, jednak mając 36mm opony udało
+mi się ją jakoś przejechać i wjechaliśmy do krańca wsi [Urbanowo][wiki-urbanowo].
+Pierwsze co się nam rzuciło w oczy to po lewej stronie było
+gospdarstwo z dużą ilością krów. Po prawej staw, któremu zrobiłem kilka zdjęć.
 
-Ruszyliśmy na zachód. W centrum wzi dynamiczna reakcja policji na przejeżdzający
-samochód nas zaskoczyła. Po chwili zaczęło to wyglądać na standardową kontrolę.
+{% post_image "medium","IMGP0126raw1.jpg","Staw w Urbanowie" %}
+
+Ruszyliśmy na zachód. W centrum wsi zaskoczyła nas
+dynamiczna reakcja policji na przejeżdzający
+samochód.
 
 Dojechaliśmy do drogi z której już bezpośrednio jechaliśmy do
 [Opalenicy][wiki-opalenica] ścieżką rowerową. Sprawdziłem pociągi powrotne i
-okazało się że mieliśmy za 30 minut, a kolejny by był półtora godziny później.
+okazało się, że mieliśmy pociąg za 30 minut a kolejny by był półtora godziny później.
 Decyzja była prawie oczywista. Słońce już teraz zachodzi wcześniej a mnie
-łapie lenistwo gdyż jeszcze nie udało mi się rozwiązać wszystkich problemów
+łapało lenistwo, gdyż jeszcze nie udało mi się rozwiązać wszystkich problemów
 z siodełkiem.

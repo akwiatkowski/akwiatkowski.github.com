@@ -1,9 +1,9 @@
 ---
 layout:                 post
 title:                  "Wzdłuż rzeki Kamiennej do Jagniątkowa"
-subtitle:               ""
+subtitle:               "bardzo chciałem zobaczyć Wodospad Szklarka ale ostatecznie poćwiczyłem robienie zdjęć płynącej wody na rzece Kamiennej"
 desc:                   ""
-keywords:               []
+keywords:               [szklarska poręba, kamienna, woda, strumień, rzeka, jesień, skały]
 date:                   2017-10-18 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -25,6 +25,13 @@ pois:
 Wstęp
 -----
 
+Tego dnia obudziłem się o 4:50. Miałem w planie ruszyć na wschód Słońca na
+[Sokoliku][wiki-sokolik].
+[Dzień wcześniej]({% post_url 2017-10-17-jesienne-pilchowice %}) przyjechałem
+do [Jeleniej Góry][wiki-jeleniej-gory] i trochę się zmęczyłem spacerując.
+Poszedłem dalej spać. Gdy się obudziłem wybrałem cel na dzisiaj -
+[Wodospad Szklarka][wiki-wodospad-szklarka].
+
 
 Opis trasy
 ----------
@@ -34,7 +41,21 @@ Opis trasy
 Szczegóły
 ---------
 
-TODO
+Ruszyłem pociągiem do [Szklarskiej Poręby Średniej][wiki-szklarska-srednia-stacja].
+Bilet na pociąg kosztował mnie stosunkowo mało ale już nie pamiętam ile to dokładniej
+było.
 
-* wstałem na wschód Słońca jednak czułem się zbyt zmęczony i położyłem się dalej spać
-* pojechałem pociągiem do Szklarska Poręba Średnia
+Wysiadając czekało na mnie trochę spaceru zanim dotrę na faktyczny szlak pieszy.
+Idąc mijałem jakieś obiekty noclegowe których świetność chyba już przeminęła.
+Z jednej strony dobrze by było jakby był prawdziwy sezon zimowy i ludzie by
+przyjeżdzali tutaj, z drugiej strony byłby jeszcze większy tłok na stoku.
+
+Schodząc dotarłem do drogi [3-ki][wiki-droga-3], przeszedłem na drugą stronę
+i rozpoczęła się już normalna trasa piesza.
+
+Zauważyłem płynący potok i od razu wyjąłem statyw aby zrobić mu kilka zdjęć.
+
+Porozmawiałem chwilę z turystą, który powiedział mi o remoncie szlaku
+do [wodospadu][wiki-wodospad-szklarka]. Musiałbym iść obok Chaty Wałońskiej i
+wracać tą samą drogą. Niestety nie mogłem sobie pozwolić na wydłużenia już
+zaplanowanej trasy. Zawsze są jakieś decyzje do podjęcia.

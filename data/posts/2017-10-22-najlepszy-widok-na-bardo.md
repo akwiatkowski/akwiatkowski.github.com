@@ -61,4 +61,4 @@ szlakiem rowerowym i dotarliśmy do ulicy Krakowskiej.
 Kierowaliśmy się do centrum. Miasto wydawało się ospałe. Chcieliśmy się powłóczyć
 lecz deszcz przekonywał nas, że przyda się ciepłe herbata.
 W tym momencie pojawiał się pomysł na
-[dalszą część dnia]({% post_2017-10-22-palac-w-kamiencu-zabkowickim url %}). 
+[dalszą część dnia]({% post_url 2017-10-22-palac-w-kamiencu-zabkowickim %}).
