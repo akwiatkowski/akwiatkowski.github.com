@@ -19,6 +19,28 @@ pois:
 
 ---
 
+[wiki-drawsko-pomorskie]: https://pl.wikipedia.org/wiki/Drawsko_Pomorskie
+[wiki-cieszyno]: https://pl.wikipedia.org/wiki/Cieszyno_(powiat_drawski)
+[wiki-rogozno]: https://pl.wikipedia.org/wiki/Rogo%C5%BAno
+[wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
+[wiki-szydlowo]: https://pl.wikipedia.org/wiki/Szyd%C5%82owo_(powiat_pilski)
+[wiki-skrzatusz]: https://pl.wikipedia.org/wiki/Skrzatusz
+[wiki-rozewo]: https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCewo_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-walcz]: https://pl.wikipedia.org/wiki/Wa%C5%82cz
+[wiki-kolobrzeg]: https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
+[wiki-klebowiec]: https://pl.wikipedia.org/wiki/K%C5%82%C4%99bowiec
+[wiki-karsibor]: https://pl.wikipedia.org/wiki/Karsib%C3%B3r_(powiat_wa%C5%82ecki)
+[wiki-rudki]: https://pl.wikipedia.org/wiki/Rudki_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-swierczyna]: https://pl.wikipedia.org/wiki/%C5%9Awierczyna_(powiat_drawski)
+[wiki-sosnica]: https://pl.wikipedia.org/wiki/So%C5%9Bnica_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-osiek-drawski]: https://pl.wikipedia.org/wiki/Osiek_Drawski
+[wiki-zlocieniec]: https://pl.wikipedia.org/wiki/Z%C5%82ocieniec
+[wiki-cieszyno]: https://pl.wikipedia.org/wiki/Cieszyno_(powiat_drawski)
+[wiki-siecino]: https://pl.wikipedia.org/wiki/Siecino_(wojew%C3%B3dztwo_zachodniopomorskie)
+[wiki-ostrowice]: https://pl.wikipedia.org/wiki/Ostrowice
+[wiki-drawski-park]: https://pl.wikipedia.org/wiki/Drawski_Park_Krajobrazowy
+[wiki-chlebowo]: https://pl.wikipedia.org/wiki/Chlebowo_(powiat_drawski)
+
 
 Wstęp
 -----
@@ -42,7 +64,7 @@ Michał przekonał mnie aby przesunąć godzinę wyjazdu o dwie godziny późnie
 co okazało się być zdecydowanie dobrą decyzją.
 
 Czekając za pociągiem zadzwoniłem do jednej agroturystyki aby dowiedzieć się,
-że oczywiście miejsc już nie ma. Zadzwoniłem do hotelu w [Drawsku][wiki-drawsko]
+że oczywiście miejsc już nie ma. Zadzwoniłem do hotelu w [Drawsku Pomorskim][wiki-drawsko-pomorskie]
 gdzie miejsce powinno być i było. Cena 100zł za osobo-dobę ze śniadaniem
 jednak była dość
 wysoka. Czułem się spokojniej - mieliśmy już jakiś nocleg i teraz mogliśmy
@@ -152,7 +174,7 @@ Nocleg
 
 
 Za nocleg zapłaciliśmy 170zł, czyli wychodziło prawie 60zł od osoby.
-Hotel w [Drawsku][wiki-drawsko] był za 300zł. Niby prawie 2x więcej ale
+Hotel w [Drawsku Pomorskim][wiki-drawsko-pomorskie] był za 300zł. Niby prawie 2x więcej ale
 w cenie miał śniadanie. Nasz pokój był tym co potrzebowaliśmy - był czysty, miał
 prysznic i łóżka, ale niewiele ponad to. Jedyny dodatkowym meblem była szafa.
 Nie było tam żadnego stołu oprócz tego co na balkonie. Rowery zmieściliśmy
