@@ -57,6 +57,83 @@ wymianą na jakąś ze stabilizacją obrazu.
 
 Skręciliśmy na północ gdyż jednym z naszych celów była
 [cerkiew][wiki-kwiaton-cerkiew] w [Kwiatoniu][wiki-kwiaton].
+W [cerkwi][wiki-kwiaton-cerkiew] spędziliśmy kilkanaście minut. Trudno mi
+było zrobić odpowiednie zdjęcie w środku.
+
+Powróciliśmy do naszej trasy jadąc na wschód do [Smerekowca][wiki-smerekowiec].
+Wiele nowych domów pojawiło się w okolicy. Sam ten odcinek oceniam
+na raczej mało ciekawy. Wyjątkiem był cmentarz który mijaliśmy po lewej stronie.
+
+Gdy dojechaliśmy do drogi 977 ruszyliśmy w stronę [Gładyszowa][wiki-gladyszow].
+Tutaj jeszcze nie byłem. Czekał na nas spokojny podjazd teraz z 470m do 580m n.p.m.
+
+Jechaliśmy drogą wijącą się pośrodku pagórków przy której położone są domy i
+gospodarstwa rolne. Stopniowo zaczęły się one przerzedzać aż w końcu
+domów nie widzieliśmy.
+
+Zrobiliśmy przerwę na skrzyżowaniu dróg na krótkie jedzenie. Został
+nam jeszcze jeden istotny podjazd na ten dzień.
+
+Jechaliśmy na południe przez [Krzywe][wiki-krzywa], małą wioskę położoną
+totalnie na uboczu, aby dojechać do przełęczy z której będziemy
+zjeżdzać do miejscowości [Czarne][wiki-czarne]. Jest to kolejna wioska
+"na uboczu" lecz turystycznie popularniejsza. Jeżeli się nie mylę
+w okolicy minął nas jeden rowerzysta.
+
+Widziałem tabliczkę miejscowości [Jasionka][wiki-jasionka]. Pierwszy
+dom w tej miejscowości widzieliśmy dopiero po połowie kilometra.
+Wyjeżdzając czekał na nas podjazd do najwyższego punktu zaplanowanego
+na dzisiaj - do 620m n.p.m.
+
+Podczas zjazdu do czarne zaskoczył mnie 200-300 metrowy odcinek asfaltowy drogi.
+Zaczął się on niespodziewanie a jeszcze bardziej niespodziewanie skończył.
+Zjazd po drodzę gruntowej z dziurami i kałużami nie jest najszybszym możliwym.
+
+Zrobiliśmy kolejną przerwę przy cmentarzu przed miejscowością
+[Czarne][wiki-czarne].
+
+Gdy już dojechaliśmy do [Czarnej][wiki-czarne] niebo się zachmurzyło.
+Chmury były trochę straszne.
+
+Gdy byłem tutaj
+w [2015 roku]({% post_url 2016-05-27-petla-do-klimkowki %}) pamiętałem o
+czynnym schronisku gdzie można było coś ciepłego zjeść. Dowiedzieliśmy się
+od turystów, że teraz jest ono nieczynne. Oznaczało to, że dopiero
+w [Krempnej][wiki-krempna] będziemy mogli zjeść coś ciepłego.
+
+Został nam ostatni (nie licząc podjazdu w samej [Krempnej][wiki-krempna])
+podjazd do miejscowości [Długie][wiki-dlugie]/[Wyszowatka][wiki-wyszowatka].
+
+Podjazd minął nam dość szybko. Zjazd był po dość utwardzonej drodze
+gruntowej. Po prawej widzieliśmy istotne obniżenie terenu.
+
+W środku wsi na środku leżał sobie pies. Postanowiłem go grzecznie ominąć gdyż
+nie wiedziałem jaki będzie on miał charakter.
+
+Niestety wibrację spowodowały że filmik nagrany przed dojazdem do skrzyżowania
+jest nieużyteczny.
+
+Na skrzyżowaniu skręciliśmy w lewo jadąc już bezpośrednio do
+[Krempnej][wiki-krempna]. Tą drogą jechałem
+również w [2015]({% post_url 2016-05-26-beskid-niski-rowerem-po-raz-pierwszy %}) roku.
+
+Przed [Kotaniem][wiki-kotan] schowaliśmy się pod przystankiem autobusowym
+aby przeczekać deszcz. Głód się już powoli pojawiał. Szukałem restauracji
+przez komórkę jednak tutaj nie było tak dobrze jak w [Wysowej][wiki-wysowa].
+Pozostało nam ruszyć do centru i zobaczyć co będzie.
+
+Okazało się, że w centrum [Krempnej][wiki-krempna] jest sklep. W sumie to
+wiedziałem o tym ale nie byłem pewien. Jedyne ciepłe jedzenie można było
+kupić w kawiarni przy zalewie. Został nam też ostatni podjazd - do noclegu.
+
+Gdy się rozpakowaliśmy poszliśmy pieszo do sklepu.
+
+
+
+
+
+
+
 
 TODO:
 
