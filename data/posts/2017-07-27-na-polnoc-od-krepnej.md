@@ -17,9 +17,15 @@ time_spent:             6
 elevation:              426
 
 pois:
+  - lat: 49.54895
+    lon: 21.47681
+    name: Widok na okolicę Desznicy - przykład piękna Beskidu Niskiego  
   - lat: 49.56583
     lon: 21.47084
     name: Pagórki między wsiami Jaworze a Skalnik
+  - lat: 49.57959
+    lon: 21.49887  
+    name: Wiszący linowy most z drewnianymi deskami nad Wisłoką. Polecam przejść każdemu.
 
 ---
 
@@ -34,6 +40,97 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Zaleta noclegu w wyższym miejscu to rozpoczęcie dnia zjazdem. Problem będzie później
+gdy będziemy musieli podjechać.
+
+Wspomniany zjazd był dość stromy abym musiał hamować abym mógł zjeżdzać bezpiecznie.
+Na skrzyżowaniu skręcaliśmy w lewo i przejeżdzaliśmy po moście nad zalewem.
+
+Pogoda tego dnia była idealna. Widać było delikatne chmury na niebie.
+
+Wyruszyliśmy z [Krempnej][wiki-krempna] na zachód do [Kotania][wiki-kotan].
+Po prawej stronie na polu pasły się krowy.
+
+Skręciliśmy na północ kierując się do [Desznicy][wiki-desznica] lecz jak to
+zwykle bywa najpierw czekał na nas podjazd na przełęcz.
+
+Miałem subiektywne wrażenie, że to właśnie tutaj jest najwięcej nowych domów
+postawionych. Domów, które nie bardzo pasują do klimatu
+[Beskidu Niskiego][wiki-beskid-niski].
+
+Gdy dotarliśmy na przełęcz musiałem chwilę pomyśleć która droga to czerwony
+szlak rowerowy, którym mieliśmy jechać. Niestety ponownie nie była to
+idealnie gładka droga asfaltowa o coś pomiędzy uszkodzonym asfaltem a
+ubitą drogą gruntową.
+
+Dotarliśmy do skraju lasu gdzie ukazała się nam jedna z najładniejszych
+panoram. To mi się najbardziej podoba w [Beskidzie Niskim][wiki-beskid-niski]
+czyli delikatne pagórki pokryte trawą. Oczywiście podoba mi się klimat, wioski i ludzie
+również.
+
+Wjechaliśmy do [Desznicy][wiki-desznica] i pierwsze co zauważyłem to
+bardzo ładne nowe domy. Jakby to były najbogatsze miejscowości w okolicy.
+
+Skręciliśmy w lewo jadąc do miejscowości [Jaworze][wiki-jaworze].
+Jechaliśmy zgodnie z czerwonym szlakiem rowerowym podjeżdzając na pagórek.
+
+Gdy wjechaliśmy na górkę ponownie ukazał się jeszcze piękniejszy widok.
+
+Zdecydowaliśmy o tym, że będziemy konsekwentnie jechać czerwonym szlakiem
+rowerowym chociaż bardziej mnie interesował zielony.
+
+Gdy szlak skręcił w prawo przebiegał on przez 500m w lesie. Gdy las się
+skończył ponownie ujrzeliśmy bardzo fajny widok.
+
+Podczas zjazdu był lekki wypadek - pękła guma. Ja miałem przy sobie dętki do
+opony 29" ale były potrzebne 27.5". Próbowaliśmy znaleźć kogoś, kto mógłby
+dowieźć do bazy gdzie zostawiliśmy dętki. Ostatecznie nikogo nie znaleźliśmy.
+Prawie każdy dom jest ładny i nowy, ludzie mają kasę i dlatego nie są
+skorzy do pomocy. Ostatecznie poradziliśmy sobie sami nikomu nie dając zarobić.
+Dobrze im tak.
+
+Nie byliśmy pewnie na ile moje rozwiązanie się sprawdzi dlatego jechaliśmy
+wyraźnie grzeczniej.
+
+Bardzo szybko zjechałem do skrzyżowania z drogą 992 do
+[Nowego Żmigrodu][wiki-nowy-zmigrod]. Następnie przeszliśmy klimatycznym
+linowym wiszącym mostem nad [Wisłoką][wiki-wisloka] i kontynuowaliśmy
+jazdę drogą 992.
+
+Zatrzymaliśmy się przy sklepie gdzie zjedliśmy kiełbasę z bułką popijając
+prawdopodobnie napojem z dużą ilością cukru. Teraz jest albo woda albo coś
+co ma dużo cukru.
+
+W [Kątach][wiki-katy] opuściliśmy drogę 992 jadąc zapomnianymi drogami
+w kierunku [Myscowej][wiki-myscowa]. Oczywiste jest, że ruch samochodowy
+się znacząco zmniejszył.
+
+Przejechaliśmy ponownie przez [Wisłokę][wiki-wisloka] tym razem po
+nowoczesnym moście.
+
+Wokół mijaliśmy wioskę o bardzo luźnej zabudowie której gęstość się zmniejszała
+jeszcze bardziej.
+
+Ponownie przeszliśmy przez [Wisłokę][wiki-wisloka]. Tym razem znowu mostem linowym.
+Gdy już byłem na moście spojrzałem śmierci w oczy i wsiadłem na rower
+przejeżdzając przez niego.
+
+W pewnym momencie minął nas przerobiony chyba Ford Fiesta. Nie miał on drzwi.
+Kierowca tego pojazdu pojeździł się w okolicach rzeki.
+
+W takich miejscach domy nie mają ogrodzenia. Nie jest to ludziom do niczego
+potrzebne.
+
+Dotarliśmy do [Myscowej][wiki-myscowa]. W centrum widzieliśmy chyba
+budynek szkoły. Więcej istotnych miejsc teraz nie pamiętam.
+
+Musieliśmy przejechać jeszcze 3km aby być na znanej mi drodzę dojazdowej
+do [Krempnej][wiki-krempna].
+
+Tym razem pojechaliśmy wzdłuż zalewu przez co podjazd do noclegu był odległościowo
+krótszy. Musieliśmy wdrapać się z rowerami na taką samą wysokość ale chyba
+to było mniej denerwujące.
 
 TODO:
 
