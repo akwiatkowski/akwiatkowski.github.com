@@ -17,6 +17,9 @@ time_spent:             7
 elevation:              466
 
 pois:
+  - lat: 49.50713
+    lon: 21.62702
+    name: Bardzo dobry punkt widokowy jak i zjazd do wsi Mszana
 
 ---
 
@@ -31,6 +34,48 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Tak jak [dzień wcześniej]({% post_url 2017-07-27-na-polnoc-od-krepnej %})
+i teraz na początku czekał na nas zjazd do centrum
+[Krempnej][wiki-krempna] gdzie skręciliśmy na wschód.
+
+Jechaliśmy w kierunku wsi [Polany][wiki-polany] po drodzę, po której już
+chwilę wczoraj jechaliśmy a w 2016 roku jechałem tam chyba dwa razy. Tereny są
+głównie płaskie a wokół drogi jest sporo łąk.
+
+Planowałem z [Polan][wiki-polany] pojechać w stronę [Olchowca][wiki-olchowiec]
+aby zobaczyć kamienny most jednak pomyliłem się i nie skręciliśmy
+w odpowiednim miejscu. Jechaliśmy podjazdem około 150m w górę przez las.
+Podjazd był mało interesujący.
+W [2016 roku]({% 2016-05-28-z-krempnej-do-jaslisk-dwoma-trasami %}) tą
+drogą jechaliśmy w drugą stronę, czyli to gdzie wtedy podjeżdzaliśmy teraz
+zjeżdzaliśmy i odwrotnie.
+
+Gdy dotarliśmy na przełęcz spotkaliśmy parę dziadków (to słowo ma negatywne
+znaczenie a nie potrafię znaleźć lepszego), która była w bardzo długiej
+rowerowej podróży. Jeżeli się nie mylę to jechali do
+[Bielka-Białej][wiki-bielsko-biala].
+
+Kilkaset metrów dalej opuściliśmy las i oczom ukazała się nam
+piękna panorama doliny rzeki [Mszanka][wiki-mszanka] i
+wioski [Mszana][wiki-mszana].
+
+Czekał na nas bardzo długi zjazd - 120m na odległości prawie 5km.
+Tak naprawdę końcem zjazdu była [Tylawa][wiki-tylawa].
+Pierwsza część zjazdu była najbardziej stroma. To na niej pedałując udało
+mi się rozpędzić z sakwami do 66km/h co jest moim życiowym rekordem.
+Gdy już wjechaliśmy do [Mszany][wiki-mszany] droga nie była już tak stroma.
+Jak to często była wiła się ona wokół domów mieszkalnych.
+
+Bliskość do drogi 19 przebiegającej przez [Tylawę][wiki-tylawa] miała
+wpływ na dzikość tych terenów. Z drugiej strony dzięki temu
+powstała restauracja, przy której zatrzymaliśmy się na solidny obiad i
+którą zdecydowanie polecam.
+
+
+
+
+
 
 TODO:
 
