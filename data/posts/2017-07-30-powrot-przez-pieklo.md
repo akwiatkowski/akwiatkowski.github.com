@@ -23,6 +23,10 @@ pois:
 Wstęp
 -----
 
+Czasami są takie dni gdy próbuję się tylko zmniejszać ilość problemów pojawiających się
+co chwilę. Największymi problemami był czas i zbyt dobra pogoda a musieliśmy
+dotrzeć na dworzec w [Rzeszowie][wiki-rzeszow] na pociąg powrotny.
+
 Opis trasy
 ----------
 
@@ -30,6 +34,77 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Planowałem dojechać do [Krosna][wiki-krosno] a dalej pojechać pociągiem
+do [Rzeszowa][wiki-rzeszow]. Okazało się, że pociąg
+[Krosno][wiki-krosno]-[Rzeszów][wiki-rzeszow] nie jest przystosowany do
+przewozu rowerów. Początkowo chciałem ignorować tą informację jednak
+doczytałem, że jest za to mandat i ma prawo wyprosić podróżujących.
+
+Udało nam się załatwić transport z rowerami do [Krosna][wiki-krosno]
+samochodem dostawczym.
+
+Rozpoczęliśmy naszą trasę o godzinie 8:40 kierując się z dala od
+[miasta][wiki-krosno] do [Odrzykonia][wiki-odrzykon].
+
+Jechaliśmy ulicą Odrzykońską (kto by pomyślał) obok ogródków działkowych i
+przejechaliśmy mostem nad [Wisłoką][wiki-wislok], rzeką którą już wiele
+razy poznałem na różne sposoby jej pokonania.
+
+Nie będę opisywał dokładnie trasy. Mapa powyżej przedstawi to najlepiej a
+ja skupię się do opisywania najciekawszych (czasem w negatywny sposób) miejsc
+i sytuacji.
+
+Sprawnie przejechaliśmy przez [Bratkówkę][wiki-bratkowka] omijając po
+zachodniej stronie [Czarnorzecko-Strzyżowski Park Krajobrazowy][wiki-czarnorzeczko-park].
+W tym momencie nie pamiętam już czy widziałem z prawej strony ten park, możliwe
+że wyglądał on subtelnie.
+
+Przed [Łączkami Jagiellońskimi][wiki-laczki-jagiellonskie] rozpędziliśmy
+się na zjeździe mając widok na dolinę [Wisłoki][wiki-wisloka].
+
+Spotkaliśmy bardzo dużo rowerzystów szosowych w okolicy. Sami przez cały czas
+jechaliśmy po bardzo dobrym asfalcie z minimalnym ruchem samochodów.
+
+Widzieliśmy bardzo dużo nowych domów. Na ogół były one mocno ogradzane zielenią
+naturalnie.
+
+Przejazd przez [rzekę][wiki-wisloka] do [Wiśniowej][wiki-wisniowa]
+kończył ten etap trasy. Etap małych wiosek i drogi wijącej się między nimi.
+Wioski te miały zupełnie inny klimat niż te beskidzkie przez które
+jechaliśmy w poprzednich dniach.
+
+Podjechaliśmy w okolicę kościoła aby zobaczyć dąb (patrz notatki poniżej).
+Teraz uważam, że lepiej byłoby skoncentrować sie na trasie i szybciej
+dojechać do celu nie stresując się. Chociaż z drugiej strony można mówić,
+że się widziało dąb roku 2017 teraz.
+
+Myślałem aby jechać drogą 986 gdyż mielibyśmy 150m podjazdów mniej za
+cenę większego ruchu samochodów. Wybraliśmy spokoniejszą drogą
+z podjazdami. Myślałem sobie "przynajmniej ciekawsze widoki zobaczymy".
+
+Pierwszym ciekawym zjazdem był do [Różanki][wiki-rozanka]. Nie będę oznaczał
+go jako ciekawe punkty gdyż przejazd przez tak pagórkowate tereny nie jest
+możliwa bez podjazdu i zjazdu.
+
+[Różanka][wiki-rozanka] składa się z dwóch dróg przegrodzonych doliną
+rzeki [Rozanki][wiki-rozanka-rzeka]. Jechaliśmy po tej południowej.
+Zrobiliśmy przerwę w sklepie gdyż było bardzo ciepło.
+
+Wyjeżdzając z [Zawadki][wiki-zawadka] (obok wsi [Nawsie][wiki-nawsie])
+został nam ostatni podjazd do pokonania - prawie 100m w górę.
+Nie muszę mówić jak było ciepło, jak Słońce na nas wpływało, jak
+mało ciekawe są filmiki z podjazdu i nie przekazują one tego co można
+doświadczyć będąc samemu w danej sytuacji.
+
+W pewnym momencie na zjeździe przede mną zaparkował sobie samochód
+mający niemiecką rejestrację. Szczeście miałem i musiałem zahamować do zera
+gdyż z naprzeciwka jechał inny samochód.
+
+W rzeczywistości nie było tak, że mieliśmy sam zjazd. Czasami wyglądało jak
+byśmy musieli te 2-3m podjechać.
+
+
 
 TODO:
 
