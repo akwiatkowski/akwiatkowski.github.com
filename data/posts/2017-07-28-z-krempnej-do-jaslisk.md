@@ -23,6 +23,8 @@ pois:
 
 ---
 
+[muzeum-zyndranowa]: http://www.zyndranowa.org/
+
 
 Wstęp
 -----
@@ -71,6 +73,34 @@ Bliskość do drogi 19 przebiegającej przez [Tylawę][wiki-tylawa] miała
 wpływ na dzikość tych terenów. Z drugiej strony dzięki temu
 powstała restauracja, przy której zatrzymaliśmy się na solidny obiad i
 którą zdecydowanie polecam.
+
+Naszym celem było odległe o 3.5km
+[muzeum][muzeum-zyndranowa] w [Zyndranowej][wiki-zyndranowa]. Jak się nie mylę
+po muzeum oprowadza kobieta, która w [akcji Wisła][wiki-akcja-wisla]
+została wysiedlona do [Szczecina][wiki-szczecin].
+
+Oprowadzenie trwało niecałą godzinę. Zobaczyliśmy jak wyglądały łemkowskie
+domy w środku, jak wyglądały budynki gospodarcze oraz to, co pozostawiła
+po sobie wojna.
+
+Po skończeniu ruszyliśmy z ciekawości w stronę południowego końca wioski.
+Zaniechaliśmy ten pomysł gdyż było dość ciepło i jazda dalej byłoby sztuką dla sztuki.
+Droga asfaltowa się skończyła i dalej stopniowo droga zamieniałaby się
+bardziej w szlak pieszy. Nie zapominajmy o podjeździe.
+
+Wróciliśmy do [Tylawy][wiki-tylawy] gdzie po niecałych dwóch kilometrach
+jazdy po drodzę o numerze 19 skręciliśmy na zachód. Teraz już
+bezpośrednio jechaliśmy do [Jaślisk][wiki-jasliska].
+
+Tuż po skręcie za [Tylawą][wiki-tylawa] przejechaliśmy przez
+rzekę [Pannę][wiki-panna-rzeka], która ma źródło w górach obok
+[Zyndranowej][wiki-zyndranowa].
+
+Dalsza trasa nie była tak ciekawa dla mnie. Jechaliśmy głównie przez las
+i nie zwróciłem uwagi na nic istotnego.
+
+Na sam koniec został podjazd do centrum [wsi][wiki-jasliska].
+
 
 
 
