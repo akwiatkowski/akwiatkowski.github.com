@@ -166,11 +166,13 @@ siły przed ostatnim dniem - powrotem, który zapowiadał się ciekawie.
 W [Woli Niżnej][wiki-wola-nizna] zatrzymaliśmy się na chwilę przy białem
 kościele.
 
+{% post_image "medium","IMGP9966raw1.jpg","Dom w Jaśliskach" %}
+
 Wróciliśmy do bazy, zrobiliśmy jedzenie i trochę odpoczęliśmy.
 Wieczorem poszliśmy się przejść po [Jaśliskach][wiki-jasliska] widząc
 w niektórych miejscach solidną biedę.
 
-{% post_image "medium","IMGP9966raw1.jpg","Dom w Jaśliskach" %}
+{% post_image "medium","IMGP0008raw1.jpg","Wieczorne okolice Jaślisk" %}
 
 Wracając z baru dwóch lokalnych mieszkańców opowiedziało nam o
 historii tego miejsca i pokazało fragmenty tuneli pod miastem. Brali oni udział
