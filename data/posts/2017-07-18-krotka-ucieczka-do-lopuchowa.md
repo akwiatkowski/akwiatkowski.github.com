@@ -2,7 +2,7 @@
 layout:                 post
 title:                  "Krótka ucieczka do Łopuchowa"
 subtitle:               "czyli kolejna szybka popołudniowa trasa"
-desc:                   ""
+desc:                   "Kolejna krótka trasa rowerowa z Poznania. Tym razem ruszyłem przez Biedrusko w stronę Murowanej Gośliny, a później improwizowałem. Chciałem jechać głównie asfaltem a ostatecznie walczyłem z błotem obok Jeziora Wojnowskiego."
 keywords:               [łopuchowo, murowana goślina, biedrusko, północ poznania]
 date:                   2017-07-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -23,7 +23,11 @@ pois:
 Wstęp
 -----
 
+Praca dość często utrudnia przejazd na dłuższej trasie. Do tego jeszcze byłem
+na etapie sprawdzania czy nowe siodełko jest dla mnie wystarczająco dobre.
 
+Postanowiłem tym razem ruszyć w stronę [Murowanej Gośliny][wiki-murowana-goslina]
+a dlatego "to się zobaczy".
 
 Opis trasy
 ----------
@@ -32,3 +36,26 @@ Opis trasy
 
 Szczegóły
 ---------
+
+Trasa do [Biedruska][wiki-biedrusko] jest znana. Jechałem ją już wiele razy lecz
+mniej niż na [Poznań Garbary][wiki-poznan-garbary].
+
+Do [Murowanej Gośliny][wiki-murowana-goslina] dojechałem z zachodniej strony
+przez [Raduszyn][wiki-raduszyn].
+Następnie przejechałem ulicą Rogozińską na północ. Droga ta krzyżyje się z
+drogą 196. Od momentu skrzyżowania poczułem, że dopiero teraz opuszczam
+całkowicie [Poznań][wiki-poznan].
+
+Chcąc wracać pociągiem wymyśliłem sobie kierunek trasy -
+[Sława Wielkopolska][wiki-slawa-wlkp] i jechałem przez [Wojnowo][wiki-wojnowo].
+Podobało mi się pole podczas bardzo powoli zachodzącego słońca.
+
+Gdy dojechałem do [Wojnówka][wiki-wojnowko] szukałem drogi powrotnej. Zamiast
+planowanego asfaltu wjechałem w piach - plażę przy Jeziorze Lomno.
+
+Chcąc dojechać jakoś do [Łopuchowa][wiki-lopuchowo] ostatecznie musiałem
+przedostać się przez błotną drogą na północ od jeziora. Nie wiedziałem gdzie jadę,
+wiedziałem że raczej dobrze bo zbliżałem się do stacji kolejowej.
+
+Ostatecznie przez centrum [Łopouchowa][wiki-lopuchowo] dostałem się na dworzec
+i pociągiem wróciłem do [Poznania][wiki-poznan].

@@ -97,3 +97,14 @@ byli w niskich górach. Wokół pola zboża i rzepaku.
 W [Kamionku][wiki-kamionek] byłem teraz trzeci raz gdyż bardzo
 mi się te tereny podobają. Na pewno w przyszłym roku jeszcze odwiedzę
 te okolice.
+
+Ruszyliśmy na północ do skrzyżowania przed [Łosośnikami][wiki-lososniki].
+Na tym skrzyżowaniu skręciliśmy
+na wschód i jechaliśmy przez [Gębice][wiki-gebice] aż
+do [Łąkiego][wiki-lakie].
+
+Po dłuższej przerwie musieliśmy dojechać na przystanek kolejowy. Wybraliśmy
+[Janikowo][wiki-janikowo]. Wsiadając do pociągu widzieliśmy przedział
+rowerowy totalnie zawalony. Przypomniało mi się, że tego dnia
+[Zgrupka Luboń][wiki-zgrupka-lubon] miała przejazd do
+[Włocławka][wiki-wloclawek]. 
