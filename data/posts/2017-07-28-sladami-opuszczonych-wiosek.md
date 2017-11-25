@@ -118,7 +118,7 @@ Dotarliśmy do granicy. Będąc tutaj zacząłem zastanawiać się nad dalszą t
 Jak wyglądałby zjazd do [Medzilaborce][wiki-medzilaborce], do którego jest
 sezonowe połączenie
 kolejowe przez [Łupków][wiki-lupkow], [Komańczę][wiki-komancza] i dalej
-do [Rzeszowa][wiki-rzeszowa]. Te tereny mogłyby rozkwitnąć turystycznie gdyby istniały
+do [Rzeszowa][wiki-rzeszow]. Te tereny mogłyby rozkwitnąć turystycznie gdyby istniały
 sensowne i pewne połączenia kolejowe. Coraz więcej ludzi jeździ teraz
 na rowerach.
 

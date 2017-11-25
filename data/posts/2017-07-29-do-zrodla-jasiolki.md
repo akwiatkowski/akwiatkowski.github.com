@@ -2,12 +2,12 @@
 layout:                 post
 title:                  "Do źródła rzeki Jasiołki"
 subtitle:               "zapomniane gospodarstwa, lilie wodne, polany, obóz gdzie nie ma zasięgu i zjazd do Wisłoka Wielkiego"
-desc:                   ""
+desc:                   "Mając nocleg w Jaśliska umożliwiło to nam dostęp do zupełnie nowych terenów jednak musieliśmy pamiętać o trasie powrotnej. Wybraliśmy na ten dzień pętlę na południowy-wschód od Jaślisk. Dojechaliśmy również do Wisłoka Wielkiego chcąc zobaczyć początki Bieszczad."
 keywords:               [wisłok, jasiołka, beskid niski]
 date:                   2017-07-29 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, mountains, todo]
+tags:                   [bicycle, mountains, main]
 towns:                  [podkarpackie, jasliska, komancza]
 lands:                  [beskid_niski]
 
@@ -23,6 +23,22 @@ pois:
 
 ---
 
+[wiki-wola-wyzna]: https://pl.wikipedia.org/wiki/Wola_Wy%C5%BCna
+[wiki-jasiel]: https://pl.wikipedia.org/wiki/Jasiel_(wojew%C3%B3dztwo_podkarpackie)
+[wiki-jasliska]: https://pl.wikipedia.org/wiki/Ja%C5%9Bliska
+[wiki-beskid-niski]: https://pl.wikipedia.org/wiki/Beskid_Niski
+[wiki-jasiolka-rzeka]: https://pl.wikipedia.org/wiki/Jasio%C5%82ka
+[wiki-wola-nizna]: https://pl.wikipedia.org/wiki/Wola_Ni%C5%BCna
+[wiki-moszczaniec]: https://pl.wikipedia.org/wiki/Moszczaniec
+[wiki-wislok-wielki]: https://pl.wikipedia.org/wiki/Wis%C5%82ok_Wielki
+[wiki-czystogarb]: https://pl.wikipedia.org/wiki/Czystogarb
+[wiki-komancza]: https://pl.wikipedia.org/wiki/Koma%C5%84cza
+[wiki-polany-surowiczne]: https://pl.wikipedia.org/wiki/Polany_Surowiczne
+[wiki-zbrodnia-jasiel]: https://pl.wikipedia.org/wiki/Zbrodnia_w_Jasielu
+[wiki-upa]: https://pl.wikipedia.org/wiki/Ukrai%C5%84ska_Powsta%C5%84cza_Armia
+
+[trasa-ak]: http://www.beskid-niski.pl/index.php?pos=/gory/turystyka/szlaki&ID=41
+
 
 Wstęp
 -----
@@ -30,7 +46,7 @@ Wstęp
 [Jaśliska][wiki-jasliska] to najbardziej wysunięta na wschód miejscowość
 w [Beskidzie Niskim][wiki-beskid-niski] w jakiej byłem. Oczywiste jest to,
 że ciekawiło mnie co jest tam dalej na wschód. Ten dzień jest małą odpowiedzią
-na to pytanie a jednocześnie zadaje kolejne.
+na to pytanie a jednocześnie zadaje kilka kolejnych pytań.
 
 Opis trasy
 ----------
@@ -40,126 +56,127 @@ Opis trasy
 Szczegóły
 ---------
 
-[wiki-wola-wyzna]: https://pl.wikipedia.org/wiki/Wola_Wy%C5%BCna
-[wiki-jasiel]: https://pl.wikipedia.org/wiki/Jasiel_(wojew%C3%B3dztwo_podkarpackie)
+Wyruszyliśmy z bazy w centrum [Jaślisk][wiki-jasliska]. Centrum tej
+miejscowości położone jest wyraźnie wyżej (około 20m) niż droga 897.
 
-Wyruszyliśmy z bazy w centrum [Jaślisk][wiki-jasliska], które położone jest
-wyraźnie wyżej (około 20m) niż droga 897.
+{% post_image "medium","IMGP9793raw1.jpg","Jadąc do Woli Wyżnej" %}
 
-Gdy dojechaliśmy do drogi 897 skręciliśmy na wschód. Droga przebiega wzdłuż
-doliny rzeki [Jasiołka][wiki-jasiolka-rzeka] a obok niej jest połączenie
-starych, klimatycznych domów z nowoczesnymi.
+Gdy dojechaliśmy do drogi 897 skręciliśmy w prawo na wschód. Droga przebiega wzdłuż
+doliny rzeki [Jasiołka][wiki-jasiolka-rzeka] a obok niej
+widzieliśmy połączenie starych, klimatycznych domów z tymi nowoczesnymi.
 
 Gdy dojechaliśmy do [Woli Niżnej][wiki-wola-nizna] skręciliśmy na prawo jadąc
-na południe wsi [Woli Wyżnej][wiki-wola-wyzna]. Rozpoczął się lekki
+na południe do [Woli Wyżnej][wiki-wola-wyzna]. Rozpoczął się lekki
 podjazd przez las.
 
-Trudno jest jednoznacznie nazwać miejscowości. Ten fragment trasy przebiegał
-przez opuszczone tereny i jest istotna różnica między OpenStreetMap a UMP. Nie
-mówiąc już o mapach Google.
+{% post_image "medium","IMGP9804raw1.jpg","Opuszczone budynki Woli Wyżnej" %}
 
-Im byliśmy dalej tym trasa była bardziej ciekawa. Można to opisać jako
-połączenie drogi przez las naprzemiennie z polami jednak taki stwierdzenie
-bardzo dużo odejmuje. Przydrożne krzyże są jednym z tych elementów które
-najłatwiej opisać.
+Trudno jest jednoznacznie nazwać [Wolę Wyżną][wiki-wola-wyzna]
+miejscowością. Ten fragment trasy przebiegał
+przez opuszczone tereny, stare gospodarstwa rolne.
+Mapy OpenStreetMap i UMP różnią się jeżeli chodzi o nazwy i położenia
+miejscowości wzdłuż drogi, którą jechaliśmy.
 
-[wiki-zbrodnia-jasiel]: https://pl.wikipedia.org/wiki/Zbrodnia_w_Jasielu
+{% post_image "medium","IMGP9844raw1.jpg","Jeden z wielu przydrożnych krzyży w Beskidzie Niskim" %}
+
+Dzień wcześniej zjeżdzając do [Jaślisk][wiki-jasliska] delikatnie przebiłem
+dętkę. Miałem kawałek metalu wbity w oponę. Napompowałem rano oponę jednak
+teraz musiałem się zatrzymać i wymienić dętkę.
+
+{% post_image "medium","IMGP9848raw1.jpg","Lilie wodne w okolicaj Jasiołki" %}
+
+Im byliśmy dalej od drogi 897 tym trasa była ciekawsza. Można to opisać jako
+połączenie drogi przez las naprzemiennie z polami, jednak takie stwierdzenie
+nie przedstawia prawdziwego klimatu. Przydrożne krzyże są jednym z tych elementów które
+najłatwiej opisać a reszty nie potrafię.
+
+{% post_image "medium","IMGP9856raw1.jpg","Lilie wodne w okolicaj Jasiołki" %}
+
+Poruszaliśmy się po [beskidzkiej trasie kurierskiej AK][trasa-ak].
 
 Dwa szczególne miejsca muszę polecić tutaj. Pierwszym obiektem
 są bardzo czyste zbiorniki wodne, które chyba należą do
 rzeki [Jasiołki][wiki-jasiolka-rzeka]
 
-Drugim to pomnik zamordowanych przez UPA w [Zbrodni w Jasielu][wiki-zbrodnia-jasiel]
-oraz obóz niedaleko. Nie ma tutaj zasięgu. Widzieliśmy kilka dużych namiotów
+{% post_image "medium","IMGP9903raw1.jpg","Rzeka Jasiołka" %}
+
+Drugim to pomnik zamordowanych przez [UPA][wiki-upa] podczas
+[Zbrodni w Jasielu][wiki-zbrodnia-jasiel]
+oraz obóz położony niedaleko.
+Nie ma tutaj zasięgu telefonów komórkowych. Widzieliśmy kilka dużych namiotów
 i grupę rowerzystów z rowerami z pełną amortyzacją.
+
+{% post_image "medium","IMGP9917raw1.jpg","Pomnik zbrodni w Jasielu" %}
 
 Gdy minęliśmy ostry łuk rozpoczął się długi zjazd do [Moszczańca][wiki-moszczaniec].
 Asfalt na tej drodzę był tylko miejscami. Chociaż znacznie lepiej się zjeżdzało gdy
-na drodzę szutrowej nie było również śladów starego asfaltu.
+na drodze szutrowej nie było ani kawałka starego asfaltu.
+
+{% post_image "medium","IMGP9927raw1.jpg","Szutrowy dojazd do drogi w Moszczańcu" %}
 
 Sam zjazd będąc przyjemnym nie miał zbyt dużo wartości widokowych gdyż jest
 tam gęsto las iglasty.
 
 Dojechaliśmy do starych gospodarstw rolnych przy [Moszczańcu][wiki-moszczaniec].
 Całkiem klimatyczne było to miejsce chociaż ponownie trudno mi
-to wyjaśnić.
+to opisać.
+
+{% post_image "medium","IMGP9947raw1.jpg","Zjazd w stronę Wisłoka Wielkiego" %}
 
 Ponownie dołączyliśmy do drogi 897 widząc bardzo ładne pagórki przed nami.
-Widok ten jest połączony pofalowanymi łąkami na których gdzieniegdzie są drzewa,
-a na horyzoncie bardzo daleko gęsty ciemny las.
+Widok ten jest połączoniem pofalowanych łąk, na których gdzieniegdzie są drzewa,
+z gęstym ciemnym lasem na horyzoncie.
 
-Jechaliśmy do [Wisłoka Wielkiego][wiki-wislok-wielki] i drugi zjazd był jeszcze
+Jechaliśmy do [Wisłoka Wielkiego][wiki-wislok-wielki] i następny zjazd był jeszcze
 fajniejszy. Ciemny las na horyzoncie był już bardzo blisko. Myślałem o
-powrocie, o tym jak męczący będzie podjazd.
+powrocie, o tym jak męczący będzie podjazd skoro ten zjazd był taki fajny.
 
-Szukaliśmy sklepu oraz restauracji. Dowiedzieliśmy się, że sklep najbliższy
+{% post_image "medium","IMGP9948raw1.jpg","Zjazd w stronę Wisłoka Wielkiego" %}
+
+Szukaliśmy sklepu oraz restauracji. Dowiedzieliśmy się, że najbliższy sklep
 jest w [Czystogarbie][wiki-czystogarb], który jest w połowie drogi
 do [Komańczy][wiki-komancza]. Jechać tam to nie problem tylko zniechęcający
 jest fakt, że będziemy musieli wracać tą samą drogą.
 
+{% post_image "medium","IMGP9935raw1.jpg","Droga w Wisłoku Wielkim" %}
+
 Zauważyliśmy jakieś reklamy miejsca gdzie można coś ciepłego zjeść.
-Jeżeli się nie mylę to była informacja o pierogach. Podjechaliśmy do miejsca
-które jednocześnie było noclegiem i restauracją z bardzo ograniczonym menu.
+Jeżeli się nie mylę to była informacja o pierogach. Podjechaliśmy tam.
+Miejsce to jednocześnie było noclegiem i restauracją z bardzo ograniczonym menu.
 Do wyboru były tylko pierogi. Czemu pierogi są tutaj tak popularne?
 
 Dwa samochody, które zaparkowały obok tego obiektu, miały na sobie rowery
-i to całkiem sporo bo jeden miał cztery a drugi dwa.
+i to całkiem dużo - jeden miał cztery a drugi dwa.
 
-Podjazd, którego się tak bałem, udało się pokonać dość szybko. Nie był
+{% post_image "medium","IMGP9953raw1.jpg","Zjazd w stronę Wisłoka Wielkiego" %}
+
+Podjazd, którego się tak obawiałem, udało się pokonać dość szybko. Nie był
 taki straszny. Wracaliśmy tą samą drogą do [Moszczańca][wiki-moszczaniec]
-i cały czas dalej główną drogą 897.
+i cały czas dalej główną drogą 897 na zachód.
 
 Gdzieś po drodzę zatrzymałem się bo widziałem coś czarnego na poboczu.
-Okazało się, że jest to kuna.
+Okazało się, że było to kuna - ciekawe zwierzątko.
 
-W planie było podjechać do [Polan Surowicznych][wiki-polany-surowiczne]
-jednak postanowiliśmy wrócić stosunkowo szybciej i odpocząć aby mieć
+W planie mieliśmy podjechać do [Polan Surowicznych][wiki-polany-surowiczne]
+jednak postanowiliśmy wrócić stosunkowo szybciej i odpocząć, aby mieć
 siły przed ostatnim dniem - powrotem, który zapowiadał się ciekawie.
+
+{% post_image "medium","IMGP9961raw1.jpg","Kościół w Woli Niżnej" %}
 
 W [Woli Niżnej][wiki-wola-nizna] zatrzymaliśmy się na chwilę przy białem
 kościele.
 
 Wróciliśmy do bazy, zrobiliśmy jedzenie i trochę odpoczęliśmy.
-Wieczorem poszliśmy się przejść do [Jaśliskach][wiki-jasliskach] widząc
+Wieczorem poszliśmy się przejść po [Jaśliskach][wiki-jasliska] widząc
 w niektórych miejscach solidną biedę.
+
+{% post_image "medium","IMGP9966raw1.jpg","Dom w Jaśliskach" %}
 
 Wracając z baru dwóch lokalnych mieszkańców opowiedziało nam o
 historii tego miejsca i pokazało fragmenty tuneli pod miastem. Brali oni udział
-podczas kręcenia Wina Truskawkowego. Powiedziano nam, że w lasach jest jeszcze
+podczas kręcenia Wina Truskawkowego. Powiedzieli nam, że w lasach jest jeszcze
 bardzo dużo pozostałości po obu wojnach światowych.
 
-
-
-TODO:
-
-* nigdy nie byłem dalej na wschód niż Jaśliska
-* zobaczyłem że mój rower nie ma powietrza, napompowałem i ruszyliśmy w trasę
-* rusyliśmy do Woli Niżnej
-* mieliśmy do wybory 2 pętle: dolną przez Jasiel, albo górną przez Surowicę/Darów
-* ta południowa zapowiadała się na łatwiejszą i ciekawszą
-* ruszyliśmy lekkim podjazdem
-* trasa przebiega w okolicy rzeki
-* trasa kurierów beskidzkich AK
-* puste chaty, PGR
-* bloki kamienne na drodze
-* strumyk
-* zmiana dętki
-* pomnik AK
-* stawik z lilią wodną, dolina, źródło
-* rozwalony metalowy krzyż
-* po stawie były chatki, chcieliśmy wejść ale nie było jasnej drogi
-* krzyże - jak zwykle
-* Jasiel - namioty, brak zasięgu
-* podjazd w lesie do cypla
-* zjazd po kamieniach, później szutrem
-* opuszczony dom po drodzę
-* asfaltowy zjazd
-* opuszczone PGR w Moszczańcu
-* w lewo podjazdem po szutro-kamień
-* zjazd do Wisłoka Wielkiego bardzo piękny, 62km/h ale obawiałem się powrotu
-* zjazd dwustopniowy (wypłaszczenie, zakręt)
-* agroturystyka z pierogami
-* podjazd nie był taki ciężki
-* kuna
-* w Woli Niżnej biały kościół
-* ponowne zaskoczenie ładnymi domkami w Jaśliskach
+Pisząc ten wpis teraz zastanawiam się jak wygląda pętla przez
+[Polany Surowiczne][wiki-polany-surowiczne] i chętnie przejadę tutaj następnym
+razem.
