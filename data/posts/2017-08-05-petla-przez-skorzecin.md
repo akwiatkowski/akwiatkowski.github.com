@@ -32,6 +32,8 @@ pois:
 [wiki-kujawsko-pomorskie]: https://pl.wikipedia.org/wiki/Kujawsko-pomorskie
 [wiki-kamionek]: https://pl.wikipedia.org/wiki/Kamionek_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-gebice]: https://pl.wikipedia.org/wiki/G%C4%99bice
+[wiki-sopot]: https://pl.wikipedia.org/wiki/Sopot
+[wiki-mielno]: https://pl.wikipedia.org/wiki/Mielno
 
 
 Wstęp
