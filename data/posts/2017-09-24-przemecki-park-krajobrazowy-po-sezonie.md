@@ -59,7 +59,7 @@ Są dwie możliwości dojazdu do [Boszkowa][wiki-boszkowo] z
 {% post_image "medium","IMGP0580raw1.jpg","Jezioro Dominickie nocą" %}
 
 Gdy patrzyłem na mapach Google, to zauważyłem w
-[Boszkowie][wiki-boszkow] bardzo dużo obiektów gastronomicznych i sklepów.
+[Boszkowie][wiki-boszkowo] bardzo dużo obiektów gastronomicznych i sklepów.
 Nie było jednak dostępnej informacji o tym, że te dane uwzględniają obiekty otwarte w
 sezonie.
 Poza sezonem otwarte są dwa hotele.
