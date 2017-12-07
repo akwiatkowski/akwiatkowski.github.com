@@ -23,7 +23,7 @@ pois:
 [wiki-oborniki]: https://pl.wikipedia.org/wiki/Oborniki
 [wiki-wargowo]: https://pl.wikipedia.org/wiki/Wargowo_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-kowalewko]: https://pl.wikipedia.org/wiki/Kowalewko_(powiat_obornicki)
-[wiki-objezierza]: https://pl.wikipedia.org/wiki/Objezierze_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-objezierze]: https://pl.wikipedia.org/wiki/Objezierze_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-zielotkowo]: https://pl.wikipedia.org/wiki/Ziel%C4%85tkowo_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 [wiki-dabrowka-lesna]: https://pl.wikipedia.org/wiki/D%C4%85browa_Le%C5%9Bna
@@ -65,7 +65,7 @@ O godzinie 13-tej wysiedliśmy w [Wargowie][wiki-wargowo] - stacji
 gdzie skończyłem
 [poprzednią trasę rowerową]({% post_url 2017-09-19-krotka-ucieczka-w-strone-obornik %}).
 
-Przez [Kowalewko][wiki-kowalewko] dojechaliśmy do [Objezierza][wiki-objezierza],
+Przez [Kowalewko][wiki-kowalewko] dojechaliśmy do [Objezierza][wiki-objezierze],
 do którego [ostatnio]({% post_url 2017-09-19-krotka-ucieczka-w-strone-obornik %})
 nie udało mi się dojechać.
 
