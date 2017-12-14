@@ -2,13 +2,13 @@
 layout:                 post
 title:                  "Okolice wschodniej części Puszczy Noteckiej"
 subtitle:               "prawdopodobnie zakończenie sezonu rowerowego w 2017 roku"
-desc:                   "Drugie zakończenie sezonu rowerowego czyli przejazd z Wargowa przez Oborniki do Sokołowa Budzyńskiego. "
-keywords:               [oborniki]
+desc:                   "Drugie zakończenie sezonu rowerowego czyli przejazd z Wargowa przez Oborniki do Sokołowa Budzyńskiego."
+keywords:               [oborniki, sokołowo budzyńskie, popielno, rzeka flinta]
 date:                   2017-10-01 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
-towns:                  [wielkopolskie, oborniki, ryczywol, budzyn, sokołowo budzyńskie, popielno, rzeka flinta]
+towns:                  [wielkopolskie, oborniki, ryczywol, budzyn]
 
 coords:                 [{"route": [[52.58021,16.82317], [52.57646,16.79493], [52.59059,16.77948], [52.59679,16.76566], [52.60388,16.76257], [52.59935,16.75107], [52.60467,16.76506], [52.64031,16.80892], [52.64567,16.80987], [52.64624,16.80420], [52.67170,16.80935], [52.68341,16.80849], [52.69751,16.82592], [52.73780,16.83424], [52.75599,16.81982], [52.81184,16.83647], [52.81605,16.84059], [52.82917,16.89827], [52.84467,16.93956], [52.83705,16.97320], [52.83705,16.99389]], "type": "bicycle"}]
 distance:               50
