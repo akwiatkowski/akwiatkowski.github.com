@@ -3,11 +3,11 @@ layout:                 post
 title:                  "Najlepszy punkt widok na Bardo"
 subtitle:               "deszczowe południe w Bardzie aby zobaczyć dwa punkty widokowe"
 desc:                   "Bardzo krótka piesza wycieczka po drodze krzyżowej na punkt widokowy, z którego widać prawie całe Bardo. Podczas zejścia odwiedziliśmy drugi punkt widokowy a na koniec pospacerowaliśmy po zaspanym mieście."
-keywords:               [bardzo, bardzkie, jesień]
+keywords:               [bardzo, bardzkie, jesień, bardo przysiek, droga krzyżowa]
 date:                   2017-10-22 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, todo]
+tags:                   [hike, main]
 towns:                  [dolnoslaskie, bardo]
 lands:                  [gory_bardzkie]
 
@@ -21,14 +21,20 @@ pois:
 
 ---
 
+[wiki-bardo]: https://pl.wikipedia.org/wiki/Bardo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+[wiki-bardo-przylek]: https://pl.wikipedia.org/wiki/Bardo_Przy%C5%82%C4%99k
+[wiki-nysa-klodzka]: https://pl.wikipedia.org/wiki/Nysa_K%C5%82odzka
+[wiki-kamieniec-zabkowicki]: https://pl.wikipedia.org/wiki/Kamieniec_Z%C4%85bkowicki
 
 Wstęp
 -----
 
 [Bardo][wiki-bardo] mnie intrygowało od dłuższego czasu za sprawą zdjęcia
-z punktu widokowego. Okoliczne góry mnie ciekawiły gdyż bardzo słabo je znam.
-Tego dnia chciałem zaspokoić swoją ciekawość mając na uwadzę, że nie zrobię
-zbyt długiej trasy gdy pogoda jest niepewna.
+z jakiegoś popularnego punktu widokowego.
+
+Okoliczne góry mnie ciekawiły, bardzo słabo je znam.
+Tego dnia chciałem zaspokoić swoją ciekawość mając na uwadze, że nie zrobię
+zbyt długiej trasy, gdyż pogoda jest niepewna.
 
 Opis trasy
 ----------
@@ -38,27 +44,48 @@ Opis trasy
 Szczegóły
 ---------
 
-Z pociągu wysiedliśmy około 10:40. Poszliśmy trochę na wschód aż do
-ulicy Skalnej gdzie niebieski szlak pieszy rozpoczynał swoję podejście.
+Z pociągu wysiedliśmy około godziny 10:40. Poszliśmy trochę na wschód, aż do
+ulicy Skalnej, gdzie na niebieskim szlaku pieszym rozpoczynało się podejście.
+
+{% post_image "medium","IMGP2441raw1.jpg","Podejście niebieskim szlakiem" %}
 
 Niebieski szlak pieszy (chociaż nie wiem na jakiej odległości) jest
 drogą krzyżową.
 
-Oprócz źródła Marii i samych pomników-stacji drogi krzyżowej szlak ten nie
-miał w sobie nic ciekawego.
+Oprócz źródła Marii i samych pomników - stacji drogi krzyżowej, szlak ten nie
+miał w sobie wiele ciekawego.
 
-W okolicy jest żółty szlak rowerowy, który powinien być całkiem przyjemny i
-łatwy do jeżdzenia. Tak przewiduję, nie jestem tego pewien gdyż widziałem
+{% post_image "medium","IMGP2446raw1.jpg","Źródło Marii" %}
+
+W okolicy jest żółty szlak rowerowy, który powinien być dość przyjemny i
+łatwy do jazdy. Tak przewiduję, nie jestem tego pewien, gdyż widziałem
 tylko krótki fragment.
 
-Dotarliśmy na punkt widokowy obok krzyża z którego był widok na
+{% post_image "medium","IMGP2497raw1.jpg","Liść gdzieś na szlaku" %}
+
+Dotarliśmy na punkt widokowy obok krzyża, z którego był widok na
 [miasto][wiki-bardo]. Akurat ruszał w tym momencie pociąg i mogłem zrobić
-zdjęcie z pociągiem.
+zdjęcie z nim na pierwszym planie.
+
+{% post_image "medium","IMGP2504raw1.jpg","Drugi punkt widokowy na Bardo" %}
 
 Wracając nie schodziliśmy niebieskim szlakiem tylko poszliśmy żółtym
 szlakiem rowerowym i dotarliśmy do ulicy Krakowskiej.
 
+{% post_image "medium","IMGP2506raw1.jpg","W stronę ulicy Krakowskiej" %}
+
 Kierowaliśmy się do centrum. Miasto wydawało się ospałe. Chcieliśmy się powłóczyć
 lecz deszcz przekonywał nas, że przyda się ciepłe herbata.
-W tym momencie pojawiał się pomysł na
+W tym momencie pojawił się pomysł na
 [dalszą część dnia]({% post_url 2017-10-22-palac-w-kamiencu-zabkowickim %}).
+
+{% post_image "medium","IMGP2511raw1.jpg","Centrum Barda" %}
+
+Nie widzieliśmy żadnej kawiarni w centrum. Przechodząc obok cmentarza
+postanowiliśmy, że dotrzemy do stacji [Bardo Przyłęk][wiki-bardo-przylek].
+
+Nie udało się nam dotrzeć do [Nysy Kłodzkiej][wiki-nysa-klodzka]. Woleliśmy poczekać
+na [stacji][wiki-bardo-przylek] za pociągiem do
+[Kamieńca Ząbkowickiego][wiki-kamieniec-zabkowicki].
+
+{% post_image "medium","IMGP2520raw1.jpg","Jadąc do Kamieńca Ząbkowickiego" %}
