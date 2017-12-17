@@ -35,32 +35,32 @@ Szczegóły
 To były czasy, kiedy przejazd TLKą i możliwość bezproblemowego oparcia się o ścianę w pociągu była sporym sukcesem.
 Później wprowadzono pełną rezerwacje miejsc i do kolei przyszedł ład, porządek i cywilizacja.
 
-{% post_image "medium","IMGP6031b.jpg","Koninki" %}
+{% photo "IMGP6031b.jpg","Koninki","nogallery" %}
 
 Bazę mieliśmy w dolinie, w wiosce [Porębie Wielkiej][wiki-poreba].
 Nie było żadnych planów tras, przez to jak udało nam się rozlokować i wyruszyć była już przynajmniej 16-ta. Udało nam się
 wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego, i musiałem robić zdjęcia.
 
-{% post_image "medium","IMGP6034b.jpg","Dom w Koninkach" %}
+{% photo "IMGP6034b.jpg","Dom w Koninkach" %}
 
 Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10-tej. Po przejściu 20-30 minut zaczęło padać.
 Już wiem, że warto sprawdzać prognozę pogody wcześniej, oraz warto mieć trochę odpowiedniejsze ubranie.
 
-{% post_image "medium","IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej" %}
+{% photo "IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej" %}
 
 Padało tak cały dzień, dopiero
 wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
 z której jest widok na całą dolinę.
 
-{% post_image "medium","IMGP6504b.jpg","Poręga Górna" %}
+{% photo "IMGP6504b.jpg","Poręga Górna" %}
 
 Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliśmy przed autobusem ponownie na tą polanę.
 Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.
 Dodatkową atrakcją były pasące się owce.
 
-{% post_image "medium","IMGP6536b.jpg","Owce pasące się nad Koninkami" %}
+{% photo "IMGP6536b.jpg","Owce pasące się nad Koninkami" %}
 
 Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach. Było to
 trochę zaskakujące.
 
-{% post_image "medium","IMGP6579.JPG","Koziołek" %}
+{% photo "IMGP6579.JPG","Koziołek" %}

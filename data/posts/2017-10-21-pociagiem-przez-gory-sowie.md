@@ -11,7 +11,7 @@ tags:                   [train]
 towns:                  [dolnoslaskie, walbrzych, jedlina_zdroj, gluszyca, nowa_ruda, radkow, klodzko]
 lands:                  [gory_sowie]
 
-coords:                 [{"route": [[50.74127,16.29941], [50.71171,16.34507], []], "type": "train"}]
+coords:                 [{"route": [[50.74318,16.28306], [50.71069,16.34451], [50.63476,16.42416], [50.57767,16.50570], [50.54463,16.47652], [50.45138,16.65659]], "type": "train"}]
 distance:               52
 time_spent:             2
 

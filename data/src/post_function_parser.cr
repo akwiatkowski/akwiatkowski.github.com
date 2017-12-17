@@ -8,6 +8,29 @@ class Tremolite::Views::BaseView
       return Time.now.year.to_s
     end
 
+    # new, with string params
+    result = command.scan(/photo\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
+    if result.size > 0 && post
+      return post_photo(
+        post: post,
+        image: result[0][1],
+        alt: result[0][2],
+        param_string: result[0][3]
+      )
+    end
+
+    # new, w/o string params
+    result = command.scan(/photo\s+\"([^\"]+)\",\"([^\"]+)\"/)
+    if result.size > 0 && post
+      return post_photo(
+        post: post,
+        image: result[0][1],
+        alt: result[0][2],
+        param_string: ""
+      )
+    end
+
+    # basic with size
     result = command.scan(/post_image\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_image(
@@ -19,6 +42,7 @@ class Tremolite::Views::BaseView
       )
     end
 
+    # deprecated
     result = command.scan(/post_image_no_gallery\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_image(
@@ -31,6 +55,24 @@ class Tremolite::Views::BaseView
     end
 
     return nil
+  end
+
+  FLAG_NOGALLERY = "nogallery"
+
+  def post_photo(post : Tremolite::Post, image : String, alt : String, param_string : String)
+    gallery = true
+
+    if param_string.includes?(FLAG_NOGALLERY)
+      gallery = false
+    end
+
+    return post_image(
+      post: post,
+      size: "medium",
+      image: image,
+      alt: alt,
+      gallery: gallery
+    )
   end
 
   def post_image(post : Tremolite::Post, size : String, image : String, alt : String, gallery : Bool)
