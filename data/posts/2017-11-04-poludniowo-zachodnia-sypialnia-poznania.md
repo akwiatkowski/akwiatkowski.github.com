@@ -21,7 +21,7 @@ pois:
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 [wiki-fabianowo]: https://pl.wikipedia.org/wiki/Fabianowo
-[wiki-plewisk]: https://pl.wikipedia.org/wiki/Plewiska
+[wiki-plewiska]: https://pl.wikipedia.org/wiki/Plewiska
 [wiki-dabrowka]: https://pl.wikipedia.org/wiki/D%C4%85br%C3%B3wka_(powiat_pozna%C5%84ski)
 [wiki-lusowo]: https://pl.wikipedia.org/wiki/Lusowo_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-jezioro-lusowskie]: https://pl.wikipedia.org/wiki/Jezioro_Lusowskie

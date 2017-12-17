@@ -19,6 +19,7 @@ pois:
 
 ---
 
+[wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/D%C4%99bina_(Pozna%C5%84)#Park_leśny
 
 Wstęp
 -----
