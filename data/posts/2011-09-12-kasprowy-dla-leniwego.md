@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Kasprowy dla leniwego"
 subtitle:               "lub gdy się wczesniej przesadzi"
+desc:                   "Wjechałem na Kasprowy Wierch jak większość leniwych ludzi gdyż jeszcze miałem problemy z kolanem. Tym razem nieby było prawie bezchmurne i mieliśmy widok na Podhale oraz Pieniny."
+keywords:               [tatry wysokie, kasprowy, świnica]
 date:                   2011-09-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28879515/m%3D2048/fb41d8488de306ab6c75db2b62dbd605"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
@@ -32,30 +33,24 @@ Szczegóły
 
 Powiedziano nam, że kolejka do kolejki jest na 2-3 godziny czekania, jednak jak
 się okazało czekaliśmy tylko godzinę. Zmniejszona została
-częstotliwość kursowania o połowę aby ograniczyć negatywny wpływ człowieka. Człowiek = szkodnik, na to wygląda.
+częstotliwość kursowania wyciągu o połowę aby ograniczyć negatywny wpływ człowieka.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/30557563/m%3D900/57cf6bfb98f068df6139d71d246b2039' alt='Dolina Gąsienicowa by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/30557563/dolina-g%C4%85sienicowa-by-aleksander-kwiatkowski' alt='Dolina Gąsienicowa by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1210b1.jpg","Widok na Gubałówkę i Podhale" %}
 
-Jak już dojechaliśmy na górę to szybko rozeznaliśmy co tam jest.
+Chciałem iść w stronę [Świnicy][wiki-swinica], jednak za szybko szlak zaczął robić się
+stromy i musiałem zawrócić. Kolana zaczęły się wyraźnie odzywać.
 
-Chciałem iść w stronę [Świnicy][wiki-swinica], jednak za chwilę zaczęło robić się
-stromiej i musiałem zawrócić. Kolana zaczęły się wyraźnie odzywać.
+{% photo "IMGP1224b.jpg","Szlak w stronę Świnicy" %}
 
-Raczej nie mogę chwalić się jakąkolwiek trasą jaką zrobiłem, ale mogę pochwalić się [najlepszą panoramą jaką zrobiłem][panoramio-tatry].
+Raczej nie mogę chwalić się jakąkolwiek trasą jaką przeszedłem,
+ale mogę pochwalić się [najlepszą panoramą jaką zrobiłem][panoramio-tatry].
 360 stopni widoku z [Kasprowego Wierchu][wiki-kasprowy] podczas dobrej widoczności i pogody.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28879515/m%3D900/1b0cf47965cb0d262d7e8cd75ca9a4f9' alt='Goryczkowa Czuba by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28879515/goryczkowa-czuba-by-aleksander-kwiatkowski' alt='Goryczkowa Czuba by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+Aktualizacja: Panoramio zostaje zamknięte przez Google i już moja panorama nie będzie dostępna.
 
-Na koniec, widziałem [Trzy Korony][wiki-trzy-korony] - szczyt w Pieninach. Odległość tylko 36km.
+{% photo "IMGP1280b.jpg","Widok na Podhale" %}
+
+Na koniec, widziałem [Trzy Korony][wiki-trzy-korony] - szczyt w Pieninach, odległy
+od nas tylko 36km.
+
+{% photo "IMGP1399b1.jpg","Szlak na Świnicę" %}

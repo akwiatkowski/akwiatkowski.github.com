@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Tatry dla początkującego"
 subtitle:               "okazały się nie być takie łatwe"
+desc:                   "Pierwsza dłuższa trasa w wyższych górach - Tatrach. Przejście na Trzydniowiański i Kończysty Wierch i... nadwyrężenie kolana. Zapłaciłem bólem za piękne widoki."
+keywords:               [tatry zachodnie, chochołowska, trzydniowiański, kończysty, wierch, jesień]
 date:                   2011-09-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28845971/m%3D2048/4a65b33661eae858e1fdaa8b313ff4da"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
@@ -35,28 +37,47 @@ Szczegóły
 
 <a href="http://mapa-turystyczna.pl/route/z1gy" title="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl"><img alt="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
+{% photo "IMGP0331b.jpg","Tatry w Chmurach" %}
 
 Z Kościeliska dojechaliśmy do centrum [Zakopanego][wiki-zakopane], a następnie do [Kir][wiki-kiry] (nie wiem czy dobrze odmieniam).
-Dojazd "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [Polany Chochołowskiej][wiki-polana-choch]
+Następnie dojechaliśmy "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [Polany Chochołowskiej][wiki-polana-choch]
 
-<div class="pixels-photo">
-  <p><img src="https://drscdn.500px.org/photo/28835715/m%3D900/9315fc72d95134bbf5d6c3ca839e0042" alt="Photograph Huts in Chochołowska valley by Aleksander Kwiatkowski on 500px"></p>
-  <a href="https://500px.com/photo/28835715/huts-in-chocho%C5%82owska-valley-by-aleksander-kwiatkowski">Huts in Chochołowska valley by Aleksander Kwiatkowski on 500px</a>
-</div>
-<script type="text/javascript" src="https://500px.com/embed.js"></script>
+{% photo "IMGP0458b.jpg","Chaty na Polanie Chochołowskiej","nogallery" %}
 
-Krótkie wejście do schroniska i dalej w górę. Wszystko takie duże, odległe, nowe i męczące. Udało nam się dostać na
-[Trzydniowiański Wierch][wiki-trzydniowianski] około 15-tej. Zobaczyłem na mapę, że obok jest [Kończysty Wierch][wiki-konczysty],
-który ma *tylko* 2002 metry wysokości, i tylko 45 minut podejścia i zejścia. No w sumie głupio by było nie skorzystać
-z tej szansy.
+Krótkie wejście do schroniska i dalej ruszyliśmy w górę.
+Wszystko takie duże, odległe, nowe i męczące. Udało nam się dostać na
+[Trzydniowiański Wierch][wiki-trzydniowianski] około godziny 15-tej.
 
-<div class="pixels-photo">
-  <p><img src="https://drscdn.500px.org/photo/24011503/m%3D900/111e76b4f1e7a5d77beaaf6ce204f7b0" alt="Photograph Chochołowska Valley by Aleksander Kwiatkowski on 500px"></p>
-  <a href="https://500px.com/photo/24011503/chocho%C5%82owska-valley-by-aleksander-kwiatkowski">Chochołowska Valley by Aleksander Kwiatkowski on 500px</a>
-</div>
-<script type="text/javascript" src="https://500px.com/embed.js"></script>
+{% photo "IMGP0794b1.jpg","Dolina Jarząbcza","nogallery" %}
 
-A po tym była krew, pot i łzy... i bolące kolana. Udało nam się wrócić na ostatni autobus powrotny, który ruszał po 20-tej.
-Po drodzę zjedliśmy coś ciepłego, doczołgałem się do bazy, umyć i spać.
+Zobaczyłem na mapę. Widzę, że obok jest [Kończysty Wierch][wiki-konczysty],
+który ma *tylko* 2002 metrów wysokości i
+jest oddalony o tylko 45 minut podejścia (i zejścia i później).
+No w sumie głupio by było nie skorzystać z tej szansy.
+
+{% photo "IMGP0841b1.jpg","Podczas podejścia na Kończysty Wierch" %}
+
+A po tym była krew, pot i łzy... i bolące kolana.
+Udało nam się wrócić na ostatni autobus powrotny, który ruszał po godzinie 20-tej.
+Po drodzę zjedliśmy coś ciepłego, doczołgałem się do bazy, zostało tylko umyć się i spać.
+
+{% photo "IMGP0849b.jpg","Szlak w stronę Łopaty w chmurach" %}
 
 Następne dnie to było dochodzenie do siebie po przemęczonych kolanach.
+
+Zdjęcia
+-------
+
+Poniżej kilka zdjęć, które nie zmieściły się w krótki opisie powyżej.
+
+Widok na Dolinę Chochołowską z Kończystego Wierchu.
+
+{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu" %}
+
+Zejście z Trzydniowiańskiego Wierchu przez kosodrzewinę.
+
+{% photo "IMGP0951b1.jpg","Zejście z Trzydniowiańskiego Wierchu przez kosodrzewinę" %}
+
+Kosodrzewina w Tatrach Zachodnich.
+
+{% photo "IMGP0980b.jpg","Kosodrzewina w Tatrach Zachodnich" %}
