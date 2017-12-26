@@ -1,13 +1,13 @@
 ---
 layout:                 post
 title:                  "Poszukiwanie dobrej pogody obok Samotni"
-subtitle:               "okazało się, że im niżej tym lepsza widoczność"
-desc:                   ""
+subtitle:               "okazało się, że im niżej tym jest lepsza widoczność"
+desc:                   "Drugi dzień fotowarsztatów w Karkonoszach pokazał nam, że pogoda w górach jest bywa bardzo kapryśna."
 keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-10 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, todo_media]
+tags:                   [photo, workshop, mountains, main]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74114,15.70645], [50.74980,15.71121], [50.74836,15.70387]], "type": "hike"}]
@@ -47,22 +47,32 @@ Wstałem o 5:30 aby móc się normalnie wybudzić i wypić herbatę. Wyruszyliś
 o 6:30, maksymalnie czekając na spóźnialskich 2 minuty - tak ustalił
 [Karol][karol-nienartowicz].
 
+{% photo "IMGP2534raw1.jpg","Pochmurny poranek na Śnieżce" %}
+
 Na [Śnieżce][wiki-sniezka] wiało, była mgła i ogólnie średnio ciekawie.
 
 Przyzwyczajałem się do otaczającej mnie monotonii, gdzie tylko ja albo inny
 człowiek jest czymś innym niż bielą.
 
+{% photo "IMGP2548raw1.jpg","Zejście ze Śnieżki" %}
+
 Wróciliśmy na wykłady po których około 13-tej poszliśmy na spacer w stronę
 [Samotni][wiki-samotnia]. Im bardziej schodziliśmy tym chmury się robiły
 rzadsze. Na wysokości [schroniska][wiki-samotnia]
-coś tam było widać.
+coś tam już było widać.
+
+{% photo "IMGP2628raw1.jpg","Widok na okolice Karpacza" %}
 
 Przez całą drogę bardzo mocno wiało. Drobinki lodu uderzały mnie w twarz.
 
 Wróciliśmy tą samą drogą do [Domu Śląskiego][wiki-dom-slaski].
 
+{% photo "IMGP2633raw1.jpg","Okolice Strzechy Akademickiej" %}
+
 Mój pokój był na południowo-wschodnim rogu [schroniska][wiki-dom-slaski].
 Od południa bardzo mocno wiał wiatr. W nocy było mi zimno, ale nie pomyślałem
 aby ubrać polar. Przez zimno miałem problemy ze spaniem.
+
+{% photo "IMGP2664raw2.jpg","Wracając do Domu Śląskiego" %}
 
 W tej sytuacji otwarcie okna aby przewietrzyć nabiera zupełnie innego znaczenia.

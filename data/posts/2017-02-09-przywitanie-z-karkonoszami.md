@@ -7,7 +7,7 @@ keywords:               [karpacz, karkonosze, karol nienartowicz, zima, śnieg]
 date:                   2017-02-09 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, main]
+tags:                   [photo, workshop, mountains, main]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74722,15.72756], [50.74043,15.72456], [50.73593,15.74009]], "type": "hike"}]

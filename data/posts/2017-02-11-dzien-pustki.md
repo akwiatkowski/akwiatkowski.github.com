@@ -2,12 +2,12 @@
 layout:                 post
 title:                  "Dzień pustki"
 subtitle:               "wiatr, śnieg i nie warto w ogóle wychodzić ze schroniska"
-desc:                   ""
-keywords:               [karpacz, karkonosze, zima, śnieżka]
+desc:                   "Trzeci dzień fotowarsztatów był przepełniony kolorem białym. Oprócz teorii i rozmów jedynym ciekawą aktywnością był spacer do Lucni Boudy."
+keywords:               [karpacz, karkonosze, zima, śnieżka, lucni bouda]
 date:                   2017-02-11 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, todo_media]
+tags:                   [photo, workshop, mountains]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.73932,15.72902], [50.73413,15.69718], [50.72745,15.69293]], "type": "hike"}]

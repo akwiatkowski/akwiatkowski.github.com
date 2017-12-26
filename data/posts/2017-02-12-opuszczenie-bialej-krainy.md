@@ -7,7 +7,7 @@ keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-12 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, workshop, main, todo_media]
+tags:                   [photo, workshop, main, mountains]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74676,15.72722], [50.74915,15.71468], [50.75792,15.72271], [50.76853,15.72996]], "type": "hike"}]
@@ -47,17 +47,23 @@ Opis trasy
 Szczegóły
 ---------
 
-Przez poprzednie dni pogodę sprawdzałem na trzech różnych stronach mających
+Przez poprzednie dni pogodę sprawdzałem na trzech różnych stronach
 pogodę na szczycie [Śnieżki][wiki-sniezka]. Czasami robiłem to nawet co godzinę.
+
+{% photo "IMGP2734raw1.jpg","Na Śnieżce nadal pogoda nie była idealna" %}
 
 Rano weszliśmy na [Śnieżkę][wiki-sniezka] mając ostatnie nadzieje na zrobienie
 zdjęć wschodu Słońca. Niestety ponownie się nie udało.
+
+{% photo "IMGP2776raw1.jpg","Schodząc ze Śnieżki do Domu Śląskiego" %}
 
 Podczas schodzenia ze [Śnieżki][wiki-sniezka]
 miałem wrażenie że robi się jakaś poświata. Jakby z jednej strony
 chmury były bardziej pomarańczowe, a z drugiej bardziej niebieskie.
 A może to przez chodzenie przez ostatnie cztery dni w śniegu i mgle
 miałem przewidzenia.
+
+{% photo "IMGP2782raw1.jpg","Delikatna poświata" %}
 
 Powoli zaczęło się przejaśniać w stronę Czech. Niestety nie mogłem dłużej
 pozostać, musiałem wracać do cywilizacji.
@@ -68,6 +74,8 @@ poluje od chyba trzech lat.
 Schodząc czarnym szlakiem z [Kopy][wiki-kopa] do [Karpacza][wiki-karpacz]
 niebo powoli się przejaśniało.
 
+{% photo "IMGP2814raw1.jpg","Ostatnie chwile we mgle" %}
+
 Zabrałem się z dwoma uczestnikami warsztatów do [Zielonej Góry][wiki-zielona-gora].
 
 W okolicy [Starej Kamienicy][wiki-stara-kamienica], gdzie kiedyś
@@ -75,6 +83,7 @@ W okolicy [Starej Kamienicy][wiki-stara-kamienica], gdzie kiedyś
 zauważyłem, że jest dużo ciekawych pól do fotografowania. Może kiedyś przyjadę
 tu samochodem i będę miał więcej opcji.
 
+{% photo "IMGP2853raw1.jpg","Schodząc niżej mieliśmy widok na Karpacz" %}
 
 Podsumowanie
 ------------
