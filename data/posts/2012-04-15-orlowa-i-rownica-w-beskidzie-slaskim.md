@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Orłowa i Równica w Beskidzie Śląskim"
 subtitle:               "trochę szaro i depresyjnie"
+desc:                   "Przedwiosenny krótki wyjazd do Beskidu Śląskiego podczas mało optymistycznej pogody. Krótki spacer na Orłową i Równicę."
+keywords:               [ustroń, mgła, szaro, smutno, depresyjnie, wisła]
 date:                   2012-04-15 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/24121245/m%3D2048/2dcbb0c6d9c7a029f0c9a75a7e55492f"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [slaskie, ustron]
 lands:                  [beskid_slaski]
 
@@ -39,16 +41,16 @@ Spotkaliśmy tam szwendającego się kota
 obok byłego schroniska. Trasa na [Równicę][wiki-rownica] była jeszcze bardziej depresyjna -
 oprócz tego że cały świat jest szary, to mieliśmy jeszcze silniejszy wiatr.
 
+{% photo "IMGP4714.JPG","Widok na Czantorię" %}
+
 Z okolic [Równicy][wiki-rownica] widzieliśmy [Brennę][wiki-brenna]
 i był to w sumie jedyny widok, jaki mieliśmy okazję zaobserwować w całym wyjeździe.
 
+{% photo "IMGP4771.JPG","Okolice Palenicy" %}
+
 Drugiego dnia było jeszcze bardziej szaro i smutno, najlepiej przedstawi to poniższe zdjęcie.
 
-<div class="pixels-photo">
-  <p><img src="https://drscdn.500px.org/photo/28457347/m%3D900/42b63564b7c8c9da7cecec68a6bec3db" alt="Photograph Dark fog by Aleksander Kwiatkowski on 500px"></p>
-  <a href="https://500px.com/photo/28457347/dark-fog-by-aleksander-kwiatkowski">Dark fog by Aleksander Kwiatkowski on 500px</a>
-</div>
-<script type="text/javascript" src="https://500px.com/embed.js"></script>
+{% photo "IMGP5260.JPG","Mgliste słupy" %}
 
 
 Wnioski dodatkowe
@@ -56,3 +58,5 @@ Wnioski dodatkowe
 
 Kwiecień to najbardziej depresyjny miesiąc w górach. Wszyscy czekają za wiosną,
 a nie ma już od dawna żółtych jesiennych barw.
+
+{% photo "IMGP5084.JPG","Wisła" %}

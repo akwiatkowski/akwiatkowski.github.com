@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Regietów i powrót przez Kozie Żebro"
 subtitle:               "pierwszy raz w Beskidzie Niskim"
+desc:                   "Pierwsza wycieczka w Beskidzie Niskim dała mi do zrozumienia, że to pasmo należy traktować zupełnie inaczej niż inne. Na pierwszy dzień wybraliśmy pętlę przez Regietów i Kozie Żebro."
+keywords:               [wiosna, majówka, kozie żebro, regietów, zielono]
 date:                   2012-04-29 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/23973493/m%3D2048/10b9f90c22d87bcc8426d1dbe716aeb4"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
@@ -32,7 +34,9 @@ Wstęp
 -----
 
 Jest to pierwsza trasa zrobione na mojej pierwszej wizycie w [Beskidzie Niskim][wiki-beskid-niski] -
-paśmie, które okaże się być inne niż wszystkie.
+paśmie górskim, które okaże się być inne niż wszystkie.
+
+{% photo "IMGP5507b.jpg","Jezioro Czchowskie" %}
 
 Opis trasy
 ----------
@@ -42,34 +46,26 @@ Opis trasy
 Szczegóły
 ---------
 
+{% photo "IMGP5711b-1.jpg","Opuszczając Wysową Zdrój","nogallery" %}
+
 Jak się nie mylę, to po przyjechaniu samochodem zostawiliśmy rzeczy i poszliśmy się przejść.
 Na początku szliśmy raczej
 główną drogą do [Wysowej][wiki-wysowa]. Było bardzo ciepło, chyba żadnej chmury na niebie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28457691/m%3D900/a11e885b4dffd07ae5f85f81ef36af0b' alt='In the forest by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28457691/in-the-forest-by-aleksander-kwiatkowski' alt='In the forest by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5759b.JPG","Gęsty last przy granicy ze Słowacją" %}
 
 Po pewnym czasie minęliśmy już [wioskę][wiki-wysowa] i zaczęliśmy podchodzić przez
 las, jak to bywa często w górach. A w [Beskidzie Niskim][wiki-beskid-niski] tym bardziej.
 Tam to widoków "w górze" jest mało. Co zrozumiałem na tej wycieczce.
+
+{% photo "IMGP5858b.jpg","Dzwon w Regietowie Wyżnym" %}
 
 Przeszliśmy przez [Obycz][wiki-obycz] i kierowaliśmy się w stronę [Regietowa][wiki-regietow]. Po drodzę widzieliśmy
 jakąś zablokowaną terenówkę.
 Błota już nie było bo ciepło, ale pojazd nadal tam był.
 Stopniowo robiło się ładniej, wyszliśmy z "puszczy" w kierunku [Regietowa][wiki-regietow].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23973493/m%3D900/fcc49be30a6608042bc105a9bbc3a424' alt='Road in Regietów by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23973493/road-in-regiet%C3%B3w-by-aleksander-kwiatkowski' alt='Road in Regietów by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5886b-1.jpg","Kapliczka przy cmentarzu w Regietowie Wyżnym" %}
 
 Po prawej minęliśmy chyba najbardziej znaną [kapliczkę][bn-kapliczka-jpg] [Beskidzie Niskim][wiki-beskid-niski], a dalej
 był [cmentarz][regietow-cmentarz], a następnie [baza namiotową][regietow-namiot].
@@ -77,6 +73,8 @@ był [cmentarz][regietow-cmentarz], a następnie [baza namiotową][regietow-nami
 Od tego momentu skręciliśmy w lewo na zachód w stronę [Koziego Żebra][wiki-kozie-zebro]. Podejście było, według mnie,
 mocno strome i męczące. Patrząc na warunki tego pasma widok z tego miejsca był bardzo dobry. Mieliśmy widok na
 zachodzące słońce.
+
+{% photo "IMGP6025c.JPG","Zachodzące Słońce z Koziego Żebra" %}
 
 Do bazy wróciliśmy prawie o zmroku.
 
