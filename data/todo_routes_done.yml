@@ -27,4 +27,392 @@
     - Jezierzyce
   distance: 69
   time_length: 4.5
-  url: http://umapa.pl/DKJnG  
+  url: http://umapa.pl/DKJnG
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Poznań
+  to: Drużyna Poznańska
+  through:
+    - Łęczyca
+    - Jarosławiec
+    - Jeziory
+    - Górka
+    - Dymaczewo Stare
+  info: Krótka trasa przez WPN, sporo terenu. Częściowo przejechana.
+  priorities:
+    - normal
+  distance: 32
+  time_length: 2.5
+  url: http://umapa.pl/XVsht
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Opalenica
+  to: Przysieka Stara
+  through:
+    - Urbanowo
+    - Karczewo
+    - Łęki Wielkie
+    - Krzan
+  info: Trochę terenu, przejazd obok Grodziska Wielkopolskiego. Przejechałem podobne i nie było zbyt ciekawe. Duży ruch.
+  priorities:
+    - high
+  distance: 41
+  time_length: 3
+  url: http://umapa.pl/8vijA
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Wydartowo
+  to: Jankowo Dolne
+  through:
+    - Łosośniki
+    - Kątno
+    - Ostrówek
+    - Rękawczyn
+    - Ostrowite
+    - Gaj
+    - Lubochnia
+    - Wierzbiczany
+  info: Prawie pętelka po okolicy początku Noteci na Kujawach. Przejechałem podobną. Został fragment obok Jankowa.
+  priorities:
+    - high
+  distance: 45
+  time_length: 3.5
+  train_return_time_cost: 12
+  url: http://umapa.pl/XUZuh
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Babimost
+  to: Toporów
+  through:
+    - Brudzewo
+    - Kępsko
+    - Skąpe
+    - Węgrzynice
+  info: Trasa głównie wokół terenów leśnych. Można ją dalej rozszerzyć w stronę Rzepina. Blisko są stacje kolejowe. Przejechałem już większość jej.
+  priorities:
+    - short
+  distance: 56
+  time_length: 3.5
+  url: http://umapa.pl/df89d
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Złocieniec
+  to: Białogard
+  through:
+    - Połczyn Zdrój
+    - Rąbino
+  info: Większe pofalowanie terenu ale ponownie prawie cała trasa przez mniejsze wioski. Przejechane TODO teraz w poprzek/poziomo
+  priorities:
+    - normal
+  distance: 64
+  time_length: 3.5
+  url: http://umapa.pl/TZGKb
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Chocicza
+  to: Poznań
+  through:
+    - Gogolewo
+    - Śrem
+    - Rogalinek
+    - Zbrudzewo
+  distance: 67
+  time_length: 4
+  url: http://umapa.pl/mXmx9
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Mogilno
+  to: Wągrowiec
+  through:
+    - Wieniec
+    - Drewno
+    - Chomiąża Szlachecka
+    - Gąsawa
+    - Żernik
+    - Janowiec Wielkopolski
+    - Mirkowice
+    - Rąbczyn
+  info: Głównie przez wioski. Nie można skrócić. Teren powinien być urozmaicony. Przejechałem prawie dokładnie taką.
+  priorities:
+    - high
+  distance: 68
+  time_length: 4.5
+  url: http://umapa.pl/dEPNh
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Opalenica
+  to: Wronki
+  through:
+    - Rudniki-Dwór
+    - Brody
+    - Pawłówek
+    - Niemierzewo
+    - Mościejewo
+    - Ryżym
+    - Pakawie
+    - Biezdrowo
+  info: Przez okolice Sierakowa, można trochę skrócić albo pokręcić się bo jest tam dużo spokojnych wiosek. Może być trochę terenu.
+  priorities:
+    - high
+  distance: 72
+  time_length: 4.6
+  url: http://umapa.pl/8vijA
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Piła
+  to: Złocieniec
+  through:
+    - Szydłowo
+    - Wałcz
+    - Świerczyna
+  info: Trasa głównie przez mniejsze wioski
+  priorities:
+    - normal
+  distance: 75
+  time_length: 4.5
+  url: http://umapa.pl/6gixV
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Jaksice
+  to: Wągrowiec
+  through:
+    - Leszcze
+    - Dźwierzchno
+    - Barcin
+    - Pturek
+    - Murczyn
+    - Żnin
+    - Słębowo
+    - Damasławek
+    - Łekno
+  info: Głównie przez wioski. Nie można skrócić. Teren powinien być urozmaicony. TODO równoległą z Gołańczy
+  priorities:
+    - high
+  distance: 75
+  time_length: 5
+  url: http://umapa.pl/ERSHy
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Wydartowo
+  to: Konin
+  through:
+    - Gębice
+    - Przyjezierze
+    - Skulsk
+    - Koszewo
+    - Nockie Holendry
+    - Leśnictwo
+    - Licheń Stary
+    - Izabelin
+  info: Można za Skulskiem rozszerzyć w stronę Koła (82km) lub Barłogi (90km)
+  priorities:
+    - normal
+  distance: 77
+  time_length: 5.0
+  url: http://umapa.pl/lSdzu
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Wojanów
+  to: Głuszyca Górna
+  distance: 78
+  time_length: 5.0
+  url: http://umapa.pl/sdfpQ
+  train_return_time_cost: 80
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Przysieczyn
+  to: Janikowo
+  through:
+    - Rąbczyn
+    - Puzdrowiec
+    - Tonowo
+    - Czewujewo
+    - Biskupin
+    - Chomiąża Szlachecka
+  info: Można skrócić za Chomiążą na południe do Mogilna
+  distance: 80
+  time_length: 5.25
+  url: http://umapa.pl/VH1ky
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Wojanów
+  to: Głuszyca Górna
+  through:
+    - Janowice Wielkie
+    - Marciszów
+    - Kamienna Góra
+    - Krzeszów
+    - Kochanów
+    - Mieroszów
+    - Mezimesti
+    - Hermankovice
+    - Janovicky
+  info: Lekkimi pagórkowatymi terenami przez sudecki wioski. Na ogół drogami z małym ruchem samochodów. Obok Janovicky trochę trzeba będzie poprowadzić rower. Ostatni pociąg jest o 18:42, a poprzedni o 16:00. Za Kochanowem nie można już skrócić trasy.
+  priorities:
+    - normal
+  distance: 74
+  time_length: 5.5
+  train_return_time_cost: 90
+  url: http://umapa.pl/a7aoE
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Żmigród
+  to: Ostrów Wielkopolski
+  through:
+    - Ruda Żmigrodzka
+    - Milicz
+    - Nowy Zamek
+    - Sulmierzyce
+    - Gliśnica
+  info: Można skrócić do Odolanowa (70km), albo za Miliczem bardziej na południe do Sośnie (65km)
+  priorities:
+    - normal
+  distance: 81
+  time_length: 4.5
+  url: http://umapa.pl/jEyaY
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Wojanów
+  to: Lubań Śląski
+  distance: 83
+  time_length: 5.0
+  url: http://umapa.pl/mfn5W
+  train_return_time_cost: 100
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Wronki
+  to: Świnoujście
+  priority: -1
+  info: Nie będę ponownie jechał przez Puszczę Notecką. Trasa z Drezdenka robi się krótsza - 202km.
+  distance: 270
+  time_length: 15.5
+  url: http://umapa.pl/q2Ao1
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Wronki
+  to: Rębusz
+  through:
+    - Pożarowo
+    - Chojno
+    - Jeziorno
+    - Kwiejce Nowe
+    - Drezdenko
+    - Dobiegniew
+  info: Konieczność skorzystania z promu we wsi Chojno. Spora część trasy jest niepewnej jakości.
+  priority: -1
+  distance: 90
+  time_length: 5.75
+  url: http://umapa.pl/ZHbl9
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Miały
+  to: Słonice
+  through:
+    - Pęckowo
+    - Krzyż
+    - Drezdenko
+    - Dobiegniew
+    - Bierzwnik
+    - Rębusz
+    - Pławno
+  info: Część trasy została przejechana, a nie wiem czy chce mi się przejeżdzać przez las.
+  priority: -1
+  distance: 73
+  time_length: 4.5
+  url: http://umapa.pl/FPynh
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Rębusz
+  to: Toruń
+  info: Zrealizowana miejscami i zaktualizować.
+  distance: 255
+  time_length: 14.75
+  url: http://umapa.pl/ECzrt
+
+- voivodeship: dolnoslaskie
+  type: bicycle
+  from: Jelenia Góra
+  to: Włoszakowice
+  distance: 154
+  time_length: 9.25
+  url: http://umapa.pl/auYmT
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Jarocin
+  to: Leszno
+  through:
+    - Nosków
+    - Borek Wielkopolski
+    - Lafajetowo
+    - Gostyń
+    - Żelazno
+    - Krzywin
+    - Osieczna
+  info: Można skrócić do Lipna Nowego (80km). Trasa przez wioski. Za Gostyniem więcej pagórków i ciekawsze tereny powinny być.
+  priorities:
+    - low
+  distance: 85
+  time_length: 5
+  url: http://umapa.pl/NgBSY
+
+- voivodeship: wielkopolskie
+  type: bicycle
+  from: Leszno
+  to: Zbąszyń
+  through:
+    - Włoszakowice
+    - Błotnica
+    - Wolsztyn
+  info: Trasa wzdłuż linii kolejowej Leszno-Zbąszyń. Trochę jezior. Może być ciekawa.
+  priorities:
+    - normal
+  distance: 89
+  time_length: 5.5
+  url: http://umapa.pl/hvBkW
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Złocieniec
+  to: Kołobrzeg
+  through:
+    - Połczyn Zdrój
+    - Rąbino
+    - Stanomino
+    - Kowańcz
+    - Pustary
+  info: Rozszerzenie trasy z Białogardu do Kołobrzegu. Patrząc na mapę to może być to bardzo fajna trasa.
+  priorities:
+    - normal
+    - high
+  distance: 110
+  time_length: 6.5
+  url: http://umapa.pl/02mLh
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Piła
+  to: Kołobrzeg
+  distance: 174
+  time_length: 11
+  url: http://umapa.pl/Q22oD    
