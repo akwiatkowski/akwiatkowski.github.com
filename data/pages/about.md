@@ -34,9 +34,8 @@ Chyba nie, a przynajmniej tak się nie czuję. Nigdy o tym specjalnie nie myśla
 do czasu aż nie odwiedziłem [kolejnapodroz.pl][kolej_na_podroz]. Autor
 idealnie przedstawił to, co mi również się nie podoba w "społeczności".
 
-W świecie gdy premiowane jest wszystko co najbardziej efektowne i obce ta
+W świecie gdy premiowane jest wszystko co najbardziej efektowne i obce, ta
 strone będzie od tego odpoczynkiem.
-
 
 ## Historia
 
