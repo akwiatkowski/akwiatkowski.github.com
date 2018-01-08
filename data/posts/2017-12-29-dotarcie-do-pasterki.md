@@ -25,6 +25,9 @@ pois:
 Wstęp
 -----
 
+Grudzień jest miesiącem odpoczynku od wycieczek z wyjątkiem Sylwestra, kiedy to
+od jakiegoś czasu spędzam go w schronisku w górach. Tym razem
+
 Opis trasy
 ---------
 

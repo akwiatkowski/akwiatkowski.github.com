@@ -1085,3 +1085,18 @@
   distance: 78
   time_length: 5
   url: http://umapa.pl/8s42B
+
+- voivodeship: zachodnio_pomorskie
+  type: bicycle
+  from: Choszczno
+  to: Łobez
+  through:
+    - Recz
+    - Ińsko
+    - Węgorzyno
+  info: Trasa w pobliżu linii kolejowej. Możnaby odbić dalej. Bardzo urozmaicona i może być bardzo ciekawa.
+  priorities:
+    - high
+  distance: 76
+  time_length: 5
+  url: http://umapa.pl/Q5Pzq

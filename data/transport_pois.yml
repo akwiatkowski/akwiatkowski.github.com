@@ -768,3 +768,34 @@
   time_cost: 105
   lat: 52.80534
   lon: 18.24375
+
+- commune_slug: choszczno
+  name: Choszczno
+  time_cost: 105
+  lat: 53.16515
+  lon: 15.40362
+
+- commune_slug: choszczno
+  name: Choszczno
+  time_cost: 80
+  lat: 53.16515
+  lon: 15.40362
+
+- commune_slug: lobez
+  name: Łobez
+  time_cost: 190
+  lat: 53.63615
+  lon: 15.62781
+
+- commune_slug: recz
+  name: Recz
+  station_name: Recz Pomorski
+  time_cost: 240
+  lat: 53.27061
+  lon: 15.56104
+
+- commune_slug: wegorzyno
+  name: Węgorzyno
+  time_cost: 240
+  lat: 53.54302
+  lon: 15.56533
