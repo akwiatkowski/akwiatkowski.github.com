@@ -7,7 +7,7 @@ keywords:               []
 date:                   2018-01-08 09:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, todo]
+tags:                   [photo, todo, photo_of_the_year]
 towns:                  [pomorskie]
 
 coords:                 [{"route": [], "type": "hike"}]

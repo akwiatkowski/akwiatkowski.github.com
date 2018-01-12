@@ -26,6 +26,9 @@ pois:
 Wstęp
 -----
 
+Tak jak niełatwo było się [dostać]({% post_url 2017-12-29-dotarcie-do-pasterki %})
+tak również niełatwo się z niej wydostać.
+
 Opis trasy
 ---------
 
@@ -33,3 +36,23 @@ Opis trasy
 
 Szczegóły
 ---------
+
+W [Pasterce][wiki-pasterka] jest duży problem z zasięgiem. Wydaję mi się,
+że kiedyś nie był on tak problematyczny.
+
+Postanowiliśmy, że przejdziemy (znowu) do [Karłowa][wiki-karlow] i tam
+już mając zasięg zadzwonimy po taksówkę do
+[Kudowy Zdrój][wiki-kudowa-zdroj] albo przejdziemy się tam.
+Ewentualnie zejdziemy do [Duszników Zdrój][wiki-duszniki-zdroj] do
+których jest 10km, czyli kilometr mniej.
+
+W nocy spadło trochę śniegu i krajobraz ponownie zrobił się biały.
+
+W [Karłowie][wiki-karlow] nadal mieliśmy problem z zasięgiem.
+Ruszyliśmy pieszo po już ośnieżonej drodze.
+
+W pewnym momencie jechała taksówka do której zamachaliśmy. Gdy wracała zatrzymaliśmy
+ją i dojechaliśmy do [Kudowej][wiki-kudowa-zdroj].
+
+W samej [Kudowej][wiki-kudowa-zdroj] dworzec kolejowy jest położony
+na południowo-wschodnich przedmieściach.
