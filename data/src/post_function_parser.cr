@@ -8,6 +8,11 @@ class Tremolite::Views::BaseView
       return Time.now.year.to_s
     end
 
+    result = command.scan(/pro_tip/)
+    if result.size > 0
+      return pro_tip(post)
+    end
+
     # new, with string params
     result = command.scan(/photo\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
@@ -94,6 +99,10 @@ class Tremolite::Views::BaseView
       desc: desc,
       image: image
     )
+  end
+
+  private def pro_tip(post : (Tremolite::Post | Nil))
+    return load_html("partials/pro_tip")
   end
 
   def public_path

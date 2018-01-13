@@ -624,3 +624,12 @@ body {
   width: 14px;
   height: 14px;
 }
+
+.pro-tip {
+  font-weight: 700;
+  position: absolute;
+  left: -80px;
+  background-color: #ccf;
+  padding: 5px;
+  border: 1px dotted #77c;
+}
