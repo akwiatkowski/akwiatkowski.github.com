@@ -98,7 +98,7 @@ wschodzie na [Szczelińcu Wielkim][wiki-szczeliniec-wielki].
 
 ## Inne zabawy ze zdjęciami
 
-Dowiedziałem się jak usuwać brudy na matrycy w Gimpie - `effects` i `heal`.
+Dowiedziałem się jak usuwać brudy na matrycy w Gimpie - `Filters` -> `Enhance` -> `Heal selection`.
 
 Porównując zdjęcia zrobione przed Sylwestrem dowiedziałem się o działaniu
 `retinex` z Rawtherapee. Pomaga ten efekt usunąc zamglenie podczas robienia
@@ -116,12 +116,29 @@ Udało mi się dołączyć na krótko, bo tylko dwa dni.
 ## Mazury
 
 Polska północno-wschodnia jest dla mnie kompletnie nieznana.
-Chciałem pojechać na jeden weekend w stronę [Olsztyna][wiki-olsztyn]
+Chciałem pojechać na jeden weekend rowerowy w stronę [Olsztyna][wiki-olsztyn]
 jednak pogoda nie była przychylna.
 
+## Trasa rowerowa do Jeleniej Góry
 
-* Mazury
-* dojazd do Jeleniej Góry z Leszna
-* Kaszuby i Bory Tucholskie tylko liznąłem
-* eksploracja kujawsko-pomorskiego
-* żadnej dłuższej samotnej trasy
+Chciałem przejechać całą trasę dojazdu z [Poznania][wiki-poznan]
+do [Jeleniej Góry][wiki-jelenia-gora]. W praktyce to oznacza trasę
+z [Leszna][wiki-leszno], przez [Rudnę][wiki-rudna] do [Świerzawy][wiki-swierzawa].
+
+Chciałem w ten sposób połączyć na mapie dwa obszary, po których jeździłem.
+
+Trasa idealna na dwudniowy przejazd z sakwami.
+
+## Kaszuby, Bory Tucholskie i województwo kujawsko-pomorskie
+
+[Kaszuby][wiki-kaszuby] liznąłem tylko
+[jednego dnia]({% post_url 2017-06-09-podmiejskie-kaszuby %}) a
+[Bory Tucholskie][wiki-bory-tucholskie] najbliżej zobaczyłem
+[dojeżdzając]({% post_url 2017-06-25-dojazd-do-tucholi %}) rowerem
+do [Tucholi][wiki-tuchola].
+
+Jadąc pociągiem do [Gdańska][wiki-gdansk] zaciekawiły mnie okolice
+[Morzeszczyna][wiki-morzeszczyn].
+
+Województwo [kujawsko-pomorskie][wiki-kujawsko-pomorskie] ma wiele ciekawych
+miejsc.
