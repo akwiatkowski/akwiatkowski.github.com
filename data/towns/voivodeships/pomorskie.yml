@@ -97,3 +97,11 @@
   name: Starogard Gdański
   type: town
   voivodeship: pomorskie
+- slug: gdansk
+  name: Gdańsk
+  type: town
+  voivodeship: pomorskie
+- slug: gdynia
+  name: Gdynia
+  type: town
+  voivodeship: pomorskie
