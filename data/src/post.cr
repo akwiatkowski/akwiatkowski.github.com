@@ -20,6 +20,9 @@ class Tremolite::Post
     # seo
     @desc = String.new
     @keywords = Array(String).new
+
+    # easily changable post image
+    @image_filename = "header"
   end
 
   BICYCLE_TAG = "bicycle"
@@ -37,6 +40,7 @@ class Tremolite::Post
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent
+  getter :image_filename
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -163,6 +167,9 @@ class Tremolite::Post
     end
 
     @desc = @header["desc"].to_s if @header["desc"]?
+
+    # easily changable post image
+    @image_filename = @header["image_filename"].to_s if @header["image_filename"]?
   end
 
   def related_coords : Array(Tuple(Float64, Float64))
@@ -208,15 +215,19 @@ class Tremolite::Post
     end
   end
 
+  def image_url
+    return images_dir_url + image_filename.not_nil! + ".jpg"
+  end
+
   def small_image_url
-    "/images/processed/#{self.year}/#{slug}_small_header.jpg"
+    "/images/processed/#{self.year}/#{slug}_small_#{image_filename.not_nil!}.jpg"
   end
 
   def big_thumb_image_url
-    "/images/processed/#{self.year}/#{slug}_big_thumb_header.jpg"
+    "/images/processed/#{self.year}/#{slug}_big_thumb_#{image_filename.not_nil!}.jpg"
   end
 
   def thumb_image_url
-    "/images/processed/#{self.year}/#{slug}_thumb_header.jpg"
+    "/images/processed/#{self.year}/#{slug}_thumb_#{image_filename.not_nil!}.jpg"
   end
 end
