@@ -119,7 +119,7 @@ Rozstawiłem się na plaży i od tego momentu robiłem zdjęcia morza i
 zachodzącemu słońcu. Słońce niestety skryło się za chmurami zanim
 by przybrało barwę czerwoną.
 
-{% photo "IMGP4373raw1.jpg","Kraniec półwyspu" %}
+{% photo "IMGP4379raw1.jpg","Część przemysłowa" %}
 
 Nie miałem dobrego pierwszego planu. Używając Sigmy 150-500 szukałem ciekawych miejsc,
 jednak na szybko nic nie znalazłem. Postanowiłem wykorzystać miejsce w
