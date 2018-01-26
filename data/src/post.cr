@@ -219,15 +219,26 @@ class Tremolite::Post
     return images_dir_url + image_filename.not_nil! + ".jpg"
   end
 
+  def processed_image_url(prefix : String)
+    Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB, # web paths not neet public folder path
+      post_year: self.year,
+      post_month: self.time.month,
+      post_slug: slug,
+      prefix: prefix,
+      file_name: image_filename.not_nil!
+    )
+  end
+
   def small_image_url
-    "/images/processed/#{self.year}/#{slug}_small_#{image_filename.not_nil!}.jpg"
+    processed_image_url(PostImageEntity::SMALL_PREFIX)
   end
 
   def big_thumb_image_url
-    "/images/processed/#{self.year}/#{slug}_big_thumb_#{image_filename.not_nil!}.jpg"
+    processed_image_url(PostImageEntity::BIG_THUMB_PREFIX)
   end
 
   def thumb_image_url
-    "/images/processed/#{self.year}/#{slug}_thumb_#{image_filename.not_nil!}.jpg"
+    processed_image_url(PostImageEntity::THUMB_PREFIX)
   end
 end

@@ -81,7 +81,15 @@ class Tremolite::Views::BaseView
   end
 
   def post_image(post : Tremolite::Post, size : String, image : String, alt : String, gallery : Bool)
-    url = "/images/processed/#{post.year}/#{post.slug}_#{size}_#{image}"
+    url = Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
+      post_year: post.year,
+      post_month: post.time.month,
+      post_slug: post.slug,
+      prefix: size,
+      file_name: image
+    )
+
     add_post_photo_to_gallery(post: post, image: image, desc: alt) if gallery
     data = {
       "img.src"           => url,
