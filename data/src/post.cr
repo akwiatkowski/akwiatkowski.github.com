@@ -22,7 +22,7 @@ class Tremolite::Post
     @keywords = Array(String).new
 
     # easily changable post image
-    @image_filename = "header"
+    @image_filename = "header.jpg"
   end
 
   BICYCLE_TAG = "bicycle"
@@ -169,7 +169,10 @@ class Tremolite::Post
     @desc = @header["desc"].to_s if @header["desc"]?
 
     # easily changable post image
-    @image_filename = @header["image_filename"].to_s if @header["image_filename"]?
+    if @header["image_filename"]?
+      @image_filename = @header["image_filename"].to_s
+      @image_filename = @image_filename.not_nil!.gsub(/\.jpg/, "") + ".jpg"
+    end
   end
 
   def related_coords : Array(Tuple(Float64, Float64))
@@ -216,7 +219,7 @@ class Tremolite::Post
   end
 
   def image_url
-    return images_dir_url + image_filename.not_nil! + ".jpg"
+    return images_dir_url + image_filename.not_nil!
   end
 
   def processed_image_url(prefix : String)
