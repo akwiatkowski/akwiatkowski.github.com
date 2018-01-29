@@ -23,6 +23,8 @@ class Tremolite::Post
 
     # easily changable post image
     @image_filename = "header.jpg"
+    # ignore some posts and not add them to gallery
+    @nogallery = false
   end
 
   BICYCLE_TAG = "bicycle"
@@ -40,7 +42,7 @@ class Tremolite::Post
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent
-  getter :image_filename
+  getter :image_filename, :nogallery
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -172,6 +174,11 @@ class Tremolite::Post
     if @header["image_filename"]?
       @image_filename = @header["image_filename"].to_s
       @image_filename = @image_filename.not_nil!.gsub(/\.jpg/, "") + ".jpg"
+    end
+
+    # nogallery
+    if @header["nogallery"]?
+      @nogallery = true
     end
   end
 

@@ -1,6 +1,7 @@
 class GalleryView < PageView
   def initialize(@blog : Tremolite::Blog)
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    @selected_posts = @posts.select { |a| a.nogallery.not_nil! != true }.as(Array(Tremolite::Post))
     @data_manager = @blog.data_manager.not_nil!.as(Tremolite::DataManager)
     @post_image_entities = @data_manager.post_image_entities.not_nil!.as(Array(PostImageEntity))
 
@@ -16,7 +17,7 @@ class GalleryView < PageView
   def inner_html
     s = ""
 
-    sorted_by_time = @posts.sort { |a, b| a.time <=> b.time }
+    sorted_by_time = @selected_posts.sort { |a, b| a.time <=> b.time }
     if sorted_by_time.size > 0
       time_from = sorted_by_time.first.time
       time_to = sorted_by_time.last.time
