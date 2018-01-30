@@ -8,7 +8,7 @@ date:                   2012-08-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28528345/m%3D2048/cec636ea7df78c68891f7e1fc2361082"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
@@ -41,30 +41,22 @@ Szczegóły
 Przyjechaliśmy pociągiem do [Janowic Wielkich][wiki-janowice] i po krótkiej chwili ruszyliśmy szlakiem na południe.
 Celem początkowym był [Zamek Bolczów][wiki-bolczow].
 
+{% photo "IMGP7551b.jpg","Mech na szlaku" %}
+
 Pogoda była dosyć mokra i mglista. Szliśmy przez las z lekkim podejściem. Co chwilę z mgły wynurzały się kolejne
 kamienie. Jak to jeden kolega powiedział - te pasmo to tereny głównie spacerowe, ale co chwilę jest
 jakiś kamlot. Faktycznie tak było.
 
 Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow]. To jest taka ciekawa ruina pośrodku lasu.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28528955/m%3D900/822a156945066da48696bdbe0178d4b0' alt='Bridge by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28528955/bridge-by-aleksander-kwiatkowski' alt='Bridge by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7594b.jpg","Górne części Zamka Bolczów" %}
 
 Następnie kierowaliśmy się szlakiem zielonym na zachód. Tutaj aż do [Przełęczy Karpnickiej][wiki-karpnicka]
 niewiele było do opisywania. Las, gdzieniegdzie strumyk. Chyba właśnie te strumyki były najciekawsze wtedy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28530627/m%3D900/0701b47e3e4004588b25719579b8cd0c' alt='Brown and green by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28530627/brown-and-green-by-aleksander-kwiatkowski' alt='Brown and green by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7635b.JPG","Strumień w Rudawach Janowickich" %}
 
 Po jakimś czasie dotarliśmy do [Schroniska Szwajcarka][wiki-szwajcarka] ([www][szwajcarka]). Nie było późno, ale pogoda
 nie zachęcała do dalszych spacerów, więc zaczęliśmy testować ofertę kulinarną schroniska.
+
+{% photo "IMGP7650b.JPG","Kamień w wodzie" %}
