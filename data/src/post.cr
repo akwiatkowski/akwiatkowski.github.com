@@ -37,6 +37,8 @@ class Tremolite::Post
   TODO_TAG       = "todo"
   TODO_MEDIA_TAG = "todo_media"
 
+  CATEGORY_TRIP = "trip"
+
   getter :coords
   getter :small_image_url, :thumb_image_url, :big_thumb_image_url
   getter :tags, :towns, :lands, :pois
@@ -80,6 +82,14 @@ class Tremolite::Post
     return false if train? || car?
     return true if bicycle? || hike? || walk?
     return false
+  end
+
+  def trip?
+    self.category == CATEGORY_TRIP
+  end
+
+  def gallery?
+    self.nogallery.not_nil! != true
   end
 
   # XXX upgrade in future
