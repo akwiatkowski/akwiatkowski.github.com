@@ -20,4 +20,4 @@ Wstęp
 Był to mój pierwszy spływ kajakowy.
 
 Jest tam bardzo ładnie. Przyroda z poziomu rzeki jest zdecydowanie inna, bardziej dzika.
-Niestety nie miałem, a raczej na szczeście, aparatu i nie mam żadnych zdjęć.
+Niestety nie miałem aparatu, a raczej na szczeście gdyż bym go zalał, i nie mam żadnych zdjęć.

@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Krótka trasa przez Ropki"
 subtitle:               "niepewna pogoda zmusiła nas, aby nie atakować Lackowej"
+desc:                   "Ostatniego dnia planowaliśmy wejść na Lackową. Zapowiadana burza przekonała nas abyśmy byli bardziej zachowawczy. Przeszliśmy pętle przez Ropki."
+keywords:               [wiosna, majówka, zielono, hańczowa, ropki, spacer]
 date:                   2012-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/143377393/q%3D80_m%3D2000/b8736231e9ab23d6aa6737b7d3deec8a"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
@@ -40,19 +41,18 @@ Szczegóły
 
 W planach była chęć wejścia na [Lackową][wiki-lackowa], jednak niepewność pogody spowodowała że opuściliśmy sobie ten pomysł.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/118550667/m%3D900/d189dacf03d2dace8a1b1db908f0614f' alt='Pond near Ropki by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/118550667/pond-near-ropki-by-aleksander-kwiatkowski' alt='Pond near Ropki by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej" %}
 
 Wyruszyliśmy do [Hańczowej][wiki-hanczowa] i następnie na zachód [Głównym Szlakiem Beskidzkim][wiki-gsb]
-aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak. Tą drogą kierowaliśmy się już do
+aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak.
+Tą drogą kierowaliśmy się już do
 [Wysowej][wiki-wysowa] przez [Hutę Wysowską][wiki-huta-wysowska].
 
-Lekki teren, spokojnie  dałoby się tam pojeździć rowerem. Klimatyczne odludne miejsca.
+{% photo "IMGP8093b.jpg","Zieleń w pełni" %}
+
+Lekki teren, spokojnie dałoby się tam pojeździć rowerem. Klimatyczne odludne miejsca.
+
+{% photo "IMGP8280b.jpg","Ławka na polanie przed zejście do Wysowej" %}
 
 Wracaliśmy z [Wysowej][wiki-wysowa] słysząc grzmoty, więc decyzja odpuszczenia [Lackowej][wiki-lackowa] była dobra.
 
@@ -64,24 +64,10 @@ Wnioski
 Nie warto patrzyć na szlaki piesze, wystarczy iść i co
 chwilę jest coś ładnego. Co chwilę jakieś małe kapliczki, dzicz i spokój.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23972871/m%3D900/f007a7b41e513d7269a0340ca91c42b6' alt='Guardian by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23972871/guardian-by-aleksander-kwiatkowski' alt='Guardian by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 Bonus
 -----
 
 Byliśmy jeszcze powłóczyć się w okolicy [Klimkówki][wiki-klimkowka], na [Rotundzie][wiki-rotunda],
 oraz sąsiedzi mieli bardzo dużo owiec. Tylko to jest za mało na osobny post.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/24108235/m%3D900/07a7b90be5d5705395386172800234a5' alt='Team by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/24108235/team-by-aleksander-kwiatkowski' alt='Team by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8490b.JPG","Pożegnanie z owcami w Hańczowej" %}

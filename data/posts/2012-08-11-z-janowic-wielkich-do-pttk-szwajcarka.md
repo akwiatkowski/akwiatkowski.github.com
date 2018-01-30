@@ -2,6 +2,8 @@
 layout:                 post
 title:                  "Z Janowic Wielkich do PTTK Szwajcarka"
 subtitle:               "mokro, mgliście i zielono"
+desc:                   "Moje pierwsze spotkanie z Rudawami Janowickimi, a dokładniej z północną częścia, można podsumować jako spacer przez letni, deszczowy las. Najciekawszym obiektem na trasie był Zamek Bolczów."
+keywords:               [lato, rudawy, janowice wielkie, bolczów, zamek, deszcz, deszczowy]
 date:                   2012-08-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/28528345/m%3D2048/cec636ea7df78c68891f7e1fc2361082"
