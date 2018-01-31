@@ -71,6 +71,10 @@ na południe do skrzyżowania szlaków.
 {% photo "IMGP7461.JPG","Szlak na Rotundę" %}
 
 Zdjęcia [Rotundy][wiki-rotunda] mam gdzieś, tylko nie wiem gdzie one są.
+Przeszukając archiwa znalazłem kilka z nich.
+
+{% photo "IMGP7470b.jpg","Rotunda" %}
+
 Samo miejsce jest bardzo klimatyczne.
 
 {% photo "IMGP7619b.jpg","Drewniany dom w Regietowie" %}

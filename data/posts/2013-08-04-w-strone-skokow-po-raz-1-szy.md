@@ -4,7 +4,7 @@ title:                  "W stronę Skoków, po razy 1-szy"
 subtitle:               "odkrywanie trasy, na początku deszczowo, później już ładnie"
 date:                   2013-08-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/40521228/m%3D2048/01442be977b7390281beb951e5f3e7f9"
+image_filename:         IMGP7287b.jpg
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, rogozno, skoki]
