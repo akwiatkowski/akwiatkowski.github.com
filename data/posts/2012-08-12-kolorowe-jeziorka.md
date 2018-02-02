@@ -1,12 +1,13 @@
 ---
 layout:                 post
 title:                  "Kolorowe Jeziorka idąc z Marciszowa"
-subtitle:               "oraz trochę przygód z PKP"
+subtitle:               "pierwsze nieudane wejście na wschód słońca, trochę przygód z PKP"
+desc:                   "Po nocy przy schronisku wstaliśmy wcześnie aby udać się na wschód słońca na Krzyżną Górę. Niestety pogoda nie sprzyjała i nie było żadnych widoków. Po krótkim śnie ruszyliśmy ponownie, tym razem pogoda się wyraźnie poprawiła. Chcieliśmy zobaczyć Kolorowe Jeziorka jednak pociąg, który miał jechać, po prostu nie wyruszył."
+keywords:               [lato, rudawy, szwajcarka, krzyżna góra, trzcińsko, marciszów, wieściszowice, kolorowe jeziorka]
 date:                   2012-08-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/23974025/m%3D2048/ae3e7c8b21dabc52db3613217e155890"
 categories:             trip
-tags:                   [main, hike, mountains, best, todo_media_later]
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, marciszow]
 lands:                  [rudawy_janowickie]
 
@@ -54,34 +55,16 @@ widać z [Krzyżnej Górę][wiki-krzyzna], co najwyżej z [Sokolika][wiki-sokoli
 Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawiło mnie jak
 szybko się widok zmieniał - jak szybko one się przesuwały.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28531955/m%3D900/5a85d10c43aac9117a79bc03182100f7' alt='Morning by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28531955/morning-by-aleksander-kwiatkowski' alt='Morning by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7844b.jpg","Chmury o wschodzie słońca" %}
 
 A poniższe zdjęcie pokazuje jak wyglądał las w okolicach schroniska [Szwajcarki][wiki-szwajcarka].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23973701/m%3D900/7a7d25bf134f7633f71f721f2350d66d' alt='Foggy morning by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23973701/foggy-morning-by-aleksander-kwiatkowski' alt='Foggy morning by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7875b.jpg","Mgliste okolice Szwajcarki i Krzyżnej Góry" %}
 
 Wróciliśmy spać i wstaliśmy po 9-tej. Było już zdecydowanie ładniej, zero śladów wczorajszej pogody -
 dobry słoneczny dzień. Ponownie wyruszyliśmy na [Krzyżną Górę][wiki-krzyzna].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28534307/m%3D900/9a5c690b26a31a6e8de2f274a46e4ac1' alt='Sudete villages by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28534307/sudete-villages-by-aleksander-kwiatkowski' alt='Sudete villages by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8080b.jpg","Tego dnia Śnieżka była w chmurach" %}
 
 Trochę długo zasiedzieliśmy na szczycie [Krzyżnej Góry][wiki-krzyzna] i zauważyliśmy, że mamy półtora godziny do
 odjazdu pociągu.
@@ -94,13 +77,7 @@ nie jest najlepszym pomysłem. Do listy zakupów dorzuciłem plecak na wycieczki
 
 Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta nazywana jest "San Fran Trzcińsko".
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28571655/m%3D900/3cae13cb1b4fab003e47515009e78a6e' alt='Sheafs by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28571655/sheafs-by-aleksander-kwiatkowski' alt='Sheafs by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8131b.jpg","Snopki niedaleko stacji kolejowej w Trzcińsku" %}
 
 Dotarliśmy kilkanaście minut przed odjazdem pociągu w kierunku [Marciszowa][wiki-marciszow]. Czekamy i czekamy.
 Nic nie jedzie.
@@ -111,6 +88,8 @@ co tu się dzieje, i że nie ma szans aby ci biedni zwykli ludzie się połapali
 zatrzymać, to dostaję informację o remoncie mostu i najbliższe miejsce jest 3km gdzieś. Czekamy na kolejny pociąg
 i jedziemy do [Jeleniej Góry][wiki-jelenia].
 
+{% photo "IMGP8172b.jpg","Widok na Sokolik" %}
+
 Tam przerwa aby coś zjeść i chwilę później lecimy na powrotny pociąg, tym razem już do [Marciszowa][wiki-marciszow]. Jestem
 pewien że pierwsze P w skrócie PKP musi oznaczać słowo *przygoda*.
 
@@ -120,13 +99,7 @@ Kolorowe Jeziorka
 Jest to chyba najbardziej znana atrakcja [Rudaw Janowickich][wiki-rudawy] pomimo tego że w praktyce to są
 tylko 2 jeziorka (czasem 3), które po prostu mają nienaturalny kolor. Zapominane są skałki, które są obok nich.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28370503/m%3D900/1c858f2668f268d404828f0794b062ee' alt='Canyon near Colorful lakelets by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28370503/canyon-near-colorful-lakelets-by-aleksander-kwiatkowski' alt='Canyon near Colorful lakelets by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8389b.JPG","Struktury przy Kolorowych Jeziorkach" %}
 
 Wyruszyliśmy z centrum [Marciszowa][wiki-marciszow] i szliśmy przez [Wieściszowice][wiki-wiesciszowice].
 Droga asfaltowa, teraz mogę powiedzieć, że jest to idealne miejsce na rower. Jak w sumie całe pasmo, albo prawie
@@ -135,25 +108,14 @@ całe [Sudety][wiki-sudety].
 Największą ciekawostką [Wieściszowic][wiki-wiesciszowice] jest drewniany dom, nr 61. Bo jest stary, ładny,
 zadbany i drewniany.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23973831/m%3D900/30e6173445c56f66082a9c3b7237f7b6' alt='Wooden house in Wieściszowice by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23973831/wooden-house-in-wie%C5%9Bciszowice-by-aleksander-kwiatkowski' alt='Wooden house in Wieściszowice by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8353b.jpg","Żółte Jeziorko" %}
 
 Poniżej Niebieskie Jeziorko, jednak jestem niezadowolony ze zdjęć, jakie zrobiłem jeziorkom.
 Żadne nie podoba mi sie wystarczająco.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23974025/m%3D900/26697b4a9426eb5fc2aa202fc61e5101' alt='Azure Lakelet by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23974025/azure-lakelet-by-aleksander-kwiatkowski' alt='Azure Lakelet by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8304b.jpg","Niebieskie Jeziorko","nogallery" %}
 
 Wracaliśmy już podczas zachodu słońca. Małe zakupy i kierunek dworzec. Dobrze że sklepy w niedziele były
-tam otwarte do tak późna, oraz że [Marciszów][wiki-marciszow] jest ważniejszą miejscowością, gdyż zatrzymują się tam
+tam otwarte do tak późna, oraz że [Marciszów][wiki-marciszow] jest ważniejszą miejscowością,
+gdyż zatrzymują się tam
 również pociągi TLK.

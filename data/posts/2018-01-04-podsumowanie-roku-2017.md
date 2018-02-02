@@ -6,7 +6,8 @@ desc:                   "Patrząc na rok 2017 największym moim sukcesem jest 7 
 date:                   2018-01-04 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
-tags:                   [article, main]
+tags:                   [article]
+nogallery:              true
 ---
 
 [wiki-szrenica-schronisko]: https://pl.wikipedia.org/wiki/Schronisko_na_Szrenicy

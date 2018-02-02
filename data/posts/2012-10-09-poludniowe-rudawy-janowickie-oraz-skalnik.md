@@ -1,10 +1,11 @@
 ---
 layout:                 post
 title:                  "Południowe Rudawy Janowickie oraz Skalnik"
-subtitle:               "prawdziwa jesien"
+subtitle:               "początek prawdziwej jesieni, okolice linii kolejowej Kamienna Góra - Kowary"
+desc:                   "Dwa miesiące temu nie mogliśmy udać się na Skalnik dlatego tym razem postanowiliśmy naprawić ten błąd. Z Marciszowa przesiadając się w Kamiennej Górze dotarliśmy do bazy w Leszczyńcu, gdzie dalej ruszyliśmy na najwyższy szczyt Rudaw Janowickich - Skalnik. "
+keywords:               [jesień, rudawy, leszczyniec, kamienna góra, skalnik, pochmurno]
 date:                   2012-10-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28630325/m%3D2048/16d1d770d1e913616204f2d913698cb0"
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
