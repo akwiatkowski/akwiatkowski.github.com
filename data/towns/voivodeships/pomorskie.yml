@@ -105,3 +105,11 @@
   name: Gdynia
   type: town
   voivodeship: pomorskie
+- slug: sopot
+  name: Sopot
+  type: town
+  voivodeship: pomorskie
+- slug: hel
+  name: Hel
+  type: town
+  voivodeship: pomorskie
