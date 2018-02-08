@@ -11,10 +11,10 @@ image_filename:         IMGP5706raw1.jpg
 tags:                   [photo, todo]
 towns:                  [pomorskie, sopot]
 
-coords:                 [{"route": [], "type": "hike"}]
-distance:               5
-time_spent:             3
-elevation:              0
+coords:                 [{"route": [[54.45081,18.56780], [54.45907,18.56235]], "type": "hike"}]
+distance:               4
+time_spent:             2
+elevation:              42
 
 
 pois:
