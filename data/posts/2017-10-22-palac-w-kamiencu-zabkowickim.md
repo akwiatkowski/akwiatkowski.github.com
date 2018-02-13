@@ -5,6 +5,7 @@ subtitle:               "szukając co można zrobić jescze w tym dniu wybraliś
 desc:                   "Pałać w Kamieńcu Ząbkowickim jest bardzo dużym obiektem. Od 2012 roku został on przejęty i od tego momentu rozpoczęto jego remont. Wpis ten przedstawia w skrócie efekt jego zwiedzania."
 keywords:               [pałac, kemieniec ząbkowicki]
 date:                   2017-10-22 18:00:00
+finished_at:            2017-12-16 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

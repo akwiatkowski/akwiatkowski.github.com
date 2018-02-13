@@ -5,6 +5,7 @@ subtitle:               "czyli zachodnia i środkowa część Beskidu Niskiego r
 desc:                   "Przejazd z Hańczowej do Krempnej zmieniając bazę noclegową aby móc zobaczyć środkową część Beskid Niskiego. Jazda rowerem przed wioski prawie na końcu świata, obok cmentarzy, przydrożnych krzyży i... krów."
 keywords:               [hańczowa, krempna, krowy, krowa, kwiatoń, cerkiew, jasionka, czarne, wyszowatka, grab, kotań]
 date:                   2017-07-26 20:00:00
+finished_at:            2017-11-19 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, panniers, main]

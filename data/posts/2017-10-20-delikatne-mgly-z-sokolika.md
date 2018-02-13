@@ -5,6 +5,7 @@ subtitle:               "czyli druga, tym razem zdecydowanie udana, próba wscho
 desc:                   "Dzień wcześniej na Sokoliku spotkałem sporo chmur i mgieł. Pomimo bardzo ciekawych zdjęć miałem niedosyt i postanowiłem, że warto powtórzyć wstawanie rano. Przedstawiam tutaj kilka najciekawszych zdjęć tam zrobionych."
 keywords:               [sokolik, wschód, mgła, mgły, trzcińsko, poranek, lasery, rudawy janowickie]
 date:                   2017-10-20 09:00:00
+finished_at:            2017-10-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main, photo_of_the_year]

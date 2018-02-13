@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Okolice Noteci między Krzyżem a Santokiem"
 subtitle:               "dojechałem prawie do Gorzowa, bardzo ciepły dzień"
 date:                   2016-05-10 17:00:00
+finished_at:            2016-06-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
 categories:             trip

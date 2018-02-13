@@ -5,6 +5,7 @@ subtitle:               "czyli kolejna szybka popołudniowa trasa"
 desc:                   "Kolejna krótka trasa rowerowa z Poznania. Tym razem ruszyłem przez Biedrusko w stronę Murowanej Gośliny a później improwizowałem. Chciałem jechać głównie asfaltem a ostatecznie walczyłem z błotem obok Jeziora Wojnowskiego."
 keywords:               [łopuchowo, murowana goślina, biedrusko, północ poznania]
 date:                   2017-07-18 20:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

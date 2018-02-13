@@ -5,6 +5,7 @@ subtitle:               "czyli krótki spokojny przejazd rowerem zakończony sol
 desc:                   "Spokojny, krótki, niedzielny przejazd rowerem przez kraniec Wielkopolskiego Parku Narodowego. Główną częścią była jazda po czarnym szlaku pieszym wzdłuż jeziora."
 keywords:               [wielkopolski park narodowy, mosina, stęszew, dymaszewo, jezioro]
 date:                   2017-06-04 17:00:00
+finished_at:            2017-10-15 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

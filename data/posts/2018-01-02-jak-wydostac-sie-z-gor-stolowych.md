@@ -5,6 +5,7 @@ subtitle:               "brak zasięgu komórkowego, brak autobusów, chyba najs
 desc:                   "Ostatniego dnia postanowiliśmy kierować się w stronę Kudowy Zdrój i z tej stacji wracać do domu."
 keywords:               [karłów, kudowa, powrót, brak komunikacji]
 date:                   2018-01-02 15:00:00
+finished_at:            2018-01-24 12:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP4286raw1

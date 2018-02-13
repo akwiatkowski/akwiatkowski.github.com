@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przez pagórki do Stargardu"
 subtitle:               "najbardziej górskie tereny tylko 2h pociągiem od Poznania"
 date:                   2016-07-10 20:00:00
+finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413"
 categories:             trip

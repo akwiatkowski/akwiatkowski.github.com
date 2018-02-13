@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Powrót z Kudowy-Zdroju przez Góry Stołowe"
 subtitle:               "długi podjazd, dobry zjazd oraz fajne wioski na koniec"
 date:                   2016-05-02 19:00:00
+finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip

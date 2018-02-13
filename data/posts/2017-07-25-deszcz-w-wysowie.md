@@ -5,6 +5,7 @@ subtitle:               "czyli dlaczego czasem mniejszym złem jest zmoknąć ni
 desc:                   "Drugiego dnia wycieczki w Beskidzie Niskim pogoda była bardzo deszczowa. Chcąc wykorzystać czas pomimo deszczu postanowiliśmy przejechać się robiąc pętlę przez wieś Ropki."
 keywords:               [beskid niski, wysowa, hańczowa, wioski, droga polna]
 date:                   2017-07-25 20:00:00
+finished_at:            2017-11-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main]

@@ -5,6 +5,7 @@ subtitle:               "wiatr, śnieg i nie warto w ogóle wychodzić ze schron
 desc:                   "Trzeci dzień fotowarsztatów był przepełniony kolorem białym. Oprócz teorii i rozmów jedynym ciekawą aktywnością był spacer do Lucni Boudy."
 keywords:               [karpacz, karkonosze, zima, śnieżka, lucni bouda]
 date:                   2017-02-11 18:00:00
+finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, workshop, mountains]

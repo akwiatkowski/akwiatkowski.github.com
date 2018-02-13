@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Zachodnie okolice Dobiegniewa"
 subtitle:               "tak blisko a tak dziko i ładnie"
 date:                   2016-09-03 18:00:00
+finished_at:            2016-09-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0"
 categories:             trip

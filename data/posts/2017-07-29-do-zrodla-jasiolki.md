@@ -5,6 +5,7 @@ subtitle:               "zapomniane gospodarstwa, lilie wodne, polany, obóz gdz
 desc:                   "Mając nocleg w Jaśliska umożliwiło to nam dostęp do zupełnie nowych terenów jednak musieliśmy pamiętać o trasie powrotnej. Wybraliśmy na ten dzień pętlę na południowy-wschód od Jaślisk. Dojechaliśmy również do Wisłoka Wielkiego chcąc zobaczyć początki Bieszczad."
 keywords:               [wisłok, jasiołka, beskid niski]
 date:                   2017-07-29 15:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main]

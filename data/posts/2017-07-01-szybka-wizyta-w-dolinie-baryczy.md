@@ -5,6 +5,7 @@ subtitle:               "Wizyta nieplanowana, wracając chcieliśmy nie czekać 
 desc:                   "Testując rower prawie-szosowy przyszedł czas na wybranie dłuższej trasy. Jest to opis szybkiego przejazdu z Rawicza na wschód gdzie przy okazji znaleźliśmy się w Dolinie Baryczy."
 keywords:               [barycz, dolina baryczy, rawicz, sułów, ruda sułowska, stawy, milicz, sulmierzyce, chmury, ostrów wielkopolski]
 date:                   2017-07-01 18:00:00
+finished_at:            2017-11-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

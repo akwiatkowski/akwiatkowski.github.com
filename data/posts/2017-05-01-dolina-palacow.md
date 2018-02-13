@@ -5,6 +5,7 @@ subtitle:               "czyli pętla przez Kotlinę Jeleniogórską i Rudawy Ja
 desc:                   "Przykładowa trasa pokazująca jak można objechać najważniejsze pałace Kotliny Jeleniogórskiej."
 keywords:               [jelenia, pałac, zamek, kotlina, wojanów, karpniki, sosnówka, cieplice, wiewiórka]
 date:                   2017-05-01 20:00:00
+finished_at:            2017-09-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Piły do Bydgoszczy przez Bagdad"
 subtitle:               "111km rowerem z wiatrem przez okolice Noteci, wioski i podmiejską Bydgoszcz"
 date:                   2016-07-30 16:00:00
+finished_at:            2016-08-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/165987109/q%3D80_m%3D2000/1b8db0fa93e90986612ce6d01b0d4780"
 categories:             trip

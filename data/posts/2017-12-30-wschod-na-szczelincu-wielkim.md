@@ -5,6 +5,7 @@ subtitle:               "nigdy nie pomyślałbym, że zrobię takie zdjęcie Śn
 desc:                   "Przez te kilka dni w Górach Stołowych dobra pogoda była tyko drugiego dnia. Nie mogłem opuścić tej okazji i dlatego zaplanowaliśmy wyjście na wschód słońca na Szczelińcu Wielkim. Efekty mnie wyraźnie zaskoczyły."
 keywords:               [wschód, szczeliniec, pasterka, zima, śnieżka, dalekie obserwacje, śnieg]
 date:                   2017-12-30 15:00:00
+finished_at:            2018-01-30 15:00:00
 #image_filename:         IMGP3874raw4.jpg
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

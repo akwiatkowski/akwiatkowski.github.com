@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wieczór nad Strzeszynem"
 subtitle:               "ćwiczenie robienia zdjęć zachodów Słońca"
 date:                   2016-09-01 21:00:00
+finished_at:            2016-09-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/171156045/q%3D80_m%3D2000/690440e63f2fdce7cc9a8c8eaa3097ac"
 categories:             trip

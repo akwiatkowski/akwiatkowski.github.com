@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Zimowe okolice Wojanowa"
 subtitle:               "szukałem zachodzącego słońca na polach, znalazłem uciekające sarny"
 date:                   2017-01-10 20:00:00
+finished_at:            2017-01-16 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, hike, main]

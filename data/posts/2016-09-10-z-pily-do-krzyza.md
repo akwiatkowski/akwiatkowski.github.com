@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Piły do Krzyża"
 subtitle:               "szlakiem R1, głownie przez tereny lesiste"
 date:                   2016-09-10 18:00:00
+finished_at:            2016-09-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/172235283/q%3D80_m%3D2000/122dd7657020136b9660dc61256b9bc4"
 categories:             trip

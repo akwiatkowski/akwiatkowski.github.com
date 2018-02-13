@@ -4,6 +4,7 @@ title:                  "Podsumowanie roku 2017"
 subtitle:               "czyli 7 dni w Beskidzie Niskim, sporo zaplanowanych tras udało mi się zrealizować, samotne wycieczki fotograficzne"
 desc:                   "Patrząc na rok 2017 największym moim sukcesem jest 7 dni w Beskidzie Niskim podczas ktorych przejechałem ponad 300km rowerem. Udało mi się zrealizować sporo jednodniowych tras rowerowych oraz wiele małych wycieczek fotograficznych."
 date:                   2018-01-04 12:00:00
+finished_at:            2018-02-02 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 tags:                   [article]

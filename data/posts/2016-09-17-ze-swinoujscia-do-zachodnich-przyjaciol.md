@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Ze Świnoujscia do Zachodnich Przyjaciół"
 subtitle:               "ład i porządek, ogrom ludzi i tak jakoś nieswojo"
 date:                   2016-09-17 20:00:00
+finished_at:            2016-09-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/173701521/q%3D80_m%3D2000/7d28a87f42da5ce0a62e372839e9aa5d"
 categories:             trip

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Opuszczenie zimowych Rudaw Janowickich"
 subtitle:               "dojście na dworzec kolejowy oraz przemyślenia na temat gdzie robić zdjęcia o wschodzie i zachodzie"
 date:                   2017-01-12 13:00:00
+finished_at:            2017-01-16 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, hike]

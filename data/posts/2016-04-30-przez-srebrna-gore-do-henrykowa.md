@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przez Srebrną Górę do Henrykowa"
 subtitle:               "trochę gór, trochę płasko i trochę pagórków"
 date:                   2016-04-30 19:00:00
+finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db"
 categories:             trip

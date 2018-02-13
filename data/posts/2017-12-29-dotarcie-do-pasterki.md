@@ -5,6 +5,7 @@ subtitle:               "ciężka noc: od drugiej w nocy w pociągu, 2 przesiadk
 desc:                   "Tym razem okolice Sylwestra będę spędzał w Górach Stołowych w Pasterce. Najpierw jednak należy się tam dostać, co nie jest takie proste."
 keywords:               [pasterka, radków, nowa ruda, sudety]
 date:                   2017-12-29 15:00:00
+finished_at:            2018-01-13 16:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

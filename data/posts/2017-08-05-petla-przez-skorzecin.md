@@ -5,6 +5,7 @@ subtitle:               "testując szosówkę przejazd przez wioski na pogranicz
 desc:                   "Teoretycznie bardzo krótka trasa rowerowa - przejażdżka aby zobaczyć jak wygląda Skorzęcin za dnia. Ostatecznie przejechałem 71km obserwując kujawskie i wielkopolskie wsie tuż po okresie żniw."
 keywords:               [skorzęcin, trzemeszno, strzelno, łąkie, trzemżal]
 date:                   2017-08-05 18:00:00
+finished_at:            2017-12-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

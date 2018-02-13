@@ -5,6 +5,7 @@ subtitle:               "a tak naprawdę to jeszcze dalej - do Cieszyno"
 desc:                   "Pierwszy dzień krótkiej wycieczki rowerowej z Piły do Białogardu przez Drawski Park Krajobrazowy który wyglądał jak naprzemienna jazda po ruchliwej i spokojnej drodze. Chociaż najciekawsze tereny Drawskiego Parku Krajobrazowego można było zobaczyć dopiero pod koniec dnia."
 keywords:               [piła, drawski, złocieniec, cieszyno, wałcz, karsibór, świerczyna, wierzchowo, siecino]
 date:                   2017-08-14 19:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

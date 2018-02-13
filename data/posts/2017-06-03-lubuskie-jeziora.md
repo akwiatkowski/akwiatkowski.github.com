@@ -5,6 +5,7 @@ subtitle:               "czyli: Trzeboch (Łąkie), Czerniak (Obłok), Niesłysz
 desc:                   "Jednodniowa wycieczka rowerowa przez kilka jezior w województwie lubuskim."
 keywords:               [lubuskie, jeziora, trzeboch, czerniak, niesłysz, niesulice, łagowskie, łagów]
 date:                   2017-06-03 17:00:00
+finished_at:            2017-10-15 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

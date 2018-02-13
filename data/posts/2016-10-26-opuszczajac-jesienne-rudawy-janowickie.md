@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Opuszczając jesienne Rudawy Janowickie"
 subtitle:               "czyli spacerek z Wojanowa do Trzcińska"
 date:                   2016-10-26 11:00:00
+finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
 categories:             trip

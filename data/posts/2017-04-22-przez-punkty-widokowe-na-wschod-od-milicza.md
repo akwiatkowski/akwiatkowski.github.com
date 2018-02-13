@@ -5,6 +5,7 @@ subtitle:               "wietrzny dzień łączący w sobie trochę zimy i lata"
 desc:                   "Trudna próba połączenia zwiedzenia wschodniej części Doliny Baryczy rowerem jak i obserwację ptaków."
 keywords:               [barycz, milicz, wiatr, stawy, wieża]
 date:                   2017-04-22 20:00:00
+finished_at:            2017-08-31 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

@@ -2,9 +2,10 @@
 layout:                 post
 title:                  "Południowo-zachodnia sypialnia Poznania"
 subtitle:               "trzecie zakończenie sezonu rowergo, tą trasę można by zdecydowanie ulepszyć eliminując południową część"
-desc:                   ""
+desc:                   "Zakończenie sezonu rowerowego w 2017 jadąc przez mało ciekawe okolice Poznania."
 keywords:               [komorniki, nudna, smutna]
 date:                   2017-11-04 16:00:00
+finished_at:            2017-12-17 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle]

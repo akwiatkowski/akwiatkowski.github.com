@@ -5,6 +5,7 @@ subtitle:               "krótki przejazd na trasie kolegi, który przejeżdzał
 desc:                   "Pierwszy dzień krótkiej, dwudniowej wycieczki rowerowej na obrzeżach Kaszub. Można również powiedzieć, że był to przejazd po okolicach Trójmiasta."
 keywords:               [kaszuby, kartuzy, gdynia, łapino, łapińskie, kolbudy, trójmiasto]
 date:                   2017-06-09 21:00:00
+finished_at:            2017-10-30 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

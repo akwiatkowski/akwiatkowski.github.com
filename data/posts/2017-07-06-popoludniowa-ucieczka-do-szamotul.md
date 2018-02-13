@@ -5,6 +5,7 @@ subtitle:               "nie wziąłem aparatu, a tej trasy nawet nie miałem tu
 desc:                   "Popołudniowy przejazd w celu przetestowania nowej opony i siodełka zaowocował odkryciem ciekawych terenów na południe od Szamotuł"
 keywords:               [szamotuły, rokietnica, kaźmierz, mrowino, raczyny, zalew Radzyny]
 date:                   2017-07-06 19:00:00
+finished_at:            2017-11-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle]

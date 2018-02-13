@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przejazd pociągiem do Czarnkowa"
 subtitle:               "pierwsza wycieczka z TurKol.pl"
 date:                   2016-08-06 20:00:00
+finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/166693909/q%3D80_m%3D2000/9340e4a63640d49b4304052304dc8023"
 categories:             trip

@@ -5,6 +5,7 @@ subtitle:               "ostatnia szansa na wschód na Śnieżce"
 desc:                   ""
 keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-12 18:00:00
+finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, workshop, main, mountains]

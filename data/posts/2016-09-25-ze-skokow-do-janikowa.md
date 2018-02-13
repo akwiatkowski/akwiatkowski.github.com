@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Ze Skoków do Janikowa"
 subtitle:               "mam nadzieje, że nie ostatnie zakończenie sezonu"
 date:                   2016-09-25 18:00:00
+finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0"
 categories:             trip

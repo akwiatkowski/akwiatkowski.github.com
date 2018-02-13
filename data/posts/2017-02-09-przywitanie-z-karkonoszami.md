@@ -5,6 +5,7 @@ subtitle:               "stopniowe pożegnanie z dobrą pogodą"
 desc:                   "Pierwszy dzień fotowarsztatów z Karolem Nienartowiczem w Karkonoszach był jedynym dniem z dobrą pogodą. Istotą ich miałoby wspólne wychodzenie na wschody i zachody."
 keywords:               [karpacz, karkonosze, karol nienartowicz, zima, śnieg]
 date:                   2017-02-09 18:00:00
+finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, workshop, mountains, main]

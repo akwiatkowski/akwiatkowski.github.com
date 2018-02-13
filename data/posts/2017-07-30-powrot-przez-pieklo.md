@@ -5,6 +5,7 @@ subtitle:               "z Krosna do Sędzisława Małopolskiego w bardzo ciepł
 desc:                   "Na ostatni dzień wycieczki w Beskidzie Niskim pogoda się znacząco poprawiła. Na tyle że przejazd z Krosna, obok Czarnorzecko-Strzyżowskiego Parku Krajobrazowego a następnie wzgórza niedaleko Strzyżowa, to była bardziej walka z upałem niż turystyka."
 keywords:               [gorąco, upał, krosno, rzeszów]
 date:                   2017-07-30 14:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, panniers, main]

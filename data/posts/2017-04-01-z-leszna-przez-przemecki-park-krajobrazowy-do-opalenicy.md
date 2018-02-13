@@ -5,6 +5,7 @@ subtitle:               "sami nie wiedzieliśmy dokąd ostatecznie dojedziemy, p
 desc:                   "Spontaniczna trasa rowerowa z Leszna przez Przemęcki Park Krajobrazowy. Nie wiedzieliśmy w jakim miejscu skończymy jazdę tego dnia."
 keywords:               [leszno, przemecki, opalenica, wolsztyn]
 date:                   2017-04-01 18:00:00
+finished_at:            2017-06-02 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

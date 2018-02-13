@@ -5,6 +5,7 @@ subtitle:               "przerwa na obiad w Tylawie i zwiedzanie Muzeum Kultury 
 desc:                   "Opis przejazdu do Jaślisk z wizytą w Muzeum Kultury Łemkowskiej w Zyndranowej. Najciekawszym elementej trasy był zjazd do wsi Mszana."
 keywords:               [łemkowie, łemkowska, zyndranowa, tylawa, mszana, mszanka, jaśliska]
 date:                   2017-07-28 15:00:00
+finished_at:            2017-11-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, panniers, main]

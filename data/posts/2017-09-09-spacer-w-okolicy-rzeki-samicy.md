@@ -5,6 +5,7 @@ subtitle:               "północne okolice Stęszewa aż do Jeziora Tomickiego"
 desc:                   "Nie tak krótki, popołudniowy spacer ze Stęszewa na północ, wzdłuż okolic rzeki Samicy. Celem było Jezioro Tomickie we wsi Mirosławki."
 keywords:               [stęszew, samica, rzeka, tomickie, mirosławki, droga s5]
 date:                   2017-09-09 21:00:00
+finished_at:            2017-12-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

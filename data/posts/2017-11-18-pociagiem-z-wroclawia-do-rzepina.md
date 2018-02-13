@@ -5,6 +5,7 @@ subtitle:               "zamiast powrotu bezpośrednim połączeniem do Poznania
 desc:                   "Przejazd pociągiem z Wrocławia przez Brzeg Dolny, Wołów, Ścinawę, Rudnę, Głogów, Bytom Odrzański, Nową Sól, Zieloną górę, Budachów do Rzepina. Chciałem na szybko zobaczyć tereny, na których będę mógł w przyszłym roku jechać rowerem."
 keywords:               [pociąg, brzeg dolny, wołów, ścinawa, rudna, głogów, bytom odrzański, nowa sól, zielona góra, budachów, rzepin, torzym, toporów]
 date:                   2017-11-18 18:00:00
+finished_at:            2017-12-16 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train]

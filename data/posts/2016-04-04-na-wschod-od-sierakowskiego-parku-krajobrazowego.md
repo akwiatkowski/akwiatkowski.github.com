@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Na wschód od Sierakowskiego Parku Krajobrazowego"
 subtitle:               "z Wronek do Szamotuł, zdecydowanie nie najbliższą trasą"
 date:                   2016-04-04 20:00:00
+finished_at:            2016-04-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce"
 categories:             trip

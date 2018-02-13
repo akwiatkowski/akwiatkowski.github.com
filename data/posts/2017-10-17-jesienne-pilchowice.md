@@ -5,6 +5,7 @@ subtitle:               "popołudniowy spacer z Siędlecina do Pilchowic, piekne
 desc:                   "Rozpoczęcie prawie tygodniowego wyjazdu eksploracyjno-fotograficznego w Sudetach Zachodnich. Pierwszego dnia wyruszyłem zobaczyć jak Jezioro Pilchowickie wygląda jesienią."
 keywords:               [jesień, siedlęcin, pilchowice, jelenia góra, sudety, strzyżowiec]
 date:                   2017-10-17 21:00:00
+finished_at:            2017-12-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main]

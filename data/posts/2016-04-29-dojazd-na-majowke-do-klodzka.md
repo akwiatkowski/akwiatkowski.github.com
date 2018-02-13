@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Dojazd na majówkę do Kłodzka"
 subtitle:               "niespodziewanie dobra pogoda, lekkie górki i sudecki klimat"
 date:                   2016-04-29 18:00:00
+finished_at:            2016-05-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152227501/q%3D80_m%3D2000/e5818de7f8598a7adc53d04222d20740"
 categories:             trip

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Testując filtr szary ND64"
 subtitle:               "nad Jeziorem Strzeszyńskim"
 date:                   2016-10-04 09:00:00
+finished_at:            2016-10-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/175885507/q%3D80_m%3D2000/1de3012419000f852dd850e4b828cd70"
 categories:             trip

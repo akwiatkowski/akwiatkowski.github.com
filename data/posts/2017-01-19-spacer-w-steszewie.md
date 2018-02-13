@@ -5,6 +5,7 @@ subtitle:               "druga szansa wykorzystania ośnieżonego krajobrazu"
 desc:                   "Kompromis między szansą na wykorzystanie zimowego krajobrazu w okolicy a małą ilością czasu. Podjechałem pociągiem do Stęszewa w okolice Wielkopolskiego Parku Narodowego."
 keywords:               [steszew, stęszew, zima, spacer, ścieżka, park, las, wielkopolski park narodowy, mosina]
 date:                   2017-01-19 19:00:00
+finished_at:            2017-01-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, hike, main]

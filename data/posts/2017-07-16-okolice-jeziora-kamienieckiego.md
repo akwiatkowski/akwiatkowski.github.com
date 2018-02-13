@@ -5,6 +5,7 @@ subtitle:               "najciekawsze okolice Trzemeszna i Wydartowa, jeziora, l
 desc:                   "Przejazd z Trzemeszna przez okolice źródła Noteci Zachodniej obkrążając południową część Jeziora Kamienieckiego. Trasa pokazuje tereny rekreacyjne, rolnicze, wąską i stromą ścieżkę wokół jeziora oraz pagórki w okolicy wsi Kamionek."
 keywords:               [noteć, kamienieckie, ostrowite, trzemżal, lato, kamionek, gębice, strzelno]
 date:                   2017-07-16 19:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

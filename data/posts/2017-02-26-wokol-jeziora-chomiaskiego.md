@@ -2,9 +2,10 @@
 layout:                 post
 title:                  "Wokół Jeziora Chomiąskiego"
 subtitle:               "obserwacja ptaków, głaskanie kotów i rekreacyjne domki wokół jeziora"
-desc:                   ""
+desc:                   "Spacer wokół Jeziora Chomiąskiego podczas ostatnich podrygów zimy."
 keywords:               [chomiaza]
 date:                   2017-02-26 18:00:00
+finished_at:            2017-03-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [relax, hike]

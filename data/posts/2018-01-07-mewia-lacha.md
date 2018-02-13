@@ -5,6 +5,7 @@ subtitle:               "czyli jak autobusem miejskim odjechać 15km od centrum 
 desc:                   "Krótka wycieczka w stronę najbardziej oddalonych na wschód terenow od Gdańska, czyli ujścia Wisły. Terenów gdzie czasami można spotkać foki."
 keywords:               [mewia łacha, foki, gdańsk, wisła, ujście]
 date:                   2018-01-07 17:00:00
+finished_at:            2018-01-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main]

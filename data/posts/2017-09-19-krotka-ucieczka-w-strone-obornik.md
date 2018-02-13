@@ -5,6 +5,7 @@ subtitle:               "wyjazd z Poznania, wkroczenie w bardzo spokojne wioski 
 desc:                   "Jest to kolejny przykład tego, że mając godzinę można wydostać się rowerem z miejskiem dżungli. Tego dnia wyruszyłem z Poznania na północ w stronę Rokietnicy aby jeszcze pojeździć przed nadchodzącym końcem sezonu."
 keywords:               [rokietnica, samica, oborniki, wargowo, żydowo]
 date:                   2017-09-19 13:00:00
+finished_at:            2017-10-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

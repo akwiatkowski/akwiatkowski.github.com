@@ -5,6 +5,7 @@ subtitle:               "poszukując mgły, która była w innej części Poznan
 desc:                   "Krótki spacer po Łęgach Dębińskich w poszukiwaniu mgły. Mgły niestety nie było lecz kilka zdjęć ciekawych udało mi się zrobić w znanych miejscach."
 keywords:               [debiec, łęgi dębińskie, park, szarość]
 date:                   2017-11-30 16:00:00
+finished_at:            2017-12-17 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, main]

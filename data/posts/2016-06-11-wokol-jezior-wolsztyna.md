@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wokół jezior Wolsztyna"
 subtitle:               "Jezioro Wolsztyńskie i Berzyńskie, oraz obok rzeki Dojcy, podczas idealnej pogody"
 date:                   2016-06-11 20:00:00
+finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0"
 categories:             trip

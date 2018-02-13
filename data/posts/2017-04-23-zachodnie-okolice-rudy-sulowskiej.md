@@ -5,6 +5,7 @@ subtitle:               "i nauczka że nawet mapy papierowe mogą być niedokła
 desc:                   "Przejazd na zachód od Rudy Sułowskiej odwiedzając dwa istotne punkty obserwacyjne ptaków (Niezgoda i Stary Staw) oraz objazd stawu Mewa i powrót przez Brzezinę Sułowską."
 keywords:               [barycz, grabówka, niezgoda, młynówka, wioski, szlak pieszy, brzezina sułowska, staw duża mewa]
 date:                   2017-04-23 20:00:00
+finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

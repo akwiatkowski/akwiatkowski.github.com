@@ -5,6 +5,7 @@ subtitle:               "obserwując czas żniw w okolicznych wioskach oraz dzia
 desc:                   "Krótki przejazd rowerem przez okolice Janikowa i Pakości wokół Inowrocławia"
 keywords:               [strzelno, janikowo, pakość, wapienno]
 date:                   2017-08-06 15:00:00
+finished_at:            2017-11-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

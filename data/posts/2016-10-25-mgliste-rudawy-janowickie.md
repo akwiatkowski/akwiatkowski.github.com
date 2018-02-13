@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Mgliste Rudawy Janowickie"
 subtitle:               "jesień już jest, mgłe udało się znaleźć, brakowało tylko słońca"
 date:                   2016-10-25 17:00:00
+finished_at:            2017-02-18 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179579181/q%3D80_m%3D1500/f307716032b722891b7de92a81cf8fc0"
 categories:             trip

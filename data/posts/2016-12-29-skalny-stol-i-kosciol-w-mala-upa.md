@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Skalny Stół i kościół w Mala Upa"
 subtitle:               "wejście na wschód słońca i późniejsze włóczenie się po okolicy"
 date:                   2016-12-29 17:00:00
+finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/190327035/q%3D80_m%3D2000/f96b1840189f36a1e0162fbf51ee0bb0"
 categories:             trip

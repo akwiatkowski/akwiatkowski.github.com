@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Granią Tatr Zachodnich na Wołowiec"
 subtitle:               "przez Grześ i Rakoń"
 date:                   2016-07-21 18:00:00
+finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959367/q%3D80_m%3D2000/a35615dc628b05b84cf17cb94fcf2f8e"
 categories:             trip

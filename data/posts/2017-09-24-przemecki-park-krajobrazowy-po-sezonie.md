@@ -5,6 +5,7 @@ subtitle:               "idealna okolica na robienie zdjęć zachodu podczas naj
 desc:                   "Okolica Boszkowa i jeziora Dominickiego miała być najleszą opcją na robienie zdjęć zachodu i wschodu. Niestety pogoda tego dnia "
 keywords:               [boszkowo, przemęcki park krajobrazowy, dominice, jezioro dominickie, konwaliowy szlak kajakowy, papiernia, bartek z piekła]
 date:                   2017-09-24 18:00:00
+finished_at:            2017-12-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

@@ -5,6 +5,7 @@ subtitle:               "jadąc nieużywaną linią kolejową 356 i 281"
 desc:                   "Jadąc pociągiem parowym TurKol przez opuszczoną linią kolejową pomiędzy Bydgoszczem, Nakłem, Gnieznem i Mogilnem"
 keywords:               [turkol, kolej, parowóz, kcynia, szubin, wapno, pałuki, damasławek, kujawy]
 date:                   2017-04-11 21:00:00
+finished_at:            2017-04-27 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train, main]

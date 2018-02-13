@@ -5,6 +5,7 @@ subtitle:               "przejazd pociągiem z Gdańska przez Kościerzynę, Lip
 desc:                   "Opis przejazdu pętlą kolejową przez Kaszuby i Bory Tucholskie z początkiem i końcem trasy w Gdańsku. Idealnie mogłem zobaczyć różnice terenu i miejscowości, które później chciałbym zobaczyć z bliska jadąc rowerem."
 keywords:               [kościerzyna, lipusz, brusy, chojnice, czersk, starogard gdański, pociąg, szynobus, pomorskie, kaszuby, bory tucholskie, las]
 date:                   2017-07-08 20:00:00
+finished_at:            2017-11-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train, main]

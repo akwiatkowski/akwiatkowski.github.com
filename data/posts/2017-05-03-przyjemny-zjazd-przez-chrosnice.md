@@ -5,6 +5,7 @@ subtitle:               "krótka pętla na pożegnanie z Górami Kaczawskimi"
 desc:                   "Krótka pętla jako pożegnanie z Górami Kaczawskimi i Kotliną Jeleniogórską."
 keywords:               [jelenia, chrośnica, czernica, płoszczyna, dziwiszów, poranek]
 date:                   2017-05-03 15:00:00
+finished_at:            2017-09-18 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

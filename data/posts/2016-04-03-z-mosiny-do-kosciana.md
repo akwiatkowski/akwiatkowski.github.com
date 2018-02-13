@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Mosiny za Kościan"
 subtitle:               "dokładniej to do Przysieki Starej"
 date:                   2016-04-03 20:00:00
+finished_at:            2016-04-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/147602295/q%3D80_m%3D2000/8cd0bc3ff6866c44fbdba804f877aca9"
 categories:             trip

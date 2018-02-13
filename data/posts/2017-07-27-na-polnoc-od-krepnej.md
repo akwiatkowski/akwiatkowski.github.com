@@ -5,6 +5,7 @@ subtitle:               "dotykając kraniec Beskidu Niskiego, jeżdząc po najpi
 desc:                   "Opis przejazdu przez tereny między Krempną a Nowym Żmigrodem, są tam bardzo malownicze wzgórza. Powrót przez Myscową terenami, gdzie ogrodzenie domu nie jest koniecznością."
 keywords:               [krempna, nowy żmigród, wzgórza, pagórki, zielone]
 date:                   2017-07-27 17:00:00
+finished_at:            2017-11-19 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main]

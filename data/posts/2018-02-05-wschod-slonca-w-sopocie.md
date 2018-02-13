@@ -5,6 +5,7 @@ subtitle:               "najlepsza pogoda była ostatniego dnia, a ja spóźnił
 desc:                   "To był ostatni dzień pobytu w Trójmieście. Na każdym wyjeździe fotograficznym staram się robić zdjęcia wschodów i zachodów, chyba że akurat danego dnia jest to bezcelowe. Miałem swoje wyobrażenie idealnej pogody i idealnych zdjęć. Na tym wyjeżdzie pogoda mnie nie rozpieszczała. Ostatniego dnia jednak wszystko się zmieniło. Pomimo spóźnienia udało mi się zrobić bardzo ładne zdjęcia."
 keywords:               [sopot, plaża, wschód, czerwień, morze, bałtyk, długie naświetlanie, cokin]
 date:                   2018-02-05 09:00:00
+finished_at:            2018-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5706raw1.jpg

@@ -5,6 +5,7 @@ subtitle:               "wiosny jeszcze nie było ani widać ani widać, myśla�
 desc:                   "Przejazd z Kościanu na wschód przez wypukłe tereny wokół Dolska. Koniec miał być w Jarocinie, ale odbiliśmy do Chociczy i dojechaliśmy do Solca Wielkopolskiego."
 keywords:               [koscian, dolsk, chocicza, solec, jarocin, warta, most]
 date:                   2017-03-25 18:00:00
+finished_at:            2017-05-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

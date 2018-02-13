@@ -5,6 +5,7 @@ subtitle:               "ale skończyliśmy trasę w Białogardzie aby mieć sen
 desc:                   "Początek trasy tego dnia to najciekawsze tereny Drawskiego Parku Krajobrazowego. Udało nam się ostatecznie przejechać prawie 70km i dotarliśmy do Białogardu przejeżdzając wiele klimatycznych miejsc."
 keywords:               [cieszyno, połczyn, rąbino, białogard, drawski, rzecino, ]
 date:                   2017-08-15 16:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

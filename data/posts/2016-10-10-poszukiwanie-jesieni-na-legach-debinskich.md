@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Poszukiwanie jesieni na Łęgach Dębińskich"
 subtitle:               "tam gdzie jest więcej wody drzewa później zrzucają liście*"
 date:                   2016-10-10 09:00:00
+finished_at:            2016-10-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/176911721/q%3D80_m%3D2000/52584500d7ddb9e7e8ee1f880f736d5b"
 categories:             trip

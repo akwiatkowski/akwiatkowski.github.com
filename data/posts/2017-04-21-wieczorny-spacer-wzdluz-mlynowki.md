@@ -5,6 +5,7 @@ subtitle:               "czasem idąc drogą można znaleźć ciekawe miejsca"
 desc:                   "Spacerowa pętla z Rudy Sułowskiej wzdłuż Młynówki, wokół stawów rybnych i powrót drogą asfaltową o zachodzie Słońca."
 keywords:               [ruda sułowska, baryczy, spacer, ścieżka]
 date:                   2017-04-21 20:00:00
+finished_at:            2017-06-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

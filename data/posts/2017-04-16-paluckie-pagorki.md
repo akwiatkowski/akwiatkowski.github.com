@@ -5,6 +5,7 @@ subtitle:               "Dalekie obserwacje z punktu widokowego Duszno"
 desc:                   "Stu kilometrowy przejazd samochodem przez pałuckie wioski. Mały spacer po moście kolejowym na Jeziorze Pakoskim."
 keywords:               [pałuki, duszno, wał wydartowski, kujawy, mogilno, wydartowo, cegielski]
 date:                   2017-04-16 18:00:00
+finished_at:            2017-04-28 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [car, main]

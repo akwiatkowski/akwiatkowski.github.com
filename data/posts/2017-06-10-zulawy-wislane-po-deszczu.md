@@ -5,6 +5,7 @@ subtitle:               "opuszczenie Kaszubów, ucieczka przed deszczem i na kon
 desc:                   "Opuszczaliśmy Kaszuby w deszczu tego dnia. Pogoda miała mocny wpływ na moją chęć dłuższej jazdy. Ostatecznie gdy przestało padać udało mi się zobaczyć skrawek Żuław Wiślanych."
 keywords:               [kolbudy, tczew, żuławy wiślane, kaszuby, gdańsk, deszcz]
 date:                   2017-06-10 17:00:00
+finished_at:            2017-11-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

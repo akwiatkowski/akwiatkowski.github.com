@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Rowerem przez Pieniny"
 subtitle:               "promem przez Czorsztyn, a później powrót przez Pieniński Park Narodowy"
 date:                   2016-07-23 18:00:00
+finished_at:            2016-07-28 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959879/q%3D80_m%3D2000/c65402c988d86a6340c915d8a5ba888b"
 categories:             trip

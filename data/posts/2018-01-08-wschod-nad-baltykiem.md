@@ -5,6 +5,7 @@ subtitle:               "nie musi być źle gdy nie wszystko idzie zgodnie z pla
 desc:                   "Moja pierwsza próba robienia zdjęć wschodu słońca nad Morzem Bałtyckim nie poszła zgodnie z planem. Większość nieba przykryły chmury. Na szczęście przez kilka minut czerwone promienie słońca przedostawały się przez szczelinę umożliwiając mi zrobienie wyjątkowych zdjęć."
 keywords:               [wschód, wschód słońca, orłowo, gdynia, molo, czerwony]
 date:                   2018-01-08 09:00:00
+finished_at:            2018-01-13 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, main, photo_of_the_year]

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wejście na Sokolik"
 subtitle:               "jesień w Rudawach Janowickich"
 date:                   2016-10-24 19:00:00
+finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/180309893/q%3D80_m%3D2000/d8b48b8f2ac5b1aedd46361663a289c8"
 categories:             trip

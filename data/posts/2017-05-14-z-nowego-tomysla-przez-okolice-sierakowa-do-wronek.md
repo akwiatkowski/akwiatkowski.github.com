@@ -5,6 +5,7 @@ subtitle:               "połączenie dzikich asfaltowych dróg z pagórkami Sie
 desc:                   "Nigdy nie wiadomo jaka będzie trasa przed jej przejazdem. Czasami coś mało ciekawego może okazać się czymś wyjątkowym. Tego dnia odkryłem trasę, którą polecam każdemu. Ruch samochodów praktycznie nie występuje."
 keywords:               [nowy tomyśl, sieraków, lwówek, rzepak, zielony, wiosna, chodobczyce, mościejewo, lutom, chrzypsko]
 date:                   2017-05-14 19:00:00
+finished_at:            2017-10-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

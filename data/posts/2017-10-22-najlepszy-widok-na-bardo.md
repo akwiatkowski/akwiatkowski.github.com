@@ -5,6 +5,7 @@ subtitle:               "deszczowe południe w Bardzie aby zobaczyć dwa punkty 
 desc:                   "Bardzo krótka piesza wycieczka po drodze krzyżowej na punkt widokowy, z którego widać prawie całe Bardo. Podczas zejścia odwiedziliśmy drugi punkt widokowy a na koniec pospacerowaliśmy po zaspanym mieście."
 keywords:               [bardzo, bardzkie, jesień, bardo przysiek, droga krzyżowa]
 date:                   2017-10-22 13:00:00
+finished_at:            2017-12-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

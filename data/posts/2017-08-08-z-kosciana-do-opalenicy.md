@@ -5,6 +5,7 @@ subtitle:               "popołudniowa trasa o mieszanej atrakcyjności"
 desc:                   "Popołudniowy przejazd który można podzielić na: wyjazd z Kościana drogą 308, kilka ciekawych wiosek w okolicy Granowa oraz szybki powród do pociągu z Opalenicy."
 keywords:               [kościan, opalenica, konojad, żniwa, granówko, urbanowo]
 date:                   2017-08-08 19:00:00
+finished_at:            2017-11-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

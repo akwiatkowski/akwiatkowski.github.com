@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Beskid Niski rowerem po raz pierwszy"
 subtitle:               "na południe od Krempnej, tam gdzie nie powinno nas być"
 date:                   2016-05-26 20:00:00
+finished_at:            2016-06-16 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/156858245/q%3D80_m%3D2000/f78d6ec50b11528fe329fd7d7daf4940"
 categories:             trip

@@ -5,6 +5,7 @@ subtitle:               "oraz wiosenne tereny jednego z dopływów Noteci"
 desc:                   "Przejazd przez okolice Powidzkiego Parku Krajobrazowego, Przyjezierze oraz okolice początku zachodniego dopływu Noteci. Te ostatnie wiosną zyskują swój zadziwiający klimat."
 keywords:               [powidz, kamionek, gębice, wydartowo, słupca]
 date:                   2017-05-27 17:00:00
+finished_at:            2017-10-13 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

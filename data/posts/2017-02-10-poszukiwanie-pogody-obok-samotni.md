@@ -5,6 +5,7 @@ subtitle:               "okazało się, że im niżej tym jest lepsza widocznoś
 desc:                   "Drugi dzień fotowarsztatów w Karkonoszach pokazał nam, że pogoda w górach jest bywa bardzo kapryśna."
 keywords:               [karpacz, karkonosze, zima, śnieżka]
 date:                   2017-02-10 18:00:00
+finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, workshop, mountains, main]

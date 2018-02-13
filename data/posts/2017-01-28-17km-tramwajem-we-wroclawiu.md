@@ -5,6 +5,7 @@ subtitle:               "między pętlami Leśnica na zachodzie a Księże Małe
 desc:                   "Przejazd do pętli Leśnica, najbardziej oddalonej od centrum pętli tramwajowej we Wrocławiu, a później przejazd na jedną ze wschodnich pętli."
 keywords:               [wrocław, tramwaj, leśnica, księże]
 date:                   2017-01-28 15:00:00
+finished_at:            2017-02-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train]

@@ -5,6 +5,7 @@ subtitle:               "dzięki tej pomyłce zrozumiałem, że nie trzeba wysia
 desc:                   "Pierwszy dzień krótkiej wycieczki po Dolinie Baryczy. Dojechaliśmy z południowej strony przez Osiek do Rudy Sułowskiej."
 keywords:               [barycz, dolina baryczy, osiek, zmigrod, garbce, stawy, staw]
 date:                   2017-04-21 18:00:00
+finished_at:            2017-06-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

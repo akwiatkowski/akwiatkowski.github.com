@@ -5,6 +5,7 @@ subtitle:               "bardzo chciałem zobaczyć Wodospad Szklarka ale ostate
 desc:                   "Remont szlaku uniemożliwił mi dotarcie do Wodospadu Szklarki. Przeszedłem okolice rzeki Kamiennej aż do Michałowic dzięki czemu udało mi się poćwiczyć robienie zdjęć poruszającej się wodzie. Udało mi się również zrobić kilka ciekawych zdjęć późno-jesiennemu lasu."
 keywords:               [szklarska poręba, kamienna, woda, strumień, rzeka, jesień, skały, michałowice, dom hauptmanna, las]
 date:                   2017-10-18 18:00:00
+finished_at:            2017-12-14 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main]

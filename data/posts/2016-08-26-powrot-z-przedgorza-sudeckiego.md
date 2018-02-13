@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Powrót z Przedgórza Sudeckiego przez Brzeg Dolny do Żmigrodu"
 subtitle:               "mała walka ze słońcem"
 date:                   2016-08-26 18:00:00
+finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348"
 categories:             trip

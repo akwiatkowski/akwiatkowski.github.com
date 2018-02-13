@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Podejście na Przełęcz Okraj"
 subtitle:               "spacer z Przełęczy Kowarskiej i przywitanie lekko oblodzone Karkonosze"
 date:                   2016-12-28 17:00:00
+finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/191102529/q%3D80_m%3D2000/ab49bb8cb37510f931da133b75ffa9c6"
 categories:             trip

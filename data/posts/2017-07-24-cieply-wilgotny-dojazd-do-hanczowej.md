@@ -5,6 +5,7 @@ subtitle:               "czyli początek całkiem dlugiego wyjazdu przez Beskid 
 desc:                   "Jest to pierwszy dzień tygodniowego wyjazdu rowerowego przez Beskid Niski zaczynając od Grybowa i jadąc na wschód przez (subiektywnie) najważniejsze miejsca."
 keywords:               [beskid niski, grybów, hańczowa, klimkówka, lato, sakwy, tygodniowa]
 date:                   2017-07-24 20:00:00
+finished_at:            2017-10-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main, panniers]

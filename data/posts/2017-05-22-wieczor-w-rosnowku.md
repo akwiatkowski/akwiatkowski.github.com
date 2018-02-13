@@ -5,6 +5,7 @@ subtitle:               "od dłuższego czasu nie chodziłem z aparatem i statyw
 desc:                   "Spacer w poszukiwaniu ciekawych terenów z jeziorami do zdjęć z długim naświetleniem. Tym razem chciałem zobaczyć okolicę Wielkopolskiego Parku Narodowego w Rosnówku."
 keywords:               [trzeba, rosnowko, wpn, jezioro, szynobus]
 date:                   2017-05-22 22:00:00
+finished_at:            2017-10-13 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main]

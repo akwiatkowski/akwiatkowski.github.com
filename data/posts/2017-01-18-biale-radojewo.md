@@ -5,6 +5,7 @@ subtitle:               "mały spacer gdy wokół biało"
 desc:                   "Poznań zrobił się biały dość niespodziewanie. Przyczyną była mgła i niska temperatura. Gdy zobaczyłem szadź na drzewach nie mogłem tej okazji opuścić. Wybrałem się do Radojewa - północnej części Poznania ograniczonej przez Wartę."
 keywords:               [poznań, spacer, radojewo, zima, szadz, biało, warta, knieje]
 date:                   2017-01-18 15:00:00
+finished_at:            2017-01-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, hike]

@@ -5,6 +5,7 @@ subtitle:               "w poszukiwaniu sklepu i zimy podczas zimy"
 desc:                   "Dzień przed Sylwestrem musieliśmy udać się do sklepu. Najbliższy był w Karłowie. Postanowiliśmy wrócić tak, aby okrążyć Szczeliniec Wielki."
 keywords:               [szczeliniec, karłów, jesień, mgła]
 date:                   2017-12-31 15:00:00
+finished_at:            2018-01-24 12:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP4184raw1

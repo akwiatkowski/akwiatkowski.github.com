@@ -5,6 +5,7 @@ subtitle:               "przejazd zielonym szlakiem rowerowym z Jaślisk do gran
 desc:                   "Przejazd zielonym szlakiem rowerowym z Jaślisk przez Lipowiec i Czeremchę do granicy Polski ze Słowacją. Bardzo krótka trasa przepełniona tym co jest najbardziej klimatyczne w Beskidzie Niskim."
 keywords:               [jaśliska, słowacja, lipowiec, czeremcha]
 date:                   2017-07-28 19:00:00
+finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main]

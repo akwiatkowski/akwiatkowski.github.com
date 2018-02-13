@@ -5,6 +5,7 @@ subtitle:               "spacer północną częścią Puszczy Zielonki, chyba o
 desc:                   "Opis dość długiego spaceru po północnej części Puszczy Zielonki odwiedzając kilka jezior, rzekę Dzwonówkę i stary cmentarz"
 keywords:               [łopuchowo, dzwonówka, sławica, jezioro gackie, jezioro borowe, dzwonowo, cmentarz, cmentarz ewangelicki, głęboczek, jezioro leśne, łopuchówko, żywiec dziewięciolistny, jezioro leśne, rzeka trojanka]
 date:                   2017-11-05 20:00:00
+finished_at:            2017-12-17 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Jarocina do Słupcy"
 subtitle:               "żerkowskie pagórki, nadwarciańskie lasy w bardzo ciepły dzień"
 date:                   2016-05-22 15:00:00
+finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
 categories:             trip

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Najkrótszy dojazd do Sierakowa"
 subtitle:               "jadąc koleją do Mokrza aby dostać się do Sierakowa wystarczy tylko 20.4km"
 date:                   2016-07-16 12:00:00
+finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/163437443/q%3D80_m%3D2000/790beb90af9a6fde691dfffd30790117"
 categories:             trip

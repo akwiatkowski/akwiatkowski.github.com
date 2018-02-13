@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Kłodzka do Głuszycy"
 subtitle:               "jadąc przez wioski i góry, wokół torów"
 date:                   2016-05-01 19:00:00
+finished_at:            2016-06-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c"
 categories:             trip

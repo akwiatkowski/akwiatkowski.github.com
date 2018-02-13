@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Spacer po okolicy Maniowy"
 subtitle:               "jezioro Czorsztyn i idealny widok na Tatry"
 date:                   2016-07-22 18:00:00
+finished_at:            2016-08-28 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501"
 categories:             trip

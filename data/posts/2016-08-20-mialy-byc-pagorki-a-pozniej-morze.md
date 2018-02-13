@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Miały być pagórki a później morze"
 subtitle:               "ale nikt nie mówił o błocie, niedokładnościach na mapie i deszczu na koniec"
 date:                   2016-08-20 21:00:00
+finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169017253/q%3D80_m%3D2000/c8674dece586aa81e8e6250ffaf782bd"
 categories:             trip

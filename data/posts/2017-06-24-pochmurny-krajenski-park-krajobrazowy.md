@@ -5,6 +5,7 @@ subtitle:               "najlepsze miejsca to te najmniej popularne"
 desc:                   "Pierwszy dzień krótkiej przygody z Krajeńskim Parkiem Krajobrazowym i jego okolicami. Nawet słaba pogoda nie wpłynęła na zadowolenie z tych terenów. Idealna trasa dla szukających spokoju."
 keywords:               [krajeński, krajenka, spokój, cisza, sępólno, lasy]
 date:                   2017-06-24 18:00:00
+finished_at:            2017-10-15 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

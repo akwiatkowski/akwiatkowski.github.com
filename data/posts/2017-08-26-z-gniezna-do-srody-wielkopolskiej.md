@@ -5,6 +5,7 @@ subtitle:               "spokojna poranna, ale szybka, przejażdżka przez wielk
 desc:                   "Porany przejazd przez okolicę Wrześni, którą jak do tej pory ignorowałem. Przejechaliśmy bardzo szybko przez dużo wiosek zatrzymując się na chwilę w grodzie w Grzybowie."
 keywords:               [gniezno, września, gród grzybowo, wielkopolska, środa wielkopolska, gutowo]
 date:                   2017-08-26 13:00:00
+finished_at:            2017-12-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

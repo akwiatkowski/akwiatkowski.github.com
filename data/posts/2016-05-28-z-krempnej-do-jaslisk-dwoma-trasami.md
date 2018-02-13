@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Krempnej do Jaślisk dwoma trasami"
 subtitle:               "jak szybko zjechać z górki gdy nadchodzi burza"
 date:                   2016-05-28 20:00:00
+finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05"
 categories:             trip

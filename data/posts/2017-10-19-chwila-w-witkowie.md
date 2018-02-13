@@ -5,6 +5,7 @@ subtitle:               "szukając pagórków do zdjęć zimowych zauważyłem �
 desc:                   "Chciałem zobaczyć potencjalnie dobre tereny do robienia zdjęć zimowych. Wycieczka okazała się bardzo krótka z powodu brudu na matrycy aparatu i musiałem szybko wrócić do Jeleniej Góry."
 keywords:               [witków, pola, pagórki]
 date:                   2017-10-19 17:00:00
+finished_at:            2017-11-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo]

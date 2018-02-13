@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przez pola w okolicy Kiekrza"
 subtitle:               "na spotkanie z ciepłym jesiennym gradem"
 date:                   2016-11-27 15:00:00
+finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/185489845/q%3D80_m%3D2000/8a49e25e4be269f01fcf1a231e0ebf6c"
 categories:             trip

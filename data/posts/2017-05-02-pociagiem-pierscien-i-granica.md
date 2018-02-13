@@ -5,6 +5,7 @@ subtitle:               "przejazd parowozem przez zapore w Pilchowicach oraz do 
 desc:                   "Przejazd parowozem Turkol przez trasę do Lwówka Śląskiego, która od grudnia 2016 oczekuje na remont, oraz do stacji kolejowej Turoszów"
 keywords:               [turkol, pilchowice, lwówek, jelenia, parowóz, zgorzelec, turoszów, pociąg]
 date:                   2017-05-02 20:00:00
+finished_at:            2017-11-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train, main]

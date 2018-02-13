@@ -5,6 +5,7 @@ subtitle:               "pierwsza dłuższa jazda rowerem w 2017 roku"
 desc:                   "Wczesnowiosenny przejazd rowerem z Poznania do Parku Krajobrazowego Promno"
 keywords:               [promno, jeziora, pobiedziska, park krajobrazowy]
 date:                   2017-03-04 18:00:00
+finished_at:            2017-04-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

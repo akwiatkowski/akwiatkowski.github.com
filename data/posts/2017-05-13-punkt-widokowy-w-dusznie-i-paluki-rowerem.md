@@ -5,6 +5,7 @@ subtitle:               "przez Wydartowo łukiem do Wągrowca"
 desc:                   "Wczesnowiosenny przejazd przez punkt widokowy w Dusznie w stronę Wągrowca, przez tereny wielu nieistniejących już połączeń kolejowych."
 keywords:               [pałuki, duszno, trzemeszno, wągrowiec, leszek biały, gąsawa, rzepak, wiosna]
 date:                   2017-05-13 19:00:00
+finished_at:            2017-10-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

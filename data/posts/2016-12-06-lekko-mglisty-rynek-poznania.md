@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Lekko-mglisty rynek Poznania"
 subtitle:               "nieliczny dzień z dobrą pogodą"
 date:                   2016-12-06 22:00:00
+finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/188888973/q%3D80_m%3D2000/d18f11cba30923f68ca1f0842753c906"
 categories:             trip

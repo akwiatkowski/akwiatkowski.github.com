@@ -5,7 +5,7 @@ subtitle:               "opuszczając Krajeński Park Krajobrazowy z gratisowym 
 desc:                   "Przejazd rowerem przez wschodną część Krajeńskiego Parku Krajobrazowego poznając wiele mało popularnych ale niesamowicie urokliwych miejsc w Polsce."
 keywords:               [tuchola, krajenski, zielone, lato, polska, urokliwe, dzikie, z dala od ludzi]
 date:                   2017-06-25 17:00:00
-written:                2017-11-10 18:30:00
+finished_at:            2017-11-10 18:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

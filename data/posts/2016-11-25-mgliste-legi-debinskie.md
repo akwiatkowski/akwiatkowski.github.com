@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Mgliste Łęgi Dębińskie"
 subtitle:               "test zmiennego filtra szarego"
 date:                   2016-11-25 12:00:00
+finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/184879713/q%3D80_m%3D2000/bb166ac6db3d49f999d290a66af9fc8f"
 categories:             trip

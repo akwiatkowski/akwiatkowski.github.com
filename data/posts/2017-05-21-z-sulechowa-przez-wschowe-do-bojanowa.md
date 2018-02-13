@@ -5,6 +5,7 @@ subtitle:               "moja najdłuższa trasa rowerowa, lubuskie czasami ma s
 desc:                   "122km przejazd przez trzy województwa: lubuskie, dolnośląskie i wielkopolskie. Celem była klasyczna ciekawość, aby za jednym zamachem jak najwięcej zobaczyć."
 keywords:               [sulechów, wschowa, lubuskie]
 date:                   2017-05-21 19:00:00
+finished_at:            2017-10-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

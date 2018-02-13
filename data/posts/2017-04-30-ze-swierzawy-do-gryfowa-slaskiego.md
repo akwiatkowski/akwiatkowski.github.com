@@ -5,6 +5,7 @@ subtitle:               "przez Góry i Pogórze Kaczawskie"
 desc:                   "Przejazd przez bardzo malownicze i trochę zapomniane tereny Gór Kaczawskich oraz mało znanymi wioskami w stronę Gryfowa Śląskiego"
 keywords:               [jelenia, świerzawa, nowy kościół, sędziszów, kaczawskie, kaczawa, proboszczów, ostrzyca, wleń, młodochów, lubomierz, gryfów, wulkany]
 date:                   2017-04-30 20:00:00
+finished_at:            2017-08-31 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

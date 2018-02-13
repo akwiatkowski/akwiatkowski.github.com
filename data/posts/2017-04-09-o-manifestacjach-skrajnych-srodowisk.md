@@ -3,6 +3,7 @@ layout:                 post
 title:                  "O manifestacji skrajnych środowisk"
 subtitle:               "czyli garść obserwacji o psychologii tłumu"
 date:                   2017-04-09 12:00:00
+finished_at:            2017-04-17 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 tags:                   [opinion]

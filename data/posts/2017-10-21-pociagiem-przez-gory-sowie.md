@@ -5,6 +5,7 @@ subtitle:               "przejazd linią kolejową Wałbrzych - Kłodzko jesieni
 desc:                   "Jesienny przejazd linią kolejową z Wałbrzycha do Kłodzka. Jest to jedna z dwóch najciekawszych linii kolejowych w Polsce. Tak jak jadąc do Kudowej Zdrój ma się wspaniałe widoki na góry, tak tutaj ma się wspaniałe widoki na miejscowości w dolinie."
 keywords:               [kłodzko, wałbrzych]
 date:                   2017-10-21 15:00:00
+finished_at:            2017-12-17 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train]

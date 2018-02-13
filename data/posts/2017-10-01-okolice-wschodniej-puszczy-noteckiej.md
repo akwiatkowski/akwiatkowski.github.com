@@ -5,6 +5,7 @@ subtitle:               "prawdopodobnie zakończenie sezonu rowerowego w 2017 ro
 desc:                   "Drugie zakończenie sezonu rowerowego czyli przejazd z Wargowa przez Oborniki do Sokołowa Budzyńskiego."
 keywords:               [oborniki, sokołowo budzyńskie, popielno, rzeka flinta]
 date:                   2017-10-01 17:00:00
+finished_at:            2017-12-14 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pagórkami ze Strzelina do Żarowa"
 subtitle:               "największe podjazdy z sakwami na zakończenie lata, niektóre pola już były nawet przeorane"
 date:                   2016-08-25 21:00:00
+finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab"
 categories:             trip
