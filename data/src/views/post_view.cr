@@ -181,12 +181,24 @@ class PostView < BaseView
       data["related_container"] = ""
     end
 
-    # todo notice
+    # todo notice and finished_at
+    data["finished_at_container"] = ""
     if @post.ready?
       data["todo"] = ""
+
+      if @post.finished_at
+        finished_at = @post.finished_at.not_nil!
+        finished_at_days = (finished_at.at_beginning_of_day - @post.time.at_beginning_of_day).days
+        fad = Hash(String, String).new
+        fad["finished_at.date"] = finished_at.to_s("%Y-%m-%d")
+        fad["finished_at.days"] = finished_at_days.to_s
+        data["finished_at_container"] = load_html("post/finished_at", fad)
+      end
     else
       data["todo"] = load_html("post/todo")
     end
+
+
 
     return load_html("post/article", data)
   end

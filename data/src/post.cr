@@ -45,6 +45,7 @@ class Tremolite::Post
   getter :desc, :keywords
   getter :distance, :time_spent
   getter :image_filename, :nogallery
+  getter :finished_at
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -189,6 +190,15 @@ class Tremolite::Post
     # nogallery
     if @header["nogallery"]?
       @nogallery = true
+    end
+
+    # when post was finished
+    if @header["finished_at"]?
+      @finished_at = Time.parse(
+        time: @header["finished_at"].to_s,
+        pattern: "%Y-%m-%d %H:%M:%S",
+        kind: Time::Kind::Local
+      ).as(Time)
     end
   end
 
