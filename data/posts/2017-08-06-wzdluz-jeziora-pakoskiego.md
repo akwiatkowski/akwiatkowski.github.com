@@ -35,7 +35,7 @@ pois:
 [wiki-lacko]: https://pl.wikipedia.org/wiki/%C5%81%C4%85cko_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-jaksice]: https://pl.wikipedia.org/wiki/Jaksice_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-zlotniki-kujawskie]: https://pl.wikipedia.org/wiki/Z%C5%82otniki_Kujawskie
-
+[wiki-notec]: https://pl.wikipedia.org/wiki/Note%C4%87
 
 Wstęp
 -----
@@ -60,7 +60,7 @@ w [Janikowie][wiki-janikowo], skręciłem prosto jadąc do
 Wkraczając do [Dobieszewic][wiki-dobieszewice] widziałem pasące się krowy
 na tle Jeziora Pakoskiego i zakładów sodowych w [Janikowie][wiki-janikowo].
 Gdybym miał więcej czasu i
-mniej szerokokątny obiektyw, oraz jakby nie było siatki odgradzającej,
+nie tak szerokokątny obiektyw, oraz jakby nie było siatki odgradzającej,
 to mógłbym zrobić trochę ciekawych zdjęć. Krowa jest idealnym pierwszym
 planem do zdjęć.
 
@@ -74,8 +74,10 @@ Przejeżdzając przez [Pakość][wiki-pakosc] przejechałem po torach kolejowych
 Tory te łączą [Inowrocław][wiki-inowroclaw] ze [Żninem][wiki-znin] i
 [Damasławkiem][wiki-damaslawek]. Niestety nie ma przewozu pasażerskiego na tej linii.
 
-Wyjeżdzając z [Pakości][wiki-pakosc] kierowałem się na [Łącko][wiki-lacko]
-gdzie widziałem bardzo ładny dom z widokiem na Jezioro Mielno.
+Wyjeżdzając z [Pakości][wiki-pakosc] przejechałem
+przez most nad [Notecią][wiki-notec] kierowałem się na [Łącko][wiki-lacko]
+gdzie widziałem bardzo ciekawy dom z widokiem na Jezioro Mielno.
+Jezioro to jest częście [Noteci][wiki-notec].
 
 Miałem wybór czy jechać do [Jaksic][wiki-jaksice] czy
 [Złotnik Kujawskich][wiki-zlotniki-kujawskie]. Wybrałem to pierwsze. Przez

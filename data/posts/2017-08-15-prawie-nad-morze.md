@@ -44,6 +44,9 @@ pois:
 [wiki-barszcz-sosnowskiego]: https://pl.wikipedia.org/wiki/Barszcz_Sosnowskiego
 [wiki-linia-202]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_202
 [wiki-wieza-toporzyk]: https://pl.wikipedia.org/wiki/RTON_Toporzyk
+[wiki-smoldzecino]: https://pl.wikipedia.org/wiki/Smo%C5%82dz%C4%99cino
+[wiki-klokowo]: https://pl.wikipedia.org/wiki/K%C5%82okowo
+
 
 Wstęp
 -----
@@ -62,6 +65,7 @@ Szczegóły
 ---------
 
 Ruszyliśmy ponownie szlakiem rowerowym po zlikwidowanej kolei na północ.
+Tutaj już zaczęły się pagórki, które tak bardzo chcieliśmy zobaczyć.
 
 Zastanawiałem się jak długo powinniśmy nim jechać. Z jednej strony jest to
 bardzo dobry dojazd do [Połczyna Zdrój][wiki-polczyn-zdroj] za cenę może mniej
@@ -83,7 +87,7 @@ północ. Byli byśmy wtedy szybciej w [Połczynie Zdrój][wiki-polczyn-zdroj].
 
 {% post_image "medium","IMGP0275raw1.jpg","Droga do Cieminko" %}
 
-Patrząc na wykres wysokości droga po której jechaliśmy jest na wysokości
+Patrząc na wykres wysokości droga, po której jechaliśmy, jest na wysokości
 prawie 200m n.p.m.
 
 {% post_image "medium","IMGP0287raw1.jpg","Okolice Nowego Worowa" %}
@@ -91,6 +95,10 @@ prawie 200m n.p.m.
 Co jakiś czas robiliśmy przerwę na zdjęcia. Prawie udało mi się zrobić dobre
 zdjęcie bociana siedzącego na kominie domu. Chwilę później widzieliśmy
 też udomowione sarny.
+
+Bardzo podobała mi się droga przez [Smołdzęcino][wiki-smoldzecino].
+Następną miejscowością było [Kłokowo][wiki-klokowo], które było
+jeszcze mniejszą miejscowością i nie aż tak ciekawe.
 
 {% post_image "medium","IMGP0291raw1.jpg","Okolice Smołdzęcino" %}
 
@@ -120,7 +128,10 @@ ponownie wjechaliśmy w drogę gruntową jadąc do [Starego Ludzicka][wiki-stare
 
 {% post_image "medium","IMGP0339raw1.jpg","Jadąc do Starego Ludzicka" %}
 
-Obie te drogi były drogami gruntowymi przez pola. W jednym miejscu zauważyłem
+Obie te drogi były drogami gruntowymi przez pola. Jeżeli się nie mylę pola były już
+po żniwach - ślady po zbożu. Dominował kolor blado-żółty.
+
+W jednym miejscu zauważyłem
 dziwnego robaka - taką dużą czarno-czerwoną suchą dżdżownice.
 
 Przeglądając mapę widzę sporo ciekawych terenów wokół

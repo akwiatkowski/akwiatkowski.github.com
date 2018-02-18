@@ -45,6 +45,7 @@ pois:
 [wiki-linia-403]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_403
 [wiki-droga-163]: https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_163
 [wiki-linia-416]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_416
+[wiki-szczecin]: https://pl.wikipedia.org/wiki/Szczecin
 
 Wstęp
 -----
@@ -66,7 +67,7 @@ Opis trasy
 Szczegóły
 ---------
 
-Początkowo planowałem ruszyć pociągiem około 6:30 z Poznań Strzeszyn.
+Początkowo planowałem ruszyć pociągiem około 6:30 ze stacji Poznań Strzeszyn.
 Michał przekonał mnie aby przesunąć godzinę wyjazdu o dwie godziny później,
 co okazało się być zdecydowanie dobrą decyzją.
 
@@ -94,6 +95,9 @@ niej przez 7km do [Szydłowa][wiki-szydlowo].
 Nie było to może bardzo traumatyczne przeżycie ale jazda obok
 samochodów jest nużącą.
 
+W tym momencie całe niebo było nierówno zachmurzone. Na filmikach takie niebo wygląda
+ciekawie, klimatycznie, trochę złowrogo.
+
 W [Szydłowie][wiki-szydlowo] skręciliśmy na prawo wkraczając na lokalne drogi
 "przez wioski". Jakość asfaltu w tym momencie była wystarczająca aby jechać
 tam rowerem szosowym. Miejscami było gorzej ale w tym momencie już
@@ -101,7 +105,8 @@ nie pamiętam gdzie.
 
 {% post_image "medium","IMGP0146raw1.jpg","Dojeżdzając do Różewa" %}
 
-Minęliśmy [linię kolejową 403][wiki-linia-403] która na początku XXI wieku
+Minęliśmy [linię kolejową 403][wiki-linia-403]
+(trasa [Piła][wiki-pila]-[Szczecin][wiki-szczecin]), która na początku XXI wieku
 była otwierana i zamykana. Chyba będę musiał się ją przejechać jeżeli jest
 to jeszcze możliwe.
 
@@ -119,6 +124,13 @@ Musieliśmy minąć ponownie wspomnianą [linię kolejową][wiki-linia-403]
 po której akurat jechał pociąg towarowy. Cieszy mnie to, że linia
 jest używana nie tylko
 do transportu pasażerskiego - kolejny argument aby jej nie likwidować.
+
+Jechaliśmy bardzo fajną drogą: zerowy ruch samochodów, wokół niej już
+dość wysokie i gęste drzewa. Jadąc w upalny dzień prawie cały czas jedzie się
+w cieniu.
+
+Wjechaliśmy do [Różewa][wiki-rozewo]. Jeżeli się nie mylę to zaciekawiły mnie
+trzy bloki po prawej stronie.
 
 Droga do [Wałcza][wiki-walcz] była standardową. Wokół ślady pól po żniwach.
 Może robiąc fimik dopiszę coś jeszcze.
@@ -141,6 +153,7 @@ jej likwidacją.
 {% post_image "medium","IMGP0165raw1.jpg","Zółte pole po żniwach" %}
 
 W [Karsiborze][wiki-karsibor] zrobiliśmy przerwę przy ruinie kościoła.
+Cała miejscowość jest według mnie bardzo ładna.
 
 Ruszyliśmy dalej na północ w stronę wsi [Rudki][wiki-rudki]. Patrząc teraz na mapę
 widzę, że po prawej stronie płynie rzeka Świniarka i jest tam wyraźne obniżenie
@@ -154,22 +167,24 @@ kupiłem miód na pamiątkę.
 
 {% post_image "medium","IMGP0179raw1.jpg","Po krótkiej rozmowie przydrożny sprzedawca sprzedawał również noże" %}
 
-Musieliśmy przejechać chwilę na południe gdyż skrót z mapy OpenStreetMap
+Musieliśmy przejechać chwilę drogą 177 na południe gdyż skrót z mapy OpenStreetMap
 nie wyglądał na wystarczająco przejezdny.
 
 Skręcając na północny-zachód jechaliśmy do [Osieka Drawskiego][wiki-osiek-drawski].
-Miejscowość które zamiast drogi asfaltowej ma drogę brukowaną. Tutaj szosówką jak
-już to tylko po chodniku bym jechał.
+Ponownie droga przebiegała przez gęsty las.
+[Osiek Drawski][wiki-osiek-drawski] zamiast drogi asfaltowej ma drogę brukowaną.
+Tutaj szosówką jak już to jechał bym tylko po chodniku.
 
-Kierowaliśmy się w stronę jakieś restauracji w [Złocieńcu][wiki-zlocieniec]
+Kierowaliśmy się docelowo w stronę jakieś restauracji w [Złocieńcu][wiki-zlocieniec]
 jadąc całkiem przyjemną drogą asfaltową przez las.
 Dokładnie tą drogą jechałem
 [2 lata temu]({% post_url 2015-08-22-z-rebusza-do-cieszyno %})
 podczas dwu-dniowej samotnej wycieczki rowerowej.
 
-Po jedzeniu tym razem chciałem jakoś inaczej dojechać do noclegu
-w [Cieszyno][wiki-cieszyno]. Chciałem podjechać tam trasa po zlikwidowanej
-kolei.
+Po zjedzeniu ruszyliśmy dalej.
+Tym razem chciałem jakoś inaczej dojechać do [Cieszyno][wiki-cieszyno],
+gdzie mieliśmy nocleg. Chciałem podjechać tam trasa
+rowerową zbudowaną na zlikwidowanej linii kolejowej.
 
 {% post_image "medium","IMGP0236raw1.jpg","Wracając do noclegu w Cieszyno" %}
 
@@ -199,7 +214,7 @@ Nocleg
 Za nocleg zapłaciliśmy 170zł, czyli wychodziło prawie 60zł od osoby.
 Hotel w [Drawsku Pomorskim][wiki-drawsko-pomorskie] był za 300zł. Niby prawie 2x więcej ale
 w cenie było śniadanie. Nasz pokój był tym co potrzebowaliśmy - był czysty, miał
-prysznic i łóżka, lecz niewiele ponad to. Jedyny dodatkowym meblem była szafa.
+prysznic i łóżka, lecz niewiele ponad to. Jedynym dodatkowym meblem była szafa.
 Nie było tam żadnego stołu oprócz tego co było na balkonie. Rowery zmieściliśmy
 właśnie tam i to było bardzo dobrym rozwiązaniem.
 
