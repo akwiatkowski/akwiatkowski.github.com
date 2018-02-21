@@ -5,6 +5,7 @@ subtitle:               "nawet zimą trudno zobaczyć tutaj pustki"
 desc:                   "W wakacje byłem na chwilę na Helu, chciałem przy okazji odwiedzić Fokarium niestety ilość ludzi mnie zniechęciła. Postanowiłem, że przyjadę tutaj zimą oczekując większego spokoju."
 keywords:               [hel, morze, bałtyk, zatoka, foka, foki, fokarium]
 date:                   2018-02-03 17:00:00
+finished_at:            2018-02-21 16:10:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5363raw1.jpg
