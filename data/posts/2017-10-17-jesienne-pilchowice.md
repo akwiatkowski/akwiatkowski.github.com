@@ -8,7 +8,7 @@ date:                   2017-10-17 21:00:00
 finished_at:            2017-12-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, main]
+tags:                   [hike, photo, main, mountains]
 towns:                  [dolnoslaskie, jezow_sudecki, wlen]
 lands:                  [gory_kaczawskie]
 

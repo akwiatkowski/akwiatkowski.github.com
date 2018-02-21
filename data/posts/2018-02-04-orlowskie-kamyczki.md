@@ -9,7 +9,7 @@ finished_at:            2018-02-21 15:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5567raw1.jpg
-tags:                   [photo, main]
+tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot, gdynia]
 
 coords:                 [{"route": [[54.45899,18.56261], [54.46186,18.56007], [54.46635,18.56222]], "type": "hike"}]

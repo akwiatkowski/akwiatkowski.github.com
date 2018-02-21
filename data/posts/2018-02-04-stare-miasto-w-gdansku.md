@@ -9,7 +9,7 @@ finished_at:            2018-02-21 13:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5652raw1.jpg
-tags:                   [photo, city, main]
+tags:                   [photo, city, main, hike, coast]
 towns:                  [pomorskie, gdansk]
 
 coords:                 [{"route": [[54.35548,18.64475], [54.35063,18.65234], [54.35388,18.66011], [54.34766,18.65702], [54.35181,18.64582], [54.35748,18.64011], [54.35558,18.64470]], "type": "hike"}]

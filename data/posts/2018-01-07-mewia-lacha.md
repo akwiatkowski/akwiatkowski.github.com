@@ -8,7 +8,7 @@ date:                   2018-01-07 17:00:00
 finished_at:            2018-01-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, main]
+tags:                   [hike, photo, main, coast]
 towns:                  [pomorskie, gdansk]
 
 coords:                 [{"route": [[54.33483,18.93433], [54.35559,18.94463], [54.35669,18.94111]], "type": "hike"}]

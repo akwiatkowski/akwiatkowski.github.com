@@ -8,7 +8,7 @@ date:                   2017-10-18 18:00:00
 finished_at:            2017-12-14 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, main]
+tags:                   [hike, photo, main, mountains]
 towns:                  [dolnoslaskie, szklarska_poreba, piechowice]
 lands:                  [karkonosze]
 

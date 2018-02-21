@@ -9,7 +9,7 @@ finished_at:            2018-02-13 11:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5114raw1multiple_full
-tags:                   [photo, main]
+tags:                   [photo, main, mountains]
 towns:                  [dolnoslaskie, jelenia_gora, czarny_bor]
 
 coords:                 [{"route": [[50.80343,16.12706], [50.79765,16.11762], [50.79939,16.11402]], "type": "hike"}]

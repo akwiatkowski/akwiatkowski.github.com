@@ -9,7 +9,7 @@ finished_at:            2018-01-24 12:30:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP4286raw1
-tags:                   [hike, main]
+tags:                   [hike, main, mountains]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 

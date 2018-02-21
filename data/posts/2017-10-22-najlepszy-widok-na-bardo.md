@@ -8,7 +8,7 @@ date:                   2017-10-22 13:00:00
 finished_at:            2017-12-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, main]
+tags:                   [hike, main, mountains]
 towns:                  [dolnoslaskie, bardo]
 lands:                  [gory_bardzkie]
 

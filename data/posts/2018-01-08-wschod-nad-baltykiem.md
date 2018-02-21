@@ -8,7 +8,7 @@ date:                   2018-01-08 09:00:00
 finished_at:            2018-01-13 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, main, photo_of_the_year]
+tags:                   [photo, main, photo_of_the_year, coast]
 towns:                  [pomorskie, gdynia]
 
 coords:                 [{"route": [[54.48197,18.56517], [54.47857,18.56380]], "type": "hike"}]

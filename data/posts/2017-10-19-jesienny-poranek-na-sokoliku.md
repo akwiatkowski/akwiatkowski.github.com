@@ -8,7 +8,7 @@ date:                   2017-10-19 09:00:00
 finished_at:            2017-10-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, main]
+tags:                   [hike, photo, main, mountains]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 

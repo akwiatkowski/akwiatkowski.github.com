@@ -9,7 +9,7 @@ finished_at:            2018-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5706raw1.jpg
-tags:                   [photo, main]
+tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot]
 
 coords:                 [{"route": [[54.45081,18.56780], [54.45907,18.56235]], "type": "hike"}]
