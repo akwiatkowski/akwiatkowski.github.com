@@ -19,6 +19,12 @@ elevation:              42
 
 
 pois:
+  - lat: 54.45911
+    lon: 18.56281
+    name: Szkielet tarasu na plaży w Sopocie
+  - lat: 54.45536
+    lon: 18.56445  
+    name: Uszkodzony pomost na plaży w Sopocie
 
 ---
 
