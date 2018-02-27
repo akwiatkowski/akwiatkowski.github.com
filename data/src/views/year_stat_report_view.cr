@@ -12,6 +12,8 @@ class YearStatReportView < PageView
     @title = "#{@year}"
     @subtitle = "Podsumowanie roku #{@year}, czyli #{hours.to_i} godzin i #{distance.to_i} kilometrów w terenie"
     @url = "/year/#{@year}"
+
+    @data_manager = @blog.data_manager.as(Tremolite::DataManager)
   end
 
   getter :image_url, :title, :subtitle, :year
@@ -30,9 +32,13 @@ class YearStatReportView < PageView
 
     voivodeships_stats_strings = Array(String).new
     voivodeships_stats.keys.each do |k|
-      voivodeships_stats_strings << "#{k} - #{voivodeships_stats[k]}"
+      voivodeships_stats_strings << "#{k} - #{voivodeships_stats[k]} razy"
     end
-    data["voivodeships_stats"] = voivodeships_stats_strings.join(", ")
+    data["voivodeships_stats"] = "<ol>\n"
+    voivodeships_stats_strings.each do |s|
+      data["voivodeships_stats"] += "<li>#{s}</li>\n"
+    end
+    data["voivodeships_stats"] += "</ol>\n"
 
     years_strings = Array(String).new
     @all_years.each do |y|
@@ -147,19 +153,26 @@ class YearStatReportView < PageView
 
   private def voivodeships_stats
     voivoids = @blog.data_manager.not_nil!.voivodeships.not_nil!
-    d = Hash(String, Int32).new
+    voivoids_hash_keys = Hash(String, Int32).new
     @posts.each do |post|
       vs = post.towns.not_nil!.select { |t| voivoids.map(&.slug).includes?(t) }
       vs.each do |v|
-        if d[v]?
-          d[v] += 1
+        if voivoids_hash_keys[v]?
+          voivoids_hash_keys[v] += 1
         else
-          d[v] = 1
+          voivoids_hash_keys[v] = 1
         end
       end
     end
 
-    return d
+    # convert slugs to names
+    voivoids_hash_names = Hash(String, Int32).new
+    voivoids_hash_keys.keys.each do |key|
+      voivodeship_name = @data_manager.voivodeships.not_nil!.select{ |v| v.slug == key }.first.name
+      voivoids_hash_names[voivodeship_name] = voivoids_hash_keys[key]
+    end
+
+    return voivoids_hash_names
   end
 
   private def bibycle_distance

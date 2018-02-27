@@ -1100,3 +1100,36 @@
   distance: 76
   time_length: 5
   url: http://umapa.pl/Q5Pzq
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Głębokie Międzyrzeckie
+  to: Rzepin
+  through:
+    - Goruńsko
+    - Lubniewice
+    - Sulęcin
+    - Ośno Lubuskie
+  info: Trasa głównie lasy, wioski, czasami jakieś jezioro. Klasyczne ale w klimacie lubuskim.
+  priorities:
+    - high
+  distance: 67
+  time_length: 4.5
+  url: http://umapa.pl/9b87j
+
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Santok
+  to: Torzym
+  through:
+    - Skwierzyna
+    - Sokola Dąbrowa
+    - Lubniewice
+    - Sulęcin
+  info: Początek w okolicy Puszczy Noteckiej a dalej standardowy klimat lubuskiego.
+  priorities:
+    - normal
+  distance: 78
+  time_length: 5
+  url: http://umapa.pl/5LZvq

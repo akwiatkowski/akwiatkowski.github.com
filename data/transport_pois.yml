@@ -799,3 +799,15 @@
   time_cost: 240
   lat: 53.54302
   lon: 15.56533
+
+- commune_slug: glebokie_miedzyrzeckie
+  name: Głębokie Międzyrzeckie
+  time_cost: 110
+  lat: 52.48389
+  lon: 15.53606
+
+- commune_slug: torzym
+  name: Torzym
+  time_cost: 120
+  lat: 52.31170
+  lon: 15.06073
