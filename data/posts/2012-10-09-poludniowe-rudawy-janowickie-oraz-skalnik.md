@@ -7,7 +7,7 @@ keywords:               [jesień, rudawy, leszczyniec, kamienna góra, skalnik, 
 date:                   2012-10-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, marciszow, kamienna_gora]
 lands:                  [rudawy_janowickie]
 
@@ -44,59 +44,47 @@ Szczegóły
 ---------
 
 Dojechaliśmy rano do [Marciszowa][wiki-marciszow]. Poczekaliśmy chwilę na autobus do [Kamiennej Góry][wiki-kamienna_gora].
+
+{% photo "IMGP2211c.jpg","Kaczka w Kamiennej Górze" %}
+
 Tam z kolei mieliśmy trochę czasu na kolejny, więc poszedliśmy coś zjeść do centrum. Wróciliśmy i dalej jechaliśmy
 autobusem w stronę [Kowar][wiki-kowary].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23974233/m%3D900/9c99f9448b32b06c16d15a181e9c0eac' alt='From Kamienna Góra to Kowary by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23974233/from-kamienna-g%C3%B3ra-to-kowary-by-aleksander-kwiatkowski' alt='From Kamienna Góra to Kowary by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca" %}
 
 Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Sama droga [367][wiki-367]
-położona jest całkiem wysoko. [Leszczyniec][wiki-leszczyniec] jest na wysokości około 560m n.p.m., porównywalnie do szczytów
-północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
-[Przełęcz Kowarska][wiki-przel-kowarska], gdzie drogą położona jest na wysokości 727 m n.p.m.
+położona jest całkiem wysoko.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28630541/m%3D900/95a34e8de1a1fd4107b8f09acccc94bb' alt='Tree that feel autumn by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28630541/tree-that-feel-autumn-by-aleksander-kwiatkowski' alt='Tree that feel autumn by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2230b.jpg","Kot w Leszczyńcu" %}
+
+[Leszczyniec][wiki-leszczyniec] jest na wysokości około 560m n.p.m., porównywalnie do szczytów
+północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
+[Przełęcz Kowarska][wiki-przel-kowarska], gdzie droga położona jest na wysokości 727 m n.p.m.
+
+{% photo "IMGP2286b.jpg","Centrum Leszczyńca, niedaleko sklepu" %}
 
 Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry [Rudaw][wiki-rudawy] - [Skalnika][wiki-skalnik].
+
+{% photo "IMGP2314b.jpg","Idealnie jesienne drzewo w Leszczyńcu" %}
+
 Najpierw poszliśmy do centrum wsi, obok [kościoła][wiki-leszcz-kosciol] a dalej podejście w las na
 Rozdroże pod Bobrzakiem.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23974283/m%3D900/b6afd17dce0f487a7b80a9d21109ef6b' alt='Autumn by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23974283/autumn-by-aleksander-kwiatkowski' alt='Autumn by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Później szliśmy niebieskim szlakiem obok schroniska [Czartak][wiki-czartak], obok którego na asfaltowej drodzę leżał
 czarny kot. Schroniska już nie ma, zostało przekształcone teraz w gospodarstwo agroturystyczne.
 
+{% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca" %}
+
 Szliśmy niebieskiem szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
+
+{% photo "IMGP2606c.jpg","Karkonosze widoczne ze Skalnika" %}
 
 Posiedzieliśmy chwilkę na [Skalniku][wiki-skalnik], jednak dość mocno wiało a pogoda była niepewna, więc byliśmy tam
 tylko tą wspomnianą chwilę.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28662503/m%3D900/b531ba5d01d1f59506564418d4af42fa' alt='Western Sudetes by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28662503/western-sudetes-by-aleksander-kwiatkowski' alt='Western Sudetes by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 Schodziliśmy inaczej - czerwonym szlakiem. Był on łatwiejszy, jednak podobnie jak niebieski był umiarkowanie ciekawy.
+
+{% photo "IMGP2646b.jpg","Tory linii kolejowej Kowary - Kamienna Góra" %}
 
 Wieczór we wsiach jak [Leszczyniec][wiki-leszczyniec] jest ogromnie spokojnym wydarzeniem. Chociaż
 rekordowy spokój tego miejsca został pobity później w [Pasterce][wiki-pasterka], w Górach Stołowych.
