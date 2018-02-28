@@ -1,12 +1,13 @@
 ---
 layout:                 post
 title:                  "Na Lesistą Wielką"
-subtitle:               "Góry Kamienne od zachodu"
+subtitle:               "Góry Kamienne pieszo zimą idąc z zachodu"
+desc:                   "Rok temu byłem pierwszy raz w górach zimą. Chociaż to był raczej krótki spacer w najpopularniejszej częsci Karkonoszy. Postanowiłem, że warto by spróbować coś poważniejszego niż tylko zwykły spacer. Wybrałem Góry Kamienne gdyż nie są tak wysokie, są mało popularne i nigdy nie byłem."
+keywords:               [góry kamienne, boguszów gorce, grzędy, zima, śnieg, sudety, ośnieżone pola]
 date:                   2012-12-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/31897229/m%3D2048/dcafcad935ef3832444e2725cb4c4ceb"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
 
@@ -39,45 +40,37 @@ Rano wysiedliśmy z pociągu na stacji [Boguszów-Gorce][wiki-boguszow-gorce] i 
 Było wszędzie biało, co w tym momencie mi się podobało. Teraz mi się jeszcze bardziej podoba, bo było naprawdę
 ładnie, a trud już minął.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28655865/m%3D900/e67701c3bcf2f7a1f0022eea35db1c29' alt='Snow trail to Grzędy by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28655865/snow-trail-to-grz%C4%99dy-by-aleksander-kwiatkowski' alt='Snow trail to Grzędy by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5530b.jpg","Idąc przez białe pola w stronę Grzęd" %}
 
 Szliśmy przez ośnieżone pola ufając że ta ścieżka jest szlakiem i jednocześnie sprawdzając co mówi GPS.
 Chcieliśmy dojśc do wsi [Grzędy][wiki-grzedy], z której zaczynał się [Główny Szlak Sudecki][wiki-gss].
+
+{% photo "IMGP5585b.jpg","Zimowe okolice wsi Grzędy" %}
+
 Tam kupiliśmy trochę zapasów w sklepie i zjedliśmy, a następnie ruszyliśmy na południe do
 [Grząd Górnych][wiki-grzedy-gorne]. Tutaj ulica się kończyła, a zaczynało się lekkie podejście
 i śnieg w terenie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28660087/m%3D900/973ad9c68452f09fa5f23e8f42badaa9' alt='Old house in Grzędy by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28660087/old-house-in-grz%C4%99dy-by-aleksander-kwiatkowski' alt='Old house in Grzędy by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5649b.jpg","Stary budynek w Grzędach" %}
 
 Trudno mi opisać podejście. Przyznam że za wiele nie pamiętam, tylko że coraz wyżej, bardziej biało, trochę mgły.
+
+{% photo "IMGP5671b.jpg","Opuszczając Grzędy widzieliśmy wokół pola przykryte śniegiem" %}
+
 Gdzieś na podejściu do [Lesistej Wielkiej][wiki-lesista] zrobiłem poniższe zdjęcie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28660617/m%3D900/55672d2c523322dfa8883f1e54632ef7' alt='Glow by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28660617/glow-by-aleksander-kwiatkowski' alt='Glow by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5850b.jpg","Zimowy las" %}
 
 Sam szczyt [Lesistej Wielkiej][wiki-lesista] raczej nie był specjalnie interesujący, oprócz tego, że był tam szałas.
 Powoli zaczęło robić się ciemno, a musieliśmy dojść do noclegu w [Kowalowej][wiki-kowalowa].
 
+{% photo "IMGP5920.jpg","Zimowe Góry Kamienne" %}
+
 Było jedno takie miejsce podczas zejścia, że jak je zobaczyłem to zastanawiałem się, czy to nie jest jakiś
 chory żart. Było stromo, bardzo. Wywaliłem się podczas zejścia i lekko ugiąłem jeden ze swoich kijków.
 Teraz trudniej się on chowa.
+
+{% photo "IMGP6097b.jpg","Im wyżej tym bardziej mgliście" %}
 
 Do [Kowalowej][wiki-kowalowa] dotarliśmy około 16-tej, czyli jak na ten miesiąc, tuż przed zmrokiem. Nie pamiętam czy
 miałem czołówkę, ale znając mnie, to na pewno musiałem ją mieć.

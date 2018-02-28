@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Bukowiec i Andrzejówka"
 subtitle:               "ostatni dzień pierwszej prawdziwie zimowej, lecz krótkiej wycieczki"
+desc:                   "Nocowaliśmy prawie w sercu Góry Kamiennych. Tego dnia planowaliśmy iść w stronę Andrzejówki a może nawet i na Waligórę. Samo podejście na Bukowiec okazało się czasowo 3 razy trudniejsze niż gdybyśmy szli tam latem. "
+keywords:               [góry kamienne, wałbrzych, sokołowsko, zima, śnieg, sudety, bukowiec]
 date:                   2012-12-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/31440617/m%3D2048/02d36f9c27f804af2a1872ea6c17ae1e"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later, photo_of_the_year]
+tags:                   [main, hike, mountains, photo_of_the_year]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 
@@ -40,18 +42,13 @@ Szczegóły
 W [Kowalowie][wiki-kowalowa] byliśmy chyba jedynymi goścmi pensjonatu i przez to były problemy z ciepłą wodą,
 ale jaki to problem kąpać się w zimie w zimnej wodzie?
 
+{% photo "IMGP6202b.jpg","Zimowe pola w okolicy Kowalowej" %}
+
 Ruszyliśmy dalej w kierunku [Sokołowska][wiki-sokolowsko] idąc ulicą Główną, całkiem długa ona była, położona pośrodku
 gór. [Sokołowsko][wiki-sokolowsko] okazało być się najbardziej zapomnianą miejscowością sudecką jaką widziałem.
 To znaczy widziałem dużo zapomnianych, ale widać że kiedyś ta miejscowość żyła, a teraz prawie nic się tam nie dzieje.
 
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/31441227/m%3D900/7748b335ab91f27ab00e482b1f278808' alt='White world by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/31441227/white-world-by-aleksander-kwiatkowski' alt='White world by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6295b.jpg","Zimowe podejście na Bukowiec" %}
 
 Idąc dalej opuszczaliśmy [Sokołowsko][wiki-sokolowsko] i zaczynało się podejście na [Bukowiec][wiki-bukowiec]. W lecie idzie się
 tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
@@ -59,30 +56,22 @@ tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
 Niby tylko dzień różnicy i chyba 100 metrów wyżej, ale różnica widoczna od razu. Wszystkie drzewa
 wokoło były pięknie ośnieżone, co doskonale widać na zdjęciach.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/31992145/m%3D900/8545d8981c8ad87747d5f8f6a2265582' alt='Bukowiec by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/31992145/bukowiec-by-aleksander-kwiatkowski' alt='Bukowiec by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6321d.jpg","Białe drzewa" %}
 
 Cały czas tego totalny spokój, zero wiatru, zero dźwięków, oraz śladów na śniegu. Nie muszę mówić że na szlaku nie
 spotkaliśmy nikogo. Bardzo bym się ździwił, jakby było inaczej.
 
+{% photo "IMGP6345b.jpg","Szlak dźwiękowej pustki" %}
+
 Idąc dalej zauważyliśmy tablice ostrzegawcze pobliskiej kopalni. Istnienie i rozwój tej kopalni zagrażało
 schronisku [Andrzejówka][wiki-andrzejowka], do której się kierowaliśmy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23974821/m%3D900/9b33a2f4e8ab07b10427fdcf2d589270' alt='Slope by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23974821/slope-by-aleksander-kwiatkowski' alt='Slope by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6482b.jpg","Gęsty oszroniony las na zboczach Gór Kamiennych" %}
 
 Na powyższym zdjęciu widać jak szlak czasami był widoczny. Oznakowania również były
 czasem ciężko widoczne przez oszronione drzewa.
+
+{% photo "IMGP6542.jpg","Schronisko Andrzejówka" %}
 
 Dotarliśmy do schroniska [Andrzejówki][wiki-andrzejowka], zjedliśmy i przeanalizowaliśmy możliwości powrotu.
 Zadecydowaliśmy że wrócimy prostym szlakiem rowerowym do [Sokołowska][wiki-sokolowsko] i podjedziemy autobusem do [Wałbrzycha][wiki-walbrzych], a tam dalej pociągiem do domu pociągiem.

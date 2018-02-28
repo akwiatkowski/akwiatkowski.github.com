@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Z Leszczyńca na Skalny Stół"
 subtitle:               "przez dwa pasma górskie i chwila w Czechach"
+desc:                   "Mając cały dzień na wydostanie się z południowych Rudaw Janowickich postanowiliśmy, że warto by było zobaczyć również wschodnie Karkonosze. Wiele dobrego słyszałem o okolicy Przełęczy Okraj. Przy okazji mógłbym zobaczyć okolicę Kowar i Ogorzelca, które tak bardzo mi się spodobały zimą."
+keywords:               [jesień, rudawy, rudawy janowickie, leszczyniec, kowary, przełęcz okraj, ogorzelec, mala upa, karpacz, skalny stół]
 date:                   2012-10-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/23974581/m%3D2048/55807aaa8314d4254722015ea685a54d"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
 
@@ -46,67 +47,54 @@ Szczegóły
 ---------
 
 Wyruszyliśmy dość wcześniej drogą [367][wiki-367] idąc aż do [Ogorzelca][wiki-ogorzelec]. Te
-tereny bardzo mi się spodobały jak w [grudniu 2011](/trip/2011/12/31/zimowa-sniezka/)
+tereny bardzo mi się spodobały jak w
+[grudniu 2011]({% post_url 2011-12-31-zimowa-sniezka %})
 jechaliśmy samochodem do [Karpacza][wiki-karpacz].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28667687/m%3D900/842e66aef25f3fc0840cac24be78053c' alt='Autumn in Ogorzelec by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28667687/autumn-in-ogorzelec-by-aleksander-kwiatkowski' alt='Autumn in Ogorzelec by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2675b.jpg","Jesien w okolicy Ogorzelca" %}
 
-W [Ogorzelcu][wiki-ogorzelec] zeszliśmy do wioski, i dołączyliśmy do niebieskiego szlaku pieszego
-obok rzeki [Świdnik][wiki-swidnik]. Doszliśmy do [Przełęczy Kowarskiej][wiki-przel-kowarska], czyli mieliśmy już 727m
+W [Ogorzelcu][wiki-ogorzelec] zeszliśmy do wioski i dołączyliśmy do niebieskiego szlaku pieszego
+obok rzeki [Świdnik][wiki-swidnik].
+
+{% photo "IMGP2703b.jpg","Stary dom w Ogorzelcu" %}
+
+Doszliśmy do [Przełęczy Kowarskiej][wiki-przel-kowarska], czyli byliśmy już na 727m
 wysokości n.p.m.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28669883/m%3D900/ab8efca2c7e7c3f4a2da3b47c40138e7' alt='Ruined house by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28669883/ruined-house-by-aleksander-kwiatkowski' alt='Ruined house by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu" %}
 
-Od tego miejsca szliśmy cały czas żółtym szlakiem w kierunku [Malá Úpa][wiki-mala-upa] albo
-[Przełęczy Okraj][wiki-okraj]. Po drodzę z prawej strony mieliśmy bardzo dobry widok na
+Od tego miejsca szliśmy cały czas żółtym szlakiem pieszym
+w kierunku [Malá Úpa][wiki-mala-upa] lub
+[Przełęczy Okraj][wiki-okraj].
+
+{% photo "IMGP2801c.jpg","Wieś Podgórzyn" %}
+
+Po drodze z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28671083/m%3D900/2a240d0a3013f0738b6704325c3e276f' alt='Podgórze by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28671083/podg%C3%B3rze-by-aleksander-kwiatkowski' alt='Podgórze by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2816b.jpg","Widok na Jelenią Strugę" %}
 
-Dalej droga była raczej umiarkowanie ciekawa, oprócz miejsc, takich jak to. Oczywiście ciekawość jest subiektywna.
+Dalej droga była raczej umiarkowanie ciekawa, oprócz miejsc takich jak to. Oczywiście ciekawość jest subiektywna.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/23974399/m%3D900/a2e5d5e13a2e074a4d90a8e9217fb784' alt='Trail by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/23974399/trail-by-aleksander-kwiatkowski' alt='Trail by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2849b.jpg","Żółty szlak z Przełęczy Okraj" %}
 
-Jak dotarliśmy do [Malá Úpa][wiki-mala-upa] i przeszliśmy granicę, to bardzo łatwo można było
-zauważyć zupełnie inny styl budynków. Cała miejscowość też jest ciekawa - położona wysoko, na ponad 1000m n.p.m.
+Jak dotarliśmy do [Malá Úpa][wiki-mala-upa] i przeszliśmy przez granicę,
+to od razu można było
+zauważyć zupełnie inny styl budynków.
+Sama miejscowość też jest ciekawa - położona wysoko, na ponad 1000m n.p.m.
+
 Poszliśmy coś zjeść i dalej wyruszyliśmy w drogę szlakiem granicznym. Nie czerwonym, ale niebieskim, w stronę
 [Skalnego Stołu][wiki-skalny-stol].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28674413/m%3D900/3d9f202f35733f64da1244ab17f4e95c' alt='Dead tree by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28674413/dead-tree-by-aleksander-kwiatkowski' alt='Dead tree by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2985b.jpg","Martwe drzewo w okolicy Skalnego Stołu" %}
 
-Im wyżej byliśmy tym pogoda robiła się gorsza. Powoli robiło się szaro i zapierające widoki ze szczytu przestawały być
-opcją. Jedyny plus to trochę popadało śniegu. Fajnie, pierwszy śnieg w tym roku miałem zaliczony. Szkoda że było tak mało.
+Im wyżej byliśmy tym pogoda stawała się gorsza.
+Powoli robiło się szaro i zapierające widoki ze szczytu przestawały być
+opcją.
+Jedynym plusem był padający śnieg. Fajnie, pierwszy śnieg w tym roku miałem zaliczony. Szkoda że było tak mało.
 Powrót w śnieżycy mógłby być ciekawym doświadczeniem.
+
+{% photo "IMGP3017b.jpg","Jeden z pierwszych śniegów w Karkonoszach" %}
 
 Doszliśmy do [Skalnego Stołu][wiki-skalny-stol] który przy tej pogodzie okazał się kupą kamieni. Po tym zejście
 do [Karpacza][wiki-karpacz] przez las. Nie pamiętam abym zauważył coś ciekawego wtedy.
