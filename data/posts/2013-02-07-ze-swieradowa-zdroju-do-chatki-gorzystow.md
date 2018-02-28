@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Ze Świeradowa Zdroju do Chatki Górzystów"
 subtitle:               "Góry Izerskie rozpoczęte Głównym Szlakiem Sudeckim"
+desc:                   "Wystarczył trochę ponad miesiąc abym chciał ponownie pojechać w góry. Zaplanowaliśmy całkiem długi weekend, aż 4 dni, przejścia Głównego Szlaku Sudeckiego zaczynając w Świeradowie Zdroju. Pierwszego dnia celem było dotarcie do schroniska Chatka Górzystów."
+keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima]
 date:                   2013-02-07 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28157011/m%3D2048/2e4a7c609eb6d14033338dd2dab9ced0"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+image_filename:         IMGP7946b.jpg
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
 
@@ -35,20 +37,17 @@ Opis trasy
 Szczegóły
 ---------
 
-Do Krzycha dołączyłem za Wrocławiem, kiedy to nasze pociągi zostały połączone. Jak zwykle byłem średnio wyspany po
-nocnej jeździe pociągiem, a czekała mnie jeszcze dzisiejsza trasa. Jest to przepis na najlepsze
-lekarstwo na bezsenność.
+Do Krzycha dołączyłem za Wrocławiem, kiedy to nasze pociągi zostały połączone.
+Jak zwykle byłem średnio wyspany po
+nocnej jeździe pociągiem, a czekała mnie jeszcze dzisiejsza trasa.
+Jest to przepis na najlepsze lekarstwo na bezsenność.
+
+{% photo "IMGP7517b.jpg","Góry Sokole" %}
 
 Ciekawe widoki rozpoczęły się już za [Wałbrzychem][wiki-walbrzych] z kulminacją w okolicy [Rudaw Janowickich][wiki-rudawy].
 Pogoda była całkiem przyjemna, cały świat delikatnie ośnieżony.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28153495/m%3D900/6f6cb0a8d5337effc2cf6e9c8a8d9c8b' alt='Eastern Karkonosze by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28153495/eastern-karkonosze-by-aleksander-kwiatkowski' alt='Eastern Karkonosze by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7529b.jpg","Widok na Karkonosze" %}
 
 Dojechaliśmy do [Jeleniej Góry][wiki-jelenia] i tam szliśmy z PKP do przystanku, z którego ruszał bus do
 [Świeradowa Zdroju][wiki-swieradow].
@@ -57,6 +56,8 @@ normalnym polskim mieści? Ano jest, bo akurat w [Jeleniej][wiki-jelenia] odleg�
 Ciekawe kto wpadł na tak genialny
 pomysł.
 
+{% photo "IMGP7695b.jpg","Topiący się śnieg na drzewie iglastym zamienił się w lód" %}
+
 Wysiedliśmy w [Świeradowie Zdroju][wiki-swieradow] i poszliśmy coś zjeść. Czułem się podejrzanie, ale po
 ciepłym kotlecie poczułem, że wszystko jest dobrze. W górach nie można być chorym.
 
@@ -64,39 +65,23 @@ Podejście w stronę [Stogu Izerskiego][wiki-stog-izerski] było trochę mozolne
 świeciło słońce, jednak pod koniec pogoda się zmieniła. Zrobiło się bardziej szaro oraz zaczął padać śnieg.
 W sumie nawet fajnie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/35575668/m%3D900/19009fcb783b0d7af5b300b86228ec54' alt='Gray Izery by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/35575668/gray-izery-by-aleksander-kwiatkowski' alt='Gray Izery by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7839b.jpg","Góry Izerskie podczas delikatnej zamieci" %}
 
 I tak kierowaliśmy się już po raczej płaskim terenie do [Chatki Górzystów][wiki-chatka-gorzystow]. Wszędzie drzewa
 i śnieg. Po drodzę minęliśmy ludzi, którzy średnio potrafili mówić po polsku, a tym bardziej już teraz nie
 pamiętam czego chcieli, ale chyba być w innym miejscu niż byli.
 
+{% photo "IMGP7930b.jpg","Barwny wieczór w Górach Izerskich" %}
+
 Dopiero wieczorem, gdy już zbliżaliśmy się do schroniska chmury robiły się rzadsze i przedostawało się słońce.
 Wieczorne słońce w zimie w górach to jedna z najpiękniejszych rzeczy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/122183101/m%3D900/79220d37bf9498b5394e6a9186f46993' alt='Evening in Izery mountains by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/122183101/evening-in-izery-mountains-by-aleksander-kwiatkowski' alt='Evening in Izery mountains by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7982b.jpg","Tuż po zachodzie słońca w Górach Izerskich" %}
 
 Do schroniska dotarliśmy już w trakcie zmroku. Chmury wszystkie uciekły i widzieliśmy piękny niebieski
 krajobraz.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28157599/m%3D900/15aebb3330f81fc75806f8c6671011c2' alt='After the sunset by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28157599/after-the-sunset-by-aleksander-kwiatkowski' alt='After the sunset by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7967b.jpg","Tuż po zachodzie słońca w Górach Izerskich" %}
 
 [Chatka Górzystów][wiki-chatka-gorzystow] jest specyficznym schroniskiem. Klimatyczne, bez prądu, w zimie przystosowane
 głównie dla narciarzy biegowych. Oprócz jednej rodziny byliśmy tam jedynymi osobami, które dostały się pieszo.

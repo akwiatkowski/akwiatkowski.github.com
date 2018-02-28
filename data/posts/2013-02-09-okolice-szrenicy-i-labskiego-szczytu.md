@@ -1,12 +1,14 @@
 ---
 layout:                 post
 title:                  "Okolice Szrenicy i Łabskiego Szczytu"
-subtitle:               "oraz zejście następnego dnia"
+subtitle:               "oraz zejście do Szklarskiej Poręby rankiem następnego dnia"
+desc:                   "Nasze zmęczenie dniem wczorajszym przekonało abyśmy wjechali wyciągiem na Szrenicę. Dalsza trasa była bezproblemowa. Pokręciliśmy się po grani Karkonoszy i następnie dość wcześnie dotarliśmy do schroniska pod Łabskim Szczytem."
+keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima, jakuszyce, śnieg, zaspy]
 date:                   2013-02-09 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28180619/m%3D2048/7d23bd05da156b9a4603497d2a63c918"
 categories:             trip
-tags:                   [main, hike, mountains, best, todo_media_later]
+image_filename:         IMGP8806b.jpg
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze]
 
@@ -37,49 +39,41 @@ Szczegóły
 Nie chciało nam się podchodzić na [Szrenicę][wiki-szrenica], dlatego poszliśmy w stronę wyciągu. Tutaj pokręciły się nam
 drogi i nadłożyliśmy trochę trasy. Chyba musieliśmy zejść fragmentem stoku.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28174911/m%3D900/fe9e2d7d07b0e37c7396343fe0796975' alt='Snow contrast by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28174911/snow-contrast-by-aleksander-kwiatkowski' alt='Snow contrast by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8398b.jpg","Górne partie Karkonoszy w chmurach" %}
 
 Ze [Szrenicy][wiki-szrenica] szliśmy dalej [Głównym Szlakiem Sudeckim][wiki-gss] obserwując jak Polska
 wygląda z dołu, a Czechy z porównywalnego poziomu. Wydaję mi się że Polska dostała tylko 1/3 gór, a 2/3
 mają Czechy.
 
+{% photo "IMGP8424b.jpg","Schronisko na Szrenicy" %}
+
 Chciałem iść w stronę [Śnieżnych Kotłów][wiki-kotly], ale niepewna pogoda oraz nawisy
 mnie przekonały, że to nie jest takie istotne. Również ludziom się średnio chciało chodzić. Takie
 lenistwo nas zaatakowało.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28181081/m%3D900/aa22ca6a3c3d8a15514616758bf1acc8' alt='Sunstorm by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28181081/sunstorm-by-aleksander-kwiatkowski' alt='Sunstorm by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8512b.jpg","Szlak na Szrenicę" %}
 
 Zeszliśmy do schroniska [Pod Łabskim Szczytem][wiki-pod-labskim]. To był chyba najciekawszy fragment
-dnia. Na początku śnieg i tylko śnieg, a powoli pojawiały się drzewa. Zdecydowanie widoczny gradient
+dnia.
+
+{% photo "IMGP8537b.jpg","Szlak na Szrenicę" %}
+
+Na początku śnieg i tylko śnieg, a powoli pojawiały się drzewa. Zdecydowanie widoczny gradient
 zmiany terenu. Do tego bezpośredni widok na [Szklarską Porębe][wiki-szklarska].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28181651/m%3D900/f30c53c2595ef6783b15a5dff6d1460f' alt='Szrenica by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28181651/szrenica-by-aleksander-kwiatkowski' alt='Szrenica by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8714b.jpg","Zbocze Szrenicy" %}
 
 Po dotarciu do schroniska dowiedziałem się, że prąd i ciepła woda będą wieczorem.
 Nie pamiętam co dokładnie robiliśmy, ale zmrok przyszedł w miarę szybko. Obudziłem się po pierwszej, bo zaczęło
 robić się zimno. Agregat był wyłączony i woda w obiegu trochę przymarzła. Niby mniej komfortu,
 ale właśnie przez te braki schroniska mają swój klimat.
 
+{% photo "IMGP8760b.jpg","Ośnieżone drzewo" %}
+
 Dzień kolejny
 -------------
 
 Wstaliśmy dość wcześnie i wyszliśmy chyba około 7. Jeszcze było szaro. Bardzo szybko zeszliśmy do miasta
 coś zjeść i chwilę po tym wracaliśmy do zwykłego szarego życia.
+
+{% photo "IMGP8838b.jpg","Szklarska Poręba nocą" %}

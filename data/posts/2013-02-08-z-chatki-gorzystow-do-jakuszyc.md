@@ -1,12 +1,14 @@
 ---
 layout:                 post
 title:                  "Z Chatki Górzystów do Jakuszyc"
-subtitle:               "i najgorsze 2 kilometry przez las"
+subtitle:               "i najgorsze 2 kilometry spaceru przez las"
+desc:                   "Mieliśmy iść zgodnie z czerwonym szlakiem pieszym (Główny Szlak Sudecki) i tego dnia musieliśmy do niego dotrzeć. Wybraliśmy szlak przez las, który nas tak zmęczył, że tego dnia postanowiliśmy dostać się do Jakuszyc i dojechać pociągiem do Szklarskiej Poręby."
+keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima, jakuszyce, śnieg, zaspy]
 date:                   2013-02-08 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28173489/m%3D2048/41ecb7f85314d5275a384ec04d0774b5"
 categories:             trip
-tags:                   [main, hike, mountains, best, todo_media_later]
+image_filename:         IMGP8140b.jpg
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, swieradow_zdroj, szklarska_poreba]
 lands:                  [gory_izerskie]
 
@@ -41,53 +43,40 @@ Zaczęliśmy około godziny 8 wychodząc ze schroniska. Powinniśmy iść szlaki
 zauważyliśmy szlaku, więc poszliśmy ostatecznie niebieskim. Tam jacyś ludzie kiedyś
 szli i były ślady, wiec pewnie warto nim iść.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/52556260/m%3D900/48a2474484519526a9f70e412f62419b' alt='Chatka Górzystów by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/52556260/chatka-g%C3%B3rzyst%C3%B3w-by-aleksander-kwiatkowski' alt='Chatka Górzystów by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8010b.jpg","Pierwszy widok po wyjściu z Chatki Górzystów" %}
 
 Okazało się, że to ludzie szli pewnie do schroniska [Orle][wiki-orle], co nie było nam po drodzę.
+
+{% photo "IMGP8046b.jpg","Ostatni widok na Chatkę Górzystów" %}
+
 Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwonego. Taki był aktualny plan.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28173751/m%3D900/e5f98377532e1f9a2cc4df33ff0dc061' alt='Izera river by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28173751/izera-river-by-aleksander-kwiatkowski' alt='Izera river by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8056b.jpg","Łatwo znaleźć miejsca bez śladów człowieka" %}
 
 Niestety te 2-3km szlaku obok Jagnięcego Potoku było przez las kompletnie nieprzetartym szlakiem.
+
+{% photo "IMGP8066b.jpg","Rzeka Izera" %}
+
 Co ciekawe, były tam malutkie szczeliny, ale wystarczające aby się w nie władować. Raz się
 przewróciłem i nie miałem dobrze zapiętego plecaka. Teraz wiem, że wstać z plecakiem nie jest łatwe,
 zwłaszcza jeżeli jest się w zapadającym śniegu.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/28174365/m%3D900/7420dbc6de25344e8ccc1133cf410376' alt='Winter trail by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/28174365/winter-trail-by-aleksander-kwiatkowski' alt='Winter trail by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8102b.jpg","Idąc przez izerski zimowy las" %}
 
 Te 2-3km tak nas zmęczyły, że nie chciało się już próbować wracać na [Główny Szlak Sudecki][wiki-gss].
+
+{% photo "IMGP8126b.jpg","Idąc przez izerski zimowy las" %}
+
 Wyszliśmy na trasy narciarstwa biegowego i grzecznie poboczem kierowaliśmy się do
 [Jakuszyc][wiki-jakuszyce]. Tam zjedliśmy i poczekaliśmy na kolej do [Szklarskiej Poręby][wiki-szklarska].
 Skróciliśmy sobie drogę z 13km do około 6km. Cóż, zima.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/122282655/m%3D900/b744ae87daa881108397e38be502db03' alt='Deep in forest in Izera mountains by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/122282655/deep-in-forest-in-izera-mountains-by-aleksander-kwiatkowski' alt='Deep in forest in Izera mountains by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las" %}
 
 Z centrum [Szklarskiej Poręby][wiki-szklarska] dotarliśmy do schroniska [Kamieńczyk][wiki-kamienczyk]
 idąc głównie przez miasto. Jedynie ostatnie kilkaset metrów jest trochę stromę.
+
+{% photo "IMGP8216b.jpg","Dojechaliśmy pociągiem do Szklarskiej Poręby","nogallery" %}
 
 Schronisko to jest z jednej strony blisko miasta, a z drugiej strony akceptują tam ludzi,
 którzy chcą spać tylko jedną noc. W mieście chyba nikt takich ludzi nie chce.
