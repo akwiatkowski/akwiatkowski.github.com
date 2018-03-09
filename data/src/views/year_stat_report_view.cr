@@ -185,7 +185,7 @@ class YearStatReportView < PageView
 
   private def generate_image_url
     # selected posts with proper tag
-    posts_photo_of_the_year = @posts.select { |p| p.tags.not_nil!.includes?(Tremolite::Post::PHOTO_OF_THE_YEAR) }
+    posts_photo_of_the_year = @posts.select { |p| p.photo_of_the_year? }
     # or longest self propelled trip
     if posts_photo_of_the_year.size == 0
       posts_photo_of_the_year = @posts.select { |p| p.self_propelled? }.sort { |a, b|

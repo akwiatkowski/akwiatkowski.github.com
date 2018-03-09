@@ -31,11 +31,10 @@ class Tremolite::Post
   HIKE_TAG    = "hike"
   TRAIN_TAG   = "train"
   CAR_TAG     = "car"
-
-  PHOTO_OF_THE_YEAR = "photo_of_the_year"
-
+  PHOTO_OF_THE_YEAR_TAG = "photo_of_the_year"
   TODO_TAG       = "todo"
   TODO_MEDIA_TAG = "todo_media"
+  HIDDEN_TAG = "hidden"
 
   CATEGORY_TRIP = "trip"
 
@@ -63,9 +62,28 @@ class Tremolite::Post
     self.tags.not_nil!.includes?(CAR_TAG)
   end
 
+  def hidden?
+    self.tags.not_nil!.includes?(HIDDEN_TAG)
+  end
+
+  def visible?
+    !hidden?
+  end
+
+  def todo?
+    self.tags.not_nil!.includes?(TODO_TAG)
+  end
+
+  def todo_media?
+    self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
+  end
+
+  def photo_of_the_year?
+    self.tags.not_nil!.includes?(PHOTO_OF_THE_YEAR_TAG)
+  end
+
   def ready?
-    return false if self.tags.not_nil!.includes?(TODO_TAG)
-    # return false if self.tags.not_nil!.includes?(TODO_MEDIA_TAG)
+    return false if todo?
     return true
   end
 
