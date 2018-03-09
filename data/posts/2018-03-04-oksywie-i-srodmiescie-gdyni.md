@@ -56,4 +56,11 @@ Postanowiłem, że najlepiej będzie wrócić do centrum [Gdyni][wiki-gdynia]
 teraz. Tam chciałem zobaczyć baseny w okolicy
 [ORP Błyskawica][wiki-blyskawica].
 
-TODO co było tam ciekawego?
+Jednym z ciekawych obiektów było "ogrodzenie" gdyńskich basenów z małą latarnią.
+
+Sam wieżowiec Sea Tower dla mnie jest ciekawy, jednak ma wiele elementów, które
+sprawiają wrażenie jakby na siłe miały być udziwnione.
+
+Samo centrum [Gdyni][wiki-gdynia] nie jest tak ładne jak centrum
+[Gdańska][wiki-gdansk] opisane
+[tutaj]({% post_url 2018-02-04-stare-miasto-w-gdansku %}).
