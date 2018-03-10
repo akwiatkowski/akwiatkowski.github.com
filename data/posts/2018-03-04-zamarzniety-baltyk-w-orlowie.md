@@ -5,7 +5,7 @@ subtitle:               "czyli co może się stać z morzem gdy przez ponad tydz
 desc:                   "Na początku stycznia przypomniałem sobie o tym, jak w 2012 roku temperatura w Poznaniu wynosiła -16 stopni. Nie przypuszczałem, że końcówka zimy może być taka mroźna. Wyjazd do Sopotu był bardzo impulsywny. Wiedziałem, że taka pogoda może się szybko nie powtórzyć."
 keywords:               [sopot, orłowo, zamarznięte, bałtyk, kra, lód, pochmurnie]
 date:                   2018-03-04 10:00:00
-finished_at:            2018-02-10 20:00:00
+finished_at:            2018-03-10 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5799raw1.jpg

@@ -5,7 +5,7 @@ subtitle:               "czyli najbardziej górska droga na wybrzeżu jaką widz
 desc:                   "Miesiąc temu nie udało się zwiedzić Gdyni. Wybrałem się na Oksywie zobaczyć okolicę dwóch torpedowni a później wróciłem do centrum miasta."
 keywords:               [gdynia, oksywie, formoza, torpedownia, sea tower]
 date:                   2018-03-04 16:00:00
-finished_at:            2018-02-10 21:00:00
+finished_at:            2018-03-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5890raw2.jpg

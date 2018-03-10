@@ -5,7 +5,7 @@ subtitle:               "zmienna pogoda tym razem pokazała swoją lepszą stron
 desc:                   "Będąc na Wybrzeżu nie miałem wielkiego szczęścia do pogody. Wyjątkiem był ostatni gdzień, kiedy to znacząco poprawiała się pogoda. Tak było również na tym wyjeździe. Tak jak dzień wcześniej i tym razem udałem się w okolice molo w Orłowie aby robić zdjęcia. Zdjęcia śniegu o wschodzie słońca, które chciałem zrobić w górach, udało mi się zrobić na Wybrzeżu."
 keywords:               [śnieg, wschód, orłowo, gdynia, czerwień, niebieska godzina, złota godzina, lód, zamarznięty bałtyk]
 date:                   2018-03-05 09:00:00
-finished_at:            2100-03-09 15:00:00
+finished_at:            2018-03-09 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5936raw1.jpg
