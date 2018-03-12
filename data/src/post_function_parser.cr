@@ -59,6 +59,14 @@ class Tremolite::Views::BaseView
       )
     end
 
+    result = command.scan(/strava_iframe\s+\"([^\"]+)\",\"([^\"]+)\"/)
+    if result.size > 0
+      return strava_iframe(
+        activity_id: result[0][1], # faster to use String all the time
+        token: result[0][2].to_s
+      )
+    end
+
     return nil
   end
 
@@ -99,6 +107,14 @@ class Tremolite::Views::BaseView
       "img.is_in_gallery" => gallery.to_s,
     }
     return load_html("post/post_image_partial", data)
+  end
+
+  def strava_iframe(activity_id : String, token : String)
+    data = {
+      "strava.activity_id"    => activity_id,
+      "strava.token"           => token
+    }
+    return load_html("partials/strava_iframe", data)
   end
 
   private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)
