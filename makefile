@@ -1,6 +1,9 @@
 watch:
 	bash watch.sh
 
+watch_dev:
+	bash watch_dev.sh
+
 watch_compiled:
 	bash watch_compiled.sh
 
