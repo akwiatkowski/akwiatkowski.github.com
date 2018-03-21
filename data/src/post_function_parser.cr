@@ -67,6 +67,13 @@ class Tremolite::Views::BaseView
       )
     end
 
+    result = command.scan(/vimeo_iframe\s+\"([^\"]+)\"/)
+    if result.size > 0
+      return vimeo_iframe(
+        vimeo_id: result[0][1]
+      )
+    end
+
     return nil
   end
 
@@ -115,6 +122,13 @@ class Tremolite::Views::BaseView
       "strava.token"           => token
     }
     return load_html("partials/strava_iframe", data)
+  end
+
+  def vimeo_iframe(vimeo_id : String)
+    data = {
+      "vimeo.id"    => vimeo_id
+    }
+    return load_html("partials/vimeo_iframe", data)
   end
 
   private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)
