@@ -1,8 +1,9 @@
 class Tremolite::Views::BaseView
   def custom_process_function(
-                              command : String,
-                              string : String,
-                              post : (Tremolite::Post | Nil)) : (String | Nil)
+    command : String,
+    string : String,
+    post : (Tremolite::Post | Nil)
+  ) : (String | Nil)
     result = command.scan(/current_year/)
     if result.size > 0
       return Time.now.year.to_s
@@ -118,15 +119,15 @@ class Tremolite::Views::BaseView
 
   def strava_iframe(activity_id : String, token : String)
     data = {
-      "strava.activity_id"    => activity_id,
-      "strava.token"           => token
+      "strava.activity_id" => activity_id,
+      "strava.token"       => token,
     }
     return load_html("partials/strava_iframe", data)
   end
 
   def vimeo_iframe(vimeo_id : String)
     data = {
-      "vimeo.id"    => vimeo_id
+      "vimeo.id" => vimeo_id,
     }
     return load_html("partials/vimeo_iframe", data)
   end

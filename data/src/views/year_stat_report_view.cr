@@ -168,7 +168,7 @@ class YearStatReportView < PageView
     # convert slugs to names
     voivoids_hash_names = Hash(String, Int32).new
     voivoids_hash_keys.keys.each do |key|
-      voivodeship_name = @data_manager.voivodeships.not_nil!.select{ |v| v.slug == key }.first.name
+      voivodeship_name = @data_manager.voivodeships.not_nil!.select { |v| v.slug == key }.first.name
       voivoids_hash_names[voivodeship_name] = voivoids_hash_keys[key]
     end
 

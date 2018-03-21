@@ -27,14 +27,14 @@ class Tremolite::Post
     @nogallery = false
   end
 
-  BICYCLE_TAG = "bicycle"
-  HIKE_TAG    = "hike"
-  TRAIN_TAG   = "train"
-  CAR_TAG     = "car"
+  BICYCLE_TAG           = "bicycle"
+  HIKE_TAG              = "hike"
+  TRAIN_TAG             = "train"
+  CAR_TAG               = "car"
   PHOTO_OF_THE_YEAR_TAG = "photo_of_the_year"
-  TODO_TAG       = "todo"
-  TODO_MEDIA_TAG = "todo_media"
-  HIDDEN_TAG = "hidden"
+  TODO_TAG              = "todo"
+  TODO_MEDIA_TAG        = "todo_media"
+  HIDDEN_TAG            = "hidden"
 
   CATEGORY_TRIP = "trip"
 

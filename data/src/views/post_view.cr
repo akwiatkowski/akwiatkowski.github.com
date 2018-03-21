@@ -198,8 +198,6 @@ class PostView < BaseView
       data["todo"] = load_html("post/todo")
     end
 
-
-
     return load_html("post/article", data)
   end
 

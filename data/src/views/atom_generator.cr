@@ -2,17 +2,18 @@ require "xml"
 
 class AtomGenerator < Tremolite::Views::AbstractView
   def initialize(
-                 @blog : Tremolite::Blog,
-                 @posts : Array(Tremolite::Post),
-                 @site_title : String,
-                 @site_url : String,
-                 @site_desc : String,
-                 @url : String = "/feed_atom.xml",
-                 @site_guid : (String | Nil) = nil,
-                 @site_language : (String | Nil) = nil,
-                 @site_webmaster : (String | Nil) = nil,
-                 @author_name : (String | Nil) = nil,
-                 @updated_at : (Time) = Time.now)
+    @blog : Tremolite::Blog,
+    @posts : Array(Tremolite::Post),
+    @site_title : String,
+    @site_url : String,
+    @site_desc : String,
+    @url : String = "/feed_atom.xml",
+    @site_guid : (String | Nil) = nil,
+    @site_language : (String | Nil) = nil,
+    @site_webmaster : (String | Nil) = nil,
+    @author_name : (String | Nil) = nil,
+    @updated_at : (Time) = Time.now
+  )
   end
 
   getter :url
