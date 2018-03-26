@@ -2,6 +2,8 @@
 layout:                 post
 title:                  "Ze Szrenicy do PTTK Odrodzenie"
 subtitle:               "Głównym Szlakiem Sudeckim"
+desc:                   "Trzy tygodnie temu nie przypuszczałem, że ponownie będę chodził po Karkonoszach i to w tej samej okolicy. Tego dnia spotkaliśmy się z nieprzyjemną pogodą: mgła z widocznością na kilka metrów oraz silny wiatr."
+keywords:               [szrenica, zima, mgła, odrodzenie, karkonosze]
 date:                   2013-03-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/55122504/m%3D2048/a7b986c54d906906cb017b97de8d07db"
