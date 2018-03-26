@@ -1133,3 +1133,21 @@
   distance: 78
   time_length: 5
   url: http://umapa.pl/5LZvq
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Nowa Sól
+  to: Zbąszynek
+  through:
+    - Modrzyca
+    - Zielona Góra
+    - Cigacice
+    - Sulechów
+    - Brudzewo
+  info: Raczej asfaltowo-leśna trasa, zero jezior i dróg gruntowych. Można skrócić przez Droszków.
+  priorities:
+    - normal
+  distance: 76
+  time_length: 5
+  url: http://umapa.pl/WZAYn
+  alt-url: http://umapa.pl/B77kG

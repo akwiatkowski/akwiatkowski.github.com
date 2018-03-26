@@ -347,12 +347,18 @@
   lat: 52.07896
   lon: 16.64209
 
-- commune_slug: koscian
+- commune_slug: zbaszyn
   major: true
   name: Zbąszyń
   time_cost: 60
   lat: 52.25963
   lon: 15.89562
+
+- commune_slug: zbaszynek
+  name: Zbąszynek
+  time_cost: 70
+  lat: 52.24246
+  lon: 15.81639
 
 - commune_slug: dobiegniew
   major: true
@@ -811,3 +817,10 @@
   time_cost: 120
   lat: 52.31170
   lon: 15.06073
+
+- commune_slug: nowa_sol
+  major: true
+  name: Nowa Sól
+  time_cost: 130
+  lat: 51.79911
+  lon: 15.70893
