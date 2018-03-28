@@ -6,7 +6,6 @@ desc:                   "Przedwiosenny krótki wyjazd do Beskidu Śląskiego pod
 keywords:               [ustroń, mgła, szaro, smutno, depresyjnie, wisła]
 date:                   2012-04-15 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/24121245/m%3D2048/2dcbb0c6d9c7a029f0c9a75a7e55492f"
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [slaskie, ustron]
