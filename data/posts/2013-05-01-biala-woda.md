@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Biała Woda"
 subtitle:               "pętla przez Obidzę między Małymi Pieninani a Beskidem Sądeckim "
+desc:                   "Jest to pierwszy dzień majówki w Pieninach. Postanowiliśmy przejść się w kierunku Beskidu Sądeckiego aby się rozprostować i zobaczyć co jest ciekawego. Najpiękniejsze widoki pojawiły się podczas schodzenia gdy słońce zaczęło powoli zachodzić."
+keywords:               [wiosna, pieniny, jarowki, biała woda, obidza]
 date:                   2013-05-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/33587579/m%3D2048/f3a8c435a5a9d2fef30eb5aba09f155d"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+image_filename:         IMGP0985b.jpg
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]
 
@@ -46,21 +48,19 @@ Szczegóły
 Pierwszego dnia wyruszyliśmy w kierunku wschódnim żółtym szlakiem przez [Białą wodę][wiki-biala-woda]. Wiosna była
 wtedy jeszcze trochę niemrawa, jakby potrzebowała z dodatkowe 2 tygodnie aby pokazać się w pełni.
 
+{% photo "IMGP0730d.jpg","Podczas podejścia na Przełęcz Roździela" %}
+
 Trasa na początku
 wyglądało jakbyśmy szli przez mały wąwóz, później trochę więcej polan, jakiś strumyk i podejście
 na [Przełęcz Roździela][wiki-rozdziela]. Im wyżej tym mieliśmy lepsze widoki za plecami.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/33156807/m%3D900/8813ca48ad4c0c30f01351bdcffcbc6e' alt='Biała Woda by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/33156807/bia%C5%82a-woda-by-aleksander-kwiatkowski' alt='Biała Woda by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP0968b.jpg","Wiosna w Pieninach" %}
 
 Dalej było znowu podejście na północ niebieskim szlakiem, ale tym razem znacznie lżejsze. Prawie cały czas
 szliśmy lekkim lasem. Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
 [Obidzy][wiki-obidza] lub [Przełęczy Gromadzkiej][wiki-gromadza].
+
+{% photo "IMGP1008b.jpg","Owce w oddali" %}
 
 Pomimo tego, że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,
 to zachowawczość wzięła górę i nie zaliczyliśmy jej.
@@ -68,13 +68,7 @@ Chociaż to tłumaczyliśmy "zgodnością z podstawowym planem", albo "może
 być za późno". Faktycznie to teraz nie pamiętam jak późno było, ale jestem zadowolony z godziny
 o której wracaliśmy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/33587725/m%3D900/d645a5ab1f26c6cc7f6218901c6c667e' alt='Hut on green by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/33587725/hut-on-green-by-aleksander-kwiatkowski' alt='Hut on green by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1026c.jpg","Chatka na zielonej polanie" %}
 
 Wracaliśmy szlakiem czerwonym, ale nie [Głównym Szlakiem Beskidzkim][wiki-gsb], do [Jaworek][wiki-jaworki].
 Zejście to za połową okazało się najciekawszym fragmentem dnia. Idealnie z niej było widać zbocza
