@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Zejście z Maciejowej do Rabki"
 subtitle:               "Ostatnia godzina w Gorcach i powrót do cywilizacji"
+desc:                   "Ostatni dzień to była formalność. Zostało nam godzinne zejście z Maciejowej do Rabki i powrót. Jak na złość przywitała nas dobre pogoda. Doliny natomiast były przykryte chmurami."
+keywords:               [wiosna, gorce, maciejowa, rabka, powrót]
 date:                   2013-05-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/33156193/m%3D2048/12ef096892b0b28f5f8ccdab4e94c646"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
@@ -37,15 +38,13 @@ Szczegóły
 Została nam godzina szlaku do powrotu do cywilizacji. Jedyna (nie licząc podejścia na [Lubań][wiki-luban])
 godzina z widokami.
 
+{% photo "IMGP2161b.jpg","Nieśmiałe Tatry schowane za chmurami" %}
+
 Z jednej strony za drzewami widzieliśmy [Tatry][wiki-tatry], z drugiej [Luboń Wielki][wiki-lubon-wielki].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/55262546/m%3D900/18fd7c86dd6e0aa9a0cae6d565ba64dc' alt='Tatra from Maciejowa by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/55262546/tatra-from-maciejowa-by-aleksander-kwiatkowski' alt='Tatra from Maciejowa by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2168b.jpg","Bacówka na Maciejowej" %}
 
 Przeszliśmy przez 3 dni całe [Gorce][wiki-gorce], jednak w pogoda nie pozwalała
 abyśmy mieli szanse podziwiać widoki. Niestety czasem tak bywa.
+
+{% photo "IMGP2259b.jpg","Stacja kolejowa w Rabce Zdrój" %}

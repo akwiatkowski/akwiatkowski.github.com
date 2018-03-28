@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "Centralna i zachodnia część Gorców"
 subtitle:               "Od Studzionek do Maciejowej. Druga połowa Gorców (prawie)."
+desc:                   "Tego dnia mieliśmy zaplanowane bardzo długi spacer przez środkową część Gorców. Na trasie mieliśmy zobaczyć Halę Długą, Tatry z Turbacza. Problemem była tylko pogoda. Nowy dzień przywitał nas mgłą i lekkim deszczem. Przez cały dzień zrobiłem tylko 4 zdjęcia, które nie przedstawiały mgły."
+keywords:               [wiosna, gorce, turbacz, mgła, deszcz, hala długa, szarość]
 date:                   2013-05-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/34473826/m%3D2048/4e1d4f7f46cb5ba9b277a92ebac70dba"
+image_filename:         IMGP1891b.jpg
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, nowy_targ, niedzwiedz, rabka]
 lands:                  [gorce]
 
@@ -39,29 +41,23 @@ Szczegóły
 Opis będzie bardzo krótki. Nie było żadnych widoków, tylko wilgoć, szaruga, mgła i... totalnie szaro. Przeszliśmy
 [22km][trasa] i zrobiłem jedynie 3 zdjęcia, z których byłbym zadowolony.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/141793991/m%3D900/17e97545515183d8ead80cdb0157438c' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/141793991/foggy-forest-in-gorce-by-aleksander-kwiatkowski' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1863b.jpg","Mgła w lesie gorczańskim" %}
 
 Jak jest tak brzydko to się tylko idzie i nie zwraca uwagi na nic. Może mając statyw i czas bym coś w lesie zrobił.
 Może.
 
+{% photo "IMGP1876b.jpg","Mgła w lesie gorczańskim" %}
+
 Oprócz [schroniska na Turbaczu][wiki-schron-turbacz], którego zdjęcie jest na górze, tylko poniższe zdjęcie
 wrzuciłem na 500px.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/33928845/m%3D900/a6d3ab1132c44315c2d20d59af6cb69a' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/33928845/foggy-forest-in-gorce-by-aleksander-kwiatkowski' alt='Foggy forest in Gorce by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1935b.jpg","Jedno z ciekawszych widoków tego dnia" %}
 
 [Schronisko na Turbaczu][wiki-schron-turbacz] jest sporym molochem. W kuchni był spory ruch, a mogę sobie wyobrazić
 jaki jest jak pogoda jest lepsza. [Schronisko na Starych Wierchach][wiki-stare-wierchy] zapamiętałem że było zamknięte
-wtedy, ale mogę się mylić. Z kolei [Bacówka na Maciejowej][wiki-maciejowa] okazała się być bardzo fajnym miejscem.
+wtedy, ale mogę się mylić.
+
+{% photo "IMGP1992b.jpg","Ostatnie metry przed Maciejową" %}
+
+Z kolei [Bacówka na Maciejowej][wiki-maciejowa] okazała się być bardzo fajnym miejscem.
 Małe, spokojne, z klimatem. Co ciekawe jest około godziny od [Rabki][wiki-rabka].
