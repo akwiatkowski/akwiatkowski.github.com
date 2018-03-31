@@ -18,6 +18,7 @@ require "./views/lands_index_view"
 require "./views/year_stat_report_view"
 require "./views/gallery_view"
 require "./views/towns_history_view"
+require "./views/towns_timeline_view"
 
 require "./views/payload_json_generator"
 require "./views/rss_generator"
@@ -40,6 +41,7 @@ class Tremolite::Renderer
     render_lands_index
 
     render_towns_history
+    render_towns_timeline
 
     render_more_page
     render_about_page
@@ -295,6 +297,11 @@ class Tremolite::Renderer
 
   def render_towns_history
     view = TownsHistoryView.new(blog: @blog, url: "/towns/history")
+    write_output(view)
+  end
+
+  def render_towns_timeline
+    view = TownsTimelineView.new(blog: @blog, url: "/towns/timeline")
     write_output(view)
   end
 
