@@ -1,4 +1,17 @@
-<strong class="timeline-month">{{ month }}</strong>
-({{ count_self_propelled }}+{{ count_vehicle_propelled }}):
-{{ list }}
-<br />
+<div class="timeline-month-element">
+  <div class="timeline-header">
+    <span class="timeline-year">{{ year }}</span>
+    -
+    <span class="timeline-month">{{ month }}</span>
+    <br/>
+    <span class="timeline-total-self">suma: {{ total-self }}</span>
+  </div>
+
+  <div class="timeline-towns">
+    {{ list }}
+  </div>
+
+  <div class="timeline-count hidden">
+    {{ count_self_propelled }}
+  </div>
+</div>

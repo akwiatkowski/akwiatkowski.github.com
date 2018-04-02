@@ -5,7 +5,7 @@ subtitle:               "4 nowe gminy zaliczone po raz pierwszy w tym roku roku 
 desc:                   "Jest to pierwsza (nie krótka) wycieczka rowerowa w tym roku, dzięki której udało mi się zaliczyć 4 nowe gminy. Niestety wszystko wygląda na to, że w tym roku wiosna przyjdzie wyraźnie później niż to było rok temu."
 keywords:               [bojanowo, poniec, pawłowice, dobramyśl, świerczyna, ziemnice, wojnowickie, wonieść, gryżyna]
 date:                   2018-03-25 15:00:00
-finished_at:            2018-03-31 21:00:00
+finished_at:            2018-04-01 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP6202raw1.jpg

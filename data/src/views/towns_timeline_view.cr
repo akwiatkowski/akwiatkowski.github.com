@@ -34,31 +34,40 @@ class TownsTimelineView < PageView
 
   private def inner_content
     s = ""
-    t = @time_from.at_beginning_of_month
-    while t < @time_to.at_end_of_month
-      s += month_content(time: t)
+    previous_self_propelled = 0
+
+    time = @time_from.at_beginning_of_month
+    while time < @time_to.at_end_of_month
+      s += month_content(
+        time: time,
+        previous_self_propelled: previous_self_propelled
+      )
+      # for total count
+      previous_self_propelled += @self_propelled[time].size if @self_propelled[time]?
 
       # next month
-      t = t.at_end_of_month
-      t += Time::Span.new(1, 0, 0)
-      t = t.at_beginning_of_month
+      time = time.at_end_of_month
+      time += Time::Span.new(1, 0, 0)
+      time = time.at_beginning_of_month
     end
 
     return s
   end
 
-  private def month_content(time : Time) : String
+  private def month_content(time : Time, previous_self_propelled : Int32) : String
     if (@self_propelled[time]?.nil? || @self_propelled[time].size == 0) &&
       (@vehicle_propelled[time]?.nil? || @vehicle_propelled[time].size == 0)
       return ""
     end
 
     data = Hash(String, String).new
-    data["month"] = time.to_s("%Y-%m")
+    data["month"] = time.to_s("%m")
+    data["year"] = time.to_s("%Y")
     data["list"] = month_towns_list(
       self_propelled_for_month: @self_propelled[time],
       vehicle_propelled_for_month: @vehicle_propelled[time],
     )
+    data["total-self"] = (previous_self_propelled + @self_propelled[time].size).to_s
 
     if @self_propelled[time].size > 0
       data["count_self_propelled"] = @self_propelled[time].size.to_s
@@ -80,18 +89,21 @@ class TownsTimelineView < PageView
     vehicle_propelled_for_month : Array(TownEntity)
   )
     s = ""
-    self_propelled_for_month.each do |town_entity|
+    self_propelled_for_month.each_with_index do |town_entity, i|
       data = Hash(String, String).new
       data["town.slug"] = town_entity.slug
       data["town.name"] = town_entity.name
+      data["class"] = "timeline-self-propelled"
+      data["count"] = (i+1).to_s
       s += load_html("towns_timeline/town", data)
     end
 
-    vehicle_propelled_for_month.each do |town_entity|
+    vehicle_propelled_for_month.each_with_index do |town_entity, i|
       data = Hash(String, String).new
       data["town.slug"] = town_entity.slug
       data["town.name"] = town_entity.name
-      data["class"] = "small"
+      data["class"] = "timeline-vehicle-propelled"
+      data["count"] = (i+1).to_s
       s += load_html("towns_timeline/town", data)
     end
 

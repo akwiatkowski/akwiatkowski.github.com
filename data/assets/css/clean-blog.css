@@ -633,3 +633,55 @@ body {
   padding: 5px;
   border: 1px dotted #77c;
 }
+
+.timeline-month-element {
+  position: relative;
+
+  /*border: 1px dotted gray;*/
+  padding-left: 150px;
+  margin-bottom: 25px;
+  min-height: 55px;
+}
+
+.timeline-month-element .timeline-header {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.timeline-month-element .timeline-count {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.timeline-month-element .timeline-year {
+  font-size: 120%;
+}
+
+.timeline-month-element .timeline-month {
+}
+
+.timeline-month-element .timeline-total-self {
+  font-size: 80%;
+}
+
+.timeline-month-element .timeline-towns {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.timeline-month-element .timeline-town {
+  display: inline-block;
+  background-color: #ddd;
+  margin: 3px;
+  padding: 2px 4px 2px 4px;
+}
+
+.timeline-month-element .timeline-self-propelled {
+  background-color: #cdf;
+}
+
+.timeline-month-element .timeline-vehicle-propelled {
+  background-color: #eee;
+}
