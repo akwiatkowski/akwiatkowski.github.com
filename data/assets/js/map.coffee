@@ -142,6 +142,8 @@ class @BlogMap
             )
 
             feature.set("post-date", post["date"])
+            feature.set("post-distance", post["distace"])
+            feature.set("post-time-spent", post["time_spent"])
             feature.set("post-url", post["url"])
             feature.set("post-title", post["title"])
             feature.set("post-slug", post["slug"])
@@ -245,7 +247,6 @@ class @BlogMap
               $('#background2').show()
               $('#background1').css('background-image', "url(" + new_image + ")")
               $("#background2").fadeOut 1500, =>
-              # console.log("done")
 
           img.src = new_image
 
@@ -255,7 +256,7 @@ class @BlogMap
     popup = new ol.Overlay.Popup
     map.addOverlay popup
     lastPopupTime = +new Date
-    poputThreshold = 500
+    poputThreshold = 1200 # how often use hover popup, in ms
 
     map.on "pointermove", throttle((evt) =>
       return true if evt.dragging
@@ -274,11 +275,15 @@ class @BlogMap
 
       if feature
         now = +new Date
-        console.log(now, lastPopupTime, now - lastPopupTime)
-        if lastPopupTime < now - poputThreshold
-          lastPopupTime = now
+        if evt.type == "click"
+          # always show
           showPopup(evt, feature.U)
 
+        else if evt.type == "pointermove"
+          # use throttle
+          if lastPopupTime < now - poputThreshold
+            lastPopupTime = now
+            showPopup(evt, feature.U)
 
       else
         null
@@ -288,6 +293,10 @@ class @BlogMap
 
       div = '<div class="map-image" style="background-image: url(\'' + p["post-small-image"] + '\')">'
       div += '<div class="map-image-date">' + p["post-date"] + '</div>'
+      if p["post-distance"]
+        div += '<div class="map-image-distance">' + p["post-distance"] + 'km</div>'
+      if p["post-time-spent"]
+        div += '<div class="map-image-time-spent">' + p["post-time-spent"] + 'h</div>'
       div += '<div class="map-image-title"><a href="' + p["post-url"] + '">' + p["post-title"] + '</a></div>'
       div += '</div>'
       popup.show evt.coordinate, div

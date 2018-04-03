@@ -23,6 +23,10 @@ class PayloadJsonGenerator < Tremolite::Views::AbstractView
                 json.field("title", post.title)
                 json.field("category", post.category)
                 json.field("date", post.date)
+                json.field("distace", post.distance)
+                json.field("time_spent", post.time_spent)
+                # need to separate towns from voivodeships
+                # json.field("towns_count", post.towns.size)
                 json.field("year", post.time.year)
                 json.field("month", post.time.month)
                 json.field("header-ext-img", post.image_url)
