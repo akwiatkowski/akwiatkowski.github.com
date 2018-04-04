@@ -68,6 +68,8 @@ class TownsTimelineView < PageView
       vehicle_propelled_for_month: @vehicle_propelled[time],
     )
     data["total-self"] = (previous_self_propelled + @self_propelled[time].size).to_s
+    data["repeated-self"] = 0.to_s
+    data["monthly-self"] = 0.to_s
 
     if @self_propelled[time].size > 0
       data["count_self_propelled"] = @self_propelled[time].size.to_s

@@ -4,7 +4,10 @@
     -
     <span class="timeline-month">{{ month }}</span>
     <br/>
-    <span class="timeline-total-self">suma: {{ total-self }}</span>
+
+    <div class="timeline-month-summary-line timeline-total-self">do tej pory: {{ total-self }}</div>
+    <div class="timeline-month-summary-line timeline-repeated-self">powtórzenia: {{ repeated-self }}</div>
+    <div class="timeline-month-summary-line timeline-monthly-self">w miesiącu: {{ monthly-self }}</div>
   </div>
 
   <div class="timeline-towns">

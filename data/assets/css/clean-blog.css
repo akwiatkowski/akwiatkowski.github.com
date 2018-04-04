@@ -640,7 +640,7 @@ body {
   /*border: 1px dotted gray;*/
   padding-left: 150px;
   margin-bottom: 25px;
-  min-height: 55px;
+  min-height: 75px;
 }
 
 .timeline-month-element .timeline-header {
@@ -662,8 +662,8 @@ body {
 .timeline-month-element .timeline-month {
 }
 
-.timeline-month-element .timeline-total-self {
-  font-size: 80%;
+.timeline-month-element .timeline-month-summary-line {
+  font-size: 60%;
 }
 
 .timeline-month-element .timeline-towns {
