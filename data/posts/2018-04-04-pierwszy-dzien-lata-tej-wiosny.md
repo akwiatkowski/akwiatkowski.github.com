@@ -87,4 +87,20 @@ TODO:
 * kierowałem się do Chyciny
 * gdy już podjechałem był trochę stromy (to względne) zjazd. Zjeżdzałem na różnie ubitej ziemii na oponach szosowych - szaleństwo
 * dojechałem do mostu nad Strugą Jeziorną, żółty szlak rowerowy (i więcej ich, znaki)
-* 
+* Jezioro Chycina i Jezioro Długie poniżej
+* przed Chyciną widziałem po lewej stronie rzekę/wodę jednak nie widziałem tego na mapie
+* w centrum Chyciny znowu była droga brukowana
+* miejscowość ta skojarzyła mi się z (jak jechałem do Santoka)
+* opuszczjąc Chycinę musiałem podjechać 30m w górę
+* dojeżdzałem do Goruńska, które było na ok 72m
+* skręciłem na północ już bezpośrednio (bez zbaczania) jadąd do zaplanowanego końca trasy - Skwierzyna
+* zostało mi około 16km, droga nie była zbyt ciekawa, lekki zjazd ale co z tego skoro wokół jałowo i nudno
+* Bledzew, policja kogoś kontrolowała
+* miałem wrażenie że nieznacznie ruch się zwiększył, bo zbliżałem się do większego miasta
+* wydałem 10zł na pierogi, zostało mi około 38zł gotówki
+* w Skwierzynie wypłaciłem 50zł i o 14 byłem na dworcu, godzina przed odjazdem
+* było bardzo ciepło, tak że chowałem się przed słońcem
+* szynobus miał opóźnienie 15minut, przyjechał dość mały bo większy się popsuł
+* oznaczało to, że nie zdąże z przesiadką w Zbąszynku
+* na szczęście pociągi były skomunikowane i poczekał
+* okolice Głębokie fajne na mtb
