@@ -19,6 +19,10 @@ class TownsTimelineView < PageView
     @self_propelled_array = Array(TownEntity).new
     @vehicle_propelled_array = Array(TownEntity).new
 
+    @self_repeated_sum = 0
+    @self_repeated = Hash(Time, Int32).new
+    @self_monthly = Hash(Time, Int32).new
+
     prepare_data
   end
 
@@ -68,8 +72,8 @@ class TownsTimelineView < PageView
       vehicle_propelled_for_month: @vehicle_propelled[time],
     )
     data["total-self"] = (previous_self_propelled + @self_propelled[time].size).to_s
-    data["repeated-self"] = 0.to_s
-    data["monthly-self"] = 0.to_s
+    data["repeated-self"] = (@self_repeated[time]? || 0).to_s
+    data["monthly-self"] = (@self_monthly[time]? || 0).to_s
 
     if @self_propelled[time].size > 0
       data["count_self_propelled"] = @self_propelled[time].size.to_s
@@ -125,27 +129,40 @@ class TownsTimelineView < PageView
   end
 
   private def get_towns_in_month(time : Time)
-    posts_in_month = @posts.select { |p|
-      p.time >= time.at_beginning_of_month &&
-        p.time < time.at_end_of_month
-    }
-    posts_in_month.each do |post|
-      process_towns_in_month_post(time: time, post: post)
-    end
-  end
-
-  private def process_towns_in_month_post(time : Time, post : Tremolite::Post)
-    towns_in_post = post.towns.not_nil!.select { |town|
-      @town_slugs.includes?(town)
-    }
-
     formatted_time = time.at_beginning_of_month
+    # set default values in Hash
     unless @self_propelled[formatted_time]?
       @self_propelled[formatted_time] = Array(TownEntity).new
     end
     unless @vehicle_propelled[formatted_time]?
       @vehicle_propelled[formatted_time] = Array(TownEntity).new
     end
+    unless @self_repeated[formatted_time]?
+      # this is sum
+      @self_repeated[formatted_time] = @self_repeated_sum
+    end
+    unless @self_monthly[formatted_time]?
+      @self_monthly[formatted_time] = 0
+    end
+
+    posts_in_month = @posts.select { |p|
+      p.time >= time.at_beginning_of_month &&
+        p.time < time.at_end_of_month
+    }
+    posts_in_month.each do |post|
+      process_towns_in_month_post(time: formatted_time, post: post)
+    end
+
+    # store sum
+    @self_repeated_sum = @self_repeated[formatted_time]
+  end
+
+  private def process_towns_in_month_post(time : Time, post : Tremolite::Post)
+    formatted_time = time
+
+    towns_in_post = post.towns.not_nil!.select { |town|
+      @town_slugs.includes?(town)
+    }
 
     towns_in_post.each do |town_slug|
       # iterate all towns (not voivodeships) in post
@@ -159,7 +176,12 @@ class TownsTimelineView < PageView
             @self_propelled[formatted_time] << town_entity
           end
           @self_propelled_array << town_entity
+        else
+          # increment repeated sum counter
+          @self_repeated[formatted_time] += 1
         end
+        # increment monthly sum counter
+        @self_monthly[formatted_time] += 1
       else
         # don't add vehicle_propelled if was already added
         # by self_propelled
