@@ -1,95 +1,124 @@
 ---
 layout:                 post
 title:                  "Recenzja fotoksiążki Saal"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "test nowego dostawcy wydruku fotoksiążek o lepszej jakości"
+desc:                   "Pod koniec lutego zgłosiłem się do testów wydruku fotoksiążki Saal. Tutaj przedstawię moją opinię z całego procesu (projektowania) oraz z samej książki."
+keywords:               [saal, fotoksiążka, wydruki, recenzja]
 date:                   2018-04-01 18:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-04-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         IMGP6279raw1.jpg
-tags:                   [todo]
-towns:                  []
+nogallery:              true
+tags:                   [article]
 
 ---
 
 [saal]: http://www.saal-digital.pl/
 [fanpage]: https://www.facebook.com/AKwiatkowskiPhotosVideosTrips/
-[uwolnijkolory]: https://www.uwolnijkolory.pl
 
 ## Wstęp
 
 Chyba pod koniec lutego na Facebooku zobaczyłem reklamę wydruków [Saal][saal].
-Zgłosiłem się do testów podając link do swojego fanpage'a.
+Zgłosiłem się do testów podając link do swojego [fanpage'a][fanpage].
+
+{% photo "IMGP6263raw2.jpg","Róg fotoksiążki","nogallery" %}
 
 Szczerze mówiąc nie
 wierzyłem, że mógłbym dostać zaproszenie do testów. Już wcześniej postanowiłem
-skoncentrować się na swojej stronie zamiast na rozwijaniu swojego fanpage'a.
+skoncentrować się na tej stronie, gdyż nad nią mam kontrolę.
 Mój zasięg na Facebooku jest bardzo mały i z biznesowego punktu widzenia wiem,
 że jestem mało przydatny.
 
 ## A jednak
 
 W połowie marca dostałem maila od [Saal][saal] gdyż nie wykorzystałem
-otrzymanego kodu rabatowego. Widocznie musiałem go przeoczyć. Zaoferowano mi
-przedłużenie ważności kuponu. Nie będę podawał tutaj na jaką kwotę był gdyż kupony
-te prawdopodobnie są generowane indywidualnie.
+otrzymanego kodu rabatowego. Chyba musiałem go przeoczyć
+albo gdzieś zaginął. Zaoferowano mi
+przedłużenie ważności kuponu. Nie będę podawał tutaj kwoty kuponu gdyż
+są prawdopodobnie one generowane indywidualnie.
 
-Gdy zawsze zamawiałem fotoksiążki korzystałem z popularniejszych dostawców (np.
-[UwolnijKolory.pl][uwolnijkolory]). Szacunkowo koszt fotoksiążki u [Saal][saal]
-jest 3-4 razy większy.
+{% photo "IMGP6264raw1.jpg","Połączenia stron fotoksiążki","nogallery" %}
+
+Zawsze gdy zamawiałem fotoksiążki korzystałem z popularniejszych
+i niedrogich dostawców.
+Szacunkowy koszt fotoksiążki wychodził 60-80zł w przypadku około 80 stron,
+natomiast u [Saal][saal] jest 3-4 razy większy.
+
+Planowałem kiedyś znaleźć lepszego dostawcę. Nie byłem w pełni zadowolony ze
+szczegółów wydrukowanych zdjęć w momencie, gdy umieszczałem dwa zdjęcia na
+jednej stronie w formacie A4. Gdy drukowałem zdjęcie na całą stronę to nie było problemem.
 
 ## Projektowanie
 
 Postanowiłem tym razem w miarę szybko zaprojektować fotoksiążkę wybierając subiektywnie
-najciekawsze zdjęcia od 2011 roku.
+swoje najciekawsze zdjęcia.
 Aby to zrobić musiałem ściągnąć specjalny program.
-Jako użytkownik GNU/Linuksa miałem obawy przed tym czy zadziała pod
-"emulatorem" [Wine][wine]. Nie wiedziałem co zrobi instalator dlatego dla
-bezpieczeństwa odpaliłem na surowym "windowsie" zmieniając zmienną środowiskową
+Jako użytkownik GNU/Linuksa miałem obawy przed tym, czy ten program zadziała pod
+"emulatorem" Windowsa - [Wine][wine]. Nie wiedziałem co zrobi instalator dlatego dla
+bezpieczeństwa uruchomiłem go na surowym "Windowsie" zmieniając zmienną środowiskową
 `WINEPREFIX=~/.wine_saal`.
 
-Program zadziałał bezproblemowo. Projektowanie fotoksiążki z ich narzędzia jest
-znacznie łatwiejsze niż u dostawców, z których wcześniej korzystałem. Nie chciałem
-wykorzystać istniejące szablony gdyż wolałem jak najwięcej miejsca przeznaczyć na zdjęcia
-(taka lokalna oszczędność). Jedynie czasami miałem problem z umieszczeniem zdjęcia
+{% photo "IMGP6271raw1.jpg","Przykładowa strona fotoksiążki","nogallery" %}
+
+Program zadziałał bezproblemowo. Projektowanie fotoksiążki
+korzystając z ich narzędzia jest
+znacznie łatwiejsze niż jak robiłem dotychczas.
+
+Nie chciałem
+wykorzystać z istniejących szablonów gdyż wolałem jak najwięcej miejsca przeznaczyć na zdjęcia
+(Poznań uczy oszczędności).
+
+Program działa praktycznie bezproblemowo.
+Jedynie czasami miałem problem z umieszczeniem zdjęcia
 na stronie ale kliknięcie w tło rozwiązywało problem. Przydałaby się możliwość zmiany
 wielkości fotoksiążki w już istniejącym projekcie.
 
 Wybrałem fotoksiążkę w formacie "krajobrazowym".
 
 Po zakończeniu projektowania można wybrać dodatkowe opcje. Wszystko jest bardzo dobrze
-opisane (np. zalety papieru matowego). Miałem wrażenie, że na stronie w cenniku jest
-więcej opcji rodzaju papieru niż ja miałem. Ja i tak chciałem od początku fotograficzny
-błyszczący dlatego to nie było żadnym problemem.
+opisane (np. zalety papieru matowego i błyszczącego).
+Miałem wrażenie, że na stronie w cenniku jest
+więcej opcji rodzaju papieru niż ja miałem do wyboru.
+Ja i tak od początku chciałem wydruk na papierze fotograficznym
+błyszczącym dlatego to nie było żadnym problemem.
+
+{% photo "IMGP6274raw1.jpg","Przykład grubości stron","nogallery" %}
 
 Po zapłaceniu projekt był wysyłany na ich serwery. Zastanawiałem się, co by było gdyby
 był jakiś błąd komunikacji tuż po zapłacie. Czy konieczny byłby kontakt z człowiekiem
-czy aplikacja sama by kontynuowała wysyłanie.
+czy aplikacja sama by kontynuowała wysyłanie po ponownym uruchomieniu.
 
 Następnego dnia dostałem informacje o przekazaniu fotoksiążki do wysyłki.
-Szybkość mnie zaskoczyła.
+Szybkość mnie pozytywnie zaskoczyła.
 
 ## Po otrzymaniu
 
 Po kolejnych dwóch dniach fotoksiążka została dostarczona z Niemiec. Była zapakowana
 wystarczająco dobrze.
 
-Nie będę wrzucał tutaj zdjęć całych stron. Uważam, że ważniejsze są szczegóły a zdjęcia
-można obejrzeć normalnie.
+{% photo "IMGP6276raw1.jpg","Łączenie stron fotoksiążki","nogallery" %}
+
+Nie będę wrzucał tutaj zdjęć całych stron. Uważam, że ważniejsze są szczegóły.
 
 Pierwsze co mnie zaskoczyło to **ilość szczegółów**. Jestem w stanie zauważyć
-niedoskonałości zdjęć w czasach gdy nie robiłem w RAWach.
+niedoskonałości zdjęć w gdy nie robiłem ich RAWie.
 
 Faktycznie tak jak jest napisane na stronie albo w aplikacji można zdjęcie drukować
 na dwóch stronach w formie rozkładówki.
 
-TODO
+Strony są stosunkowo grube i sprawiają wrażenie wytrzymałych.
+Nie sklejają się do siebie.
 
-* Grubość stron
-* Strony są grube, nie sklejają się
-* Gdy chce zobaczyć szczegóły muszę tak przybliżać się, że oczy nie mogą ustawić ostrości
-* w niektórych sytuacjach szum z aparatu tworzył delikatną strukturę - to jeszcze
-  bardziej pokazuje jak dokładne są to wydruki, muszę nauczyć się trochę likwidować szumy
-* niektóre zdjęcia ciemniejsze - odpowiedni monitor i jego kalibracja
+{% photo "IMGP6278raw1.jpg","Okładka fotoksiążki","nogallery" %}
+
+Gdy chce zobaczyć szczegóły zdjęcia 20MP muszę się tak przybliżać,
+że oczy mają problem z dostosowaniem ostrości. Widać nawet różnice ISO w postaci
+szumów i czasu naświetlania.
+
+## Podsumowanie
+
+Jestem zdecydowanie zadowolony i na pewno za jakiś czas ponownie skorzystam.
+Tym razem postaram się robić fotoksiążki tematyczne, może związane z porą roku.
+
+Warto aby najlepsze zdjęcia były wydrukowane w najlepszej jakości.
