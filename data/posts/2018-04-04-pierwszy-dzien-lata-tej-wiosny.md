@@ -28,22 +28,50 @@ pois:
 
 ## Wstęp
 
+Pogoda w tym roku jest bardzo przewrotna. Wiosna się spóźniała i już miałem dość
+tej szarości. Postanowiłem w tym roku lepiej korzystać z pogody, dlatego w
+weekend popracowałem dodatkowo.
+
+## Opis trasy
+
+{% strava_iframe "1488853236","8fadbca74c06f474619b58d937e7f420b04f0801" %}
+
 ## Szczegóły
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1488853236/embed/8fadbca74c06f474619b58d937e7f420b04f0801'></iframe>
+Początkowo chciałem jechać pociągiem o 7:20 do [Zielonej Góry][wiki-zielona-gora].
+Musiałem niestety wieczorem do pracy jeszcze coś zrobić i nie mogłem się
+położyć wcześniej. Wiedziałem, że będę zmieniał plan i ze spokojem
+pojadę do [Zbąszynia][wiki-zbaszyn] albo [Zbąszynka][wiki-zbaszynek].
+Nazwa podobna ale miejscowości te są w na granicy województw.
+
+Wybrałem [Zbąszyń][wiki-zbaszyn] aby "dorysować na mapie" ślad połączony z innymi
+swoimi trasami.
+
+Ruszyłem w stronę [Dąbrówki Wielkopolskiej][wiki-dabrowka-wielkopolska] drogą, która
+powinna być spokojna. Środek tygodnia i bliskość miasta wpływał na nieznacznie
+większy ruch. Wokół drogi były kilkuletnie (mogę się mylić) drzewa.
+
+Widziałem skrzyżowanie na prawo do wsi [Samsonki][wiki-samsonki]. Lubię
+takie małe miejscowości, położone niewiadomo gdzie, zapomniane trochę przez
+resztę. Niestety jadąc prawie zawsze mam określony plan i nie mam
+czasu zbaczać aby pojechać 1-2km i wrócić tą samą drogą.
+Do tego jechałem tego dnia moją "szosą" i nie chciałem kombinować.
+
+Wjeżdzałem do [Dąbrówki Wielkopolskiej][wiki-dabrowka-wielkopolska].
+Bardzo ładna, zadbana wieś z niezbyt gęstą zabudową.
+Zrobiłem przerwę na zdjęcie tytułowe przy stawie. Jest tutaj przystane kolejowy,
+przez który później wracałem pociągiem.
+
+Można skręcić na zachód i dojechać do [Lutola Mokrego][wiki-lutol-mokry],
+przez który [jechałem w 2016]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}) do [Krzyża][wiki-krzyz].
+
+Kolejną wsią na mojej drodze był [Rogoziniec][wiki-rogoziniec].
+
+[Lutol Mokry][wiki-lutol-mokry] jest około 30m niżej niż droga, po której właśnie jechałem.
+
 
 TODO:
 
-* początkowo chciałem pojechać do Zielonej Góry jednak nie mogłem iść spać wcześniej
-* wybrałem Zbąszyń aby "rysować na mapie" ślad połączony z innymi trasami a jednocześnie aby równiez zaliczyć Zbąszynek, który mam od trasy kolejowej
-* ruszyłem w stronę Dąbrówki Wielkopolskiej
-* przyjemna droga z kilkuletnimi drzewami wokół
-* skrzyżowanie na prawo do wsi Samsonki, takie małe klimatyczne małe miejscowości
-* jechałem szosą i wolałem nie eksplorować, rozdrabniać się
-* Dąbrówka - ładna wieś, z dwoma chodnikami i nie za gęstą zabudową. Zdjęcie przy stawie
-* jest tam dworzec kolejowy (będę wracał przez) i skrzyżowania do innych wiosek, które mogą nie być na mapie UMP albo do wsi Szczaniec (która jest na zachód)
-* wyjeżdzając wokół drogi regularnie drzewa, które już sporo urosły (kilka metrów)
-* kolejną wsią był Rogoziniec
 * skręc w lewo do wsi Boleń 5km, ale nie ma jej na mapie
 * Lutol Mokry na wschodzie jest ok 30m niżej niż droga po której jechałem
 * minąłem stacje niedaleko autostrady A2 Chociszewo-Rogoziniec
