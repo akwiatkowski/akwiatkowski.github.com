@@ -109,4 +109,12 @@
 - slug: zlotniki_kujawskie
   name: Złotniki Kujawskie
   type: town
-  voivodeship: kujawsko_pomorskie  
+  voivodeship: kujawsko_pomorskie
+- slug: kamien_krajenski
+  name: Kamień Krajeński
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: sosno
+  name: Sośno
+  type: town
+  voivodeship: kujawsko_pomorskie

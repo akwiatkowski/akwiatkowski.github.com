@@ -110,6 +110,10 @@
 
     margin-bottom: 20px;
     padding: 30px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 
   .grid-item-post h1 {
