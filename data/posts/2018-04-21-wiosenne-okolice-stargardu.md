@@ -9,6 +9,7 @@ date:                   2018-04-21 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P4210223raw1.jpg
+image_format:           m43
 tags:                   [bicycle, todo]
 towns:                  [zachodnio_pomorskie, stargard, marianowo, suchan, dobrzany, choszczno, krzecin, bierzwnik]
 

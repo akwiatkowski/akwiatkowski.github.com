@@ -5,6 +5,10 @@ alias TremolitePostRouteObject = Hash(String, (String | Array(Array(Float64))))
 class Tremolite::Post
   MAX_RELATED_POSTS = 5
 
+  IMAGE_FORMAT_APSC = :apsc
+  IMAGE_FORMAT_M43 = :m34
+  DEFAULT_IMAGE_FORMAT = IMAGE_FORMAT_APSC
+
   def custom_initialize
     @tags = Array(String).new
     @towns = Array(String).new
@@ -25,6 +29,8 @@ class Tremolite::Post
     @image_filename = "header.jpg"
     # ignore some posts and not add them to gallery
     @nogallery = false
+    # some new posts have phtos taken by M43/Olympus camera
+    @image_format = DEFAULT_IMAGE_FORMAT
   end
 
   BICYCLE_TAG           = "bicycle"
@@ -210,6 +216,10 @@ class Tremolite::Post
       @nogallery = true
     end
 
+    if @header["image_format"]? && @header["image_format"]?.to_s == IMAGE_FORMAT_M43.to_s
+      @image_format = IMAGE_FORMAT_M43
+    end
+
     # when post was finished
     if @header["finished_at"]?
       @finished_at = Time.parse(
@@ -265,6 +275,10 @@ class Tremolite::Post
 
   def image_url
     return images_dir_url + image_filename.not_nil!
+  end
+
+  def image_format_m43?
+    @image_format == IMAGE_FORMAT_M43
   end
 
   def processed_image_url(prefix : String)
