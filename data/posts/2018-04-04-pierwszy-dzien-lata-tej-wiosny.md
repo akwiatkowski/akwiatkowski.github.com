@@ -19,9 +19,9 @@ elevation:              305
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
+  - lat: 52.43973
+    lon: 15.53169
+    name: Ciekawe stawy na zachód od Międzyrzecza
 
 ---
 
@@ -65,46 +65,109 @@ przez który później wracałem pociągiem.
 Można skręcić na zachód i dojechać do [Lutola Mokrego][wiki-lutol-mokry],
 przez który [jechałem w 2016]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}) do [Krzyża][wiki-krzyz].
 
-Kolejną wsią na mojej drodze był [Rogoziniec][wiki-rogoziniec].
-
 [Lutol Mokry][wiki-lutol-mokry] jest około 30m niżej niż droga, po której właśnie jechałem.
 
+Kolejną wsią na mojej drodze był [Rogoziniec][wiki-rogoziniec].
+Zaczęły mnie interesować mniejsze wioski do których był tylko dojazd drogą gruntową
+albo nie było ich na mapie UMP. Przykładem tego jest wieś [Boleń][wiki-bolen], która
+jest 5km na zachód ale nie ma jej na mapie.
 
-TODO:
+Minąłem przystanek kolejowy niedaleko autostrady [A2][wiki-a2] -
+[Chociszewo-Rogoziniec][wiki-chociszewo-rogoziniec]. Przystanek ten położony jest pomiędzy dwoma
+wsiami.
 
-* skręc w lewo do wsi Boleń 5km, ale nie ma jej na mapie
-* Lutol Mokry na wschodzie jest ok 30m niżej niż droga po której jechałem
-* minąłem stacje niedaleko autostrady A2 Chociszewo-Rogoziniec
-* wyjeżdzając z Chociszewa po lewej stronie widziałem daleko wiatraki a po prawej pola były mocno pofalowane/spad
-* dalej na północ do Lutola Suchego drogą przecinającą drogę 92
-* wioski są podobne do siebie, chociaż miałem wrażenie że im dalej od Zbąszynka to tym więcej starych, uszkodzonych/nieremontowanych domów widziałem
-* wyjeżdzając z Lutola 4km do Bukowca i 16km do Międzyrzecza
-* musiałem podjechać na wysokość 120m (Lutol 100m, Chociszewo 90m)
-* gdy na prawo było skrzyżowanie do Panowic (jest tam stacja kolejowa), 40m niżej odległość 2km
-* zjazd do Bukowca (100m) na północ
-* dojechałem o 11 (o 9:45 rozpocząłem trasę), ciekawe centrum, jakby rondko i przystanek autobusowy, ładnie pomalowany
-* postanowiłem pojechać w lewo do Wyszanowa
-* może szlak będzie ciekawszy, obok jest Jezioro Bukowieckie, bardzo długie
-* jest żółty szlak rowerowy (terenowy) w okolicy jeziora i mnie on ciekawi na przyszłość 52.39337,15.61481
-* o dziwo widziałem dość dużo nowych domów, pewnie bliskość do Międzyrzecza (8km)
-* ciekawy stary budynek w centrum/na zakręcie
-* praktycznie zerowy ruch, zjazd z 100m do 75-65m (ulica do Skoków)
-* droga przez las, jakieś prace/wycinka
-* w tej okolicy przystanki autobusowe mają klimat, np biały w Skokach
-* mała elektrownia wodna w Skokach
-* dojeżdzając do Międzyrzecza przejechałem przez tory w stronę Nietoperka
-* w centrum zatrzymałem się obok kościoła aby przeanalizować opcje
-* była 11:40 i mogłem podjechać na stacje kolejową albo jechać drogą asfaltową do stacji Głębokie Międzyrzeckie (droga jest obok S3 ale obawiałem się ruchu)
-* postanowiłem ruszyć do Gorzycy i tam mógłbym dojechać przez las do Głębokie
-* samo miasto niczym nie zapadło mi w pamięci, jedynie kilkoma pojazdami wojskowymi które wjeżdzało gdy ja z niego wyjeżdzałem
-* 52.43973,15.53169 jechałem na zachód i spodobały mi się okolice Jeziora Oko, Staw Kęszyca (było skrżyżowanie w lewo do Kęszyca-Kolonia) - zbiorniki są chyba powiązane z rzeką Obrą
-* podczas zjazdu zauważyłem informacje o Pałacu Gorzyca, pomyślałem że tam może być restauracja, mógłbym coś zjeść i "się odświeżyć"
-* skręciłem szybko (bo był zjazd) na północ, jechałem na początku drogą asfaltową przez gęst las
-* przejechałem przez tory w kierunku Sulęcina, tak mało zachowało się ciekawych połączeń w tym województwie
-* dojechałem do centrum Gorzycy, bardzo ładny kościół, rondo w centrum z przystankiem autobusowym
-* solidny remont drogi, dużo materiałów, cała droga rozkopana
-* dotarłem do pałacu
-* http://agroturmaya.pl/ poprosiłem o pierogi, po "odświeżeniu się" miałem siły na dalszą jazdę, nie musiałem już wracać pociągiem o 13-tej
+Gdzieś po lewej, prawdopodobnie w stronę [Lubniewic][wiki-lubniewice] widziałem
+wiatraki ma horyzoncie. Po prawej było obniżenie terenu.
+
+Przez [Lutol Suchy][wiki-lutol-suchy] przechodzi droga krajowa 92. Wieś ta jest podobna do
+poprzedniej, jednak oddalając się od [Zbąszynka][wiki-zbaszynek] zauważałem więcej
+starych, nieremontowanych budynków.
+
+Zostało mi 16km do [Międzyrzecza][wiki-miedzyrzecz] a 4km do kolejnej wsi - [Bukowiec][wiki-bukowiec].
+Musiałem podjechać na wysokość 120m. Podjeżdzanie jest najfajniejsze, jednak gdy nie jest się
+w górach to zawsze po tym jest coś fajnego: widok i zjazd. Widok był inspirujący.
+Pojawiło mi się jeszcze więcej planów aby przejechać przez te okolice.
+Zjazd był długi i delikatny, jeżeli się nie mylę.
+
+Na prawo był zjazd do stacji kolejowej w [Panowicach][wiki-panowice]. Przez dwa
+kilometry teren obniża się o 40m.
+
+Zjechałem do [Bukowca][wiki-bukowiec] na godzinę 11-tą, czyli po godzinie i 15
+minutach jazdy (z przerwami). Centrum tej wsi jest dość ciekawe: pomalowany
+przystanek przy rondzie.
+
+Postanowiłem odbić zielonym szlakiem
+rowerowym do [Wyszanowa][wiki-wyszanowo] sądząć, że będzie tam ciekawiej.
+
+Może nie było tam dużo nowych domów ale
+myślałem, że w takiej miejscowości będą tylko stare budynki i będzie trochę
+bardziej klimatycznie. Widocznie to już
+były "przedmieścia" [Międzyrzecza][wiki-miedzyrzecz].
+
+Do [Jeziora Bukowieckiego][wiki-jezioro-bukowieckie] jest około 3km. Nie było ono w planie.
+Na wschodnie stronie jest żółty szlak rowerowy.
+
+Również [Międzyrzecki Rejon Umocnieniowy][wiki-mru] też nie był w planie na dzisiaj.
+Do niego miałem 12km prawdopodobnie głównie drogami gruntowymi.
+
+Lekkim zjazdem przez 3km dojechałem do drogi dojazdowej do [Międzyrzecza][wiki-miedzyrzecze]
+i dalej jadąc przez [Skoki][wiki-skoki] gdzie był bardzo klimatyczny przystanek autobysowy.
+Zatrzymałem się na chwilę przy małej elektrowni wodnej w tej miejscowości.
+
+[wiki-linia-375]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_375
+
+Dojeżdzając do [Międzyrzecza][wiki-miedzyrzecz] przejechałem po torach kolejowych
+[linii 375][wiki-linia-375]. W tym momencie chyba istnieje przejazd tylko do
+[Nietoperka][wiki-nietoperek]. Jest to niecałe 8km. Linia ta dalej biegnie
+przez [Łagów][wiki-lagow], przez który
+[przejechałem w czerwcu 2017]({% post_url 2017-06-03-lubuskie-jeziora %}).
+
+W centrum [Międzyrzecza][wiki-miedzyrzecz] zatrzymałem się przy kościele abym
+mógł przeanalizować opcje. Była 11:40. Mogłem jechać drogą asfaltową do stacji
+[Głębokie Międzyrzeczkie][wiki-glebokie-miedzyrzeczki] i wracać wcześniejszym pociągiem.
+Postanowiłem ruszyć do [Gorzycy][wiki-gorzyca] i tam niebieskim szlakiem przez
+las to stacji [Głębokie Międzyrzeczkie][wiki-glebokie-miedzyrzeczki].
+
+Jeżdząc samemu pewne rzeczy stają się trudniejsze. I tak dzisiaj problemem była
+toaleta. Jest to i śmieszne i smutne jak takie drobnostki wpływają na motywacje, a to
+wpływa na ostateczny wynik.
+
+[Międzyrzecz][wiki-miedzyrzecz] nie zapadł mi specjalnie w pamięć. Denerwujący
+ruch samochodów i skupienie na własnym bezpieczeństwie.
+
+Wyjeżdzając widziałem konwój kilku większych pojazdów wojskowych.
+
+[wiki-linia-364]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_364
+
+Jadąc na zachód spodobały mi się okolice [Jeziora Oko][wiki-jezioro-oko]
+i [Stawu Kęszyca][wiki-staw-keszyca], które bardzo dobrze widziałem podczas zjazdu.
+Nie mogłem się zbyt mocno rozpędzić gdyż musiałem skręcić w prawo do
+[Gorzycy][wiki-gorzyca].
+
+[wiki-gorzyca]: https://pl.wikipedia.org/wiki/Gorzyca_(wojew%C3%B3dztwo_lubuskie)
+
+Podczas zjazdy zauważyłem znak informujący o istnieniu pałacu w [Gorzycy][wiki-gorzyca].
+Pomyślałem, że może tam być restauracja i będę mógł zjeść i się odświeżyć.
+
+Przejechałem przez tory kolejowe [linii 364][wiki-linia-364]. Według wikipedii
+jeździ po niej szynobus weekendami, jednak w tym momencie nawet nie ma informacji
+o stacjach kolejowych, a co dopiero mówiąc o istnieniu połączenia pasażerskiego.
+
+Dojechałem do centrum [Gorzycy][wiki-gorzyca] widząc rondo, przy którym
+jest przystanek autobusowy, a w pobliżu bardzo ładny kościół.
+Miejscowość ta przeżywała solidny remont drogi, była ona totalnie rozkopana.
+
+Dotarłem w stronę pałacu. Okazało się, że pałac oczekuje na remont ale w okolicy
+jest [agroturystyka][gorzyca-agroturystyka]. Było jeszcze przed sezonem ale
+udało mi się zjeść pierogi i "zrobić to co musiałem". Nie musiałem już wracać
+pociągiem o 13-tej.
+
+[gorzyca-agroturystyka]: http://agroturmaya.pl/
+
+Dowiedziałem się, że raczej powinienem dojechać do [Chycin][wiki-chyciny] i dalej
+mógłbym jechać do [Skwierzyny][wiki-skwierzyna]. Droga ta była gruntowo-brukowa i
+dość ciężko się jechało.
+
 * droga gruntowo-brukowana, ciężko się jechało
 * drzewa wokół drogi ale bez chodników, domy w większej odległości od niej
 * jechałem po ubitej ziemii (jeszcze) na szosowych oponach 36mm

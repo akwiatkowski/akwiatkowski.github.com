@@ -117,3 +117,20 @@
   name: Człuchów
   type: town
   voivodeship: pomorskie
+# TODO pix
+- slug: stara_kiszewa
+  name: Stara Kiszewa
+  type: town
+  voivodeship: pomorskie
+- slug: skarszewy
+  name: Skarszewy
+  type: town
+  voivodeship: pomorskie
+- slug: trabki_wielkie
+  name: Trąbki Wielkie
+  type: town
+  voivodeship: pomorskie
+- slug: pszczolki
+  name: Pszczółki
+  type: town
+  voivodeship: pomorskie

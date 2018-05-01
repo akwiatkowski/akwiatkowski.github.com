@@ -118,3 +118,32 @@
   name: Sośno
   type: town
   voivodeship: kujawsko_pomorskie
+# TODO pix
+- slug: cekcyn
+  name: Cekcyń
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: pruszcz
+  name: Pruszcz
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: swiekatowo
+  name: Świekatowo
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: bukowiec
+  name: Bukowiec
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: drzycim
+  name: Drzycim
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: osie
+  name: Osie
+  type: town
+  voivodeship: kujawsko_pomorskie
+- slug: sliwice
+  name: Śliwice
+  type: town
+  voivodeship: kujawsko_pomorskie
