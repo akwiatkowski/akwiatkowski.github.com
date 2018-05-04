@@ -1,14 +1,14 @@
 ---
 layout:                 post
-title:                  ""
-subtitle:               ""
+title:                  "Na północ od Serocka"
+subtitle:               "przez Wdecki Park Krajobrazowy"
 desc:                   ""
 keywords:               []
 date:                   2018-04-30 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         IMGP8199raw1.jpg
 tags:                   [bicycle, todo]
 towns:                  [kujawsko_pomorskie, pruszcz, swiekatowo, bukowiec, drzycim, osie, sliwice, czersk, osieczna]
 

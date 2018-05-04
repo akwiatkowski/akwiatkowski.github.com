@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  ""
+title:                  "Swornegacie i Zaborski Park Krajobrazowy"
 subtitle:               ""
 desc:                   ""
 keywords:               []
@@ -8,7 +8,7 @@ date:                   2018-04-29 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         IMGP8092raw1.jpg
 tags:                   [bicycle, todo]
 towns:                  [pomorskie, czersk, brusy, chojnice]
 

@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "Pierwsza styczność z Kociewiem"
+title:                  "Dojazd na Kociewie"
 subtitle:               ""
 desc:                   ""
 keywords:               []
@@ -8,7 +8,7 @@ date:                   2018-05-02 18:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         IMGP8513raw1.jpg
 tags:                   [bicycle, todo]
 towns:                  [pomorskie, czersk, sliwice, osieczna, lubichowo, zblewo, starogard_gdanski]
 
