@@ -64,7 +64,18 @@ struct TownEntity
   end
 
   def image_url
-    File.join(["/", "images", "town", @slug + ".jpg"])
+    File.join(["/", relative_image_url])
+  end
+
+  def relative_image_url
+    File.join(["images", "town", @slug + ".jpg"])
+  end
+
+  def validate(validator : Tremolite::Validator)
+    data_image_path = File.join(validator.blog.data_path, relative_image_url)
+    unless File.exists?(data_image_path)
+      validator.error_in_object(self, "#{self.name} / #{self.voivodeship} - missing photo")
+    end
   end
 
   def belongs_to_post?(post : Tremolite::Post)

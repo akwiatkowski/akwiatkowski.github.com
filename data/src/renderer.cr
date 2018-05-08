@@ -232,6 +232,9 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.towns.not_nil!.each do |town|
       view = TownView.new(blog: @blog, town: town)
       write_output(view)
+
+      # XXX move later to somewhere else
+      town.validate(@blog.validator.not_nil!)
     end
     @logger.info("Renderer: Towns finished")
   end
