@@ -8,7 +8,7 @@ date:                   2018-05-04 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP8513raw1.jpg
+image_filename:         IMGP8625raw1.jpg
 tags:                   [bicycle, todo]
 towns:                  [pomorskie, kujawsko_pomorskie, wielkopolskie, czersk, sliwice, cekcyn, tuchola, kesowo, kamien_krajenski, debrzno, lipka]
 

@@ -8,7 +8,7 @@ date:                   2018-05-06 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP8513raw1.jpg
+image_filename:         IMGP8893raw1.jpg
 tags:                   [bicycle, todo]
 towns:                  [pomorskie, zblewo, starogard_gdanski, lubichowo]
 

@@ -530,7 +530,6 @@
   name: Komorniki
   type: town
   voivodeship: wielkopolskie
-
 - slug: kuslin
   name: Kuślin
   type: town
@@ -541,5 +540,10 @@
   voivodeship: wielkopolskie
 - slug: kostrzyn
   name: Kostrzyn
+  type: town
+  voivodeship: wielkopolskie
+# TODO add pic
+- slug: lipka
+  name: Lipka
   type: town
   voivodeship: wielkopolskie
