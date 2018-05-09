@@ -16,6 +16,7 @@ tags:                   [main, article]
 
 [saal]: http://www.saal-digital.pl/
 [fanpage]: https://www.facebook.com/AKwiatkowskiPhotosVideosTrips/
+[wine]: https://www.winehq.org/
 
 ## Wstęp
 
