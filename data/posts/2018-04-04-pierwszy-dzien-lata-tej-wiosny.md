@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Pierwszy dzień lata tej wiosny"
 subtitle:               "od Zbąszynka, przez Międzyrzecz do Skwierzyny; skoro była już zima tej wiosny to czas na lato"
 desc:                   "Miesiąc temu byłem nad Bałtykiem robiąc zdjęcia przy -10 stopniach. Teraz, podczas pierwszych dni wiosny, temperatura była tak wysoka, że czułem się jakby to było lato. Postanowiłem przejechać rowerem okolice między Zbąszynkiem a Skwierzyną."
-keywords:               [zbąszyń, ciepło]
+keywords:               [zbąszyń, ciepło, las]
 date:                   2018-04-04 18:00:00
 finished_at:            2018-05-09 16:00:00
 author:                 "Aleksander Kwiatkowski"
