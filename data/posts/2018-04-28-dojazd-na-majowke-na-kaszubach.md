@@ -25,6 +25,7 @@ pois:
 
 ---
 
+[wiki-nawalnica]: https://pl.wikipedia.org/wiki/Nawa%C5%82nice_w_Polsce_(2017)
 
 ## Wstęp
 
@@ -33,3 +34,27 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1537374206/embed/7ec5df8f23b81f05988f0287254e2af053d4392b'></iframe>
 
 ## Szczegóły
+
+TODO:
+
+* ruszyliśmy pociągiem ok 10:40 do Bydgoszczy, przesiadka osobowy do Tucholi
+* postanowiłem że warto jechać do Tucholi abym mógł dorysować szlak na mapie i rozgrzać się
+przed następnym dniem
+* Przejechaliśmy przez centrum w stronę Jeziora Głęboczek jadąc niebieskim szlakiem rowerowym.
+* w Tucholi jest całkiem dobrze rozwinięta sieć dróg rowerowych, jeździ się znacznie przyjemniej niż po Poznaniu, który to nadal nie ma dobrego połączenia rowerowego z dworcem
+* Okolica jeziora jest bardzo ładnie przygotowana: pomosty, plac zabaw. Chociaż ja osobiście czasami wolę jak pewne rzeczy nie są zadbane, wyglądają "naturalniej".
+* Wąską uliczką podjechaliśmy do drogi wyjazdowej na wschód.
+* Po chwili był całkiem spory zjazd (20m w dół) do Płaskosza.
+* Zrobiliśmy przerwę na moście nad Brdą
+* Po obniżeniu musieliśmy podjechać. Za 2.3km opuszczaliśmy drogę asfaltową. Tam skręcaliśmy w lewo jadąc na północ.
+* Wjechaliśmy w "las". To nie jest normalny las, to wstęp do ogromnego lasu, który otacza całą okolicę i wszystko co nie jest lasem jest wyjątkiem.
+* Jechaliśmy wzdłuż Brdy chociaż nie widzieliśmy jej. Wyjątkiem było jedno miejsce.
+* Gdy przejechaliśmy nad Bielską Strugą skręciliśmy w prawo jadąc do wsi Białe.
+* Co jakiś czas mijaliśmy pocięte drzewo czekające do wywiezieniem. Prawdopodobnie jest to efektem [huraganu][wiki-nawalnica]
+* W miejscowości Bielska Struga ciekawa agroturystyka TODO sprawdzić
+* TODO Ośrodek wypoczynkowy w Biała?
+* Biała - klimatyczna miejscowość. Aby dostać się nad Jezioro Białe musieliśmy wjechać niepozorną uliczką do "centrum" wsi.
+* Dołączyliśmy się do Krzycha i Anity przy jeziorze i po chwili ruszyliśmy do naszej bazy jadąc zielonym szlakiem (prawdopodobnie Naszyjnik Północy) w stronę Rzepicznej
+* Jechaliśmy cały czas asfaltem. Spodobała mi się Rzepiczna. Przejazd przez wioskę w sytuacji gdy cały czas jedziemy lasek staje się bardzo ciekawym wydarzeniem. Sporo fajnych starych drewnianych domków.
+* Gdy wyjechaliśmy z wioski czekało na nas 2.5km drogi gruntowej z piaskami.
+* Dotarliśmy do drogi asfaltowej z które do bazy został kilometr. Tam się wypakowałem z Maciejem i wspólnie zdecydowaliśmy aby pojechać do Czerska zobaczyć gdzie są sklepy, zjeść i zrobić zapasy na jutrzejszą trasę.
