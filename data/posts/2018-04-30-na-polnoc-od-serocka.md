@@ -28,8 +28,76 @@ pois:
 
 ## Wstęp
 
+Sensowne połączenia kolejowe różnią się między dniami wolnymi od pracy a pracującymi.
+W poniedziałek 30 kwietnia było dość sensowne połączenie w stronę
+[Bydgoszczy][wiki-bydgoszcz], z którego warto było skorzystać. Dzień wcześniej
+analizując opcje postanowiliśmy jechać nim do [Serocka][wiki-serock] a następnie
+wracać rowerami do bazy.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1541085954/embed/3e2fa32a021ef6250dbacb5918292dbae3018f68'></iframe>
 
 ## Szczegóły
+
+Pociąg do [Serocka][wiki-serock] z przesiądką w
+[Wierzchucinie][wiki-wierzchucin] mieliśmy ze [Szlachty][wiki-szlachta]
+około 8:24. Trochę dziwne jest dla mnie, że pociąg ten najpierw
+przejeżdza przez [Szlachtę][wiki-szlachta], jedzie do [Śliwic][wiki-sliwice]
+i wraca do [Szlachty][wiki-szlachta].
+
+Wyruszyliśmy około 30 minut przed odjazdem do [Szlachty][wiki-szlachta]. Dojazd
+do [Czerska][wiki-czersk] jest według mnie przyjemniejszy. Nie trzeba jechać po
+ruchliwej drodze, większość to jazda po ścieżce rowerowej.
+
+Gdy wysiedliśmy w [Serocku][wiki-serock] miałem wrażenie, jakby
+tam było bardziej wiosennie. To chyba za sprawą kwitnących drzew owocowych
+w okolicy stacji.
+
+Pojechaliśmy na zachód aby dostać się do niebieskiego szlaku rowerowego,
+którym następnie jechaliśmy na północ.
+
+Wsie w tych okolicach są trochę inne. Gdy wyjedzie sie w centrum tereny są
+podzielone na rzadko występujące gospodarstwa rolne, wokół których jest
+sieć dróg asfaltowych całkiem dobrej jakości. Zdecydowanie ładniejsze dla mnie
+są bardziej "zbite" wioski, gdzie pola są gdzieś z tyłu za domami.
+
+Podobało mi się obniżenie terenu na zachód od drogi.
+Wjeżdzaliśmy do wsi [Małe Łąkie][wiki-male-lakie] chociaż bardziej skupiałem się
+na tym obniżeniu i zielonych polanach.
+
+Na skrzyżowaniu przed [Świekatowem][wiki-swiekatowo] skręciliśmy w prawo na wschód.
+Od razu uderzył nas wiatr gdyż jechaliśmy przeciwnie z kierunkiem.
+Według planu teraz musieliśmy przejechać 8km pod wiatr.
+
+Mijaliśmy albo zielone albo jeszcze gołe pola. Powoli robiło się to dla mnie
+monotonne.
+
+Opuszczając [Stążki][wiki-stazki] niewiele nowego widziałem. Każda wieś jest to
+siebie bardzo podobna w okolicy.
+
+Przejechaliśmy przez [Polskie Łąki][wiki-polskie-laki]. Pojawiło się miejscami trochę
+terenów leśnych.
+
+[wiki-linia-240]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_240
+
+W [Bukowcu][wiki-bukowiec] przejechaliśmy po torach. Patrząc na mapę były
+to tory [linii 240][wiki-linia-240] dzięki której kiedyś można było dojechać z
+[Terespolu][wiki-terespol] przez [Więcbork][wiki-wiecbork] do [Złotowa][wiki-zlotow].
+
+Zrobiliśmy przerwę na drugie śniadanie w centrum [Bukowca][wiki-bukowiec]
+a po tym ruszyliśmy w stronę [Plewna][wiki-plewno]. Już teraz tereny były bardziej
+urozmaicone niż tylko płaskie zielone poletka.
+
+[wiki-linia-208]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_208
+
+Z [Plewna][wiki-plewno] zostało 7k do [Drzycimia][wiki-drzycim]. Przez tą miejscowość
+przechodzi [linia 208][wiki-linia-208], na której tylko w weekendy jeździ pociąg
+relacji [Wierzchucin][wiki-wierzchucin]-[Laskowice Pomorskie][wiki-laskowice-pomorskie].
+Przynajmniej jest ona wykorzystywana tylko co z nią będzie dalej jeżeli jest
+tylko jedno połączenie w dzień weekendu?
+
+Trasa do [Drzycimia][wiki-drzycim] była w miarę ciekawa, z dobrym widokiem
+na okoliczne tereny.
+
+Dotarliśmy do torów kolejowych w [Drzycimie][wiki-drzycim].
