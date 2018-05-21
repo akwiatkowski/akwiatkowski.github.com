@@ -1,8 +1,8 @@
 ---
 layout:                 post
 title:                  "Na północ do Chrzypska Wielkiego"
-subtitle:               ""
-desc:                   ""
+subtitle:               "czyli jak dojechać w okolice Chrzypska Wielkiego (i Sierakowa) gdy nie ma połączeń kolejowych"
+desc:                   "Nigdy nie byłem w pobliżu mostu kolejowego w Chrzypsku. Bardzo mi się podobała trasa z Nowego Tomyśla i dlatego chciałem przejechać ponownie przez te okolice, lecz nie dokładnie."
 keywords:               []
 date:                   2018-04-08 19:00:00
 #finished_at:            2100-02-09 12:00:00
@@ -28,17 +28,27 @@ pois:
 
 ## Wstęp
 
+Są dwie nieczynne linie kolejowe w kierunku do [Międzychodu][wiki-miedzychod],
+którymi by można dojeżdzać w okolice [Sierakowa][wiki-sierakow].
+Na jednej z nich jest bardzo ładny most kolejowy, który ciekawił mnie od
+dawna.
+
+W 2017 roku z Michałem [jechałem]({% post_url 2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek %})
+w stronę [Sierakowa][wiki-sierakow] zaczynając z [Nowego Tomyśla][wiki-nowy-tomysl].
+Nie chciałem powtarzać trasy ale wiedziałem, że te okolicy zawsze są dobrym
+wyborem.
+
+## Opis trasy
+
+{% strava_iframe "1498358790","ba41862f0391844a4824cce0c653eff9a44473a2" %}
+
 ## Szczegóły
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1498358790/embed/ba41862f0391844a4824cce0c653eff9a44473a2'></iframe>
+Ruszyliśmy pociągiem o 10:36 do stacji [Sątopy][wiki-satopy-stacja]
+(przed [Nowym Tomyślem][wiki-nowy-tomysl]), która położona jest 2km na południe
+od [wsi][wiki-satopy] o tej samej nazwie. Według planu jechaliśmy w jej kierunku.
 
-TODO:
-
-* ruszyliśmy pociągiem o 10:36 do stacji Sątopy (przed Nowym Tomyślem)
-* rok temu (?) jechałem z Michałem z Nowego Tomyśla na północ, teraz chciałem zobaczyć podobną trasę w stronę Sierakowskiego Parku Krajobrazowego
-* wieś o tej samej nazwie (Sątopy) położona jest 2km na północ, jechaliśmy w jej kierunku
-* widziałem stosunkowo dużo nowych domów
-* dojechaliśmy do wsi Róża i skręciliśmy w lewo jadąc na drodze rowerowej po rozebranej kolei wąskotorowej
+Dojechaliśmy do wsi Róża i skręciliśmy w lewo jadąc na drodze rowerowej po rozebranej kolei wąskotorowej
 * kolej/szlak ta prawdopodobnie była z Nowego Tomyśla (już jechałem po niej), na mapie UMP kończy się w Dusznikach
 * przejechaliśmy do Wąsowa i we wschodiej cześci folwark http://folwarkwasowo.pl/
 * duży obiekt, trochę kontrastujące połączenie na zewnątrz (ruiny, zapomniane, niewyremontowane) z tym jak jest w środku (zdjęcia na stronie)
