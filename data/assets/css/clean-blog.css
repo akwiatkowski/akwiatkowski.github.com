@@ -274,6 +274,11 @@ hr.small {
   float: right;
   padding: 5px;
 }
+.post-preview.post-todo {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
