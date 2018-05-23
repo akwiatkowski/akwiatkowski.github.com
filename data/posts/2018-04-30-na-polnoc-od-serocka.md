@@ -100,4 +100,49 @@ tylko jedno połączenie w dzień weekendu?
 Trasa do [Drzycimia][wiki-drzycim] była w miarę ciekawa, z dobrym widokiem
 na okoliczne tereny.
 
-Dotarliśmy do torów kolejowych w [Drzycimie][wiki-drzycim].
+Dotarliśmy do torów kolejowych w [Drzycimie][wiki-drzycim]. Jeździ tutaj tylko jeden
+pociąg w weekendy (i piątki chyba) z [Laskowic Pomorskich][wiki-laskowice-pomorskie]
+do [Wierzchucina][wiki-wierzchucin].
+
+Kierowaliśmy się czerwonym szlakiem rowerowym do miejscowości [Żur][wiki-zur].
+Czasami mam problem z odmianą nazwy wsi. Droga po której jechaliśmy
+była trochę zamknięta. Była ona poszerzana.
+
+Wieś [Wery][wiki-wery] w tym momencie jest dość odseparowana od "cywilizacji".
+
+Zatrzymaliśmy się przy moście nad [Wdą][wiki-wda] przed wsią [Żur][wiki-zur].
+Miałem wrażenie, że właśnie zmienia się region po którym się poruszamy. I
+faktycznie, teraz byliśmy już we [Wdecki Parku Krajobrazowym][wiki-wdecki-park].
+
+Jechaliśmy do miejscowości [Osie][wiki-osie] i znowu przekroczyliśmy
+linię kolejową. Tutaj jeździ więcej pociągów niż przez [Drzycim][wiki-drzycim]
+bo aż chyba 3 pary.
+
+[Osie][wiki-osie] jakoś niespecjalnie zapamiętałem.
+
+Ruszyliśmy dalej w stronę [Tlenia][wiki-tlen]. Wzdłuż drogi była bardzo
+pomocna ścieżka rowerowa i tak mogliśmy przejechać. Zrobiliśmy przerwę w
+restauracji.
+Pod jej koniec słyszeliśmy odgłosy burzy w okolicy.
+Postanowiliśmy sprawnie ruszyć dalej kontynuując jazdę czerwonym szlakiem
+rowerowym.
+
+Gdy dojechaliśmy do wsi [Łążek][wiki-lazek] poczułem pierwsze krople deszczu.
+Schroniliśmy się pod przystankiem autobusowym czekając 10-15 minut
+aż przejdzie burza. Gdy pojawiło się słońce prawie od razu poczułem parującą
+wodę. Pomimo gwałtownego deszczu wiedziałem, że droga dość szybko
+wyschnie.
+
+Przejechałem przez tory obok stacji [Łążek][wiki-lazek-stacja] w momencie
+gdy przejeżdzał szynobus.
+
+Musieliśmy przejechać 5km przez las aby dostać się do [Śliwiczek][wiki-sliwiczki].
+Były fragmenty wioski, które mi się podobały. Bardziej mi się podobały
+zabudowania podczas wjazdu do [Śliwic][wiki-sliwice].
+Zrobiliśmy krótką przerwę w centrum obok fontanny.
+
+Ruszyliśmy tą samą drogą, którą dojeżdzaliśmy do [Szlachty][wiki-szlachta].
+
+Postanowiliśmy z ciekawości skręcić do miejscowości [Krąg][wiki-krag] i
+następnie przez las dojechać do [Ostrowite][wiki-ostrowite].
+Podobały mi się tam drewniane ogrodzenia domów.

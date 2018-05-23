@@ -48,12 +48,22 @@ Ruszyliśmy pociągiem o 10:36 do stacji [Sątopy][wiki-satopy-stacja]
 (przed [Nowym Tomyślem][wiki-nowy-tomysl]), która położona jest 2km na południe
 od [wsi][wiki-satopy] o tej samej nazwie. Według planu jechaliśmy w jej kierunku.
 
-Dojechaliśmy do wsi Róża i skręciliśmy w lewo jadąc na drodze rowerowej po rozebranej kolei wąskotorowej
-* kolej/szlak ta prawdopodobnie była z Nowego Tomyśla (już jechałem po niej), na mapie UMP kończy się w Dusznikach
-* przejechaliśmy do Wąsowa i we wschodiej cześci folwark http://folwarkwasowo.pl/
-* duży obiekt, trochę kontrastujące połączenie na zewnątrz (ruiny, zapomniane, niewyremontowane) z tym jak jest w środku (zdjęcia na stronie)
-* droga dojazdowa, po lewej drewniane ogrodzenie, po prawej murowane, oba uszkodzone (klimatyczna)
-* bardzo duży obiekt
+Dojechaliśmy do wsi Róża i skręciliśmy w lewo jadąc na drodze rowerowej po rozebranej kolei wąskotorowej.
+Jeżeli dobrze doczytałem, to ta linia kolejowa przebiegała z [Nowego Tomyśla][wiki-nowy-tomysl] do
+[Dusznik][wiki-duszniki].
+
+[folwark-wasowo]: http://folwarkwasowo.pl/
+
+Przejechaliśmy do [Wąsowa][wiki-wasowo] kierując się w stronę [Chraplewa][wiki-chraplewo]
+We wschodniej cześci wsi jest [folwark][folwark-wasowo]. Najbardziej spodobała mi się ulica
+Ogrodowa. Jest to droga dojazdowa na plac folwarku ogrodzona z obu stron lekko zniszczonym
+ogrodzeniem. Dodaje ono klimatu temu miejscu.
+
+Sam [folwark][folwark-wasowo] jest dużym obiektem. Ruiny kontrastują z odnowionymi częściami
+(pokoje gościnne, restauracja), które widoczne są na ich stronie.
+
+Ruszyliśmy na północ przez autostradę A2.
+
 * pojechaliśmy dalej na północ przez autostradę A2
 * 52.38386,16.26733 widzieliśmy kwiatki podobne do śnieżycy, ciekawa droga z tunelem pod A2
 * przerwa na robienie zdjęć kwiatkom i terenom podmokłym
