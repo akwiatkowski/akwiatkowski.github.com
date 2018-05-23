@@ -28,11 +28,65 @@ pois:
 
 ## Wstęp
 
+Na ten dzień zaplanowaliśmy jechać w kierunku [Gdańska][wiki-gdansk] w okolicy
+linii kolejowej do [Tczewa][wiki-tczew] aby można było jakoś wrócić do bazy.
+Optymistycznym celem tego dnia miał być [Tczew][wiki-tczew], chociaż nie myślałem,
+że się to uda tam dojechać.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1543834219/embed/8b32bfb609c6bcb69c16a8307d10796140e539e4'></iframe>
 
 ## Szczegóły
+
+Na poczatku musieliśmy dojechać do [Czerska][wiki-czersk] jadąc
+czarnym/zielonym szlakiem rowerowym powoli opuszczając miasto. Zdziwiłem się
+jak daleko musieliśmy przejechać zanim zobaczyliśmy tabliczkę informującą o
+wyjechaniu z [Czerska][wiki-czersk].
+
+Zobaczyłem tabliczkę [Złotowo][wiki-zlotowo] i zacząłem się zastanawiać.
+Przecież jadąc do [Czerska][wiki-czersk] również przejeżdzaliśmy przez
+[Złotowo][wiki-zlotowo]?
+
+[wiki-zlotowo]: https://pl.wikipedia.org/wiki/Z%C5%82otowo_(powiat_chojnicki)
+
+Zostawiając już nazwy miejscowości w spokoju mogę powiedzieć, że te tereny zaczęły
+mi się podobać. Jechaliśmy drogą, która jest tylko dojazdową do kilku wiosek.
+Dzięki czemu ruch jest tutaj mniejszy i okolica ciekawsza.
+
+Przejechaliśmy przez kilka wiosek. Ostatnią nieoddzieloną lasem był
+[Gotelp][wiki-gotelp].
+
+Mineliśmy rzekę [Niechwaszcz][wiki-niechwaszcz-rzeka]. Gdy opuściliśmy las wjechaliśmy
+w ostatnią wieś przy tej drodze - [Odry][wiki-odry]. Oczywiste jest, że czuć
+było, że ta wieś jest położona na uboczu.
+
+Zjechaliśmy szlakiem w stronę rzeki [Wdy][wiki-wda] skręcając na zachód
+aby zobaczyć [Kamienne Kręgi][wiki-kamienne-kregi-rezerwat]. Niespecjalnie
+zapamiętałem to miejsce. Chyba głównie autobukar i dwa samochody z
+warszawską rejestracją. Zastanawiałem się, dlaczego ludzie wybierają takie
+punkty skoro jest tyle interesujących miejsc. TODO napisać szerzej
+TODO staw w którym chowano zwłoki?
+
+Przejechaliśmy mostem nad [Wdą][wiki-wda] do [Wojtala][wiki-wojtal].
+Niebo się zachmurzyło a my zastanawialiśy się jak przedostać się przez las do
+[Konarzyn][wiki-konarzyny], które są oddalone o 8km. Chciałem ograniczyć
+jazdę po piasku i pokombinować z fragmentami dróg asfaltowych. Okazało się,
+że te drogi nie są asfaltowe ale przez las są bardzo dobrej jakości drogi
+szutrowe.
+
+Las był mało interesujący, dość monotonny. Co jakiś czas na istotniejszych skrzyżowaniach
+były kamienie z informacją o kierunku do pobliskich miejscowości.
+
+Jadąc w pewnym momencie usłyszałem odgłosy żab. Zatrzymałem się i podszedłem
+pod staw aby nagrać kamerką ich odgłosy.
+
+Las opuściliśmy lekkim zjazdem do [Konarzyn][wiki-konarzyny]. Wsie takie jak ona
+są moimi ulubionymi. Zapomniane, niewiele się dzieje i mało turystów. Chociaż
+gdy dojechaliśmy do sklepu okazało się, że turystów trochę jest. Byliśmy
+jedynymi osobami, które wychodziły ze sklepu bez kupna alkoholu.
+
+
 
 TODO:
 
