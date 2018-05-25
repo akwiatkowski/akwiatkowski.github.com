@@ -1,11 +1,11 @@
 ---
 layout:                 post
 title:                  "Test obiektywu Olympus 60mm f2.8 macro"
-subtitle:               "oraz nieśmiałem odkrywanie systemu M43"
+subtitle:               "nieśmiałe odkrywanie systemu M43"
 desc:                   "Testując system Olympusa postanowiłem sprawdzić ich obiektyw macro. Okazało się, że można mieć bardzo fajne rezultaty bez dalekich wycieczek, odkrywając to co się widzi codziennie na nowo."
 keywords:               [olympus, m43, macro, koniczyna, krople wody, closeup]
 date:                   2018-05-15 12:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-05-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P5150494raw1.jpg
@@ -27,6 +27,8 @@ Jestem raczej
 zadowolony z Pentaksa K-S2 i nie zamierzam(-łem) zmieniać systemu,
 jednak zabieranie go na wycieczki rowerowe nie jest
 idealnym rozwiązaniem.
+
+{% photo "P5170616raw1.jpg","Kropla" %}
 
 Jadąc rowerem nie skupiam się bardzo na zdjęciach. Nie komponuje ich kilka minut.
 Nie są one bardzo artystyczne. Na ogół chce jak najszybciej zrobić zdjęcie
