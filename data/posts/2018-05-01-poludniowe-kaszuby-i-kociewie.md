@@ -19,9 +19,15 @@ elevation:              480
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
+  - lat: 54.02565
+    lon: 18.34254
+    name: Rzeka Wierzyca niedaleko Pogódek
+  - lat: 54.09583
+    lon: 18.43180
+    name: Okolice Jeziora Krawusińskiego
+  - lat: 54.11691
+    lon: 18.57304
+    name: Rościszewo-Kobierzyn, możliwe że ciekawe okolice rzeki Styny
 
 ---
 
@@ -86,8 +92,83 @@ są moimi ulubionymi. Zapomniane, niewiele się dzieje i mało turystów. Chocia
 gdy dojechaliśmy do sklepu okazało się, że turystów trochę jest. Byliśmy
 jedynymi osobami, które wychodziły ze sklepu bez kupna alkoholu.
 
+Po chwilowej przerwie ruszyliśmy na wschód do [Starej Kiszewy][wiki-stara-kiszewa].
+Po pewnym czasie jechaliśmy ciekawą drogą na dość sporym nasypie.
+Podobał mi się zjazd do centrum tej miejscowości.
 
+Szukaliśmy miejsca na obiad. Wybraliśmy restauracje przy wyjeździe w
+kierunku [Pałubina][wiki-palubin].
 
-TODO:
+Po chyba godzinne przerwie pogoda zaczęła się poprawiać. Chociaż filmiki na
+kamerce mogą być ciekawsze gdy niebo jest nierównomiernie zachmurzone.
 
-* linia kolejowa przez Gołębiewko i Skarszewy
+Ruszyliśmy w stronę [Czerników][wiki-czerniki] przez [Pałubin][wiki-palubin].
+Teren stał się ciekawszy, bardziej pofalowany.
+Trudno napisać o konkretnych rzeczach dlaczego mi się podobało, raczej chodzi
+o ogólniki. Takie mniej popularne [Kaszuby][wiki-kaszuby].
+
+Okolice [Pogódek][wiki-pogodki] były bardzo ładne gdyż w wyniku przepływającej obok
+[Wierzycy][wiki-wierzyca-rzeka] teren jest bardzo urozmaicony. Najciekawszym
+był zjazd do centrum tej miejscowości.
+
+W planach było skręcić do [Jaroszew][wiki-jaroszewy] abyśmy mieli lepszy widok na
+dolinę [Wierzycy][wiki-wierzyca-rzeka], jednak przez zjazd zapomniałem o tym.
+
+Patrząc na mapę i przekładając to co zaobserwowałem, a to co jest na mapie, to
+mam wrażenie, że nie można się tu nudzić. Gdziekolwiek z dala od większych
+miejscowości zawsze będzie coś ciekawego.
+
+Dojeżdzając do [Więckowy][wiki-wieckowy] widziałem po prawej stronie obniżenie
+terenu, jednak do nazwania tego doliną rzeki jest daleko.
+
+Dojechaliśmy do drogi 224, którą jechaliśmy na wschód do [Karszew][wiki-karszewy].
+Zrobiłem tam zdjęcie kościoła w centrum obok którego przeszliśmy.
+Bardzo mi się spodobało jak centrum tej miejscowości jest trudne do połapania się.
+
+[wiki-linia-233]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_233
+
+Na mapie widziałem tory rozebranej linii kolejowej nr [233][wiki-linia-233],
+która łączyła [Pszczółki][wiki-pszczolki] z [Kościerzyną][wiki-koscierzyna].
+
+Jadąc ulicą Kościuszki widzieliśmy kolejny kościół.
+
+Opuściliśmy miasto jadąc w stronę [Kamierowa][wiki-kamierowo]. Po lewej stronie
+miałem widok na pofalowany krajobraz [Kaszub][wiki-kaszuby].
+
+Prawie każda droga to pytanie "co tam dalej jest?". Przykładowo chciałbym
+dojechać przez [Kamierowskie Piece][wiki-kamierowskie-piece] do
+Jeziora Krawusińskiego i pokręcić się po okolicy, może nawet pieszo.
+
+Przed [Mirowem Dużym][wiki-mirowo-duze] widzieliśmy dużą kopalnię żwiru (?).
+
+Dojeżdzając do [Gołębiewka][wiki-golebiewka] przejechaliśmy po torach
+linii [233][wiki-linia-233]. Obok skrzyżowania jest budynek stacji kolejowej.
+
+Pomimo istnienia tu drogi 222 (wojewódzkiej?) miejscowośc nie straciła
+swojego klimatu i gdy zjechaliśmy z niej cały czas było ciekawie.
+
+Zjechaliśmy do [Rościszewa][wiki-rosciszewo] drogą położoną wzdłuż rzeki
+[Styny][wiki-styna-rzeka].
+
+Bardzo mi się podobał wjazd do [Sobowidza][wiki-sobowidz] pod wiaduktem kolejowym.
+
+Już pół godziny temu robiło się późno i musieliśmy sprawnie jechać. Analizowaliśmy
+dokąd jechać. Początkowo myślałem o [Pszczółce][wiki-pszczolka] ale tam by była
+przesiadka. Powinniśmy zdążyć do [Tczewa][wiki-tczew].
+
+Podczas zjazdu nie skręciłem z Maciejem w prawo i pojechaliśmy w stroną
+[Pszczółek][wiki-pszczolek]. Gdy Krzychu nie dojeżdzał zobaczyłem na komórkę, bo
+coś mi to podejrzane było. Napisał mi o tym, że źle skręciliśmy a my beztrosko
+podziwialiśmy krajobraz. Miałem wrażenie, że jest tutaj jeszcze bardziej pofalowany.
+Ostatecznie dzięki temu błędowi zaliczyłem dodatkową gminę.
+
+Szybko zjechaliśmy półtora kilometra i skręciliśmy. Jechałem tak szybko jak
+potrafię, ale tak aby nie przesadzić i dojechać do tego [Tczewa][wiki-tczew].
+Pomimo tego samego koloru drogi na mapie  UMP
+(w porównaniu do drogi, którą omyłkowo jechaliśmy)jakość jej była znacząco gorsza.
+
+Gdy mineliśmy [Malenin][wiki-malenin] Maciej jechał przede mną ułatwiając mi jazdę.
+
+Przez [Dąbrówkę Tczewską][wiki-dabrowka-tczewska] dojechaliśmy do [Tczewa][wiki-tczew],
+ale z drugiej strony miasta jest stacja kolejowa. Przedostanie się nie było łatwe.
+Dojechaliśmy chyba 10 minut przed odjazdem pociągu. Byliśmy 3 minuty po Krzychu.
