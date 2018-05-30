@@ -28,8 +28,79 @@ pois:
 
 ## Wstęp
 
+Tego dnia Maciej musiał wracać do domu już. Postanowiliśmy go odprowadzić i dalej jechać
+w tym samym kierunku - czyli na południe od linii kolejowej w stronę
+[Tczewa][wiki-tczew].
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1545283677/embed/c4924e233c2d5d7e6c6438ea22692c218ef60924'></iframe>
 
 ## Szczegóły
+
+Dojazd do [Szlachty][wiki-szlachta] nie różnił się mocno. Z [Ostrowite][wiki-ostrowite]
+ruszyliśmy skrótem przez las, a w samej [Szlachcie][wiki-szlachta] zamiast skręcać
+na dworzec kolejowy pojechaliśmy prosto.
+
+Chcieliśmy zobaczyć najdłuższą ławkę świata, jednak oznaczenie na mapie nie było
+precyzyjne a przy sklepie dowiedzieliśmy się, że została ona już trochę
+uszkodzona.
+
+Ciekawostką był koń jedzący sobie żywopłot w ogrodzie.
+
+Ruszyliśmy przez las do [Osiecznej][wiki-osieczna]. Ze [Szlachty][wiki-szlachty]
+była linia kolejowa w zgodna z kierunkiem, gdzie jechaliśmy. Gdy opuściliśmy
+[Osieczną][wiki-osieczna] wjeżdzając w las przejechaliśmy pod nią.
+
+Jadąc do [Ocypla][wiki-ocypel] przez las ubitą ścieżką nie zastanawiałem się nad
+tym, że niedaleko istniała [linia kolejowa 218][wiki-linia-218].
+Sama jazda przez las była mało interesująca.
+
+[wiki-linia-218]: https://pl.wikipedia.org/wiki/Linia_kolejowa_My%C5%9Blice_%E2%80%93_Szlachta
+
+Wjechaliśmy do [Ocypla][wiki-ocypel] z południowej strony widząc po lewej
+jakiś ośrodek wczasowy. Miejscowość ta jest raczej mocno związana z pobliskim
+Jeziorem Wielki Ocypel. Patrząc na mapę teraz to ciekawi mnie widok
+na Jezioro Ocypelek z okolicy torów na zachód od centrum miejscowości.
+
+Chcieliśmy dostać się na plaże aby coś zjeść. Pojechaliśmy przez ulicę
+Turystyczną. Nie wiem jak dokładnie się dostaliśmy nad jezioro. Wydawało mi się
+jakbym jechał przez osiedle domków letniskowych.
+
+Ostatecznie zrobiliśmy pętlę wzdłuż plaży.
+
+Chcąc wracać wszystkie sensowne drogi były drogami prywatnymi.
+Pozostał tylko szlak pieszy po którym rowery miejscami prawie musieliśmy
+wciągać.
+
+Opuszczaliśmy [Ocypel][wiki-ocypel] niebieskim szlakiem rowerowym do
+[Lubichowa][wiki-lubichowo].
+
+Droga była monotonna. Oprócz przystanku obok [Krępki][wiki-krepki],
+[Młynków][wiki-mlynki] oraz rzeki [Wdy][wiki-wda] niewiele ciekawego widzieliśmy.
+
+Zrobiliśmy sobie w [Lubiechowie][wiki-lubiechowo] dłuższą przerwę na obiad.
+Porcje były solidne ale toaleta trochę odstraszała.
+
+Ruszyliśmy na północ zielonym szlakiem rowerowym przez [Kaliska][wiki-kaliska]
+jadąc obok zlotu motorowego.
+
+Gdy opuściliśmy granice [Lubiechowa][wiki-lubiechowo] teren mi się bardzo
+zaczął podobać.
+
+Dojechaliśmy do [Szteklina][wiki-szteklin] - całkiem klimatyczna wioska
+pośrodku niczego. Następnie kierowaliśmy się dalej na północ do
+[Radziejewa][wiki-radziejewo] z którego już asfaltem
+do [Piesienicy][wiki-piesienica], gdzie jest przystanek kolejowy.
+
+Teren trochę już był pofalowany i zaczął mi się bardziej podobać.
+Przypominał mi
+[wczorajszy dzień]({% post_url 2018-05-01-poludniowe-kaszuby-i-kociewie %}).
+
+Trochę denerwujący był moment przekroczenia drogi nr 22, jednak za
+nią każdy kilometr był przyjemną jazdą z atrakcyjnymi widokami.
+Ciekawy zjazd i podjazd w [Karolewie][wiki-karolewo].
+
+Stacja w [Piesienicy][wiki-piesienica-stacja] to według mnie najlepszy typ
+stacji kolejowych dla turystyki rowerowej. Już od momentu gdy wysiądzie się
+z pociągu jest się z dala od dużych miejscowości z interesującą okolicą.
