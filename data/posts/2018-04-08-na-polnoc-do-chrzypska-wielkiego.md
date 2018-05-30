@@ -3,9 +3,9 @@ layout:                 post
 title:                  "Na północ do Chrzypska Wielkiego"
 subtitle:               "czyli jak dojechać w okolice Chrzypska Wielkiego (i Sierakowa) gdy nie ma połączeń kolejowych"
 desc:                   "Nigdy nie byłem w pobliżu mostu kolejowego w Chrzypsku. Bardzo mi się podobała trasa z Nowego Tomyśla i dlatego chciałem przejechać ponownie przez te okolice, lecz nie dokładnie."
-keywords:               []
+keywords:               [most kolejowy, sieraków, chrzypsko wielkie, pniewy, folwark, wąsowo, fioletowe kwiatki]
 date:                   2018-04-08 19:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-05-29 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP6416raw1.jpg
