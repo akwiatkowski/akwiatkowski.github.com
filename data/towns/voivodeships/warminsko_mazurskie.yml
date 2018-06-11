@@ -1,0 +1,26 @@
+---
+- slug: olsztyn
+  name: Olsztyn
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: jonkowo
+  name: Jonkowo
+  type: town
+  voivodeship: warminsko_mazurskie
+  wiki: https://pl.wikipedia.org/wiki/Jonkowo_(gmina)
+- slug: lukta
+  name: Łukta
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: morag
+  name: Morąg
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: milomlyn
+  name: Miłomłyn
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: zalewo
+  name: Zalewo
+  type: town
+  voivodeship: warminsko_mazurskie
