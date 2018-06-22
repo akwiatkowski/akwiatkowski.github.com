@@ -12,7 +12,7 @@ image_filename:         P6150025raw1.jpg
 tags:                   [hike, photo, todo]
 towns:                  [pomorskie, czluchow]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [[53.65808,17.37109], [53.66418,17.36044], [53.66510,17.33341], [53.66337,17.32731]], "type": "hike"}]
 distance:               8
 time_spent:             4
 elevation:              50
