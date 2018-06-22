@@ -19,17 +19,143 @@ elevation:              378
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
+  - lat: 53.57382
+    lon: 17.74534
+    name: Szeroka okolica Tucholki może być ciekawym miejscem do dokładnej eksploracji
+    type: todo
+  - lat: 53.56771
+    lon: 17.57801  
+    name: Góry Obkaskie, możliwy ciekawy szlak rowerowy
+    type: todo
 
 ---
 
 
 ## Wstęp
 
+[Krajeński Park Krajobrazowy][wiki-krajenski-park] zawsze wspominam bardzo
+dobrze. Dlatego jedną z tras, które chciałem przejechać była
+związana z tym regionem.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1549491018/embed/05a6274fd3c78fb8181299e3eca6692724569535'></iframe>
 
 ## Szczegóły
+
+Początek trasy zaplanowałem w [Tucholi][wiki-tuchola] i chciałem
+dojechać tam pociągiem, jednak ostatecznie postanowiliśmy
+dojechać do niej rowerem.
+
+Trasa ta miała się różnić od
+[dojazdu pierwszeg dnia]({% post_url 2018-04-28-dojazd-na-majowke-na-kaszubach %}).
+Nie wiedziałem jak dokładnie ona wygląda, wolałem aby
+Krzychu nawigował.
+
+Pojechaliśmy drogą asfaltową w kierunku [Okonin][wiki-okoniny].
+Tam przez pewien czas jechaliśmy zielonym szlakiem rowerowym aby
+drogą gruntową jechać na zachód w stronę
+[Kowalskich Błota][wiki-kowalskie-blota].
+
+Przejeżdzając w okolicy lądowiska (?) widziałem spokojnie spacerującego
+białego konia, który kierował się w stronę
+lasu. Brzmi to śmiesznie ale na filmiku z Gopro widać go
+jako białą plamkę.
+
+Trudno mi coś więcej napisać o [Kowalskich Błotach][wiki-kowalskie-blota].
+Jezioro Okierskie dodaje uroku tej miejscowości.
+Od tego miejsca dojazd do [Tucholi][wiki-tuchola] był
+już oczywisty.
+
+Dotarliśmy na rynek [Tucholi][wiki-tucholi] gdzie spróbowałem
+regionalnej zupy. To była nasza pierwsza krótka przerwa.
+
+Musieliśmy dojechać do [Bladowa][wiki-bladowo] jadąc 3km po drodzę
+wojewódzkiej. Ruch niestety był wyraźny tego dnia.
+
+Od tego miejsca jechaliśmy zielonym szlakiem rowerowym. Z założenia
+mieliśmy jechać aż do okolic linii kolejowej, którą byśmy wracali,
+czyli gdzieś za [Starym Gronowem][wiki-stare-gronowo].
+
+Jadąc do [Słupów][wiki-slupy] przejechaliśmy przez tory kolejowe.
+Można jadąc pociągiem po nich dojechać do [Chojnic][wiki-chojnice].
+
+Minęliśmy [Słupy][wiki-slupy] i kierowaliśmy się do [Tuchółki][wiki-tucholka].
+Wokół nas wiosna pokazywała swoje najlepsze oblicze.
+Drzewa wokół drogi miały jasno-zielone liście, które za miesiąc
+staną się wyraźnie ciemniejsze.
+
+Po lewej stronie widziałem obniżenie terenu doliny
+rzeki Kicz dopływające do Jeziora Tucholka.
+
+Opuszczając tą wieś przejeżdzaliśmy przez skrzyżowanie. Na prawo skręcając
+można dojechać do [Żalna][wiki-zalno], gdzie jest przystanek kolejowy.
+Mam wrażenie, że te tereny warto by jeszcze zwiedzić dokładniej.
+
+[wiki-ludwichowo]: https://pl.wikipedia.org/wiki/Ludwichowo_(gmina_K%C4%99sowo)
+[ludwichowo-bunkry]: http://www.polskaniezwykla.pl/web/place/46116,ludwichowo-bunkry-zelbetowe-z-1939-r-.html
+
+Jadąc z [Kęsowa][wiki-kesowo] do [Krajenki][wiki-krajenka]
+mijaliśmy rozrzucone gospodarstwa rolne na prawie całej odległości.
+
+Zaciekawiła mnie okolica [Ludwichowa][wiki-ludwichowo] i
+rzeki Wytrych. Widziałem tabliczkę informującą o
+[bunkrach][ludwichowo-bunkry] w okolicy, jednak
+nie mieliśmy czasu ich zobaczyć.
+
+W tym miejscu zboczyliśmy z zielonego szlaku rowerowego.
+Gdyby nie to, to byśmy musieli pojechać 4km na północ i musieli przejechać
+drogą nieasfaltową. Nie chcieliśmy kombinować oraz obawiałem
+się jakości szlaku, dlatego dobrze że podjeliśmy taką decyzję.
+W przyszłości chciałbym zobaczyć [Góry Obkaskie][wiki-gory-obkaskie].
+
+[wiki-gory-obkaskie]: https://pl.wikipedia.org/wiki/G%C3%B3ry_Obkaskie
+
+Jechaliśmy do [Kamienia Krajeńskiego][wiki-kamien-krajenski].
+Mijaliśmy naprzemiennie wioski, drzewa gęsto posadzone wzdłuż drogi i
+czasami widok na jakieś pole.
+Widząc tabliczkę informującą o przejeździe kolejowym
+przypomniał mi się
+[przejazd]({% post_url 2018-04-16-pociagiem-z-koscierzyny-do-gniezna %})
+pociągiem przez [Kamień Krajeński][wiki-kamien-krajenski].
+
+Zrobiliśmy przerwę w centrum [Kamienia Krajeńskiego][wiki-kamien-krajenski]
+na jedzenie.
+
+Aby dołączyć do zielonego szlaku rowerowego mieliśmy dość
+solidny zjazd. Następnie wjechaliśmy w osiedle nowych domów jednorodzinnych
+i dojechaliśmy do ronda, przez które przeprowadzona jest droga
+krajowa 25. Tam już spokojnie kontynuowaliśmy
+[zielonym szlakiem rowerowym][greenway-1].
+
+[greenway-1]: http://lubimyrowery.pl/trasy/kujawsko-pomorskie/greenway-naszyjnik-polnocy/
+
+Jechaliśmy na zachód wzdłuż rzeki Kamionki. Zgodnie ze szlakiem
+powinniśmy skręcić na północ do [Witkowskiego Młyna][wiki-witkowski-mlyn].
+Byłoby to 7km przez las. Woleliśmy nie ryzykować chociaż
+ciekawość pozostała i skoro szlak został poprowadzony tam,
+to z jakiegoś powodu. Muszę to kiedyś sprawdzić.
+Ogólnie bardzo dobrze oceniam
+[Naszyjnik Północy][greenway-1].
+
+Przejechaliśmy przez klimatyczną wieś [Witkowo][wiki-witkowo].
+Kolejną miejscowością na trasie było [Stare Gronowo][wiki-stare-gronowo].
+
+Mogliśmy jechać do stacji [Bukowo Człuchowskie][wiki-bukowo-czluchowskie]
+jednak mając czas wolałem pojechać trochę dalej i dojechać
+do województwa [wielkopolskiego][wiki-wielkopolskie].
+Byłaby to kolejna zaliczona gmina i takie uczucie większego
+dokonania - przejechać przez 3 województwa jednego dnia.
+Celem w takim razie była stacja w [Lipce][wiki-lipka].
+
+Jechaliśmy przez [Bukę][wiki-buka] dla samej nazwy miejscowości.
+Bardzo spodobała mi się ta wieś, zwłaszcza
+przystanek autobusowy w centrum.
+
+Do [Batorowa][wiki-batorowo] wjechaliśmy od strony kościoła.
+Ponownie zrobiliśmy przerwę przy placu zabaw, z którego jest dobry widok
+na staw.
+
+Dojechaliśmy do [Lipki][wiki-lipka] gdzie zrobiliśmy krótką przerwę
+na zupę a następnie na dworzec kolejowy. Z przesiadką
+w [Chojnicach][wiki-chojnice] dotarliśmy do [Czerska][wiki-czersk].
