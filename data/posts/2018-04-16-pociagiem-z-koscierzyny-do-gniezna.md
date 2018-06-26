@@ -28,8 +28,113 @@ pois:
 
 ## Wstęp
 
+Gdy dowiedziałem się o przejeździe pociągiem przez okolice
+[Sępólna Krajeńskiego][wiki-sepolno-krajenskie] wiedziałem, że muszę
+tam być.
+
 ## Szczegóły
 
-TODO:
+Dotarliśmy na dworzec kolejowy w [Kościerzynie][wiki-koscierzyna]
+około 8:20 mając trochę czasu przed odjazdem pociągu Skansen.
 
-* https://www.salon24.pl/u/tomaszromanbracka/858865,pociag-pasazerski-retro-wjedzie-na-stacje-pkp-wiecbork-16-kwietnia-2018-r-o-godz-13-20
+{% photo "IMGP7186raw1.jpg","Pociąg czekający na stacji w Kościerzynie" %}
+
+Pogoda była nieprzewidywalna. Poprzedniego dnia spadł bardzo gwałtowny
+deszcz.
+
+Ruszyliśmy na zachód w stronę [Lipusza][wiki-lipusz]. Pociąg był chyba pełen.
+Słyszałem sporo osób mówiących po angielsku i niemiecku.
+
+Niestety deszczowa pogoda wczesną wiosną to nie są idealne warunki na
+podziwianie krajobrazów.
+
+{% photo "IMGP7198raw1.jpg","Parowóz na zakręcie przed Lipuszem" %}
+
+Gdzieniegdzie mijaliśmy jakieś jeziora lub stawy. Nie skupiałem się
+tak bardzo, gdyż [w wakacje]({% post_url 2017-07-08-pomorska-petla-kolejowa %})
+już przejechałem szynobusem - jedynym kursującym w sobotę.
+
+{% photo "IMGP7275raw1.jpg","Niektóre części lasów zostały całkowicie wyczyszczone" %}
+
+Pierwszy raz miałem styczność ze zniszczeniami po huraganie z 2017r.
+
+{% photo "IMGP7316raw1.jpg","Czekając przed odjazdem do Człuchowa" %}
+
+Dotarliśmy do [Chojnic][wiki-chojnice]. Tutaj pociąg zmieniał nazwę
+na Krajna i ruszał do [Człuchowa][wiki-czluchow].
+
+Przejazd ten był mało ciekawy. Za oknem widziałem tylko deszcz,
+szarość i niemrawie zielone pola.
+
+{% photo "IMGP7381raw1.jpg","Zmiana kierunku jazdy w Chojnicach" %}
+
+Z [Chojnic][wiki-chojnice] jest 6 połączeń kolejowych. Tego dnia jechaliśmy
+jedynym niedostępnym dla połączeń pasażerskich. [Linia 281][wiki-linia-281]
+jest wykorzystywana do przewożenia nadwymiarowych transportów.
+Z tego co słyszałem przejeżdza tam pociąg raz na miesiąc.
+
+[wiki-linia-281]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_281
+
+{% photo "IMGP7414raw1.jpg","Okolica miejscowości Obkas" %}
+
+Piszę ten wpis dwa miesiące później. Udało mi się
+[przejechać rowerem]({% post_url 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku %})
+przez [Kamień Krajeński][wiki-kamien-krajenski].
+W okolicy jest miejscowość [Obkas][wiki-obkas] i
+[Góry Obkaskie][wiki-obkaskie].
+Jest tam [Czarna Góra][wiki-czarna-gora] która są najwyższym punktem województwa
+[kujawsko-pomorskiego][wiki-kujawsko-pomorskie].
+
+[wiki-czarna-gora]: https://pl.wikipedia.org/wiki/Czarna_Góra_(Góry_Obkaskie)
+
+
+{% photo "IMGP7455raw1.jpg","Okolica Kamienia Krajeńskiego - biegnące sarny" %}
+
+Dotarliśmy do [Kamienia Krajeńskiego][wiki-kamien-krajenski].
+
+{% photo "IMGP7496raw1.jpg","Budynek stacji w Kamieniu Krajeńskim" %}
+
+8km za [Kamieniem Krajeńskim][wiki-kamien-krajenski] zatrzymaliśmy się
+w [Sępólnie Krajeńskim][wiki-sepolno-krajenski].
+
+{% photo "IMGP7529raw1.jpg","Postój w Sępólnie Krajeńskim" %}
+
+Pod koniec czerwca 2017
+[jechałem rowerem]({% post_url 2017-06-25-dojazd-do-tucholi %})
+w okolicy. Widziałem tory ale nie przypuszczałem, że niecały rok
+później przejadę po nich.
+
+{% photo "IMGP7558raw1.jpg","Inscenizacja mobilizacji przed II Wojną Światową - wyczytywanie (Sępólno Krajeńskie)" %}
+
+Na stacji kolejowej w [Sępólnie Krajeńskim][wiki-sepolno-krajenskie]
+przygotowano inscenizację mobilizacji przed
+[II Wojną Światową][wiki-2ww].
+
+{% photo "IMGP7583raw1.jpg","Inscenizacja mobilizacji przed II Wojną Światową - pożegnanie (Sępólno Krajeńskie)" %}
+
+Po dłuższej przerwie ruszyliśmy dalej na południe.
+Dolina rzeki [Sępolna][wiki-sepolna] była bardzo urozmaicona pod
+względem kształtu terenu.
+
+{% photo "IMGP7651raw1.jpg","Okolice Więcborka" %}
+
+Okolice na północ od [Więcborka][wiki-wiecbork] były miejscami
+bardzo pofalowane. Jest to kolejne miejsce, które chce sprawdzić rowerem.
+
+Dotarliśmy do [Nakła nad Notecią][wiki-naklo]. Od tego miejsca
+trasę już poznałem jadąc [rok wcześniej]({% post_url 2017-04-11-pociagiem-przez-paluki %})
+pociągiem o tej samej nazwie - Skansen. Chociaż tamtego dnia pogoda
+była znacznie lepsza.
+
+{% photo "IMGP7749raw1.jpg","Tory z Kcyni do Szubina" %}
+
+Nie mając wiele do dodania istotnego w tym miejscu zakończę opis
+dzisiejszej wycieczki.
+
+Było znacznie więcej ludzi niż rok temu. Więcej obcokrajowców.
+Zastanawiam się, jakie jeszcze trasy będą dostępne w ofercie
+[Turkola][turkol] w przyszłości.
+
+{% photo "IMGP7787raw1.jpg","Pociąg we własnym dymie" %}
+
+[tomasz-bracka-link]: https://www.salon24.pl/u/tomaszromanbracka/858865,pociag-pasazerski-retro-wjedzie-na-stacje-pkp-wiecbork-16-kwietnia-2018-r-o-godz-13-20
