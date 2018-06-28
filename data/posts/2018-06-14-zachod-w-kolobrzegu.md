@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename_alt:     IMGP9164raw1.jpg
 image_filename:         P6140633raw2.jpg
-tags:                   [photo]
+tags:                   [photo, main]
 towns:                  [zachodnio_pomorskie, kolobrzeg]
 
 coords:                 [{"route": [[54.18066,15.59194], [54.18812,15.59186], [54.18671,15.57306], [54.18716,15.55362], [54.18493,15.55418]], "type": "hike"}]
