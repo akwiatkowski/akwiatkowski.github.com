@@ -5,7 +5,7 @@ subtitle:               "czyli pierwszy raz rowerem w okolicach Olsztyna"
 desc:                   "Wschodnia Polska jest dla mnie trochę tajemnicą. Chciałem w ten weekend zobaczyć okolice Olsztyna rowerem gdyż teoretycznie jest dobry dojazd z Poznania tam. Nie wiedziałem gdzie dotrzemy. Nie mieliśmy noclegu. Tym bardziej nie byłem pewien co będzie drugiego dnia."
 keywords:               [olsztyn, mazury, pagórki, wioski]
 date:                   2018-06-09 20:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-07-05 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6090266raw1.jpg
