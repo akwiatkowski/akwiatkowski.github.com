@@ -9,7 +9,7 @@ finished_at:            2018-07-04 22:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6100512raw2.jpg
-tags:                   [bicycle, main, best]
+tags:                   [bicycle, panniers, main, best]
 towns:                  [warminsko_mazurskie, pomorskie, milomlyn, zalewo, stary_dzierzgon, dzierzgon, stary_targ, malbork]
 lands:                  [pojezierze_ilawskie]
 
