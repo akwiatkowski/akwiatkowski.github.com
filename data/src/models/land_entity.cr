@@ -29,12 +29,16 @@ struct LandEntity
 
     @near = Array(String).new
     if y["near"]?
-      y["near"].each do |n|
+      y["near"].as_a.each do |n|
         @near << n.to_s
       end
     end
     if y["visited"]?
-      @visited = Time.parse(y["visited"].to_s, "%Y-%m")
+      @visited = Time.parse(
+        time: y["visited"].to_s,
+        pattern: "%Y-%m",
+        location: Time::Location.load_local
+      )
     end
   end
 

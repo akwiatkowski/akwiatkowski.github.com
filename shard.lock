@@ -8,9 +8,13 @@ shards:
     github: akwiatkowski/crystal_gpx
     commit: fd4d057a60ee45b48b28e11badb755ec587aeccd
 
+  exception_page:
+    github: crystal-loot/exception_page
+    version: 0.1.1
+
   kemal:
     github: kemalcr/kemal
-    commit: fc4c97aafd9aa8aa0fe2f112dd8af9f47777b1c9
+    commit: 09bb1fcd4073a374b3a61c99e48e05a866b23c08
 
   kilt:
     github: jeromegn/kilt
@@ -22,5 +26,5 @@ shards:
 
   tremolite:
     github: akwiatkowski/tremolite
-    commit: ac3a3e10be10ff8a85576e682f383edf40f5e48b
+    commit: 0ee01e6a285855e773cdea293f6c0e9ae001297f
 

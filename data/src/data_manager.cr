@@ -42,7 +42,7 @@ class Tremolite::DataManager
 
   def load_tags
     f = File.join([@data_path, "tags.yml"])
-    YAML.parse(File.read(f)).each do |tag|
+    YAML.parse(File.read(f)).as_a.each do |tag|
       o = TagEntity.new(tag)
       @tags.not_nil! << o
     end
@@ -50,7 +50,7 @@ class Tremolite::DataManager
 
   def load_land_types
     f = File.join([@data_path, "land_types.yml"])
-    YAML.parse(File.read(f)).each do |land_type|
+    YAML.parse(File.read(f)).as_a.each do |land_type|
       o = LandTypeEntity.new(land_type)
       @land_types.not_nil! << o
     end
@@ -58,7 +58,7 @@ class Tremolite::DataManager
 
   def load_lands
     f = File.join([@data_path, "lands.yml"])
-    YAML.parse(File.read(f)).each do |land|
+    YAML.parse(File.read(f)).as_a.each do |land|
       o = LandEntity.new(land)
       @lands.not_nil! << o
     end
@@ -66,7 +66,7 @@ class Tremolite::DataManager
 
   def load_transport_pois
     f = File.join([@data_path, "transport_pois.yml"])
-    YAML.parse(File.read(f)).each do |transport_poi|
+    YAML.parse(File.read(f)).as_a.each do |transport_poi|
       o = TransportPoiEntity.new(transport_poi)
       @transport_pois.not_nil! << o
     end
@@ -79,7 +79,7 @@ class Tremolite::DataManager
 
   def load_todo_routes
     f = File.join([@data_path, "todo_routes.yml"])
-    YAML.parse(File.read(f)).each do |tag|
+    YAML.parse(File.read(f)).as_a.each do |tag|
       o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!, logger: @logger)
       @todo_routes.not_nil! << o
     end
@@ -94,7 +94,8 @@ class Tremolite::DataManager
   end
 
   private def load_town_yaml(f)
-    YAML.parse(File.read(f)).each do |town|
+    town_yaml = YAML.parse(File.read(f))
+    town_yaml.as_a.each do |town|
       o = TownEntity.new(town)
       if o.is_town?
         @towns.not_nil! << o

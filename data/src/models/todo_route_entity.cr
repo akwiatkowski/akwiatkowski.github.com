@@ -78,7 +78,7 @@ struct TodoRouteEntity
     @train_return_time_cost = y["train_return_time_cost"].to_s.to_i if y["train_return_time_cost"]?
 
     if y["through"]?
-      y["through"].each do |t|
+      y["through"].as_a.each do |t|
         @through << t.to_s
       end
     end

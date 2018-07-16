@@ -147,12 +147,12 @@ class Tremolite::Post
       # TODO refactor to structure
       # easier to generate JSON
       coords = @header["coords"]
-      coords.each do |ch|
+      coords.as_a.each do |ch|
         ro = TremolitePostRouteObject.new
         ro["type"] = ch["type"].to_s
         ro["route"] = Array(Array(Float64)).new
 
-        ch["route"].each do |coord|
+        ch["route"].as_a.each do |coord|
           if coord.size == 2
             ro["route"].as(Array) << [coord[0].to_s.to_f, coord[1].to_s.to_f]
           else
@@ -174,31 +174,31 @@ class Tremolite::Post
 
     # tags, towns and lands
     if @header["tags"]?
-      @header["tags"].each do |tag|
+      @header["tags"].as_a.each do |tag|
         @tags.not_nil! << tag.to_s
       end
     end
     if @header["towns"]?
-      @header["towns"].each do |town|
+      @header["towns"].as_a.each do |town|
         @towns.not_nil! << town.to_s
       end
     end
     if @header["lands"]?
-      @header["lands"].each do |land|
+      @header["lands"].as_a.each do |land|
         @lands.not_nil! << land.to_s
       end
     end
 
     # pois
     if @header["pois"]? && "" != @header["pois"]?.to_s
-      @header["pois"].each do |poi|
+      @header["pois"].as_a.each do |poi|
         @pois.not_nil! << PoiEntity.new(poi)
       end
     end
 
     # seo keywords
     if @header["keywords"]? && "" != @header["keywords"]?.to_s
-      @header["keywords"].each do |keyword|
+      @header["keywords"].as_a.each do |keyword|
         @keywords.not_nil! << keyword.to_s
       end
     end
@@ -225,7 +225,7 @@ class Tremolite::Post
       @finished_at = Time.parse(
         time: @header["finished_at"].to_s,
         pattern: "%Y-%m-%d %H:%M:%S",
-        kind: Time::Kind::Local
+        location: Time::Location.load_local
       ).as(Time)
     end
   end
