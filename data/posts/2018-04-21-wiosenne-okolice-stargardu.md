@@ -35,30 +35,71 @@ pois:
 
 ## Wstęp
 
+Nie ma wyższej przyczyna do przejechania tej trasy. Po prostu była pogoda
+a do [Stargardu][wiki-stargard] jest stosunkowo dobry dojazd pociągiem.
+
+## Opis trasy
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1523155492/embed/b10e3c59c0176dd95a012d095eadf268d7c11bc9'></iframe>
+
 ## Szczegóły
 
-TODO:
+Pogoda tego dnia była bardzo dobra. Praktycznie całe niebo było
+bezchmurne. Nie pamiętam dokładnie dlaczego wybraliśmy tą trasę.
 
-* bardzo dobra pogoda
-* Stargard z jednej strony ładny, dużo budynków z czerwonej cegły, z drugiej strony musieliśmy bardzo uważać na ruch samochodów
-* planowaliśmy jechać ulicą Klonową do Ulikowa
-* źle skręciliśmy, jadąc przez osiedle domków jednorodzinnych a następnie chyba obok ogródków działkowych
-* pomimo delikatnie zielonych drzew pola wokół nas były szare
-* przejechaliśm przez linię kolejową 202 i skręciliśmy na prawo
-* czułem, że jakoś inaczej pojechaliśmy jednak zignorowałem tą myśl, było już za późno
-* drogą gruntowo-brukowaną jechaliśmy na wschód wzdłuż linii kolejowej
-* niedaleko Ulikowa na skrzyżowaniu wjechaliśmy do centrum wsi, która wyglądała jakby to były 3 domy
-* albo bardziej prawdopodobne, Ulikowo zaczęło się trochę dalej od tego skrzyżowania
-* pola już niektóre lekko zielone, drzewa wzdłuż drogi, czasem jakieś pagórki, robiło się ciekawiej
-* przejechaliśmy przez linie 403 zbliżając się do Pęzino
-* zaciekawił mnie kościół, przejechaliśmy mostem nad rzeką Krępiel widząc po lewej zamek
-* obok niego jakieś budynki gospodarcze?
-* wyjechaliśmy z wsi, las i znowu pola. Pola mało ciekawe bo jeszcze wczesnie
-* Golino, klimatyczna wieś, przystanek autobusowy w centrum, więcej niż jedna ulica
-* gdy wyjechaliśmy po lewej obniżenie w stronę doliny Pęzinki
-* jadąc na chwilę wkroczyliśmy do Barzkowic
-* wjechaliśmy w południową część Sulino
-* miałem wrażenie, że gdzieś obok byłyby znacznie ciekawsze tereny, może to dlatego że te miejscowości są położone blisko linii kolejowej
+{% photo "P4210184raw1.jpg","Wschodnia część Stargardu" %}
+
+Dojechaliśmy do [Stargardu][wiki-stargard]. Miasto jest całkiem ładne.
+Dużo budynków z czerwonej cegły. Z drugiej strony musieliśmy uważać,
+gdyż ruch samochodów był stosunkowo duży.
+
+Planowaliśmy jechać ulicą Klonową do [Ulikowa][wiki-ulikowo] ze
+wschodniej częście miasta. Źle skręciliśmy i dostalisy się ulicą
+Grudziądzką do [Strachocina][wiki-strachocin].
+
+{% photo "P4210187raw1.jpg","Pociąg jadący do Słupska" %}
+
+Przejechaliśmy przez tory [linii 202][wiki-linia-202], którymi
+można dojechać do [Białogardu][wiki-bialogard] albo [linią 403][wiki-linia-403] do
+[Piły][wiki-pila].
+
+Jechaliśmy drogą gruntową równolegle z torami do [Ulikowa][wiki-ulikowo].
+
+{% photo "P4210190raw1.jpg","Jadąc do Ulikowa" %}
+
+Pomimo delikatnie już zielonych drzew, pola wokół nas były jeszcze szare.
+
+Przejechaliśmy w okolicy stacji kolejowej i jechaliśmy przez [Ulikowo][wiki-ulikowo]
+do [Pęzino][wiki-pezino].
+
+{% photo "P4210197raw1.jpg","Zbliżając się do Ulikowa" %}
+
+[Ulikowo][wiki-ulikowo] wyglądało na bardzo małą wioskę, jakby było złożone tylko z
+trzech domów, lecz w praktyce główna część tej miejscowości była dalej.
+
+Niektóre pola niemrawo zaczynały robić się zielone. Pojawiały się nieznaczne
+pagórki i powoli krajobraz robił się ciekawszy. Dość powoli.
+
+{% photo "P4210211raw1.jpg","Zamęk w Pęzino" %}
+
+[Pęzino][wiki-pezino] jest ciekawą wioską. Jest tam ładny kościół,
+[zamek][pezino-zamek]. Przepływa przez niego rzeka Krępiel. Jest to miejscowość,
+do której chętnie bym pojechał pospacerować w spokojny, jesienny dzień.
+
+[pezino-zamek]: http://pezino.pl/
+
+[Golino][wiki-golino] było również ciekawą wsią, chociaż nie zatrzymaliśmy się tam.
+Po lewej stronie widzieliśmy obniżenie terenu w okolicy rzeki
+[Pęzinkni][wiki-rzeka-pezinka].
+
+Pomimo jazdy wzdłuż [linii kolejowej 403][wiki-linia-403] tereny były
+całkiem spokojne i klimatyczne. Zastanawiałem się, czy nie lepiej byłoby odjechać
+trochę dalej od torów, może tam by było ciekawiej? Mogłyby być tam znacznie
+ciekawsze tereny.
+
+Wjechaliśmy do [Tarnowa][wiki-tarnow] gdzie zrobiliśmy przerwę przy lokalnym sklepie
+spożywczym.
+
 * wjechaliśmy do Tarnowa widząc tylko tablicę z nazwą miejscowości
 * zrobiliśmy przerwę obok sklepu z kwitnącą magnolią
 * kościół w Modrzewo, ciekawe centrum? szerokie
