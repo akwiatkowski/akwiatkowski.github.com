@@ -4,7 +4,7 @@ title:                  "Opuszczając Nysę w kierunku północnym"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2018-08-09 11:00:00
+date:                   2018-07-09 11:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
