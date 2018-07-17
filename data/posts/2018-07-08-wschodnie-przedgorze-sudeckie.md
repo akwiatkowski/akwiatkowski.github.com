@@ -31,3 +31,8 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1691275598/embed/081fd33f7f8cf06c05e0928573c15f6f0faca871'></iframe>
 
 ## Szczegóły
+
+Szukając noclegu znalazłem hotel w [Nysie][wiki-nysa] i w okolicy
+[Prudnika][wiki-prudnik]. Mając cały dzień myślałem, że będziemy
+mogli znacznie więcej przejechać dlatego można było poszaleć
+podczas planowania.
