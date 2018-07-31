@@ -32,17 +32,20 @@ porównaniach funkcji.
 
 `darktable` przypomina bardziej Lighrooma, opiera się na określonym sposobie
 pracy (który w tym momencie jeszcze odkrywam). Koncentruje się nad rezultatami
+chociaż nie oznacza to, że wszystko jest oczywiste.
 
 `rawtherapee` jest bardziej surowy, "nieludzki", daje pełniejszą kontrolę
-gdyż koncentruje się nad parametrami.
-
-W `rawtherapee` zda
+gdyż koncentruje się nad parametrami. Parametry te można łatwiej wpisywać
+ręcznie.
 
 ## Darktable
 
-TODO czy można dodać na listę?
+### Kolejka
 
-## Zmiana parametrów
+Na ten moment nie ma kolejki do przetwarzania. Można zedytować wszystkie pliki
+a następnie zaznaczyć nieedytowane i odwrócić zaznaczenie.
+
+### Zmiana parametrów
 
 `darktable` korzysta ze specjalnej kontrolki do zmiany parametrów
 zmiennoprzecinkowych. Umożliwia to dokładniejsze ustawienie niż korzystanie z
@@ -50,7 +53,7 @@ suwaka.
 
 TODO nie można wpisać ręcznie?
 
-## Usuwanie szumu
+### Usuwanie szumu
 
 [profiled-denoise]: https://www.darktable.org/usermanual/en/correction_group.html#denoise_profiled
 
@@ -66,33 +69,46 @@ na ilościach detali.
 
 XXX rawtherapee ma chyba tylko jedno miejsce?
 
-### Korekcja geometri
+### Korekcja geometri zdjęcia
 
-TODO czy można użyć linii?
-XXX Jest automatyczne narzędzie które wykrywa i zrównuje zakrzywienia (keystone)
-TODO jak uwzględnić jego wynik bo jak zmienie na inny moduł to resetuje?
+#### Prostowanie
+
+W `darktable` można prostować wybierając moduł `crop and rotate` i przeciągając
+prawym przyciskiem myszy przeciągnąć linię prostą, analogicznie jak w `rawtherapee`.
+
+#### Perspektywa
+
+Jest automatyczne narzędzie które wykrywa i zrównuje zakrzywienia `keystone`.
+Działa ono bardzo dobrze. Wykrywa ono linie poziome i pionowe. Lewym przyciskiem
+myszy zaznacza się istotne linie, a prawy przestawia na nieistotne.
+
+Algorytm nie radzi sobie z niektórymi dachami z jednolitym wzorcu pod kątem 45
+stopni.
 
 [perspective_correction]: https://www.darktable.org/usermanual/en/correction_group.html#perspective_correction
 
 ### Korekcta obiektywu
 
 Istnieje biblioteka `lensfun`, która zajmuje się korekcją niedoskonałości
-obiektywów. W przypadku systemu Pentaksa nie było to takim dużym problemem.
+obiektywów. W przypadku systemu Pentaksa nie było to takim dużym problemem
+dla mnie i nawet nie wiedziałem o istnieniu narzędzi do tego.
 Dystorsja była "pod kontrolą" i nawet sie tym nie przejmowałem.
+Winietowanie poprawiałem ręcznie "na oko".
 
 System M43 zakłada istnienie dystorsji, która będzie następnie programowo poprawiana.
 W przypadku Olympusa 9-18mm dystorsja ta jest niejednorodna i rezultaty korekcji
-(np. morza) nie były dobre.
+(np. horyzont morza) nie były dobrze poprawiane.
 
-Zauważyłem, że brakowało mi `lensfun` w systemie. Zainstalowałem ją
+Zauważyłem, że brakowało mi `lensfun` w systemie (GNU/Linux Debian). Zainstalowałem ją
 przez `apt-get install liblensfun-bin liblensfun-data-v1 liblensfun1` a następnie
-należa zaktualizować `lensfun-update-data`. Po tym restart `darktable`, przeładowanie
+należa zaktualizować bazę uruchamiając `lensfun-update-data`.
+Po tym restart `darktable`, przeładowanie
 modułu korekcji i wszystko zaczęło działać idealnie! Zakładam że `rawtherapee`
-również
+również tak dobrze powinien korzystać z tego narzędzia.
 
 ### Usuwanie brudów matrycy
 
-`darktable` ma specjalny moduł do tego.
+`darktable` ma specjalny moduł do tego chociaż jeszcze nie testowałem go.
 
 TODO muszę to sprawdzić
 
@@ -111,6 +127,23 @@ https://www.darktable.org/usermanual/en/correction_group.html#equalizer
 
 TODO jak to działa?
 
-## Rawtherapee
+## Rawtherapee - kiedy jest lepsze
+
+### Presety
+
+Teoretycznie da się operować na nich, ale w praktyce jest to bardzo toporne.
+Presety są per moduł. Można je łączyć, ale to muszę jeszcze sprawdzić
+dokładniej.
+
+### Kolejka
+
+Twórcy `darktable` olewają wprowadzenie kolejki. Wydawało mi się, że ja czegoś
+nie wiem, ale faktycznie twórcy ignorują potrzebę możliwości dodania eksportu
+pliku do kolejki.
+
+W tym momencie edytuję wszystkie pliki i po skończonej edycji wybieram
+"zaznacz nieedytowane", a następnie "odwróć zaznaczenie". Powoduje to konwersje
+zdjęć, które tylko otworzyłem raz. Mam domyślnie ustawiony zestaw modułów,
+które w większości sytuacji tworzy już zdjęcie wyjściowe.
 
 TODO

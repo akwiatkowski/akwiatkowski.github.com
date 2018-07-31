@@ -28,6 +28,10 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+
+
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1704685001/embed/5d0f3090a3da2698dd6f0f6fd10f3729695a9f00'></iframe>
+
+## Szczegóły

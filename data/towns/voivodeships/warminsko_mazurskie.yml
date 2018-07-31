@@ -24,3 +24,52 @@
   name: Zalewo
   type: town
   voivodeship: warminsko_mazurskie
+
+- slug: wieliczki
+  name: Wieliczki
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: olecko
+  name: Olecko
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: elk
+  name: Ełk
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: stare_juchy
+  name: Stare Juchy
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: wydminy
+  name: Wydminy
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: gizycko
+  name: Giżycko
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: ryn
+  name: Ryn
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: ketrzyn
+  name: Kętrzyn
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: korsze
+  name: Korsze
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: bisztynek
+  name: Bisztynek
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: kolno
+  name: Kolno
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: biskupiec_olsztynski
+  name: Biskupiec (powiat olsztyński)
+  type: town
+  voivodeship: warminsko_mazurskie

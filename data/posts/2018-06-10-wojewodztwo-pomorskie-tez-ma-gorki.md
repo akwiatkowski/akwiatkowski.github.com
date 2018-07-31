@@ -160,7 +160,7 @@ Zrobiliśmy krótką przerwę na zdjęcia odpoczywających krów w cieniu. Krajo
 jest tam dość pofalowany. Zwłaszcza patrząc na obniżenie na wschód
 od drogi.
 
-{% photo "P6100404raw1.jpg","Dojeżdzając do Lubochowa teren był bardziej pagórkowaty" %}
+{% photo "P6100401raw1.jpg","Gospodarstwo w okolicy Lubochowa" %}
 
 Dojechaliśmy do [Milikowa][wiki-milikowo]. Mieliśmy tutaj jechać
 skrótem, jednak brukowy charakter drogi nas zniechęcił. Patrząc na mapę
