@@ -4,7 +4,7 @@ title:                  "Trudno trafić na zimowy wschód słońca"
 subtitle:               "zima i czyste niebo to bardzo rzadkie zjawiska ostatnimi czasy"
 desc:                   "Ten wyjazd był bardzo impulsywny. Prognoza opadów śniegu i silny wiatry przekonały mnie, że warto spróbować udać się w okolicę Jeleniej Góry. Niestety ostatecznie nie byłem zadowolony. Jedyne co dobre, to znalazłem odpowiedni punkt do robienia zdjęć za rok."
 keywords:               [zima, chmury, zamieć, topniejący śnieg, wschód]
-date:                   2018-01-08 09:00:00
+date:                   2018-01-20 09:00:00
 finished_at:            2018-02-13 11:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
