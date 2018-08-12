@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "Świsłoczany i granica z Białorusią"
+title:                  "Pod wiatr do Sokółki"
 subtitle:               ""
 desc:                   ""
 keywords:               []

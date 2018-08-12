@@ -12,10 +12,10 @@ categories:             trip
 tags:                   [bicycle, todo]
 towns:                  [podlaskie, tykocin, kobylin_borzymy, choroszcz]
 
-coords:                 [{"route": [], "type": "bicycle"}]
-distance:               34
-time_spent:             7
-elevation:              112
+coords:                 [{"route": [[53.20435,22.76637], [53.15270,22.74989], [53.11779,22.77873], [53.10481,22.79555], [53.11027,22.78182], [53.12953,22.77564], [53.13314,22.80396], [53.14395,22.79864], [53.15280,22.85512], [53.14786,22.87280], [53.12716,22.87743], [53.15548,22.86559], [53.20825,22.78130]], "type": "bicycle"}]
+distance:               59
+time_spent:             9
+elevation:              259
 
 
 pois:
@@ -28,34 +28,8 @@ pois:
 
 ## Wstęp
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1758477822/embed/5617e407fd9ac51f98ccc9c2376f4823cbcbdb84'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1767934537/embed/04a8408b5a8f757d19dc25b1fefad6374e752116'></iframe>
 
 ## Szczegóły
 
 TODO:
-
-* planowaliśmy wcześniej jechać carską drogą
-* upał i jazda pod wiatr - zły pomysł
-* brak sklepów przez 30 km - niby nie powinno być problemem
-* droga wokół lasów - i fajnie i nie
-* pojechaliśmy do stacji Goniądz
-* sama jazda po asfalcie już mnie demotywowała
-* ostatni fragment to droga gruntowa która była małą pustynią, jak przejechał ciągnik
-* widzieliśmy (drugi później, jak wysiadliśmy) spalinowy pociąg z jednym wagonem dla ludzi, a reszta to chyba były wagony z kruszywem kolejowym (no to co pod szynami)
-* czekaliśmy 30 minut za pociągiem, byłem psychicznie zmęczony od słońca
-* jechaliśmy dość krótko, 27 minut do Borsukówki
-* według mapy/google powinniśmy mieć dość dobry dojazd
-* okazało się, że droga dojazdowa jet przez teren prywatny
-* zapytaliśmy się w domu obok, pani powiedziała że możemy, jednak ostatecznie wolałem nie wjeżdżać, chodził tam pies
-* nadrobiliśmy trochę km jadąc do Pogorzałki
-* w Borsukówce zapytatałem się kierowcy linii autobusowej 106 czy się da dojechać do Tykocina
-* ruszyliśmy drogą asfaltową na zachód, później przekształciła się w gruntową, piasków nie było dużo
-* jechało się w miarę dobrze
-* wieża widokowa chyba w Górze
-* Morusy - tutaj na drodze 671 ruch był większy
-* znowu ten zły upał
-* przerwa na obiad w Tykocinie
-* ładny plac
-* na zachodzie pojawiały się chmury, zbliżała się burza
-* dojechaliśmy do noclegu tuż przed burzą, widząc deszcz padający
-* zdjęcie Rojnika Morfeusza

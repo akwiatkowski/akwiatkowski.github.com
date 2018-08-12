@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "Jadąc wzdłuż Biebrzy"
+title:                  "Jeszcze większy upał, więc pojechałem tylko do Osowca"
 subtitle:               ""
 desc:                   ""
 keywords:               []
@@ -13,9 +13,9 @@ tags:                   [bicycle, todo]
 towns:                  [podlaskie, goniadz]
 
 coords:                 [{"route": [[53.49572,22.77160], [53.49413,22.76362], [53.48816,22.75839], [53.48418,22.71745], [53.47452,22.67264], [53.46650,22.66818], [53.48627,22.64578]], "type": "bicycle"}]
-distance:               50
-time_spent:             6
-elevation:              139
+distance:               29 # 12 + 17
+time_spent:             6 # 2 + 4
+elevation:              163 # 52 + 111
 
 
 pois:
