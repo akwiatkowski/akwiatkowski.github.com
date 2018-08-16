@@ -83,3 +83,12 @@
   name: Choroszcz
   type: town
   voivodeship: podlaskie
+
+- slug: sokoly
+  name: Sokoły
+  type: town
+  voivodeship: podlaskie
+- slug: lapy
+  name: Łapy
+  type: town
+  voivodeship: podlaskie

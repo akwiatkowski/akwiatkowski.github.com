@@ -8,7 +8,7 @@ date:                   2018-08-08 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         P8080202.jpg
 tags:                   [bicycle, panniers, todo]
 towns:                  [podlaskie, sztabin, jaswily, goniadz]
 
