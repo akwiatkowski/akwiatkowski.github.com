@@ -29,6 +29,14 @@ pois:
 
 ## Wstęp
 
+Tak jak rok temu ta majówka przypadła w środku tygodnia. Biorąc 3 dni wolne można
+było mieć cały tydzień.
+
+Wybrałem [Kaszuby][wiki-kaszuby] gdyż od dawna mnie ciekawiły. Jako bazę chciałem
+wybrać miejsce w okolicy [Czerska][wiki-czersk] i [Chojnic][wiki-chojnice] aby
+móc uwzględnić dużo opcji połączeń kolejowych. W zasięgu były przynajmniej 3
+parki narodowe/krajobrazowe.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1537374206/embed/7ec5df8f23b81f05988f0287254e2af053d4392b'></iframe>
