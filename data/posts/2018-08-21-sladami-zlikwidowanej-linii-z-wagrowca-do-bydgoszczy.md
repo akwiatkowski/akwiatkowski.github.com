@@ -28,4 +28,41 @@ pois:
 
 ## Wstęp
 
+Od dłuższego czasu nie jeździłem na "szosie". Gdy pogoda będzie dobra
+planowałem przejechać trasę z [Gniezna][wiki-gniezno] do [Bydgoszczy][wiki-bydgoszcz].
+
+Zmieniłem ten plan aby uwzględnić zaliczenie jak najwięcej nowych gmin.
+Dlatego najlepiej byłoby rozpocząć w okolicach [Wągrowca][wiki-wagrowiec]
+albo [Gołańczy][wiki-golancz], jednak nie każdy pociąg dojeżdża tam,
+zwłaszcza rano.
+
+## Opis trasy
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1787349208/embed/e36a02efbc87dc6e292239d412e5e1e05be53934'></iframe>
+
 ## Szczegóły
+
+Wolałem wstać wcześniej i jechać pociągiem do [Wągrowca][wiki-wagrowiec]
+chwilę po godzinie 7-ej. Dzięki temu byśmy mieli dużo czasu na jazdę oraz nie
+jechalibyśmy w najgorszym słońcu.
+
+Dzień wcześniej poszedłem spać nie za szybko bo trochę po północy. Miałem 5
+godzin snu. Obudziłem się mając ogromne uczucie niechęci i lenistwa.
+Gdybym musiał sam jechać to bym na pewno nie ruszył z domu.
+
+Do [Wągrowca][wiki-wagrowiec] dojechaliśmy przed 8:30. Nie miałem dobrego pomysły
+jak można opuścić miasto. Jechaliśmy ruchliwą i mało interesującą drogą 241.
+Po około 8km skręciliśmy w lewo jadąc w stronę [Brzeźna Starego][wiki-brzezno-stare]
+a dalej do [Gołańczy][wiki-golancz]. Teraz dopiero założyłem kamerkę.
+Okolica przestała być nieciekawa lecz jeszcze nie było to nic, co warto opisać.
+
+Opuszczając [Laskownicę Wielką][wiki-laskownica-wielka] zauważyłem stary,
+zamknięty sklep. Później jeszcze dwa takie sklepy widziałem.
+
+Po lewej widzieliśmy sporo elektrowni wiatrowych. Patrząc teraz na filmiki nie zauważam
+wiele specjalnego w okolicy ale pamiętam, że jazda zaczęła mnie uspokajać.
+Czułem, że warto by było kiedyś jeszcze bardziej poświęcić się na
+zwiedzaniu tych okolic. Jest sporo ciekawych terenów zielonych
+i górek pod [Notecią][wiki-notec].
+
+W [Chawłodnie][wiki-chawlodno] ponownie widziałem stary zamknięty sklep spożywczy.
