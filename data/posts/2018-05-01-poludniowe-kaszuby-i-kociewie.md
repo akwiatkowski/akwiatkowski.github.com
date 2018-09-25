@@ -232,7 +232,7 @@ Bardzo mi się podobał wjazd do [Sobowidza][wiki-sobowidz] pod wiaduktem kolejo
 {% photo "IMGP8454raw1.jpg","Okolice rzeki Styny" %}
 
 Już pół godziny temu "robiło się późno" i musieliśmy sprawnie jechać.
-Początkowo myślałem o [Pszczółkach][wiki-pszczolko] ale tam byśmy musieli
+Początkowo myślałem o [Pszczółkach][wiki-pszczolki] ale tam byśmy musieli
 się przesiąść w [Tczewie][wiki-tczew].
 Jak się pospieszymy to powinniśmy zdążyć do [Tczewa][wiki-tczew] na
 bezpośredni pociąg powrotny.

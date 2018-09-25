@@ -172,7 +172,7 @@ Dotarliśmy do pizzerii i zamówiliśmy jedzenie. Po chwili przychodzi
 kelnerka oznajmiając, że będziemy musieli na nią czekać półtora godziny.
 Zjedliśmy swoje kanapki i ruszyliśmy dalej. Chciałem zgodnie z prawem
 poruszać się drogą w odpowiednim kierunku. Trafiliśmy w główną drogę pełną
-straganów. Ludzie pałętali się jak cioty. Moje emocje sięgały zenitu
+straganów. Ludzie pałętali się jak zombie. Moje emocje sięgały zenitu
 gdy widziałem rodziny, które postanowiły sobie urządzić dyskusję na środku drogi
 spowalniając ruch.
 
