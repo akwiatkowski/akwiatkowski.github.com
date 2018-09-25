@@ -37,7 +37,7 @@ pois:
 Ruszyliśmy pociągiem o 14:40, którym przez godzinę dojechaliśmy do
 [Zbąszynia][wiki-zbaszyn].
 
-Ja już wcześniej jechałem [do Trzeciela w 2016 r.]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego/ %}).
+Ja już wcześniej jechałem [do Trzeciela w 2016 r.]({% post_url 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego %}).
 
 Teoretycznie mieliśmy krótką trasę bo tylko 12km do przejechania.
 Taką odległość można sprawnie przejechać w 30-40 minut jednak
