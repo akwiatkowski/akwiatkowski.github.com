@@ -75,6 +75,13 @@ class Tremolite::Views::BaseView
       )
     end
 
+    result = command.scan(/todo/)
+    if result.size > 0 && post
+      return todo_mark(
+        post: post
+      )
+    end
+
     return nil
   end
 
@@ -130,6 +137,11 @@ class Tremolite::Views::BaseView
       "vimeo.id" => vimeo_id,
     }
     return load_html("partials/vimeo_iframe", data)
+  end
+
+  private def todo_mark(post : Tremolite::Post)
+    # TODO add to some kind of dynamic list of todos
+    nil
   end
 
   private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)
