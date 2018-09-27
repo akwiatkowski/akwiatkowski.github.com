@@ -100,7 +100,7 @@ Opuszczaliśmy [Ocypel][wiki-ocypel] niebieskim szlakiem rowerowym do
 Droga była monotonna. Oprócz przystanku obok wsi [Krępki][wiki-krepki],
 [Młynki][wiki-mlynki] oraz rzeki [Wdy][wiki-wda] niewiele ciekawego widzieliśmy.
 
-Zrobiliśmy sobie w [Lubiechowie][wiki-lubiechowo] dłuższą przerwę na obiad.
+Zrobiliśmy sobie w [Lubichowie][wiki-lubichowo] dłuższą przerwę na obiad.
 Porcje były solidne ale toaleta później odstraszała.
 
 {% photo "IMGP8502raw1.jpg","Wieś Kaliska" %}
@@ -108,7 +108,7 @@ Porcje były solidne ale toaleta później odstraszała.
 Ruszyliśmy na północ zielonym szlakiem rowerowym przez wieś [Kaliska][wiki-kaliska].
 Tego dnia był jakiś zlot motorowy.
 
-Po opuszczeniu granicy [Lubiechowa][wiki-lubiechowo] wjechaliśmy w teren,
+Po opuszczeniu granicy [Lubichowa][wiki-lubichowo] wjechaliśmy w teren,
 który znacznie bardziej mi się podobał.
 
 Dojechaliśmy do [Szteklina][wiki-szteklin] - całkiem klimatyczna wioska
