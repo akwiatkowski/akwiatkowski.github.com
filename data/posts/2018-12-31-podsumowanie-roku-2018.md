@@ -10,18 +10,6 @@ author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6100451raw1.jpg
 tags:                   [article, todo]
-towns:                  []
-
-coords:                 [{"route": [], "type": "hike"}]
-distance:               4
-time_spent:             2
-elevation:              42
-
-
-pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
 
 ---
 

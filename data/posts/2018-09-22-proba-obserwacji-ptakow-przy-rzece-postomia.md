@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         _9220124.jpg
 tags:                   [bird, photo, hike, todo]
-towns:                  []
+towns:                  [lubuskie, slonsk]
 
 coords:                 [{"route": [[52.58432,14.77423], [52.58005,14.74711]], "type": "hike"}, {"route": [[52.57587,14.81131], [52.56982,14.80427], [52.56335,14.80522]], "type": "hike"}]
 distance:               16 # 4 + 6 + 6
