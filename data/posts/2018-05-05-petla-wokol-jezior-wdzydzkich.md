@@ -1,15 +1,15 @@
 ---
 layout:                 post
 title:                  "Pętla wokół Jezior Wdzydzkich"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "czyli lasy, jeziora, paski i brak sensownych połączeń kolejowych"
+desc:                   "Podczas tej majówki chciałem zobaczyć okolice Swornychgaci i Wdzydze. Tego dnia przyszła pora na Wdzydze, które okazało się być ciekawym miejscem jednak brak sensownego połączenia kolejowego z Kościerzyny zmusił nas do zrobienia kilku kilometrów więcej."
+keywords:               [wdzydze, jezioro, las, 100km, karsin, borsk, jezioro radolne, jezioro gołuń, czarlina, wiele]
 date:                   2018-05-05 21:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-10-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8812raw1.jpg
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [pomorskie, czersk, karsin, koscierzyna, dziemiany]
 lands:                  [wdzydzki_park_krajobrazowy]
 
@@ -29,6 +29,30 @@ pois:
 
 ---
 
+[wiki-linia-215]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_215
+
+[wiki-wdzydze]: https://pl.wikipedia.org/wiki/Wdzydze_(gmina_Ko%C5%9Bcierzyna)
+[wiki-swornegacie]: https://pl.wikipedia.org/wiki/Swornegacie
+[wiki-czersk]: https://pl.wikipedia.org/wiki/Czersk
+[wiki-karsin]: https://pl.wikipedia.org/wiki/Karsin
+[wiki-debowiec]: https://pl.wikipedia.org/wiki/D%C4%99bowiec_(wojew%C3%B3dztwo_pomorskie)
+[wiki-wdzydzki-park]: https://pl.wikipedia.org/wiki/Wdzydzki_Park_Krajobrazowy
+[wiki-borsk]: https://pl.wikipedia.org/wiki/Borsk
+[wiki-abisynia]: https://pl.wikipedia.org/wiki/Abisynia_(gmina_Karsin)
+[wiki-wda]: https://pl.wikipedia.org/wiki/Wda_(rzeka)
+[wiki-jezioro-wdzydze]: https://pl.wikipedia.org/wiki/Wdzydze_(jezioro)
+[wiki-wdzydze-tucholskie]: https://pl.wikipedia.org/wiki/Wdzydze_Tucholskie
+[wiki-kalisz-kaszubski]: https://pl.wikipedia.org/wiki/Kalisz_Kaszubski
+[wiki-koscierzyna]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna
+[wiki-skoczkowo]: https://pl.wikipedia.org/wiki/Skoczkowo_(wojew%C3%B3dztwo_pomorskie)
+[wiki-czarlina]: https://pl.wikipedia.org/wiki/Czarlina
+[wiki-row]: https://pl.wikipedia.org/wiki/R%C3%B3w_(wojew%C3%B3dztwo_pomorskie)
+[wiki-wygoda]: https://pl.wikipedia.org/wiki/Wygoda_(gmina_Karsin)
+[wiki-przytarnia]: https://pl.wikipedia.org/wiki/Przytarnia
+[wiki-wiele]: https://pl.wikipedia.org/wiki/Wiele_(wojew%C3%B3dztwo_pomorskie)
+[wiki-kliczkowy]: https://pl.wikipedia.org/wiki/Kliczkowy
+[wiki-osowo]: https://pl.wikipedia.org/wiki/Osowo_(powiat_ko%C5%9Bcierski)
+[wiki-rudziny]: https://pl.wikipedia.org/wiki/Rudziny_(wojew%C3%B3dztwo_pomorskie)
 
 ## Wstęp
 
@@ -43,38 +67,53 @@ które [odwiedziliśmy wcześniej]({% post_url 2018-04-29-swornegacie-i-zaborski
 ## Szczegóły
 
 Jak zwykle na początku musieliśmy dojechać do [Czerska][wiki-czersk].
-Dalej ruszyliśmy w stronę [Karsina][wiki-karsin].
+Następnie ruszyliśmy w stronę [Karsina][wiki-karsin].
 
-Niewiele ciekawego mijaliśmy. Troche wiosek, lasu i mijaliśmy
-tory [linii XXX][wiki-linia-xxx], po której w tym momencie nie jeżdzą
+Niewiele ciekawego mijaliśmy: troche wiosek, lasu i
+tory [linii 215][wiki-linia-215], po której w tym momencie nie jeżdzą
 pociągi pasażerskie.
+
+{% photo "IMGP8696raw1.jpg","Opuszczając Karsin" %}
 
 Gdy przejeżdzaliśmy obok [Dębowca][wiki-debowiec] była tablica
 informująca o wjeździe do [Wdzydzkiego Parku Krajobrazowego][wiki-wdzydzki-park].
 
-[Karsin][wiki-karsin] był spokojną, zadbaną miejscowością.
+[Karsin][wiki-karsin] był spokojną, zadbaną miejscowością. Chociaż
+nic więcej o nim nie napiszę.
 
-Skręciliśmy w prawo drogą do kierunku [Borska][wiki-borsk].
-Bardzo mi się podobała ta droga szutrowa. Wokół były zielona, wczesne pola,
+{% photo "IMGP8702raw1.jpg","Pola niedaleko Karsina" %}
+
+Skręciliśmy w prawo drogą w kierunku do [Borska][wiki-borsk].
+Bardzo mi się podobała ta droga szutrowa. Wokół były zielona, "wczesne" pola,
 nieznacznie pofalowane. Idealny szlak rowerowy, chociaż nie wiem czy to był
 jakiś szlak.
 
-Wjechaliśmy do [Abisynii][wiki-abisynia]. Po chwili zrobiliśmy przerwę
-przy moście nad [Wdą][wiki-wda], która roździelała się na
-[Wdę][wiki-wda] i [Kanal Wdy][wiki-kanal-wdy]. Ten drugi jeżeli się
-nie mylę jest spokojniejszy. Na nim są spływy.
+{% photo "IMGP8706raw1.jpg","Idealny szlak rowerowy" %}
+
+Wjechaliśmy do [Abisynii][wiki-abisynia] robiąc przerwę
+przy moście nad [Wdą][wiki-wda]. Dzieliła się ona na
+[Wdę][wiki-wda] i Kanał Wdy. Ten drugi, jeżeli się
+nie mylę, jest spokojniejszy. Na nim są prowadzone spływy kajakowe.
+
+{% photo "IMGP8709raw1.jpg","Jakiś wąż" %}
 
 Dojechaliśmy do [Borska][wiki-borsk]. W okolicy jest lotnisko, chociaż
-sami go nie zauważyliśmy.
+jadąc rowerem go nie zauważyliśmy.
 
-Od tego momentu jechaliśmy w okolicy [Jeziora Wdzydze][wiki-jezioro-wdzydze].
+{% photo "IMGP8720raw1.jpg","Wda w okolicy Borska" %}
+
+Od tego momentu jechaliśmy już w okolicy [Jeziora Wdzydze][wiki-jezioro-wdzydze].
 Mieliśmy do wyboru jechać drogą asfaltową albo zielonym szlakiem
 w pobliżu [jeziora][wiki-jezioro-wdzydze].
 Wybraliśmy to drugie. Trochę to zmniejszyło naszą średnią szybkość
 za cenę kilku naprawdę fajnych widoków.
 
-Większość trasy to była jazda przez las z dodatkami. Na początku tym
-dodatkiem było bardzo ostre zbocze opadające do jeziora.
+{% photo "IMGP8746raw1.jpg","Jezioro Wdzydze" %}
+
+Większość naszej trasy to była jazda przez las "z dodatkami". Na początku tym
+dodatkiem było bardzo ostre zbocze opadające do [jeziora][wiki-jezioro-wdzydze].
+
+{% photo "IMGP8755raw1.jpg","Jezioro Wdzydze z okolic Wdzydz Tucholskich" %}
 
 Wjechaliśmy we [Wdzydze Tucholskie][wiki-wdzydze-tucholskie].
 Tutaj mogliśmy odbić na asfalt i w miarę szybko dojechać do
@@ -87,58 +126,80 @@ miejscowością wypoczynkową.
 Skręcajac w nieodpowiednim miejscu zjechaliśmy na plażę, gdzie zrobiłem
 kilka zdjęć.
 
+{% photo "IMGP8753raw1.jpg","Jezioro Wdzydze z Wdzydz Tucholskich" %}
+
 Przez kolejne 3km na północ mieliśmy trochę piasków, zjazdów i podjazdów.
 Wjechaliśmy w osiedle drewnianych domków letniskowych.
 
 Dotarliśmy do asfaltu i następnie do [Wdzydz][wiki-wdzydze] robiąc
-przerwę na obiad. Analizowałem opcję powrotu pociągiem.
+tam przerwę na obiad. Analizowałem opcję powrotu pociągiem.
 Jeżeli byśmy się pospieszyli to przez godzinę możnaby dojechać do
-[Kalisza Kaszubskiego][wiki-kalisz-kaszubski] - około 14km ale
+[Kalisza Kaszubskiego][wiki-kalisz-kaszubski] - około 14km jazdy ale
 drogrami gruntowymi. Do [Kościerzyny][wiki-koscierzyna]
-jest około 18km. Postanowiliśmy że nie spiesząc się będziemy wracali
-rowerem. Ta decyzja nie była w pełni przemyślana w mojej ocenie, ale też
-była najlepsza możliwa.
+jest około 18km. Postanowiliśmy, że nie spiesząc się będziemy wracali
+rowerem. Ta decyzja nie była w pełni przemyślana w mojej ocenie, ale
+była to najlepsza możliwa.
 
 Pojechaliśmy na północ aby przez [Skoczkowo][wiki-skoczkowo]
 objechać północną część [jeziora][wiki-jezioro-wdzydze].
 
+{% photo "IMGP8783raw1.jpg","Most nad Wdą (B.Wojciechowska)" %}
+
 Zjechaliśmy do [Czarliny][wiki-czarlina] gdzie skręciliśmy na zachód.
-To było za połową dzisiejszej trasy chyba.
+Byliśmy już za połową dzisiejszej trasy.
 
 Kilka zdjęć zrobiliśmy przy moście nad [Wdą][wiki-wda] obok
 Jeziora Radolne.
 
+{% photo "IMGP8784raw1.jpg","Jezioro Radolne (B.Wojciechowska)" %}
+
 Jadąc w dół zielonym szlakiem rowerowym mogę "polecić" jedno miejsce.
 Jest to przejście przez strumyk wyglądające jak połączenie
-uszkodzonego drewnianego mostu rzuconymi drzewami do wody.
+uszkodzonego drewnianego mostu z rzuconymi drzewami do wody.
+
+{% photo "IMGP8794raw1.jpg","Przejście przez strumyk" %}
 
 Wjechaliśmy do [Rowu][wiki-row] - bardzo urokliwej wsi w centrum lasu.
 Do wyjazdu z lasu zostało nam ok 4km.
 
+{% photo "IMGP8799raw1.jpg","Dom w Rowie" %}
+
 W [Wygodzie][wiki-wygoda] zrobiliśmy przerwę na zdjęcia małych kaczuszek,
 puchatego kota i [jeziora][wiki-jezioro-wdzydze].
 
-Z lasu wyjechaliśmy w [Przytarni][wiki-przytarni]. Chcieliśmy dostać
+{% photo "IMGP8840raw1.jpg","Puchaty kot w Wygodzie" %}
+
+Z "lasu" wyjechaliśmy w [Przytarni][wiki-przytarnia]. Chcieliśmy dostać
 się do [Wiela][wiki-wiele] bezpośrednio. Droga kamienisto-gruntowa nas
 nie przekonywała, woleliśmy pojechać asfaltem przez
 [Kliczkowy][wiki-kliczkowy].
 
+{% photo "IMGP8865raw1.jpg","Okolice Przytarni" %}
+
 W [Wielu][wiki-wiele] zrobiliśmy przerwę na zakupy, lody i gofra.
 Mogliśmy jechać do [Karsina][wiki-karsin] (5km) i wracalibyśmy
-już znaną trasą. Osobiście wolałem jak najmniej powtarzać trasy.
-Wybraliśmy jechać do [Dąbrówki][wiki-dabrowki] 3km na południe.
+już znaną trasą. Osobiście wolałem jak najmniej powtarzać trase.
+Wybraliśmy jazdę do Dąbrówki 3km na południe.
 
-Niestety droga gruntowa którą napotkaliśmy była kopalnią piasku.
+{% photo "IMGP8877raw1.jpg","Pola niedaleko Kliczkowy" %}
+
+Niestety droga gruntowa którą napotkaliśmy była "kopalnią piasku".
 3km musieliśmy przedostać się walcząć z piaskiem.
 Krzychu w wyniku frustracji skręcił do [Osowa][wiki-osowo].
-Roździeliliśmy się ale to nie było problemem. Przynajmniej odkryjemy
-różne okolice.
+Roździeliliśmy się ale to nie było problemem. Przynajmniej dzięki temu
+odkryliśmy różne okolice.
+
+{% photo "IMGP8878raw1.jpg","Walka z piaskiem niedaleko Dąbrowy" %}
 
 Dojechaliśmy do [Rudzin][wiki-rudziny] i tam już pojawił
 się asfalt. Zostało 4km do drogi asfaltowej, którą poznałem
-[jadąc do Swornychgaci]({% post_url 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy %}).
+[jadąc do Swornychgaci]({% post_url 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy %})
+wcześniej.
 
-Jadąc widzieliśmy efekty huraganu z 2017r.
+Jadąc widzieliśmy ponownie efekty huraganu z 2017r.
 
-Dojechaliśmy do Lidla i minutę później Krzychu dojechał. Po powrocie
+{% photo "IMGP8882raw1.jpg","Wieć Rudziny" %}
+
+Dojechaliśmy do Lidla. Krzychu dojechał minutę później pomimo tego, że nie
+dostał mojego smsa. Po powrocie
 do bazy okazało się, że przejechałem dzisiaj 102km.
