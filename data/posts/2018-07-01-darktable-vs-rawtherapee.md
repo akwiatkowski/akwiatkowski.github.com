@@ -121,8 +121,11 @@ również tak dobrze powinien korzystać z tego narzędzia.
 ### Usuwanie brudów matrycy
 
 `darktable` ma specjalny moduł do tego chociaż jeszcze nie testowałem go.
+Działa on dość fajnie chociaż `heal` w Gimpie było według mnie łatwiejsze
+w obsłudze. Tutaj należy zaznaczyć obszar "brudny" korzystajac z koła, elipsy
+albo innego kształtu, i wybrać miejsce "poprawne" do pobrania obrazu.
 
-<!-- TODO muszę to sprawdzić -->
+Kluczowe jest odpowiednie dopasowanie jasności miejsca źródłowego.
 
 ### Cienie i światła
 
@@ -146,6 +149,16 @@ Jeżeli się nie mylę to łączy on wyostrzanie (barwa i jasność) i usuwanie 
 Tutaj polecam używać go z rozwagą.
 
 <!-- TODO sprawdzić zamglone zdjęcia z rawtherapee -->
+
+### Obciążenie procesora
+
+Wydaję mi się, że `darktable` ma znacznie większe potrzeby obliczeniowe.
+Nawet zmieniając priorytet procesu system jest wyraźnie zwolniony.
+Oglądanie YouTube'a staje się wtedy problematyczne.
+
+Brak możliwości spazuwania jest dużą niedogodnością.
+
+<!-- TODO sprawdzić w ustawieniach -->
 
 ## Rawtherapee - kiedy jest lepsze
 
