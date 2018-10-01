@@ -141,7 +141,7 @@ class Tremolite::Views::BaseView
 
   private def todo_mark(post : Tremolite::Post)
     # TODO add to some kind of dynamic list of todos
-    nil
+    return "" # to not render it
   end
 
   private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)
