@@ -9,7 +9,7 @@ date:                   2018-07-07 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P7070657_dark1.jpg
-tags:                   [bicycle, todo]
+tags:                   [bicycle, panniers, todo]
 towns:                  [dolnoslaskie, jaworzyna_slaska, swidnica, marcinowice, dzierzoniow, lagiewniki, niemcza, pilawa_gorna, zabkowice_slaskie]
 lands:                  [wzgorza_niemczansko_strzelinskie]
 
