@@ -20,15 +20,26 @@ tags:                   [article, todo]
 
 ### Nowe miejsca
 
-Na [majówkę]({% post_url %})
+Na [majówkę]({% post_url 2018-04-28-dojazd-na-majowke-na-kaszubach %})
+pojechaliśny na [Kaszuby][wiki-kaszuby] (tak niezupełnie ale wolę stosować to
+uproszczenie).
 
-<!-- TODO Mazury, opolskie -->
+W [czerwcu]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %})
+byłem rowerem na [Mazurach][wiki-mazury]. Były to zachodnie
+[Mazury][wiki-mazury] i [Pomorze][wiki-pomorze], raczej oddalone od
+tych najbardziej popularnych miejsc wypoczynkowych.
+
+W [sierpniu]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) byłem na bardzo
+długiej wycieczce na [Podlasiu][wiki-podlasie]. Zobaczyłem tam dużo ale najważniejsze
+to to, że byłem kompletnie w innym miejscu, chociaż mam pewnego rodzaju niedosyt.
 
 ### Morskie zdjęcia
 
-Nad [Bałtykiem][wiki-baltyk] byłem 5 razy (stan z końca września).
+Nad [Bałtykiem][wiki-baltyk] byłem 5 razy.
 Skompletowałem zestaw filtrów Cokin P dzięki czemu czuję, że już jestem gotowy
 na robienie zdjęć morza.
+
+<!-- z końca września, todo sztorm -->
 
 ### Kolejowe
 
@@ -43,7 +54,7 @@ męcząca, [Mazury]({% post_url 2018-07-23-parowozem-do-suwalk %})
 były znacznie ładniejsze, a szybko poruszający się pociąg utrudniał
 robienie ciekawych zdjęć.
 
-Zaczęło mi brakować naprawdę owocnych wycieczek.
+Zaczęło mi brakować naprawdę owocnych wycieczek fotograficznych.
 
 ### Przejście na Olympusa
 
@@ -51,10 +62,13 @@ Po rozmowie z kolegą zacząłem zastanawiać się nad sprawdzeniem innego syste
 najlepiej bezlusterkowca. Początkowo chciałem mieć lekki aparat na wycieczki
 rowerowe. Ostatecznie po testach zacząłem przechodzić na Olympusa.
 
-Zauważam gorszą jakość czasami jednak mam pewniejszy AF i z większej ilości
+Zauważam gorszą jakość (szumy) czasami jednak mam pewniejszy AF i z większej ilości
 zdjęć jestem zadowolony.
 
 ## Co poszło nie tak
+
+Zacząłem pisać ten wpis pod koniec września. W tym momemcnie mam wrażenie, że
+większość planów nie udało mi się zrealizować i że to nie był najlepszy rok.
 
 ### Pogoda
 
@@ -64,10 +78,11 @@ brakujące godziny w innych dniach).
 
 Technicznie byłem coraz bardziej gotowy aby jeździć więcej. Po bardzo
 intensywnej majówce byłem "rozgrzany" do sezonu.
-Nikt jednak nie przewidywał, że w 2018 roku będą tak intensywne susze.
+Nikt jednak nie przewidywał, że w 2018 roku będą tak intensywne upały i susze.
 
 Susze utrudniały jazdę po drogach gruntowych, które zamieniały się w piasek.
-A wysoka temperatura utrudniał jazdę.
+A wysoka temperatura utrudniała jazdę. Idealna godzina na rower była
+czasami pomiędzy 6 a 8 rano, gdzie można było jeździć w krótkim rękawie.
 
 [Mazury]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %}),
 [Dolny Śląsk]({% post_url 2018-07-07-plasko-zle-gory-zle %}) i
@@ -80,14 +95,17 @@ jazda 10km w jedną stronę była dla mnie problematyczna. Pomimo redukcji
 zaplanowanych kilometrów i tak miejscami było bardzo trudno.
 Porównując to z
 [Beskidem Niskim]({% post_url 2017-07-24-cieply-wilgotny-dojazd-do-hanczowej %})
-widać od razu różnicę w temperaturze o 4-6 stopni.
+widać od razu różnicę w temperaturze o 4-8 stopni.
 
 Susza wpływała na roślinność. Trawa rosła tylko w okolicy zbiorników
 wodnych lub rzek.
 
 ### Zima w górach
 
-Udało mi się tylko [tuż]({% post_url 2017-12-30-wschod-na-szczelincu-wielkim %})
+Od chyba 4 lat mam w planie zrobienie jednego zdjęcia. Potrzebuję tylko
+ośnieżonych gór i wschodu słońca.
+
+Udało mi się to zrobić tylko [tuż]({% post_url 2017-12-30-wschod-na-szczelincu-wielkim %})
 przed Sylwestrem i to technicznie w roku 2017.
 
 Nie licząc jednej [wycieczki]({% post_url 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca %})
