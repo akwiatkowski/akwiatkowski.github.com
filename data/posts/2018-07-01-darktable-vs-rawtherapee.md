@@ -33,7 +33,8 @@ ma lepszy algorytm usuwający szumy.
 
 `darktable` przypomina bardziej Lighrooma, opiera się na określonym sposobie
 pracy. Jest bardziej "wizualny". Parametry użytkownik zmienia do momentu
-uzyskania odpowiedniego efektu.
+uzyskania odpowiedniego efektu. Ma **warstwy**, które dają ogrom możliwości.
+Poznałem je niedawno (2018-10-10).
 
 `rawtherapee` jest bardziej surowy, "nieludzki", daje pełniejszą kontrolę
 gdyż koncentruje się nad parametrami. Parametry te można łatwiej wpisywać
@@ -41,6 +42,28 @@ ręcznie. Jakby użytkownik lepiej wiedział jak działają algorytmy i jakie
 parametry będą najlepsze.
 
 ## Darktable
+
+### Filmiki, tutoriale
+
+Będę tutaj wrzucał linki do filmików, których obejrzenie znacząco przyspieszy
+naukę:
+
+* https://www.youtube.com/watch?v=aU8z81INOBU
+
+### Warstwy
+
+O warstwach słyszałem tylko od ludzi, którzy kupili Lightrooma/Photoshopa lub
+inny płatny program. Domyślałem się ile to daje możliwości ale
+dopiero patrząc na tutoriale zrozumiałem, że bywa to ogromnie ważna
+rzecz.
+
+W skrócie moduły domyślnie operują na całym zdjęciu. Można ustawić
+`blend`->`drawn mask` i przykładowo wybrać gradient. Łącząc dwa gradienty
+i ustawiając `invert mask` można operować tylko na fragmencie ograniczonym
+przez te dwa gradienty. Nie sprawdzałem z większą ilością jeszcze.
+
+Funkcja ta bardzo przydała mi się podczas przerabiania
+zdjęć z [mgłą z Sokolika]({% post_url 2018-10-09-lasery-z-sokolika %}).
 
 ### Kolejka
 
