@@ -4,6 +4,9 @@ class Tremolite::Views::BaseView
     string : String,
     post : (Tremolite::Post | Nil)
   ) : (String | Nil)
+    # unescape dash "\_ -> "_
+    command = command.gsub(/\"\\_/, "\"_")
+
     result = command.scan(/current_year/)
     if result.size > 0
       return Time.now.year.to_s
