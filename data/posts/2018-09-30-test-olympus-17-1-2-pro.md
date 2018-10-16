@@ -1,7 +1,7 @@
 ---
 layout:                 post
-title:                  "Test Olympus 17mm 1.2 PRO"
-subtitle:               "porownanie do Olympus 25mm 1.2 PRO oraz innych stałoogniskowych"
+title:                  "Test obiektywu Olympus 17mm 1.2 PRO"
+subtitle:               "porownanie do Olympusa 25mm 1.2 PRO oraz innych stałoogniskowych"
 desc:                   "Mając Olympusa 12-100/4 warto mieć jakiś jasny stałoogniskowy obiektyw. Dostępne są trzy bardzo dobre obiektywy 17mm, 25mm i 45mm z serii PRO. Tutaj chciałbym przedstawić moje subiektywy wnioski gdyż sam zastanawiałem się, czy lepszy dla mnie jest 25mm czy 17mm."
 keywords:               [olympus, pro, 1.2, 17mm, 25mm, test obiektywu]
 date:                   2018-09-30 09:00:00
@@ -9,7 +9,7 @@ date:                   2018-09-30 09:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         _9200160.jpg
-tags:                   [photo, article, main, todo]
+tags:                   [photo, article, main]
 towns:                  [wielkopolskie, dolnoslaskie, poznan, wroclaw]
 
 ---
@@ -31,8 +31,8 @@ według mnie). Kupiłem go razem z obiektywem 12-100/4, dzięki któremu zestaw 
 jest w stanie osiągnąć stabilizację 6.5EV. Udało mi się zrobić
 nawet 10 sekundowe zdjęcie "z ręki"!
 
-Zacząłem zastanawiać się, czy można to wykorzystać
-tą stabilizacje podczas nocnych zdjęć miasta?
+Zacząłem zastanawiać się, czy można wykorzystać
+tak dobrą stabilizacje podczas nocnych zdjęć miasta?
 
 ### Co tu będzie?
 
@@ -42,55 +42,54 @@ w pełnej roździelczości ani tym bardziej robił zdjęć planszom testowym.
 Chcę tylko przedstawić moje opinie związane z użyciem tych obiektywów
 w terenie i ewentualnie pomóc innym w decyzji zakupowej.
 
-Olympus 25/1.2 wypożyczyłem sam za niego płacąc. Olympus 17/1.2 wypożyczyłem
+Olympus 25/1.2 wypożyczyłem sam płacąc za niego. Olympus 17/1.2 wypożyczyłem
 od Olympus Polska bezpłatnie. Napisanie recenzji nie było konieczne.
 
 Wszystkie zdjęcia zostały "wywołane" w Darktable. Do 17/1.2,
 gdyż jest to rok nowszy obiektyw, nie mialem
 jeszcze odpowiednich profili korekcji obiektywu.
 
-Zdjęcia będę wybierał tak jak zawsze - te które mi się najbardziej
+Zdjęcia będę wybierał tak jak zawsze wybieram - te które mi się najbardziej
 podobają. Jeżeli zauważę wady to o nich postaram się napisać.
 
-## Szczegóły
-
-### Zbieranie informacji
+## Zbieranie informacji
 
 Bardzo dużo czytałem o dostępnych obiektywach, zwłaszcza tych z serii Pro.
-Widziałem kilka razy opinię na forach, że Olympus 12-40/2.8 można
+Widziałem kilka razy opinię na forach, iż Olympus 12-40/2.8 można
 traktować jako zamiennik obiektywów stałogniskowych. Testy na
 [optyczne.pl][optyczne-12-40] i [DxO][dxo-12-40] udowadniaja to.
 Zdziwiłem się, jak to jest możliwe że zoomy są lepsze od stałoogniskowych?
 
-Analizując dostępne informacje doszedłem do wniosku, że serio PRO wyróźnia się od
+Analizując dostępne informacje doszedłem do wniosku, że seria PRO wyróźnia się od
 reszty obiektywów.
 Obiektywy te nie są małe i lekkie (taki z założenia miał być format M43)
-ale mają być one optycznie bardzo dobre, najlepsze to co jest możliwe.
+ale mają być one optycznie bardzo dobre, najlepsze z tego co jest możliwe.
 Gdyby analogiczne obiektywy miały być zrobione dla APS-C albo pełnej klatki byłyby one
-nieporęczne (to moja opinia).
+nieporęczne (to moja opinia). Dlatego w tym wypadku "najlepsze" nie jest tylko
+słowem.
 
-To mnie przekonało do zakupu M1 mark II z 12-100/4.
+To (oraz stabilizacja) przekonało mnie do zakupu M1 mark II z 12-100/4.
 
-### Noc bez statywu
+## Noc bez statywu
 
 Udało mi się zrobić pojedyńcze zdjęcia 10-sekundowe
 (a 1 sekundowe bez problemu) korzystając z obiektywu 12-100/4.
 Zacząłem zastanawiać się, czy może jaśniejszy obiektyw byłby
 lepszy podczas nocnych zdjęć w mieście?
-Nadejdzie jesień, deszcze, a wtedy miasto wygląda ciekawiej gdy
-światła odbijaja się od ulic. Takie nocne zdjęcia bez konieczności
+Nadejdzie jesień, deszcze, a gdy
+światła odbijaja się od ulic
+wtedy miasto wygląda ciekawiej. Takie nocne zdjęcia bez konieczności
 chodzenia ze statywem to byłoby coś!
 
 Zacząłem zastanawiać się, jakie miałbym rezultaty z jaśniejszymi szkłami.
-Olympus ma kilka stałek. Jednak stałki z serii PRO są trochę ciężkie i drogie, ale
-wyjątkowe. Są one wyjątkowo jasne i oferują wyjątkową
-[roździelczość][optyczne-25-rozdz] optyczną przy
-w pełni otwartej przesłonie.
+Olympus ma kilka stałek. Jednak stałki z serii PRO są trochę ciężkie i drogie.
+Są one jasne i oferują wyjątkową
+[roździelczość][optyczne-25-rozdz] optyczną przy w pełni otwartej przesłonie.
 
-### Olympus 25/1.2
+## Olympus 25/1.2
 
 Tuż po zakupie zauważyłem, że [cyfrowe.pl otworzyło wypożyczalnie][cyfrowe-rent]
-a dwa tygodnie później, że można wypożyczyć nie tylko w ich siedzibie w Gdańsku.
+a dwa tygodnie później że można wypożyczyć nie tylko w ich siedzibie w Gdańsku.
 
 {% photo "\_8240075.jpg","Liście - Olympus 25/1.2 @ 1.2" %}
 
@@ -99,25 +98,25 @@ z jasnych stałoogniskowych Olympusów z serii PRO. Za wypożyczenie zapłaciłe
 
 Już same nieambitne zdjęcia liści bardzo mi się spodobały. Tło jest bardzo
 miło rozmyte. Robiłem również zdjęcia okolic osiedla z przesłoną 1.2
-i jestem zadowolony z ogólnej jakości.
+i jestem zadowolony z ogólnej roździelczości.
 
-#### Test w Poznaniu
+### Test w Poznaniu
 
 Ruszyłem wieczorem na Stary Rynek. Dość często przymykałem obiektyw gdyż chciałem
 doprowadzić do rozmycia poruszających się pojazdów, uzyskać pełniejszą ostrość
 albo "gwiazdy" z ulicznych świateł.
 
-{% photo "\_8240125.jpg","Tramwaj w ruchu - Olympus 25/1.2 @ f2.5" %}
+{% photo "\_8240125.jpg","Tramwaj w ruchu - Olympus 25/1.2 @ f2.5, 1/4 s" %}
 
 Robienie zdjęć poruszającym się pojazdom jest całkiem fajne.
 
-{% photo "\_8240135.jpg","Tramwaj w ruchu - Olympus 25/1.2 @ f2.8" %}
+{% photo "\_8240135.jpg","Tramwaj w ruchu - Olympus 25/1.2 @ f2.8, 1 s" %}
 
 Dotarłem w okolicę rynku. Poniższe zdjęcie zrobiłem z przesłoną 1.2
 
 {% photo "\_8240149.jpg","Okolica rynku - Olympus 25/1.2 @ f1.2, 0.4s" %}
 
-Ruszyłem na sam Stary Rynek. Jest sporo ciekawie oświetlonych budynków.
+Ruszyłem na sam Stary Rynek. Jest tam sporo ciekawie oświetlonych budynków.
 Przed kupnem Olympusa nigdy nie zgadłbym z jakimi parametrami poniższe zdjęcie
 zostało zrobione.
 
@@ -128,13 +127,13 @@ Nie muszę chodzić ze statywem ani podbijać ISO. Oczywiście osoby, które rob
 zdjęcia w ruchu mają inne priorytety. Jednak nie będę o tym tutaj pisał
 gdyż się tym tak nie interesuję.
 
-{% photo "\_8240180.jpg","Okolica Wrocławskiej - Olympus 25/1.2 @ f1.2, 0.5s" %}
+{% photo "\_8240180.jpg","Okolica ulicy Wrocławskiej - Olympus 25/1.2 @ f1.2, 0.5s" %}
 
 Ustawiając wysoką (liczba) przysłonę pojawiają się "gwiazdy".
 
 {% photo "\_8250200.jpg","Szymanowskiego - Olympus 25/1.2 @ f13, 3s, ISO 1000" %}
 
-#### Test we Wrocławiu
+### Test we Wrocławiu
 
 Tutaj podobnie chciałem przetestować w okolicy rynku.
 
@@ -152,13 +151,13 @@ Idealnie nadaje się na nocne zdjęcia.
 
 {% photo "\_8250161.jpg","Brama, Wrocław - Olympus 25/1.2 @ f1.8, 1/3 s" %}
 
-#### Roździelczość
+### Roździelczość
 
 To co obiektyw ten robi na "pełnej dziurze" jest niesamowite!
 Zauważam lepszą ostrość gdy go przymknę do f2 jednak rezultaty od f1.2
 są bardzo dobre!
 
-#### Bokeh
+### Bokeh
 
 W praktyce zdjęcia "portretowe" robię tylko kotom. Z jednej strony zauważyłem
 gładkość "pierzastego" bokeh a z drugiej ograniczenia matrycy M43.
@@ -166,7 +165,7 @@ gładkość "pierzastego" bokeh a z drugiej ograniczenia matrycy M43.
 Tylko jak duże rozmycie jest faktycznie potrzebne? Dowiedziałem się o
 manualnym Kamlanie 50/1.1, który może też będę mógł przetestować.
 
-### Olympus 17/1.2
+## Olympus 17/1.2
 
 Po rozmowie z kolegą z pracy, który posiada Sony A7III i który mocno mnie
 przekonywał nad wyższością ekwiwalentu 35mm nad 50mm, postanowiłem, że
@@ -183,7 +182,7 @@ na nim on już nie był dostępny.
 {% photo "\_9200059.jpg","Okolice Okrąglaka - Olympus 17/1.2 @ f3.5, 1 s" %}
 
 Okazało się, że jest dostępny Olympus 17/1.2 który zamówiłem do testów.
-Wypożyczenie jest bezpłatne, Olympus zapłacił za kuriera. Podczas ustaleń
+Wypożyczenie było bezpłatne, Olympus zapłacił za kuriera. Podczas ustaleń
 nie było ustalane, że mam napisać recenzję. Recenzję
 napisałbym i tak gdyż uważam, że warto przedstawić moje doświadczenia.
 
@@ -192,7 +191,7 @@ napisałbym i tak gdyż uważam, że warto przedstawić moje doświadczenia.
 Wszystko co spodobało mi się w 25/1.2 występuje również w 17/1.2. Będę tutaj pisał
 subiektywne różnice, które pojawiły się podczas testów.
 
-##### Test w Poznaniu
+### Test w Poznaniu
 
 Ponownie ruszyłem na Stary Rynek.
 
@@ -213,18 +212,18 @@ inne jasne obiektywy.
 
 {% photo "\_9200135.jpg","Urząd miasta - Olympus 17/1.2 @ f1.6, 1/6 s" %}
 
-#### Testy na kotach
+### Testy na kotach
 
 Nie robię zdjęć ludziom. Wszystkie poniższe zdjęcia były zrobione z
 przesłoną 1.2.
 
-W przypadku 17mm należy być blisko kota. Często wtedy zauważają i zaczynają
-zachowywać się inaczej. Z separacją tła nie ma problemu. Tylko sama
+W przypadku 17mm należy być blisko kota. Często wtedy to zauważają i zaczynają
+zachowywać się inaczej, podchodzić. Z separacją tła nie ma problemu. Tylko sama
 głowa jest ostra.
 
 {% photo "07_26__9300221.jpg","Kot Jaś - Olympus 17/1.2" %}
 
-W przypadku zdjęć głowy widać zniekształcenie związane z małą odległością.
+W przypadku zdjęć głowy widać zniekształcenie związane z małą odległością i ogniskową.
 
 {% photo "07_29__9300243.jpg","Kot Jaś - Olympus 17/1.2" %}
 
@@ -233,7 +232,7 @@ Widać tutaj ładne rozmycie tła.
 
 {% photo "07_40__9300322.jpg","Próba macro - Olympus 17/1.2" %}
 
-Jeżeli ktoś lubie "portrety środowiskowe", gdzie tło jest bardzo istotną
+Jeżeli ktoś lubi "portrety środowiskowe", gdzie tło jest bardzo istotną
 częścią zdjęcia to ogniskowa 35mm (dla pełnej klatki) powinna być idealna.
 
 {% photo "07_40__9300325.jpg","Kot Jaś - Olympus 17/1.2" %}
@@ -248,12 +247,12 @@ Kilka zdjęć zrobiłem w dość ciemnym budynku.
 
 {% photo "07_59__9300456_02.jpg","Kot Jaś - Olympus 17/1.2, ISO 3200" %}
 
-Robiąc zdjęcia 17mm częściej trzeba podejść bliżej i otoczenie obiektu
-jest jeszcze istotniejsze.
+Robiąc zdjęcia 17mm częściej konieczne jest podejście bliżej i otoczenie obiektu
+jest jeszcze bardziej istotne.
 
 {% photo "12_44__9300047.jpg","Kot Gosiek - Olympus 17/1.2" %}
 
-#### Ogniskowa
+### Ogniskowa
 
 Niby jest to oczywiste - ogniskowa. Jednak testując oba modele osobiście
 dopiero zauważyłem pewne istotne, jednak subtelne, różnice. Osobiście lepiej
@@ -269,20 +268,21 @@ z przesłoną 1.2.
 {% photo "\_9200150.jpg","Ulica Wrocławskia - Olympus 17/1.2 @ f2.2, 1.7s" %}
 
 Oba zdjęcia zrobiłem w okolicy pasów przy początku ulicy Wrocławskiej.
-Osobiście bardziej mi się podoba zdjęcie 25mm chociaż 17mm jest technicznie
+Osobiście bardziej mi się podoba zdjęcie 25mm chociaż 17mm technicznie
 ma lepszą jakość.
 
-#### Bokeh
+### Bokeh
 
 Separacja tła jest wyraźnie słabsza. Jednym z celów,
 do czego chce wykorzystać jasny obiektyw, jest rozmycie miejskich świateł
-(uliczne, kolorowe-sygnały). Zawsze 17mm będzie gorzej separowało tło.
+(uliczne, kolorowe-sygnały). Zawsze 17mm będzie gorzej rozmywało tło.
 
-#### Stabilizacja
+### Stabilizacja
 
 Mam wrażenie, że zgodnie z szerszą ogniskową łatwiej jest robić zdjęcia z dłuższym
-naświetlaniem. Robiąc zdjęcia w centrum [Poznania][wiki-poznan] jest miasto
-na tyle oświetlone, że często musiałem przymykać przesłonę (zakładając ISO 200).
+naświetlaniem. Robiąc zdjęcia w centrum [Poznania][wiki-poznan] miasto jest
+na tyle oświetlone, że często musiałem przymykać przesłonę (zakładając ISO 200)
+aby rozmyć ruch.
 
 {% photo "\_9200167.jpg","Tramwaj w ruchu - Olympus 17/1.2 @ f2.2, 1/2s" %}
 
@@ -293,12 +293,13 @@ z ręki jest czystą przyjemnością.
 
 Nie. Przetestowałem 45/1.8 i trudno mi było użyć ten obiektyw w fotografii,
 na której zależy mi najbardziej. Chociaż nie mialem okazji jeszcze użyć go
-przy fotografii kotów.
+przy fotografii kotów więc ostatecznie nie przekreślam go. Uważam jednak, że
+25mm będzie dla mnie najbardziej przydatne.
 
 ### Panasonic Leica 25/1.4
 
-Udało mi się kupić używaną w bardzo dobrej cenie. Nie miałem czasu jeszcze jej
-przetestować dobrze ale postaram się to zrobić i wtedy bym zaktualizował ten wpis.
+Udało mi się kupić używany w bardzo dobrej cenie. Nie miałem czasu jeszcze go
+przetestować dobrze ale postaram się to zrobić i wtedy zaktualizuję ten wpis.
 
 <!--
 
