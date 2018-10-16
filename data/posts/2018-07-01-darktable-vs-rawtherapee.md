@@ -76,7 +76,8 @@ a następnie zaznaczyć nieedytowane i odwrócić zaznaczenie.
 zmiennoprzecinkowych (po kliknięciu prawym przyciskiem).
 Umożliwia to dokładniejsze ustawienie niż korzystanie z suwaka.
 
-Chyba nie można wpisywać ręcznie parametrów. Można tworzyć presety dla danego modułu.
+Po kliknięciu prawym przyciskiem można wpisywać ręcznie wpisując w tym
+momencie liczbę.
 
 ### Presety modułów
 

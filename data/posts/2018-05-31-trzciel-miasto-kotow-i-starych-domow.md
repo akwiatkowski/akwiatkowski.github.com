@@ -27,6 +27,7 @@ pois:
 
 [wiki-linia-373]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_373
 [wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
+[wiki-obra]: https://pl.wikipedia.org/wiki/Obra_(rzeka)
 
 ## Wstęp
 
