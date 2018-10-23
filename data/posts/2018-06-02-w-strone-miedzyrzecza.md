@@ -28,30 +28,63 @@ pois:
 
 ## Wstęp
 
+Skończyła się nam rezerwacja w [Trzcielu][wiki-trzciel] i nie mogliśmy jej przedłużyć
+gdyż było tam jakieś wesele. Udało mi się znaleźć nocleg w
+[Głębokiem][wiki-glebokie] obok [Międzyrzecza][wiki-miedzyrzecz] więc
+wystarczyło się tylko tam dostać.
+
 ## Szczegóły
 
-TODO:
+Pogoda była bardzo niepewna. W nocy miało w nocy padać a za dnia miały być burze
+i silne opady deszczu już od godziny 12-tej.
 
-* skończyła się rezerwacja
-* znalazłem nowy nocleg w Głębokiem
-* pogoda była bardzo niepewna, miało w nocy padać a za dnia burze i silne opady już od 12-tej
-* ruszyliśmy przez Trzciel i Rybojady
-* żółtym szlakiem rowerowym przez las
-* zadecydował aby na skrzyżowaniu jechać czarnym - miała być polana
-* dużo piasku, znowu
-* droga 137 z prawie zerowym ruchem
-* skręciliśmy w Żydowie jadąc do Bukowca
-* na stacje dojechaliśmy 20 minut przed odjazdem
-* wybraliśmy dojazd koleją, zostało 18km rowerem ale już jechałem, zaczęło padać i inne problemy techniczne
-* do nowej bazy było niewiele, ponad 1km
-* chcieliśmy sprawdzić restauracje, którą widziałem na mapach google (jaka nazwa?)
-* ale budynek zaniedbany, klimatyczna ruina
-* miejscowość zdecydowanie wypoczynkowa, sporo ludzi na plaży
-* grzmoty, nie wiedziałem czy ruszyć czy czekać
-* o 16 ruszyłem pomimo ostatniego głośnego grzmotu o 15:50
-* ruszyłem drogą alternatywną do S3 na północ do Rojewa
-* jechało się bardzo przyjemnie, minimalny ruch, idealny asfalt
-* chciałem jechać przez Kalsko
-* wjechałem na drogę gruntową, która zamieniła się w piasek
-* przejechałem 3km i wróciłem, nie chciałem się męczyć później podczas powrotu
-* nie udało mi się zaliczyć gminy Przytoczna
+Tą samą drogą co
+[wracaliśmy wczoraj]({% post_url 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa %}),
+czyli przez [Trzciel][wiki-trzciel] i [Rybojady][wiki-rybojady].
+
+Pomimo tego że już kilka razy jechaliśmy przez centrum i tak mi się ono podoba.
+Chociaz okolica sklepu w [Rybojadach][wiki-rybojady] mi się bardziej podobała
+podczas deszczu.
+
+Jechaliśmy żółtym szlakiem rowerowym przez las. Na skrzyżowaniu
+zadecydowałem aby skręcić i jechać czarnym. Według mapy powinien być on
+poprowadzony przez więcej polan. Niestety ponownie spotkaliśmy się z piaskiem.
+
+Zbliżając się do drogi 137 w okolicy [Sierczynka][wiki-sierczynek] widzieliśmy
+kilka ładnych budynków z czerwonej cegły. Oraz faktycznie zamiast lasu mieliśmy
+obok drogi pola. To była słuszna decyzja.
+
+Dojechaliśmy bezpośrednio do drogi 137. Jest to droga wojewódzka jednak ruch
+na niej był prawie zerowy.
+
+Skręciliśmy w lewo do [Żydowa][wiki-zydowo]. Naszym celem był [Bukowiec][wiki-bukowiec]
+a dokładniej stacja [Bukowiec Międzyrzecki][wiki-bukowiec-miedzyrzecki].
+Przez sam [Bukowiec][wiki-bukowiec]
+przejechałem w [kwietniu]({% post_url 2018-04-04-pierwszy-dzien-lata-tej-wiosny %}).
+Niepewność pogody oraz inne drobne problemy przekonały nas, że lepiej podjechać
+pociągiem, skoro pasował on nam idealnie.
+
+Gdzieś po drodze zauważyłem motyla. Zatrzymałem się i tak jest główne zdjęcie
+tego wpisu.
+
+Na [stacje][wiki-bukowiec-miedzyrzecki] dojechaliśmy 20 minut przed odjazdem.
+
+Do nowej bazy ze stacji kolejowej [Głębokie Międzyrzeckie][wiki-glebokie-miedzyrzeckie]
+było niewiele ponad 1km.
+
+Chcieliśmy sprawdzić restauracje, którą widziałem na mapach google (TODO jaka nazwa?)
+ale budynek był klimatyczną ruiną.
+
+Miejscowość [Głębokie][wiki-glebokie] jest zdecydowanie wypoczynkowa.
+Na plaży było bardzo dużo ludzi.
+
+W oddali słyszałem grzmoty. Nie wiedziałem czy ruszyć czy czekać.
+O 16 ruszyłem pomimo tego, że ostatni głośny grzmot był o 15:50.
+
+Ruszyłem drogą alternatywną do S3 na północ do [Rojewa][wiki-rojewo].
+Jechało się bardzo przyjemnie, minimalny ruch, idealny asfalt.
+
+Chciałem jechać przez [Kalsko][wiki-kalsko]. Wjechałem na drogę gruntową, która
+zamieniła się w piasek. Przejechałem z 3km i wróciłem. Nie chciałem się męczyć
+później podczas powrotu. Nie udało mi się zaliczyć gminy
+[Przytoczna][wiki-przytoczna-gmina].
