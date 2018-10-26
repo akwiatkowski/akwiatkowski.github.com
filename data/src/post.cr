@@ -8,8 +8,8 @@ class Tremolite::Post
 
   MAX_RELATED_POSTS = 5
 
-  IMAGE_FORMAT_APSC = :apsc
-  IMAGE_FORMAT_M43 = :m34
+  IMAGE_FORMAT_APSC    = :apsc
+  IMAGE_FORMAT_M43     = :m34
   DEFAULT_IMAGE_FORMAT = IMAGE_FORMAT_APSC
 
   def custom_initialize
@@ -250,7 +250,7 @@ class Tremolite::Post
   end
 
   def all_photo_entities
-    [ @head_photo_entity.not_nil! ] + @photo_entities.not_nil!
+    [@head_photo_entity.not_nil!] + @photo_entities.not_nil!
   end
 
   def related_coords : Array(Tuple(Float64, Float64))

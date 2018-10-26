@@ -118,7 +118,7 @@ class Tremolite::Views::BaseView
       "img.title"         => desc,
       "img.size"          => (image_size(url) / 1024).to_s + " kB",
       "img_full.src"      => "/images/#{post.year}/#{post.slug}/#{image_filename}",
-      "img.is_in_gallery" => is_gallery.to_s
+      "img.is_in_gallery" => is_gallery.to_s,
     }
     return load_html("post/post_image_partial", data)
   end

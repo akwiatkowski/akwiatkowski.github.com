@@ -28,7 +28,6 @@ struct PhotoEntity
     @is_gallery = true,
     @is_header = false
   )
-
     if param_string.includes?(FLAG_NOGALLERY)
       @is_gallery = false
     end
@@ -53,7 +52,6 @@ struct PhotoEntity
     return data
   end
 
-
   def processed_img_path(prefix)
     Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
@@ -68,5 +66,4 @@ struct PhotoEntity
   private def generate_full_image_src
     "/images/#{@post.time.year.as(Int32)}/#{@post.slug}/#{@image_filename}"
   end
-
 end

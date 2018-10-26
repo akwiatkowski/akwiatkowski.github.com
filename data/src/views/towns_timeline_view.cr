@@ -60,7 +60,7 @@ class TownsTimelineView < PageView
 
   private def month_content(time : Time, previous_self_propelled : Int32) : String
     if (@self_propelled[time]?.nil? || @self_propelled[time].size == 0) &&
-      (@vehicle_propelled[time]?.nil? || @vehicle_propelled[time].size == 0)
+       (@vehicle_propelled[time]?.nil? || @vehicle_propelled[time].size == 0)
       return ""
     end
 
@@ -100,7 +100,7 @@ class TownsTimelineView < PageView
       data["town.slug"] = town_entity.slug
       data["town.name"] = town_entity.name
       data["class"] = "timeline-self-propelled"
-      data["count"] = (i+1).to_s
+      data["count"] = (i + 1).to_s
       s += load_html("towns_timeline/town", data)
     end
 
@@ -109,7 +109,7 @@ class TownsTimelineView < PageView
       data["town.slug"] = town_entity.slug
       data["town.name"] = town_entity.name
       data["class"] = "timeline-vehicle-propelled"
-      data["count"] = (i+1).to_s
+      data["count"] = (i + 1).to_s
       s += load_html("towns_timeline/town", data)
     end
 
@@ -186,8 +186,7 @@ class TownsTimelineView < PageView
         # don't add vehicle_propelled if was already added
         # by self_propelled
         unless @vehicle_propelled_array.includes?(town_entity) ||
-          @self_propelled_array.includes?(town_entity)
-
+               @self_propelled_array.includes?(town_entity)
           unless @vehicle_propelled[formatted_time].includes?(town_entity)
             @vehicle_propelled[formatted_time] << town_entity
           end
