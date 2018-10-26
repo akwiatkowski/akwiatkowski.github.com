@@ -4,7 +4,6 @@ require "./models/land_type_entity"
 require "./models/land_entity"
 require "./models/transport_poi_entity"
 require "./models/todo_route_entity"
-require "./models/post_image_entity"
 
 class Tremolite::DataManager
   def custom_initialize
@@ -16,7 +15,6 @@ class Tremolite::DataManager
     @lands = Array(LandEntity).new
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
-    @post_image_entities = Array(PostImageEntity).new
   end
 
   getter :tags
@@ -83,14 +81,6 @@ class Tremolite::DataManager
       o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!, logger: @logger)
       @todo_routes.not_nil! << o
     end
-  end
-
-  def add_post_image_entity(post : Tremolite::Post, desc : String, image : String)
-    @post_image_entities.not_nil! << PostImageEntity.new(
-      post: post,
-      image: image,
-      desc: desc
-    )
   end
 
   private def load_town_yaml(f)

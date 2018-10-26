@@ -22,8 +22,8 @@ class Tremolite::Views::BaseView
     if result.size > 0 && post
       return post_photo(
         post: post,
-        image: result[0][1],
-        alt: result[0][2],
+        image_filename: result[0][1],
+        desc: result[0][2],
         param_string: result[0][3]
       )
     end
@@ -33,33 +33,31 @@ class Tremolite::Views::BaseView
     if result.size > 0 && post
       return post_photo(
         post: post,
-        image: result[0][1],
-        alt: result[0][2],
+        image_filename: result[0][1],
+        desc: result[0][2],
         param_string: ""
       )
     end
 
-    # basic with size
+    # XXX deprecated, basic with size
     result = command.scan(/post_image\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
-      return post_image(
+      return post_photo(
         post: post,
-        size: result[0][1],
-        image: result[0][2],
-        alt: result[0][3],
-        gallery: true
+        image_filename: result[0][2],
+        desc: result[0][3],
+        param_string: "#{PhotoEntity::FLAG_NOGALLERY}"
       )
     end
 
-    # deprecated
+    # XXX deprecated
     result = command.scan(/post_image_no_gallery\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
-      return post_image(
+      return post_photo(
         post: post,
-        size: result[0][1],
-        image: result[0][2],
-        alt: result[0][3],
-        gallery: false
+        image_filename: result[0][2],
+        desc: result[0][3],
+        param_string: "#{PhotoEntity::FLAG_NOGALLERY}"
       )
     end
 
@@ -88,41 +86,50 @@ class Tremolite::Views::BaseView
     return nil
   end
 
-  FLAG_NOGALLERY = "nogallery"
+  def post_photo(post : Tremolite::Post, image_filename : String, desc : String, param_string : String)
+    # create entity instance
+    photo_entity = PhotoEntity.new(
+      post: post,
+      desc: desc,
+      image_filename: image_filename,
+      param_string: param_string
+    )
 
-  def post_photo(post : Tremolite::Post, image : String, alt : String, param_string : String)
-    gallery = true
-
-    if param_string.includes?(FLAG_NOGALLERY)
-      gallery = false
-    end
+    post.photo_entities.not_nil! << photo_entity
 
     return post_image(
-      post: post,
-      size: "medium",
-      image: image,
-      alt: alt,
-      gallery: gallery
+      photo: photo_entity,
+      size: "medium"
     )
   end
 
-  def post_image(post : Tremolite::Post, size : String, image : String, alt : String, gallery : Bool)
+  def post_image(photo : PhotoEntity, size : String)
+    post_image(
+      post: photo.post,
+      size: size,
+      image_filename: photo.image_filename,
+      desc: photo.desc,
+      is_gallery: photo.is_gallery
+    )
+  end
+
+  def post_image(post : Tremolite::Post, size : String, image_filename : String, desc : String, is_gallery : Bool)
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
       post_year: post.year,
       post_month: post.time.month,
       post_slug: post.slug,
       prefix: size,
-      file_name: image
+      file_name: image_filename
     )
 
-    add_post_photo_to_gallery(post: post, image: image, desc: alt) if gallery
     data = {
       "img.src"           => url,
-      "img.alt"           => alt,
+      "img.alt"           => desc,
+      "img.title"         => desc,
       "img.size"          => (image_size(url) / 1024).to_s + " kB",
-      "img_full.src"      => "/images/#{post.year}/#{post.slug}/#{image}",
-      "img.is_in_gallery" => gallery.to_s,
+      "img_full.src"      => "/images/#{post.year}/#{post.slug}/#{image_filename}",
+      "img.is_in_gallery" => is_gallery.to_s
     }
     return load_html("post/post_image_partial", data)
   end

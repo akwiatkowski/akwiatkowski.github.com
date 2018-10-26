@@ -1,8 +1,11 @@
 require "./models/poi_entity"
+require "./models/photo_entity"
 
 alias TremolitePostRouteObject = Hash(String, (String | Array(Array(Float64))))
 
 class Tremolite::Post
+  @head_photo_entity : (PhotoEntity | Nil)
+
   MAX_RELATED_POSTS = 5
 
   IMAGE_FORMAT_APSC = :apsc
@@ -31,6 +34,8 @@ class Tremolite::Post
     @nogallery = false
     # some new posts have phtos taken by M43/Olympus camera
     @image_format = DEFAULT_IMAGE_FORMAT
+
+    @photo_entities = Array(PhotoEntity).new
   end
 
   BICYCLE_TAG           = "bicycle"
@@ -51,6 +56,8 @@ class Tremolite::Post
   getter :distance, :time_spent
   getter :image_filename, :nogallery
   getter :finished_at
+
+  property :photo_entities
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -209,12 +216,24 @@ class Tremolite::Post
     if @header["image_filename"]?
       @image_filename = @header["image_filename"].to_s
       @image_filename = @image_filename.not_nil!.gsub(/\.jpg/, "") + ".jpg"
+    else
+      @image_filename = "header.jpg"
     end
 
     # nogallery
     if @header["nogallery"]?
       @nogallery = true
     end
+
+    # set head_photo_entity
+    @head_photo_entity = PhotoEntity.new(
+      image_filename: @image_filename.not_nil!,
+      desc: @title,
+      is_gallery: (@nogallery == false),
+      post: self,
+      param_string: "",
+      is_header: true
+    )
 
     if @header["image_format"]? && @header["image_format"]?.to_s == IMAGE_FORMAT_M43.to_s
       @image_format = IMAGE_FORMAT_M43
@@ -228,6 +247,10 @@ class Tremolite::Post
         location: Time::Location.load_local
       ).as(Time)
     end
+  end
+
+  def all_photo_entities
+    [ @head_photo_entity.not_nil! ] + @photo_entities.not_nil!
   end
 
   def related_coords : Array(Tuple(Float64, Float64))
@@ -292,15 +315,16 @@ class Tremolite::Post
     )
   end
 
+  # XXX refactor
   def small_image_url
-    processed_image_url(PostImageEntity::SMALL_PREFIX)
+    @head_photo_entity.not_nil!.small_image_src
   end
 
   def big_thumb_image_url
-    processed_image_url(PostImageEntity::BIG_THUMB_PREFIX)
+    @head_photo_entity.not_nil!.big_thumb_image_src
   end
 
   def thumb_image_url
-    processed_image_url(PostImageEntity::THUMB_PREFIX)
+    @head_photo_entity.not_nil!.thumb_image_src
   end
 end

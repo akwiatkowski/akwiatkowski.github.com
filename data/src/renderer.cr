@@ -19,6 +19,7 @@ require "./views/year_stat_report_view"
 require "./views/gallery_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
+require "./views/timeline_list_view"
 
 require "./views/payload_json_generator"
 require "./views/rss_generator"
@@ -48,6 +49,7 @@ class Tremolite::Renderer
     render_summary_page
     render_year_stat_reports_pages
     render_gallery
+    render_timeline_list
 
     render_sitemap
     render_robot
@@ -323,6 +325,11 @@ class Tremolite::Renderer
 
   def render_gallery
     view = GalleryView.new(blog: @blog)
+    write_output(view)
+  end
+
+  def render_timeline_list
+    view = TimelineList.new(blog: @blog)
     write_output(view)
   end
 

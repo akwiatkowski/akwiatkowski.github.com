@@ -1,12 +1,11 @@
 class GalleryView < PageView
   def initialize(@blog : Tremolite::Blog)
-    all_posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    @all_posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
     # only w/o "nogallery" flag and only trips
-    @posts = all_posts.select { |p|
-      p.gallery? && p.trip?
+    @posts = @all_posts.select { |p|
+      p.trip?
     }.as(Array(Tremolite::Post))
     @data_manager = @blog.data_manager.not_nil!.as(Tremolite::DataManager)
-    @post_image_entities = @data_manager.post_image_entities.not_nil!.as(Array(PostImageEntity))
 
     @image_url = @blog.data_manager.not_nil!["gallery.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["gallery.title"].as(String)
@@ -56,28 +55,10 @@ class GalleryView < PageView
   def post_images(post)
     s = ""
 
-    data = Hash(String, String).new
-    data["klass"] = "gallery-header-image"
-    data["post.url"] = post.url
-    data["img.src"] = post.big_thumb_image_url.not_nil!
-    data["img.alt"] = post.title
-    data["post.title"] = post.title
-    data["img.url"] = post.image_url
-    data["img.size"] = "" # TODO
-    s += load_html("gallery/gallery_post_image", data)
-
-    post_images_string = ""
-    images = @post_image_entities.select { |pie| pie.post_slug == post.slug }
-    images.each do |image|
-      data = Hash(String, String).new
-      data["klass"] = "gallery-regular-image"
-      data["post.url"] = post.url
-      data["img.src"] = image.big_thumb_image_src
-      data["img.alt"] = image.desc
-      data["img.size"] = image.full_image_size.to_s
-      data["post.title"] = post.title
-      data["img.url"] = image.full_image_src
-      s += load_html("gallery/gallery_post_image", data)
+    post.all_photo_entities.each do |photo_entity|
+      if photo_entity.is_gallery
+        s += load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
+      end
     end
 
     return s
