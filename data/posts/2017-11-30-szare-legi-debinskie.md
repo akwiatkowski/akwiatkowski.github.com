@@ -37,20 +37,20 @@ były wyładowane.
 Zrobiłem kilka zdjęć poruszającym się kaczkom. Do wszystkich zdjęć wykorzystywałem
 filtr szary zmienny.
 
-{% post_image "medium","IMGP3298raw1-1.jpg","Kaczki na Łęgach Dębińskich" %}
+{% photo "IMGP3298raw1-1.jpg","Kaczki na Łęgach Dębińskich" %}
 
 Okolice pierwszego mostu na mojej trasie.
 
-{% post_image "medium","IMGP3313raw1.jpg","Okolice pierwszego mostu" %}
+{% photo "IMGP3313raw1.jpg","Okolice pierwszego mostu" %}
 
 Moimi ulubionymi obiektami są częściowo zanurzone drzewa.
 
-{% post_image "medium","IMGP3324raw1.jpg","Częsciowo zanurzone drzewo" %}
+{% photo "IMGP3324raw1.jpg","Częsciowo zanurzone drzewo" %}
 
 Jesienny szlak wokół którego drzewa pozbyły się liści.
 
-{% post_image "medium","IMGP3330raw1.jpg","Jesienny szlak na Łęgach Dębińskich" %}
+{% photo "IMGP3330raw1.jpg","Jesienny szlak na Łęgach Dębińskich" %}
 
 Ostatnie zanurzone drzewo, któremu zrobiłem kilka zdjęć.
 
-{% post_image "medium","IMGP3333raw1.jpg","Częsciowo zanurzone drzewo" %}
+{% photo "IMGP3333raw1.jpg","Częsciowo zanurzone drzewo" %}

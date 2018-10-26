@@ -40,12 +40,12 @@ Jadąc na pętle [Leśnice][wiki-lesnice] tramwajem linii 20 mijałem:
 * pole między przystankiem Grabowa a Szpital
 * podmiejskie zabudowania
 
-{% post_image "medium","IMGP5957raw1.jpg","Obok pętli Leśnica" %}
+{% photo "IMGP5957raw1.jpg","Obok pętli Leśnica" %}
 
 Z pętli [Leśnice][wiki-lesnice] ruszyłem tramwajem linii 3 w
 stronę [Księże Małe][wiki-ksieze-male].
 
-{% post_image "medium","IMGP5985raw1.jpg","Tramwaj na pętli Księże Małe" %}
+{% photo "IMGP5985raw1.jpg","Tramwaj na pętli Księże Małe" %}
 
 Robiłem się głodny i chcąc szybko dojechać do centrum nie ruszałem się
 z pętli.

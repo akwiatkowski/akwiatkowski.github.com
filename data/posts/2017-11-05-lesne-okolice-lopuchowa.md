@@ -57,44 +57,44 @@ chwilę po godzinie 12-tej.
 Tuż przy stacji jest osiedle domów jednorodzinnych w budowie. Zaletą tego miejsca
 jest bliskość wspomnianej stacji oraz Jezioro Gackie.
 
-{% post_image "medium","IMGP2758raw1.jpg","Ogrodzona posesja" %}
+{% photo "IMGP2758raw1.jpg","Ogrodzona posesja" %}
 
 Poszliśmy na południowy-wschód około kilometr. Na skrzyżowaniu skręciliśmy
 w lewo i doszliśmy do pierwszego ciekawego miejsca -
 [struga Dzwonówka][wiki-dzwonowka]. Bardzo ciekawie wyglądały podmokłe drzewa
 po prawej (południowej) stronie.
 
-{% post_image "medium","IMGP2773raw1.jpg","Dzwonówka" %}
+{% photo "IMGP2773raw1.jpg","Dzwonówka" %}
 
 Dotarliśmy na początek [Sławicy][wiki-slawica]. Chcieliśmy dostać się
 nad Jezioro Gackie.
 
-{% post_image "medium","IMGP2796raw2.jpg","Wiewiórka w Sławicy" %}
+{% photo "IMGP2796raw2.jpg","Wiewiórka w Sławicy" %}
 
 W centrum wsi zobaczyliśmy wiewiórkę obok drzewa. Zanim żdążyłem zrobić
 jej zdjęcie ona zdażyła już na nie wejść. W tym momencie żałowałem, że nie
 wziąłem mojej Sigmy 150-500, gdyż mógłbym zrobić bardzo ciekawe zdjęcia
 wiewiórce.
 
-{% post_image "medium","IMGP2799raw1.jpg","Wiewiórka w Sławicy" %}
+{% photo "IMGP2799raw1.jpg","Wiewiórka w Sławicy" %}
 
 Szliśmy ulicą Gacką na północny-wschód i ostatecznie dotarliśmy nad
 jezioro. Widzieliśmy kilku wędkarzy łowiących
 ze swoich łódek.
 
-{% post_image "medium","IMGP2822raw1.jpg","Jezioro Gackie" %}
+{% photo "IMGP2822raw1.jpg","Jezioro Gackie" %}
 
 Wróciliśmy ponownie do centrum [Sławicy][wiki-slawica]. Idąc ulicą
 Dzwonowską dotarliśmy do Jeziora Borowego. Podczas opuszczania
 [Sławicy][wiki-slawica] minęliśmy dom z dobrym widokiem na to jezioro.
 
-{% post_image "medium","IMGP2833raw1.jpg","Idąc do centrum Sławicy" %}
+{% photo "IMGP2833raw1.jpg","Idąc do centrum Sławicy" %}
 
 Do Jeziora Pzince nie dotarliśmy. Woleliśmy iść jeszcze trochę
 na południe i dotrzeć do Jeziora Dzwonowskiego.
 Nazwa jego pochodzi od okolicznej miejscowości - [Dzwonowo][wiki-dzwonowo].
 
-{% post_image "medium","IMGP2857raw1.jpg","Jezioro Borowe" %}
+{% photo "IMGP2857raw1.jpg","Jezioro Borowe" %}
 
 Przy Jeziorze Dzwonowskim był trochę niepewny pomost.
 Zauważyliśmy, że pomostów dla rybaków jest tu więcej.
@@ -102,37 +102,37 @@ Zauważyliśmy, że pomostów dla rybaków jest tu więcej.
 Idąc na południe droga przez las była nieznacznie ciekawsza. Była
 ona z prawej (zachodniej) strony odsłonięta.
 
-{% post_image "medium","IMGP2889raw1.jpg","Słońce oświetlające las" %}
+{% photo "IMGP2889raw1.jpg","Słońce oświetlające las" %}
 
 Przed [Dzwonowem][wiki-dzwonowo] dotarliśmy do najciekawszego miejsca
 dzisiejszej trasy - do cmentarza ewangelickiego z XIX wieku.
 Więcej informacji można znaleźć [tutaj][dzwonowo1] i [tutaj][dzwonowo2]
 
-{% post_image "medium","IMGP2904raw1.jpg","Pomost przy Jeziorze Dzwonowskim" %}
+{% photo "IMGP2904raw1.jpg","Pomost przy Jeziorze Dzwonowskim" %}
 
 Przeszliśmy dopiero 8km, gdyby nie liczyć okolicy
 [Rezerwatu Żywca dziewięciolistnego][wiki-rezerwat-zywiec],
 to najciekawsze miejsca były już za nami.
 
-{% post_image "medium","IMGP2946raw1.jpg","Cmentarz ewangelicki w Dzwonowie" %}
+{% photo "IMGP2946raw1.jpg","Cmentarz ewangelicki w Dzwonowie" %}
 
 3km dalej dotarliśmy do [Głęboczka][wiki-gleboczek]. Przez tą wieś
 przejeżdzałem kiedyś rowerem.
 
-{% post_image "medium","IMGP2962raw2.jpg","Dom w Dzwonowie" %}
+{% photo "IMGP2962raw2.jpg","Dom w Dzwonowie" %}
 
 Słońce świeciło już na żółto oznajmiając zbliżający się zachód.
 Od tego momentu faktycznie wracaliśmy do stacji kolejowej.
 Ruszyliśmy na północ. Musieliśmy oszczędzać zabrane ze sobą jedzenie.
 
-{% post_image "medium","IMGP2981raw1.jpg","Docierając do Głęboczka" %}
+{% photo "IMGP2981raw1.jpg","Docierając do Głęboczka" %}
 
 Po przejściu kilometra skręciliśmy w lewo na zielony szlak pieszy,
 który to prowadzi przez [Rezerwat Żywca dziewięciolistnego][wiki-rezerwat-zywiec].
 Już prawie od razu widzimy urozmaicony teren - po lewej jest kilkumetrowe
 obniżenie.
 
-{% post_image "medium","IMGP3032raw1.jpg","Zachód nad Jeziorem Leśnym" %}
+{% photo "IMGP3032raw1.jpg","Zachód nad Jeziorem Leśnym" %}
 
 Docieramy nad ostatnie jezioro tego dnia - [Jezioro Leśne][wiki-jezioro-lesne].
 Przepływa przez nie [rzeka Trojanka][wiki-rzeka-trojanka].
@@ -142,7 +142,7 @@ Okazuje się, że skrót na mapię w rzeczywistości byłby nietrywialny do prze
 Postanowiliśmy, że przejdziemy dalej szlakiem w [rezerwacie][wiki-rezerwat-zywiec]
 aż do wejścia do wsi [Głębocko][wiki-glebocko].
 
-{% post_image "medium","IMGP3050raw1.jpg","Gromada saren" %}
+{% photo "IMGP3050raw1.jpg","Gromada saren" %}
 
 Robi się już ciemno. Skręcamy w prawo kierując się do
 [Łopuchówka][wiki-lopuchowko].

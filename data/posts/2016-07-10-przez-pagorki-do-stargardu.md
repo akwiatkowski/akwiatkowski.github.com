@@ -66,7 +66,7 @@ Pagórkowatych terenów w okolicy [Poznania][wiki-poznan] szukałem od dawna. Za
 pojawił mi się pomysł trasy z [Choszczna][wiki-choszczno] na południe i kiedyś już miałem
 zrealizować tą trasę, jednak wtedy wybrałem inną.
 
-{% post_image "medium","IMGP1991raw1.jpg","Klasyczne ujęcie drogi" %}
+{% photo "IMGP1991raw1.jpg","Klasyczne ujęcie drogi" %}
 
 Podczas tego weekendu pogoda w sobotę była daleka do odpowiedniej, ale
 niedziela zapowiadała się znacznie lepsza. Wybraliśmy się zobaczyć tą
@@ -117,7 +117,7 @@ duży blok na końcu wsi. Blok ten nie pasował do małej wioski.
 Przejechaliśmy przez [Sokólsko][wiki-sokolsko]. Tam z kolei było dość dużo
 starych domów. Według wikipedii wioski te były do 1945 roku miały [połączenie][wiki-pol-kolej] kolejowe.
 
-{% post_image "medium","IMGP1997raw1.jpg","Stare budynki w Żabicko" %}
+{% photo "IMGP1997raw1.jpg","Stare budynki w Żabicko" %}
 
 Bardzo szybko przejechaliśmy przez [Żabisko][wiki-zabicko]. Jest to mała wioska,
 za którą kończy się województwo [lubuskie][wiki-lubuskie] a zaczyna
@@ -128,7 +128,7 @@ przy wyjeżdzie były bloki, tym razem trzy. Tym razem wyjechaliśmy na zachód
 w kierunku [Będargowa][wiki-bedargowo]. Rozpoczęły się charakterystyczne dla tych
 regionów częste małe podjazdy i zjazdy.
 
-{% post_image "medium","IMGP2004raw1.jpg","Granica województwa lubuskiego z zachodniopomorskim" %}
+{% photo "IMGP2004raw1.jpg","Granica województwa lubuskiego z zachodniopomorskim" %}
 
 Po chwili znowu pola i kolejna wioska - [Trzęsacz][wiki-trzesacz]. A po nim
 jeszcze trochę do [Pełczyc][wiki-pelczyce].
@@ -141,7 +141,7 @@ widać, że kiedyś było tutaj połączenie kolejowe. Gdyby ono istniało dalej
 bym miał znacznie łatwiejszy dojazd do bardzo ciekawych terenów, które są
 w okolicy.
 
-{% post_image "medium","IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne" %}
+{% photo "IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne" %}
 
 Wyjeżdzając z [Pełczyc][wiki-pelczyce] na zachód dojechaliśmy do rozdroża.
 Na prawo przez [Jagów][wiki-jagow], a na lewo [Chrapowo][wiki-chrapowo].
@@ -149,14 +149,14 @@ Wcześniej na mapie ustaliłem, że pojedziemy na prawo, teraz widzę że gdyby�
 skręcili w lewo przejechalibyśmy przez [Niepołcko][wiki-niepolcko]. Trasa
 byłaby tam trudniejsza, ale moglibyśmy zobaczyć ciekawsze miejsca.
 
-{% post_image "medium","IMGP2094raw1.jpg","Owce w Jagowie" %}
+{% photo "IMGP2094raw1.jpg","Owce w Jagowie" %}
 
 Zjazd do [Jagowa][wiki-jagow] był bardzo ładny widokowo. Chciałem się zatrzymać
 aby zrobić zdjęcie, jednak sam zjazd mnie przekonał, abym tego nie robił.
 Tutaj były najciekawsze tereny podczas tego wyjazdu, zdecydowanie tu kiedyś
 powrócę.
 
-{% post_image "medium","IMGP2066raw2.jpg","Idealna droga na rower" %}
+{% photo "IMGP2066raw2.jpg","Idealna droga na rower" %}
 
 Czekał na nas teraz dojazd do [Laskówka][wiki-laskowko]. Sama droga aż do
 [Wołdowa][wiki-woldowo] była bardzo ładna. W okolicy płynie rzeka
@@ -168,7 +168,7 @@ mnie przystanek autobusowy na skrzyżowaniu dróg między [Gardźcem][wiki-gardz
 [Wołdowem][wiki-woldowo] i [Warszynem][wiki-warszyn]. Do każdej z tych miejscowości
 był on oddalony całkiem sporo - od 1 do 3km.
 
-{% post_image "medium","IMGP2155raw1.jpg","Widok na wieś Wołdowa" %}
+{% photo "IMGP2155raw1.jpg","Widok na wieś Wołdowa" %}
 
 Dojechaliśmy do ważniejszej drogi wiedząc, że na dziś już raczej kończymy
 przygodę z pagórkami. Minęliśmy rzekę [Płonie][wiki-rzeka-plonia] i wjeżdzaliśmy
@@ -185,7 +185,7 @@ gdyż mieliśmy jeszcze siły.
 w [Dolicach][wiki-dolice] skręciliśmy na zachód i cały czas jechaliśmy tą
 samą drogą.
 
-{% post_image "medium","IMGP2181raw1.jpg","Droga do Witkowa Pierwszego" %}
+{% photo "IMGP2181raw1.jpg","Droga do Witkowa Pierwszego" %}
 
 
 Powoli okolica stawała się bardziej podmiejska. Co się najbardziej rzuciło to

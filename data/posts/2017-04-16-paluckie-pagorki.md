@@ -77,7 +77,7 @@ prawo kierując się na północ, zgodnie ze znakami w kierunku
 Dojechaliśmy do centrum wsi [Wydartowo][wiki-wydartowo] gdzie
 skręciliśmy ponownie w prawo i jechaliśmy do centrum wsi [Duszno][wiki-duszno].
 
-{% post_image "medium","IMGP4256raw1.jpg","Widok w kierunku północnym z punktu widokowego Duszno" %}
+{% photo "IMGP4256raw1.jpg","Widok w kierunku północnym z punktu widokowego Duszno" %}
 
 Z samego [punktu widokowego][wiki-duszno-widokowy] mieliśmy tego dnia bardzo
 dobrą widoczność, nawet można było zauważyć
@@ -89,7 +89,7 @@ Wróciliśmy tą samą drogą do [Wydartowa][wiki-wydartowo]. Pojechaliśmy prze
 
 W [Ławkach][wiki-lawki] urodził się [Hipolit Ciegielski][wiki-cegielski].
 
-{% post_image "medium","IMGP4292raw1.jpg","Kopalnia soli w Palędziu Dolnym" %}
+{% photo "IMGP4292raw1.jpg","Kopalnia soli w Palędziu Dolnym" %}
 
 [Gołąbki][wiki-golabki] są w województwie wielkopolskim, ale z trzech stron
 graniczą z województwem kujawsko-pomorskim. Rozpoczyna się tam również
@@ -105,7 +105,7 @@ Jadąc na północ dotarliśmy do [Wymysłowa Szlacheckiego][wiki-wymyslowo-szla
 gdzie kończy się droga i zaczyna las. Nie pamiętam czy jest tam jakaś droga
 przez las, którą można spokojnie jechać rowerem.
 
-{% post_image "medium","IMGP4301raw1.jpg","Jezioro Palędzie" %}
+{% photo "IMGP4301raw1.jpg","Jezioro Palędzie" %}
 
 Wróciliśmy i jechaliśmy dalej do [Palędzia Kościelnego][wiki-paledzie-koscielne].
 Jest tam bardzo fajna górka z której jest widok na
@@ -116,7 +116,7 @@ miejscowości [Drewno][wiki-drewno] dlatego zaproponowałem abyśmy się tam uda
 Jest tam ciekawy zjazd w stronę Jeziora Drewienko (a raczej jego okolic),
 który kończy się w miejscowości [Belki][wiki-belki].
 
-{% post_image "medium","IMGP4333raw1.jpg","Jezioro Wieniec" %}
+{% photo "IMGP4333raw1.jpg","Jezioro Wieniec" %}
 
 Wracając pojechaliśmy przez [Wieniec][wiki-wieniec] w stronę [Mogilna][wiki-mogilno].
 Raczej niewiele ciekawego było na trasie. Już taka nieduża miejscowość jak
@@ -127,13 +127,13 @@ Nie pamiętam dokładnie co było w jakiej miejscowości, ale ogólnie oceniam
 te miejsca pozytywnie. Czasami z drogi widzieliśmy starą linię kolejową z
 [Mogilna][wiki-mogilno] do [Strzelna][wiki-strzelno].
 
-{% post_image "medium","IMGP4369raw1.jpg","Most kolejowy nad Jeziorem Pakoskim" %}
+{% photo "IMGP4369raw1.jpg","Most kolejowy nad Jeziorem Pakoskim" %}
 
 Zatrzymaliśmy się na skrzyżowaniu w [Kunowie][wiki-kunowo] i prosto poszliśmy
 w kierunku Jeziora Pakoskiego, chociaż może ono mieć w tym miejscu inną nazwę
 gdyż jezioro jest bardzo długie - około 20km długości.
 
-{% post_image "medium","IMGP4382raw1.jpg","Jaszczurka na moście kolejowym" %}
+{% photo "IMGP4382raw1.jpg","Jaszczurka na moście kolejowym" %}
 
 Najpierw poszedłem na wysokości torów i dotarłem na most. Ma on sporo dziur
 i nie był projektowany z myślą aby ludzie po nim chodzili, dlatego zachowałem
@@ -143,7 +143,7 @@ Cofnąłem się około stu metrów i poszedłem zobaczyć jak wygląda most z do
 Droga była trochę podmokła miejscami przez sąsiedztwo dużej ilości wody z
 Jeziora Pakoskiego.
 
-{% post_image "medium","IMGP4399raw1.jpg","Podmokła droga przez Jezioro Pakoskie" %}
+{% photo "IMGP4399raw1.jpg","Podmokła droga przez Jezioro Pakoskie" %}
 
 Teoretycznie da się przedostać bezpośrednio przez [Czerniak][wiki-czerniak],
 jednak jest to teren prywatny, mokry i bardzo terenowy. Z tego powodu

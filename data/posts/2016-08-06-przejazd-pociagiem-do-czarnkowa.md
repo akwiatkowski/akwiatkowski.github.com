@@ -66,13 +66,13 @@ Do pociągu wsiadłem na stacji Poznań Garbary. Od razu zauważyłem klimat
 miłośników kolei. Mi daleko zaangażowaniem do tych osób, ale mogę powiedzieć, że
 lubię kolej i to bardziej niż większość ludzi.
 
-{% post_image "medium","IMGP3723raw1.jpg","Jadąc 20km/h można spokojnie obserwować okolicę z okna" %}
+{% photo "IMGP3723raw1.jpg","Jadąc 20km/h można spokojnie obserwować okolicę z okna" %}
 
 Gdy większość osób najbardziej była zainteresowana infrastrukturą kolejową, ja
 obserwowałem teren wokół. Wiele razy już jechałem na tej trasie kolejowej,
 jednak są miejsca które zawsze mi się podobają.
 
-{% post_image "medium","IMGP3788raw1.jpg","Przejazd w Komarzewie" %}
+{% photo "IMGP3788raw1.jpg","Przejazd w Komarzewie" %}
 
 Za [Wągrowcem][wiki-wagrowiec] pociąg jechał już bardzo wolno. Na GPSie miałem 20km/h.
 Nie było to dla mnie problemem gdyż mogłem lepiej obserwować okolicę, chociaż
@@ -80,7 +80,7 @@ przez dłuższy czas za [Wągrowcem][wiki-wagrowiec] nie było wiele do obserwac
 Linia kolejowa mocno zarosła ponieważ (chyba) nic tam nie jeździ teraz. Wyglądało to
 jakby pociąg przedzierał się przez puszczę.
 
-{% post_image "medium","IMGP3800raw1.jpg","Snopki po żniwach" %}
+{% photo "IMGP3800raw1.jpg","Snopki po żniwach" %}
 
 Gdy minęliśmy lasy jechaliśmy wokół pól. Wioski były obok, ale były one bardzo małe
 i jakoś budynków niewiele widziałem.
@@ -88,13 +88,13 @@ Dopiero [Runowo][wiki-runowo] było "większą" miejscowością - posiadało
 swoją stację kolejową. Stacja ta teraz jest bardziej zapomniana niż
 ta cała linia kolejowa.
 
-{% post_image "medium","IMGP3810raw1.jpg","Uciekający pociąg" %}
+{% photo "IMGP3810raw1.jpg","Uciekający pociąg" %}
 
 Wyjechaliśmy z [Rogoźna][wiki-rogozno] i kierowaliśmy się do stacji
 w miejscowości [Ryczywół][wiki-ryczywol]. Po drodze widziałem trochę podobne
 do siebie tereny wielkopolskich wiosek.
 
-{% post_image "medium","IMGP3816raw1.jpg","Wjazd do Lubasza" %}
+{% photo "IMGP3816raw1.jpg","Wjazd do Lubasza" %}
 
 W [Ryczywole][wiki-ryczywol] przesiedliśmy się na autobus, którym teraz będziemy
 jechać robiąc zdjęcia pociągowi na stacjach oraz przy najciekawszych przejazdach.
@@ -102,14 +102,14 @@ Jak mam być szczery to linia kolejowa między [Sierakowem][wiki-sierakow]
 a [Szamotułami][wiki-szamotuly] jest ciekawsza pod względem infrastruktury,
 jednak nie można jej przejechać.
 
-{% post_image "medium","IMGP3826raw1.jpg","Patrząc w stronę Wielenia ze Szwajcarii Czarnkowskiej" %}
+{% photo "IMGP3826raw1.jpg","Patrząc w stronę Wielenia ze Szwajcarii Czarnkowskiej" %}
 
 Najciekawszym przystankiem na robienie zdjęć była Szwajcaria Czarnkowska.
 Zdziwiłęm się jak wysokie są tam górki. Gdybym wiedział co mnie czeka to ubrałbym
 lepsze buty, gdyż wejście i zejście po mokrej ziemii było bardzo trudne.
 Schodziłem prawie na czworakach a do tego zaczęło padać.
 
-{% post_image "medium","IMGP3875raw1.jpg","Pociąg wjeżdza do Czarnkowa" %}
+{% photo "IMGP3875raw1.jpg","Pociąg wjeżdza do Czarnkowa" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -127,31 +127,31 @@ dowiedziałem się historii mostu nad rzeką. Osobiście uważam, że coś brako
 Może wolałbym aby statek popłynął dalej na północ płynąć równolegle wokół
 wiosek albo może woda nie jest tym co mnie najbardziej interesuje.
 
-{% post_image "medium","IMGP3885raw1.jpg","Czarnków" %}
+{% photo "IMGP3885raw1.jpg","Czarnków" %}
 
 Wróciliśmy na dworzec i wsiadliśmy do pociągu. Gdyby się nam tego nie udało
 powrót byłby znacznie utrudniony.
 
-{% post_image "medium","IMGP3936raw1.jpg","Okolice Noteci" %}
+{% photo "IMGP3936raw1.jpg","Okolice Noteci" %}
 
 Ruszyliśmy pociągiem do stacji [Bzowo-Goraj][wiki-bzowo-goraj], gdzie pociąg
 musiał zmienić kierunek jazdy. Patrząc na mapę widać, że dalej tory
 biegły do stacji w [Drawskim Młynie][wiki-drawski-mlyn] obok [Krzyża][wiki-krzyz].
 
-{% post_image "medium","IMGP3955raw1.jpg","Wagon pasażerski" %}
+{% photo "IMGP3955raw1.jpg","Wagon pasażerski" %}
 
 Pogoda zaczęła się poprawiać i teraz prawie cały czas obserwowałem z okna okolicę.
 Pociąg poruszał się około 30km/h. Przy dobrej pogodzie te tereny są znacznie
 ładniejsze.
 
-{% post_image "medium","IMGP3976raw1.jpg","Okolice Lubasza" %}
+{% photo "IMGP3976raw1.jpg","Okolice Lubasza" %}
 
 Gdy minęliśmy [Rogoźno][wiki-rogozno] pojawiło się sporo chmur i w połowie
 drogi do [Wągrowca][wiki-wagrowiec] rozpoczęła się dość solidna burza.
 W samym [Wągrowcu][wiki-wagrowiec] burzy już nie było, za to widzieliśmy
 podwójną tęczę.
 
-{% post_image "medium","IMGP4014raw1.jpg","Tutaj kiedyś jechałem rowerem" %}
+{% photo "IMGP4014raw1.jpg","Tutaj kiedyś jechałem rowerem" %}
 
 W międzyczasie rozmawiałem o sprawach kolejowych, o tym co jest dobre i co jest
 złe. Mam nadzieje że wszystko powoli będzie się zmieniało w dobrym kierunku.
@@ -159,4 +159,4 @@ złe. Mam nadzieje że wszystko powoli będzie się zmieniało w dobrym kierunku
 W przyszłości skorzystam z kolejnych wydarzeń [Turkol.pl][turkol], głównie
 do [Kruszwicy][wiki-kruszwica] i [Międzychodu][wiki-miedzychod].
 
-{% post_image "medium","IMGP4062raw1.jpg","Przyspieszenie za Rogoźnem" %}
+{% photo "IMGP4062raw1.jpg","Przyspieszenie za Rogoźnem" %}

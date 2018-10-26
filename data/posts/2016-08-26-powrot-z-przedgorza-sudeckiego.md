@@ -45,7 +45,7 @@ Nocleg dał nam dużo energii na dalszą jazdę ("nic tu po nas").
 Tym razem opuszczaliśmy tereny
 pagórkowate i kierowaliśmy się na północ. Im bliżej do domu tym lepiej.
 
-{% post_image "medium","IMGP5085raw1.jpg","Pałac w Mrowinach" %}
+{% photo "IMGP5085raw1.jpg","Pałac w Mrowinach" %}
 
 Takim sensownym końcem trasy miał być [Żmigród][wiki-zmigrod]. Oczywiście było
 dużo opcji na skrócenie trasy z dowolnego powodu.
@@ -62,7 +62,7 @@ Musieliśmy oddać klucze od noclegu wiec jechaliśmy na wschód. Przy okazji
 było to w tym samym kierunku co [Zalew Mietkowski][wiki-zalew-mietkowski].
 Na mapie ten zbiornik wygląda bardzo okazale.
 
-{% post_image "medium","IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach" %}
+{% photo "IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach" %}
 
 
 Do [zalewu][wiki-zalew-mietkowski] dojechaliśmy przez [Siedlimowice][wiki-siedlimowice].
@@ -72,7 +72,7 @@ był nasz standardowy krajobraz, dlatego dokładniejsze opisy będę pomijał.
 Ranek był odpowiednio chłodny, jednak czuliśmy że tego dnia będzie wyraźnie
 cieplej niż dzień wcześniej.
 
-{% post_image "medium","IMGP5108raw1.jpg","Zalew Mietkowski" %}
+{% photo "IMGP5108raw1.jpg","Zalew Mietkowski" %}
 
 
 Ruszyliśmy na północ i przejechaliśmy przez [Imbramowice][wiki-imbramowice],
@@ -89,7 +89,7 @@ W miejscowości [Ciechów][wiki-ciechow] zrobiliśmy przerwę przed sklepem. Ju�
 w tym momencie, że dzisiaj będzie zbyt ciepło dla mnie. Chwila siedzenia w
 cieniu mi pomogła na szczęście.
 
-{% post_image "medium","IMGP5117raw1.jpg","Pomnik w Bogdanowie" %}
+{% photo "IMGP5117raw1.jpg","Pomnik w Bogdanowie" %}
 
 
 Chcieliśmy pojechać czerwonym szlakiem rowerowym, ale okazał się on zbyt zarośnięty.
@@ -105,7 +105,7 @@ szlakiem rowerowym na most do [Brzegu Dolnego][wiki-brzeg-dolny].
 Miejscowość ta określała przejazd istotnego fragmentu trasy. Wokół
 niej jest sporo szlaków rowerowych nad [Odrą][wiki-odra].
 
-{% post_image "medium","IMGP5135raw1.jpg","Brzeg Dolny" %}
+{% photo "IMGP5135raw1.jpg","Brzeg Dolny" %}
 
 W [Brzegu Dolnym][wiki-brzeg-dolny] obok jakiegoś marketu zrobiliśmy
 dłuższą przerwę na obiad. Słońce wyraźnie źle na mnie działało tego dnia i

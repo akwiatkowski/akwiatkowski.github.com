@@ -76,7 +76,7 @@ podczas
 [porannego wejścia na Sokolik]({% post_url 2017-01-11-wschod-slonca-na-sokoliku %})
 w zimie.
 
-{% post_image "medium","IMGP5320raw1.jpg","Jadąc przez Łomnicę" %}
+{% photo "IMGP5320raw1.jpg","Jadąc przez Łomnicę" %}
 
 Gdy już byliśmy całą grupą ruszyliśmy w stronę [Łomnicy][wiki-lomnica].
 Rozważaliśmy zobaczyć [Pałac Paulinum][wiki-palac-paulinum] w
@@ -89,7 +89,7 @@ przyjemny. Widzieliśmy dużo starych kamienic.
 Opuszczając [Jelenią Górę][wiki-jelenia-gora] jechaliśmy po ścieżce rowerowej,
 po której można dojechać do [Karpacza][wiki-karpacz].
 
-{% post_image "medium","IMGP5323raw1.jpg","W Karkonoszach zima, a w Łomnicy wiosna" %}
+{% photo "IMGP5323raw1.jpg","W Karkonoszach zima, a w Łomnicy wiosna" %}
 
 Skręciliśmy w lewo opuszczając ścieżkę rowerową wzdłuż drogi do
 [Karpacza][wiki-karpacz]. Jechaliśmy przez osiedle identycznie wyglądających
@@ -102,14 +102,14 @@ Przejechaliśmy przez
 [tory kolejowe linii 308][wiki-linia-308] które łączą [Jelenią Górę][wiki-jelenia-gora]
 z [Mysłakowicami][wiki-myslakowice].
 
-{% post_image "medium","IMGP5336raw2.jpg","Wejście do pałacu w Łomnicy" %}
+{% photo "IMGP5336raw2.jpg","Wejście do pałacu w Łomnicy" %}
 
 Naszym pierwszym celem był [Pałac w Łomnicy][wiki-palac-lomnica]. Oprócz
 samego pałacu jest jeszcze "Dom wdowy" a po drugiej stronie ulicy jest
 restauracja oraz sklep z wyrobami z lnu.
 W tej restauracji byłem [będąc ostatnio w Rudawach Janowickich]({% post_url 2017-01-10-zimowe-okolice-wojanowa }).
 
-{% post_image "medium","IMGP5347raw1.jpg","Pałac w Wojanowie" %}
+{% photo "IMGP5347raw1.jpg","Pałac w Wojanowie" %}
 
 Kolejny [pałac][wiki-palac-wojanow] jest oddalony kilkaset
 metrów dalej, co może być zaskakujące
@@ -122,7 +122,7 @@ Na chwilę pojechaliśmy zobaczyć trzeci pałac tego dnia -
 gdyż jest w ciągłym remoncie. Ponoć jeden z lokalnych polityków pożyczył sobie
 dachówki z tego pałacu.
 
-{% post_image "medium","IMGP5363raw1.jpg","Kot w Wojanowie" %}
+{% photo "IMGP5363raw1.jpg","Kot w Wojanowie" %}
 
 Ruszyliśmy do [Karpnik][wiki-karpniki] gdzie wyjechaliśmy na ulicę Stawową.
 Jesteśmy w kolejnej miejscowości i odwiedzamy kolejny pałac, a raczej tym
@@ -130,14 +130,14 @@ razem jest to [zamek][wiki-zamek-karpniki].
 Pierwszy raz przy tym zamku/pałacu byłem w
 [czerwcu 2015 roku]({% post_url 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich %}).
 
-{% post_image "medium","IMGP5381raw1.jpg","Most przy zamku w Karpnikach" %}
+{% photo "IMGP5381raw1.jpg","Most przy zamku w Karpnikach" %}
 
 Wyjechaliśmy skrótem w stronę [Krogulca][wiki-krogulec] jadąc ulicą Łąkową.
 Jak nazwa wskazuje jadąc mieliśmy widok na łąki ale z dodatkiem drzew liściastych i krzewów.
 Droga ta była zdecydowanie gruntowa.
 Po lekkim podjeździe dotarliśmy do wsi [Krogulec][wiki-krogulec].
 
-{% post_image "medium","IMGP5397raw1.jpg","Widok na Śnieżkę z okolic Krogulca" %}
+{% photo "IMGP5397raw1.jpg","Widok na Śnieżkę z okolic Krogulca" %}
 
 Kolejną odwiedzoną wioską był [Bukowiec][wiki-bukowiec] do którego wjechaliśmy
 przez ulicę Robotniczą. Jest z niej dobry widok na południowe
@@ -149,7 +149,7 @@ Podjechaliśmy do Kawiarni w Artystycznej Stodole. Był tam festyn i mogłem
 najeść się lokalnie robionych pierogów ruskich popijając je barszczem.
 Jeden pieróg kosztował 1zł. Jako pamiątkę kupiłem miód spadziowy.
 
-{% post_image "medium","IMGP5447raw1.jpg","Pod Górą Parkową przed Kowarami" %}
+{% photo "IMGP5447raw1.jpg","Pod Górą Parkową przed Kowarami" %}
 
 Ulicą Wiejską kierowaliśmy się do [Kowar][wiki-kowary].
 
@@ -161,7 +161,7 @@ ulicy Wiejskiej, gdzie teoretycznie powinien być szczery las.
 Musieliśmy teraz trochę podjechać, niestety trud został zmarnowany. Zjazd
 był po drodzę gruntowej dość słabej jakości z dużą ilością błota.
 
-{% post_image "medium","IMGP5456raw1.jpg","Kolejny widok na Śnieżkę" %}
+{% photo "IMGP5456raw1.jpg","Kolejny widok na Śnieżkę" %}
 
 W [Kowarach][wiki-kowary] byliśmy tylko na chwilkę. Przez Gąskę
 pojechaliśmy do [Miłkowa][wiki-milkow]. Przejeżdzaliśmy teraz przez płaskie
@@ -170,7 +170,7 @@ tereny bezpośrednio położone pod [Karkonoszami][wiki-karkonosze].
 W [Miłkowie][wiki-milkow] podjechaliśmy do [browaru][milkow-browar] aby
 osoby zainteresowane mogły nabyć lokalne produkty.
 
-{% post_image "medium","IMGP5509raw1.jpg","Okolice Sosnówki" %}
+{% photo "IMGP5509raw1.jpg","Okolice Sosnówki" %}
 
 Przejechaliśmy przez [Głębock][wiki-glebock] (i jego stawy)
 do [Sosnówki][wiki-sosnowka].
@@ -178,7 +178,7 @@ Można powiedzieć, że dojechaliśmy do Zbiornika Sosnówka "od tyłu"
 wąską ulicą.
 Widziałem sporo nowych domów z widokiem na Zbiornik.
 
-{% post_image "medium","IMGP5511raw1.jpg","Kot widziany podczas wyjazdu z Sosnówki" %}
+{% photo "IMGP5511raw1.jpg","Kot widziany podczas wyjazdu z Sosnówki" %}
 
 Wracaliśmy przez [Staniszów][wiki-staniszow]. Zamiast
 kierować się bezpośredio do centrum [Jeleniej Góry][wiki-jelenia-gora]
@@ -194,7 +194,7 @@ ludzi zszedliśmy z rowerów.
 Przeszliśmy do Parku Norweskiego. Faktycznie tak jak Tomek mówił można tam bardzo
 łatwo zobaczyć wiewiórki. Wiewiórki te nie są rude ale raczej ciemno szare.
 
-{% post_image "medium","IMGP5538raw1.jpg","Wiewiórki w Parku Norweskim" %}
+{% photo "IMGP5538raw1.jpg","Wiewiórki w Parku Norweskim" %}
 
 Robiliśmy się zmęczeni. Ruszyliśmy bocznymi drogami do centrum
 [Jeleniej Góry][wiki-jelenia-gora] ale nie obyło się bez jazdy głównymi

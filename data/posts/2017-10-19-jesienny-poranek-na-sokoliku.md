@@ -75,7 +75,7 @@ normalne podejście na [Sokolik][wiki-sokolik], które znam całkiem dobrze.
 Podchodząc patrzyłem w stronę [schroniska][wiki-szwajcarka]. Wydawało mi się,
 że mignęły mi jakieś światła czołówek.
 
-{% post_image "medium","IMGP1557raw1.jpg","Mgliste Trzcińsko" %}
+{% photo "IMGP1557raw1.jpg","Mgliste Trzcińsko" %}
 
 Na szczycie byłem około 6:40. Rozstawiłem statyw i zrobiłem kilka zdjęć świateł
 pobliskich wiosek. Niestety mgła była gęsta a niebo było zakryte chmurami.
@@ -88,41 +88,41 @@ Po pewnym czasie przyszła pierwsza para z [Legnicy][wiki-legnica],
 a później druga z [Świebodzic][wiki-swiebodzice]
 ([fanpage][darek-zygala]) tym razem lepiej przygotowana na wschody.
 
-{% post_image "medium","IMGP1610raw1.jpg","Krótkie słoneczme momenty" %}
+{% photo "IMGP1610raw1.jpg","Krótkie słoneczme momenty" %}
 
 Nic nie zapowiadało aby chmury zniknęły później.
 Nadziei na pojawienie się Słońca nie mieliśmy dużej również.
 
-{% post_image "medium","IMGP1618raw2.jpg","Mgły zakrywające lasy" %}
+{% photo "IMGP1618raw2.jpg","Mgły zakrywające lasy" %}
 
 Mgły przesuwały się stopniowo zmieniając każde miejsce. Kadr minutę później
 mógł wyglądać zupełnie inaczej.
 
-{% post_image "medium","IMGP1624raw2.jpg","Wierzchołki drzew" %}
+{% photo "IMGP1624raw2.jpg","Wierzchołki drzew" %}
 
 Wiele zdjęć można opisać jako połączenie mgieł i lasu, jednak samo zdjęcie to chyba
 więcej niż tysiące słów a ja nie jestem zbyt dobry w opisywaniu.  
 
-{% post_image "medium","IMGP1636raw1.jpg","Granica lasu" %}
+{% photo "IMGP1636raw1.jpg","Granica lasu" %}
 
 Tutaj jest trochę szersze spojrzenie na leśne mgły.
 
-{% post_image "medium","IMGP1641raw1.jpg","Mgła wdzierająca się w las" %}
+{% photo "IMGP1641raw1.jpg","Mgła wdzierająca się w las" %}
 
 Słońce miało jednak czasami delikatny wpływ i oświetlało dalsze miejsca.
 
-{% post_image "medium","IMGP1664raw1.jpg","Słońce miało jednak czasami wpływ" %}
+{% photo "IMGP1664raw1.jpg","Słońce miało jednak czasami wpływ" %}
 
 Prawie cały czas Słońce było przykryte chmurami.
 
-{% post_image "medium","IMGP1673raw1.jpg","Słońce w chmurach" %}
+{% photo "IMGP1673raw1.jpg","Słońce w chmurach" %}
 
 Miałem wrażenie, że z czasem mgły się podnosiły i przykrywały jeszce więcej
 miejsc. Pomysły na ciekawe zdjęcia zaczęły się kończyć
 
-{% post_image "medium","IMGP1688raw2.jpg","Mgły pokryły doliny" %}
+{% photo "IMGP1688raw2.jpg","Mgły pokryły doliny" %}
 
 O 8:30 ruszyłem na powrotny pociąg aby zdążyć na śniadanie. Widziałem
 poranne mgły gdy przechodziłem przez las w okolicy [Sokolika][wiki-sokolik].
 
-{% post_image "medium","IMGP1711raw1.jpg","Schodząc niebieskim szlakiem" %}
+{% photo "IMGP1711raw1.jpg","Schodząc niebieskim szlakiem" %}

@@ -44,7 +44,7 @@ Aby dobrze opisać tą linie kolejową musiałbym udać się na serię pieszych 
 Dla najlepszych zdjęć musiałby być w odpowiednim miejscu w momencie przejazdu
 pociągu. Jeżeli się nie mylę są tylko 3 pary pociągów dziennie.
 
-{% post_image "medium","IMGP2282raw1.jpg","Ludwikowice Kłodzkie" %}
+{% photo "IMGP2282raw1.jpg","Ludwikowice Kłodzkie" %}
 
 Najciekawszym elementem jest 8 wiaduktów i 2 mosty. Z czego najciekawsze według mnie są w:
 
@@ -53,6 +53,6 @@ Najciekawszym elementem jest 8 wiaduktów i 2 mosty. Z czego najciekawsze wedłu
 * [Ludwikowicach Kłodzkich][wiki-ludwikowice-klodzkie]
 * [Nowej Rudzie][wiki-nowa-ruda]
 
-{% post_image "medium","IMGP2336raw1.jpg","Nowa Ruda" %}
+{% photo "IMGP2336raw1.jpg","Nowa Ruda" %}
 
 Z każdego z tych wiaduktów jest bardzo ładny widok na okoliczne miejscowości.

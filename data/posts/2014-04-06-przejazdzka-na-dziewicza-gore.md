@@ -37,7 +37,7 @@ Opis trasy
 Szczegóły
 ---------
 
-{% post_image "medium","IMGP4536raw1.jpg","Łabędzie" %}
+{% photo "IMGP4536raw1.jpg","Łabędzie" %}
 
 Z ciekawych fragmentów poleciłbym:
 

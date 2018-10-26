@@ -46,7 +46,7 @@ Gdy dojechaliśmy do [Jaślisk][wiki-jasliska] mieliśmy trochę czasu do końca
 Ciekawił mnie zielony szlak rowerowy do granicy ze [Słowacją][wiki-slowacja]
 i zaproponowałem abyśmy tam pojechali.
 
-{% post_image "medium","IMGP9647raw1.jpg","Pola na południu od Jaślisk" %}
+{% photo "IMGP9647raw1.jpg","Pola na południu od Jaślisk" %}
 
 Nie zakładaliśmy jak daleko podjedziemy
 gdyż tą samą drogą będziemy musieli się wracać.
@@ -68,7 +68,7 @@ on zamknięty.
 
 Obok kościoła zauważyliśmy jeszcze więcej starych, drewnianych domów.
 
-{% post_image "medium","IMGP9655raw1.jpg","Klasyczna droga w Beskidzie Niskim" %}
+{% photo "IMGP9655raw1.jpg","Klasyczna droga w Beskidzie Niskim" %}
 
 Opuszczając [Jaśliska][wiki-jasliska] jakość drogi się znacząco pogorszyła.
 Sama droga przebiega wzdłuż rzeki Bielcza.
@@ -76,7 +76,7 @@ Sama droga przebiega wzdłuż rzeki Bielcza.
 Po prawej stronie minęliśmy bardzo ładną przydrożną kapliczkę
 a dalej dwie agroturystyki.
 
-{% post_image "medium","IMGP9660raw1.jpg","Wyremontowana kapliczka" %}
+{% photo "IMGP9660raw1.jpg","Wyremontowana kapliczka" %}
 
 Wjechaliśmy do [Lipowca][wiki-lipowiec]. Otaczający nas wcześniej las
 zamienił się na pola. Jest to widok znacznie ciekawszy dla nas.
@@ -85,18 +85,18 @@ rolnego.
 
 Podobał mi się przejazd przez strumyk po mokrych betonowych płytach.
 
-{% post_image "medium","IMGP9684raw1.jpg","Opuszczone budynki w Lipowcu" %}
+{% photo "IMGP9684raw1.jpg","Opuszczone budynki w Lipowcu" %}
 
 Skręciliśmy wydeptaną ścieżką w lewo widząc tam tabliczkę z nazwą ulicy (albo
 coś mi się pomyliło). Myśleliśmy, że można tą drogą dojechać do widocznych w oddali
 ruin budynków. Wróciliśmy do głównego szlaku dość szybko.
 
-{% post_image "medium","IMGP9695raw1.jpg","Są tutaj dalekie szlaki piesze" %}
+{% photo "IMGP9695raw1.jpg","Są tutaj dalekie szlaki piesze" %}
 
 Z jednej strony jest to tylko droga w stronę granicy, jednak jak się popatrzy
 dokładniej, to widać wiele pobocznych szlaków które niewiadomo gdzie prowadzą.
 
-{% post_image "medium","IMGP9702raw1.jpg","Grób przy drodzę" %}
+{% photo "IMGP9702raw1.jpg","Grób przy drodzę" %}
 
 Drugą miejscowością (miejscowość to trochę przesadzone określenie)
 jest [Czeremcha][wiki-czeremcha].
@@ -104,12 +104,12 @@ Jest ona tuż przy granicy ze [Słowacją][wiki-slowacja]. Nie planowałem
 dojechać aż tutaj więc byłem pozytywnie zaskoczony gdy nam się to udało.
 Problemem nie były ewentualne siły tylko czas. Nie chciałem wracać za późno.
 
-{% post_image "medium","IMGP9705raw1.jpg","Grób kobiety, która mieszkała w USA a chciała spocząć we wsi Czeremcha" %}
+{% photo "IMGP9705raw1.jpg","Grób kobiety, która mieszkała w USA a chciała spocząć we wsi Czeremcha" %}
 
 Zaciekawił mnie budynek z dala od drogi w stronę granicy, a może był on już za nią.
 Tak jak pisałem powyżej, tereny te są tajemnicze.
 
-{% post_image "medium","IMGP9717raw1.jpg","Ścięte drewno" %}
+{% photo "IMGP9717raw1.jpg","Ścięte drewno" %}
 
 Zrobiliśmy przerwę przy cmentarzu. Jest tutaj grób kobiety wysiedlonej.
 Osiedliła się ona w Stanach Zjednoczonych i życzyła sobie aby po śmierci miała tutaj
@@ -123,7 +123,7 @@ do [Rzeszowa][wiki-rzeszow]. Te tereny mogłyby rozkwitnąć turystycznie gdyby 
 sensowne i pewne połączenia kolejowe. Coraz więcej ludzi jeździ teraz
 na rowerach.
 
-{% post_image "medium","IMGP9741raw1.jpg","Polany w Czeremszy" %}
+{% photo "IMGP9741raw1.jpg","Polany w Czeremszy" %}
 
 Będąc przy granicy byliśmy w najwyższym punkcie dzisiejszej trasy. To było
 akurat dobre,
@@ -132,7 +132,7 @@ Prognoza pogody zapowiadała burzę i faktycznie na północy chmury nie
 wyglądaly optymistycznie. Zobaczyłem na mapę burzową i na północ od
 nas faktycznie była już tam burza.
 
-{% post_image "medium","IMGP9697raw1.jpg","Tablica odległości do Babadagu" %}
+{% photo "IMGP9697raw1.jpg","Tablica odległości do Babadagu" %}
 
 Wjeżdzając do [Lipowca][wiki-lipowiec] widziałem tabliczkę informującą
 że do [Nordkapp][wiki-nordkapp] mamy jeszcze 3190km.

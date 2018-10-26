@@ -46,23 +46,23 @@ Przed śniadaniem udało mi się wyjść ze statywem, jednak za wiele dobrych zd
 niestety nie zrobiłem - źle ustawiłem ostrość i nie miałem dobrych pomysłów.
 Sceneria te sama, oraz jeszcze uczę się używać Sigmy 150-500mm.
 
-{% post_image "medium","IMGP6711pano_raw1.jpg","Widok na Tatry o poranku" %}
+{% photo "IMGP6711pano_raw1.jpg","Widok na Tatry o poranku" %}
 
 Wyruszyliśmy dość późno, ale "po śniadaniu". Prawie od razu spotkaliśmy gromadę
 owiec, która poruszała się w kierunku [schroniska][wiki-maciejowa].
 
-{% post_image "medium","IMGP6836raw1.jpg","Długie cienie w dolinie" %}
+{% photo "IMGP6836raw1.jpg","Długie cienie w dolinie" %}
 
 Droga była mocno zmarznięta, a wszystkie kałuże były tak zamarznięte, że trudno
 było złamać lód. Z drugiej strony dobra pogoda, wyż i soczyście niebieskie niebo
 tworzyło "wrażenie lata". Było zimno, ale to nie była zima.
 
-{% post_image_no_gallery "medium","IMGP6881raw1.jpg","Spotkaliśmy owce niedaleko" %}
+{% photo "IMGP6881raw1.jpg","Spotkaliśmy owce niedaleko","nogallery" %}
 
 Raczej nie ma sensu opisywać dokładnej trasy. Umieszczę tutaj zdjęcia z najciekawszych
 miejsc. Na ogół jest tam dobry widok na [Tatry][wiki-tatry].
 
-{% post_image "medium","IMGP6992raw1.jpg","Szczyt Turbacza" %}
+{% photo "IMGP6992raw1.jpg","Szczyt Turbacza" %}
 
 Do [Turbacza][wiki-turbacz] dotarliśmy przed 14-tą. Coś zjeść - wiadomo, oraz
 powrót do [bazy][wiki-maciejowa]. Tłumów dużych nie było, wydaję mi się, że było normalnie.
@@ -70,7 +70,7 @@ powrót do [bazy][wiki-maciejowa]. Tłumów dużych nie było, wydaję mi się, 
 Zastanawiam się, jak zimno było rowerzystom, którzy przyjechali na
 [Turbacz][wiki-turbacz] tego dnia.
 
-{% post_image "medium","IMGP7048raw1.jpg","Babia Góra" %}
+{% photo "IMGP7048raw1.jpg","Babia Góra" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -84,8 +84,8 @@ Zastanawiam się, jak zimno było rowerzystom, którzy przyjechali na
 Końcówkę trasy przeszliśmy po zmroku. Chyba z ponad 30 minut szliśmy na czołówce. Byliśmy
 wyraźnie zmęczeni, a przecież jeszcze impreza sylwestrowa się szykowała.
 
-{% post_image "medium","IMGP7102raw1.jpg","Do schroniska wróciliśmy już po zmroku" %}
+{% photo "IMGP7102raw1.jpg","Do schroniska wróciliśmy już po zmroku" %}
 
 Udało mi się zrobić kilka zdjęć z fajerwerków wystrzelonych z [Rabki][wiki-rabka] i okolic.
 
-{% post_image "medium","IMGP7117raw1.jpg","Fajerwerki nad Rabką" %}
+{% photo "IMGP7117raw1.jpg","Fajerwerki nad Rabką" %}

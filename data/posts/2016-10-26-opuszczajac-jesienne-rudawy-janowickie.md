@@ -35,7 +35,7 @@ Poprzednie dwa dni mnie trochę zmęczyły. Zwłaszcza
 dzień [wczorajszy]({% post_url 2016-10-25-mgliste-rudawy-janowickie %}),
 w którym zrobiłem bardzo dużo jesienno-mglistych zdjęć.
 
-{% post_image "medium","IMGP8755raw1.jpg","Między Bobrowem a Trzcińskiem" %}
+{% photo "IMGP8755raw1.jpg","Między Bobrowem a Trzcińskiem" %}
 
 Dopiero jak wrócę do domu i je przerobię będę mógł coś o nich powiedzieć.
 Niestety ekran mojego przenośnego 12" della ma słabe odwzorowanie kolorów
@@ -48,13 +48,13 @@ Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
 zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
-{% post_image "medium","IMGP8757raw1.jpg","Rzeka Bóbr" %}
+{% photo "IMGP8757raw1.jpg","Rzeka Bóbr" %}
 
 Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
 wioski - chociaż przeszedłem tylko przez
 [Wojanów][wiki-wojanow], [Bobrów][wiki-bobrow] i [Trzcińsko][wiki-trzcinsko].
 
-{% post_image "medium","IMGP8761raw1.jpg","Jesienna droga do Trzcińska" %}
+{% photo "IMGP8761raw1.jpg","Jesienna droga do Trzcińska" %}
 
 Po drodzę zrobiłem kilka zdjęć, które postaram się tutaj wrzucić i zaktualizować
 opis tego dnia.
@@ -70,4 +70,4 @@ Wnioski
 * Po deszczu bardzo często pojawiają się mgły, ale dopiero na odpowiedniej wysokości.
   Zalecane jest być na 500-600m n.p.m.
 
-  {% post_image "medium","IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku" %}
+  {% photo "IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku" %}

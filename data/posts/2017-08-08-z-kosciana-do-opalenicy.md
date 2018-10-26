@@ -63,7 +63,7 @@ Był dość dziwny ruch. Samochody
 nie często nas wyprzedzały, za to jak wyprzedzały to kolumną w której również były tiry.
 Nie licząc kolein asfalt był bardzo dobrej jakości.
 
-{% post_image "medium","IMGP0107raw1.jpg","Tory linii 376" %}
+{% photo "IMGP0107raw1.jpg","Tory linii 376" %}
 
 Po prawej stronie widziałem [tory linii 376][wiki-linia-376] które położone są wzdłuż drogi.
 Linia ta jest częściowo zlikwidowana chyba ale działa tu regionalne stowarzyszenie i
@@ -73,7 +73,7 @@ Za [Sępnem][wiki-sepno] już nie chcieliśmy jechać po ruchliwej drodze.
 Skręciliśmy na północ w stroną [Konojada][wiki-konojad]. Od razu poczuliśmy
 spokój zmieniając drogę. Wokół widać było wykonywane prace związane ze żniwami.
 
-{% post_image "medium","IMGP0109raw1.jpg","Ceglany budynek w Granówku" %}
+{% photo "IMGP0109raw1.jpg","Ceglany budynek w Granówku" %}
 
 W [Granówku][wiki-granowko] zauważyliśmy zniszczoną bramę przy czymś co
 wyglądało jak zapomniany park. Wydaję mi się, że tam w głębi jest jakiś pałac.
@@ -83,7 +83,7 @@ Zrobiliśmy przerwę przy sklepie w [Granowie][wiki-granowo] zauważając teraz,
 jest to miejscowość gminna. Ruszyliśmy na zachód chodnikami i ścieżką
 rowerową, chociaż prawdziwym rowerem szosowym wolałbym tam nie jechać.
 
-{% post_image "medium","IMGP0118raw1.jpg","Wyjeżdzając z Kotowa" %}
+{% photo "IMGP0118raw1.jpg","Wyjeżdzając z Kotowa" %}
 
 W [Kotowie][wiki-kotowo] skręciliśmy na północ mijając po lewej stronie
 przystanek kolejowy położony "w szczerym polu".
@@ -103,7 +103,7 @@ mi się ją jakoś przejechać i wjechaliśmy do krańca wsi [Urbanowo][wiki-urb
 Pierwsze co się nam rzuciło w oczy to po lewej stronie było
 gospdarstwo z dużą ilością krów. Po prawej staw, któremu zrobiłem kilka zdjęć.
 
-{% post_image "medium","IMGP0126raw1.jpg","Staw w Urbanowie" %}
+{% photo "IMGP0126raw1.jpg","Staw w Urbanowie" %}
 
 Ruszyliśmy na zachód. W centrum wsi zaskoczyła nas
 dynamiczna reakcja policji na przejeżdzający

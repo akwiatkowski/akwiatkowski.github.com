@@ -57,7 +57,7 @@ Są dwie możliwości dojazdu do [Boszkowa][wiki-boszkowo] z
 [Poznania][wiki-poznan]: albo przez [Leszno][wiki-leszno] albo
 [Zbąszyń][wiki-zbaszyn]. Ta druga trasa jest chyba szybsza i ciekawsza.
 
-{% post_image "medium","IMGP0580raw1.jpg","Jezioro Dominickie nocą" %}
+{% photo "IMGP0580raw1.jpg","Jezioro Dominickie nocą" %}
 
 Gdy patrzyłem na mapach Google, to zauważyłem w
 [Boszkowie][wiki-boszkowo] bardzo dużo obiektów gastronomicznych i sklepów.
@@ -68,7 +68,7 @@ Tego dnia otwarta była jeszcze budka z fast foodami
 i sklep z bardzo ograniczonym asortymentem. Trudno znaleźć tam zdrowe jedzenie gdyż
 się ono szybko psuje.
 
-{% post_image "medium","IMGP0595raw1.jpg","Jeden z zaniedbanych domów przy Jeziorze Dominickim" %}
+{% photo "IMGP0595raw1.jpg","Jeden z zaniedbanych domów przy Jeziorze Dominickim" %}
 
 W recepcji hotelu dowiedziałem się o najbliższym sklepie we [Włoszakowicach][wiki-wloszakowice].
 Miejscowość ta kompletnie nie była w naszym planie. Postanowiliśmy zaryzykować
@@ -76,7 +76,7 @@ i nie zmieniać zaplanowanej trasy.
 
 Pogoda dzień wcześniej uniemożliwiała zrobienie zdjęć zachodzącego Słońca.
 
-{% post_image "medium","IMGP0610raw1.jpg","Przejście obok osiedla domków wypoczynkowych" %}
+{% photo "IMGP0610raw1.jpg","Przejście obok osiedla domków wypoczynkowych" %}
 
 Trasę rozpoczęliśmy od spaceru wzdłuż [Jeziora Dominickiego][wiki-jezioro-dominickie].
 Widzieliśmy przekrój dostępnych domków wypoczynkowych od zadbanych, nowoczesnych, jak i
@@ -85,7 +85,7 @@ te które pamiętają zdecydowanie lepsze czasy.
 Niektóre z nich położone są znacznie wyżej niż brzeg [jeziora][wiki-jezioro-dominickie].
 Jest tam sporo ciekawych schodów i przejść między nimi.
 
-{% post_image "medium","IMGP0617raw1.jpg","Dom niedaleko Dominic" %}
+{% photo "IMGP0617raw1.jpg","Dom niedaleko Dominic" %}
 
 Kierowaliśmy się do [Dominic][wiki-dominice]. Dowiedzieliśmy się o otwartym sklepie
 w tej wsi.
@@ -96,56 +96,56 @@ który ma 37km długości.
 Weszliśmy na punkt widokowy w lesie około 300 metrów od drogi. Wilgotne
 powietrze nie sprzyjało dobrej widoczności.
 
-{% post_image "medium","IMGP0643raw1.jpg","Konwaliowy Szlak Kajakowy" %}
+{% photo "IMGP0643raw1.jpg","Konwaliowy Szlak Kajakowy" %}
 
 Następnie przez las szliśmy na zachód do [Górska][wiki-gorsko].
 Po lewej stronie przed centrum wsi jest bardzo dużo gospodarstwo rolne, w którym
 hodowana jest ogromna ilość kaczek. Nigdy w życiu nie widziałem na oczy
 takiej ich ilości.
 
-{% post_image "medium","IMGP0659raw1.jpg","Hodowla kaczek" %}
+{% photo "IMGP0659raw1.jpg","Hodowla kaczek" %}
 
 Dotarliśmy do centrum [Górska][wiki-gorsko] gdzie po przerwie zauważyliśmy
 rodzinę jelenii na terenie jednej z posesji.
 
-{% post_image "medium","IMGP0696raw1.jpg","Jeleń w Górsku" %}
+{% photo "IMGP0696raw1.jpg","Jeleń w Górsku" %}
 
 Ruszyliśmy na południę do [Miastka][wiki-miastko] idąc przez wioskę pełną
 klimatycznych domów: stare, oplecione bluszczem.
 
-{% post_image "medium","IMGP0756raw1.jpg","Dom opleciony przez bluszcz" %}
+{% photo "IMGP0756raw1.jpg","Dom opleciony przez bluszcz" %}
 
 Podobało mi się drzewo które przykrywało całą szerokość drogi.
 
-{% post_image "medium","IMGP0751raw1.jpg","Główna ulica Górska" %}
+{% photo "IMGP0751raw1.jpg","Główna ulica Górska" %}
 
 Widzieliśmy również trochę okolicznych kotów.
 
-{% post_image "medium","IMGP0749raw1.jpg","Kot w Górsku" %}
+{% photo "IMGP0749raw1.jpg","Kot w Górsku" %}
 
 Chcieliśmy udać się do Jeziora Linciusz.
 Podeszliśmy na początek mostu. Dalej nie chciałem iść gdyż nie ufałem
 jego wytrzymałości. Był również mokry po wczorajszym deszczu.
 
-{% post_image "medium","IMGP0761raw1.jpg","Stodoła opleciona bluszczem" %}
+{% photo "IMGP0761raw1.jpg","Stodoła opleciona bluszczem" %}
 
 Zastanawiała mnie działa w środku lasu. Ile ona może kosztować i kto
 mógłby ją kupić. A jakby kupił to gdzie by pracował. Nie ma
 w okolicy żadnej większej miejscości. Najbliższe większe miasto to
 [Leszna][wiki-leszno] oddalone o 27km.
 
-{% post_image "medium","IMGP0790raw1.jpg","Mokra trawa" %}
+{% photo "IMGP0790raw1.jpg","Mokra trawa" %}
 
 Następne na trasie było Jezioro Brzeźnie
 obok którego zauważyliśmy opuszczone (lub zaniedbane) budynki
 organizacji harcerskiej.
 
-{% post_image "medium","IMGP0804raw1.jpg","Budynki harcerstwa niedaleko Papierni" %}
+{% photo "IMGP0804raw1.jpg","Budynki harcerstwa niedaleko Papierni" %}
 
 Zrobiliśmy przerwę obok leśniczówki Papiernia która jest obiektem na
 szlaku [Bartka z Piekła][bartek-z-piekla].
 
-{% post_image "medium","IMGP0819raw1.jpg","Miejsce postojowe niedaleko Papierni" %}
+{% photo "IMGP0819raw1.jpg","Miejsce postojowe niedaleko Papierni" %}
 
 Powoli robiliśmy się zmęczeni. Zdecydowaliśmy, że ruszymy na północ
 i dotrzemy do sklepu w [Dominicach][wiki-dominice] na ostatnie
@@ -156,7 +156,7 @@ Zauważyliśmy fioletowe kwiatki po których chodziły dwa motyle
 chyba jedne z najpopularniejszych (białe i żółte mogą być jeszcze popularniejsze).
 Zrobiłem chwilę przerwy na zrobienie im zdjęć.
 
-{% post_image "medium","IMGP0859raw2.jpg","Motyl - Rusałka Pawik" %}
+{% photo "IMGP0859raw2.jpg","Motyl - Rusałka Pawik" %}
 
 Widzieliśmy bardzo dużo ludzi zbierających grzyby.
 

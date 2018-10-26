@@ -56,25 +56,25 @@ pieszym przez [Rezerwat Bagno Dębienko][wiki-bagno-debienko], jednak nie doszli
 do tunelu pod torami kolejowymi. Skręciliśmy na wschód i szliśmy wokół
 rzeczki.
 
-{% post_image "medium","IMGP0158raw1.jpg","Rezerwat Bagno Dębieńko" %}
+{% photo "IMGP0158raw1.jpg","Rezerwat Bagno Dębieńko" %}
 
 Dotarliśmy do drogi asfaltowej wokół [Trzebawia][wiki-trzebaw]. Tam szliśmy
 obok stawu z którego było słychać ogrom dźwięków żab. Wioska za to była całkiem spokojna,
 więc zwierzęta korzystają z tego faktu.
 
-{% post_image "medium","IMGP0168raw1.jpg","Aleja drzew" %}
+{% photo "IMGP0168raw1.jpg","Aleja drzew" %}
 
 Następnie dotarliśmy do [Jezior][wiki-jeziory], gdzie dalej poruszaliśmy się
 czerwonym szlakiem obok jeziora. Byłem zaskoczony ile ludzi tam się poruszało,
 oraz wielkością budynków dyrekcji parku.
 
-{% post_image "medium","IMGP0185raw1.jpg","Trzebaw" %}
+{% photo "IMGP0185raw1.jpg","Trzebaw" %}
 
 Przeszliśmy obok Jeziora Kociołek i trafiliśmy do starej stacji kolejowej.
 Powłóczyliśmy się trochę wokół torów i zaczęło się spore podejście - krótkie,
 ale takie "górskie", abyśmy mogli dostać się na niebieski szlak pieszy i wrócić
 do [Mosiny][wiki-mosina].
 
-{% post_image "medium","IMGP0239raw1.jpg","Trochę kolorów" %}
+{% photo "IMGP0239raw1.jpg","Trochę kolorów" %}
 
 Były to najbardziej pofalowane tereny w tej okolicy chyba.

@@ -89,7 +89,7 @@ mając trochę czasu poszukałem czegoś do zjedzenia na ulicy Dworcowej.
 Znalazłem bar mleczny. One w praktyce wcale nie są takie tanie, chyba że się
 wybiera tylko zupę.
 
-{% post_image "medium","IMGP3400raw1.jpg","Parowóz wjeżdzający do Bydgoszczy" %}
+{% photo "IMGP3400raw1.jpg","Parowóz wjeżdzający do Bydgoszczy" %}
 
 Około 11:40 przyjechał pociąg parowy, którym ruszyłem w stronę [Szubina][wiki-szubin].
 
@@ -100,7 +100,7 @@ Bardzo dużo ludzi czatowało z aparatami na nas na trasie. Niektórzy naprawdę
 trudno dostępne miejsca, ale większość ustawiała się w okolicy przejazdów
 albo przystanków.
 
-{% post_image "medium","IMGP3444raw2.jpg","Stacja w Rynarzewie" %}
+{% photo "IMGP3444raw2.jpg","Stacja w Rynarzewie" %}
 
 Przejechaliśmy przez most nad [Notecią][wiki-notec], a właściwie jej górnym kanałem.
 Właściwą [Noteć][wiki-notec] mineliśmy później.
@@ -111,7 +111,7 @@ remontował), ale nie jest w ruinie. Jest, można powiedzieć, pasujący do otoc
 
 Kwitnące drzewko obok dodawało mu uroku.
 
-{% post_image "medium","IMGP3512raw1.jpg","Szubin, niedaleko rynku" %}
+{% photo "IMGP3512raw1.jpg","Szubin, niedaleko rynku" %}
 
 Nie padał deszcz ale pogoda według mnie nie dopisywała. Było pochmurno oraz wiał
 dość mocny wiatr.
@@ -127,7 +127,7 @@ Niedaleko na rynku była wystawa na temat
 Dowiedzieliśmy się gdzie jest muzem. Udaliśmy się tam zabierając zestaw
 darmowych ulotek o tej okolicy.
 
-{% post_image "medium","IMGP3565raw1.jpg","Noteć" %}
+{% photo "IMGP3565raw1.jpg","Noteć" %}
 
 Sama miejscowość [Szubin][wiki-szubin] sprawiała wrażenie trochę śpiącej
 pomimo tego, że był to wtorek.
@@ -145,7 +145,7 @@ widzieliśmy dolinę [Noteci][wiki-notec], a po prawej podwyższenie.
 Gdy dojeżdzaliśmy do [Ślesina][wiki-slesin] widziałem spory zbiornik
 wodny - Staw Kardynalski, a obok niego zielony szlak rowerowy.
 
-{% post_image "medium","IMGP3640raw1.jpg","Widok na Staw Kardynalski" %}
+{% photo "IMGP3640raw1.jpg","Widok na Staw Kardynalski" %}
 
 Na półnc od [Nakla nad Notecią][wiki-naklo] jest trasa kolejowa
 w stronę [Więcborka][wiki-wiecbork]. Zaciekawiło mnie i kiedyś bym chętnie
@@ -160,7 +160,7 @@ Nie zauważyłem kiedy minęliśmy [Noteć][wiki-notec] i kierowaliśmy się na 
 Niedaleko wsi [Paterek][wiki-paterek] widziałem zakład remontu pojazdów
 szynowych, którego lata świetności już zdecydowanie minęły.
 
-{% post_image "medium","IMGP3761raw1.jpg","Tory z Kcynii w kierunku północnym" %}
+{% photo "IMGP3761raw1.jpg","Tory z Kcynii w kierunku północnym" %}
 
 Chwilę później wjechaliśmy w las. Patrząc teraz na mapę zaciekawiło mnie
 wzniesienie niedaleko [Dębogóry][wiki-debogora]. Kolejny argument aby
@@ -182,7 +182,7 @@ Natomiast województwo kujawsko-pomorskie niechętnie myśli o
 planie (nawet podstawowym) wyremontowania fragmentu z [Gołańczy][wiki-golancz] przez
 [Kcynię][wiki-kcynia] i [Szubin][wiki-szubin].
 
-{% post_image "medium","IMGP3810raw1.jpg","Okolice wsi Rusiec" %}
+{% photo "IMGP3810raw1.jpg","Okolice wsi Rusiec" %}
 
 Jednym z elementów misji [Turkolu][turkol] jest wpływanie w stronę reaktywacji
 połączeń kolejowych i tutaj również dało się to odczuć, że dzisiejszy przejazd ma być
@@ -191,20 +191,20 @@ kolejnym impulsem do władz.
 Ruszyliśmy dalej na południe w stronę [Gniezna][wiki-gniezno]. Przejechaliśmy
 przez [Wapno][wiki-wapno] a następnie [Damasławek][wiki-damaslawek].
 
-{% post_image "medium","IMGP3832raw1.jpg","Przed wjazdem do Wapna" %}
+{% photo "IMGP3832raw1.jpg","Przed wjazdem do Wapna" %}
 
 W [Damasławku][wiki-damaslawek] zrobiliśmy przerwę i zrobiłem kilka zdjęć
 klimatycznego dworca. Wyjeżdzając widziałem miejsce od którego zostały rozebrane
 tory do [Wągrowca][wiki-wagrowiec].
 
-{% post_image "medium","IMGP3981raw1.jpg","Na personie w Damasławku" %}
+{% photo "IMGP3981raw1.jpg","Na personie w Damasławku" %}
 
 Prawie cały czas stałem przy oknie skierowany na zachód i obserwowałem
 zielone pola. Zachodzące powoli Słońce dodawało barw. Bardzo chętnie bym
 pojeździł po tych terenach tego dnia, ale po otwarciu okna pociągu czułem
 jaki jest wiatr i szybko mi mijała ta chęć.
 
-{% post_image "medium","IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina" %}
+{% photo "IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina" %}
 
 Za [Janowcem Wielkopolskim][wiki-janowiec-wielkopolski] jeszcze chwilę
 obserwowałem widoki przez okno. Były one ładne, jednak bardzo podobne
@@ -214,7 +214,7 @@ Dojeżdzając do [Gniezna][wiki-gniezno] pojawiały się standardowe podmiejskie
 widoki. To akurat mnie najmniej interesuje, a nawet nudzi, dlatego
 przestałem zwracać co się dzieje i usiadłem przy laptopie.
 
-{% post_image "medium","IMGP4094raw1.jpg","Okolice Laskowa" %}
+{% photo "IMGP4094raw1.jpg","Okolice Laskowa" %}
 
 Nie wiem czemu, ale myślałem że będziemy jechać normalnie przez
 [Pobiedziska][wiki-pobiedziska]. Nie patrzyłem nawet jak pociąg ruszył.

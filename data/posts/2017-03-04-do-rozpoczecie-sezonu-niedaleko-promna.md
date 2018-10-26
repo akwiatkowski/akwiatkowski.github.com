@@ -61,7 +61,7 @@ tego dnia te tereny mi się podobały. Pewnie było to związane z dobrą pogod�
 promieniami światła padającymi przez jeszcze nie zazielenioną przyrodę oraz
 przez chęć pojeżdzenia sobie.
 
-{% post_image "medium","IMGP3064raw1.jpg","Staw Młyński" %}
+{% photo "IMGP3064raw1.jpg","Staw Młyński" %}
 
 Kiedyś jechałem przez okolice [Malty][wiki-malta]
 [do Dziewiczej Góry]({% post_url 2014-04-06-przejazdzka-na-dziewicza-gore %}),
@@ -71,7 +71,7 @@ Las w okolicach Nowego Zoo i [Malty][wiki-malta] jest w sumie ciekawym miejscem 
 pojeździć rowerem wczesną wiosną gdy na polach jest jeszcze łyso.
 Później robi się tam trochę tłoczno i dalsze tereny są wtedy ciekawsze.
 
-{% post_image "medium","IMGP3069raw1.jpg","W Uzarzewie" %}
+{% photo "IMGP3069raw1.jpg","W Uzarzewie" %}
 
 Przejechaliśmy przez [Swarzędz][wiki-swarzedz] gdzie wokół jeziora droga była
 przyjemnie terenowa.
@@ -79,14 +79,14 @@ przyjemnie terenowa.
 Z [Gruszczyna][wiki-gruszczyn] jechaliśmy cały czas na wschód do [Uzarzewa][wiki-uzarzewo].
 Podobał mi się zjazd w [Katarzynkach][wiki-katarzynki].
 
-{% post_image "medium","IMGP3071raw1.jpg","Droga do Promienka" %}
+{% photo "IMGP3071raw1.jpg","Droga do Promienka" %}
 
 Cały czas jechaliśmy prosto przez jeszcze łyse pola. Po prawej widzieliśmy obniżenie
 terenu - dolinę rzeki [Cybiny][wiki-cybina]. Teraz gdy to piszę przypomniało mi się,
 że chętnie bym zwiedził pieszo te okolice. Idąc ze stacji
 [Kobylnica][wiki-pkp-kobylnica] jest to spacer około 4km w jedną stronę.
 
-{% post_image "medium","IMGP3077raw1.jpg","Jezioro Brzostek" %}
+{% photo "IMGP3077raw1.jpg","Jezioro Brzostek" %}
 
 [Biskupice][wiki-biskupice] przejechaliśmy sprawnie i nie pamiętam aby
 cokolwiek mnie zaciekawiło w tej miejscowości.
@@ -102,7 +102,7 @@ i musiałem wracać. Odłączyłem się od Macieja i chciałem przez [Kaczynę][
 ścieżkami polnymi dostać się do stacji
 [Pobiedziska Letniska][wiki-pobiedziska-letniska].
 
-{% post_image "medium","IMGP3079raw1.jpg","Droga przez Kaczynę" %}
+{% photo "IMGP3079raw1.jpg","Droga przez Kaczynę" %}
 
 Droga niestety tam była tylko na mapie. Musiałbym przejść przez teren prywatny.
 Szybka analiza na mapie i ruszyłem w stronę [Pobiedzisk][wiki-pobiedziska].

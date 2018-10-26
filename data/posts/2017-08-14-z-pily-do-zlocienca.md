@@ -78,7 +78,7 @@ jednak była dość
 wysoka. Czułem się spokojniej - mieliśmy już jakiś nocleg i teraz mogliśmy
 szukać czegoś tańszego.
 
-{% post_image "medium","IMGP0135raw1.jpg","Wyjazd z Szydłowa" %}
+{% photo "IMGP0135raw1.jpg","Wyjazd z Szydłowa" %}
 
 Michał zaczął dzwonić i ostatecznie dodzwonił się do jednego z ośrodka
 wczasowego w [Cieszyno][wiki-cieszyno]. Nie podam jego nazwy, a powód tego
@@ -103,7 +103,7 @@ W [Szydłowie][wiki-szydlowo] skręciliśmy na prawo wkraczając na lokalne drog
 tam rowerem szosowym. Miejscami było gorzej ale w tym momencie już
 nie pamiętam gdzie.
 
-{% post_image "medium","IMGP0146raw1.jpg","Dojeżdzając do Różewa" %}
+{% photo "IMGP0146raw1.jpg","Dojeżdzając do Różewa" %}
 
 Minęliśmy [linię kolejową 403][wiki-linia-403]
 (trasa [Piła][wiki-pila]-[Szczecin][wiki-szczecin]), która na początku XXI wieku
@@ -118,7 +118,7 @@ We wsi [Skrzatusz][wiki-skrzatusz] skręciliśmy na zachód w stronę
 [Różewa][wiki-rozewo] wydłużajac dojazd do [Wałcza][wiki-walcz] jednak
 znacząco go uspokajając.
 
-{% post_image "medium","IMGP0150raw2.jpg","Pole po żniwach niedaleko Wałcza" %}
+{% photo "IMGP0150raw2.jpg","Pole po żniwach niedaleko Wałcza" %}
 
 Musieliśmy minąć ponownie wspomnianą [linię kolejową][wiki-linia-403]
 po której akurat jechał pociąg towarowy. Cieszy mnie to, że linia
@@ -140,7 +140,7 @@ wstępnym zaopatrzeniu się w sklepie nie było nic ciekawego.
 Ruch miasta jest nudny i męczący. Znowu musieliśmy wyjechać drogą o
 większym ruchu. W końcu to [droga 163][wiki-droga-163] do [Kołobrzegu][wiki-kolobrzeg].
 
-{% post_image "medium","IMGP0153raw1.jpg","Kościół w Karsiborze" %}
+{% photo "IMGP0153raw1.jpg","Kościół w Karsiborze" %}
 
 W [Kłębowcu][wiki-klebowiec] ponownie wkroczyliśmy w spokojniejsze
 tereny. Jechaliśmy wzdłuż [linii kolejowej 416][wiki-linia-416] widząc
@@ -150,7 +150,7 @@ Rozmawiając z przydrożnym sprzedawca miodów, owoców i innych akcesoriów
 dowiedzieliśmy się, że wspomniana linia kolejowa została wyremontowana tuż przed
 jej likwidacją.
 
-{% post_image "medium","IMGP0165raw1.jpg","Zółte pole po żniwach" %}
+{% photo "IMGP0165raw1.jpg","Zółte pole po żniwach" %}
 
 W [Karsiborze][wiki-karsibor] zrobiliśmy przerwę przy ruinie kościoła.
 Cała miejscowość jest według mnie bardzo ładna.
@@ -159,13 +159,13 @@ Ruszyliśmy dalej na północ w stronę wsi [Rudki][wiki-rudki]. Patrząc teraz 
 widzę, że po prawej stronie płynie rzeka Świniarka i jest tam wyraźne obniżenie
 terenu. Mogło by to być ciekawe miejsce na piesze zwiedzanie.
 
-{% post_image "medium","IMGP0158raw1.jpg","Okolice Jaksic" %}
+{% photo "IMGP0158raw1.jpg","Okolice Jaksic" %}
 
 Jadąc przez [Świerczynę][wiki-swierczyna] dotarliśmy do drogi 177 niedaleko
 [Sośnicy][wiki-sosnica]. Tam spotkaliśmy wspomnianego wyżej sprzedawcę i
 kupiłem miód na pamiątkę.
 
-{% post_image "medium","IMGP0179raw1.jpg","Po krótkiej rozmowie przydrożny sprzedawca sprzedawał również noże" %}
+{% photo "IMGP0179raw1.jpg","Po krótkiej rozmowie przydrożny sprzedawca sprzedawał również noże" %}
 
 Musieliśmy przejechać chwilę drogą 177 na południe gdyż skrót z mapy OpenStreetMap
 nie wyglądał na wystarczająco przejezdny.
@@ -186,7 +186,7 @@ Tym razem chciałem jakoś inaczej dojechać do [Cieszyno][wiki-cieszyno],
 gdzie mieliśmy nocleg. Chciałem podjechać tam trasa
 rowerową zbudowaną na zlikwidowanej linii kolejowej.
 
-{% post_image "medium","IMGP0236raw1.jpg","Wracając do noclegu w Cieszyno" %}
+{% photo "IMGP0236raw1.jpg","Wracając do noclegu w Cieszyno" %}
 
 Mieliśmy trochę problemów jak znaleźć ośrodek wczasowy w którym rezerwowaliśmy
 nocleg, a sama procedura trwała dłużej z powodu rozmownej pani recepcjonistki.
@@ -195,7 +195,7 @@ Około 19:30, po zostawieniu zbędnych rzeczy,
 wyruszyliśmy chcąc spróbować objechać jezioro Siecino. Tym
 razem wolałem zacząć od zachodniej części - przez miejscowość [Siecino][wiki-siecino].
 
-{% post_image "medium","IMGP0254raw1.jpg","Zachód Słońca" %}
+{% photo "IMGP0254raw1.jpg","Zachód Słońca" %}
 
 Jechało się nam całkiem dobrze obserwując barwy zachodzącego Słońca.
 Dojechaliśmy do skrzyżowania z drogą 173 dwa kilometry od [Ostrowic][wiki-ostrowice].
@@ -218,7 +218,7 @@ prysznic i łóżka, lecz niewiele ponad to. Jedynym dodatkowym meblem była sza
 Nie było tam żadnego stołu oprócz tego co było na balkonie. Rowery zmieściliśmy
 właśnie tam i to było bardzo dobrym rozwiązaniem.
 
-{% post_image "medium","IMGP0259raw1.jpg","Jezioro Siecino" %}
+{% photo "IMGP0259raw1.jpg","Jezioro Siecino" %}
 
 Chcieliśmy zjeść śniadanie w stołówce to wygonił nas właściciel mówiąc, że
 mogliśmy poprosić o pokój ze stołem. Z jednej strony rozumiem dlaczego nie chciał

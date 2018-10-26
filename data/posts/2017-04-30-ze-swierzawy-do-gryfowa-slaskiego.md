@@ -115,7 +115,7 @@ Szczegóły
 Następnego dnia zaczęliśmy realizacje trasy tego wpisu. Pogoda zmieniła się
 diametralnie na lepszą.
 
-{% post_image "medium","IMGP5161raw1.jpg","Widok na Jelenią Górę i Śnieżkę z Dziwiszowa" %}
+{% photo "IMGP5161raw1.jpg","Widok na Jelenią Górę i Śnieżkę z Dziwiszowa" %}
 
 Nasza baza była w miejscu położonym dość wysoko - w górnej części
 wsi [Dziwiszów][wiki-dziwiszow] do której dojeżdza autobus miejski linii nr 9.
@@ -124,7 +124,7 @@ Podjechaliśmy w stronę przełęczy pod Łysą Górą z której
 mieliśmy idealny zjazd do [Świerzawy][wiki-swierzawa] przez
 [Lubiechową][wiki-lubiechowa]. **Zjazd ten polecam każdemu**.
 
-{% post_image "medium","IMGP5172raw1.jpg","Widok na Karkonosze z przełęczy pod Łysą Górą" %}
+{% photo "IMGP5172raw1.jpg","Widok na Karkonosze z przełęczy pod Łysą Górą" %}
 
 Przed zjazdem zrobiłem kilka zdjęć, gdyż z tego miejsca jest idealny widok
 na całe [Karkonosze][wiki-karkonosze].
@@ -147,7 +147,7 @@ będąc dowodem przemijania "lepszych czasów".
 Po opuszczeniu [Lubiechowej][wiki-lubiechowa] teren zrobił się dziwnie
 płaski.
 
-{% post_image "medium","IMGP5177raw1.jpg","Opuszczając Świerzawę" %}
+{% photo "IMGP5177raw1.jpg","Opuszczając Świerzawę" %}
 
 Wybraliśmy czerwony szlak rowerowy opuszczając niebieski. Była to
 zmiana subtelna ale zamiast [Świerzawy][wiki-swierzawa] dojechaliśmy do
@@ -158,7 +158,7 @@ Przejechaliśmy nad torami kolejowymi
 nieczynnej [linii kolejowej 312][wiki-linia-312]. Jest to chyba linia którą
 najbardziej chciałbym się przejechać z tych już niedostępnych teraz.
 
-{% post_image "medium","IMGP5183raw1.jpg","Ostatni widok na Świerzawę" %}
+{% photo "IMGP5183raw1.jpg","Ostatni widok na Świerzawę" %}
 
 Skręciliśmy w ulicę Lipową i podjeżdzając zaczęliśmy opuszczać tą
 klimatyczną miejscowość. Polecam każdemu odwiedzić ją jesienią, najlepiej
@@ -173,7 +173,7 @@ i wjechaliśmy w las, a później znowu trochę pól przed wsią [Gozdno][wiki-g
 Sama wieś wyglądała jak cztery domy ukryte drzewami lecz jadąc w tym kierunku
 czekał na nas bardzo przyjemny zjazd.
 
-{% post_image "medium","IMGP5210raw1.jpg","Opuszczając Biegoszów" %}
+{% photo "IMGP5210raw1.jpg","Opuszczając Biegoszów" %}
 
 Dojeżdzając do [Biegoszowa][wiki-biegoszow] wyraźnie poprawiła się jakość drogi.
 Będąc już we wsi skręciliśmy na zachód jadąc nadal czerwonym szlakiem rowerowym.
@@ -184,7 +184,7 @@ czyli do [Nowego Kościoła][wiki-nowy-kosciol].
 Mijaliśmy po lewej stronie jakieś zbiorniki wodne, prawdopodobnie to były
 stawy hodowlane.
 
-{% post_image "medium","IMGP5229raw1.jpg","Organy Wielisławskie" %}
+{% photo "IMGP5229raw1.jpg","Organy Wielisławskie" %}
 
 Ponownie przejechaliśmy przez [tory kolejowe linii 312][wiki-linia-312].
 Oznaczało to, że dojechaliśmy do [Nowego Kościoła][wiki-nowy-kosciol],
@@ -198,7 +198,7 @@ Obiad zjedliśmy w Młynie, chociaż pamiętam, że
 [w październiku 2015 roku]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %}) jest
 tam zdecydowanie spokojniej.
 
-{% post_image "medium","IMGP5241raw1.jpg","Spokojna droga do Sokołowca" %}
+{% photo "IMGP5241raw1.jpg","Spokojna droga do Sokołowca" %}
 
 Będąc tak blisko [Organów Wielisławskich][wiki-organy-wielislawskie]
 błędem było by nie zobaczenie ich ponownie. Podjechaliśmy żółtym
@@ -210,13 +210,13 @@ Teren zdecydowanie nas uspokajał. Widać było że wsie położone są w dolina
 daną wieś czekał delikatny podjazd, który zamieniał się w zjazd gdy
 wjeżdzaliśmy do kolejnej miejscowości.
 
-{% post_image "medium","IMGP5249raw1.jpg","Pola Pogórza Kaczawskiego" %}
+{% photo "IMGP5249raw1.jpg","Pola Pogórza Kaczawskiego" %}
 
 Na horyzoncie widzieliśmy [Ostrzycę][wiki-ostrzyca] obok [Proboszczowa][wiki-proboszczow],
 jednak nie była ona naszym celem. Byłem na niej
 [jesienią 2015 roku]({% post_url 2015-10-18-wejscie-na-ostrzyce %}).
 
-{% post_image "medium","IMGP5263raw1.jpg","Wioski Pogórza Kaczawskiego" %}
+{% photo "IMGP5263raw1.jpg","Wioski Pogórza Kaczawskiego" %}
 
 Z [Proboszczowa][wiki-proboszczow] ruszyliśmy na zachód w stronę [Bełczyny][wiki-belczyna].
 Od tego momentu czułej jak opuszczamy [Pogórze Kaczawskie][wiki-pogorze-kaczawskie].
@@ -226,7 +226,7 @@ podjazdów, tylko pola były zdecydowanie bardziej płaskie.
 Za [Bystrzycą][wiki-bystrzyca] czekał na nas bardzo fajny zjazd aż do [Wlenia][wiki-wlen].
 Około 4km długości i 120m obniżenia terenu po drodze o dobrej jakości.
 
-{% post_image "medium","IMGP5271raw1.jpg","Ostrzyca Proboszczowa" %}
+{% photo "IMGP5271raw1.jpg","Ostrzyca Proboszczowa" %}
 
 Wjeżdzając do [Wlenia][wiki-wlen] zdziwił mnie brak samochodów zaparkowanych na ulicy
 niedaleko centrum. Zrobiliśmy małą przerwę na rynku robiąc na zdjecia i
@@ -236,13 +236,13 @@ Tutaj mieliśmy wybór: albo wracać już do bazy, albo pojechać dalej na zach�
 pociągiem do [Jeleniej Góry][wiki-jelenia-gora]. Wybraliśmy to drugie myśląc, że
 uda nam się dojechać do [Lubania][wiki-luban].
 
-{% post_image "medium","IMGP5281raw1.jpg","Centrum Wlenia" %}
+{% photo "IMGP5281raw1.jpg","Centrum Wlenia" %}
 
 Dostaliśmy się do [Pławny Górnej][wiki-plawna-gorne] cały czas analizując powrót.
 Klasyczne zachowanie podczas ostatniej części trasy. Myślenie o tym aby
 za długo nie czekać na pociąg, jak i aby można na niego sobie poczekać w ogóle.
 
-{% post_image "medium","IMGP5291raw1.jpg","Wiadukt nad drogą" %}
+{% photo "IMGP5291raw1.jpg","Wiadukt nad drogą" %}
 
 Jest takie ciekawe skrzyżowanie między [Marczowem][wiki-marczow] a
 [Golejowem][wiki-golejow]. Jest ono bezkolizyjne gdyż jest dwupoziomowe.
@@ -254,7 +254,7 @@ Droga w stronę [Golejowa][wiki-golejow] jest miejscami bardzo wąska. Wygląda
 jakby to była droga poprowadzona przez czyjeś podwórko niż normalna droga
 publiczna. Polecam ją przejechać.
 
-{% post_image "medium","IMGP5295raw1.jpg","Niedaleko Golejowa" %}
+{% photo "IMGP5295raw1.jpg","Niedaleko Golejowa" %}
 
 W [Pławnej Górnej][wiki-plawna-gorne] widziałem duży pomnik jelenia oraz
 koniec szlaku rowerowego na zlikwidowanej linii kolejowej. Patrząc na mapę
@@ -264,7 +264,7 @@ Skręciliśmy na zachód i jechaliśmy lekkim podjazdem do [Lubomierza][wiki-lub
 Droga ta raczej nie miała nic ciekawego ale polecam sobie przejechać aby
 zobaczyć to własnymi oczami.
 
-{% post_image "medium","IMGP5299raw1.jpg","Wioski pod Masłowcem" %}
+{% photo "IMGP5299raw1.jpg","Wioski pod Masłowcem" %}
 
 Z [Lubomierza][wiki-lubomierz] pojechaliśmy przez [Radoniów][wiki-radoniow]
 chcąc jak najbszybciej dostać się na stację w [Gryfowie Śląskim][wiki-gryfow].

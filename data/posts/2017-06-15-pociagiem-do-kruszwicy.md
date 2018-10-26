@@ -39,7 +39,7 @@ Wstęp
 Trasa kolejowa do [Kruszwicy][wiki-kruszwica] ma dla mnie specjalne znaczenie.
 Powodem jest to, że przebiegała ona przez [Strzelno][wiki-strzelno].
 
-{% post_image "medium","IMGP7669raw1.jpg","Pociąg parowy w Inowrocławiu" %}
+{% photo "IMGP7669raw1.jpg","Pociąg parowy w Inowrocławiu" %}
 
 Nie mogłem nie skorzystać z okazji gdy [Turkol][turkol] opublikował swoją
 ofertę. Bliskość terenów umożliwiła moim rodzicom również uczestniczenie w
@@ -56,13 +56,13 @@ niestety dostosować.
 Może za rok albo dwa ponownie będzie okazja i wtedy uda mi się przejechać
 do [Wapienna][wiki-wapienno].
 
-{% post_image "medium","IMGP7471raw1.jpg","Stacja kolejowa w Kruszwicy" %}
+{% photo "IMGP7471raw1.jpg","Stacja kolejowa w Kruszwicy" %}
 
 Do [Kruszwicy][wiki-kruszwica] dojechaliśmy samochodem około 11-tej.
 Pociąg miał przyjechać
 około 11:30 ale pojawiło się półgodzinne opóźnienie.
 
-{% post_image "medium","IMGP7514raw1.jpg","Pociąg manewrujący w Kruszwicy" %}
+{% photo "IMGP7514raw1.jpg","Pociąg manewrujący w Kruszwicy" %}
 
 Ruszyliśmy pociągiem na północ do [Inowrocławia][wiki-inowroclaw].
 Trasa nie była zbyt długa i można podzielić ją na trzy części:
@@ -71,24 +71,24 @@ Trasa nie była zbyt długa i można podzielić ją na trzy części:
 2. Tereny wiejskie, pola - krótki ale chyba najciekawszy fragment.
 3. Wjazd do [Inowrocławia][wiki-inowroclaw].
 
-{% post_image "medium","IMGP7531raw1.jpg","Wyjeżdzając z Kruszwicy" %}
+{% photo "IMGP7531raw1.jpg","Wyjeżdzając z Kruszwicy" %}
 
 Podział może mało oryginalny ale według mnie najwłaściwszy.
 
-{% post_image "medium","IMGP7561raw1.jpg","Wiejskie tereny" %}
+{% photo "IMGP7561raw1.jpg","Wiejskie tereny" %}
 
 Opuszczając [Kruszwicę][wiki-kruszwica] mijaliśmy zakłady przemysłowe po lewej
 stronie. Dzięki ich istnieniu ta linia kolejowa nie została
 jeszcze rozebrana.
 
-{% post_image "medium","IMGP7583raw1.jpg","Nieoznaczone tory kolejowy" %}
+{% photo "IMGP7583raw1.jpg","Nieoznaczone tory kolejowy" %}
 
 Tereny wiejskie to głównie pola po obu stronach torów i gdzieniegdzie jakieś budynki.
 Najciekawszym miejscem był most kolejowy i tory w kierunku wschodnim. Według
 [Openstreetmap][osm-tory] tory te prowadzą do Jednostki Wojskowej 1523
 2 Pułku Inżynieryjnego.
 
-{% post_image "medium","IMGP7639raw1.jpg","Trudno było nas nie zauważyć" %}
+{% photo "IMGP7639raw1.jpg","Trudno było nas nie zauważyć" %}
 
 Po przejechaniu mostu w [Tupadłach][wiki-tupadly] rozpoczął się ostatni
 fragment trasy - wjazd do [Inowrocławia][wiki-inowroclaw]. Z lewej strony
@@ -96,7 +96,7 @@ mijaliśmy Sodę Mątwy a po prawej część [Inowrocławia][wiki-inowroclaw]
 o podobnej nazwie - Mątwy.
 Kiedyś w tym miejscu był przystanek kolejowy.
 
-{% post_image "medium","IMGP7698raw1.jpg","Czekając na zielone" %}
+{% photo "IMGP7698raw1.jpg","Czekając na zielone" %}
 
 Następnie przjechaliśmy przez Inowrocław Rąbinek. Niedawno wyremontowany
 przystanek który będzie służył w czasie objazdu podczas remontu
@@ -104,9 +104,9 @@ linii kolejowej [nr 3][wiki-linia-3]. Specjalnie skorzystam z tego remontu
 aby dostać się do miejsc gdzie pociąg nie jeździł, czyli:
 [Piotrkow Kujawski][wiki-piotrkow-kujawski] albo [Babiak][wiki-babiak].
 
-{% post_image "medium","IMGP7735raw1.jpg","Opuszczając Inowrocław" %}
+{% photo "IMGP7735raw1.jpg","Opuszczając Inowrocław" %}
 
 Na trasie powrotnej niewiele więcej się działo. Zauważyłem większy ruch
 pociągów towarowych w okolicy.
 
-{% post_image "medium","IMGP7722raw1.jpg","Każdy przejazd Turkolu to drugie tyle osób robiące zdjęcia" %}
+{% photo "IMGP7722raw1.jpg","Każdy przejazd Turkolu to drugie tyle osób robiące zdjęcia" %}

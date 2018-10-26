@@ -33,7 +33,7 @@ Szczegóły
 Opis trasy jest prawie identyczny jak podczas [trzeciego](/trip/2014/07/02/w-strone-skokow-po-raz-3-ci/)
 przejazdu.
 
-{% post_image "medium","IMGP8891raw1.jpg","Krzyż obok mostu między Jeziorem Czarne a Budziszewskie" %}
+{% photo "IMGP8891raw1.jpg","Krzyż obok mostu między Jeziorem Czarne a Budziszewskie" %}
 
 Lista filmików z przejazdu nagrane kamerką:
 

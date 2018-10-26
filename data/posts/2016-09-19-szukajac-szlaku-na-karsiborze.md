@@ -50,25 +50,25 @@ Szczegóły
 Początek trasy jest podobny do dojazdu do "drugiego promu" z
 [dnia wcześniej]({% post_url 2016-09-18-petla-przez-wolinski-park-narodowy %}).
 
-{% post_image "medium","IMGP6922raw1.jpg","Jadąc w stronę Karsiboru" %}
+{% photo "IMGP6922raw1.jpg","Jadąc w stronę Karsiboru" %}
 
 Ruszyliśmy żółtym szlakiem rowerowym. Na mapie on bardzo ładnie okrążał
 cały [Karsibór][wiki-karsibór-wyspa]. W teorii było to idealne. Praktyka okazała
 się być trochę bardziej skomplikowana.
 
-{% post_image "medium","IMGP6935raw1.jpg","Basen U-Bootów" %}
+{% photo "IMGP6935raw1.jpg","Basen U-Bootów" %}
 
 Zgodnie ze szlakiem wjechaliśmy w las, gdzie zobaczyliśmy
 [pomnik lotników RAF][wiki-raf]. I dalej, oczywiście zgodnie ze szlakiem,
 wróciliśmy do głównej drogi w [Karsiborze][wiki-karsibor].
 
-{% post_image "medium","IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego" %}
+{% photo "IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego" %}
 
 
 Wjechaliśmy w Ostoję Ptaków Karsiborska Kępa, gdzie była remontowana
 wieża obserwacyjna. Tam zrobiliśmy chwilę przerwy.
 
-{% post_image "medium","IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach" %}
+{% photo "IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach" %}
 
 
 Wróciliśmy aby kontynuować jazdę szlakiem, jednak nie znaleźliśmy nic co by wyglądało

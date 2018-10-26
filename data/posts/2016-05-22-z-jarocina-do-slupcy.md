@@ -62,12 +62,12 @@ Przed 10-tą dojechaliśmy pociągiem do [Jarocina][wiki-jarocin], gdzie czekał
 pierwszy "duży wysiłek" - wniesienie i zniesienie rowerów po schodach. Taki urok tego
 miasta - izoluje się ono od stacji kolejowej. A może to dworzec się izoluje?
 
-{% post_image "medium","IMGP0437raw1.jpg","Przed podjazdem do Żerkowa" %}
+{% photo "IMGP0437raw1.jpg","Przed podjazdem do Żerkowa" %}
 
 Przejechaliśmy przez miasto. W niedzielę rano na szczęście ruch samochodowy jest
 minimalny, dlatego jechaliśmy głównymi drogami.
 
-{% post_image "medium","IMGP0441raw1.jpg","Wiosna w pełni" %}
+{% photo "IMGP0441raw1.jpg","Wiosna w pełni" %}
 
 Dojechaliśmy do [Wilkowyi][wiki-wilkowyja], a dalej jakąś boczną drogą do
 [Żerkowa][wiki-zerkow]. Cały czas jechaliśmy wokół spokojnym wiosek, jednak
@@ -81,7 +81,7 @@ Nie wiedziałem w tym momencie, że czeka na mnie najciekawszy fragment dzisiejs
 trasy. Wyjeżdzając z wioski rozpoczął się solidny zjazd (jak na te tereny) - około
 38 metrów w dół przez pół kilometra.
 
-{% post_image "medium","IMGP0453raw1.jpg","Wiosna w pełni" %}
+{% photo "IMGP0453raw1.jpg","Wiosna w pełni" %}
 
 
 Wokół mijaliśmy pola kwitnącego rzepaku oraz przydrożne drzewa.
@@ -90,12 +90,12 @@ W [Przybysławie][wiki-przybyslaw] widzieliśmy dużo budynków gospodarczych.
 Wyglądały one raczej na PGR niż budynki przemysłowe, ale pewne jest, że
 najlepszy czas mają za sobą.
 
-{% post_image "medium","IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej" %}
+{% photo "IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej" %}
 
 Przejechaliśmy mostem w stronę [Rudy Komorskiej][wiki-ruda-komorska] - kolejna
 wioska w podobnym klimacie.
 
-{% post_image "medium","IMGP0458raw1.jpg","Ruiny jakiegoś budynku w miejscowości Wrąbczynkowskie Holendry" %}
+{% photo "IMGP0458raw1.jpg","Ruiny jakiegoś budynku w miejscowości Wrąbczynkowskie Holendry" %}
 
 W okolicy [Pyzdr][wiki-pyzdry] nie jechaliśmy trasą nad [Wartą][wiki-warta], gdyż
 obawialiśmy się piasków. Jazda w takim żarze po plaży to ogromne wyzwanie. Z Tego
@@ -109,7 +109,7 @@ kierowaliśmy się do [Słupcy][wiki-slupca]. Sporo zieleni oraz trochę wody
 mijaliśmy po drodzę. Istnienie różnych wód w okolicy jest chyba związane z bliskością
 rzeki [Warty][wiki-warta].
 
-{% post_image "medium","IMGP0465raw1.jpg","Kolonia Ląd" %}
+{% photo "IMGP0465raw1.jpg","Kolonia Ląd" %}
 
 
 Stacja kolejowa w [Słupcy][wiki-slupca] jest położona na uboczu. Cieszyłem się,

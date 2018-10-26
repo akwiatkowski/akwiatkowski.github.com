@@ -63,7 +63,7 @@ wschód. Jak zwykle celem było opuszczenie miasta.
 Przejechaliśmy przez niezelektrfikowane tory kolejowe w kierunku północnym.
 Są one wykorzystywane przez dwie linie kolejowe: [281][wiki-linia-281] i [353][wiki-linia-353].
 
-{% post_image "medium","IMGP0443raw1.jpg","Okolice Karsewa" %}
+{% photo "IMGP0443raw1.jpg","Okolice Karsewa" %}
 
 Dojechaliśmy do skrzyżowania niedaleko torów kolejowych [linii 353][wiki-linia-353].
 Linia ta miała być ulepszona do prędkości przynajmniej 150km/h i ten
@@ -79,7 +79,7 @@ W okolicy [Niechanowa][wiki-niechanowo] przejechaliśmy po torach
 wyraźnie ponad drogą dlatego należy uważać. Na ten moment kolejka ta
 jest nieczynna.
 
-{% post_image "medium","IMGP0444raw1.jpg","Wieś Wódki - tablica" %}
+{% photo "IMGP0444raw1.jpg","Wieś Wódki - tablica" %}
 
 Nasz plan delikatnie ewoluował. Jechaliśmy na południe, jednak nie bezpośrednio
 do [Wrześni][wiki-wrzesnia].
@@ -88,13 +88,13 @@ Wjechaliśmy do miejscowości [Wódki][wiki-wodki] z której blisko jest do
 [Grzybowa][wiki-grzybowo]. W [Grzybowie][wiki-grzybowo] najważniejszym obiektem
 jest wczesnośredniowieczny [gród][wiki-grzybowo-grod].
 
-{% post_image "medium","IMGP0451raw1.jpg","Sklep w Gutowie Wielkim" %}
+{% photo "IMGP0451raw1.jpg","Sklep w Gutowie Wielkim" %}
 
 Bardzo lubię stację podobne do tej jaka jest w [Gutowie Wielkim][wiki-gutowo-wielkie].
 Łączą one bardzo małe miejscowości oraz można zacząć jazdę rowerem bez męczącego
 wyjazdu z miasta. Zrobiliśmy przerwę przy sklepie spożywczym.
 
-{% post_image "medium","IMGP0458raw1.jpg","Wieś Gorzyce" %}
+{% photo "IMGP0458raw1.jpg","Wieś Gorzyce" %}
 
 [Bierzglin][wiki-bierzglin] pomimo tego, że jest niecały kilometr od drogi 92,
 też jest małą klimatyczną miejscowością.
@@ -103,20 +103,20 @@ W [Kołaczkowie][wiki-kolaczkowo] skręciliśmy na zachód i zaczeliśmy
 jechać do punktu docelowego, czyli do stacji w
 [Środzie Wielkopolskiej][wiki-sroda-wlkp].
 
-{% post_image "medium","IMGP0461raw1.jpg","Polna droga niedaleko Gorzyc" %}
+{% photo "IMGP0461raw1.jpg","Polna droga niedaleko Gorzyc" %}
 
 Przed [Miłosławem][wiki-miloslaw] przejechaliśmy obok stawów hodowlanych.
 Jest tam czerwony szlak rowerowy który dla rowerów górskich mógłby być ciekawszy.
 My jechaliśmy drogą asfaltową.
 
-{% post_image "medium","IMGP0469raw1.jpg","Kościół w Miłosławie" %}
+{% photo "IMGP0469raw1.jpg","Kościół w Miłosławie" %}
 
 Przejechaliśmy obok stacji kolejowej w [Miłosławiu][wiki-miloslaw].
 Po wakacjach w 2017 roku miała być wznowiona [linia kolejowa][wiki-linia-281]
 z [Wrześni][wiki-wrzesnia] do [Jarocina][wiki-jarocin]. Piszę ten wpis
 w grudniu i jeszcze nie słyszałem o konkretnym terminie wznowienia.
 
-{% post_image "medium","IMGP0472raw1.jpg","Staw przed Winną Górą" %}
+{% photo "IMGP0472raw1.jpg","Staw przed Winną Górą" %}
 
 Jechaliśmy bardzo szybko zielonym szlakiem. Ostatecznie na peron i do samego pociągu
 wjechałem rowerem tuż przed odjazdem. Pociąg odjechał kilka sekund po tym jak

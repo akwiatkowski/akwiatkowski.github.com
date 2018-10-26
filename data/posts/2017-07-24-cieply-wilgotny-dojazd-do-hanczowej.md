@@ -72,7 +72,7 @@ rowerów na pociąg regionalny do [Grybowa][wiki-grybow].
 W pociągu takich problemów już nie było i oprócz naszych rowerów nie pamiętam
 aby ktokolwiek jeszcze w nim jechał z rowerami, chyba że w drugiej cześci pociągu.
 
-{% post_image "medium","IMGP8920raw1.jpg","Drewniany dom na podjeździe z Grybowa" %}
+{% photo "IMGP8920raw1.jpg","Drewniany dom na podjeździe z Grybowa" %}
 
 W [Grybowie][wiki-grybow] wysiedliśmy z pociągu około gidziny 8-ej. Pisząc ten
 wpis jest wrzesień. Widzę teraz, że jest zastępcza komunikacja autobusowa.
@@ -86,7 +86,7 @@ Czekał na nas długi, lekko stromy podjazd, którego celem była drewniana kapl
 usytuowana na wzgórzu. Z tego miejsca mieliśmy bardzo ładny widok na okoliczne
 miejscowości.
 
-{% post_image "medium","IMGP8930raw1.jpg","Widok na okoliczną wioskę z drewnianej kapliczki pod Chełmem" %}
+{% photo "IMGP8930raw1.jpg","Widok na okoliczną wioskę z drewnianej kapliczki pod Chełmem" %}
 
 Chcieliśmy przejechać czerwonym szlakiem rowerowym pod [Chełmem][wiki-chelm]
 jednak ilość błota na początku mnie przeraziła. Ja wiem "że można" tylko po co
@@ -119,7 +119,7 @@ miejscowości [Łosie][wiki-losie]. Jak się okazało restauracja jest otwierana
 o godzinie 12-tej (nie jestem teraz tego pewien)
 a my byliśmy ponad godzinę przed jej otwarciem.
 
-{% post_image "medium","IMGP8946raw1.jpg","Rzeka Ropa" %}
+{% photo "IMGP8946raw1.jpg","Rzeka Ropa" %}
 
 Mając trochę czasu pojechaliśmy pod zaporę robiąc przerwę obok rzeki.
 Zobaczyliśmy tam dziwnego dużego niebieskiego ślimaka.
@@ -144,7 +144,7 @@ Opuszczając jechaliśmy wijącą się drogą pośrodku całkowicie zielonych g�
 Czuć było dzikość okolicy kontrastującą z ruchem samochodów dostawczych, prawdopodobnie
 jechały one do [Wysowej][wiki-wysowa].
 
-{% post_image "medium","IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej" %}
+{% photo "IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej" %}
 
 Reszta dojazdu do bazy w [Hańczowej][wiki-hanczowa] przebiegła bez niczego
 nadzwyczajnego.
@@ -152,9 +152,9 @@ nadzwyczajnego.
 W bazie niestety mieliśmy dość mały pokój lecz takie problemy nie są istotne na wyjeździe.
 Największą zaletą był spacerujący rudy kot. Sam on wskoczył na bujawkę.
 
-{% post_image "medium","IMGP8993raw1.jpg","Kot w Hańczowej" %}
+{% photo "IMGP8993raw1.jpg","Kot w Hańczowej" %}
 
 Wieczorem poszliśmy do [Wysowej][wiki-wysowa] zobaczyć park i kupić zapasy.
 Martwiłem się prognozą pogody, miało padać przez pół dnia.
 
-{% post_image "medium","IMGP9028raw1.jpg","Wieczorne okolice Hańczowej" %}
+{% photo "IMGP9028raw1.jpg","Wieczorne okolice Hańczowej" %}

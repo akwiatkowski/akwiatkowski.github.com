@@ -21,4 +21,4 @@ Opis trasy
 
 Opis analogiczny do [pierwszego](/trip/2013/08/04/w-strone-skokow-po-raz-1-szy/) przejazdu.
 
-{% post_image "medium","IMGP8432b.jpg","Gołąb przy Jeziorze Budziszewskim" %}
+{% photo "IMGP8432b.jpg","Gołąb przy Jeziorze Budziszewskim" %}

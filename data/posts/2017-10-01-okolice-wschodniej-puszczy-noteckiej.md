@@ -60,7 +60,7 @@ było wtedy około 10 stopni celsjusza.
 Sprawdziłem pociągi i na szybko wygenerowałem trasę. Mieliśmy ruszyć pociagiem o 12:30
 w kierunku [Obornik][wiki-oborniki].
 
-{% post_image "medium","IMGP0893raw1.jpg","Stawy niedaleko Objezierza" %}
+{% photo "IMGP0893raw1.jpg","Stawy niedaleko Objezierza" %}
 
 O godzinie 13-tej wysiedliśmy w [Wargowie][wiki-wargowo] - stacji
 gdzie skończyłem
@@ -80,7 +80,7 @@ Musieliśmy się cofnąć aby dojechać do [Obornik][wiki-oborniki], przed któr
 był całkiem mocny zjazd. Skoro musiałem hamować oznacza to stosunkowo
 mocny zjazd jak na okolice [Poznania][wiki-poznan].
 
-{% post_image "medium","IMGP0899raw1.jpg","Rzeka Flinta niedaleko Ryczywołu" %}
+{% photo "IMGP0899raw1.jpg","Rzeka Flinta niedaleko Ryczywołu" %}
 
 Z [Obornik][wiki-oborniki] musieliśmy jechać drogą 178 na północ przez
 [Dąbrówkę Leśną][wiki-dabrowka-lesna] a dalej przez 5km prostą drogą
@@ -99,7 +99,7 @@ Miejscowości przez którą
 [przejeżdzałem]({% post_url 2016-08-06-przejazd-pociagiem-do-czarnkowa %})
 jadąc pociągiem do [Czarnkowa][wiki-czarnkow].
 
-{% post_image "medium","IMGP0915raw1.jpg","Okolice Sokołowa Budzyńskiego" %}
+{% photo "IMGP0915raw1.jpg","Okolice Sokołowa Budzyńskiego" %}
 
 Wolałem skręcić w stronę [Zawad][wiki-zawady] aby zbliżyć się do
 torów kolejowych. Nie czułem się najlepiej tego dnia.
@@ -108,7 +108,7 @@ Według mapy [UMP][ump] powinniśmy mieć dobrą, spokojną drogę asfaltową.
 W praktyce przez dłuższy czas była to ubita droga gruntowa. Może w niedalekiej
 przyszłości ma ona być asfaltowana.
 
-{% post_image "medium","IMGP0916raw1.jpg","Wjeżdzając do Sokołowa Budzyńskiego" %}
+{% photo "IMGP0916raw1.jpg","Wjeżdzając do Sokołowa Budzyńskiego" %}
 
 Zrobiłem kilka zdjęć "aby jakieś były". Cała trasę przejechaliśmy sprawnie
 i w miarę szybko.
@@ -116,7 +116,7 @@ i w miarę szybko.
 W [Sokołowie Budzyńskim][wiki-sokolowo-budzynskie] w sklepie dokupiłem
 jedzenie. Jest to całkiem klimatyczna wieś ze stawem w środku.
 
-{% post_image "medium","IMGP0929raw1.jpg","Staw w Sokołowie Budzyńskim" %}
+{% photo "IMGP0929raw1.jpg","Staw w Sokołowie Budzyńskim" %}
 
 Pojechaliśmy od razu na stację kolejowa, aby wiedzieć i mieć pewność gdzie ona
 jest. Nie chciałem ryzykować nie zdążeniem na pociąg. Sama stacja mi się podobała.
@@ -128,4 +128,4 @@ pojechać chwilę
 na wschód do [Popielna][wiki-popielno]. Tam zrobiłem ostatnie zdjęcia
 tego dnia.
 
-{% post_image "medium","IMGP0937raw1.jpg","Okolice Popielna" %}
+{% photo "IMGP0937raw1.jpg","Okolice Popielna" %}

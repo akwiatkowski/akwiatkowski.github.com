@@ -95,7 +95,7 @@ Następnie przejechałem przez [Kakulin][wiki-kakulin] przez który przechodzi
 Cysterski Szlak Rowerowy. Sama wioska była trochę bardziej dziksza niż poprzednia,
 ale jadąc pod słońce filmik niewiele ciekawego by pokazywał z tej miejscowości.
 
-{% post_image "medium","IMGP6973raw1.jpg","Końcówka lata gdzieś na wschód od Skoków" %}
+{% photo "IMGP6973raw1.jpg","Końcówka lata gdzieś na wschód od Skoków" %}
 
 Podobały mi się drzewa wokół drogi do [Kuszewa][wiki-kuszewo].
 Dalej powinienem jechać prosto i szybko skorygowałem kierunek, gdyż omyłkowo
@@ -105,7 +105,7 @@ Patrząc na nagrane filmiki mam wrażenie, że na żywo trasa mi się bardziej p
 Na pewno ładniejsza by była gdybym jechał przed żniwami, kiedy pola są
 bardziej kolorowe.
 
-{% post_image "medium","IMGP6980raw1.jpg","Stary dom przy drodze" %}
+{% photo "IMGP6980raw1.jpg","Stary dom przy drodze" %}
 
 
 Przejechałem przez [Pląskowo][wiki-plaskowo] - bardzo krótką wioskę.
@@ -118,7 +118,7 @@ takiej samej klasy, ale tutaj ruch był znacznie mniejszy. Było widać to po
 jakości drogi, a nie samochodach, które tego dnia i tej pory jeździły raczej rzadko
 prawie wszędzie.
 
-{% post_image "medium","IMGP6986raw1.jpg","Gdzieniegdzie można znaleźć brukowane drogi" %}
+{% photo "IMGP6986raw1.jpg","Gdzieniegdzie można znaleźć brukowane drogi" %}
 
 
 Przejechałem przez główną ulicę w [Łopiennie][wiki-lopienno], która
@@ -133,7 +133,7 @@ w połowie między [Łopienną][wiki-lopienno] a [Gączem][wiki-gacz], przez
 tą drugą miejscowość
 przejechałem chwilę później.
 
-{% post_image "medium","IMGP7004raw1.jpg","Wjeżdzając do Rzymu" %}
+{% photo "IMGP7004raw1.jpg","Wjeżdzając do Rzymu" %}
 
 
 [Miniszewo][wiki-miniszewo] było krótką wioską, jeszcze dzikszą. Czułem jak
@@ -158,7 +158,7 @@ W miejscowości [Grochowicka Szlacheckie][wiki-grochowicka-szlacheckie] skręci�
 z tej trochę ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
 po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
 
-{% post_image "medium","IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa" %}
+{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa" %}
 
 Wcześniej stwierdziłem, że o tej porze ruch wszędzie będzie znikomy, jednak w
 okolicy dróg krajowych tak nie było i mnie to nie dziwiło.
@@ -185,7 +185,7 @@ Widziałem obok informacje o Grodzie Piasta po lewej stronie, jednak nie miałem
 i nie chciało mi się tego teraz sprawdzać. Jak się później okazało, jest to
 raczej [komercyjne miejsce][grood-piasta].
 
-{% post_image "medium","IMGP7020raw1.jpg","Jezioro Oćwieckie" %}
+{% photo "IMGP7020raw1.jpg","Jezioro Oćwieckie" %}
 
 Od tego momentu jechałem głównie wąskimi drogami asfaltowymi wokół pól.
 Niestety o tej porze roku większość jest już zaorana.
@@ -197,7 +197,7 @@ Większą miejscowością od poprzedniej wioski była [Dąbrowa][wiki-dabrowa].
 Na mapie widać jakieś tory po zachodniej stronie, prawdopodobnie jest to
 nieużywana kolej wąskotorowa.
 
-{% post_image "medium","IMGP7023raw1.jpg","Droga przez pola" %}
+{% photo "IMGP7023raw1.jpg","Droga przez pola" %}
 
 Z niej kierowałem się do [Mierucina][wiki-mierucin] za którym musiałem
 przejechać przez las i od tego miejsca prostą drogą jechałem do

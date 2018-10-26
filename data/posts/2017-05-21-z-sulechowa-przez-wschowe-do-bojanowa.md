@@ -77,7 +77,7 @@ z mapą, w tych stronach nie ma dużo opcji na jazdę mniej uczęszczanymi droga
 Mieliśmy przejechać przez [Głuchów][wiki-gluchow] ale przeoczyliśmy
 właściwe skrzyżowanie.
 
-{% post_image "medium","IMGP6397raw1.jpg","Kanał Obra w Radowicach" %}
+{% photo "IMGP6397raw1.jpg","Kanał Obra w Radowicach" %}
 
 Przez [Borek][wiki-borek] wjechaliśmy drogą polną. Minęliśmy ślady po
 zlikwidowanej [linii kolejowej 379][wiki-linia-379].
@@ -87,7 +87,7 @@ na niektórych mapach nie ma. Droga była brukowa przez co Michał nie był
 zadowolony jadąc swoim crossem. W zamian po obu stronach były żółte pola
 rzepaku.
 
-{% post_image "medium","IMGP6415raw1.jpg","Nienarysowana droga do Ledna" %}
+{% photo "IMGP6415raw1.jpg","Nienarysowana droga do Ledna" %}
 
 Dojechaliśmy do [Swarzynic][wiki-swarzynice]. Zaciekawiły mnie ruiny
 czegoś co wyglądało jak duże gospodarstwo rolne.
@@ -103,7 +103,7 @@ główną drogą ruszyliśmy na południe przez [Buczkow][wiki-buczkow] do
 [Lubięcina][wiki-lubiecin]. W okolicy [Buczkowa][wiki-buczkow] droga była
 wyraźnie piaszczysta.
 
-{% post_image "medium","IMGP6428raw1.jpg","Droga 318 niedaleko Lubięcina" %}
+{% photo "IMGP6428raw1.jpg","Droga 318 niedaleko Lubięcina" %}
 
 Skręciliśmy na wschód w [Lubięcinie][wiki-lubiecin] na drogę 318, która będąc
 również drogą wojewódzką była wyraźnie spokojniejsza od drogi 278. Może kiedyś
@@ -113,13 +113,13 @@ Wjechaliśmy w tereny leśne, minęliśmy [Tarnów Jezierny][wiki-tarnow-jeziern
 Jest sporo ciekawych jezior w tych okolicach, ale tego dnia nie mieliśmy czasu
 na ich zobaczenie.
 
-{% post_image "medium","IMGP6441raw2.jpg","Jezioro Sławskie" %}
+{% photo "IMGP6441raw2.jpg","Jezioro Sławskie" %}
 
 W [Sławie][wiki-slawa] podjechaliśmy na plażę w parku przy Jeziorze Sławskim.
 Bardzo fajny park, jest tam dużo drzew pokrytych bluszczem i alejki wyglądają
 jak pół-dzikie ścieżki.
 
-{% post_image "medium","IMGP6479raw1.jpg","Park w Sławie" %}
+{% photo "IMGP6479raw1.jpg","Park w Sławie" %}
 
 Opuszczając tą miejscowość drogą 278 widzieliśmy po prawej stronie ciekawy
 stary zakład przemysłowy.
@@ -130,7 +130,7 @@ zlikwidowana w 2012. To jest aż straszne,
 że wiekszość infrastruktury kolejowej została likwidowana w przeciągu 10 lat.
 Trudno nie doszukiwać się tutaj pochopności decyzji.
 
-{% post_image "medium","IMGP6487raw1.jpg","Droga przez Łysiny" %}
+{% photo "IMGP6487raw1.jpg","Droga przez Łysiny" %}
 
 Dojechaliśm do [Wschowy][wiki-wschowa] jadąc przez jakiś park. Na rynku była
 uroczystość dla straży pożarnej. Nie mogliśmy znaleźć miejsca aby zjeść gdyż
@@ -140,13 +140,13 @@ kebaba.
 Robiło się dla nas trochę późno. Michał chciał wrócić pociągiem około 16-tej,
 ale nie wiedział ile mamy jeszcze trochę kilometrów do zrobienia.
 
-{% post_image "medium","IMGP6499raw2.jpg","Stary kościół we Wschowie" %}
+{% photo "IMGP6499raw2.jpg","Stary kościół we Wschowie" %}
 
 Ze [Wschowy][wiki-wschowa] ruszyliśmy drogą 305. Ponownie nie mam tutaj dużo
 do opisania gdyż jest to droga bardziej "samochodowa" niż stworzona dla
 turystyki.
 
-{% post_image "medium","IMGP6500raw1.jpg","Kapliczka przy wyjeździe z Sycin" %}
+{% photo "IMGP6500raw1.jpg","Kapliczka przy wyjeździe z Sycin" %}
 
 Przez [Łęgoń][wiki-legon] dojechaliśmy do [Sicin][wiki-siciny] gdzie
 postanowiłem opuścić drogę wojewódzką i jechać przez lokalne wioski.
@@ -160,7 +160,7 @@ Jadąc przez [Strumienną][wiki-strumienna] mineliśmy budynki dworca kolejowego
 Przebiaga tutaj [linia 372][wiki-linia-372]. Linia ta również została zamknięta
 w roku 1991, ale tym razem została przekazana na rzecz samorządu.
 
-{% post_image "medium","IMGP6503raw1.jpg","Pola w Borszynie Wielkiem" %}
+{% photo "IMGP6503raw1.jpg","Pola w Borszynie Wielkiem" %}
 
 Przejechaliśmy szybko przez [Górę][wiki-gora]. Miejscowość ta jest na trasie
 dojazdu samochodem w stronę [Jeleniej Góry][wiki-jelenia-gora].
@@ -168,7 +168,7 @@ dojazdu samochodem w stronę [Jeleniej Góry][wiki-jelenia-gora].
 Postanowiliśmy ,że nie będziemy jechać do [Rawicza][wiki-rawicz] aby ze
 spokojem zdążyć na pociąg.
 
-{% post_image "medium","IMGP6503raw1.jpg","Rzepak w Zaporowicach" %}
+{% photo "IMGP6503raw1.jpg","Rzepak w Zaporowicach" %}
 
 Wyjeżdzając skręciliśmy na [Borszyn Wielki][wiki-borszyn-wielki] za którym
 mieliśmy już okazje jechać wyznaczonym szlakiem rowerowym.

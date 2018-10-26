@@ -64,7 +64,7 @@ otwartego ognia i nie wiadomo, co się paliło.
 Na wysokości [Wałbrzycha][wiki-walbrzych] pobliskie górki
 bardzo ładnie przechodziły gradientem ośnieżenia.
 
-{% post_image "medium","IMGP8986raw1.jpg","Wodospad Kamieńczyk" %}
+{% photo "IMGP8986raw1.jpg","Wodospad Kamieńczyk" %}
 
 
 Po dotarciu do stacji [Szklarska Poręba Górna][wiki-szklarska-gorna]
@@ -77,7 +77,7 @@ blokując wejście.
 Dzisiaj była niedziela i trochę ludzi poruszało się po mieście. Większość to
 były zwykłe osoby, którzy przyjechali odpocząć i pojeść, a nie się zmęczyć.
 
-{% post_image "medium","IMGP8993raw1.jpg","Wodospad Kamieńczyk" %}
+{% photo "IMGP8993raw1.jpg","Wodospad Kamieńczyk" %}
 
 
 Zostawiłem moje rzeczy w bazie i ruszyłem aby zobaczyć trasę dojściową
@@ -92,7 +92,7 @@ Skoro wyciągów nie ma to pomyślałem, że przejdę się do [Kamieńczyka][wik
 i może trochę dalej - aby mieć rozpoznanie trasy przed dniem
 [jutrzejszym]({% post_url 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy %}).
 
-{% post_image "medium","IMGP9011raw1.jpg","Rzeka Kamieńczyk" %}
+{% photo "IMGP9011raw1.jpg","Rzeka Kamieńczyk" %}
 
 
 Gdy
@@ -121,7 +121,7 @@ jakoś specjalnie nie jestem z nich zadowolony. Częściowo wodospad jest
 zamarznięty, a najlepsze rezultaty są, gdy można zarejestrować ruch
 jakiś cząsteczek na wodzie (np. liści). Muszę tutaj więcej eksperymentować.
 
-{% post_image "medium","IMGP9022raw1.jpg","Szklarska Poręba wieczorem" %}
+{% photo "IMGP9022raw1.jpg","Szklarska Poręba wieczorem" %}
 
 Wskoczyłem na chwilę do schroniska aby coś zjeść. Później porozmawiałem z
 ludźmi schodzącymi z góry o tym jak wygląda szlak na [Szrenicę][wiki-szrenica].

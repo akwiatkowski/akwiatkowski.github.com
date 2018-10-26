@@ -68,7 +68,7 @@ kierowaliśmy się na południe
 przez [Nowinki][wiki-nowinki]. W rzeczywistości ten szlak był oznaczony czarną farbą.
 Przez dłuższy czas szlak był poprowadzony ścieżką w lesie, równolegle do drogi asfaltowej.
 
-{% post_image "medium","IMGP9037raw1.jpg","W lesie obok Drużyny (Poznańskiej)" %}
+{% photo "IMGP9037raw1.jpg","W lesie obok Drużyny (Poznańskiej)" %}
 
 Kilka kilometór musieliśmy jechać po drodzę asfaltowej, na szczęście ruch nie był duży.
 Po lewej stronie mijaliśmy ogrodzenie, prawdopodobnie od jakiegoś dużego gospodarstwa
@@ -80,7 +80,7 @@ lekkiego spadu terenu udało się osiągnąć całkiem dużą prędkość.
 Przejechaliśmy przez [Pecnę][wiki-pecna] i [Czempiń][wiki-czempin]. Nic tam nie nagrałem,
 chyba nic specjalnie ciekawego nie było.
 
-{% post_image "medium","IMGP9073raw1.jpg","Między Gorzycami a Witkówkiem" %}
+{% photo "IMGP9073raw1.jpg","Między Gorzycami a Witkówkiem" %}
 
 Ruszyliśmy dalej na południe przez [Borowo][wiki-borowo]. Tutaj wcześniej planowałem
 jechać czerwonym szlakiem rowerowym ulicą Kolejową. Każdy plan jest taką ogólną ideą i
@@ -93,7 +93,7 @@ rowerowym. Po pewnym czasie dołączyliśmy do wcześniej planowanego szlaku i j
 na południe przez [Witkówki][wiki-witkowki] aż do miejscowości [Racot][wiki-racot],
 przez którą przepływa Racocki Rów. Podobały mi się tory na zachód w tej miejscowości.
 
-{% post_image "medium","IMGP9088raw1.jpg","Zarośnięta linia kolejowa Kościan-Gostyń" %}
+{% photo "IMGP9088raw1.jpg","Zarośnięta linia kolejowa Kościan-Gostyń" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -108,7 +108,7 @@ Dalej ruszyliśmy do [Gryżyny][wiki-gryzyna], a dalej wokół jeziora [Wonieś�
 Bardzo fajny, długi, ale lekki zjazd, oraz jezioro po lewej stronie - to były jedne z ciekawszych
 terenów tego dnia.
 
-{% post_image "medium","IMGP9104raw1.jpg","Okolica jeziora Wonieść" %}
+{% photo "IMGP9104raw1.jpg","Okolica jeziora Wonieść" %}
 
 Do cywilizacji (dworca kolejowego w [Przysiece Polskiej][wiki-przysieka-polska])
 wracaliśmy przez [Gniewowo][wiki-gniewowo]. Tam widzieliśmy pawia. Pierwszy raz

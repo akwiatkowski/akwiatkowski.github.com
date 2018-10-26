@@ -48,7 +48,7 @@ Tym razem ja sam poszedłem na wschód Słońca. Przez Słońce świecące cały
 dzień drzewa pozbyły się swojego białego ośnieżenia. Jako solidna nagroda pocieszenia
 w dolinach zaczęły pojawiać się mgły, a w dalszych terenach również chmury.
 
-{% post_image "medium","IMGP0922raw1.jpg","Jelenia Góra nad ranem" %}
+{% photo "IMGP0922raw1.jpg","Jelenia Góra nad ranem" %}
 
 
 Po doświadczeniach
@@ -58,7 +58,7 @@ raczki założyłem prawie od razu na szlaku.
 Z punktu widzenia fotografii tego dnia widoki były ciekawsze. Ponownie
 brakowało mi Sigmy 150-500 do robienia zdjęć wiosek w oddali.
 
-{% post_image "medium","IMGP0995raw1.jpg","Oświetlone mgły inwersji w dolinach" %}
+{% photo "IMGP0995raw1.jpg","Oświetlone mgły inwersji w dolinach" %}
 
 
 Tym razem nie musiałem iść do [Skalnego Stołu][wiki-skalny-stol].
@@ -87,7 +87,7 @@ na [Czarną Kopę][wiki-czarna-kopa]. Gdy weszliśmy później w kosodrzewinę
 mieliśmy widok na [Śnieżkę][wiki-sniezka], Czechy,
 [Karpacz][wiki-karpacz] oraz okolicę [Jeleniej Góry][wiki-jelenia-gora].
 
-{% post_image "medium","IMGP1026raw1.jpg","Śnieżka naprzeciwko" %}
+{% photo "IMGP1026raw1.jpg","Śnieżka naprzeciwko" %}
 
 Podobały mi się znacznie gęstsze chmury po stronie czeskiej.
 
@@ -98,20 +98,20 @@ Ludzie robią pewne rzeczy nie wiedząc, że coś jest niemożliwe. Tak samo
 jest z wchodzeniem na oblodzoną [Śnieźkę][wiki-sniezka] bez raczków (lub raków).
 Nie wiedzą że się nie da i to robią. Ja wiem i nie wejdę.
 
-{% post_image "medium","IMGP1048raw1.jpg","Obserwatorium na Śnieżce" %}
+{% photo "IMGP1048raw1.jpg","Obserwatorium na Śnieżce" %}
 
 Decyzję o schodzeniu podjeliśmy bardzo szybko. Jedyny czeski bufet był przepełniony
 i nie czułbym się dobrze w takim tłumie. Ponownie zrobiliśmy
 przerwę w [Jelence][wiki-schronisko-jelenka].
 
-{% post_image "medium","IMGP1054raw1.jpg","Karpacz, Miłków i okolice" %}
+{% photo "IMGP1054raw1.jpg","Karpacz, Miłków i okolice" %}
 
 
 Dalej schodziliśmy szlakiem żółtym. Tak jak czerwony i ten był dość nudnym
 szlakiem przez las. No może czerwony był ciekawszy gdyż czasem był jakiś
 widok z za drzew, a żółty to głównie droga dostawcza do schroniska.
 
-{% post_image "medium","IMGP1068raw1.jpg","Czeska część Karkonoszy" %}
+{% photo "IMGP1068raw1.jpg","Czeska część Karkonoszy" %}
 
 
 Pod koniec popsuł mi się drugi raczek i je zdjąłem aby mnie nie denerwowały.
@@ -122,7 +122,7 @@ Musiałem wtedy chodzić ostrożniej.
 Zeszliśmy do [Małej Upy][wiki-mala-upa] aby kupić zapasy i wróciliśmy
 do [schroniska][wiki-schronisko-okraj].
 
-{% post_image "medium","IMGP1065raw1.jpg","Mała Upa na tle okolic Lubawki" %}
+{% photo "IMGP1065raw1.jpg","Mała Upa na tle okolic Lubawki" %}
 
 
 Tego dnia dwa razy wyraźnie czuliśmy paloną trawę. Tak blisko a zupełnie inne

@@ -47,7 +47,7 @@ Na początku dojechaliśmy autobusem 46 do pętli Strzeszyn. Mieliśmy prawie
 w okolicy Strumienia Strzeszyńskiego i okolicznych stawów aby zabić
 trochę czasu do odjazdu autobusu 95.
 
-{% post_image "medium","IMGP0036raw1.jpg","Staw na Strzeszynie" %}
+{% photo "IMGP0036raw1.jpg","Staw na Strzeszynie" %}
 
 Wysiedliśmy na przystanku Kiekrz Kościół i ruszyliśmy do jeziora Kierskie
 Małe. Wokół mijaliśmy bardzo dużo domów jednorodzinnych i całkiem sporo
@@ -56,7 +56,7 @@ kotów. Chyba przy jednej posesji raz były aż 4 koty.
 Następnie kierowaliśmy się do [Pawłowic][wiki-pawlowice] idąc czerwonym szlakiem
 rowerowym.
 
-{% post_image "medium","IMGP0051raw1.jpg","Jezioro Kierskie Duże" %}
+{% photo "IMGP0051raw1.jpg","Jezioro Kierskie Duże" %}
 
 
 Po dotarciu do skrzyżowania, gdzie na północ można jechać dalej w stronę
@@ -70,13 +70,13 @@ do szlaku rowerowego. Wiedzie ona przez okoliczne pola.
 Pomimo jesiennej aury miejscami krajobraz był wiosenny, co widać na głównym
 zdjęciu tego wpisu.
 
-{% post_image "medium","IMGP0103raw1.jpg","Krople na liściu" %}
+{% photo "IMGP0103raw1.jpg","Krople na liściu" %}
 
 Jako ciekawostkę - odległość między stacją kolejową w [Kiekrzu][wiki-kiekrz]
 a w [Złotnikach][wiki-zlotniki] to tylko 4km w linii prostej (do 6km po drodze
 gruntowej).
 
-{% post_image "medium","IMGP0172raw1.jpg","Chmura gradowa" %}
+{% photo "IMGP0172raw1.jpg","Chmura gradowa" %}
 
 
 Gdy dotarliśmy do ulicy Słonecznej zaczęliśmy kierować się na południe.
@@ -86,4 +86,4 @@ Przez chwilę złapał nas lekki grad co było nawet ciekawym doświadczeniem.
 Po przejściu przez tory minęliśmy tereny zaniedbanego ośrodka wczasowego,
 gdzie bardzo dużo drewnianych domków było za okresem swojej świetności.
 
-{% post_image "medium","IMGP0201raw1.jpg","Zaniedbany domek wczasowy" %}
+{% photo "IMGP0201raw1.jpg","Zaniedbany domek wczasowy" %}

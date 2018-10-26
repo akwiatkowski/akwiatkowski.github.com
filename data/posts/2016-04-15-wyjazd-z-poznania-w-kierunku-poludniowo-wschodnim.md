@@ -54,7 +54,7 @@ W momencie gdy minąłem tablicę oznaczającą koniec miasta i tak miałem
 świadomość, że są to miejscowości pod-poznańskie, że są to "sypialnie Poznania".
 Musiałbym pojechać gdzieś dalej, a niestety tego dnia nie miałem dużo czasu.
 
-{% post_image "medium","IMGP9223raw1.jpg","Podmiejska wioska" %}
+{% photo "IMGP9223raw1.jpg","Podmiejska wioska" %}
 
 Na szczęście nie wszystko tego dnia było złe. Wymienię miejsca, które najbardziej mi się
 spodobały:

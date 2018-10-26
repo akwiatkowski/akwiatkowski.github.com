@@ -118,7 +118,7 @@ się na tym nie znam.
 
 Z Michałem spotkaliśmy się niedaleko [Zybertowa][wiki-zybertowo].
 
-{% post_image "medium","IMGP7068raw1.jpg","Dojeżdzając do Gowino" %}
+{% photo "IMGP7068raw1.jpg","Dojeżdzając do Gowino" %}
 
 Jadąc już razem ruszyliśmy bardzo mało uczęszczaną drogą
 (i jednocześnie lekkim zjazdem, przez las)
@@ -133,7 +133,7 @@ uczucie przebywania blisko dużej miejscości. Duża ilość nowych
 domów sprawiała takie wrażenie. Od [Gdyni][wiki-gdynia] odgradzał
 nas tylko [Trójmiejski Park Krajobrazowy][wiki-trojmiejski-park].
 
-{% post_image "medium","IMGP7075raw1.jpg","Dojeżdzając do Sopieszyno w zielonym tunelu" %}
+{% photo "IMGP7075raw1.jpg","Dojeżdzając do Sopieszyno w zielonym tunelu" %}
 
 Cały czas jechaliśmy delikatnym podjazdem. Docelowo musieliśmy
 podjechać do 155m n.p.m aby później mieć krótki zjazd
@@ -152,7 +152,7 @@ niż zjeżdzamy.
 Co do komunikacji miejskiej to dojeżdza tutaj autobus gdyńskiego PKS -
 linia [632][linia-632].
 
-{% post_image "medium","IMGP7084raw1.jpg","Pola niedaleko miejscowości Szemud" %}
+{% photo "IMGP7084raw1.jpg","Pola niedaleko miejscowości Szemud" %}
 
 Przejechaliśmy obok Żwirowni Głazica i chyba przez moje niezatrzymanie się
 dojechaliśmy do miejscowości
@@ -162,7 +162,7 @@ Chwilę wytchnienia od klimatu podmiejskości poczułem w
 [Szemudzkiej Hucie][wiki-szemudzka-huta] pomimo kilku
 niedawno ukończonych domów.
 
-{% post_image "medium","IMGP7112raw1.jpg","Zielone pagórki niedaleko Trzech Rzek" %}
+{% photo "IMGP7112raw1.jpg","Zielone pagórki niedaleko Trzech Rzek" %}
 
 Za [Jelonkiem][wiki-jelonek] jechaliśmy ulicą Dębową po wystarczająco
 ubitym piasku a następnie lasem dojechaliśmy do [Trzech Rzek][wiki-trzy-rzeki].
@@ -170,13 +170,13 @@ ubitym piasku a następnie lasem dojechaliśmy do [Trzech Rzek][wiki-trzy-rzeki]
 Stopniowo teren stawał się bardziej pagórkowaty, zwłaszcza w okolicy
 wsi [Szarłata][wiki-szarlata].
 
-{% post_image "medium","IMGP7123raw1.jpg","Krowa we wsi Szarłata" %}
+{% photo "IMGP7123raw1.jpg","Krowa we wsi Szarłata" %}
 
 Tym razem to ja nie byłem nawigatorem. Wolałem pozostawić wybór trasy
 Michałowi, a tylko czasami dodawać moje uwagi, które chyba zbyt
 przydatne nie były.
 
-{% post_image "medium","IMGP7134raw2.jpg","Okolica Bagniewa" %}
+{% photo "IMGP7134raw2.jpg","Okolica Bagniewa" %}
 
 Kierowaliśmy się do [Kartuz][wiki-kartuzy]. Ostatnie 3 kilometry to dość
 monotonny las i bardziej ruchliwa droga 224.
@@ -197,7 +197,7 @@ przejeżdzając przez teren kościoła widzieliśmy czyiś ślub.
 Patrząc na mapę widzę jak bardzo mogliśmy trasę zoptymalizować i skrócić
 gdybyśmy jechali przez Jar Rzeki [Radunii][wiki-rzeka-radunia].
 
-{% post_image "medium","IMGP7142raw1.jpg","Tory kolejowe przed Otomino" %}
+{% photo "IMGP7142raw1.jpg","Tory kolejowe przed Otomino" %}
 
 Nie byłem bardzo zadowolony z dzisiejszej trasy. Te legendarne
 [Kaszuby][wiki-kaszuby] poznałem tylko miejscami. Większość to niestety

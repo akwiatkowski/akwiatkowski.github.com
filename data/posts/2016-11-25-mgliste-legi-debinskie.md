@@ -54,20 +54,20 @@ Przeszedłem się moją standardową trasą przez trzy mosty robiąc zdjęcia.
 Zdjęcia
 -------
 
-{% post_image "medium","IMGP9912raw2.jpg","Późna jesień na Łęgach Dębińskich" %}
+{% photo "IMGP9912raw2.jpg","Późna jesień na Łęgach Dębińskich" %}
 
 Pomarańczowa barwa jest zdecydowanie oszustwem. Była to normalna mgła i
 wszystko było białe, jednak wolałem ocieplić scenę aby dodać klimatu.
 
-{% post_image "medium","IMGP9973raw1.jpg","Łęgi Dębińskie" %}
+{% photo "IMGP9973raw1.jpg","Łęgi Dębińskie" %}
 
 Zatoczka na Łęgach Dębińskich. Wokół spadły już chyba wszystkie liście.
 
-{% post_image "medium","IMGP9927raw1.jpg","Łęgi Dębińskie - staw najbliżej ulicy" %}
+{% photo "IMGP9927raw1.jpg","Łęgi Dębińskie - staw najbliżej ulicy" %}
 
 Jest to moje ulubione miejsce. Staw ten jest bardzo rozciągnięty. Można spokojnie chodzić
 wokół niego.
 
-{% post_image "medium","IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy" %}
+{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy" %}
 
 Główna ścieżka przechodząca przez Łęgi - niebieski (Nadwarciański) szlak rowerowy.

@@ -68,55 +68,55 @@ miejsce - polana w lesie przez którą
 przebiega droga asfaltowa. Podczas długiego naświetlenia światła samochodu
 tworzą ciekawy efekt.
 
-{% post_image "medium","IMGP1781raw1cropped.jpg","Światła samochodu" %}
+{% photo "IMGP1781raw1cropped.jpg","Światła samochodu" %}
 
 W [Trzcińsku][wiki-trzcinsko] lampy sodowe jeszcze przez pewien czas były włączone.
 Tym razem dzięki lepszej widoczności zdjęcia są ciekawsze.
 
-{% post_image "medium","IMGP1786raw1.jpg","Trzcińsko w światłach lamp sodowych" %}
+{% photo "IMGP1786raw1.jpg","Trzcińsko w światłach lamp sodowych" %}
 
 Na wschód w okolicy [Ciechanowic][wiki-ciechanowice] mgły były najbardziej widoczne.
 Były tam najbardziej gęste.
 
-{% post_image "medium","IMGP1803raw1.jpg","Mgły w okolicach Ciechanowic" %}
+{% photo "IMGP1803raw1.jpg","Mgły w okolicach Ciechanowic" %}
 
 Tuż po wschodzie Słońca wykorzystałem czerwone promienie aby zabarwić zdjęcie
 charakterystycznego
 miejsca występowania "laserów" (to nie były jeszcze same "lasery").
 
-{% post_image "medium","IMGP1862raw1.jpg","Czerwona poświata" %}
+{% photo "IMGP1862raw1.jpg","Czerwona poświata" %}
 
 Patrząc w okolice [Dziwiszowa][wiki-dziwiszow] można zaobserwować warstwowe i naprzemienne
 ułożenie zalesionych pagórków oraz pól położonych nieznacznie niżej. Na polach pojawiła się
 delikatna mgiełka.
 
-{% post_image "medium","IMGP1876raw1.jpg","Naprzemienne zalesione pagórki i mgły na polach" %}
+{% photo "IMGP1876raw1.jpg","Naprzemienne zalesione pagórki i mgły na polach" %}
 
 Zrobiłem zdjęcie szerszego widoku na [Trzcińsko][wiki-trzcinsko] i [Góry Kaczawskie][wiki-gory-kaczawskie].
 
-{% post_image "medium","IMGP1918raw1.jpg","Widok na Trzcińsko i Góry Kaczawskie" %}
+{% photo "IMGP1918raw1.jpg","Widok na Trzcińsko i Góry Kaczawskie" %}
 
 Patrząc w drugą stronę (na południę) mgły również pojawiły
 się w okolicy wsi [Karpniki][wiki-karpniki].
 
-{% post_image "medium","IMGP2002raw1.jpg","Widok na Karpniki" %}
+{% photo "IMGP2002raw1.jpg","Widok na Karpniki" %}
 
 Pierwszy raz udało mi się zaobserwować słynne "lasery". Pojawiają się one gdy
 promienie słoneczne padają na drzewa, są one widoczne jako cienie na mgle.
 
-{% post_image "medium","IMGP2072raw1.jpg","Lasery widziane z Sokolika" %}
+{% photo "IMGP2072raw1.jpg","Lasery widziane z Sokolika" %}
 
 Słońce już w tym momencie oświetlało chyba wszystko. Poniżej zdjęcie
 [Karkonoszy][wiki-karkonosze] oraz części [Kotliny Jeleniogórskiej][wiki-kotlina-jelenia].
 
-{% post_image "medium","IMGP2107raw1.jpg","Widok na Karkonosze" %}
+{% photo "IMGP2107raw1.jpg","Widok na Karkonosze" %}
 
 Około 8:30 zacząłem schodzić. Zrobiłem jeszcze jedno zdjęcie z uwzględnieniem
 skał [Sokolika][wiki-sokolik].
 
-{% post_image "medium","IMGP2146raw1.jpg","Widok w stronę Janowic Wielkich w momencie gdy już promienie docierają do wiosek" %}
+{% photo "IMGP2146raw1.jpg","Widok w stronę Janowic Wielkich w momencie gdy już promienie docierają do wiosek" %}
 
 Podczas zejścia do [Trzcińska][wiki-trzcinsko] zrobiłem jeszcze kilka zdjęć pokazujących
 złotą polską jesień.
 
-{% post_image "medium","IMGP2152raw1.jpg","Jesienne okolice Sokolika na niebieskim szlaku pieszym" %}
+{% photo "IMGP2152raw1.jpg","Jesienne okolice Sokolika na niebieskim szlaku pieszym" %}

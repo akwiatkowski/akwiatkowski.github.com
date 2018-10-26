@@ -74,7 +74,7 @@ podjechać do przełęczy obok [Łysej Góry][wiki-lysa-gora].
 Zjazd będzie delikatniejszy i znacznie dłuższy. Jak się nie mylę
 miało być około 12km lekkiego, jak na te tereny, zjazdu.
 
-{% post_image "medium","IMGP6019raw1.jpg","Konie w Janówku" %}
+{% photo "IMGP6019raw1.jpg","Konie w Janówku" %}
 
 Z przełęczy zjechaliśmy podobnie jak
 [pierwszego dnia]({% 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego %}) na skrzyżowanie do [Lubiechowej][wiki-lubiechowa] i
@@ -94,7 +94,7 @@ skręcić w [Czernicy][wiki-czernica]. Jak się nie mylę miejsce to jest obok k
 W innym wypadku dojedzie się przez [Płoszczynkę][wiki-ploszczynka] do
 [Jeżowa Sudeckiego][wiki-jezow-sudecki].
 
-{% post_image "medium","IMGP6047raw1.jpg","Zjazd do Dziwiszowa" %}
+{% photo "IMGP6047raw1.jpg","Zjazd do Dziwiszowa" %}
 
 Teraz rozpoczął się dla nas najtrudniejszy fragment trasy - podjazd. O tyle do
 [Płoszczyny][wiki-ploszczyna] podjazd był całkiem delikatny to później
@@ -118,7 +118,7 @@ Trochę po 12-tej wyruszyłem z Maciejem samochodem do Poznania.
 Okazało się, że prawie idealnie będziemy w miejscowości przejazdu pociągu
 [TurKolu][turkol] na trasie [Legnica][wiki-legnica]-[Złotoryja][wiki-zlotoryja].
 
-{% post_image "medium","IMGP6097raw1.jpg","Parowóz dojeżdzający do Kozowa" %}
+{% photo "IMGP6097raw1.jpg","Parowóz dojeżdzający do Kozowa" %}
 
 Zatrzymaliśmy się w [Kozowie][wiki-kozow]. Bardzo mi się podobała okolica tej
 stacji. Pola kwitnącego rzepaku tworzyły specyficzny miły klimat.
@@ -127,10 +127,10 @@ Za około 25 minut miał przyjechać pociąg parowy. Poczekaliśmy na niego.
 Oczywiście zrobiłem mu zdjęcia ale jestem średnio zadowolony. Wolałem zobaczyć
 z zewnątrz jak jedzie niż koniecznie zrobić jakieś dobre zdjęcie.
 
-{% post_image "medium","IMGP6108raw1.jpg","Parowóz wyruszył do Złotoryi" %}
+{% photo "IMGP6108raw1.jpg","Parowóz wyruszył do Złotoryi" %}
 
 Ruszyliśmy dalej. Nie będę opisywał całej trasy, ale oprócz większych miast
 to jechaliśmy głównie pobocznymi drogami. Większość trasy chętnie przejechałbym
 kiedyś rowerem.
 
-{% post_image "medium","IMGP6112raw1.jpg","Linia kolejowa przebiega wzdłuż drogi do Legnicy" %}
+{% photo "IMGP6112raw1.jpg","Linia kolejowa przebiega wzdłuż drogi do Legnicy" %}

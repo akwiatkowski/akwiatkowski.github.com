@@ -48,14 +48,14 @@ Jakoś z Krzychem dojechaliśmy do [Bielska-Białej][wiki-bielsko-biala]. Wysied
 i od razu szukaliśmy sklepu, bo jedzenia nigdy za wiele. Następnie
 kierowaliśmy się na wschód.
 
-{% post_image "medium","IMGP6487raw1.jpg","Droga S69" %}
+{% photo "IMGP6487raw1.jpg","Droga S69" %}
 
 Przeszliśmy nad drogą [S69][wiki-s69] i chwilę po tym rozpoczęło się podejście.
 Znając siebie na pewno pomyślałem "znowu?!". Szliśmy czerwonym szlakiem.
 
 Na [Magurce Wilkowickiej][wiki-magurka-w] wskoczyliśmy do schroniska coś zjeść.
 
-{% post_image "medium","IMGP6506raw1.jpg","Dom w środku gór" %}
+{% photo "IMGP6506raw1.jpg","Dom w środku gór" %}
 
 Starając się myśleć pozytywnie mogę powiedzieć, że pogoda uwypuklała
 zieloną barwę otaczającej nas przyrody. Mówiąc realistycznie - szaro i wilgotno.
@@ -64,7 +64,7 @@ Mogło być gorzej - mogło padać.
 Szliśmy dalej niebieskim szlakiem. Minęliśmy [Czupel][wiki-czupel], najwyższą
 górę [Beskidu Małego][wiki-beskid-maly]. Fajnie, będzie szczyt do [korony][wiki-korona-gor].
 
-{% post_image "medium","IMGP6516raw1.jpg","Mokra trawa" %}
+{% photo "IMGP6516raw1.jpg","Mokra trawa" %}
 
 Czerwonym szlakiem zeszliśmy do [Międzybrodzia Bialskiego][wiki-miedzybrodzie-b], gdzie
 mieliśmy nocleg.

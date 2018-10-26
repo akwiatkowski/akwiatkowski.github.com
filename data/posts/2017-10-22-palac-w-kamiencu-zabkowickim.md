@@ -59,23 +59,23 @@ na tyle motywacji aby iść kolejne 11km pieszo. Nie nazwałbym terenów nudnych
 deszczowa pogoda i brak możliwości wypicia czegoś ciepłego na trasie przekonał nas,
 że to nie jest dobry dzień na spacer.
 
-{% post_image "medium","IMGP2536raw1.jpg","Drewniany garaż w Kamieńcu Ząbkowickim" %}
+{% photo "IMGP2536raw1.jpg","Drewniany garaż w Kamieńcu Ząbkowickim" %}
 
 Poczekaliśmy chwilę na stacji i ruszyliśmy pociągiem.
 [Kamieniec Ząbkowicki][wiki-kamieniec-zabkowicki] to tylko dwie stacje
 kolejowe obok.
 
-{% post_image "medium","IMGP2541raw1.jpg","Kościół Rzymskokatolicki Zamkowy" %}
+{% photo "IMGP2541raw1.jpg","Kościół Rzymskokatolicki Zamkowy" %}
 
 Ruszyliśmy zgodnie z zielonym szlakiem rowerowym. Innych możliwości jak
 spacer ulicą Kolejową nie było.
 
-{% post_image "medium","IMGP2542raw1.jpg","Fontanna pałacowa" %}
+{% photo "IMGP2542raw1.jpg","Fontanna pałacowa" %}
 
 Niedaleko skrzyżowania z drogą Mostową zobaczyliśmy bardzo duży, nie pasujący
 bogactwem i kolorem do otoczenia dom w budowie. Wolałem nie robić mu zdjęcia.
 
-{% post_image "medium","IMGP2559raw1.jpg","Mokry liść" %}
+{% photo "IMGP2559raw1.jpg","Mokry liść" %}
 
 Będąc w centrum odwiedziliśmy pizzerię, gdzie mogliśmy coś ciepłego zjeść.
 Ostatecznie okazało się, że przez to spóźniliśmy się 15 minut na zwiedzanie i musieliśmy
@@ -83,19 +83,19 @@ poczekać do 16-tej. Zwiedzanie trwa od 70 do 90 minut.
 Nie byliśmy pewni (po doliczeniu czasu dojścia powrotnego na stację) czy dotrzemy na planowany
 pociąg powrotny o 18-tej.
 
-{% post_image "medium","IMGP2565raw1.jpg","Tył pałacu" %}
+{% photo "IMGP2565raw1.jpg","Tył pałacu" %}
 
 Zwiedzanie pokazuje w jakiej ruinie [pałac][wiki-zabkowice-palac] został przejęty
 oraz jak dużo pracy jeszcze czeka do pełnej rekonstrukcji. Trudno mi sobie
 wyobrazić jak wtedy on będzie wyglądał oraz jakim ciekawym obiektem był kiedyś.
 
-{% post_image "medium","IMGP2586raw1.jpg","Wnętrze pałacu" %}
+{% photo "IMGP2586raw1.jpg","Wnętrze pałacu" %}
 
 Zwiedzanie zakończyliśmy około 17:25. Bardzo szybko ruszyliśmy na
 dworzec kolejowy. Udało się nam przejść 3km w prawie 25 minut. Byliśmy chyba
 10 minut przed odjazdem pociągu.
 
-{% post_image "medium","IMGP2594raw1.jpg","Wyremontowana fontanna przed pałacem" %}
+{% photo "IMGP2594raw1.jpg","Wyremontowana fontanna przed pałacem" %}
 
 Robiło się już ciemno ale zauważyłem tabliczkę z 3-go peronu, z którego pociąg
 odjeżdzał kiedyś do [Katowic][wiki-katowice]. W drugą stronę nadal odjeżdzają
@@ -105,4 +105,4 @@ pociągi do [Dzierżoniowa][wiki-dzierzoniow]. Dalej jadą przez
 Niestety teraz nie ma pasażerskiego połączenia kolejowego od
 [Kamieńca Ząbkowickiego][wiki-kamieniec-zabkowicki] do [Nysy][wiki-nysa].
 
-{% post_image "medium","IMGP2600raw2.jpg","Wejście podczas zachodzącego Słońca" %}
+{% photo "IMGP2600raw2.jpg","Wejście podczas zachodzącego Słońca" %}

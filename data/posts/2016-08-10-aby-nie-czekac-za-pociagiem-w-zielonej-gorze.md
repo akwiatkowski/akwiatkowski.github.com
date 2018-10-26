@@ -55,7 +55,7 @@ Szczegóły
 Pogoda się trochę poprawiała, pojawiało się słońce, ale było już zbyt późno
 aby mogło być cieplej tego dnia.
 
-{% post_image "medium","IMGP4253raw1.jpg","Tory kolejowe w kierunku Zielonej Góry" %}
+{% photo "IMGP4253raw1.jpg","Tory kolejowe w kierunku Zielonej Góry" %}
 
 Nie będę opisywał trasy, gdyż jest ona krótka i składa się z dwóch charakterystycznych
 części: wiosek i miasta [Zielonej Góry][wiki-zielona-gora].

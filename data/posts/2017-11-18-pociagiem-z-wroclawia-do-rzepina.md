@@ -66,7 +66,7 @@ Myślę o tym, że pociągiami powinienem jeździć zdecydowanie w innej porze r
 Walory widokowe są wtedy zdecydowanie lepsze. Teraz wszystko jest szare i
 brudne.
 
-{% post_image "medium","IMGP3121raw1.jpg","Okolice Księginic przed Brzegiem Dolnym" %}
+{% photo "IMGP3121raw1.jpg","Okolice Księginic przed Brzegiem Dolnym" %}
 
 Dopiero w połowie drogi między [Wrocławiem][wiki-wroclaw] a
 [Brzegiem Dolnym][wiki-brzeg-dolny] w okolicach
@@ -76,7 +76,7 @@ taka "sypialnia" tego miasta.
 
 Przed [Brzegiem Dolnym][wiki-brzeg-dolny] przejechałem po moście nad [Odrą][wiki-odra].
 
-{% post_image "medium","IMGP3129raw1.jpg","Odra niedaleko Brzegu Dolnego" %}
+{% photo "IMGP3129raw1.jpg","Odra niedaleko Brzegu Dolnego" %}
 
 Spodobał mi się przystanek [Łososiowice][wiki-lososiowice]. Jest to pierwszy
 przystanek dla pociągów osobowych po stacji w [Brzegu Dolnym][wiki-brzeg-dolny].
@@ -90,7 +90,7 @@ W okolicy [Ścinawy][wiki-scinawa] widziałem sporo ciekawych wiosek z budynkami
 z czerwonej cegły. Gdy przejeżdzałem samochodem z [Poznania][wiki-poznan] do
 [Jeleniej Góry][wiki-jelenia-gora] podobał mi się klimat tej okolicy.
 
-{% post_image "medium","IMGP3190raw1.jpg","Dojeżdzając do Rudnej" %}
+{% photo "IMGP3190raw1.jpg","Dojeżdzając do Rudnej" %}
 
 Zbliżając się do [Rudnej][wiki-rudna] w okolicy miejscowości
 [Wądróże][wiki-wadroze] można było zauważyć delikatne pagórki.
@@ -114,7 +114,7 @@ Po wyjeździe z [Zielonej Góry][wiki-zielona-gora] zaciekawiły
 mnie tory na zachód w stronę [Gubina][wiki-gubin]. Miasto to
 chyba nie ma połączenia pasażerskiego w tym momencie.
 
-{% post_image "medium","IMGP3251raw1.jpg","Czerwieńsk" %}
+{% photo "IMGP3251raw1.jpg","Czerwieńsk" %}
 
 Ponownie przejechaliśmy przez most na [Odrze][wiki-odra].
 
@@ -130,7 +130,7 @@ były całkiem ciekawe.
 W [Rzepinie][wiki-rzepin] widziałem pociag z załadowanymi VW Caddy
 jadący do Niemiec.
 
-{% post_image "medium","IMGP3292raw1.jpg","Transport VW Caddy w Rzepinie" %}
+{% photo "IMGP3292raw1.jpg","Transport VW Caddy w Rzepinie" %}
 
 Przesiadłem się na pociąg osobowy do [Zbąszynka][wiki-zbaszynek]. Było coraz
 ciemniej dlatego już zdjęć nie robiłem.

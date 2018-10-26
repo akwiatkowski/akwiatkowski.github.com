@@ -56,7 +56,7 @@ wyraźnie zmniejszył, a okolica była nieznacznie ciekawsza. Może to być
 tylko moją subiektywną oceną, gdyż te tereny są dla mnie nowe i może
 dlatego bardzo mi się podobały.
 
-{% post_image "medium","IMGP0068raw1.jpg","Niektór pola jeszcze oczekiwały żniwa" %}
+{% photo "IMGP0068raw1.jpg","Niektór pola jeszcze oczekiwały żniwa" %}
 
 Kamerkę uruchomiłem dopiero w okolicy Wolki Ostrowskiej.
 Jechałem całkiem dobrą drogą. Wokół drogi były drzewa a za nimi pola uprawne.
@@ -74,7 +74,7 @@ wilgotnej, drodze gruntowej bezpośrednio do [Skorzęcina][wiki-skorzecin].
 Gdyby nie jakość drogi to jest to najlepszy dojazd ze [Strzelna][wiki-strzelno]
 do [Skorzęcina][wiki-skorzecin].
 
-{% post_image "medium","IMGP0080raw1.jpg","Jezioro Niedzięgiel" %}
+{% photo "IMGP0080raw1.jpg","Jezioro Niedzięgiel" %}
 
 Podjechałem na chwilę na plażę w [Skorzęcinie][wiki-skorzecin].
 Tam zrobiłem przerwę aby zjeść kanapki.
@@ -89,7 +89,7 @@ kilometrów na wschód od niej.
 Gdzieś w okolicy Sokołowa spotkałem dwójkę rowerzystów na
 rowerach szosowych.
 
-{% post_image "medium","IMGP0088raw1.jpg","Jadąc wzdłuż Jeziora Szydłowskiego" %}
+{% photo "IMGP0088raw1.jpg","Jadąc wzdłuż Jeziora Szydłowskiego" %}
 
 Spodobała mi się okolica [Bieślina][wiki-bieslin] chociaż teraz nie pamiętam
 co dokładnie tam było ciekawego.
@@ -102,7 +102,7 @@ Wjeżdzając w wojewdztwo [kujawsko-pomorskiego][wiki-kujawsko-pomorskie]
 trafiłem do skrzyżowania niedaleko [Kamionka][wiki-kamionek].
 Tam dalej już wracałem przez [Gębice][wiki-gebice].
 
-{% post_image "medium","IMGP0091raw1.jpg","Niedaleko Płaczkówka" %}
+{% photo "IMGP0091raw1.jpg","Niedaleko Płaczkówka" %}
 
 [Skorzęcin][wiki-skorzecin] nocą dla mnie jest znacznie
 prymitywniejszą wersją [Sopotu][wiki-sopot] a mniejszą wersją

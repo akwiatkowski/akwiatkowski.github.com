@@ -61,7 +61,7 @@ Szczegóły
 W [Trzemesznie][wiki-trzemeszno] wysiedliśmy chwilę przed godziną 11-tą. Musieliśmy
 przejechać przez całe miasto gdyż stacja kolejowa jest na północy.
 
-{% post_image "medium","IMGP8769raw1.jpg","Jezioro Ostrowite" %}
+{% photo "IMGP8769raw1.jpg","Jezioro Ostrowite" %}
 
 Wyjeżdzając z [Trzemeszna][wiki-trzemeszno] skręciliśmy na wschód jadąc do
 [Zielenia][wiki-zielen]. Bardzo słoneczna pogoda wpływała na dość wyraźny
@@ -74,7 +74,7 @@ oraz najbardziej znane [Jezioro Powidzkie][wiki-powidzkie-jezioro].
 Wszystkie te miejsca z rozwiniętymi opcjami noclegowymi sprawiają,
 że w lecie przy dobrej pogodzie zawsze jest tu wzmożony ruch w weekend.
 
-{% post_image "medium","IMGP8775raw1.jpg","Jezioro Ostrowite widziane ze wsi" %}
+{% photo "IMGP8775raw1.jpg","Jezioro Ostrowite widziane ze wsi" %}
 
 Do [Skorzęcina][wiki-skorzecin]
 [pojechałem rowerem]({% post_url 2017-08-05-petla-przez-skorzecin %})
@@ -85,7 +85,7 @@ uwolnić się od ruchu i nie denerwować kierowców samochodów.
 Wydaję mi się, że po tej drodze nie jechał żaden samochód, a my
 mieliśmy dodatkowo widok na [Jezioro Ostrowite][wiki-ostrowite-jezioro].
 
-{% post_image "medium","IMGP8781raw1.jpg","Drzewa niedaleko wsi Dysiek" %}
+{% photo "IMGP8781raw1.jpg","Drzewa niedaleko wsi Dysiek" %}
 
 Nasza trasa miała swój cel i musieliśmy się do niego zbliżać,
 dlatego skręciliśmy w lewo jadąc na wschód w stronę
@@ -95,7 +95,7 @@ skrzyżowania.
 W [Trzemżalu][wiki-trzemzal] byliśmy z konieczności.
 Jak najszybciej kierowaliśmy się do wsi [Kamieniec][wiki-kamieniec].
 
-{% post_image "medium","IMGP8788raw1.jpg","Między wsią Dysiek a Kamieniec" %}
+{% photo "IMGP8788raw1.jpg","Między wsią Dysiek a Kamieniec" %}
 
 Ogólnie to są tereny rolnicze. Czyli jadąc widzieliśmy oprócz naszej
 drogi raczej tylko pola, ewentualnie jakieś drzewa w okolicy.
@@ -108,54 +108,54 @@ prawo jadąc już teraz po drodze gruntowej. Chcieliśmy obkrążyć
 [Jezioro Kamienieckie][wiki-kamienieckie-jezioro] wokół jego południowej
 części.
 
-{% post_image "medium","IMGP8803raw1.jpg","Noteć Zachodnia / Mała" %}
+{% photo "IMGP8803raw1.jpg","Noteć Zachodnia / Mała" %}
 
 Po lekkim skręcie w lewo zatrzymaliśmy się. Zauważyliśmy coś
 odbijające się. Była to woda a dokładniej
 [Noteć Zachodnia][wiki-notec-zachodnia] wpływająca do
 [jeziora][wiki-kamienieckie-jezioro].
 
-{% post_image "medium","IMGP8810raw1.jpg","Wyjeżdzając z trudniejszej części czerwonego szlaku rowerowego" %}
+{% photo "IMGP8810raw1.jpg","Wyjeżdzając z trudniejszej części czerwonego szlaku rowerowego" %}
 
 Jechaliśmy teraz czerwonym szlakiem rowerowym wzdłuż brzegu. Szlak ten jest
 bardzo wąską wydeptaną, lecz nadal dość zarośnietą, ścieżką.
 Po lewej teren gwałtownie opada do jeziora, a po prawej czasami
 widzieliśmy dość ostre zbocze.
 
-{% post_image "medium","IMGP8811raw1.jpg","Droga do Ostrówka" %}
+{% photo "IMGP8811raw1.jpg","Droga do Ostrówka" %}
 
 Gdy minęliśmy okolice [jeziora][wiki-kamienieckie-jezioro] mogliśmy
 jechać po znacznie lepszej i szerszej drodzę. Zamianiła się ona
 w drogę szutrową.
 
-{% post_image "medium","IMGP8814raw1.jpg","Snopki niedaleko Ostrówka" %}
+{% photo "IMGP8814raw1.jpg","Snopki niedaleko Ostrówka" %}
 
 Skręciliśmy w prawo. Jechaliśmy na północ przez [Ostrówek][wiki-ostrowek]
 do [Kamionka][wiki-kamionek].
 
-{% post_image "medium","IMGP8844raw1.jpg","Ciekawy układ chmur" %}
+{% photo "IMGP8844raw1.jpg","Ciekawy układ chmur" %}
 
 Teren był już miejscami wyraźnie pofalowany, tak jak byśmy
 byli w niskich górach. Wokół były pola zboża i rzepaku.
 
-{% post_image "medium","IMGP8857raw1.jpg","Droga do Kamionek" %}
+{% photo "IMGP8857raw1.jpg","Droga do Kamionek" %}
 
 W [Kamionku][wiki-kamionek] byłem teraz trzeci raz.
 
-{% post_image "medium","IMGP8863raw1.jpg","Ciekawy układ chmur" %}
+{% photo "IMGP8863raw1.jpg","Ciekawy układ chmur" %}
 
 Bardzo
 mi się te tereny podobają. Na pewno w przyszłym roku jeszcze odwiedzę
 te okolice przejeżdzając trochę inaczej.
 
-{% post_image "medium","IMGP8869raw1.jpg","Jezioro Kamienieckie" %}
+{% photo "IMGP8869raw1.jpg","Jezioro Kamienieckie" %}
 
 Ruszyliśmy na północ do skrzyżowania przed [Łosośnikami][wiki-lososniki].
 Na tym skrzyżowaniu skręciliśmy
 na wschód i jechaliśmy przez [Gębice][wiki-gebice] aż
 do [Łąkiego][wiki-lakie].
 
-{% post_image "medium","IMGP8873raw1.jpg","Jadąc do Gębic" %}
+{% photo "IMGP8873raw1.jpg","Jadąc do Gębic" %}
 
 Po dłuższej przerwie musieliśmy dojechać na przystanek kolejowy. Wybraliśmy
 [Janikowo][wiki-janikowo]. Wsiadając do pociągu widzieliśmy przedział
@@ -163,4 +163,4 @@ rowerowy totalnie zawalony. Przypomniało mi się, że tego dnia
 [Zgrupka Luboń][zgrupka-lubon] miała przejazd do
 [Włocławka][wiki-wloclawek].
 
-{% post_image "medium","IMGP8883raw1.jpg","Przed żniwami" %}
+{% photo "IMGP8883raw1.jpg","Przed żniwami" %}

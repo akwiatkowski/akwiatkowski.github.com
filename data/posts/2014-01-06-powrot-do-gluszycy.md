@@ -37,7 +37,7 @@ Ruszyliśmy podobnie jak drugiego dnia, tylko odwrotnie. Nie poszliśmy szlakiem
 czerwonym [GSS][wiki-gss] tylko drogą do [Sierpnicy][wiki-sierpnica], a następnie
 przez [Osówkę][wiki-osowka] i żółtym szlakiem rowerowym przez las.
 
-{% post_image "medium","IMGP3176raw1.jpg","Poranny widok z okolic schroniska Orzeł" %}
+{% photo "IMGP3176raw1.jpg","Poranny widok z okolic schroniska Orzeł" %}
 
 Raczej niewiele było ciekawego tego dnia. Czasami pojawiło się słońce i było
 trochę ładniej.

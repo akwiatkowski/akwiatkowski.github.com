@@ -68,7 +68,7 @@ Z Poznania wyruszyłem pociągiem po 6:20 jadącym bezpośrednio
 w te okolice. Lekko podsypiałem
 po drodze, gdyż nie jestem przyzwyczajony do wstawania o 5 rano.
 
-{% post_image "medium","IMGP8135raw1.jpg","Droga do Wojanowa" %}
+{% photo "IMGP8135raw1.jpg","Droga do Wojanowa" %}
 
 Planowałem aby wysiąść w [Trzcińsku][wiki-trzcinsko] (znane jako San-Fran-Trzcińsko)
 i ruszyć przez [Góry Sokole][wiki-gory-sokole] (jest to fragment
@@ -81,7 +81,7 @@ Byłem bardzo niezadowolony z tego faktu. Zwłaszcza gdyż akurat w tym momencie
 się słońce. 10 minut później gdy wysiadłem w [Jeleniej Górze][wiki-jelenia-gora]
 słońca już nie było. Nastała szarość.
 
-{% post_image "medium","IMGP8164raw1.jpg","Pola niedaleko Wojanowa" %}
+{% photo "IMGP8164raw1.jpg","Pola niedaleko Wojanowa" %}
 
 Patrząc na rozkład pociągów miałem kilka minut do odjazdu pociągu jadącego w
 przeciwnym kierunku, którym mógłbym dojechać do [Wojanowa][wiki-wojanow].
@@ -89,13 +89,13 @@ Jest to jedna stacja "odległości".
 Mój pociąg się spóźnił ale i tak byłem przed czasem odjazdu tego powrotnego,
 tylko że go nie było na dworcu. Pewnie jakiś kolejny pociąg widmo.
 
-{% post_image "medium","IMGP8187raw1.jpg","Jesień była już w pełni" %}
+{% photo "IMGP8187raw1.jpg","Jesień była już w pełni" %}
 
 Mogłem poczekać godzinę i ruszyć kolejnym pociągiem, albo mogłem się przejść.
 Wybrałem to drugie. Opuściłem [Jelenią Górę][wiki-jelenia-gora]
 idąc na wschód.
 
-{% post_image "medium","IMGP8192raw1.jpg","Pałac w Bobrowie" %}
+{% photo "IMGP8192raw1.jpg","Pałac w Bobrowie" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -114,7 +114,7 @@ jest plan reaktywacji połączenia
 kolejowe, jednak jeszcze żadne konkretne kroki nie zostały postawione.
 Linia jest utrzymywana przez miłośników drezyn.
 
-{% post_image "medium","IMGP8195raw1.jpg","Karkonosze były wtedy w chmurach" %}
+{% photo "IMGP8195raw1.jpg","Karkonosze były wtedy w chmurach" %}
 
 Przeszedłem przez rzekę [Bóbr][wiki-bobr] w [Łomnicy][wiki-lomnica]
 i ruszyłem do [Wojanowa][wiki-wojanow]. Tam zostawiłem większość swoich rzeczy
@@ -127,7 +127,7 @@ tutaj nic takiego nie miałem. Nie było określonych miejsc, przez które mam
 przejść, były określone zdjęcia jakie chciałbym zrobić
 i warunki w jakich chciałbym się znaleźć. Te rzeczy nie są deterministyczne.
 
-{% post_image "medium","IMGP8199raw1.jpg","Jesienne Rudawy Janowickie" %}
+{% photo "IMGP8199raw1.jpg","Jesienne Rudawy Janowickie" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -141,27 +141,27 @@ i warunki w jakich chciałbym się znaleźć. Te rzeczy nie są deterministyczne
 Ruszyłem zielony szlakiem pieszym z [Wojanowa][wiki-wojanow] na wschód
 w stronę [Sokolika][wiki-sokolik]. Zaskoczył mnie las pełen kolorów.
 
-{% post_image "medium","IMGP8214raw1.jpg","Idąc przez las" %}
+{% photo "IMGP8214raw1.jpg","Idąc przez las" %}
 
 Będąc kiedyś w [Rudawach Janowickich][wiki-rudawy-janowickie] udało mi się
 wejść na [Krzyżną Górę][wiki-krzyzna-gora], ale nigdy nie byłem na
 [Sokoliku][wiki-sokolik]. To był dobry moment aby to zmienić.
 
-{% post_image "medium","IMGP8232raw1.jpg","Wyróźniające się drzewo na polanie" %}
+{% photo "IMGP8232raw1.jpg","Wyróźniające się drzewo na polanie" %}
 
 Ostatni fragment podejścia to był trawers, po którym czekało jeszcze
 wejście na punkt widokowy no schodach. Pomimo tego, że ta góra jest niższa o 12 metrów,
 widok jest chyba ciekawszy niż z [Krzyżnej Góry][wiki-krzyzna-gora] na której
 (jeżeli się nie mylę) jest blokowany drzewami ze wschodniej strony.
 
-{% post_image "medium","IMGP8273raw1.jpg","Wchodząc na Sokolik" %}
+{% photo "IMGP8273raw1.jpg","Wchodząc na Sokolik" %}
 
 Następnie odwiedziłem [schronisko][wiki-szwajcarka]
 aby coś zjeść i ruszyłem żółtym szlakiem do
 [Karpnik][wiki-karpniki]. Gdzieś w oddali ulicy Janowickiej chyba
 widziałem wilka.
 
-{% post_image "medium","IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach" %}
+{% photo "IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach" %}
 
 Wracałem ulicą Stawową. Powoli robiło się ciemno. W bazie byłem przed godziną
 19-tą. Czołówka zdecydowanie się przydała.
@@ -171,7 +171,7 @@ Zdjęcia
 
 Idąc na [Sokolik][wiki-sokolik] można natrafić miejscami na całkiem spore głazy.
 
-{% post_image "medium","IMGP8265raw1.jpg","Głazy w Rudawach Janowickich" %}
+{% photo "IMGP8265raw1.jpg","Głazy w Rudawach Janowickich" %}
 
 <!--
 <div class='pixels-photo'>
@@ -186,16 +186,16 @@ Idąc na [Sokolik][wiki-sokolik] można natrafić miejscami na całkiem spore g�
 Po lewej stronie na dole widać rzekę [Bóbr][wiki-bobr]. Wokół tej rzeki jest
 między innymi [Wojanów][wiki-wojanow] i [Trzcińsko][wiki-trzcinsko].
 
-{% post_image "medium","IMGP8339raw1.jpg","Widok z Sokolika" %}
+{% photo "IMGP8339raw1.jpg","Widok z Sokolika" %}
 
 Gdzieś obok drogi stał samotny dom w budowie. Zrobiłem jemu zdjęcie.
 
-{% post_image "medium","IMGP8324raw1.jpg","Samotny dom" %}
+{% photo "IMGP8324raw1.jpg","Samotny dom" %}
 
 Tak wygląda ławka na punkcie widokowym na [Sokoliku][wiki-sokolik].
 
-{% post_image "medium","IMGP8369raw1.jpg","Ławka na Sokoliku" %}
+{% photo "IMGP8369raw1.jpg","Ławka na Sokoliku" %}
 
 Widok na [Karkonosze][wiki-karkonosze] podczas zejścia do [Karpników][wiki-karpniki].
 
-{% post_image "medium","IMGP8395raw1.jpg","Widok na Karkonosze" %}
+{% photo "IMGP8395raw1.jpg","Widok na Karkonosze" %}

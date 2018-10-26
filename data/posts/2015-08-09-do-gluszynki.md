@@ -47,7 +47,7 @@ Skręciliśmy w lewo jadąc zgodnie z linią autobusową [58][mpk-58]. Jak na ra
 cywilizacji w Poznaniu. Zakładając, że nie patrzymy ma linie podmiejskie, które to od niedawna zostały włączane w
 poznański [ZTM][ztm].
 
-{% post_image "medium","IMGP2659raw1.jpg","Droga niedaleko Głuszynki" %}
+{% photo "IMGP2659raw1.jpg","Droga niedaleko Głuszynki" %}
 
 Jechaliśmy cały czas zgodnie z linią autobusową mijając tereny małomiasteczkowe i wiejskie.
 

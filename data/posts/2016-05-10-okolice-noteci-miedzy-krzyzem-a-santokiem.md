@@ -78,7 +78,7 @@ Poczułem taką standardową niepewność - czy nic się nie wydarzy, czy dam ra
 Z doświadczenia najsilniej takie uczucie pojawia się na początku i w połowie trasy,
 kiedy jest się najdalej od jakiegoś pociągu.
 
-{% post_image "medium","G0014492b.jpg","Wyjeżdzajac z Krzyża" %}
+{% photo "G0014492b.jpg","Wyjeżdzajac z Krzyża" %}
 
 Gdy wyjechałem z [Krzyża][wiki-krzyz] przejechałem pod torami kolejowymi którymi
 można dojechać na Wybrzeże. Chwilę po tym wjechałem w las. Ruch był mniejszy
@@ -87,7 +87,7 @@ niż akceptowalny. Było ciepło i słonecznie, bardzo mało chmur.
 Minąłem [Stare Bielice][wiki-stare-bielice] przejeżdzając obok
 stacji kolejowej, przez którą będę przejeżdzał wracając pociągiem.
 
-{% post_image "medium","G0034499b.jpg","Między Krzyżem a Starymi Bielicami" %}
+{% photo "G0034499b.jpg","Między Krzyżem a Starymi Bielicami" %}
 
 Chwilę po tym pojawiło się pierwsze najciekawsze miejsce tej trasy. Zjeżdzałem w
 kierunku doliny [Noteci][wiki-notec]. Przejechałem przez [Kosin][wiki-kosin], a
@@ -98,7 +98,7 @@ poprowadzone linia kolejowa, która okrążała [Puszczę Notecką][wiki-puszcza
 [Skwierzyny][wiki-skwierzyna]. Linia [ta][wiki-linia-430] prowadziła przez
 małe miejscowości i w tym momencie są plany na utworzenie szlaku rowerowego na niej.
 
-{% post_image "medium","G0154547b.jpg","Wjeżdzając do Przynotecka" %}
+{% photo "G0154547b.jpg","Wjeżdzając do Przynotecka" %}
 
 Z [Drezdenka][wiki-drezdenko] wyjechałem w stronę [Trzebicza][wiki-trzebicz], za
 którą przejechałem przez [Noteć][wiki-notec] i pojawiły się ciekawe wiejskie
@@ -120,7 +120,7 @@ Niestety bardzo trudno się jechało po tak dziwnie ukształtowanym szutrze.
 Z tego powodu na wysokości wsi [Płomykowo][wiki-plomykowo] skręciłem i wolałem
 jechać dalej drogą do [Santoka][wiki-santok].
 
-{% post_image "medium","G0264617b.jpg","Podjazd z Santoku do Gralewa" %}
+{% photo "G0264617b.jpg","Podjazd z Santoku do Gralewa" %}
 
 Miałem jeszcze trochę czasu a zaciekawiły mnie górki wokół tej miejscowości,
 więc przejechałem się na północ. Dojechałem do początku [Gralewa][wiki-gralewo]

@@ -71,7 +71,7 @@ Bardzo łatwo można znaleźć informację o [drezynach][kolbudy-drezyny] i jeż
 dobrze sprawdziłem, to co tydzień w niedzielę o 10-tej można się nimi
 tam przejechać.
 
-{% post_image "medium","IMGP7152raw1.jpg","Żółty szlak pieszy obok Zbiornika Kolbudy Dolne" %}
+{% photo "IMGP7152raw1.jpg","Żółty szlak pieszy obok Zbiornika Kolbudy Dolne" %}
 
 Wyjeżdzając z [Kolbud][wiki-kolbudy] wybraliśmy żółty szlak pieszy.
 Przebiega on obok Zbiornika Kolbudy Dolne. Dalsza część to lekki zjazd
@@ -84,7 +84,7 @@ Prawdopodobnie jest to elektrownia wodna.
 Dojechaliśmy do [Bielkówka][wiki-bielkowko], a dalej kierowaliśmy się na wschód
 w stronę [Pruszcza Gdańskiego][wiki-pruszcz-gdanski].
 
-{% post_image "medium","IMGP7160raw1.jpg","Prawdopodobnie budynek elektrowni wodnej" %}
+{% photo "IMGP7160raw1.jpg","Prawdopodobnie budynek elektrowni wodnej" %}
 
 Mijaliśmy zielone pofalowane pola. Chmury wyglądało bardzo niepokojąco
 chociaż w tamtym momencie mi się one podobały. Trasa raczej była "monotonnie
@@ -93,7 +93,7 @@ ciekawa" - czyli trudno określić pojedyńcze ciekawe miejsca.
 W [Straszynie][wiki-straszyn] był bardzo fajny zjazd. Jak to często bywa
 i tym razem powodem obniżenia terenu jest rzeka - [Radunia][wiki-rzeka-radunia].
 
-{% post_image "medium","IMGP7164raw2.jpg","Pofalowane pola na trasie do Straszyna" %}
+{% photo "IMGP7164raw2.jpg","Pofalowane pola na trasie do Straszyna" %}
 
 Gdy dojeżdzaliśmy do [Straszyna][wiki-straszyn] zaczęło padać. Zrobiliśmy przerwę
 przy sklepie spożywczym jednocześnie robiąc
@@ -119,7 +119,7 @@ do [Tczewa][wiki-tczew] (27km z możliwością skrócenia)
 zamiast jechać na północ do [Gdańska][wiki-gdansk] (20km bez możliwości skrócenia
 oraz niepewna droga - ruch w mieście). Miałem dwie godziny do odjazdu pociągu.
 
-{% post_image "medium","IMGP7190raw1.jpg","Droga na Żuławach Wiślanych" %}
+{% photo "IMGP7190raw1.jpg","Droga na Żuławach Wiślanych" %}
 
 Roździeliliśmy się a sam teraz jechałem wyraźnie szybciej. Michał jechał
 wolniej będąc obładowany sakwami.
@@ -137,7 +137,7 @@ i jechałem
 na południe po spokojniejszej drodze, wzdłuż rzeki [Motławy][wiki-motlawa-rzeka].
 Na moje szczęście przestało padać.
 
-{% post_image "medium","IMGP7194raw1.jpg","Pole po deszczu" %}
+{% photo "IMGP7194raw1.jpg","Pole po deszczu" %}
 
 Trudno mi więcej opowiedzieć o okolicy. Była ona zdecydowanie bardziej płaska
 niż [Kaszuby][wiki-kaszuby] ale nie była nudna, raczej spokojniejsza.

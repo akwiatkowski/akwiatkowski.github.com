@@ -73,7 +73,7 @@ kiedyś byłem. W 2014 roku
 [przejechałem się do Szamotuł]({% post_url 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul %})
 zielonym szlakiem rowerowym.
 
-{% post_image "medium","IMGP0550raw1.jpg","Wieś Żydowo" %}
+{% photo "IMGP0550raw1.jpg","Wieś Żydowo" %}
 
 [Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] to bardzo spokojne wsie.
 Wiele razy pisałem, że miejsca jak te wsie to są moje ulubione tereny
@@ -92,7 +92,7 @@ Co ciekawe
 temu spacerowałem również w okolicy doliny rzeki albo tej samej albo o tej
 samej nazwie.
 
-{% post_image "medium","IMGP0562raw1.jpg","Jadąc w stronę Nieczajny" %}
+{% photo "IMGP0562raw1.jpg","Jadąc w stronę Nieczajny" %}
 
 W [Kowalewku][wiki-kowalewko] skręciłem w lewo jadąc w stronę [Objezierza][wiki-objezierza].
 Byłem w tym momencie w moich ulubionych terenach ale patrząc na czas
@@ -111,7 +111,7 @@ Rozważałem nawet aby następnego dnia pojechać w to miejsce.
 Nie zrobiłem tego, nie miałem czasu, nie chciało mi się, praca i inne sensowne
 wytłumaczenia się pojawiły.
 
-{% post_image "medium","IMGP0566raw1.jpg","Wieś Nieczajna" %}
+{% photo "IMGP0566raw1.jpg","Wieś Nieczajna" %}
 
 Wróciłem przez [Kowalewko][wiki-kowalewko] gdyż nie byłem pewien czy
 zdążyłbym dojechać do [Obornik][wiki-oborniki] a akurat tego dnia nie

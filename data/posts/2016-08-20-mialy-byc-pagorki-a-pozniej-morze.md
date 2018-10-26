@@ -78,7 +78,7 @@ lub tramwaj na torach niż zwykły pociąg.
 Jechał on przez ciekawy tereny. Ogrom lasów oraz rozpoczynające się pagórki. Ciekawe
 było umieszczenie linii telefonicznych obok torów.
 
-{% post_image "medium","IMGP4669raw1.jpg","Stacja kolejowa Kawcze" %}
+{% photo "IMGP4669raw1.jpg","Stacja kolejowa Kawcze" %}
 
 Wysiedliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
 Możliwe że w okolicy był jakiś tartak.
@@ -86,7 +86,7 @@ Możliwe że w okolicy był jakiś tartak.
 Przez [Świerzno][wiki-swierzno] ruszyliśmy na zachód w stronę
 [Nowego Żeliborza][wiki-nowy-zeliborz].
 
-{% post_image "medium","IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza" %}
+{% photo "IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza" %}
 
 W tamtej okolicy sytuacja zaczęła się komplikować. O tyle jak do tej pory jechaliśmy
 drogą o prawie zerowym ruchu, z gęsto posadzonymi drzewami na poboczu, tak teraz
@@ -102,7 +102,7 @@ Patrząc teraz na nagrane filmiki te tereny mogą być fajne jak jest odpowiedni
 oraz jak wcześniej była odpowiednia pogoda - nie padało,
 a dodatkowo nie ma się konkretnej długiej trasy do zrobienia.
 
-{% post_image "medium","IMGP4679raw1.jpg","Tutaj kończyła się droga" %}
+{% photo "IMGP4679raw1.jpg","Tutaj kończyła się droga" %}
 
 Przejechaliśmy drogą przez jedno gospodarstwo. Trudno ocenić czy jest to droga
 prywatna, czy tutaj jest tak dziko że nikomu nie przeszkadza jak się ma publiczną drogę
@@ -113,7 +113,7 @@ Jechaliśmy na północ obok Baraniej Góry (217 m n.p.m). Tam już asfaltu nie 
 była ziemia mniej lub bardziej ubita. Wokół sporo odpadów po wywożeniu drzewa
 oraz lekki spad powodował, że nie był to całkowicie niewinny zjazd.
 
-{% post_image "medium","IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki" %}
+{% photo "IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki" %}
 
 Wyjechaliśmy na polankę obok rzeki Pustynki, na horyzoncie widzieliśmy
 górki: Przelęki i Dziewcza Góra.
@@ -121,7 +121,7 @@ górki: Przelęki i Dziewcza Góra.
 Jechaliśmy na północ. Droga niestety była pełna kałuż i miejscami lepiej było
 jechać po polu niż drogą.
 
-{% post_image "medium","IMGP4687raw1.jpg","Stary wiadukt kolejowy" %}
+{% photo "IMGP4687raw1.jpg","Stary wiadukt kolejowy" %}
 
 Dojechaliśmy do drogi, którą mogliśmy pojechać na zachód do [Polanowa][wiki-polanow].
 Chciałem zobaczyć na chwilę jak wyglą rozebrana trasa kolejowa
@@ -131,7 +131,7 @@ ale droga na północ jest poprowadzona przez krótki tunelik.
 Ruszyliśmy w stronę [Warblewa][wiki-warblewo] gdzie dołączyliśmy do szlaku rowerowego
 mając nadzieję, że to poprawi jakość naszej drogi.
 
-{% post_image "medium","IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte" %}
+{% photo "IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte" %}
 
 Przed Jeziorem Trzcińskim był lekki zjazd, niestety tutaj ziemia była
 najbardziej mokra. Opony zbierały glebę co znacząco zmniejszało zdolność do
@@ -153,7 +153,7 @@ Polska ma dużo lasów.
 
 Zrobiliśmy przerwę przy sklepie, ponieważ tutaj sklepy są rzadkością.
 
-{% post_image "medium","IMGP4704raw1.jpg","Gdzieniegdzie były ciekawsze widoki, Słońce dodało barw" %}
+{% photo "IMGP4704raw1.jpg","Gdzieniegdzie były ciekawsze widoki, Słońce dodało barw" %}
 
 Następnie ruszyliśmy na zachód przez [Komorowo][wiki-komorowo]
 i [Bożenice][wiki-bozenice]. Pola po prawej stronie (północna) leżą
@@ -162,7 +162,7 @@ na zboczu niewielkich górek.
 Teraz rozpoczęła
 się jazda przez wioski drogami o znikomym ruchu samochodowym.
 
-{% post_image "medium","IMGP4714raw1.jpg","Drzewa wokół drogi" %}
+{% photo "IMGP4714raw1.jpg","Drzewa wokół drogi" %}
 
 Przed miejscowością [Laski][wiki-laski] gęste drzewa blokowały większość
 śłońca. Patrząc na mapę widzę, że kiedyś była tutaj linia kolejowa,
@@ -183,7 +183,7 @@ dzień jest drugim dniem z dobrą pogodą w tym miesiącu.
 Dalej jechaliśmy przez [Suchą Koszalińską][wiki-sucha-koszalinska] i
 [Osieki][wiki-osieki].
 
-{% post_image "medium","IMGP4733raw1.jpg","Jest woda (Morze Bałtyckie)" %}
+{% photo "IMGP4733raw1.jpg","Jest woda (Morze Bałtyckie)" %}
 
 Poszliśmy na nadmorską plażę trochę na zachód od [Łazów][wiki-lazy].
 Tam mieliśmy z 30 minut na odpoczynek gdyż po tym czasie z zachodu

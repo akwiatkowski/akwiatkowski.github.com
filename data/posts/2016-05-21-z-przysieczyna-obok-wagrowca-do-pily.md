@@ -73,7 +73,7 @@ Trasę rozpocząłem w [Przysieczynie][wiki-przysieczyn] po wyjściu z pociągu.
 Wiedziałem, że muszę jechać dalej na północ i ze spokojnej miejscowości
 kierowałem się dość dobrą, jednak mało uczęszczaną drogą.
 
-{% post_image "medium","IMGP0411raw1.jpg","Budynek dworca kolejowego w Przysieczynie" %}
+{% photo "IMGP0411raw1.jpg","Budynek dworca kolejowego w Przysieczynie" %}
 
 Przejechałem przez [Wągrowiec][wiki-wagrowiec]. W momencie gdy piszę ten tekst
 wiele nie jestem w stanie powiedzieć o tym mieście. Zwróciłem uwagę na to,
@@ -94,7 +94,7 @@ Następnie kierowałem się do [Margonina][wiki-margonin] przez [Dziewoklucz][wi
 Filmik poniższy powinien najlepiej pokazywać jak wyglądają te tereny. Brak pasów na drodzę
 jest idealnym dowodem, jak jest tam spokojnie.
 
-{% post_image "medium","IMGP0415raw1.jpg","Wyjeżdzając z Kamienicy" %}
+{% photo "IMGP0415raw1.jpg","Wyjeżdzając z Kamienicy" %}
 
 Wokół tej drogi było więcej lasów niż pól, jak to było widoczne wcześniej, a jadąc
 minąłem ["Alpakoland"][alpakoland] - jest to coś pomiędzy agroturystyką a hodowlą alpak.
@@ -116,7 +116,7 @@ uwagi temu miast. Jechałem na północ drogą przecinającą
 [Noteć][wiki-notec]. Zaciekawił mnie samotny dom położony w pobliżu mostu nad
 rzeką. Sam most i widok z niego był również bardzo ciekawy.
 
-{% post_image "medium","IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży" %}
+{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży" %}
 
 Na wysokości wsi [Krzewiny][wiki-krzewina] zaciekawiła mnie ścieżka polna
 w kierunku wschodnim, gdyż pole było wybitnie pofalowane. Zastanawiałem się
@@ -127,7 +127,7 @@ Po dojechaniu do [Kaczorów][wiki-kaczory] skręciłem na zachód na szlak rower
 w stronę [Piły][wiki-pila]. Wiedziałem już, że nie zostało dużo kilometrów trasy.
 Mógłbym przejechać więcej, tylko wróciłbym bym za późno pociągiem do Poznania.
 
-{% post_image "medium","IMGP0432raw2.jpg","We wsi Krzewiny jest ciekawa dróżka na wschód. Obok jest trochę pagórków." %}
+{% photo "IMGP0432raw2.jpg","We wsi Krzewiny jest ciekawa dróżka na wschód. Obok jest trochę pagórków." %}
 
 Jechałem przez las, trasa mi się podobała, chociaż nie pamiętam co dokładnie.
 Dopiero pod koniec czekał przyjemny, ale nie delikatny, zjazd. Dojechałem na

@@ -54,7 +54,7 @@ Wysiedliśmy w [Drużynie][wiki-druzyna] jadąc spokojną droga przez [Borkowice
 Jest to zdecydowanie lepszy wybór niż jazda drogą 431 z [Mosiny][wiki-mosina]
 gdzie ruch samochodowy może być bardziej widoczny.
 
-{% post_image "medium","IMGP7056raw1.jpg","Kanał Mosiński" %}
+{% photo "IMGP7056raw1.jpg","Kanał Mosiński" %}
 
 W [Dymaszewie Starym][wiki-dymaszewo-stare] po dokupieniu jedzenia w sklepie dojechaliśmy
 do czarnego szlaku pieszego. Szlak ten biegnie wzdłuż wschodniego brzegu
@@ -63,7 +63,7 @@ Jest on zdecydowanie terenowy i miejscami są krótkie ale dość strome
 podjazdy i zjazdy. Jest to całkiem dobre miejsce na ćwiczenie technicznej jazdy
 w terenie.
 
-{% post_image "medium","IMGP7059raw1.jpg","Plaża w Dymaszewie Starym" %}
+{% photo "IMGP7059raw1.jpg","Plaża w Dymaszewie Starym" %}
 
 Dotarliśmy do [Łodzi][wiki-lodz]. Tutaj ostatnio byłem pieszo
 w [styczniu]({% post_url 2017-01-19-spacer-w-steszewie %}) gdy Polskę odwiedziła
@@ -72,7 +72,7 @@ prawdziwa biała zima.
 Podjechaliśmy pod [Jezioro Lipno][wiki-jezioro-lipno]. Tam zrobiliśmy przerwe
 na ciepłe kanapki.
 
-{% post_image "medium","IMGP7064raw1.jpg","Most na czarnym szlaku pieszym niedaleko Łodzi" %}
+{% photo "IMGP7064raw1.jpg","Most na czarnym szlaku pieszym niedaleko Łodzi" %}
 
 Mając trochę czasu objechaliśmy Jezioro Dębno. Pogoda zaczęła się psuć i
 na dworzec w [Stęszewie][wiki-steszew] wracaliśmy w deszczu.

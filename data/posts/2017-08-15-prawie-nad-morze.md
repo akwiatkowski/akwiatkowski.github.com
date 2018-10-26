@@ -74,23 +74,23 @@ dlatego czasami byśmy jechali w wąwozie nie widząc niczego obok.
 To nie była łatwa decyzja to podjęcia bo sam bardzo chciałem sprawdzić ten
 szlak.
 
-{% post_image "medium","IMGP0266raw1.jpg","Szlak na rozebranej linii kolejowej" %}
+{% photo "IMGP0266raw1.jpg","Szlak na rozebranej linii kolejowej" %}
 
 Zdecydowaliśmy po moich wątpliwościach aby dojechać drogą gruntową do
 [Nowego Worowa][wiki-nowe-worowo]. Przez nie przejeżdzałem
 [dwa lata temu]({% post_url 2015-08-23-z-cieszyno-do-szczecinka %}) rowerem.
 
-{% post_image "medium","IMGP0271raw1.jpg","Jadąc do Lipna" %}
+{% photo "IMGP0271raw1.jpg","Jadąc do Lipna" %}
 
 Podjęliśmy kolejną decyzję - aby jechać przez [Lipno][wiki-lipno] na
 północ. Byli byśmy wtedy szybciej w [Połczynie Zdrój][wiki-polczyn-zdroj].
 
-{% post_image "medium","IMGP0275raw1.jpg","Droga do Cieminko" %}
+{% photo "IMGP0275raw1.jpg","Droga do Cieminko" %}
 
 Patrząc na wykres wysokości droga, po której jechaliśmy, jest na wysokości
 prawie 200m n.p.m.
 
-{% post_image "medium","IMGP0287raw1.jpg","Okolice Nowego Worowa" %}
+{% photo "IMGP0287raw1.jpg","Okolice Nowego Worowa" %}
 
 Co jakiś czas robiliśmy przerwę na zdjęcia. Prawie udało mi się zrobić dobre
 zdjęcie bociana siedzącego na kominie domu. Chwilę później widzieliśmy
@@ -100,25 +100,25 @@ Bardzo podobała mi się droga przez [Smołdzęcino][wiki-smoldzecino].
 Następną miejscowością było [Kłokowo][wiki-klokowo], które było
 jeszcze mniejszą miejscowością i nie aż tak ciekawe.
 
-{% post_image "medium","IMGP0291raw1.jpg","Okolice Smołdzęcino" %}
+{% photo "IMGP0291raw1.jpg","Okolice Smołdzęcino" %}
 
 Dojeżdzając do drogi 173 zauważyłem wysoką [wieżę][wiki-wieza-toporzyk]
 z nadajnikami. Bardzo mnie zaciekawiła ona gdyż wyglądała jakby
 była pozostałością jakiegoś wojskowego budynku.
 
-{% post_image "medium","IMGP0299raw1.jpg","Bocian w Smołdzęcino" %}
+{% photo "IMGP0299raw1.jpg","Bocian w Smołdzęcino" %}
 
 Od tego momentu rozpoczął się największy zjazd na tym wyjeździe.
 100 metrów zjazdu w dół z 200m do 100m n.p.m. Jadąc tak szybko nie zauważyłem
 kiedy powinniśmy skręcić w lewo. Zresztą i tak bym nie skręcił bo nie byłem
 w stanie sprawdzać co się dzieje za mną.
 
-{% post_image "medium","IMGP0312raw1.jpg","Wieża z nadajnikami miejscowości Toporzyk" %}
+{% photo "IMGP0312raw1.jpg","Wieża z nadajnikami miejscowości Toporzyk" %}
 
 Dojechaliśmy do znacznie bardziej ruchliwej drogi 163 do [Kołobrzegu][wiki-kolobrzeg]
 i tam spokojnie niespokojną drogą dotarliśmy do [Połczyna Zdrój][wiki-polczyn-zdroj].
 
-{% post_image "medium","IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój" %}
+{% photo "IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój" %}
 
 Zamiast znowu jechać po drodze wojewódzkiej znalazłem inną opcję.
 Ulica Młyńska była idealnym rozwiązaniem. Okazało się, że tylko krótki
@@ -126,7 +126,7 @@ fragment jest brukowany, a później jest to asfalt i droga gruntowa.
 W taki sposób dojechaliśmy do [Buślarów][wiki-buslary] gdzie
 ponownie wjechaliśmy w drogę gruntową jadąc do [Starego Ludzicka][wiki-stare-ludzicko].
 
-{% post_image "medium","IMGP0339raw1.jpg","Jadąc do Starego Ludzicka" %}
+{% photo "IMGP0339raw1.jpg","Jadąc do Starego Ludzicka" %}
 
 Obie te drogi były drogami gruntowymi przez pola. Jeżeli się nie mylę pola były już
 po żniwach - ślady po zbożu. Dominował kolor blado-żółty.
@@ -137,7 +137,7 @@ dziwnego robaka - taką dużą czarno-czerwoną suchą dżdżownice.
 Przeglądając mapę widzę sporo ciekawych terenów wokół
 [Połczyna Zdroju][wiki-polczyn-zdroj] jednak nie nadawały one się do tras liniowych.
 
-{% post_image "medium","IMGP0348raw1.jpg","Okolice Rzecino" %}
+{% photo "IMGP0348raw1.jpg","Okolice Rzecino" %}
 
 Podobał mi się delikatny zjazd we wsi [Rzecino][wiki-rzecino] z ktorej
 kierowaliśmy się do [Rąbino][wiki-rabino]. Tam zrobiliśmy przerwę przy sklepie.
@@ -152,7 +152,7 @@ gminę - dojechać do [Karlino][wiki-karlino], jednak Michał wybił mi ten
 pomysł z głowy gdyż dojazd byłby mniej pewny. Patrząc teraz na mapę UMP widzę,
 że odległość zwiększyłaby się tylko o 8km.
 
-{% post_image "medium","IMGP0354raw1.jpg","Coś co wyglądało jak barszcz sosnowskiego niedaleko Gruszewa" %}
+{% photo "IMGP0354raw1.jpg","Coś co wyglądało jak barszcz sosnowskiego niedaleko Gruszewa" %}
 
 Ruszyliśmy na północ do [Białogardu][wiki-bialogard] jadąc przez jakby
 pomorskie zapomniane leśne drogi. Tak w skrócie to opisuje klimat drogi
@@ -164,7 +164,7 @@ byłem zaskoczony ale jak później widziałem że jest tego znacznie więcej to
 poczułem lekkie zaniepokojenie. Może to nie jest to co myśle, tylko inna
 roślina?
 
-{% post_image "medium","IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie" %}
+{% photo "IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie" %}
 
 Przed [Białogardem][wiki-bialogard] po lewej stronie zrobiłem zdjęcie
 ogromnej ilości elektrowni wiatrowych na zachodzie.
@@ -173,4 +173,4 @@ Dojechaliśmy na dworzec, kupiliśmy bilety i skoczyliśmy na obiad. O tej porze
 było już ciepło i jazda nie sprawiała takiej przyjemności jak
 gdy było 2-4 stopnie celsjusza mniej.
 
-{% post_image "medium","IMGP0394raw2.jpg","Bociany chodzące po mokradłach" %}
+{% photo "IMGP0394raw2.jpg","Bociany chodzące po mokradłach" %}

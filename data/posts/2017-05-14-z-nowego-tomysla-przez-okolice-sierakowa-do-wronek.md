@@ -69,7 +69,7 @@ Szczegóły
 Wysiedliśmy w [Nowym Tomyślu][wiki-nowy-tomysl] i po zakupienie zapasów na
 drogę ruszyliśmy drogą do [Starego Tomyśla][wiki-stary-tomysl].
 
-{% post_image "medium","IMGP6323raw1.jpg","Wyjeżdzając ze Starego Tomyśla" %}
+{% photo "IMGP6323raw1.jpg","Wyjeżdzając ze Starego Tomyśla" %}
 
 Jechaliśmy niebieskim szlakiem rowerowym.
 [Nowy Tomyśl][wiki-nowy-tomysl] nie jest dużym miastem ale jest na tyle duże,
@@ -88,7 +88,7 @@ nich znacznie wolniej.
 Zaciekawiła mnie miejscowość [Kozie Laski][wiki-kozie-laski]. Nie jechaliśmy tam,
 ale według mapy ta wieś powinna być położona na górce.
 
-{% post_image "medium","IMGP6329raw1.jpg","Zjazd do Lwówka" %}
+{% photo "IMGP6329raw1.jpg","Zjazd do Lwówka" %}
 
 Jechaliśmy na północ kierując się w stronę [Wytomyśla][wiki-wytomysl].
 Wkroczyliśmy w las co jakiś czas mijając domy. Przed przejazdem pod autostradą
@@ -107,7 +107,7 @@ podjazd do [Małej Lipki][wiki-mala-lipka]. Mogę się mylić w którym miejscu
 dokładniej był najwyższy punkt ale ważne jest, że rozpoczął się bardzo
 fajny zjazd.
 
-{% post_image "medium","IMGP6344raw1.jpg","Piaszczysta droga niedaleko Chudobczyc" %}
+{% photo "IMGP6344raw1.jpg","Piaszczysta droga niedaleko Chudobczyc" %}
 
 W [Lwówku][wiki-lwowek] zrobiliśmy sobie przerwę na rynku po kolejną część zapasów.
 Wyjeżdzając musieliśmy przejechać przez drogę nr 92.
@@ -119,7 +119,7 @@ izolację od dużego miasta.
 Dowodem jest stara tablica miejscowości pomalowana zgodnie z wcześniejszym
 stylem. Co ciekawe w odległości 5km jest droga nr 24.
 
-{% post_image "medium","IMGP6348raw1.jpg","Centrum Chudobczyc" %}
+{% photo "IMGP6348raw1.jpg","Centrum Chudobczyc" %}
 
 Ruszyliśmy dalej w stronę [Lubosza][wiki-lubosz]. Tereny te zaczeły mi się mocno
 kojarzyć z
@@ -127,7 +127,7 @@ kojarzyć z
 Dzisiejsza trasa bardzo mi się podobała, ale zacząłem się obawiam burzy która
 gdzieś na północy się pojawiła.
 
-{% post_image "medium","IMGP6357raw1.jpg","Pola niedaleko Lubosza" %}
+{% photo "IMGP6357raw1.jpg","Pola niedaleko Lubosza" %}
 
 Przejechaliśmy przez tory [linii kolejowej 363][wiki-kolej-363]. Linia ta miała
 zostać zlikwidowana, jednak po staraniach różnych środowisk pojawiła się
@@ -138,21 +138,21 @@ do [Sierakowskiego Parku Krajobrazowego][wiki-park-sierakow].
 Okoliczne tereny cały czas miały swój klimat, a pola kwitnącego rzepaku
 dodawały uroku.
 
-{% post_image "medium","IMGP6359raw1.jpg","Stóg w rzepaku" %}
+{% photo "IMGP6359raw1.jpg","Stóg w rzepaku" %}
 
 Może kiedyś coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
 drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewo]
 podczas zjazdu musiałem uważać na wiewiórkę gdyż była ona na drodzę. Wokół
 jest trochę zbiorników wodnych.
 
-{% post_image "medium","IMGP6365raw1.jpg","Jezioro w Mościejewie" %}
+{% photo "IMGP6365raw1.jpg","Jezioro w Mościejewie" %}
 
 Ponownie czekał na nas nie za długi podjazd. Mielśmy idealny widok na
 okolice Jeziora Lutomskiego i okoliczne pagórki. Naprzeciwko nas na północ
 zbierała się burza pod postacią bardzo ciemnych chmur. Błysków nie widziałem
 ale grzmoty było delikatnie słychać.
 
-{% post_image "medium","IMGP6369raw1.jpg","Pole rzepaku" %}
+{% photo "IMGP6369raw1.jpg","Pole rzepaku" %}
 
 Zaskoczył mnie gwałtowny zjazd, podjazd po nim już był bardziej
 przewidywalny.
@@ -160,13 +160,13 @@ przewidywalny.
 W [Lutomiu][wiki-lutom] skręciliśmy w stronę drogi 133 i przez
 [Ryżyn][wiki-ryzyn] jechaliśmy do [Wronek][wiki-wronki].
 
-{% post_image "medium","IMGP6384raw1.jpg","Przed burzą" %}
+{% photo "IMGP6384raw1.jpg","Przed burzą" %}
 
 W [Chrzypsku Wielkim][wiki-chrzypsko-wielkie] zrobiliśmy przerwę na jedzenie.
 Analizując opcje powrotu pociągiem i patrząc na niepewną pogodę postanowiliśmy
 sprawnie ruszyć już na powrotny pociąg.
 
-{% post_image "medium","IMGP6390raw1.jpg","Stacja w Ryżynie" %}
+{% photo "IMGP6390raw1.jpg","Stacja w Ryżynie" %}
 
 Trasę tą opisałem [tutaj]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %})
 gdyż już tutaj jechałem rowerem.
@@ -175,4 +175,4 @@ Przejeżdzając przez okolice [Łucjanowa][wiki-lucjanowo] widzieliśmy ślady
 ulewy, która niedawno przeszła. Mieliśmy sporo szczęścia gdyż się z nią
 nie spotkaliśmy.
 
-{% post_image "medium","IMGP6391raw1.jpg","Deszcz który nas nie złapał" %}
+{% photo "IMGP6391raw1.jpg","Deszcz który nas nie złapał" %}

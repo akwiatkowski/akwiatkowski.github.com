@@ -42,7 +42,7 @@ Ruszyliśmy w kierunku [Gębic][wiki-gebice] a dalej kierowaliśmy się
 przez [Marcinkowo][wiki-marcinkowo]. W tej miejscowości zrobiłem
 główne zdjęcie tego wpisu.
 
-{% post_image "medium","IMGP0606raw1.jpg","Tory pod mostem niedaleko Gębic" %}
+{% photo "IMGP0606raw1.jpg","Tory pod mostem niedaleko Gębic" %}
 
 Zaskoczyły mnie jakie tam są ciekawe tereny. Tak blisko rodzinnych stron a
 takie ładne są tutaj miejsca.
@@ -50,14 +50,14 @@ takie ładne są tutaj miejsca.
 Mieliśmy problemem przejechać przez [Kątno][wiki-katno] gdyż miejscami było bardzo
 dużo błota.
 
-{% post_image "medium","IMGP0624raw1.jpg","Pofalowane okolice wsi Kątno" %}
+{% photo "IMGP0624raw1.jpg","Pofalowane okolice wsi Kątno" %}
 
 
 
 Pojechaliśmy dalej do [Kamionka][wiki-kamionek] obok której jest całkiem
 duże jezioro. Płynie przez nie [Noteć][wiki-notec].
 
-{% post_image "medium","IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka" %}
+{% photo "IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka" %}
 
 Później zobaczyliśmy przypalone ruiny stacji w [Procyniu][wiki-procyn].
 

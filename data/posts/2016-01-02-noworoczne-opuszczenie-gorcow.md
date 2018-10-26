@@ -46,7 +46,7 @@ Po tym jak zeszliśmy na ulicę Poniatowskiego w [Rabce][wiki-rabka] zaczęła s
 najdłuższa i najspokojniejsza część trasy - przejście do centrum miasta po
 ulicy. Spokojna w znaczniu nudna.
 
-{% post_image "medium","IMGP7310raw1.jpg","Oszroniona poranna Rabka Zdrój" %}
+{% photo "IMGP7310raw1.jpg","Oszroniona poranna Rabka Zdrój" %}
 
 Okazało się, że autobus do [Krakowa][wiki-krakow] odjeżdza prawie "po drodzę".
 

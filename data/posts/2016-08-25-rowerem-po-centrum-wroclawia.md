@@ -53,14 +53,14 @@ wjechałem chwilę po 6-tej, kupiłem bilety i dotarłem na peron. W wyniku cią
 ostatnio remontów sposoby dostania sie na perony bywają zmienne i z tego powodu
 Michał miał problem aby dostać się na właściwy peron - 4a.
 
-{% post_image "medium","IMGP4924raw1.jpg","Widok na katedre we Wrocławiu" %}
+{% photo "IMGP4924raw1.jpg","Widok na katedre we Wrocławiu" %}
 
 Gdy czas odjazdu zbliżał się postanowiłem wyjśc z pociągu, aby przypadkiem samemu
 nie odjechać. To był dobry pomysł gdyż Michał dotarł 3 minuty po odjeździe pociągu.
 Powodem spóźnienia była otrzymana zła informacja od pracownika PKP (PKP chyba już nie ma,
 więc pracownika któreś ze spółek związanych z koleją) jak dojść na peron 4a.
 
-{% post_image "medium","IMGP4934raw1.jpg","Katedra we Wrocławiu" %}
+{% photo "IMGP4934raw1.jpg","Katedra we Wrocławiu" %}
 
 Na szczęście następny pociąg mieliśmy za trochę ponad godzinę i czas dojazdu do
 [Strzelina][wiki-strzelin] opóźniał się "tylko" o trochę ponad półtorej godziny.
@@ -77,7 +77,7 @@ Michał zaproponował abyśmy pojeździli po centrum [Wrocławia][wiki-wroclaw].
 Ja osobiście nigdy nie byłem dalej niż okolica dworca dlatego uznałęm, że to
 może być dobrym pomysłem.
 
-{% post_image "medium","IMGP4942raw1.jpg","Okolicę katedtry" %}
+{% photo "IMGP4942raw1.jpg","Okolicę katedtry" %}
 
 
 Przejechaliśmy przez:

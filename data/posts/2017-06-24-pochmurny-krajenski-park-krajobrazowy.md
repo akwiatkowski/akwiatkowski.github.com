@@ -83,7 +83,7 @@ się obiektu, rzadko kiedy są wystarcająco dobre.
 Jeżeli się nie mylę to w [Skórce][wiki-skorka] jest bardzo ładny budynek
 stacji kolejowej. Jest on bardzo zadbany jednocześnie wygląda na dość stary.
 
-{% post_image "medium","IMGP7880raw1.jpg","Kościół w centrum Krajenki" %}
+{% photo "IMGP7880raw1.jpg","Kościół w centrum Krajenki" %}
 
 Gdy wysiedliśmy w [Krajence][wiki-krajenka] zaczął lekko padać deszcz. Dojechaliśmy
 do centrum miejscowości w okolicy kościoła szukając jakieś kawiarni. Nic takiego
@@ -101,7 +101,7 @@ filmiki z kamerki.
 Same [Wąsoszki][wiki-wasoszki] są chyba bardzo malutką wsią położoną w okolicy
 torów kolejowych.
 
-{% post_image "medium","IMGP7894raw1.jpg","Wjeżdzając w las" %}
+{% photo "IMGP7894raw1.jpg","Wjeżdzając w las" %}
 
 Po pewnym czasie skończyła się droga asfaltowa a my wjechaliśmy w las.
 Ostatnimi czasy preferowałem zawsze drogi asfaltowe ale dzięki kupieniu
@@ -114,7 +114,7 @@ zerowy ruch, spokojne wioski, pola zboża które za 2-4 tygodnie będzie można
 zbierać. Jeżeli będzie jedno ciekawe miejsce to je opiszę ale w tych
 rejonach każde miejsce jest wystarczająco ciekawe abym mógł polecać.
 
-{% post_image "medium","IMGP7898raw1.jpg","Wyjeżdzając z Wąsosza" %}
+{% photo "IMGP7898raw1.jpg","Wyjeżdzając z Wąsosza" %}
 
 Dojechaliśmy do [Świętej][wiki-swieta] i od tego momentu jechaliśmy
 zgodnie ze szlakiem
@@ -126,7 +126,7 @@ Z [Nowej Świętej][wiki-nowa-swieta] opuściliśmy asfalt i jechaliśmy
 obok Jeziora Śmiardówka. Chcieliśmy je zobaczyć ale przeoczyliśmy zjazd
 który był trochę wcześniej. Już się nie wracaliśmy.
 
-{% post_image "medium","IMGP7936raw1.jpg","Jezioro Borówno" %}
+{% photo "IMGP7936raw1.jpg","Jezioro Borówno" %}
 
 Lekkim zjazdem wyjechaliśmy do drogi 189
 i kierowaliśmy się na wschód do [Kujan][wiki-kujan]. Na prawie całej długości
@@ -141,7 +141,7 @@ Ruszyliśny drogą asfaltową na północ kierując się do wsi
 [Wersk][wiki-wersk]. Po chwili opuściliśmy drogę asfaltową i
 ponownie wkroczyliśmy do lasu.
 
-{% post_image "medium","IMGP8001raw1.jpg","Jezioro Borówno, północna część" %}
+{% photo "IMGP8001raw1.jpg","Jezioro Borówno, północna część" %}
 
 Szlak rowerowy przebiega przez [Zakrzewo][wiki-zakrzewo] w którym jest stacja
 kolejowa ale my wjechaliśmy od razu do lasu. Jadąc po drodze gruntowej
@@ -149,7 +149,7 @@ widzieliśmy Jezioro Borówko które było połączone strumieniem z
 Jeziorem Wierzchołek. W okolicy Jeziora Borówno były podmokłe tereny
 i rosłay jakieś dziwne roślinki z takim jakby białym puchem.
 
-{% post_image "medium","IMGP8006raw1.jpg","Puchowe roślinki" %}
+{% photo "IMGP8006raw1.jpg","Puchowe roślinki" %}
 
 Przed dojazdem do [Werska][wiki-wersk] widzieliśmy jeszcze Jezioro Wielki Smolsk.
 
@@ -157,7 +157,7 @@ Wyjeżdzając z [Wersku][wiki-wersk] widzieliśmy bardzo ładnie położony dom.
 Od tego momentu jechaliśmy drogą gruntową. Przejechaliśmy przez całkiem
 ładny most nad rzeką [Łobżonką][wiki-lobzonka].
 
-{% post_image "medium","IMGP8022raw1.jpg","Skrzynki pocztowe na skraju Werska" %}
+{% photo "IMGP8022raw1.jpg","Skrzynki pocztowe na skraju Werska" %}
 
 Ponownie jechaliśmy lasem i zbyt wiele o nim powiedzieć nie mogę.
 Naszym celem była teraz miejscowość [Jazdrowo][wiki-jazdrowo].
@@ -165,7 +165,7 @@ Naszym celem była teraz miejscowość [Jazdrowo][wiki-jazdrowo].
 Będąc w lesie prawie na ogół jechaliśmy szlakami pieszymi. Jest ich tam całkiem
 sporo.
 
-{% post_image "medium","IMGP8036raw1.jpg","Dom przed lasem" %}
+{% photo "IMGP8036raw1.jpg","Dom przed lasem" %}
 
 Jechaliśmy teraz do [Iłowa][wiki-ilowo]. Zdecydowanie czułem klimat tych terenów
 chociaż trudno mi opisać co to oznacza. Trochę to można zobaczyć na filmiku ale
@@ -173,7 +173,7 @@ ostatecznie chyba konieczne jest bycie tam samemu na żywo. Spokojna jazda przez
 wioski, obok zboże które powoli zbliża się do żniwa, już tak charakterystycznie
 pachnie.
 
-{% post_image "medium","IMGP8042raw1.jpg","Most nad Łobżonką" %}
+{% photo "IMGP8042raw1.jpg","Most nad Łobżonką" %}
 
 Wjechaliśmy do [Radońska][wiki-radonsk] mając do wyboru dwie drogi dojazdu
 do [Sępólna Krajeńskiego][wiki-sepolno-krajenski]. Wybraliśmy wersję
@@ -181,16 +181,16 @@ przez [Wiśniewę][wiki-wisniewa], która
 miała być nieznacznie spokojniejsza gdyż obie są drogami o bardzo małym
 ruchu.
 
-{% post_image "medium","IMGP8043raw1.jpg","Standardowa droga gruntowa" %}
+{% photo "IMGP8043raw1.jpg","Standardowa droga gruntowa" %}
 
 Samo [Sępólno Krajeńskie][wiki-sepolno-krajenski] zaskoczyło mnie różnicami
 wysokości. Jezioro Sępolskie jest położone wyraźnie niżej niż droga którą
 dojechaliśmy. Podjechaliśmy do kawiarni położonej nad jeziorem i powoli
 kończyliśmy plany tego dnia.
 
-{% post_image "medium","IMGP8072raw1.jpg","Standardowa droga asfaltowa" %}
+{% photo "IMGP8072raw1.jpg","Standardowa droga asfaltowa" %}
 
 [Krajenski Park Krajobrazowy][wiki-krajenski-park] to jedno z ważniejszych odkryć
 w tym roku.
 
-{% post_image "medium","IMGP8091raw1.jpg","Jezioro Sępoleńskie i rzadkie słoneczne chwile" %}
+{% photo "IMGP8091raw1.jpg","Jezioro Sępoleńskie i rzadkie słoneczne chwile" %}

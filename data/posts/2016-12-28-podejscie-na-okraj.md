@@ -56,7 +56,7 @@ niebieskiego. Punkt ten położony
 jest na wysokości 726m n.p.m, czyli całkiem wysoko. Oddziela on
 [Karkonosze][wiki-karkonosze] z [Rudawami Janowickimi][wiki-rudawy].
 
-{% post_image "medium","IMGP0670raw1.jpg","Wieś Podgórze" %}
+{% photo "IMGP0670raw1.jpg","Wieś Podgórze" %}
 
 Przez chwilę widzieliśmy po prawej okolice [Jeleniej Góry][wiki-jelenia-gora]
 oraz [Kowar][wiki-kowary], a później rozpoczął się las.
@@ -64,7 +64,7 @@ oraz [Kowar][wiki-kowary], a później rozpoczął się las.
 Tego dnia wiatr wiał całkiem wyraźnie. Trasa była miejscami oblodzona ale nie było
 strasznie. Była to zapowiedź tego, co nas czeka w następnych dniach.
 
-{% post_image "medium","IMGP0683raw1.jpg","Idąc przez las" %}
+{% photo "IMGP0683raw1.jpg","Idąc przez las" %}
 
 Trasa nie była dalej zbyt ciekawa. Wokół nas była prawie-zima i prawie-zimowy
 las. Chłodno, ale tego śniego nie było za dużo. Miałem nadzieję że będzie bardziej
@@ -73,7 +73,7 @@ biało. [Karkonosze][wiki-karkonosze] bardzo dobrze kojarzę w zimie.
 Ostatnia część podejścia była wzdłuż drogi asfaltowej. Nic ciekawego
 do opisywania.
 
-{% post_image "medium","IMGP0695raw1.jpg","Malá Úpa" %}
+{% photo "IMGP0695raw1.jpg","Malá Úpa" %}
 
 Po zostawieniu rzeczy poszliśmy rozejrzeć się do [Malej Úpy][wiki-mala-upa].
 Przypomniałem sobie gdy byłem

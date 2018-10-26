@@ -95,7 +95,7 @@ przez skrzyżowanie obok [Krzewiny][wiki-krzewina], gdzie
 jechałem do [Piły][wiki-pila]. Całkiem fajny był zjazd po drodzę, jak się nie mylę
 osiągnąłem szybkość 50 km/h.
 
-{% post_image "medium","IMGP3632raw1.jpg","Roździelnia obok Krzewin" %}
+{% photo "IMGP3632raw1.jpg","Roździelnia obok Krzewin" %}
 
 Do szlaku [R1][wiki-r1] dołączyliśmy w [Rzadkowie][wiki-rzadkowo], przed którym
 jechaliśmy chyba jedyną drogą gruntową tego dnia.
@@ -105,7 +105,7 @@ jechaliśmy chyba jedyną drogą gruntową tego dnia.
 Po lewej stronie widzieliśmy tory po których jeździ pociąg osobowy
 [Piła][wiki-pila]-[Bydgoszcz][wiki-bydgoszcz] ([linia 18][wiki-linia-18]).
 
-{% post_image "medium","IMGP3637raw1.jpg","Droga do obniżenia wokół Noteci" %}
+{% photo "IMGP3637raw1.jpg","Droga do obniżenia wokół Noteci" %}
 
 Ciekawe podczas tej trasy było to, że raz tory kolejowe były nad, a raz poniżej drogi,
 którą jechaliśmy. Obniżenie wokół [Noteci][wiki-notec] utrudniało projektującym tą
@@ -118,7 +118,7 @@ W [Miasteczku Krajeńskim][wiki-miasteczko-krajenskie] przejeżdzaliśmy obok ci
 starych budynków, jednak nie znalazłem informacji o nich na wikipedii. Możliwe że nie
 są żadnym istotnym zabytkiem.
 
-{% post_image "medium","IMGP3644raw1.jpg","Tory kolejowe linii Bydgoszcz-Piła" %}
+{% photo "IMGP3644raw1.jpg","Tory kolejowe linii Bydgoszcz-Piła" %}
 
 Postanowiliśmy że będziemy jechać zgodnie ze szlakiem [R1][wiki-r1] pomimo tego,
 że mało optymalnie się on wije po tej miejscowości.
@@ -155,7 +155,7 @@ Jechaliśmy na północ. Musieliśmy minąć [S10][wiki-s10] i to trochę
 potrwało gdyż tam ruch rzadko zamiera. Wcześniej przejechaliśmy przez rzekę
 [Orla][wiki-rzeka-orla].
 
-{% post_image "medium","IMGP3649raw1.jpg","Snopki na polu" %}
+{% photo "IMGP3649raw1.jpg","Snopki na polu" %}
 
 
 Wjechaliśmy do [Bagdadu][wiki-bagdad]. Wioska o ciekawej nazwie rozpoczynała
@@ -163,7 +163,7 @@ innych charakter miejscowości. Od tego momentu były już zdecydowanie
 bardziej rolnicze. Sam przejazd przez [Bagdad][wiki-bagdad] trwał bardzo krótko,
 było tam chyba nie więcej niż pięć domów. Mała wioska, duże pola.
 
-{% post_image "medium","IMGP3653raw1.jpg","Na północ od Badgadu" %}
+{% photo "IMGP3653raw1.jpg","Na północ od Badgadu" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -185,7 +185,7 @@ nie jestem w stanie napisać nic charakterystycznego. Przed [Witosławem][wiki-w
 przejechaliśmy przez stary przejazd kolejowy. Patrząc teraz na mapę ciekawi
 mnie droga do [Dźwierszna][wiki-dzwierszno].
 
-{% post_image "medium","IMGP3656raw1.jpg","Wioska Orle" %}
+{% photo "IMGP3656raw1.jpg","Wioska Orle" %}
 
 Zatrzymalismy się we wiosce Orle na małe zakupy. Całkiem klimatyczna
 miejscowość. Wyjeżdzając z niej ponownie jechaliśmy pomiędzy polami.
@@ -202,14 +202,14 @@ Dojechaliśmy do rzeki Krówka i okazało się, że przebudowują tam most. Prze
 rowery jednocześnie trochę brudząc swoje buty i opony. Głupio by było jechać
 objazdem dla samochodów.
 
-{% post_image "medium","IMGP3663raw1.jpg","Okolice Dziewianowa" %}
+{% photo "IMGP3663raw1.jpg","Okolice Dziewianowa" %}
 
 Dojechaliśmy do skrzyżowania obok Jeziora Wierzchucińskiego Dużego, gdzie
 skręciliśmy w kierunku [Bydgoszczy][wiki-bydgoszcz]. Około 400 metrów
 dalej rozpoczęła się ścieżka rowerowa, którą można dojechać bezpośrednio do
 [Bydgoszczy][wiki-bydgoszcz]. Jest ona wzdłuż drogi przez całe 15 kilometrów.
 
-{% post_image "medium","IMGP3666raw1.jpg","Okolice Trzemiętowa" %}
+{% photo "IMGP3666raw1.jpg","Okolice Trzemiętowa" %}
 
 Pomimo tego że często jechaliśmy wokół pól po tej drodzę ruch był większy.
 Miałem wrażenie że większość osób właśnie wyjeżdzała z [Bydgoszczy][wiki-bydgoszcz].
@@ -229,7 +229,7 @@ nieoficjalny) i dostaliśmy się na dworzec. Tam zjadłem obiad, który był rac
 niesmaczny, oraz nie udało się nam kupić biletu gdyż już nie było miejsc
 w przedziale rowerowym.
 
-{% post_image "medium","IMGP3669raw1.jpg","Szlak rowerowy do samej Bydgoszczy" %}
+{% photo "IMGP3669raw1.jpg","Szlak rowerowy do samej Bydgoszczy" %}
 
 Takie mało pozytywne doświadczenia mocno kontrastują się z tym jak jest on ładny z
 zewnątrz.

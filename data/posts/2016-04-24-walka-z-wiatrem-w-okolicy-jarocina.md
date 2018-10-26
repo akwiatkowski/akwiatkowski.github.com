@@ -76,13 +76,13 @@ wioski. Ruch jakby był jeszcze mniejszy. Pewnie wszyscy siedzą w domach bo jes
 Nie wiedziałem w tym momencie, że później sam będę sobie takie pytanie zadawał -
 po co wychodziłem z domu.
 
-{% post_image "medium","IMGP9424raw1.jpg","Domy w okolicy Witkowa" %}
+{% photo "IMGP9424raw1.jpg","Domy w okolicy Witkowa" %}
 
 Minąłem drogę 11 i jechałem dalej przez [Witowo][wiki-witowo] i [Pięczkowo][wiki-pieczkowo],
 a następnie [Orzechowo][wiki-orzechowo]. Jak już pisałem - spokojna niedziela i spokojne wioski
 (lub miasteczka).
 
-{% post_image "medium","IMGP9440raw1.jpg","Warta niedaleko Orzechowa" %}
+{% photo "IMGP9440raw1.jpg","Warta niedaleko Orzechowa" %}
 
 Za [Orzechowem][wiki-orzechowo] szlak rowerowy przebiegał w okolicy [Warty][wiki-warta].
 Tereny były bardzo ładne, a gdy pojawiało się słońce to tym bardziej. W tym momencie
@@ -129,7 +129,7 @@ W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bard
 oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
 soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
 
-{% post_image "medium","IMGP9450raw1.jpg","Droga do Bieździadowa" %}
+{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa" %}
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą

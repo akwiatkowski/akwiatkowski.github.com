@@ -49,12 +49,12 @@ Szczegóły
 Niestety pogoda tego dnia nas nie rozpieszczała. Ruszyliśmy niebieskim szlakiem idąc
 przez standardowy las.
 
-{% post_image "medium","IMGP2388raw1.jpg","Widok tuż obok 'schroniska'" %}
+{% photo "IMGP2388raw1.jpg","Widok tuż obok 'schroniska'" %}
 
 Dotarliśmy do małego [schroniska na Hali Kondratowej][wiki-schr-hala], gdzie nie
 zrobiliśmy przerwy. Postanowiliśmy iść dalej.
 
-{% post_image "medium","IMGP2429raw1.jpg","Oset" %}
+{% photo "IMGP2429raw1.jpg","Oset" %}
 
 Z każdym metrem widoczność stopniowo się pogarszała. Bardzo mnie to demotywowało,
 gdyż sprawdziłem wcześniej jakie widoki są na górze przy dobrej pogodzie.
@@ -62,20 +62,20 @@ Próbowałem myśleć pozytywnie, że przynajmniej zdjęcia w mgle są interesuj
 albo że uda mi się zrobić jakieś fajne zdjęcia mokrej przyrody. Niestety nie
 wziąłem mojego ulubionego [szkła][pentax-macro] do macro.
 
-{% post_image "medium","IMGP2419raw1.jpg","Na Hali Kondratowej'" %}
+{% photo "IMGP2419raw1.jpg","Na Hali Kondratowej'" %}
 
 Rozpoczęło się kamieniaste podejście w kierunku [Kondrackiej Przełęczy][wiki-kondracka-przelecz].
 Po drodzę zrobiłem trochę zdjęć strumyczka ucząć się, że tryb preselekcji czasu
 jest przydatny.
 
-{% post_image "medium","IMGP2459raw1.jpg","Źródło strumyku" %}
+{% photo "IMGP2459raw1.jpg","Źródło strumyku" %}
 
 Ten strumyk płynął szlakiem wcześniej, ale nie zwracałem na niego za bardzo uwagi.
 
 Na [przełęczy][wiki-kondracka-przelecz] było już "solidne mleko" i trochę wiało, a mieliśmy
 jeszcze podejść wyżej.
 
-{% post_image "medium","IMGP2511raw1.jpg","Kropelki deszczu" %}
+{% photo "IMGP2511raw1.jpg","Kropelki deszczu" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -93,21 +93,21 @@ Na [Kondrackiej Kopie][wiki-kondracka-kopa] była widoczność na kilkanaście m
 oraz solidny wiatr. Nie było sensu iść dalej w stronę [Ciemniaka][wiki-ciemniak] dlatego
 postanowiliśmy że schodzimy.
 
-{% post_image "medium","IMGP2523raw1.jpg","Na szczycie Kondrackiej Kopy" %}
+{% photo "IMGP2523raw1.jpg","Na szczycie Kondrackiej Kopy" %}
 
 Początkowa część zejścia to były trawersy - szlak był jednym wielkim zyzgakiem.
 Dopiero będąc poniżej chmur pojawił się dobry widok na dolinę
 wokół [schroniska][wiki-schr-hala]. Od tego momentu trochę zwolniłem, aby móc
 zrobić więcej zdjęć.
 
-{% post_image_no_gallery "medium","IMGP2563raw1.jpg","Schodząc, opuszczając chmury" %}
+{% photo "IMGP2563raw1.jpg","Schodząc, opuszczając chmury","nogallery" %}
 
 Tym razem zrobiliśmy sobie dłuższą przerwę w [schroniska][wiki-schr-hala].
 W międzyczasie raz solidniej padało.
 
-{% post_image "medium","IMGP2627raw1.jpg","Okolice schroniska na Hali Kondrackiej" %}
+{% photo "IMGP2627raw1.jpg","Okolice schroniska na Hali Kondrackiej" %}
 
 Około 16-tej wróciliśmy do [Kolatówki][kolatowki] przygotowując się mentalnie na zmianę
 noclegu dnia następnego.
 
-{% post_image "medium","IMGP2704raw1.jpg","Wyciąg na Kasprowy Wierch we mgle" %}
+{% photo "IMGP2704raw1.jpg","Wyciąg na Kasprowy Wierch we mgle" %}

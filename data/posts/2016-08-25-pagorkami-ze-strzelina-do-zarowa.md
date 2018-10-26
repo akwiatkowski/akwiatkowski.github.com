@@ -118,7 +118,7 @@ zarośnięta i miejscami były lekkie kamienie. Widoki ciekawsze
 pojawiły się dopiero jak zjechaliśmy do poziomu pól - jechaliśmy tunelem
 między drzewami i krzewami.
 
-{% post_image "medium","IMGP4948raw1.jpg","Stawy w Białym Kościele" %}
+{% photo "IMGP4948raw1.jpg","Stawy w Białym Kościele" %}
 
 Cieszyłem się gdy dotarliśmy do drogi asfaltowej w [Białym Kosciele][wiki-bialy-kosciol].
 Oprócz kilku budujących się nowych domów czuć tu klimat sudeckiej wioski.
@@ -129,7 +129,7 @@ kolejowymi.
 Przejechaliśmy przez [Wąwolnice][wiki-wawolnica] i jechaliśmy na zachód
 lekkim podjazdem w stronę [Stachowa][wiki-stachow].
 
-{% post_image "medium","IMGP4960raw1.jpg","Jadąc do Czerwieńca" %}
+{% photo "IMGP4960raw1.jpg","Jadąc do Czerwieńca" %}
 
 Raz był podjazd, a raz zjazd, chociaż patrząc na mapę to mieliśmy więcej podjazdów.
 Na filmiku widać że mieliśmy pagórki na horyzoncie. Czułem że powoli wjeżdzamy
@@ -145,7 +145,7 @@ Wokół były pola, pagórki i czasem lasy. Przejechaliśmy przez [Kowalskie][wi
 [Żelowice][wiki-zelowice], [Strachów][wiki-strachow], Piotrówek
 i [Wojsławice][wiki-wojslawice] jadąc do [Niemczy][wiki-niemcza].
 
-{% post_image "medium","IMGP4972raw1.jpg","Rynek w Niemczy" %}
+{% photo "IMGP4972raw1.jpg","Rynek w Niemczy" %}
 
 W [Wojsławicach][wiki-wojslawice] obok [Niemczy][wiki-niemcza]
 jest [arbotreum][wiki-arbotreum-wojslawice].
@@ -161,14 +161,14 @@ obok Stawu Zamkowego, jednak samego zamku nie zauważyliśmy. Po chwili musieli�
 na drogę 8-kę. Dobre jest to, że musieliśmy przejechać tylko kilometr.
 Skręciliśmy do [Kietlina][wiki-kietlin].
 
-{% post_image "medium","IMGP4982raw1.jpg","Dolnośląskie pola" %}
+{% photo "IMGP4982raw1.jpg","Dolnośląskie pola" %}
 
 W okolicy jest bardzo dużo różnych dróg polnych i na pewno można dostać się w
 ciekawe miejsca, jednak jadąc z sakwami i mając określoną konkretnę trasę
 nie można się rozpraszać pomimo tego, że czasem jest
 [tak ładnie jak tu]({% post_url 2016-09-03-zachodnie-okolice-dobiegniewa %}).
 
-{% post_image "medium","IMGP4990raw1.jpg","Obok góry Działowa" %}
+{% photo "IMGP4990raw1.jpg","Obok góry Działowa" %}
 
 Podjechaliśmy rowerem pod [Golę Dzierżoniowską][wiki-gola-dzierzoniowska]
 i obok górki Działowa skręciliśmy na północ. Jechaliśmy bo fajnej polnej drodze.
@@ -178,7 +178,7 @@ Po lewej stronie mijaliśmy już zaorane pole w kształcie małej górki.
 Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][wiki-debowa-gora].
 Śłońce już zmieniało swoją barwę i widać było że zbliża się powoli zachód.
 
-{% post_image "medium","IMGP5001raw1.jpg","Widok na Ślężę" %}
+{% photo "IMGP5001raw1.jpg","Widok na Ślężę" %}
 
 Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
 skręciliśmy na zachód.
@@ -190,7 +190,7 @@ droga była ciekawsza.
 Minęliśmy kilka małych pagórków z których mieliśmy bardzo ładny widok na okolicę.
 Towarzyszył nam widok na [Ślężę][wiki-sleza].
 
-{% post_image "medium","IMGP5017raw1.jpg","Między miejscowościami Jaźwina a Kiełczyn" %}
+{% photo "IMGP5017raw1.jpg","Między miejscowościami Jaźwina a Kiełczyn" %}
 
 
 Za [Mysłakowem][wiki-myslakow] przez większość czasu jechaliśmy pod słońce.
@@ -203,7 +203,7 @@ Wyjątkiem jest tylko [Wierzbna][wiki-wierzbna] gdzie wjechaliśmy na teren koś
 i dowiedzieliśmy się, że mieszka w tej miejscowości dużo polityków, oraz że
 najwięcej dla kościoła zrobili politycy SLD (zdanie jednego mieszkańca).
 
-{% post_image "medium","IMGP5038raw1.jpg","Zaorane pole" %}
+{% photo "IMGP5038raw1.jpg","Zaorane pole" %}
 
 Ostatnim etapem pozostał nocleg pod [Żarowem][wiki-zarow].
 Podczas rezerwacji prosiłem o pokój z łazienką
@@ -218,4 +218,4 @@ Jako klient chciałbym konkretne warunki za które mógłbym zapłacić i to ró
 więcej niż 40zł. Z tego powodu nie zaznaczyłem
 tego miejsca na swojej liście polecanych noclegów.
 
-{% post_image "medium","IMGP5055raw1.jpg","Ruiny w Pankowie" %}
+{% photo "IMGP5055raw1.jpg","Ruiny w Pankowie" %}

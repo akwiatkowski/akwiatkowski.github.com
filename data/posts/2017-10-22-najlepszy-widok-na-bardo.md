@@ -48,7 +48,7 @@ Szczegóły
 Z pociągu wysiedliśmy około godziny 10:40. Poszliśmy trochę na wschód, aż do
 ulicy Skalnej, gdzie na niebieskim szlaku pieszym rozpoczynało się podejście.
 
-{% post_image "medium","IMGP2441raw1.jpg","Podejście niebieskim szlakiem" %}
+{% photo "IMGP2441raw1.jpg","Podejście niebieskim szlakiem" %}
 
 Niebieski szlak pieszy (chociaż nie wiem na jakiej odległości) jest
 drogą krzyżową.
@@ -56,31 +56,31 @@ drogą krzyżową.
 Oprócz źródła Marii i samych pomników - stacji drogi krzyżowej, szlak ten nie
 miał w sobie wiele ciekawego.
 
-{% post_image "medium","IMGP2446raw1.jpg","Źródło Marii" %}
+{% photo "IMGP2446raw1.jpg","Źródło Marii" %}
 
 W okolicy jest żółty szlak rowerowy, który powinien być dość przyjemny i
 łatwy do jazdy. Tak przewiduję, nie jestem tego pewien, gdyż widziałem
 tylko krótki fragment.
 
-{% post_image "medium","IMGP2497raw1.jpg","Liść gdzieś na szlaku" %}
+{% photo "IMGP2497raw1.jpg","Liść gdzieś na szlaku" %}
 
 Dotarliśmy na punkt widokowy obok krzyża, z którego był widok na
 [miasto][wiki-bardo]. Akurat ruszał w tym momencie pociąg i mogłem zrobić
 zdjęcie z nim na pierwszym planie.
 
-{% post_image "medium","IMGP2504raw1.jpg","Drugi punkt widokowy na Bardo" %}
+{% photo "IMGP2504raw1.jpg","Drugi punkt widokowy na Bardo" %}
 
 Wracając nie schodziliśmy niebieskim szlakiem tylko poszliśmy żółtym
 szlakiem rowerowym i dotarliśmy do ulicy Krakowskiej.
 
-{% post_image "medium","IMGP2506raw1.jpg","W stronę ulicy Krakowskiej" %}
+{% photo "IMGP2506raw1.jpg","W stronę ulicy Krakowskiej" %}
 
 Kierowaliśmy się do centrum. Miasto wydawało się ospałe. Chcieliśmy się powłóczyć
 lecz deszcz przekonywał nas, że przyda się ciepłe herbata.
 W tym momencie pojawił się pomysł na
 [dalszą część dnia]({% post_url 2017-10-22-palac-w-kamiencu-zabkowickim %}).
 
-{% post_image "medium","IMGP2511raw1.jpg","Centrum Barda" %}
+{% photo "IMGP2511raw1.jpg","Centrum Barda" %}
 
 Nie widzieliśmy żadnej kawiarni w centrum. Przechodząc obok cmentarza
 postanowiliśmy, że dotrzemy do stacji [Bardo Przyłęk][wiki-bardo-przylek].
@@ -89,4 +89,4 @@ Nie udało się nam dotrzeć do [Nysy Kłodzkiej][wiki-nysa-klodzka]. Woleliśmy
 na [stacji][wiki-bardo-przylek] za pociągiem do
 [Kamieńca Ząbkowickiego][wiki-kamieniec-zabkowicki].
 
-{% post_image "medium","IMGP2520raw1.jpg","Jadąc do Kamieńca Ząbkowickiego" %}
+{% photo "IMGP2520raw1.jpg","Jadąc do Kamieńca Ząbkowickiego" %}

@@ -56,7 +56,7 @@ Ostatni raz w okolicy [Stogu Izerskiego][wiki-stog-izerski] byłem
 [w 2014 roku]({% post_url 2014-06-20-przez-jakuszyce-i-stog-izerski %}). Tamtego dnia
 nie mieliśmy takiego szczęścia do pogody.
 
-{% post_image "medium","IMGP4137raw1.jpg","Gondolowa kolejka na Stóg Izerski" %}
+{% photo "IMGP4137raw1.jpg","Gondolowa kolejka na Stóg Izerski" %}
 
 Przejechaliśmy wokół [Stogu Izerskiego][wiki-stog-izerski]
 w stronę Drogi Telefonicznej. Celem na początek była
@@ -70,13 +70,13 @@ oraz musiałem się przyzwyczaić do prędkości. Zjazd "na szczęście" skończ
 dość szybko i jechaliśmy po dobrej drodze polnej. Nie było żadnych przepaści obok
 gdyż [Góry Izerskie][wiki-gory-izerskie] są na ogół dość spokojne.
 
-{% post_image "medium","IMGP4140raw1.jpg","Zachodnie okolice Świeradowa Zdroju" %}
+{% photo "IMGP4140raw1.jpg","Zachodnie okolice Świeradowa Zdroju" %}
 
 Okazało się że można już zamawiać jedzenie w [schronisku][wiki-chatka-gorzystow]
 gdy się w nim nie nocuje, dlatego zamówiliśmy legendarne naleśniki z jagodami.
 Faktycznie są one bardzo dobre i każdemu polecam spróbować.
 
-{% post_image "medium","IMGP4147raw1.jpg","Chata Górzystów" %}
+{% photo "IMGP4147raw1.jpg","Chata Górzystów" %}
 
 Bardzo podobała mi się polana oświetlona powoli zachodzącym słońcem.
 
@@ -84,12 +84,12 @@ Teraz kierowaliśmy się na północ do drogi zjazdowej do [Świeradowa][wiki-sw
 Wydaje mi się, że z roku na rok droga ta jest w gorszym stanie, co jest w sumie
 normalne gdyż chyba się jej nie remontuje często (tak mi się wydaje, mogę się mylić).
 
-{% post_image "medium","IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej" %}
+{% photo "IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej" %}
 
 Zjazd trudno mi opisać. Był fajny i każdemu polecam, ale wiedząc co mnie czeka
 nie przeżyłem wyraźnego zaskoczenia.
 
-{% post_image "medium","IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów" %}
+{% photo "IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów" %}
 
 Do centrum [miasta][wiki-swieradow] dojechaliśmy drogą 358.
 Chcieliśmy jeszcze spróbować pobliski singletrak. Niestety dla nas musieliśmy
@@ -112,7 +112,7 @@ dość stromy,
 albo muszę wymienić klocki hamulcowe i uzupełnić płyn, gdyż sporo siły
 musiałem włożyć aby zahamować do zera.
 
-{% post_image "medium","IMGP4160raw1.jpg","Opuszczając okolice polskiego singletraka" %}
+{% photo "IMGP4160raw1.jpg","Opuszczając okolice polskiego singletraka" %}
 
 W centrum skoczyliśmy do sklepu po zapasy a rowery już prowadziliśmy. Odkryłem
 że dojście do naszej bazy jest bardzo proste, praktycznie cały czas wystarczy iść

@@ -23,7 +23,7 @@ Wstęp
 W skrócie przejechałem się do [Puszczykowa][wiki-puszczykowo]
 [Nadwarciańskim Szlakiem Rowerowym][wiki-nadwiarcianski] i wróciłem do domu.
 
-{% post_image "medium","IMGP4508raw1.jpg","Powoli pojawia się wiosna obok Warty" %}
+{% photo "IMGP4508raw1.jpg","Powoli pojawia się wiosna obok Warty" %}
 
 Więcej napiszę może w późniejszych wpisach. Te tereny to taki poznański standard
 rowerowy.

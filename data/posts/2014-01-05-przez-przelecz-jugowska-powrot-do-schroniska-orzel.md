@@ -44,18 +44,18 @@ Dzień rozpoczęliśmy wyruszając na południe z [Kamionek][wiki-kamionki]. Poc
 szlak wyglądał jak spacer z lekkim podejściem po późno-jesiennym lesie. Szlak to taki
 odpowiednik "na skróty" do położonej obok drogi dla samochodów.
 
-{% post_image "medium","IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej" %}
+{% photo "IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej" %}
 
 Gdy już byliśmy w pobliżu [Przełęczy Jugowskiej][wiki-jugowska] zrobiło się znacznie
 bardziej mgliście. Zeszliśmy coś zjeść do schroniska [Zygmuntówka][wiki-zygmuntowka].
 
-{% post_image "medium","IMGP3111raw1.jpg","Biedronka w styczniu" %}
+{% photo "IMGP3111raw1.jpg","Biedronka w styczniu" %}
 
 Po chwili ruszyliśmy dalej zielonym szlakiem w stronę [Jugowa][wiki-jugow]. Trochę
 przeszliśmy ulicą Fabryczną w kierunku [Ludwikowic Kłodzkich][wiki-ludwikowice],
 jednak skręciliśmy dość szybko na zachód. Teraz szliśmy czarnym szlakiem rowerowym.
 
-{% post_image "medium","IMGP3119raw1.jpg","Dom w Sowinie" %}
+{% photo "IMGP3119raw1.jpg","Dom w Sowinie" %}
 
 Nie wiem czy była to najlepsza decyzja. Szlak rowerowy jest idealny do roweru,
 ubita droga, raczej sensownie płasko i tak przez las 2.5km. Trochę nudne to było.
@@ -64,7 +64,7 @@ W [Sowinie][wiki-sowina] ruszyliśmy na północ w kierunku [Sokolca][wiki-sokol
 Pamiętam że podejście było trochę nużące dla mnie. Po pewnym czasie dotarliśmy
 do schroniska [Orzeł][wiki-schron-orzel].
 
-{% post_image "medium","IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina" %}
+{% photo "IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina" %}
 
 Warunki subiektywnie bardzo dobre, jednak nie zrozumiałem jak to może być, że
 ludzie do późna latają po korytarzu i hałasują. W nocy spadł lekki śnieg, ale
@@ -74,7 +74,7 @@ rano już go nie było.
 Wnioski
 -------
 
-{% post_image "medium","IMGP3135raw1.jpg","Inne to ruina ale mniejsza" %}
+{% photo "IMGP3135raw1.jpg","Inne to ruina ale mniejsza" %}
 
 Czy te tereny są depresyjne? O tej porze roku mogą być.
 [Góry Sowie][wiki-gory-sowie] są chyba terenem z którego najwięcej osób się

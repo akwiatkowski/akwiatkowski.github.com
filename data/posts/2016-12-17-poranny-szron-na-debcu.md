@@ -32,7 +32,7 @@ Ustawiłem budzik na 6-tą rano i obudziłem się dopiero po kilku minutach budz
 Zjadłem coś lekkiego i zrobiłem kanapkę. Teraz dochodzę do wniosku że nie jest głupie
 zabieranie termosu.
 
-{% post_image "medium","IMGP0272raw1.jpg","Most na Łęgach Dębińskich" %}
+{% photo "IMGP0272raw1.jpg","Most na Łęgach Dębińskich" %}
 
 Wyruszyłym jeszcze w nocy na przystanek autobusowy. Początkowo chciałem pojechać
 nad [Wartę][wiki-warta] w okolicy [Radojewa][wiki-radojewo]. Opóźnienie autobusu
@@ -42,7 +42,7 @@ będzie tam pojechać. Pomimo tego, że będę musiał jechać dalej.
 Dotarłem nad stawy i pierwsze czym się zdziwiłem to woda - była zamarznięta.
 Czyli mój filtr szary się chyba nie przyda.
 
-{% post_image "medium","IMGP0303raw1.jpg","Powalone drzewo na Łęgach Dębińskich" %}
+{% photo "IMGP0303raw1.jpg","Powalone drzewo na Łęgach Dębińskich" %}
 
 Przeszedłem prawie standardową trasę. Prawie bo rozszerzyłem i znalazłem
 ciekawą zatoczkę.
@@ -50,7 +50,7 @@ ciekawą zatoczkę.
 Ze zdjęć jestem zadowolony średnio. Wiem że nie zrobiłem żadnego rewelacyjnego
 zgodnie z tym "co ludzie lubią".
 
-{% post_image "medium","IMGP0330raw1.jpg","Poranek na Łęgach Dębińskich" %}
+{% photo "IMGP0330raw1.jpg","Poranek na Łęgach Dębińskich" %}
 
 Zastanawiałem się czy może lepiej by było jakbym
 pojechał nad [Wartę][wiki-warta]. Tam słońce by miało większy wpływ na krajobraz,

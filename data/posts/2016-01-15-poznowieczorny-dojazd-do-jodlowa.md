@@ -35,20 +35,20 @@ Szczegóły
 Za [Wrocławiem][wiki-wroclaw] już widziałem, że jest sporo śniegu, a gdy
 dojechałem do [Kłodzka][wiki-klodzko] rozpadało się już całkiem solidnie.
 
-{% post_image "medium","IMGP7388raw2.jpg","Ośnieżone ławki w Kłodzku" %}
+{% photo "IMGP7388raw2.jpg","Ośnieżone ławki w Kłodzku" %}
 
 Dostałem informację o utrudnieniach na drodzę i reszta ludzi przyjedzie z opóźnieniem.
 Wyciągnąłem statyw i zacząłem robić zdjęcia w okolicy stacji. Te 20 minut
 upłynęło bardzo szybko.
 
-{% post_image "medium","IMGP7406raw1.jpg","Dojazd do Kłodzko Główne" %}
+{% photo "IMGP7406raw1.jpg","Dojazd do Kłodzko Główne" %}
 
 Ruszyliśmy samochodem na południę w stronę [Międzylesia][wiki-miedzylesie] jadąc
 drogą [33][wiki-33].
 Docelowo jechaliśmy do [Jodłowa][wiki-jodlow], gdzie mieliśmy nocleg. Zgodnie
 z otrzymana radą jechaliśmy przez [Dolnik][wiki-dolnik] i [Pisary][wiki-pisary].
 
-{% post_image "medium","IMGP7411raw1.jpg","Zimowy wieczór obok Kłodzko Główne" %}
+{% photo "IMGP7411raw1.jpg","Zimowy wieczór obok Kłodzko Główne" %}
 <!--
 <div class='pixels-photo'>
   <p>

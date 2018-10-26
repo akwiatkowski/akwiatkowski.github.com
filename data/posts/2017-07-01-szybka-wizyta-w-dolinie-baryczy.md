@@ -85,7 +85,7 @@ zbyt nowe a obie wsie wyglądały schludnie.
 Dojechaliśmy do [Pakosławu][wiki-pakoslaw] jadąc zielonym szlakiem rowerowym.
 Szlak ten mi się podobał dzięki ładnym widokom i dobrej jakości asfaltem.
 
-{% post_image "medium","IMGP8323raw1.jpg","Przerwa w Białymkale" %}
+{% photo "IMGP8323raw1.jpg","Przerwa w Białymkale" %}
 
 Jechaliśmy szybko i obawialiśmy się że zbyt wcześnie dojedziemy do
 [Ostrowa Wielkopolskiego][wiki-ostrow-wielkopolski]. Zaproponowałem abyśmy
@@ -103,7 +103,7 @@ Ostatnio tam byłem pod
 Zrobiliśmy przerwę na kilka zdjęć obok małej rzeczki. Chmury wyglądały bardzo
 ciekawie wtedy.
 
-{% post_image "medium","IMGP8337raw1.jpg","Połączenie zieleni z chmurami" %}
+{% photo "IMGP8337raw1.jpg","Połączenie zieleni z chmurami" %}
 
 Wjechaliśmy do [Rudy Sułowskiej][wiki-ruda-sulowska] i niestety okazało się,
 że już nie serwują pierogów z karpia. Bardzo mi smakowało wtedy to danie, a do tego
@@ -122,7 +122,7 @@ poszukać informacji.
 Wyjechaliśmy kierując się na [Godnowę][wiki-godnowa] już jadąc bardziej
 bezpośrednio w stronę końca trasy. Zostało nam 40-50 km do celu.
 
-{% post_image "medium","IMGP8341raw1.jpg","Przystanek w lesie na północ od Stawów Milickich" %}
+{% photo "IMGP8341raw1.jpg","Przystanek w lesie na północ od Stawów Milickich" %}
 
 Zboże które mijaliśmy wyglądało jakby już było gotowe na żniwa.
 
@@ -134,7 +134,7 @@ rowerowym przez [Kaczory][wiki-kaczory].
 Okolice [Kaczorów][wiki-kaczory] wyglądały ciekawie i chętnie bym jeszcze tutaj
 kiedyś przejechał.
 
-{% post_image "medium","IMGP8343raw1.jpg","Pola niedaleko miejscowości Baby" %}
+{% photo "IMGP8343raw1.jpg","Pola niedaleko miejscowości Baby" %}
 
 Chmury miały podejrzaną charakterystykę. Gdzieś w oddali widać było jak pada
 deszcz.

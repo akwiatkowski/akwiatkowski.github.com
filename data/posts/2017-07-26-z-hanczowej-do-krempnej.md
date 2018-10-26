@@ -62,7 +62,7 @@ Szczegóły
 Wyruszyliśmy z bazy w [Hańczowej][wiki-hanczowa] chwilę przed godziną 9-tą jadąc na północ.
 Był to bardzo delikatny zjazd, prawie niezauważalny.
 
-{% post_image "medium","IMGP9091raw1.jpg","Cerkiew w Hańczowej" %}
+{% photo "IMGP9091raw1.jpg","Cerkiew w Hańczowej" %}
 
 Gdy dojechaliśmy do centrum [Hańczowej][wiki-hanczowa] skręciliśmy
 na wschód przejeżdzając obok cerkwi szukając żółtego szlaku rowerowego.
@@ -70,13 +70,13 @@ Szlak ten biegnie obok
 góry Kiczerka. Czekał nas pierwszy podjazd (niecałe
 100m) abyśmy skrócili sobie drogę do wsi [Skwirtne][wiki-skwirtne].
 
-{% post_image "medium","IMGP9093raw1.jpg","Ostatni widok na Hańczową" %}
+{% photo "IMGP9093raw1.jpg","Ostatni widok na Hańczową" %}
 
 Przełęcz, na którą musieliśmy dojechać, była w środku lasu. Podczas zjazdu,
 jak można się spodziewać, opuszczając las mieliśmy znacznie lepsze wrażenia
 widokowe. To jest to co jest najlepsze w [Beskidzie Niskim][wiki-beskid-niski].
 
-{% post_image "medium","IMGP9099raw1.jpg","Podjazd w stronę Skwirtne" %}
+{% photo "IMGP9099raw1.jpg","Podjazd w stronę Skwirtne" %}
 
 Gdyby nie samochód jadący z naprzeciwka mógłbym się znacznie bardziej
 rozpędzić. Muszę jednak napisać, że zjechał on wyraźnie na poboczę aby umożliwić
@@ -85,7 +85,7 @@ nam sprawny przejazd.
 Robiąc teraz filmik i widząc jak trzęsie się kamerka zastanawiam się nad
 wymianą na coś lepszego z chociaż podstawową stabilizacją obrazu.
 
-{% post_image "medium","IMGP9103raw1.jpg","Droga przez Skwirtne" %}
+{% photo "IMGP9103raw1.jpg","Droga przez Skwirtne" %}
 
 Skręciliśmy na północ gdyż jednym z naszych celów była
 [cerkiew][wiki-kwiaton-cerkiew] w [Kwiatoniu][wiki-kwiaton].
@@ -93,29 +93,29 @@ Spędziliśmy tam kilkanaście minut. Trudno mi
 było zrobić odpowiednie zdjęcie w środku. Tam konieczny jest obiektyw
 ultra-szerokokątny.
 
-{% post_image "medium","IMGP9114raw1.jpg","Cerkiew w Kwiatoniu" %}
+{% photo "IMGP9114raw1.jpg","Cerkiew w Kwiatoniu" %}
 
 Powróciliśmy do naszej trasy jadąc na wschód do [Smerekowca][wiki-smerekowiec].
 Wiele nowych domów pojawiło się w okolicy. Sam ten odcinek oceniam
 na raczej mało ciekawy. Wyjątkiem był cmentarz który mijaliśmy po lewej stronie.
 
-{% post_image "medium","IMGP9136raw1.jpg","Cmentarz niedaleko Smerekowca" %}
+{% photo "IMGP9136raw1.jpg","Cmentarz niedaleko Smerekowca" %}
 
 Gdy dojechaliśmy do drogi 977 ruszyliśmy w stronę [Gładyszowa][wiki-gladyszow].
 Tutaj jeszcze nie byłem. Czekał teraz na nas spokojny podjazd z 470m do 580m n.p.m.
 
-{% post_image "medium","IMGP9160raw1.jpg","Budynek w Gładyszowie" %}
+{% photo "IMGP9160raw1.jpg","Budynek w Gładyszowie" %}
 
 Jechaliśmy drogą wijącą się pośrodku pagórków, przy której położone są domy i
 gospodarstwa rolne. Stopniowo zaczęły się one przerzedzać aż w końcu
 wjechaliśmy w las.
 
-{% post_image "medium","IMGP9176raw1.jpg","Krzyż i krowy w Gładyszowie" %}
+{% photo "IMGP9176raw1.jpg","Krzyż i krowy w Gładyszowie" %}
 
 Zrobiliśmy przerwę na skrzyżowaniu dróg na krótkie jedzenie. Został
 nam jeszcze jeden istotny podjazd na ten dzień.
 
-{% post_image "medium","IMGP9188raw1.jpg","Na skrzyżowaniu, drogowskaz do Małastowa" %}
+{% photo "IMGP9188raw1.jpg","Na skrzyżowaniu, drogowskaz do Małastowa" %}
 
 Jechaliśmy na południe przez [Krzywe][wiki-krzywa], małą wioskę położoną
 totalnie na uboczu, aby dojechać do przełęczy, z której będziemy
@@ -123,7 +123,7 @@ zjeżdzać do miejscowości [Czarne][wiki-czarne]. Jest to kolejna wioska
 "na uboczu" lecz turystycznie znacznie popularniejsza. Jeżeli się nie mylę
 w okolicy minął nas jeden rowerzysta.
 
-{% post_image "medium","IMGP9212raw1.jpg","Wjeżdzając do Jasionki" %}
+{% photo "IMGP9212raw1.jpg","Wjeżdzając do Jasionki" %}
 
 Widziałem tabliczkę miejscowości [Jasionka][wiki-jasionka]. Pierwszy
 dom w tej miejscowości widzieliśmy dopiero po przejechaniu pół kilometra.
@@ -133,14 +133,14 @@ na dzisiaj - do 620m n.p.m.
 Gdzieś w oddali widzieliśmy ścieżkę wokół której były krzyże.
 Czerwony szlak pieszy musi bardzo ciekawie przebiegać przez pola.
 
-{% post_image "medium","IMGP9216raw1.jpg","Opuszczając Jasionki" %}
+{% photo "IMGP9216raw1.jpg","Opuszczając Jasionki" %}
 
 Podczas zjazdu do [Czarne][wiki-czarne] zaskoczył mnie 200-300 metrowy asfaltowy odcinek drogi.
 Zaczął się on niespodziewanie a jeszcze bardziej niespodziewanie skończył.
 Zjazd po drodzę gruntowej z dziurami i kałużami nie jest najszybszym możliwym
 zjazdem.
 
-{% post_image "medium","IMGP9274raw1.jpg","Cmentarz w Czarne" %}
+{% photo "IMGP9274raw1.jpg","Cmentarz w Czarne" %}
 
 Zrobiliśmy przerwę przy cmentarzu przed miejscowością
 [Czarne][wiki-czarne].
@@ -148,7 +148,7 @@ Zrobiliśmy przerwę przy cmentarzu przed miejscowością
 Gdy dojechaliśmy do [Czarnej][wiki-czarne] niebo się już zachmurzyło.
 Chmury były trochę straszne, jakby za chwilę miało mocno padać.
 
-{% post_image "medium","IMGP9286raw1.jpg","Mała przydrożna kapliczka w Czarne" %}
+{% photo "IMGP9286raw1.jpg","Mała przydrożna kapliczka w Czarne" %}
 
 Gdy byłem tutaj
 w [2016 roku]({% post_url 2016-05-27-petla-do-klimkowki %}) pamiętałem o
@@ -156,12 +156,12 @@ czynnym schronisku gdzie można było coś ciepłego zjeść. Dowiedzieliśmy si
 od turystów, że teraz jest ono nieczynne. Oznaczało to, że dopiero
 w [Krempnej][wiki-krempna] może będziemy mogli zjeść coś ciepłego.
 
-{% post_image "medium","IMGP9303raw1.jpg","Przydrożna kapliczka" %}
+{% photo "IMGP9303raw1.jpg","Przydrożna kapliczka" %}
 
 Został nam ostatni (nie licząc podjazdu w samej [Krempnej][wiki-krempna])
 podjazd do miejscowości [Długie][wiki-dlugie]/[Wyszowatka][wiki-wyszowatka].
 
-{% post_image "medium","IMGP9316raw1.jpg","Kolejna droga na końcu świata" %}
+{% photo "IMGP9316raw1.jpg","Kolejna droga na końcu świata" %}
 
 Podjazd minął nam dość szybko. Zjazd był po dość utwardzonej drodze
 gruntowej. Po prawej widzieliśmy spore obniżenie terenu.
@@ -169,12 +169,12 @@ gruntowej. Po prawej widzieliśmy spore obniżenie terenu.
 We wsi na środku leżał sobie pies. Postanowiłem go grzecznie ominąć gdyż
 nie wiedziałem jaki ma on charakter.
 
-{% post_image "medium","IMGP9331raw1.jpg","Opuszczając Wyszowatkę" %}
+{% photo "IMGP9331raw1.jpg","Opuszczając Wyszowatkę" %}
 
 Niestety wibrację spowodowały, że filmik nagrany przed dojazdem do skrzyżowania
 jest nieużyteczny.
 
-{% post_image "medium","IMGP9335raw1.jpg","Chmury wyglądały niepokojąco" %}
+{% photo "IMGP9335raw1.jpg","Chmury wyglądały niepokojąco" %}
 
 Na skrzyżowaniu skręciliśmy w lewo jadąc już bezpośrednio do
 [Krempnej][wiki-krempna]. Tą drogą jechałem
@@ -185,14 +185,14 @@ aby przeczekać deszcz. Głód się już powoli pojawiał. Szukałem restauracji
 przez komórkę jednak tutaj nie było tak dobrze jak w [Wysowej Zdrój][wiki-wysowa].
 Pozostało nam ruszyć do centru i zobaczyć czy coś będzie.
 
-{% post_image "medium","IMGP9339raw1.jpg","Dojeżdzając do Krempnej po deszczu" %}
+{% photo "IMGP9339raw1.jpg","Dojeżdzając do Krempnej po deszczu" %}
 
 Okazało się, że w centrum [Krempnej][wiki-krempna] jest sklep. W sumie to
 wiedziałem o tym ale nie byłem pewien. Jedyne ciepłe jedzenie można było
 kupić w kawiarni przy zalewie. Został nam już ostatni podjazd - do noclegu.
 
-{% post_image "medium","IMGP9351raw1.jpg","Zalew w Krempnej" %}
+{% photo "IMGP9351raw1.jpg","Zalew w Krempnej" %}
 
 Gdy się rozpakowaliśmy poszliśmy pieszo do sklepu. Idąc zrobiłem kilka zdjęć.
 
-{% post_image "medium","IMGP9370raw1.jpg","Okno drewnianego domu w Krempnej" %}
+{% photo "IMGP9370raw1.jpg","Okno drewnianego domu w Krempnej" %}

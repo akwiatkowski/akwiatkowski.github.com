@@ -84,7 +84,7 @@ Ruszyliśmy na północ przejeżdzając przez miasto. Skręciliśmy w prawo aby 
 szutrową w okolicy Jeziora Słupeckiego, wokół budującego się osiedla domów
 jednorodzinnych.
 
-{% post_image "medium","IMGP6764raw1.jpg","Wjazd do miejscowości Korwin" %}
+{% photo "IMGP6764raw1.jpg","Wjazd do miejscowości Korwin" %}
 
 Droga zrobiła się po jakimś czasie bardziej zielona - było więcej drzew
 wokół niej a mniej nowych domów.
@@ -103,7 +103,7 @@ Wkroczyliśmy od tego momentu w okolice [Jeziora Powidzkiego][wiki-jezioro-powid
 a po pewnym czasie po lewej stronie widzieliśmy domy letniskowe oraz
 ośrodki wczasowe.
 
-{% post_image "medium","IMGP6792raw1.jpg","Jezioro Powidzkie" %}
+{% photo "IMGP6792raw1.jpg","Jezioro Powidzkie" %}
 
 W [Kosewie][wiki-kosewo] zrobiliśmy przerwę przy sklepie spożywczym.
 Tam dowiedzieliśmy się
@@ -116,7 +116,7 @@ Dojechaliśmy do ośrodka Horn (jeżeli się nie mylę). Wyglądało ono jak tak
 Wróciliśmy się do niebieskiego szlaku rowerowego i kontynuowaliśmy trasę
 jadąc na wschód.
 
-{% post_image "medium","IMGP6801raw1.jpg","Przydrożna kapliczka w Naprusewie" %}
+{% photo "IMGP6801raw1.jpg","Przydrożna kapliczka w Naprusewie" %}
 
 Z [Naprusewa][wiki-naprusewo] jechaliśmy nadal niebieskim szlakiem rowerowym
 ale zmieniliśmy
@@ -131,7 +131,7 @@ podróż niż ryzykować czarnym szlakiem rowerowym i piaskami w lesie.
 Przez [Sierniczne Wielkie][wiki-sierniczne-wielkie] jechaliśmy już drogą
 w stronę [Budzisława Górnego][wiki-budzislaw-gorny].
 
-{% post_image "medium","IMGP6821raw1.jpg","Łabędzie w Przyjezierzu" %}
+{% photo "IMGP6821raw1.jpg","Łabędzie w Przyjezierzu" %}
 
 Postanowiłem abyśmy przejechali przez [Marszewo][wiki-marszewo] i dojechali
 do czarnego szlaku rowerowego. Bałem się go wcześniej ale okazało się, że jest
@@ -143,7 +143,7 @@ Przez [Wójcin][wiki-wojcin] dojechaliśmy do [Przyjezierza][wiki-przyjezierze].
 Miejscowość ta znana jest przez okoliczne jezioro i całkiem dużą plażę, takie
 lokalne małe morze.
 
-{% post_image "medium","IMGP6825raw1.jpg","Jezioro Ostrowskie w Przyjezierzu" %}
+{% photo "IMGP6825raw1.jpg","Jezioro Ostrowskie w Przyjezierzu" %}
 
 Było przez sezonem, dlatego plaża nie była cała zajęta. Pamiętam jak kiedyś
 w niedziele trudno było znaleźć miejsce do zaparkowania i konieczny był spacer
@@ -159,7 +159,7 @@ na jedzenie. Po niej ruszyliśmy drogą gruntową i następnie do
 centrum wioski. Czekała teraz nas druga część trasy. Mieliśmy chyba równe
 dwie godziny do odjazdu pociągu z [Wydartowa][wiki-wydartowo].
 
-{% post_image "medium","IMGP6833raw1.jpg","Lekki podjazd niedaleko doliny Noteci w Kątnie" %}
+{% photo "IMGP6833raw1.jpg","Lekki podjazd niedaleko doliny Noteci w Kątnie" %}
 
 Trasa do [Zbytowa][wiki-zbytowo]
 nie jest jakaś specjalnie ciekawa, ale teraz mieszkając
@@ -170,7 +170,7 @@ Przed [Gębicami][wiki-gebice] jest ciekawe skrzyżowanie
 Dwa kilometry dalej zaczynają się [Gębice][wiki-gebice] bardzo fajnym
 zjazdem przez całą miejscowość.
 
-{% post_image "medium","IMGP6842raw1.jpg","Plaża w Kamionkach" %}
+{% photo "IMGP6842raw1.jpg","Plaża w Kamionkach" %}
 
 Nieużywane tory kolejowe aż do [Orchowa][wiki-orchowo] opisałem we
 [wcześniejszym wpisie]({% 2016-12-26-kujawskie-okolice-noteci %}).
@@ -179,7 +179,7 @@ do Kątna gdzie jest obniżenie zachodniego dopływu
 [Noteci][wiki-notec]. Tym razem rowerami nie mamy problemu z przejechaniem
 po drodze gruntowej.
 
-{% post_image "medium","IMGP6855raw1.jpg","Obniżenie terenu i jezioro niedaleko Łosośników" %}
+{% photo "IMGP6855raw1.jpg","Obniżenie terenu i jezioro niedaleko Łosośników" %}
 
 Teraz gdy jest wiosna w pełni tereny te wyglądają zupełnie inaczej, zdecydowanie
 piękniej. To są chyba najpiękniejsze tereny w pobliżu rodzinnych stron, o których
@@ -189,7 +189,7 @@ Dojechaliśmy do plaży w [Kamionkach][wiki-kamionek] gdzie zrozumiałem że nie
 dużo czasu. Ruszyliśmy na północ przez [Łosośniki][wiki-lososniki].
 Trochę czasu "zmarnowaliśmy" na zdjęcia obniżenia terenu po lewej (na zachód).
 
-{% post_image "medium","IMGP6868raw1.jpg","Droga do Targownicy" %}
+{% photo "IMGP6868raw1.jpg","Droga do Targownicy" %}
 
 Od teraz jechaliśmy szybko i sprawnie. Celem była stacja w [Wydartowie][wiki-wydartowo].
 Ostatnie 2.5km musieliśmy przejechać po drodzę 15-ce denerwując kierowców,

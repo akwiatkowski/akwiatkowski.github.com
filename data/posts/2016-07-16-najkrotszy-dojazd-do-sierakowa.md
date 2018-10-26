@@ -65,7 +65,7 @@ Dojechałem pociągiem do [Mokrza][wiki-mokrz] - mała osada w
 [Puszczy Noteckiej][wiki-puszcza-notecka]. Stacja jest malutka, trochę pocieszna,
 bo taka sama postawiona pośrodku wielkiego lasu. Zielono jest tam z każdej strony.
 
-{% post_image "medium","IMGP2201raw1.jpg","Początek wsi Chojno" %}
+{% photo "IMGP2201raw1.jpg","Początek wsi Chojno" %}
 
 Ruszyłem niebieskim szlakiem rowerowym na południe do drogi 150. Okazało się, że
 droga jest w dobrej jakości i jechało się przyjemnie.
@@ -74,7 +74,7 @@ Gdy dojechałem do drogi 150 uderzył mnie charakterystyczny klimat wiosek wokó
 [Warty][wiki-warta]. Połączenie lekko pofalowanego terenu, spokoju, odległości od
 większych miast z naprzemiennymi polami i lasami.
 
-{% post_image "medium","IMGP2204raw1.jpg","Idealna droga na rower" %}
+{% photo "IMGP2204raw1.jpg","Idealna droga na rower" %}
 
 Największą miejscowością w tej okolicy jest wieś [Chojno][wiki-chojno] (składa się
 z kilku wsi mających w nazwie "Chojno"). Tak jak
@@ -82,7 +82,7 @@ Eskimosi mają wiele określeń na śnieg, tak Polacy powinni mieć wiele okreś
 na wioski, gdyż jedna wioska może bardzo różnić się od innej wioski.
 Widziałem tam nawet jakąś agroturystykę.
 
-{% post_image "medium","IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno" %}
+{% photo "IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno" %}
 
 Wyjeżdzając z [Chojna][wiki-chojno] zaczęły się pola i rzadko położone
 gospodarstwa rolne.
@@ -96,7 +96,7 @@ Wyjeżdzając przejechałem pod torami kolejowymi. Szkoda że nie są one teraz
 używane ponieważ trasa jest bardzo ładna, do tego [Sieraków][wiki-sierakow] jest
 istotną miejscowością wypoczynkową w okolicy [Poznania][wiki-poznan].
 
-{% post_image "medium","IMGP2227raw2.jpg","Warta płynąca przez Sieraków" %}
+{% photo "IMGP2227raw2.jpg","Warta płynąca przez Sieraków" %}
 
 Od tego momentu rozpoczął się szybki i sprawny powrót. Celem były [Wronki][wiki-wronki].
 Jechałem głównie [Szlakiem Stu Jezior][wiki-szlak-stu].
@@ -104,7 +104,7 @@ Jechałem głównie [Szlakiem Stu Jezior][wiki-szlak-stu].
 Nie będę opisywał co jest najciekawsze, ale zdecydowanie polecam ten szlak.
 W przyszłości spróbuję przejechać jego resztę.
 
-{% post_image "medium","IMGP2239raw1.jpg","Tutaj się uczył Henryk Szulczyński" %}
+{% photo "IMGP2239raw1.jpg","Tutaj się uczył Henryk Szulczyński" %}
 
 Spieszyłem się i dlatego jechałem głównymi drogami. Niestety dojeżdzając do
 [Starego Miasta][wiki-stare-miasto] obok [Wronek][wiki-wronki] kamerka mi się
@@ -112,7 +112,7 @@ wyładowała, a spiesząc się na pociąg nie chciałem zmieniać baterii. Z teg
 powodu nie nagrałem zjazdu. Zjazd ten jest jednym z najciekawszych gdyż
 widzi się okolicę [Warty][wiki-warta] w tym most kolejowy.
 
-{% post_image "medium","IMGP2241raw1.jpg","Obok nieużywanej linii kolejowej w Chrzypsku Wielkim" %}
+{% photo "IMGP2241raw1.jpg","Obok nieużywanej linii kolejowej w Chrzypsku Wielkim" %}
 
 Na dworzec dojechałem chyba minutę przed odjazdem, na szczęście pociąg
 dodatkowo spóźnił się kilka minut.

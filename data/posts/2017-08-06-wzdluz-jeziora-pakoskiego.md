@@ -64,7 +64,7 @@ nie tak szerokokątny obiektyw, oraz jakby nie było siatki odgradzającej,
 to mógłbym zrobić trochę ciekawych zdjęć. Krowa jest idealnym pierwszym
 planem do zdjęć.
 
-{% post_image "medium","IMGP0096raw1.jpg","Krowy na tle zakładów sodowych w Janikowie" %}
+{% photo "IMGP0096raw1.jpg","Krowy na tle zakładów sodowych w Janikowie" %}
 
 Najciekawszym obiektem na tej trasie jest kolejka podwieszana transportująca
 wapień z kopalni niedaleko [Piechcina][wiki-piechcin] do

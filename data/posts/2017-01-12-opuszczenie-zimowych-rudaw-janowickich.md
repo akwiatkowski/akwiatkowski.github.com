@@ -52,12 +52,12 @@ Udało mi się jednak zrobić dwa ciekawe zdjęcia. Najciekawsze jest zdjęciem
 głównym. Drugie to [Pałac Wojanów][wiki-wojanow-palac] na tle
 [Karkonoszy][wiki-karkonosze].
 
-{% post_image "medium","IMGP1897raw1.jpg","Pałac Wojanów na tle Karkonoszy" %}
+{% photo "IMGP1897raw1.jpg","Pałac Wojanów na tle Karkonoszy" %}
 
 Drugie mniej ciekawe przedstawia tereny, które byłyby najciekawsze dla zdjęć
 podczas wschodu i zachodu.
 
-{% post_image "medium","IMGP1902raw1.jpg","Pola na północ od Wojanowa" %}
+{% photo "IMGP1902raw1.jpg","Pola na północ od Wojanowa" %}
 
 Wnioski
 -------

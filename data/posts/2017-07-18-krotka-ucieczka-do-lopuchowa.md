@@ -50,7 +50,7 @@ Szczegóły
 Trasa do [Biedruska][wiki-biedrusko] jest mi znana. Jechałem ją już wiele razy lecz
 nie tak często jak trasa na stację [Poznań Garbary][wiki-poznan-garbary].
 
-{% post_image "medium","IMGP8899raw1.jpg","Pole przed Murowaną Gośliną" %}
+{% photo "IMGP8899raw1.jpg","Pole przed Murowaną Gośliną" %}
 
 Do [Murowanej Gośliny][wiki-murowana-goslina] dojechałem z zachodniej strony
 przez [Raduszyn][wiki-raduszyn].
@@ -58,7 +58,7 @@ Następnie przejechałem ulicą Rogozińską na północ. Droga ta krzyżyje si�
 drogą 196. Od momentu skrzyżowania poczułem, że dopiero teraz opuszczam
 całkowicie [Poznań][wiki-poznan].
 
-{% post_image "medium","IMGP8901raw1.jpg","Opuszczając Murowaną Goślinę" %}
+{% photo "IMGP8901raw1.jpg","Opuszczając Murowaną Goślinę" %}
 
 Chcąc wracać pociągiem wymyśliłem sobie kierunek trasy do
 [Sławy Wielkopolskiej][wiki-slawa-wlkp] i jechałem przez [Wojnowo][wiki-wojnowo].
@@ -67,13 +67,13 @@ Podobało mi się pole podczas bardzo powoli zachodzącego słońca.
 Gdy dojechałem do [Wojnówka][wiki-wojnowko] szukałem drogi powrotnej. Zamiast
 planowanego asfaltu wjechałem w piach na plaży przy Jeziorze Lomno.
 
-{% post_image "medium","IMGP8906raw1.jpg","Niezbyt dobre tereny na rower szosowy" %}
+{% photo "IMGP8906raw1.jpg","Niezbyt dobre tereny na rower szosowy" %}
 
 Chcąc jakoś dojechać do [Łopuchowa][wiki-lopuchowo] ostatecznie musiałem
 przedostać się przez błotną drogą na północ od jeziora. Nie wiedziałem gdzie jadę.
 Wiedziałem, że raczej jadę w dobrą stronę gdyż zbliżałem się do stacji kolejowej.
 
-{% post_image "medium","IMGP8910raw2.jpg","Zachodzące Słońce pod Łopuchowem" %}
+{% photo "IMGP8910raw2.jpg","Zachodzące Słońce pod Łopuchowem" %}
 
 Ostatecznie przez centrum [Łopouchowa][wiki-lopuchowo] dostałem się na dworzec
 i pociągiem wróciłem do [Poznania][wiki-poznan].

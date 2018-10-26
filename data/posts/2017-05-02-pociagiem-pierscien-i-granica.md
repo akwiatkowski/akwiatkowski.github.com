@@ -58,7 +58,7 @@ z [Dziwiszowa][wiki-dziwiszow] abym dostał się na stację
 kolejową w [Jeleniej Górze][wiki-jelenia-gora]. Udało mi się być kilkanaście
 minut przed odjazdem.
 
-{% post_image "medium","IMGP5594raw1.jpg","Po opuszczeniu Jeleniej Góry" %}
+{% photo "IMGP5594raw1.jpg","Po opuszczeniu Jeleniej Góry" %}
 
 Jak na złość tego dnia pogoda się znacząco pogorszyła.
 Padał deszcz i niebo było zachmurzone. Wszystko było takie szare.
@@ -67,7 +67,7 @@ Do [Siedlęcina][wiki-siedlecin] raczej nie widziałem niczego
 interesującego przez okno. Prawdopodobnie gdyby była lepsza pogoda miałbym
 inne odczucia.
 
-{% post_image "medium","IMGP5604raw1.jpg","Pilchowice" %}
+{% photo "IMGP5604raw1.jpg","Pilchowice" %}
 
 Dopiero okolice [zapory w Pilchowicach][wiki-pilchowice-zapora] zrobiły się
 wyraźnie ciekawsze. Było to idealne połaczenie gór, wody i... nostalgii.
@@ -79,7 +79,7 @@ pod koniec 2016 roku gdy przejeżdzał pociąg "Ostatni Leniwiec".
 Jestem jednak dobrej myśli. Województwo dolnośląskie jest chyba
 najbardziej pro-kolejowym województwem.  
 
-{% post_image "medium","IMGP5606raw1.jpg","Przejazd przez most" %}
+{% photo "IMGP5606raw1.jpg","Przejazd przez most" %}
 
 Nie mam widocznie szczęścia do [zapory][wiki-pilchowice-zapora].
 Ostatnio
@@ -91,7 +91,7 @@ w nim żadnego światła. Pasażerowie szanowali ciemność i nie używali latar
 Zastanawiałem się, co by było gdyby z jakiegoś
 powodu pociąg się zatrzymał w środku tunelu.
 
-{% post_image "medium","IMGP5630raw1.jpg","Niedaleko Nielestna" %}
+{% photo "IMGP5630raw1.jpg","Niedaleko Nielestna" %}
 
 Przejeżdzając przez okolice stacji w [Marczowie][wiki-marczow]
 (aż za [Dębowy Gaj][wiki-debowy-gaj]) miałem odczucie
@@ -101,7 +101,7 @@ Dojechaliśmy do [Lwówka Śląskiego][wiki-lwowek-slaski]. Mieliśmy tutaj
 dłuższą przerwę. Skoczyłem do sklepu po jedzenie. To samo zrobiło
 większość podróżujących.
 
-{% post_image "medium","IMGP5713raw1.jpg","Opuszczając Lwówek Śląski" %}
+{% photo "IMGP5713raw1.jpg","Opuszczając Lwówek Śląski" %}
 
 Patrzę teraz na mapę na zlikwidowane linie kolejowe z tego miasta:
 linia do [Złotoryi][wiki-zlotoryja] oraz linia do [Bolesławca][wiki-boleslawiec] przejeżdzająca
@@ -111,7 +111,7 @@ Jechaliśmy teraz głownie przez tereny leśne. Miałem wrażenie jakby ten las
 zakrywał ślady zapomnianych obiektów przemysłowych. Nie czułem tej dzikości
 w tym miejscu.
 
-{% post_image "medium","IMGP5743raw1.jpg","Samotne drzewo przed Nowogrodźcem" %}
+{% photo "IMGP5743raw1.jpg","Samotne drzewo przed Nowogrodźcem" %}
 
 Kolejna przerwa była w [Nowogrodźcu][wiki-nowogrodziec] na uzupełnienie wody.
 
@@ -120,7 +120,7 @@ Miejscowość ta położona jest w południowej części
 [Borów Dolnośląskich][wiki-bory-dolnoslaskie].
 Jadąc pociągiem widać, że ten last jest gęsty ale czuć rękę człowieka.
 
-{% post_image "medium","IMGP5778raw1.jpg","Stacja w Węglińcu" %}
+{% photo "IMGP5778raw1.jpg","Stacja w Węglińcu" %}
 
 Ruszyliśmy na zachód w okolice granicy Polski do miejscowości [Pieńsk][wiki-piensk].
 Pogoda zaczęła się poprawiać.
@@ -128,14 +128,14 @@ Pogoda zaczęła się poprawiać.
 Pociąg dojechał w okolicę rzeki [Nysy Łużycka][wiki-nysa-rzeka]. W tym momencie
 z okien widzieliśmy już niemieckie miejscowości. Zauważyłem inny styl budynków.
 
-{% post_image "medium","IMGP5786raw2.jpg","Stacja w Węglińcu - wnętrze" %}
+{% photo "IMGP5786raw2.jpg","Stacja w Węglińcu - wnętrze" %}
 
 Ciekawą stacją jest [Krzewina Zgorzelecka][wiki-krzewina-zgorzelecka].
 Stacja ta jest na terenie Polski ale jest obsługiwana przez niemieckiego
 przewoźnika i korzystają z niej głównie Niemcy - mieszkańcy
 miejscowości [Ostritz][wiki-ostritz].
 
-{% post_image "medium","IMGP5862raw1.jpg","Widok na Ostritz" %}
+{% photo "IMGP5862raw1.jpg","Widok na Ostritz" %}
 
 Gdy zbliżaliśmy się do [Turoszowa][wiki-turoszow] pociąg dwa razy przekraczał
 granicę przez [Nysę][wiki-nysa-rzeka].
@@ -143,13 +143,13 @@ granicę przez [Nysę][wiki-nysa-rzeka].
 Mieliśmy krótką przerwę w okolicy elektrowni [Turów][wiki-turow].
 Naprzeciwko niej jest kopalnia węgla.
 
-{% post_image "medium","IMGP5922raw1.jpg","Stacja Turoszów" %}
+{% photo "IMGP5922raw1.jpg","Stacja Turoszów" %}
 
 Wracaliśmy przez [Lubań][wiki-luban] podczas zachodzącego Słońca.
 Próbowałem robić zdjęcia lecz albo autofocus nie był zbyt szybki, albo
 jakieś drzewa niespodziewanie pojawiały się w kadrze.
 
-{% post_image "medium","IMGP6002raw1.jpg","Dom pośrodku drzew przed Gryfowem Śląskim" %}
+{% photo "IMGP6002raw1.jpg","Dom pośrodku drzew przed Gryfowem Śląskim" %}
 
 Po dojechaniu do [Jeleniej Góry][wiki-jelenia-gora] z Maciejem poszliśmy zjeść
 do restauracji obok dworca. Wiele podróżnych również tam było.

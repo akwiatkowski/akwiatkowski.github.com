@@ -69,7 +69,7 @@ Szczegóły
 Niestety nie mogłem ruszyć wcześniejszym pociągiem niż przed godziną 10-tą, dlatego
 pojechaliśmy pociągiem IC do [Mogilna][wiki-mogilno].
 
-{% post_image "medium","IMGP6188raw1.jpg","Wiatrak widziany z pociągu" %}
+{% photo "IMGP6188raw1.jpg","Wiatrak widziany z pociągu" %}
 
 Z [Mogilna][wiki-mogilno] mogliśmy pojechać do [Padniewa][wiki-padniewo] ale
 wtedy ominęlibyśmy punkt widokowy w [Dusznie][wiki-duszno].
@@ -83,7 +83,7 @@ W mieście przejechaliśmy obok Jeziora Mogileńskiego a następnie przejechali�
 mostem nad torami do [Orchowa][wiki-orchowo]. Jakiś czas temu jeździł
 po nich maluch-drezyna.
 
-{% post_image "medium","IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska" %}
+{% photo "IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska" %}
 
 Ruch samochodowy po opuszczeniu [Mogilna][wiki-mogilno] zmniejszył się istotnie.
 Miejscami trasa była ciekawa dzięki świeżo zielenionymi drzewami
@@ -93,7 +93,7 @@ Przy stacji kolejowej w [Wydartowie][wiki-wydartowo] zakupiłem trochę zapasów
 Musieliśmy przenieść rowery przez przejazd kolejowy będący właśnie w
 remoncie.
 
-{% post_image "medium","IMGP6273raw1.jpg","Okolice punktu widokowego w Dusznie" %}
+{% photo "IMGP6273raw1.jpg","Okolice punktu widokowego w Dusznie" %}
 
 Do punktu widokowego jechaliśmy tak samo jak
 [miesiąc temu]({% post_url 2017-04-16-paluckie-pagorki %}). Chwilę
@@ -109,7 +109,7 @@ Zjazd do [Padniewa][wiki-padniewo] był długi i spokojny. Jak to przy zjazdach
 najlepsze widoki są na początku i wtedy też było najbardziej stromo, chociaż
 nie tak bardzo nawet jak na te tereny. Widać było wiosnę w pełni.
 
-{% post_image "medium","IMGP6281raw2.jpg","Różne kolory pól" %}
+{% photo "IMGP6281raw2.jpg","Różne kolory pól" %}
 
 W [Padniewie][wiki-padniewo] zatrzymaliśmy się na skrzyżowaniu abym mógł
 sprawdzić mapę. Słyszeliśmy dziwne buczenie i patrząc na niebo zauważyliśmy
@@ -120,7 +120,7 @@ Do [Józefowa][wiki-jozefowo] wjechaliśmy bez zatrzymywania się. Hamowałem na
 aby można bezpiecznie skręcić w lewo w [Palędziu Kościelnym][wiki-paledzie-koscielne].
 Nie chciałem tracić prędkości nabytej podczas delikatnego zjazdu.
 
-{% post_image "medium","IMGP6285raw1.jpg","Snopki" %}
+{% photo "IMGP6285raw1.jpg","Snopki" %}
 
 Bardzo podobał mi się fragment trasy między [Józefowem][wiki-jozefowo] a
 [Niestronnem][wiki-niestronno]. Nie pamiętam ile było zjazdów, ale polecam
@@ -136,7 +136,7 @@ Wjechaliśmy w las. Czułem podobny klimat okolicy jak
 Minęliśmy niebieski szlak rowerowy którym można
 dojechać do [Chomiąży Szlacheckiej][wiki-chomiaza].
 
-{% post_image "medium","IMGP6293raw2.jpg","Droga przez pola rzepaku" %}
+{% photo "IMGP6293raw2.jpg","Droga przez pola rzepaku" %}
 
 Dojechaliśmy do [Oćwieka][wiki-ocwieka]. Przez tą wieś również
 [kiedyś przejeżdzałem]({% post_url 2016-09-25-ze-skokow-do-janikowa %}).
@@ -149,7 +149,7 @@ pomnik [Leszka Białego][wiki-leszek-bialy] przy skrzyżowaniu z drogą do
 [Gąsawy][wiki-gasawa]. Zamach na niego był przyczyną usamodzielnienia się niektórych
 ziem.
 
-{% post_image "medium","IMGP6304raw1.jpg","Droga do Gąsawy" %}
+{% photo "IMGP6304raw1.jpg","Droga do Gąsawy" %}
 
 Znowu jechaliśmy na zachód. Tereny nie odznaczały się specjalnie niczym istotnym. Wokół
 było sporo pól i wiosek, trochę kwitnącego rzepaku.
@@ -159,13 +159,13 @@ musi być to Jezioro Kaczkowskie, gdyż jest obok [Kaczkowa][wiki-kaczkowo].
 Całkiem klimatycznie wyglądał środek tej miejscowości w którym był
 przystanek autobusowy.
 
-{% post_image "medium","IMGP6308raw1.jpg","Jezioro Kaczkowo" %}
+{% photo "IMGP6308raw1.jpg","Jezioro Kaczkowo" %}
 
 Ruszyliśmy drogami polnymi do [Damasławku][wiki-damaslawek].
 Tam musieliśmy podjąć decyzję jak jechać dalej. Zaproponowałem abyśmy pojechali
 na północ aby było ciekawiej, a do [Wągrowca][wiki-wagrowiec] byłoby tylko 3km dalej.
 
-{% post_image "medium","IMGP6310raw1.jpg","Słupy w polu rzepaku" %}
+{% photo "IMGP6310raw1.jpg","Słupy w polu rzepaku" %}
 
 W [Turzy][wiki-turza] skręciliśmy na zachód. Wieś tą widziałem gdy
 miesiąc temu
@@ -175,11 +175,11 @@ Pojawiało się zmęczenie i tereny przestawały być dla mnie interesujące.
 Chcieliśmy dojechać do [Wągrowca][wiki-wagrowiec] aby odpoczać i wrócić
 do [Poznania][wiki-poznan].
 
-{% post_image "medium","IMGP6318raw1.jpg","Wyjeżdzając z Turzy" %}
+{% photo "IMGP6318raw1.jpg","Wyjeżdzając z Turzy" %}
 
 Gdzieś za [Mokronosami][wiki-mokronosy] widziałem owce.
 
 Przejeżdzając przez [Kaliską][wiki-kaliska] widzieliśmy drugie jezioro
 [Wągrowca][wiki-wagrowiec]. Do odjazdu pociągu nie mieliśmy zbyt dużo czasu.
 
-{% post_image "medium","IMGP6321raw1.jpg","Przerwa we wsi Łekno" %}
+{% photo "IMGP6321raw1.jpg","Przerwa we wsi Łekno" %}

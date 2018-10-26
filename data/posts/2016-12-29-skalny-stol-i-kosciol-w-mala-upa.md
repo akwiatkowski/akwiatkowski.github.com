@@ -53,22 +53,22 @@ wysokości horyzontu) aby wykorzystać światła uliczne w dolinach.
 Okazało się, że już po podejściu 700 metrów od schroniska mieliśmy
 ciekawe widoki.
 
-{% post_image "medium","IMGP0708raw1.jpg","Tuż przed wschodem słońca" %}
+{% photo "IMGP0708raw1.jpg","Tuż przed wschodem słońca" %}
 
 O godzinie 7:56 Słońce zaczęło pojawiać się na horyzoncie.
 
-{% post_image "medium","IMGP0732raw1.jpg","Pierwsze promienie słońca" %}
+{% photo "IMGP0732raw1.jpg","Pierwsze promienie słońca" %}
 
 Bardzo szybko Słońce zaczęło malować wszystko w na kolor czerwono. Drzewa były ośnieżone
 przez wiatr wiejący dzień wcześniej. W okolicy jest sztucznie naśnieżany stok narciarski
 i bardzo możliwe, że trochę tego śniegu teraz było na drzewach.
 
-{% post_image "medium","IMGP0741raw1.jpg","Pełnia wschodu" %}
+{% photo "IMGP0741raw1.jpg","Pełnia wschodu" %}
 
 Szliśmy dalej na [Skalny Stół][wiki-skalny-stol]. Słońce powoli zmieniało
 swoją barwę z koloru czerwonego w stronę pomarańczowego i żółtego.
 
-{% post_image "medium","IMGP0749raw1.jpg","Oświetlone drzewo" %}
+{% photo "IMGP0749raw1.jpg","Oświetlone drzewo" %}
 
 
 
@@ -83,7 +83,7 @@ sam w sobie mnie nie szokował.
 Najbardziej podobały mi się mgiełki w dolinach które, jak się okaże, dzień
 później będą znacznie ciekawsze.
 
-{% post_image "medium","IMGP0772raw1.jpg","Śnieżnie" %}
+{% photo "IMGP0772raw1.jpg","Śnieżnie" %}
 
 
 Musieliśmy wracać na śniadanie do [schroniska][wiki-schronisko-okraj].
@@ -95,7 +95,7 @@ straszne. Zejście niestety było już bardziej problematyczne od momentu
 gdy już faktycznie musieliśmy schodzić (zejście).
 Raczki by się nam wtedy bardzo przydały.
 
-{% post_image "medium","IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu" %}
+{% photo "IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu" %}
 
 
 Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki
@@ -111,7 +111,7 @@ jutro czeka nas ważny dzień - wejście na [Śnieżkę][wiki-sniezka].
 Postanowiliśmy że przejdziemy się do kościoła św. Piotra i Pawła w
 [Małej Upie][wiki-mala-upa].
 
-{% post_image "medium","IMGP0869raw2.jpg","Domek w Małej Upie" %}
+{% photo "IMGP0869raw2.jpg","Domek w Małej Upie" %}
 
 Szliśmy najbardziej wschodnią drogą w tej miejscowości. Jeździł po niej
 darmowy (dla korzystających z wyciągów) skibus co 16 minut.
@@ -119,6 +119,6 @@ darmowy (dla korzystających z wyciągów) skibus co 16 minut.
 Przechodziliśmy obok ciekawych domków, tak jak w reszcie tej czeskiej
 miejscowości. Tutaj również droga chyba nie była odśnieżana.
 
-{% post_image "medium","IMGP0889raw1.jpg","Okolica koscioła w Małej Upie" %}
+{% photo "IMGP0889raw1.jpg","Okolica koscioła w Małej Upie" %}
 
 Zaciekawił mnie budynek starej szkoły. Teraz chyba jest tam jakiś nocleg.

@@ -66,7 +66,7 @@ Naszą bazę mieliśmy na wysokości około 550m n.p.m., dzięki czemu początko
 część naszej trasy to był całkiem fajny zjazd do miejscowości poniżej
 [Świeradowa][wiki-swieradow]. Nie muszę pisać o tym, że nam się to podobało.
 
-{% post_image "medium","IMGP4162raw1.jpg","Szkoła podstawowa w Krobicy" %}
+{% photo "IMGP4162raw1.jpg","Szkoła podstawowa w Krobicy" %}
 
 Zjechaliśmy do [Orłowic][wiki-orlowice] i skręciliśmy do [Krobicy][wiki-krobica]
 jadąc na wschód czarnym szlakiem rowerowym. Szlak ten przebiegał przez wioski pod
@@ -75,7 +75,7 @@ jadąc na wschód czarnym szlakiem rowerowym. Szlak ten przebiegał przez wioski
 Z tego co pamiętam to na północ od
 [Jeleniej Góry][wiki-jelenia-gora] jest znacznie więcej górek.
 
-{% post_image "medium","IMGP4171raw1.jpg","Izerskie pola" %}
+{% photo "IMGP4171raw1.jpg","Izerskie pola" %}
 
 Jechało się nam całkiem dobrze. Raz widzieliśmy pola, czasem las, czasem
 jechaliśmy przez wioski. Przejechaliśmy przez [Gierczyn][wiki-gierczyn],
@@ -115,7 +115,7 @@ po chwili wjechaliśmy w las. Nie była ona tak przyjemna jak singletraki
 [dzień wcześniej]({% post_url 2016-08-08-krotkie-popoludnie-w-swieradowie %})
 gdyż czasami była bardzo kamienista. Na szczęścia nie była ona stroma.
 
-{% post_image "medium","IMGP4188raw1.jpg","Tutaj czekaliśmy aż deszcz przestanie padać, ale nie przestawał" %}
+{% photo "IMGP4188raw1.jpg","Tutaj czekaliśmy aż deszcz przestanie padać, ale nie przestawał" %}
 
 Po chwili natrafiliśmy na wycinkę drzew i musieliśmy chwilę poczekać, aż
 leśnicy ściągną drzewo. Chwilę dalej zaczęło padać. Schroniliśmy się pod drzewem, ale
@@ -130,20 +130,20 @@ bardziej przytłumione, szare.
 Na [zaporze][wiki-zapora-pilchowice] było szaro, smutno i depresyjnie, ale i
 ciekawie.
 
-{% post_image "medium","IMGP4192raw1.jpg","Dolna część elektrowni wodnej w Pilchowicach" %}
+{% photo "IMGP4192raw1.jpg","Dolna część elektrowni wodnej w Pilchowicach" %}
 
 
 Niestety po tym jak zjedliśmy pogoda się nie poprawiła. Gdy ruszyliśmy nie
 padało mocno, ale to miało się zmienić później.
 
-{% post_image "medium","IMGP4209raw1.jpg","Krzyż między Strzyżowcem a Czernicą" %}
+{% photo "IMGP4209raw1.jpg","Krzyż między Strzyżowcem a Czernicą" %}
 
 Dojechaliśmy do mostu kolejowego z [Pilchowice Zapora][wiki-pilchowice-zapora] w stronę
 [Jeleniej Góry][wiki-jelenia-gora] i tam zrobiliśmy przerwę
 na kilka zdjęć. Autorzy gry [The Vanishing Of Ethan Carter][gra-porownanie]
 inspirowali się właśnie tymi terenami.
 
-{% post_image "medium","IMGP4211raw1.jpg","Okolice Czernicy" %}
+{% photo "IMGP4211raw1.jpg","Okolice Czernicy" %}
 
 
 Z jednej strony nie chcieliśmy wracać najkrótszą drogą, z drugiej strony
@@ -171,7 +171,7 @@ dojechać do stacji w [Jeleniej Górze][wiki-jelenia-gora], przesuszyć się, zj
 odpocząć i pojechać
 mając więcej siły i nastroju. Tak właśnie zrobiliśmy.
 
-{% post_image "medium","IMGP4214raw1.jpg","Mokre drogi zjazdowe z Płoszczynki" %}
+{% photo "IMGP4214raw1.jpg","Mokre drogi zjazdowe z Płoszczynki" %}
 
 Niestety w jednym miejscu nie skręciliśmy w lewo i dlatego do miasta wjechaliśmy
 praktycznie z drugiej strony. Trochę sporo musieliśmy pokombinować aby dostać się na

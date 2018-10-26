@@ -97,7 +97,7 @@ W [Mirsku][wiki-mirsk] skręciliśmy na czerwony szlak rowerowy i niestety jecha
 trochę drogą z większym ruchem samochodowym. Czekał na nas podjazd aż do
 [Proszówki][wiki-proszowka], gdzie musieliśmy podjechać do trochę ponad 400m n.p.m.
 
-{% post_image "medium","IMGP4220raw1.jpg","Rynek w Gryfowie Śląskim" %}
+{% photo "IMGP4220raw1.jpg","Rynek w Gryfowie Śląskim" %}
 
 Za podjazdem był zjazd, jak to zawsze bywa.
 Ten zjazd był bardzo przyjemny przez sudeckie wioski. Zjazd jest przyjemny gdy nie
@@ -115,7 +115,7 @@ przez które przejeżdzałem
 [w okolicy Kłodzka (pod koniec dnia)]({% post_url 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe %}).
 Dojazd do niej był drogą szutrowo-polną, raczej dobrej jakości.
 
-{% post_image "medium","IMGP4225raw1.jpg","Kościół w Biedrzychowicach" %}
+{% photo "IMGP4225raw1.jpg","Kościół w Biedrzychowicach" %}
 
 Kierowaliśmy się do [Biedrzychowic][wiki-biedrzychowice] i następnie dalej na zachód,
 aż do [Bożkowic][wiki-bozkowice], przed którymi był bardzo fajny zjazd. Nie był on
@@ -125,7 +125,7 @@ czemu niebo na filmiku jest znacznie ciekawsze.
 W samej wsi [Bożkowice][wiki-bozkowice] zauwayliśmy ostrzeżenie przed
 [Barszczem Sosnowskiego][wiki-barszcz-s].
 
-{% post_image "medium","IMGP4231raw1.jpg","Jadąc do Kościelników Średnich" %}
+{% photo "IMGP4231raw1.jpg","Jadąc do Kościelników Średnich" %}
 
 Skręciliśmy na północ kierując się przez [Kościelnik][wiki-koscielnik] do
 [Lubania][wiki-luban]. Ta droga również była szutrowa oraz również widać z niej
@@ -149,7 +149,7 @@ Wjechaliśmy w [Lubański Wielki Las][map-lubanski-las], który zaczął się od
 parku w [Lubaniu][wiki-luban]. Niedługo rozdzieliśmy się, gdyż ja jechałem na pociąg
 a Maciej wracał do [Świeradowa][wiki-swieradow].
 
-{% post_image "medium","IMGP4239raw1.jpg","Magazyn węgla (chyba?) w Zarębie" %}
+{% photo "IMGP4239raw1.jpg","Magazyn węgla (chyba?) w Zarębie" %}
 
 Zjechałem w stronę [Zaręby][wiki-zareba] jadąc obok terenów kopalni.
 Do stacji są dwie drogi dojazdowe, po chwili zrozumiałem czemu. Jedna jest
@@ -157,7 +157,7 @@ położona w tunelu pod torami kolejowymi i była tam ogromna kałuża.
 Gdyby nie było drugiej drogi miałbym solidny problem. Jeżeli jednak w jakimś
 miejscu żyją ludzie to sami muszą się poruszać i sami by jakąś drogę wydeptali.
 
-{% post_image "medium","IMGP4240raw1.jpg","Zalany tunel przy stacji w Zarębie" %}
+{% photo "IMGP4240raw1.jpg","Zalany tunel przy stacji w Zarębie" %}
 
 Postanowiłęm że dalej nie jadę. Trochę lenistwo, trochę niepewność czy dojechałbym
 bez problemów,

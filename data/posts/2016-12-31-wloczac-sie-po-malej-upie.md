@@ -38,7 +38,7 @@ Opcji do włóczenia się nie pozostało dużo. Rozważaliśmy sprawdzenie czerw
 szlaku pieszego na Rozdroże pod [Łysociną][wiki-lysocina] ale rozwalony
 raczek mnie przekonał aby tego nie próbować.
 
-{% post_image "medium","IMGP1158raw1.jpg","Domek w Małej Upie" %}
+{% photo "IMGP1158raw1.jpg","Domek w Małej Upie" %}
 
 
 Postanowiliśmy przejść się drogą wzdłuż rzeki w [Małej Upie][wiki-mala-upa] o tej
@@ -48,7 +48,7 @@ Na tej drodze jest szlak rowerowy. Nie jest ona szokująca piękna, ale bardzo
 malownicza i pozbawiona natłoku ludzi. Bardzo dużo ładnych domków jest położonych
 w okolicy.
 
-{% post_image "medium","IMGP1189raw1.jpg","U Basnika, Cerna Voda" %}
+{% photo "IMGP1189raw1.jpg","U Basnika, Cerna Voda" %}
 
 Koniec tej drogi łączy się z główną drogą dojazdową
 do [Małej Upy][wiki-mala-upa].

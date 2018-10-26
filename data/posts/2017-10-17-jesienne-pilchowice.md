@@ -58,7 +58,7 @@ Nocleg miałem niedaleko dworca kolejowgo w [Jeleniej Górze][wiki-jelenia-gora]
 Gdy dotarłem, rozpakowałem i zrobiłem jeszcze coś do pracy, ruszyłem pieszo
 do centrum [Jeleniej Góry][wiki-jelenia-gora].
 
-{% post_image "medium","IMGP1038raw1.jpg","Centrum Jeleniej Góry" %}
+{% photo "IMGP1038raw1.jpg","Centrum Jeleniej Góry" %}
 
 Tego dnia było bardzo ciepło. Miałem przy sobie dwie pary długich spodni, a było
 tak ciepło jakby to był środek lata.
@@ -66,7 +66,7 @@ tak ciepło jakby to był środek lata.
 Udałem się na ulicę Bankową, z której ruszyłem autobusem linii 5 do
 [Siedlęcina][wiki-siedlecin].
 
-{% post_image "medium","IMGP1041raw1.jpg","Rzeka Bóbr w Siedlęcinie" %}
+{% photo "IMGP1041raw1.jpg","Rzeka Bóbr w Siedlęcinie" %}
 
 Chciałem dostać się do [zapory w Pilchowicach][wiki-pilchowice-zapora].
 Byłem tam dwa razy. Dwa razy padał deszcz, było pochmurnie, teraz była
@@ -75,7 +75,7 @@ często.
 
 Chciałem zrobić zdjęcia zachodzącego Słońca, odbijającego się od wody.
 
-{% post_image "medium","IMGP1053raw1.jpg","Kościół w Siedlęcinie" %}
+{% photo "IMGP1053raw1.jpg","Kościół w Siedlęcinie" %}
 
 Wysiadłem na ulicy Topolowej, niedaleko mostu nad [Bobrem][wiki-bobr-rzeka].
 Ruszyłem ulicą Długą na której później znalazłem sklep.
@@ -83,19 +83,19 @@ Zaopatrzyłem się w większą
 ilość wody niż wydawało mi się potrzebne. Pierwszą butelkę wypiłem
 już przed opuszczeniem [Siedlęcina][wiki-siedlecin].
 
-{% post_image "medium","IMGP1044raw1.jpg","Wieża książęca w Siedlęcinie" %}
+{% photo "IMGP1044raw1.jpg","Wieża książęca w Siedlęcinie" %}
 
 Idąc wzdłuż [Bobru][wiki-bobr-rzeka] widziałem [wieżę][wiki-siedlecin-wieza]. To była
 [wieża książeca][wiki-siedlecin-wieza] z XIV wieku.
 
-{% post_image "medium","IMGP1058raw1.jpg","Kot w Siedlęcinie" %}
+{% photo "IMGP1058raw1.jpg","Kot w Siedlęcinie" %}
 
 Zdecydowałem się przejść ulicą Ogrodową a następnie polami w stronę
 [Jeziora Pilchowickiego][wiki-pilchowice-jezioro]. Dzięki temu mogłem ominąć
 sporą część drogi asfaltowej. Miałem też nadzieje na lepsze widoki będąc wyżej.
 Niestety powietrze nie było jakoś wybitnie przejrzyste tego dnia.
 
-{% post_image "medium","IMGP1094raw1.jpg","Siedlęcin" %}
+{% photo "IMGP1094raw1.jpg","Siedlęcin" %}
 
 Tuż przed dotarciem do drogi asfaltowej przeszedłem przez mały ale gęsty lasek.
 Każde drzewo miało już jesienne barwy.
@@ -103,12 +103,12 @@ Każde drzewo miało już jesienne barwy.
 Dołączyłem do zielonego szlaku pieszego. Przebiega on z [Jeleniej Góry][wiki-jelenia-gora]
 do [zapory][wiki-pilchowice-zapora].
 
-{% post_image "medium","IMGP1123raw1.jpg","Opuszczając jesienny Siedlęcin" %}
+{% photo "IMGP1123raw1.jpg","Opuszczając jesienny Siedlęcin" %}
 
 Niestety zielony szlak pieszy przebiega po drodze asfaltowej o dość wyraźnym
 ruchu.
 
-{% post_image "medium","IMGP1145raw1.jpg","Droga między Siedlęcinem a Strzyżowcem" %}
+{% photo "IMGP1145raw1.jpg","Droga między Siedlęcinem a Strzyżowcem" %}
 
 Poruszałem się na północ robiąc zdjęcia jesiennej okolicy.
 
@@ -120,7 +120,7 @@ Na skrzyżowaniu z drogą do [zapory][wiki-pilchowice-zapora] były umieszczone
 trzy ławki. Było to dowodem na turystyczną popularność tego miejsca. Musiałem skręcić w lewo
 schodząc powoli w stronę celu dzisiejszego dnia.
 
-{% post_image "medium","IMGP1158raw1.jpg","Droga w stronę Strzyżowca" %}
+{% photo "IMGP1158raw1.jpg","Droga w stronę Strzyżowca" %}
 
 Idąc samemu ma się dużo czas na przemyślenia o trasie. Teraz myślałem głównie
 o czasie i mojej sile. Bo dostać się do celu to jedno, a jeszcze trzeba wrócić.
@@ -132,7 +132,7 @@ Schodząc zacząłem zastanawiać się czy warto iść tyle kilometrów dla tego
 Prawdopodobnie nie będę mógł zrobić zdjęcia o zachodzie Słońca, gdyż czeka
 mnie jeszcze powrót.
 
-{% post_image "medium","IMGP1177raw1.jpg","Wijąca droga do zapory Pilchowice" %}
+{% photo "IMGP1177raw1.jpg","Wijąca droga do zapory Pilchowice" %}
 
 Nie byłem zadowolony ze zdjęć. Niby dobra pogoda i jesienne drzewa ale coś mi brakowało.
 Chciałem mieć lepsze zdjęcia. Chciałem mieć drzewa jezzcze bardziej czerwone.
@@ -140,35 +140,35 @@ Może lepiej byłoby przejść się przez jakąś klimatyczną wioskę?
 
 Widziałem pasące się po lewej stronie krowy na wzgórzach.
 
-{% post_image "medium","IMGP1181raw1.jpg","Most kolejowy nad Jeziorem Pilchowickim" %}
+{% photo "IMGP1181raw1.jpg","Most kolejowy nad Jeziorem Pilchowickim" %}
 
 Gdy zobaczyłem most kolejowy wiedziałem, że już jestem bliski celu. Poszedłem na
 [stację kolejową][wiki-pilchowice-stacja], na którą już teraz żaden pociag nie przyjeżdza.
 Trochę jest to smutne.
 
-{% post_image "medium","IMGP1190raw1.jpg","Przystanek Pilchowice Zapora" %}
+{% photo "IMGP1190raw1.jpg","Przystanek Pilchowice Zapora" %}
 
 Zszedłem na plażę pod stacją aby zrobić jeszcze kilka zdjęć jeziora.
 
-{% post_image "medium","IMGP1194raw1.jpg","Jezioro Pilchowickie" %}
+{% photo "IMGP1194raw1.jpg","Jezioro Pilchowickie" %}
 
 Postanowiłem wracać bez zbędnej zwłoki. Przeszedłem już 8km dzisiaj,
 więc licząc powrót będzie to około 16km.
 
-{% post_image "medium","IMGP1214raw1.jpg","Okolice plaży przy Jeziorze Pilchowickim" %}
+{% photo "IMGP1214raw1.jpg","Okolice plaży przy Jeziorze Pilchowickim" %}
 
 Myślałem aby wracać autbusem o 18-tej, jednak po przemyśleniu postanowiłem
 iśc dalej do [Siedlęcina][wiki-siedlecin], gdyż powinienem być tam chwilę później.
 A mógłbym tam zrobić jeszcze kilka zdjęć wieczorem przy rzece [Bóbr][wiki-bobr-rzeka].
 
-{% post_image "medium","IMGP1246raw1.jpg","Wieczorne Sudety" %}
+{% photo "IMGP1246raw1.jpg","Wieczorne Sudety" %}
 
 Z [Siedlęcina][wiki-siedlecin] miałem autobus powrotny o godzinie 19:20.
 
 Wracałem tym razem bezpośrednio drogą asfaltową. Widziałem tory niużywanej
 [linii kolejowej][wiki-linia-283] do [Lwówka Śląskiego][wiki-lwowek-slaski].
 
-{% post_image "medium","IMGP1280raw1.jpg","Rzeka Bóbr wieczorem" %}
+{% photo "IMGP1280raw1.jpg","Rzeka Bóbr wieczorem" %}
 
 Udałem się do sklepu na szybkie
 zakupy i następnie na ostatnie zdjęcia tego dnia.
@@ -177,4 +177,4 @@ Po zmroku chwilę czekałem na przystanku autobusowym. Do bazy dotarłem późno
 Byłem zmęczony dojazdem do [Jeleniej Góry][wiki-jelenia-gora], samą trasą
 jak i dzisiejszą ciepłą pogodą.
 
-{% post_image "medium","IMGP1287raw1.jpg","Most nad Bobrem w Siedlęcinie" %}
+{% photo "IMGP1287raw1.jpg","Most nad Bobrem w Siedlęcinie" %}

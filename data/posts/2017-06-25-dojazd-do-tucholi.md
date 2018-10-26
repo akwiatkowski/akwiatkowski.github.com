@@ -75,7 +75,7 @@ Na początku musieliśmy przejechać przez centrum
 przykład różnic wysokości gdy musieliśmy podjechać ulicą Komierowską w kierunku
 wschodnim.
 
-{% post_image "medium","IMGP8094raw1.jpg","Tory linii 281 obok Sępólna Krajeńskiego" %}
+{% photo "IMGP8094raw1.jpg","Tory linii 281 obok Sępólna Krajeńskiego" %}
 
 Wyjeżdzajac z miasta przejechaliśmy na wiadukcie nad torami
 [linii kolejowej 281][wiki-linia-281].
@@ -94,7 +94,7 @@ ruch samochodów.
 Będąc już 2km na trasie zauważyłem, że zapomniałem zabrać bidonu. Musiałem się
 wrócić. Zostawiłem tylko sakwy abym był szybszy.
 
-{% post_image "medium","IMGP8105raw1.jpg","Klasyczna droga gruntowa" %}
+{% photo "IMGP8105raw1.jpg","Klasyczna droga gruntowa" %}
 
 Droga asfaltowa, jak to bywa często, się skończyła i jadąc już po drodze gruntowej
 wjechaliśmy do lasu. Było to dość częste zjawisko na tym wyjeździe.
@@ -105,7 +105,7 @@ Oczywiście nie widzieliśmy samego jeziora. Miałem wrażenie, że oprócz ogó
 klimatu w tym miejscu było jeszcze bardziej dziko i malowniczo. Wystarczyło
 tylko odgrodzić drogę [25][wiki-droga-25] rzeką [Sępolną][wiki-rzeka-sapolna].
 
-{% post_image "medium","IMGP8106raw1.jpg","Wijąca się droga wokół pól" %}
+{% photo "IMGP8106raw1.jpg","Wijąca się droga wokół pól" %}
 
 Raz na jakiś czas widzieliśmy jakieś domy obok ale w większości
 okolica to były pola uprawne,
@@ -119,7 +119,7 @@ czasie jechaliśmy już asfaltem, a jak się nie mylę to po lewej stronie
 minęliśmy składowisko odpadów. Znak zagrożenia biologicznego przy bramie
 bardzo kontrastował z dzikością tych terenów.
 
-{% post_image "medium","IMGP8130raw1.jpg","Pola przed Włościborzem" %}
+{% photo "IMGP8130raw1.jpg","Pola przed Włościborzem" %}
 
 Skręciliśmy na prawo jadąc teraz dłużej na wschód przez
 [Włościbórz][wiki-wlosciborz] aż do [Wałdowa][wiki-waldowo], gdzie będziemy
@@ -127,7 +127,7 @@ skręcać na północ. Udało mi się rozpędzić na zjeździe. Kierowaliśmy
 się w stronę rzeki [Kamionka][wiki-rzeka-kamionka], a rzeki na ogół są w obniżeniu
 terenu.
 
-{% post_image "medium","IMGP8146raw1.jpg","Droga dojazdowa do Włościborza od wschodu" %}
+{% photo "IMGP8146raw1.jpg","Droga dojazdowa do Włościborza od wschodu" %}
 
 Udało mi się rozpędzić do ponad 50km/h. W miejscu gdy droga asfaltowa się
 skończyła, a za chwilę było ograniczenie prędkości do 30km/h, udało mi się
@@ -137,12 +137,12 @@ Minęliśmy jakieś zabudowania, jakby to była jakaś zapomniana wioska
 rolnicza składająca się z 2-3 gospodarstw rolnych.
 Według OpenStreetMap jest to miejscowość o nazwie Toboła.
 
-{% post_image "medium","IMGP8167raw1.jpg","Dwa rodzaje zboża" %}
+{% photo "IMGP8167raw1.jpg","Dwa rodzaje zboża" %}
 
 Minęliśmy rzekę [Kamionkę][wiki-rzeka-kamionka] i chwilę po tym rozpoczął się
 pierwszy istotny opad deszczu tego dnia.
 
-{% post_image "medium","IMGP8178raw1.jpg","Wioska Toboła obok rzeki Kamionki" %}
+{% photo "IMGP8178raw1.jpg","Wioska Toboła obok rzeki Kamionki" %}
 
 Teoretycznie byliśmy w tym momencie we wsi [Adamkowo][wiki-adamkowo].
 Dojechaliśmy do skrzyżowania dróg gruntowych przez które przechodziły
@@ -154,13 +154,13 @@ Po lewej stronie była niewielka skarba a po prawej granica lasu.
 W pewnym momencie, kilka metrów przed nami, przebiegła młoda sarenka.
 Uciekła ona do lasu który otaczał drogę z prawej strony.
 
-{% post_image "medium","IMGP8186raw1.jpg","Na północ od rzeki Kamionka" %}
+{% photo "IMGP8186raw1.jpg","Na północ od rzeki Kamionka" %}
 
 Wyjechaliśmy z krótkiego lasu i rozpoczął się lekki podjazd. Z prawej strony
 mieliśmy bardzo ładny widok w kierunku [Gostycynia][wiki-gostycyn]
 (chociaż nie wiem czy widzieliśmy wspomnianą miejscowość).
 
-{% post_image "medium","IMGP8194raw1.jpg","Jadąc w stronę Bralewnicy" %}
+{% photo "IMGP8194raw1.jpg","Jadąc w stronę Bralewnicy" %}
 
 W [Bralewnicy][wiki-bralewnica] również mieliśmy dobry widok na okoliczne
 tereny.
@@ -170,14 +170,14 @@ Ta po której jechaliśmy oficjalnie miała być drogą gruntową patrząc
 na mapę UMP. Jechaliśmy dalej po jakiś betonowych kładkach w
 stronę [Wielkiego Mędromierza][wiki-wielki-medromierz].
 
-{% post_image "medium","IMGP8205raw2.jpg","Zbliżając się do Bralewnicy" %}
+{% photo "IMGP8205raw2.jpg","Zbliżając się do Bralewnicy" %}
 
 Minęliśmy tory kolejowe. Jest to [linia 241][wiki-linia-241] która w tym
 momencie jest nieużywana dla transportu, jednak czasem jeżdzą po niej
 pociągi specjalne lub lekkie drezyny z [Tucholi][wiki-tuchola] do
 [Koronowa][wiki-koronowo].
 
-{% post_image "medium","IMGP8223raw1.jpg","Tory linii kolejowej 241" %}
+{% photo "IMGP8223raw1.jpg","Tory linii kolejowej 241" %}
 
 Droga z betonowych kładek zamieniła się w drogę szutrową, a później ponownie
 w drogę gruntową.
@@ -193,7 +193,7 @@ musiałem przecierać kamerkę. Każda kropelka znacząco pogarsza jakość obra
 Do [Tucholi][wiki-tuchola] mieliśmy około 6km w linii prostej. Jechaliśmy
 przez tereny pól uprawnych, które położone są wyżej niż miasto.
 
-{% post_image "medium","IMGP8252raw1.jpg","Zboże po deszczu" %}
+{% photo "IMGP8252raw1.jpg","Zboże po deszczu" %}
 
 Deszcz po kilku minutach przeniósł się w inne miejsce a my mogliśmy obserwować
 kontrast słonecznej pogody z ciemnymi chmurami.

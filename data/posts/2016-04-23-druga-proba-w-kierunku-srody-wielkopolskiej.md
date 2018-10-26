@@ -87,7 +87,7 @@ Szlak był normalna drogą gruntową przez las, ale centrum
 [Mościenicy][wiki-moscienica] było znacznie ciekawsze gdyż jest to miejscowość rekreacyjna.
 Jest ona położona na uboczu, z jednej strony las, z drugiej jezioro.
 
-{% post_image "medium","IMGP9399raw1.jpg","Wiosenne drzewa niedaleko Błażejewka" %}
+{% photo "IMGP9399raw1.jpg","Wiosenne drzewa niedaleko Błażejewka" %}
 
 Wyjeżdzając na drogę asfaltową po prawej minąłem ładnie kwitnąsy sad.
 
@@ -112,7 +112,7 @@ Dojeżdzając do [Zaniemyśla][wiki-zaniemysl] jechałem już przez las. W okoli
 Jego obwód wynosi ponad 8 metrów i jest to szóste najgrubsze drzewo w Polsce
 (według Lasów Państwowych).
 
-{% post_image "medium","IMGP9403raw1.jpg","Mniejsze jezioro niedaleko jeziora Wielkie Jeziory" %}
+{% photo "IMGP9403raw1.jpg","Mniejsze jezioro niedaleko jeziora Wielkie Jeziory" %}
 
 W [Zaniemyślu][wiki-zaniemysl] przejechałem obok stacji [Średzkiej Kolei Powiatowej][wiki-kolej-sredzka],
 która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
@@ -120,7 +120,7 @@ która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
 Przejechałem przez miasto, w którym ruch był minimalny. Kierowałem się do
 osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warta].
 
-{% post_image "medium","IMGP9413raw1.jpg","Dąb Dziadziuś" %}
+{% photo "IMGP9413raw1.jpg","Dąb Dziadziuś" %}
 
 Przejechałem przez [Kępę Wielką][wiki-kepa-wielka], [Potachy][wiki-potachy] i
 [Młodzikowice][wiki-mlodzikowice]. Wszystkie te miejscowości to są naprawdę dzikie
@@ -132,4 +132,4 @@ Zostało mi około 40 minut do odjazdu pociągu z [Solca Wielkopolskiego][wiki-s
 Pospieszyłem się
 i zdążyłem 15 minut przed czasem.
 
-{% post_image "medium","IMGP9420raw1.jpg","Stacja kolejowa Solec Wielkopolski" %}
+{% photo "IMGP9420raw1.jpg","Stacja kolejowa Solec Wielkopolski" %}

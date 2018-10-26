@@ -66,7 +66,7 @@ samochodem dostawczym.
 Rozpoczęliśmy naszą trasę o godzinie 8:40 kierując się z dala od
 [miasta][wiki-krosno] do [Odrzykonia][wiki-odrzykon].
 
-{% post_image "medium","IMGP0035raw1.jpg","Most nad Wisłokiem" %}
+{% photo "IMGP0035raw1.jpg","Most nad Wisłokiem" %}
 
 Jechaliśmy ulicą Odrzykońską (kto by pomyślał) obok ogródków działkowych i
 przejechaliśmy mostem nad [Wisłokiem][wiki-wislok], rzeką którą mylę z
@@ -89,7 +89,7 @@ Przez kilka godzin widzieliśmy więcej rowerzystów niż przez wszystkie
 pozostałe dni tej wycieczki. Przez cały czas
 jechaliśmy po bardzo dobrym asfalcie z minimalnym ruchem samochodów.
 
-{% post_image "medium","IMGP0036raw1.jpg","Okolice Bratkówki" %}
+{% photo "IMGP0036raw1.jpg","Okolice Bratkówki" %}
 
 Widzieliśmy bardzo dużo nowych domów. Na ogół były one mocno ogradzane
 naturalnie zielenią od drogi dojazdowej.
@@ -100,7 +100,7 @@ Wioski te miały zupełnie inny klimat niż te
 [beskidzkie][wiki-beskid-niski], przez które
 jeździliśmy w poprzednich dniach.
 
-{% post_image "medium","IMGP0049raw1.jpg","Dąb Józef" %}
+{% photo "IMGP0049raw1.jpg","Dąb Józef" %}
 
 Podjechaliśmy w okolicę kościoła aby zobaczyć [dąb Józef][wiki-dab-jozef]
 w [Wiśniowej][wiki-wisniowa].
@@ -113,7 +113,7 @@ cenę większego ruchu samochodów. Wybraliśmy spokoniejszą drogę
 ze wspomnianymi podjazdami. Myślałem sobie "przynajmniej ciekawsze widoki zobaczymy"
 i dlatego nie dyskutowałem z tym pomysłem.
 
-{% post_image "medium","IMGP0052raw1.jpg","Przed podjazdem w Niewodnej" %}
+{% photo "IMGP0052raw1.jpg","Przed podjazdem w Niewodnej" %}
 
 Pierwszym ciekawym zjazdem był zjazd do [Różanki][wiki-rozanka]. Nie będę oznaczał
 go jako ciekawy punkt gdyż przejazd przez tak pagórkowate tereny nie jest
@@ -124,7 +124,7 @@ rzeki Rozanki. Jechaliśmy po tej południowej drodze.
 Zrobiliśmy przerwę w sklepie na potrzebne zapasy, głównie wodę,
 gdyż już było bardzo ciepło.
 
-{% post_image "medium","IMGP0058raw1.jpg","Ostatni podjazd za Zawadką" %}
+{% photo "IMGP0058raw1.jpg","Ostatni podjazd za Zawadką" %}
 
 Wyjeżdzając z [Zawadki][wiki-zawadka] (obok wsi [Nawsie][wiki-nawsie])
 został nam ostatni podjazd do pokonania - prawie 100m w górę.
@@ -132,7 +132,7 @@ Nie muszę mówić jak było ciepło, jak Słońce na nas wpływało, jak
 mało ciekawe są filmiki z podjazdu i nie przekazują one tego, co można
 doświadczyć będąc samemu w danej sytuacji.
 
-{% post_image "medium","IMGP0059raw1.jpg","Ostatnie spojrzenie na góry" %}
+{% photo "IMGP0059raw1.jpg","Ostatnie spojrzenie na góry" %}
 
 W pewnym momencie na zjeździe przede mną zatrzymał się samochód
 mający niemiecką rejestrację. Musiałem zahamować do zera
@@ -142,7 +142,7 @@ Dalsza część trasy to miał być sam zjazd.
 W rzeczywistości nie było tak. Czasami były krótkie malutkie podjazdy i
 musieliśmy te 2-3m podjechać.
 
-{% post_image "medium","IMGP0061raw1.jpg","Zjazd do Bystrzycy" %}
+{% photo "IMGP0061raw1.jpg","Zjazd do Bystrzycy" %}
 
 Dotarliśmy do [Sędziszowa Małopolskiego][wiki-sedziszow-malopolski]
 14 minut przed odjazdem naszego pociągu. O emocjach wolę nie pisać. Nie

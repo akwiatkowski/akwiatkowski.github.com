@@ -64,7 +64,7 @@ Szczegóły
 Wstaliśmy dość wcześnie, gdyż mieliśmy pociąg chwilę po 9-tej. Przejechaliśmy
 przez [Szalejów Dolny][wiki-szalejow-dolny] do stacji [Kłodzko Zagórze][wiki-klodzko-zagorze].
 
-{% post_image "medium","IMGP9951raw1.jpg","Kudowa Zdrój" %}
+{% photo "IMGP9951raw1.jpg","Kudowa Zdrój" %}
 
 Ruszyliśmy pociągiem na zachód. W okolicy [Lewina Kłodzkiego][wiki-lewin-klodzki]
 mieliśmy okazję podziwiać bardzo ładne górskie widoki już z pociągu. Dyskutowałem krótko
@@ -84,7 +84,7 @@ Pierwszym ciekawym miejscem był parking obok drogi dojazdowej do
 [Błędnych Skał][wiki-bledne-skaly]. Zdecydowanie widać było, że jest majówką i każdy musi
 zobaczyć jedną z dwu największych atrakcji [Gór Stołowych][wiki-gory-stolowe].
 
-{% post_image "medium","IMGP9956raw1.jpg","Jadąc do Pasterki" %}
+{% photo "IMGP9956raw1.jpg","Jadąc do Pasterki" %}
 
 Kierowaliśmy się dalej do [Karłowa][wiki-karlow]. Jest to wioska pod
 [Szczelińcem Wielkim][wiki-szczeliniec-wielki].
@@ -121,7 +121,7 @@ skrzyżowanie z którego jest bardzo ładny widok na okolicę. Widać było z ni
 [Szczeliniec Wielki][wiki-szczeliniec-wielki]. To ciekawe uczucie gdy jest on
 "tak daleko", a było się tam niedawno, jakby przed chwilą.
 
-{% post_image "medium","IMGP9975raw1.jpg","Niedaleko Niwy" %}
+{% photo "IMGP9975raw1.jpg","Niedaleko Niwy" %}
 
 Powrót skróciliśmy drogą asfaltową a później gruntową przez pole. Wjechaliśmy
 w sam środek [Roszyc][wiki-roszyce].

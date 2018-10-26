@@ -50,7 +50,7 @@ Jest w niej do wyboru wiele regionalnych dań i
 w przypadku większości z nich trzeba
 zapytać się kelnera co to właściwie jest. Osobiście polecam to miejsce.
 
-{% post_image "medium","IMGP9037raw1.jpg","Droga w stronę Hańczowej" %}
+{% photo "IMGP9037raw1.jpg","Droga w stronę Hańczowej" %}
 
 Po powrocie deszcz przestawał padać tylko chwilami. Nudziło się nam i
 ruszyliśmy aby chociaż na chwilę się przejechać i coś nowego zobaczyć.
@@ -61,13 +61,13 @@ Woda z kół roweru uderzała w plecy i nogi.
 Postanowiliśmy zrobić dokładnie identyczną trasę jak
 [ostatniego dnia wyjazdu w 2012 roku]({% post_url 2012-05-03-krotka-trasa-przez-ropki %}).
 
-{% post_image "medium","IMGP9041raw1.jpg","Deszczowy Beskid Niski w okolicy Hańczowej" %}
+{% photo "IMGP9041raw1.jpg","Deszczowy Beskid Niski w okolicy Hańczowej" %}
 
 Podjechaliśmy na północ do centrum [Hańczowej][wiki-hanczowa] i skręciliśmy
 szlakiem w lewo. Teraz zamiast drogi szutrowej z białych kamienii jest tu
 droga asfaltowa.
 
-{% post_image "medium","IMGP9052raw1.jpg","Podmokłe tereny niedaleko Ropek" %}
+{% photo "IMGP9052raw1.jpg","Podmokłe tereny niedaleko Ropek" %}
 
 Później jechaliśmy mokrą drogą gruntową. Ignorowałem latające
 błoto wyrzucane przez koła roweru.
@@ -76,7 +76,7 @@ Ja sam niewiele napiszę.
 Z powodu pogody niewiele zapamiętałem, a że już raz tutaj byłem
 dlatego nie chce mi się powtarzać.
 
-{% post_image "medium","IMGP9076raw1.jpg","Rozdroże niedaleko Huty Wysowskiej" %}
+{% photo "IMGP9076raw1.jpg","Rozdroże niedaleko Huty Wysowskiej" %}
 
 Gdy dojechaliśmy do polany w [Hucie Wysowskiej][wiki-huta-wysowska] założyłem
 kamerkę aby chociaż nagrać zjazd do [Wysowej][wiki-wysowa].
@@ -84,7 +84,7 @@ kamerkę aby chociaż nagrać zjazd do [Wysowej][wiki-wysowa].
 W pewnym momencie zauważyłem, że dzięki prędkości zjazdu, woda sama spływa z
 obudowy kamerki i nie musiałem się martwić z jej wycieraniem.
 
-{% post_image "medium","IMGP9084raw1.jpg","Najwyższy punkt przed zjazdem do Wysowej" %}
+{% photo "IMGP9084raw1.jpg","Najwyższy punkt przed zjazdem do Wysowej" %}
 
 Podczas zjazdu musiałem uważać na mokrą ziemię leżącą na asfalcie i nie zawsze
 byłem pewien bezpieczeństwa zakrętów.

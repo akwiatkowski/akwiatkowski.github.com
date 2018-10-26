@@ -49,7 +49,7 @@ Po przejechaniu przez [Wartę][wiki-warta] ruszyliśmy na południe w stronę
 [Owińsk][wiki-owinska], gdzie dalej kierowaliśmy się na [Dziewiczą Górę][wiki-dziewicza-gora].
 Całkiem fajne były te wiejskie tereny przed wjazdem do [Puszczy Zielonki][wiki-puszcza-zielonka].
 
-{% post_image "medium","IMGP8928raw1.jpg","Niedaleko wsi Annowo" %}
+{% photo "IMGP8928raw1.jpg","Niedaleko wsi Annowo" %}
 
 Chwila przerwy na [górze][wiki-dziewicza-gora] i sprowadziliśmy rowery po czerwonym
 szlaku pieszym, dla mnie było zbyt stromo aby zjechać. Dalej jechaliśmy już szlakiem

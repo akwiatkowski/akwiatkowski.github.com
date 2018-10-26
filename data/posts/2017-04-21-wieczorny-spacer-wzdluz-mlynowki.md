@@ -33,7 +33,7 @@ z nudów poszliśmy ścieżką zobaczyć jak wygląda okolica.
 Szczegóły
 ---------
 
-{% post_image "medium","IMGP4707raw1.jpg","Droga którą szliśmy" %}
+{% photo "IMGP4707raw1.jpg","Droga którą szliśmy" %}
 
 Najpierw szliśmy drogą, która było ledwie zaznaczona na mapie. Później droga
 zniknęła z mapy, a my zauważyliśmy lekko wydeptaną ścieżkę i spróbowaliśmy
@@ -44,14 +44,14 @@ Nie było żadnego znaku "zakaz wejścia" to uznaliśmy, że można tam iść.
 Rzeka wyglądała bardzo ładnie, ale niestety nie miałem pomysłu jak mógłbym
 zrobić dobre zdjęcie.
 
-{% post_image "medium","IMGP4716raw1.jpg","Rzeka Młynówka" %}
+{% photo "IMGP4716raw1.jpg","Rzeka Młynówka" %}
 
 W pewnym momencie proponowałem aby wrócić gdyż według mapy na GPS musielibyśmy
 iść co najmniej 5km aby wrócić do bazy. Okazało się, że jednak nie będziemy
 musieli iść tak daleko, Jest ścieżka którą można dojść do ulicy
 znacznie wcześniej niż myśleliśmy.
 
-{% post_image "medium","IMGP4797raw1.jpg","Łabędzie w okolicy Rudy Sułowskiej" %}
+{% photo "IMGP4797raw1.jpg","Łabędzie w okolicy Rudy Sułowskiej" %}
 
 Przy zachodzącym Słońcu wróciliśmy do bazy. Co jakiś czas robiłem zdjęcia
 zachodowi albo ptakom (głównie łabędziom).

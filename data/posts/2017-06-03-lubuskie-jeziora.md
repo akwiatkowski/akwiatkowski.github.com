@@ -65,7 +65,7 @@ Musieliśmy jechać drogami wojewódzkimi czasami
 nie mając dróg regionalnych jako sensownej alternatywy dla naszej zaplanowanej
 trasy.
 
-{% post_image "medium","IMGP6890raw1.jpg","Droga niedaleko Łochowa" %}
+{% photo "IMGP6890raw1.jpg","Droga niedaleko Łochowa" %}
 
 Analizując dojazd do [Łagowa][wiki-lagow] okazało się, że tym razem jest lepiej.
 Nie będziemy skazani na drogi wojewódzkie.
@@ -73,7 +73,7 @@ Nie będziemy skazani na drogi wojewódzkie.
 Ruszyliśmy drogą 277 z [Sulechowa][wiki-sulechow] w kierunku północno-zachodnim.
 Ruch na tej drodze był raczej spokojny i można było odczuć klimat dzikiej Polski.
 
-{% post_image "medium","IMGP6939raw1.jpg","Pola niedaleko Ołobok" %}
+{% photo "IMGP6939raw1.jpg","Pola niedaleko Ołobok" %}
 
 Mijaliśmy już w pełni zielone drzewa, a zboże na polach już opuszczało fazę
 koloru zielonego pokazująć że po wiośnie przyjdzie lato.
@@ -82,7 +82,7 @@ W pewnym momencie coś w terenie mi nie pasowało. Przekręciłem głowę na pra
 zobaczyłem budynek stacji kolejowej za [Łochowem][wiki-lochowo]. Linia kolejowa
 niestety jest rozebrana.
 
-{% post_image "medium","IMGP6954raw1.jpg","Ołobok" %}
+{% photo "IMGP6954raw1.jpg","Ołobok" %}
 
 W [Skąpej][wiki-skape] skreciliśmy na północ kierując się do wsi [Łąkie][wiki-lakie].
 W tej miejscowości jest bardzo fajne jezioro z plażą. Zrobiliśmy
@@ -93,7 +93,7 @@ Ruszyliśmy do [Ołoboku][wiki-olobok] i tam chcieliśmy podjechać na
 Jezioro Czerniak. Droga w pobliżu jeziora zrobiła się niezachęcająca i z tego powodu
 cofneliśmy się. Wiedziałem że tego dnia jeszcze będziemy widzieć lepsze jeziora.
 
-{% post_image "medium","IMGP6969raw1.jpg","Kaczka na Jeziorze Niesłysz" %}
+{% photo "IMGP6969raw1.jpg","Kaczka na Jeziorze Niesłysz" %}
 
 Kolejnym jeziorem na trasie było Jezioro Niesłysz w [Niesulicach][wiki-niesulice].
 Jest to całkiem spore jezioro a sama miejscowość sprawia wrażenie wyraźnie
@@ -103,7 +103,7 @@ Obok sklepu skręciliśmy na prawo i zjechaliśmy na ścieżkę którą dojechal
 do jeziora. Kaczki niemrawie siedziały sobie na plaży. Nie bały się jak jechaliśmy
 metr od nich.
 
-{% post_image "medium","IMGP6981raw1.jpg","Jezioro Niesłysz" %}
+{% photo "IMGP6981raw1.jpg","Jezioro Niesłysz" %}
 
 Jezioro Niesłysz miało tak czystą wodę, że z filtrem polaryzacyjnym mogłem robić zdjęcia
 piaszczystego gruntu. W wodzie pływało bardzo dużo małych rybek. Gdy jakaś
@@ -119,7 +119,7 @@ drogi nie są asfaltowe. Wjechaliśmy w kocie łby i musieliśmy prawie
 4km przejechać tą drogą. Próbowaliśmy jechać poboczem gdy to było możliwe.
 Pomimo posiadania rowerów górskich i tak poczuliśmy to wyraźnie.
 
-{% post_image "medium","IMGP6990raw1.jpg","Droga do wsi Niedźwiedź" %}
+{% photo "IMGP6990raw1.jpg","Droga do wsi Niedźwiedź" %}
 
 W [Przełazach][wiki-przelazy] również podjechaliśmy zobaczyć jak wygląda
 jezioro i zrobiliśmy przerwę na zdjęcia kościoła.
@@ -140,7 +140,7 @@ na horyzoncie wyłaniały się powoli jakieś górki. Jak się okazało patrząc
 później na mapę górka obok Czernichowa ma około 170 metrów n.p.m., czyli
 jest 70 metrów wyżej niż droga po której jechaliśmy.
 
-{% post_image "medium","IMGP7015raw1.jpg","Jezioro Łagowskie" %}  
+{% photo "IMGP7015raw1.jpg","Jezioro Łagowskie" %}  
 
 Wjechaliśmy w las zbliżając się do [Łagowa][wiki-lagow]. Czekał na nas najpierw
 podjazd, z jednej strony lekki ale nasza prędkość wyraźnie się zmniejszyła
@@ -160,7 +160,7 @@ przez górę Bukowiec. Okazało się, że Bukowiec to wzniesienie o wysokości
 około 230 metrów n.p.m. Nie byłem pewien tej drugiej opcji, bo przez poligon
 jechać nie chciałem.
 
-{% post_image "medium","IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa" %}  
+{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa" %}  
 
 Pojechaliśmy w stronę Bukowca. Rozpoczął się lekki podjazd i droga brukowa. Miałem już
 dość dzisiejszego dnia takiej nawierzchni. Po prawej stronie
@@ -177,7 +177,7 @@ tak jak ostatecznie pojechaliśmy - czyli w stronę [Sieniawy][wiki-sieniawa].
 Byśmy jechali około 10km po asfalcie zamiast 7km po bruku. Oczywiste jest
 to co się da przejechać szybciej.
 
-{% post_image "medium","IMGP7032raw1.jpg","Tory kolejowe z Sieniawy" %}  
+{% photo "IMGP7032raw1.jpg","Tory kolejowe z Sieniawy" %}  
 
 W [Sieniawie][wiki-sieniawa] widziałem tory kolejowe. Są one używane do
 tylko jakieś kopalni.
@@ -186,7 +186,7 @@ Na skrzyżowaniu skręciliśmy na południe jadąc do [Żelechowa][wiki-zelechow
 Jakość drogi wołała o pomstę. Niby droga regionalna, klasę wyżej i byłaby
 to droga wojewódzka ale rowerem szosowym nie radziłbym nikomu po niej jechać.
 
-{% post_image "medium","IMGP7049raw1.jpg","Pałacyk w Żelechowie" %}
+{% photo "IMGP7049raw1.jpg","Pałacyk w Żelechowie" %}
 
 Chcieliśmy ścieżką przejechać przez autostradę A2 i dalej legalnie przez
 tunel albo mostem, jednak droga gruntowa stała się na tyle zarośnięta,
@@ -200,7 +200,7 @@ Miejscami technicznie było zbyt trudne na mój spokojny styl jazdy.
 Zrobiliśmy kolejną przerwę przy jeziorze w [Nowej Wiosce][wiki-nowa-wioska]
 gdzie były całkiem fajne huśtawki.
 
-{% post_image "medium","IMGP7054raw1.jpg","Jezioro Goszcza" %}
+{% photo "IMGP7054raw1.jpg","Jezioro Goszcza" %}
 
 Nie mając konkretnych planów postanowiliśmy aby już bezpośrednio jechać
 do [Świebodzina][wiki-swiebodzin] na powrotny pociąg. Tego dnia nie miałem

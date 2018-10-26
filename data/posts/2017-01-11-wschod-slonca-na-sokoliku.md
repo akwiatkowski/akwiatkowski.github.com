@@ -69,7 +69,7 @@ Szczegóły
 
 Poniżej jest złączona panorama z 14 wykoanych zdjęć.
 
-{% post_image_no_gallery "medium","IMGP1737raw1-IMGP1753raw1names.jpg","Panorama z Sokolika w kierunku północnym" %}
+{% photo ,"IMGP1737raw1-IMGP1753raw1names.jpg","Panorama z Sokolika w kierunku północnym","nogallery" %}
 
 Wstałem o 5:40, powoli zacząłem się budzić i szykować do wyjścia na
 wschód Słońca na [Sokoliku][wiki-sokolik].
@@ -81,7 +81,7 @@ wynosiła -20&deg;C. Zakup kurtki puchowej był dobrą decyzją. Chciałem ją m
 na przyszłe fotowarsztaty w [Karkonoszach][wiki-karkonosze] bo nigdy niewiadomo
 jak będzie ciepło rano na [Śnieżce][wiki-sniezka].
 
-{% post_image "medium","IMGP1635raw1.jpg","Śnieżka podczas silnego wiatru widziana z Sokolika" %}
+{% photo "IMGP1635raw1.jpg","Śnieżka podczas silnego wiatru widziana z Sokolika" %}
 
 W trybie ograniczenia myślenia ruszyłem szlakiem zielonym na wschód. Śniegu było trochę
 więcej niż chodząc wczoraj po polach. Na szczęście nic nie było oblodzone i nie
@@ -92,7 +92,7 @@ jak wiatr. Wiało bardzo mocno. Kijki musiałem przyczepić o konstrukcje tarasu
 Wypiłem jeden kubek herbaty bez zostawiania kubka bo bym sie go pozbył w ten sposób.
 Bałem się nawet zostawiać statyw bez nadzoru.
 
-{% post_image "medium","IMGP1666raw1.jpg","Widok na Janowice Wielkie po prawej oraz Radomierz po lewej na horyzoncie" %}
+{% photo "IMGP1666raw1.jpg","Widok na Janowice Wielkie po prawej oraz Radomierz po lewej na horyzoncie" %}
 
 Była 7:30 czyli około 25 minut przed wschodem. W takiej sytuacji należałoby wyciągnąć
 statyw, podłączyć Sigmę 150-500mm i korzystać z idealnej widoczności robić
@@ -101,7 +101,7 @@ Sama zmiana obiektywu musiała być przeprowadzona w plecaku a zdjęcia mogłem 
 tylko jak akurat w danej sekundzie wiatr był słabszy.
 Teleobiektyw się raczej nie spisał w tych warunkach.
 
-{% post_image "medium","IMGP1677raw2.jpg","Widok na Radomierz z Sokolika" %}
+{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika" %}
 
 Przez wszelakie drgania miałem problem z ustawianiem ostrości przez LiveView.
 
@@ -115,7 +115,7 @@ Chciałem zrobić zdjęcie ale miałem problem z ostrzeniem i drganiami. Silnie 
 wiatr na [Śnieżce][wiki-sniezka] transportował śnieg co było widoczne jak małe
 lokalne chmurki. Zdjęcie zrobiłem, ale jest prawie poprawne.
 
-{% post_image "medium","IMGP1732raw1.jpg","Widok na Trzcińsko z Sokolika" %}
+{% photo "IMGP1732raw1.jpg","Widok na Trzcińsko z Sokolika" %}
 
 
 Następnie Słońce oświetlało okolicę [Maciejowej][wiki-maciejowa] i [Komarno][wiki-komarno].
@@ -140,7 +140,7 @@ Może powinienem wziąć Limiteda 70mm. Szkło te byłoby bardzo jasne, z dobrą
 roździelczością i mało podatne na dragnia gdyż jest bardzo malutkie.
 Jak znam życie to gdy je wezmę to się tak nie przyda.
 
-{% post_image "medium","IMGP1727raw1.jpg","Widok na Karkonosze z Sokolika" %}
+{% photo "IMGP1727raw1.jpg","Widok na Karkonosze z Sokolika" %}
 
 Zastanawiałem się czy Pentax 16-85 by mi się spodobał i jak bardzo byłby przydatny.
 Nie mam tego obiektywu, ale jestem zaintrygowany nim jako uniwersalne szkło o
@@ -157,7 +157,7 @@ było bliżej. Jakbym już wrócił to byłoby trochę zbyt wczesne zakończenie
 Zszedłem
 zółtym szlakiem do [Karpnik][wiki-karpniki] po wspomnianej przerwie w schronisku.
 
-{% post_image "medium","IMGP1785raw2.jpg","Słoneczny poranek podczas schodzenia żółtym szlakiem do Karpnik" %}
+{% photo "IMGP1785raw2.jpg","Słoneczny poranek podczas schodzenia żółtym szlakiem do Karpnik" %}
 
 
 Miałem kilka opcji w głowie. Sprawdzając rozkład [komunikacji miejskiej][kom-jelenia]
@@ -165,7 +165,7 @@ Miałem kilka opcji w głowie. Sprawdzając rozkład [komunikacji miejskiej][kom
 linii 11 do pętli w [Gruszkowie][wiki-gruszkow]. Miałem trochę czasu więc
 pospacerowałem do [Strużnicy][wiki-struznica].
 
-{% post_image "medium","IMGP1791raw2.jpg","Karkonosze w chmurach - widok z Karpnik" %}
+{% photo "IMGP1791raw2.jpg","Karkonosze w chmurach - widok z Karpnik" %}
 
 Wsiadłem w autobus linii 11 i przejechałem nim tylko dwa przystanki. Byłem
 pod wrażeniem przez jakie tereny jeżdzą autobusy miejskie i każdemu polecam przejazd
@@ -190,7 +190,7 @@ do [Przesieki][wiki-przesieka] [(4)][mzk4] a patrząc później na mapę są jes
 W [Gruszkowie][wiki-gruszkow] miałem chwilę czasu do odjazdu autobusu powrotnego i
 przeszedłem się aby móc porobić kilka zdjęć wiosce.
 
-{% post_image "medium","IMGP1831raw1.jpg","Gruszków niedaleko pętli linii 11/33" %}
+{% photo "IMGP1831raw1.jpg","Gruszków niedaleko pętli linii 11/33" %}
 
 Przeszedłem się w stronę serpentyny w kierunku [Kowar][wiki-kowary]
 nadal mając wątpliwości jakie szkła powinienem mieć ze sobą
@@ -203,7 +203,7 @@ samochodu jeżdzą do sklepu, lekarza lub na pocztę. Najbliższy sklep jest
 dopiero w [Karpnikach][wiki-karpniki], a jest on wyraźnie mniejszy niż sklep w
 [Wojanowie][wiki-wojanow].
 
-{% post_image "medium","IMGP1869raw1.jpg","Sklep z antykami w Łomnicy" %}
+{% photo "IMGP1869raw1.jpg","Sklep z antykami w Łomnicy" %}
 
 Chciałem pójć jeszcze na zachód Słońca ale zaczęły się zbierać chmury i blokowały
 światło słoneczne.

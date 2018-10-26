@@ -64,7 +64,7 @@ Przyjeżdza tam dużo pociągów. Oczekiwałem tam na pociąg SKM do
 [Kościerzyny][wiki-koscierzyna], który to będzie przejeżdzał przez
 przystanek obok [lotnisko][wiki-gdansk-lotnsko].
 
-{% post_image "medium","IMGP8441raw1.jpg","Opuszczając Gdańsk Wrzeszcz" %}
+{% photo "IMGP8441raw1.jpg","Opuszczając Gdańsk Wrzeszcz" %}
 
 Większość trasy kolejowej do [lotniska][wiki-gdansk-lotnsko]
 to zdecydowanie tereny podmiejskie [Gdańska][wiki-gdansk].
@@ -90,7 +90,7 @@ przebiega przez [Kaszuby][wiki-kaszuby]. Zobaczyłem na własne oczy, że
 [miesiąc temu]({% post_url 2017-06-09-podmiejskie-kaszuby %})
 tylko przejechałem bokiem przez tą krainę geograficzną.
 
-{% post_image "medium","IMGP8490raw1.jpg","Okolice Skorzewa" %}
+{% photo "IMGP8490raw1.jpg","Okolice Skorzewa" %}
 
 Okolica stacji w [Sławkach][wiki-slawki] również była bardzo interesująca
 jeżeli chodzi o możliwą jazdę rowerem kiedyś.
@@ -103,7 +103,7 @@ szynobusem albo przesiąść się i jechać dalej do [Chojnic][wiki-chojnice].
 Ta trasa mnie najbardziej interesowała gdyż jeździ tam tylko jedna para
 pociągów dziennie (mogę się mylić).
 
-{% post_image "medium","IMGP8585raw1.jpg","Droga polna niedaleko miejscowości Zalesie" %}
+{% photo "IMGP8585raw1.jpg","Droga polna niedaleko miejscowości Zalesie" %}
 
 Wyjeżdzając z [Kościerzyny][wiki-koscierzyna] wkroczyliśmy w las. Las ten
 różnił się od kaszubskich lasów. Ten był bardziej "zorganizowany".
@@ -111,7 +111,7 @@ Widać było tutaj mniejszy udział turystyki.
 
 Szynobus jechał dość wolno walcząć z niedoskonałością torów.
 
-{% post_image "medium","IMGP8633raw1.jpg","Szynobus w Chojnicach" %}
+{% photo "IMGP8633raw1.jpg","Szynobus w Chojnicach" %}
 
 Na południe od [Lipusza][wiki-lipusz] pojawiło się sporo pagórków i klimatycznych
 wiosek.
@@ -119,7 +119,7 @@ wiosek.
 Przed [Męcikałem][wiki-mecikal] zauważyłem przykład rozbudowanej sieci
 szlaków rowerowych w [Borach Tucholskich][wiki-bory-tucholskie].
 
-{% post_image "medium","IMGP8634raw1.jpg","Stacja kolejowa w Chojnicach" %}
+{% photo "IMGP8634raw1.jpg","Stacja kolejowa w Chojnicach" %}
 
 Dojeżdzałem do [Chojnic][wiki-chojnice]. Na stacji zrobiłem kilka zdjęć, głównie
 kwitnącego krzewu obok zegara.
@@ -127,4 +127,4 @@ kwitnącego krzewu obok zegara.
 Ruszyłem do [Tczewa][wiki-tczew] przez [Rytel][wiki-rytel]. Linia ta jest
 już bardziej ucywilizowana. Dużo ludzi regularnie dojeżdza do [Gdańska][wiki-gdansk].
 
-{% post_image "medium","IMGP8703raw1.jpg","Okolice Piesienicy" %}
+{% photo "IMGP8703raw1.jpg","Okolice Piesienicy" %}

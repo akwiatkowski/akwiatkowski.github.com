@@ -28,7 +28,7 @@ Szczegóły
 To będą najkrótsze szczegóły :) Przeszedłem się po okolicach rynku w
 bardzo spokojny wieczór.
 
-{% post_image "medium","IMGP0254raw1.jpg","Aleje Marcinkowskiego" %}
+{% photo "IMGP0254raw1.jpg","Aleje Marcinkowskiego" %}
 
 Zdecydowanie lepiej uliczki by wyglądały gdyby były wilgotne po delikatnym
 deszczu.

@@ -60,7 +60,7 @@ Szczegóły
 
 Wstałem dość wcześnie aby zobaczyć czy pojawiają się mgły nad zalewem.
 
-{% post_image "medium","IMGP9409raw1.jpg","Poranne mgły nad zalewem w Krempnej" %}
+{% photo "IMGP9409raw1.jpg","Poranne mgły nad zalewem w Krempnej" %}
 
 Zaleta noclegu w miejscu położonym wyżej to rozpoczęcie dnia zjazdem. Problem będzie później
 gdy będziemy musieli podjechać.
@@ -71,21 +71,21 @@ do centrum.
 
 Pogoda tego dnia była idealna. Widać było delikatne chmury na niebie.
 
-{% post_image "medium","IMGP9418raw1.jpg","Delikatne chmury podczas wyjazdu z Krempnej" %}
+{% photo "IMGP9418raw1.jpg","Delikatne chmury podczas wyjazdu z Krempnej" %}
 
 Wyruszyliśmy z [Krempnej][wiki-krempna] na zachód do wsi [Kotań][wiki-kotan].
 Po prawej stronie na łące pasły się krowy.
 
-{% post_image "medium","IMGP9421raw1.jpg","Łąki niedaleko Krempnej" %}
+{% photo "IMGP9421raw1.jpg","Łąki niedaleko Krempnej" %}
 
 Na chwilę skręciliśmy i podjechaliśmy do cerkwi w [Kotaniu][wiki-kotan].
 
-{% post_image "medium","IMGP9430raw1.jpg","Cerkiew w Kotaniu" %}
+{% photo "IMGP9430raw1.jpg","Cerkiew w Kotaniu" %}
 
 Skręciliśmy na północ kierując się do [Desznicy][wiki-desznica] lecz jak to
 zwykle bywa, najpierw czekał na nas podjazd na przełęcz.
 
-{% post_image "medium","IMGP9439raw1.jpg","Droga do Desznicy" %}
+{% photo "IMGP9439raw1.jpg","Droga do Desznicy" %}
 
 Miałem subiektywne wrażenie, że to właśnie tutaj jest najwięcej
 zbudowanych nowych domów. Domów, które nie bardzo pasują do klimatu
@@ -96,14 +96,14 @@ szlak rowerowy, którym mieliśmy jechać. Niestety ponownie nie była to
 idealnie gładka droga asfaltowa o coś pomiędzy uszkodzonym asfaltem a
 ubitą drogą gruntową.
 
-{% post_image "medium","IMGP9442raw1.jpg","Pofalowane pola niedaleko Desznicy" %}
+{% photo "IMGP9442raw1.jpg","Pofalowane pola niedaleko Desznicy" %}
 
 Dotarliśmy do skraju lasu gdzie ukazała się nam jedna z najładniejszych
 panoram. To mi się najbardziej podoba w [Beskidzie Niskim][wiki-beskid-niski]
 czyli delikatne wzgórza pokryte trawą. Oczywiście podoba mi się klimat, wioski i ludzie
 również.
 
-{% post_image "medium","IMGP9444raw1.jpg","Zjazd do Desznicy" %}
+{% photo "IMGP9444raw1.jpg","Zjazd do Desznicy" %}
 
 Wjechaliśmy do [Desznicy][wiki-desznica] i pierwsze co zauważyłem to
 bardzo ładne nowe domy. Jakby to były najbogatsze miejscowości w okolicy.
@@ -111,21 +111,21 @@ bardzo ładne nowe domy. Jakby to były najbogatsze miejscowości w okolicy.
 Skręciliśmy w lewo jadąc do miejscowości [Jaworze][wiki-jaworze].
 Jechaliśmy zgodnie z czerwonym szlakiem rowerowym podjeżdzając na pagórek.
 
-{% post_image "medium","IMGP9451raw1.jpg","Podjazd ze wsi Jaworze" %}
+{% photo "IMGP9451raw1.jpg","Podjazd ze wsi Jaworze" %}
 
 Gdy wjechaliśmy na górkę ponownie ukazał się jeszcze piękniejszy widok.
 
-{% post_image "medium","IMGP9461raw1.jpg","Wzgórza niedaleko Jaworza" %}
+{% photo "IMGP9461raw1.jpg","Wzgórza niedaleko Jaworza" %}
 
 Zdecydowaliśmy o tym, że będziemy konsekwentnie jechać czerwonym szlakiem
 rowerowym chociaż bardziej mnie interesował szlak zielony.
 
-{% post_image "medium","IMGP9469raw1.jpg","Wzgórza niedaleko Jaworza" %}
+{% photo "IMGP9469raw1.jpg","Wzgórza niedaleko Jaworza" %}
 
 Gdy szlak skręcił w prawo przebiegał on przez 500m w lesie. Gdy las się
 skończył ponownie ujrzeliśmy bardzo fajny widok.
 
-{% post_image "medium","IMGP9482raw1.jpg","Widok na Brzezową" %}
+{% photo "IMGP9482raw1.jpg","Widok na Brzezową" %}
 
 Podczas zjazdu był lekki wypadek - pękła guma. Ja miałem przy sobie dętki do
 opony 29" ale były potrzebne 27.5". Próbowaliśmy znaleźć kogoś, kto mógłby
@@ -134,7 +134,7 @@ Prawie każdy dom jest ładny i nowy, ludzie tutaj mają pieniądze i dlatego ni
 skorzy do pomocy. Ostatecznie poradziliśmy sobie sami przez użycie
 dętki 29". Nikomu nie daliśmy zarobić. Dobrze im tak.
 
-{% post_image "medium","IMGP9484raw1.jpg","Drzewo na tle chmur" %}
+{% photo "IMGP9484raw1.jpg","Drzewo na tle chmur" %}
 
 Nie byliśmy pewni na ile moje rozwiązanie się sprawdzi dlatego jechaliśmy
 wyraźnie grzeczniej.
@@ -144,7 +144,7 @@ Bardzo szybko zjechałem do skrzyżowania z drogą 992 do
 linowym wiszącym mostem nad [Wisłoką][wiki-wisloka] i kontynuowaliśmy
 jazdę drogą 992.
 
-{% post_image "medium","IMGP9499raw1.jpg","Wiszący most niedaleko Skalnika" %}
+{% photo "IMGP9499raw1.jpg","Wiszący most niedaleko Skalnika" %}
 
 Zatrzymaliśmy się przy sklepie gdzie zjedliśmy kiełbasę z bułką popijając
 prawdopodobnie napojem z dużą ilością cukru. W sklepach można kupić albo wodę
@@ -157,7 +157,7 @@ się znacząco zmniejszył.
 Przejechaliśmy ponownie przez [Wisłokę][wiki-wisloka] tym razem po
 nowoczesnym moście.
 
-{% post_image "medium","IMGP9508raw1.jpg","Wiszący most nad Wisłoką" %}
+{% photo "IMGP9508raw1.jpg","Wiszący most nad Wisłoką" %}
 
 Wokół mijaliśmy wioskę o bardzo luźnej zabudowie. Jej gęstość się zmniejszała
 jeszcze bardziej jak jechaliśmy.
@@ -169,7 +169,7 @@ przejeżdzając przez niego. Oczywiście nagrałem to.
 W pewnym momencie minął nas przerobiony chyba Ford Fiesta. Nie miał on drzwi.
 Kierowca tego pojazdu pojeździł nim w korycie rzeki.
 
-{% post_image "medium","IMGP9514raw1.jpg","Krowy w połowie drogi między Kątami a Myscową" %}
+{% photo "IMGP9514raw1.jpg","Krowy w połowie drogi między Kątami a Myscową" %}
 
 W takich miejscach domy nie mają ogrodzenia. Nie jest to ludziom do niczego
 potrzebne.
@@ -178,15 +178,15 @@ Dotarliśmy do [Myscowej][wiki-myscowa]. W centrum widzieliśmy chyba
 budynek szkoły. Więcej istotnych miejsc w tym momencie nie pamiętam
 oprócz uszkodzonej drogi przez podmycie gruntu.
 
-{% post_image "medium","IMGP9529raw1.jpg","Droga do Krempnej" %}
+{% photo "IMGP9529raw1.jpg","Droga do Krempnej" %}
 
 Musieliśmy przejechać jeszcze 3km aby być na znanej mi drodze dojazdowej
 do [Krempnej][wiki-krempna].
 
-{% post_image "medium","IMGP9532raw1.jpg","Wiszący most nad Wisłoką w Krempnej" %}
+{% photo "IMGP9532raw1.jpg","Wiszący most nad Wisłoką w Krempnej" %}
 
 Tym razem pojechaliśmy wzdłuż zalewu przez co podjazd do noclegu był odległościowo
 krótszy. Musieliśmy wdrapać się z rowerami na taką samą wysokość ale chyba
 to było mniej denerwujące.
 
-{% post_image "medium","IMGP9534raw1.jpg","Wisłoka" %}
+{% photo "IMGP9534raw1.jpg","Wisłoka" %}

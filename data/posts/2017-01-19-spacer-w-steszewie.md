@@ -60,24 +60,24 @@ Widząc ptaki spróbowałem poruszać się wolniej i zrobić im zdjęcie. Pomimo
 tego, że są to zwykłe wróble interesująco sobie siedziały. W tym momencie
 brakowało mi Sigmy 150-500.
 
-{% post_image "medium","IMGP2246raw1.jpg","Wróbel" %}
+{% photo "IMGP2246raw1.jpg","Wróbel" %}
 
 Po prawej stronie mijałem [Jezioro Witobelskie][wiki-jez-witobelskie] i
 zrobiłem zdjęcie zabudowaniom wsi [Witobel][wiki-witobel], która jest po
 drugiej stronie.
 
-{% post_image "medium","IMGP2265raw1.jpg","Jezioro Witobelskie" %}
+{% photo "IMGP2265raw1.jpg","Jezioro Witobelskie" %}
 
 Najbardziej spodobał mi się widok drogi wokół której były oszadzone krzaki.
 
-{% post_image "medium","IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa" %}
+{% photo "IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa" %}
 
 Dotarłem do [Łodzi][wiki-lodz] niebieskim szlakiem pieszym
 mijając po lewej stawek obok ulicy Trzebawskiej.
 Chwilę wcześniej na tym stawku spacerował sobie lis, lecz w momencie gdy już
 celowałem aparatem ten zaczął uciekać.
 
-{% post_image "medium","IMGP2302raw1.jpg","Stawek w Łodzi (obok Stęszewa)" %}
+{% photo "IMGP2302raw1.jpg","Stawek w Łodzi (obok Stęszewa)" %}
 
 Mój telefon się dość mocno schłodził i przez to bateria zaczęła bardzo szybko
 padać. Gdyby nie to to rozważałem iść dalej czarnym szlakiem pieszym obok
@@ -94,12 +94,12 @@ informację na stronie [lokalnego przewoźnika][mosina-komunikacja].
 
 
 
-{% post_image "medium","IMGP2310raw1.jpg","Łódź widziana przez jezoro Dymaczewskie" %}
+{% photo "IMGP2310raw1.jpg","Łódź widziana przez jezoro Dymaczewskie" %}
 
 Zrobiłem jeszcze kilka zdjęc [jeziora][wiki-jez-dymaczewskie] i rozpocząłem
 powrót. Szedłem tym razem czerwonym szlakiem rowerowym.
 
-{% post_image "medium","IMGP2326raw1.jpg","Jezioro Dymaczewskie" %}
+{% photo "IMGP2326raw1.jpg","Jezioro Dymaczewskie" %}
 
 Podwiozła mnie do [Stęszewa][wiki-steszew] jedna osoba. Ten bardzo miły Pan słuchał
 Cypisa w samochodzie, wolę nie linkować do jego twórczości.

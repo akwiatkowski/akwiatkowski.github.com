@@ -54,7 +54,7 @@ a [Żmigrodem][wiki-zmigrod] jest tylko jedna stacja kolejowy. Gdy minęliśmy
 stację w [Korzeńsku][wiki-korzensko] przygotowaliśmy się do wyjścia gdyż
 myślałem, że jesteśmy już w [Żmigrodzie][wiki-zmigrod]. Pośpiech jest złym doradcą.
 
-{% post_image "medium","IMGP4549raw1.jpg","Wieś Borek" %}
+{% photo "IMGP4549raw1.jpg","Wieś Borek" %}
 
 Pociąg zatrzymał się, wysiedliśmy i okazało się, że to nie jest [Zmigród][wiki-zmigrod]
 a [Garbce][wiki-garbce]. Szybka analiza i już wiedziałem gdzie trzeba jechać.
@@ -63,7 +63,7 @@ Ruszyliśmy na wschód przez [Borek][wiki-borek]. Jest to całkiem ładna wieś,
 gdzie już widać popularny w tych stronach styl domów z czerwonej cegły.
 Przejeżdzając naliczyliśmy aż cztery koty.
 
-{% post_image "medium","IMGP4555raw1.jpg","Puchaty kot w Nowych Domach" %}
+{% photo "IMGP4555raw1.jpg","Puchaty kot w Nowych Domach" %}
 
 Przejechaliśmy przez [Nowe Domy][wiki-nowe-domy] i skręciliśmy na południe
 w stronę skrzyżowania w Zielonym Domu.
@@ -73,7 +73,7 @@ W tym miejscu przejeżdzałem jadąc do [Radziądza][wiki-radziadz]
 Dojeżdzając do [Żmigrodu][wiki-zmigrod] ruch samochodowy stał się znacznie wyraźniejszy.
 Co jakiś czas mijaliśmy stare budynki, które dodawały uroku tym okolicom.
 
-{% post_image "medium","IMGP4557raw1.jpg","Jadąc do Żmigrodu" %}
+{% photo "IMGP4557raw1.jpg","Jadąc do Żmigrodu" %}
 
 Przejechaliśmy przez centrum miasta i ulicą Sportową wyjechaliśmy na wschód.
 Droga ta była spokojna, wokół mijaliśmy jeszcze gołe pola. Niebo jak i
@@ -85,7 +85,7 @@ w normalnym [Osieku][wiki-osiek] skręciliśmy w lewo na północ.
 Dojechaliśmy do Stawu Rudego i od tego momentu czuliśmy już leśny klimat
 [Doliny Baryczy][wiki-dolina-baryczy]. Podjechaliśmy nad staw na chwilę.
 
-{% post_image "medium","IMGP4622raw1.jpg","Osada Hucisko" %}
+{% photo "IMGP4622raw1.jpg","Osada Hucisko" %}
 
 Teraz naszym celem było jedzenie. Dowiedzieliśmy się wcześniej, że w sezonie jest
 czynna restauracja Karczma Rybna w [Rudzie Żmigrodzkiej][wiki-ruda-zmigrodzka].
@@ -99,14 +99,14 @@ dużo sklepów. W [Rudzie Sułowskiej][wiki-ruda-sulowska] był tylko jeden skle
 W osadzie Hucisko było kilka domów i tam zrobiłem krótką przerwę
 na zdjęcia. Miejsce było według mnie urokliwe.
 
-{% post_image "medium","IMGP4634raw1.jpg","Droga przez las w Dolinie Baryczy" %}
+{% photo "IMGP4634raw1.jpg","Droga przez las w Dolinie Baryczy" %}
 
 Chwilę później jechaliśmy czerwonym szlakiem rowerowym przez las. Zignorowaliśmy
 informację o zakazie wejścia z powodu zrywki drzew. W takich sytuacjach po
 prostu trzeba chociaż trochę uważac i szanować pracujące tam osoby a nie szukać
 innej drogi.
 
-{% post_image "medium","IMGP4646raw1.jpg","Leśny strumek" %}
+{% photo "IMGP4646raw1.jpg","Leśny strumek" %}
 
 Dojechaliśmy do drogi 439 i po pewnym czasie skręciliśmy znowu
 na północ. Byłem zaskoczony widząc stawy z upuszczoną wodą. Wyglądało jakby
@@ -118,7 +118,7 @@ sobie bociana. Chyba jest mało miejscowości w Polsce gdzie można zobaczyć
 spokojnie sobie chodzącego bociana. Oczywiście gdy zbliżyliśmy się zbyt bardzo
 to uciekł, niemniej zdjęcie udało mi się zrobić.
 
-{% post_image "medium","IMGP4674raw1.jpg","Bocian w Rudzie Sułowskiej" %}
+{% photo "IMGP4674raw1.jpg","Bocian w Rudzie Sułowskiej" %}
 
 Ciepłe jedzenie znaleźliśmy w [Gospodzie 8 Ryb][8-ryb]. Miejsce to jest
 akceptowalnie tanie.

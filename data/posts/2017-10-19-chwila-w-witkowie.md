@@ -52,7 +52,7 @@ W momencie gdy zrobiłem kilka zdjęć zauważyłem ślady na zdjęciach.
 Były one zbyt duże abym mógł je zaakceptować a nigdy nie chce mi się ich
 później usuwać programowo.
 
-{% post_image "medium","IMGP1764raw1.jpg","Okolice Witkowa" %}
+{% photo "IMGP1764raw1.jpg","Okolice Witkowa" %}
 
 Sprawdziłem rozkład pociągów. Jeden z nich miał półgodzinne opóźnienie i
 powinien być za kilka minut. Zszedłem na stację abym mógł wrócić

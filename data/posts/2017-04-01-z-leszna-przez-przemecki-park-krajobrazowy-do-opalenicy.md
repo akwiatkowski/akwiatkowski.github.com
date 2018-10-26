@@ -84,7 +84,7 @@ gdyż jechaliśmy terenami podmiejskimi, do droga jest wylotówką.
 Przed dojazdem do [Święciechowej][wiki-swieciechowa] widzieliśmy budowę odcinka
 S5.
 
-{% post_image "medium","IMGP3313raw1.jpg","Rynek w Święciechowej" %}
+{% photo "IMGP3313raw1.jpg","Rynek w Święciechowej" %}
 
 Nasza trasa już od tego miejsca zaczęła robić się dynamiczna. Były plany aby
 jechać dalej na zachód przez [Niechłod][wiki-niechlod], ale ruszyliśmy
@@ -105,7 +105,7 @@ jazda wprost przez las.
 Wjechaliśmy na leśną ścieżkę rowerową przez
 [Przemęcki Park Krajobrazowy][wiki-przemecki-park].
 
-{% post_image "medium","IMGP3336raw1.jpg","Wczesna wiosna w Przmęckim Parku Krajobrazowym" %}
+{% photo "IMGP3336raw1.jpg","Wczesna wiosna w Przmęckim Parku Krajobrazowym" %}
 
 Jechaliśmy po szlaku rowerowym w formie prostokątu, który jest przecięty
 drogami przy których są jakieś atrakcje związane biologią. Trudno mi to
@@ -123,7 +123,7 @@ z którego blisko jest do [Górsko][wiki-gorsko].
 Nie robiliśmy tam większych przerw. Jechaliśmy dalej na północ do [Olejnicy][wiki-olejnica].
 Po lewej stronie mijaliśmy dużo domków letniskowych.
 
-{% post_image "medium","IMGP3349raw1.jpg","Jezioro Olejnickie" %}
+{% photo "IMGP3349raw1.jpg","Jezioro Olejnickie" %}
 
 W [Olejnicy][wiki-olejnica] zrobiliśmy przerwę na jedzenie i zdjęcia obok
 Jeziora Olejnickiego i zastanawialiśmy się jak jechać dalej. Wybraliśmy niebieski
@@ -136,7 +136,7 @@ jest dużo korzeni i leżącego drzewa. Widać też miejsca pracy bobrów.
 Jest przykładem tego, że szlak rowerowy może oznaczać cokolwiek i dopiero czytając
 mapę można się dowiedzieć czy to raczej droga czy cokolwiek innego.
 
-{% post_image "medium","IMGP3354raw1.jpg","Efekt pracy bobrów" %}
+{% photo "IMGP3354raw1.jpg","Efekt pracy bobrów" %}
 
 Szlak ten kończy się on niedaleko leśniczówki i tam zaczyna się piaszczysta droga do
 [Perkowa][wiki-perkowo]. Na szczęście nie jest ona długa.
@@ -153,7 +153,7 @@ Tutaj ponownie musieliśmy wybrać jak jechać. Czy dalej na zachód asfaltem
 do [Mochów][wiki-mochy], czy bardziej terenowo. Wybraliśmy to drugie i obok
 stacji kolejowej ruszyliśmy na północ przez [Solec Nowy][wiki-solec-nowy].
 
-{% post_image "medium","IMGP3367raw1.jpg","Południowy kanal Odry" %}
+{% photo "IMGP3367raw1.jpg","Południowy kanal Odry" %}
 
 Dojechaliśmy do [Solca][wiki-solec]. Te tereny kojarzyły mi się z
 [okolicami Noteci]({% post_url 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem %}).
@@ -161,7 +161,7 @@ Dojechaliśmy do [Solca][wiki-solec]. Te tereny kojarzyły mi się z
 Chcieliśmy jechać do [Wolsztyna][wiki-wolsztyn], a później do [Zbąszynia][wiki-zbaszyn].
 Już nie pamiętam dlaczego zmieniliśmy, pewnie aby było ciekawiej.
 
-{% post_image "medium","IMGP3372raw1.jpg","Budynek w Starej Dąbrowie gdzie krzyżuje się 5 dróg" %}
+{% photo "IMGP3372raw1.jpg","Budynek w Starej Dąbrowie gdzie krzyżuje się 5 dróg" %}
 
 Od tego momentu rozpoczęło się jeżdzenie po wioskach. Nie pamiętam aby się
 one czymś odznaczały. [Nowa Dąbrowa][wiki-nowa-dabrowa] i
@@ -172,7 +172,7 @@ Natomiast [Gościeszyn][wiki-goscieszyn] jest bardzo ciekawą miejscowością.
 Wieś ta była posiadłością szlachecką i wszystko należało do jednego
 podmiotu. W wyniku czego cała miejscowość to, można powiedzieć, pałac i jego okolica.
 
-{% post_image "medium","IMGP3377raw1.jpg","Pałac w Gościeszynie" %}
+{% photo "IMGP3377raw1.jpg","Pałac w Gościeszynie" %}
 
 Następnie przejechaliśmy przez wieś [Łąkie][wiki-lakie], głównym powodem była
 nazwa. Na chwilę skoczyliśmy do [Terespolu][wiki-terespol] obok Północnego Kanału

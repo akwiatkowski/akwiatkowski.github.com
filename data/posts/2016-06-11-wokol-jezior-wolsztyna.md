@@ -48,13 +48,13 @@ Do [Wolsztyna][wiki-wolsztyn] dojechaliśmy szynobusem. Dotarliśmy nad jezioro 
 tam ruszyliśmy na północ żółtym szlakiem wokół jeziora. Szlak ten jest położony w lesie i
 można by nazwać, że jest to szlak terenowy, jednak jest on bardzo łatwy.
 
-{% post_image "medium","IMGP1404raw1.jpg","Pałacyk w Wolsztynie" %}
+{% photo "IMGP1404raw1.jpg","Pałacyk w Wolsztynie" %}
 
 Jechaliśmy przez las kilka kilometrów aż do [Nowego Młyna][wiki-nowy-mlyn].
 Od tego momentu jechaliśmy drogą asfaltową mijając z prawej strony
 [Rezerwat Bagno Chorzemińskie][wiki-bagno-chorzeminskie].
 
-{% post_image "medium","IMGP1407raw1.jpg","Jezioro w Wolsztynie" %}
+{% photo "IMGP1407raw1.jpg","Jezioro w Wolsztynie" %}
 
 Minęliśmy również
 dwa jeziora, tylko niestety i tego nie widzieliśmy na własne oczy.
@@ -72,7 +72,7 @@ przejechałem przez tory tej linii kolejowej niedaleko Leśnych Domków obok
 Wracaliśmy już do [Wolsztyna][wiki-wolsztyn] jadąc drogą 32. Na szczęście po
 lewej stronie była droga pieszo-rowerowa.
 
-{% post_image "medium","IMGP1413raw1.jpg","Pola na północny-zachód od Wolsztyna" %}
+{% photo "IMGP1413raw1.jpg","Pola na północny-zachód od Wolsztyna" %}
 
 Mieliśmy jeszcze trochę czasu i postanowiliśmy objechać
 [Jezioro Berzyńskie][wiki-jez-berzynskie]. Jezioro to jest idealne

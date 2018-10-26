@@ -38,18 +38,18 @@ Szczegóły
 Ruszyliśmy żółtym szlakiem pieszym w stronę rzeki [Głuszynki][wiki-gluszynka].
 Śnieg i lód pojawił się dość nagle na drodzę.
 
-{% post_image "medium","IMGP5991raw1.jpg","Idąc żółtym szlakiem pieszym z Sypniewa" %}
+{% photo "IMGP5991raw1.jpg","Idąc żółtym szlakiem pieszym z Sypniewa" %}
 
 Przeszliśmy przez potok nie mający nazwy.
 
-{% post_image "medium","IMGP6005raw1.jpg","Zamarznięty potok bez nazwy" %}
+{% photo "IMGP6005raw1.jpg","Zamarznięty potok bez nazwy" %}
 
 Następnie szliśmy wokół [rzeczki][wiki-gluszynka], która się bardzo ładnie wije,
 w stronę mostu przy ulicy Piotrowskiej.
 Mostu nie ma na szlaku pieszym (żółtym), jest przejście "w bród" czego
 w zimie bym nie próbował.
 
-{% post_image "medium","IMGP6028raw1.jpg","Rzeka Głuszynka" %}
+{% photo "IMGP6028raw1.jpg","Rzeka Głuszynka" %}
 
 Przeszliśmy przez wspomniany most i szliśmy w lesie po drugiej stronie
 [rzeczki][wiki-gluszynka] w stronę
@@ -61,7 +61,7 @@ To dziwne, bo już
 byłem w tej okolicy kiedyś
 [jadąc rowerem do Kórnika]({% post_url 2014-05-01-przejazdzka-do-kornika %}).
 
-{% post_image "medium","IMGP6054raw1.jpg","Ulica Piotrowska w Daszewicach" %}
+{% photo "IMGP6054raw1.jpg","Ulica Piotrowska w Daszewicach" %}
 
 Wróciliśmy do ulicy Piotrowskiej obserwując zachodzące Słońce, a następnie
 kierowaliśmy się w stronę przystanku autobusowego.

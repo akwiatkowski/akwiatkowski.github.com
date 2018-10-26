@@ -82,7 +82,7 @@ obawą na chmury.
 
 W [Trzcielu][wiki-trzciel] podobały mi się stare domy w okolicach rynku.
 
-{% post_image "medium","IMGP1434raw1.jpg","Centrum miejscowości Trzciel" %}
+{% photo "IMGP1434raw1.jpg","Centrum miejscowości Trzciel" %}
 
 
 Jechaliśmy dalej na północ niebieskim szlakiem rowerowym. Po lewej stronie minęliśmy
@@ -91,7 +91,7 @@ stary żydowski cmentarz. To że był on żydowski wiemy z tabliczki.
 Zjechaliśmy na chwilę na plażę obok jeziora Konin, chociaż nie mam pewności
 czy się ono tak nazywało.
 
-{% post_image "medium","IMGP1441raw2.jpg","Jezioro na północ od Trzcielu" %}
+{% photo "IMGP1441raw2.jpg","Jezioro na północ od Trzcielu" %}
 
 Przejechaliśmy obok dosyć dużego tartaku. Dalej jechaliśmy głównie przez lasy aż
 do [Jabłonki Starej][wiki-jablonka-stara], w której wyjeżdzając widziałem
@@ -100,7 +100,7 @@ bardzo dużo ładnych starych domów.
 Ciekawostką tej trasy była naprzemienna zmiana województw. Raz byliśmy w
 [wielkopolskim][wiki-wielkopolska], raz w [lubuskiem][wiki-lubuskie].
 
-{% post_image "medium","IMGP1443raw1.jpg","Opuszczony sklep niedaleko plaży" %}
+{% photo "IMGP1443raw1.jpg","Opuszczony sklep niedaleko plaży" %}
 
 Czekała na nas kilkokilometrowa droga przez las. Na szczęście nie jechaliśmy
 w czasie upałów i piasek nie był takim problemem.
@@ -108,7 +108,7 @@ w czasie upałów i piasek nie był takim problemem.
 Kierowaliśmy się przez [Silną][wiki-silna] do [Pszczewa][wiki-pszczew] znowu jadąc
 przez głęboki las. Na szczęście tym razem był dobry asfalt.
 
-{% post_image "medium","IMGP1448raw1.jpg","Wrób przy Jeziorze Cegielnia obok Pszczewa" %}
+{% photo "IMGP1448raw1.jpg","Wrób przy Jeziorze Cegielnia obok Pszczewa" %}
 
 
 W [Pszczewie][wiki-pszczew] zjechaliśmy w okolice jeziora Kochle i po chwili
@@ -116,7 +116,7 @@ opuściliśmy tą miejscowość jadąc w stronę [Stoków][wiki-stoki]. Są one 
 klimatyczną wioską. Jeżeli się nie mylę to jechaliśmy szlakiem rowerowym
 [R1][wiki-r1].
 
-{% post_image "medium","IMGP1449raw1.jpg","Jezioro Cegielnia obok Pszczewa" %}
+{% photo "IMGP1449raw1.jpg","Jezioro Cegielnia obok Pszczewa" %}
 
 
 Gdy minęliśmy ostatnie zabudowania przywitała nas już droga gruntowa. Wydaję mi
@@ -126,7 +126,7 @@ aby jechać. Wokół drogi są lekko pofalowane pola.
 Mieliśmy lekki podjazd, ktory nie był problemem, a lekką pracą w celu otrzymania
 późniejszej nagrody. Nagrodą tą był fajny terenowy zjazd do [Dormowa][wiki-dormowo].
 
-{% post_image "medium","IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem" %}
+{% photo "IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem" %}
 
 Dojechaliśmy po pewnym czasie do lepszej drogi i kierowaliśmy się
 na północ w stronę [Międzychodu][wiki-miedzychod].
@@ -155,7 +155,7 @@ której mógłbym tutaj ponownie przejechać, chociaż może pojawią się kiedy
 Z ciekawostek po drodzę mijaliśmy jakiś [zakład przemysłowy][gaz] związane z
 gazem.
 
-{% post_image "medium","IMGP1463raw1.jpg","Noteć z mostu niedaleko Starych Bielic" %}
+{% photo "IMGP1463raw1.jpg","Noteć z mostu niedaleko Starych Bielic" %}
 
 Michał przekonał mnie abyśmy pojechali do [Krzyża][wiki-krzyz] cały czas
 szlakiem [R1][wiki-r1]. Przystanąłem na jego wersje, chociaż wolałem pojechać

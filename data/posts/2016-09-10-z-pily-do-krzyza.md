@@ -71,7 +71,7 @@ na dworzec. Rozumiem że miałbym przypiąć i pójść kupić bilet? Nie ma tak
 Następnym razem albo ponownie udam głupiego i wejdę z rowerem, albo kupię w pociągu
 dopłacając. Tym małym akcentem [Piła][wiki-pila] dostała minusa w moich oczach.
 
-{% post_image "medium","IMGP5908raw1.jpg","Pomalowany przystanek autobusowy w Kotuniu" %}
+{% photo "IMGP5908raw1.jpg","Pomalowany przystanek autobusowy w Kotuniu" %}
 
 Wyruszyłem jadąc na zachód w kierunku do [Krzyża][wiki-krzyz]. Początkowo jechałem
 spokojną drogą przez las przejeżdzając przez dwie pary torów kolejowych.
@@ -87,7 +87,7 @@ Wioska jak to wioska, raczej ta była spokojna chociaż jednocześnie rozległa.
 Trochę taka
 sypialnia [Piły][wiki-pila] gdyż widziałem tam sporo nowych domów.
 
-{% post_image "medium","IMGP5910raw1.jpg","Trasa przez większość czasu to jazda przez las" %}
+{% photo "IMGP5910raw1.jpg","Trasa przez większość czasu to jazda przez las" %}
 
 
 Jechałem dalej w stronę [Łomnicy][wiki-lomnica]. Znowu miałem obok siebie lasy.
@@ -99,7 +99,7 @@ minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
 Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
 w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
 
-{% post_image "medium","IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy" %}
+{% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -131,7 +131,7 @@ zaczęło mnie już męczyć i przestałem zapamiętywać szczegóły a zaczął
 myśleć już o
 końcu dzisiejszej trasy.
 
-{% post_image "medium","IMGP5938raw1.jpg","Po prawej teren był wyraźnie wyżej" %}
+{% photo "IMGP5938raw1.jpg","Po prawej teren był wyraźnie wyżej" %}
 
 Taką ogólną ciekawostką były lekkie zbocza,
 które mijałem z prawej strony. Towarzyszyłu one aż do [Wielenia][wiki-wielen].

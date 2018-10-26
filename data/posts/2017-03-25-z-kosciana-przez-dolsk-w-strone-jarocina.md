@@ -66,7 +66,7 @@ można bezproblemowo wyjechać z peronu na ulicę.
 Ruszyliśmy na wschód w stronę [Starego Lubosza][wiki-stary-lubosz]. Powoli opuszczaliśmy
 tereny podmiejskie. Widać było to na podstawie nowo powstałych domów.
 
-{% post_image "medium","IMGP3236raw1.jpg","Przejeżdzając przez Darnowo" %}
+{% photo "IMGP3236raw1.jpg","Przejeżdzając przez Darnowo" %}
 
 Za [Starym Luboszem][wiki-stary-lubosz] przejechałem przez drogę, którą
 [rok temu]({% post_url 2016-04-03-z-mosiny-do-kosciana %}) jechałem na południe.
@@ -76,7 +76,7 @@ Przed [Turewem][wiki-turew] skręciliśmy do [Rogaczewa Małego][wiki-rogaczewo-
 przejeżdzając mostem przez Rów Wyskoc, a przynajmniej tak na mapie UMP jest
 ten strumyk nazwany.
 
-{% post_image "medium","IMGP3238raw1.jpg","Krzyż na skrzyżowaniu dróg niedaleko Rogaczewa" %}
+{% photo "IMGP3238raw1.jpg","Krzyż na skrzyżowaniu dróg niedaleko Rogaczewa" %}
 
 Spodobało mi się główne skrzyżowanie w [Rogaczewie Małym][wiki-rogaczewo-male].
 Jeden albo dwa budynki oraz jakiś budynek przemysłowy dalej i to cała wioska.
@@ -93,7 +93,7 @@ gdyż myślałem, że później będzie odpowiedniejsze miejsce.
 
 Wyjeżdzając z wioski wkroczyliśmy na drogę gruntową i bardziej pofalowany teren.
 
-{% post_image "medium","IMGP3241raw1.jpg","Pofalowane pola niedaleko Bieżynia" %}
+{% photo "IMGP3241raw1.jpg","Pofalowane pola niedaleko Bieżynia" %}
 
 W [Bieżyniu][wiki-biezyn] skręciliśmy na wschód na niebieski szlak rowerowy i
 jechaliśmy na wschód do [Łagowa][wiki-lagowo]. Szlak ten okazał się ciekawszy niż
@@ -105,7 +105,7 @@ tej niedogodności zdecydowanie polecam to miejsce.
 Później tego dnia jechaliśmy podobnym szlakiem
 obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
 
-{% post_image "medium","IMGP3256raw1.jpg","Wjeżdzając do Łagowa" %}
+{% photo "IMGP3256raw1.jpg","Wjeżdzając do Łagowa" %}
 
 Ruszyliśmy na wschód. Do [Dolska][wiki-dolsk] już mieliśmy w miarę blisko. Jechaliśmy
 teraz przez las, ale jechało się całkiem przyjemnie.
@@ -119,7 +119,7 @@ Ruszyliśmy na północ widząc wysokie pagórki naprzeciw. Myślałem że
 będzie ich więcej i więcej ciekawych widoków,
 a mam wrażenie że trochę ich ominęliśmy podczas dzisiejszej trasy.
 
-{% post_image "medium","IMGP3278raw1.jpg","Jezioro w Dolsku" %}
+{% photo "IMGP3278raw1.jpg","Jezioro w Dolsku" %}
 
 Skręciliśmy w prawo na wschód i jechaliśmy w stronę [Trąbinka][wiki-trabinek].
 Po lewej stronie było podwyższenie terenu a po prawej obniżenie.
@@ -132,7 +132,7 @@ ograniczał widoczność.
 Jechaliśmy bardzo szybko i tylko przez chwilę zwróciłem uwagę na drewniany kościół.
 Czytając wikipedię dowiedziałem się, że jest to zabytek z 1646 roku.
 
-{% post_image "medium","IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim" %}
+{% photo "IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim" %}
 
 Chcieliśmy dojechać do [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski] i dalej
 do stacji kolejowej (przykładowo do [Chociczy][wiki-chocicza]).
@@ -154,7 +154,7 @@ Bardzo szybko przejechaliśmy przez tą miejscowość i skręciliśmy na półno
 Leśną. Dojechaliśmy do wsi [Rogusko][wiki-rogusko] nie wiedząc o tym, że
 jest to osobna miejscowość. To jest kilka domów niedaleko rzeki [Warty][wiki-warta].
 
-{% post_image "medium","IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy" %}
+{% photo "IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy" %}
 
 Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy
 tym razem pod wiatr i tylko las oraz
@@ -162,7 +162,7 @@ lekkie obniżenie terenu nam ułatwiały. Gdy już byliśmy w okolicy [Warty][wi
 nie było drzew które mogłyby nam pomagać w walce z wiatrem.
 Powoli dojechaliśmy pod most kolejowy.
 
-{% post_image "medium","IMGP3299raw1.jpg","Tereny zalewowe obok Warty" %}
+{% photo "IMGP3299raw1.jpg","Tereny zalewowe obok Warty" %}
 
 Nie byłem pewien czy tym mostem można przedostać się na drugą stronę, na szczeście
 jest tam dobra kładka i nie musieliśmy się wracać. Wyjechaliśmy w

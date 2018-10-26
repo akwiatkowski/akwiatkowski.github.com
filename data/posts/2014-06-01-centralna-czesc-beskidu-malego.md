@@ -44,7 +44,7 @@ Drugiego dnia powitała nas znacznie lepsza pogoda. Wyruszyliśmy w kierunku
 północnym, gdyż musieliśmy dostać się na drugą stronę
 [Jeziora Międzybrodzkiego][wiki-jezioro-miedzy] przez [zaporę][wiki-zapora-porabka].
 
-{% post_image "medium","IMGP6602raw1.jpg","Jezioro Międzybrodzkie" %}
+{% photo "IMGP6602raw1.jpg","Jezioro Międzybrodzkie" %}
 
 [Zapora Porąbka][wiki-zapora-porabka] jest jedną z trzech elektrowni w rejonie rzeki
 [Soła][wiki-sola].
@@ -54,25 +54,25 @@ podejście było w miarę lekkie. Po minięciu ulicy Szczytowej szlak
 stał się bardziej terenowy, rozpoczął się dość okrutnie, gdyż trzeba było
 wysoko stawiać kolejne kroki oraz zrobiło się miejscami wąsko.
 
-{% post_image "medium","IMGP6625raw1.jpg","Dolna część elektrowni Żar" %}
+{% photo "IMGP6625raw1.jpg","Dolna część elektrowni Żar" %}
 
 Były chyba dwa punkty widokowe przed dojściem do góry [Żar][wiki-zar], na której
 zrobiliśmy przerwę na jedzenie i zdjęcia.
 
-{% post_image "medium","IMGP6648raw1.jpg","Podejście" %}
+{% photo "IMGP6648raw1.jpg","Podejście" %}
 
 Szliśmy cały czas czerwonym szlakiem dalej. Przebiega on na południe od
 zbiornika [elektrowni][wiki-zar-elektrownia]. Sam zbiornik jest chyba najciekawszym
 elementem trasy. Jest on też dobrym punktem widokowym.
 
-{% post_image "medium","IMGP6691raw1.jpg","Widok na Międzybrodzie" %}
+{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie" %}
 
 Dalsza część trasy była, w mojej ocenie, mało interesująca. Na szczęście ma to
 również swoje plusy - nie było ciasno, nie było mocnego podejścia. Przeszliśmy
 przez [Kiczerę][wiki-kiczera], [Kocierz][wiki-kocierz] i na
 [przełęczy][wiki-kocierz-przelecz] zjedliśmy obiado-kolacje.
 
-{% post_image "medium","IMGP6717raw1.jpg","Widok z góry Żar na północ" %}
+{% photo "IMGP6717raw1.jpg","Widok z góry Żar na północ" %}
 
 Nocleg mieliśmy w [Chatce na Potrójnej][wiki-chatka], który zapamiętam na długo,
 gdyż noc tam nie była synonimem spokoju.
@@ -80,7 +80,7 @@ Przyjechali znajomi rodziny prowadzącej schronisko z wódką, kiełbaskami
 i skwierczącymi dziećmi. Dodatkowo była jeszcze jedna grupa, która miała wieczór
 panieński.
 
-{% post_image "medium","IMGP6779raw1.jpg","Górna część elektrowni Żar" %}
+{% photo "IMGP6779raw1.jpg","Górna część elektrowni Żar" %}
 
 O grupie wieczoru panieńskiego nic złego nie powiem, jednak byłbym bardziej
 zadowolony gdybyśmy dostali informacje o szykującej się imprezie i się mogli do
@@ -90,4 +90,4 @@ niej przygotować. Chociażby wspomnianymi kiełbaskami.
 [Chatka pod Potrójną][wiki-chatka-pod] jest raczej studenckim schroniskiem.
 Większe luksusy są w tej pierwszej, klimat lepszy w tej drugiej.
 
-{% post_image "medium","IMGP6832raw1.jpg","Większość trasy to spacer po lesie" %}
+{% photo "IMGP6832raw1.jpg","Większość trasy to spacer po lesie" %}

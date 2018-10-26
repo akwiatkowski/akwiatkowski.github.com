@@ -44,7 +44,7 @@ Wstęp
 Czekał na nas ponowna zmiana noclegu. Tym razem znałem trasę po której jechaliśmy,
 dlatego czułem się spokojniej.
 
-{% post_image "medium","IMGP9579raw1.jpg","Drugi poranek nad zalewem w Krempnej" %}
+{% photo "IMGP9579raw1.jpg","Drugi poranek nad zalewem w Krempnej" %}
 
 Opis trasy
 ----------
@@ -58,7 +58,7 @@ Tak jak [dzień wcześniej]({% post_url 2017-07-27-na-polnoc-od-krepnej %})
 i teraz na początku czekał na nas zjazd do centrum
 [Krempnej][wiki-krempna] gdzie następnie skręciliśmy na wschód.
 
-{% post_image "medium","IMGP9586raw1.jpg","Widok w stronę ośrodku wypoczynkowego" %}
+{% photo "IMGP9586raw1.jpg","Widok w stronę ośrodku wypoczynkowego" %}
 
 Jechaliśmy w kierunku wsi [Polany][wiki-polany] po drodzę, po której już
 jechaliśmy wczoraj, a w 2016 roku przejechałem po niej chyba dwa razy. Tereny są
@@ -69,7 +69,7 @@ aby zobaczyć kamienny most, który widziałem tylko przez chwilę,
 jednak pomyliłem się i nie skręciliśmy
 w odpowiednim miejscu.
 
-{% post_image "medium","IMGP9598raw1.jpg","Wyjazd z Polan" %}
+{% photo "IMGP9598raw1.jpg","Wyjazd z Polan" %}
 
 Jechaliśmy teraz przez las podjazdem - około 150m w górę.
 Podjazd sam był mało interesujący.
@@ -81,7 +81,7 @@ znaczenie, a powinienem znaleźć bardzo pozytywne), która była w bardzo dług
 podróży rowerowej. Jeżeli się nie mylę to jechali
 z [Białegostoku][wiki-bialystok] do [Bielka-Białej][wiki-bielsko-biala] .
 
-{% post_image "medium","IMGP9602raw1.jpg","Okolice doliny rzeki Mszanki" %}
+{% photo "IMGP9602raw1.jpg","Okolice doliny rzeki Mszanki" %}
 
 Kilkaset metrów dalej opuściliśmy las i ukazała się nam
 piękna panorama doliny rzeki [Mszanka][wiki-mszanka-rzeka] i
@@ -95,7 +95,7 @@ mi się rozpędzić rowerem górskim z sakwami do 66km/h, co jest moim życiowym
 Gdy już wjechaliśmy do [Mszany][wiki-mszana] droga nie była już tak stroma.
 Jak to często tu jest, wiła się ona wokół domów mieszkalnych.
 
-{% post_image "medium","IMGP9615raw1.jpg","Dojeżdzając do Tylawy" %}
+{% photo "IMGP9615raw1.jpg","Dojeżdzając do Tylawy" %}
 
 Bliskość do drogi 19 przebiegającej przez [Tylawę][wiki-tylawa] miała
 wpływ na niską dzikość tych terenów. Z drugiej strony dzięki temu
@@ -103,7 +103,7 @@ powstała restauracja, przy której zatrzymaliśmy się na solidny obiad i
 którą zdecydowanie polecam, zwłaszcza wątróbkę za 7.5zł (dodatki
 płatne są osobno). Jest to jedyne takie miejsce w okolicy.
 
-{% post_image "medium","IMGP9624raw1.jpg","Łemkowska chata w Zyndranowej" %}
+{% photo "IMGP9624raw1.jpg","Łemkowska chata w Zyndranowej" %}
 
 Naszym celem było odległe o 3.5km
 [muzeum][muzeum-zyndranowa] w [Zyndranowej][wiki-zyndranowa]. Jak się nie mylę
@@ -112,7 +112,7 @@ została wysiedlona do [Szczecina][wiki-szczecin].
 
 Muzeum to ma dwugodzinną przerwę między 12-tą a 14-tą.
 
-{% post_image "medium","IMGP9628raw1.jpg","Łemkowskie krzyże" %}
+{% photo "IMGP9628raw1.jpg","Łemkowskie krzyże" %}
 
 Oprowadzenie trwało niecałą godzinę. Zobaczyliśmy jak wyglądały łemkowskie
 domy w środku, jak wyglądały budynki gospodarcze oraz to, co pozostawiła
@@ -124,13 +124,13 @@ Droga asfaltowa się skończyła i stopniowo trasa zamieniałaby się
 bardziej w szlak pieszy. Nie zapominajmy również o podjeździe.
 Tego nie mieliśmy w planie.
 
-{% post_image "medium","IMGP9636raw1.jpg","Południowy (prawie) kraniec Zyndranowej" %}
+{% photo "IMGP9636raw1.jpg","Południowy (prawie) kraniec Zyndranowej" %}
 
 Wróciliśmy do [Tylawy][wiki-tylawa] gdzie po niecałych dwóch kilometrach
 jazdy po drodzę 19-ce skręciliśmy na wschód. Teraz już
 bezpośrednio jechaliśmy do [Jaślisk][wiki-jasliska].
 
-{% post_image "medium","IMGP9637raw1.jpg","Wracając z Zyndranowej" %}
+{% photo "IMGP9637raw1.jpg","Wracając z Zyndranowej" %}
 
 Tuż po skręcie za [Tylawą][wiki-tylawa] przejechaliśmy przez
 rzekę Pannę, która ma źródło w górach obok
@@ -139,6 +139,6 @@ rzekę Pannę, która ma źródło w górach obok
 Dalsza trasa nie była tak ciekawa dla mnie. Jechaliśmy głównie przez las
 i nie zwróciłem uwagi na nic istotnego.
 
-{% post_image "medium","IMGP9646raw1.jpg","Bar w Jaśliskach" %}
+{% photo "IMGP9646raw1.jpg","Bar w Jaśliskach" %}
 
 Na sam koniec został podjazd do centrum [wsi][wiki-jasliska].

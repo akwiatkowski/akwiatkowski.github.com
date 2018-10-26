@@ -40,7 +40,7 @@ To był najkrótszy dzień, bo tylko 4h trasy. Pogoda się "pogorszyła", zrobi�
 że pogorszyła. Nie było gorąco, to jakaś zaleta, a przez dwa poprzednie dni ciepło
 było problemem.
 
-{% post_image "medium","IMGP1491raw1.jpg","Poranek w okolicy Kordowca" %}
+{% photo "IMGP1491raw1.jpg","Poranek w okolicy Kordowca" %}
 
 Mało było ciekawych rzeczy w tym dniu do opisania.
 
@@ -48,7 +48,7 @@ Pierwszą taką rzeczą to miejsce widokowe kilometr od [Kordowca][wiki-kordowi
 w stronę [Niemcowej][wiki-niemcowa]. Są tam dwa drewniane budynki,
 ławki i miejsce na grilla. Tylko trochę daleko do sklepu po kiełbaski.
 
-{% post_image "medium","IMGP1566raw1.jpg","Mokre drzewko iglaste" %}
+{% photo "IMGP1566raw1.jpg","Mokre drzewko iglaste" %}
 
 Kolejnym miejscem była polana [Niemcowa][wiki-niemcowa]. Dokładnie takie samo [zdjęcie][wiki-niemcowa-f] jak na wikipedii zrobiłem.
 
@@ -56,13 +56,13 @@ Miłym uczuciem było jak przechodziliśmy przez [Wielki Rogacz][wiki-wielki-rog
 i zobaczyłem znak do [Obidzy][wiki-obidza], gdyż byłem już w tym miejscu. Było
 to tylko półtora kilometra obok.
 
-{% post_image "medium","IMGP1577raw1.jpg","Mglisty czerwony szlak" %}
+{% photo "IMGP1577raw1.jpg","Mglisty czerwony szlak" %}
 
 Powoli byliśmy coraz wyżej, wchodziliśmy w chmury. Las, las i mglisty las. Trudno powiedzieć czy było coś ciekawego. Chyba ostatnim
 miejscem to przełęcz przed [Radziejową][wiki-radziejowa]. Bardzo dużo drzew poległo w tym miejscu, jednak przez chmury i mgłe
 trudno było cieszyć się widokiem.
 
-{% post_image "medium","IMGP1648raw1.jpg","Przed podejściem obok Wielkiej Przehybą" %}
+{% photo "IMGP1648raw1.jpg","Przed podejściem obok Wielkiej Przehybą" %}
 
 
 Na wieżę widokową na [Radziejowej][wiki-radziejowa] nie wchodziliśmy.

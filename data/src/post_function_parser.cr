@@ -50,17 +50,6 @@ class Tremolite::Views::BaseView
       )
     end
 
-    # XXX deprecated
-    result = command.scan(/post_image_no_gallery\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
-    if result.size > 0 && post
-      return post_photo(
-        post: post,
-        image_filename: result[0][2],
-        desc: result[0][3],
-        param_string: "#{PhotoEntity::FLAG_NOGALLERY}"
-      )
-    end
-
     result = command.scan(/strava_iframe\s+\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0
       return strava_iframe(

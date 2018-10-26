@@ -36,7 +36,7 @@ Nie udało mi się załatwić kuszetki. Spóźniłem się z wolnymi miejscami na
 o 23-ciej, a w pociągu o 2-giej nie było wagonu pierwszej klasy. Kupiłem w drugiej, jednak
 to miejsce było w wagonie bezprzedziałowym z cały czas włączonym światłem.
 
-{% post_image "medium","IMGP2270raw1.jpg","Drewniana architektura Zakopanego" %}
+{% photo "IMGP2270raw1.jpg","Drewniana architektura Zakopanego" %}
 
 Trudno odpowiedzieć w prosty sposób na pytanie "czy się wyspałem?". Raczej
 egzystowałem w trybie zombie.
@@ -44,7 +44,7 @@ egzystowałem w trybie zombie.
 W [Krakowie][wiki-krakow] była przesiadka na autobus, który o dziwo znaleźliśmy
 bardzo łatwo.
 
-{% post_image "medium","IMGP2324raw1.jpg","Okolice Kolatówki" %}
+{% photo "IMGP2324raw1.jpg","Okolice Kolatówki" %}
 
 Teoretyczne 2 godziny i 10 minut przez korki na zakopiance, które są chyba już
 tradycją, zamieniło się na 3 godziny.
@@ -52,7 +52,7 @@ tradycją, zamieniło się na 3 godziny.
 Po wyjściu ruszyliśmy w stronę ["schroniska"][kolatowki] robiąc przerwę na jedzenie w
 Obrochtówce. Co ciekawe miejsce to nie ma ani strony, ani fanpage'a.
 
-{% post_image "medium","IMGP2362raw1.jpg","Okolice Kolatówki" %}
+{% photo "IMGP2362raw1.jpg","Okolice Kolatówki" %}
 
 Pomimo krótkiej odległości wyraźnie czułem napakowany plecak. Zastanawiałem się,
 co mnie czeka w kolejnych dniach.
