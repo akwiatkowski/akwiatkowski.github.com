@@ -9,6 +9,7 @@ date:                   2018-12-31 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6100451raw1.jpg
+nogallery:              true
 tags:                   [article, todo]
 
 ---

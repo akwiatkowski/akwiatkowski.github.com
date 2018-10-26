@@ -39,17 +39,6 @@ class Tremolite::Views::BaseView
       )
     end
 
-    # XXX deprecated, basic with size
-    result = command.scan(/post_image\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
-    if result.size > 0 && post
-      return post_photo(
-        post: post,
-        image_filename: result[0][2],
-        desc: result[0][3],
-        param_string: "#{PhotoEntity::FLAG_NOGALLERY}"
-      )
-    end
-
     result = command.scan(/strava_iframe\s+\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0
       return strava_iframe(
@@ -98,11 +87,19 @@ class Tremolite::Views::BaseView
       size: size,
       image_filename: photo.image_filename,
       desc: photo.desc,
-      is_gallery: photo.is_gallery
+      is_gallery: photo.is_gallery,
+      is_timeline: photo.is_timeline
     )
   end
 
-  def post_image(post : Tremolite::Post, size : String, image_filename : String, desc : String, is_gallery : Bool)
+  def post_image(
+    post : Tremolite::Post,
+    size : String,
+    image_filename : String,
+    desc : String,
+    is_gallery : Bool,
+    is_timeline : Bool
+  )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
       post_year: post.year,
@@ -118,7 +115,8 @@ class Tremolite::Views::BaseView
       "img.title"         => desc,
       "img.size"          => (image_size(url) / 1024).to_s + " kB",
       "img_full.src"      => "/images/#{post.year}/#{post.slug}/#{image_filename}",
-      "img.is_in_gallery" => is_gallery.to_s,
+      "img.is_gallery"    => is_gallery.to_s,
+      "img.is_timeline"   => is_timeline.to_s
     }
     return load_html("post/post_image_partial", data)
   end

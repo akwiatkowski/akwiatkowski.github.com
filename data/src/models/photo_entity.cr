@@ -2,9 +2,14 @@ struct PhotoEntity
   @desc : String
   @post : Tremolite::Post
   @image_filename : String
-  @is_gallery : Bool
   @param_string : String
+  @day_of_year : Int32
+  @float_of_year : Float64
+  @time : Time
+
+  @is_gallery : Bool
   @is_header : Bool
+  @is_timeline : Bool
 
   @big_thumb_image_src : String
   @thumb_image_src : String
@@ -12,13 +17,16 @@ struct PhotoEntity
   @small_image_src : String
 
   FLAG_NOGALLERY = "nogallery"
+  FLAG_NO_TIMELINE = "notimeline"
+  FLAG_TIMELINE = "timeline"
 
   THUMB_PREFIX     = "thumb"
   BIG_THUMB_PREFIX = "big_thumb"
   SMALL_PREFIX     = "small"
 
-  getter :desc, :post, :image_filename, :is_gallery, :is_header
+  getter :desc, :post, :image_filename, :is_gallery, :is_header, :is_timeline
   getter :thumb_image_src, :big_thumb_image_src, :full_image_src, :small_image_src
+  getter :time, :day_of_year, :float_of_year
 
   def initialize(
     @post : Tremolite::Post,
@@ -26,10 +34,17 @@ struct PhotoEntity
     @image_filename,
     @param_string,
     @is_gallery = true,
-    @is_header = false
+    @is_header = false,
+    @is_timeline = false
   )
     if param_string.includes?(FLAG_NOGALLERY)
       @is_gallery = false
+    end
+
+    if param_string.includes?(FLAG_NO_TIMELINE)
+      @is_timeline = false
+    elsif param_string.includes?(FLAG_TIMELINE)
+      @is_timeline = true
     end
 
     # just optimization
@@ -37,6 +52,10 @@ struct PhotoEntity
     @thumb_image_src = processed_img_path(THUMB_PREFIX)
     @small_image_src = processed_img_path(SMALL_PREFIX)
     @full_image_src = generate_full_image_src
+
+    @time = @post.time
+    @day_of_year = @time.day_of_year
+    @float_of_year = @day_of_year.to_f / 365.0
   end
 
   def hash_for_partial

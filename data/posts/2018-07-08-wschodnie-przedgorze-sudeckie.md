@@ -125,7 +125,7 @@ Gdy dojeżdzaliśmy do [Krzelkowa][wiki-krzelkow] miałem wrażenie, jakby już
 się był to był już koniec tej ciekawej, wijącej się, sudeckiej drogi.
 Wcale tak nie było.
 
-{% photo "P7080830.jpg","Po opuszczeniu Krzelkowa" %}
+{% photo "P7080830.jpg","Po opuszczeniu Krzelkowa","timeline" %}
 
 Wjechaliśmy do [Lipy][wiki-lipa]. Miałem wrażenie jakbyśmy już
 zjechali w płaską dolinę ale to były tylko pozory. Gdy byliśmy w centrum

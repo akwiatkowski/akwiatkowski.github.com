@@ -690,3 +690,12 @@ body {
 .timeline-month-element .timeline-vehicle-propelled {
   background-color: #eee;
 }
+
+.season-time {
+  font-size: 60%;
+  position: absolute;
+  /*border: 1px dotted;*/
+  display: block;
+
+  left: -40px;
+}
