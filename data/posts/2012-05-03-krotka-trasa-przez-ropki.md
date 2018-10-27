@@ -41,7 +41,7 @@ Szczegóły
 
 W planach była chęć wejścia na [Lackową][wiki-lackowa], jednak niepewność pogody spowodowała że opuściliśmy sobie ten pomysł.
 
-{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej" %}
+{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej","timeline" %}
 
 Wyruszyliśmy do [Hańczowej][wiki-hanczowa] i następnie na zachód [Głównym Szlakiem Beskidzkim][wiki-gsb]
 aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak.

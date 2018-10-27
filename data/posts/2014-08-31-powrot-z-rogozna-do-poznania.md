@@ -42,7 +42,7 @@ Próbowaliśmy przejechać wokół [jeziora][wiki-jezioro-rogozno], jednak w pra
 nie było tam żadnej sensownej ścieżki dla nas. Zignorowaliśmy i jechaliśmy dalej,
 w stronę [Obornik][wiki-oborniki].
 
-{% photo "IMGP8972raw1.jpg","Przed Boguniewem" %}
+{% photo "IMGP8972raw1.jpg","Przed Boguniewem","timeline" %}
 
 Gdzieś mam zdjecia, na którym widać jakieś interesujące wioski, ale w tym
 momencie nie mam tych zdjęc udostępnionych. Miejsca były ciekawe, ale zdjęcia
@@ -55,7 +55,7 @@ chmury, które odezwały się w momencie wyjazdu z tej miejscowości.
 zaczęło padać. Padać nie byle jak! Zaczęło tak lać, że rzadko kiedy pada mocniej.
 A jak pada mocniej to tylko na chwilę.
 
-{% photo "IMGP8976raw1.jpg","Obok Słomowa" %}
+{% photo "IMGP8976raw1.jpg","Obok Słomowa","timeline" %}
 
 Więc padało tak mocno jak jest to możliwe, a my musimy jechać.
 Nie było żadnego sensownego pociągu, już byliśmy mokrzy, a mieliśmy nadzieje, że

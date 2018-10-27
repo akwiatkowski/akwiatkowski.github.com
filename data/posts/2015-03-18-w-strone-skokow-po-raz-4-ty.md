@@ -5,6 +5,7 @@ subtitle:               "bardzo wczesna wiosna, drzewa jeszcze bez liści"
 date:                   2015-03-18 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb81337b0bdb0ab84db53bdf5c66e1c"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]

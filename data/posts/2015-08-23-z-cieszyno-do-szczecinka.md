@@ -5,6 +5,7 @@ subtitle:               "przejazd przez Drawski Park Krajobrazowy"
 date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
@@ -66,7 +67,7 @@ Wstałem około 7:30 i w pół godziny się spakowałem, zrobiłem kanapki i o 8
 [Jechałem][vimeo1] w kierunku [Nowe Worowo][wiki-nowe-worowo] po drodzę obserwując jak teren jest już trochę pofalowany.
 Ranek był spokojny, lekko chłodny w pozytywnym sensie.
 
-{% photo "IMGP2997raw1.jpg","Prawie każda droga jest szlakiem rowerowym" %}
+{% photo "IMGP2997raw1.jpg","Prawie każda droga jest szlakiem rowerowym","timeline" %}
 
 Od tego momentu zaczęły się "prawdziwe wyżyny". Co chwilę lekki podjazd i zjazd. Tym razem więcej pól i lepsza widoczność.
 Ciekawe były zakręty podczas zjazdu z [Bolegorzyna][wiki-bolegorzyn] w kierunku [Kluczewa][wiki-kluczewo].
@@ -77,7 +78,7 @@ Z [Kluczewa][wiki-kluczewo] zjechałem do drogi [163][wiki-163] w stronę [Stare
 trasy jadąc drogą polną w okolicy [Prosinka][wiki-prosinko], bo nie lubię jeździć po głównych drogach.
 [Filmik][vimeo3] przedstawia przejazd tym fragmentem.
 
-{% photo "IMGP3006raw1.jpg","Za Nowym Worowem" %}
+{% photo "IMGP3006raw1.jpg","Za Nowym Worowem","timeline" %}
 
 Wyruszyłem ze [Starego Drawska][wiki-stare-drawsko] i znowu musiałem jechać główną drogą.
 Aż do wyjazdu z [Czaplinka][wiki-czaplinek]
@@ -102,7 +103,7 @@ Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [p
 
 Lubię takie dziwne połączenia kolejowe i na pewno kiedyś się tą linią przejadę.
 
-{% photo "IMGP3073raw1.jpg","Zielone okolice wokół stacji kolejowej Czarne Małe" %}
+{% photo "IMGP3073raw1.jpg","Zielone okolice wokół stacji kolejowej Czarne Małe","timeline" %}
 
 Dalej [jechałem][vimeo5] na wschód, w stronę [Łubowa][wiki-lubowo]. Wioska, która ma szczęście posiadać połączenie kolejowe.
 Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Bornego Sulinowo][wiki-borne-sulinowo].
@@ -116,7 +117,7 @@ tam droga. Ja bym tego drogą nie nazwał. Jechałem przez las, w pewnym miejscu
 prosto, tylko że nie było drogi. Pojechałem dalej. Z jednej strony szlak, z drugiej jakaś dziwna
 żółta kropka na drzewie. Wybrałem tą żółtą kropkę bo tak mój zmysł nawigacji podpowiadał i to była dobra decyzja.
 
-{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino" %}
+{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino","timeline" %}
 
 
 Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20-tki, na szczęście wzdłuż niej

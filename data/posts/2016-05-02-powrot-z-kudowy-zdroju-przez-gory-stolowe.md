@@ -121,7 +121,7 @@ skrzyżowanie z którego jest bardzo ładny widok na okolicę. Widać było z ni
 [Szczeliniec Wielki][wiki-szczeliniec-wielki]. To ciekawe uczucie gdy jest on
 "tak daleko", a było się tam niedawno, jakby przed chwilą.
 
-{% photo "IMGP9975raw1.jpg","Niedaleko Niwy" %}
+{% photo "IMGP9975raw1.jpg","Niedaleko Niwy","timeline" %}
 
 Powrót skróciliśmy drogą asfaltową a później gruntową przez pole. Wjechaliśmy
 w sam środek [Roszyc][wiki-roszyce].

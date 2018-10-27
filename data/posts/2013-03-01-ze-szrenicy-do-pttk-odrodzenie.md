@@ -40,7 +40,7 @@ Dwa wcześniejsze dni poświęciliśmy na narty, a teraz wjechaliśmy wyciągiem
 rozpoczęliśmy trasę na wschód. Pogoda była okropna, widoczność minimalna. Jeżeli nie byłoby tyczek i nie
 miałbym GPS to by był problem z dojściem do [schroniska na Szrenicy][wiki-szrenica-schr].
 
-{% photo "IMGP9058b.jpg","Chwilowa dobra widoczność ze szczytowego pasma Karkonoszy" %}
+{% photo "IMGP9058b.jpg","Chwilowa dobra widoczność ze szczytowego pasma Karkonoszy","timeline" %}
 
 Mam wrażenie że najgorsza pogoda była przez połowę trasy, a później była tylko zła. Oprócz słabej widoczności
 wiatr również nie był zbyt lekki. Przez to sam nie wiem co pisać i jedyne interesujące zdjęcie, które jest tytułowym,

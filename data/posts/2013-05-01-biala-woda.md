@@ -5,6 +5,7 @@ subtitle:               "pętla przez Obidzę między Małymi Pieninani a Beskid
 desc:                   "Jest to pierwszy dzień majówki w Pieninach. Postanowiliśmy przejść się w kierunku Beskidu Sądeckiego aby się rozprostować i zobaczyć co jest ciekawego. Najpiękniejsze widoki pojawiły się podczas schodzenia gdy słońce zaczęło powoli zachodzić."
 keywords:               [wiosna, pieniny, jarowki, biała woda, obidza]
 date:                   2013-05-01 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP0985b.jpg
@@ -60,7 +61,7 @@ Dalej było znowu podejście na północ niebieskim szlakiem, ale tym razem znac
 szliśmy lekkim lasem. Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
 [Obidzy][wiki-obidza] lub [Przełęczy Gromadzkiej][wiki-gromadza].
 
-{% photo "IMGP1008b.jpg","Owce w oddali" %}
+{% photo "IMGP1008b.jpg","Owce w oddali","timeline" %}
 
 Pomimo tego, że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,
 to zachowawczość wzięła górę i nie zaliczyliśmy jej.

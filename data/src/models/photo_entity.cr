@@ -60,7 +60,11 @@ struct PhotoEntity
 
   def hash_for_partial
     data = Hash(String, String).new
-    data["klass"] = @is_header ? "gallery-header-image" : "gallery-regular-image"
+
+    klass = @is_header ? "gallery-header-image" : "gallery-regular-image"
+    klass += @is_timeline ? " gallery-is-timeline" : " gallery-is-not-timeline"
+
+    data["klass"] = klass
     data["post.url"] = @post.url
     data["img.src"] = @big_thumb_image_src
     data["img.alt"] = @desc

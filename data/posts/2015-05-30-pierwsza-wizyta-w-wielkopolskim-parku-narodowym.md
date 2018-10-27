@@ -5,6 +5,7 @@ subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/137171697/m%3D2048/0950532b87dde74f1df75e724a9d2340"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, mosina, poznan]

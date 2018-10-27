@@ -4,7 +4,7 @@ title:                  "Spływ na Wełnie"
 subtitle:               "mała rzeka śmierci"
 date:                   2012-07-07 17:00:00
 author:                 "Aleksander Kwiatkowski"
-nogallery:              true
+header_nogallery:       true
 categories:             trip
 tags:                   [canoe]
 towns:                  [wielkopolskie, oborniki, rogozno]

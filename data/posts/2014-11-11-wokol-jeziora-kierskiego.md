@@ -5,6 +5,7 @@ subtitle:               "byłoby więcej, gdyby było ciepło"
 date:                   2014-11-11 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/102131315/m%3D2048/a96e08a573ff076ca33c94024b97ac4b"
+header_timeline:        true
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, rokietnica, tarnowo_podgorne]

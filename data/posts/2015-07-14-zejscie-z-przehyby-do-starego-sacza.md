@@ -5,6 +5,7 @@ subtitle:               "mała ścieżka, gęsty las i najlepsze widoki są w do
 date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/115266201/m%3D2048/4353b56cc0fe5416ed412cf530fcfcfa"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
@@ -42,7 +43,7 @@ Szlak ten można podzielić na dwie częśći: las i wioski. W lesie to cały cz
 poprowadzoną zboczami. "Fajnie" musi się tam chodzić w zimie. Przez wioski to, według mnie, najciekawsza
 część trasy. Znacznie ciekawsze widoki.
 
-{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę" %}
+{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","timeline" %}
 
 Gdy wyszliśmy z lasu trasa się mocno wypłaszczyła. Jak mam szukać dziur w całym, to powiedziałbym,
 że za bardzo. Zdziwiłem się widząc pierwszy dom tak blisko "lasu", na takim odludziu.

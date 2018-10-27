@@ -87,7 +87,7 @@ Szlak był normalna drogą gruntową przez las, ale centrum
 [Mościenicy][wiki-moscienica] było znacznie ciekawsze gdyż jest to miejscowość rekreacyjna.
 Jest ona położona na uboczu, z jednej strony las, z drugiej jezioro.
 
-{% photo "IMGP9399raw1.jpg","Wiosenne drzewa niedaleko Błażejewka" %}
+{% photo "IMGP9399raw1.jpg","Wiosenne drzewa niedaleko Błażejewka","timeline" %}
 
 Wyjeżdzając na drogę asfaltową po prawej minąłem ładnie kwitnąsy sad.
 
@@ -120,7 +120,7 @@ która chyba w tym momencie jest nieczynna z powodu awarii lokomotywy.
 Przejechałem przez miasto, w którym ruch był minimalny. Kierowałem się do
 osady [Majdany][wiki-majdany] i dalej na południe w kierunku [Warty][wiki-warta].
 
-{% photo "IMGP9413raw1.jpg","Dąb Dziadziuś" %}
+{% photo "IMGP9413raw1.jpg","Dąb Dziadziuś","timeline" %}
 
 Przejechałem przez [Kępę Wielką][wiki-kepa-wielka], [Potachy][wiki-potachy] i
 [Młodzikowice][wiki-mlodzikowice]. Wszystkie te miejscowości to są naprawdę dzikie

@@ -5,6 +5,7 @@ subtitle:               "zejście do Inwałdu prawie o wschodzie słońca"
 date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/97144903/m%3D2048/912df5c155c296b53a1edf92c86a41de"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [slaskie, andrychow, lekawica]

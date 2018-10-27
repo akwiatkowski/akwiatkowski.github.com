@@ -5,6 +5,7 @@ subtitle:               "koniec trasy w Czempinie"
 date:                   2015-05-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/137154151/m%3D2048/5d17bcb45467e65bba131a334e9c47bf"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, poznan, mosina, brodnica, czempin]

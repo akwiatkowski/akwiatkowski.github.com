@@ -5,6 +5,7 @@ subtitle:               "trochę małego miasta, łąk i dużo lasu gdzie nic ni
 date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/146665187/q%3D80_m%3D2000/89026865477689dffa587d9459ac2d82"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]

@@ -5,6 +5,7 @@ subtitle:               "okolice Jeziora Klimkówka oraz wejście na Rotundę"
 desc:                   "Oprócz dłuższych pieszych tras przeszliśmy jeszcze dwie mniejsze: spacer w okolicy Klimkówki (upał) oraz wejście na Rotundę."
 keywords:               [wiosna, majówka, zielono, klimkówka, rotunda, hańczowa]
 date:                   2012-05-01 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP7056b.jpg
 categories:             trip

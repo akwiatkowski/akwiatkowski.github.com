@@ -6,6 +6,7 @@ date:                   2016-05-22 15:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, jarocin, zerkow, pyzdry, zagorow, ladek, slupca]
@@ -81,8 +82,7 @@ Nie wiedziałem w tym momencie, że czeka na mnie najciekawszy fragment dzisiejs
 trasy. Wyjeżdzając z wioski rozpoczął się solidny zjazd (jak na te tereny) - około
 38 metrów w dół przez pół kilometra.
 
-{% photo "IMGP0453raw1.jpg","Wiosna w pełni" %}
-
+<!-- TODO naprawic powtorzone zdjecie {% photo "IMGP0453raw1.jpg","Wiosna w pełni" %} -->
 
 Wokół mijaliśmy pola kwitnącego rzepaku oraz przydrożne drzewa.
 
@@ -90,7 +90,7 @@ W [Przybysławie][wiki-przybyslaw] widzieliśmy dużo budynków gospodarczych.
 Wyglądały one raczej na PGR niż budynki przemysłowe, ale pewne jest, że
 najlepszy czas mają za sobą.
 
-{% photo "IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej" %}
+{% photo "IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej","timeline" %}
 
 Przejechaliśmy mostem w stronę [Rudy Komorskiej][wiki-ruda-komorska] - kolejna
 wioska w podobnym klimacie.

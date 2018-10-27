@@ -5,6 +5,7 @@ subtitle:               "przez Maltę i Swarzędz"
 date:                   2014-04-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63340163/m%3D2048/3cb81337b0bdb0ab84db53bdf5c66e1c"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, swarzedz, czerwonak]

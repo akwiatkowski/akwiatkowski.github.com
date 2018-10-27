@@ -65,7 +65,7 @@ spotkaliśmy nikogo. Bardzo bym się ździwił, jakby było inaczej.
 Idąc dalej zauważyliśmy tablice ostrzegawcze pobliskiej kopalni. Istnienie i rozwój tej kopalni zagrażało
 schronisku [Andrzejówka][wiki-andrzejowka], do której się kierowaliśmy.
 
-{% photo "IMGP6482b.jpg","Gęsty oszroniony las na zboczach Gór Kamiennych" %}
+{% photo "IMGP6482b.jpg","Gęsty oszroniony las na zboczach Gór Kamiennych","timeline" %}
 
 Na powyższym zdjęciu widać jak szlak czasami był widoczny. Oznakowania również były
 czasem ciężko widoczne przez oszronione drzewa.

@@ -6,6 +6,7 @@ date:                   2016-05-27 20:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, mountains, todo_media_later]
 towns:                  [podkarpackie, malopolskie, krempna, sekowa, uscie_gorlickie, ropa, gorlice]

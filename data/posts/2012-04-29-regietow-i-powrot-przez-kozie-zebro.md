@@ -5,6 +5,7 @@ subtitle:               "pierwszy raz w Beskidzie Niskim"
 desc:                   "Pierwsza wycieczka w Beskidzie Niskim dała mi do zrozumienia, że to pasmo należy traktować zupełnie inaczej niż inne. Na pierwszy dzień wybraliśmy pętlę przez Regietów i Kozie Żebro."
 keywords:               [wiosna, majówka, kozie żebro, regietów, zielono]
 date:                   2012-04-29 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]
@@ -57,7 +58,7 @@ Po pewnym czasie minęliśmy już [wioskę][wiki-wysowa] i zaczęliśmy podchodz
 las, jak to bywa często w górach. A w [Beskidzie Niskim][wiki-beskid-niski] tym bardziej.
 Tam to widoków "w górze" jest mało. Co zrozumiałem na tej wycieczce.
 
-{% photo "IMGP5858b.jpg","Dzwon w Regietowie Wyżnym" %}
+{% photo "IMGP5858b.jpg","Dzwon w Regietowie Wyżnym","timeline" %}
 
 Przeszliśmy przez [Obycz][wiki-obycz] i kierowaliśmy się w stronę [Regietowa][wiki-regietow]. Po drodzę widzieliśmy
 jakąś zablokowaną terenówkę.

@@ -5,6 +5,7 @@ subtitle:               "przez gęste lasy w stronę Klimkówki"
 desc:                   "Najdłuższą trasę przeszliśmy drugiego dnia idąc zalesionymi górami. Oprócz rozpoczęcia i końca trasy jedynie w okolicy wsi Czarne zeszliśmy z grani w dół."
 keywords:               [wiosna, majówka, zielono, klimkówka, rotunda, hańczowa]
 date:                   2012-04-30 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]
@@ -57,7 +58,7 @@ Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów
 Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejscami był prześwit i widziałem jezioro
 [Klimkówkę][wiki-klimkowka], jednak nie na tyle aby móc zrobić ciekawe zdjęcia.
 
-{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy" %}
+{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy","timeline" %}
 
 Pierwszym ciekawym miejscem była polana niedaleko góry [Flasza][wiki-flasza]. Chwilę po tym zaczęliśmy schodzić do wsi
 [Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro o tej samej nazwie.

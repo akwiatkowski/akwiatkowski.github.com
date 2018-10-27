@@ -5,6 +5,7 @@ subtitle:               "przez dwa pasma górskie"
 date:                   2015-06-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, mountains, best, todo_media_later]
 towns:                  [dolnoslaskie, szklarska_poreba, piechowice, podgorzyn, myslakowice, janowice_wielkie]

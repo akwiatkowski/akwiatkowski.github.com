@@ -31,7 +31,7 @@ Pierwsza zimowa styczność z górami - [Karkonoszami][wiki-karkonosze].
 Szczegóły
 ---------
 
-{% photo "IMGP2524b1.jpg","Dojeżdzając niedaleko Kowar" %}
+{% photo "IMGP2524b1.jpg","Dojeżdzając niedaleko Kowar","timeline" %}
 
 Wyruszyliśmy dość wcześnie z centrum [Karpacza][wiki-karpacz] w kierunku wyciągu na [Kopę][wiki-kopa]. Dzień wcześniej
 był bardzo silny wiatr, na górze wiało około 25m/s, przez co wyciąg wczoraj
@@ -50,7 +50,7 @@ Na górze wszystko było ośnieżone po wczorajszej zamieci. Był to dla mnie ca
 
 Ruszyliśmy w kierunku [Śnieżki][wiki-sniezka]. Byliśmy jednymi z pierwszych osób na szlaku.
 
-{% photo "IMGP3026b1.jpg","Kotlina Jeleniogórska" %}
+{% photo "IMGP3026b1.jpg","Kotlina Jeleniogórska","timeline" %}
 
 Próbowaliśmy wejść
 na [Śnieżkę][wiki-sniezka], jednak szlak był mocno oblodzony. Gdzieniegdzie pokryty śniegiem.
@@ -61,7 +61,7 @@ powodu ludzie używają innych butów w tych warunkach. Postanowiliści się wyc
 
 W tym momencie pokręciliśmy się po tutejszej okolicy, gdyż niebo zrobiło się bardziej przejrzyśte a tereny ładniejsze.
 
-{% photo "IMGP3090.JPG","Kopa" %}
+{% photo "IMGP3090.JPG","Kopa","timeline" %}
 
 Zadziwiało mnie to, że większość ludzi wchodziła na [Śnieżkę][wiki-sniezka] tego dnia.
 Ja uznałem, że wejście nie było bezpieczne, a oni jednak

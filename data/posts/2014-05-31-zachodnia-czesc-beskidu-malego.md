@@ -5,6 +5,7 @@ subtitle:               "trochę szaro i mokro, ale chyba bardziej zielono"
 date:                   2014-05-31 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133430575/m%3D2048/c1b9301da35ab06a28e4468c6bbe2295"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [slaskie, bielsko-biala, wilkowice, czernichow]

@@ -6,6 +6,7 @@ date:                   2016-06-11 20:00:00
 finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, wolsztyn, rakoniewice, siedlec]
@@ -54,7 +55,7 @@ Jechaliśmy przez las kilka kilometrów aż do [Nowego Młyna][wiki-nowy-mlyn].
 Od tego momentu jechaliśmy drogą asfaltową mijając z prawej strony
 [Rezerwat Bagno Chorzemińskie][wiki-bagno-chorzeminskie].
 
-{% photo "IMGP1407raw1.jpg","Jezioro w Wolsztynie" %}
+{% photo "IMGP1407raw1.jpg","Jezioro w Wolsztynie","timeline" %}
 
 Minęliśmy również
 dwa jeziora, tylko niestety i tego nie widzieliśmy na własne oczy.

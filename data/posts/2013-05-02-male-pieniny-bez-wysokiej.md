@@ -46,7 +46,7 @@ Ruszyliśmy w kierunku [Wąwózu Homole][wiki-homole]. Niby znane miejsce, a tru
 Po tym jak przeszliśmy [Wąwóz Homole][wiki-homole] to zaczęły się pienińskie polany.
 I to one były dla mnie bardziej interesujące.
 
-{% photo "IMGP1168b.jpg","Duża część Małych Pienin nie jest zalesiona" %}
+{% photo "IMGP1168b.jpg","Duża część Małych Pienin nie jest zalesiona","timeline" %}
 
 W planie było wejście na [Wysoką][wiki-wysoka], jednak trochę popadało i słychać było burzę. Jakoś mi się
 odechciało. Znowu przejaw ostrożności, albo zachowawczości, jednak ja uważam, że to jest zaleta.

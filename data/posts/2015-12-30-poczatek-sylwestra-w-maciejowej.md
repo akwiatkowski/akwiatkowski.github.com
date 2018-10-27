@@ -5,6 +5,7 @@ subtitle:               "dojazd do Rabki koleją przez Beskid Makowski i podejś
 date:                   2015-12-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/134966611/m%3D2048/c9bf3a2f10eb9b591a0b5ed15e53494b"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
@@ -41,7 +42,7 @@ Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem sz
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 
-{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój" %}
+{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój","timeline" %}
 
 Dopiero teraz zauważyłem że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
 Myślałem, że jest jakieś bardziej bezpośrednie połączenie, ale innych torów tam nie ma.

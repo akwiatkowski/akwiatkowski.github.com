@@ -5,6 +5,7 @@ subtitle:               "i prawie bez śniegu"
 date:                   2014-01-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/58673886/m%3D2048/b0dfdf4a1b0772b8a27aa9f74cf5063f"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, gluszyca, walim, pieszyce]

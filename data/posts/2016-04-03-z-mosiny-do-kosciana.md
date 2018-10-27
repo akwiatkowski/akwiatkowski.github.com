@@ -68,7 +68,7 @@ kierowaliśmy się na południe
 przez [Nowinki][wiki-nowinki]. W rzeczywistości ten szlak był oznaczony czarną farbą.
 Przez dłuższy czas szlak był poprowadzony ścieżką w lesie, równolegle do drogi asfaltowej.
 
-{% photo "IMGP9037raw1.jpg","W lesie obok Drużyny (Poznańskiej)" %}
+{% photo "IMGP9037raw1.jpg","W lesie obok Drużyny (Poznańskiej)","timeline" %}
 
 Kilka kilometór musieliśmy jechać po drodzę asfaltowej, na szczęście ruch nie był duży.
 Po lewej stronie mijaliśmy ogrodzenie, prawdopodobnie od jakiegoś dużego gospodarstwa
@@ -108,7 +108,7 @@ Dalej ruszyliśmy do [Gryżyny][wiki-gryzyna], a dalej wokół jeziora [Wonieś�
 Bardzo fajny, długi, ale lekki zjazd, oraz jezioro po lewej stronie - to były jedne z ciekawszych
 terenów tego dnia.
 
-{% photo "IMGP9104raw1.jpg","Okolica jeziora Wonieść" %}
+{% photo "IMGP9104raw1.jpg","Okolica jeziora Wonieść","timeline" %}
 
 Do cywilizacji (dworca kolejowego w [Przysiece Polskiej][wiki-przysieka-polska])
 wracaliśmy przez [Gniewowo][wiki-gniewowo]. Tam widzieliśmy pawia. Pierwszy raz

@@ -6,6 +6,7 @@ date:                   2016-04-24 17:00:00
 finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, krzykosy, miloslaw, nowe_miasto_nad_warta, zerkow, jarocin]
@@ -129,7 +130,7 @@ W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bard
 oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
 soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
 
-{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa" %}
+{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa","timeline" %}
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą

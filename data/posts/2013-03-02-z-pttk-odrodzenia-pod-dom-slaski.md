@@ -54,7 +54,7 @@ po stronie polskiej.
 
 Najbardziej stromo było w okolicy [Samotni][wiki-samotnia], czyli obok [Wielkiego Stawu][wiki-wielki-staw] oraz [Małego Stawu][wiki-maly-staw].
 
-{% photo "IMGP9442b.jpg","Widok na Sosnówkę" %}
+{% photo "IMGP9442b.jpg","Widok na Sosnówkę","timeline" %}
 
 Gdy idzie się granią widok na doliny jest idealny, lecz nie oznacza to, że musi
 być ciekawy.
@@ -63,7 +63,7 @@ być ciekawy.
 
 Gdy po lewej widzieliśmy schronisko [Strzecha Akademicka][wiki-strzecha] na wprost górowała [Śnieżka][wiki-sniezka].
 
-{% photo "IMGP9626b.JPG","Strzecha Akademicka" %}
+{% photo "IMGP9626b.JPG","Strzecha Akademicka","timeline" %}
 
 Dotarliśmy do [Domu Śląskiego][wiki-dom-slaski] na jedzenie.
 Myśleliśmy, aby spróbować wejść na [Śnieżkę][wiki-sniezka]

@@ -68,7 +68,7 @@ Nie pamiętam co dokładnie robiliśmy, ale zmrok przyszedł w miarę szybko. Ob
 robić się zimno. Agregat był wyłączony i woda w obiegu trochę przymarzła. Niby mniej komfortu,
 ale właśnie przez te braki schroniska mają swój klimat.
 
-{% photo "IMGP8760b.jpg","Ośnieżone drzewo" %}
+{% photo "IMGP8760b.jpg","Ośnieżone drzewo","timeline" %}
 
 Dzień kolejny
 -------------

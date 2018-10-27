@@ -5,6 +5,7 @@ subtitle:               "lista rzeczy i co jak bardzo się przydaje"
 date:                   2015-08-25 14:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/121995105/m%3D2048/205dbef26167c9ec60c50021a8929537"
+header-nogallery:       true
 categories:             localhost
 tags:                   [main, localhost, article]
 ---

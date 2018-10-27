@@ -69,7 +69,7 @@ Wyjechaliśmy z [Gniezna][wiki-gniezno] w stronę [Strzyżewa Smykowego][wiki-st
 skręciliśmy na północ. A w [Jastrzębowie][wiki-jastrzebowo] znowu na wschód przez [Wydartowo][wiki-wydartowo] do
 [Wylatowa][wiki-wylatowo].
 
-{% photo "IMGP8506raw_b.jpg","Okolice wsi Wełnica po wyjeździe z Gniezna" %}
+{% photo "IMGP8506raw_b.jpg","Okolice wsi Wełnica po wyjeździe z Gniezna","timeline" %}
 
 Nie pamiętam dokładnie miejsca, ale gdzieś w okolicy jest punkt widokowy [Duszno][wiki-duszno]. Był w okolicy
 bardzo fajny zjazd za

@@ -5,6 +5,7 @@ subtitle:               "i piaski"
 date:                   2014-05-23 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]

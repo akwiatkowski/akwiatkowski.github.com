@@ -71,7 +71,7 @@ Wyszliśmy na trasy narciarstwa biegowego i grzecznie poboczem kierowaliśmy si�
 [Jakuszyc][wiki-jakuszyce]. Tam zjedliśmy i poczekaliśmy na kolej do [Szklarskiej Poręby][wiki-szklarska].
 Skróciliśmy sobie drogę z 13km do około 6km. Cóż, zima.
 
-{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las" %}
+{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las","timeline" %}
 
 Z centrum [Szklarskiej Poręby][wiki-szklarska] dotarliśmy do schroniska [Kamieńczyk][wiki-kamienczyk]
 idąc głównie przez miasto. Jedynie ostatnie kilkaset metrów jest trochę stromę.

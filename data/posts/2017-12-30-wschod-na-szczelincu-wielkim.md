@@ -7,6 +7,7 @@ keywords:               [wschód, szczeliniec, pasterka, zima, śnieżka, daleki
 date:                   2017-12-30 15:00:00
 finished_at:            2018-01-30 15:00:00
 #image_filename:         IMGP3874raw4.jpg
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, photo, main, mountains]

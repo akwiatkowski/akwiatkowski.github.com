@@ -77,7 +77,7 @@ nie jest najlepszym pomysłem. Do listy zakupów dorzuciłem plecak na wycieczki
 
 Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta nazywana jest "San Fran Trzcińsko".
 
-{% photo "IMGP8131b.jpg","Snopki niedaleko stacji kolejowej w Trzcińsku" %}
+{% photo "IMGP8131b.jpg","Snopki niedaleko stacji kolejowej w Trzcińsku","timeline" %}
 
 Dotarliśmy kilkanaście minut przed odjazdem pociągu w kierunku [Marciszowa][wiki-marciszow]. Czekamy i czekamy.
 Nic nie jedzie.

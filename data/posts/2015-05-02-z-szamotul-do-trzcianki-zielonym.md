@@ -5,6 +5,7 @@ subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, best, todo_media_later]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]

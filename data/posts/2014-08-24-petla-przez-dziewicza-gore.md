@@ -5,6 +5,7 @@ subtitle:               "oraz poligon w Biedrusku"
 date:                   2014-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, czerwonak]

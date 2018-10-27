@@ -5,6 +5,7 @@ subtitle:               "i powrót będący wyścigiem z czasem"
 desc:                   "Po czterech dniach moje kolana wróciły do życia. Postanowiliśmy na ostatni dzień dostać się do Doliny Pięciu Stawów Polskich, która jest ponoć najładniejszym miejscem w polskich Tatrach."
 keywords:               [tatry wysokie, morskie oko, wodogrzmoty mickiewicza, dolina roztoki, dolina rybiego potoku]
 date:                   2011-09-14 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, photo_of_the_year]
@@ -74,7 +75,7 @@ Od tego momentu ilość bodźców wizualnych jakie odbierałem była zbyt dużo.
 
 Dowiedziałem się, że na początku XX wieku był szlak tam - kontynuacja [Orlej Perci][wiki-orla-perc].
 
-{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka" %}
+{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka","timeline" %}
 
 Na pewno była przerwa w [schronisku][wiki-schron-5stawow], ale już nie pamiętam jak
 długo trwała. Dalej wyruszyliśmy niebieskim szlakiem przez

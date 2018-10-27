@@ -5,6 +5,7 @@ subtitle:               "depresyjne jesienne sudeckie wioski"
 date:                   2014-01-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/61532277/m%3D2048/194c5c96793ed4ec82b3dc0c3dd4bc7a"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, pieszyce, nowa_ruda, walim]
@@ -44,7 +45,7 @@ Dzień rozpoczęliśmy wyruszając na południe z [Kamionek][wiki-kamionki]. Poc
 szlak wyglądał jak spacer z lekkim podejściem po późno-jesiennym lesie. Szlak to taki
 odpowiednik "na skróty" do położonej obok drogi dla samochodów.
 
-{% photo "IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej" %}
+{% photo "IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej","timeline" %}
 
 Gdy już byliśmy w pobliżu [Przełęczy Jugowskiej][wiki-jugowska] zrobiło się znacznie
 bardziej mgliście. Zeszliśmy coś zjeść do schroniska [Zygmuntówka][wiki-zygmuntowka].
@@ -55,7 +56,7 @@ Po chwili ruszyliśmy dalej zielonym szlakiem w stronę [Jugowa][wiki-jugow]. Tr
 przeszliśmy ulicą Fabryczną w kierunku [Ludwikowic Kłodzkich][wiki-ludwikowice],
 jednak skręciliśmy dość szybko na zachód. Teraz szliśmy czarnym szlakiem rowerowym.
 
-{% photo "IMGP3119raw1.jpg","Dom w Sowinie" %}
+{% photo "IMGP3119raw1.jpg","Dom w Sowinie","timeline" %}
 
 Nie wiem czy była to najlepsza decyzja. Szlak rowerowy jest idealny do roweru,
 ubita droga, raczej sensownie płasko i tak przez las 2.5km. Trochę nudne to było.

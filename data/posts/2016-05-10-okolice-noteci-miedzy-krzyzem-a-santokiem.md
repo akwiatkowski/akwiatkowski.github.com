@@ -78,7 +78,7 @@ Poczułem taką standardową niepewność - czy nic się nie wydarzy, czy dam ra
 Z doświadczenia najsilniej takie uczucie pojawia się na początku i w połowie trasy,
 kiedy jest się najdalej od jakiegoś pociągu.
 
-{% photo "G0014492b.jpg","Wyjeżdzajac z Krzyża" %}
+{% photo "G0014492b.jpg","Wyjeżdzajac z Krzyża","timeline" %}
 
 Gdy wyjechałem z [Krzyża][wiki-krzyz] przejechałem pod torami kolejowymi którymi
 można dojechać na Wybrzeże. Chwilę po tym wjechałem w las. Ruch był mniejszy
@@ -98,7 +98,7 @@ poprowadzone linia kolejowa, która okrążała [Puszczę Notecką][wiki-puszcza
 [Skwierzyny][wiki-skwierzyna]. Linia [ta][wiki-linia-430] prowadziła przez
 małe miejscowości i w tym momencie są plany na utworzenie szlaku rowerowego na niej.
 
-{% photo "G0154547b.jpg","Wjeżdzając do Przynotecka" %}
+{% photo "G0154547b.jpg","Wjeżdzając do Przynotecka","timeline" %}
 
 Z [Drezdenka][wiki-drezdenko] wyjechałem w stronę [Trzebicza][wiki-trzebicz], za
 którą przejechałem przez [Noteć][wiki-notec] i pojawiły się ciekawe wiejskie

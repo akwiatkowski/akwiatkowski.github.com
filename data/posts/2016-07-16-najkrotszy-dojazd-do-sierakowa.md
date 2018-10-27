@@ -65,7 +65,7 @@ Dojechałem pociągiem do [Mokrza][wiki-mokrz] - mała osada w
 [Puszczy Noteckiej][wiki-puszcza-notecka]. Stacja jest malutka, trochę pocieszna,
 bo taka sama postawiona pośrodku wielkiego lasu. Zielono jest tam z każdej strony.
 
-{% photo "IMGP2201raw1.jpg","Początek wsi Chojno" %}
+{% photo "IMGP2201raw1.jpg","Początek wsi Chojno","timeline" %}
 
 Ruszyłem niebieskim szlakiem rowerowym na południe do drogi 150. Okazało się, że
 droga jest w dobrej jakości i jechało się przyjemnie.
@@ -82,7 +82,7 @@ Eskimosi mają wiele określeń na śnieg, tak Polacy powinni mieć wiele okreś
 na wioski, gdyż jedna wioska może bardzo różnić się od innej wioski.
 Widziałem tam nawet jakąś agroturystykę.
 
-{% photo "IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno" %}
+{% photo "IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno","timeline" %}
 
 Wyjeżdzając z [Chojna][wiki-chojno] zaczęły się pola i rzadko położone
 gospodarstwa rolne.
@@ -112,7 +112,7 @@ wyładowała, a spiesząc się na pociąg nie chciałem zmieniać baterii. Z teg
 powodu nie nagrałem zjazdu. Zjazd ten jest jednym z najciekawszych gdyż
 widzi się okolicę [Warty][wiki-warta] w tym most kolejowy.
 
-{% photo "IMGP2241raw1.jpg","Obok nieużywanej linii kolejowej w Chrzypsku Wielkim" %}
+{% photo "IMGP2241raw1.jpg","Obok nieużywanej linii kolejowej w Chrzypsku Wielkim","timeline" %}
 
 Na dworzec dojechałem chyba minutę przed odjazdem, na szczęście pociąg
 dodatkowo spóźnił się kilka minut.

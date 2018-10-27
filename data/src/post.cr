@@ -31,7 +31,9 @@ class Tremolite::Post
     # easily changable post image
     @image_filename = "header.jpg"
     # ignore some posts and not add them to gallery
-    @nogallery = false
+    @header_nogallery = false
+    # header image is not best suitable for seasonal timeline gallery by default
+    @header_timeline = false
     # some new posts have phtos taken by M43/Olympus camera
     @image_format = DEFAULT_IMAGE_FORMAT
 
@@ -54,7 +56,7 @@ class Tremolite::Post
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent
-  getter :image_filename, :nogallery
+  getter :image_filename, :header_nogallery
   getter :finished_at
 
   property :photo_entities
@@ -121,7 +123,7 @@ class Tremolite::Post
   end
 
   def gallery?
-    self.nogallery.not_nil! != true
+    self.header_nogallery.not_nil! != true
   end
 
   # XXX upgrade in future
@@ -221,15 +223,21 @@ class Tremolite::Post
     end
 
     # nogallery
-    if @header["nogallery"]?
-      @nogallery = true
+    if @header["header_nogallery"]?
+      @header_nogallery = true
+    end
+
+    # seasonal timeline gallery
+    if @header["header_timeline"]?
+      @header_timeline = true
     end
 
     # set head_photo_entity
     @head_photo_entity = PhotoEntity.new(
       image_filename: @image_filename.not_nil!,
       desc: @title,
-      is_gallery: (@nogallery == false),
+      is_gallery: gallery?,
+      is_timeline: @header_timeline.not_nil!,
       post: self,
       param_string: "",
       is_header: true

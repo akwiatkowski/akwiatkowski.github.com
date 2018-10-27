@@ -5,6 +5,7 @@ subtitle:               "lekki spad terenu zaowocował dobrą średnią prędko�
 date:                   2014-04-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/63248073/m%3D2048/291f13454efe2dd994f79a083e4ef9d9"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, szamotuly]
@@ -44,7 +45,7 @@ Szczegóły
 Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki]. Następnie kierowałem
 się w stronę [Kiekrza][wiki-kiekrz] i dalej na północ w stronę [Soboty][wiki-sobota].
 
-{% photo "IMGP5478raw1.jpg","Zielone pole" %}
+{% photo "IMGP5478raw1.jpg","Zielone pole","timeline" %}
 
 Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za dużo
 razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest

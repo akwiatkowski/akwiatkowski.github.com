@@ -699,3 +699,11 @@ body {
 
   left: -40px;
 }
+
+.season-table .gallery-is-timeline {
+  border: 1px red solid;
+}
+
+.season-table .gallery-is-not-timeline {
+  border: 1px gray solid;
+}

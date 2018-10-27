@@ -65,7 +65,7 @@ Szliśmy cały czas czerwonym szlakiem dalej. Przebiega on na południe od
 zbiornika [elektrowni][wiki-zar-elektrownia]. Sam zbiornik jest chyba najciekawszym
 elementem trasy. Jest on też dobrym punktem widokowym.
 
-{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie" %}
+{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie","timeline" %}
 
 Dalsza część trasy była, w mojej ocenie, mało interesująca. Na szczęście ma to
 również swoje plusy - nie było ciasno, nie było mocnego podejścia. Przeszliśmy

@@ -6,6 +6,7 @@ date:                   2016-05-21 19:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, wagrowiec, budzyn, margonin, chodziez, kaczory, pila]
@@ -116,7 +117,7 @@ uwagi temu miast. Jechałem na północ drogą przecinającą
 [Noteć][wiki-notec]. Zaciekawił mnie samotny dom położony w pobliżu mostu nad
 rzeką. Sam most i widok z niego był również bardzo ciekawy.
 
-{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży" %}
+{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży","timeline" %}
 
 Na wysokości wsi [Krzewiny][wiki-krzewina] zaciekawiła mnie ścieżka polna
 w kierunku wschodnim, gdyż pole było wybitnie pofalowane. Zastanawiałem się

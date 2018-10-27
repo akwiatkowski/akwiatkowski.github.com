@@ -5,6 +5,7 @@ subtitle:               "tym razem lato w pełni"
 date:                   2014-07-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/76197267/m%3D2048/af7f0a557aa3f95ca5d3e595bd929832"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, best, todo_media_later]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]

@@ -5,6 +5,7 @@ subtitle:               "już nie tak ciepło, ale pogoda nadal ładna"
 date:                   2013-07-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41617556/m%3D2048/7427716299d2442b18d82293caf50d88"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [slaskie, rajcza]

@@ -6,6 +6,7 @@ date:                   2016-07-20 18:00:00
 finished_at:            2016-07-30 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/164632915/q%3D80_m%3D2000/f792b56898a4710197b65028784f8e10"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike]
 towns:                  [malopolskie, koscielisko]
@@ -74,7 +75,7 @@ Dopiero wtedy
 można zobaczyć jakieś widoki w pełni pokazujące o co w tym chodzi.
 Doliczając czas na powrót robi się z tego 7 godzin - sporo chodzenia.
 
-{% photo "IMGP2800raw1.jpg","Czerwony szlak na Trzydniowiański Wierch","nogallery" %}
+{% photo "IMGP2800raw1.jpg","Czerwony szlak na Trzydniowiański Wierch","timeline" %}
 
 Zostawiliśmy rzeczy w schronisku i ruszyliśmy w dół, aby wejść trudniejszym,
 bardziej stromym czerwonym szlakiem.
@@ -150,7 +151,7 @@ Na koniec wrzucam zdjęcie czego nie lubię w górach - tłumów.
 
 Podczas podejścia na Trzydniowiański Wierch.
 
-{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska" %}
+{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska","timeline" %}
 
 Szlak zejściowy do schroniska. Schodzić będziemy dopiero za chwilę.
 
@@ -162,7 +163,7 @@ Dolina Chochołowska. Tam wcześniej szliśmy do schroniska.
 
 Szlak na [Kończysty Wierch][wiki-konczysty-wierch], do którego obawiałem się iść.
 
-{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska" %}
+{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska","timeline" %}
 
 A to zdjęcie wykonałem aparatem z poziomu jakiegoś małego zwierza.
 

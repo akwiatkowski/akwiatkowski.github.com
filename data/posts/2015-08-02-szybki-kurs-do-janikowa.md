@@ -5,6 +5,7 @@ subtitle:               "średnia szybkość tylko 27km/h"
 date:                   2015-08-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]

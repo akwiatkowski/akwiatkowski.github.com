@@ -52,7 +52,7 @@ Padało tak cały dzień, dopiero
 wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
 z której jest widok na całą dolinę.
 
-{% photo "IMGP6504b.jpg","Poręga Górna" %}
+{% photo "IMGP6504b.jpg","Poręga Górna","timeline" %}
 
 Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliśmy przed autobusem ponownie na tą polanę.
 Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.

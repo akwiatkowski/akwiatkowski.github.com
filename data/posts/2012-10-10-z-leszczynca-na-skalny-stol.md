@@ -67,7 +67,7 @@ Od tego miejsca szliśmy cały czas żółtym szlakiem pieszym
 w kierunku [Malá Úpa][wiki-mala-upa] lub
 [Przełęczy Okraj][wiki-okraj].
 
-{% photo "IMGP2801c.jpg","Wieś Podgórzyn" %}
+{% photo "IMGP2801c.jpg","Wieś Podgórzyn","timeline" %}
 
 Po drodze z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].
@@ -76,7 +76,7 @@ Po drodze z prawej strony mieliśmy bardzo dobry widok na
 
 Dalej droga była raczej umiarkowanie ciekawa, oprócz miejsc takich jak to. Oczywiście ciekawość jest subiektywna.
 
-{% photo "IMGP2849b.jpg","Żółty szlak z Przełęczy Okraj" %}
+{% photo "IMGP2849b.jpg","Żółty szlak z Przełęczy Okraj","timeline" %}
 
 Jak dotarliśmy do [Malá Úpa][wiki-mala-upa] i przeszliśmy przez granicę,
 to od razu można było

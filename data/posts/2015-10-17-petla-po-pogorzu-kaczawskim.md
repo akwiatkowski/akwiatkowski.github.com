@@ -5,6 +5,7 @@ subtitle:               "30km pieszo, jeden dzień jak trzy różne dni"
 date:                   2015-10-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later, best, photo_of_the_year]
 towns:                  [dolnoslaskie, swierzawa]

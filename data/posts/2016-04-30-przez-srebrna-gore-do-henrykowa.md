@@ -6,6 +6,7 @@ date:                   2016-04-30 19:00:00
 finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, klodzko, stoszowice, zabkowice_slaskie, cieplowody, ziebice]
@@ -70,7 +71,7 @@ dalej ruszyliśmy na północ w kierunku [Srebrnej Góry][wiki-srebrna-gora].
 Podjazdy czekaly nas już trochę większe, a wioski mniejsze i zabudowy rzadsze.
 Cywilizacji było jakby trochę mniej, co jest w sumie oczywiste.
 
-{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie" %}
+{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie","timeline" %}
 
 Przez prawię połowę drogi do [Srebrnej Góry][wiki-srebrna-gora] jechaliśmy wokół
 pól, bardzo mi się podobało wzgórze obok miejscowości [Huberek][wiki-huberek].
@@ -83,7 +84,7 @@ przełęcz obok góry [Wilczak][wiki-gora-wilczak], za którą rozpoczął się 
 Pierwszy fajny zjazd tego dnia. Niestety nie można było szaleć do woli, gdyż
 droga była daleka do bycia idealną.
 
-{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry" %}
+{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry","timeline" %}
 
 Zjechaliśmy przy wylocie ze [Żdanowa][wiki-zdanow] i chcieliśmy podjechać do
 [Srebrnej Góry][wiki-srebrna-gora] teraz. W tym momencie nie wiedziałem, że

@@ -5,6 +5,7 @@ subtitle:               "w poszukiwaniu wiosny, 2/3 trasy to asfalt"
 date:                   2014-04-28 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/70436241/m%3D2048/6d181d226318384026e9aab3630b11b5"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, oborniki, obrzycko, wronki]

@@ -5,6 +5,7 @@ subtitle:               "w sumie to taki większy las z dodatkami"
 date:                   2013-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/44132576/m%3D2048/6e9a578dfcb2652ea46afe64b8a9cb5d"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, todo_media_later]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, pobiedziska]

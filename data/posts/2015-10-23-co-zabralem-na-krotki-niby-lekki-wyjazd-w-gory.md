@@ -5,6 +5,7 @@ subtitle:               "jedna baza, nie schronisko, lekki nacisk na zdjęcia, b
 date:                   2015-10-23 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f"
+header_nogallery:      true
 categories:             localhost
 tags:                   [main, localhost, article]
 lands:                  [pogorze_kaczawskie]

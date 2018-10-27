@@ -5,6 +5,7 @@ subtitle:               "sudeckie wioski, pola i dużo słońca - pogórze"
 date:                   2015-06-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, mountains, best, todo_media_later]
 towns:                  [dolnoslaskie, szklarska_poreba, stara_kamienica, jezow_sudecki, jelenia_gora]

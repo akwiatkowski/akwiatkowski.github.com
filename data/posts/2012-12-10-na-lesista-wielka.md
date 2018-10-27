@@ -40,7 +40,7 @@ Rano wysiedliśmy z pociągu na stacji [Boguszów-Gorce][wiki-boguszow-gorce] i 
 Było wszędzie biało, co w tym momencie mi się podobało. Teraz mi się jeszcze bardziej podoba, bo było naprawdę
 ładnie, a trud już minął.
 
-{% photo "IMGP5530b.jpg","Idąc przez białe pola w stronę Grzęd" %}
+{% photo "IMGP5530b.jpg","Idąc przez białe pola w stronę Grzęd","timeline" %}
 
 Szliśmy przez ośnieżone pola ufając że ta ścieżka jest szlakiem i jednocześnie sprawdzając co mówi GPS.
 Chcieliśmy dojśc do wsi [Grzędy][wiki-grzedy], z której zaczynał się [Główny Szlak Sudecki][wiki-gss].
@@ -64,7 +64,7 @@ Gdzieś na podejściu do [Lesistej Wielkiej][wiki-lesista] zrobiłem poniższe z
 Sam szczyt [Lesistej Wielkiej][wiki-lesista] raczej nie był specjalnie interesujący, oprócz tego, że był tam szałas.
 Powoli zaczęło robić się ciemno, a musieliśmy dojść do noclegu w [Kowalowej][wiki-kowalowa].
 
-{% photo "IMGP5920.jpg","Zimowe Góry Kamienne" %}
+{% photo "IMGP5920.jpg","Zimowe Góry Kamienne","timeline" %}
 
 Było jedno takie miejsce podczas zejścia, że jak je zobaczyłem to zastanawiałem się, czy to nie jest jakiś
 chory żart. Było stromo, bardzo. Wywaliłem się podczas zejścia i lekko ugiąłem jeden ze swoich kijków.

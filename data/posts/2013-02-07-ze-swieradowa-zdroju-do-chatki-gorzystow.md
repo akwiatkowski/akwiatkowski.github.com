@@ -8,6 +8,7 @@ date:                   2013-02-07 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP7946b.jpg
+header_timeline:        true
 tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
@@ -42,7 +43,7 @@ Jak zwykle byłem średnio wyspany po
 nocnej jeździe pociągiem, a czekała mnie jeszcze dzisiejsza trasa.
 Jest to przepis na najlepsze lekarstwo na bezsenność.
 
-{% photo "IMGP7517b.jpg","Góry Sokole" %}
+{% photo "IMGP7517b.jpg","Góry Sokole","timeline" %}
 
 Ciekawe widoki rozpoczęły się już za [Wałbrzychem][wiki-walbrzych] z kulminacją w okolicy [Rudaw Janowickich][wiki-rudawy].
 Pogoda była całkiem przyjemna, cały świat delikatnie ośnieżony.

@@ -5,6 +5,7 @@ subtitle:               "okazały się nie być takie łatwe"
 desc:                   "Pierwsza dłuższa trasa w wyższych górach - Tatrach. Przejście na Trzydniowiański i Kończysty Wierch i... nadwyrężenie kolana. Zapłaciłem bólem za piękne widoki."
 keywords:               [tatry zachodnie, chochołowska, trzydniowiański, kończysty, wierch, jesień]
 date:                   2011-09-10 21:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]
@@ -71,7 +72,7 @@ Poniżej kilka zdjęć, które nie zmieściły się w krótki opisie powyżej.
 
 Widok na Dolinę Chochołowską z Kończystego Wierchu.
 
-{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu" %}
+{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu","timeline" %}
 
 Zejście z Trzydniowiańskiego Wierchu przez kosodrzewinę.
 

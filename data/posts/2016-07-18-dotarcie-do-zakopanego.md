@@ -52,7 +52,7 @@ tradycją, zamieniło się na 3 godziny.
 Po wyjściu ruszyliśmy w stronę ["schroniska"][kolatowki] robiąc przerwę na jedzenie w
 Obrochtówce. Co ciekawe miejsce to nie ma ani strony, ani fanpage'a.
 
-{% photo "IMGP2362raw1.jpg","Okolice Kolatówki" %}
+{% photo "IMGP2362raw1.jpg","Okolice Kolatówki","timeline" %}
 
 Pomimo krótkiej odległości wyraźnie czułem napakowany plecak. Zastanawiałem się,
 co mnie czeka w kolejnych dniach.

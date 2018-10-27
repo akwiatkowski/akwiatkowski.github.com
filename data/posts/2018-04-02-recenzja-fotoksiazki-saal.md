@@ -9,7 +9,7 @@ finished_at:            2018-04-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         IMGP6279raw1.jpg
-nogallery:              true
+header_nogallery:       true
 tags:                   [main, article]
 
 ---

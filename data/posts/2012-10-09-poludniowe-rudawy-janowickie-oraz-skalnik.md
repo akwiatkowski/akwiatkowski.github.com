@@ -50,7 +50,7 @@ Dojechaliśmy rano do [Marciszowa][wiki-marciszow]. Poczekaliśmy chwilę na aut
 Tam z kolei mieliśmy trochę czasu na kolejny, więc poszedliśmy coś zjeść do centrum. Wróciliśmy i dalej jechaliśmy
 autobusem w stronę [Kowar][wiki-kowary].
 
-{% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca" %}
+{% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca","timeline" %}
 
 Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Sama droga [367][wiki-367]
 położona jest całkiem wysoko.
@@ -61,7 +61,7 @@ położona jest całkiem wysoko.
 północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
 [Przełęcz Kowarska][wiki-przel-kowarska], gdzie droga położona jest na wysokości 727 m n.p.m.
 
-{% photo "IMGP2286b.jpg","Centrum Leszczyńca, niedaleko sklepu" %}
+{% photo "IMGP2286b.jpg","Centrum Leszczyńca, niedaleko sklepu","timeline" %}
 
 Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry [Rudaw][wiki-rudawy] - [Skalnika][wiki-skalnik].
 
@@ -73,7 +73,7 @@ Rozdroże pod Bobrzakiem.
 Później szliśmy niebieskim szlakiem obok schroniska [Czartak][wiki-czartak], obok którego na asfaltowej drodzę leżał
 czarny kot. Schroniska już nie ma, zostało przekształcone teraz w gospodarstwo agroturystyczne.
 
-{% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca" %}
+{% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca","timeline" %}
 
 Szliśmy niebieskiem szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
 

@@ -5,6 +5,7 @@ subtitle:               "po co czekać do lata"
 date:                   2013-11-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/55590686/m%3D2048/c78578fb07a2484e09de6017b2b568fb"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, best, todo_media_later, photo_of_the_year]
 towns:                  [dolnoslaskie, karpacz]

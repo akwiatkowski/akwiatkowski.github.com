@@ -17,7 +17,7 @@ class TimelineList < PageView
     @url = "/timeline"
   end
 
-  PARTS = 12 * 4 * 2
+  PARTS = 12 * 4 # * 2
   INTERTED_QUANT = 1.0 / PARTS.to_f
   PER_ROW = 5
 
@@ -26,7 +26,7 @@ class TimelineList < PageView
   def inner_html
     s = ""
 
-    s += "<table>"
+    s += "<table class=\"season-table\">"
 
     i = 0.0
     index = 1

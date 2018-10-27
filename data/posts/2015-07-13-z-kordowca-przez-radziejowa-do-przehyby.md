@@ -56,7 +56,7 @@ Miłym uczuciem było jak przechodziliśmy przez [Wielki Rogacz][wiki-wielki-rog
 i zobaczyłem znak do [Obidzy][wiki-obidza], gdyż byłem już w tym miejscu. Było
 to tylko półtora kilometra obok.
 
-{% photo "IMGP1577raw1.jpg","Mglisty czerwony szlak" %}
+{% photo "IMGP1577raw1.jpg","Mglisty czerwony szlak","timeline" %}
 
 Powoli byliśmy coraz wyżej, wchodziliśmy w chmury. Las, las i mglisty las. Trudno powiedzieć czy było coś ciekawego. Chyba ostatnim
 miejscem to przełęcz przed [Radziejową][wiki-radziejowa]. Bardzo dużo drzew poległo w tym miejscu, jednak przez chmury i mgłe

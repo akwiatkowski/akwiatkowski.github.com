@@ -41,7 +41,7 @@ Szczegóły
 Dojechaliśmy pociagiem do [Obornik][wiki-oborniki], a następnie kierowaliśmy się w stronę
 [Łukowa][wiki-lukowo]. Te 4km trasy musieliśmy przejechać po uczęszczanej drodze.
 
-{% photo "IMGP4074raw1.jpg","Wieś Łukowo" %}
+{% photo "IMGP4074raw1.jpg","Wieś Łukowo","timeline" %}
 
 W [Łukowie][wiki-lukowo] skręciliśmy na drogą polną, którą jechaliśmy w kierunku
 do [Szymankowa][wiki-szymankowo]. Bardzo ciekawe jest oświetlenie drogi za pomocą

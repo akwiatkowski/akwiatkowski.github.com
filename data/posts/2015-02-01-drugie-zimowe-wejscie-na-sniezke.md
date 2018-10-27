@@ -5,6 +5,7 @@ subtitle:               "ogólne też jest to drugie - nigdy nie byłem w innej 
 date:                   2015-02-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/101052739/m%3D2048/e417fab7574c638c651d16c4b31283f2"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, best, todo_media_later]
 towns:                  [dolnoslaskie, karpacz]

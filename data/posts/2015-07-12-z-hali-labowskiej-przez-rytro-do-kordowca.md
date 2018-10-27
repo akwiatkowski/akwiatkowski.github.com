@@ -41,12 +41,12 @@ Szczegóły
 Trasa od [Hali Łabowskiej][wiki-labowska] na zachód jest znacznie ciekawsza. Jest więcej polan i punktów widokowych.
 Z jednej z tych polan widać ładnie [okolice Nowego Sącza][pano-nowy-sacz], a w innej bardzo dobrze widać [okolice Rytra][pano-rytro].
 
-{% photo "IMGP1260raw1.jpg","Widok z Jaworzyny Kokuszczańskiej" %}
+{% photo "IMGP1260raw1.jpg","Widok z Jaworzyny Kokuszczańskiej","timeline" %}
 
 Schodziliśmy cały czas czerwonym szlakiem GSB. Po drodzę odwiedziliśmy [Chatę Cyrla][cyrla], która bardzo pozytywnie zaskoczyła
 nas wyglądem, stanem, jedzeniem jak i jego ceną. Zdecydowanie warto odwiedzić to miejsce.
 
-{% photo "IMGP1262raw1.jpg","Widok na Tatry" %}
+{% photo "IMGP1262raw1.jpg","Widok na Tatry","timeline" %}
 
 Dalej szlak robił się bardziej interesujący, w sensie wąski. Robiło się coraz cieplej i po dotarciu do drogi asfaltowej
  w [Rytrze][wiki-rytro]
@@ -65,7 +65,7 @@ Podejście nie było trudne, ale byliśmy zmęczeni zejściem oraz wysoką tempe
 widoki z całego wyjazdu. Górki i pagórki, wioski, domy, drogi. Wiem że wyżej takie widoki będą tylko w miejscach niezalesionych.
 Tutaj było ich znacznie więcej.
 
-{% photo "IMGP1381raw1.jpg","Pole na zachód od Rytra" %}
+{% photo "IMGP1381raw1.jpg","Pole na zachód od Rytra","timeline" %}
 
 Szlak w stronę Kordowca miał w sobie nie tylko widoki, było też trochę tunelów przez las lub inne krzaczory.
 
@@ -83,7 +83,7 @@ To był najciekawszy dzień pod względem pogody i widoków. Dlatego warto by by
 umieścić więcej zdjęć. Wszystkie te zdjęcia były wykonane na szlaku czerwonym
 między [Rytrem][wiki-rytro] a Kordowcem.
 
-{% photo "IMGP1399raw1.jpg","Okolica Roztoki Ryterskiej" %}
+{% photo "IMGP1399raw1.jpg","Okolica Roztoki Ryterskiej","timeline" %}
 
 Okolica Roztoki Ryterskiej
 
@@ -99,6 +99,6 @@ Widok na Rytro
 
 Domy na zboczach
 
-{% photo "IMGP1448raw1.jpg","Wyżyny Rytra" %}
+{% photo "IMGP1448raw1.jpg","Wyżyny Rytra","timeline" %}
 
 Wyżyny Rytra

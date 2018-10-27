@@ -5,6 +5,7 @@ subtitle:               "ostatni dzień w Masywie Śnieżnika"
 date:                   2013-07-24 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/41495140/m%3D2048/d63e6ac9124d094d1d38d9abe41b042f"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, todo_media_later]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
