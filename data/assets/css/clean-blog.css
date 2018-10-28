@@ -697,13 +697,28 @@ body {
   /*border: 1px dotted;*/
   display: block;
 
-  left: -40px;
+  left: -55px;
 }
 
 .season-table .gallery-is-timeline {
-  border: 1px red solid;
+  /*border: 1px red solid;*/
 }
 
 .season-table .gallery-is-not-timeline {
-  border: 1px gray solid;
+  /*border: 1px gray solid;*/
+  opacity: 0.5;
+}
+
+.season-table .season-cell {
+  padding: 0px;
+}
+
+.season-table .season-month {
+  font-size: 180%;
+  font-weight: bold;
+}
+
+.season-table .season-day {
+  font-size: 120%;
+  font-weight: bold;
 }

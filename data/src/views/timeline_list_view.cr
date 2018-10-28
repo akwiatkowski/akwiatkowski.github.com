@@ -17,11 +17,17 @@ class TimelineList < PageView
     @url = "/timeline"
   end
 
-  PARTS = 12 * 4 # * 2
+  # PARTS = 12 * 4 # * 2
+  PARTS = 52 # weeks
   INTERTED_QUANT = 1.0 / PARTS.to_f
-  PER_ROW = 5
+  PER_ROW = 8
 
   getter :image_url, :title, :subtitle, :url
+
+  def content
+    page_header_html +
+      page_wide_article_html
+  end
 
   def inner_html
   # def content
@@ -31,6 +37,7 @@ class TimelineList < PageView
 
     i = 0.0
     index = 1
+    max =
 
     while i <= 1.0
       s += part_html(i, i + INTERTED_QUANT, index)
@@ -52,7 +59,10 @@ class TimelineList < PageView
       a.time.day_of_year <=> b.time.day_of_year
     }
 
-    return "" if selected_photos.size == 0
+    # final selection
+    selected_for_row = select_photos_for_row(selected_photos)
+
+    return "" if selected_for_row.size == 0
 
     time_from = selected_photos.first.time
     time_to = selected_photos.last.time
@@ -65,17 +75,16 @@ class TimelineList < PageView
     data["row.month"] = time_from.to_s("%m")
     data["row.day"] = time_from.to_s("%d")
     data["row.count"] = index.to_s
+    data["row.max"] = PARTS.to_s
 
-    data["row.content"] = row_content(selected_photos)
+    data["row.content"] = row_content(selected_for_row)
 
     data["colspan"] = PER_ROW.to_s
 
     return load_html("season_timeline/row", data)
   end
 
-  def row_content(selected_photos)
-    selected_for_row = select_photos_for_row(selected_photos)
-
+  def row_content(selected_for_row)
     row_content = selected_for_row.map { |selected_photo|
       load_html("season_timeline/cell", {
         "gallery_post_image" => load_html(
@@ -109,6 +118,10 @@ class TimelineList < PageView
         return selected if selected.size == PER_ROW
       end
     end
+
+    # if there is no selected return empty Array
+    # I don't want to show row w/o selected photos
+    return selected if selected_photos_timeline.size == 0
 
     selected_photos_rest = selected_photos.select { |pe| pe.is_timeline == false }
 

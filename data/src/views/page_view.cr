@@ -36,4 +36,12 @@ class PageView < BaseView
     data["content"] = inner_html
     return load_html("page/article", data)
   end
+
+  # same as `page_article_html` but for not pure text articles
+  # margins are much smaller
+  def page_wide_article_html
+    data = Hash(String, String).new
+    data["content"] = inner_html
+    return load_html("page/wide_article", data)
+  end
 end
