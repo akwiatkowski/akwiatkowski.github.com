@@ -6,6 +6,7 @@ date:                   2016-12-17 15:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/188719943/q%3D80_m%3D2000/45a40318ced5efebd53e99b31c3d35f1"
+header_timeline:        true
 categories:             trip
 tags:                   [photo]
 towns:                  [wielkopolskie, poznan]

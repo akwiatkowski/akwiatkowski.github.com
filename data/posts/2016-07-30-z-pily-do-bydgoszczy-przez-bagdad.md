@@ -155,7 +155,7 @@ Jechaliśmy na północ. Musieliśmy minąć [S10][wiki-s10] i to trochę
 potrwało gdyż tam ruch rzadko zamiera. Wcześniej przejechaliśmy przez rzekę
 [Orla][wiki-rzeka-orla].
 
-{% photo "IMGP3649raw1.jpg","Snopki na polu" %}
+{% photo "IMGP3649raw1.jpg","Snopki na polu","timeline" %}
 
 
 Wjechaliśmy do [Bagdadu][wiki-bagdad]. Wioska o ciekawej nazwie rozpoczynała
@@ -202,7 +202,7 @@ Dojechaliśmy do rzeki Krówka i okazało się, że przebudowują tam most. Prze
 rowery jednocześnie trochę brudząc swoje buty i opony. Głupio by było jechać
 objazdem dla samochodów.
 
-{% photo "IMGP3663raw1.jpg","Okolice Dziewianowa" %}
+{% photo "IMGP3663raw1.jpg","Okolice Dziewianowa","timeline" %}
 
 Dojechaliśmy do skrzyżowania obok Jeziora Wierzchucińskiego Dużego, gdzie
 skręciliśmy w kierunku [Bydgoszczy][wiki-bydgoszcz]. Około 400 metrów

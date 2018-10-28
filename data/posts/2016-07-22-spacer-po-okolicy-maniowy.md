@@ -48,7 +48,7 @@ Szczegóły
 To wcale nie była żadna istotna trasa, tylko zwiedzanie okolicy [Maniów][wiki-maniowy]
 (nie wiem czy dobrze odmieniam nazwę tej miejscowości - Maniowy).
 
-{% photo "IMGP3508raw1.jpg","Droga do Czorsztyna" %}
+{% photo "IMGP3508raw1.jpg","Droga do Czorsztyna","timeline" %}
 
 Z jednej strony te tereny mógłbym podsumować jako idealne tereny na rower, ale
 tego dnia akurat rowerów nie używaliśmy. Jest tam i spokojna wioska, bardzo wijące
@@ -62,7 +62,7 @@ ma się idealny widok na góry.
 Jest to nawet lepsze niż w [Gorcach][wiki-gorce], gdzie jest kilka punktów widokowych,
 bo tutaj wszystko jest jednym wielkim punktem widokowym.
 
-{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry" %}
+{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry","timeline" %}
 
 [Maniowy][wiki-maniowy] jest wioską położoną bardzo ciekawie wokół pagórków.
 

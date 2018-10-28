@@ -6,6 +6,7 @@ desc:                   "Tego dnia chciałem przejechać wzdłuż linii kolejowe
 keywords:               [kaszuby, kociewie, wda, tczew, gotelp, wojtal, konarzyny, stara kiszewa, pałubin, pogódki, wierzyca, rzeka wierzyca, skarszewy, rościszewo, styna, sobowidz]
 date:                   2018-05-01 21:00:00
 finished_at:            2018-09-09 13:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8435raw1.jpg
@@ -94,7 +95,7 @@ Przecież jadąc do [Czerska][wiki-czersk] również przejeżdzaliśmy przez
 Po opuszczeniu [Czerska][wiki-czersk] ruch samochodowy był znacznie mniejszy.
 Okolica zaczęła mi się podobać. Podawanie nazw miejscowości nie jest isotne tutaj.
 
-{% photo "IMGP8326raw1.jpg","Wiosna " %}
+{% photo "IMGP8326raw1.jpg","Wiosna","timeline" %}
 
 Przejechaliśmy przez kilka wiosek. Ostatnią przed lasem była wieś
 [Gotelp][wiki-gotelp].
@@ -158,7 +159,7 @@ stronę do [Pałubina][wiki-palubin].
 Po chyba godzinnej przerwie pogoda zaczęła się poprawiać. Chociaż filmiki na
 kamerce mogą być ciekawsze gdy niebo jest nierównomiernie zachmurzone.
 
-{% photo "IMGP8392raw1.jpg","Wiosenny tunel" %}
+{% photo "IMGP8392raw1.jpg","Wiosenny tunel","timeline" %}
 
 Ruszyliśmy w stronę [Czerników][wiki-czerniki] przez [Pałubin][wiki-palubin].
 Teren stał się ciekawszy, bardziej pofalowany (wiem że za często używam
@@ -222,7 +223,7 @@ Pomimo istnienia tu drogi 222 (wojewódzkiej) miejscowośc nie straciła
 swojego klimatu. Gdy zjechaliśmy z drogi wojewódzkiej
 nadal okolica była ciekawie.
 
-{% photo "IMGP8451raw1.jpg","Jadąc do Rościszewa" %}
+{% photo "IMGP8451raw1.jpg","Jadąc do Rościszewa","timeline" %}
 
 Zjechaliśmy do [Rościszewa][wiki-rosciszewo] drogą położoną wzdłuż rzeki
 [Styny][wiki-styna-rzeka].
@@ -246,7 +247,7 @@ podziwialiśmy krajobraz. Miałem wrażenie, że jest tutaj
 teren jeszcze bardziej pofalowany.
 Ostatecznie dzięki temu błędowi zaliczyłem dodatkową gminę.
 
-{% photo "IMGP8465raw1.jpg","Droga do Rębielcza" %}
+{% photo "IMGP8465raw1.jpg","Droga do Rębielcza","timeline" %}
 
 Szybko zjechaliśmy półtora kilometra do skrzyżowania i skręciliśmy
 w prawo. Jechałem tak szybko jak

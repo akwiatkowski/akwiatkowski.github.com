@@ -6,6 +6,7 @@ desc:                   "Na początku stycznia przypomniałem sobie o tym, jak w
 keywords:               [sopot, orłowo, zamarznięte, bałtyk, kra, lód, pochmurnie]
 date:                   2018-03-04 10:00:00
 finished_at:            2018-03-10 20:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5799raw1.jpg

@@ -6,6 +6,7 @@ desc:                   "Na Boże Ciało wybraliśmy okolice Międzyrzecza. Dwa 
 keywords:               [zbąszyń, trzciel, piaski, strzyżewo, lutol mokry]
 date:                   2018-05-31 17:00:00
 finished_at:            2018-10-16 15:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P5311348raw1.jpg
@@ -78,7 +79,7 @@ jednak trwające upały nie zachęcają. Pewnie pod koniec albo po wakacjach
 będzie padał deszcz prawie codziennie, jak to było w 2017 r.
 (aktualizacja - nie padał)
 
-{% photo "P5311362raw1.jpg","Dojeżdżając do Trzciela" %}
+{% photo "P5311362raw1.jpg","Dojeżdżając do Trzciela","timeline" %}
 
 [Trzciel][wiki-trzciel] jest bardzo ładnym miastem, pełnym starych
 budynków i klimatycznych miejsc.

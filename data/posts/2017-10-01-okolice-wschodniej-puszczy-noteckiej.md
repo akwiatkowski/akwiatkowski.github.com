@@ -80,7 +80,7 @@ Musieliśmy się cofnąć aby dojechać do [Obornik][wiki-oborniki], przed któr
 był całkiem mocny zjazd. Skoro musiałem hamować oznacza to stosunkowo
 mocny zjazd jak na okolice [Poznania][wiki-poznan].
 
-{% photo "IMGP0899raw1.jpg","Rzeka Flinta niedaleko Ryczywołu" %}
+{% photo "IMGP0899raw1.jpg","Rzeka Flinta niedaleko Ryczywołu","timeline" %}
 
 Z [Obornik][wiki-oborniki] musieliśmy jechać drogą 178 na północ przez
 [Dąbrówkę Leśną][wiki-dabrowka-lesna] a dalej przez 5km prostą drogą
@@ -108,7 +108,7 @@ Według mapy [UMP][ump] powinniśmy mieć dobrą, spokojną drogę asfaltową.
 W praktyce przez dłuższy czas była to ubita droga gruntowa. Może w niedalekiej
 przyszłości ma ona być asfaltowana.
 
-{% photo "IMGP0916raw1.jpg","Wjeżdzając do Sokołowa Budzyńskiego" %}
+{% photo "IMGP0916raw1.jpg","Wjeżdzając do Sokołowa Budzyńskiego","timeline" %}
 
 Zrobiłem kilka zdjęć "aby jakieś były". Cała trasę przejechaliśmy sprawnie
 i w miarę szybko.

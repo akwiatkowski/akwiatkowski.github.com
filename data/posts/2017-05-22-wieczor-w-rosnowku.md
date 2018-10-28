@@ -64,7 +64,7 @@ Idąc po drodzę zauważyłem, że na poboczu coś się poruszyło. Okazało si�
 był to kot. Jakis lokalny mały kotek przeszkodził mi w mojej trasie ale
 dał bardzo dużo okazji na zrobienie mu zdjęć.
 
-{% photo "IMGP6686raw1.jpg","Kot na ulicy Dworcowej" %}
+{% photo "IMGP6686raw1.jpg","Kot na ulicy Dworcowej","timeline,cat" %}
 
 Z drogi miałem widok na Jezioro Małe. Nie chciałem iść przez kogoś teren oraz
 miałem nadzieje, że po drugiej stronie będzie lepszy dostęp do wody.

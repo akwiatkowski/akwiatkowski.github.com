@@ -6,6 +6,7 @@ desc:                   "Wczesnowiosenny przejazd przez punkt widokowy w Dusznie
 keywords:               [pałuki, duszno, trzemeszno, wągrowiec, leszek biały, gąsawa, rzepak, wiosna]
 date:                   2017-05-13 19:00:00
 finished_at:            2017-10-10 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -83,7 +84,7 @@ W mieście przejechaliśmy obok Jeziora Mogileńskiego a następnie przejechali�
 mostem nad torami do [Orchowa][wiki-orchowo]. Jakiś czas temu jeździł
 po nich maluch-drezyna.
 
-{% photo "IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska" %}
+{% photo "IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska","timeline" %}
 
 Ruch samochodowy po opuszczeniu [Mogilna][wiki-mogilno] zmniejszył się istotnie.
 Miejscami trasa była ciekawa dzięki świeżo zielenionymi drzewami
@@ -109,7 +110,7 @@ Zjazd do [Padniewa][wiki-padniewo] był długi i spokojny. Jak to przy zjazdach
 najlepsze widoki są na początku i wtedy też było najbardziej stromo, chociaż
 nie tak bardzo nawet jak na te tereny. Widać było wiosnę w pełni.
 
-{% photo "IMGP6281raw2.jpg","Różne kolory pól" %}
+{% photo "IMGP6281raw2.jpg","Różne kolory pól","timeline" %}
 
 W [Padniewie][wiki-padniewo] zatrzymaliśmy się na skrzyżowaniu abym mógł
 sprawdzić mapę. Słyszeliśmy dziwne buczenie i patrząc na niebo zauważyliśmy
@@ -136,7 +137,7 @@ Wjechaliśmy w las. Czułem podobny klimat okolicy jak
 Minęliśmy niebieski szlak rowerowy którym można
 dojechać do [Chomiąży Szlacheckiej][wiki-chomiaza].
 
-{% photo "IMGP6293raw2.jpg","Droga przez pola rzepaku" %}
+{% photo "IMGP6293raw2.jpg","Droga przez pola rzepaku","timeline" %}
 
 Dojechaliśmy do [Oćwieka][wiki-ocwieka]. Przez tą wieś również
 [kiedyś przejeżdzałem]({% post_url 2016-09-25-ze-skokow-do-janikowa %}).

@@ -103,7 +103,7 @@ szynobusem albo przesiąść się i jechać dalej do [Chojnic][wiki-chojnice].
 Ta trasa mnie najbardziej interesowała gdyż jeździ tam tylko jedna para
 pociągów dziennie (mogę się mylić).
 
-{% photo "IMGP8585raw1.jpg","Droga polna niedaleko miejscowości Zalesie" %}
+{% photo "IMGP8585raw1.jpg","Droga polna niedaleko miejscowości Zalesie","timeline" %}
 
 Wyjeżdzając z [Kościerzyny][wiki-koscierzyna] wkroczyliśmy w las. Las ten
 różnił się od kaszubskich lasów. Ten był bardziej "zorganizowany".

@@ -1,11 +1,12 @@
 ---
 layout:                 post
-title:                  "Rozpoczęcie sezonu niedaleko Promna i małych jeziorek"
+title:                  "Rozpoczęcie sezonu rowerowego niedaleko Promna i małych jeziorek"
 subtitle:               "pierwsza dłuższa jazda rowerem w 2017 roku"
 desc:                   "Wczesnowiosenny przejazd rowerem z Poznania do Parku Krajobrazowego Promno"
 keywords:               [promno, jeziora, pobiedziska, park krajobrazowy]
 date:                   2017-03-04 18:00:00
 finished_at:            2017-04-25 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -79,7 +80,7 @@ przyjemnie terenowa.
 Z [Gruszczyna][wiki-gruszczyn] jechaliśmy cały czas na wschód do [Uzarzewa][wiki-uzarzewo].
 Podobał mi się zjazd w [Katarzynkach][wiki-katarzynki].
 
-{% photo "IMGP3071raw1.jpg","Droga do Promienka" %}
+{% photo "IMGP3071raw1.jpg","Droga do Promienka","timeline" %}
 
 Cały czas jechaliśmy prosto przez jeszcze łyse pola. Po prawej widzieliśmy obniżenie
 terenu - dolinę rzeki [Cybiny][wiki-cybina]. Teraz gdy to piszę przypomniało mi się,
@@ -102,7 +103,7 @@ i musiałem wracać. Odłączyłem się od Macieja i chciałem przez [Kaczynę][
 ścieżkami polnymi dostać się do stacji
 [Pobiedziska Letniska][wiki-pobiedziska-letniska].
 
-{% photo "IMGP3079raw1.jpg","Droga przez Kaczynę" %}
+{% photo "IMGP3079raw1.jpg","Droga przez Kaczynę","timeline" %}
 
 Droga niestety tam była tylko na mapie. Musiałbym przejść przez teren prywatny.
 Szybka analiza na mapie i ruszyłem w stronę [Pobiedzisk][wiki-pobiedziska].

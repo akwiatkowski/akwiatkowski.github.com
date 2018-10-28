@@ -6,6 +6,7 @@ desc:                   "Jest to drugi dzień weekendowej trasy po Pomorzu i sze
 keywords:               [miłomłyn, malbork, upał, pagórki, górki, pomorskie, jezioro ewingi, mazury, pomorze]
 date:                   2018-06-10 20:00:00
 finished_at:            2018-07-04 22:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6100512raw2.jpg
@@ -77,7 +78,7 @@ Ustawiłem budzik na 6:40 i udało mi się obudzić o tej godzinie, ale jeszcze 
 Chwilę przed 8:00 zacząłem robić śniadanie. Plan wyjścia na wschód słońca
 się nie bardzo powiódł.
 
-{% photo "P6100316raw1.jpg","Okolice Bynowa" %}
+{% photo "P6100316raw1.jpg","Okolice Bynowa","timeline" %}
 
 Maciej wstał o 3:30 i ruszył samochodem do [Bydgoszczy][wiki-bydgoszcz], gdzie
 o 6:12 miał pociag w stronę [Olsztyna][wiki-olsztyn].
@@ -87,7 +88,7 @@ Zauważyłem wtedy, że opony są już mocno zużyte. Nie chodzi tylko o sam bie
 ale o delikatne przedarcie z boku oraz wzdłuż obręczy.
 Tego dnia musiałem uważać, zwłaszcza na zjazdach.
 
-{% photo "P6100323raw1.jpg","Przejeżdzając przez las obok Jeziora Karnickiego" %}
+{% photo "P6100323raw1.jpg","Przejeżdzając przez las obok Jeziora Karnickiego","timeline" %}
 
 Ruszyliśmy dopiero o 8:40, mieliśmy małe opóźnienie.
 Z Maciejem ustaliliśmy punkt spotkania we wsi [Boreczno][wiki-boreczno].
@@ -119,14 +120,14 @@ dość podobne do siebie. Krajobraz był (jeszcze)
 raczej płaski. Patrząc na mapę zaciekawiły mnie duże ilości jezior na południe
 tylko to nie było naszym celem dzisiaj.
 
-{% photo "P6100341raw1.jpg","Opuszczając Zalewo" %}
+{% photo "P6100341raw1.jpg","Opuszczając Zalewo","timeline" %}
 
 Wjechaliśmy do [Zalewa][wiki-zalewo]. Była to większa miejscowość na naszej
 trasie. Zrobiliśmy przerwę przy
 sklepie (Lewiatan czynny jest w niedziele) siedząc pod drzewem.
 W taką pogodę jak dzisiaj przerwy musieliśmy robić regularne.
 
-{% photo "P6100360raw1.jpg","Na zdjęciach nie widać tego jak było ciepło" %}
+{% photo "P6100360raw1.jpg","Na zdjęciach nie widać tego jak było ciepło","timeline" %}
 
 Ruszyliśmy na zachód drogą 519 do [Przezmarka][wiki-przezmark] odległego o 8km.
 Pomimo poruszania się po drodze wojewódzkiej ruch był minimalny.
@@ -154,7 +155,7 @@ mniejszy ruch, a nie potrzebujemy idealnego asfaltu.
 W okolicy jest rozebrana [linia kolejowa 218][wiki-linia-218], której
 najbliższa stacja była w [Folwarku][wiki-folwark] oddalonym o 3km.
 
-{% photo "P6100394raw1.jpg","Brama na pole w okolicy Przezmarka" %}
+{% photo "P6100394raw1.jpg","Brama na pole w okolicy Przezmarka","timeline" %}
 
 Zrobiliśmy krótką przerwę na zdjęcia odpoczywających krów w cieniu. Krajobraz
 jest tam dość pofalowany. Zwłaszcza patrząc na obniżenie na wschód
@@ -169,7 +170,7 @@ na północ i wtedy skręcić na zachód. W tym miejscu droga wojewódzka
 osiągnęła chyba swoje minimum jakości. Czułem się, jakbym przejeżdzał
 przez jakąś podsudecką wioskę.
 
-{% photo "P6100404raw1.jpg","Dojeżdzając do Lubochowa teren był bardziej pagórkowaty" %}
+{% photo "P6100404raw1.jpg","Dojeżdzając do Lubochowa teren był bardziej pagórkowaty" ,"timeline" %}
 
 Na przystanku autobusowym (chociaż zdziwiłbym się gdyby przyjechał tego dnia
 jakikolwiek autobus)
@@ -177,7 +178,7 @@ spytałem się starszego pana o jakość drogi. Powiedział, że droga do
 [Lubochowa][wiki-lubochowo] jest w jeszcze lepszym stanie niż droga,
 po której właśnie jedziemy.
 
-{% photo "P6100412raw1.jpg","Pofalowana droga do Lubochowa" %}
+{% photo "P6100412raw1.jpg","Pofalowana droga do Lubochowa","timeline" %}
 
 Przejechaliśmy wiaduktem nad rozebraną [linią kolejową 218][wiki-linia-218].
 
@@ -200,20 +201,20 @@ Czekał nas teraz zjazd 40m w dół do [Dzierzgonia][wiki-dzierzgon].
 Powoli niebo pokrywało się chmurami, co było akurat dobre
 w tak upalny dzień (chociaż cały weekend był upalny).
 
-{% photo "P6100439raw1.jpg","Polna droga niedaleko Dzierzgonia" %}
+{% photo "P6100439raw1.jpg","Polna droga niedaleko Dzierzgonia","timeline" %}
 
 [Dzierzgoń][wiki-dzierzgon] położony jest w dolinie rzeki o tej samej nazwie.
 Zrobiliśmy tam przerwę na lody i chyba już zadecydowaliśmy, że dzisiaj
 trasę kończymy w [Malborku][wiki-malbork]. Niebo było już całe przykryte
 chmurami.
 
-{% photo "P6100451raw1.jpg","Pofalowana okolica Tropów Sztumskich" %}
+{% photo "P6100451raw1.jpg","Pofalowana okolica Tropów Sztumskich","timeline" %}
 
 Po miłym zjeździe czekał nas podjazd. Musieliśmy podjecha 40m jadąc
 przez blokowisko. Jechaliśmy teraz drogą 515 bezpośrednio
 do [Malborka][wiki-malbork].
 
-{% photo "P6100464raw1.jpg","Minimalistyczne pagórki" %}
+{% photo "P6100464raw1.jpg","Minimalistyczne pagórki","timeline" %}
 
 Dojeżdzając do [Litewek][wiki-litewki] ponownie teren wokół nas
 był pofalowany.
@@ -229,7 +230,7 @@ W [Brzozówce][wiki-brzozowka] Maciej zaproponował aby "skrócić".
 Wiedzieliśmy, że to nie będzie żaden skrót, ale na pewno będzie
 ciekawiej. Skręciliśmy w prawo na północ drogą gruntową.
 
-{% photo "P6100499raw1.jpg","Warstwy pól" %}
+{% photo "P6100499raw1.jpg","Warstwy pól","timeline" %}
 
 Miejscami mieliśmy bardzo dobry widok w okolice
 [Żuwałki Sztumskiej][wiki-zulawka-sztumska].
@@ -245,7 +246,7 @@ Kierowaliśmy się przez [Jordanki][wiki-jordanki] i
 Opuszczając [Szropy][wiki-szropy] widziałem ślad po
 [linii kolejowej 222][wiki-linia-222].
 
-{% photo "P6100518raw1.jpg","Klasyczna wiejska droga" %}
+{% photo "P6100518raw1.jpg","Klasyczna wiejska droga","timeline" %}
 
 Zastanawiajac się na przyszłość jeżeli chiałbym przyjechać i porobić zdjęcia
 to jest połączenie kolejowe z [Malborka][wiki-malbork] do

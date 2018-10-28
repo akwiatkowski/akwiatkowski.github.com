@@ -6,6 +6,7 @@ desc:                   "Przejazd przez okolice Powidzkiego Parku Krajobrazowego
 keywords:               [powidz, kamionek, gębice, wydartowo, słupca]
 date:                   2017-05-27 17:00:00
 finished_at:            2017-10-13 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -189,7 +190,7 @@ Dojechaliśmy do plaży w [Kamionkach][wiki-kamionek] gdzie zrozumiałem że nie
 dużo czasu. Ruszyliśmy na północ przez [Łosośniki][wiki-lososniki].
 Trochę czasu "zmarnowaliśmy" na zdjęcia obniżenia terenu po lewej (na zachód).
 
-{% photo "IMGP6868raw1.jpg","Droga do Targownicy" %}
+{% photo "IMGP6868raw1.jpg","Droga do Targownicy","timeline" %}
 
 Od teraz jechaliśmy szybko i sprawnie. Celem była stacja w [Wydartowie][wiki-wydartowo].
 Ostatnie 2.5km musieliśmy przejechać po drodzę 15-ce denerwując kierowców,

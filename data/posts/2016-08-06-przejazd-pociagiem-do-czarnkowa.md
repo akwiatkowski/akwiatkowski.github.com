@@ -80,7 +80,7 @@ przez dłuższy czas za [Wągrowcem][wiki-wagrowiec] nie było wiele do obserwac
 Linia kolejowa mocno zarosła ponieważ (chyba) nic tam nie jeździ teraz. Wyglądało to
 jakby pociąg przedzierał się przez puszczę.
 
-{% photo "IMGP3800raw1.jpg","Snopki po żniwach" %}
+{% photo "IMGP3800raw1.jpg","Snopki po żniwach","timeline" %}
 
 Gdy minęliśmy lasy jechaliśmy wokół pól. Wioski były obok, ale były one bardzo małe
 i jakoś budynków niewiele widziałem.
@@ -144,7 +144,7 @@ Pogoda zaczęła się poprawiać i teraz prawie cały czas obserwowałem z okna 
 Pociąg poruszał się około 30km/h. Przy dobrej pogodzie te tereny są znacznie
 ładniejsze.
 
-{% photo "IMGP3976raw1.jpg","Okolice Lubasza" %}
+{% photo "IMGP3976raw1.jpg","Okolice Lubasza","timeline" %}
 
 Gdy minęliśmy [Rogoźno][wiki-rogozno] pojawiło się sporo chmur i w połowie
 drogi do [Wągrowca][wiki-wagrowiec] rozpoczęła się dość solidna burza.

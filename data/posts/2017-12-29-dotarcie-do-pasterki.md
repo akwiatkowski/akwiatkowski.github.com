@@ -95,12 +95,12 @@ W [Radkowie][wiki-radkow] po wyjściu z autobusu uderzyło nas zimno. Postanowil
 wejść do pobliskiej restauracji na zupę. Dzięki temu mogłem przebrać się
 w ubranie odpowiedniejsze do "spaceru".
 
-{% photo "IMGP3790raw1.jpg","Podejście żółtym szlakiem pieszym" %}
+{% photo "IMGP3790raw1.jpg","Podejście żółtym szlakiem pieszym","timeline" %}
 
 Ruszyliśmy ulicą Jagiellońską w kierunku [Pasterki][wiki-pasterka]. Widzieliśmy
 kilku biegaczy oraz dom z podejrzanie dużą ilością okien.
 
-{% photo "IMGP3790raw1.jpg","Podejście żółtym szlakiem pieszym" %}
+{% photo "IMGP3806raw1.jpg","Żółty szlak pieszy" %}
 
 Gdy dotarliśmy do zakrętu przeszliśmy na zielony szlak pieszy w stronę
 wodospadu [Pośny][wiki-posna]. Miejsce to poznałem pierwszy raz
@@ -125,4 +125,4 @@ Wyszliśmy z lasu. Do [schroniska][wiki-pasterka-schronisko] zostało nam
 800 metrów. Wiatr silnie wiał nam prosto w twarz. Nie mając już żadnego podejścia
 samo dostanie się do schroniska było bezproblemowe.
 
-{% photo "IMGP3831raw1.jpg","Dochodząc do schroniska Pasterka" %}
+{% photo "IMGP3831raw1.jpg","Dochodząc do schroniska Pasterka","timeline" %}

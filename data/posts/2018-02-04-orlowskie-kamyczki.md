@@ -6,6 +6,7 @@ desc:                   "Krótki poranny spacer na pograniczu Sopotu i Gdyni. Pl
 keywords:               [sopoto, gdynia, orłowo, kamienie, wybrzeże, długie naświetlenie, long exposure]
 date:                   2018-02-04 09:00:00
 finished_at:            2018-02-21 15:30:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5567raw1.jpg

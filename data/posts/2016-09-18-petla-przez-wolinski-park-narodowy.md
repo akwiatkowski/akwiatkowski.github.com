@@ -86,7 +86,7 @@ Wjechaliśmy w [Woliński Park Narodowy][wiki-wolinski-park] i przedzieraliśmy
 się przez małą puszczę złożoną głównie z paproci. Ścieżka była przez prawie cały
 czas na szerokość jednej osoby a przez 1/3 trasy musieliśmy rowery prowadzić.
 
-{% photo "IMGP6757raw1.jpg","Wjeżdzając do Wolińskiego Parku Narodowego" %}
+{% photo "IMGP6757raw1.jpg","Wjeżdzając do Wolińskiego Parku Narodowego","timeline" %}
 
 Gdy pieszy czerwony szlak złączył się z niebieskim rowerowym ruszyliśmy
 już trochę szybciej. Po 3km byliśmy już w południowej części

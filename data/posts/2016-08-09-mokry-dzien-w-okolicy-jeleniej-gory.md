@@ -115,7 +115,7 @@ po chwili wjechaliśmy w las. Nie była ona tak przyjemna jak singletraki
 [dzień wcześniej]({% post_url 2016-08-08-krotkie-popoludnie-w-swieradowie %})
 gdyż czasami była bardzo kamienista. Na szczęścia nie była ona stroma.
 
-{% photo "IMGP4188raw1.jpg","Tutaj czekaliśmy aż deszcz przestanie padać, ale nie przestawał" %}
+{% photo "IMGP4188raw1.jpg","Tutaj czekaliśmy aż deszcz przestanie padać, ale nie przestawał","timeline" %}
 
 Po chwili natrafiliśmy na wycinkę drzew i musieliśmy chwilę poczekać, aż
 leśnicy ściągną drzewo. Chwilę dalej zaczęło padać. Schroniliśmy się pod drzewem, ale

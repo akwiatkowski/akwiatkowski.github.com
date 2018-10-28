@@ -68,6 +68,6 @@ Zatoczka na Łęgach Dębińskich. Wokół spadły już chyba wszystkie liście.
 Jest to moje ulubione miejsce. Staw ten jest bardzo rozciągnięty. Można spokojnie chodzić
 wokół niego.
 
-{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy" %}
+{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy","timeline" %}
 
 Główna ścieżka przechodząca przez Łęgi - niebieski (Nadwarciański) szlak rowerowy.

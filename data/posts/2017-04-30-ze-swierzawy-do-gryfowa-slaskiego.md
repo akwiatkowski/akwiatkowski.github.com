@@ -6,6 +6,7 @@ desc:                   "Przejazd przez bardzo malownicze i trochę zapomniane t
 keywords:               [jelenia, świerzawa, nowy kościół, sędziszów, kaczawskie, kaczawa, proboszczów, ostrzyca, wleń, młodochów, lubomierz, gryfów, wulkany]
 date:                   2017-04-30 20:00:00
 finished_at:            2017-08-31 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -115,7 +116,7 @@ Szczegóły
 Następnego dnia zaczęliśmy realizacje trasy tego wpisu. Pogoda zmieniła się
 diametralnie na lepszą.
 
-{% photo "IMGP5161raw1.jpg","Widok na Jelenią Górę i Śnieżkę z Dziwiszowa" %}
+{% photo "IMGP5161raw1.jpg","Widok na Jelenią Górę i Śnieżkę z Dziwiszowa","timeline" %}
 
 Nasza baza była w miejscu położonym dość wysoko - w górnej części
 wsi [Dziwiszów][wiki-dziwiszow] do której dojeżdza autobus miejski linii nr 9.
@@ -158,7 +159,7 @@ Przejechaliśmy nad torami kolejowymi
 nieczynnej [linii kolejowej 312][wiki-linia-312]. Jest to chyba linia którą
 najbardziej chciałbym się przejechać z tych już niedostępnych teraz.
 
-{% photo "IMGP5183raw1.jpg","Ostatni widok na Świerzawę" %}
+{% photo "IMGP5183raw1.jpg","Ostatni widok na Świerzawę","timeline" %}
 
 Skręciliśmy w ulicę Lipową i podjeżdzając zaczęliśmy opuszczać tą
 klimatyczną miejscowość. Polecam każdemu odwiedzić ją jesienią, najlepiej
@@ -173,7 +174,7 @@ i wjechaliśmy w las, a później znowu trochę pól przed wsią [Gozdno][wiki-g
 Sama wieś wyglądała jak cztery domy ukryte drzewami lecz jadąc w tym kierunku
 czekał na nas bardzo przyjemny zjazd.
 
-{% photo "IMGP5210raw1.jpg","Opuszczając Biegoszów" %}
+{% photo "IMGP5210raw1.jpg","Opuszczając Biegoszów","timeline" %}
 
 Dojeżdzając do [Biegoszowa][wiki-biegoszow] wyraźnie poprawiła się jakość drogi.
 Będąc już we wsi skręciliśmy na zachód jadąc nadal czerwonym szlakiem rowerowym.
@@ -210,7 +211,7 @@ Teren zdecydowanie nas uspokajał. Widać było że wsie położone są w dolina
 daną wieś czekał delikatny podjazd, który zamieniał się w zjazd gdy
 wjeżdzaliśmy do kolejnej miejscowości.
 
-{% photo "IMGP5249raw1.jpg","Pola Pogórza Kaczawskiego" %}
+{% photo "IMGP5249raw1.jpg","Pola Pogórza Kaczawskiego","timeline" %}
 
 Na horyzoncie widzieliśmy [Ostrzycę][wiki-ostrzyca] obok [Proboszczowa][wiki-proboszczow],
 jednak nie była ona naszym celem. Byłem na niej
@@ -264,7 +265,7 @@ Skręciliśmy na zachód i jechaliśmy lekkim podjazdem do [Lubomierza][wiki-lub
 Droga ta raczej nie miała nic ciekawego ale polecam sobie przejechać aby
 zobaczyć to własnymi oczami.
 
-{% photo "IMGP5299raw1.jpg","Wioski pod Masłowcem" %}
+{% photo "IMGP5299raw1.jpg","Wioski pod Masłowcem","timeline" %}
 
 Z [Lubomierza][wiki-lubomierz] pojechaliśmy przez [Radoniów][wiki-radoniow]
 chcąc jak najbszybciej dostać się na stację w [Gryfowie Śląskim][wiki-gryfow].

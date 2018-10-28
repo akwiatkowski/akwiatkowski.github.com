@@ -6,6 +6,7 @@ desc:                   "Bardzo krótka piesza wycieczka po drodze krzyżowej na
 keywords:               [bardzo, bardzkie, jesień, bardo przysiek, droga krzyżowa]
 date:                   2017-10-22 13:00:00
 finished_at:            2017-12-14 14:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main, mountains]
@@ -56,7 +57,7 @@ drogą krzyżową.
 Oprócz źródła Marii i samych pomników - stacji drogi krzyżowej, szlak ten nie
 miał w sobie wiele ciekawego.
 
-{% photo "IMGP2446raw1.jpg","Źródło Marii" %}
+{% photo "IMGP2446raw1.jpg","Źródło Marii","timeline" %}
 
 W okolicy jest żółty szlak rowerowy, który powinien być dość przyjemny i
 łatwy do jazdy. Tak przewiduję, nie jestem tego pewien, gdyż widziałem

@@ -6,6 +6,7 @@ date:                   2016-08-17 09:00:00
 finished_at:            2016-08-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167920975/q%3D80_m%3D2000/a20ed066eec5b4095e1df039ce01b0cd"
+header_nogallery:       true
 categories:             article
 tags:                   [opinion]
 ---

@@ -142,7 +142,7 @@ Dalsza część trasy to miał być sam zjazd.
 W rzeczywistości nie było tak. Czasami były krótkie malutkie podjazdy i
 musieliśmy te 2-3m podjechać.
 
-{% photo "IMGP0061raw1.jpg","Zjazd do Bystrzycy" %}
+{% photo "IMGP0061raw1.jpg","Zjazd do Bystrzycy","timeline" %}
 
 Dotarliśmy do [Sędziszowa Małopolskiego][wiki-sedziszow-malopolski]
 14 minut przed odjazdem naszego pociągu. O emocjach wolę nie pisać. Nie

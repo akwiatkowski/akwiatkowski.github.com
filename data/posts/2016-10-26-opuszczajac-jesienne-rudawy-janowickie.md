@@ -6,6 +6,7 @@ date:                   2016-10-26 11:00:00
 finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
+header_timeline:        true
 categories:             trip
 tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
@@ -48,7 +49,7 @@ Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
 zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
-{% photo "IMGP8757raw1.jpg","Rzeka Bóbr" %}
+{% photo "IMGP8757raw1.jpg","Rzeka Bóbr","timeline" %}
 
 Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
 wioski - chociaż przeszedłem tylko przez
@@ -70,4 +71,4 @@ Wnioski
 * Po deszczu bardzo często pojawiają się mgły, ale dopiero na odpowiedniej wysokości.
   Zalecane jest być na 500-600m n.p.m.
 
-  {% photo "IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku" %}
+  {% photo "IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku","timeline" %}

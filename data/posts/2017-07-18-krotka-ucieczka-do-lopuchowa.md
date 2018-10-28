@@ -50,7 +50,7 @@ Szczegóły
 Trasa do [Biedruska][wiki-biedrusko] jest mi znana. Jechałem ją już wiele razy lecz
 nie tak często jak trasa na stację [Poznań Garbary][wiki-poznan-garbary].
 
-{% photo "IMGP8899raw1.jpg","Pole przed Murowaną Gośliną" %}
+{% photo "IMGP8899raw1.jpg","Pole przed Murowaną Gośliną","timeline" %}
 
 Do [Murowanej Gośliny][wiki-murowana-goslina] dojechałem z zachodniej strony
 przez [Raduszyn][wiki-raduszyn].

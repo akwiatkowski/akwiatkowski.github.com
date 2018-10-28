@@ -6,6 +6,7 @@ desc:                   "Jednodniowa wycieczka rowerowa przez kilka jezior w woj
 keywords:               [lubuskie, jeziora, trzeboch, czerniak, niesłysz, niesulice, łagowskie, łagów]
 date:                   2017-06-03 17:00:00
 finished_at:            2017-10-15 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -65,7 +66,7 @@ Musieliśmy jechać drogami wojewódzkimi czasami
 nie mając dróg regionalnych jako sensownej alternatywy dla naszej zaplanowanej
 trasy.
 
-{% photo "IMGP6890raw1.jpg","Droga niedaleko Łochowa" %}
+{% photo "IMGP6890raw1.jpg","Droga niedaleko Łochowa","timeline" %}
 
 Analizując dojazd do [Łagowa][wiki-lagow] okazało się, że tym razem jest lepiej.
 Nie będziemy skazani na drogi wojewódzkie.
@@ -73,7 +74,7 @@ Nie będziemy skazani na drogi wojewódzkie.
 Ruszyliśmy drogą 277 z [Sulechowa][wiki-sulechow] w kierunku północno-zachodnim.
 Ruch na tej drodze był raczej spokojny i można było odczuć klimat dzikiej Polski.
 
-{% photo "IMGP6939raw1.jpg","Pola niedaleko Ołobok" %}
+{% photo "IMGP6939raw1.jpg","Pola niedaleko Ołobok","timeline" %}
 
 Mijaliśmy już w pełni zielone drzewa, a zboże na polach już opuszczało fazę
 koloru zielonego pokazująć że po wiośnie przyjdzie lato.
@@ -160,7 +161,7 @@ przez górę Bukowiec. Okazało się, że Bukowiec to wzniesienie o wysokości
 około 230 metrów n.p.m. Nie byłem pewien tej drugiej opcji, bo przez poligon
 jechać nie chciałem.
 
-{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa" %}  
+{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa","timeline" %}  
 
 Pojechaliśmy w stronę Bukowca. Rozpoczął się lekki podjazd i droga brukowa. Miałem już
 dość dzisiejszego dnia takiej nawierzchni. Po prawej stronie

@@ -6,6 +6,7 @@ desc:                   "To był ostatni dzień pobytu w Trójmieście. Na każd
 keywords:               [sopot, plaża, wschód, czerwień, morze, bałtyk, długie naświetlanie, cokin]
 date:                   2018-02-05 09:00:00
 finished_at:            2018-02-09 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5706raw1.jpg
@@ -52,7 +53,7 @@ chwilę spóźniłem i nie zdążę dojść do [mola w Orłowie][wiki-orlowo-mol
 Wszystkie zdjęcia robiłem z wykorzystaniem filtrów Cokin Nuance ND256/NDx2.4,
 Hitech odwrócony połówkowy ND8/NDx0.9 oraz Cokin 121S (połówkowy miękki ND16/NDx1.2).
 
-{% photo "IMGP5709raw1.jpg","Szkielet małego tarasu w Sopocie o poranku" %}
+{% photo "IMGP5709raw1.jpg","Szkielet małego tarasu w Sopocie o poranku","timeline" %}
 
 Postanowiłem wykorzystać szkielet pomostu/tarasu niedaleko
 restauracji (góralskiej!) [Koliba][koliba].
@@ -85,7 +86,7 @@ zmieni się rezultat danego dnia albo nawet dłuższego obszaru czasowego. Pogod
 się zmienia, klimat się zmienia. Mamy określoną ilość wolnego czasu i może się
 okazać, że powtórzenie danego zdjęcia będzie możliwe dopiero za kilka lat.
 
-{% photo "IMGP5726raw1.jpg","Efekt nocnego przymrozku - sople" %}
+{% photo "IMGP5726raw1.jpg","Efekt nocnego przymrozku - sople","timeline" %}
 
 Postanowiłem udać się w stronę [molo w Sopocie][wiki-sopot-molo] niedaleko
 którego jest uszkodzony drewniany pomost i tam zrobić kilka zdjęć.

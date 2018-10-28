@@ -65,7 +65,7 @@ dużo drzew w tym momencie kwitnie.
 Byłem przekonany że okolice [Kościerzyny][wiki-koscierzyna] będą
 równie pięknie wyglądały.
 
-{% photo "IMGP6538raw1.jpg","Dojeżdzając do Gdańska" %}
+{% photo "IMGP6538raw1.jpg","Dojeżdzając do Gdańska","timeline" %}
 
 Dojeżdzając do [Gdańska][wiki-gdansk] niestety objawy wiosny nie były już tak
 widoczne. Zmartwiło mnie to troche.
@@ -109,7 +109,7 @@ Niektóre roślinki zebrały bardzo dużą kroplę.
 A inne miały dużo małych kropelek. Niestety takie właśnie widoki dla mnie były
 najciekawsze według mnie.
 
-{% photo "IMGP6769raw1.jpg","Dużo małych kropelek" %}
+{% photo "IMGP6769raw1.jpg","Dużo małych kropelek","timeline" %}
 
 Mineliśmy drogą wchodząc do Rezeratu przyrody Szczyt
 [Wieżycy][wiki-wiezyca-wzgorze]. Krajobraz nie
@@ -117,7 +117,7 @@ różnił się od tego, jaki kiedyś doświadczyłem
 w [styczniu w Górach Sowich]({% post_url 2014-01-03-okolice-gluszycy %}).
 Taki późno jesienny, gdy wszystkie liście które mogły spaść, już spadły.
 
-{% photo "IMGP6811raw1.jpg","Wejście do Rezerwatu Szczyt Wieżycy" %}
+{% photo "IMGP6811raw1.jpg","Wejście do Rezerwatu Szczyt Wieżycy","timeline" %}
 
 Weszliśmy na wieżę widokową, będąc teraz na wysokości ponad 300m n.p.m. Miałem przy sobie
 Sigmę 18-200, która ma całkiem dobrą ostrość lecz spore winietowanie.
@@ -136,7 +136,7 @@ Kolejnym etapem było przejście żółtym szlakiem pieszym do [Krzesznej][wiki-
 Ruszyliśmy pofalowanymi polami. Zastanawiałem się, jak tutaj będzie wyglądała okolica
 gdy pola się już zazielenią, albo przed żniwami.
 
-{% photo "IMGP6968raw1.jpg","Idąc polami do Krzesznej" %}
+{% photo "IMGP6968raw1.jpg","Idąc polami do Krzesznej","timeline" %}
 
 Ruszyliśmy czerwonym szlakiem pieszym w stronę [Wieżycy][wiki-wiezyca]. Wydawało mi się,
 że jest to lepszy pomysł niż ruszać niepewną (pod względem widokowym i powrotem) trasą

@@ -100,7 +100,7 @@ Bardzo dużo ludzi czatowało z aparatami na nas na trasie. Niektórzy naprawdę
 trudno dostępne miejsca, ale większość ustawiała się w okolicy przejazdów
 albo przystanków.
 
-{% photo "IMGP3444raw2.jpg","Stacja w Rynarzewie" %}
+{% photo "IMGP3444raw2.jpg","Stacja w Rynarzewie","timeline" %}
 
 Przejechaliśmy przez most nad [Notecią][wiki-notec], a właściwie jej górnym kanałem.
 Właściwą [Noteć][wiki-notec] mineliśmy później.
@@ -127,7 +127,7 @@ Niedaleko na rynku była wystawa na temat
 Dowiedzieliśmy się gdzie jest muzem. Udaliśmy się tam zabierając zestaw
 darmowych ulotek o tej okolicy.
 
-{% photo "IMGP3565raw1.jpg","Noteć" %}
+{% photo "IMGP3565raw1.jpg","Noteć","timeline" %}
 
 Sama miejscowość [Szubin][wiki-szubin] sprawiała wrażenie trochę śpiącej
 pomimo tego, że był to wtorek.
@@ -182,7 +182,7 @@ Natomiast województwo kujawsko-pomorskie niechętnie myśli o
 planie (nawet podstawowym) wyremontowania fragmentu z [Gołańczy][wiki-golancz] przez
 [Kcynię][wiki-kcynia] i [Szubin][wiki-szubin].
 
-{% photo "IMGP3810raw1.jpg","Okolice wsi Rusiec" %}
+{% photo "IMGP3810raw1.jpg","Okolice wsi Rusiec","timeline" %}
 
 Jednym z elementów misji [Turkolu][turkol] jest wpływanie w stronę reaktywacji
 połączeń kolejowych i tutaj również dało się to odczuć, że dzisiejszy przejazd ma być
@@ -191,7 +191,7 @@ kolejnym impulsem do władz.
 Ruszyliśmy dalej na południe w stronę [Gniezna][wiki-gniezno]. Przejechaliśmy
 przez [Wapno][wiki-wapno] a następnie [Damasławek][wiki-damaslawek].
 
-{% photo "IMGP3832raw1.jpg","Przed wjazdem do Wapna" %}
+{% photo "IMGP3832raw1.jpg","Przed wjazdem do Wapna","timeline" %}
 
 W [Damasławku][wiki-damaslawek] zrobiliśmy przerwę i zrobiłem kilka zdjęć
 klimatycznego dworca. Wyjeżdzając widziałem miejsce od którego zostały rozebrane

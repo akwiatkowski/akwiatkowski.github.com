@@ -74,7 +74,7 @@ przez ten czas temperatura powinna wzrosnać.
 Gdy wysiedliśmy w [Bojanowie][wiki-bojanowo] nie bardzo wiedziałem gdzie jechać,
 chociaż gdy patrzę na mapę zawsze to jest takie oczywiste.
 
-{% photo "IMGP6191raw1.jpg","Zalegający śnieg w rowie" %}
+{% photo "IMGP6191raw1.jpg","Zalegający śnieg w rowie","timeline" %}
 
 Ruszyliśmy na północ w stronę [Pońca][wiki-poniec]. Droga była dość prosta i
 niezbyt ciekawa. W rowie widzieliśmy śnieg, który nie zdążył się roztopić.
@@ -121,7 +121,7 @@ Podczas opuszczania tej miejscowości był bardzo fajny zjazd z widokiem na
 Jezioro Grodzisko. Musiałem uważać na leniwie spacerującego
 sobie kota.
 
-{% photo "IMGP6199raw1.jpg","Towarzyski kot w Grodzisku","nogallery" %}
+{% photo "IMGP6199raw1.jpg","Towarzyski kot w Grodzisku","nogallery,cat" %}
 
 Do [Świerczyny][wiki-swierczyna] jechaliśmy drogą asfaltową wokół pól.
 Wydaję mi się, że tutaj zaczynały się najciekawsze tereny tego wyjazdu.
@@ -133,7 +133,7 @@ jest Jezioro Ziemnickie.
 
 Wyjeżdzając jechaliśmy przez las i bardziej pofalowany teren.
 
-{% photo "IMGP6209raw1.jpg","Przed Wojnowicami" %}
+{% photo "IMGP6209raw1.jpg","Przed Wojnowicami","timeline" %}
 
 Dotarliśmy do [Wojnowic][wiki-wojnowice]. W tym miejscu skończył się
 najciekawszy teren tego wyjazdu. Mogliśmy skrócić trasę jadąc do

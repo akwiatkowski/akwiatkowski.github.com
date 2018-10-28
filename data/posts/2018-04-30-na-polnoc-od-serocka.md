@@ -108,14 +108,14 @@ podzieloną na rzadko wybudowane gospodarstwa rolne. Wokół nich jest
 sieć dróg asfaltowych całkiem dobrej jakości. Zdecydowanie ładniejsze dla mnie
 są wioski bardziej "zbite", gdzie pola są "z tyłu" za domami.
 
-{% photo "IMGP8159raw1.jpg","Okolice Serocka" %}
+{% photo "IMGP8159raw1.jpg","Okolice Serocka","timeline" %}
 
 Podobało mi się obniżenie terenu na zachód od drogi.
 
 Wjeżdzaliśmy do wsi [Małe Łąkie][wiki-male-lakie] chociaż bardziej skupiałem się
 na tym obniżeniu i otaczających zielonych polanach.
 
-{% photo "IMGP8168raw1.jpg","Domy w Małym Łąkiem" %}
+{% photo "IMGP8168raw1.jpg","Domy w Małym Łąkiem","timeline" %}
 
 Na skrzyżowaniu przed [Świekatowem][wiki-swiekatowo] skręciliśmy w prawo na wschód.
 Wiatr uderzył nas od razu gdyż jechaliśmy teraz w przeciwnym kierunku.
@@ -144,7 +144,7 @@ Zrobiliśmy przerwę na drugie śniadanie w centrum [Bukowca][wiki-bukowiec]
 a po tym ruszyliśmy w stronę [Plewna][wiki-plewno]. Już teraz tereny były bardziej
 urozmaicone niż tylko płaskie zielone poletka.
 
-{% photo "IMGP8248raw2.jpg","Między Plewnem a Drzycimem" %}
+{% photo "IMGP8248raw2.jpg","Między Plewnem a Drzycimem","timeline" %}
 
 Z [Plewna][wiki-plewno] zostało do przejechania 7k do
 [Drzycimia][wiki-drzycim]. Przez tą miejscowość

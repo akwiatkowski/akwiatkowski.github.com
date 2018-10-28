@@ -6,6 +6,7 @@ desc:                   "Teoretycznie bardzo krótka trasa rowerowa - przejażd�
 keywords:               [skorzęcin, trzemeszno, strzelno, łąkie, trzemżal]
 date:                   2017-08-05 18:00:00
 finished_at:            2017-12-06 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -56,7 +57,7 @@ wyraźnie zmniejszył, a okolica była nieznacznie ciekawsza. Może to być
 tylko moją subiektywną oceną, gdyż te tereny są dla mnie nowe i może
 dlatego bardzo mi się podobały.
 
-{% photo "IMGP0068raw1.jpg","Niektór pola jeszcze oczekiwały żniwa" %}
+{% photo "IMGP0068raw1.jpg","Niektór pola jeszcze oczekiwały żniwa","timeline" %}
 
 Kamerkę uruchomiłem dopiero w okolicy Wolki Ostrowskiej.
 Jechałem całkiem dobrą drogą. Wokół drogi były drzewa a za nimi pola uprawne.
@@ -89,7 +90,7 @@ kilometrów na wschód od niej.
 Gdzieś w okolicy Sokołowa spotkałem dwójkę rowerzystów na
 rowerach szosowych.
 
-{% photo "IMGP0088raw1.jpg","Jadąc wzdłuż Jeziora Szydłowskiego" %}
+{% photo "IMGP0088raw1.jpg","Jadąc wzdłuż Jeziora Szydłowskiego","timeline" %}
 
 Spodobała mi się okolica [Bieślina][wiki-bieslin] chociaż teraz nie pamiętam
 co dokładnie tam było ciekawego.

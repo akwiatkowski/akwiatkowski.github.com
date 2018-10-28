@@ -74,7 +74,7 @@ Słońce padało ze strony takiej, że było zasłonięte przez [Szczeliniec][wi
 Nie planowałem iść na punkt widokowy, chociaż jak teraz myśle to mogłoby być
 dobrym pomysłem.
 
-{% photo "IMGP3890raw1healed.jpg","Pomarańczowe światło na zboczach" %}
+{% photo "IMGP3890raw1healed.jpg","Pomarańczowe światło na zboczach","timeline" %}
 
 Robiąc zdjęcia poznałem
 [Oskara Jaśkiewicza][oskar-jaskiewicz] i [Krystiana Papskiego][krystian-papski],
@@ -87,7 +87,7 @@ i zjeść śniadanie. Wydaję mi się,
 że jest tam znacznie ciekawsze menu śniadaniowe niż w
 [schronisku Pasterka][wiki-pasterka-schronisko].
 
-{% photo "IMGP3920raw1.jpg","Radków o Poranku" %}
+{% photo "IMGP3920raw1.jpg","Radków o Poranku","timeline" %}
 
 Po dłuższej przerwie ruszyliśmy czerwonym szlakiem przez
 [Szczeliniec Wielki][wiki-szczeliniec-wielki]. Weszliśmy na punkt widokowy, z
@@ -101,7 +101,7 @@ Postanowiliśmy zejść żółtym szlakiem do [Karłowa][wiki-karlow] chociaż
 samo zejście też nie było takie łatwe. Współczułem ludziom podchodzącym teraz.
 Szlak został już dobrze wyślizgany.
 
-{% photo "IMGP4032raw1.jpg","Wracając zielony szlakiem pieszo-rowerowym" %}
+{% photo "IMGP4032raw1.jpg","Wracając zielony szlakiem pieszo-rowerowym","timeline" %}
 
 Do [Pasterki][wiki-pasterka-schronisko] wracaliśmy zielonym szlakiem
 pieszo-rowerowym. Tego dnia teren był delikatnie przysypany śniegiem oraz

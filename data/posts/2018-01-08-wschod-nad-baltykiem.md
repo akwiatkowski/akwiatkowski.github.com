@@ -6,6 +6,7 @@ desc:                   "Moja pierwsza próba robienia zdjęć wschodu słońca 
 keywords:               [wschód, wschód słońca, orłowo, gdynia, molo, czerwony]
 date:                   2018-01-08 09:00:00
 finished_at:            2018-01-13 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [photo, main, photo_of_the_year, coast]
@@ -83,7 +84,7 @@ stacji kolejowej. Musiałem już wracać.
 
 ## Powrót
 
-{% photo "IMGP4728raw1.jpg","Kilka godzin później chmury całkowicie zniknęły" %}
+{% photo "IMGP4728raw1.jpg","Kilka godzin później chmury całkowicie zniknęły","timeline" %}
 
 Podczas powrotu zauważyłem jak ostatnia wyżowa noc oszroniła całą okolicę.
 Trudno mi było zrobić odpowiednie zdjęcie z pociągu.

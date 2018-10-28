@@ -91,7 +91,7 @@ Z tego co słyszałem przejeżdza tam pociąg raz na miesiąc.
 
 [wiki-linia-281]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_281
 
-{% photo "IMGP7414raw1.jpg","Okolica miejscowości Obkas" %}
+{% photo "IMGP7414raw1.jpg","Okolica miejscowości Obkas","timeline" %}
 
 Piszę ten wpis dwa miesiące później. Udało mi się
 [przejechać rowerem]({% post_url 2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku %})
@@ -104,7 +104,7 @@ Jest tam [Czarna Góra][wiki-czarna-gora] która są najwyższym punktem wojewó
 [wiki-czarna-gora]: https://pl.wikipedia.org/wiki/Czarna_Góra_(Góry_Obkaskie)
 
 
-{% photo "IMGP7455raw1.jpg","Okolica Kamienia Krajeńskiego - biegnące sarny" %}
+{% photo "IMGP7455raw1.jpg","Okolica Kamienia Krajeńskiego - biegnące sarny","timeline" %}
 
 Dotarliśmy do [Kamienia Krajeńskiego][wiki-kamien-krajenski].
 
@@ -132,7 +132,7 @@ Po dłuższej przerwie ruszyliśmy dalej na południe.
 Dolina rzeki Sępolna] była bardzo urozmaicona pod
 względem kształtu terenu.
 
-{% photo "IMGP7651raw1.jpg","Okolice Więcborka" %}
+{% photo "IMGP7651raw1.jpg","Okolice Więcborka","timeline" %}
 
 Okolice na północ od [Więcborka][wiki-wiecbork] były miejscami
 bardzo pofalowane. Jest to kolejne miejsce, które chce sprawdzić rowerem.

@@ -103,7 +103,7 @@ Ostatnio tam byłem pod
 Zrobiliśmy przerwę na kilka zdjęć obok małej rzeczki. Chmury wyglądały bardzo
 ciekawie wtedy.
 
-{% photo "IMGP8337raw1.jpg","Połączenie zieleni z chmurami" %}
+{% photo "IMGP8337raw1.jpg","Połączenie zieleni z chmurami","timeline" %}
 
 Wjechaliśmy do [Rudy Sułowskiej][wiki-ruda-sulowska] i niestety okazało się,
 że już nie serwują pierogów z karpia. Bardzo mi smakowało wtedy to danie, a do tego
@@ -134,7 +134,7 @@ rowerowym przez [Kaczory][wiki-kaczory].
 Okolice [Kaczorów][wiki-kaczory] wyglądały ciekawie i chętnie bym jeszcze tutaj
 kiedyś przejechał.
 
-{% photo "IMGP8343raw1.jpg","Pola niedaleko miejscowości Baby" %}
+{% photo "IMGP8343raw1.jpg","Pola niedaleko miejscowości Baby","timeline" %}
 
 Chmury miały podejrzaną charakterystykę. Gdzieś w oddali widać było jak pada
 deszcz.

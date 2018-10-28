@@ -6,6 +6,7 @@ desc:                   ""
 keywords:               [poznań, starołęka, daszewice, głuszyna]
 date:                   2017-01-29 18:00:00
 finished_at:            2017-02-01 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]

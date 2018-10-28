@@ -69,14 +69,14 @@ jeszcze trochę popracowałem.
 Ruszyłem pociągiem do [Szklarskiej Poręby Średniej][wiki-szklarska-srednia-stacja].
 Bilet na pociąg kosztował mnie stosunkowo mało, chyba około 5zł.
 
-{% photo "IMGP1313raw1.jpg","Schodząc w dół w stronę drogi nr 3" %}
+{% photo "IMGP1313raw1.jpg","Schodząc w dół w stronę drogi nr 3","timeline" %}
 
 Gdy wysiadłem, czekało na mnie trochę spaceru zanim dotrę na właściwy szlak pieszy.
 Mijałem jakieś obiekty noclegowe, których świetność chyba już przeminęła.
 Gdyby był prawdziwy sezon zimowy to ciężko mi sobie wyobrazić jaki byłby tłok.
 Czekanie 15 minut w kolejce do wyciągu nie jest fajne.
 
-{% photo "IMGP1316raw1.jpg","Późnojesienna aleja" %}
+{% photo "IMGP1316raw1.jpg","Późnojesienna aleja","timeline" %}
 
 Dotarłem do drogi [3-ki][wiki-droga-3]. Przeszedłem na drugą stronę
 i wkroczyłem już na normalny pieszy szlak.
@@ -100,7 +100,7 @@ Kierowałem sie zgodnie z zaplanowaną trasą do skrzyżowania obok
 [Schroniska Kochanówka][wiki-schronisko-kochanowka]. Trasa ta była ciekawa jednak
 monotonna pod względem stylu.
 
-{% photo "IMGP1357raw1.jpg","Słońce oświetlające zielony szlak pieszy" %}
+{% photo "IMGP1357raw1.jpg","Słońce oświetlające zielony szlak pieszy","timeline" %}
 
 Po lewej widziałem [rzekę Kamienną][wiki-kamienna-rzeka], która miała przynajmniej jeden
 ciekawy punkt. Po prawej mijałem duże, strome skały na ogół. Trudno opisać słowami
@@ -118,7 +118,7 @@ uzupełniły moją energię i nie musiałem zjadać zabranego jedzenia.
 
 Kolejnym dobrym punktem do zdjęć był most nad [Szklarką][wiki-szklarka-potok].
 
-{% photo "IMGP1397raw1.jpg","Potok Szklarka" %}
+{% photo "IMGP1397raw1.jpg","Potok Szklarka","timeline" %}
 
 Teren tam jest dość mocno ogrodzony i tutaj musiałem umieścić aparat odpowiednio
 robiąc zdjęcia z mostu.
@@ -128,7 +128,7 @@ Rudnik. Opuszczałem skalne tereny. Wokół mnie był teraz
 późno-jesienny las. Zółte drzewa i bardzo dużo liści na szlaku.
 Miałem wrażenie, że więcej liści spadło z drzew niż na nich jest nadal.
 
-{% photo "IMGP1436raw1.jpg","Późnojesienny las w Karkonoszach" %}
+{% photo "IMGP1436raw1.jpg","Późnojesienny las w Karkonoszach","timeline" %}
 
 Zrobiłem kolejną przerwę na zdjęcia, gdyż znalazłem miejsce w którym liście
 poruszały się w koło w malutkim zbiorniku wodnym.
@@ -159,4 +159,4 @@ jest park i lekko zarośnięty staw, w którym teraz pływała kaczka.
 Zszedłem w dół aż do przystanku Agnieszkowska robiąc kolejne jesienne zdjęcia.
 Następnie wróciłem do bazy aby odpocząć. Chciałem wstać bardzo wcześnie.
 
-{% photo "IMGP1531raw1.jpg","Schodząc do przystanku Agnieszkowska" %}
+{% photo "IMGP1531raw1.jpg","Schodząc do przystanku Agnieszkowska","timeline" %}

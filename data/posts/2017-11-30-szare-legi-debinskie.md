@@ -41,7 +41,7 @@ filtr szary zmienny.
 
 Okolice pierwszego mostu na mojej trasie.
 
-{% photo "IMGP3313raw1.jpg","Okolice pierwszego mostu" %}
+{% photo "IMGP3313raw1.jpg","Okolice pierwszego mostu","timeline" %}
 
 Moimi ulubionymi obiektami są częściowo zanurzone drzewa.
 
@@ -53,4 +53,4 @@ Jesienny szlak wokół którego drzewa pozbyły się liści.
 
 Ostatnie zanurzone drzewo, któremu zrobiłem kilka zdjęć.
 
-{% photo "IMGP3333raw1.jpg","Częsciowo zanurzone drzewo" %}
+{% photo "IMGP3333raw1.jpg","Częsciowo zanurzone drzewo","timeline" %}

@@ -6,6 +6,7 @@ desc:                   "Gdy dwa tygodnie było -15 stopni mało kto przewidywa�
 keywords:               [łopuchowo, ciepło, puszcza zielonka, biedrusko]
 date:                   2018-03-11 16:00:00
 finished_at:            2018-03-21 13:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP6055raw1.jpg
@@ -99,7 +100,7 @@ Wróciłem w okolicę [przystanku kolejowego][wiki-lopuchowo-osiedle]
 myśląc aby jechać na południowy-wschód i następnie do
 [Sławicy][wiki-slawica]. Droga była mokra.
 
-{% photo "IMGP6059raw1.jpg","Okolice stacji Łopuchowo Osiedle","nogallery" %}
+{% photo "IMGP6059raw1.jpg","Okolice stacji Łopuchowo Osiedle","nogallery,timeline" %}
 
 Niestety nie udało mi się zrealizować celu powrotu z czystym
 rowerem i butami (które kupiłem dzień wcześniej).

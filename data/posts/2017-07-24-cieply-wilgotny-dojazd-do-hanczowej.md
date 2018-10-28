@@ -144,7 +144,7 @@ Opuszczając jechaliśmy wijącą się drogą pośrodku całkowicie zielonych g�
 Czuć było dzikość okolicy kontrastującą z ruchem samochodów dostawczych, prawdopodobnie
 jechały one do [Wysowej][wiki-wysowa].
 
-{% photo "IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej" %}
+{% photo "IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej","timeline" %}
 
 Reszta dojazdu do bazy w [Hańczowej][wiki-hanczowa] przebiegła bez niczego
 nadzwyczajnego.
@@ -152,7 +152,7 @@ nadzwyczajnego.
 W bazie niestety mieliśmy dość mały pokój lecz takie problemy nie są istotne na wyjeździe.
 Największą zaletą był spacerujący rudy kot. Sam on wskoczył na bujawkę.
 
-{% photo "IMGP8993raw1.jpg","Kot w Hańczowej" %}
+{% photo "IMGP8993raw1.jpg","Kot w Hańczowej","cat" %}
 
 Wieczorem poszliśmy do [Wysowej][wiki-wysowa] zobaczyć park i kupić zapasy.
 Martwiłem się prognozą pogody, miało padać przez pół dnia.

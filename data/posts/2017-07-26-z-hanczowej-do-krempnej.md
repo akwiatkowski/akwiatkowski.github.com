@@ -123,7 +123,7 @@ zjeżdzać do miejscowości [Czarne][wiki-czarne]. Jest to kolejna wioska
 "na uboczu" lecz turystycznie znacznie popularniejsza. Jeżeli się nie mylę
 w okolicy minął nas jeden rowerzysta.
 
-{% photo "IMGP9212raw1.jpg","Wjeżdzając do Jasionki" %}
+{% photo "IMGP9212raw1.jpg","Wjeżdzając do Jasionki","timeline" %}
 
 Widziałem tabliczkę miejscowości [Jasionka][wiki-jasionka]. Pierwszy
 dom w tej miejscowości widzieliśmy dopiero po przejechaniu pół kilometra.
@@ -161,7 +161,7 @@ w [Krempnej][wiki-krempna] może będziemy mogli zjeść coś ciepłego.
 Został nam ostatni (nie licząc podjazdu w samej [Krempnej][wiki-krempna])
 podjazd do miejscowości [Długie][wiki-dlugie]/[Wyszowatka][wiki-wyszowatka].
 
-{% photo "IMGP9316raw1.jpg","Kolejna droga na końcu świata" %}
+{% photo "IMGP9316raw1.jpg","Kolejna droga na końcu świata","timeline" %}
 
 Podjazd minął nam dość szybko. Zjazd był po dość utwardzonej drodze
 gruntowej. Po prawej widzieliśmy spore obniżenie terenu.

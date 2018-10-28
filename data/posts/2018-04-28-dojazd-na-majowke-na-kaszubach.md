@@ -6,6 +6,7 @@ desc:                   "W tym roku majówkę zaplanowaliśmy w okolicy Czerska,
 keywords:               []
 date:                   2018-04-28 19:00:00
 finished_at:            2018-09-05 14:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP7985raw1.jpg
@@ -63,7 +64,7 @@ jechaliśmy w pierwszym wagonie.
 
 W [Bydgoszczy][wiki-bydgoszcz] przesiadliśmy się na szynobus do [Tucholi][wiki-tuchola].
 
-{% photo "IMGP7949raw1.jpg","Wiosna widoczna z okna pociągu" %}
+{% photo "IMGP7949raw1.jpg","Wiosna widoczna z okna pociągu","timeline" %}
 
 Postanowiłem, że warto by pojechać do [Tucholi][wiki-tuchola] abym mógł "dorysować"" szlak na mapie
 i jednocześnie rozgrzać się przed następnym dniem.

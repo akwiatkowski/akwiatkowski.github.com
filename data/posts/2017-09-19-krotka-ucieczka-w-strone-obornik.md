@@ -92,7 +92,7 @@ Co ciekawe
 temu spacerowałem również w okolicy doliny rzeki albo tej samej albo o tej
 samej nazwie.
 
-{% photo "IMGP0562raw1.jpg","Jadąc w stronę Nieczajny" %}
+{% photo "IMGP0562raw1.jpg","Jadąc w stronę Nieczajny","timeline" %}
 
 W [Kowalewku][wiki-kowalewko] skręciłem w lewo jadąc w stronę [Objezierza][wiki-objezierza].
 Byłem w tym momencie w moich ulubionych terenach ale patrząc na czas

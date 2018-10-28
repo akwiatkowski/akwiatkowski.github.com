@@ -64,7 +64,7 @@ na atrakcyjności gdy się je powiększy.
 Zbliżenie się do obiektu umożliwia zabawę z rozmyciem tła. Wszystko staje się
 wtedy ciekawsze i milsze dla oka.
 
-{% photo "P5130396raw1.jpg","Dmuchawce" %}
+{% photo "P5130396raw1.jpg","Dmuchawce","timeline" %}
 
 Wystarczy przejść się na trawnik niedaleko osiedla, na którym kwitnie koniczyna,
 i ma się wtedy ogrom obiektów do zdjęć. Kwiaty zawsze dają dobre rezultaty
@@ -74,7 +74,7 @@ pomimo tego, że nie są niczym odkrywczym.
 
 Gdy spadnie deszcz każda kropelka staje się potencjalnym obiektem do zdjęć.
 
-{% photo "P5170562raw1.jpg","Kropelka" %}
+{% photo "P5170562raw1.jpg","Kropelka","timeline" %}
 
 A jak nie jest obiektem to dzięki niej tło staje się ciekawsze.
 

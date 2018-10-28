@@ -6,6 +6,7 @@ desc:                   "Początek trasy tego dnia to najciekawsze tereny Drawsk
 keywords:               [cieszyno, połczyn, rąbino, białogard, drawski, rzecino, ]
 date:                   2017-08-15 16:00:00
 finished_at:            2017-11-25 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]
@@ -80,7 +81,7 @@ Zdecydowaliśmy po moich wątpliwościach aby dojechać drogą gruntową do
 [Nowego Worowa][wiki-nowe-worowo]. Przez nie przejeżdzałem
 [dwa lata temu]({% post_url 2015-08-23-z-cieszyno-do-szczecinka %}) rowerem.
 
-{% photo "IMGP0271raw1.jpg","Jadąc do Lipna" %}
+{% photo "IMGP0271raw1.jpg","Jadąc do Lipna","timeline" %}
 
 Podjęliśmy kolejną decyzję - aby jechać przez [Lipno][wiki-lipno] na
 północ. Byli byśmy wtedy szybciej w [Połczynie Zdrój][wiki-polczyn-zdroj].
@@ -100,7 +101,7 @@ Bardzo podobała mi się droga przez [Smołdzęcino][wiki-smoldzecino].
 Następną miejscowością było [Kłokowo][wiki-klokowo], które było
 jeszcze mniejszą miejscowością i nie aż tak ciekawe.
 
-{% photo "IMGP0291raw1.jpg","Okolice Smołdzęcino" %}
+{% photo "IMGP0291raw1.jpg","Okolice Smołdzęcino","timeline" %}
 
 Dojeżdzając do drogi 173 zauważyłem wysoką [wieżę][wiki-wieza-toporzyk]
 z nadajnikami. Bardzo mnie zaciekawiła ona gdyż wyglądała jakby
@@ -118,7 +119,7 @@ w stanie sprawdzać co się dzieje za mną.
 Dojechaliśmy do znacznie bardziej ruchliwej drogi 163 do [Kołobrzegu][wiki-kolobrzeg]
 i tam spokojnie niespokojną drogą dotarliśmy do [Połczyna Zdrój][wiki-polczyn-zdroj].
 
-{% photo "IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój" %}
+{% photo "IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój","timeline" %}
 
 Zamiast znowu jechać po drodze wojewódzkiej znalazłem inną opcję.
 Ulica Młyńska była idealnym rozwiązaniem. Okazało się, że tylko krótki
@@ -137,7 +138,7 @@ dziwnego robaka - taką dużą czarno-czerwoną suchą dżdżownice.
 Przeglądając mapę widzę sporo ciekawych terenów wokół
 [Połczyna Zdroju][wiki-polczyn-zdroj] jednak nie nadawały one się do tras liniowych.
 
-{% photo "IMGP0348raw1.jpg","Okolice Rzecino" %}
+{% photo "IMGP0348raw1.jpg","Okolice Rzecino","timeline" %}
 
 Podobał mi się delikatny zjazd we wsi [Rzecino][wiki-rzecino] z ktorej
 kierowaliśmy się do [Rąbino][wiki-rabino]. Tam zrobiliśmy przerwę przy sklepie.
@@ -164,7 +165,7 @@ byłem zaskoczony ale jak później widziałem że jest tego znacznie więcej to
 poczułem lekkie zaniepokojenie. Może to nie jest to co myśle, tylko inna
 roślina?
 
-{% photo "IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie" %}
+{% photo "IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie","timeline" %}
 
 Przed [Białogardem][wiki-bialogard] po lewej stronie zrobiłem zdjęcie
 ogromnej ilości elektrowni wiatrowych na zachodzie.

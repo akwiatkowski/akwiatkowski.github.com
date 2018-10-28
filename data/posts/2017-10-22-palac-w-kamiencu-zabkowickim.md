@@ -70,7 +70,7 @@ kolejowe obok.
 Ruszyliśmy zgodnie z zielonym szlakiem rowerowym. Innych możliwości jak
 spacer ulicą Kolejową nie było.
 
-{% photo "IMGP2542raw1.jpg","Fontanna pałacowa" %}
+{% photo "IMGP2542raw1.jpg","Fontanna pałacowa","timeline" %}
 
 Niedaleko skrzyżowania z drogą Mostową zobaczyliśmy bardzo duży, nie pasujący
 bogactwem i kolorem do otoczenia dom w budowie. Wolałem nie robić mu zdjęcia.

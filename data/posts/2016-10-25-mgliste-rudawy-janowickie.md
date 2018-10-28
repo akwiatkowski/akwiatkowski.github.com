@@ -87,7 +87,7 @@ trochę wyżej. W tym momencie musiałbym przejść około
 400 metrów w poziomie i 50-80 metrów
 w pionie. Mgła zaczęła się pojawiać na wysokości około 500m n.p.m.
 
-{% photo "IMGP8531raw2.jpg","Mgła pojawiła się pod Sokolikiem" %}
+{% photo "IMGP8531raw2.jpg","Mgła pojawiła się pod Sokolikiem","timeline" %}
 
 Wyjąłem statyw i założyłem stałoogniskową 15mm robiąc zdjęcia prawie do oporu.
 Byłem bardzo szczęśliwy gdyż udało mi się być we właściwym miejscu o właściwym

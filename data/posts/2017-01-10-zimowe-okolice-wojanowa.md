@@ -79,7 +79,7 @@ góry nie będą tak przeszkadzać.
 Szedłem przez pola robiąc zdjęcia sarnom w oddali. Zwierzaki te są bardzo czujne
 i nawet 500mm ogniskowa Sigmy nie była dla nich wystarczająca.
 
-{% photo "IMGP1472raw1.jpg","Zostałem zauważony przez sarnę" %}
+{% photo "IMGP1472raw1.jpg","Zostałem zauważony przez sarnę","timeline" %}
 
 Idąc na południe zrobiłem trochę zdjęć w "niebieskiej godzinie".
 

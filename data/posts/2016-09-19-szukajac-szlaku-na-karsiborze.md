@@ -62,7 +62,7 @@ Zgodnie ze szlakiem wjechaliśmy w las, gdzie zobaczyliśmy
 [pomnik lotników RAF][wiki-raf]. I dalej, oczywiście zgodnie ze szlakiem,
 wróciliśmy do głównej drogi w [Karsiborze][wiki-karsibor].
 
-{% photo "IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego" %}
+{% photo "IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego","timeline" %}
 
 
 Wjechaliśmy w Ostoję Ptaków Karsiborska Kępa, gdzie była remontowana

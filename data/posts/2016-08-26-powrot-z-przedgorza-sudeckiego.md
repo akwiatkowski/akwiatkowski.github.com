@@ -62,7 +62,7 @@ Musieliśmy oddać klucze od noclegu wiec jechaliśmy na wschód. Przy okazji
 było to w tym samym kierunku co [Zalew Mietkowski][wiki-zalew-mietkowski].
 Na mapie ten zbiornik wygląda bardzo okazale.
 
-{% photo "IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach" %}
+{% photo "IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach","timeline" %}
 
 
 Do [zalewu][wiki-zalew-mietkowski] dojechaliśmy przez [Siedlimowice][wiki-siedlimowice].

@@ -6,6 +6,7 @@ desc:                   "Spokojny, krótki, niedzielny przejazd rowerem przez kr
 keywords:               [wielkopolski park narodowy, mosina, stęszew, dymaszewo, jezioro]
 date:                   2017-06-04 17:00:00
 finished_at:            2017-10-15 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

@@ -6,6 +6,7 @@ desc:                   "Popołudniowy przejazd który można podzielić na: wyj
 keywords:               [kościan, opalenica, konojad, żniwa, granówko, urbanowo]
 date:                   2017-08-08 19:00:00
 finished_at:            2017-11-12 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]

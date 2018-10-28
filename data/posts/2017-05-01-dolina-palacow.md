@@ -6,6 +6,7 @@ desc:                   "Przykładowa trasa pokazująca jak można objechać naj
 keywords:               [jelenia, pałac, zamek, kotlina, wojanów, karpniki, sosnówka, cieplice, wiewiórka]
 date:                   2017-05-01 20:00:00
 finished_at:            2017-09-01 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -130,7 +131,7 @@ razem jest to [zamek][wiki-zamek-karpniki].
 Pierwszy raz przy tym zamku/pałacu byłem w
 [czerwcu 2015 roku]({% post_url 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich %}).
 
-{% photo "IMGP5381raw1.jpg","Most przy zamku w Karpnikach" %}
+{% photo "IMGP5381raw1.jpg","Most przy zamku w Karpnikach","timeline" %}
 
 Wyjechaliśmy skrótem w stronę [Krogulca][wiki-krogulec] jadąc ulicą Łąkową.
 Jak nazwa wskazuje jadąc mieliśmy widok na łąki ale z dodatkiem drzew liściastych i krzewów.
@@ -161,7 +162,7 @@ ulicy Wiejskiej, gdzie teoretycznie powinien być szczery las.
 Musieliśmy teraz trochę podjechać, niestety trud został zmarnowany. Zjazd
 był po drodzę gruntowej dość słabej jakości z dużą ilością błota.
 
-{% photo "IMGP5456raw1.jpg","Kolejny widok na Śnieżkę" %}
+{% photo "IMGP5456raw1.jpg","Kolejny widok na Śnieżkę","timeline" %}
 
 W [Kowarach][wiki-kowary] byliśmy tylko na chwilkę. Przez Gąskę
 pojechaliśmy do [Miłkowa][wiki-milkow]. Przejeżdzaliśmy teraz przez płaskie

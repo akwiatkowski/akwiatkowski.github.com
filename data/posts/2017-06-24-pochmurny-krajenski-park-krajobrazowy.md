@@ -6,6 +6,7 @@ desc:                   "Pierwszy dzień krótkiej przygody z Krajeńskim Parkie
 keywords:               [krajeński, krajenka, spokój, cisza, sępólno, lasy]
 date:                   2017-06-24 18:00:00
 finished_at:            2017-10-15 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]
@@ -101,7 +102,7 @@ filmiki z kamerki.
 Same [Wąsoszki][wiki-wasoszki] są chyba bardzo malutką wsią położoną w okolicy
 torów kolejowych.
 
-{% photo "IMGP7894raw1.jpg","Wjeżdzając w las" %}
+{% photo "IMGP7894raw1.jpg","Wjeżdzając w las","timeline" %}
 
 Po pewnym czasie skończyła się droga asfaltowa a my wjechaliśmy w las.
 Ostatnimi czasy preferowałem zawsze drogi asfaltowe ale dzięki kupieniu
@@ -141,7 +142,7 @@ Ruszyliśny drogą asfaltową na północ kierując się do wsi
 [Wersk][wiki-wersk]. Po chwili opuściliśmy drogę asfaltową i
 ponownie wkroczyliśmy do lasu.
 
-{% photo "IMGP8001raw1.jpg","Jezioro Borówno, północna część" %}
+{% photo "IMGP8001raw1.jpg","Jezioro Borówno, północna część","timeline" %}
 
 Szlak rowerowy przebiega przez [Zakrzewo][wiki-zakrzewo] w którym jest stacja
 kolejowa ale my wjechaliśmy od razu do lasu. Jadąc po drodze gruntowej
@@ -165,7 +166,7 @@ Naszym celem była teraz miejscowość [Jazdrowo][wiki-jazdrowo].
 Będąc w lesie prawie na ogół jechaliśmy szlakami pieszymi. Jest ich tam całkiem
 sporo.
 
-{% photo "IMGP8036raw1.jpg","Dom przed lasem" %}
+{% photo "IMGP8036raw1.jpg","Dom przed lasem","timeline" %}
 
 Jechaliśmy teraz do [Iłowa][wiki-ilowo]. Zdecydowanie czułem klimat tych terenów
 chociaż trudno mi opisać co to oznacza. Trochę to można zobaczyć na filmiku ale
@@ -181,7 +182,7 @@ przez [Wiśniewę][wiki-wisniewa], która
 miała być nieznacznie spokojniejsza gdyż obie są drogami o bardzo małym
 ruchu.
 
-{% photo "IMGP8043raw1.jpg","Standardowa droga gruntowa" %}
+{% photo "IMGP8043raw1.jpg","Standardowa droga gruntowa","timeline" %}
 
 Samo [Sępólno Krajeńskie][wiki-sepolno-krajenski] zaskoczyło mnie różnicami
 wysokości. Jezioro Sępolskie jest położone wyraźnie niżej niż droga którą

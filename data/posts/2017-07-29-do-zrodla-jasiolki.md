@@ -6,6 +6,7 @@ desc:                   "Mając nocleg w Jaśliska umożliwiło to nam dostęp d
 keywords:               [wisłok, jasiołka, beskid niski]
 date:                   2017-07-29 15:00:00
 finished_at:            2017-11-25 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, mountains, main]
@@ -78,7 +79,7 @@ przez opuszczone tereny, stare gospodarstwa rolne.
 Mapy OpenStreetMap i UMP różnią się jeżeli chodzi o nazwy i położenia
 miejscowości wzdłuż drogi, którą jechaliśmy.
 
-{% photo "IMGP9844raw1.jpg","Jeden z wielu przydrożnych krzyży w Beskidzie Niskim" %}
+{% photo "IMGP9844raw1.jpg","Jeden z wielu przydrożnych krzyży w Beskidzie Niskim","timeline" %}
 
 Dzień wcześniej zjeżdzając do [Jaślisk][wiki-jasliska] delikatnie przebiłem
 dętkę. Miałem kawałek metalu wbity w oponę. Napompowałem rano oponę jednak
@@ -99,7 +100,7 @@ Dwa szczególne miejsca muszę polecić tutaj. Pierwszym obiektem
 są bardzo czyste zbiorniki wodne, które chyba należą do
 rzeki [Jasiołki][wiki-jasiolka-rzeka]
 
-{% photo "IMGP9903raw1.jpg","Rzeka Jasiołka" %}
+{% photo "IMGP9903raw1.jpg","Rzeka Jasiołka","timeline" %}
 
 Drugim to pomnik zamordowanych przez [UPA][wiki-upa] podczas
 [Zbrodni w Jasielu][wiki-zbrodnia-jasiel]
@@ -122,7 +123,7 @@ Dojechaliśmy do starych gospodarstw rolnych przy [Moszczańcu][wiki-moszczaniec
 Całkiem klimatyczne było to miejsce chociaż ponownie trudno mi
 to opisać.
 
-{% photo "IMGP9947raw1.jpg","Zjazd w stronę Wisłoka Wielkiego" %}
+{% photo "IMGP9947raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","timeline" %}
 
 Ponownie dołączyliśmy do drogi 897 widząc bardzo ładne pagórki przed nami.
 Widok ten jest połączoniem pofalowanych łąk, na których gdzieniegdzie są drzewa,
@@ -149,7 +150,7 @@ Do wyboru były tylko pierogi. Czemu pierogi są tutaj tak popularne?
 Dwa samochody, które zaparkowały obok tego obiektu, miały na sobie rowery
 i to całkiem dużo - jeden miał cztery a drugi dwa.
 
-{% photo "IMGP9953raw1.jpg","Zjazd w stronę Wisłoka Wielkiego" %}
+{% photo "IMGP9953raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","timeline" %}
 
 Podjazd, którego się tak obawiałem, udało się pokonać dość szybko. Nie był
 taki straszny. Wracaliśmy tą samą drogą do [Moszczańca][wiki-moszczaniec]

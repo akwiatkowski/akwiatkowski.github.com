@@ -6,6 +6,7 @@ desc:                   "Przejazd pociągiem z Wrocławia przez Brzeg Dolny, Wo�
 keywords:               [pociąg, brzeg dolny, wołów, ścinawa, rudna, głogów, bytom odrzański, nowa sól, zielona góra, budachów, rzepin, torzym, toporów]
 date:                   2017-11-18 18:00:00
 finished_at:            2017-12-16 17:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train]
@@ -90,7 +91,7 @@ W okolicy [Ścinawy][wiki-scinawa] widziałem sporo ciekawych wiosek z budynkami
 z czerwonej cegły. Gdy przejeżdzałem samochodem z [Poznania][wiki-poznan] do
 [Jeleniej Góry][wiki-jelenia-gora] podobał mi się klimat tej okolicy.
 
-{% photo "IMGP3190raw1.jpg","Dojeżdzając do Rudnej" %}
+{% photo "IMGP3190raw1.jpg","Dojeżdzając do Rudnej","timeline" %}
 
 Zbliżając się do [Rudnej][wiki-rudna] w okolicy miejscowości
 [Wądróże][wiki-wadroze] można było zauważyć delikatne pagórki.

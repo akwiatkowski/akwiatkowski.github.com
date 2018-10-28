@@ -58,7 +58,7 @@ Dotarłem do wiaduktu. Na żywo nie wyglądał on jakoś specjalnie interesując
 lecz w połączeniu z popołudniowym światłem jestem zadowolony ze zdjęcia.
 Chociaż to nie jest zdjęcie samego wiaduktu a drogi tuż przy nim.
 
-{% photo "P5311435raw1.jpg","Okolica wiaduktu nad torami" %}
+{% photo "P5311435raw1.jpg","Okolica wiaduktu nad torami","timeline" %}
 
 Wróciłem do bazy a następnie ruszyliśmy powoli do [Trzciela][wiki-trzciel].
 Musieliśmy przejść ponad kilometr aby dostać się do głównej drogi.

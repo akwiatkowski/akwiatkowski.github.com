@@ -61,7 +61,7 @@ Szczegóły
 W [Trzemesznie][wiki-trzemeszno] wysiedliśmy chwilę przed godziną 11-tą. Musieliśmy
 przejechać przez całe miasto gdyż stacja kolejowa jest na północy.
 
-{% photo "IMGP8769raw1.jpg","Jezioro Ostrowite" %}
+{% photo "IMGP8769raw1.jpg","Jezioro Ostrowite","timeline" %}
 
 Wyjeżdzając z [Trzemeszna][wiki-trzemeszno] skręciliśmy na wschód jadąc do
 [Zielenia][wiki-zielen]. Bardzo słoneczna pogoda wpływała na dość wyraźny
@@ -85,7 +85,7 @@ uwolnić się od ruchu i nie denerwować kierowców samochodów.
 Wydaję mi się, że po tej drodze nie jechał żaden samochód, a my
 mieliśmy dodatkowo widok na [Jezioro Ostrowite][wiki-ostrowite-jezioro].
 
-{% photo "IMGP8781raw1.jpg","Drzewa niedaleko wsi Dysiek" %}
+{% photo "IMGP8781raw1.jpg","Drzewa niedaleko wsi Dysiek","timeline" %}
 
 Nasza trasa miała swój cel i musieliśmy się do niego zbliżać,
 dlatego skręciliśmy w lewo jadąc na wschód w stronę
@@ -138,7 +138,7 @@ do [Kamionka][wiki-kamionek].
 Teren był już miejscami wyraźnie pofalowany, tak jak byśmy
 byli w niskich górach. Wokół były pola zboża i rzepaku.
 
-{% photo "IMGP8857raw1.jpg","Droga do Kamionek" %}
+{% photo "IMGP8857raw1.jpg","Droga do Kamionek","timeline" %}
 
 W [Kamionku][wiki-kamionek] byłem teraz trzeci raz.
 
@@ -155,7 +155,7 @@ Na tym skrzyżowaniu skręciliśmy
 na wschód i jechaliśmy przez [Gębice][wiki-gebice] aż
 do [Łąkiego][wiki-lakie].
 
-{% photo "IMGP8873raw1.jpg","Jadąc do Gębic" %}
+{% photo "IMGP8873raw1.jpg","Jadąc do Gębic","timeline" %}
 
 Po dłuższej przerwie musieliśmy dojechać na przystanek kolejowy. Wybraliśmy
 [Janikowo][wiki-janikowo]. Wsiadając do pociągu widzieliśmy przedział

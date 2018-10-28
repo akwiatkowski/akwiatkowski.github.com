@@ -24,6 +24,7 @@ class TimelineList < PageView
   getter :image_url, :title, :subtitle, :url
 
   def inner_html
+  # def content
     s = ""
 
     s += "<table class=\"season-table\">"

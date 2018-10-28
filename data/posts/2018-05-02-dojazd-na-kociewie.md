@@ -74,7 +74,7 @@ była poprowadzona [linia kolejowa 218][wiki-linia-218] przez [Osieczną][wiki-o
 Jechaliśmy równolegle do niej. Gdy opuściliśmy
 [Osieczną][wiki-osieczna] wjeżdzając w las przejechaliśmy pod jej torami.
 
-{% photo "IMGP8479raw2.jpg","Las w okolicy Ocypla" %}
+{% photo "IMGP8479raw2.jpg","Las w okolicy Ocypla","timeline" %}
 
 Wjechaliśmy do [Ocypla][wiki-ocypel] z południa widząc po lewej
 jakiś ośrodek wczasowy. Miejscowość ta jest raczej mocno związana z pobliskim
@@ -103,7 +103,7 @@ Droga była monotonna. Oprócz przystanku obok wsi [Krępki][wiki-krepki],
 Zrobiliśmy sobie w [Lubichowie][wiki-lubichowo] dłuższą przerwę na obiad.
 Porcje były solidne ale toaleta później odstraszała.
 
-{% photo "IMGP8502raw1.jpg","Wieś Kaliska" %}
+{% photo "IMGP8502raw1.jpg","Wieś Kaliska","timeline" %}
 
 Ruszyliśmy na północ zielonym szlakiem rowerowym przez wieś [Kaliska][wiki-kaliska].
 Tego dnia był jakiś zlot motorowy.

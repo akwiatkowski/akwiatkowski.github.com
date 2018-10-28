@@ -6,6 +6,7 @@ desc:                   ""
 keywords:               []
 date:                   2018-12-31 12:00:00
 #finished_at:            2100-02-09 12:00:00
+header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6100451raw1.jpg

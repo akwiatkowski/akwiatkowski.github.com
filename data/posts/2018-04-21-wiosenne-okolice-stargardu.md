@@ -6,6 +6,7 @@ desc:                   "Poszukiwanie klimatycznych miejsc w województwie zacho
 keywords:               [stargard, ina, rzeka, recz, wapnica, podmokłe, choszczno, krzęcin]
 date:                   2018-04-21 20:00:00
 finished_at:            2018-08-18 18:30:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P4210223raw1.jpg
@@ -93,14 +94,14 @@ można dojechać do [Białogardu][wiki-bialogard] albo [linią 403][wiki-linia-4
 
 Jechaliśmy drogą gruntową równolegle z torami do [Ulikowa][wiki-ulikowo].
 
-{% photo "P4210190raw1.jpg","Jadąc do Ulikowa" %}
+{% photo "P4210190raw1.jpg","Jadąc do Ulikowa","timeline" %}
 
 Pomimo delikatnie już zielonych drzew, pola wokół nas nie wyglądały jeszcze wiosennie.
 
 Przejechaliśmy w okolicy stacji kolejowej i jechaliśmy przez [Ulikowo][wiki-ulikowo]
 do wsi [Pęzino][wiki-pezino].
 
-{% photo "P4210197raw1.jpg","Zbliżając się do Ulikowa" %}
+{% photo "P4210197raw1.jpg","Zbliżając się do Ulikowa","timeline" %}
 
 [Ulikowo][wiki-ulikowo] wyglądało na bardzo małą wioskę, jakby było złożone tylko z
 trzech domów, lecz w praktyce główna część tej miejscowości była przed nami.
@@ -136,7 +137,7 @@ miejscowość - [Sierakowo][wiki-sierakowo] - wyglądało na znacznie nowocześn
 wieś. Jakby miała ona charakter rekreacyjny, chociaż do Jeziora Sierakowskiego
 nie było blisko w tym momencie.
 
-{% photo "P4210240raw1.jpg","Jadąc do Wapnicy" %}
+{% photo "P4210240raw1.jpg","Jadąc do Wapnicy","timeline" %}
 
 Nie licząc dwóch budynków to cały czas jechaliśmy w okolicy lasu. Nic ciekawego
 nie mijaliśmy.
@@ -156,7 +157,7 @@ albo spróbować drogi gruntowe. Na południe rzeka
 Postanowiłem zostawić sobie [Recz][wiki-recz] na inną wycieczkę.
 Chciałem zobaczyć jeziora, które są na północ od tej miejscowości.
 
-{% photo "P4210252raw1.jpg","Rzeka Ina" %}
+{% photo "P4210252raw1.jpg","Rzeka Ina","timeline" %}
 
 Wybraliśmy trasę przez malutką wieś [Ininy][wiki-ininy]. Na mapie jest zaznaczona
 ta droga jako dość pewna droga gruntowa. Wiedzieliśmy, że gdy coś pójdzie nie tak
@@ -227,7 +228,7 @@ Mieliśmy ostatni pociąg osobowy powrotny około
 [Chłopowo][wiki-chlopowo] miało swój klimat, jednak byłem zmęczony i nie doceniałem
 go.
 
-{% photo "P4210310raw1.jpg","Podmokłe tereny w okolicy Rębusza" %}
+{% photo "P4210310raw1.jpg","Podmokłe tereny w okolicy Rębusza","timeline" %}
 
 Około półtora kilometra przed stacją [Rębusz][wiki-rebusz] zauważyliśmy
 w lesie podmokłe tereny. Wyglądały one bardzo ciekawe i jest to ciekawe miejsca

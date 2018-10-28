@@ -6,6 +6,7 @@ desc:                   "Pod koniec lutego zgłosiłem się do testów wydruku f
 keywords:               [saal, fotoksiążka, wydruki, recenzja]
 date:                   2018-04-01 18:00:00
 finished_at:            2018-04-14 14:00:00
+header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         IMGP6279raw1.jpg

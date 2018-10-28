@@ -81,7 +81,7 @@ znaczenie, a powinienem znaleźć bardzo pozytywne), która była w bardzo dług
 podróży rowerowej. Jeżeli się nie mylę to jechali
 z [Białegostoku][wiki-bialystok] do [Bielka-Białej][wiki-bielsko-biala] .
 
-{% photo "IMGP9602raw1.jpg","Okolice doliny rzeki Mszanki" %}
+{% photo "IMGP9602raw1.jpg","Okolice doliny rzeki Mszanki","timeline" %}
 
 Kilkaset metrów dalej opuściliśmy las i ukazała się nam
 piękna panorama doliny rzeki [Mszanka][wiki-mszanka-rzeka] i

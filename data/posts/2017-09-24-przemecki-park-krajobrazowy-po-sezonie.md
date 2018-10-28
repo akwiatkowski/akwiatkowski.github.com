@@ -68,7 +68,7 @@ Tego dnia otwarta była jeszcze budka z fast foodami
 i sklep z bardzo ograniczonym asortymentem. Trudno znaleźć tam zdrowe jedzenie gdyż
 się ono szybko psuje.
 
-{% photo "IMGP0595raw1.jpg","Jeden z zaniedbanych domów przy Jeziorze Dominickim" %}
+{% photo "IMGP0595raw1.jpg","Jeden z zaniedbanych domów przy Jeziorze Dominickim","timeline" %}
 
 W recepcji hotelu dowiedziałem się o najbliższym sklepie we [Włoszakowicach][wiki-wloszakowice].
 Miejscowość ta kompletnie nie była w naszym planie. Postanowiliśmy zaryzykować
@@ -117,7 +117,7 @@ klimatycznych domów: stare, oplecione bluszczem.
 
 Podobało mi się drzewo które przykrywało całą szerokość drogi.
 
-{% photo "IMGP0751raw1.jpg","Główna ulica Górska" %}
+{% photo "IMGP0751raw1.jpg","Główna ulica Górska","timeline" %}
 
 Widzieliśmy również trochę okolicznych kotów.
 

@@ -33,7 +33,7 @@ z nudów poszliśmy ścieżką zobaczyć jak wygląda okolica.
 Szczegóły
 ---------
 
-{% photo "IMGP4707raw1.jpg","Droga którą szliśmy" %}
+{% photo "IMGP4707raw1.jpg","Droga którą szliśmy","timeline" %}
 
 Najpierw szliśmy drogą, która było ledwie zaznaczona na mapie. Później droga
 zniknęła z mapy, a my zauważyliśmy lekko wydeptaną ścieżkę i spróbowaliśmy

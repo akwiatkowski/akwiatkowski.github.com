@@ -66,7 +66,7 @@ Zabrałem ze sobą aparat Olympus M10 mark II z kitowym obiektywem 14-42.
 Dojechałem pociągiem do [Gniewkowa][wiki-gniewkowo], które jest w połowie
 drogi między [Inowrocławiem][wiki-inowroclaw] a [Toruniem][wiki-torun].
 
-{% photo "P5190034raw1.jpg","Falujące zboże na wietrze" %}
+{% photo "P5190034raw1.jpg","Falujące zboże na wietrze","timeline" %}
 
 Pojechałem drogą gruntową w stronę [Wierzbiczan][wiki-wierzbiczany].
 Z jednej strony nie było to nic ciekawego ale podobało mi się jak
@@ -89,7 +89,7 @@ Droga była miejscami bardzo piaszczysta.
 Gdy dojechałem do Kanału Parchańskiego wjechałem w las. Musiałem 2.5km
 dalej na południe jechać aby go opuścić. Trudno coś więcej o tym napisać.
 
-{% photo "P5190060raw1.jpg","Klimatyczny budynek w Radojewicach" %}
+{% photo "P5190060raw1.jpg","Klimatyczny budynek w Radojewicach","timeline" %}
 
 Z [Radojewic][wiki-radojewice] przez [Łąkocin][wiki-lakocin]
 jechałem w stronę [Karczyna][wiki-karczyn].
@@ -102,7 +102,7 @@ jednak w tym momencie linia ma wyłącznie charakter towarowy.
 Pociągi pasażerskie tymczasowo przejeżdżają tutaj tylko w wyniku remontu torów
 między [Poznaniem][wiki-poznan] a [Warszawą][wiki-warszawa].
 
-{% photo "P5190066raw1.jpg","Wiosenne pola" %}
+{% photo "P5190066raw1.jpg","Wiosenne pola","timeline" %}
 
 Wieś [Karczyn][wiki-karczyn] jest według mnie bardzo klimatyczna:
 zerowy ruch, stare budynki jakiegoś państwowego gospodarstwa.
@@ -135,7 +135,7 @@ a [Kruszwicą][wiki-kruszwica]. Tym odcinkiem
 Najbardziej widocznym dowodem istnienia tej linii na mojej trasie
 był budynek dworca w [Polanowicach][wiki-polanowice].
 
-{% photo "P5190097raw1.jpg","Wjazd do Polanowic" %}
+{% photo "P5190097raw1.jpg","Wjazd do Polanowic","timeline" %}
 
 Skręciłem na zachód jadąc do [Stodół][wiki-stodoly]. Gruntową drogą
 skróciłem do [Starczewa][wiki-starczewo].
@@ -152,7 +152,7 @@ Postanowiłem wracać do [Poznania][wiki-poznan]
 z [Kołodziejewa][wiki-kolodziejewo]. Teraz jechałem pod wiatr oraz miałem
 konkretne ograniczenie czasowe przez co musiałem jechać sprawnie.
 
-{% photo "P5190226raw2.jpg","Standardowy krajobraz wiejski" %}
+{% photo "P5190226raw2.jpg","Standardowy krajobraz wiejski","timeline" %}
 
 Chciałem jechać przez [Jeziorki][wiki-jeziorki] do [Bronisławia][wiki-bronislaw]
 a tam dotarłbym do Jeziora Pakoskiego, z którego w linii

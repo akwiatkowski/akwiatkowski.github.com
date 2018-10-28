@@ -89,7 +89,7 @@ Zbliżając się do [Milicza][wiki-milicz] przejechaliśmy nad rzeką
 Bardzo ładnie wyglądały drzewa posadzone wokół ścieżki.
 Minęliśmy bardzo ładne budynki Technikum Leśnego.
 
-{% photo "IMGP4836raw1.jpg","Aleja drzew podczas wjazdu do Milicza" %}
+{% photo "IMGP4836raw1.jpg","Aleja drzew podczas wjazdu do Milicza","timeline" %}
 
 Dojechaliśmy do ruin [zamku][wiki-zamek-milicz] książąt oleśnickich.
 Jak się nie mylę przy nim jest tabliczka z jego ciekawą historią, jednak nie
@@ -132,7 +132,7 @@ Zrobiliśmy krótką przerwę na punkt widokowy Godnowiec
 obok [Nowego Grodziska][wiki-nowe-grodzisko].
 Ponownie wiatr szybko nas przekonał do kontynuowania trasy.
 
-{% photo "IMGP4879raw1.jpg","Jeden z mniejszych stawów" %}
+{% photo "IMGP4879raw1.jpg","Jeden z mniejszych stawów","timeline" %}
 
 Dopiero jadąc między stawami do [Stawna][wiki-stawno] doświadczyłem,
 że do tej pory jeszcze nie wiało mocno. Na powierzchni stawu po prawej stronie

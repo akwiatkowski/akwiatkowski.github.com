@@ -6,6 +6,7 @@ desc:                   "Rzadko kiedy mówię, że jakieś miasto jest ładne. W
 keywords:               [gdańsk, stare miasto, mariacka, żuraw, motława, góra gradowa]
 date:                   2018-02-04 17:00:00
 finished_at:            2018-02-21 13:30:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5652raw1.jpg

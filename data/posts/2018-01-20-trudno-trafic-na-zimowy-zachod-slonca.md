@@ -6,6 +6,7 @@ desc:                   "Ten wyjazd był bardzo impulsywny. Prognoza opadów śn
 keywords:               [zima, chmury, zamieć, topniejący śnieg, wschód]
 date:                   2018-01-20 09:00:00
 finished_at:            2018-02-13 11:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5114raw1multiple_full
@@ -39,7 +40,7 @@ Od marca 2013 roku szukam okazji na zrobienie zdjęcia pofalowanych, ośnieżony
 podczas zachodzącego albo wschodzącego słońca. Przez postępujące globalne
 ocieplenie śnieg jest zjawiskiem coraz rzadszym.
 
-{% photo "IMGP4890raw1.jpg","Okolice Witkowa" %}
+{% photo "IMGP4890raw1.jpg","Okolice Witkowa - trzy drzewa" %}
 
 Obiecująca prognoza pogody przekonała mnie, że warto by było spróbować.
 Spakowałem się szybko i ruszyłem.
@@ -52,20 +53,20 @@ Prognozowane były huraganowe wiatry dla zachodniej Polski. Łącząc to z opada
 nadzieję na to, że sama [Jelenia Góra][wiki-jelenia-gora] będzie na
 chwilę "biała".
 
-{% photo "IMGP4897raw1.jpg","Okolice Witkowa" %}
+{% photo "IMGP4897raw1.jpg","Okolice Witkowa - ogrodzenie","timeline" %}
 
 Dojeżdzając pociągiem w okolicach [Wałbrzycha][wiki-walbrzych] wokół
 mnie szalała zamieć. Wszystkie drogi były zaśnieżone. Był to dla mnie
 bardzo dobry znak.
 
-{% photo "IMGP4943raw1.jpg","Sarny na polach niedaleko Witkowa" %}
+{% photo "IMGP4943raw1.jpg","Sarny na polach niedaleko Witkowa","timeline" %}
 
 Gdy dotarłem do bazy w [Jeleniej Górze][wiki-jelenia-gora], rozpakowałem się,
 sytuacja zmieniała się diametralnie. Silny wiatr który przynosił śnieg
 jeszcze szybciej go zabierał. Wystarczyło 30 minut aby miasto stało
 się ponownie szare.
 
-{% photo "IMGP4939raw1.jpg","Pofalowana perspektywa" %}
+{% photo "IMGP4939raw1.jpg","Pofalowana perspektywa","timeline" %}
 
 Analizując teraz mapę widzę, że centrum [Jeleniej Góry][wiki-jelenia-gora]
 jest na wysokości około 350m (n.p.m.). Nie jest to liczba imponującą.
@@ -83,7 +84,7 @@ na zdjęcia.
 Za drugim razem udałem się tam na wschód słońca. Niestety ułożenie chmur
 zakryło promienie słoneczne.
 
-{% photo "IMGP4988raw1.jpg","Białe pola niedaleko Witkowa" %}
+{% photo "IMGP4988raw1.jpg","Białe pola niedaleko Witkowa","timeline" %}
 
 Bardzo byłem niezadowolony z tego wyjazdu. Mogłem ruszyć do
 [Trójmiasta][wiki-trojmiasto], gdzie niezależnie od pogody,

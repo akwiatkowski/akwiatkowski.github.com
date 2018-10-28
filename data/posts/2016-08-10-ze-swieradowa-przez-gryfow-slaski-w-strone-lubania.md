@@ -6,6 +6,7 @@ date:                   2016-08-10 15:00:00
 finished_at:            2016-09-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk, gryfow_slaski, olszyna, lesna, luban, platerowka, siekierczyn]
@@ -125,7 +126,7 @@ czemu niebo na filmiku jest znacznie ciekawsze.
 W samej wsi [Bożkowice][wiki-bozkowice] zauwayliśmy ostrzeżenie przed
 [Barszczem Sosnowskiego][wiki-barszcz-s].
 
-{% photo "IMGP4231raw1.jpg","Jadąc do Kościelników Średnich" %}
+{% photo "IMGP4231raw1.jpg","Jadąc do Kościelników Średnich","timeline" %}
 
 Skręciliśmy na północ kierując się przez [Kościelnik][wiki-koscielnik] do
 [Lubania][wiki-luban]. Ta droga również była szutrowa oraz również widać z niej

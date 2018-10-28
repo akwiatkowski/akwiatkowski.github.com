@@ -6,6 +6,7 @@ desc:                   "Jesienny przejazd linią kolejową z Wałbrzycha do Kł
 keywords:               [kłodzko, wałbrzych]
 date:                   2017-10-21 15:00:00
 finished_at:            2017-12-17 17:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [train]

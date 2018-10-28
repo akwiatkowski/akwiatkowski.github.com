@@ -6,6 +6,7 @@ desc:                   "Dość długo używałem Rawtherapee i byłem z niego r
 keywords:               [raw, linux, debian, rawtherapee, darktable, presety, odszumianie]
 date:                   2018-07-01 20:00:00
 #finished_at:            2100-02-09 12:00:00
+header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6240189_dark1.jpg.jpg

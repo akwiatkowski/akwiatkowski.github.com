@@ -65,7 +65,7 @@ sztuka dla sztuki, przynajmniej dla mnie.
 [Karpacz][wiki-karpacz] był bardzo pięknie ośnieżony. Pewnie dzień
 wcześniej była tam solidna mgła.
 
-{% photo "IMGP2379raw1.jpg","Mgły nachodzące na Dom Śląski" %}
+{% photo "IMGP2379raw1.jpg","Mgły nachodzące na Dom Śląski","timeline" %}
 
 Wysiadłem z wyciagu na [Kopę][wiki-kopa] i ruszyłem w stronę
 [schroniska][wiki-dom-slaski]. Trochę zdjęć porobiłem po drodzę.

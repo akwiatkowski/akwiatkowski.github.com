@@ -6,6 +6,7 @@ date:                   2016-09-25 18:00:00
 finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/174509739/q%3D80_m%3D2000/a4c8074308f0872be0b4637cddc40cc0"
+header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, skoki, miescisko, mieleszyn, janowiec_wielkopolski, rogowo_zninski, gasawa, dabrowa, janikowo]
@@ -158,7 +159,7 @@ W miejscowości [Grochowicka Szlacheckie][wiki-grochowicka-szlacheckie] skręci�
 z tej trochę ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
 po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
 
-{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa" %}
+{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa","timeline" %}
 
 Wcześniej stwierdziłem, że o tej porze ruch wszędzie będzie znikomy, jednak w
 okolicy dróg krajowych tak nie było i mnie to nie dziwiło.

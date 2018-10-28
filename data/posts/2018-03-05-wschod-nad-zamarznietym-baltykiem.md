@@ -6,6 +6,7 @@ desc:                   "Będąc na Wybrzeżu nie miałem wielkiego szczęścia 
 keywords:               [śnieg, wschód, orłowo, gdynia, czerwień, niebieska godzina, złota godzina, lód, zamarznięty bałtyk]
 date:                   2018-03-05 09:00:00
 finished_at:            2018-03-09 15:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5936raw1.jpg
@@ -82,7 +83,7 @@ W okolicy przystani rybackiej są usypane kamienie. Oczywiście były one
 w całości pokryte lodem i śniegiem. Są one dobrym pierwszym planem
 podczas robienia zdjęć.
 
-{% photo "IMGP5949raw1.jpg","Kamienie pokryte lodem i śniegiem" %}
+{% photo "IMGP5949raw1.jpg","Kamienie pokryte lodem i śniegiem","timeline" %}
 
 W wodzie jest metalowy obiekt. Nie znam jego przeznaczenia. Zawsze
 siedzą na nim ptaki. [Wczoraj]({% post_url 2018-03-04-zamarzniety-baltyk-w-orlowie %})

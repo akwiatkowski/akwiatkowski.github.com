@@ -6,6 +6,7 @@ desc:                   "Przejazd na zachód od Rudy Sułowskiej odwiedzając dw
 keywords:               [barycz, grabówka, niezgoda, młynówka, wioski, szlak pieszy, brzezina sułowska, staw duża mewa]
 date:                   2017-04-23 20:00:00
 finished_at:            2017-12-26 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -58,7 +59,7 @@ Tym razem z [Rudy Sułowskiej][wiki-ruda-sulowska] ruszyliśmy na zachód do
 [Grabówki][wiki-grabowka], miejscowości której początek widzieliśmy podczas
 [spaceru wzdłuż Młynówki]({% post_url 2017-04-21-wieczorny-spacer-wzdluz-mlynowki %}).
 
-{% photo "IMGP4971raw1.jpg","Jadąc do Grabówki" %}
+{% photo "IMGP4971raw1.jpg","Jadąc do Grabówki","timeline" %}
 
 Dużym pozytywnym zaskoczeniem był szlak rowerowy w kierunku
 [Niezgody][wiki-niezgoda]. Na mapie widać go jako marnej jakości droga gruntowa
@@ -121,7 +122,7 @@ jechać tam rowerem.
 Widzieliśmy z prawej Staw Mała Mewa, później Staw Duża Mewa. Przejechaliśmy
 przez Wzgórza Czarownic.
 
-{% photo "IMGP5078raw1.jpg","Wjeżdzając do Brzeziny Sułowskiej" %}
+{% photo "IMGP5078raw1.jpg","Wjeżdzając do Brzeziny Sułowskiej","timeline" %}
 
 Jakość drogi nieznacznie się poprawiła gdy dojechaliśmy do części wsi
 [Brzezina Sułowska][wiki-brzezina-sulowska] o nazwie Gajówka. Sama wieś była

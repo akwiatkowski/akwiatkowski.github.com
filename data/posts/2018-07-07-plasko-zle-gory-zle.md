@@ -6,6 +6,7 @@ desc:                   "Jest to drugi weekendowy wypad rowerowy w tym sezonie. 
 keywords:               [jaworzyna śląska, lato, upał, rzeka bystrzyca, most, wirki, wiry, jaźwina, dobrocin, gilów, gontowa, jodłowiec, dzierżoniów, piława górna, brodziszów, dni ząbkowic śląskich]
 date:                   2018-07-07 18:00:00
 finished_at:            2018-10-19 14:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P7070683.jpg # P7070683 # P7070657_dark1
@@ -113,7 +114,7 @@ z [Jaworzyny Śląskiej][wiki-jaworzyna-slaska] do
 Jechaliśmy pod słońce wijącą się drogą przez [Bolesławice][wiki-boleslawice].
 Skręciliśmy na wschód w stronę [Wiśniowej][wiki-wisniowa].
 
-{% photo "P7070565.jpg","Okolice wsi Wiśniowa" %}
+{% photo "P7070565.jpg","Okolice wsi Wiśniowa","timeline" %}
 
 Przecieliśmy jakąś drogę krajową, chociaż patrząc na mapę wygląda na to,
 że ona jest jeszcze w budowie. Na środku skrzyżowania stał samochód
@@ -141,7 +142,7 @@ Bardzo chciałem pojeździć i robić zdjęcia pól przed żniwami, jednak
 w taką pogodę jak teraz, to więcej doceniam oglądając zmontowany filmik niż
 jak faktycznie tam jechałem.
 
-{% photo "P7070583.jpg","Okolice Niegoszowa" %}
+{% photo "P7070583.jpg","Okolice Niegoszowa","timeline" %}
 
 Z [Niegoszowa][wiki-niegoszow] kierowaliśmy się do miejscowości
 [Pszenno][wiki-pszenno], które graniczy z północno-wschodnią cześcią
@@ -166,7 +167,7 @@ Miałem wrażenie, że już jadę po tej samej trasie co
 Jak teraz patrzę na mapę to tą samą trasą jechaliśmy od [Wirów][wiki-wiry]
 do [Jaźwiny][wiki-jazwina].
 
-{% photo "P7070605.jpg","Droga z widokiem na Ślężę" %}
+{% photo "P7070605.jpg","Droga z widokiem na Ślężę","timeline" %}
 
 Jadąc do [Wirów][wiki-wiry] mijaliśmy bardzo ładne tereny: pola, wioski i
 [Ślężę][wiki-sleza]. Niestety upał wyraźnie zmniejszał przyjemność z
@@ -185,7 +186,7 @@ i tam skręciliśmy w prawo jadąc na południe.
 Jadąc do [Uciechowa][wiki-uciechow] mieliśmy bardzo dobry widok na
 [Góry Sowie][wiki-gory-sowie] i [Góry Bardzkie][wiki-gory-bardzkie].
 
-{% photo "P7070643.jpg","Góra Lipowa w stronę Ligoty Wielkiej" %}
+{% photo "P7070643.jpg","Góra Lipowa w stronę Ligoty Wielkiej","timeline" %}
 
 W [Uciechowie][wiki-uciechow] zauważyliśmy kawiarnie. Zrobiliśmy
 tam przerwę wiedząc, że na trasie możemy już nie spotkać takiego miejsca
@@ -200,7 +201,7 @@ W [Dobrocinie][wiki-dobrocin] skręciliśmy na wschód jadąc drogą
 w stronę [Niemczy][wiki-niemcza]. Zdjazd do [Gilowa][wiki-gilow] był
 bardzo przyjemny.
 
-{% photo "P7070691.jpg","Koniec Piławy Górnej" %}
+{% photo "P7070691.jpg","Koniec Piławy Górnej","timeline" %}
 
 W [Gilowie][wiki-gilow] natomiast skręciliśmy na południe
 jadąc wzdłuż wzniesień. Jest tam zielony szlak pieszy przechodzący przez
@@ -211,7 +212,7 @@ Zostało nam około 15km do naszego miejsca noclegowego. Trudno
 nazwać to bazą, gdyż następnego dnia ruszaliśmy dalej,
 do kolejnej "tymczasowej bazy" ale o tym napiszę później.
 
-{% photo "P7070698.jpg","Okolice Brodziszowa" %}
+{% photo "P7070698.jpg","Okolice Brodziszowa","timeline" %}
 
 Zbliżaliśmy się do okolic [Piławy Górnej][wiki-pilawa-gorna].
 Widziałem stację kolejową wzdłuż torów [linii 137][wiki-linia-137].

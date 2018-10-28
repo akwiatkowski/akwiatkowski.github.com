@@ -6,6 +6,7 @@ desc:                   ""
 keywords:               []
 date:                   2018-09-22 19:00:00
 #finished_at:            2100-02-09 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         _9220124.jpg

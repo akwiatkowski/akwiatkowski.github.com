@@ -76,7 +76,7 @@ Przed [Turewem][wiki-turew] skręciliśmy do [Rogaczewa Małego][wiki-rogaczewo-
 przejeżdzając mostem przez Rów Wyskoc, a przynajmniej tak na mapie UMP jest
 ten strumyk nazwany.
 
-{% photo "IMGP3238raw1.jpg","Krzyż na skrzyżowaniu dróg niedaleko Rogaczewa" %}
+{% photo "IMGP3238raw1.jpg","Krzyż na skrzyżowaniu dróg niedaleko Rogaczewa","timeline" %}
 
 Spodobało mi się główne skrzyżowanie w [Rogaczewie Małym][wiki-rogaczewo-male].
 Jeden albo dwa budynki oraz jakiś budynek przemysłowy dalej i to cała wioska.
@@ -93,7 +93,7 @@ gdyż myślałem, że później będzie odpowiedniejsze miejsce.
 
 Wyjeżdzając z wioski wkroczyliśmy na drogę gruntową i bardziej pofalowany teren.
 
-{% photo "IMGP3241raw1.jpg","Pofalowane pola niedaleko Bieżynia" %}
+{% photo "IMGP3241raw1.jpg","Pofalowane pola niedaleko Bieżynia","timeline" %}
 
 W [Bieżyniu][wiki-biezyn] skręciliśmy na wschód na niebieski szlak rowerowy i
 jechaliśmy na wschód do [Łagowa][wiki-lagowo]. Szlak ten okazał się ciekawszy niż
@@ -132,7 +132,7 @@ ograniczał widoczność.
 Jechaliśmy bardzo szybko i tylko przez chwilę zwróciłem uwagę na drewniany kościół.
 Czytając wikipedię dowiedziałem się, że jest to zabytek z 1646 roku.
 
-{% photo "IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim" %}
+{% photo "IMGP3291raw1.jpg","Stacja kolejowa w Książu Wielkopolskim","timeline" %}
 
 Chcieliśmy dojechać do [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski] i dalej
 do stacji kolejowej (przykładowo do [Chociczy][wiki-chocicza]).
@@ -162,7 +162,7 @@ lekkie obniżenie terenu nam ułatwiały. Gdy już byliśmy w okolicy [Warty][wi
 nie było drzew które mogłyby nam pomagać w walce z wiatrem.
 Powoli dojechaliśmy pod most kolejowy.
 
-{% photo "IMGP3299raw1.jpg","Tereny zalewowe obok Warty" %}
+{% photo "IMGP3299raw1.jpg","Tereny zalewowe obok Warty","timeline" %}
 
 Nie byłem pewien czy tym mostem można przedostać się na drugą stronę, na szczeście
 jest tam dobra kładka i nie musieliśmy się wracać. Wyjechaliśmy w

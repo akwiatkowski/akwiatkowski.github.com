@@ -6,6 +6,7 @@ desc:                   "Nigdy nie wiadomo jaka będzie trasa przed jej przejazd
 keywords:               [nowy tomyśl, sieraków, lwówek, rzepak, zielony, wiosna, chodobczyce, mościejewo, lutom, chrzypsko]
 date:                   2017-05-14 19:00:00
 finished_at:            2017-10-10 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, main]
@@ -69,7 +70,7 @@ Szczegóły
 Wysiedliśmy w [Nowym Tomyślu][wiki-nowy-tomysl] i po zakupienie zapasów na
 drogę ruszyliśmy drogą do [Starego Tomyśla][wiki-stary-tomysl].
 
-{% photo "IMGP6323raw1.jpg","Wyjeżdzając ze Starego Tomyśla" %}
+{% photo "IMGP6323raw1.jpg","Wyjeżdzając ze Starego Tomyśla","timeline" %}
 
 Jechaliśmy niebieskim szlakiem rowerowym.
 [Nowy Tomyśl][wiki-nowy-tomysl] nie jest dużym miastem ale jest na tyle duże,
@@ -107,7 +108,7 @@ podjazd do [Małej Lipki][wiki-mala-lipka]. Mogę się mylić w którym miejscu
 dokładniej był najwyższy punkt ale ważne jest, że rozpoczął się bardzo
 fajny zjazd.
 
-{% photo "IMGP6344raw1.jpg","Piaszczysta droga niedaleko Chudobczyc" %}
+{% photo "IMGP6344raw1.jpg","Piaszczysta droga niedaleko Chudobczyc","timeline" %}
 
 W [Lwówku][wiki-lwowek] zrobiliśmy sobie przerwę na rynku po kolejną część zapasów.
 Wyjeżdzając musieliśmy przejechać przez drogę nr 92.
@@ -138,7 +139,7 @@ do [Sierakowskiego Parku Krajobrazowego][wiki-park-sierakow].
 Okoliczne tereny cały czas miały swój klimat, a pola kwitnącego rzepaku
 dodawały uroku.
 
-{% photo "IMGP6359raw1.jpg","Stóg w rzepaku" %}
+{% photo "IMGP6359raw1.jpg","Stóg w rzepaku","timeline" %}
 
 Może kiedyś coś więcej napiszę jeszcze o [Niemierzewie][wiki-niemierzewo] albo o
 drodzę do [Mościejewa][wiki-mosciejewo]. W samym [Mościejewie][wiki-mosciejewo]
@@ -152,7 +153,7 @@ okolice Jeziora Lutomskiego i okoliczne pagórki. Naprzeciwko nas na północ
 zbierała się burza pod postacią bardzo ciemnych chmur. Błysków nie widziałem
 ale grzmoty było delikatnie słychać.
 
-{% photo "IMGP6369raw1.jpg","Pole rzepaku" %}
+{% photo "IMGP6369raw1.jpg","Pole rzepaku","timeline" %}
 
 Zaskoczył mnie gwałtowny zjazd, podjazd po nim już był bardziej
 przewidywalny.

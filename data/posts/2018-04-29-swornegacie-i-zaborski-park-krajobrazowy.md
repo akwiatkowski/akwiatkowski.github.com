@@ -6,6 +6,7 @@ desc:                   "Na pierwszy pełny dzień majówki postanowiliśmy uda�
 keywords:               [bory tucholskie, swornegacie, chłopowy, kosobudy, wiosna, ścieżka rowerowa, jezioro karsińskie, jezioro charzykowskie]
 date:                   2018-04-29 17:00:00
 finished_at:            2018-05-16 12:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8092raw1.jpg
@@ -96,7 +97,7 @@ Podobały mi się domy podczas opuszczania tej miejscowości. Wygląda na to, ż
 większość nowych budynków jest we wschodniej części. Jechaliśmy czarnym szlakiem rowerowym
 w stronę [Wielkich Chełmów][wiki-wielkie-chelmy].
 
-{% photo "IMGP8039raw1.jpg","Przed Kosobudami" %}
+{% photo "IMGP8039raw1.jpg","Przed Kosobudami","timeline" %}
 
 Mijaliśmy już sporo nowych budynków będących chyba również gospodarstwami
 rolnymi. Odjeżdzając dalej od [Brus][wiki-brusy] pojawiało się więcej

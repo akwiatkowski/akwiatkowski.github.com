@@ -6,6 +6,7 @@ desc:                   "Wschodnia Polska jest dla mnie trochę tajemnicą. Chci
 keywords:               [olsztyn, mazury, pagórki, wioski]
 date:                   2018-06-09 20:00:00
 finished_at:            2018-07-05 15:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6090266raw1.jpg
@@ -79,7 +80,7 @@ Najbardziej pasował mi bezpośredni pociag do [Olsztyna][wiki-olsztyn] o 6:36,
 jednak nie miał on ikonki roweru. Gdzieś wyczytałem, że jazda w pociągu bez tej
 ikonki, może być związane nawet z karą i wyproszeniem z pociągu.
 
-{% photo "P6090183raw1.jpg","Jadąc pociągiem do Olsztyna" %}
+{% photo "P6090183raw1.jpg","Jadąc pociągiem do Olsztyna","timeline" %}
 
 Dojechałem na dworzec i poczekałem na pociąg, który przyjechał tylko z dwoma
 wagonami. Wsiadłem na koniec i zauważyłem pomarańczową kartkę
@@ -149,7 +150,7 @@ Dotarliśmy do drogi 527. Początkowo mogliśmy jechać ścieżką
 rowerową ale ona się skończyła w miarę szybko. Musieliśmy przejechać 6km
 po drodzę 527. To dość sporo jak na "tylko opuszczenie" dużego miasta.
 
-{% photo "P6090204raw1.jpg","Wyjazd z Jonkowa" %}
+{% photo "P6090204raw1.jpg","Wyjazd z Jonkowa","timeline" %}
 
 Po prawej stronie widziałem tory [linii kolejowej 220][wiki-linia-220]
 z [Olsztyna][wiki-olsztyn] w stronę [Elbląga][wiki-elblag].
@@ -185,7 +186,7 @@ męczyło mnie.
 Zbliżaliśmy się do [Gamerek Wielkich][wiki-gamerki-wielkie].
 Jest tam stacja kolejowa [linii 220][wiki-linia-220].
 
-{% photo "P6090235raw1.jpg","Stacja kolejowa w Gamerkach Wielkich" %}
+{% photo "P6090235raw1.jpg","Stacja kolejowa w Gamerkach Wielkich","timeline" %}
 
 Zaskoczył mnie przejeżdzający pociąg Intercity, myślałem, że kursują tutaj
 tylko regionalne.
@@ -213,7 +214,7 @@ drogą gruntową przez las (piasek).
 
 Czekając chwilę w cieniu od razu byłem atakowany przez komary.
 
-{% photo "P6090261raw1.jpg","Nad linią kolejową do Żabiego Raju" %}
+{% photo "P6090261raw1.jpg","Nad linią kolejową do Żabiego Raju","timeline" %}
 
 Zjeżdzając w stronę [Lusajn][wiki-lusajny] tereny przypominały
 pomniejszoną wersję [Beskidu Niskiego][wiki-beskid-niski].
@@ -228,7 +229,7 @@ Ruszyliśmy około godziny 16-tej. Pogoda nie była już tak uporczywie gorąca 
 W [Żabim Rogu][wiki-zabi-rog] (ciekawa nazwa) zrobiliśmy przerwę przy
 jeziorze na kilka zdjęć.
 
-{% photo "P6090265raw1.jpg","Jezioro Żabie w Żabim Raju" %}
+{% photo "P6090265raw1.jpg","Jezioro Żabie w Żabim Raju","timeline" %}
 
 Jadąc na południe w stronę [Zawrotów][wiki-zawroty] i [Rusi][wiki-rus]
 krajobraz jakby nie był tak interesujący, jednak połączenie delikatniejszego

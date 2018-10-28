@@ -6,6 +6,7 @@ desc:                   "Opis dość długiego spaceru po północnej części P
 keywords:               [łopuchowo, dzwonówka, sławica, jezioro gackie, jezioro borowe, dzwonowo, cmentarz, cmentarz ewangelicki, głęboczek, jezioro leśne, łopuchówko, żywiec dziewięciolistny, jezioro leśne, rzeka trojanka]
 date:                   2017-11-05 20:00:00
 finished_at:            2017-12-17 17:00:00
+header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hike, main]
@@ -57,7 +58,7 @@ chwilę po godzinie 12-tej.
 Tuż przy stacji jest osiedle domów jednorodzinnych w budowie. Zaletą tego miejsca
 jest bliskość wspomnianej stacji oraz Jezioro Gackie.
 
-{% photo "IMGP2758raw1.jpg","Ogrodzona posesja" %}
+{% photo "IMGP2758raw1.jpg","Ogrodzona posesja","timeline" %}
 
 Poszliśmy na południowy-wschód około kilometr. Na skrzyżowaniu skręciliśmy
 w lewo i doszliśmy do pierwszego ciekawego miejsca -
@@ -76,13 +77,13 @@ jej zdjęcie ona zdażyła już na nie wejść. W tym momencie żałowałem, że
 wziąłem mojej Sigmy 150-500, gdyż mógłbym zrobić bardzo ciekawe zdjęcia
 wiewiórce.
 
-{% photo "IMGP2799raw1.jpg","Wiewiórka w Sławicy" %}
+{% photo "IMGP2799raw1.jpg","Wiewiórka w Sławicy","timeline" %}
 
 Szliśmy ulicą Gacką na północny-wschód i ostatecznie dotarliśmy nad
 jezioro. Widzieliśmy kilku wędkarzy łowiących
 ze swoich łódek.
 
-{% photo "IMGP2822raw1.jpg","Jezioro Gackie" %}
+{% photo "IMGP2822raw1.jpg","Jezioro Gackie","timeline" %}
 
 Wróciliśmy ponownie do centrum [Sławicy][wiki-slawica]. Idąc ulicą
 Dzwonowską dotarliśmy do Jeziora Borowego. Podczas opuszczania
