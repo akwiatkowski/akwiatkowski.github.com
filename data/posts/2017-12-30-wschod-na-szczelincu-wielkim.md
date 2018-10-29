@@ -74,7 +74,7 @@ Słońce padało ze strony takiej, że było zasłonięte przez [Szczeliniec][wi
 Nie planowałem iść na punkt widokowy, chociaż jak teraz myśle to mogłoby być
 dobrym pomysłem.
 
-{% photo "IMGP3890raw1healed.jpg","Pomarańczowe światło na zboczach","timeline" %}
+{% photo "IMGP3890raw1healed.jpg","Pomarańczowe światło na zboczach" %}
 
 Robiąc zdjęcia poznałem
 [Oskara Jaśkiewicza][oskar-jaskiewicz] i [Krystiana Papskiego][krystian-papski],

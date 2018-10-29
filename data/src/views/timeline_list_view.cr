@@ -20,24 +20,26 @@ class TimelineList < PageView
   # PARTS = 12 * 4 # * 2
   PARTS = 52 # weeks
   INTERTED_QUANT = 1.0 / PARTS.to_f
-  PER_ROW = 8
+
+  PER_ROW = 12 # 8
+  PER_ROW_LINE = 4
+
+  USE_WIDER_LAYOUT = false
 
   getter :image_url, :title, :subtitle, :url
 
   def content
-    page_header_html +
-      page_wide_article_html
+    if USE_WIDER_LAYOUT
+      page_header_html + page_wide_article_html
+    else
+      super
+    end
   end
 
   def inner_html
-  # def content
     s = ""
-
-    s += "<table class=\"season-table\">"
-
     i = 0.0
     index = 1
-    max =
 
     while i <= 1.0
       s += part_html(i, i + INTERTED_QUANT, index)
@@ -46,9 +48,10 @@ class TimelineList < PageView
       index += 1
     end
 
-    s += "</table>"
-
-    return s
+    data = Hash(String, String).new
+    data["content"] = s
+    data["photos.count"] = @photo_entities.size.to_s
+    return load_html("season_timeline/page", data)
   end
 
   def part_html(i_from, i_to, index)
@@ -77,7 +80,7 @@ class TimelineList < PageView
     data["row.count"] = index.to_s
     data["row.max"] = PARTS.to_s
 
-    data["row.content"] = row_content(selected_for_row)
+    data["row.images"] = row_content(selected_for_row)
 
     data["colspan"] = PER_ROW.to_s
 
@@ -89,7 +92,8 @@ class TimelineList < PageView
       load_html("season_timeline/cell", {
         "gallery_post_image" => load_html(
           "gallery/gallery_post_image",
-          selected_photo.hash_for_partial)
+          selected_photo.hash_for_partial(year_within_desc: true)
+          )
         }
       )
     }.join("\n")
@@ -131,14 +135,16 @@ class TimelineList < PageView
 
       index = 0
       while index < selected_photos_rest.size
+        # return if full
+        return selected if selected.size == PER_ROW
+        # return to have full line in row (remove second line of not timeline photos)
+        return selected if (selected.size % PER_ROW_LINE) == 0
+
         # add only if within index
         if index < selected_photos_rest.size
           selected << selected_photos_rest[index]
         end
         index += interval
-
-        # return if full
-        return selected if selected.size == PER_ROW
       end
     end
 

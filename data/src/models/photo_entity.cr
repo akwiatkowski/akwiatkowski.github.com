@@ -58,7 +58,9 @@ struct PhotoEntity
     @float_of_year = @day_of_year.to_f / 365.0
   end
 
-  def hash_for_partial
+  def hash_for_partial(
+    year_within_desc = false
+  )
     data = Hash(String, String).new
 
     klass = @is_header ? "gallery-header-image" : "gallery-regular-image"
@@ -67,8 +69,9 @@ struct PhotoEntity
     data["klass"] = klass
     data["post.url"] = @post.url
     data["img.src"] = @big_thumb_image_src
-    data["img.alt"] = @desc
-    data["img.title"] = @desc
+    processed_desc = year_within_desc ? "#{@post.time.year} - #{@desc}": @desc
+    data["img.alt"] = processed_desc
+    data["img.title"] = processed_desc
     data["post.title"] = @post.title
     data["img.url"] = full_image_src
     # data["img.size"] = "" # TODO
