@@ -23,6 +23,9 @@ pois:
   - lat: 52.40613
     lon: 15.53672
     name: Kolej ogrodowa w Nietoperku
+  - lat: 52.35327
+    lon: 15.42479
+    name: Okolica linii kolejowej Toporów-Międzyrzecz jest bardzo ładna
 
 ---
 
@@ -101,8 +104,82 @@ myślałem o przyszłych wyjazdach.
 
 Nie mogłem za daleko odjeżdżać dlatego skręciłem w prawo aby zrobić
 pętlę wokół [jeziora][wiki-jezioro-paklicko-male] (czerwony szlak rowerowy).
+Do powrotu do [Wysokiej][wiki-wysoka] musiałem przejechać półtora kilometra
+przez przyjemną okolicę.
 
+Po zjedzeniu ruszyliśmy dalej, ponownie do [Boryszewa][wiki-boryszewo].
+Postanowiliśmy, że tam zadecydujemy co robić.
 
-TODO:
+W okolicy [Kanału Staropole][wiki-kanal-saropole] zauważyliśmy
+rodzinę łabędzi. Pierwszy raz w życiu widziałem małe łabądki.
 
-* powrót - problem z miejscem w pociągu
+Będąc w centrum [Boryszewa][wiki-boryszewo] postanowiliśmy spróbować pojechać
+na zachód. Wcześniej widziałem, że będą tam znacznie ciekawsze tereny.
+Według mapy powinniśmy jechać po lepszej drodze niż gruntowa i okazało się,
+że to była droga brukowana, po której się nie jeździ dobrze rowerem.
+
+Dotarliśmy do skrzyzowania po 2km. Patrząc na mapę widziałem, że po lewej
+są tory [linii 375][wiki-linia-375] z [Toporowa][wiki-toporow] do
+[Międzyrzecza][wik-miedzyrzecz]. Chciałem podjechać do nich jednak
+duża kałuża mnie przekonała, że nie warto. Prawdopodobnie sama kałuża była
+w miejscu w którym kiedyś były tory. Teren tutaj jest bardzo ładny.
+
+TODO opisać coś dodając zdjęcia
+
+Dotarliśmy do [Sieniawy][wiki-sieniawa]. Początkowo nie pamiętałem tej
+miejscowości. Podjechaliśmy kilometr na południe do miejsca,
+które już poznałem. [Byłem tam]({% post_url 2017-06-03-lubuskie-jeziora %})
+dokładnie rok temu!
+
+Wróciliśmy do centrum [Sieniawy][wiki-sieniawa] szukając przy okazji
+sklepu. Trochę żałowałem, że nie odwiedziliśmy jednego w [Wysokiej][wiki-wysoka].
+Była godzina popołudniowa i w niedzielę z tymi sklepami bywa różnie, sam
+widziałem przynajmniej jeden zamknięty teraz w [Sieniawie][wiki-sieniawa].
+
+Woleliśmy jechać przez [Wielowieś][wiki-wielowies] chyba z powodu jakości
+drogi oraz większej szansy na sklep. Nie chcieliśmy jechać drogą brukową.
+
+[sieniawa-kopalnia]: http://www.sieniawa.com/
+
+Opuszczając [Sieniawę][wiki-sieniawa] widziałem jakąś [kopalnię][sieniawa-kopalnia]
+po lewej stronie, chyba zamkniętą. A może tylko taśmociąg był tamten wyłączony.
+
+Podjechaliśmy do 150m n.p.m. po czym czekał na nas
+zjazd do [Wielowsi][wiki-wielowies]. Widzieliśmy tylko 2 albo 3 domy we
+wschodniej części wsi gdyż od razu skręciliśmy w prawo jadąc do
+[Zarzynia][wiki-zarzyn]. Czekał na nas teraz las, trochę monotonny.
+
+Dotarliśmy do wsi [Pieski][wiki-pieski]. Tutaj jazda spokojnymi drogami
+miała się skończyć. Musieliśmy dostać się do sklepu a gdzie może
+jakiś być jak nie w [Międzyrzeczu][wiki-miedzyrzecz]. A z
+[Międzyrzecza][wiki-miedzyrzecz] jest bardzo dobra ścieżka rowerowa.
+
+Teraz patrząc na mapę może ciekawiej byłoby jechać przez
+[Kursko][wiki-kursko] i [Gorzycę][wiki-gorzyca] ale nie byłem pewien
+jakości dróg. Pod względem widoków już byliśmy zadowoleni więc
+teraz nie chciałem kombinować.
+Ruszyliśmy drogą 137 na wschód. Na tej drodze jest szlak
+[rowerowy R1][wiki-r1] więc chyba warto jechać?
+
+[wiki-r1]: https://pl.wikipedia.org/wiki/Szlak_rowerowy_R1
+
+Nie była to całkowicie nudna droga z dużym ruchem. Oczywiście, nie była
+tak spokojna jak drogi po których wcześniej jechaliśmy, ale okoliczne pola
+były uspokajające.
+
+Ciekawe jest [Jezioro Kęszyckie][wiki-jezioro-keszyckie], obok ktorego
+jest osiedle. Nie wiem czy normalne czy letniskowe.
+
+Przez kolejne 4km mieliśmy prawie 50m zjazdu.
+
+Zrobiłem zdjęcie robalowi gdy zatrzymaliśmy się przy
+drodzę do [Kęszycy][wiki-keszyca].
+
+W okolicy [Jeziora Oko][wiki-jezioro-oko] zostało nam około 2km jazdy
+do centrum [Międzyrzecza][wiki-miedzyrzecz]. Opuściliśmy drogą i jechaliśmy
+ścieżką rowerową. Od razu zauważyłem inny kolor trawy
+
+Po przesadnie dużych zakupach ruszyliśmy do bazy. Następnego dnia mieliśmy
+wracać wczesnym pociągiem do [Zbąszynia][wiki-zbaszyn] i prawie konduktor by
+nas nie wpuścił. Pociąg był pełen i ledwo zmieściliśmy się z rowerami.
+Dosyć często są problemy z szynobusem na tej trasie i wysyłają mniejsze.
