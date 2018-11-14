@@ -16,6 +16,7 @@ coords:                 [{"route": [[53.21383,23.45613], [53.22328,23.45751], [5
 distance:               62
 time_spent:             11
 elevation:              459
+Temperature:            29
 
 
 pois:
@@ -32,39 +33,149 @@ pois:
 
 ## Szczegóły
 
-TODO:
+### Dojazd do Grzybowca
 
-* rano w S zrobiłem kilka zdjęć, słońce trochę mi przeszkadzało
-* cofneliśmy się do S
-* skręciliśmy na północ
-* jest to okolica rzek i musieliśmy nadrobić trochę km aby się przedostać dalej
-* pierwszy most obok wsi Łaźnie
-* w lesie było całkiem przyjemnie przed południem
-* jechaliśmy obok Bahna w Borkach aż do Borek
-* fajne obniżenie tereny do rzeki Supraśl
-* dotarliśmy do Kondycji, gdzie obok jest skrzyżowanie rzek
-* dzień po mało ciekawych miejsc zapamiętałem
-* w okolicy Nowosiołki dotarliśmy do asfaltu
-* ciekawiła mnie Nowosiołka, jednak nie chciałem nadrabiać kilometrów
-* w Załukach dołączyliśmy do greenvelo
-* Waliły-Dwór - myślałem że tam będzie jakiś dworek, a wyglądało to jak teren prywatny, gospodarstwo rolne, więc nie wchodziłem
-* rozważałem jechać skrótem przez Słuczankę, ale to mogło by być odwrotne (nie skracać a wydłużać)
-* w Waliły-Stacja przerwa na jedzenie, obok jest stacja kolejowa ale nie wiem czy cokolwiek tam jeździ
-* niestety ścieżka rowerowa się skończyła i musieliśmy jechać drogą krajową 65, którą można dojechać przez Bobrowniki do Białorusi
-* mając możliwość skręcenia do Grzybowca (widzieliśmy tablicę) zrobiliśmy to
-* kierowaliśmy się do noclegu aby zostawić sakwy i móc jechać dalej
-* po sporej przerwie ruszyliśmy znowu piaszczystą ścieżką
-* musieliśmy ominąć las (pewnie tam są górki?) przez Piłatowszczyznę
-* droga przez las jest dość nudna ale piaski czasami dawały nam więcej "radości"
-* na południe przez Kruszynianami było ładne pole z okrągłymi snopkami
-* festiwal w Kruszynianach - dużo pałętających się ludzi, jedna restauracja nieczynna a jedzenie wydawane obok gdzie była duża kolejka
-* pojechaliśmy dalej, okazało się że jest jeszcze agroturystyka z restauracją
-* bardzo klimatyczne miejsce, drewniane domy, niestety przesadziłem z jedzeniem
-* pojechaliśmy na chwilę na północ aby zobaczyć kraniec wsi
-* kilka zdjęć domów
-* ktoś nam polecił serkiew, która była obok cmentarza
-* robiło się późno i wiedziałem, że wrócimy w ciemności
-* na chwilę pod meczetem
-* za dużo ludzi
-* wieczorem pojawiła się wilgoć i łatwiej się jechało przez las
-* obok rzek i traw podmuch zimnego powietrza
+Rano wyszedłem jeszcze na chwilę do wioski aby zrobić kilka zdjęć.
+Bardzo mi się podobał klimat [Surażkowa][wiki-surazkowo].
+
+{% photo "P8040390.jpg","Domy w Surażkowie" %}
+
+Gdy później wyruszyliśmy rowerem również musieliśmy poruszać się tą samą drogą.
+Podjechaliśmy na chwilę nad rzekę [Sokołdę][wiki-sokolda-rzeka].
+
+Same położenie [Surażkowa][wiki-surazkowo] przy połączeniu rzek powoduje,
+że ta wieś jest dość odgrodzona.
+
+{% photo "P8040417.jpg","Rzeka Sokołda","timeline" %}
+
+Wyjechaliśmy z [Surażkowa][wiki-surazkowo] i na skrzyżowaniu skręciliśmy na
+północ. Ta droga gruntowa nie była jeszcze straszna i wydaje mi się,
+że jechaliśmy lekko z wiatrem.
+
+{% photo "P8040432.jpg","Dom w Surażkowie" %}
+
+Było już ciepło. Wystarczająco aby wiedzieć, że to kolejny dzień który nie jest
+idealny na jeżdżenie rowerem.
+
+Jechaliśmy do wsi [Łaźnie][wiki-laznie] ponownie przekraczając
+[Sokołdę][wiki-sokolda-rzeka].
+
+{% photo "P8040488.jpg","Rzeka Sokołda" %}
+
+Dojechaliśmy pod wyremontowaną cerkiew, której zrobiłem zdjęcie.
+
+{% photo "P8040495.jpg","Dach cerkwi we wsi Łaźnie" %}
+
+Na [Podlasiu][wiki-podlasie] zrozumiałem, że istnieją miejscowości do których
+nie ma drogi asfaltowej a teoretycznie nic nie powinno przeszkadzać w istnieniu jej.
+To nie są góry.
+
+{% photo "P8040497.jpg","Normalna droga na Podlasiu" %}
+
+Wjechaliśmy do wsi [Borki][wiki-borki], która po prawej stronie była ciekawie
+obniżona w stronę rzeki [Supraśl][wiki-supras-rzeka].
+
+Przejechaliśmy po kolejnym dopływie do rzeki [Supraśl][wiki-suprasl] - po
+rzece [Słoi][wiki-sloja].
+
+{% photo "P8040505.jpg","Rzeka Supraśl w okolicy Nowosiołki" %}
+
+Dotarliśmy do [Nowosiołki][wiki-nowosiolka]. Chciałem podjechać na drugi kraniec
+wioski aby zobaczyć jakieś ciekawe stare budynki, jednak przy tej pogodzie
+zignorowałem to.
+
+{% photo "P8040513.jpg","Wieś Załuki" %}
+
+W [Załukach][wiki-zaluki] było kilka ciekawych drewnianych budynków.
+Odbijał na zachód
+szlak rowerowy [Greenvelo][wiki-greenvelo],
+którym można dojechać do [Supraśla][wiki-suprasl].
+Zaciekawił mnie teraz. Może gdy będzie odpowiednia pogoda jesienią jeszcze
+tutaj wrócę.
+
+Kierowaliśmy się drogą na południowy-wschód do [Waliły][wiki-walily].
+
+Myślałem że [Waliły Dwór][wiki-walily-dwor] będzie ciekawszą miejscowością.
+Były tam jakieś stawy rybne ale sam "dwór" jest terenem prywatnym i
+chyba nic nie można było zwiedzić. Po prostu ktoś ma tam gospodarstwo rolne.
+
+{% photo "P8040532.jpg","Dom w Waliły Stacja" %}
+
+Zostało nam 3km do [Waliły Stacja][wiki-walily-stacja]. Niewiele nowego
+widzieliśmy - były jakieś drewniane domy.
+
+Jest tutaj stacja kolejowa. Teoretycznie tory są przejezdne jednak
+mała ilość potencjalnych pasażerów spowodowała zamknięcie wstrzymanie
+linii kolejowej.
+
+Najważniejszym miejscem w tej miejscowości jest restauracjo-hotel.
+Spieliśmy rowery i weszliśmy do klimatyzowanego środka na obiad. Sklepy
+i miejsca gdzie można coś zjeść nie są czymś normalnym. W tym wypadku jest
+tutaj droga wylotowa na [Białoruś][wiki-bialorus] z przejściem w
+[Bobrownikach][wiki-bobrowniki]. Tam pojechaliśmy
+[jutro]({% post_url 2018-08-05-swisloczany-i-granica-z-bialorusia %}).
+
+Po godzinie ruszyliśmy dalej na wschód. Przez ponad kilometr mogliśmy jechać
+ścieżką rowerową. Znając jakość dróg w lasach postanowiłem, że lepiej
+przejechać drogą krajową 65. Nie mieliśmy dużo do przejechania bo tylko 3km.
+
+{% photo "P8040536.jpg","Grób w centrum Grzybowca" %}
+
+Widząc tabliczkę [Grzybowce][wiki-grzybowce] skręciliśmy w lewo. Znowu
+przywitał nas piasek. Trudno było nie zauważyć braku wody w lesie
+
+{% photo "P8040557.jpg","Kot w Grzybowcu" %}
+
+Dotarliśmy do bazy. Zrobiliśmy 2.5 godzinną przerwę bo musieliśmy
+podjechać do [Tykocina][wiki-tykocin] na festiwal tatarski.
+
+### Festiwal w Tykocinie
+
+{% photo "P8040625.jpg","Okolica rzeki Grzybówki" %}
+
+Ruszyliśmy chyba o 16-tej. Dojechaliśmy do centrum [wsi][wiki-grzybowce]
+i dalej na północ przez rzekę Grzybówkę. Dojechaliśmy do wsi
+o nazwie [Bagno][wiki-bagno]. Te miejscowości tutaj są czasem tak małe.
+Są zlepkami domów, że trudno być pewnym że to prawdziwa miejscowość i
+w wikipedii będzie jakakkolwiek informacja o niej.
+
+{% photo "P8040642.jpg","Pole przed Kruszynianami" %}
+
+Następnie jechaliśmy już cały czas żółtym szlakiem rowerowym.
+Wydaje mi się, że wtedy jakość drogi się pogorszyła. Miejscami musieliśmy
+walczyć z piaskiem.
+
+{% photo "P8040651.jpg","Dom w Kruszynianach" %}
+
+Po niecałe 8km opuściliśmy las mając dobry widok na pola w okolicy
+[Kruszynian][wiki-kruszyniany]. Dojazd do tej miejscowości jest dość ciekawy.
+Można asfaltem z [Krynek][wiki-krynki] i prawdopodobnie też jest droga asfaltowa
+przez [Chomontowce][wiki-chomontowce] do [Bobrowników][wiki-bobrowniki].
+Reszta połączeń jest drogami grutowymi.
+
+Sam festiwal mi się nie podobał. Była spora kolejka do jedzenia i jeszcze więcej
+ludzi. Ludzi, którzy w moim odczuciu nie doceniają lokalnej kultury a przyjechali
+tutaj "bo jest impreza". Ruszyliśmy znaleźć jakieś miejsce do zjedzenia.
+
+{% photo "P8040654.jpg","Zajazd Na Końcu Świata - zielony budynek" %}
+
+Byliśmy tam o godzinie 17:20. Słońce już powoli się zbliżało do horyzontu.
+
+Zatrzymaliśmy się w Zajeździe Tatarskim "Na Końcu Świata". Nazwa zobowiązuje.
+Z tego co widziałem pokoje gościnne są bardzo "niskotechnologiczne".
+
+{% photo "P8040668.jpg","Zajazd Na Końcu Świata - okiennice" %}
+
+Skończyliśmy jeść około 18:40. Ruszyliśmy jeszcze pokręcić się po wiosce,
+zobaczyć północny kraniec, cmentarz oraz meczet. Ja czułem że już się robi
+późno, że powinniśmy wracać wcześniej.
+
+{% photo "P8040750.jpg","Meczet w Kruszynianach" %}
+
+Ostatecznie wróciliśmy po zmroku. Raz skręciliśmy w nieodpowiednim miejscu
+ale dzięki GPS szybko się cofneliśmy. Gdy jest ciemno i jedzie się w lesie
+nigdy nie można być na 100% pewnym.
+
+Po zmroku powietrze robi się chłodniejsze. Wilgoć zaczyna się skraplać i jadąc
+wyraźnie czułem lepszą przyczepność. Temperatura spadła do 21 stopni w lesie,
+czyli 8 stopni mniej.
