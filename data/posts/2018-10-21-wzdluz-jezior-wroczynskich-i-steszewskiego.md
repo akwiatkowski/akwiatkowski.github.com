@@ -8,7 +8,7 @@ date:                   2018-10-21 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2018_10_21__14_33__A212255.jpg
 tags:                   [hike, todo]
 towns:                  [wielkopolskie, pobiedziska]
 
