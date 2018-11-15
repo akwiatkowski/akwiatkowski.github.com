@@ -172,7 +172,7 @@ przekonywał nad wyższością ekwiwalentu 35mm nad 50mm, postanowiłem, że
 warto by było najpierw sprawdzić w praktyce również ten obiektyw.
 Tylko nie wiedziałem gdzie można go zdobyć do testów.
 
-{% photo "\_9200031.jpg","Kot Maja - Olympus 17/1.2 @ f1.2, 1/80 s, ISO 6400" %}
+{% photo "\_9200031.jpg","Kot Maja - Olympus 17/1.2 @ f1.2, 1/80 s, ISO 6400","tag:cat" %}
 
 Skontaktowałem się z Olympus Polska gdyż chciałem przetestować 300/4.
 Obiektyw był dostępny jednak wolałem przesunąć wypożyczenie. Nie byłbym w
@@ -221,11 +221,11 @@ W przypadku 17mm należy być blisko kota. Często wtedy to zauważają i zaczyn
 zachowywać się inaczej, podchodzić. Z separacją tła nie ma problemu. Tylko sama
 głowa jest ostra.
 
-{% photo "07_26__9300221.jpg","Kot Jaś - Olympus 17/1.2" %}
+{% photo "07_26__9300221.jpg","Kot Jaś - Olympus 17/1.2","tag:cat" %}
 
 W przypadku zdjęć głowy widać zniekształcenie związane z małą odległością i ogniskową.
 
-{% photo "07_29__9300243.jpg","Kot Jaś - Olympus 17/1.2" %}
+{% photo "07_29__9300243.jpg","Kot Jaś - Olympus 17/1.2","tag:cat" %}
 
 Do macro aparat ten się nadaje średnio ale nie po to został on stworzony.
 Widać tutaj ładne rozmycie tła.
@@ -235,22 +235,22 @@ Widać tutaj ładne rozmycie tła.
 Jeżeli ktoś lubi "portrety środowiskowe", gdzie tło jest bardzo istotną
 częścią zdjęcia to ogniskowa 35mm (dla pełnej klatki) powinna być idealna.
 
-{% photo "07_40__9300325.jpg","Kot Jaś - Olympus 17/1.2" %}
+{% photo "07_40__9300325.jpg","Kot Jaś - Olympus 17/1.2","tag:cat" %}
 
-<!-- {% photo "07_40__9300329.jpg","Kot Jaś - Olympus 17/1.2" %} -->
+<!-- {% photo "07_40__9300329.jpg","Kot Jaś - Olympus 17/1.2","tag:cat" %} -->
 
 Kolejny przykład delikatnego rozmycia tła.
 
-{% photo "07_41__9300337.jpg","Kot Jaś - Olympus 17/1.2" %}
+{% photo "07_41__9300337.jpg","Kot Jaś - Olympus 17/1.2","tag:cat" %}
 
 Kilka zdjęć zrobiłem w dość ciemnym budynku.
 
-{% photo "07_59__9300456_02.jpg","Kot Jaś - Olympus 17/1.2, ISO 3200" %}
+{% photo "07_59__9300456_02.jpg","Kot Jaś - Olympus 17/1.2, ISO 3200","tag:cat" %}
 
 Robiąc zdjęcia 17mm częściej konieczne jest podejście bliżej i otoczenie obiektu
 jest jeszcze bardziej istotne.
 
-{% photo "12_44__9300047.jpg","Kot Gosiek - Olympus 17/1.2" %}
+{% photo "12_44__9300047.jpg","Kot Gosiek - Olympus 17/1.2","tag:cat" %}
 
 ### Ogniskowa
 

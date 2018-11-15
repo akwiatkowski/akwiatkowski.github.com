@@ -16,6 +16,8 @@ struct PhotoEntity
   @full_image_src : String
   @small_image_src : String
 
+  @tags : Array(String)
+
   FLAG_NOGALLERY = "nogallery"
   FLAG_NO_TIMELINE = "notimeline"
   FLAG_TIMELINE = "timeline"
@@ -27,6 +29,7 @@ struct PhotoEntity
   getter :desc, :post, :image_filename, :is_gallery, :is_header, :is_timeline
   getter :thumb_image_src, :big_thumb_image_src, :full_image_src, :small_image_src
   getter :time, :day_of_year, :float_of_year
+  getter :tags
 
   def initialize(
     @post : Tremolite::Post,
@@ -35,7 +38,8 @@ struct PhotoEntity
     @param_string,
     @is_gallery = true,
     @is_header = false,
-    @is_timeline = false
+    @is_timeline = false,
+    @tags = Array(String).new
   )
     if param_string.includes?(FLAG_NOGALLERY)
       @is_gallery = false
@@ -45,6 +49,13 @@ struct PhotoEntity
       @is_timeline = false
     elsif param_string.includes?(FLAG_TIMELINE)
       @is_timeline = true
+    end
+
+    # add tags
+    param_string.split(/,/).each do |param_split|
+      if param_split =~ /tag:(\w+)/
+        @tags << $1.to_s
+      end
     end
 
     # just optimization

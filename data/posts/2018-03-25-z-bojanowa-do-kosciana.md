@@ -121,7 +121,7 @@ Podczas opuszczania tej miejscowości był bardzo fajny zjazd z widokiem na
 Jezioro Grodzisko. Musiałem uważać na leniwie spacerującego
 sobie kota.
 
-{% photo "IMGP6199raw1.jpg","Towarzyski kot w Grodzisku","nogallery,cat" %}
+{% photo "IMGP6199raw1.jpg","Towarzyski kot w Grodzisku","nogallery,tag:cat" %}
 
 Do [Świerczyny][wiki-swierczyna] jechaliśmy drogą asfaltową wokół pól.
 Wydaję mi się, że tutaj zaczynały się najciekawsze tereny tego wyjazdu.

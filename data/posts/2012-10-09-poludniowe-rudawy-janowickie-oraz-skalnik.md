@@ -55,7 +55,7 @@ autobusem w stronę [Kowar][wiki-kowary].
 Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Sama droga [367][wiki-367]
 położona jest całkiem wysoko.
 
-{% photo "IMGP2230b.jpg","Kot w Leszczyńcu" %}
+{% photo "IMGP2230b.jpg","Kot w Leszczyńcu","tag:cat" %}
 
 [Leszczyniec][wiki-leszczyniec] jest na wysokości około 560m n.p.m., porównywalnie do szczytów
 północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest

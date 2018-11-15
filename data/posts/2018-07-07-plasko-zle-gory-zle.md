@@ -234,7 +234,7 @@ prawie w całości. Można było ją kiedyś dojechać do
 [Henrykowa][wiki-henrykow]. Jest to zadziwiające ile było połączeń
 kolejowych w województwie [dolnośląskim][wiki-dolnoslaskie].
 
-{% photo "P7070708.jpg","Kot obok torów linii 320" %}
+{% photo "P7070708.jpg","Kot obok torów linii 320","tag:cat" %}
 
 Przejechaliśmy drogę 8-kę i już byliśmy w [Ząbkowicach Śląskich][wiki-zabkowice-slaskie].
 

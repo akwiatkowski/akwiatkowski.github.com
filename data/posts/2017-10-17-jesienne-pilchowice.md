@@ -88,7 +88,7 @@ już przed opuszczeniem [Siedlęcina][wiki-siedlecin].
 Idąc wzdłuż [Bobru][wiki-bobr-rzeka] widziałem [wieżę][wiki-siedlecin-wieza]. To była
 [wieża książeca][wiki-siedlecin-wieza] z XIV wieku.
 
-{% photo "IMGP1058raw1.jpg","Kot w Siedlęcinie" %}
+{% photo "IMGP1058raw1.jpg","Kot w Siedlęcinie","tag:cat" %}
 
 Zdecydowałem się przejść ulicą Ogrodową a następnie polami w stronę
 [Jeziora Pilchowickiego][wiki-pilchowice-jezioro]. Dzięki temu mogłem ominąć

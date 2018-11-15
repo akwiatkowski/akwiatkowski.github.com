@@ -74,7 +74,7 @@ miałem solidne wątpliwości. Ostatecznie postanowiłem wrócić aby mieć pewn
 Sam [Człuchów][wiki-czluchow] nie odstrasza, jednak nie miałem ochoty chodzić
 w piątkowy wieczór z aparatem.
 
-{% photo "P6150108raw1.jpg","Kot pilnujący sklepu" %}
+{% photo "P6150108raw1.jpg","Kot pilnujący sklepu","tag:cat" %}
 
 Podsumowując - na pewno przyjadę tutaj rowerem, zdarzają się ciekawe miejsca
 jednak nie zauważyłem aby to miasto było wyjątkowe dla zdjęć miejskich.

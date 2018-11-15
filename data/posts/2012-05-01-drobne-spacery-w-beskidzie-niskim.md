@@ -60,7 +60,7 @@ do [Hańczowej][wiki-hanczowa].
 Czekając na autobus zaciekawiły mnie plecaki Deutera u spotkanych turystów,
 zwłaszcza jak chodzenie z takim dużym plecakiem może być wygodne.
 
-{% photo "IMGP7273b.jpg","Kot pilnujący owiec" %}
+{% photo "IMGP7273b.jpg","Kot pilnujący owiec","tag:cat" %}
 
 ### Wejście na Rotundę
 

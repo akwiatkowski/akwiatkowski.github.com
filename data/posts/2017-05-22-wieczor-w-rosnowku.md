@@ -50,13 +50,13 @@ nie było problemem gdyż celowałem tylko na zachód Słońca.
 
 Wysiadłem na stacji [Trzebaw Rosnówko][wiki-trzebaw] około godziny 19:15.
 
-{% photo "IMGP6630raw1.jpg","Kot na ulicy Dworcowej" %}
+{% photo "IMGP6630raw1.jpg","Kot na ulicy Dworcowej","tag:cat" %}
 
 Na miejscu zapytałem się lokalnej osoby które jezioro jest ciekawsze.
 Przekonała mnie ta pani, że lepiej udać się w stronę Jeziora Małego, czyli
 w stronę [parku][wiki-wpn].
 
-{% photo "IMGP6652raw1.jpg","Kot na ulicy Dworcowej" %}
+{% photo "IMGP6652raw1.jpg","Kot na ulicy Dworcowej","tag:cat" %}
 
 Kierowałem się ulicą Dworcową w stronę [Wielkopolskiego Parku Narodowego][wiki-wpn].
 
@@ -64,7 +64,7 @@ Idąc po drodzę zauważyłem, że na poboczu coś się poruszyło. Okazało si�
 był to kot. Jakis lokalny mały kotek przeszkodził mi w mojej trasie ale
 dał bardzo dużo okazji na zrobienie mu zdjęć.
 
-{% photo "IMGP6686raw1.jpg","Kot na ulicy Dworcowej","timeline,cat" %}
+{% photo "IMGP6686raw1.jpg","Kot na ulicy Dworcowej","timeline,tag:cat" %}
 
 Z drogi miałem widok na Jezioro Małe. Nie chciałem iść przez kogoś teren oraz
 miałem nadzieje, że po drugiej stronie będzie lepszy dostęp do wody.

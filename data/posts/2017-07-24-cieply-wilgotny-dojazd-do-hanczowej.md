@@ -152,7 +152,7 @@ nadzwyczajnego.
 W bazie niestety mieliśmy dość mały pokój lecz takie problemy nie są istotne na wyjeździe.
 Największą zaletą był spacerujący rudy kot. Sam on wskoczył na bujawkę.
 
-{% photo "IMGP8993raw1.jpg","Kot w Hańczowej","cat" %}
+{% photo "IMGP8993raw1.jpg","Kot w Hańczowej","tag:cat" %}
 
 Wieczorem poszliśmy do [Wysowej][wiki-wysowa] zobaczyć park i kupić zapasy.
 Martwiłem się prognozą pogody, miało padać przez pół dnia.

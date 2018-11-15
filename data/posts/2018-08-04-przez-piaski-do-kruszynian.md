@@ -124,7 +124,7 @@ przejechać drogą krajową 65. Nie mieliśmy dużo do przejechania bo tylko 3km
 Widząc tabliczkę [Grzybowce][wiki-grzybowce] skręciliśmy w lewo. Znowu
 przywitał nas piasek. Trudno było nie zauważyć braku wody w lesie
 
-{% photo "P8040557.jpg","Kot w Grzybowcu" %}
+{% photo "P8040557.jpg","Kot w Grzybowcu","tag:cat" %}
 
 Dotarliśmy do bazy. Zrobiliśmy 2.5 godzinną przerwę bo musieliśmy
 podjechać do [Tykocina][wiki-tykocin] na festiwal tatarski.

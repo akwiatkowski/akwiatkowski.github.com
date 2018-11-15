@@ -63,7 +63,7 @@ Ruszyliśmy na wschód przez [Borek][wiki-borek]. Jest to całkiem ładna wieś,
 gdzie już widać popularny w tych stronach styl domów z czerwonej cegły.
 Przejeżdzając naliczyliśmy aż cztery koty.
 
-{% photo "IMGP4555raw1.jpg","Puchaty kot w Nowych Domach" %}
+{% photo "IMGP4555raw1.jpg","Puchaty kot w Nowych Domach","tag:cat" %}
 
 Przejechaliśmy przez [Nowe Domy][wiki-nowe-domy] i skręciliśmy na południe
 w stronę skrzyżowania w Zielonym Domu.

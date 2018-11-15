@@ -123,7 +123,7 @@ Na chwilę pojechaliśmy zobaczyć trzeci pałac tego dnia -
 gdyż jest w ciągłym remoncie. Ponoć jeden z lokalnych polityków pożyczył sobie
 dachówki z tego pałacu.
 
-{% photo "IMGP5363raw1.jpg","Kot w Wojanowie" %}
+{% photo "IMGP5363raw1.jpg","Kot w Wojanowie","tag:cat" %}
 
 Ruszyliśmy do [Karpnik][wiki-karpniki] gdzie wyjechaliśmy na ulicę Stawową.
 Jesteśmy w kolejnej miejscowości i odwiedzamy kolejny pałac, a raczej tym
@@ -179,7 +179,7 @@ Można powiedzieć, że dojechaliśmy do Zbiornika Sosnówka "od tyłu"
 wąską ulicą.
 Widziałem sporo nowych domów z widokiem na Zbiornik.
 
-{% photo "IMGP5511raw1.jpg","Kot widziany podczas wyjazdu z Sosnówki" %}
+{% photo "IMGP5511raw1.jpg","Kot widziany podczas wyjazdu z Sosnówki","tag:cat" %}
 
 Wracaliśmy przez [Staniszów][wiki-staniszow]. Zamiast
 kierować się bezpośredio do centrum [Jeleniej Góry][wiki-jelenia-gora]

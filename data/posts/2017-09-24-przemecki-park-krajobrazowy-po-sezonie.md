@@ -121,7 +121,7 @@ Podobało mi się drzewo które przykrywało całą szerokość drogi.
 
 Widzieliśmy również trochę okolicznych kotów.
 
-{% photo "IMGP0749raw1.jpg","Kot w Górsku" %}
+{% photo "IMGP0749raw1.jpg","Kot w Górsku","tag:cat" %}
 
 Chcieliśmy udać się do Jeziora Linciusz.
 Podeszliśmy na początek mostu. Dalej nie chciałem iść gdyż nie ufałem

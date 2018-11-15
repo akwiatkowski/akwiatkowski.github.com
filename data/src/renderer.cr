@@ -17,6 +17,7 @@ require "./views/towns_index_view"
 require "./views/lands_index_view"
 require "./views/year_stat_report_view"
 require "./views/gallery_view"
+require "./views/tag_gallery_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
@@ -49,6 +50,7 @@ class Tremolite::Renderer
     render_summary_page
     render_year_stat_reports_pages
     render_gallery
+    render_tag_galleries
     render_timeline_list
 
     render_sitemap
@@ -327,6 +329,14 @@ class Tremolite::Renderer
   def render_gallery
     view = GalleryView.new(blog: @blog)
     write_output(view)
+  end
+
+  def render_tag_galleries
+    # TODO
+    ["cat"].each do |tag|
+      view = TagGalleryView.new(blog: @blog, tag: tag)
+      write_output(view)
+    end
   end
 
   def render_timeline_list

@@ -61,7 +61,7 @@ Kierowaliśmy się na północ aby przejść przez strumień łączący
 Dotarliśmy do drogi asfaltowej i skręciliśmy na południe idąc po niebieskim
 szlaku rowerowym. Szliśmy teraz w stronę [Grodu Piasta][grod-piasta].
 
-{% photo "IMGP2994raw2.jpg","Pierwszy kot w Grodzie Piasta" %}
+{% photo "IMGP2994raw2.jpg","Pierwszy kot w Grodzie Piasta","tag:cat" %}
 
 [Gród Piasta][grod-piasta] to specyficzny hotel. Posiadają tam sporo własnych
 zwierząt hodowlanych.
@@ -71,4 +71,4 @@ zwierząt hodowlanych.
 Idąc dalej na południe minęliśmy osiedle domków letniskowych a dalej drugi
 ośrodek wczasowy.
 
-{% photo "IMGP3023raw1.jpg","Drugi kot w Grodzie Piasta" %}
+{% photo "IMGP3023raw1.jpg","Drugi kot w Grodzie Piasta","tag:cat" %}

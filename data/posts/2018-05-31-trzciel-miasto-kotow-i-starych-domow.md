@@ -71,7 +71,7 @@ Są stare ale dostatecznie zadbane z zewnątrz.
 Widzieliśmy dość dużo kotów. Jeden z nich nie bał się nawet leżeć na chodniku
 wzdłuż głównej ulicy.
 
-{% photo "P5311550raw1.jpg","Trzcielski kot" %}
+{% photo "P5311550raw1.jpg","Trzcielski kot","tag:cat" %}
 
 Skręcając w boczną uliczkę można łatwo znaleźć jeszcze starsze budynki.
 

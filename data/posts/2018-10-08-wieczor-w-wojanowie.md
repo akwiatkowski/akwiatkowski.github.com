@@ -82,7 +82,7 @@ Chcąc szanować prywatność i jednocześnie skupiając się na nowym zwierzaku
 miałem dość solidne ograniczenia. Do tego kot jak na złość usiadł
 za niepasującym kawałkiem metalu.
 
-{% photo "2018_10_08_18_09__A080210.jpg","Kot wiedział jak się ustawić aby popsuć mi zdjęcie" %}
+{% photo "2018_10_08_18_09__A080210.jpg","Kot wiedział jak się ustawić aby popsuć mi zdjęcie","tag:cat" %}
 
 {% photo "2018_10_08_18_13__A080222.jpg","Rzeka Bóbr w Wojanowie" %}
 

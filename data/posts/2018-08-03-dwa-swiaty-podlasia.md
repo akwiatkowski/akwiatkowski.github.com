@@ -141,12 +141,12 @@ Temat tego wpisu to "Dwa świata [Podlasia][wiki-podlasie]". Pierwszym był
 [Białystok][wiki-bialystok] - miasto, ruch samochodów, a drugim brak wystarczającej
 jakości dróg. W tym momencie oba te zjawiska się połączyły.
 
-{% photo "P8030330.jpg","Koty w Supraślu" %}
+{% photo "P8030330.jpg","Koty w Supraślu","tag:cat" %}
 
 W wyniku braku dróg asfaltowych sporo połączeń między miejscowościami jest przez
 drogi gruntowe. Podczas tak upalnego sezonu drogi te zamieniały się w piasek.
 
-{% photo "P8030341.jpg","Koty w Supraślu" %}
+{% photo "P8030341.jpg","Koty w Supraślu","tag:cat" %}
 
 Gdy mineliśmy okolice wiaduktu natrafiliśmy ponownie na ruch wahadłowy. Nie chcąc
 już czekać wjechaliśmy w las. O dziwo udało się wjechać do [Supraśla][wiki-suprasl]
