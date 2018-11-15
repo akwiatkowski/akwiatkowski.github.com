@@ -317,6 +317,7 @@ class Tremolite::Renderer
 
   def render_year_stat_reports_pages
     years = @blog.post_collection.posts.map(&.time).map(&.year).uniq
+    years = years.select { |year| Time.now.year >= year }
     years.each do |year|
       view = YearStatReportView.new(blog: @blog, year: year, all_years: years)
       write_output(view)
