@@ -109,22 +109,82 @@ z mniejszą ilością górek i gorszą drogą.
 
 {% photo "P8050119.jpg","Jadąc na zachód","timeline" %}
 
-Wjechaliśmy w las. W nim zauważyłem niemały pomnik z napisem po rosyjsku.
+Wjechaliśmy w las. W nim zauważyłem niemały pomnik z napisem po rosyjsku (lub pochodnym).
 
 {% photo "P8050126.jpg","Pomnik w lesie między Mostowlanami a Wiejką" %}
 
-* Świsłoczany bardzo klimatyczna wioska
-* sporo drewnianych budynków, brukowa droga również klimatyczna
-* Mostowiny - trochę mniej klimatyczne, droga pod rzekę graniczącą z Białorusia
-* chcieliśmy dojechać do Wiejek, drogą przez las do Mostowiny Kolonia
-* co jakiś czas dom, pola wokół ale nie wyglądające na rolniczne z wyjątkiem kukurydzy
-* podjazd w lesie
-* Wiejki - droga brukowana, później asfalt ale byliśmy już zmęczenie? czym? pogodą, jakością podłoża
-* podjazd jednak był między Wiejkami a Bielewicze
-* Gródek - jedzenie w Promyku
-* sklep i podjechaliśmy pod cerkiew, odbijające się światło
-* burza w oddali, sprawnie drogą powrót
-* zalew/jezioro - miejsca do kąpania
-* wieczorem spacer w okolicy rzeki
+Po opuszczeniu lasu jechaliśmy do [Wiejek][wiki-wiejki] mając dobry
+widok po lewej stronie (pole). Po pewnym czasie mineliśmy kilka drewnianych
+domów.
 
-* ponoć okolica Chomontowców przy granicy jest ładna a droga jest asfaltowa tam
+Jechaliśmy pod wiatr. Takie to dziwne że gdy jedzie się z wiatrem się tego
+nie docenia, a gdy jedzie się pod wiatr to nikt nie ma wątpliwości, że jest
+to "pod wiatr".
+
+{% photo "P8050132.jpg","Wieś Wiejki","timeline" %}
+
+Mineliśmy skrzyżowanie do [Zubr][wiki-zubry]. Kolejny przykład jak bardzo
+brakuje dróg asfaltowych na [Podlasiu][wiki-podlasie].
+
+{% photo "P8050133.jpg","Drewniany dom we wsi Wiejki" %}
+
+Ogromnie ucieszyłem się gdy zobaczyłem asfaltową drogę w [Wiejkach][wiki-wiejki].
+Jechaliśmy dość szybko przez tą wieś. Z przerażeniem zauważyłem drogę
+brukowaną po chwili.
+
+Na szczęście brukowana droga była przez tylko kilkaset metrów.
+Podobała mi się okolice tej [wsi][wiki-wiejki].
+
+{% photo "P8050136.jpg","Przed wjazdem do Gródka","timeline" %}
+
+Wjechaliśmy w las. Musieliśmy podjechać z 150m na 190m. A później czekał zjazd.
+Do [Bielewiczy][wiki-bielewicze] wjechaliśmy rozpędzeni.
+Chyba przez to niewiele zapamiętałem.
+
+{% photo "P8050140.jpg","Dom na obrzeżach Gródka" %}
+
+Dojechaliśmy do centrum [Gródka][wiki-grodek]. Sklep było nietrudno
+znaleźć. Szukaliśmy jedzenia. Mapy google nam pomogły i zjedliśmy w lokalnej
+pizzerii. Gdyby był problem to zawsze mogliśmy podjechać
+do [Waliły-Stacja][wiki-walily-stacja].
+
+{% photo "P8050143.jpg","Drewniany dom w Gródku" %}
+
+Po chyba godzinnej przerwie na jedzenie w Promyku ruszyliśmy na zachód, za
+rzekę [Supraśl][wiki-suprasl-rzeka] aby zobaczyć kościół.
+
+{% photo "P8050146.jpg","Kościół w Gródku" %}
+
+Zauważyliśmy ciemniejsze chmury na północy. Zobaczyłem mapę burzową
+która wyjaśniła to zjawisko. Zdecydowaliśmy się w miarę sprawnie jechać
+aby nie zmoknąć. Nie zmokliśmy. Nas nas spadło kilka kropel.
+
+Widzieliśmy dość dużo starych, klimatycznych, drewnianych domów.
+
+Mineliśmy Zalew Zarzeczany. Na plaży było dużo ludzi.
+
+Dotarliśmy do drogi 65. Tym razem wiedzieliśmy, że lepiej pojechać trochę
+dalej. Lepiej jest jechać asfaltem niż męczyć się na piasku. Nawet asfalt
+drogi krajowej tutaj jest lepszym rozwiązaniem.
+
+### Wieczorny spacer w Grzybowcu
+
+Mając trochę czasu wieczorem postanowiliśmy pieszo pokręcić się po okolicy
+wsi [Grzybowce][wiki-grzybowce].
+
+{% photo "P8050170_01.jpg","Okolice rzeki Grzybówki" %}
+
+Dowiedzieliśmy się o kilku przydatncyh drogach. Chcieliśmy zrobić pętle.
+Według mapy tu gdzieś jest źródło rzeki [Grzybówki][wiki-grzybowka-rzeka].
+
+{% photo "P8050184.jpg","Jest tutaj pełno różnych ścieżek" %}
+
+Z dodatkiem zachodzącego słońca wszystko wygląda ciekawiej. Widzieliśmy zająca.
+
+{% photo "P8050228.jpg","Rzeka Grzybówka" %}
+
+W okolicy rzeki [Grzybówki][wiki-grzybowka-rzeka] jest dużo uschniętych drzew.
+
+{% photo "P8050261.jpg","Drewniany dom w Grzybowcu" %}
+
+Niektóre domy trudno ocenić czy są zamieszkane czy nie.

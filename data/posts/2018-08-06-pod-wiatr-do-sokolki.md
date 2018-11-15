@@ -29,9 +29,26 @@ pois:
 
 ## Wstęp
 
+Tego dnia musieliśmy dostać się do [Sokółki][wiki-sokolka] gdzie mieliśmy kolejny
+nocleg.
+
+## Opis trasy
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1754470627/embed/928fb5fb09489bcf3b526b2589559ea1e7986b35'></iframe>
 
 ## Szczegóły
+
+Dowiedzieliśmy się o skrócie trasy do [Kruszynian][wiki-kruszyniany].
+Dzięki czemu aby się do nich dostać musieliśmy przejechać 8.5km, to chyba o 3km
+krócej niż
+[jechaliśmy wcześniej]({% post_url 2018-08-04-przez-piaski-do-kruszynian %}).
+
+Tego dnia coś mnie gardło zaczęło boleć dlatego ubrałem się troche cieplej.
+Jechaliśmy na północ przez las. Temperatura o dziwo tego dnia była wyraźnie
+niższa.
+
+Tego dnia [Kruszyniany][wiki-kruszyniany] były zupełnie inną, spokojniejszą
+miejscowością.
 
 TODO:
 
