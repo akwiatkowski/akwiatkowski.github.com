@@ -20,11 +20,19 @@ elevation:              449
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
+  - lat: 53.21845
+    lon: 23.79401
+    name: Może być tutaj wiele klimatycznych wiosek
+    type: large_area
+  - lat: 53.35402
+    lon: 23.56420  
+    name: Widok na Starą Kamionkę i dolinę rzeki Kamionka
+    type: scenic
 
 ---
+
+[silvarium1]: http://atrakcjepodlasia.pl/atrakcje-turystyczne/silvarium-park-lesny-w-poczopku/
+[silvarium2]: http://www.krynki.bialystok.lasy.gov.pl/silvarium1
 
 
 ## Wstęp
@@ -43,12 +51,147 @@ Dzięki czemu aby się do nich dostać musieliśmy przejechać 8.5km, to chyba o
 krócej niż
 [jechaliśmy wcześniej]({% post_url 2018-08-04-przez-piaski-do-kruszynian %}).
 
+{% photo "P8060267.jpg","Dom w Kruszynianach" %}
+
 Tego dnia coś mnie gardło zaczęło boleć dlatego ubrałem się troche cieplej.
 Jechaliśmy na północ przez las. Temperatura o dziwo tego dnia była wyraźnie
 niższa.
 
 Tego dnia [Kruszyniany][wiki-kruszyniany] były zupełnie inną, spokojniejszą
-miejscowością.
+miejscowością. Prawie nikogo nie mijaliśmy na ulicy.
+
+{% photo "P8060269.jpg","Droga Kruszyniany - Krynki" %}
+
+Jechaliśmy na północ w stronę [Krynek][wiki-krynki] przez najbliższą
+miejscowość - wieś [Górka][wiki-gorka]. Drogi i krzewy w okolicy drogi były na tyle
+gęste, że trudno jednoznacznie określić czy mijaliśmy las czy pola.
+
+W okolicy jest punk widokowy Kosmata Góra. Prawie do niego trafiliśmy.
+Możliwe że ten punkt zarósł gdyż wjeżdżają do centrum [wsi][wiki-gorka]
+widoki nie były jakieś rewelacyjne.
+
+{% photo "P8060275.jpg","Krzyż we wsi Górka" %}
+
+Sama [wieś][wiki-gorka] jest dość ciekawa. Są ciekawe, podobne do siebie
+drewniane domy. W okolicy jest dolina rzeki [Nietupy][wiki-nietupa-rzeka].
+Wydaje mi się, że ciekawe mogłoby być okoliczne miejscowości.
+[Kruszyniany][wiki-kruszyniany] są bardzo popularne z powodu meczetu a mało
+kto interesuje się małymi wioskami, w których nic nie ma. Teoretycznie nic, gdyż
+w każdej wiosce żyją autentyczni ludzie. Im dalej od dużego miasta tym
+bardziej są uniezależnieni od tego uniwersalnego stylu.
+
+Jechaliśmy drogą gruntową na północ. W okolicy jest pomnik przyrody - aleja drzew,
+oraz drewniana stodoła.
+
+{% photo "P8060276.jpg","Rzeka Nietupa","timeline" %}
+
+Musieliśmy podjechać około 15m po czym czekał na nas stopniowy 20m
+zjazd do moziomu rzeki [Nietupy][wiki-nietupa-rzeka]. Obok jest Łowisko u Stacha.
+
+Zaciekawił mnie przystanek autobusowy - kiedy tu jakis autobus przejeżdża. Jak
+później sprawdziłem przejeżdża tu autobus z [Białegostoku][wiki-bialystok],
+przez [Supraśl][wiki-suprasl], [Sokołde][wiki-sokolda] i [Krynki][wiki-krynki]
+do [Kruszynian][wiki-kruszyniany].
+
+{% photo "P8060279.jpg","Skrzyżowanie do Plebanowa","timeline" %}
+
+Podobało mi się okolica skrzyżowania do [Plebanowa][wiki-plebanowo].
+Cały ten obszar w promieniu 10km może być bardzo ciekawy.
+
+Musieliśmy podjechać ze 130m (okolice [Nietupy][wiki-nietupa-rzeka])
+do 180m, po czym zjechać do [Krynek][wiki-krynki], które są na wysokości
+140-150m. Zjazd do [Krynek][wiki-krynki] trwał prawie 4 minuty.
+
+{% photo "P8060293.jpg","Centrum Krynek" %}
+
+W [Krynkach][wiki-krynki] jest jedna restauracja. Jest ona zamknięta w poniedziałek
+i właśnie się o tym przekonaliśmy. Kupiliśmy naleśniki i fasolkę w sklepie mięsnym.
+Pani nam podgrzała w mikrofali.
+Naszą restauracją był park w centrum [Krynek][wiki-krynki].
+
+{% photo "P8060301.jpg","Jadąc do Silwarium" %}
+
+Ruszyliśmy drogą 676 na zachód. Celem było [Silwarium][silvarium2] (arboretum)
+obok [Poczopka][wiki-poczopek]. Miejsce to jest oddalone około 15km od
+[Surażkowa][wiki-surazkowo], gdzie mieliśmy nocleg
+[pierwszego dnia]({% post_url 2018-08-03-dwa-swiaty-podlasia %}).
+
+Pogoda była zmienna. Już kilka razy naprzemiennie
+świeciło słońce i było pełne zachmurzenie nieba. Trasa zaplanowana była
+dość niefortunnie. Samo [Silwarium][silvarium2] wymagało nadrobienia 6km
+oraz przez sporą część tego dnia jechaliśmy pod wiatr. Również mieliśmy
+sporo przewyższeń. Jazda pod wiatr jest bardzo demotywująca.
+
+{% photo "P8060310.jpg","Jadąc do Silwarium" %}
+
+Droga była dosyć monotonna: droga, obok pola, wzdłuż drogi drzewa.
+Na szczęście ruch nie był zbyt duży.
+
+Dotarliśmy do [Silwarium][wiki-silvarium2] gdzie zrobiliśmy dłuższą przerwę.
+TODO co tam było ciekawego?
+
+{% photo "P8060323.jpg","Sowa w Silwarium" %}
+
+{% photo "P8060350.jpg","Sowa w Silwarium" %}
+
+{% photo "P8060364.jpg","Jeden se stawów w Silwarium" %}
+
+{% photo "P8060401.jpg","Gęsi w Silwarium" %}
+
+Ruszyliśmy drogą powrotną. Na niebie było znacznie mniej chmur w tym momencie.
+
+{% photo "P8060417.jpg","Droga w stronę Ostrowa Północnego" %}
+
+Zjazd z wiatrem do [Ostrowa Północnego][wiki-ostrow-polnocny] był bardzo fajny.
+Zapomniałem o tym, że zaraz zacznie się jazda pod wiatr.
+
+Skręciliśmy w stronę [Szudziałowa][wiki-szudzialowo], do którego mieliśmy
+3km jazdy. Wokoł drogi było sporo drewnianych domów. Czasem wystarcz zjechać
+trochę od głównej drogi i już okolica jest ciekawsza.
+
+{% photo "P8060419.jpg","Drewniany dom w Ostrowie Północnym" %}
+
+Zauważyłem jak przez suszę trawa na poboczu słabo rosła w wyżej położonych miejscach.
+
+Zjechaliśmy do [Szudziałowa][wiki-szudzialowo]. Jest tam dolina jakiegoś cieku
+wodnego.
+
+{% photo "P8060422.jpg","Ciekawy budynek w Szudziałowie" %}
+
+Do [Sokółki][wiki-sokolka] zostało nam około 17km pod wiatr i z pagórkami.
+Podjazdy i zjazdy z silnym wiatrem z naprzeciwka mocno demotywowały.
+
+Gdyby nie to, to może określiłbym drogą jako przyjemną do jazdy.
+
+{% photo "P8060422.jpg","Ciekawy budynek w Szudziałowie" %}
+
+Do [Starej Kamionki][wiki-stara-kamionka] teren był lekko wypukły. Może w innym
+dniu jakbym wybrał jakieś poboczne drogi okolica byłaby ciekawsza.
+Pagórki te ograniczone są rzeką [Kamionką][wiki-kamionka-rzeka]. Mieliśmy całkiem
+dobry widok na jej dolinę.
+
+Po opuszczeniu [Starej Kamionki][wiki-stara-kamionka] zostało nam 6km do
+[Sokółki][wiki-sokolka]. Byliśmy już wymęczeni dzisiejszą trasą.
+Niestety nasza baza była w zachodniej części [miasta][wiki-sokolka].
+
+{% photo "P8060427.jpg","Droga do Sokółki" %}
+
+Zbliżając się do [Sokółki][wiki-sokolka] po prawej stronie widziałem
+lasy w okolicy [Szyszek][wiki-szyszki].
+
+Przy skrzyżowaniu do wsi [Drahle][wiki-drahle] wjechaliśmy na ścieżkę rowerową.
+Zółty oraz zielony szlak rowerowy może być ciekawe do przejechania,
+pod warunkiem że drogi gruntowe nie będą suche a temperatura będzie bardziej
+tolerancyjna.
+
+{% photo "P8060431.jpg","Droga do Sokółki" %}
+
+Główną drogą podjechaliśmy w pobliże torów. Tam już spokojniejszą drogą
+kierowaliśmy się do noclegu.
+
+Z jednej strony był on komfortowy, z drugiej strony odczuwałem szemrany klimat.
+Z trzeciej strony mieliśmy sklep bardzo blisko i mogliśmy odpocząć nastepnego dnia.
+Chociaż ja chciałem skorzystać ze stabilnego wiatru.
 
 TODO:
 
