@@ -14,6 +14,8 @@ towns:                  [wielkopolskie, dolnoslaskie, poznan, wroclaw]
 
 ---
 
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+
 [optyczne-12-100]: https://www.optyczne.pl/413.1-Test_obiektywu-Olympus_M.Zuiko_ED_12-100_mm_f_4_IS_PRO.html
 [optyczne-12-40]: https://www.optyczne.pl/313.1-Test_obiektywu-Olympus_M.Zuiko_Digital_12-40_mm_f_2.8_ED_PRO.html
 [dxo-12-40]: https://www.dxomark.com/Lenses/Olympus/Olympus-MZUIKO-DIGITAL-ED-12-40mm-F28-PRO

@@ -16,6 +16,7 @@ coords:                 [{"route": [[53.48954,22.73581], [53.45970,22.71556], [5
 distance:               34 # 26 + 8
 time_spent:             7 # 5 + 2
 elevation:              112 # 64 + 48
+temperature:            31
 
 
 pois:
@@ -25,12 +26,109 @@ pois:
 
 ---
 
+[wiki-carska-droga]: https://pl.wikipedia.org/wiki/Carska_Droga
 
 ## Wstęp
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1758477822/embed/5617e407fd9ac51f98ccc9c2376f4823cbcbdb84'></iframe>
+Plan na ten dzień już został ustalony wcześniej - przejechać [Carską Drogą][wiki-carska-droga]
+do [Tykocina][wiki-tykocin]. Niestety była prognoza silnego wiatru w kierunku przeciwnym.
+Byśmy musieli jechać 30km pod wiatr, bez żadnego sklepu. Z tego powodu zaplanowałem alternatywę.
 
+## Opis trasę
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1763101981/embed/0a88248655f8fa565d8900508a5871909bc9ef9e'></iframe>
 ## Szczegóły
+
+Zacząłem zastanawiać się, czy można wykorzystać kolej aby nam ułatwić.
+Pomyślałem, że gdybyśmy dojechali do [Borsukówka][wiki-borsukowko-stacja]
+to do [Tykocina][wiki-tykocin] byśmy musieli jechać rowerem trochę ponad 14km
+(według mapy UMP). Jest to istotna różnica jeżeli porównujemy z 30-toma km.
+
+Ruszyliśmyo godzinie 11-tej. Temperatura wzrastała z 28 stopni.
+Musieliśmy, tak jak [dzień wcześniej]({% post_url 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca %})
+dostać się go [Goniądza][wiki-goniadz] a następnie jechać ulicą Szpitalną
+na południe.
+
+Jechaliśmy ulicą Mickiewicza w stronę cmentarza na południe od [Goniądza][wiki-goniadz].
+Musieliśmy do niego trochę podjechać.
+
+Aby dostać się do stacji [Goniądz][wiki-goniadz-stacja] musieliśmy kierować się
+w stronę [Downar][wiki-downary]. Stacja oddalona jest 4km od centrum.
+
+TODO jakie zdjęcia po drodze robiłem?
+
+Dotarliśmy do torów. Musieliśmy skręcić w lewo na drogę polną. Droga ta zamieniła
+się w czysty piasek. W połączeniu z wiatrem i przejazdem dwóch pojazdów rolniczych
+poczułem się, jakbym był właśnie na pustyni.
+
+Pociąg jechał około 25minut. Wysieliśmy na stacji [Borsukówko][wiki-borsukowko-stacja]
+i zacząłem się zastanawiać "co dalej?". Temperatura 31 stopni przekonywała do
+spokojnej jazdy.
+
+Nie widzę żadnego drogi do peronu.
+Patrząc na mapy google trasa powinna być prosta. W praktyce musieliśmy przenieść rowery
+przez tory (znieść z peronu) i jechać drogą gruntową. Może gdzieś tu jest jakaś ścieżka,
+z której powinniśmy skorzystać. Tylko w tamtym momencie ja nic takiego nie zauważyłem.
+
+Okazało się, że trasa wyznaczona przez mapy google wiedzie przez teren prywatny.
+Cofnąłem się aby zapytać w sąsiednim domu czy tam można przejechać. Pani powiedziała mi,
+że można. No to próbujemy jeszcze raz. Widok chodzących tam psów jednak przekonał mnie,
+że lepiej nie. Zamiast 2km musieliśmy przejechać na około 6km.
+
+Po drzewach widzieliśmy, że jest to bardzo wietrzny dzień.
+
+Ucieszyłem się jak wjechaliśmy w osiedle domów w [Pogorzałkach][wiki-pogorzalki].
+To znaczyło, że jest tu cywilizacja i
+jakoś powoli będziemy mogli jechać do celu. Za 2km powinniśmy dotrzeć do
+centrum [Borsukowka][wiki-borsukowko] i tam skręcić na zachód.
+
+[bialystok-106]: http://www.m2.rozkladzik.pl/bialystok/rozklad_jazdy.html?l=106
+
+Zauważyłem autobus w centrum. Szukając teraz zauważyłem, że jest linia
+[106][bialystok-106], dzięki której można dojechać z [Białegostoku][wiki-bialystok]
+do [Borsukówka][wiki-borsukowko].
+
+Musieliśmy przejechać 9km aby dostać się do asfaltowej drogi 671
+do [Tykocina][wiki-tykocin].
+
+Zdarzało się zobaczyć jakieś starsze domy ale co chwilę widziałem nowe.
+Nowe mogą być praktyczniejsze ale nie mają stylu. W każdej cześci Polski
+nowe domy mieszkalne są budowane w ten sam sposób. Jest to wypranie z kultury
+i odrębności.
+
+Zbliżając się do wsi [Góra][wiki-gora] zbliżaliśmy się również do [Narwi][wiki-narew].
+W [Górze][wiki-gora] jest wieża widokowa. TODO jaki jest widok na zdjęciach?
+
+Sama droga nie była zła ale widziałem już znacznie ciekawsze wsi i miejsca,
+dlatego nie wiem co więcej mógłbym napisać. Można ją przejechać ale ten kto
+chce czegoś ciekawszego to im dalej od dużego miasta, tym będzie lepiej.
+Byliśmy 22km w linii prostej od centrum [Białegostoku][wiki-bialystok].
+
+Drzewa fajnie falowały na wietrze ale nie ma to żadnego związku z miejscem.
+
+Dotarliśmy do drogi 671 ([Knyszyn][wiki-knyszyn]-[Tykocin][wiki-tykocin]).
+
+[Tykocin][wiki-tykocin] przywitał nas drogą brukowaną. Dotarliśmy przez
+most nad [Narwią][wiki-narew] do placu w centrum. Obok jest kościół
+TODO dodać co jest ciekawego w centrum: duży plac, kościół, pierogarnia, muzeum (kogo?)
+
+Postanowiliśmy udać się do restauracji obok kościoła. Po prawie półtorej godziny
+zaczeliśmy kierować się na zachód w stronę noclegu. Zostało nam 5km do przejechania.
+
+[Tykocin][wiki-tykocin] z jednej strony jest ładną miejscowością. Jest dużo starych domów,
+widać że postarano się zachować klimat i zadbano centrum. Z drugiej strony popularność,
+ilość ludzi jest dla mnie zbyt duża.
+
+Znaleźliśmy bankomat. Podjechaliśmy pod niego rowerami jednak pewna młoda pani
+musiała się wepchnąć przed nas gdyż zaparkowała obok samochód na światłach awaryjnych.
+
+Na horyzoncie pojawiły się podejrzane chmury. Na mapie burzowej było wiadomo,
+że te chmury przyniosą burzę do nas.
+
+Nie znając jeszcze dobrze [miasta][wiki-tykocin] pojechaliśmy do sklepu, którego
+faktycznie nie ma. Musieliśmy wrócić się do grosika. Denerwowała mnie jazda
+po bruku. Nie można nagrać dobrego filmu wtedy.
+
 
 TODO:
 
@@ -56,6 +154,6 @@ TODO:
 * znowu ten zły upał
 * przerwa na obiad w Tykocinie
 * ładny plac
-* na zachodzie pojawiały się chmury, zbliżała się burza
+* na zachodzie pojawiały się chmury,zbliżała się burza
 * dojechaliśmy do noclegu tuż przed burzą, widząc deszcz padający
 * zdjęcie Rojnika Morfeusza

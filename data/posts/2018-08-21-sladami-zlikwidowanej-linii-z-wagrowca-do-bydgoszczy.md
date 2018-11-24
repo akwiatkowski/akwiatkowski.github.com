@@ -22,6 +22,9 @@ pois:
   - lat: 52.98422
     lon: 17.32867
     name: Na północ od Gołańczy jest kilka ciekawych pagórków. Okolica wsi Dobieszewko jest ciekawa.
+  - lat: 52.93388
+    lon: 17.78417  
+    name: W okolicy Chomętowa jest ciekawe ukształtowanie terenu
 
 ---
 
@@ -98,3 +101,100 @@ jest około 20-30m wyżej niż wszystkie drogi dojazdowe do niej.
 
 Wyjazd był lekko stresujący z powodu ruchu i jeżdżących tirów.
 Za kościołem zaczęliśmy zjeżdżać w dół.
+
+Musieliśmy dojechać do [Zalesia][wiki-zalesie], czyli musieliśmy przejechać 8km
+od centrum [Kcyni][wiki-kcynia] po ruchliwej drodze 247. Jechaliśmy na rowerach
+szosowych i raczej nie było innej opcji.
+
+Wydaje mi się, że ze wszystkich kierowców to kierowcy tirów zachowują największą
+odległość i są najbezpieczniejsi dla rowerzystów.
+
+Opuszczając [Mycielewo][wiki-mycielewo] przejechaliśmy po torach
+[linii 365][wiki-linia-365]. Jest to ta sama linia po której teraz tak regularnie
+jeżdżą pociągi z [Poznania][wiki-poznan] do [Wągrowca][wiki-wagrowiec].
+I chyba właśnie ten fragment jest najbardziej obiecującym odcinkiem do
+rewitalizacji. Z tego co wiem problemy są głównie natury politycznej.
+
+Skręciliśmy po chwili w prawo opuszczając drogę 247. Jechaliśmy do
+[Królikowa][wiki-krolikowo]. Centrum tej wsi miało jeden klimatyczny budynek
+mieszkalny przy wyjeździe.
+
+W pewnym momencie zauważyłem kota po lewej stronie ulicy, zatrzymałem się
+ale on w momencie gdy wyciągnąłem rękę uciekł.
+
+Przed [Słupami][wiki-slupy] widzieliśmy policjantów rozmawiających z jednym panem
+na rowerze. Pojechaliśmy dalej, zatrzymaliśmy się na moście przy (nie jestem pewien)
+rzece [Gąsawce][wiki-gasawka-rzeka]. Po chwili radiowóz przejechał po nim, a
+po minucie widzieliśmy policjanta jadącego na rowerze wspomnianego pana.
+W kieszeni miał butelkę jakiegoś taniego alkoholu. Nawet się nas zapytał czy jesteśmy
+zainteresowani.
+
+Po podjeździe do centrum [wsi][wiki-slupy] zauważyliśmy bardzo ładny kościół.
+Kościół był stosunkowo duży jak na taką małą wieś.
+
+Droga się znacząco pogorszyła. Maciej jechał swoją szosą po chodniku.
+
+Jechaliśmy dalej na wschód w stronę [Wąsosza][wiki-wasosz]. Widzieliśmy teren
+budowy drogi S2 do [Bydgoszczy][wiki-bydgoszcz]. Wydaje mi się, że
+z Maciejem jechałem gdy wracaliśmy z [Bydgoszczy][wiki-bydgoszcz] wracając
+z [Malborku][wiki-malbork]
+[dwa miesiące temu]({% post_url 2018-06-10-wojewodztwo-pomorskie-tez-ma-gorki %}).
+Była tutaj kiedyś linia kolejowa z [Szubina][wiki-szubin] do [Żnina][wiki-znin].
+
+Obok jest restauracja i mogliśmy w niej zjeść. Sądzę, że jedzenie byłoby lepsze niż
+później w TODO.
+
+Wjeżdżając do [Wąsosza][wiki-wasosz] widziałem dużo nowoczesnych domów.
+Jest tutaj również sklep ale coś mnie zniechęciło do skorzystania z niego.
+
+Jechaliśmy w stroną [Chomętowa][wiki-chometowo]. Ruch był niewielki a krajobraz
+uspokajał. Nie było zbyt wiele ciekawego. Chociaż gdy się zbliżaliśmy
+widzieliśmy [Jezioro Gąbińskie][wiki-jezioro-gabinskie]. W okolicy jest sporo
+jezior.
+
+Zatrzymałem się obok Macieja gdyż chciał wykorzystać dobry punkt widokowy.
+W centrum [wsi][wiki-chometowo] jest
+[kościół z ciekawą wieżą][wiki-chometowo-kosciol].
+
+[wiki-chometowo-kosciol]: https://pl.wikipedia.org/wiki/Parafia_%C5%9Awi%C4%99tych_Aposto%C5%82%C3%B3w_Piotra_i_Paw%C5%82a_w_Chom%C4%99towie
+
+Mogliśmy jechać albo na południe w stronę [Żnina][wiki-znina] i dalej przez
+[Gąsawe][wiki-gasawa] do [Trzemeszna][wiki-trzemeszno], tylko to nie byłoby
+zgodne z wiatrem. Początkowy plan zakładał jazdę na południe i skręcenie
+na wschód, chyba przez [Dąbrowe][wiki-dabrowa] i dalej do [Janikowa][wiki-janikowo].
+Widząc taką ładną dolinę rzeki postanowiłem, żebyśmy jechali na wschód
+do [Łabiszyna][wiki-labiszyn].
+
+Po prawej (na południe) od [Wyręby][wiki-wyreba] jest ciekawe obniżenie terenu.
+
+W okolicy [Smerzyna][wiki-smerzyn] wjechaliśmy w las. Widziałem znak
+informujący o plaży przy jeziorze obok.
+
+Dotarliśmy do [Łabiszyna][wiki-labiszyn]. Zatrzymaliśmy się obok śluzy
+na [Kanale Noteckim][wiki-kanal-notecki]. Szukaliśmy miejsca aby coś zjeść.
+Ostatecznie wybraliśmy danie obiadowe z lokalu fastfoodowego. Jakość nie była
+zbyt specjalna ale się najedliśmy.
+
+Opuściliśmy [Łabiszyn][wiki-labiszyn] jadąc w stronę [Będzitowa][wiki-bedzitowo].
+Droga była naprawdę bardzo dobrej jakości.
+Z "mamy bardzo dużo czasu" zrobiło się "powinno się nam udać".
+
+Mijaliśmy raczej spokojne wioski. Chociaż nie wiem jak zdefiniować
+"niespokojną". Chciałbym coś więcej napisać ale nie potrafię.
+
+Do [Lisewa Kościelnego][wiki-lisewo-koscielne] raczej jechaliśmy wzdłuż pól.
+Tutaj również zrobiłem przerwę na zdjęcie przy kościele.
+
+Dotarliśmy do drogi 246 i mieliśmt 5km do stacji w
+[Złotnikach Kujawskich][wiki-zlotniki-kujawskie].
+Dotarliśmy tam jednak mieliśmy jeszcze chyba ponad 30 minut. Postanowiliśmy, że
+pojedziemy do [Jaksic][wiki-jaksice]. Już
+[kiedyś]({% post_url 2017-08-06-wzdluz-jeziora-pakoskiego %}) jechałem do
+tej stacji.
+
+Pojechaliśmy nowo wyremontowaną drogą asfaltową przez [Mierzwin][wiki-mierzwin].
+
+Gdy dotarliśmy na stacje nie mialem jeszcze przejechanych 100km.
+Pokręciliśmy się po okolicy aby dobić do setki.
+
+To był bardzo dobry dzień.
