@@ -129,6 +129,10 @@ Nie znając jeszcze dobrze [miasta][wiki-tykocin] pojechaliśmy do sklepu, któr
 faktycznie nie ma. Musieliśmy wrócić się do grosika. Denerwowała mnie jazda
 po bruku. Nie można nagrać dobrego filmu wtedy.
 
+Ruzyliśmy do naszej ostatniej bazy na tym wyjeździe. Będziemy tam mieć 3
+ostatnie noclegi.
+
+TODO: jakie zdjęcia wieczorem, deszcz?
 
 TODO:
 
