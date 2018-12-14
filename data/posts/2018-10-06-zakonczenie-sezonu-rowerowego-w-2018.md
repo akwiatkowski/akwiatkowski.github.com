@@ -29,6 +29,21 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+Pogoda pod koniec tego sezonu była bardzo nieprzewidywalna. Do tego mieliśmy problem
+w trójkę pojeździć (z Michałem i Maciejem). Udało nam się znaleźć jeden dzień z
+odpowiednią pogodą.
+
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1887803121/embed/f58524591f2d2b50ca1551b912c0ec50db35ffa3'></iframe>
+
+## Szczegóły
+
+[wiki-wzgorza-ostrzeszowskie]: https://pl.wikipedia.org/wiki/Kobyla_G%C3%B3ra_(Wzg%C3%B3rza_Ostrzeszowskie)
+
+Ruszyliśmy pociągiem osobowym około godziny 7-ej do [Kępna][wiki-kepno].
+Naszym punktem startowym był [Ostrzeszów][wiki-ostrzeszow], który kojarzyłem
+z nazwą [Wzgórz Ostrzeszowskich][wiki-wzgorza-ostrzeszowskie].
+
+Wysiedliśmy chwilę po 9-tej. Zaplanowaliśmy jazdę zielonym szlakiem
+na północ do [Kotłowa][wiki-kotlow].

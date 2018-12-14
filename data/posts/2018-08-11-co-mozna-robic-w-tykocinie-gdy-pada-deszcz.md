@@ -46,16 +46,22 @@ Ruszyliśmy po śniadaniu do [Tykocina][wiki-tykocin]. Tam zobaczyliśmy wnętrz
 kot ignorujący odwiedzających. Spędziliśmy tam chwilę (około 40 minut), chociaż nie jest
 dokładnie to co ja lubię.
 
+{% photo "P8110003.jpg","Kot blokujący książkę pamiątkową" %}
+
 [tykocin-dom]: http://placczarnieckiego10.net/
 
 Chwilę po wyjściu przeszła pierwsza fala deszczu. Zrobiliśmy sobie przerwę przy
 sklepie.
+
+{% photo "P8110014.jpg","Drewniany dom mieszkalny w Tykocinie - muzeum" %}
 
 Gdy deszcz minął po około 15 minutach pojechaliśmy do centrum. Rozważaliśmy
 zrobić przerwę jedzeniową. Niewiele można robić w takim dniu jak ten.
 Wiem, że przez ostatni tydzień co chwilę byłem niezadowolony z powodu upału,
 jednak teraz nie miałem ochoty na jazdę gdzieś dalej gdy pogoda jest taka
 niepewna.
+
+{% photo "P8110052.jpg","Zamek w Tykocinie" %}
 
 Po godzinie ruszyliśmy dalej. Celem teraz był [Zamek w Tykocinie][tykocin-zamek].
 Musieliśmy przejechać mostem przez [Narew][wiki-narew].
@@ -65,8 +71,12 @@ Musieliśmy przejechać mostem przez [Narew][wiki-narew].
 W [zamku][tykocin-zamek] byliśmy prawie półtora godziny. TODO bagna, rozległy teren,
 skomplikowana historia, może jest skrót na wiki
 
+{% photo "P8110065.jpg","Widok z wieży widokowej w Tykocinie" %}
+
 Postanowiliśmy zobaczyć wieżę widokową na wschód od ulicy Puchalskiego.
 Delikatnie padało już.
+
+{% photo "P8110093.jpg","Napotkana żaba" %}
 
 Wracając udaliśmy się do [restauracji żydowskiej Tejsza][tejsza], gdzie ponownie
 spędziliśmy prawie godzinę.
@@ -75,13 +85,47 @@ spędziliśmy prawie godzinę.
 
 [pentowo-bociany]: http://www.pentowo.pl/
 
+{% photo "P8110123.jpg","W Tykocinie mieszkańcy 'są gotowi'" %}
+
 W połowie do bazy zwiedziliśmy jeszcze [wioskę Bocianią Pentowo][pentowo-bociany].
 Była tam galeria, agroturystyka i konie.
 
 [kiermusy-zubry]: http://kiermusy.com.pl/pl/atrakcje/pierwsza-w-polsce-prywatna-ostoya-zubra-w-kiermusach/
 
+{% photo "P8110129.jpg","Wieś bociania - Pentowo" %}
+
 W [Kiermusach][wiki-kierumusy] na chwilę skoczyliśmy zobaczyć [Ostoję Żubrów][kiermusy-zubry].
+
+{% photo "P8110141.jpg","Ostoja Żubrów w Kiermusach" %}
 
 Tego dnia przejechaliśmy prawie co nic jednocześnie będąc w 7 różnych miejscach:
 2 muzeua (rynek i zamek), 2 restauracje (rynek i żydowska), 2 miejsca widokowe (wieża i żubry)
 oraz w wiosce bocianiej.
+
+{% photo "P8110155.jpg","Bociany w okolicy Kiermusów" %}
+
+Po powrocie było jeszcze sporo czasu do zachodu dlatego powłóczyłem się po okolicy.
+
+{% photo "P8110163.jpg","Normalne suche drzewo" %}
+
+Tutaj również gospodarze mieli koty i nie mogłem nie zrobić im zdjęć.
+
+{% photo "P8110178.jpg","Szary kot" %}
+
+{% photo "P8110205.jpg","Szary kot" %}
+
+Wieczorem magicznie chmury zniknęły i pojawiło się słońce.
+
+{% photo "P8110005_01.jpg","Polana w okolicy noclegu w Kiermusach" %}
+
+{% photo "P8110017.jpg","Tęczą" %}
+
+{% photo "P8110020_01.jpg","Bluszcz" %}
+
+{% photo "P8110049.jpg","Biało-rudy kot" %}
+
+{% photo "P8110062_01.jpg","Biało-rudy kot" %}
+
+{% photo "P8110092_01.jpg","Biało-rudy kot" %}
+
+Ten wyjazd był bardzo owocny jeżeli chodzi o zdjęcia kotów.

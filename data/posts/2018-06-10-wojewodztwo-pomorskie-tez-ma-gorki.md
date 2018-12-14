@@ -210,7 +210,7 @@ chmurami.
 
 {% photo "P6100451raw1.jpg","Pofalowana okolica Tropów Sztumskich","timeline" %}
 
-Po miłym zjeździe czekał nas podjazd. Musieliśmy podjecha 40m jadąc
+Po miłym zjeździe czekał nas podjazd. Musieliśmy podjechać 40m wysokości jadąc
 przez blokowisko. Jechaliśmy teraz drogą 515 bezpośrednio
 do [Malborka][wiki-malbork].
 
@@ -266,7 +266,7 @@ już tak interesujący.
 O dziwo mieliśmy
 problem aby znaleźć restauracje więc zamówiliśmy fastfoody.
 Podjechaliśmy na kilka minut pod [zamek][wiki-malbork-zamek]
-bo głupio by mi było jakbym miał powiedzieć, że byłem a nie wiedziałem.
+bo głupio by mi było jakbym miał powiedzieć, że byłem a nie widziałem.
 
 ### Ciąg dalszy przygód kolejowych
 

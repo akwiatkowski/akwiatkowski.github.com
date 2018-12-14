@@ -55,6 +55,8 @@ szczęście wytarłem obiektyw. Bardzo nie lubię zamglonego obrazu.
 Samo miasto ma sporo fajnych budynków. Zdarzają się drewniane ale te murowane również
 mają swój klimat.
 
+{% photo "P8090028.jpg","Historyczno-przyrodnicza część Osowca" %}
+
 [Miasto][wiki-goniadz] opuszczaliśmy ulicą Kościuszki. Ruch był prawie zerowy
 a był to czwartek.
 
@@ -75,6 +77,8 @@ Zielonym szlakiem dotarliśmy w okolice stacji kolejowej [Osowiec][wiki-osowiec]
 Szczerze mówiąc zupełnie inaczej wyobrażałem sobie to miejsce, myślałem, że
 będzie ciekawsze.
 
+{% photo "P8090047.jpg","Przyrodnicza część Osowca" %}
+
 Szukaliśmy wejścia do [muzeum][wiki-osowiec-muzeum]. Zaskoczyła mnie ilość
 samochodów. Nie wiedziałem, że wejście do muzeum jest tym samym co
 wejście do jednostki wojskowej. Dlatego podjechaliśmy trochę na północ aż
@@ -83,6 +87,8 @@ nie wyciągnąłem komórki i zacząłem szukać.
 Cofneliśmy się i ostatecznie dotarliśmy w odpowiednie miejsce. Muzeum można
 zwiedzać do godziny 14 i to chyba o 14-tej wchodzi ostatnia grupa. Zwiedzanie
 trwa okołó półtora godziny.
+
+{% photo "P8090051.jpg","Widok na Biebrzę z punktu widokowego" %}
 
 Ruszylismy zielonym szlakiem dalej na północ, aby przejechać mostem
 przez [Biebrze][wiki-biebrza] i może przez [Wółkę Piaseczną][wiki-wolka-piaseczna]
@@ -95,10 +101,20 @@ Dotarliśmy do mostu nad [Biebrzą][wiki-biebrza], który był wyłączony z ruc
 Początkowo nie wydawał się jakiś straszny ale wolałem nie przechodzić przez niego.
 W tej temperaturze zdecydowanie mi nie zależało na tym.
 
+{% photo "P8090067.jpg","Okolica Goniądza" %}
+
 Wracaliśmy tą samą drogą ale przynajmniej mogliśmy jechać w cieniu.
 W [Goniądzu][wiki-goniadz] chcieliśmy dojechać na plażę nad [Biebrzą][wiki-biebrza].
 
-TODO przerwa w restauracji, jakiej?
+TODO przerwa w restauracji, jakiej? Dwór Bartla
+
+{% photo "P8090098.jpg","Okolica Dworu Bartla" %}
 
 Ponownie podjechaliśmy do sklepu po zapasy na wieczór. Przez suszę niektóre drzewa
 zaczynały wyglądać jesiennie.
+
+{% photo "P8090123.jpg","Goniądz" %}
+
+{% photo "P8090130.jpg","Stary dom w Goniądzu" %}
+
+{% photo "P8090146_01.jpg","Koty w pobliżu noclegu" %}

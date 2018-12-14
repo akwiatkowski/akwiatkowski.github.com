@@ -44,6 +44,8 @@ Pomyślałem, że gdybyśmy dojechali do [Borsukówka][wiki-borsukowko-stacja]
 to do [Tykocina][wiki-tykocin] byśmy musieli jechać rowerem trochę ponad 14km
 (według mapy UMP). Jest to istotna różnica jeżeli porównujemy z 30-toma km.
 
+{% photo "P8100205.jpg","Cmentarz w Goniądzu" %}
+
 Ruszyliśmyo godzinie 11-tej. Temperatura wzrastała z 28 stopni.
 Musieliśmy, tak jak [dzień wcześniej]({% post_url 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca %})
 dostać się go [Goniądza][wiki-goniadz] a następnie jechać ulicą Szpitalną
@@ -52,14 +54,22 @@ na południe.
 Jechaliśmy ulicą Mickiewicza w stronę cmentarza na południe od [Goniądza][wiki-goniadz].
 Musieliśmy do niego trochę podjechać.
 
+{% photo "P8100210.jpg","Napotkany motyl na trasie do przystanku kolejowego Goniądz" %}
+
 Aby dostać się do stacji [Goniądz][wiki-goniadz-stacja] musieliśmy kierować się
 w stronę [Downar][wiki-downary]. Stacja oddalona jest 4km od centrum.
 
+{% photo "P8100223.jpg","Znalezione miejsce widokowe" %}
+
 TODO jakie zdjęcia po drodze robiłem?
+
+{% photo "P8100230.jpg","Ciekawe roślinki" %}
 
 Dotarliśmy do torów. Musieliśmy skręcić w lewo na drogę polną. Droga ta zamieniła
 się w czysty piasek. W połączeniu z wiatrem i przejazdem dwóch pojazdów rolniczych
 poczułem się, jakbym był właśnie na pustyni.
+
+{% photo "P8100239.jpg","Peron w Borsukówce" %}
 
 Pociąg jechał około 25minut. Wysieliśmy na stacji [Borsukówko][wiki-borsukowko-stacja]
 i zacząłem się zastanawiać "co dalej?". Temperatura 31 stopni przekonywała do
@@ -91,6 +101,8 @@ do [Borsukówka][wiki-borsukowko].
 Musieliśmy przejechać 9km aby dostać się do asfaltowej drogi 671
 do [Tykocina][wiki-tykocin].
 
+{% photo "P8100248.jpg","Rzeka Jaskranka" %}
+
 Zdarzało się zobaczyć jakieś starsze domy ale co chwilę widziałem nowe.
 Nowe mogą być praktyczniejsze ale nie mają stylu. W każdej cześci Polski
 nowe domy mieszkalne są budowane w ten sam sposób. Jest to wypranie z kultury
@@ -98,6 +110,8 @@ i odrębności.
 
 Zbliżając się do wsi [Góra][wiki-gora] zbliżaliśmy się również do [Narwi][wiki-narew].
 W [Górze][wiki-gora] jest wieża widokowa. TODO jaki jest widok na zdjęciach?
+
+{% photo "P8100258.jpg","Widok na Narew TODO z wieży widokowej w Górze" %}
 
 Sama droga nie była zła ale widziałem już znacznie ciekawsze wsi i miejsca,
 dlatego nie wiem co więcej mógłbym napisać. Można ją przejechać ale ten kto
@@ -118,6 +132,8 @@ zaczeliśmy kierować się na zachód w stronę noclegu. Zostało nam 5km do prz
 [Tykocin][wiki-tykocin] z jednej strony jest ładną miejscowością. Jest dużo starych domów,
 widać że postarano się zachować klimat i zadbano centrum. Z drugiej strony popularność,
 ilość ludzi jest dla mnie zbyt duża.
+
+{% photo "P8100274_01.jpg","Zbliżając się do noclegu" %}
 
 Znaleźliśmy bankomat. Podjechaliśmy pod niego rowerami jednak pewna młoda pani
 musiała się wepchnąć przed nas gdyż zaparkowała obok samochód na światłach awaryjnych.
