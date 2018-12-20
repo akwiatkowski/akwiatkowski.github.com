@@ -64,6 +64,7 @@ pois:
 [wiki-linia-137]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_137
 [wiki-ksiestwo-nyskie]: https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Nyskie
 [wiki-glucholazy-gmina]: https://pl.wikipedia.org/wiki/G%C5%82ucho%C5%82azy_(gmina)
+[wiki-paczkow]: https://pl.wikipedia.org/wiki/Paczk%C3%B3w
 
 ## Wstęp
 

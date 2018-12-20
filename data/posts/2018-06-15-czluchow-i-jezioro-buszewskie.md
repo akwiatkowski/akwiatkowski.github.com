@@ -25,6 +25,9 @@ pois:
 
 ---
 
+[wiki-przechlewo]: https://pl.wikipedia.org/wiki/Przechlewo
+[wiki-chojnice]: https://pl.wikipedia.org/wiki/Chojnice
+[wiki-czluchow]: https://pl.wikipedia.org/wiki/Cz%C5%82uch%C3%B3w
 
 ## Wstęp
 
@@ -44,13 +47,13 @@ jezior.
 {% photo "P6150005raw1.jpg","Okolice ulicy Traugutta","nogallery" %}
 
 Po dotarciu do hotelu ruszyłem z najpotrzebniejszymi akcesoriami fotograficznymi.
-Postanowiłem ruszyć na zachód w stronę [Jeziora Buszewskiego][wiki-jezioro-buszewskie].
+Postanowiłem ruszyć na zachód w stronę Jeziora Buszewskiego.
 Wydawało mi się, że tamta okolica może być ciekawsza. Czy była? Nie wiem.
 Patrząc na mapę i znając zasięg roweru wydaje mi się, że powinienem tu jeszcze powrócić.
 
 {% photo "P6150011raw1.jpg","Przed Jeziorem Buszewskim","nogallery" %}
 
-Same [Jezioro Buszewskiego][wiki-jezioro-buszewskie] było raczej ładno-normalne.
+Same Jezioro Buszewskiego było raczej ładno-normalne.
 Są tam przygotowane miejsca do łowienia.
 
 {% photo "P6150019raw1.jpg","Jezioro Buszewskie" %}
@@ -65,7 +68,7 @@ Trochę byłem zmęczony i nie miałem pomysłów na ciekawe zdjęcia.
 
 {% photo "P6150094raw1.jpg","Blok w Człuchowie" %}
 
-Gy już poruszałem się obok [Jeziora Miejskiego][wiki-jezioro-miejskie]
+Gy już poruszałem się obok Jeziora Miejskiego
 miałem solidne wątpliwości. Ostatecznie postanowiłem wrócić aby mieć pewność,
 że zdążę jeszcze zjeść kolacje.
 
