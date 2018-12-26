@@ -126,6 +126,23 @@ Wykupiłem sewer i stworzyłem swój silnik blogowy [tremolite](https://github.c
 na który przepisałem cały blog. Jestem zadowolony z szybkości jak i możliwości.
 Trudno abym nie był skoro sam to zacząłem pisać.
 
+### 2018
+
+Rok ten jest dość mieszanym. Z jednej strony udało mi się zrobić wyjątkowe zdjęcia.
+Zauważam, że "idzie mi coraz lepiej". Dzięki [Gurushotw](https://gurushots.com/akwiatkowski/photos)
+zacząłem lepiej rozumieć atrakcyjność zdjęć.
+
+Pod względem wyjazdów rowerowych nie jestem zadowolony. Miałem dużo możliwości aby pracować
+wieczorami a rowerem jeździć rano. Niestety po maju pogoda była bardzo nieprzyjazna.
+Temperatura i susza.
+
+Pomimo tego dokańczanie wpisów nie szło mi dobrze. Priorytetem były filmiki i
+szkic wpisów. Filmiki już teraz robię dłuższe, tylko dla siebie.
+Nie umieszczam je nigdzie gdyż zajmują dużo miejsca, jak i nie wydaje mi się,
+aby były one na tyle efektowne. A świat wymaga efektownych.
+
+<!-- TODO Jaś -->
+
 ### Przyszłość
 
 Moje określone cele wolę zostawić dla siebie i będę pisał dopiero po ich
