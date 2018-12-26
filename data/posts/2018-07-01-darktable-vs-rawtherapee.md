@@ -5,22 +5,25 @@ subtitle:               "porównanie programów do przetwarzania raw'ów"
 desc:                   "Dość długo używałem Rawtherapee i byłem z niego raczej zadowolony. Z ciakawości postanowiłem spróbować Darktable. Bardzo mi się spodobało i postanowiłem nauczyć się korzystać z niego. W tym momencie wydaje mi się, że lepsze rezultaty mogę osiągać w Darktable. Ten wpis będę aktualizował na bieżąco aż do momentu, kiedy będę mógł powiedzieć że dobrze poznałem oba programy."
 keywords:               [raw, linux, debian, rawtherapee, darktable, presety, odszumianie]
 date:                   2018-07-01 20:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2018-12-26 00:00:00
 header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6240189_dark1.jpg.jpg
-tags:                   [article, todo]
+tags:                   [article, main]
 towns:                  []
 
 ---
 
+[perspective_correction]: https://www.darktable.org/usermanual/en/correction_group.html#perspective_correction
+[profiled-denoise]: https://www.darktable.org/usermanual/en/correction_group.html#denoise_profiled
+[shadows_and_highlights]: https://www.darktable.org/usermanual/en/modules.html#shadows_and_highlights
+[equalizer]: https://www.darktable.org/usermanual/en/correction_group.html#equalizer
 
 ## Wstęp
 
 Przez dłuższy czas korzystałem z `rawtherapee`. Wydaję mi się, że jestem juz w nim
 dość doświadczony. W tym momencie odkrywam `darktable` i zaczyna mi się ono podobać.
-
 
 Artykuł nie zamierzam oznaczać jako gotowy do momentu osiągnięcia biegłości w
 `darktable`.
@@ -29,6 +32,11 @@ Postaram się później powrócić do `rawtherapee` i jeszcze porównać.
 Tekst ten będzie wyraźnie subiektywny, bazując bardziej na wrażeniach z pracy
 oraz ostatecznego efektu. Nie będę obiektywnie określał który (przykładowo)
 ma lepszy algorytm usuwający szumy.
+
+### Gotowy?
+
+Mniej więcej oznaczam ten artykuł jako gotowy. Udało mi się uzyskać
+biegłość i teraz korzystam wyłącznie z `darktable`.
 
 ## TL;DR
 
@@ -46,10 +54,9 @@ parametry będą najlepsze.
 
 ### Filmiki, tutoriale
 
-Będę tutaj wrzucał linki do filmików, których obejrzenie znacząco przyspieszy
-naukę:
-
-* https://www.youtube.com/watch?v=aU8z81INOBU
+Obejrzenie [tego filmiku](https://www.youtube.com/watch?v=aU8z81INOBU)
+bardzo mi pomogło. Dzięki niemu zrozumiałem potęgę warstw oraz wiele
+drobnych, przydatnych rzeczy.
 
 ### Warstwy
 
@@ -88,12 +95,10 @@ do każdego, nawet najprostszego, modułu.
 Aby zautomatyzować lepiej można ustawić automatyczne ładowanie presetów.
 Wystarczy kliknąć prawym i "edit this preset". Dany preset zostanie
 utworzony albo zmodyfikowany. Bardzo przydatne są *filtry* np. aparat, obiektyw,
-iso. Ja osobiście ustawiłem inne wyostrzanie dla obiektywów "ogólnych"
-a inne dla bardzo jasnych stałek.
+ISO. Ja osobiście ustawiłem inne wyostrzanie dla obiektywów "ogólnych"
+a inne dla bardzo jasnych stałek, przy których skupiam się na "płynnościach".
 
 ### Usuwanie szumu
-
-[profiled-denoise]: https://www.darktable.org/usermanual/en/correction_group.html#denoise_profiled
 
 Jest kilka modułów do usuwania szumu.
 Podstawowym jest "[profiled denoise][profiled-denoise]"
@@ -103,7 +108,7 @@ Jest to najłatwiejsze rozwiązanie
 Zauważyłem, że usuwając szumy algorytm usuwa również detale.
 Zawsze starałem się wyciągnać maksimum szczegółów ze zdjęcia ale spróbuję teraz
 przerabiając RAWy skoncentrować się na ogólnym wrażeniu zdjęcia a niekoniecznie
-na ilościach detali.
+na ilościach detali. Podejście to jest lepsze w przypadku druku zdjęć.
 
 ### Korekcja geometri zdjęcia
 
@@ -121,8 +126,6 @@ jeżeli algorytm nie wykrył odpowiednich linii.
 
 Algorytm nie radzi sobie z niektórymi dachami o jednolitym wzorcu pod kątem 45
 stopni.
-
-[perspective_correction]: https://www.darktable.org/usermanual/en/correction_group.html#perspective_correction
 
 ### Korekcta obiektywu
 
@@ -160,14 +163,12 @@ rezultaty widzi się od razu. Mam wrażenie, że działa to lepiej niż w `rawth
 Gdy przesunie się ponad `50` mogą pojawiać się artefakty dlatego należy modułu
 tego używać z rozwagą.
 
-[shadows_and_highlights]: https://www.darktable.org/usermanual/en/modules.html#shadows_and_highlights
-
 ### Equalizer
 
-Jeszcze nie zrozumiałem w pełni jak dziala [ten moduł][equalizer].
-Jeżeli się nie mylę to łączy on wyostrzanie (barwa i jasność) i usuwanie szumów.
-
-[equalizer]: https://www.darktable.org/usermanual/en/correction_group.html#equalizer
+Moduł [ten][equalizer] łączy operowanie na krawędziach, jasności `luma`
+i kolorze `chroma` w rozróżnieniu na "ziarnistość". Jest to bardzo złe słowo
+jednak polecam samemu wczytać predefiniowane ustawienia i spróbować połączyć
+`clarity` z `sharpen`.
 
 ### Haze removal
 
@@ -181,7 +182,8 @@ Wydaję mi się, że `darktable` ma znacznie większe potrzeby obliczeniowe.
 Nawet zmieniając priorytet procesu system jest wyraźnie zwolniony.
 Oglądanie YouTube'a staje się wtedy problematyczne.
 
-Brak możliwości spazuwania jest dużą niedogodnością.
+Brak możliwości spazuwania jest dużą niedogodnością. Również w ustawieniach
+jest niewiele opcji. Wypada tutaj gorzej.
 
 <!-- TODO sprawdzić w ustawieniach -->
 
@@ -205,6 +207,7 @@ jak to robiłem w `rawtherapee`.
 W tym momencie edytuję wszystkie pliki i po skończonej edycji wybieram
 "zaznacz nieedytowane", a następnie "odwróć zaznaczenie". Powoduje to konwersje
 zdjęć, które tylko otworzyłem raz.
+
 <!-- TODO -->
 Nie wiem jeszcze jak można cofnąć oznaczenie edycji danego zdjęcia.
 Mam domyślnie ustawiony zestaw modułów,
