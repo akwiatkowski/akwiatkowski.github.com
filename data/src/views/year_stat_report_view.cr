@@ -192,6 +192,10 @@ class YearStatReportView < PageView
         b.distance.not_nil! <=> a.distance.not_nil!
       }
     end
-    return posts_photo_of_the_year.first.image_url
+    if posts_photo_of_the_year.size > 0
+      return posts_photo_of_the_year.first.image_url
+    else
+      return ""
+    end
   end
 end
