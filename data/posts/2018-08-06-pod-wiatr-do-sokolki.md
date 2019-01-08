@@ -10,7 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P8060428.jpg
-tags:                   [bicycle, main]
+tags:                   [bicycle, panniers, main]
 towns:                  [podlaskie, grodek, krynki, szudzialowo, sokolka]
 
 coords:                 [{"route": [[53.11195,23.73717], [53.11767,23.75871], [53.14517,23.77863], [53.16545,23.79442], [53.16889,23.81107], [53.18520,23.81450], [53.19975,23.79811], [53.20049,23.78856], [53.20502,23.79088], [53.20533,23.79704], [53.21597,23.79710], [53.23362,23.79122], [53.25933,23.77878], [53.26428,23.77195], [53.26922,23.73721], [53.26944,23.67368], [53.26812,23.66556], [53.26602,23.63831], [53.26222,23.63741], [53.26605,23.63831], [53.26941,23.67372], [53.29940,23.65496], [53.30833,23.61827], [53.33821,23.60102], [53.35315,23.56531], [53.38708,23.54467], [53.40335,23.51223], [53.39465,23.47837], [53.39690,23.47691]], "type": "bicycle"}]
@@ -34,6 +34,23 @@ pois:
 [silvarium1]: http://atrakcjepodlasia.pl/atrakcje-turystyczne/silvarium-park-lesny-w-poczopku/
 [silvarium2]: http://www.krynki.bialystok.lasy.gov.pl/silvarium1
 
+[wiki-sokolka]: https://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82ka
+[wiki-kruszyniany]: https://pl.wikipedia.org/wiki/Kruszyniany
+[wiki-krynki]: https://pl.wikipedia.org/wiki/Krynki
+[wiki-gorka]: https://pl.wikipedia.org/wiki/G%C3%B3rka_(wojew%C3%B3dztwo_podlaskie)
+[wiki-nietupa-rzeka]: https://pl.wikipedia.org/wiki/Nietupa_(dop%C5%82yw_%C5%9Awis%C5%82oczy)
+[wiki-bialystok]: https://pl.wikipedia.org/wiki/Bia%C5%82ystok
+[wiki-suprasl]: https://pl.wikipedia.org/wiki/Supra%C5%9Bl
+[wiki-sokolda]: https://pl.wikipedia.org/wiki/Soko%C5%82da
+[wiki-plebanowo]: https://pl.wikipedia.org/wiki/Plebanowo
+[wiki-poczopek]: https://pl.wikipedia.org/wiki/Poczopek
+[wiki-surazkowo]: https://pl.wikipedia.org/wiki/Sura%C5%BCkowo
+[wiki-ostrow-polnocny]: https://pl.wikipedia.org/wiki/Ostr%C3%B3w_P%C3%B3%C5%82nocny
+[wiki-szudzialowo]: https://pl.wikipedia.org/wiki/Szudzia%C5%82owo
+[wiki-stara-kamionka]: https://pl.wikipedia.org/wiki/Stara_Kamionka_(powiat_sok%C3%B3lski)
+[wiki-kamionka-rzeka]: https://pl.wikipedia.org/wiki/Kamionka_(dop%C5%82yw_Piertanki)
+[wiki-szyszki]: https://pl.wikipedia.org/wiki/Szyszki_(wojew%C3%B3dztwo_podlaskie)
+[wiki-drahle]: https://pl.wikipedia.org/wiki/Drahle
 
 ## Wstęp
 
@@ -135,7 +152,7 @@ sporo przewyższeń. Jazda pod wiatr jest bardzo demotywująca.
 Droga była dosyć monotonna: obok pola, wzdłuż drogi drzewa.
 Na szczęście ruch nie był zbyt duży.
 
-Dotarliśmy do [Silwarium][wiki-silvarium2] gdzie zrobiliśmy dłuższą przerwę.
+Dotarliśmy do [Silwarium][silvarium2] gdzie zrobiliśmy dłuższą przerwę.
 
 {% photo "P8060323.jpg","Sowa w Silwarium" %}
 
