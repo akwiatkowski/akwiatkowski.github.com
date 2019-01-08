@@ -104,7 +104,7 @@ To nie są góry. W górach bym zrozumiał różne ograniczenia.
 {% photo "P8040497.jpg","Normalna droga na Podlasiu" %}
 
 Wjechaliśmy do wsi [Borki][wiki-borki], która to po prawej stronie była ciekawie
-obniżona w stronę rzeki [Supraśl][wiki-supras-rzeka].
+obniżona w stronę rzeki [Supraśl][wiki-suprasl-rzeka].
 
 Przejechaliśmy po kolejnym dopływie do rzeki [Supraśl][wiki-suprasl] - po
 rzece [Słoi][wiki-sloja].
