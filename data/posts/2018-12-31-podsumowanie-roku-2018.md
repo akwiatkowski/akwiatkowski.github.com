@@ -4,7 +4,7 @@ title:                  "Podsumowanie roku 2018"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2018-12-31 12:00:00
+date:                   2018-12-31 22:00:00
 #finished_at:            2100-02-09 12:00:00
 header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
