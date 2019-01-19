@@ -51,6 +51,7 @@ pois:
 [wiki-jurasze]: https://pl.wikipedia.org/wiki/Jurasze
 [wiki-ogrodniki]: https://pl.wikipedia.org/wiki/Ogrodniki_(powiat_sok%C3%B3lski)
 [wiki-bialystok]: https://pl.wikipedia.org/wiki/Bia%C5%82ystok
+[wiki-racewo]: https://pl.wikipedia.org/wiki/Racewo
 
 ## Wstęp
 
