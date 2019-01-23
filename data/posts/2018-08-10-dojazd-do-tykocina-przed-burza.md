@@ -76,7 +76,7 @@ położony jest na południe od centrum [Goniądza][wiki-goniadz].
 
 {% photo "P8100210.jpg","Napotkany motyl na trasie do przystanku kolejowego Goniądz" %}
 
-Prawdopodobnie tym motylem jest [Rojnik_morfeusz][wiki-rojnik].
+Prawdopodobnie tym motylem jest [Rojnik morfeusz][wiki-rojnik].
 
 Aby dostać się do stacji [Goniądz][wiki-goniadz-stacja] musieliśmy kierować się
 w stronę [Downar][wiki-downary]. Stacja oddalona jest 4km od centrum.
