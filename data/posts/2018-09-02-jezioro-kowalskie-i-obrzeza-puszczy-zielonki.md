@@ -33,6 +33,7 @@ pois:
 [wiki-karlowice]: https://pl.wikipedia.org/wiki/Kar%C5%82owice_(powiat_pozna%C5%84ski)
 [wiki-wierzonka]: https://pl.wikipedia.org/wiki/Wierzonka
 [wiki-kobylnica]: https://pl.wikipedia.org/wiki/Kobylnica_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 
 ## Wstęp
 
