@@ -1,10 +1,10 @@
 ---
 layout:                 post
-title:                  "Mglista Bystrzyca Kłodzka i okolice"
-subtitle:               ""
+title:                  "Poranek w Bystrzycy Kłodzkiej"
+subtitle:               "mgły nie znalazłem ale znalazłem dużo kotów"
 desc:                   ""
-keywords:               []
-date:                   2018-11-04 18:00:00
+keywords:               [koty, bystrzyca kłodzka]
+date:                   2018-11-04 09:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -13,10 +13,10 @@ tags:                   [hike, photo, todo]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 lands:                  [gory_bystrzyckie]
 
-coords:                 [{"route": [[50.28395,16.64764], [50.29952,16.65416], [50.28685,16.60386], [50.26425,16.59322], [50.24011,16.62772], [50.23912,16.63682]], "type": "hike"}]
-distance:               24 # 22 + 2
-time_spent:             11 # 10 + 1
-elevation:              408 # 408
+coords:                 [{"route": [[50.30031,16.65431], [50.29591,16.65117], [50.29758,16.64673]], "type": "hike"}]
+distance:               3 # 22 + 2
+time_spent:             2 # 10 + 1
+elevation:              0 # 408
 temperature:            10
 
 
@@ -150,118 +150,3 @@ Zrobiłem jeszcze kilka zdjęć w okolicy rynku i szybciej ruszyłem na
 Jak na krótki spacer w okolicy jestem bardzo zadowolony z rezultatów.
 
 Wróciłem do noclegu i sporo po 9-tej ponownie wyszedłem w trasę.
-
-### Koniec mgły i spacer
-
-Po śniadaniu gdy wyszedłem z noclegu mgły już nie było. Ruszyłem przez centrum
-robiąc jeszcze kilka zdjęć i kierując się na południowy-wschód.
-
-{% photo "2018_11_04__09_51__B042821.jpg","Ulica Podmiejska" %}
-
-Analizowałem opcję tras i chyba najlepszym pomysłem byłoby iść przez
-[Wyszki][wiki-wyszki] do [Długopola-Zdrój][wiki-dlugopole-zdroj]. Tam mógłbym
-wrócić pociągiem.
-
-{% photo "2018_11_04__09_59__B042826.jpg","Domy na ulicy Nadbrzeżnej" %}
-
-Kluczowe tego dnia było podejście na wysokość 550m n.p.m.
-Po [Rudawach Janowickich w 2016]({% post_url 2016-10-25-mgliste-rudawy-janowickie %})
-zauważyłem, że po deszczu mgły pojawiają się na tej wysokości,
-a jednocześnie występują tam jeszcze drzewa liściaste i można złapać
-prawdziwe jesienne kolory.
-
-{% photo "2018_11_04__10_00__B042828.jpg","Domy na ulicy Nadbrzeżnej" %}
-
-Rozważałem też iść do [Nowej Bystrzycy][wiki-nowa-bystrzyca] tylko powrót byłby
-nie tak urozmaicony. Musiałbym wracać tą samą drogą.
-
-{% photo "2018_11_04__10_03__B042839.jpg","Kolejne bystrzyckie schody" %}
-
-Opuszczałem [Bystrzycę Kłodzką][wiki-bystrzyca-klodzka] ulicą Nadbrzeżną.
-Widziałem sporo domów, gdzie bogactwo jest czymś totalnie obcym.
-Drzewa przedstawiały ostatnie dni jesieni.
-
-{% photo "2018_11_04__10_04__B042842.jpg","Ostatnie domy Bystrzycy Kłodzkiej" %}
-
-Ruszyłem zielonym szlakiem pieszym na południowy-zachód.
-
-{% photo "2018_11_04__10_11__B042852.jpg","Ścieżka pieszo-rowerowa" %}
-
-Po lewej stronie zauważyłem jedno samotne drzewo. Od razu pojawiły mi się
-klasyczne minimalistyczne pomysły na zdjęcie.
-
-{% photo "2018_11_04__10_20__B042863.jpg","Jesienne drzewo" %}
-
-Po dwóch kilometrach wkraczałem w las. Zaintrygował mnie przystanek autobusowy
-w miejscu, gdzie obok jest chyba tylko jeden budynek mieszkalny.
-
-{% photo "2018_11_04__10_38__B042892.jpg","Wkraczając do lasu" %}
-
-Z bliska budynek ten niezupełnie wyglądał na zamieszkały. Nie pamiętam już
-dokładnie.
-
-{% photo "2018_11_04__10_39__B042896.jpg","Budynek w Starej Bystrzycy" %}
-
-Kilometr dalej zielony szlak pieszy odbijał w prawo w las. Chciałem nim
-przejść aby podejść. Szukałem jesiennych mgieł.
-
-{% photo "2018_11_04__11_01__B042917.jpg","Krople na liściu" %}
-
-Gdy podszedłem 100m w górę mgła już mnie dobrze otaczała. Nie miałem
-wątpliwości, że warunki są teraz odpowiednie.
-
-{% photo "2018_11_04__11_14__B042952.jpg","Mgła w lesie obok Starej Bystrzycy" %}
-
-Patrząc teraz na zdjęcia mam wrażenie, że sporo ich jest chaotyczne. Byłem
-w ciekawym miejscu, w ciekawym momencie. Chciałem jak najwięcej zdjęć robić
-a przez to niekoniecznie były one przemyślane.
-
-{% photo "2018_11_04__11_30__B043015.jpg","Jesienne barwy" %}
-
-{% photo "2018_11_04__11_35__B043034.jpg","Jesienne barwy" %}
-
-{% photo "2018_11_04__11_52__B043120.jpg","Jesienne barwy" %}
-
-Bardzo mi się podobały kropelki na drzewach iglastych.
-
-{% photo "2018_11_04__12_00__B043164.jpg","Kropelki" %}
-
-Zrobiłem naprawdę sporo zdjęć. Sporo z nich mi się nie podoba w tym momencie
-albo nie wiem, które z nich wybrać jako najciekawsze.
-
-{% photo "2018_11_04__12_13__B043224.jpg","Mglisty las" %}
-
-Zastanawiałem się jak daleko powinienem iść. Miałem cel swojej trasy.
-Czy warto mi iść we mgle, czy będzie coś ciekawszego, czy będę mógł zrobić
-jeszcze lesze zdjęcia?
-
-{% photo "2018_11_04__12_19__B043249.jpg","Jeszcze głębiej w lesie" %}
-
-{% photo "2018_11_04__12_24__B043271.jpg","Czy powinienem iść dalej?" %}
-
-{% photo "2018_11_04__12_25__B043274.jpg","Jesienne kolory i mgła" %}
-
-{% photo "2018_11_04__12_28__B043285.jpg","Uszkodzone drzewo" %}
-
-Postanowiłem wracać.
-
-{% photo "2018_11_04__12_38__B043309.jpg","Mglisty las" %}
-
-{% photo "2018_11_04__12_43__B043330.jpg","Mglisty las" %}
-
-TODO jakieś klimatyczne zdjęcia z mgłą jeszcze
-
-Schodząc opuszczałem mglistą krainę. Dotarłem do drogi i kierowałem
-się w stronę wsi [Wyszki][wiki-wyszki].
-
-### Spacer do stacji "Przedmieście"
-
-Nie miałem planów na ten krótki dzień. Chciałem dość szybko wrócić do
-[Poznania][wiki-poznan]. Postanowiłem wracać pociągiem po 10-tej.
-
-Aby chociaż trochę zwiedzić postanowiłem przejść się do stacji
-[Bystrzyca Kłodzka Przedmieście][wiki-bystrzyca-przedmiescie].
-
-<!-- TODO
-* wypadek kolejowy
--->
