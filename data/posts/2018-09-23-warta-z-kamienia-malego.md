@@ -29,17 +29,81 @@ pois:
 
 ## Wstęp
 
+Tego dnia nie planowaliśmy wyjścia na żaden wschód. Prognoza była mało obiecująca,
+miało dość mocno padać. Miało padać i rano i po południu.
+
 ## Szczegóły
 
-### Spacer
+Z małymi przygodami ruszyliśmy do [Kostrzynia][wiki-kostrzyn-dra].
+Oprócz wieży widokowej niewiele było istotnego.
 
-### Wieża
+{% photo "\_9230020.jpg","Droga Kostrzyn - Dobroszyn" %}
 
-<!--
+Chcieliśmy dostać się przez [Dobroszyn][wiki-dobroszyn] do [Kamienia Małego][wiki-kamien-maly].
+Zaparkowaliśmy obok przystanku kolejowego przy [linii 203][wiki-linia-203].
 
-TODO:
+{% photo "\_9230029_01.jpg","Przekraczając pierwszy strumień","timeline" %}
 
+Zgodnie z mapą jeden z ciekawych punktów do obserwacji ptaków znajdował się tutaj
+w okolicy. Musieliśmy ruszyć na południe.
 
-* do sprawdzenia rowerem: Młodasko, Podrzewie, jeziora przed Luboszem, kopalnia i okolica na południe od Prusim, okolice Gorzyń-Kamionna na południe od Międzychodu, Chełmicko na zachód od Przytoczna
+{% photo "\_9230034.jpg","Łabędź który próbował się schować" %}
 
--->
+Osobiście wolałem zostać na wieży widokowej na południe od [Warty][wiki-warta].
+Tam by były lepsze rezultaty obserwacji ptaków.
+
+{% photo "\_9230059_01.jpg","Są tutaj również pola rolnicze" %}
+
+Okazało się, że ścieżka edukacyjna Olszynki jest w trakcie remontu. Oznaczało to,
+że nie ma tutaj dostępnego punktu do obserwowania ptaków. Oczywiście ptaki są
+wszędzie i w każdym miejscu można je spotkać, tylko bardzo chcieliśmy udać się
+na przygotowaną czatownie.
+
+{% photo "\_9230088.jpg","Kolejny strumień","timeline" %}
+
+Zaskoczyły mnie tereny rolnicze na obszarze [parku][wiki-park-ujscie-warty].
+
+{% photo "\_9230105.jpg","Snopki na terenie parku" %}
+
+Dotarliśmy do [Warty][wiki-warta].
+
+{% photo "\_9230007.jpg","Rzeka Warta" %}
+
+Widzieliśmy tablicę informującą o wsi
+Niwka. Wsi tej nie ma, również na wikipedii nie ma informacji o niej.
+Istniałą tutaj przeprawa promowa do [Słońska][wiki-slonsk], do którego
+jest tylko 4km w linii prostej.
+
+{% photo "\_9230014.jpg","Informacja o wsi Niwka","nogallery" %}
+
+Powoli zaczął padać deszcz, zgodnie z prognozą pogody.
+
+{% photo "\_9230027.jpg","Snopki i podwyższenie terenu na północ od Warty","timeline" %}
+
+Musieliśmy już wracać gdyż deszcz powoli padał coraz silniej.
+
+{% photo "\_9230052.jpg","Droga powrotna" %}
+
+Jedyny "wildlife" jaki udało mi się uwiecznić na zdjęcia to 3 sarenki. Nawet
+przy 300mm (format M43) nie można powiedzieć o odpowiednim przybliżeniu.
+Kluczem do dobrych zdjęć jest cierpliwość i chęć poznania zachowania
+zwierząt, na co nie mieliśmy czasu wtedy.
+
+{% photo "\_9230075.jpg","Trzy sarenki" %}
+
+Do przystanku kolejowego dotarliśmy w odpowiednim momencie - właśnie
+przyjeżdżał szynobus.
+
+{% photo "\_9230124.jpg","Szynobus jadący do Kamienia Małego" %}
+
+[wiki-linia-203]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_203
+
+Podczas powrotu do [Słońska][wiki-slonsk] chcieliśmy jeszcze wejść
+na wieżę widokową. Deszcz się rozpadał i znacznie pogorszył
+warunki obserwacji.
+
+{% photo "\_9230144.jpg","Widok z wieży w okolicy Czarnowa" %}
+
+Wróciliśmy odpocząć, spakować się i zastanowić "czy to był dobry weekend".
+Według mnie był on częściowo dobry. Dał nam sporo informacji, którą
+następnym razem wykorzystamy.

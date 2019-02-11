@@ -87,18 +87,138 @@ sytuacja pogodowa.
 Wróciliśmy i przygotowaliśmy się na wcześną pobudkę. Następnego dnia
 chcieliśmy udać się na czatownię przed wschodem słońca.
 
+#### Pomysły na rower
+
+{% todo %} Podczas dojazdu zrobiłem sobie notatki odnośnie ciekawych miejsc na rower:
+
+* [Młodasko][wiki-mlodasko] [OSM](https://www.openstreetmap.org/node/31617568#map=13/52.4919/16.5528)
+  i [Jezioro Bytyńskie][wiki-jezioro-bytynskie]
+* [Podrzewie][wiki-podrzewie] [OSM](https://www.openstreetmap.org/node/31614824#map=14/52.5095/16.3935)
+  i jeziora na północ
+* [Lubosz][wiki-lubosz] [OSM](https://www.openstreetmap.org/node/692612232#map=14/52.5161/16.2158) a
+  raczej jeziora na wschód  
+* [Prusim][wiki-prusim] [OSM](https://www.openstreetmap.org/node/692613430#map=14/52.5795/16.0059),
+  jeziora i kopalnia na południe. Są to bliskie okolice [Międzychodu][wiki-miedzychod]  
+
 ### Obserwacja ptaków przed wschodem
 
-Wstaliśmy chwilę przed godziną 5-tą. 
+Wstaliśmy chwilę przed godziną 5-tą. Ruszyliśmy samochodem przez
+[Przyborów][wiki-przyborow].
+
+Musieliśmy przejść około 20 minut Bretonką. Gdy zrobiło się jaśniej
+zauważyliśmy idącą grupę za nami. Wszyscy kierowaliśmy się do
+czatowni.
+
+{% photo "\_9220067.jpg","Łąkie podczas wschodu" %}
+
+Mieli oni "statywy" w kształcie patelni, dzięki czemu mogli położyć
+aparaty na balkonie. Widziałem dwa Olympusy M5 mark 2 i chyba lustrzankę
+Canona.
+
+Wydawało mi się, że jestem gotowy na ten dzień. Byłem totalnie w błędzie.
+Zrozumiałem, że ważniejsza od sprzętu jest znajomość zachowań ptaków, kamuflaż,
+cierpliwość i szczęście. To już łatwiej przewidzić warunki pogodowe niż
+zwierzęta. Mój Olympus 75-300 w połączeniu z brakiem światła rano, ruchem ptaków
+i odległość, dawał słabe rezutaty.
+
+{% photo "\_9220114.jpg","Słońce w chmurach" %}
+
+Znacznie lepsze zdjęcia robiłem okolicy podczas wschodu niż ptakom.
+Chociaż dobrze, że podczas wschodu pojawiło się słońce.
+
+Wracając widzieliśmy płynącego bobra.
+
+{% photo "\_9220219.jpg","Spacerujące gęsi" %}
 
 ### Spacer po centrum Słońska
 
+Po powrocie postanowiłem sam przejść się półnycnymi okolicami [Słońska][wiki-slonsk].
+
+{% photo "\_9220030.jpg","Ruiny zamku Joannitów w Słońsku" %}
+
+[wiki-ruiny-slonsk]: https://pl.wikipedia.org/wiki/Zamek_joannit%C3%B3w_w_S%C5%82o%C5%84sku
+
+Ruszyłem drogą gruntową w stronę [Ruin zamku Joanitów][wiki-ruiny-slonsk], który już
+dość mocno zarósł. Zamek zbudowano w 15 wieku.
+
+{% photo "\_9220048.jpg","Kościół w Słońsku" %}
+
+W okolicy ruin zamku jest kościół. Ruszyłem na południe w stronę ulicy Władysława
+Sikorskiego.
+
+{% photo "\_9220060_01.jpg","Skrzyżowanie Rybackie, WOP-u, Parkowej i Sikorskiego" %}
+
+Nie miałem określonego planu. Chciałem porobić zdjęć klimatycznym miejscom
+ze [Słońska][wiki-slonsk].
+
+{% photo "\_9220067_01.jpg","Stara hurtownia odzieżowa" %}
+
+Dotarłem do centrum, do przystanku autobusowego. Wracałem ulicą Puszkina.
+
+{% photo "\_9220106.jpg","Ulica Puszkina w Słońsku" %}
+
+Wróciłem do noclegu.
+
 ### Wzdłuż Postomii od stacji pomp
 
-<!--
+Po krótkiej przerwie mając całę wolne popołudnie postanowiliśmy ruszyć na północ
+spacerem z noclegu.
 
-TODO:
+{% photo "\_9220116.jpg","Kanał Postomia" %}
 
-* do sprawdzenia rowerem: Młodasko, Podrzewie, jeziora przed Luboszem, kopalnia i okolica na południe od Prusim, okolice Gorzyń-Kamionna na południe od Międzychodu
+Pomimo pewności, że nie zrobię tutaj wyjątkowego zdjęcia, to lubię takie
+miejsca. Nie trzeba robić wyjątkowych zdjęć, wystarczające jest gdy się uda
+przedstawić piękno poznanych miejsc.
 
--->
+{% photo "\_9220012_01.jpg","Okolice rzeki Postomii" %}
+
+Szliśmy na północ w stronę Stacji pomp. Wokół rzeki [Postomii][wiki-postomia]
+jest bardzo dużo płaskich terenów zielonych. Miejsca są te idealna dla
+ptaków, jak i krów. Widzieliśmy bardzo dużo krów żyjących sobie tutaj
+praktycznie na wolności.
+
+{% photo "\_9220027_01.jpg","Krowy na wolności" %}
+
+Dotarliśmy do stacji pomp. W okolicy jest jakaś agroturystyka.
+Gdy obserwowaliśmy okolice przyszedł do nas kot. Niestety najlepsze zdjęcie,
+jakie mu zrobiłem, było z wystawionym tyłkiem w moją stronę.
+
+{% photo "\_9220113.jpg","Ścieżka wzdłuż Postomii","timeline" %}
+
+Musiałbym ustawić specjalny
+tryb w aparacie z bardziej aktywnym autofocusem do poruszających się zwierząt.
+Gdy koty są ufne lubią przychodzić i wtedy statyczny autofocus się nie sprawdza.
+
+{% photo "\_9220135.jpg","Drzewa przy Postomii","timeline" %}
+
+Początkowo planowaliśmy się spokojnie pokręcić po okolicy, jednak po rozmowie
+z mijającymi ludźmi rozważyliśmy pójść ścieżką w okolicy [rzeki][wiki-postomia].
+Trochę się tym martwiłem, gdyż wiedziałęm że to nie będzie krótka trasa.
+
+{% photo "\_9220149.jpg","Zakręt Postomii" %}
+
+Porównując do upalnego lata tym razem okolica była soczyście zielona dzięki
+dostępowi do wody. Okolica była ładna jednak miejscami monotonna: tylko rzeka, obok zielona trwa
+i czasami jakieś dodatki.
+
+{% photo "\_9220172.jpg","Postomia i trzcina" %}
+
+Od momentu dotarcia do stacji pomp minęło półtora godziny. Zbliżaliśmy się do
+[Przyborowa][wiki-przyborowo]. Domy z cegły ładnie się komponowały z
+[rzęką][wiki-postomia].
+
+{% photo "\_9220194.jpg","Domy Przyborowa" %}
+
+Na niebie pojawiały się ptaki, które wracały spędzić tutaj noc. Tak mi się
+wydaje. Pamiętam tylko, że powiedziano nam, że żurawie wracają o dokładnie
+określonej godzine określoną trasą.
+
+Faktycznie tak było. Jednak aby zrobić im dobre zdjęcia musiałbym zmienić
+szkło oraz przestawić ustawienie światłomierza w aparacie. Zdjęcie czarnej
+sylwetki ptaków na szarym tle jest mało ciekawe.
+
+{% photo "\_9220230.jpg","Koty w Przyborowie","tag:cat" %}
+
+Wróciliśmy o 7-ej. Było już ciemno i byliśmy zmęczeni.
+
+{% photo "\_9220246.jpg","Kot spotkany w drodze do noclegu","tag:cat" %}
