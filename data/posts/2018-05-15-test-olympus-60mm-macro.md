@@ -9,7 +9,7 @@ finished_at:            2018-05-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P5150494raw1.jpg
-tags:                   [photography, main]
+tags:                   [photo, main]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]

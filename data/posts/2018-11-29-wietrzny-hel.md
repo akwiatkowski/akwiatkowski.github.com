@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2018_11_29__12_49__B294930.jpg
 # 2018_11_29__13_55__B295071
-tags:                   [photos, hike, main]
+tags:                   [photo, hike, main]
 towns:                  [pomorskie, hel]
 
 temperature:            

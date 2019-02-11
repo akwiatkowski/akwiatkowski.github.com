@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2018_11_29__18_47__B295390_01.jpg
 # 2018_11_29__18_48__B295396
 # 2018_11_29__18_54__B295416
-tags:                   [photography, hike, todo]
+tags:                   [photo, hike, todo]
 towns:                  [pomorskie, gdansk]
 
 temperature:            
