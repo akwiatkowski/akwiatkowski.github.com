@@ -8,10 +8,12 @@ date:                   2018-12-30 17:00:00
 finished_at:            2019-02-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2018_12_30__11_24__C308501.jpg
+image_filename:         2018_12_30__11_32__C308525.jpg
 # 2018_12_30__11_24__C308501
 # 2018_12_30__11_32__C308525
 # 2018_12_30__11_44__C308567.jpg
+#
+# 2018_12_30__11_46__C308581
 tags:                   [hike, main]
 towns:                  [dolnoslaskie, stronie_slaskie, bystrzyca_klodzka]
 
@@ -134,7 +136,7 @@ istotną częścią naszego dzisiejszego planu.
 {% photo "2018_12_30__14_39__C308856.jpg","Ośnieżony las iglasty" %}
 
 Był ogromny problem z zasięgiem komórek. Zasięg miałem tylko na chwilę w okolicy
-[schroniska][wiki-snieznik-schronisko].
+[schroniska][wiki-schronisko-snieznik].
 
 {% photo "2018_12_30__14_53__C308897.jpg","Tymczasowa mgiełka" %}
 

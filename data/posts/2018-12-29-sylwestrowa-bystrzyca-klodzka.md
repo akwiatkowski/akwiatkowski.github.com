@@ -8,7 +8,7 @@ date:                   2018-12-29 14:00:00
 finished_at:            2019-02-14 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2018_12_30__19_59__C309001.jpg
+image_filename:         2018_12_30__20_59__C309035.jpg
 # 2018_12_30__19_59__C309001
 # 2018_12_29__18_09__C298056
 # 2018_12_30__20_59__C309035
