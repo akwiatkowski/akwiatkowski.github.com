@@ -107,13 +107,12 @@ chcieliśmy udać się na czatownię przed wschodem słońca.
 
 {% todo %} Podczas dojazdu zrobiłem sobie notatki odnośnie ciekawych miejsc na rower:
 
-* [Młodasko][wiki-mlodasko] [OSM](https://www.openstreetmap.org/node/31617568#map=13/52.4919/16.5528)
-  i [Jezioro Bytyńskie][wiki-jezioro-bytynskie]
-* [Podrzewie][wiki-podrzewie] [OSM](https://www.openstreetmap.org/node/31614824#map=14/52.5095/16.3935)
+* [Młodasko][wiki-mlodasko] {% geo 52.4919,16.5528 %} i [Jezioro Bytyńskie][wiki-jezioro-bytynskie]
+* [Podrzewie][wiki-podrzewie] {% geo 52.5095,16.3935 %}
   i jeziora na północ
-* [Lubosz][wiki-lubosz] [OSM](https://www.openstreetmap.org/node/692612232#map=14/52.5161/16.2158) a
+* [Lubosz][wiki-lubosz] {% geo 52.5161,16.2158 %} a
   raczej jeziora na wschód  
-* [Prusim][wiki-prusim] [OSM](https://www.openstreetmap.org/node/692613430#map=14/52.5795/16.0059),
+* [Prusim][wiki-prusim] {% geo 52.5795,16.0059 %},
   jeziora i kopalnia na południe. Są to bliskie okolice [Międzychodu][wiki-miedzychod]  
 
 ### Obserwacja ptaków przed wschodem

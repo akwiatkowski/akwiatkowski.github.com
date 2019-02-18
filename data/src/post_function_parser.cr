@@ -54,6 +54,14 @@ class Tremolite::Views::BaseView
       )
     end
 
+    result = command.scan(/geo\s+([+-]?[0-9]*[.]?[0-9]+),([+-]?[0-9]*[.]?[0-9]+)/)
+    if result.size > 0
+      return geo_helper(
+        lat: result[0][1].to_s.to_f,
+        lon: result[0][2].to_s.to_f
+      )
+    end
+
     result = command.scan(/todo/)
     if result.size > 0 && post
       return todo_mark(
@@ -139,6 +147,16 @@ class Tremolite::Views::BaseView
   private def todo_mark(post : Tremolite::Post)
     # TODO add to some kind of dynamic list of todos
     return "" # to not render it
+  end
+
+  private def geo_helper(lat : Float, lon : Float)
+    data = {
+      "zoom" => 14.to_s,
+      "lat"  => lat.to_s,
+      "lon"  => lon.to_s
+    }
+    # new line could impact markdown processing (ex: list)
+    return load_html("partials/geo", data).gsub(/\n/," ")
   end
 
   private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)

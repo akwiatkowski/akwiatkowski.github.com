@@ -728,3 +728,9 @@ body {
   font-size: 120%;
   font-weight: bold;
 }
+
+.geo-links .map-icon {
+  max-height: 18px;
+  display: inline-block;
+  padding: 0px;
+}
