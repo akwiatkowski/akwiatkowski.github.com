@@ -2,11 +2,13 @@
 layout:                 post
 title:                  "W stronę Skoków, po razy 1-szy"
 subtitle:               "odkrywanie trasy, na początku deszczowo, później już ładnie"
+desc:                   "Chciałem tym razem pojechać gdzieś dalej od Poznania. Wybraliśmy trasę przez Biedrusko do Skoków."
+keywords:               [lato, biedrusko, skoki, bolechowo, mściszewo]
 date:                   2013-08-04 21:00:00
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP7287b.jpg
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, rogozno, skoki]
 
 coords:                 [{"route": [[52.48936,16.90530], [52.50154,16.88942], [52.50786,16.88787], [52.52112,16.91174], [52.53052,16.91388], [52.54321,16.94864],   [52.54164,16.96589], [52.57660,16.96014], [52.58365,16.97182], [52.63670,16.94564], [52.65581,16.95834], [52.66290,17.05748], [52.69469,17.07052], [52.71393,17.09498], [52.70691,17.10906], [52.68517,17.14631], [52.67211,17.15343], [52.67450,17.16176]], "type": "bicycle"}]
@@ -59,6 +61,8 @@ Chwilę po tym dołączyliśmy do czerwonego szlaku rowerowego i już dalej nim 
 w stronę [Biedruska][wiki-biedrusko]. Przejechaliśmy przez most na [Warcie][wiki-warta] i
 w [Promnicach][wiki-promnice] skręliśmy w lewo, jadąc na północ.
 
+{% photo "IMGP7279b.jpg","Ruiny kościoła na poligonie" %}
+
 Jechaliśmy jednocześnie [niebieskim nadwarciańskim][wiki-nadwarcianski] i czerwonym na północ przez
 nadwarciańskie wioski: [Promnice][wiki-promnice], [Złotoryjsko][wiki-zlotoryjsko]. Wjeżdzając
 do [Mściszewa][wiki-msciszewo] oddaliliśmy się od [Warty][wiki-warta].
@@ -68,6 +72,8 @@ podjazd na tej wycieczce.
 
 Następnie kierowaliśmy sie w stronę [Starczanowa][wiki-starczanowo]. Wioska ta jest położona pośrodku terenów
 leśnych. A na zachód od niej jest rezerwat [Śnieżycowy Jar][wiki-sniezycowy].
+
+{% photo "IMGP7285b.jpg","Jezioro Czarne" %}
 
 Jechaliśmy dalej niebieskim szlakiem na północ w stronę [Uchorowa][wiki-uchorowo]. Niebieski szlak,
 [nadwarciański][wiki-nadwarcianski] również skręca lekko na zachód i kieruje się
@@ -80,6 +86,8 @@ Wjeżdzając do [Łoskonia Starego][wiki-loskon] po lewej stronie jest staw, kt�
 
 Na skrzyżowaniu dróg polnych skręcamy w lewo i jedziemy na północ. Mijamy [Budziszewice][wiki-budziszewice]
 oraz [Budziszewko][wiki-budziszewko]. To od tych wiosek ma swoją nazwę [Jezioro Budziszewskie][wiki-jezioro-budz].
+
+{% photo "IMGP7287b.jpg","Jezioro Budziszewskie" %}
 
 Wjeżdzamy na drogą już zdecydowanie polną i kierujemy się na północ w stronę [Jeziora Budziszewskiego][wiki-jezioro-budz].
 Przejeżdzamy przez most i widziemy to jezioro po prawej stronie, a następnie dalej jedziemy przez las.

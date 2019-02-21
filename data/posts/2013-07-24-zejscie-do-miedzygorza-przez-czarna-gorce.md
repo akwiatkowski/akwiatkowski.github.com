@@ -2,12 +2,13 @@
 layout:                 post
 title:                  "Zejście do Międzygórze przez Czarną Górę"
 subtitle:               "ostatni dzień w Masywie Śnieżnika"
+desc:                   "Opuszczając okolice Śnieżnika szliśmy w stronę Międzygórza, które jest bardzo klimatyczną miejscowością."
+keywords:               [śnieżnik, międzygórze]
 date:                   2013-07-24 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/41495140/m%3D2048/d63e6ac9124d094d1d38d9abe41b042f"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -46,26 +47,14 @@ Ze [schroniska][wiki-schronisko] wyruszyliśmy czerwonym szlakiem ([Główny Szl
 w stronę [Czarnej Góry][wiki-czarna-gora]. Obok jest usytuowany resort narciarski. Cały czas szliśmy się w miarę
 po płaskim terenie, jedynie krotkie podejście do [Czarnej Góry][wiki-czarna-gora] było strome.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/149067099/m%3D900/be01728a1cf4903267b6a13589df1ec3' alt='Some rock in Śnieżnik Massif by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/149067099/some-rock-in-%C5%9Anie%C5%BCnik-massif-by-aleksander-kwiatkowski' alt='Some rock in Śnieżnik Massif by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7194b.jpg","Przy czerwonym szlaku pieszym w stronę Czarnej Góry" %}
 
 Schodziliśmy następnie zielonym szlakiem, głównie przez las. Po drodzę było trochę
 widoków i polanek. Zejście na niebieski szlak było trochę ukrytę, oraz trochę stromę.
 Wyglądało to tak, że idziemy sobie spokojnie drogą a w jednym miejscu trzeba skręcić
 w lewo w jakieś krzaki.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/149067167/m%3D900/dbdebcee1c3fbc2d747317220f3587e9' alt='Leaving Śnieżnik Massif by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/149067167/leaving-%C5%9Anie%C5%BCnik-massif-by-aleksander-kwiatkowski' alt='Leaving Śnieżnik Massif by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7203raw_b.jpg","Las w okolicy strumienia Bogoryja" %}
 
 Od tego momentu już szliśmy przez las. Widoków nie było, ale też było ciekawie - miejscami trochę stromo,
 jak wspomniałem.
@@ -73,8 +62,12 @@ jak wspomniałem.
 [Międzygórze][wiki-miedzygorze] okazało się dość dziwną miejscowością. Jest ono położone totalnie pośrodku gór.
 Gdziekolwiek się spojrzy, wszystko jest wyżej niż sama wioska.
 
+{% photo "IMGP7229b.jpg","Zbliżając się do Międzygórza","timeline" %}
+
 Poczekaliśmy trochę obok przystanku autobusowego, który dopełnia dziwny klimat tej miejscowości. Jest to
 chyba ostatni przystanek na trasie autobusów.
+
+{% photo "IMGP7246b.jpg","Drewniany budynek w Międzygórzu" %}
 
 Jechaliśmy nim do [Kłodzka][wiki-klodzko] przez wiele lokalnych miejscowości. Co ciekawe, autobusy
 do [Kłodzka][wiki-klodzko] dojeżdzają do PKS, który jest obok stacji kolejowej

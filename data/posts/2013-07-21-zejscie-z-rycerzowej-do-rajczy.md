@@ -1,12 +1,13 @@
 ---
 layout:                 post
 title:                  "Zejście z Rycerzowej do Rajczy"
-subtitle:               "znowu ciepło"
+subtitle:               "znowu jest ciepło"
+desc:                   "Ostatni dzień w Beskidzie Żywieckim. Bardzo podobała mi się wieś Młada Hora."
+keywords:               [rycerzowa, młada hora, lato, rajcza]
 date:                   2013-07-21 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/145660147/q%3D80_m%3D2000/d0333b476745c2db89bd8df01da998c1"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -37,21 +38,21 @@ Szczegóły
 Po wyjściu ze schroniska było wiadomo, że ten dzień będzie gorący. Ruszyliśmy w kierunku [Rajczy][wiki-rajcza]
 przez [Małą Rycerzową][wiki-mala-rycerzowa]. Po drodzę spotkaliśmy lokalne stado owiec.
 
+{% photo "IMGP6572raw_b.jpg","Owce w okolicy Rycerzowej","timeline" %}
+
 Nie trudno było zrobić zdjęcie, na którym nie byłoby ani jednej chmury. Sporo szlaku, z tego co pamiętam,
 prowadziło nas otwartymi terenami.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/145660669/m%3D900/c9bdb0606c6bc144d186081921182767' alt='Wooden house in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/145660669/wooden-house-in-%C5%BBywiec-beskid-by-aleksander-kwiatkowski' alt='Wooden house in Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6573raw_b.jpg","Słońce nad górami" %}
 
 Bardzo podobały mi się wioski, które mijaliśmy po drodzę. Zwłaszcza [Młada Hora][wiki-mlada-hora]
 ulokowana totalnie "w górach". Z tego co widziałem na mapie, to prowadzi do niej droga
 położona równolegle do szlaku, którym szliśmy dalej.
 
+{% photo "IMGP6592raw_b.jpg","Młada Hora","timeline" %}
+
 Po pewnym czasie szlak się zagęścił i zaczęło się trochę ostrzejsze zejście.
 
 Przerwa na jedzenie w [Rajczy][wiki-rajcza], a następnie kierowaliśmy się na dworzec kolejowy.
+
+{% photo "IMGP6631raw_b.jpg","Podczas schodzenia do Rajczy","timeline" %}

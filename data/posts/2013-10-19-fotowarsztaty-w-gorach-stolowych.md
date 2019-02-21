@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Fotowarsztaty w Górach Stołowych w 2013r."
 subtitle:               "Szczeliniec Wielki oraz Błędne Skały"
+desc:                   "To były moje piersze fotowarsztaty. Pierwszy raz byłem w Górach Stołowych i mogłem nauczyć się dużo przydatnych rzeczy - ponownie wrócić do robienia zdjęć w RAWie."
+keywords:               [radków, jesień]
 date:                   2013-10-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/50459912/m%3D2048/750b58d4934278a4818697c526d28c90"
 categories:             trip
-tags:                   [main, hike, photo, workshop, mountains, best, todo_media_later]
+tags:                   [main, hike, photo, workshop, mountains, best]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
@@ -31,69 +32,53 @@ Były to moje pierwsze [fotowarsztaty][fotowarsztaty]. Głównie wybrałem się 
 Szczegóły
 ---------
 
+{% photo "IMGP9108b.jpg","Kościół w Kłodzku" %}
+
 [Pasterka][wiki-pasterka] okazała się miejscowością faktycznie na końcu świata. W niektórych
 miejscach jest zasięg. Rzadko gdzie w środku budynków takie miejsca są.
+
+{% photo "IMGP9161raw1.jpg","Pasterka przed wschodem słońca" %}
 
 Wykłady pierwszego dnia pamiętam częściowo. Czyste niewyspanie w połączeniu z ciemnym, ciepłym powietrzem w
 dolnych salach powodowało, że co chwilę zasypiałem. Delikatnie mówiąc tego dnia wieczorem nie miałem
 problemu z zaśnięciem. Pełen 5-osobowy pokój to również nie był problem. Wydaję mi się, że im gorsze
 warunki, tym jest fajniej.
 
+{% photo "IMGP9167raw2.jpg","Schronisko Pasterka","timeline" %}
+
 W sobotę pobudka około 5-tej rano i wyjście na wschód słońca na [Szczeliniec Wielki][wiki-szczeliniec].
 Prawie się wyspałem.
 
-Poniżej prawie idealny przykład błękitnej godziny.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/49679074/m%3D900/4820966e90433c4a55a2b7da313ac5ab' alt='Morning in Pasterka by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/49679074/morning-in-pasterka-by-aleksander-kwiatkowski' alt='Morning in Pasterka by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-Chmury (lub mgły) unoszące się nad dolinami.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/49736582/m%3D900/1c70e1425046502ebf17e67773e788c5' alt='Morning mist by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/49736582/morning-mist-by-aleksander-kwiatkowski' alt='Morning mist by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9186raw1.jpg","Poranne mgły nad dolinami" %}
 
 Następnie wycieczka przez labirynt na [Szczelińcu][wiki-szczeliniec]. Z jednej strony fajne miejsce, z drugiej tak trochę
 ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mnie.
 
+{% photo "IMGP9233raw1.jpg","Wschód słońca" %}
+
 Tak wyglądały oba Szczelińce ([Wielki][wiki-szczeliniec] i [Mały][wiki-szczeliniec-maly]) widziane z trasy powrotnej
 do [Pasterki][wiki-pasterka].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/50135702/m%3D900/147418c9539085da4533f3dca66b0097' alt='Szczeliniec Mały by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/50135702/szczeliniec-ma%C5%82y-by-aleksander-kwiatkowski' alt='Szczeliniec Mały by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9347raw1.jpg","Schronisko Pasterka tuż po wschodzie" %}
+
+Starałem się nie zapominać o rzeczach małych.
+
+{% photo "IMGP9365raw1.jpg","Mała roślinka" %}
+
+Wracajac do noclegu zauważyłem kota.
+
+{% photo "IMGP9529raw1.jpg","Kot w Pasterce" %}
 
 Wieczorem pojechaliśmy na [Wodospad Pośny][wiki-posna]. Wodospad to może zbyt mocna nazwa, widocznie
-w każdej dziedzinie życia musi być marketing. Mały strumień jednak idealnie komponował się z jesiennymi kolorami.
+w każdej dziedzinie życia musi być marketing.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/51344852/m%3D900/30f880d860f9d6db0623ebb58e7e3d4b' alt='Blocked stream by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/51344852/blocked-stream-by-aleksander-kwiatkowski' alt='Blocked stream by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9558raw1.jpg","Wodospad Pośny" %}
+
+Mały strumień jednak idealnie komponował się z jesiennymi kolorami.
+
+{% photo "IMGP9574raw1.jpg","Wodospad Pośny" %}
 
 Następnego ranka pobudka o bardziej ludzkiej godzinie i ruszyliśmy do [Błędnych Skał][wiki-bledne-skaly],
 gdzie zrobiłem poniższe (główne zdjęcie tego wpisu) zdjęcie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/50459912/m%3D900/ea103f673b0c22497967978fe9975b7b' alt='Błędne Skały by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/50459912/b%C5%82%C4%99dne-ska%C5%82y-by-aleksander-kwiatkowski' alt='Błędne Skały by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9632raw1.jpg","Błędne Skały" %}

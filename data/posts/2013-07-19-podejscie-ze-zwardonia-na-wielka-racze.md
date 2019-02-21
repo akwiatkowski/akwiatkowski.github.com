@@ -2,9 +2,10 @@
 layout:                 post
 title:                  "Podejście ze Zwardonia na Wielką Raczę"
 subtitle:               "zdecydowanie ciepły dzień"
+desc:                   "Pierwszy dzień 3-dniowej wycieczki w Beskidzie Żywieckim. Dojechaliśmy do Zwardonia i tego ciepłego dnia musieliśmy podejść do schroniska na Wielkiej Raczy."
+keywords:               [zwardoń, lato, wielka racza]
 date:                   2013-07-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/49060748/m%3D2048/16f60768c8815f6fdec6cdc226da8192"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]

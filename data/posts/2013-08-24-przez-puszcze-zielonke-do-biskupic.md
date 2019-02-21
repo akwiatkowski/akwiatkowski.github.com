@@ -2,12 +2,13 @@
 layout:                 post
 title:                  "Przez Puszczę Zielonkę do Biskupic"
 subtitle:               "w sumie to taki większy las z dodatkami"
+desc:                   "Kolejny popołudniowy przejazd rowerem. Tym razem chciałem przejechać przez Puszczę Zielonkę."
+keywords:               [lato, puszcza zielonka, tuczno, biskupice]
 date:                   2013-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/44132576/m%3D2048/6e9a578dfcb2652ea46afe64b8a9cb5d"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, pobiedziska]
 lands:                  [puszcza_zielonka]
 
@@ -42,23 +43,19 @@ Następnie kierowałem się na zachód
 przez [Bolechowo][wiki-bolechowo], [Trzaskowo][wiki-trzaskowo]. W tej ostatniej miejscowości
 jest fajny staw i podczas wiosny jest tam naprawdę ładnie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/44132420/m%3D900/6120522fe75cdc1ebd5baee153bfacf6' alt='Kamińskie lake by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/44132420/kami%C5%84skie-lake-by-aleksander-kwiatkowski' alt='Kamińskie lake by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8337raw_b.jpg","Opuszczając Tuczno" %}
 
 Nie będzie tutaj dokładnego opisu. Sporo trasy było drogami polnymi przez las i
 nie zapamiętałem dużo ciekawostek.
 
-
+{% photo "IMGP8357raw_b.jpg","Po żniwach","timeline" %}
 
 [Tuczno][wiki-tuczno] minąłem pod koniec trasy. Jest to miejscowośc wypoczynkowa, obok
 której jest w miarę duże jezioro. Z niej jechałem dalej
 [szlakiem kościołów drewnianych][wiki-szlak-kosc] do wsi [Kowalskie][wiki-kowalskie],
 obok ktorej jest jezioro o tej samej nazwie. Tam tereny były
 jedna z najciekawszych tego dnia.
+
+{% photo "IMGP8364raw_b.jpg","Jezioro Kowalskie" %}
 
 Do stacji w [Biskupicach][wiki-biskupice] było blisko z tego miejsca.

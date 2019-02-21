@@ -2,11 +2,12 @@
 layout:                 post
 title:                  "Śnieżnik, jaskinia Niedzwiedzia i kopalnia uranu w Kletnie"
 subtitle:               "szczyt i zalesiona dolina"
+desc:                   "Tego dnia weszliśmy na Śnieżnik a później zeszliśmy zobaczyć Jaskinię Niedźwiedzia i kopalnię uranu w Kletnie."
+keywords:               [śnieżnik, kletno]
 date:                   2013-07-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/122690929/m%3D2048/7cf75942fe15e285bb6226c3fb3d398f"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -45,13 +46,7 @@ Na szczycie jest ruina starej wieży widokowej, którą ponoć mają odbudować 
 Jest tam idealny widok z każdej strony, dlatego
 zrobiłem [panoramę][snieznik-panorama].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/149066903/m%3D900/dcf0d1329ea4c86df8f2db30b2b6e649' alt='Czarna Góra seen from Śnieżnik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/149066903/czarna-g%C3%B3ra-seen-from-%C5%9Anie%C5%BCnik-by-aleksander-kwiatkowski' alt='Czarna Góra seen from Śnieżnik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6964b.jpg","Czeskie okolice Śnieżnika" %}
 
 Później zeszliśmy do [Kletna][wiki-kletno] do [Jasnikini Niedźwiedzia][wiki-niedzwiedzia]. Całkiem ciekawie
 jest tam pod ziemią. Zdecydowanie było tam zimniej, co było akurat dobre tego dnia.
@@ -59,13 +54,7 @@ jest tam pod ziemią. Zdecydowanie było tam zimniej, co było akurat dobre tego
 Kolejnym celem była [kopalnia uranu w Kletnie][wiki-kopalnia-uranu]. Pierwszy raz widziałem uran na żywo.
 Taki naturalnie występujący w przyrodzie, ale to też się liczy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/149066959/m%3D900/e64b123565ab612782d4a1ae2b5a4725' alt='Evening forest near Śnieżnik hut by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/149066959/evening-forest-near-%C5%9Anie%C5%BCnik-hut-by-aleksander-kwiatkowski' alt='Evening forest near Śnieżnik hut by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7179b.jpg","Las w okolicy schroniska" %}
 
 Powróciliśmy do schroniska wieczorem. Jak na dole w jaskini były prawie tłumy, tak na górze
 w schronisku były pustki.
