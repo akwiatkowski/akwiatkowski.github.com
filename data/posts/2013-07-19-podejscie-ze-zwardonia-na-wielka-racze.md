@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/49060748/m%3D2048/16f60768c8815f6fdec6cdc226da8192"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
@@ -38,43 +38,46 @@ Opis trasy
 Szczegóły
 ---------
 
-wysiedliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
+{% photo "IMGP5055b.jpg","Okolice stacji Czechowice-Dziedzice","timeline" %}
+
+Wysiedliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
 wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze, moim zdaniem, widoki.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/41464166/m%3D900/f7a9972714231f715b88d0e94e4c3f99' alt='Border of Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/41464166/border-of-%C5%BBywiec-beskid-by-aleksander-kwiatkowski' alt='Border of Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5147b.jpg","Czerwony szlak przy granicy w Zwardoniu","timeline" %}
 
 Minęliśmy schronisko [Dworzec Beskidzki][wiki-zwardon-schron]. Wyglądało ono wtedy jakby było w wiecznym remoncie.
 Może teraz funkcjonuje, ale tego sam nie wiem. Tam podejście było raczej normalne, nawet lekkie.
+
+{% photo "IMGP5169b.jpg","Nad Zwardoniem","timeline" %}
 
 Po pewnym czasie pojawiły się polany. Według mnie to są najładniejsze tereny w górach. Wyżej są lasy, z których widoków
 jest mało. Jeszcze wyżej są widoki, ale z tym czasem jest trudno. Polany są zawsze i będąc pośrodku ma się
 widok na doliny i góry, takie dobre urozmaicenie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/45044290/m%3D900/edbeff071cdf906854ca13f5b9516bd7' alt='Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/45044290/%C5%BBywiec-beskid-by-aleksander-kwiatkowski' alt='Żywiec Beskid by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5189b.jpg","Widok na okolice Rycerki","timeline" %}
 
 Gdy minęliśmy polany rozpoczęło się konkretniejsze podejście.
+
+{% photo "IMGP5196b.jpg","Ścieżka pośrodku gór" %}
 
 Z ciekawostek na trasie to mieliśmy spotkanie ze
 słowacką terenówką która ugrzęzła w błocie. Pomogliśmy im, chociaż później przypomnieliśmy że jesteśmy
 w obszarze [Natura 2000][wiki-natura] i oni nie powinni tu jeździć.
 
+{% photo "IMGP5214b.jpg","Skrzyżowanie z drogą na Słowację" %}
+
 Dalej znowu podejście. Było bardzo ciepło i zaczęło brakować nam wody. Może nie że zaczęło brakować, ale mieliśmy jej
 nie za dużo i musieliśmy oszczędzać.
+
+{% photo "IMGP5230b.jpg","Przed wkroczeniem do lasu" %}
+
 A jak jest ciepło nikt nie lubi jej oszczędzać. Jakiś czas później spotkaliśmy sztucznie ulepszony strumyk i
 skorzystaliśmy z niego. Nikt nie miał sraczki, więc jest dobrze.
+
+{% photo "IMGP5309b.jpg","Idąc zboczem" %}
 
 Do [Schroniska na Wielkiej Raczy][wiki-schron-racza] dotarliśmy chyba przed 17tą. Jedzenie, a po tym odpoczynek
 i oglądanie zachodu Słońca na wieży obserwacyjnej. Zasnąłem po 20tej tak dobrze, że Krzychu musiał mnie obudzić
 bo ktoś do mnie dzwonił i ja tego nie słyszałem. Ten dzień to najlepsze lekarstwo na bezsenność.
+
+{% photo "IMGP5309b.jpg","Widok na Słowacje" %}
