@@ -1,17 +1,17 @@
 ---
 layout:                 post
 title:                  "Podsumowanie roku 2018"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "Mazury jako odkrycie roku, zdjęcia nad morzem, ale też upał"
+desc:                   "Coroczne podsumowanie roku. Tym razem największym sukcesem było odkrycie Mazur oraz długa wycieczka rowerowa na Podlasiu. Jednocześnie nie udało mi się tyle jeździć rowerem przez upał."
+keywords:               [rok 2018]
 date:                   2018-12-31 22:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2019-02-21 12:00:00
 header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         P6100451raw1.jpg
 header_nogallery:       true
-tags:                   [article, todo]
+tags:                   [article, main]
 
 ---
 
@@ -29,19 +29,25 @@ uproszczenie).
 W [czerwcu]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %})
 byłem rowerem na [Mazurach][wiki-mazury]. Były to zachodnie
 [Mazury][wiki-mazury] i [Pomorze][wiki-pomorze], raczej oddalone od
-tych najbardziej popularnych miejsc wypoczynkowych.
+tych najbardziej popularnych miejsc wypoczynkowych. Bardzo mi się spodobało tam
+i to jest chyba odkrycie roku dla mnie.
 
 W [sierpniu]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) byłem na bardzo
 długiej wycieczce na [Podlasiu][wiki-podlasie]. Zobaczyłem tam dużo ale najważniejsze
-to to, że byłem kompletnie w innym miejscu, chociaż mam pewnego rodzaju niedosyt.
+to to, że byłem kompletnie w innym miejscu, chociaż mam pewnego rodzaju niedosyt
+związany z upałami.
 
 ### Morskie zdjęcia
 
-Nad [Bałtykiem][wiki-baltyk] byłem 5 razy.
+Nad [Bałtykiem][wiki-baltyk] byłem 6 razy: w
+[styczniu]({% post_url 2018-01-07-mewia-lacha %}),
+[lutym]({% post_url 2018-02-05-wschod-slonca-w-sopocie %}),
+[marcu]({% post_url 2018-03-05-wschod-nad-zamarznietym-baltykiem %}).
+[czerwcu]({% post_url 2018-06-14-zachod-w-kolobrzegu %}),
+[wrześniu]({% post_url 2018-09-05-zdjecia-w-sopocie %}) i
+[listopadzie]({% post_url 2018-11-29-wietrzne-orlowo %}).
 Skompletowałem zestaw filtrów Cokin P dzięki czemu czuję, że już jestem gotowy
 na robienie zdjęć morza.
-
-<!-- z końca września, todo sztorm -->
 
 ### Kolejowe
 
@@ -53,8 +59,7 @@ oraz przejechałem sporą trasę z
 
 Z większości jestem zadowolony oprócz ostatniej. Wycieczka była bardzo
 męcząca, [Mazury]({% post_url 2018-07-23-parowozem-do-suwalk %})
-były znacznie ładniejsze, a szybko poruszający się pociąg utrudniał
-robienie ciekawych zdjęć.
+były znacznie ładniejsze. Wolę wolniejsze, bardziej malownicze przejazdy.
 
 Zaczęło mi brakować naprawdę owocnych wycieczek fotograficznych.
 
@@ -64,12 +69,13 @@ Po rozmowie z kolegą zacząłem zastanawiać się nad sprawdzeniem innego syste
 najlepiej bezlusterkowca. Początkowo chciałem mieć lekki aparat na wycieczki
 rowerowe. Ostatecznie po testach zacząłem przechodzić na Olympusa.
 
-Zauważam gorszą jakość (szumy) czasami jednak mam pewniejszy AF i z większej ilości
-zdjęć jestem zadowolony.
+Zamieniłem gładkość (niższe szumy), lepszą plastyczność na znacznie lepszą ostrość,
+mniejszy rozmiar i bardzo dokładny auto focus.
 
 ## Co poszło nie tak
 
-Zacząłem pisać ten wpis pod koniec września. W tym momemcnie mam wrażenie, że
+Zacząłem pisać ten wpis pod koniec września, a kończę go w lutym 2019.
+W tym momemcnie mam wrażenie, że
 większość planów nie udało mi się zrealizować i że to nie był najlepszy rok.
 
 ### Pogoda
@@ -84,16 +90,16 @@ Nikt jednak nie przewidywał, że w 2018 roku będą tak intensywne upały i sus
 
 Susze utrudniały jazdę po drogach gruntowych, które zamieniały się w piasek.
 A wysoka temperatura utrudniała jazdę. Idealna godzina na rower była
-czasami pomiędzy 6 a 8 rano, gdzie można było jeździć w krótkim rękawie.
+czasami pomiędzy 6 a 8 rano. Można było jeździć w krótkim rękawie!
 
 [Mazury]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %}),
 [Dolny Śląsk]({% post_url 2018-07-07-plasko-zle-gory-zle %}) i
 [Podlasie]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) - wszystkie
-te wycieczki były dotkniętę upałami. Po dwóch dniach jazdy byłem tak zmęczony,
+te wycieczki były związane z upałami. Po dwóch dniach jazdy byłem tak zmęczony,
 że potrzebowałem ponad tydzień aby odpoczać.
 
 Na [Podlasiu]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) w najcieplejsze dni
-jazda 10km w jedną stronę była dla mnie problematyczna. Pomimo redukcji
+jazda 10km w jedną stronę była już dla mnie problematyczna. Pomimo redukcji
 zaplanowanych kilometrów i tak miejscami było bardzo trudno.
 Porównując to z
 [Beskidem Niskim]({% post_url 2017-07-24-cieply-wilgotny-dojazd-do-hanczowej %})
@@ -112,19 +118,31 @@ przed Sylwestrem i to technicznie w roku 2017.
 
 Nie licząc jednej [wycieczki]({% post_url 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca %})
 do [Jeleniej Góry][wiki-jelenia-gora], na którą wybrałem się bardzo impulsywnie
-widząc opady śniegu. Zrobiłem kilka średnich zdjęć, znalazłem ciekawe miejsca
-na przyszłość. Tylko tyle dobrego było z teg wyjazdu.
+widząc opady śniegu, to nie byłem zimą w górach.
+Zrobiłem kilka średnich zdjęć, znalazłem ciekawe miejsce
+na przyszłość. Tylko tyle dobrego było z tego wyjazdu.
 
 Śnieg spadł w marcu, jednak wtedy nie dałem rady ruszyć. Byłem zmęczony
 innymi wyjazdami.
 
-Zacząłem ten wpis pisać pod koniec września, gdy pogoda się znacząco popsuła.
-Zobaczymy co mi się uda zrobić na początku października. Może śnieg spadnie pod
-koniec roku a ja mam jeszcze kilka dni urlopu do wykorzystania.
-
-<!-- TODO lasery były rok temu w październiku -->
+Dokańczam ten wpis w lutym 2019. Na
+[fotowarsztatach w styczniu 2019]({% post_url 2019-01-11-pierwszy-wschod-na-sniezce %})
+udało mi się zbliżyć do swojego celu. Gdybym wtedy był w odpowiednim
+miejscu w dolinach mógłbym zrobić zdjęcie na które poluję.
 
 ### Jesień rowerem
 
-Przez jeden weekend z lata zrobiła się szara polska jesień. Szanse na jakieś
-rowerowe pożegnanie sezonu raczej padła.
+Przez jeden weekend we wrześniu pogoda zmieniła się diametralnie. Było lato
+a zrobiła się szara polska jesień. Szansa na jakieś
+rowerowe pożegnanie sezonu była mała.
+
+Ostatecznie [udało się]({% post_url 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018 %})
+pojechać z Michałem i Maciejem na początku października.
+
+### Sztorm nad Bałtykiem
+
+Byłem w [listopadzie]({% post_url 2018-11-29-wietrzne-orlowo %}) jednak kierunek
+wiatru był odwrotny, dlatego sztormu nie było.
+
+Bardzo ciekawe warunki były na Sylwestra jednak wtedy musiałem być w
+[Bystrzycy Kłodzkiej][wiki-bystrzyca-klodzka].
