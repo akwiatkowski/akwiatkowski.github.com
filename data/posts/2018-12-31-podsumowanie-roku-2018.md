@@ -15,6 +15,13 @@ tags:                   [article, main]
 
 ---
 
+[wiki-kaszuby]: https://pl.wikipedia.org/wiki/Kaszuby
+[wiki-mazury]: https://pl.wikipedia.org/wiki/Mazury
+[wiki-pomorze]: https://pl.wikipedia.org/wiki/Pomorze
+[wiki-podlasie]: https://pl.wikipedia.org/wiki/Podlasie
+[wiki-baltyk]: https://pl.wikipedia.org/wiki/Morze_Ba%C5%82tyckie
+[wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
+[wiki-bystrzyca-klodzka]: https://pl.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka
 
 ## Wstęp
 
@@ -28,13 +35,13 @@ uproszczenie).
 
 W [czerwcu]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %})
 byłem rowerem na [Mazurach][wiki-mazury]. Były to zachodnie
-[Mazury][wiki-mazury] i [Pomorze][wiki-pomorze], raczej oddalone od
+[Mazury][wiki-mazury] i wschodnie [Pomorze][wiki-pomorze], raczej oddalone od
 tych najbardziej popularnych miejsc wypoczynkowych. Bardzo mi się spodobało tam
 i to jest chyba odkrycie roku dla mnie.
 
 W [sierpniu]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) byłem na bardzo
 długiej wycieczce na [Podlasiu][wiki-podlasie]. Zobaczyłem tam dużo ale najważniejsze
-to to, że byłem kompletnie w innym miejscu, chociaż mam pewnego rodzaju niedosyt
+to to, że byłem kompletnie w innym nowym miejscu. Chociaż mam pewnego rodzaju niedosyt
 związany z upałami.
 
 ### Morskie zdjęcia
@@ -47,7 +54,7 @@ Nad [Bałtykiem][wiki-baltyk] byłem 6 razy: w
 [wrześniu]({% post_url 2018-09-05-zdjecia-w-sopocie %}) i
 [listopadzie]({% post_url 2018-11-29-wietrzne-orlowo %}).
 Skompletowałem zestaw filtrów Cokin P dzięki czemu czuję, że już jestem gotowy
-na robienie zdjęć morza.
+na robienie zdjęć wody.
 
 ### Kolejowe
 
@@ -59,9 +66,9 @@ oraz przejechałem sporą trasę z
 
 Z większości jestem zadowolony oprócz ostatniej. Wycieczka była bardzo
 męcząca, [Mazury]({% post_url 2018-07-23-parowozem-do-suwalk %})
-były znacznie ładniejsze. Wolę wolniejsze, bardziej malownicze przejazdy.
+były o wiele ładniejsze. Wolę wolniejsze, bardziej malownicze przejazdy.
 
-Zaczęło mi brakować naprawdę owocnych wycieczek fotograficznych.
+Pod koniec wakacji zaczęło mi brakować naprawdę owocnych wycieczek fotograficznych.
 
 ### Przejście na Olympusa
 
@@ -74,7 +81,7 @@ mniejszy rozmiar i bardzo dokładny auto focus.
 
 ## Co poszło nie tak
 
-Zacząłem pisać ten wpis pod koniec września, a kończę go w lutym 2019.
+Zacząłem pisać ten wpis pod koniec września, a kończę go w lutym 2019 roku.
 W tym momemcnie mam wrażenie, że
 większość planów nie udało mi się zrealizować i że to nie był najlepszy rok.
 
@@ -82,25 +89,28 @@ większość planów nie udało mi się zrealizować i że to nie był najlepszy
 
 Największym problemem roku 2018 była pogoda! Udało mi się zorganizować pracę tak,
 abym mógł raz w tygodniu rano jeździć rowerem a wieczorem pracować (i odrobić
-brakujące godziny w innych dniach).
+brakujące godziny w innych dniach). Jednak tylko raz z tego skorzystałem.
 
 Technicznie byłem coraz bardziej gotowy aby jeździć więcej. Po bardzo
 intensywnej majówce byłem "rozgrzany" do sezonu.
 Nikt jednak nie przewidywał, że w 2018 roku będą tak intensywne upały i susze.
 
 Susze utrudniały jazdę po drogach gruntowych, które zamieniały się w piasek.
-A wysoka temperatura utrudniała jazdę. Idealna godzina na rower była
-czasami pomiędzy 6 a 8 rano. Można było jeździć w krótkim rękawie!
+A wysoka temperatura utrudniała jazdę ogólnie. Idealna godzina na rower była
+czasami pomiędzy 6 a 8 rano. Można było jeździć w krótkim rękawie
+o dowolnej godzinie!
 
 [Mazury]({% post_url 2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie %}),
 [Dolny Śląsk]({% post_url 2018-07-07-plasko-zle-gory-zle %}) i
 [Podlasie]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) - wszystkie
 te wycieczki były związane z upałami. Po dwóch dniach jazdy byłem tak zmęczony,
-że potrzebowałem ponad tydzień aby odpoczać.
+że potrzebowałem ponad tydzień aby odpocząć.
 
 Na [Podlasiu]({% post_url 2018-08-03-dwa-swiaty-podlasia %}) w najcieplejsze dni
 jazda 10km w jedną stronę była już dla mnie problematyczna. Pomimo redukcji
-zaplanowanych kilometrów i tak miejscami było bardzo trudno.
+zaplanowanych kilometrów i tak miejscami odnosiliśmy wrażenie, że
+zaplanowaliśmy zbyt dużo kilometrów.
+
 Porównując to z
 [Beskidem Niskim]({% post_url 2017-07-24-cieply-wilgotny-dojazd-do-hanczowej %})
 widać od razu różnicę w temperaturze o 4-8 stopni.
@@ -111,7 +121,7 @@ wodnych lub rzek.
 ### Zima w górach
 
 Od chyba 4 lat mam w planie zrobienie jednego zdjęcia. Potrzebuję tylko
-ośnieżonych gór i wschodu słońca.
+ośnieżonych pagórków i wschodu słońca.
 
 Udało mi się to zrobić tylko [tuż]({% post_url 2017-12-30-wschod-na-szczelincu-wielkim %})
 przed Sylwestrem i to technicznie w roku 2017.
@@ -120,7 +130,7 @@ Nie licząc jednej [wycieczki]({% post_url 2018-01-20-trudno-trafic-na-zimowy-za
 do [Jeleniej Góry][wiki-jelenia-gora], na którą wybrałem się bardzo impulsywnie
 widząc opady śniegu, to nie byłem zimą w górach.
 Zrobiłem kilka średnich zdjęć, znalazłem ciekawe miejsce
-na przyszłość. Tylko tyle dobrego było z tego wyjazdu.
+na przyszłe wyjazdy. Tylko tyle dobrego było z tego wyjazdu.
 
 Śnieg spadł w marcu, jednak wtedy nie dałem rady ruszyć. Byłem zmęczony
 innymi wyjazdami.
@@ -128,7 +138,7 @@ innymi wyjazdami.
 Dokańczam ten wpis w lutym 2019. Na
 [fotowarsztatach w styczniu 2019]({% post_url 2019-01-11-pierwszy-wschod-na-sniezce %})
 udało mi się zbliżyć do swojego celu. Gdybym wtedy był w odpowiednim
-miejscu w dolinach mógłbym zrobić zdjęcie na które poluję.
+miejscu "w dolinie" to mógłbym zrobić zdjęcie, na które poluję.
 
 ### Jesień rowerem
 
@@ -144,5 +154,5 @@ pojechać z Michałem i Maciejem na początku października.
 Byłem w [listopadzie]({% post_url 2018-11-29-wietrzne-orlowo %}) jednak kierunek
 wiatru był odwrotny, dlatego sztormu nie było.
 
-Bardzo ciekawe warunki były na Sylwestra jednak wtedy musiałem być w
+Bardzo ciekawe warunki były na Sylwestra, jednak wtedy musiałem być w
 [Bystrzycy Kłodzkiej][wiki-bystrzyca-klodzka].
