@@ -79,7 +79,7 @@ robić zdjęć.
 
 ### Sky Tower
 
-Sama wieża [Sky Tower][wiki-sky-towe] to jeden punkt. Nie znam tak dobrze
+Sama wieża [Sky Tower][wiki-sky-tower] to jeden punkt. Nie znam tak dobrze
 [Wrocławia][wiki-wroclaw] aby dokładnie opisywać widoczne miejsca na zdjęciach.
 Jednocześnie robiąc zdjęcia mogłem tylko wybierać wycinek już
 określonego widoku. Nie miałem wpływu, nie mogłem się "przesunąć".
