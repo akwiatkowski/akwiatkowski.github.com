@@ -29,4 +29,9 @@ pois:
 
 ## Wstęp
 
+[Gdańsk][wiki-gdansk] to chyba moje ulubione miasto. Centrum jest bardzo
+ładne, nie ma tak dużo ludzi/turystów, oraz zawsze są jakieś ciekawe pomysły do zdjęć.
+
 ## Szczegóły
+
+Ruszyliśmy koleją do stacji [Gdańsk Stocznia][wiki-gdansk-stocznia].
