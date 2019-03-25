@@ -595,3 +595,55 @@
   name: Kotlin
   type: town
   voivodeship: wielkopolskie
+- slug: lipno
+  name: Lipno
+  type: town
+  voivodeship: wielkopolskie
+- slug: pleszew
+  name: Pleszew
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.89662
+  lon: 17.78293
+- slug: czermin
+  name: Czermin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.94913
+  lon: 17.74894
+- slug: chocz
+  name: Chocz
+  type: town
+  voivodeship: wielkopolskie
+  lat: 51.97473
+  lon: 17.87048
+- slug: gizalki
+  name: Gizałki
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.04510
+  lon: 17.76542
+- slug: grodziec
+  name: Grodziec
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.03750
+  lon: 18.06068
+- slug: rzgow
+  name: Rzgów
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.15350
+  lon: 18.04901
+- slug: stare_miasto
+  name: Stare Miasto
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.18025
+  lon: 18.21483
+- slug: konin
+  name: Konin
+  type: town
+  voivodeship: wielkopolskie
+  lat: 52.23116
+  lon: 18.25105
