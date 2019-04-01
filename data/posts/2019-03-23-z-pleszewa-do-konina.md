@@ -16,7 +16,7 @@ coords:                 [{"route": [[51.89259,17.73320], [51.93129,17.73980], [5
 distance:               66
 time_spent:             6
 elevation:              150
-temperature:            
+temperature:            12
 
 
 pois:
