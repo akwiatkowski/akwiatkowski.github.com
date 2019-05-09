@@ -77,3 +77,11 @@
   name: Barczewo
   type: town
   voivodeship: warminsko_mazurskie
+- slug: ilawa
+  name: Iława
+  type: town
+  voivodeship: warminsko_mazurskie
+- slug: biskupiec_nowomiejski
+  name: Biskupiec (powiat nowomiejski)
+  type: town
+  voivodeship: warminsko_mazurskie

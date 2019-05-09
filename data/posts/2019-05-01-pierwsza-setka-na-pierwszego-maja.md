@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_05_01__12_27_P5010403.jpg
 tags:                   [bicycle, todo]
-towns:                  [stary_targ, sztum, ryjewo, kwidzyn, gardeja, lasin, swiecie_nad_osa, radzyn_chelminski, ]
+towns:                  [stary_targ, sztum, ryjewo, kwidzyn, gardeja, lasin, swiecie_nad_osa, radzyn_chelminski, ksiazki]
 
 coords:                 [{"route": [[53.97756,19.08732], [53.91730,19.03573], [53.91305,19.04706], [53.84161,19.05899], [53.83178,19.03239], [53.80057,19.06243], [53.77248,19.01144], [53.72913,19.03119], [53.69805,19.07101], [53.65982,19.03479], [53.61137,19.07427], [53.55746,19.05762], [53.49889,19.09676], [53.49664,19.08251], [53.47008,19.10757], [53.44382,19.10311], [53.42490,19.04990], [53.38048,19.03187], [53.37802,19.00063], [53.35446,18.99033], [53.32823,19.00784], [53.32884,19.06861]], "type": "bicycle"}]
 distance:               100

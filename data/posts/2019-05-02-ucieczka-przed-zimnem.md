@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_05_02__10_09_P5020641.jpg
 tags:                   [bicycle, panniers, todo]
-towns:                  []
+towns:                  [warminsko_mazurskie, ilawa]
 
 coords:                 [{"route": [[53.60760,19.59750], [53.61549,19.62325], [53.60027,19.69294], [53.62583,19.70753], [53.64618,19.74392], [53.66216,19.73294]], "type": "bicycle"}]
 distance:               17
