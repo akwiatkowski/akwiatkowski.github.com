@@ -29,6 +29,27 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2269901861/embed/bd5fe118945cf74925a5a6688c876746b103b57b'></iframe>
+
+## Szczegóły
+
+Dotarliśmy do [Skoków][wiki-skoki] pociągiem około 10:20. Przez [Rościnno][wiki-roscinno],
+(w którym to zrobiliśmy przerwę przy sklepie)
+do [Grzybowa][wiki-grzybowo] jechałem już nie raz. Krajobraz był bardzo
+wczesno wiosenny.
+
+Na drzewach niemrawo pojawiały się oznaki wiosne (kwiaty albo zielone liście).
+
+TODO kot na snopkach za Rościnnem
+
+Oczywiście nie mogłem nie zjechać nad Jeziero Budziszewskie. TODO jakie zdjęcia tam zrobiłem?
+
+Skręciliśmy za wcześnie w lewo i dotarliśmy do ogrodzonego terenu. Nie chciałem skracać
+przez las gdyż był tam niemały wąwóz.
+
+Dotarliśmy do kanału łączącego dwa jeziora TODO. Zrobiliśmy krótką przerwę
+na zdjęci i podziwianie zdechłej ryby.
+
+Jechaliśmy na południe do

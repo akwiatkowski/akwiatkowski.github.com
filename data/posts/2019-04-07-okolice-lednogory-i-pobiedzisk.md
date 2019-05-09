@@ -35,6 +35,29 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+[Dzień wcześniej]({% post_url 2019-04-06-zachodnie-okolice-skokow %})
+przejechaliśmy w sumie prawie 40km rowerem. Postanowiliśmy, że tego dnia
+lepiej zrobić przerwę od roweru.
+
+Bardzo dobra pogoda jednak motywowała aby nie siedzieć w domu. Szukałem
+ciekawego miejsca na spacer.
+
+Wybrałem tym razem okolicę [Pobiedzisk][wiki-pobiedziska].
+
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2273033006/embed/91739dd31165bbf721ad1c3848da08807e0f4638'></iframe>
+
+## Szczegóły
+
+Kierowaliśmy się pociągiem do [Lednogóry][wiki-lednogora], gdzie
+w 2015 rozpocząłem
+[rowerową trasę]({% post_url 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior %}).
+Jechaliśmy wtedy na północ. Tym razem plan był pozwiedzać okolice na południe.
+
+{% photo "2019_04_07__13_24__4071146.jpg","Wiosna w okolicy stacji Lednogóra","timeline" %}
+
+Pierwszym krokiem było dotarcie szlakiem rowerowym (szliśmy pieszo) do
+[Imielenka][wiki-imielenko].
+
+{% photo "2019_04_07__13_26__4071148.jpg","Droga do Imielenka","timeline" %}
