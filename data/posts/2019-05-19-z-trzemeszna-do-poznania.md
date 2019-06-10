@@ -29,6 +29,32 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+Wyjazd do [Trzemeszna][wiki-trzemeszno] był podyktowany wyłącznie ograniczeniem
+czasu dojazdu pociągiem oraz chęcią przejechania przez (w miarę) ciekawe tereny.
+A przynajmniej tereny "bliżej przyrody" niż wioski na południu
+[wielkopolski][wiki-wielkopolska].
+
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2379962170/embed/999bf81a0064b7e83c6f63ec184c5fa8d852c21b'></iframe>
+
+## Szczegóły
+
+Z pociągu w [Trzemesznie][wiki-trzemeszno] wysiedliśmy przed 9-tą. W niedzielny
+poranek ruch samochodów jak i ludzi był znikomy.
+
+Przez 3 minuty przejechaliśmy przez centralną część [miasta][wiki-trzemeszno]
+bez zatrzymywania się. Ciasna małomiejska zabudowa podczas pochmurnego dnia
+ładnie wyglądała na nagranym filmiku.
+
+Kierowaliśmy się w stronę [Witkowa][wiki-witkowo]. Wieś [Miaty][wiki-miaty]
+nie była specjalnie ciekawa ale miała coś w sobie. Jechało się przyjemniemnie
+przez nią. Zielone pola uspokajały.
+
+Patrząc teraz na drogę skojarzyło mi się trasą do [Skorzęcina][wiki-skorzecin].
+
+Rano tego dnia myślałem, że będę musiał ubrać koszulkę z długim rękawem.
+Temperatura jednak (zgodnie z prognozą) szybko wzrastała i już po pół godzinie
+jazdy nie czułem tej potrzeby.
+
+TODO Piaski były mało istotne, jakieś domy, nic ciekawego oprócz dziury w ziemii
