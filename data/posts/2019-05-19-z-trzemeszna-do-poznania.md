@@ -20,9 +20,12 @@ temperature:            23
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
+  - lat: 52.44864
+    lon: 17.67648
+    name: Tunel z drzew między Mikołajewicami a Arcugowem
+  - lat: 52.44600
+    lon: 17.23214  
+    name: Idealna droga na rower z widokiem na doline Cybiny
 
 ---
 
@@ -58,3 +61,61 @@ Temperatura jednak (zgodnie z prognozą) szybko wzrastała i już po pół godzi
 jazdy nie czułem tej potrzeby.
 
 TODO Piaski były mało istotne, jakieś domy, nic ciekawego oprócz dziury w ziemii
+
+Wjechaliśmy w [Małachowo Złych Miejsc][wiki-malachowo-zlych-miejsc].
+Chyba jest to miejscowość o najbardziej ciekawej nazwie w której byłem.
+
+Jechaliśmy spokojną drogą przez powoli rosnące pola. Nie było tam nic specjalnie ciekawego
+ale droga bez ruchu samochodowego z całkiem dobrym asfaltem to zawsze coś
+dobrego. Gdy pojawiały się gęstsze drzewa i krzewy w okolicy wtedy
+było ciekawiej.
+
+Dojechaliśmy do [Arcugowa][wiki-arcugowo], wsi która miała już swój klimat
+bycia na uboczu. Przejechaliśmy bez zatrzymywania się.
+Na skrzyżowaniu za nią zrobiliśmy przerwę na jedzenie. Niezbyt zachęcała
+nas dalsza droga na zachód, ale ruszyliśmy sądząć, że nie może być
+jakaś tragiczna.
+
+Bardzo mi się spodobał tunel z drzew między [Arcugowem][wiki-arcugowo]
+a [Mikołajewicami][wiki-mikolajewice].
+
+Jechaliśmy do [Potrzymowa][wiki-potrzymowo]. TODO czy tam była szklarnia?
+
+Musieliśmy skręcić na południe i jechać do [Grotkowa][wiki-grotkowo].
+Jechaliśmy teraz pod wiatr i pod słońce.
+
+Przejechaliśmy okolicę stacji kolejowej [Czerniejewo][wiki-czerniejewo-stacja],
+która jest oddalona od [Czerniejewa][wiki-czerniejewo] o 5km.
+Musieliśmy przejechać przez dwie spokojne wsie aby sie dostać.
+
+Podjechaliśmy do pałacu w [Czerniejewie][wiki-czerniejewo] TODO wiki, poszukać coś o nim
+
+Zostało nam 15km w linii prostej do [Pobiedzisk][wiki-pobiedziska].
+Wkraczaliśmy w las, który był nudniejszą częścią tego wyjazdu. Było już wyraźnie
+ciepło.
+
+Wjechaliśmy do wsi [Gołuń][wiki-golun], gdzie X miesięcy temu szedłem
+pieszo do [Pobiedzisk][wiki-pobiedziska].
+
+Dotarliśmy do centrum [Pobiedzisk][wiki-pobiedziska] gdzie zatrzymaliśmy się
+w kawiarni. Przeanalizowałem opcję powrotu i postanowiliśmy, że spróbujemy
+dojechać do [Poznania][wiki-poznan].
+
+Opuściliśmy [Pobiedziska][wiki-pobiedziska] jadąc do [Promna][wiki-promno].
+Niebo się dziwnie zachmurzyło.
+
+Czekał na nas solidny zjazd i podjazd w okolicy rzeki [Cybiny][wiki-cybina-rzeka].
+Na horyzoncie chmury wyglądały podejrzanie.
+TODO jak wyglądały wioski, jak klimatycznie, jak daleko od miast
+
+Wjechaliśmy do [Jankowa][wiki-jankowo]. Podobały mi się budynki pokryte
+bluszczem.
+
+Przez [Sarbinowo][wiki-sarbinowo] dotarliśmy do [Swarzędza][wiki-swarzedz].
+Już nie było szans na klimatyczne miejsca.
+Sam [Swarzędz][wiki-swarzedz] jest pełen nowoczesnych budynków
+handlowych i przemysłowych. Jedynie niektóre osiedla mają jakiś tam
+klimat.
+
+Sam dojazd do domu był i nudny i trudny. Zapomniałem odpowiedniej trasy
+przez nowe ścieżki rowerowe i musieliśmy walczyć z remontami.
