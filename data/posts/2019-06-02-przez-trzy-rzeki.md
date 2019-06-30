@@ -29,6 +29,22 @@ pois:
 
 ## Wstęp
 
-## Szczegóły
+## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2419747194/embed/0cb2f87d09d629cc25e8ff1fbf59fae661b23b6f'></iframe>
+
+## Szczegóły
+
+Rano po śniadaniu poszedłem zobaczyć na chwilę łabędzie.
+
+Ruszyliśmy rowerami do centrum [Lubniewic][wiki-lubniewice]. Robiło się już
+stosunkowo ciepło. Przejechaliśmy przez centrum.
+
+Chyba przez całą długość [miasta][wiki-lubniewice] wzdłuż drogi samochodowej jest
+wydzielony pas dla rowerów.
+
+Skręciliśmy na wschód w stronę [Skwierzyny][wiki-skwierzyna]. Krajobraz nie był
+dla mnie zbyt ciekawy. Zielonym polom brakowało tego czegoś, co
+widziałem [dzień wcześniej]({% post_url 2019-06-01-przez-lubuskie-wioski-do-lubniewic %}).
+
+Zbliżaliśmy się do [Osiecka][wiki-osiecko]. Okolica wioski mi się zaczęła podobać.
