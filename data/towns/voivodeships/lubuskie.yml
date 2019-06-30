@@ -156,3 +156,15 @@
   name: Witnica
   type: town
   voivodeship: lubuskie
+- slug: gorzow_wielkopolski
+  name: Gorzów Wielkopolski
+  type: town
+  voivodeship: lubuskie
+- slug: lubniewice
+  name: Lubniewice
+  type: town
+  voivodeship: lubuskie
+- slug: osno_lubuskie
+  name: Ośno Lubuskie
+  type: town
+  voivodeship: lubuskie
