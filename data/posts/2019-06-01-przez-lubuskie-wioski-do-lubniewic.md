@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Przez lubuskie wioski do Lubniewic"
 subtitle:               "gdzie można znaleźć dużo spokoju"
 desc:                   ""
-keywords:               []
+keywords:               [lubuskie, lubniewice, rzepin]
 date:                   2019-06-01 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
