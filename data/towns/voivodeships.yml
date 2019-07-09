@@ -39,12 +39,10 @@
 
 - slug: wielkopolskie
   name: Wielkopolskie
-  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
   type: voivodeship
 
 - slug: zachodnio_pomorskie
   name: Zachodnio-pomorskie
-  header-ext-img: https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff
   type: voivodeship
 
 - slug: opolskie
@@ -53,4 +51,8 @@
 
 - slug: podlaskie
   name: Podlaskie
+  type: voivodeship
+
+- slug: lodzkie
+  name: Łódzkie
   type: voivodeship
