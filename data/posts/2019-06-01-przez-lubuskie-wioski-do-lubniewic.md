@@ -193,7 +193,7 @@ Wjechaliśmy w las. Dopiero tam zobaczyłem jakim problemem jest susza i jak moc
 ona wpływa na środowisko. Do tego złapałem gumę. Trochę czasu mi zajęło
 dokładne sprawdzenie koła. Znalazłem wbity w oponę kawałek metalu.
 
-{% photo "2019_06_01__16_02_P6010234.jpg","Wiadukt dawno rozebranej linii kolejowej do Lubniewic" %}
+{% photo "2019_06_01__16_02_P6010234.jpg","Wiadukt dawno rozebranej w 1947 linii kolejowej przez Lubniewice" %}
 
 Trudno było znaleźć odpowiednią drogę. Zauważyłem niedokładności na mapie
 i ostatecznie wybierałem instynktownie.
