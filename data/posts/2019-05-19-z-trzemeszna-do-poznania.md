@@ -29,13 +29,34 @@ pois:
 
 ---
 
+[wiki-trzemeszno]: https://pl.wikipedia.org/wiki/Trzemeszno
+[wiki-wielkopolska]: https://pl.wikipedia.org/wiki/Wielkopolska
+[wiki-witkowo]: https://pl.wikipedia.org/wiki/Witkowo
+[wiki-miaty]: https://pl.wikipedia.org/wiki/Miaty
+[wiki-skorzecin]: https://pl.wikipedia.org/wiki/Skorz%C4%99cin_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-malachowo-zlych-miejsc]: https://pl.wikipedia.org/wiki/Ma%C5%82achowo-Z%C5%82ych_Miejsc
+[wiki-arcugowo]: https://pl.wikipedia.org/wiki/Arcugowo
+[wiki-mikolajewice]: https://pl.wikipedia.org/wiki/Miko%C5%82ajewice_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-potrzymowo]: https://pl.wikipedia.org/wiki/Potrzymowo
+[wiki-grotkowo]: https://pl.wikipedia.org/wiki/Grotkowo
+[wiki-czerniejewo-stacja]: https://pl.wikipedia.org/wiki/Czerniejewo_(stacja_kolejowa)
+[wiki-czerniejewo]: https://pl.wikipedia.org/wiki/Czerniejewo
+[wiki-pobiedziska]: https://pl.wikipedia.org/wiki/Pobiedziska
+[wiki-golun]: https://pl.wikipedia.org/wiki/Go%C5%82u%C5%84_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-pobiedziska]: https://pl.wikipedia.org/wiki/Pobiedziska
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-promno]: https://pl.wikipedia.org/wiki/Promno_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
+[wiki-cybina-rzeka]: https://pl.wikipedia.org/wiki/Cybina
+[wiki-jankowo]: https://pl.wikipedia.org/wiki/Jankowo_(powiat_pozna%C5%84ski)
+[wiki-sarbinowo]: https://pl.wikipedia.org/wiki/Sarbinowo_(powiat_pozna%C5%84ski)
+[wiki-swarzedz]: https://pl.wikipedia.org/wiki/Swarz%C4%99dz
 
 ## Wstęp
 
 Wyjazd do [Trzemeszna][wiki-trzemeszno] był podyktowany wyłącznie ograniczeniem
 czasu dojazdu pociągiem oraz chęcią przejechania przez (w miarę) ciekawe tereny.
 A przynajmniej tereny "bliżej przyrody" niż wioski na południu
-[wielkopolski][wiki-wielkopolska].
+[Wielkopolski][wiki-wielkopolska].
 
 ## Opis trasy
 
