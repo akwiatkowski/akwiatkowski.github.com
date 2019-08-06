@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Kaszubskie pagórki i pomorskie lasy i wsie"
 subtitle:               "czyli bardzo intensywna trasa do centrum krajobrazowego Pomorza"
 desc:                   "Okolicy Bytowa mnie zawsze ciekawiły gdyż nic tam nie ma. Wszyscy jeżdżą na Kaszuby albo bezpośrednie wybrzeże, a tam nie ma ani dużych miejscowości ani dobrego połączenia kolejowego. Dla mnie to był idealny powód aby tam pojechać."
-keywords:               [pruszcz gdański, kolbudy, łapino kartuskie, pomorze, kaszuby, lasy, czapielsk, nic tam nie ma, nowa wieś przywidzka, egiertowo, ostrzyce, jezioro ostrzyckie, brodnica górna, jezioro brodno wielkie, stężyca, niesiołowice, czysta woda, zdunowice, sumin, sylczno]
+keywords:               [pruszcz gdański, kolbudy, łapino kartuskie, pomorze, kaszuby, lasy, czapielsk, nic tam nie ma, nowa wieś przywidzka, egiertowo, ostrzyce, jezioro ostrzyckie, brodnica górna, jezioro brodno wielkie, stężyca, niesiołowice, czysta woda, zdunowice, sumin, sylczno, nakla, mokrzyn, bytów]
 date:                   2019-06-08 20:00:00
 finished_at:            2019-07-29 13:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -58,11 +58,11 @@ pois:
 [wiki-nakla]: https://pl.wikipedia.org/wiki/Nakla
 [wiki-sumin]: https://pl.wikipedia.org/wiki/Sumin_(powiat_bytowski)
 [wiki-linia-201]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_201
-
+[wiki-gizycko]: https://pl.wikipedia.org/wiki/Gi%C5%BCycko
 
 ## Wstęp
 
-Krzychu jechał rowerem z [Giżycka][wiki-gizycka] na zachód na swoją
+Krzychu jechał rowerem z [Giżycka][wiki-gizycko] na zachód na swoją
 "dużą rowerową wycieczkę". Chciałem do niego dołączyć, jednak przez pracę mogłem
 to zrobić tylko na weekend.
 
