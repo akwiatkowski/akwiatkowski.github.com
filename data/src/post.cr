@@ -126,6 +126,10 @@ class Tremolite::Post
     self.header_nogallery.not_nil! != true
   end
 
+  def gallery_url
+    self.url + PostGalleryView::GALLERY_URL_SUFFIX
+  end
+
   # XXX upgrade in future
   def related_posts(blog : Tremolite::Blog)
     posts = blog.post_collection.posts - [self]

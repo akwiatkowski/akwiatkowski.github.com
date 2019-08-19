@@ -35,6 +35,7 @@ class PostView < BaseView
 
   def post_article_html
     data = Hash(String, String).new
+    data["gallery_url"] = @post.gallery_url
     data["content"] = @post.content_html
     # if not used should be set to blank
     data["next_post_pager"] = ""
@@ -57,6 +58,11 @@ class PostView < BaseView
       pl = load_html("post/pager_prev", pd)
       data["prev_post_pager"] = pl
     end
+
+    gd = Hash(String, String).new
+    gd["gallery.url"] = @post.gallery_url
+    gl = load_html("post/pager_gallery", gd)
+    data["gallery_pager"] = gl
 
     # tags
     pd = Hash(String, String).new

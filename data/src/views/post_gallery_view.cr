@@ -59,9 +59,13 @@ class PostGalleryView < BaseView
       data["prev_post_pager"] = pl
     end
 
+    pd = Hash(String, String).new
+    pd["post.url"] = @post.url
+    pl = load_html("post/pager_post", pd)
+    data["post_pager"] = pl
+
     photo_entities = all_uploaded_photo_entities
     data["photos.count"] = photo_entities.size.to_s
-
 
     s = ""
     photo_entities.each do |photo_entity|
