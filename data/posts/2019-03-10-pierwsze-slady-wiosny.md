@@ -1,17 +1,17 @@
 ---
 layout:                 post
 title:                  "Pierwsze ślady wiosny"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "trzy małe spacery i kilka średniociekawych zdjęć"
+desc:                   "Oczekiwałem za wiosną. Co jakiś czas chodziłem po parkach próbując robić zdjęcia ptakom i powoli pojawiającym się pąkom."
+keywords:               [dębiec, pąki, szara wiosna, szarość]
 date:                   2019-03-10 16:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2019-08-20 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_03_10__11_44__3104684.jpg
 # 2019_03_10__11_26__3104610
 # 2019_03_10__11_28__3104626
-tags:                   [photo, hike, todo]
+tags:                   [photo, hike, main]
 towns:                  [wielkopolskie, poznan]
 
 distance:               3
@@ -25,14 +25,17 @@ pois:
 
 ---
 
+[wiki-debiec]: https://pl.wikipedia.org/wiki/D%C4%99biec_(Pozna%C5%84)
 
 ## Wstęp
 
 Zima skończyła się w górach bardzo szybko. Przyszedł czas na dokańczanie
 wpisów oraz inne przyziemne zadania.
 
-W ten weekend byłem kilka razy w parku na [Dębcu][wiki-debiec] chcąc zrobić
-zdjęcia ptakom. Nieplanowanie zauważyłem jak powoli przyroda się budzi.
+{% photo "2019_03_07__17_18__3073883.jpg","Ptaki w parku na Dębcu" %}
+
+W ten weekend byłem kilka razy w parku na [Dębcu][wiki-debiec] chcąc robić
+zdjęcia ptakom. Nieplanowanie zauważyłem jak powoli przyroda się budzi do życia.
 
 ## Szczegóły
 
@@ -41,52 +44,65 @@ zdjęcia ptakom. Nieplanowanie zauważyłem jak powoli przyroda się budzi.
 Pierwszy raz udałem się w czwartek po południu. Gdy dotarłem na miejsce
 miałem około pół godziny do zachodu słońca.
 
-Zrobiłem kilka zdjęć kaczkom. Łabędzi nie było jeszcze.
+{% photo "2019_03_07__17_34__3073924.jpg","Ptaki w parku na Dębcu" %}
+
+Zrobiłem kilka zdjęć kaczkom. Łabędzi jeszcze nie było.
+
+{% photo "2019_03_07__17_38__3073929.jpg","Ptaki w parku na Dębcu","timeline" %}
 
 Zrobiłem zdjęcia malutkim pąkom, jednak już było na tyle ciemno i pochmurnie,
-że nie jestem z niego zadowolony.
+że nie jestem z nich zadowolony.
 
-Tereny parku wyglądało przygnębiająco szaro.
+{% photo "2019_03_07__17_42__3073953.jpg","Kolorowy zachód słońca" %}
 
-Tuż przed zachodem chmury się przesunęły i słońce mogło oświetlić barwą okolicę.
+Tereny parku wyglądały jeszcze przygnębiająco szaro.
+
+{% photo "2019_03_07__17_47__3073977.jpg","Odpoczywająca kaczka" %}
+
+Tuż przed zachodem słońca chmury się przesunęły i odsłoniły słońce,
+które mogło teraz oświetlić okolicę.
 
 ### Sobota, 9-ty marca
 
-Tego dnia pogoda miała być lepsza. Również wyruszyłem. Wziąłem
+Tego dnia pogoda miała być lepsza. Również wyruszyłem w to samo miejsce. Wziąłem
 Olympusa 40-150/2.8 i dodatkowo 60/2.8, na wypadek jakbym chciał z bliska zrobić
 zdjęcia pąkom.
 
-Zobaczyłem czarnego ptaka z pomarańczowym dziobem (TODO jaki to jest?),
-jednak 150mm to było za mało na zrobienie zdjęcia. Oczywiscie mógłbym przeczekać,
-obserwować, jednak nie to nie było moim celem dzisiaj.
+{% photo "2019_03_09__09_11__3094087.jpg","Kolejna kaczka" %}
 
-Nie udało mi się zrobić zdjęcia lądującym kaczkom gdyż nie ustawiłem odpowiednio
-aparatu.
+Zobaczyłem czarnego ptaka z pomarańczowym dziobem,
+jednak ogniskowa 150mm to było za mało na zrobienie ciekawego zdjęcia.
+Oczywiscie mógłbym przeczekać, obserwować, jednak nie to było moim celem dzisiaj.
 
-Zrobiłem kilka średnio ciekawych zdjęć kaczek. Chyba powinienem przychodzić znacznie
-wcześniej, gdy nie ma ludzi.
+{% photo "2019_03_09__09_17__3094104.jpg","Para kaczek" %}
 
-Zauważyłem też innego ptaka (TODO jaki to był? biała plamka na głowie i żółte oko)
+Nie udało mi się zrobić zdjęcia lądującym kaczkom - nie ustawiłem odpowiednio
+aparatu, nie byłem na to gotowy.
 
-Z jednego zdjęcia jestem zadowolony 2019_03_09__09_17__3094104.jpg
+{% photo "2019_03_09__09_24__3094137.jpg","Ślad wiosny" %}
 
-Założyłem 60mm macro i próbowałem robić zdjęcia śladów wiosny. Rezultaty były
-średnie, nie złe ale zdecydowanie nie wybitne. Dużo zrobiłem poruszonych,
-więc to już kwestie techniczne były problemem.
+Założyłem obiektyw 60mm macro i próbowałem robić zdjęcia śladów wiosny. Rezultaty były
+średnie, nie były złe ale zdecydowanie nie były też wybitne
+(napisałem to znacznie wcześniej niż premiera serialu Czarnobyl).
+
+{% photo "2019_03_09__09_32__3094235.jpg","Sucha roślina" %}
 
 ### Niedziela, 10-tego marca
 
-Tego dnia rano pogoda była bardzo słoneczna, jednak gdy się "wykulałem"
+Tego dnia rano pogoda była bardzo słoneczna, jednak gdy się "wykulałem z łóżka"
 pojawiły się chmury.
 
-Idąc drogą w okolicy zauważyłem 2019_03_10__11_24__3104592 jeszcze bardziej otwarte
+{% photo "2019_03_10__11_24__3104592.jpg","Pojawiły się kolejne ślady wiosny","timeline" %}
+
+Idąc drogą w okolicy zauważyłem powyższy obiekt - jeszcze bardziej otwarte
 pąki. Zrobiłem kilka zdjęć, które pomimo mało oryginalnej tematyki,
-dobrze przedstawiają nadciągającą wiosnę. Jestem
-z nich zadowolony.
+dobrze przedstawiają nadciągającą wiosnę.
+
+{% photo "2019_03_10__11_28__3104626.jpg","Zielone pąki się powiększyły przez noc","timeline" %}
 
 Pąki/listki przez jedną noc zwiększyły się o kilka milietrów.
 
-Nie robiłem zdjęć ptaków. Szybciej wróciłem do domu aby przygotować rower
+Nie robiłem zdjęć ptakom. Szybciej wróciłem do domu aby przygotować rower
 i ruszyć na pierwszą testową jazdę.
 
 ### Rozpoczęcie sezonu rowerowego
@@ -95,4 +111,4 @@ W niedzielę pierwszy raz w 2019 jechałem rowerem. Przejechałem tylko 12km
 "szosą" po terenowych szlakach.
 
 Te 12km wystarczyło abym zrozumiał, że będę musiał przyzwyczaić się
-ponownie do jazdy rowerem. Chociaż 2-3 wycieczki powinny mi wystarczyć.
+ponownie do jazdy rowerem. Chociaż 2-3 średnie wycieczki powinny mi wystarczyć.
