@@ -59,6 +59,9 @@ pois:
 [wiki-sumin]: https://pl.wikipedia.org/wiki/Sumin_(powiat_bytowski)
 [wiki-linia-201]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_201
 [wiki-gizycko]: https://pl.wikipedia.org/wiki/Gi%C5%BCycko
+[wiki-koscierzyna]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna
+
+
 
 ## Wstęp
 
@@ -265,7 +268,7 @@ mało.
 
 {% photo "2019_06_08__16_56_P6080322.jpg","Owce w Zdunowicach" %}
 
-W [Niesułowicach][wiki-niesulowice] skręciliśmy w prawo drogą blisko jeziora.
+W [Niesiołowicach][wiki-niesiolowice] skręciliśmy w prawo drogą blisko jeziora.
 To była błędna decyzja, jednak połączenie starych domów, drogi gruntowej, lasów
 i jeziora bardzo mi się podobało.
 

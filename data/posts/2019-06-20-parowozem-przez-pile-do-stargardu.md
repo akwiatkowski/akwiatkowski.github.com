@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_06_20__12_56__6201761.jpg
 tags:                   [train, todo]
-towns:                  [wielkopolskie, poznan, suchy_las, oborniki, rogozno, budzyn, chodziez, kaczory, pila, ujscie, szydlowo, walcz, tuczno, kalisz_pomorski, drawno, recz, dobrzany, suchan, targard]
+towns:                  [wielkopolskie, poznan, suchy_las, oborniki, rogozno, budzyn, chodziez, kaczory, pila, ujscie, szydlowo, walcz, tuczno, kalisz_pomorski, drawno, recz, dobrzany, suchan, stargard]
 
 coords:                 [{"route": [], "type": "train"}]
 distance:               261
