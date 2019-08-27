@@ -256,7 +256,7 @@ Opuściliśmy [miasto][wiki-stezyca] na zachód. Tą część miasta zdecydowani
 przemysłową, chyba głównie przemysłu drzewnego. W tym momencie czułem jak
 opuszczamy [Kaszuby][wiki-kaszuby] i wjeżdżamy w lesiste [Pomorze][wiki-pomorze].
 
-{% photo "2019_06_08__16_56_P6080322.jpg","Owce w Zdunowicach" %}
+{% photo "2019_06_08__16_55_P6080320.jpg","Zjazd do Zdunowic" %}
 
 W [Gapowie][wiki-gapowo] skręciliśmy w lewo kierując się zgodnie ze znakiem
 do [Niesiołowic][wiki-niesiolowice].

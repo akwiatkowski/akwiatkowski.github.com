@@ -181,7 +181,7 @@ Po 15 minutach dotarliśmy do miejscowości [Stare Polichno][wiki-stare-polichno
 Zrobiliśmy przerwę na dokupienie napojów w sklepie. Było już wystarczająco
 ciepło aby powoli przestawało mi się chcieć jeździć.
 
-{% photo "2019_06_02__15_53_P6021075.jpg","Widok na Wartę z czerwonego szlaku we wsi Stare Polichno" %}
+{% photo "2019_06_02__16_10_P6021079.jpg","Widok na Wartę z czerwonego szlaku we wsi Stare Polichno" %}
 
 Dołączyliśmy do czerwonego szlaku rowerowego, z którego był bardzo ładny
 widok na [Wartę][wiki-warta-rzeka]. Dotarliśmy do drogi asfaltowej.
