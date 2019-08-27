@@ -212,3 +212,27 @@
   name: Tuchomie
   type: town
   voivodeship: pomorskie
+- slug: trzebielino
+  name: Trzebielino
+  type: town
+  voivodeship: pomorskie
+  lat: 54.19821
+  lon: 17.08554
+- slug: kolczyglowy
+  name: Kołczygłowy
+  type: town
+  voivodeship: pomorskie
+  lat: 54.23756
+  lon: 17.23386
+- slug: studzienice
+  name: Studzienice
+  type: town
+  voivodeship: pomorskie
+  lat: 54.09103
+  lon: 17.57512
+- slug: parchowo
+  name: Parchowo
+  type: town
+  voivodeship: pomorskie
+  lat: 54.20559
+  lon: 17.66849
