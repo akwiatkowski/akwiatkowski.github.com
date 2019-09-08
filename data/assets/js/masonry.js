@@ -71,3 +71,13 @@ function masShowLoop() {
   },
   600);
 }
+
+function galleryMasonry() {
+  var $grid = $('.post-photo-gallery').imagesLoaded( function() {
+    // $grid.masonry({
+    //   itemSelector: ".gallery-image",
+    //   fitWidth: true,
+    //   columnWidth: ".gallery-image"
+    // });
+  });
+}

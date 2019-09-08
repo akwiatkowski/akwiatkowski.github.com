@@ -1,4 +1,5 @@
-class GalleryView < PageView
+# TODO refactor to abstract GalleryAbstractView
+class GalleryView < WidePageView
   def initialize(@blog : Tremolite::Blog)
     @all_posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
     # only w/o "nogallery" flag and only trips

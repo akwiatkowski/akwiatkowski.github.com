@@ -1,4 +1,4 @@
-class TimelineList < PageView
+class TimelineList < WidePageView
   def initialize(@blog : Tremolite::Blog)
     @posts = @blog.post_collection.posts.select { |p| p.trip? }.as(Array(Tremolite::Post))
     @data_manager = @blog.data_manager.as(Tremolite::DataManager)
@@ -30,7 +30,7 @@ class TimelineList < PageView
 
   def content
     if USE_WIDER_LAYOUT
-      page_header_html + page_wide_article_html
+      page_header_html + page_article_full_wide_html
     else
       super
     end

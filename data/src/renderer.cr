@@ -1,5 +1,6 @@
 require "./views/base_view"
 require "./views/page_view"
+require "./views/wide_page_view"
 
 require "./views/home_view"
 require "./views/paginated_post_list_view"

@@ -12,6 +12,7 @@ struct PhotoEntity
   @is_timeline : Bool
 
   @big_thumb_image_src : String
+  @gallery_thumb_image_src : String
   @thumb_image_src : String
   @full_image_src : String
   @small_image_src : String
@@ -24,10 +25,11 @@ struct PhotoEntity
 
   THUMB_PREFIX     = "thumb"
   BIG_THUMB_PREFIX = "big_thumb"
+  GALLERY_THUMB_PREFIX = "gallery_thumb"
   SMALL_PREFIX     = "small"
 
   getter :desc, :post, :image_filename, :is_gallery, :is_header, :is_timeline
-  getter :thumb_image_src, :big_thumb_image_src, :full_image_src, :small_image_src
+  getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
   getter :time, :day_of_year, :float_of_year
   getter :tags
 
@@ -60,6 +62,7 @@ struct PhotoEntity
 
     # just optimization
     @big_thumb_image_src = processed_img_path(BIG_THUMB_PREFIX)
+    @gallery_thumb_image_src = processed_img_path(GALLERY_THUMB_PREFIX)
     @thumb_image_src = processed_img_path(THUMB_PREFIX)
     @small_image_src = processed_img_path(SMALL_PREFIX)
     @full_image_src = generate_full_image_src
@@ -79,7 +82,7 @@ struct PhotoEntity
 
     data["klass"] = klass
     data["post.url"] = @post.url
-    data["img.src"] = @big_thumb_image_src
+    data["img.src"] = @gallery_thumb_image_src  # @big_thumb_image_src 
     processed_desc = year_within_desc ? "#{@post.time.year} - #{@desc}": @desc
     data["img.alt"] = processed_desc
     data["img.title"] = processed_desc

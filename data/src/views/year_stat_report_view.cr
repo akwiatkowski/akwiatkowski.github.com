@@ -27,7 +27,7 @@ class YearStatReportView < PageView
     data["hours"] = hours.to_i.to_s
     data["distance"] = distance.to_i.to_s
 
-    data["bicycle_distance"] = bibycle_distance.to_i.to_s
+    data["bicycle_distance"] = bicycle_distance.to_i.to_s
     data["bicycle_hours"] = bicycle_hours.to_i.to_s
 
     voivodeships_stats_strings = Array(String).new
@@ -175,7 +175,7 @@ class YearStatReportView < PageView
     return voivoids_hash_names
   end
 
-  private def bibycle_distance
+  private def bicycle_distance
     return @posts.select { |p| p.bicycle? }.map { |p| p.distance.as(Float64) }.sum
   end
 

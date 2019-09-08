@@ -1,4 +1,5 @@
-class TagGalleryView < PageView
+# TODO refactor to abstract GalleryAbstractView
+class TagGalleryView < WidePageView
   def initialize(@blog : Tremolite::Blog, @tag : String)
     @data_manager = @blog.data_manager.not_nil!.as(Tremolite::DataManager)
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))

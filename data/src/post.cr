@@ -52,7 +52,6 @@ class Tremolite::Post
   CATEGORY_TRIP = "trip"
 
   getter :coords
-  getter :small_image_url, :thumb_image_url, :big_thumb_image_url
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent
