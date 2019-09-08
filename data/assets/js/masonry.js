@@ -73,6 +73,18 @@ function masShowLoop() {
 }
 
 function galleryMasonry() {
+  // lg stuff
+  var $gallery = $(".lg-enabled").lightGallery();
+  $gallery.on('onAfterAppendSubHtml.lg', function(event, prevIndex, index){
+    obj = $(".gallery-image").eq(prevIndex)
+    url = obj.data("postUrl")
+    urlHtml = "<a href=\"" + url + "\">wpis</a>"
+
+    $(".lg-sub-html").append(" - " + urlHtml)
+  });
+  $(".gallery-zoom").hide();
+  $(".gallery-book").hide();
+
   var $grid = $('.post-photo-gallery').imagesLoaded( function() {
     // $grid.masonry({
     //   itemSelector: ".gallery-image",
