@@ -63,7 +63,7 @@ raczej bezstresowa w porównaniu do klasy drogi.
 Przejechaliśmy przez tory kolejowe (czekając aż pociąg przejedzie)
 i wjechaliśmy do wsi [Kałduny][wiki-kalduny].
 
-{% photo "2019_05_02__09_29_P5020589.jpg","Widok na Wzgórza Dylewskie","timeline" %}
+{% photo "2019_05_02__09_48_P5020606.jpg","Widok na Wzgórza Dylewskie","timeline" %}
 
 Wiatr tego dnia był bardzo silny. Było ogólnie zimno.
 
