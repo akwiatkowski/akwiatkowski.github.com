@@ -35,3 +35,45 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2651055585/embed/7752564ad6bb199313e023b9aee20f392a10b3be'></iframe>
 
 ## Szczegóły
+
+Ruszyliśmy pociągiem IC około godziny 8-ej do [Choszczna][wiki-choszczno],
+które to jest chyba najlepszym miastem jeżeli chce się dojechać w
+[Iński Park Krajobrazowy][wiki-inski-park].
+
+Ulicą Wolności przejechaliśmy przez centrum i następnie ulicą Stargardzką
+kierowaliśmy się do wsi [Pakość][wiki-pakosc]. Opuszczając [Choszczno][wiki-choszczno]
+widziałem budowane osiedle nowych domów jednorodzinnych.
+Tereny te znałem z
+[wycieczki ponad rok temu]({% post_url 2018-04-21-wiosenne-okolice-stargardu %}),
+kiedy to jechałem tą samą drogą ale w przeciwnym kierunku.
+
+Piszę ten wpis w drugiej połowie października. Pomimo chwilowo dobrej pogody
+tęsknie za jeżdżeniem rowerem i za zielonym krajobrazem. Chociaż krajobraz
+był daleki do nazwania go zielonym. Trawa była wysuszona. Mam wrażenie, że
+trawa teraz jest bardziej zielona niż była w wakacje.
+
+Skręciliśmy do [Pakości][wiki-pakosc]. Widziałem kilka domów położonych
+w gęstej okolicy drzew.
+
+Panele słoneczne na dachach domów przestają być czymś dziwnym.
+Ciekawiły mnie przystanku autobusowe, czy w ogóle jest tu jakieś sensowne połączenie?
+Na ogół najważniejszym połączeniem są autobusy szkolne na wioskach.
+
+[Sławęcin][wiki-slawecin] było ostatnią miejscowością przed przejazdem
+przez rzekę [Inę][wiki-ina-rzeka]. Miejscowość mi się bardzo podobała. Czuć
+było w niej spokój i odległość od większego miasta, chociaż 8km to nie jest
+wcale duża odległość. Natomiast dwa kilometry na północ jest rzeka.
+
+Jest tutaj chyba szkoła podstawowa.
+
+Dotarliśmy do kościoła i tam się na chwilę zatrzymaliśmy. Zrobiłem kilka zdjęć
+i zauważyłem kota, który niestety nie bardzo współpracował w kwestii zdjęć.
+
+Zjechaliśmy w stronę [rzeki][wiki-ina-rzeka]. Tam zatrzymałem się aby zrobić
+trochę zdjęć. Zauważyłem, że nie wziąłem drugiej karty SD do aparatu pełnoklatkowego.
+Musiałem wyjmować z Olympusa i przekładać do Sony. Było to denerwujące i powodowało,
+że z pełnej klatki korzystałem bardzo rzadko. Chociaż i tak większośc tego
+co robię to nauka, eksperymenty i testy. Wziąłem pełną klatkę aby zobaczyć
+jak się będzie sprawdzała a nie dlatego, bo miałem już zaplanowane jakieś zdjęcia.
+
+TODO jakieś ptaki obok rzeki
