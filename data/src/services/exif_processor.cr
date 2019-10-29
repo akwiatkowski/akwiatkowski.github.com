@@ -1,0 +1,120 @@
+class ExifProcessor
+  PROCESSED_KEYS = [
+    "Exif.GPSInfo.GPSAltitude",
+    "Exif.GPSInfo.GPSLongitude",
+    "Exif.GPSInfo.GPSLatitude",
+    "Exif.GPSInfo.GPSLongitudeRef",
+    "Exif.GPSInfo.GPSLatitudeRef",
+    "Exif.Photo.FocalLength",
+    "Exif.Photo.FNumber",
+    "Exif.Photo.LensModel",
+    "Exif.Image.Model"
+  ]
+
+  TODO_KEYS = [
+    "Exif.Photo.PixelXDimension",
+    "Exif.Photo.PixelYDimension",
+    "Exif.Photo.ExposureTime",
+    "Exif.Image.DateTimeOriginal",
+    "Exif.Image.DateTime",
+    "Exif.Photo.DateTimeOriginal",
+
+    "Exif.OlympusFi.SensorTemperature",
+    "Exif.OlympusFi.FocusDistance",
+    "Exif.OlympusCs.WhiteBalanceTemperature",
+    "Exif.Pentax.Temperature",
+  ]
+
+  GEO_DEGREE_REGEXP = /(\d+)deg\s+(\d+)'\s+([0-9.]+)/
+
+  def self.process(photo_entity, path) : ExifEntity
+    path = File.join([path, photo_entity.full_image_src])
+    hash = result(path)
+
+    exif = ExifEntity.new(
+      post_slug: photo_entity.post_slug,
+      image_filename: photo_entity.image_filename,
+    )
+
+    # and now some custom data
+    # GPS altitude
+    if hash["Exif.GPSInfo.GPSAltitude"]?
+      exif.altitude = hash["Exif.GPSInfo.GPSAltitude"].gsub(/[a-z]/, "").to_f
+    end
+
+    # GPS coords
+    if hash["Exif.GPSInfo.GPSLongitude"]? && hash["Exif.GPSInfo.GPSLatitude"]?
+      # "15deg 47' 41.705\""
+      if match = hash["Exif.GPSInfo.GPSLongitude"].match(GEO_DEGREE_REGEXP)
+        decimal = convert_degree_to_decimal(
+          degree: match[1].to_s.to_f,
+          minutes: match[2].to_s.to_f,
+          seconds: match[3].to_s.to_f,
+        )
+
+        if hash["Exif.GPSInfo.GPSLongitudeRef"] == "West"
+          decimal *= -1.0
+        end
+
+        exif.lon = decimal
+      end
+
+      if match = hash["Exif.GPSInfo.GPSLatitude"].match(GEO_DEGREE_REGEXP)
+        decimal = convert_degree_to_decimal(
+          degree: match[1].to_s.to_f,
+          minutes: match[2].to_s.to_f,
+          seconds: match[3].to_s.to_f,
+        )
+
+        if hash["Exif.GPSInfo.GPSLatitudeRef"] == "South"
+          decimal *= -1.0
+        end
+
+        exif.lat = decimal
+      end
+    end
+
+    # lens focal length
+    if hash["Exif.Photo.FocalLength"]?
+      photo_entity.exif.focal_length = hash["Exif.Photo.FocalLength"].gsub(/[a-z]/, "").to_f
+    end
+
+    # lens aperture
+    if hash["Exif.Photo.FNumber"]?
+      exif.aperture = hash["Exif.Photo.FNumber"].gsub(/[A-Z]/, "").to_f
+    end
+
+    if hash["Exif.Photo.LensModel"]?
+      exif.lens = hash["Exif.Photo.LensModel"].to_s
+    end
+
+    if hash["Exif.Image.Model"]?
+      exif.camera = hash["Exif.Image.Model"].to_s
+    end
+
+    return exif
+  end
+
+  def self.convert_degree_to_decimal(degree, minutes, seconds)
+    # https://www.latlong.net/degrees-minutes-seconds-to-decimal-degrees
+    return degree.to_f + (minutes.to_f / 60.0) + (seconds.to_f / 3600.0)
+  end
+
+  def self.command(path)
+    "exiv2 -pt #{path}"
+  end
+
+  def self.result(path)
+    result = `#{command(path)}`
+
+    hash = Hash(String, String).new
+    result.each_line do |line|
+      # puts line
+      if line =~ /(\S+)\s+(\S+)\s+(\S+)\s+(.+)/
+        hash[$1.to_s.strip] = $4.to_s.strip
+      end
+    end
+
+    return hash
+  end
+end

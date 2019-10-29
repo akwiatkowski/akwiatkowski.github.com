@@ -78,8 +78,11 @@ class Tremolite::Views::BaseView
       post: post,
       desc: desc,
       image_filename: image_filename,
-      param_string: param_string
+      param_string: param_string,
     )
+
+    # add to list, fetch exif or get exif cache, set some attribs
+    photo_entity = @blog.data_manager.not_nil!.process_photo_entity(photo_entity)
 
     post.photo_entities.not_nil! << photo_entity
 
@@ -91,7 +94,8 @@ class Tremolite::Views::BaseView
 
   def post_image(photo : PhotoEntity, size : String)
     post_image(
-      post: photo.post,
+      post_time: photo.post_time,
+      post_slug: photo.post_slug,
       size: size,
       image_filename: photo.image_filename,
       desc: photo.desc,
@@ -101,7 +105,8 @@ class Tremolite::Views::BaseView
   end
 
   def post_image(
-    post : Tremolite::Post,
+    post_time : Time,
+    post_slug : String,
     size : String,
     image_filename : String,
     desc : String,
@@ -110,9 +115,9 @@ class Tremolite::Views::BaseView
   )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
-      post_year: post.year,
-      post_month: post.time.month,
-      post_slug: post.slug,
+      post_year: post_time.year,
+      post_month: post_time.month,
+      post_slug: post_slug,
       prefix: size,
       file_name: image_filename
     )
@@ -122,7 +127,7 @@ class Tremolite::Views::BaseView
       "img.alt"           => desc,
       "img.title"         => desc,
       "img.size"          => (image_size(url) / 1024).to_s + " kB",
-      "img_full.src"      => "/images/#{post.year}/#{post.slug}/#{image_filename}",
+      "img_full.src"      => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
       "img.is_gallery"    => is_gallery.to_s,
       "img.is_timeline"   => is_timeline.to_s
     }
@@ -157,14 +162,6 @@ class Tremolite::Views::BaseView
     }
     # new line could impact markdown processing (ex: list)
     return load_html("partials/geo", data).gsub(/\n/," ")
-  end
-
-  private def add_post_photo_to_gallery(post : Tremolite::Post, image : String, desc : String)
-    @blog.data_manager.not_nil!.add_post_image_entity(
-      post: post,
-      desc: desc,
-      image: image
-    )
   end
 
   private def pro_tip(post : (Tremolite::Post | Nil))

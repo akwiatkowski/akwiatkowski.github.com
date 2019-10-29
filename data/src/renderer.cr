@@ -32,6 +32,8 @@ class Tremolite::Renderer
   def render_all
     render_index
     render_posts
+    save_exif_entities
+
     render_paginated_list
     render_map
     render_planner
@@ -59,8 +61,13 @@ class Tremolite::Renderer
     render_robot
 
     render_payload_json
+    # render_photo_entities
     render_rss
     render_atom
+  end
+
+  def save_exif_entities
+    @blog.data_manager.not_nil!.save_exif_entities
   end
 
   def render_index

@@ -64,7 +64,7 @@ class PostGalleryView < BaseView
     pl = load_html("post/pager_post", pd)
     data["post_pager"] = pl
 
-    photo_entities = all_uploaded_photo_entities
+    photo_entities = @post.all_uploaded_photo_entities
     data["photos.count"] = photo_entities.size.to_s
 
     s = ""
@@ -84,32 +84,5 @@ class PostGalleryView < BaseView
   # overriden here
   def meta_keywords_string
     return @post.keywords.not_nil!.join(", ").as(String)
-  end
-
-  def all_uploaded_photo_entities
-    data_path = @blog.data_path.as(String)
-    public_path = @blog.public_path.as(String)
-
-    # all photos inside post, w/o header
-    photo_entities = @post.photo_entities.not_nil!
-    photo_entities_filenames = photo_entities.map { |pe| pe.image_filename }
-
-    path = File.join([data_path, @post.images_dir_url])
-    Dir.entries(path).each do |name|
-      if false == File.directory?(File.join([path, name]))
-        unless photo_entities_filenames.includes?(name)
-          # if it was not used already
-          draft_photo_entity = PhotoEntity.new(
-            post: @post,
-            desc: name,
-            image_filename: name,
-            param_string: ""
-          )
-          photo_entities << draft_photo_entity
-        end
-      end
-    end
-
-    photo_entities.sort {|a,b| a.image_filename <=> b.image_filename }
   end
 end

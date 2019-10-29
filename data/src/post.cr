@@ -5,6 +5,7 @@ alias TremolitePostRouteObject = Hash(String, (String | Array(Array(Float64))))
 
 class Tremolite::Post
   @head_photo_entity : (PhotoEntity | Nil)
+  @all_uploaded_photo_entities : (Array(PhotoEntity) | Nil)
 
   MAX_RELATED_POSTS = 5
 
@@ -59,6 +60,7 @@ class Tremolite::Post
   getter :finished_at
 
   property :photo_entities
+
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -324,6 +326,44 @@ class Tremolite::Post
       prefix: prefix,
       file_name: image_filename.not_nil!
     )
+  end
+
+  # getter/generator all photos uploaded to post dir
+  # converted to PhotoEntity. used in PostGalleryView
+  def all_uploaded_photo_entities : Array(PhotoEntity)
+    return @all_uploaded_photo_entities.not_nil! if @all_uploaded_photo_entities
+
+    # use already existing photos
+    # photos which were added in post markdown content
+    @all_uploaded_photo_entities = photo_entities.dup
+
+    data_path = @blog.data_path.as(String)
+    public_path = @blog.public_path.as(String)
+
+    photo_entities_filenames = self.photo_entities.not_nil!.map { |pe| pe.image_filename }
+
+    path = File.join([data_path, self.images_dir_url])
+    Dir.entries(path).each do |name|
+      if false == File.directory?(File.join([path, name]))
+        unless photo_entities_filenames.includes?(name)
+          # if it was not used already
+          # create nameless PhotoEntity
+          draft_photo_entity = PhotoEntity.new(
+            post: self,
+            image_filename: name,
+            param_string: "",
+          )
+
+          # add to list, fetch exif or get exif cache, set some attribs
+          draft_photo_entity = @blog.data_manager.not_nil!.process_photo_entity(draft_photo_entity)
+
+          @all_uploaded_photo_entities.not_nil! << draft_photo_entity
+        end
+      end
+    end
+
+    @all_uploaded_photo_entities = @all_uploaded_photo_entities.not_nil!.sort {|a,b| a.image_filename <=> b.image_filename }
+    return @all_uploaded_photo_entities.not_nil!
   end
 
   # XXX refactor
