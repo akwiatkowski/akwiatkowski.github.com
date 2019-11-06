@@ -8,6 +8,8 @@ require "./models/todo_route_entity"
 require "./services/exif_processor"
 
 class Tremolite::DataManager
+  CACHE_PATH = "cache"
+
   def custom_initialize
     @towns = Array(TownEntity).new
     @town_slugs = Array(String).new
@@ -19,6 +21,8 @@ class Tremolite::DataManager
     @todo_routes = Array(TodoRouteEntity).new
     @photos = Array(PhotoEntity).new
     @exifs = Array(ExifEntity).new
+
+    @cache_path = CACHE_PATH
   end
 
   getter :tags
@@ -90,15 +94,14 @@ class Tremolite::DataManager
   end
 
   def load_exif_entities
-    path = File.join([@data_path, "exifs.yml"])
+    path = File.join([@cache_path, "exifs.yml"])
     return unless File.exists?(path)
 
     @exifs = Array(ExifEntity).from_yaml(File.open(path))
   end
 
-  # TODO: problem with rewrite loop - updated file forces rerun
   def save_exif_entities
-    path = File.join([@data_path, "exifs.yml"])
+    path = File.join([@cache_path, "exifs.yml"])
     File.open(path, "w") do |f|
       @exifs.to_yaml(f)
     end
@@ -122,7 +125,7 @@ class Tremolite::DataManager
       @exifs.not_nil! << exif
 
       # periodically save exifs
-      if @exifs.not_nil!.size % 100 == 0
+      if @exifs.not_nil!.size % 500 == 0
         save_exif_entities
       end
     else

@@ -120,7 +120,9 @@ struct PhotoEntity
     data["img.title"] = processed_desc
     data["post.title"] = @post_title
     data["img.url"] = full_image_src
-    # data["img.size"] = "" # TODO
+
+    data.merge!(self.exif.not_nil!.hash_for_partial)
+
     return data
   end
 

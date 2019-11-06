@@ -1,4 +1,12 @@
-<div class="gallery-image {{ klass }}" data-src="{{ img.url }}" data-post-url="{{ post.url }}">
+<div
+  class="gallery-image {{ klass }}"
+  data-src="{{ img.url }}"
+  data-post-url="{{ post.url }}"
+  data-lat="{{ img.lat }}"
+  data-lon="{{ img.lon }}"
+  data-altitude="{{ img.altitude }}"
+  data-time="{{ img.time }}"
+>
   <img src="{{ img.src }}" alt="{{ img.alt }}" title="{{ img.alt }}" />
 
   <a href="{{ img.url }}" target="_blank" class="gallery-zoom">

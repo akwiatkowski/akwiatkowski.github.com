@@ -72,13 +72,30 @@ function masShowLoop() {
   600);
 }
 
+function mapUrl(lat, lon) {
+  zoom = 16
+  url = "http://mapa.ump.waw.pl/ump-www/?zoom=" + zoom + "&lat=" + lat + "&lon=" + lon + "&layers=B000000FFFFTFF&mlat=" + lat + "&mlon=" + lon
+  return url
+}
+
 function galleryMasonry() {
   // lg stuff
   var $gallery = $(".lg-enabled").lightGallery();
   $gallery.on('onAfterAppendSubHtml.lg', function(event, prevIndex, index){
     obj = $(".gallery-image").eq(prevIndex)
     url = obj.data("postUrl")
-    urlHtml = "<a href=\"" + url + "\">wpis</a>"
+    lat = obj.data("lat")
+    lon = obj.data("lon")
+
+    urlHtml = "<a class=\"gallery-desc-link\" href=\"" + url + "\">wpis</a>"
+
+    console.log(obj)
+    console.log(lat)
+
+    if (lat) {
+      urlHtml += " - "
+      urlHtml += "<a class=\"gallery-desc-link\" href=\"" + mapUrl(lat, lon) + "\" target=\"_blank\">mapa</a>"
+    }
 
     $(".lg-sub-html").append(" - " + urlHtml)
   });

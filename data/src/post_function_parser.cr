@@ -100,7 +100,8 @@ class Tremolite::Views::BaseView
       image_filename: photo.image_filename,
       desc: photo.desc,
       is_gallery: photo.is_gallery,
-      is_timeline: photo.is_timeline
+      is_timeline: photo.is_timeline,
+      exif: photo.exif
     )
   end
 
@@ -111,7 +112,8 @@ class Tremolite::Views::BaseView
     image_filename : String,
     desc : String,
     is_gallery : Bool,
-    is_timeline : Bool
+    is_timeline : Bool,
+    exif : (ExifEntity | Nil)
   )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
@@ -129,8 +131,17 @@ class Tremolite::Views::BaseView
       "img.size"          => (image_size(url) / 1024).to_s + " kB",
       "img_full.src"      => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
       "img.is_gallery"    => is_gallery.to_s,
-      "img.is_timeline"   => is_timeline.to_s
+      "img.is_timeline"   => is_timeline.to_s,
+      "img.lat" => "",
+      "img.lon" => "",
+      "img.altitude" => "",
+      "img.time" => "",
     }
+
+    if exif
+      data.merge!(exif.not_nil!.hash_for_partial)
+    end
+
     return load_html("post/post_image_partial", data)
   end
 

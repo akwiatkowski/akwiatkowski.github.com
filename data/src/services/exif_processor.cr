@@ -8,19 +8,22 @@ class ExifProcessor
     "Exif.Photo.FocalLength",
     "Exif.Photo.FNumber",
     "Exif.Photo.LensModel",
-    "Exif.Image.Model"
-  ]
+    "Exif.Image.Model",
 
-  TODO_KEYS = [
     "Exif.Photo.PixelXDimension",
     "Exif.Photo.PixelYDimension",
     "Exif.Photo.ExposureTime",
+
     "Exif.Image.DateTimeOriginal",
     "Exif.Image.DateTime",
     "Exif.Photo.DateTimeOriginal",
 
-    "Exif.OlympusFi.SensorTemperature",
     "Exif.OlympusFi.FocusDistance",
+  ]
+
+  TODO_KEYS = [
+    "Exif.OlympusFi.SensorTemperature",
+
     "Exif.OlympusCs.WhiteBalanceTemperature",
     "Exif.Pentax.Temperature",
   ]
@@ -37,6 +40,24 @@ class ExifProcessor
     )
 
     # and now some custom data
+
+    # original image dimension
+    if hash["Exif.Photo.PixelXDimension"]?
+      exif.width = hash["Exif.Photo.PixelXDimension"].to_i
+    end
+    if hash["Exif.Photo.PixelYDimension"]?
+      exif.height = hash["Exif.Photo.PixelYDimension"].to_i
+    end
+
+    if hash["Exif.Photo.DateTimeOriginal"]?
+      time = Time.parse(
+        time: hash["Exif.Photo.DateTimeOriginal"],
+        pattern: "%Y:%m:%d %H:%M:%S",
+        location: Time::Location.local,
+      )
+      exif.time = time
+    end
+
     # GPS altitude
     if hash["Exif.GPSInfo.GPSAltitude"]?
       exif.altitude = hash["Exif.GPSInfo.GPSAltitude"].gsub(/[a-z]/, "").to_f
@@ -84,12 +105,36 @@ class ExifProcessor
       exif.aperture = hash["Exif.Photo.FNumber"].gsub(/[A-Z]/, "").to_f
     end
 
+    # exposure time
+    if hash["Exif.Photo.ExposureTime"]?
+      exif.exposure_string = hash["Exif.Photo.ExposureTime"]
+
+      if hash["Exif.Photo.ExposureTime"]? =~ /(\d+)\s*s/
+        # more than second
+        exif.exposure = $1.to_s.to_f
+      end
+
+      if hash["Exif.Photo.ExposureTime"]? =~ /1\/(\d+)\s*s/
+        # fraction of second
+        exif.exposure = 1.0 / $1.to_s.to_f
+      end
+    end
+
     if hash["Exif.Photo.LensModel"]?
       exif.lens = hash["Exif.Photo.LensModel"].to_s
     end
 
     if hash["Exif.Image.Model"]?
       exif.camera = hash["Exif.Image.Model"].to_s
+    end
+
+    if hash["Exif.OlympusFi.FocusDistance"]?
+      if hash["Exif.OlympusFi.FocusDistance"] == "Infinity"
+        # inifity
+        exif.focus_distance = 1000.0
+      else
+        exif.focus_distance = hash["Exif.OlympusFi.FocusDistance"].to_s.gsub(/[a-z]/, "").to_f
+      end
     end
 
     return exif
