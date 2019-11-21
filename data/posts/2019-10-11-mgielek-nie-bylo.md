@@ -1,7 +1,7 @@
 ---
 layout:                 post
 title:                  "Mgiełek nie było"
-subtitle:               ""
+subtitle:               "kolejne wejście na Sokolik, tym razem dobra pogoda nie jest dobrą pogodą"
 desc:                   ""
 keywords:               []
 date:                   2019-10-11 09:00:00
@@ -28,6 +28,8 @@ pois:
 
 
 ## Wstęp
+
+Kolejne
 
 ## Opis trasy
 

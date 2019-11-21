@@ -214,3 +214,13 @@ Mam domyślnie ustawiony zestaw modułów,
 które w większości sytuacji tworzy już zdjęcie wyjściowe.
 
 <!-- TODO dodać o Wavelets -->
+
+## Aktualizacja 2019-11-21
+
+Ostatnio próbowałem przerobić RAW z Pentaksa KS-2. Pomimo już biegłości w
+`darktable` nie potrafiłem uzyskać podobnego rezultatu. Usuwanie aberracji nie
+było tak dobre jak i mam wrażenie, że wyostrzanie w `rawtherapee` jest
+bardziej "krajobrazowe".
+
+Również zauważyłem, że zdjęcia z Olympusa nie są na tyle soczyste. Bardzo
+możliwe że błędem jest moja percepcja.

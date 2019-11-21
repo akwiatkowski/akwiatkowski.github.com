@@ -29,8 +29,16 @@ pois:
 
 ## Wstęp
 
+Wschodnie [Rudawy Janowickie][wiki-rudawy-janowickie] zawsze podobały mi się
+idealnie łącząć niezbyt wysokie góry, sudeckie wioski i sensowne połączenia kolejowe.
+
+Tego dnia chciałem z [Jeleniej Góry][wiki-jelenia-gora] dostać się do
+[Kamiennej Góry][wiki-kamienna-gora] pociągiem i tam ruszyć w trasę.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2790200205/embed/93ace6a6b4db8f418b9210a4946c2cbfaac1beec'></iframe>
 
 ## Szczegóły
+
+Przesiadkę mieliśmy w 
