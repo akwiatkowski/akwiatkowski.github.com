@@ -51,6 +51,7 @@ class Tremolite::Renderer
 
     render_more_page
     render_about_page
+    render_en_page
     render_summary_page
     render_year_stat_reports_pages
     render_gallery
@@ -298,6 +299,19 @@ class Tremolite::Renderer
     )
     write_output(view)
   end
+
+  def render_en_page
+    view = MarkdownPageView.new(
+      blog: @blog,
+      url: "/en",
+      file: "en",
+      image_url: @blog.data_manager.not_nil!["en.backgrounds"],
+      title: @blog.data_manager.not_nil!["en.title"],
+      subtitle: @blog.data_manager.not_nil!["en.subtitle"]
+    )
+    write_output(view)
+  end
+
 
   def render_summary_page
     view = SummaryView.new(blog: @blog, url: "/summary")

@@ -143,6 +143,12 @@ aby były one na tyle efektowne. A świat wymaga efektownych.
 
 <!-- TODO Jaś -->
 
+### 2019
+
+W tym roku miałem trochę okołożyciowych i pracowych spraw do ogarnięcia
+spraw do ogarnięcia. Stosunkowo mało jeździłem rowerem natomiast zrobiłem
+dużo zdjęć.
+
 ### Przyszłość
 
 Moje określone cele wolę zostawić dla siebie i będę pisał dopiero po ich
