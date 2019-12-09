@@ -115,7 +115,7 @@ class BaseView < Tremolite::Views::BaseView
   def footer_html
     h = Hash(String, String).new
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
-    h["year"] = Time.now.year.to_s
+    h["year"] = Time.local.year.to_s
 
     return load_html("include/footer", h)
   end

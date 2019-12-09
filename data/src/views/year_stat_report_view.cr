@@ -94,8 +94,8 @@ class YearStatReportView < PageView
     # months list
     months_list = ""
     (1..12).each do |month|
-      time = Time.new(@year, month, 1).at_beginning_of_month
-      if time < Time.now
+      time = Time.local(@year, month, 1).at_beginning_of_month
+      if time < Time.local
         month_data = Hash(String, String).new
 
         month_distance = 0

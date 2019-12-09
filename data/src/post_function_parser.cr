@@ -9,7 +9,7 @@ class Tremolite::Views::BaseView
 
     result = command.scan(/current_year/)
     if result.size > 0
-      return Time.now.year.to_s
+      return Time.local.year.to_s
     end
 
     result = command.scan(/pro_tip/)
@@ -125,17 +125,17 @@ class Tremolite::Views::BaseView
     )
 
     data = {
-      "img.src"           => url,
-      "img.alt"           => desc,
-      "img.title"         => desc,
-      "img.size"          => (image_size(url) / 1024).to_s + " kB",
-      "img_full.src"      => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
-      "img.is_gallery"    => is_gallery.to_s,
-      "img.is_timeline"   => is_timeline.to_s,
-      "img.lat" => "",
-      "img.lon" => "",
-      "img.altitude" => "",
-      "img.time" => "",
+      "img.src"         => url,
+      "img.alt"         => desc,
+      "img.title"       => desc,
+      "img.size"        => (image_size(url) / 1024).to_s + " kB",
+      "img_full.src"    => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
+      "img.is_gallery"  => is_gallery.to_s,
+      "img.is_timeline" => is_timeline.to_s,
+      "img.lat"         => "",
+      "img.lon"         => "",
+      "img.altitude"    => "",
+      "img.time"        => "",
     }
 
     if exif
@@ -169,10 +169,10 @@ class Tremolite::Views::BaseView
     data = {
       "zoom" => 14.to_s,
       "lat"  => lat.to_s,
-      "lon"  => lon.to_s
+      "lon"  => lon.to_s,
     }
     # new line could impact markdown processing (ex: list)
-    return load_html("partials/geo", data).gsub(/\n/," ")
+    return load_html("partials/geo", data).gsub(/\n/, " ")
   end
 
   private def pro_tip(post : (Tremolite::Post | Nil))

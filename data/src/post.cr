@@ -61,7 +61,6 @@ class Tremolite::Post
 
   property :photo_entities
 
-
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
   end
@@ -362,7 +361,7 @@ class Tremolite::Post
       end
     end
 
-    @all_uploaded_photo_entities = @all_uploaded_photo_entities.not_nil!.sort {|a,b| a.image_filename <=> b.image_filename }
+    @all_uploaded_photo_entities = @all_uploaded_photo_entities.not_nil!.sort { |a, b| a.image_filename <=> b.image_filename }
     return @all_uploaded_photo_entities.not_nil!
   end
 

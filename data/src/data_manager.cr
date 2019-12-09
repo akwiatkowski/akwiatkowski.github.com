@@ -113,7 +113,7 @@ class Tremolite::DataManager
   def process_photo_entity(photo_entity : PhotoEntity)
     selected = @exifs.not_nil!.select do |e|
       e.post_slug == photo_entity.post_slug &&
-      e.image_filename == photo_entity.image_filename
+        e.image_filename == photo_entity.image_filename
     end
 
     if selected.size == 0

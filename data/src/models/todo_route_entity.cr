@@ -153,7 +153,7 @@ struct TodoRouteEntity
     dp = (direction / h).floor.to_i
 
     return case dp
-    when      0 then '|'  # "N"
+    when 0      then '|'  # "N"
     when 1, 2   then '/'  # "NE"
     when 3, 4   then '-'  # "E"
     when 5, 6   then '\\' # "NW"
@@ -161,7 +161,7 @@ struct TodoRouteEntity
     when 9, 10  then '/'  # "NE"
     when 11, 12 then '-'  # "E"
     when 13, 14 then '\\' # "NW"
-    when     15 then '|'  # "N"
+    when 15     then '|'  # "N"
     else
       raise "direction is wrong"
     end

@@ -27,14 +27,14 @@ struct PhotoEntity
 
   @tags : Array(String)
 
-  FLAG_NOGALLERY = "nogallery"
+  FLAG_NOGALLERY   = "nogallery"
   FLAG_NO_TIMELINE = "notimeline"
-  FLAG_TIMELINE = "timeline"
+  FLAG_TIMELINE    = "timeline"
 
-  THUMB_PREFIX     = "thumb"
-  BIG_THUMB_PREFIX = "big_thumb"
+  THUMB_PREFIX         = "thumb"
+  BIG_THUMB_PREFIX     = "big_thumb"
   GALLERY_THUMB_PREFIX = "gallery_thumb"
-  SMALL_PREFIX     = "small"
+  SMALL_PREFIX         = "small"
 
   getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline
   getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
@@ -114,8 +114,8 @@ struct PhotoEntity
 
     data["klass"] = klass
     data["post.url"] = @post_url
-    data["img.src"] = @gallery_thumb_image_src  # @big_thumb_image_src
-    processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}": @desc
+    data["img.src"] = @gallery_thumb_image_src # @big_thumb_image_src
+    processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}" : @desc
     data["img.alt"] = processed_desc
     data["img.title"] = processed_desc
     data["post.title"] = @post_title

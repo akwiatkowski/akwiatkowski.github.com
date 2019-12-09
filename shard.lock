@@ -2,19 +2,19 @@ version: 1.0
 shards:
   common_mark:
     github: ysbaddaden/crystal-cmark
-    commit: 386765a43a59ce1542f869b955af980d29b3d2fd
+    commit: efa51e2c054d897c707c44d0686118986ad58932
 
   crystal_gpx:
     github: akwiatkowski/crystal_gpx
-    commit: 6f8dd3e7b892f48f2bec5e315846ed5ff7de4163
+    commit: 5b0a5a8c56ee093b508c0baca6913098774466b3
 
   exception_page:
     github: crystal-loot/exception_page
-    version: 0.1.1
+    version: 0.1.2
 
   kemal:
     github: kemalcr/kemal
-    commit: dcffd7b3f9c89a0847df95319db00912fb194595
+    commit: 4d6fb0614f29aa02254913dc6ed69b0cb148fa81
 
   kilt:
     github: jeromegn/kilt
@@ -26,5 +26,5 @@ shards:
 
   tremolite:
     github: akwiatkowski/tremolite
-    commit: 45c56915a9bff981b1e483065e85ed7a0a01e280
+    commit: b12d55f18b11f4657c2c916c5d7fb246e1786c40
 

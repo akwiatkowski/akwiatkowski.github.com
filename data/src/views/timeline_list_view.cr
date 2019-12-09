@@ -18,11 +18,11 @@ class TimelineList < WidePageView
   end
 
   # PARTS = 12 * 4 # * 2
-  PARTS = 52 # weeks
+  PARTS          = 52 # weeks
   INTERTED_QUANT = 1.0 / PARTS.to_f
 
-  PER_ROW = 12 # 8
-  PER_ROW_LINE = 4
+  PER_ROW      = 12 # 8
+  PER_ROW_LINE =  4
 
   USE_WIDER_LAYOUT = false
 
@@ -57,8 +57,8 @@ class TimelineList < WidePageView
   def part_html(i_from, i_to, index)
     selected_photos = @photo_entities.select { |pe|
       pe.float_of_year >= i_from &&
-      pe.float_of_year < i_to
-    }.sort { |a,b|
+        pe.float_of_year < i_to
+    }.sort { |a, b|
       a.time.day_of_year <=> b.time.day_of_year
     }
 
@@ -93,8 +93,8 @@ class TimelineList < WidePageView
         "gallery_post_image" => load_html(
           "gallery/gallery_post_image",
           selected_photo.hash_for_partial(year_within_desc: true)
-          )
-        }
+        ),
+      }
       )
     }.join("\n")
   end
@@ -107,7 +107,7 @@ class TimelineList < WidePageView
     selected_photos_timeline = selected_photos.select { |pe| pe.is_timeline }
 
     if selected_photos_timeline.size > 0
-      interval = selected_photos_timeline.size / PER_ROW
+      interval = (selected_photos_timeline.size / PER_ROW).to_i
       interval = 1 if interval < 1 # just for safety
 
       index = 0
@@ -130,7 +130,7 @@ class TimelineList < WidePageView
     selected_photos_rest = selected_photos.select { |pe| pe.is_timeline == false }
 
     if selected_photos_rest.size > 0
-      interval = selected_photos_rest.size / PER_ROW
+      interval = (selected_photos_rest.size / PER_ROW).to_i
       interval = 1 if interval < 1 # just for safety
 
       index = 0
