@@ -29,8 +29,42 @@ pois:
 
 ## Wstęp
 
+Pojawił się pomysł aby gdzieś pojechać. Niestety pojawił się późno, a
+sam nie miałem dużej motywacji.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2551378807/embed/0fb0c67285898faac11dc622347062f206bdcfe8'></iframe>
 
 ## Szczegóły
+
+Zabrałem pełnoklatkowe Sony A7R z Tokiną 20mm (bez AF). Chciałem przy
+okazji przetestować ten obiektyw.
+
+Ruszyliśmy pociągiem do [Strykowa][wiki-strykow] za [Stęszewem][wiki-steszew].
+
+Plan wyglądał następująco - jechać na północ i zobaczyć co się wydarzy. Nie
+planowaliśmy długiej trasy.
+
+Zjechaliśmy na plażę przy Jeziorze Strykowskim, gdzie zjedliśmy najbardziej
+niesmaczną tortillę. Ponownie byłem przerażony na bezrefleksyjne podejście
+do śmieci - kupić, zjeść i wywalić, wszystko do jednego pojemnika.
+
+Ruszyliśmy dalej na północ po drodze dobrej jakości. Okolica dla mnie
+była nijaka, nudna. Wyjątkiem były niektóre budynki w
+[Sapowicach][wiki-sapowice].
+
+Spodobało mi się pole niedaleko wsi [Tomice][wiki-tomice].
+Poeksperymentowałem tam ze zdjęciami. Okrągłe snopki wyglądały ciekawie
+na tle zachmurzonego nieba.
+
+Będąc w okolicy postanowiłem, że warto by było odwiedzić
+[Żarnowiec][wiki-zarnowiec].
+
+TODO okolica, piaskowa, ale jakoś dało się jechać szosoprzełajem
+
+Przez [Skrzynki][wiki-skrzynki] dotarliśmy do stacji kolejowej w
+[Otuszu][wiki-otusz]. Dla mnie to było mało dlatego ruszyłem jescze trochę
+dalej, do centrum [Otusza][wiki-otusz].
+
+Dotarłem do parku z małym stawem.
