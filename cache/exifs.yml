@@ -118690,3 +118690,44 @@
   exposure_string: 1 s
   time: 2019-11-17 17:12:37+01:00
   focus_distance: 7.89
+- image_filename: 2019_12_29__11_27__C291981.jpg
+  post_slug: 2019-12-28-stronie-slaskie-i-okolica
+  lat: 50.263305555555554
+  lon: 16.8765
+  altitude: 573.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4831
+  height: 3606
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-12-29 11:27:06+01:00
+  focus_distance: 6.86
+- image_filename: 2019_12_30__16_50_DSC05557.jpg
+  post_slug: 2020-01-01-wschody-i-zachody-na-sniezniku
+  lat: 50.20773611111112
+  lon: 16.84701388888889
+  altitude: 1418.0
+  aperture: 2.8
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6832
+  height: 4574
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2019-12-30 16:50:22+01:00
+- image_filename: 2020_01_02__10_30__1024986.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  lat: 50.21354166666667
+  lon: 16.81336111111111
+  altitude: 1005.0
+  aperture: 9.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5079
+  height: 3903
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-01-02 10:30:02+01:00
+  focus_distance: 11.06
