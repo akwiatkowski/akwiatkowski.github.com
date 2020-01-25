@@ -121752,3 +121752,29 @@
   exposure_string: 1/80 s
   time: 2020-01-02 10:57:45+01:00
   focus_distance: 7.27
+- image_filename: 2020_01_18__13_55_DSC06085.jpg
+  post_slug: 2020-01-18-prawie-zima-na-trojgarbie
+  lat: 50.812625
+  lon: 16.163597222222222
+  altitude: 804.0
+  aperture: 5.6
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6990
+  height: 4669
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-01-18 13:55:40+01:00
+- image_filename: 2020_01_19__12_19_DSC06201.jpg
+  post_slug: 2020-01-19-wokol-zbiornika-bukowka
+  lat: 50.70272222222223
+  lon: 15.929708333333332
+  altitude: 538.0
+  aperture: 4.5
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-01-19 12:19:47+01:00
