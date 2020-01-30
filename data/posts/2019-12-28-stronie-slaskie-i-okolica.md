@@ -60,3 +60,9 @@ Ruszyliśmy pociągiem około 9:20 z [Poznania][wiki-poznan]. We
 po 14-tej wysiedliśmy w [Stroniu Śląskim][wiki-stronie-slaskie].
 
 ### Dotarcie do schroniska
+
+### Wieczór przy schronisku
+
+[Następny wpis]({% post_url 2020-01-01-wschody-i-zachody-na-sniezniku %})
+jasno mówi o [Śnieżniku][wiki-snieznik] dlatego zdjęcia ze schroniska
+umieszczę tutaj.
