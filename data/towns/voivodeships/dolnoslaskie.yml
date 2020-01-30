@@ -395,3 +395,21 @@
   name: Piława Górna
   type: town
   voivodeship: dolnoslaskie
+- slug: szczawno_zdroj
+  name: Szczawno Zdrój
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.80340
+  lon: 16.25261
+- slug: stare_bogaczowice
+  name: Stare Bogaczowice
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.84710
+  lon: 16.19828
+- slug: lubawka
+  name: Lubawka
+  type: town
+  voivodeship: dolnoslaskie
+  lat: 50.70772
+  lon: 15.99581
