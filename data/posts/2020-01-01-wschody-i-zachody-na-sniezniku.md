@@ -35,6 +35,7 @@ pois:
 [wiki-zmijowiec]: https://pl.wikipedia.org/wiki/%C5%BBmijowiec_(szczyt)
 [wiki-czarna-gora]: https://pl.wikipedia.org/wiki/Czarna_G%C3%B3ra_(Masyw_%C5%9Anie%C5%BCnika)
 [wiki-rzeka-morawa]: https://pl.wikipedia.org/wiki/Morawa_(lewy_dop%C5%82yw_Dunaju)
+[wiki-sniezka]: https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
 
 ## Wstęp
 

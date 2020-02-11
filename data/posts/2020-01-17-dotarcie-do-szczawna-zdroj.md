@@ -87,7 +87,7 @@ ciekawych miejsc.
 
 {% photo "2020_01_17__14_51__1170185.jpg","Schody w stronę szlaku pieszego do parku" %}
 
-W okolicy [stacji][wiki-walbrzych-miato]
+W okolicy [stacji][wiki-walbrzych-miasto]
 budowana jest obwodnica i aby dotrzeć do niebieskiego szlaku pieszego
 musiałem trochę kombinować.
 
