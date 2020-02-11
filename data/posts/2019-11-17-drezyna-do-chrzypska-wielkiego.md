@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_11_17__14_37__B175386.jpg
 tags:                   [train, todo]
-towns:                  [wielkopolska, chrzypsko_wielkie]
+towns:                  [wielkopolskie, chrzypsko_wielkie]
 
 coords:                 [{"route": [], "type": "hike"}]
 distance:               4
