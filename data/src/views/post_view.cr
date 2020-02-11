@@ -104,17 +104,6 @@ class PostView < BaseView
       data["lands_content"] = ""
     end
 
-    # check missing towns
-    # XXX move it to validator
-    towns_or_voivodeships = @post.towns.not_nil!
-    all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
-    towns_or_voivodeships.each do |slug|
-      common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
-      if common_count == 0
-        @validator.error_in_post(@post, "missing town #{slug}")
-      end
-    end
-
     # towns
     pd = Hash(String, String).new
     pd["taggable.name"] = "Miejscowości"
