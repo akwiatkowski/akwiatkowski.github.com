@@ -1,4 +1,14 @@
 ---
+- slug: czechy
+  name: Czechy
+  type: country
+  country: Czechy
+
+- slug: czechy_kraj_olomucki
+  name: Kraj Ołomucki
+  type: voivodeship
+  country: Czechy
+
 - slug: praga
   name: Praga
   type: town
