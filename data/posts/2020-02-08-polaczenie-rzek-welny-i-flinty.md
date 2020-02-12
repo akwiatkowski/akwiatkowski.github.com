@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_02_08__15_20_DSC06824.jpg
 tags:                   [hike, todo]
-towns:                  [wielkopolskie, oborniki_wielkopolskie, rogozno]
+towns:                  [wielkopolskie, oborniki, rogozno]
 
 coords:                 [{"route": [[52.67932,16.85335], [52.70434,16.86519], [52.70595,16.86125]], "type": "hike"}]
 distance:               6
