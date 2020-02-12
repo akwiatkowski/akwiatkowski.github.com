@@ -1,3 +1,5 @@
+require "../services/day_of_week"
+
 class PostView < BaseView
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
     @url = @post.url.as(String)
@@ -26,6 +28,7 @@ class PostView < BaseView
     data["post.subtitle"] = @post.subtitle
     data["post.author"] = @post.author
     data["post.date"] = @post.date
+    data["post.date.day_of_week"] = @post.time.day_of_week_polish
     return load_html("post/header", data)
   end
 
