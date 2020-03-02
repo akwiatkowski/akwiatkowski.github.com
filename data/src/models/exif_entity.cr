@@ -7,6 +7,8 @@ struct ExifEntity
   @lon : (Float64 | Nil)
   @altitude : (Float64 | Nil)
   @focal_length : (Float64 | Nil)
+  @focal_length_35 : (Float64 | Nil)
+  @crop : (Float64 | Nil)
   @aperture : (Float64 | Nil)
   @exposure : (Float64 | Nil)
   @exposure_string : (String | Nil)
@@ -33,6 +35,8 @@ struct ExifEntity
     lon: Float64?,
     altitude: Float64?,
     focal_length: Float64?,
+    focal_length_35: Float64?,
+    crop: Float64?,
     aperture: Float64?,
     lens: String?,
     camera: String?,
@@ -51,6 +55,8 @@ struct ExifEntity
     lon: Float64?,
     altitude: Float64?,
     focal_length: Float64?,
+    focal_length_35: Float64?,
+    crop: Float64?,
     aperture: Float64?,
     lens: String?,
     camera: String?,

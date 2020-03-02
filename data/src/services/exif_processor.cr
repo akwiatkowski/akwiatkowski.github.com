@@ -6,6 +6,7 @@ class ExifProcessor
     "Exif.GPSInfo.GPSLongitudeRef",
     "Exif.GPSInfo.GPSLatitudeRef",
     "Exif.Photo.FocalLength",
+    "Exif.Photo.FocalLengthIn35mmFilm",
     "Exif.Photo.FNumber",
     "Exif.Photo.LensModel",
     "Exif.Image.Model",
@@ -45,8 +46,15 @@ class ExifProcessor
     if hash["Exif.Photo.PixelXDimension"]?
       exif.width = hash["Exif.Photo.PixelXDimension"].to_i
     end
+    if hash["Exif.Photo.ImageWidth"]?
+      exif.width ||= hash["Exif.Photo.ImageWidth"].to_i
+    end
+
     if hash["Exif.Photo.PixelYDimension"]?
       exif.height = hash["Exif.Photo.PixelYDimension"].to_i
+    end
+    if hash["Exif.Photo.ImageLength"]?
+      exif.height ||= hash["Exif.Photo.ImageLength"].to_i
     end
 
     if hash["Exif.Photo.DateTimeOriginal"]?
@@ -97,7 +105,35 @@ class ExifProcessor
 
     # lens focal length
     if hash["Exif.Photo.FocalLength"]?
-      photo_entity.exif.focal_length = hash["Exif.Photo.FocalLength"].gsub(/[a-z]/, "").to_f
+      focal_value = hash["Exif.Photo.FocalLength"].gsub(/[a-z]/, "").to_f
+
+      if focal_value > 0.0
+        exif.focal_length = focal_value
+      end
+    end
+    if hash["Exif.Photo.FocalLengthIn35mmFilm"]? &&
+       hash["Exif.Photo.FocalLengthIn35mmFilm"]?.to_s.strip != "Unknown"
+      # puts hash.to_yaml
+      exif.focal_length_35 = hash["Exif.Photo.FocalLengthIn35mmFilm"].gsub(/[a-z]/, "").to_f
+    end
+
+    # crop info processing
+    # calculate from existing `focal_length_35`
+    if exif.focal_length_35 && exif.focal_length
+      exif.crop = exif.focal_length_35.not_nil!.to_f / exif.focal_length.not_nil!.to_f
+    end
+    # if it's olympus - crop 2x and calculate `focal_length_35`
+    if hash["Exif.Image.Make"]? && hash["Exif.Image.Make"].to_s.downcase.index("olymp")
+      exif.crop ||= 2.0
+    end
+    # if it's olympus - crop 2x and calculate `focal_length_35`
+    if hash["Exif.Image.Make"]? && hash["Exif.Image.Make"].to_s.downcase.index("pentax")
+      exif.crop ||= 1.5
+    end
+    # XXX add Sony?
+    # calculate `focal_length_35` using `focal_length` and `crop`
+    if exif.crop && exif.focal_length
+      exif.focal_length_35 ||= exif.focal_length.not_nil!.to_f * exif.crop.not_nil!.to_f
     end
 
     # lens aperture
@@ -122,6 +158,9 @@ class ExifProcessor
 
     if hash["Exif.Photo.LensModel"]?
       exif.lens = hash["Exif.Photo.LensModel"].to_s
+    end
+    if hash["Exif.Pentax.LensType"]?
+      exif.lens ||= hash["Exif.Pentax.LensType"].to_s
     end
 
     if hash["Exif.Image.Model"]?
