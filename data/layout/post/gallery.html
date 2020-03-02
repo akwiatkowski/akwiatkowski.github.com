@@ -2,12 +2,14 @@
   <div class="container">
     <div class="row">
       <div class="">
-        <p>Zdjęć {{ photos.count }}</p>
+        <p>Ilość zdjęć: {{ photos.count }}</p>
 
         <div class="post-photo-gallery lg-enabled">
           {{ content }}
         </div>
 
+        <hr>
+        {{ stats }}
         <hr>
 
         <ul class="pager">

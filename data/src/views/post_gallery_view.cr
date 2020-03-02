@@ -1,3 +1,5 @@
+require "./helpers/exif_stats_helper"
+
 class PostGalleryView < BaseView
   GALLERY_URL_SUFFIX = "/gallery.html"
 
@@ -28,6 +30,7 @@ class PostGalleryView < BaseView
     data["post.subtitle"] = @post.subtitle
     data["post.author"] = @post.author
     data["post.date"] = @post.date
+    data["post.date.day_of_week"] = @post.time.day_of_week_polish
     return load_html("post/header", data)
   end
 
@@ -73,6 +76,9 @@ class PostGalleryView < BaseView
     end
     data["content"] = s
 
+    # generate exif based stats and append to gallery page
+    data["stats"] = stats_html
+
     return load_html("post/gallery", data)
   end
 
@@ -84,5 +90,16 @@ class PostGalleryView < BaseView
   # overriden here
   def meta_keywords_string
     return @post.keywords.not_nil!.join(", ").as(String)
+  end
+
+  def stats_html
+    helper = ExifStatsHelper.new(
+      post: @post,
+      photos: @post.all_uploaded_photo_entities
+    )
+
+    helper.make_it_so
+
+    return helper.to_html
   end
 end
