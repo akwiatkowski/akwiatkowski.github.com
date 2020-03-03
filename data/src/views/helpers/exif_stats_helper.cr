@@ -1,4 +1,29 @@
 class ExifStatsHelper
+  NORMALIZATION_INDEXES = [
+    15, 18, # ultra wide
+    22, 26, 32, # wide
+    40, 60, 80, # normal
+    100, 140, # tele
+    180, 250, # tele 2
+    300, 400, # long tele
+    500, # super tele
+  ]
+
+  MIN_FOCAL = NORMALIZATION_INDEXES.min
+  MAX_FOCAL = NORMALIZATION_INDEXES.max
+
+  NORMALIZATION_RANGES = (1...NORMALIZATION_INDEXES.size).map do |i|
+    Range.new(
+      NORMALIZATION_INDEXES[i - 1],
+      NORMALIZATION_INDEXES[i]
+    )
+  end
+
+  FOCAL_KEY_PROC = ->(fc : Range(Int32, Int32)) { "#{fc.begin}-#{fc.end} mm" }
+
+  MIN_FOCAL_KEY = "< #{MIN_FOCAL} mm"
+  MAX_FOCAL_KEY = "> #{MAX_FOCAL} mm"
+
   def initialize(
     photos : Array(PhotoEntity) | Nil,
     post : Tremolite::Post | Nil
@@ -8,7 +33,10 @@ class ExifStatsHelper
 
     @count_by_lens = Hash(String, Int32).new
     @count_by_camera = Hash(String, Int32).new
+
     @count_by_focal35 = Hash(Int32, Int32).new
+    @count_by_focal35_lower = 0
+    @count_by_focal35_higher = 0
 
     if photos
       append(photos)
@@ -20,6 +48,8 @@ class ExifStatsHelper
   end
 
   def make_it_so
+    focal_ranges = NORMALIZATION_INDEXES
+
     @photos.each do |photo|
       exif = photo.exif
 
@@ -40,19 +70,18 @@ class ExifStatsHelper
       end
 
       if exif.focal_length_35
-        key = normalize_35mm(exif.focal_length_35.not_nil!).to_i
-        @count_by_focal35[key] ||= 0
-        @count_by_focal35[key] += 1
+        focal_int = exif.focal_length_35.not_nil!.round
+        if focal_int < MIN_FOCAL
+          @count_by_focal35_lower += 1
+        elsif focal_int > MAX_FOCAL
+          @count_by_focal35_higher += 1
+        else
+          focal_range = NORMALIZATION_RANGES.select{ |fr| fr.covers?(focal_int) }.first
+          @count_by_focal35[focal_range.begin] ||= 0
+          @count_by_focal35[focal_range.begin] += 1
+        end
       end
-
-      puts exif.focal_length_35
     end
-  end
-
-  NORMALIZATION_COEFF = 0.7
-
-  def normalize_35mm(focal_length)
-    return (focal_length ** NORMALIZATION_COEFF).round.to_f ** (1.0 / NORMALIZATION_COEFF)
   end
 
   def generate_table_for_array(
@@ -68,7 +97,7 @@ class ExifStatsHelper
     title_array.each do |title|
       s += "<th>#{title}</th>"
     end
-    s += "</tr>"
+    s += "</tr>\n"
     s += "</thead>\n"
 
     # content
@@ -76,7 +105,11 @@ class ExifStatsHelper
     array.each do |array_row|
       s += "<tr>"
       array_row.each do |cell|
-        s += "<td>#{cell}</td>"
+        if cell
+          s += "<td>#{cell}</td>"
+        else
+          s += "<td\>"
+        end
       end
       s += "</tr>\n"
     end
@@ -120,14 +153,36 @@ class ExifStatsHelper
     end
 
     if @count_by_focal35.keys.size > 0
-      array = Array(Array(Int32)).new
-      @count_by_focal35.keys.sort.each do |key|
-        array << [key, @count_by_focal35[key]]
+      titles = Array(String).new
+      values = Array(Int32 | Nil).new
+
+      if @count_by_focal35_lower > 0
+        titles << "&lt; #{MIN_FOCAL}mm"
+        values << @count_by_focal35_lower
       end
-      s += generate_table_for_array(
-        array: array,
-        title_array: ["Ogniskowa", "Ilość"]
-      )
+
+      @count_by_focal35.keys.sort.each do |focal_range_begin|
+        focal_range = NORMALIZATION_RANGES.select{|fr| fr.begin == focal_range_begin}.first
+        title = FOCAL_KEY_PROC.call(focal_range)
+        value = @count_by_focal35[focal_range_begin]
+
+        titles << title
+        values << value
+      end
+
+      if @count_by_focal35_higher > 0
+        titles << "&gt; #{MAX_FOCAL}mm"
+        values << @count_by_focal35_higher
+      end
+
+      if titles.size > 0
+        focal_ranges_html = generate_table_for_array(
+          array: [ [nil] + values],
+          title_array: ["Ogniskowa"] + titles
+        )
+
+        s += focal_ranges_html
+      end
     end
 
     return s
