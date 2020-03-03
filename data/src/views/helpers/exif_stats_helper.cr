@@ -1,4 +1,7 @@
 class ExifStatsHelper
+  # better to not add because it makes lens duplicated
+  ADD_CAMERA_TO_LENS_NAME = false
+
   NORMALIZATION_INDEXES = [
     15, 18, # ultra wide
     22, 26, 32, # wide
@@ -25,8 +28,8 @@ class ExifStatsHelper
   MAX_FOCAL_KEY = "> #{MAX_FOCAL} mm"
 
   def initialize(
-    photos : Array(PhotoEntity) | Nil,
-    post : Tremolite::Post | Nil
+    photos : Array(PhotoEntity) | Nil = nil,
+    post : Tremolite::Post | Nil = nil
   )
     @photos = Array(PhotoEntity).new
     @post = post
@@ -59,7 +62,7 @@ class ExifStatsHelper
       end
 
       if exif.lens
-        if exif.camera
+        if exif.camera && ADD_CAMERA_TO_LENS_NAME
           key = "#{exif.lens} <span class='small'>(#{exif.camera})</span>"
         else
           key = exif.lens.to_s

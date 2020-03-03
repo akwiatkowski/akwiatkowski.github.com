@@ -23,6 +23,7 @@ require "./views/tag_gallery_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
+require "./views/exif_stats_view"
 
 require "./views/payload_json_generator"
 require "./views/rss_generator"
@@ -57,6 +58,7 @@ class Tremolite::Renderer
     render_gallery
     render_tag_galleries
     render_timeline_list
+    render_exif_stats
 
     render_sitemap
     render_robot
@@ -366,6 +368,11 @@ class Tremolite::Renderer
 
   def render_timeline_list
     view = TimelineList.new(blog: @blog)
+    write_output(view)
+  end
+
+  def render_exif_stats
+    view = ExifStatsView.new(blog: @blog, url: "/exif_stats")
     write_output(view)
   end
 
