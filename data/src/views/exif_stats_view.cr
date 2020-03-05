@@ -1,6 +1,13 @@
-require "./helpers/exif_stats_helper"
+require "../services/exif_stat/exif_stat_helper"
 
-class ExifStatsView < PageView
+# TODO:
+# * what lenses do I use on what trips: hike, bicycle, photo
+# * do I use most often per post
+# * what is most important?
+# * what extreme focals are used?
+# * filter only zoom lenses
+
+class ExifStatsView < WidePageView
   def initialize(@blog : Tremolite::Blog, @url : String)
 
     @url = "/exif_stats"
@@ -8,8 +15,9 @@ class ExifStatsView < PageView
     @subtitle = ""
 
     @published_photos = Array(PhotoEntity).new
+    @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
 
-    @blog.post_collection.posts.map do |post|
+    @posts.map do |post|
       post.photo_entities.not_nil!.each do |photo_entity|
         @published_photos << photo_entity.not_nil!
       end
@@ -34,12 +42,13 @@ class ExifStatsView < PageView
   # end
 
   def stats_html_for(photos : Array(PhotoEntity))
-    helper = ExifStatsHelper.new(
-      photos: photos
+    helper = ExifStatHelper.new(
+      # posts: @post,
+      photos: @published_photos
     )
 
     helper.make_it_so
-
-    return helper.to_html
+    
+    return helper.render_basic_stats + helper.render_lens_usage
   end
 end

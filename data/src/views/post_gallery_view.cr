@@ -1,4 +1,4 @@
-require "./helpers/exif_stats_helper"
+require "../services/exif_stat/exif_stat_helper"
 
 class PostGalleryView < BaseView
   GALLERY_URL_SUFFIX = "/gallery.html"
@@ -93,13 +93,13 @@ class PostGalleryView < BaseView
   end
 
   def stats_html
-    helper = ExifStatsHelper.new(
-      post: @post,
+    helper = ExifStatHelper.new(
+      posts: [ @post ],
       photos: @post.all_uploaded_photo_entities
     )
 
     helper.make_it_so
 
-    return helper.to_html
+    return helper.render_basic_stats
   end
 end
