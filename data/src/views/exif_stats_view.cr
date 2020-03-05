@@ -48,6 +48,6 @@ class ExifStatsView < WidePageView
 
     helper.make_it_so
 
-    return helper.render_basic_stats + helper.render_lens_usage
+    return helper.render_overall_stats
   end
 end

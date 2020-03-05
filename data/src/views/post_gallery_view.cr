@@ -100,6 +100,6 @@ class PostGalleryView < BaseView
 
     helper.make_it_so
 
-    return helper.render_basic_stats
+    return helper.render_post_gallery_stats
   end
 end

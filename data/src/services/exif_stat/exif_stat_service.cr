@@ -5,13 +5,14 @@ class ExifStatService
   ADD_CAMERA_TO_LENS_NAME = false
 
   NORMALIZATION_INDEXES = [
-    15, 18,     # ultra wide
+    10, 15, 18, # ultra wide
     22, 26, 32, # wide
     40, 60, 80, # normal
     100, 140,   # tele
     180, 250,   # tele 2
     300, 400,   # long tele
-    500,        # super tele
+    500, 800,   # super tele
+    1000        # ulra tele
   ]
 
   MIN_FOCAL = NORMALIZATION_INDEXES.min
@@ -71,5 +72,27 @@ class ExifStatService
         @stats_by_lens[exif.lens.to_s].increment(photo: photo)
       end
     end
+  end
+
+  def process_focal_hash_to_array_stats(count_by_focal35 : Hash)
+    NORMALIZATION_RANGES.map do |fr|
+      selected_focals = count_by_focal35.keys.select do |focal|
+        fr.begin <= focal && fr.end > focal
+      end
+
+      count = selected_focals.map do |focal|
+        count_by_focal35[focal]
+      end.sum
+
+      {
+        from: fr.begin,
+        to: fr.end,
+        count: count
+      }
+    end
+  end
+
+  def focal_range_stats_overall
+    process_focal_hash_to_array_stats(@stats_overall.count_by_focal35)
   end
 end

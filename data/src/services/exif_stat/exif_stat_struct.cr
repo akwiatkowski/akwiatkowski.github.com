@@ -3,6 +3,7 @@ require "./exif_stat_type"
 struct ExifStatStruct
   getter :is_zoom
   getter :count_by_focal35
+  getter :count_by_month_and_focal35
 
   TIME_FROM_KEY = :time_from
   TIME_TO_KEY   = :time_to
@@ -18,6 +19,7 @@ struct ExifStatStruct
     @times = Hash(Symbol, Time).new
 
     @count_by_focal35 = Hash(Int32, Int32).new
+    @count_by_month_and_focal35 = Hash(Time, Hash(Int32, Int32)).new
 
     @is_zoom = false
     # if it's lens type check it lens (key_name) is zoom
@@ -48,6 +50,10 @@ struct ExifStatStruct
 
     @count_by_month[month] ||= 0
     @count_by_month[month] += 1
+
+    @count_by_month_and_focal35[month] ||= Hash(Int32, Int32).new
+    @count_by_month_and_focal35[month][focal_int] ||= 0
+    @count_by_month_and_focal35[month][focal_int] += 1
 
     @count_by_year[year] ||= 0
     @count_by_year[year] += 1

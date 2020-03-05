@@ -8,12 +8,13 @@ class ExifStatHelper
     @service = ExifStatService.new
   end
 
+  # generate html tables from data
   def generate_table_for_array(
     title_array,
     array
   )
     s = ""
-    s += "<table class='table'>\n"
+    s += "<table class='table exif-stats-table'>\n"
     s += "<thead>\n"
 
     # header title
@@ -55,7 +56,7 @@ class ExifStatHelper
 
     array = array_ah.map do |array_h|
       title_ah.map do |title_h|
-        array_h[title_h[:key]]
+        array_h[title_h[:key]]?
       end
     end
 
@@ -80,12 +81,14 @@ class ExifStatHelper
     )
   end
 
+  # process, incremend data for overall/lens/camera
   def make_it_so
     @service.append(@photos)
     @service.make_it_so
   end
 
-  def render_hash_based_count_table(
+  # to render Hash(String -> ExifStatStruct) table for lens or camera stats
+  private def render_hash_based_count_table(
     hash : Hash(String, ExifStatStruct),
     title : String
   ) : String
@@ -122,9 +125,16 @@ class ExifStatHelper
 
   def html_stats_lens_usage : String
     array = @service.stats_by_lens.map do |lens, stat_structure|
+      time_from = stat_structure.time_from
+      time_from = time_from.to_s("%Y-%m-%d") if time_from
+      time_to = stat_structure.time_to
+      time_to = time_to.to_s("%Y-%m-%d") if time_to
+
       {
         lens:          lens,
         avg_per_month: stat_structure.smart_avg_per_month || 0,
+        from: time_from,
+        to: time_to
       }
     end.sort do |a, b|
       b[:avg_per_month].to_i <=> a[:avg_per_month].to_i
@@ -133,6 +143,8 @@ class ExifStatHelper
     titles = [
       {title: "Obiektyw", key: :lens},
       {title: "Zdj. na miesiąc", key: :avg_per_month},
+      {title: "Od", key: :from},
+      {title: "Do", key: :to},
     ]
 
     return generate_table_for_array_of_hash(
@@ -141,75 +153,173 @@ class ExifStatHelper
     )
   end
 
-  def render_basic_stats
+  def html_stats_focal_lengths_total : String
+    # not render not used focal ranges
+    focal_stats = @service.focal_range_stats_overall.select do |fs|
+      fs[:count] > 0
+    end
+
+    title_array = ["Ogniskowa [mm]"] + focal_stats.map do |fs|
+      "#{fs[:from]}-#{fs[:to]}"
+    end
+
+    array = [nil] + focal_stats.map do |fs|
+      fs[:count]
+    end
+
+    return generate_table_for_array(
+      title_array: title_array,
+      array: [ array ]
+    )
+  end
+
+  def html_stats_focal_lengths_by_lens(
+    only_zoom : Bool = false
+  ) : String
+    lenses = @service.stats_by_lens.keys.sort.as(Array(String))
+
+    if only_zoom
+      lenses = lenses.select do |lens|
+        @service.stats_by_lens[lens].is_zoom
+      end
+    end
+
+    # if no zoom lenses return empty string
+    return "" if lenses.size == 0
+
+    # helper variable used for sorting strings
+    focal_hash = Hash(String, String).new
+    # helper int hash to speed up sorting
+    focal_int = Hash(Int32, Int32).new
+
+    array_ah = lenses.map do |lens|
+      # get stats struct
+      stats_struct = @service.stats_by_lens[lens]
+      focal_stats = @service.process_focal_hash_to_array_stats(
+        stats_struct.count_by_focal35
+      )
+
+      row_hash = focal_stats.map do |fs|
+        if fs[:count] > 0
+          # key is focal range from, value is string key and title
+          focal_hash[fs[:from].to_s] ||= "#{fs[:from]}-#{fs[:to]}"
+          # to speed up sorting
+          focal_int[fs[:from]] ||= 1
+
+          # will be used to render table
+          [fs[:from].to_s, fs[:count].to_s]
+        else
+          nil
+        end
+      end.compact.to_h
+
+      # add lens name
+      row_hash["lens"] = lens
+
+      row_hash
+    end
+
+    # TODO add summary row
+    # TODO later refactor, move rendering methods elsewhere
+
+    # titles from helper hash
+    # first row is "lens"
+    title_ah = [
+      {
+        key: "lens",
+        title: "Obiektyw"
+      }
+    ] + focal_int.keys.sort.map do |from_focal|
+      {
+        key: from_focal.to_s,
+        title: focal_hash[from_focal.to_s]
+      }
+    end
+
+    return generate_table_for_array_of_hash(
+      title_ah: title_ah,
+      array_ah: array_ah
+    )
+  end
+
+  def html_stats_focal_lengths_by_month : String
+    months_and_focals = @service.stats_overall.count_by_month_and_focal35
+    months = months_and_focals.keys.sort
+
+    # if no zoom lenses return empty string
+    return "" if months.size == 0
+
+    # helper variable used for sorting strings
+    focal_hash = Hash(String, String).new
+    # helper int hash to speed up sorting
+    focal_int = Hash(Int32, Int32).new
+
+    array_ah = months.map do |month|
+      # get stats struct
+      focal_stats = @service.process_focal_hash_to_array_stats(
+        months_and_focals[month]
+      )
+
+      row_hash = focal_stats.map do |fs|
+        if fs[:count] > 0
+          # key is focal range from, value is string key and title
+          focal_hash[fs[:from].to_s] ||= "#{fs[:from]}-#{fs[:to]}"
+          # to speed up sorting
+          focal_int[fs[:from]] ||= 1
+
+          # will be used to render table
+          [fs[:from].to_s, fs[:count].to_s]
+        else
+          nil
+        end
+      end.compact.to_h
+
+      # add lens name
+      row_hash["month"] = month.to_s("%Y&#8722;%m")
+
+      row_hash
+    end
+
+    # TODO add summary row
+    # TODO later refactor, move rendering methods elsewhere
+
+    # titles from helper hash
+    # first row is "lens"
+    title_ah = [
+      {
+        key: "month",
+        title: "Miesiąc"
+      }
+    ] + focal_int.keys.sort.map do |from_focal|
+      {
+        key: from_focal.to_s,
+        title: focal_hash[from_focal.to_s]
+      }
+    end
+
+    return generate_table_for_array_of_hash(
+      title_ah: title_ah,
+      array_ah: array_ah
+    )
+  end
+
+  # stats sets
+  def render_post_gallery_stats
     s = ""
 
-    s += html_stats_count_by_lens
     s += html_stats_count_by_camera
+    s += html_stats_focal_lengths_by_lens
 
     return s
   end
 
-  def render_lens_usage
+  def render_overall_stats
     s = ""
 
     s += html_stats_lens_usage
-
-    return s
-  end
-
-  def to_html
-    s = ""
-
-    # if @count_by_lens.keys.size > 0
-    #   s += generate_table_for_hash(
-    #     hash: @count_by_lens,
-    #     title: "Obiektywy"
-    #   )
-    #
-    #   # additional table, how often lens is used
-    #   if @multiple_day_stats
-    #     s += lens_how_often_used_table
-    #   end
-    # end
-    #
-    # if @count_by_camera.keys.size > 0
-    #
-    # end
-    #
-    # # by focal length
-    # if @count_by_focal35.keys.size > 0
-    #   titles = Array(String).new
-    #   values = Array(Int32 | Nil).new
-    #
-    #   if @count_by_focal35_lower > 0
-    #     titles << "&lt; #{MIN_FOCAL}"
-    #     values << @count_by_focal35_lower
-    #   end
-    #
-    #   @count_by_focal35.keys.sort.each do |focal_range_begin|
-    #     focal_range = NORMALIZATION_RANGES.select{|fr| fr.begin == focal_range_begin}.first
-    #     title = FOCAL_KEY_PROC.call(focal_range)
-    #     value = @count_by_focal35[focal_range_begin]
-    #
-    #     titles << title
-    #     values << value
-    #   end
-    #
-    #   if @count_by_focal35_higher > 0
-    #     titles << "&gt; #{MAX_FOCAL}"
-    #     values << @count_by_focal35_higher
-    #   end
-    #
-    #   if titles.size > 0
-    #     focal_ranges_html = generate_table_for_array(
-    #       array: [ [nil] + values],
-    #       title_array: ["Ogniskowa [mm]"] + titles
-    #     )
-    #
-    #     s += focal_ranges_html
-    #   end
-    # end
+    s += html_stats_count_by_camera
+    s += html_stats_focal_lengths_by_lens
+    s += html_stats_focal_lengths_by_month
 
     return s
   end
