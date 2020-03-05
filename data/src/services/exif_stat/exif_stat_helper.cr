@@ -72,11 +72,11 @@ class ExifStatHelper
     s = ""
 
     # descending order
-    sorted_keys = hash.keys.sort {|a,b| hash[a].to_i <=> hash[b].to_i }.reverse
+    sorted_keys = hash.keys.sort { |a, b| hash[a].to_i <=> hash[b].to_i }.reverse
 
     return generate_table_for_array(
       title_array: [title, "Ilość"],
-      array: sorted_keys.map {|key| [key, hash[key]] }
+      array: sorted_keys.map { |key| [key, hash[key]] }
     )
   end
 
@@ -93,7 +93,7 @@ class ExifStatHelper
       processed_hash = hash.keys.map do |key|
         [
           key,
-          hash[key].count
+          hash[key].count,
         ]
       end.to_h
 
@@ -123,10 +123,10 @@ class ExifStatHelper
   def html_stats_lens_usage : String
     array = @service.stats_by_lens.map do |lens, stat_structure|
       {
-        lens: lens,
-        avg_per_month: stat_structure.smart_avg_per_month || 0
+        lens:          lens,
+        avg_per_month: stat_structure.smart_avg_per_month || 0,
       }
-    end.sort do |a,b|
+    end.sort do |a, b|
       b[:avg_per_month].to_i <=> a[:avg_per_month].to_i
     end
 

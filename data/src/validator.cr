@@ -7,8 +7,8 @@ class Tremolite::Validator
     all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
     posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
 
-    self_propelled_posts = posts.select{ |post| post.self_propelled? }
-    not_self_propelled_posts = posts.select{ |post| post.self_propelled? != true }
+    self_propelled_posts = posts.select { |post| post.self_propelled? }
+    not_self_propelled_posts = posts.select { |post| post.self_propelled? != true }
 
     # self propelled posts should have defined towns
     self_propelled_posts.each do |post|
@@ -18,7 +18,7 @@ class Tremolite::Validator
       towns_or_voivodeships.each do |slug|
         common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
         if common_count == 0
-            error_in_post(post, "missing town #{slug}")
+          error_in_post(post, "missing town #{slug}")
         end
       end
     end
@@ -31,7 +31,7 @@ class Tremolite::Validator
       towns_or_voivodeships.each do |slug|
         common_count = all_towns_or_voivodeships.select { |s| slug == s }.size
         if common_count == 0
-            warning_in_post(post, "missing town #{slug}")
+          warning_in_post(post, "missing town #{slug}")
         end
       end
     end

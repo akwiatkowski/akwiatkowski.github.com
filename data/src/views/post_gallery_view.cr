@@ -94,7 +94,7 @@ class PostGalleryView < BaseView
 
   def stats_html
     helper = ExifStatHelper.new(
-      posts: [ @post ],
+      posts: [@post],
       photos: @post.all_uploaded_photo_entities
     )
 

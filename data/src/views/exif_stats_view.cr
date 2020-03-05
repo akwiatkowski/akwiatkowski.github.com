@@ -9,7 +9,6 @@ require "../services/exif_stat/exif_stat_helper"
 
 class ExifStatsView < WidePageView
   def initialize(@blog : Tremolite::Blog, @url : String)
-
     @url = "/exif_stats"
     @title = "Statystyki EXIF"
     @subtitle = ""
@@ -48,7 +47,7 @@ class ExifStatsView < WidePageView
     )
 
     helper.make_it_so
-    
+
     return helper.render_basic_stats + helper.render_lens_usage
   end
 end

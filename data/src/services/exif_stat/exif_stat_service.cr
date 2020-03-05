@@ -5,13 +5,13 @@ class ExifStatService
   ADD_CAMERA_TO_LENS_NAME = false
 
   NORMALIZATION_INDEXES = [
-    15, 18, # ultra wide
+    15, 18,     # ultra wide
     22, 26, 32, # wide
     40, 60, 80, # normal
-    100, 140, # tele
-    180, 250, # tele 2
-    300, 400, # long tele
-    500, # super tele
+    100, 140,   # tele
+    180, 250,   # tele 2
+    300, 400,   # long tele
+    500,        # super tele
   ]
 
   MIN_FOCAL = NORMALIZATION_INDEXES.min
@@ -28,8 +28,7 @@ class ExifStatService
 
   getter :stats_overall, :stats_by_lens, :stats_by_camera
 
-  def initialize(
-  )
+  def initialize
     @stats_overall = ExifStatStruct.new(
       type: ExifStatType::Overall
     )
