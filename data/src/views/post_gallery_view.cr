@@ -92,14 +92,31 @@ class PostGalleryView < BaseView
     return @post.keywords.not_nil!.join(", ").as(String)
   end
 
+  MINIMUM_PHOTOS_FOR_STATS = 3
+
   def stats_html
-    helper = ExifStatHelper.new(
-      posts: [@post],
-      photos: @post.all_uploaded_photo_entities
-    )
+    data = Hash(String, String).new
 
-    helper.make_it_so
+    if @post.all_uploaded_photo_entities.size >= MINIMUM_PHOTOS_FOR_STATS &&
+      @post.photo_entities.not_nil!.size >= MINIMUM_PHOTOS_FOR_STATS
+      # don't render if there is not enough photos
+      helper = ExifStatHelper.new(
+        posts: [@post],
+        photos: @post.all_uploaded_photo_entities
+      )
+      helper.make_it_so
+      data["stats.all"] = helper.render_post_gallery_stats
 
-    return helper.render_post_gallery_stats
+      helper_published = ExifStatHelper.new(
+        posts: [@post],
+        photos: @post.photo_entities.not_nil!
+      )
+      helper_published.make_it_so
+      data["stats.published"] = helper_published.render_post_gallery_stats
+
+      return load_html("post/gallery_bottom_stats", data)
+    end
+
+    return ""
   end
 end

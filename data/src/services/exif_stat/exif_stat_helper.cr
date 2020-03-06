@@ -191,6 +191,8 @@ class ExifStatHelper
     focal_hash = Hash(String, String).new
     # helper int hash to speed up sorting
     focal_int = Hash(Int32, Int32).new
+    # last row is summary
+    summary_hash = Hash(String, Int32).new
 
     array_ah = lenses.map do |lens|
       # get stats struct
@@ -206,6 +208,10 @@ class ExifStatHelper
           # to speed up sorting
           focal_int[fs[:from]] ||= 1
 
+          # add to summary
+          summary_hash[fs[:from].to_s] ||= 0
+          summary_hash[fs[:from].to_s] += fs[:count]
+
           # will be used to render table
           [fs[:from].to_s, fs[:count].to_s]
         else
@@ -219,8 +225,14 @@ class ExifStatHelper
       row_hash
     end
 
-    # TODO add summary row
-    # TODO later refactor, move rendering methods elsewhere
+    # add summary only there is more than 1 lenses
+    if lenses.size > 1
+      summary_hash_string = summary_hash.to_a.map do |sh|
+        [sh[0], sh[1].to_s]
+      end.to_h
+      summary_hash_string["lens"] = "Suma"
+      array_ah << summary_hash_string
+    end
 
     # titles from helper hash
     # first row is "lens"
@@ -253,6 +265,8 @@ class ExifStatHelper
     focal_hash = Hash(String, String).new
     # helper int hash to speed up sorting
     focal_int = Hash(Int32, Int32).new
+    # last row is summary
+    summary_hash = Hash(String, Int32).new
 
     array_ah = months.map do |month|
       # get stats struct
@@ -267,6 +281,10 @@ class ExifStatHelper
           # to speed up sorting
           focal_int[fs[:from]] ||= 1
 
+          # add to summary
+          summary_hash[fs[:from].to_s] ||= 0
+          summary_hash[fs[:from].to_s] += fs[:count]
+
           # will be used to render table
           [fs[:from].to_s, fs[:count].to_s]
         else
@@ -280,8 +298,14 @@ class ExifStatHelper
       row_hash
     end
 
-    # TODO add summary row
-    # TODO later refactor, move rendering methods elsewhere
+    # add summary only there is more than 1 months
+    if months.size > 1
+      summary_hash_string = summary_hash.to_a.map do |sh|
+        [sh[0], sh[1].to_s]
+      end.to_h
+      summary_hash_string["month"] = "Suma"
+      array_ah << summary_hash_string
+    end
 
     # titles from helper hash
     # first row is "lens"
