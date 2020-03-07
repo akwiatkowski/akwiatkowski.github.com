@@ -1,4 +1,5 @@
 require "./exif_stat_service"
+require "./exif_lens_coverage"
 
 class ExifStatHelper
   def initialize(
@@ -327,12 +328,35 @@ class ExifStatHelper
     )
   end
 
+  # render table which will calculate how lens would be useful to me
+  def html_stats_lens_focal_coverage : String
+    exif_coverage = ExifStat::ExifLensCoverage.new(
+      stats_struct: @service.stats_overall
+    )
+
+    array_ah = exif_coverage.data_for_lens_focal_coverage
+
+    title_ah = [
+      {key: :name, title: "Obiektyw"},
+      {key: :count, title: "Ilość zdjęć"},
+      {key: :percentage, title: "Procenty"},
+      {key: :total_weight, title: "Waga"},
+      {key: :perc_per_weight, title: "%/waga"},
+    ]
+
+    return generate_table_for_array_of_hash(
+      title_ah: title_ah,
+      array_ah: array_ah
+    )
+  end
+
   # stats sets
   def render_post_gallery_stats
     s = ""
 
     s += html_stats_count_by_camera
     s += html_stats_focal_lengths_by_lens
+    s += html_stats_lens_focal_coverage
 
     return s
   end
@@ -344,6 +368,7 @@ class ExifStatHelper
     s += html_stats_count_by_camera
     s += html_stats_focal_lengths_by_lens
     s += html_stats_focal_lengths_by_month
+    s += html_stats_lens_focal_coverage
 
     return s
   end

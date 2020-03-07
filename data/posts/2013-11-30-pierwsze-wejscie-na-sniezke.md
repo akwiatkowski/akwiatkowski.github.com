@@ -46,34 +46,28 @@ Szczegóły
 Ze [schroniska][wiki-strzecha] wyruszyliśmy o 9-tej. Było trochę szarawo. Rozpoczęliśmy małe podejście
 do [czerwonego szlaku][wiki-gss] po drodzę obserwując mniej lub bardziej ośnieżone drzewa.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/54269044/m%3D900/fde25f780ace61859d3d98ed009cb2de' alt='Winter morning near Strzecha Akademicka by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/54269044/winter-morning-near-strzecha-akademicka-by-aleksander-kwiatkowski' alt='Winter morning near Strzecha Akademicka by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1149raw1.jpg","Białe Karkonosze" %}
 
 Gdy już doszliśmy do [czerwonego szlaku][wiki-gss] teren się trochę wypłaszczył i szliśmy wzdłuż tyczek
 w stronę [Śnieżki][wiki-sniezka]. Po drodzę raczej niewiele ciekawego widzieliśmy, oprócz wspomnianych
 wcześniej drzew. Zrobiliśmy małą przerwę w [Domu Śląskim][wiki-dom-slaski].
 
+{% photo "IMGP1193raw1.jpg","Widok na Dom Śląski" %}
+
 Jak trochę zjedliśmy rozpoczęła się przygoda z górą, która [wcześniej][post-wczesniejszy] nie była zakończona.
 Teraz na szczęście naprawili łańcuchy i popadało dużo śniegu, co znacząco zwiększyło bezpieczeństwo.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/54060844/m%3D900/f42fc6e231e57c181e13a33f1ff37bb1' alt='Ascend to Śnieżka by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/54060844/ascend-to-%C5%9Anie%C5%BCka-by-aleksander-kwiatkowski' alt='Ascend to Śnieżka by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1206raw2.jpg","Podejście na Śnieżkę" %}
 
 Pogoda była dość średnia. Co chwilę chmura, szaro, czasami jakieś promienie słońca się pojawiły. Byłem przekonany
 ze zdjęcia będą mało ciekawe ostatecznie, ale jednak je robiłem. Głupio tak z pustymi rękoma wrócić do domu.
 
+{% photo "IMGP1231raw2-1.jpg","Kapliczka na Śnieżce" %}
+
 Podejście ani nie było straszne, ani nie było lekkie, było gdzieś pośrodku. Nie widzieliśmy tej przepaści dzięki
 słabej pogodzie, więc byliśmy spokojniejsi. Chociaż po dojściu na szczyt było małe uczucie wytchnienia.
+
+{% photo "IMGP1238raw3.jpg","Na Śnieżce" %}
 
 Pokręciliśmy się po [Śnieżce][wiki-sniezka], porobiłem trochę zdjęć i weszliśmy do środka. Tam zamówiliśmy
 lody. Specjalnie dla mnie i Krzycha musieli włączać automat do lodów. W końcu co lepiej byłoby zjeść w zimie,

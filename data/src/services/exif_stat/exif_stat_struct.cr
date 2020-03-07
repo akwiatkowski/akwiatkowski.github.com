@@ -72,6 +72,20 @@ struct ExifStatStruct
     @count_by_year.values.sum
   end
 
+  # calculate number of photos taken between focal lenghts
+  def count_between_focal35(ranges : Array)
+    return @count_by_focal35.to_a.select do |focal, count|
+      # Array(Bool)
+      results = ranges.map do |range|
+        focal >= range[:from].as(Int32) && focal <= range[:to].as(Int32)
+      end
+      # at least one element should be true
+      results.select{|r| r}.size > 0
+    end.map do |focal, count|
+      count
+    end.sum
+  end
+
   def time_from
     @times[TIME_FROM_KEY]?
   end
