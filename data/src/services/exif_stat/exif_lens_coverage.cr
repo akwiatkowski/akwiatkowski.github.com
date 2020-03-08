@@ -13,6 +13,18 @@ class ExifStat::ExifLensCoverage
       quality: 2, # subjective image quality
       mount: :m43,
     },
+    "LEICA 8-18/F2.8-4" => {
+      exif: "LEICA 8-18/F2.8-4", # TODO
+      ranges: [
+        {
+          from: 8*2,
+          to: 18*2,
+        }
+      ],
+      weight: 315,
+      quality: 5, # subjective image quality
+      mount: :m43,
+    },
     "OLYMPUS 12-100mm/F4.0" => {
       exif: "OLYMPUS M.12-100mm F4.0",
       ranges: [
@@ -89,7 +101,7 @@ class ExifStat::ExifLensCoverage
       quality: 8, # subjective image quality
       mount: :sony_fe,
     },
-    "TAMRON 17-28mm/F2.8" => {
+    "TAMRON 70-180mm/F2.8" => {
       exif: "E 70-180mm F2.8-2.8",
       ranges: [
         {
@@ -107,17 +119,52 @@ class ExifStat::ExifLensCoverage
   # because I think it's better than permutations
   LENS_SETS_DEFINITIONS = [
     [
+      "OLYMPUS 12-100mm/F4.0",
+      "OLYMPUS 40-150mm/F2.8 TC"
+    ],
+    [
       "OLYMPUS 12-40mm/F2.8",
       "OLYMPUS 40-150mm/F2.8 TC"
+    ],
+    [
+      "LEICA 8-18/F2.8-4",
+      "OLYMPUS 40-150mm/F2.8 TC"
+    ],
+    [
+      "LEICA 8-18/F2.8-4",
+      "OLYMPUS 12-100mm/F4.0"
+    ],
+    [
+      "LEICA 8-18/F2.8-4",
+      "OLYMPUS 12-40mm/F2.8",
+      "OLYMPUS 40-150mm/F2.8 TC"
+    ],
+    # 3 tamron sets
+    [
+      "TAMRON 17-28mm/F2.8",
+      "TAMRON 28-75mm/F2.8",
+      "TAMRON 70-180mm/F2.8"
+    ],
+    [
+      "TAMRON 28-75mm/F2.8",
+      "TAMRON 70-180mm/F2.8"
+    ],
+    [
+      "TAMRON 17-28mm/F2.8",
+      "TAMRON 28-75mm/F2.8",
+    ],
+    [
+      "TAMRON 17-28mm/F2.8",
+      "TAMRON 70-180mm/F2.8"
     ]
   ]
 
   CAMERAS = {
     :m43 => {
-      weight: 600, # TODO weight of m1 mark ii
+      weight: 574,
     },
     :sony_fe => {
-      weight: 500, # TODO weight of sony a7r
+      weight: 465,
     }
   }
 

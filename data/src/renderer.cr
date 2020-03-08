@@ -11,6 +11,7 @@ require "./views/town_view"
 require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
+require "./views/post_gallery_stats_view"
 require "./views/summary_view"
 require "./views/markdown_page_view"
 require "./views/todos_view"
@@ -274,8 +275,11 @@ class Tremolite::Renderer
     view = PostView.new(blog: @blog, post: post)
     write_output(view)
 
-    view = PostGalleryView.new(blog: @blog, post: post)
-    write_output(view)
+    view_gallery = PostGalleryView.new(blog: @blog, post: post)
+    write_output(view_gallery)
+
+    view_gallery_stats = PostGalleryStatsView.new(blog: @blog, post: post)
+    write_output(view_gallery_stats)
   end
 
   def render_more_page

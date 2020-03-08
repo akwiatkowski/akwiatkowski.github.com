@@ -1,10 +1,10 @@
 require "../services/exif_stat/exif_stat_helper"
 
-class PostGalleryView < BaseView
-  GALLERY_URL_SUFFIX = "/gallery.html"
+class PostGalleryStatsView < BaseView
+  STATS_URL_SUFFIX = "/gallery_stats.html"
 
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
-    @url = @post.url.as(String) + GALLERY_URL_SUFFIX
+    @url = @post.url.as(String) + STATS_URL_SUFFIX
   end
 
   # not ready posts will not be added to sitemap.xml
@@ -46,7 +46,7 @@ class PostGalleryView < BaseView
     np = @blog.post_collection.next_to(@post)
     if np
       nd = Hash(String, String).new
-      nd["post.url"] = np.url + GALLERY_URL_SUFFIX
+      nd["post.url"] = np.url + STATS_URL_SUFFIX
       nd["post.title"] = np.title
       nl = load_html("post/pager_next", nd)
       data["next_post_pager"] = nl
@@ -55,7 +55,7 @@ class PostGalleryView < BaseView
     pp = @blog.post_collection.prev_to(@post)
     if pp
       pd = Hash(String, String).new
-      pd["post.url"] = pp.url + GALLERY_URL_SUFFIX
+      pd["post.url"] = pp.url + STATS_URL_SUFFIX
       pd["post.title"] = pp.title
       pl = load_html("post/pager_prev", pd)
       data["prev_post_pager"] = pl
@@ -66,47 +66,28 @@ class PostGalleryView < BaseView
     pl = load_html("post/pager_post", pd)
     data["post_pager"] = pl
 
-    photo_entities = @post.all_uploaded_photo_entities
-    data["photos.count"] = photo_entities.size.to_s
+    data["content_for_published"] = stats_for_published_photos
+    data["content_for_all"] = stats_for_all_photos
 
-    s = ""
-    photo_entities.each do |photo_entity|
-      s += load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
-    end
-    data["content"] = s
-
-    # generate exif based stats and append to gallery page
-    data["stats"] = stats_html
-
-    return load_html("post/gallery", data)
+    return load_html("post/gallery_stats", data)
   end
 
-  # overriden here
-  def page_desc
-    return @post.desc.not_nil!
+  def stats_for_published_photos
+    helper = ExifStatHelper.new(
+      posts: [@post],
+      photos: @post.photo_entities.not_nil!
+    )
+    helper.make_it_so
+
+    return helper.render_post_gallery_detailed_stats
   end
 
-  # overriden here
-  def meta_keywords_string
-    return @post.keywords.not_nil!.join(", ").as(String)
-  end
-
-  MINIMUM_PHOTOS_FOR_STATS = 5
-
-  # stats for all photos
-  def stats_html
-    data = Hash(String, String).new
-
-    if @post.all_uploaded_photo_entities.size >= MINIMUM_PHOTOS_FOR_STATS
-      # don't render if there is not enough photos
-      helper = ExifStatHelper.new(
-        posts: [@post],
-        photos: @post.all_uploaded_photo_entities
-      )
-      helper.make_it_so
-      return helper.render_post_gallery_stats
-    end
-
-    return ""
+  def stats_for_all_photos
+    helper = ExifStatHelper.new(
+      posts: [@post],
+      photos: @post.all_uploaded_photo_entities
+    )
+    helper.make_it_so
+    return helper.render_post_gallery_detailed_stats
   end
 end

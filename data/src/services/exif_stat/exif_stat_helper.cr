@@ -350,8 +350,19 @@ class ExifStatHelper
     )
   end
 
-  # stats sets
+  # stats at post gallery page
   def render_post_gallery_stats
+    s = ""
+
+    s += html_stats_count_by_camera
+    s += html_stats_focal_lengths_by_lens
+
+    return s
+  end
+
+  # stats at post gallery-stats page
+  # page with only stats, no photos
+  def render_post_gallery_detailed_stats
     s = ""
 
     s += html_stats_count_by_camera
