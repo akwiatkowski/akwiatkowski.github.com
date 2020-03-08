@@ -9,6 +9,7 @@
 * [**Krainy**](/lands) - Lista zdefiniowanych krain.
 * [**O mnie**](/about) - Tutaj nie ma jeszcze nic o mnie, gdyż nie wiem co napisać.
 * [**Planer**](/planner) - Narzędzie pomagające w wyborze pasma górskiego do zwiedzenia analizując opisane wycieczki.
+* [**Statystyki EXIF**](/exif_stats) - Statystyki zdjęć EXIF.
 * [**500px**](https://500px.com/bobik314) - Miejsce w którym wrzucam moje najlepsze zdjęcia, jak i gdzie przechowuje zdjęcia do wpisów na tym blogu.
 * [**RSS**](/feed.xml) / [**Atom**](/feed_atom.xml) - Kanał RSS/Atom udostępniający powiadomienia o nowych wpisach.
 * [**JSON**](/payload.json) - Wszystkie istotne dane z wpisów w formacie JSON w formacie łatwo przetwarzalnym.

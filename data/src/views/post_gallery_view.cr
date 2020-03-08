@@ -1,4 +1,5 @@
 require "../services/exif_stat/exif_stat_helper"
+require "./post_gallery_stats_view"
 
 class PostGalleryView < BaseView
   GALLERY_URL_SUFFIX = "/gallery.html"
@@ -77,6 +78,8 @@ class PostGalleryView < BaseView
 
     # generate exif based stats and append to gallery page
     data["stats"] = stats_html
+
+    data["stats.path"] = @post.url + PostGalleryStatsView::STATS_URL_SUFFIX
 
     return load_html("post/gallery", data)
   end
