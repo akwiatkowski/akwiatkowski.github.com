@@ -76,6 +76,30 @@ class ExifStat::ExifLensCoverage
       quality: 3, # subjective image quality
       mount: :m43,
     },
+    "OLYMPUS 60mm/2.8" => {
+      exif: "OLYMPUS M.60mm F2.8 Macro",
+      ranges: [
+        {
+          from: 60*2,
+          to: 70*2,
+        }
+      ],
+      weight: 186,
+      quality: 6, # subjective image quality
+      mount: :m43,
+    },
+    "OLYMPUS 75mm/1.8" => {
+      exif: "", # TODO
+      ranges: [
+        {
+          from: 75*2,
+          to: 85*2,
+        }
+      ],
+      weight: 305,
+      quality: 7, # subjective image quality
+      mount: :m43,
+    },
     # sony FE
     "TAMRON 28-75mm/F2.8" => {
       exif: "E 28-75mm F2.8-2.8",
@@ -111,6 +135,30 @@ class ExifStat::ExifLensCoverage
       ],
       weight: 815,
       quality: 8, # subjective image quality
+      mount: :sony_fe,
+    },
+    "TOKINA 20mm/F2" => {
+      exif: "E 20mm F2",
+      ranges: [
+        {
+          from: 20,
+          to: 24, # we can crop from prime
+        }
+      ],
+      weight: 490,
+      quality: 10, # subjective image quality
+      mount: :sony_fe,
+    },
+    "SONY 85mm/F1.8" => {
+      exif: "FE 85mm F1.8",
+      ranges: [
+        {
+          from: 85,
+          to: 100, # we can crop from prime
+        }
+      ],
+      weight: 371,
+      quality: 10, # subjective image quality
       mount: :sony_fe,
     }
   }
@@ -299,16 +347,22 @@ class ExifStat::ExifLensCoverage
         additional_percentage = 100.0 * additional_lens_count.to_f / total_count.to_f
         perc_per_weight = 1000.0 * additional_percentage / other_lens[:weight].to_f
 
+        total_percentage = lens_hash[:percentage] + additional_percentage.to_i
+        total_weight = other_lens[:weight] + lens_hash[:weight]
+        total_perc_per_weight = 1000.0 * total_percentage / total_weight.to_f
+
         {
           name: other_lens[:name],
           mount: other_lens[:mount],
           ranges: other_lens[:ranges],
           additional_count: additional_lens_count,
           additional_percentage: additional_percentage.to_i,
-          percentage: lens_hash[:percentage] + additional_percentage.to_i,
+          percentage: total_percentage,
           count: lens_hash[:count] + additional_lens_count.to_i,
           weight: other_lens[:weight],
+          total_weight: total_weight,
           perc_per_weight: perc_per_weight.to_i,
+          total_perc_per_weight: total_perc_per_weight.to_i,
         }
       end
 

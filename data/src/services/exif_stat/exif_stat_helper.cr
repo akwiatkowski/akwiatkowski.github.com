@@ -364,17 +364,23 @@ class ExifStatHelper
       name: String | Nil,
       other_name: String | Nil,
       count: Int32,
+      additional_count: Int32 | Nil,
       weight: Int32,
+      additional_weight: Int32 | Nil,
       percentage: Int32,
+      additional_percent: Int32 | Nil,
       perc_per_weight: Int32,
     )).new
 
     title_ah = [
       {key: :name, title: "Obiektyw"},
       {key: :other_name, title: "Dodatkowy ob."},
-      {key: :count, title: "Ilość zdjęć"},
+      {key: :count, title: "Ilość"},
+      {key: :additional_count, title: "+"},
       {key: :weight, title: "Waga"},
+      {key: :additional_weight, title: "+"},
       {key: :percentage, title: "%"},
+      {key: :additional_percent, title: "+"},
       {key: :perc_per_weight, title: "%/waga"},
     ]
 
@@ -383,8 +389,11 @@ class ExifStatHelper
         name: photo_kit[:lens][:name],
         other_name: nil,
         count: photo_kit[:lens][:count],
+        additional_count: nil,
         weight: photo_kit[:lens][:weight],
+        additional_weight: nil,
         percentage: photo_kit[:lens][:percentage],
+        additional_percent: nil,
         perc_per_weight: photo_kit[:lens][:perc_per_weight],
       }
 
@@ -392,10 +401,13 @@ class ExifStatHelper
         array_ah << {
           name: nil, # photo_kit[:lens][:name],
           other_name: other_lens[:name],
-          count: other_lens[:count],
-          weight: other_lens[:weight],
-          percentage: other_lens[:additional_percentage],
-          perc_per_weight: other_lens[:perc_per_weight],
+          count: other_lens[:count] + photo_kit[:lens][:count],
+          additional_count: other_lens[:count],
+          weight: other_lens[:weight] + photo_kit[:lens][:weight],
+          additional_weight: other_lens[:weight],
+          percentage: other_lens[:percentage],
+          additional_percent: other_lens[:additional_percentage],
+          perc_per_weight: other_lens[:total_perc_per_weight],
         }
       end
     end
