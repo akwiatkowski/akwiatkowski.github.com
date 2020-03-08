@@ -73,14 +73,26 @@ struct ExifStatStruct
   end
 
   # calculate number of photos taken between focal lenghts
-  def count_between_focal35(ranges : Array)
+  def count_between_focal35(
+    ranges : Array,
+    except : Array = Array(NamedTuple(from: Int32, to: Int32)).new
+  )
     return @count_by_focal35.to_a.select do |focal, count|
-      # Array(Bool)
-      results = ranges.map do |range|
+      negative_results = except.map do |range|
         focal >= range[:from].as(Int32) && focal <= range[:to].as(Int32)
       end
-      # at least one element should be true
-      results.select{|r| r}.size > 0
+
+      # if negative_results is empty -> range was not removed
+      if negative_results.select{|r| r}.size > 0
+        false
+      else
+        # Array(Bool)
+        results = ranges.map do |range|
+          focal >= range[:from].as(Int32) && focal <= range[:to].as(Int32)
+        end
+        # at least one element should be true
+        results.select{|r| r}.size > 0
+      end
     end.map do |focal, count|
       count
     end.sum

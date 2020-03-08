@@ -117,6 +117,8 @@ class ExifStat::ExifLensCoverage
 
   # list of combination lenses
   # because I think it's better than permutations
+  #
+  # old one, not used but no removing this
   LENS_SETS_DEFINITIONS = [
     [
       "OLYMPUS 12-100mm/F4.0",
@@ -158,18 +160,7 @@ class ExifStat::ExifLensCoverage
       "TAMRON 70-180mm/F2.8"
     ]
   ]
-
-  CAMERAS = {
-    :m43 => {
-      weight: 574,
-    },
-    :sony_fe => {
-      weight: 465,
-    }
-  }
-
   LENS_SETS_AND_SINGLE = LENSES.keys.map {|l| [l] } + LENS_SETS_DEFINITIONS
-
   LENSES_LIST = LENS_SETS_AND_SINGLE.map do |lens_defs|
     # array
     lenses = lens_defs.map do |lens_name|
@@ -191,12 +182,34 @@ class ExifStat::ExifLensCoverage
     }
   end
 
+  # new attempt to calculate useful stats
+  LENSES_ARRAY = LENSES.keys.map do |lens_name|
+    camera_weight = CAMERAS[LENSES[lens_name][:mount]][:weight].as(Int32)
+    LENSES[lens_name].merge(
+      {
+        name: lens_name,
+        camera_weight: camera_weight,
+      }
+    )
+  end
+
+  CAMERAS = {
+    :m43 => {
+      weight: 574,
+    },
+    :sony_fe => {
+      weight: 465,
+    }
+  }
+
+
   def initialize(
     @stats_struct : ExifStatStruct
   )
   end
 
   # render table which will calculate how lens would be useful to me
+  # old one
   def data_for_lens_focal_coverage
     total_count = @stats_struct.count
     array_ah_calculated = LENSES_LIST.map do |lens_hash|
@@ -227,6 +240,95 @@ class ExifStat::ExifLensCoverage
     end
 
     return array_ah
+  end
+
+  # render data to analyze what lenses are most useful
+  # new one
+  PHOTP_KIT_INITIAL_PERCENT = 40
+  PHOTO_KIT_OTHER_ADD_LENS_PERCENT = 5
+
+  def photo_kit_coverage_data
+    total_count = @stats_struct.count
+    # calculate lens usefulness stats
+    ls_calculated = LENSES_ARRAY.map do |lens_hash|
+      lens_count = @stats_struct.count_between_focal35(
+        lens_hash[:ranges],
+      )
+
+      total_weight = lens_hash[:weight] + lens_hash[:camera_weight]
+      percentage = 100.0 * lens_count.to_f / total_count.to_f
+      perc_per_weight = 1000.0 * percentage / total_weight.to_f
+
+      {
+        name: lens_hash[:name],
+        mount: lens_hash[:mount],
+        ranges: lens_hash[:ranges],
+        count: lens_count,
+        percentage: percentage.to_i,
+        weight: lens_hash[:weight],
+        camera_weight: lens_hash[:camera_weight],
+        total_weight: total_weight,
+        perc_per_weight: perc_per_weight.to_i,
+      }
+    end
+
+    # filter and sorot for only best useful
+    ls_selected = ls_calculated.select do |lh|
+      # we want only most useful lens
+      lh[:percentage] > PHOTP_KIT_INITIAL_PERCENT
+    end.sort do |a,b|
+      b[:percentage] <=> a[:percentage]
+    end
+
+    # add other possible lenses
+    kit_data = ls_selected.map do |lens_hash|
+      # select other lenses for same mount
+      other_lenses = ls_calculated.select do |other_lens|
+        other_lens[:name] != lens_hash[:name] && lens_hash[:mount] == other_lens[:mount]
+      end
+
+      # calculate how much adding that lens add to kit
+      other_lenses_data = other_lenses.map do |other_lens|
+        additional_lens_count = @stats_struct.count_between_focal35(
+          other_lens[:ranges],
+          except: lens_hash[:ranges]
+        )
+        # we have number of photos which could be taken
+        # if we have added that lens into our kit
+
+        additional_percentage = 100.0 * additional_lens_count.to_f / total_count.to_f
+        perc_per_weight = 1000.0 * additional_percentage / other_lens[:weight].to_f
+
+        {
+          name: other_lens[:name],
+          mount: other_lens[:mount],
+          ranges: other_lens[:ranges],
+          additional_count: additional_lens_count,
+          additional_percentage: additional_percentage.to_i,
+          percentage: lens_hash[:percentage] + additional_percentage.to_i,
+          count: lens_hash[:count] + additional_lens_count.to_i,
+          weight: other_lens[:weight],
+          perc_per_weight: perc_per_weight.to_i,
+        }
+      end
+
+      # select only useful other lenses
+      # if lens add leass then `PHOTO_KIT_OTHER_ADD_LENS_PERCENT` percent
+      # it's not useful in our case
+      other_useful_lenses = other_lenses_data.select do |other_lens|
+        other_lens[:additional_percentage] >= PHOTO_KIT_OTHER_ADD_LENS_PERCENT
+      end.sort do |a,b|
+        # and order from most useful
+        b[:additional_percentage] <=> a[:additional_percentage]
+      end
+
+      {
+        lens: lens_hash,
+        other_useful_lenses: other_useful_lenses
+      }
+    end
+
+    return kit_data
   end
 
 end

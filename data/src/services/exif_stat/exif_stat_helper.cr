@@ -329,6 +329,7 @@ class ExifStatHelper
   end
 
   # render table which will calculate how lens would be useful to me
+  # old one, still available
   def html_stats_lens_focal_coverage : String
     exif_coverage = ExifStat::ExifLensCoverage.new(
       stats_struct: @service.stats_overall
@@ -343,6 +344,61 @@ class ExifStatHelper
       {key: :total_weight, title: "Waga"},
       {key: :perc_per_weight, title: "%/waga"},
     ]
+
+    return generate_table_for_array_of_hash(
+      title_ah: title_ah,
+      array_ah: array_ah
+    )
+  end
+
+  # render table which will calculate how lens would be useful to me
+  # new one
+  def html_stats_photo_kit_coverage : String
+    exif_coverage = ExifStat::ExifLensCoverage.new(
+      stats_struct: @service.stats_overall
+    )
+
+    photo_kit_array = exif_coverage.photo_kit_coverage_data
+
+    array_ah = Array(NamedTuple(
+      name: String | Nil,
+      other_name: String | Nil,
+      count: Int32,
+      weight: Int32,
+      percentage: Int32,
+      perc_per_weight: Int32,
+    )).new
+
+    title_ah = [
+      {key: :name, title: "Obiektyw"},
+      {key: :other_name, title: "Dodatkowy ob."},
+      {key: :count, title: "Ilość zdjęć"},
+      {key: :weight, title: "Waga"},
+      {key: :percentage, title: "%"},
+      {key: :perc_per_weight, title: "%/waga"},
+    ]
+
+    photo_kit_array.each do |photo_kit|
+      array_ah << {
+        name: photo_kit[:lens][:name],
+        other_name: nil,
+        count: photo_kit[:lens][:count],
+        weight: photo_kit[:lens][:weight],
+        percentage: photo_kit[:lens][:percentage],
+        perc_per_weight: photo_kit[:lens][:perc_per_weight],
+      }
+
+      photo_kit[:other_useful_lenses].as(Array).each do |other_lens|
+        array_ah << {
+          name: nil, # photo_kit[:lens][:name],
+          other_name: other_lens[:name],
+          count: other_lens[:count],
+          weight: other_lens[:weight],
+          percentage: other_lens[:additional_percentage],
+          perc_per_weight: other_lens[:perc_per_weight],
+        }
+      end
+    end
 
     return generate_table_for_array_of_hash(
       title_ah: title_ah,
@@ -367,7 +423,7 @@ class ExifStatHelper
 
     s += html_stats_count_by_camera
     s += html_stats_focal_lengths_by_lens
-    s += html_stats_lens_focal_coverage
+    s += html_stats_photo_kit_coverage
 
     return s
   end
@@ -379,7 +435,7 @@ class ExifStatHelper
     s += html_stats_count_by_camera
     s += html_stats_focal_lengths_by_lens
     s += html_stats_focal_lengths_by_month
-    s += html_stats_lens_focal_coverage
+    s += html_stats_photo_kit_coverage
 
     return s
   end
