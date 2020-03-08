@@ -134,8 +134,8 @@ class ExifStatHelper
       {
         lens:          lens,
         avg_per_month: stat_structure.smart_avg_per_month || 0,
-        from: time_from,
-        to: time_to
+        from:          time_from,
+        to:            time_to,
       }
     end.sort do |a, b|
       b[:avg_per_month].to_i <=> a[:avg_per_month].to_i
@@ -170,7 +170,7 @@ class ExifStatHelper
 
     return generate_table_for_array(
       title_array: title_array,
-      array: [ array ]
+      array: [array]
     )
   end
 
@@ -239,13 +239,13 @@ class ExifStatHelper
     # first row is "lens"
     title_ah = [
       {
-        key: "lens",
-        title: "Obiektyw"
-      }
+        key:   "lens",
+        title: "Obiektyw",
+      },
     ] + focal_int.keys.sort.map do |from_focal|
       {
-        key: from_focal.to_s,
-        title: focal_hash[from_focal.to_s]
+        key:   from_focal.to_s,
+        title: focal_hash[from_focal.to_s],
       }
     end
 
@@ -312,13 +312,13 @@ class ExifStatHelper
     # first row is "lens"
     title_ah = [
       {
-        key: "month",
-        title: "Miesiąc"
-      }
+        key:   "month",
+        title: "Miesiąc",
+      },
     ] + focal_int.keys.sort.map do |from_focal|
       {
-        key: from_focal.to_s,
-        title: focal_hash[from_focal.to_s]
+        key:   from_focal.to_s,
+        title: focal_hash[from_focal.to_s],
       }
     end
 
@@ -386,28 +386,28 @@ class ExifStatHelper
 
     photo_kit_array.each do |photo_kit|
       array_ah << {
-        name: photo_kit[:lens][:name],
-        other_name: nil,
-        count: photo_kit[:lens][:count],
-        additional_count: nil,
-        weight: photo_kit[:lens][:weight],
-        additional_weight: nil,
-        percentage: photo_kit[:lens][:percentage],
+        name:               photo_kit[:lens][:name],
+        other_name:         nil,
+        count:              photo_kit[:lens][:count],
+        additional_count:   nil,
+        weight:             photo_kit[:lens][:weight],
+        additional_weight:  nil,
+        percentage:         photo_kit[:lens][:percentage],
         additional_percent: nil,
-        perc_per_weight: photo_kit[:lens][:perc_per_weight],
+        perc_per_weight:    photo_kit[:lens][:perc_per_weight],
       }
 
       photo_kit[:other_useful_lenses].as(Array).each do |other_lens|
         array_ah << {
-          name: nil, # photo_kit[:lens][:name],
-          other_name: other_lens[:name],
-          count: other_lens[:count] + photo_kit[:lens][:count],
-          additional_count: other_lens[:count],
-          weight: other_lens[:weight] + photo_kit[:lens][:weight],
-          additional_weight: other_lens[:weight],
-          percentage: other_lens[:percentage],
+          name:               nil, # photo_kit[:lens][:name],
+          other_name:         other_lens[:name],
+          count:              other_lens[:count] + photo_kit[:lens][:count],
+          additional_count:   other_lens[:count],
+          weight:             other_lens[:weight] + photo_kit[:lens][:weight],
+          additional_weight:  other_lens[:weight],
+          percentage:         other_lens[:percentage],
           additional_percent: other_lens[:additional_percentage],
-          perc_per_weight: other_lens[:total_perc_per_weight],
+          perc_per_weight:    other_lens[:total_perc_per_weight],
         }
       end
     end

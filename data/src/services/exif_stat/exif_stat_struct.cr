@@ -83,7 +83,7 @@ struct ExifStatStruct
       end
 
       # if negative_results is empty -> range was not removed
-      if negative_results.select{|r| r}.size > 0
+      if negative_results.select { |r| r }.size > 0
         false
       else
         # Array(Bool)
@@ -91,7 +91,7 @@ struct ExifStatStruct
           focal >= range[:from].as(Int32) && focal <= range[:to].as(Int32)
         end
         # at least one element should be true
-        results.select{|r| r}.size > 0
+        results.select { |r| r }.size > 0
       end
     end.map do |focal, count|
       count

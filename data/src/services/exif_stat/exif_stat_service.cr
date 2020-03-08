@@ -12,7 +12,7 @@ class ExifStatService
     180, 250,   # tele 2
     300, 400,   # long tele
     500, 800,   # super tele
-    1000        # ulra tele
+    1000,       # ulra tele
   ]
 
   MIN_FOCAL = NORMALIZATION_INDEXES.min
@@ -85,9 +85,9 @@ class ExifStatService
       end.sum
 
       {
-        from: fr.begin,
-        to: fr.end,
-        count: count
+        from:  fr.begin,
+        to:    fr.end,
+        count: count,
       }
     end
   end
