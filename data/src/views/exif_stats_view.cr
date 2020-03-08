@@ -8,13 +8,28 @@ require "../services/exif_stat/exif_stat_helper"
 # * filter only zoom lenses
 
 class ExifStatsView < WidePageView
-  def initialize(@blog : Tremolite::Blog, @url : String)
+  def initialize(
+    @blog : Tremolite::Blog,
+    @url : String,
+    @by_tag : String | Nil = nil
+  )
     @url = "/exif_stats"
     @title = "Statystyki EXIF"
     @subtitle = ""
 
     @published_photos = Array(PhotoEntity).new
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+
+    # filter by tag
+    if @by_tag
+      @url = "#{@url}/#{@by_tag}"
+      @subtitle = @by_tag.not_nil!
+
+      # filter posts
+      @posts = @posts.select do |post|
+        post.tags.not_nil!.includes?(@by_tag.not_nil!)
+      end
+    end
 
     @posts.map do |post|
       post.photo_entities.not_nil!.each do |photo_entity|

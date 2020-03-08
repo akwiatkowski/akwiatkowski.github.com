@@ -378,6 +378,17 @@ class Tremolite::Renderer
   def render_exif_stats
     view = ExifStatsView.new(blog: @blog, url: "/exif_stats")
     write_output(view)
+
+    tags = ["bicycle", "hike", "photo", "train"]
+
+    tags.each do |tag|
+      view_by_tag = ExifStatsView.new(
+        blog: @blog,
+        url: "/exif_stats",
+        by_tag: tag
+      )
+      write_output(view_by_tag)
+    end
   end
 
   def render_sitemap
