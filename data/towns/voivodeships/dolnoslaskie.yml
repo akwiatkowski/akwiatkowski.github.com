@@ -1,400 +1,502 @@
 ---
 - slug: boguszow_gorce
   name: Boguszów Gorce
-  header-img: 2012-12-10-na-lesista-wielka/IMGP5530b.jpg
-  header-ext-img: https://drscdn.500px.org/photo/28655865/m%3D2048/34b87bdfa628a2a81eab9f450f47700f
   type: town
   voivodeship: dolnoslaskie
   lat: 50.75659
   lon: 16.20678
 - slug: brzeg_dolny
   name: Brzeg Dolny
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.27176
+  lon: 16.70881
 - slug: bystrzyca_klodzka
   name: Bystrzyca Kłodzka
-  header-ext-img: https://drscdn.500px.org/photo/43162480/m%3D2048/4014ec8df8f5f14edf6decfd7debb345
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.29720
+  lon: 16.65457
 - slug: cieplowody
   name: Ciepłowody
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.67391
+  lon: 16.90656
 - slug: czarny_bor
   name: Czarny Bór
-  header-ext-img: https://drscdn.500px.org/photo/28660087/m%3D2048/35815db63200a06cdb8de14182d70e3b
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.77193
+  lon: 16.13306
 - slug: duszniki_zdroj
   name: Duszniki Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.40323
+  lon: 16.39106
 - slug: dzierzoniow
   name: Dzierżoniow
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.72805
+  lon: 16.64907
 - slug: gluszyca
   name: Głuszyca
-  header-ext-img: https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.68653
+  lon: 16.37081
 - slug: gryfow_slaski
   name: Gryfów Śląski
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.03002
+  lon: 15.41671
 - slug: janowice_wielkie
   name: Janowice Wielkie
-  header-ext-img: https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.87690
+  lon: 15.91882
 - slug: jelenia_gora
   name: Jelenia Góra
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.90278
+  lon: 15.73532
 - slug: jezow_sudecki
   name: Jeżów Sudecki
-  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.93157
+  lon: 15.74442
 - slug: kamienna_gora
   name: Kamienna Góra
-  header-ext-img: https://drscdn.500px.org/photo/23974233/m%3D2048/bfec1ac2f4b66e3f3352106f7cb12ed7
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.78246
+  lon: 16.03315
 - slug: karpacz
   name: Karpacz
-  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.77910
+  lon: 15.76210
 - slug: klodzko
   name: Kłodzko
-  header-ext-img: https://drscdn.500px.org/photo/136552853/m%3D2048/b2dd79b46cd3009b69c77c3f2811ca86
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.43998
+  lon: 16.65422
 - slug: kondratowice
   name: Kondratowice
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.77117
+  lon: 16.93300
 - slug: kostomloty
   name: Kostomłoty
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.04553
+  lon: 16.61197
 - slug: kowary
   name: Kowary
-  header-ext-img: https://drscdn.500px.org/photo/28671083/m%3D2048/3a1ce45a9282bba8e50b665a2f9b8425
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.79234
+  lon: 15.83351
 - slug: kudowa_zdroj
   name: Kudowa Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/50459912/m%3D2048/750b58d4934278a4818697c526d28c90
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.44042
+  lon: 16.24326
 - slug: lagiewniki
   name: Łagiewniki
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.79027
+  lon: 16.84262
 - slug: lesna
   name: Leśna
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.02398
+  lon: 15.26385
 - slug: luban
   name: Lubań
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.12008
+  lon: 15.29123
 - slug: lubomierz
   name: Lubomierz
-  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.01264
+  lon: 15.50958
 - slug: marcinowice
   name: Marcinowice
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.87896
+  lon: 16.58109
 - slug: marciszow
   name: Marciszów
-  header-ext-img: https://drscdn.500px.org/photo/23973831/m%3D2048/a725d7a3c1f1f54288e68f2d4b71ff31
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.85003
+  lon: 16.01023
 - slug: miedzylesie
   name: Międzylesie
-  header-ext-img: https://drscdn.500px.org/photo/41466174/m%3D2048/fd9d01b4921aceabcd40a34afa8ab71c
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.14904
+  lon: 16.66409
 - slug: miekinia
   name: Miękinia
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.18749
+  lon: 16.73705
 - slug: mieroszow
   name: Mieroszów
-  header-ext-img: https://drscdn.500px.org/photo/31992145/m%3D2048/6bf9379d0fe28f5d35db5a4339f190f7
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.66531
+  lon: 16.18602
 - slug: mietkow
   name: Mietków
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.97493
+  lon: 16.64778
 - slug: milicz
   name: Milicz
-  header-ext-img: https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.52975
+  lon: 17.27538
 - slug: mirsk
   name: Mirsk
-  header-ext-img: https://drscdn.500px.org/photo/167328031/q%3D80_m%3D2000/6a49b4365f8f63b54ff7588f816d16ff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.96974
+  lon: 15.38487
 - slug: myslakowice
   name: Mysłakowice
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.83670
+  lon: 15.78656
 - slug: niemcza
   name: Niemcza
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.71588
+  lon: 16.83747
 - slug: nowa_ruda
   name: Nowa Ruda
-  header-ext-img: https://drscdn.500px.org/photo/59594602/m%3D2048/7edf1bbaca89440cd605bc6506ecf73f
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.58146
+  lon: 16.50256
 - slug: oborniki_slaskie
   name: Oborniki Śląskie
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.30043
+  lon: 16.91437
 - slug: olszyna
   name: Olszyna
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.06628
+  lon: 15.37904
 - slug: piechowice
   name: Piechowice
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.85014
+  lon: 15.60340
 - slug: pielgrzymka
   name: Pielgrzymka
-  header-ext-img: https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.11728
+  lon: 15.81403
 - slug: pieszyce
   name: Pieszyce
-  header-ext-img: https://drscdn.500px.org/photo/61626643/m%3D2048/e2869e7dab18f847e229b262aebb9d85
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.71034
+  lon: 16.57895
 - slug: platerowka
   name: Platerówka
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.05906
+  lon: 15.17304
 - slug: podgorzyn
   name: Podgórzyn
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.83377
+  lon: 15.68047
 - slug: prusice
   name: Prusice
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.372510
+  lon: 16.960029
 - slug: radkow
   name: Radków
-  header-ext-img: https://drscdn.500px.org/photo/49736582/m%3D2048/92be6fc199f053f6d9c40f583ea8a416
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.504214
+  lon: 16.401683
 - slug: siekierczyn
   name: Siekierczyn
-  header-ext-img: https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.12439
+  lon: 15.18978
 - slug: sroda_slaska
   name: Środa Śląska
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.16430
+  lon: 16.59174
 - slug: stara_kamienica
   name: Stara Kamienica
-  header-ext-img: https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.91691
+  lon: 15.57241
 - slug: stoszowice
   name: Stoszowice
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.59949
+  lon: 16.73353
 - slug: stronie_slaskie
   name: Stronie Śląskie
-  header-ext-img: https://drscdn.500px.org/photo/43162480/m%3D2048/4014ec8df8f5f14edf6decfd7debb345
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.29276
+  lon: 16.87378
 - slug: strzelin
   name: Strzelin
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.78143
+  lon: 17.07110
 - slug: swieradow_zdroj
   name: Świeradów Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/28155245/m%3D2048/845c35f98182476a3a1c0378c841be3a
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.90955
+  lon: 15.34127
 - slug: swierzawa
   name: Świerzawa
-  header-ext-img: https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.01378
+  lon: 15.89410
 - slug: szklarska_poreba
   name: Szklarska Poręba
-  header-ext-img: https://drscdn.500px.org/photo/28182573/m%3D2048/63884b2189668c5cef2a5ebce2f08116
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.82532
+  lon: 15.52520
 - slug: walbrzych
-  name: Wąłbrzych
-  header-ext-img: https://drscdn.500px.org/photo/31440617/m%3D2048/02d36f9c27f804af2a1872ea6c17ae1e
+  name: Wałbrzych
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.78322
+  lon: 16.28772
 - slug: walim
   name: Walim
-  header-ext-img: https://drscdn.500px.org/photo/61626643/m%3D2048/e2869e7dab18f847e229b262aebb9d85
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.69778
+  lon: 16.44102
 - slug: wlen
   name: Wleń
-  header-ext-img: https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.01631
+  lon: 15.67421
 - slug: wolow
   name: Wołów
-  header-ext-img: https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.33594
+  lon: 16.64744
 - slug: wroclaw
   name: Wrocław
-  header-ext-img: https://drscdn.500px.org/photo/169702587/q%3D80_m%3D2000/594094c7dcea153f834db12796a4fe40
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.11087
+  lon: 17.03230
 - slug: zabkowice_slaskie
   name: Ząbkowice Śląskie
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.58914
+  lon: 16.81258
 - slug: zarow
   name: Żarow
-  header-ext-img: https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.94071
+  lon: 16.49372
 - slug: ziebice
   name: Ziębice
-  header-ext-img: https://drscdn.500px.org/photo/152228249/q%3D80_m%3D2000/004a26c24dcced921f3edde138fae2db
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.60028
+  lon: 17.04111
 - slug: zmigrod
   name: Żmigród
-  header-ext-img: https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.47055
+  lon: 16.90716
 - slug: szczytna
   name: Szczytna
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.41264
+  lon: 16.44728
 - slug: lwowek_slaski
   name: Lwówek Śląski
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.11060
+  lon: 15.58640
 - slug: nowogrodziec
   name: Nowogrodziec
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.19642
+  lon: 15.39877
 - slug: wegliniec
   name: Węgliniec
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.28792
+  lon: 15.22583
 - slug: piensk
   name: Pieńsk
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.24802
+  lon: 15.04670
 - slug: zgorzelec
   name: Zgorzelec
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.15444
+  lon: 15.01228
 - slug: sulikow
   name: Sulików
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.07869
+  lon: 15.06918
 - slug: bogatynia
   name: Bogatynia
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.90874
+  lon: 14.95915
 - slug: zlotoryja
   name: Złotoryja
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.12493
+  lon: 15.91015
 - slug: niechlow
   name: Niechlów
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.68796
+  lon: 16.36471
 - slug: gora
   name: Góra
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.668309
+  lon: 16.536114
 - slug: cieszkow
   name: Cieszków
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.63097
+  lon: 17.35990
 - slug: jedlina_zdroj
   name: Jedlina Zdrój
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.71923
+  lon: 16.34744
 - slug: kamieniec_zabkowicki
   name: Kamieniec Ząbkowicki
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.52592
+  lon: 16.87959
 - slug: bardo
   name: Bardo
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.50690
+  lon: 16.74066
 - slug: winsko
   name: Wińsko
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.46992
+  lon: 16.61453
 - slug: scinawa
   name: Ścinawa
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.41497
+  lon: 16.41969
 - slug: rudna
   name: Rudna
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.50973
+  lon: 16.26331
 - slug: grebocice
   name: Grębocice
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.59907
+  lon: 16.16838
 - slug: glogow
   name: Głogów
   type: town
   voivodeship: dolnoslaskie
+  lat: 51.66119
+  lon: 16.08495
 - slug: jaworzyna_slaska
   name: Jaworzyna Śląska
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.91215
+  lon: 16.43034
 - slug: pilawa_gorna
   name: Piława Górna
   type: town
   voivodeship: dolnoslaskie
+  lat: 50.68289
+  lon: 16.73641
 - slug: szczawno_zdroj
   name: Szczawno Zdrój
   type: town
