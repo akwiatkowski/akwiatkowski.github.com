@@ -1,4 +1,7 @@
 class ExifStat::ExifLensCoverage
+  # how much I could crop using FF than I can using m43 [%]
+  FF_RANGE_TO_MAX_CROP_PERC = 25
+  FF_RANGE_TO_COEF = 1.0 + (FF_RANGE_TO_MAX_CROP_PERC.to_f / 100.0)
   LENSES = {
     # m43 lens
     "LUMIX 14-140/F3.5-5.6" => {
@@ -106,7 +109,7 @@ class ExifStat::ExifLensCoverage
       ranges: [
         {
           from: 28,
-          to:   75,
+          to:   (75.to_f * FF_RANGE_TO_COEF).to_i,
         },
       ],
       weight:  550,
@@ -118,7 +121,7 @@ class ExifStat::ExifLensCoverage
       ranges: [
         {
           from: 17,
-          to:   28,
+          to:   (28.to_f * FF_RANGE_TO_COEF).to_i,
         },
       ],
       weight:  420,
@@ -130,10 +133,46 @@ class ExifStat::ExifLensCoverage
       ranges: [
         {
           from: 70,
-          to:   180,
+          to:   (180.to_f * FF_RANGE_TO_COEF).to_i,
         },
       ],
       weight:  815,
+      quality: 8, # subjective image quality
+      mount:   :sony_fe,
+    },
+    "SONY 70-200mm/F4" => {
+      exif:   "", # TODO
+      ranges: [
+        {
+          from: 70,
+          to:   (200.to_f * FF_RANGE_TO_COEF).to_i,
+        },
+      ],
+      weight:  840,
+      quality: 8, # subjective image quality
+      mount:   :sony_fe,
+    },
+    "SONY 100-400mm/F4.5-5.6" => {
+      exif:   "FE 100-400 mm f/4.5-5.6 GM OSS", # TODO
+      ranges: [
+        {
+          from: 100,
+          to:   (400.to_f * FF_RANGE_TO_COEF).to_i,
+        },
+      ],
+      weight:  1395,
+      quality: 8, # subjective image quality
+      mount:   :sony_fe,
+    },
+    "SONY 200-600mm/F5.6-6.3" => {
+      exif:   "FE 200-600 mm f/5.6-6.3 G OSS", # TODO
+      ranges: [
+        {
+          from: 200,
+          to:   (600.to_f * FF_RANGE_TO_COEF).to_i,
+        },
+      ],
+      weight:  2115,
       quality: 8, # subjective image quality
       mount:   :sony_fe,
     },
@@ -142,7 +181,7 @@ class ExifStat::ExifLensCoverage
       ranges: [
         {
           from: 20,
-          to:   24, # we can crop from prime
+          to:   (20.to_f * FF_RANGE_TO_COEF).to_i, # we can crop from prime
         },
       ],
       weight:  490,
@@ -154,7 +193,7 @@ class ExifStat::ExifLensCoverage
       ranges: [
         {
           from: 85,
-          to:   100, # we can crop from prime
+          to:   (85.to_f * FF_RANGE_TO_COEF).to_i,
         },
       ],
       weight:  371,
@@ -250,6 +289,11 @@ class ExifStat::ExifLensCoverage
     },
   }
 
+  # render data to analyze what lenses are most useful
+  # new one
+  PHOTO_KIT_INITIAL_PERCENT        = 30
+  PHOTO_KIT_OTHER_ADD_LENS_PERCENT =  5
+
   def initialize(
     @stats_struct : ExifStatStruct
   )
@@ -289,10 +333,7 @@ class ExifStat::ExifLensCoverage
     return array_ah
   end
 
-  # render data to analyze what lenses are most useful
-  # new one
-  PHOTP_KIT_INITIAL_PERCENT        = 40
-  PHOTO_KIT_OTHER_ADD_LENS_PERCENT =  5
+
 
   def photo_kit_coverage_data
     total_count = @stats_struct.count
@@ -322,7 +363,7 @@ class ExifStat::ExifLensCoverage
     # filter and sorot for only best useful
     ls_selected = ls_calculated.select do |lh|
       # we want only most useful lens
-      lh[:percentage] > PHOTP_KIT_INITIAL_PERCENT
+      lh[:percentage] > PHOTO_KIT_INITIAL_PERCENT
     end.sort do |a, b|
       b[:percentage] <=> a[:percentage]
     end
