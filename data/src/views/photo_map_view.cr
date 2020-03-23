@@ -170,9 +170,14 @@ class PhotoMapView < WidePageView
     )
   end
 
-  def convert_lat_long_to_position(lat, lon)
+  def convert_lat_long_to_position(lat, lon, round_to = 1)
     x = (lon.to_f - @min_lon.to_f) * @css_quant_coeff.to_f
     y = (@max_lat.to_f - lat.to_f) * @css_quant_coeff.to_f
+
+    if round_to > 1
+      x = (x / round_to.to_f).round.to_i * round_to.to_i
+      y = (y / round_to.to_f).round.to_i * round_to.to_i
+    end
 
     return x, y
   end
@@ -180,7 +185,8 @@ class PhotoMapView < WidePageView
   def convert_photo_map_set_to_html_hash(pms : PhotoMapSet)
     left, top = convert_lat_long_to_position(
       lat: pms[:lat],
-      lon: pms[:lon]
+      lon: pms[:lon],
+      round_to: @quant_css_width
     )
     img = pms[:photo].gallery_thumb_image_src
 
