@@ -30,13 +30,14 @@ struct PhotoEntity
   FLAG_NOGALLERY   = "nogallery"
   FLAG_NO_TIMELINE = "notimeline"
   FLAG_TIMELINE    = "timeline"
+  FLAG_MAP         = "map"
 
   THUMB_PREFIX         = "thumb"
   BIG_THUMB_PREFIX     = "big_thumb"
   GALLERY_THUMB_PREFIX = "gallery_thumb"
   SMALL_PREFIX         = "small"
 
-  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline
+  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map
   getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless
@@ -52,6 +53,7 @@ struct PhotoEntity
     @is_gallery = true,
     @is_header = false,
     @is_timeline = false,
+    @is_map = false,
     @tags = Array(String).new
   )
     if param_string.includes?(FLAG_NOGALLERY)
@@ -62,6 +64,10 @@ struct PhotoEntity
       @is_timeline = false
     elsif param_string.includes?(FLAG_TIMELINE)
       @is_timeline = true
+    end
+
+    if param_string.includes?(FLAG_MAP)
+      @is_map = true
     end
 
     # nameless entities are uploaded not added in post content

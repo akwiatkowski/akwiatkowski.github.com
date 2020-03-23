@@ -734,3 +734,29 @@ body {
   display: inline-block;
   padding: 0px;
 }
+
+.photo-map {
+  position: relative;
+}
+
+.photo-map .photo-map-image {
+  position: absolute;
+  overflow: hidden;
+
+  /* Magic */
+  display: flex;
+  align-items: center; /* vertical */
+  justify-content: center; /* horizontal */
+}
+
+.photo-map .photo-map-image .photo-map-image-img {
+}
+
+.photo-map .photo-map-image .photo-map-image-link {
+  border: 0px;
+}
+
+.photo-map .photo-map-image .photo-map-image-link:hover {
+  -webkit-filter: saturate(2);
+  filter: saturate(2);
+}

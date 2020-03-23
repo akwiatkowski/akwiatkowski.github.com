@@ -2,6 +2,11 @@ class BaseView < Tremolite::Views::BaseView
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
 
+  # helper
+  def logger
+    @blog.logger
+  end
+
   getter :url
 
   def to_html

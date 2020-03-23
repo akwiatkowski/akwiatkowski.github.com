@@ -5,6 +5,7 @@ require "./views/wide_page_view"
 require "./views/home_view"
 require "./views/paginated_post_list_view"
 require "./views/map_view"
+require "./views/photo_map_view"
 require "./views/planner_view"
 require "./views/tag_view"
 require "./views/town_view"
@@ -38,6 +39,7 @@ class Tremolite::Renderer
 
     render_paginated_list
     render_map
+    render_photo_map
     render_planner
     render_tags_pages
     render_lands_pages
@@ -118,6 +120,11 @@ class Tremolite::Renderer
 
   def render_map
     view = MapView.new(blog: @blog, url: "/map")
+    write_output(view)
+  end
+
+  def render_photo_map
+    view = PhotoMapView.new(blog: @blog, url: "/photo_map")
     write_output(view)
   end
 
