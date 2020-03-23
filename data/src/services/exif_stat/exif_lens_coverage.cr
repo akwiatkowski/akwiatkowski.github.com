@@ -1,8 +1,8 @@
 class ExifStat::ExifLensCoverage
   # how much I could crop using FF than I can using m43 [%]
   FF_RANGE_TO_MAX_CROP_PERC = 25
-  FF_RANGE_TO_COEF = 1.0 + (FF_RANGE_TO_MAX_CROP_PERC.to_f / 100.0)
-  LENSES = {
+  FF_RANGE_TO_COEF          = 1.0 + (FF_RANGE_TO_MAX_CROP_PERC.to_f / 100.0)
+  LENSES                    = {
     # m43 lens
     "LUMIX 14-140/F3.5-5.6" => {
       exif:   "LUMIX G VARIO 14-140/F3.5-5.6",
@@ -332,8 +332,6 @@ class ExifStat::ExifLensCoverage
 
     return array_ah
   end
-
-
 
   def photo_kit_coverage_data
     total_count = @stats_struct.count

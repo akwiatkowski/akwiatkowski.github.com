@@ -1,8 +1,7 @@
 alias PhotoMapSet = NamedTuple(
   x: Float64,
   y: Float64,
-  photo: PhotoEntity
-)
+  photo: PhotoEntity)
 
 class PhotoMapView < WidePageView
   # size of small quant - one image per quant
@@ -105,7 +104,7 @@ class PhotoMapView < WidePageView
       lon = photo.exif.not_nil!.lon.not_nil!
 
       lon >= x && lon < (x + QUANT_WIDTH) &&
-      lat >= (y - QUANT_WIDTH) && lat < y
+        lat >= (y - QUANT_WIDTH) && lat < y
     end
   end
 
@@ -145,13 +144,13 @@ class PhotoMapView < WidePageView
     end.first.url
 
     return {
-      "top" => top.to_i.to_s,
-      "left" => left.to_i.to_s,
-      "width" => QUANT_CSS_WIDTH.to_s,
-      "height" => QUANT_CSS_WIDTH.to_s,
+      "top"       => top.to_i.to_s,
+      "left"      => left.to_i.to_s,
+      "width"     => QUANT_CSS_WIDTH.to_s,
+      "height"    => QUANT_CSS_WIDTH.to_s,
       "min-width" => QUANT_CSS_MIN_WIDTH.to_s,
-      "img" => img.to_s,
-      "post.url" => post_url,
+      "img"       => img.to_s,
+      "post.url"  => post_url,
     }.to_h
   end
 end
