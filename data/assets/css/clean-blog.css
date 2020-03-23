@@ -760,3 +760,33 @@ body {
   -webkit-filter: saturate(2);
   filter: saturate(2);
 }
+
+.photo-map .photo-map-town {
+  position: absolute;
+  opacity: 0.8;
+}
+
+.photo-map .photo-map-town:hover {
+  position: absolute;
+  opacity: 1.0;
+}
+
+.photo-map .photo-map-town .photo-map-town-link {
+  border: 0px;
+
+  color: #000;
+  text-shadow: 2px 2px 6px #888;
+}
+
+.photo-map .photo-map-town .photo-map-town-link:hover {
+  text-decoration: none;
+}
+
+.photo-map .photo-map-town .photo-map-town-dot {
+  height: 14px;
+  width: 14px;
+  background-color: #000;
+  border: 2px solid #888;
+  border-radius: 50%;
+  display: inline-block;
+}
