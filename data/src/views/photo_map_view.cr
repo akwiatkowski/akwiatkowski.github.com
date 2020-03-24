@@ -24,7 +24,7 @@ class PhotoMapView < WidePageView
     return nil if @photos.size == 0
 
     # coeff used for translating position to css
-    @css_quant_coeff = (@quant_css_width.to_f / @quant_width.to_f).as(Float64)
+    @css_pixel_per_geo_unit = (@quant_css_width.to_f / @quant_width.to_f).as(Float64)
     # it's easier to set here than to fiddle with css
     @quant_css_min_width = (@quant_css_width.to_f * 1.2).to_i.as(Int32)
 
@@ -98,9 +98,74 @@ class PhotoMapView < WidePageView
       end
     end
 
+    # all posts routes as svg
+    content_string += posts_routes_svg
+
     data = Hash(String, String).new
     data["photos"] = content_string
     return load_html("photo_map/main", data)
+  end
+
+  def posts_routes_svg
+    # I know I should convert to builder
+    return String.build do |s|
+      height = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
+      width = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
+      s << "<svg height='#{height}' width='#{width}' class='photo-map-town'>\n"
+
+      @posts.each do |post|
+        if post.coords
+          if post.coords.not_nil!.size > 0
+            # post can have multiple route objects
+            post.coords.not_nil!.each do |route_object|
+              # append
+              s << convert_route_object_to_array_of_svg_lines(route_object)
+            end
+          end
+        end
+      end
+
+      s << "</svg>\n"
+    end
+  end
+
+  def convert_route_object_to_array_of_svg_lines(route_object)
+    svg_color =
+    allowed_types = {
+      "hike" => "100,250,0",
+      "bicycle" => "0,150,250",
+      "train" => "200,100,0",
+    }
+
+    return String.build do |s|
+      if allowed_types.keys.includes?(route_object["type"])
+        # color is determined by type
+        color_svg_for_route_object = allowed_types[route_object["type"]]
+
+        geo_coords = route_object["route"]
+        (1...(geo_coords.size)).each do |i|
+          coord_from = geo_coords[i-1].as(Array(Float64))
+          coord_to = geo_coords[i].as(Array(Float64))
+
+          lat_from = coord_from[0]
+          lon_from = coord_from[1]
+          lat_to = coord_to[0]
+          lon_to = coord_to[1]
+
+          x_from, y_from = convert_lat_long_to_position(
+            lat: lat_from,
+            lon: lon_from
+          )
+
+          x_to, y_to = convert_lat_long_to_position(
+            lat: lat_to,
+            lon: lon_to
+          )
+
+          s << "<line x1='#{x_from}' y1='#{y_from}' x2='#{x_to}' y2='#{y_to}' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' />"
+        end
+      end
+    end
   end
 
   def process_photos
@@ -171,8 +236,8 @@ class PhotoMapView < WidePageView
   end
 
   def convert_lat_long_to_position(lat, lon, round_to = 1)
-    x = (lon.to_f - @min_lon.to_f) * @css_quant_coeff.to_f
-    y = (@max_lat.to_f - lat.to_f) * @css_quant_coeff.to_f
+    x = (lon.to_f - @min_lon.to_f) * @css_pixel_per_geo_unit.to_f
+    y = (@max_lat.to_f - lat.to_f) * @css_pixel_per_geo_unit.to_f
 
     if round_to > 1
       x = (x / round_to.to_f).round.to_i * round_to.to_i
