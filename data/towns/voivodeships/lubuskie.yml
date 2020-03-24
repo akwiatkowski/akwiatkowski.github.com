@@ -1,123 +1,170 @@
 ---
 - slug: babimost
   name: Babimost
-  header-ext-img: https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00
   type: town
   voivodeship: lubuskie
+  lat: 52.16485
+  lon: 15.83126
 - slug: dobiegniew
   name: Dobiegniew
-  header-ext-img: https://drscdn.500px.org/photo/171155267/q%3D80_m%3D2000/aaf9250349a01855dfb8e051d4c0dea0
   type: town
   voivodeship: lubuskie
+  lat: 52.96887
+  lon: 15.75195
 - slug: drezdenko
   name: Drezdenko
-  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
   type: town
   voivodeship: lubuskie
+  lat: 52.83862
+  lon: 15.83195
 - slug: pszczew
   name: Pszczew
-  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
   type: town
   voivodeship: lubuskie
+  lat: 52.47773
+  lon: 15.78045
 - slug: santok
   name: Santok
-  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
   type: town
   voivodeship: lubuskie
+  lat: 52.73813
+  lon: 15.40966
 - slug: stare_kurowo
   name: Stare Kurowo
-  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
   type: town
   voivodeship: lubuskie
+  lat: 52.85687
+  lon: 15.67797
 - slug: strzelce_krajenskie
   name: Strzelce Krajeńskie
-  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
   type: town
   voivodeship: lubuskie
-- slug: swidnica
-  name: Świdnica
-  header-ext-img: https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920
+  lat: 52.87780
+  lon: 15.53206
+- slug: swidnica_lubuskie
+  name: Świdnica (lubuskie)
   type: town
   voivodeship: lubuskie
+  lat: 51.88670
+  lon: 15.38876
 - slug: trzciel
   name: Trzciel
-  header-ext-img: https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b
   type: town
   voivodeship: lubuskie
+  lat: 52.36421
+  lon: 15.87233
 - slug: zielona_gora
   name: Zielona Góra
-  header-ext-img: https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920
   type: town
   voivodeship: lubuskie
-- slug: zwierzyn
-  name: Zwierzyń
-  header-ext-img: https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a
+  lat: 51.93752
+  lon: 15.50591
+  size: big
+- slug: zwierzyn_lubuskie
+  name: Zwierzyn (lubuskie)
   type: town
   voivodeship: lubuskie
+  lat: 52.83713
+  lon: 15.58446
 - slug: sulechow
   name: Sulechów
   type: town
   voivodeship: lubuskie
+  lat: 52.08482
+  lon: 15.62445
 - slug: trzebiechow
   name: Trzebiechów
   type: town
   voivodeship: lubuskie
+  lat: 52.02254
+  lon: 15.73449
 - slug: bojadla
   name: Bojadła
   type: town
   voivodeship: lubuskie
+  lat: 51.95160
+  lon: 15.80968
 - slug: nowa_sol
   name: Nowa Sól
   type: town
   voivodeship: lubuskie
+  lat: 51.80302
+  lon: 15.71612
+  size: medium
 - slug: slawa
   name: Sława
   type: town
   voivodeship: lubuskie
+  lat: 51.87663
+  lon: 16.07215
 - slug: wschowa
   name: Wschowa
   type: town
   voivodeship: lubuskie
+  lat: 51.80557
+  lon: 16.31831
 - slug: skape
   name: Skąpe
   type: town
   voivodeship: lubuskie
+  lat: 52.15227
+  lon: 15.45605
+  size: small
 - slug: lubrza
   name: Lubrza
   type: town
   voivodeship: lubuskie
+  lat: 52.30515
+  lon: 15.44215
 - slug: lagow
   name: Łagów
   type: town
   voivodeship: lubuskie
+  lat: 52.33286
+  lon: 15.29503
 - slug: swiebodzin
   name: Świebodzin
   type: town
   voivodeship: lubuskie
+  lat: 52.24802
+  lon: 15.53296
+  size: medium
 - slug: bytom_odrzanski
   name: Bytom Odrzański
   type: town
   voivodeship: lubuskie
+  lat: 51.73036
+  lon: 15.82435
 - slug: otyn
   name: Otyń
   type: town
   voivodeship: lubuskie
+  lat: 51.84997
+  lon: 15.70951
 - slug: krosno_odrzanskie
   name: Krosno Odrzańskie
   type: town
   voivodeship: lubuskie
+  lat: 52.05553
+  lon: 15.09908
 - slug: bytnica
   name: Bytnica
   type: town
   voivodeship: lubuskie
+  lat: 52.14917
+  lon: 15.16929
 - slug: torzym
   name: Torzym
   type: town
   voivodeship: lubuskie
+  lat: 52.31354
+  lon: 15.08268
 - slug: rzepin
   name: Rzepin
   type: town
   voivodeship: lubuskie
+  lat: 52.34486
+  lon: 14.83841
 - slug: szczaniec
   name: Szczaniec
   type: town
