@@ -37,9 +37,13 @@ class Tremolite::Renderer
     render_posts
     save_exif_entities
 
+    # dev stuff should be here for faster update
+    render_photo_map
+
+    # rest ot working stuff
     render_paginated_list
     render_map
-    render_photo_map
+    # render_photo_map
     render_planner
     render_tags_pages
     render_lands_pages

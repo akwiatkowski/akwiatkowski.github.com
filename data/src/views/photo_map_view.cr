@@ -111,7 +111,7 @@ class PhotoMapView < WidePageView
     return String.build do |s|
       height = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
       width = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
-      s << "<svg height='#{height}' width='#{width}' class='photo-map-town'>\n"
+      s << "<svg height='#{height.to_i}' width='#{width.to_i}' class='photo-map-town'>\n"
 
       @posts.each do |post|
         if post.coords
@@ -119,6 +119,7 @@ class PhotoMapView < WidePageView
             # post can have multiple route objects
             post.coords.not_nil!.each do |route_object|
               # append
+              s << "<!-- #{post.slug} -->"
               s << convert_route_object_to_array_of_svg_lines(route_object)
             end
           end
@@ -141,28 +142,21 @@ class PhotoMapView < WidePageView
       if allowed_types.keys.includes?(route_object["type"])
         # color is determined by type
         color_svg_for_route_object = allowed_types[route_object["type"]]
+        geo_coords = route_object["route"].as(Array(Array(Float64)))
 
-        geo_coords = route_object["route"]
-        (1...(geo_coords.size)).each do |i|
-          coord_from = geo_coords[i-1].as(Array(Float64))
-          coord_to = geo_coords[i].as(Array(Float64))
+        # render only if there 2 or more
+        if geo_coords.size >= 2
+          s << "<polyline fill='none' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' points='"
+          geo_coords.each do |geo_coord|
+            lat, lon = geo_coord
+            x, y = convert_lat_long_to_position(
+              lat: lat,
+              lon: lon
+            )
 
-          lat_from = coord_from[0]
-          lon_from = coord_from[1]
-          lat_to = coord_to[0]
-          lon_to = coord_to[1]
-
-          x_from, y_from = convert_lat_long_to_position(
-            lat: lat_from,
-            lon: lon_from
-          )
-
-          x_to, y_to = convert_lat_long_to_position(
-            lat: lat_to,
-            lon: lon_to
-          )
-
-          s << "<line x1='#{x_from}' y1='#{y_from}' x2='#{x_to}' y2='#{y_to}' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' />"
+            s << "#{x.to_i},#{y.to_i} "
+          end
+          s << "'  />"
         end
       end
     end
