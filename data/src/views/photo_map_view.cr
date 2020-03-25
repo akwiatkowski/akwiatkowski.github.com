@@ -1,3 +1,5 @@
+require "../services/map/base"
+
 alias PhotoMapSet = NamedTuple(
   lat: Float64,
   lon: Float64,
@@ -14,46 +16,6 @@ class PhotoMapView < WidePageView
     # append towns on map
     @append_towns = true
   )
-    # select only photos with lat/lon
-    @photos = @blog.data_manager.not_nil!.photos.not_nil!.select do |photo|
-      photo.exif.not_nil!.lat != nil && photo.exif.not_nil!.lon != nil
-    end.as(Array(PhotoEntity))
-    logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
-
-    # we cannot process if there is no photos
-    return nil if @photos.size == 0
-
-    # coeff used for translating position to css
-    @css_pixel_per_geo_unit = (@quant_css_width.to_f / @quant_width.to_f).as(Float64)
-    # it's easier to set here than to fiddle with css
-    @quant_css_min_width = (@quant_css_width.to_f * 1.2).to_i.as(Int32)
-
-    # assign now to have not nil value
-    @min_lat = @photos.first.exif.not_nil!.lat.not_nil!.as(Float64)
-    @max_lat = @min_lat.as(Float64)
-
-    @min_lon = @photos.first.exif.not_nil!.lon.not_nil!.as(Float64)
-    @max_lon = @min_lon.as(Float64)
-
-    @photos.each do |photo|
-      lat = photo.exif.not_nil!.lat.not_nil!
-      lon = photo.exif.not_nil!.lon.not_nil!
-
-      @min_lat = lat if lat < @min_lat
-      @min_lon = lon if lon < @min_lon
-
-      @max_lat = lat if lat > @max_lat
-      @max_lon = lon if lon > @max_lon
-    end
-
-    logger.info("#{self.class}: area #{@min_lat},#{@min_lon} - #{@max_lat}-#{@max_lon} (lat,lon)")
-
-    # store here to speed up
-    @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
-    # only towns with coords
-    @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
-      town.lat && town.lon
-    end.as(Array(TownEntity))
   end
 
   # main params of this page
@@ -76,90 +38,46 @@ class PhotoMapView < WidePageView
   end
 
   def inner_html
-    content_string = ""
+    m = Map::Base.new(
+      blog: @blog,
+    )
 
-    photo_array = process_photos
+    return m.to_s
 
-    # add photos
-    photo_array.each do |ph|
-      content_string += load_html(
-        "photo_map/photo",
-        convert_photo_map_set_to_html_hash(ph)
-      )
-    end
-
-    # add towns if enabled
-    if @append_towns
-      @towns.each do |town|
-        content_string += load_html(
-          "photo_map/town",
-          convert_town_to_html_hash(town)
-        )
-      end
-    end
-
-    # all posts routes as svg
-    content_string += posts_routes_svg
-
-    data = Hash(String, String).new
-    data["photos"] = content_string
-    return load_html("photo_map/main", data)
-  end
-
-  def posts_routes_svg
-    # I know I should convert to builder
-    return String.build do |s|
-      height = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
-      width = (@max_lat - @min_lat) * @css_pixel_per_geo_unit
-      s << "<svg height='#{height.to_i}' width='#{width.to_i}' class='photo-map-town'>\n"
-
-      @posts.each do |post|
-        if post.coords
-          if post.coords.not_nil!.size > 0
-            # post can have multiple route objects
-            post.coords.not_nil!.each do |route_object|
-              # append
-              s << "<!-- #{post.slug} -->"
-              s << convert_route_object_to_array_of_svg_lines(route_object)
-            end
-          end
-        end
-      end
-
-      s << "</svg>\n"
-    end
-  end
-
-  def convert_route_object_to_array_of_svg_lines(route_object)
-    svg_color =
-    allowed_types = {
-      "hike" => "100,250,0",
-      "bicycle" => "0,150,250",
-      "train" => "200,100,0",
-    }
-
-    return String.build do |s|
-      if allowed_types.keys.includes?(route_object["type"])
-        # color is determined by type
-        color_svg_for_route_object = allowed_types[route_object["type"]]
-        geo_coords = route_object["route"].as(Array(Array(Float64)))
-
-        # render only if there 2 or more
-        if geo_coords.size >= 2
-          s << "<polyline fill='none' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' points='"
-          geo_coords.each do |geo_coord|
-            lat, lon = geo_coord
-            x, y = convert_lat_long_to_position(
-              lat: lat,
-              lon: lon
-            )
-
-            s << "#{x.to_i},#{y.to_i} "
-          end
-          s << "'  />"
-        end
-      end
-    end
+    #
+    # content_string = ""
+    #
+    # # background tiles
+    # content_string += map_tiles_svg
+    #
+    # # photos
+    # # photo_array = process_photos
+    # #
+    # # # add photos
+    # # photo_array.each do |ph|
+    # #   content_string += load_html(
+    # #     "photo_map/photo",
+    # #     convert_photo_map_set_to_html_hash(ph)
+    # #   )
+    # # end
+    #
+    # # add towns if enabled
+    # if @append_towns
+    #   @towns.each do |town|
+    #     content_string += load_html(
+    #       "photo_map/town",
+    #       convert_town_to_html_hash(town)
+    #     )
+    #   end
+    # end
+    #
+    # # all posts routes as svg
+    # # TODO temporary disabled because it block photos and not look good enough
+    # #content_string += posts_routes_svg
+    #
+    # data = Hash(String, String).new
+    # data["photos"] = content_string
+    # return load_html("photo_map/main", data)
   end
 
   def process_photos
@@ -276,5 +194,9 @@ class PhotoMapView < WidePageView
       "town.url"  => town.url,
       "town.name" => town.name,
     }.to_h
+  end
+
+  def use_tiles_as_background
+    # TODO
   end
 end
