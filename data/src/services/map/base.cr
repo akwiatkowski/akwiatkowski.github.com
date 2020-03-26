@@ -1,6 +1,7 @@
 require "./const"
 require "./tiles_layer"
 require "./routes_layer"
+require "./photo_layer"
 
 class Map::Base
   def initialize(
@@ -23,23 +24,24 @@ class Map::Base
     end
 
     # assign at this moment to have not nil value
-    @min_lat = @photos.first.exif.not_nil!.lat.not_nil!.as(Float64)
-    @max_lat = @min_lat.as(Float64)
+    @lat_min = @photos.first.exif.not_nil!.lat.not_nil!.as(Float64)
+    @lat_max = @lat_min.as(Float64)
 
-    @min_lon = @photos.first.exif.not_nil!.lon.not_nil!.as(Float64)
-    @max_lon = @min_lon.as(Float64)
+    @lon_min = @photos.first.exif.not_nil!.lon.not_nil!.as(Float64)
+    @lon_max = @lon_min.as(Float64)
 
+    # @lat_min, @lat_max are sorted
     @photos.each do |photo|
       lat = photo.exif.not_nil!.lat.not_nil!
       lon = photo.exif.not_nil!.lon.not_nil!
 
-      @min_lat = lat if lat < @min_lat
-      @min_lon = lon if lon < @min_lon
+      @lat_min = lat if lat < @lat_min
+      @lon_min = lon if lon < @lon_min
 
-      @max_lat = lat if lat > @max_lat
-      @max_lon = lon if lon > @max_lon
+      @lat_max = lat if lat > @lat_max
+      @lon_max = lon if lon > @lon_max
     end
-    @logger.info("#{self.class}: area #{@min_lat},#{@min_lon} - #{@max_lat},#{@max_lon} (lat,lon)")
+    @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
 
     # store here to speed up
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
@@ -52,10 +54,10 @@ class Map::Base
 
     # tiles will be first initial
     @tiles_layer = TilesLayer.new(
-      min_lat: @min_lat,
-      max_lat: @max_lat,
-      min_lon: @min_lon,
-      max_lon: @max_lon,
+      lat_min: @lat_min,
+      lat_max: @lat_max,
+      lon_min: @lon_min,
+      lon_max: @lon_max,
       zoom: 10,
       logger: @logger,
     )
@@ -63,6 +65,13 @@ class Map::Base
     @routes_layer = RoutesLayer.new(
       posts: @posts,
       tiles_layer: @tiles_layer,
+      logger: @logger,
+    )
+
+    @photo_layer = PhotoLayer.new(
+      photos: @photos,
+      tiles_layer: @tiles_layer,
+      logger: @logger,
     )
   end
 
@@ -71,6 +80,7 @@ class Map::Base
       s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' class='photo-map-tiles'>\n"
       s << @tiles_layer.render_svg
       s << @routes_layer.render_svg
+      s << @photo_layer.render_svg
       s << "</svg>\n"
     end
   end

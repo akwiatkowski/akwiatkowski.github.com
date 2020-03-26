@@ -1,7 +1,8 @@
 class Map::RoutesLayer
   def initialize(
     @posts : Array(Tremolite::Post),
-    @tiles_layer : TilesLayer
+    @tiles_layer : TilesLayer,
+    @logger : Logger = Logger.new(STDOUT)
   )
   end
 
@@ -13,7 +14,7 @@ class Map::RoutesLayer
             # post can have multiple route objects
             post.coords.not_nil!.each do |route_object|
               # append
-              s << "<!-- #{post.slug} -->"
+              s << "<!-- #{post.slug} -->\n"
               s << convert_route_object_to_array_of_svg_lines(route_object)
             end
           end
@@ -24,11 +25,11 @@ class Map::RoutesLayer
 
   def convert_route_object_to_array_of_svg_lines(route_object)
     svg_color =
-    allowed_types = {
-      "hike" => "100,250,0",
-      "bicycle" => "0,150,250",
-      "train" => "200,100,0",
-    }
+      allowed_types = {
+        "hike"    => "100,250,0",
+        "bicycle" => "0,150,250",
+        "train"   => "200,100,0",
+      }
 
     return String.build do |s|
       if allowed_types.keys.includes?(route_object["type"])
@@ -45,12 +46,12 @@ class Map::RoutesLayer
             lat, lon = geo_coord
             x, y = @tiles_layer.in_map_position_from_geo_coords(
               lat_deg: lat,
-              lng_deg: lon
+              lon_deg: lon
             ).as(Tuple(Int32, Int32))
 
             s << "#{x.to_i},#{y.to_i} "
           end
-          s << "'  />"
+          s << "'  />\n"
         end
       end
     end

@@ -15,7 +15,7 @@ class MapTilesDownloader
     @lon_to : Float64,
     @logger = Logger.new(STDOUT),
     @zoom = DEFAULT_ZOOM,
-    @type = MapType::Ump,
+    @type = MapType::Ump
   )
     @x_from, @y_to = tile_numbers_from_coords(@lat_from, @lon_from).as(Tuple(Int32, Int32))
     @x_to, @y_from = tile_numbers_from_coords(@lat_to, @lon_to).as(Tuple(Int32, Int32))
@@ -40,7 +40,7 @@ class MapTilesDownloader
         PUBLIC_PATH,
         @type.to_s.downcase,
         @zoom,
-        x
+        x,
       ]
     )
   end
@@ -65,9 +65,7 @@ class MapTilesDownloader
   end
 
   def make_it_so
-
-
-    @logger.info("#{@x_to-@x_from}*#{@y_to-@y_from}=#{(@x_to-@x_from)*(@y_to-@y_from)} tiles to download")
+    @logger.info("#{@x_to - @x_from}*#{@y_to - @y_from}=#{(@x_to - @x_from)*(@y_to - @y_from)} tiles to download")
 
     (@x_from..@x_to).each do |x|
       # prepare parent path
@@ -97,5 +95,4 @@ class MapTilesDownloader
 
     return lat_deg, lon_deg
   end
-
 end
