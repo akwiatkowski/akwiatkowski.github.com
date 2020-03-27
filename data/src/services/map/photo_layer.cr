@@ -12,11 +12,18 @@ class Map::PhotoLayer
     @quant_size = PHOTO_SIZE,
     @logger : Logger = Logger.new(STDOUT)
   )
+    # to calculate coord offset we need to specify center of map
+    # because at 0,0 lat offset is different
+    center_tile_x = (@tiles_layer.x_tile1 + @tiles_layer.x_tile2) / 2
+    center_tile_y = (@tiles_layer.y_tile1 + @tiles_layer.y_tile2) / 2
+
     # calculate coord offset of photo quant (photo box)
     @photo_lat_size, @photo_lon_size = @tiles_layer.geo_coords_from_map_pixels(
       pixel_x: @quant_size,
       pixel_y: @quant_size,
-      zoom: @tiles_layer.zoom
+      zoom: @tiles_layer.zoom,
+      initial_tile_x: center_tile_x,
+      initial_tile_y: center_tile_y,
     ).as(Tuple(Float64, Float64))
 
     # operate on positive values for simple logic
@@ -59,6 +66,9 @@ class Map::PhotoLayer
     while lat <= @map_lat_max
       lon = @map_lon_min
       while lon <= @map_lon_max
+        # XXX used only in dev
+        #return if @photo_map_sets.size > 100
+
         # when using absolute values logic is a bit easier
         # however higher lat means something is closer to top -> Y is lower
         lat_min = lat
@@ -157,6 +167,11 @@ class Map::PhotoLayer
       lat_deg: photo_map_set[:lat_min],
       lon_deg: photo_map_set[:lon_min],
     )
-    return "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}'><image href='#{url}' />\n"
+
+    return String.build do |s|
+      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}'>"
+      s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@quant_size}' height='#{@quant_size}' />\n"
+      s << "</svg>"
+    end
   end
 end

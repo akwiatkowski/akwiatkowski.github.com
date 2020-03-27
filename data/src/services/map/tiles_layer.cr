@@ -37,7 +37,7 @@ class Map::TilesLayer
     @logger.info("#{self.class}: @map_lat1,@map_lon1=#{@map_lat1},#{@map_lon1} @map_lat2,@map_lon2=#{@map_lat2},#{@map_lon2}")
   end
 
-  getter :x_tile1, :y_tile2, :x_tile2, :y_tile1
+  getter :x_tile1, :y_tile1, :x_tile2, :y_tile2
   getter :zoom, :map_height, :map_width
   getter :map_lat1, :map_lon1, :map_lat2, :map_lon2
 
@@ -67,12 +67,26 @@ class Map::TilesLayer
     return x, y
   end
 
-  def geo_coords_from_map_pixels(pixel_x, pixel_y, zoom = @zoom)
+  def geo_coords_from_map_pixels(
+    pixel_x,
+    pixel_y,
+    initial_tile_x,
+    initial_tile_y,
+    zoom = @zoom
+  )
     tile_x = pixel_x.to_f / TILE_WIDTH.to_f
     tile_y = pixel_y.to_f / TILE_WIDTH.to_f
 
-    zero_lat, zero_lon = geo_coords_from_tile_number(0.0, 0.0, zoom)
-    pixel_lat, pixel_lon = geo_coords_from_tile_number(tile_x, tile_y, zoom)
+    zero_lat, zero_lon = geo_coords_from_tile_number(
+      initial_tile_x.to_f,
+      initial_tile_y.to_f,
+      zoom
+    )
+    pixel_lat, pixel_lon = geo_coords_from_tile_number(
+      initial_tile_x.to_f + tile_x,
+      initial_tile_y.to_f + tile_y,
+      zoom
+    )
 
     return (pixel_lat - zero_lat), (pixel_lon - zero_lon)
   end

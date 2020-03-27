@@ -79,8 +79,8 @@ class Map::Base
     return String.build do |s|
       s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' class='photo-map-tiles'>\n"
       s << @tiles_layer.render_svg
-      s << @routes_layer.render_svg
       s << @photo_layer.render_svg
+      s << @routes_layer.render_svg
       s << "</svg>\n"
     end
   end
