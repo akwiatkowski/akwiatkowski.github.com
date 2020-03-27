@@ -57,7 +57,7 @@ class Map::PhotoLayer
 
   def select_photos_for_quant_and_add_to_list(
     x : Int32,
-    y : Int32,
+    y : Int32
   )
     lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
     lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + PHOTO_SIZE, y + PHOTO_SIZE)
