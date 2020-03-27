@@ -8,6 +8,8 @@ class Map::RoutesLayer
 
   def render_svg
     return String.build do |s|
+      s << "<g id='photo-map-routes' >\n"
+
       @posts.each do |post|
         if post.coords
           if post.coords.not_nil!.size > 0
@@ -20,6 +22,8 @@ class Map::RoutesLayer
           end
         end
       end
+
+      s << "</g>"
     end
   end
 
@@ -39,7 +43,7 @@ class Map::RoutesLayer
 
         # render only if there 2 or more
         if geo_coords.size >= 2
-          s << "<polyline fill='none' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' points='"
+          s << "<polyline class='photo-map-route' fill='none' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' points='"
 
           # polyline is more optimized solution
           geo_coords.each do |geo_coord|

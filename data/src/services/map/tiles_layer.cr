@@ -9,6 +9,7 @@ class Map::TilesLayer
     @zoom = DEFAULT_ZOOM,
     @type = MapType::Ump
   )
+    # convert extreme geo coords to tile number (tile url coords)
     x_tile1, y_tile1 = tile_numbers_from_geo_coords(@lat_min, @lon_min).as(Tuple(Int32, Int32))
     x_tile2, y_tile2 = tile_numbers_from_geo_coords(@lat_max, @lon_max).as(Tuple(Int32, Int32))
 
@@ -67,41 +68,26 @@ class Map::TilesLayer
     return x, y
   end
 
-  def geo_coords_from_map_pixels(
-    pixel_x,
-    pixel_y,
-    initial_tile_x,
-    initial_tile_y,
-    zoom = @zoom
-  )
-    tile_x = pixel_x.to_f / TILE_WIDTH.to_f
-    tile_y = pixel_y.to_f / TILE_WIDTH.to_f
-
-    zero_lat, zero_lon = geo_coords_from_tile_number(
-      initial_tile_x.to_f,
-      initial_tile_y.to_f,
-      zoom
-    )
-    pixel_lat, pixel_lon = geo_coords_from_tile_number(
-      initial_tile_x.to_f + tile_x,
-      initial_tile_y.to_f + tile_y,
-      zoom
-    )
-
-    return (pixel_lat - zero_lat), (pixel_lon - zero_lon)
-  end
-
-  def geo_coords_from_tile_number(x, y, zoom = @zoom) : Tuple(Float64, Float64)
+  def geo_coords_from_tile_number(tile_x, tile_y, zoom = @zoom) : Tuple(Float64, Float64)
     n = 2.0 ** zoom
-    lon_deg = x / n * 360.0 - 180.0
-    lat_rad = Math.atan(Math.sinh(Math::PI * (1 - 2 * y / n)))
+    lon_deg = tile_x / n * 360.0 - 180.0
+    lat_rad = Math.atan(Math.sinh(Math::PI * (1 - 2 * tile_y / n)))
     lat_deg = 180.0 * (lat_rad / Math::PI)
 
     return lat_deg, lon_deg
   end
 
+  def geo_coords_from_map_pixel_position(pixel_x, pixel_y) : Tuple(Float64, Float64)
+    tile_x = @x_tile1.to_f + (pixel_x.to_f / TILE_WIDTH.to_f)
+    tile_y = @y_tile1.to_f + (pixel_y.to_f / TILE_WIDTH.to_f)
+
+    return geo_coords_from_tile_number(tile_x, tile_y, @zoom)
+  end
+
   def render_svg
     return String.build do |s|
+      s << "<g id='photo-map-tiles' >\n"
+
       ((@x_tile1)..(@x_tile2)).each do |tile_x|
         ((@y_tile1)..(@y_tile2)).each do |tile_y|
           relative_title_x = tile_x - @x_tile1
@@ -110,9 +96,11 @@ class Map::TilesLayer
           y = relative_title_y * TILE_WIDTH
           url = "/tiles/ump/#{@zoom}/#{tile_x}/#{tile_y}.png"
 
-          s << "<image href='#{url}' x='#{x.to_i}' y='#{y.to_i}' />\n"
+          s << "<image href='#{url}' x='#{x.to_i}' y='#{y.to_i}' class='photo-map-tile' />\n"
         end
       end
+
+      s << "</g>\n"
     end
   end
 end

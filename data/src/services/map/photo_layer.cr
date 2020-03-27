@@ -1,8 +1,6 @@
 alias PhotoMapSet = NamedTuple(
-  lat_min: Float64,
-  lat_max: Float64,
-  lon_min: Float64,
-  lon_max: Float64,
+  pixel_x: Int32,
+  pixel_y: Int32,
   photo: PhotoEntity)
 
 class Map::PhotoLayer
@@ -12,36 +10,13 @@ class Map::PhotoLayer
     @quant_size = PHOTO_SIZE,
     @logger : Logger = Logger.new(STDOUT)
   )
-    # to calculate coord offset we need to specify center of map
-    # because at 0,0 lat offset is different
-    center_tile_x = (@tiles_layer.x_tile1 + @tiles_layer.x_tile2) / 2
-    center_tile_y = (@tiles_layer.y_tile1 + @tiles_layer.y_tile2) / 2
+    @x_tile1 = @tiles_layer.x_tile1.as(Int32)
+    @x_tile2 = @tiles_layer.x_tile2.as(Int32)
+    @y_tile1 = @tiles_layer.y_tile1.as(Int32)
+    @y_tile2 = @tiles_layer.y_tile2.as(Int32)
 
-    # calculate coord offset of photo quant (photo box)
-    @photo_lat_size, @photo_lon_size = @tiles_layer.geo_coords_from_map_pixels(
-      pixel_x: @quant_size,
-      pixel_y: @quant_size,
-      zoom: @tiles_layer.zoom,
-      initial_tile_x: center_tile_x,
-      initial_tile_y: center_tile_y,
-    ).as(Tuple(Float64, Float64))
-
-    # operate on positive values for simple logic
-    @photo_lat_size = @photo_lat_size.abs
-    @photo_lon_size = @photo_lon_size.abs
-
-    map_lat1 = @tiles_layer.map_lat1.as(Float64)
-    map_lat2 = @tiles_layer.map_lat2.as(Float64)
-    map_lon1 = @tiles_layer.map_lon1.as(Float64)
-    map_lon2 = @tiles_layer.map_lon2.as(Float64)
-
-    # sort to make logic simpler
-    @map_lat_min = [map_lat1, map_lat2].min.as(Float64)
-    @map_lat_max = [map_lat1, map_lat2].max.as(Float64)
-    @map_lon_min = [map_lon1, map_lon2].min.as(Float64)
-    @map_lon_max = [map_lon1, map_lon2].max.as(Float64)
-
-    @logger.info("#{self.class}: @photo_lat_size=#{@photo_lat_size} @photo_lon_size=#{@photo_lon_size}")
+    @map_height = @tiles_layer.map_height.as(Int32)
+    @map_width = @tiles_layer.map_width.as(Int32)
 
     @photo_map_sets = Array(PhotoMapSet).new
 
@@ -51,64 +26,52 @@ class Map::PhotoLayer
 
   def render_svg
     return String.build do |s|
+      s << "<g id='photo-map-photos' >\n"
+
       @photo_map_sets.each do |photo_map_set|
         s << photo_map_set_to_svg_image(photo_map_set)
       end
+
+      s << "</g>\n"
     end
   end
 
   def quantize_photo_areas
-    # lon is X axis
-    # lat is Y axis but reversed
-    @logger.info("#{self.class}: @map_lat_min= #{@map_lat_min} < @map_lat_max= #{@map_lat_max}")
-
-    lat = @map_lat_min
-    while lat <= @map_lat_max
-      lon = @map_lon_min
-      while lon <= @map_lon_max
-        # XXX used only in dev
-        #return if @photo_map_sets.size > 100
-
-        # when using absolute values logic is a bit easier
-        # however higher lat means something is closer to top -> Y is lower
-        lat_min = lat
-        lat_max = lat + @photo_lat_size
-        lon_min = lon
-        lon_max = lon + @photo_lon_size
-
-        # moved outside to make this method cleaner
-        select_photos_for_area_and_add_to_list(
-          lat_min: lat_min,
-          lat_max: lat_max,
-          lon_min: lon_min,
-          lon_max: lon_max,
+    x = 0
+    while x <= @map_width
+      y = 0
+      while y <= @map_height
+        select_photos_for_quant_and_add_to_list(
+          x: x,
+          y: y,
         )
 
         # remember to increment
-        lon += @photo_lon_size
+        y += PHOTO_SIZE
       end
-      lat += @photo_lat_size
+      x += PHOTO_SIZE
     end
 
     @logger.info("#{self.class}: selected total #{@photo_map_sets.size} photos")
   end
 
-  def select_photos_for_area_and_add_to_list(
-    lat_min : Float64,
-    lat_max : Float64,
-    lon_min : Float64,
-    lon_max : Float64
+  def select_photos_for_quant_and_add_to_list(
+    x : Int32,
+    y : Int32,
   )
+    lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
+    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + PHOTO_SIZE, y + PHOTO_SIZE)
+
     selected_photos = select_photos_for_area(
-      lat_min: lat_min,
-      lat_max: lat_max,
-      lon_min: lon_min,
-      lon_max: lon_max,
+      lat_min: lat2, # Y/lat axis is reversed
+      lat_max: lat1,
+      lon_min: lon1,
+      lon_max: lon2,
     )
 
     # no photos, move along
     if selected_photos.size > 0
-      @logger.info("#{self.class}: #{selected_photos.size} selected_photos lat: #{lat_min}-#{lat_max} lon: #{lon_min}-#{lon_max}")
+      @logger.info("#{self.class}: #{selected_photos.size} selected_photos x: #{x} y: #{y}")
 
       # having array of photos take the best one
       # TODO: we need some logic to select which photos are better
@@ -117,10 +80,8 @@ class Map::PhotoLayer
 
       if selected_photo
         @photo_map_sets << PhotoMapSet.new(
-          lat_min: lat_min,
-          lat_max: lat_max,
-          lon_min: lon_min,
-          lon_max: lon_max,
+          pixel_x: x,
+          pixel_y: y,
           photo: selected_photo.not_nil!
         )
       end
@@ -163,13 +124,11 @@ class Map::PhotoLayer
 
   def photo_map_set_to_svg_image(photo_map_set)
     url = photo_map_set[:photo].gallery_thumb_image_src
-    x, y = @tiles_layer.in_map_position_from_geo_coords(
-      lat_deg: photo_map_set[:lat_min],
-      lon_deg: photo_map_set[:lon_min],
-    )
+    x = photo_map_set[:pixel_x]
+    y = photo_map_set[:pixel_y]
 
     return String.build do |s|
-      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}'>"
+      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}' class='photo-map-photo'>"
       s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@quant_size}' height='#{@quant_size}' />\n"
       s << "</svg>"
     end
