@@ -60,6 +60,14 @@ class Map::TilesLayer
 
   # float, keep in mind that tiles in Poland start not from 0
   def tile_coords_from_geo_coords(lat_deg, lon_deg, zoom = @zoom) : Tuple(Float64, Float64)
+    return self.class.tile_coords_from_geo_coords(
+      lat_deg: lat_deg,
+      lon_deg: lon_deg, 
+      zoom: zoom,
+    )
+  end
+
+  def self.tile_coords_from_geo_coords(lat_deg, lon_deg, zoom) : Tuple(Float64, Float64)
     lat_rad = lat_deg / 180.0 * Math::PI
     n = 2.0 ** zoom
     x = ((lon_deg + 180.0) / 360.0 * n)

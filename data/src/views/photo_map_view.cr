@@ -38,40 +38,5 @@ class PhotoMapView < WidePageView
     )
 
     return m.to_s
-
-    #
-    # content_string = ""
-    #
-    # # background tiles
-    # content_string += map_tiles_svg
-    #
-    # # photos
-    # # photo_array = process_photos
-    # #
-    # # # add photos
-    # # photo_array.each do |ph|
-    # #   content_string += load_html(
-    # #     "photo_map/photo",
-    # #     convert_photo_map_set_to_html_hash(ph)
-    # #   )
-    # # end
-    #
-    # # add towns if enabled
-    # if @append_towns
-    #   @towns.each do |town|
-    #     content_string += load_html(
-    #       "photo_map/town",
-    #       convert_town_to_html_hash(town)
-    #     )
-    #   end
-    # end
-    #
-    # # all posts routes as svg
-    # # TODO temporary disabled because it block photos and not look good enough
-    # #content_string += posts_routes_svg
-    #
-    # data = Hash(String, String).new
-    # data["photos"] = content_string
-    # return load_html("photo_map/main", data)
   end
 end
