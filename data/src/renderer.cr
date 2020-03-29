@@ -33,26 +33,19 @@ require "./views/atom_generator"
 
 class Tremolite::Renderer
   def render_all
-    render_index
-    render_posts
-    save_exif_entities
+    # group of renders using ModWatcher
+    render_post_related_pages
+    render_exif_related_pages
+    render_yaml_related_pages
 
-    # dev stuff should be here for faster update
-    render_photo_maps
+    # TODO town pages are related to posts and towns
 
     # rest ot working stuff
-    render_paginated_list
-    render_map
-    # render_photo_maps
     render_planner
     render_tags_pages
-    render_lands_pages
-    render_towns_pages
-    render_todo_routes
-    render_pois
-    render_towns_index
-    render_voivodeships_pages
-    render_lands_index
+
+
+
 
     render_towns_history
     render_towns_timeline
@@ -65,16 +58,47 @@ class Tremolite::Renderer
     render_gallery
     render_tag_galleries
     render_timeline_list
-    render_exif_stats
-
-    render_sitemap
-    render_robot
-
-    render_payload_json
-    # render_photo_entities
-    render_rss
-    render_atom
   end
+
+  def render_post_related_pages
+    update_only_when_changed(ModWatcher::EXIF_POSTS) do
+      render_index
+      render_posts
+      render_paginated_list
+
+      render_map
+      render_pois
+
+      render_payload_json
+      render_rss
+      render_atom
+
+      render_sitemap
+      render_robot
+    end
+  end
+
+  def render_exif_related_pages
+    update_only_when_changed(ModWatcher::EXIF_DB_KEY) do
+      save_exif_entities
+      render_photo_maps
+      render_exif_stats
+    end
+  end
+
+  def render_yaml_related_pages
+    update_only_when_changed(ModWatcher::EXIF_YAMLS) do
+      render_lands_pages
+      render_towns_pages
+      render_todo_routes
+
+      render_towns_index
+      render_voivodeships_pages
+      render_lands_index
+    end
+  end
+
+  # put not group renderer methods below
 
   def save_exif_entities
     @blog.data_manager.not_nil!.save_exif_entities
@@ -420,4 +444,11 @@ class Tremolite::Renderer
     view = Tremolite::Views::RobotGenerator.new
     write_output(view)
   end
+
+  private def clear
+    # because there are some not rendered content in public and we
+    # cannot allow to be removed
+    raise Exception.new("`clear` is disabled")
+  end
+
 end
