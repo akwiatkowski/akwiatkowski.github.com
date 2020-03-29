@@ -38,12 +38,12 @@ class Tremolite::Renderer
     save_exif_entities
 
     # dev stuff should be here for faster update
-    render_photo_map
+    render_photo_maps
 
     # rest ot working stuff
     render_paginated_list
     render_map
-    # render_photo_map
+    # render_photo_maps
     render_planner
     render_tags_pages
     render_lands_pages
@@ -127,9 +127,18 @@ class Tremolite::Renderer
     write_output(view)
   end
 
+  # we will have not only 1 map but many: regular small, private big, ...
+  # and maybe later I'll use this for voivodeship summary post
+  def render_photo_maps
+    if @blog.mod_watcher.not_nil!.compare_exif_db?
+      view = PhotoMapView.new(blog: @blog, url: "/photo_map")
+      write_output(view)
+      @blog.mod_watcher.not_nil!.mark_updated_exif_db!
+    end
+  end
+
   def render_photo_map
-    view = PhotoMapView.new(blog: @blog, url: "/photo_map")
-    write_output(view)
+    render_photo_maps
   end
 
   def render_planner

@@ -20,7 +20,11 @@ class Tremolite::DataManager
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
     @photos = Array(PhotoEntity).new
+
+    # Exif cache is here
+    # TODO: move it to somewhere else to show a bit different nature
     @exifs = Array(ExifEntity).new
+    @exifs_dirty = false
 
     @cache_path = CACHE_PATH
   end
@@ -93,20 +97,30 @@ class Tremolite::DataManager
     end
   end
 
-  def load_exif_entities
-    path = File.join([@cache_path, "exifs.yml"])
-    return unless File.exists?(path)
+  def exif_db_file_path
+    return File.join([@cache_path, "exifs.yml"])
+  end
 
-    @exifs = Array(ExifEntity).from_yaml(File.open(path))
+  def load_exif_entities
+    return unless File.exists?(exif_db_file_path)
+    @exifs = Array(ExifEntity).from_yaml(File.open(exif_db_file_path))
   end
 
   def save_exif_entities
-    path = File.join([@cache_path, "exifs.yml"])
-    File.open(path, "w") do |f|
+    @logger.debug("#{self.class}: save_exif_entities exifs_dirty=#{@exifs_dirty}")
+    # not need to overwrite if no exif data was added
+    return unless @exifs_dirty
+
+    File.open(exif_db_file_path, "w") do |f|
       @exifs.to_yaml(f)
     end
 
     @logger.info("#{self.class}: save_exif_entities #{@blog.data_manager.not_nil!.exifs.not_nil!.size}")
+  end
+
+  def append_to_exifs(exif : ExifEntity)
+    @exifs_dirty = true
+    @exifs.not_nil! << exif
   end
 
   # search in @exifs, match and assign or generate
@@ -122,7 +136,7 @@ class Tremolite::DataManager
         path: @blog.data_path.as(String)
       )
 
-      @exifs.not_nil! << exif
+      append_to_exifs(exif)
 
       # periodically save exifs
       if @exifs.not_nil!.size % 500 == 0

@@ -1,6 +1,11 @@
 require "tremolite"
 require "../data/src/blog"
 
-t = Tremolite::Blog.new
-t.logger.level = Logger::INFO
+logger = Logger.new(STDOUT)
+logger.level = Logger::DEBUG
+
+t = Tremolite::Blog.new(
+  logger: logger,
+  mod_watcher_yaml_path: File.join(["cache", "mod_watcher.yml"])
+)
 t.render
