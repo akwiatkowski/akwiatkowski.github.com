@@ -159,7 +159,10 @@ class Tremolite::ModWatcher
     h = ModHash.new
 
     @blog.post_collection.posts.each do |post|
-      h[post.slug] = post.list_of_uploaded_photos.size.to_s
+      count = post.list_of_uploaded_photos.size
+      if count > 0
+        h[post.slug] = count.to_s
+      end
     end
 
     return h
@@ -169,7 +172,10 @@ class Tremolite::ModWatcher
     h = ModHash.new
 
     @blog.post_collection.posts.each do |post|
-      h[post.slug] = post.photo_entities.not_nil!.size.to_s
+      count = post.count_of_published_photos
+      if count > 0
+        h[post.slug] = count.to_s
+      end
     end
 
     return h

@@ -1,4 +1,6 @@
 class Tremolite::Views::BaseView
+  PHOTO_COMMAND = "photo"
+
   def custom_process_function(
     command : String,
     string : String,
@@ -18,7 +20,7 @@ class Tremolite::Views::BaseView
     end
 
     # new, with string params
-    result = command.scan(/photo\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
+    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_photo(
         post: post,
@@ -29,7 +31,7 @@ class Tremolite::Views::BaseView
     end
 
     # new, w/o string params
-    result = command.scan(/photo\s+\"([^\"]+)\",\"([^\"]+)\"/)
+    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_photo(
         post: post,
@@ -84,7 +86,7 @@ class Tremolite::Views::BaseView
     # add to list, fetch exif or get exif cache, set some attribs
     photo_entity = @blog.data_manager.not_nil!.process_photo_entity(photo_entity)
 
-    post.photo_entities.not_nil! << photo_entity
+    post.append_photo_entity(photo_entity)
 
     return post_image(
       photo: photo_entity,

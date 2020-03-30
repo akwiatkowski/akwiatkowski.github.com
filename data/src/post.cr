@@ -58,8 +58,7 @@ class Tremolite::Post
   getter :distance, :time_spent
   getter :image_filename, :header_nogallery
   getter :finished_at
-
-  property :photo_entities
+  getter :photo_entities
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
@@ -344,6 +343,25 @@ class Tremolite::Post
 
   def list_of_uploaded_photos
     return Dir.entries(uploaded_photos_path)
+  end
+
+  # BaseView#process_functions is run in #to_html
+  # because of that we don't have access to published photos before
+  # converting markdown post to html output.
+  def count_of_published_photos
+    # TODO clean this
+    # because it's theoretically not possible to run this during function processing
+    size = @photo_entities.not_nil!.size
+    return size if size > 0
+
+    # ugly hack
+    # check how many commands there is in markdown file
+    size = @content_string.scan(/#{Tremolite::Views::BaseView::PHOTO_COMMAND}/).size
+    return size
+  end
+
+  def append_photo_entity(pe : PhotoEntity)
+    @photo_entities.not_nil! << pe
   end
 
   # getter/generator all photos uploaded to post dir
