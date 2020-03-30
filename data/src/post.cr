@@ -327,6 +327,25 @@ class Tremolite::Post
     )
   end
 
+  # some helpers method used for initializing PhotoEntity
+
+  def data_path
+    return @blog.data_path.as(String)
+  end
+
+  def public_path
+    return @blog.public_path.as(String)
+  end
+
+  # path where all uploaded photos are stored
+  def uploaded_photos_path
+    return File.join([data_path, self.images_dir_url])
+  end
+
+  def list_of_uploaded_photos
+    return Dir.entries(uploaded_photos_path)
+  end
+
   # getter/generator all photos uploaded to post dir
   # converted to PhotoEntity. used in PostGalleryView
   def all_uploaded_photo_entities : Array(PhotoEntity)
@@ -336,14 +355,10 @@ class Tremolite::Post
     # photos which were added in post markdown content
     @all_uploaded_photo_entities = photo_entities.dup
 
-    data_path = @blog.data_path.as(String)
-    public_path = @blog.public_path.as(String)
-
     photo_entities_filenames = self.photo_entities.not_nil!.map { |pe| pe.image_filename }
 
-    path = File.join([data_path, self.images_dir_url])
-    Dir.entries(path).each do |name|
-      if false == File.directory?(File.join([path, name]))
+    list_of_uploaded_photos.each do |name|
+      if false == File.directory?(File.join([uploaded_photos_path, name]))
         unless photo_entities_filenames.includes?(name)
           # if it was not used already
           # create nameless PhotoEntity

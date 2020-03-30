@@ -33,70 +33,165 @@ require "./views/atom_generator"
 
 class Tremolite::Renderer
   def render_all
-    # group of renders using ModWatcher
-    render_post_related_pages
-    render_exif_related_pages
-    render_yaml_related_pages
+    watchers = all_mod_watchers
+    watchers_static = watchers[:static].as(Array(String))
+    watchers_posts_mtime = watchers[:posts_mtime].as(Array(String))
+    watchers_photo_count = watchers[:photo_count].as(Array(String))
 
-    # TODO town pages are related to posts and towns
+    # TODO 1) add viewer classes changes
 
-    # rest ot working stuff
-    render_planner
-    render_tags_pages
+    # TODO 2) add html includes changes
 
+    # 3) update posts (only)
+    if watchers_static.includes?(ModWatcher::KEY_POSTS_FILES) || watchers_static.includes?(ModWatcher::KEY_YAMLS)
+      @logger.debug("#{self.class} mod watcher: #{ModWatcher::KEY_POSTS_FILES} | #{ModWatcher::KEY_YAMLS}")
 
+      # low processing fast renders
+      render_post_related_fast_renders
 
+      # posts, w/o galleries
+      render_only_posts
 
+      # update list of posts related to town, voivodeship, tag, ...
+      render_yaml_based_pages
+    end
+
+    # 3b) added photos to directory or added to post content, render galleries pages
+    if watchers_photo_count.size > 0
+      @logger.debug("#{self.class} mod watcher: #{watchers_photo_count.size} photo_count")
+
+      # iterate posts
+      watchers_photo_count.each do |post_slug|
+        posts_with_changes_photos = blog.post_collection.posts.select do |post|
+          post.slug == post_slug
+        end
+
+        # all galleries pages
+        posts_with_changes_photos.each do |post|
+          render_post_galleries_for_post(post)
+        end
+      end
+
+      # and update overall galleries pages
+      render_galleries_pages
+    end
+
+    # 4) exif pages takes a lot of time but exif db is updated only
+    # when I add photos
+    if watchers_static.includes?(ModWatcher::KEY_EXIF_DB)
+      @logger.debug("#{self.class} mod watcher: #{ModWatcher::KEY_EXIF_DB}")
+
+      render_exif_page
+    end
+
+    render_fast_renders
+  end
+
+  def render_post_related_fast_renders
+    render_index
+    render_paginated_list
+
+    render_map
+    render_pois
+
+    render_summary_page
+    render_year_stat_reports_pages
+
+    # it's post and town related
+    # should not take much time but not sure
     render_towns_history
     render_towns_timeline
+
+    render_payload_json
+    render_rss
+    render_atom
+
+    render_sitemap
+    render_robot
+  end
+
+  def render_fast_renders
+    render_planner
 
     render_more_page
     render_about_page
     render_en_page
-    render_summary_page
-    render_year_stat_reports_pages
+  end
+
+  # render only regular post pages, it should be fast
+  def render_only_posts
+    @logger.debug("#{self.class}: render_only_posts")
+    blog.post_collection.posts.each do |post|
+      view = PostView.new(blog: @blog, post: post)
+      write_output(view)
+    end
+  end
+
+  def render_post_galleries_for_post(post)
+    view_gallery = PostGalleryView.new(blog: @blog, post: post)
+    write_output(view_gallery)
+    @logger.debug("#{self.class}:render_post #{post.slug} PostGalleryView")
+
+    view_gallery_stats = PostGalleryStatsView.new(blog: @blog, post: post)
+    write_output(view_gallery_stats)
+    @logger.debug("#{self.class}:render_post #{post.slug} PostGalleryStatsView")
+  end
+
+  # galleries which do not use exif
+  def render_galleries_pages
     render_gallery
     render_tag_galleries
+
     render_timeline_list
   end
 
-  def render_post_related_pages
-    update_only_when_changed(ModWatcher::EXIF_POSTS) do
-      render_index
-      render_posts
-      render_paginated_list
+  def render_yaml_based_pages
+    render_tags_pages
 
-      render_map
-      render_pois
+    render_lands_pages
+    render_towns_pages
+    render_todo_routes
 
-      render_payload_json
-      render_rss
-      render_atom
+    render_towns_index
+    render_voivodeships_pages
+    render_lands_index
+  end
 
-      render_sitemap
-      render_robot
+  def render_exif_page
+    save_exif_entities
+    render_photo_maps
+    render_exif_stats
+  end
+
+  # end of render sets
+
+  def render_only_posts
+    @logger.debug("#{self.class}: render_only_posts")
+    blog.post_collection.posts.each do |post|
+      view = PostView.new(blog: @blog, post: post)
+      write_output(view)
+      @logger.debug("#{self.class}: #{post.slug} PostView")
     end
   end
+
+  #
+
+  def render_post_related_slow_renders(post_slugs : Array(String))
+    render_posts
+  end
+
+
+
+  # single groups related, not good idea
 
   def render_exif_related_pages
-    update_only_when_changed(ModWatcher::EXIF_DB_KEY) do
-      save_exif_entities
-      render_photo_maps
-      render_exif_stats
+    update_only_when_changed(ModWatcher::KEY_EXIF_DB) do
+
+
+
     end
   end
 
-  def render_yaml_related_pages
-    update_only_when_changed(ModWatcher::EXIF_YAMLS) do
-      render_lands_pages
-      render_towns_pages
-      render_todo_routes
-
-      render_towns_index
-      render_voivodeships_pages
-      render_lands_index
-    end
-  end
 
   # put not group renderer methods below
 
@@ -154,11 +249,8 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    if @blog.mod_watcher.not_nil!.compare_exif_db?
-      view = PhotoMapView.new(blog: @blog, url: "/photo_map")
-      write_output(view)
-      @blog.mod_watcher.not_nil!.mark_updated_exif_db!
-    end
+    view = PhotoMapView.new(blog: @blog, url: "/photo_map")
+    write_output(view)
   end
 
   def render_photo_map
@@ -316,14 +408,9 @@ class Tremolite::Renderer
   end
 
   def render_post(post : Tremolite::Post)
-    view = PostView.new(blog: @blog, post: post)
-    write_output(view)
 
-    view_gallery = PostGalleryView.new(blog: @blog, post: post)
-    write_output(view_gallery)
 
-    view_gallery_stats = PostGalleryStatsView.new(blog: @blog, post: post)
-    write_output(view_gallery_stats)
+    @logger.debug("#{self.class}:render_post #{post.slug} DONE")
   end
 
   def render_more_page
@@ -451,4 +538,9 @@ class Tremolite::Renderer
     raise Exception.new("`clear` is disabled")
   end
 
+  # return Array(String) of all ModWatcher keys, posts, ...
+  # to decide which renderers to run
+  def all_mod_watchers
+    @blog.mod_watcher.not_nil!.all_mod_watchers
+  end
 end
