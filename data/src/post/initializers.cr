@@ -2,6 +2,8 @@ alias PostRouteObject = Hash(String, (String | Array(Array(Float64))))
 
 class Tremolite::Post
   def custom_initialize
+    header_image_defaults
+
     basic_initialize
     tags_initialize
     towns_initialize
@@ -18,7 +20,7 @@ class Tremolite::Post
     lands_from_headers
     pois_from_headers
     coords_from_headers
-    photos_entities_from_content # TODO
+    photos_entities_from_content
     basic_from_headers
     seo_from_headers
     finished_at_from_headers
@@ -103,8 +105,11 @@ class Tremolite::Post
     @photo_entities = Array(PhotoEntity).new
   end
 
-  # TODO create method populating (in-memory)
   def photos_entities_from_content
+    # process helper functions: like photo and populate photo_entities
+    @logger.debug("photos_entities_from_content pre")
+    content_html
+    @logger.debug("photos_entities_from_content post")
   end
 
   def basic_initialize
@@ -147,7 +152,7 @@ class Tremolite::Post
     end
   end
 
-  def header_image_initialize
+  def header_image_defaults
     # easily changable post image
     @image_filename = "header.jpg"
     # ignore some posts and not add them to gallery

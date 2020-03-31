@@ -6,6 +6,7 @@ require "./models/transport_poi_entity"
 require "./models/todo_route_entity"
 
 require "./services/exif_processor"
+require "./data_manager/exif_db"
 
 class Tremolite::DataManager
   CACHE_PATH = "cache"
@@ -19,20 +20,19 @@ class Tremolite::DataManager
     @lands = Array(LandEntity).new
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
-    @photos = Array(PhotoEntity).new
 
-    # Exif cache is here
-    # TODO: move it to somewhere else to show a bit different nature
-    @exifs = Array(ExifEntity).new
-    @exifs_dirty = false
-
-    @cache_path = CACHE_PATH
+    @exif_db = ExifDb.new
   end
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities
-  getter :photos, :exifs
+
+  def exif_db
+    return @exif_db.not_nil!
+  end
+
+  # end of getters
 
   def custom_load
     load_towns
@@ -41,10 +41,11 @@ class Tremolite::DataManager
     load_lands
     load_transport_pois
     load_todo_routes
-    load_exif_entities
   end
 
   def load_towns
+    @logger.debug("#{self.class}: loading towns")
+
     Dir[File.join([@data_path, "towns", "**", "*"])].each do |f|
       if File.file?(f)
         load_town_yaml(f)
@@ -53,6 +54,8 @@ class Tremolite::DataManager
   end
 
   def load_tags
+    @logger.debug("#{self.class}: loading tags")
+
     f = File.join([@data_path, "tags.yml"])
     YAML.parse(File.read(f)).as_a.each do |tag|
       o = TagEntity.new(tag)
@@ -61,6 +64,8 @@ class Tremolite::DataManager
   end
 
   def load_land_types
+    @logger.debug("#{self.class}: loading land types")
+
     f = File.join([@data_path, "land_types.yml"])
     YAML.parse(File.read(f)).as_a.each do |land_type|
       o = LandTypeEntity.new(land_type)
@@ -69,6 +74,8 @@ class Tremolite::DataManager
   end
 
   def load_lands
+    @logger.debug("#{self.class}: loading lands")
+
     f = File.join([@data_path, "lands.yml"])
     YAML.parse(File.read(f)).as_a.each do |land|
       o = LandEntity.new(land)
@@ -77,6 +84,8 @@ class Tremolite::DataManager
   end
 
   def load_transport_pois
+    @logger.debug("#{self.class}: loading transport pois")
+
     f = File.join([@data_path, "transport_pois.yml"])
     YAML.parse(File.read(f)).as_a.each do |transport_poi|
       o = TransportPoiEntity.new(transport_poi)
@@ -90,67 +99,13 @@ class Tremolite::DataManager
   end
 
   def load_todo_routes
+    @logger.debug("#{self.class}: loading todo routes")
+
     f = File.join([@data_path, "todo_routes.yml"])
     YAML.parse(File.read(f)).as_a.each do |tag|
       o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!, logger: @logger)
       @todo_routes.not_nil! << o
     end
-  end
-
-  def exif_db_file_path
-    return File.join([@cache_path, "exifs.yml"])
-  end
-
-  def load_exif_entities
-    return unless File.exists?(exif_db_file_path)
-    @exifs = Array(ExifEntity).from_yaml(File.open(exif_db_file_path))
-  end
-
-  def save_exif_entities
-    @logger.debug("#{self.class}: save_exif_entities exifs_dirty=#{@exifs_dirty}")
-    # not need to overwrite if no exif data was added
-    return unless @exifs_dirty
-
-    File.open(exif_db_file_path, "w") do |f|
-      @exifs.to_yaml(f)
-    end
-
-    @logger.info("#{self.class}: save_exif_entities #{@blog.data_manager.not_nil!.exifs.not_nil!.size}")
-  end
-
-  def append_to_exifs(exif : ExifEntity)
-    @exifs_dirty = true
-    @exifs.not_nil! << exif
-  end
-
-  # search in @exifs, match and assign or generate
-  def process_photo_entity(photo_entity : PhotoEntity)
-    selected = @exifs.not_nil!.select do |e|
-      e.post_slug == photo_entity.post_slug &&
-        e.image_filename == photo_entity.image_filename
-    end
-
-    if selected.size == 0
-      exif = ExifProcessor.process(
-        photo_entity: photo_entity,
-        path: @blog.data_path.as(String)
-      )
-
-      append_to_exifs(exif)
-
-      # periodically save exifs
-      if @exifs.not_nil!.size % 500 == 0
-        save_exif_entities
-      end
-    else
-      exif = selected.first
-    end
-
-    photo_entity.exif = exif
-
-    @photos.not_nil! << photo_entity
-
-    return photo_entity
   end
 
   private def load_town_yaml(f)
