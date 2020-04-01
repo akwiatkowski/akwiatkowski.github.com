@@ -2,12 +2,16 @@ class Tremolite::ModWatcher
   DETAILED_CORE_KEYS = [
     KEY_POSTS_FILES,
     KEY_YAML_FILES,
-    KEY_EXIF_DB_FILE
+    KEY_EXIF_DB_FILE,
+    KEY_PHOTO_FILES,
+    KEY_SOURCE_FILES
   ]
 
   KEY_POSTS_FILES = "post_files"
   KEY_YAML_FILES = "yaml_files"
   KEY_EXIF_DB_FILE = "exif_db"
+  KEY_PHOTO_FILES = "photo_files"
+  KEY_SOURCE_FILES = "source_files"
 
   # core method to check what has been changed
   def changed_summary
@@ -58,6 +62,8 @@ class Tremolite::ModWatcher
       KEY_POSTS_FILES => Dir[File.join([@blog.posts_path, "**", "*.#{@blog.posts_ext}"])],
       KEY_YAML_FILES => Dir[File.join([@blog.data_path, "**", "*.yml"])],
       KEY_EXIF_DB_FILE => [@blog.data_manager.exif_db.exif_db_file_path.as(String)],
+      KEY_PHOTO_FILES => Dir[File.join([@blog.data_path, "images", "**", "*"])],
+      KEY_SOURCE_FILES => Dir[File.join([@blog.data_path, "**", "*.cr"])],
     }
 
     if key_files[key]?
@@ -79,65 +85,6 @@ class Tremolite::ModWatcher
       hf["mtime"] = fi.modification_time.to_unix.to_s
 
       h[path] = hf
-    end
-
-    return h
-  end
-
-  ######
-
-  # mtime and size of exif yaml file decide if we need to re-render
-  def current_exif_db
-    path = @blog.data_manager.not_nil!.exif_db_file_path
-    return list_of_files_to_mod_data(file_paths: [path])
-  end
-
-
-
-
-  # check if there are photos added into data/images
-  def current_photos
-    files = Dir[File.join([@blog.data_path, "images", "**", "*"])]
-    return list_of_files_to_mod_data(file_paths: files)
-  end
-
-  def current_source_code
-    files = Dir[File.join([@blog.data_path, "**", "*.cr"])]
-    return list_of_files_to_mod_data(file_paths: files)
-  end
-
-  def current_state_of_posts_detailed_mtime
-    h = ModHash.new
-
-    @blog.post_collection.posts.each do |post|
-      fi = File.info(post.path)
-      h[post.slug] = fi.modification_time.to_local.to_s
-    end
-
-    return h
-  end
-
-  def current_state_of_posts_detailed_all_photo_count
-    h = ModHash.new
-
-    @blog.post_collection.posts.each do |post|
-      count = post.list_of_uploaded_photos.size
-      if count > 0
-        h[post.slug] = count.to_s
-      end
-    end
-
-    return h
-  end
-
-  def current_state_of_posts_detailed_published_photo_count
-    h = ModHash.new
-
-    @blog.post_collection.posts.each do |post|
-      count = post.count_of_published_photos
-      if count > 0
-        h[post.slug] = count.to_s
-      end
     end
 
     return h

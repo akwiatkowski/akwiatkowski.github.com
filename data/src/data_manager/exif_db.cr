@@ -1,17 +1,28 @@
 class ExifDb
   BATCH_SAVE_COUNT = 500
 
-  def initialize
-    @photos = Array(PhotoEntity).new
-
-    @exifs = Array(ExifEntity).new
-    @exifs_loaded = false
-    @exifs_dirty = false
-
+  def initialize(
+    @blog : Tremolite::Blog
+  )
+    @logger = @blog.logger.as(Logger)
     @cache_path = Tremolite::DataManager::CACHE_PATH
+
+    # Post#slug
+    # all exifs will be stored within PhotoEntity
+    @photo_entities = Hash(String, Array(PhotoEntity)).new
   end
 
-  getter :photos, :exifs, :cache_path
+  # append, post, load, ... whatever is needed
+  def append_photo_entity(photo_entity : PhotoEntity)
+
+    return photo_entity
+  end
+
+  # only append to internal @photo_entities
+  # do not process (process = get exif)
+  def old_append_photo_entity(photo_entity : PhotoEntity)
+    @photo_entities << photo_entity
+  end
 
   def exif_db_file_path
     return File.join([@cache_path, "exifs.yml"])
@@ -41,7 +52,7 @@ class ExifDb
   end
 
   # search in @exifs, match and assign or generate
-  def process_photo_entity(photo_entity : PhotoEntity)
+  def old_process_photo_entity(photo_entity : PhotoEntity)
     selected = @exifs.not_nil!.select do |e|
       e.post_slug == photo_entity.post_slug &&
         e.image_filename == photo_entity.image_filename
@@ -65,7 +76,7 @@ class ExifDb
 
     photo_entity.exif = exif
 
-    @photos.not_nil! << photo_entity
+    append_photo_entity(photo_entity)
 
     return photo_entity
   end

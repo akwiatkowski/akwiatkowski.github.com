@@ -33,6 +33,8 @@ require "./views/atom_generator"
 
 class Tremolite::Renderer
   def render_all
+    return
+    
     watchers = all_mod_watchers
     watchers_static = watchers[:static].as(Array(String))
     watchers_posts_mtime = watchers[:posts_mtime].as(Array(String))

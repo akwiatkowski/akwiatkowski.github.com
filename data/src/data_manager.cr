@@ -21,7 +21,9 @@ class Tremolite::DataManager
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
 
-    @exif_db = ExifDb.new
+    @exif_db = ExifDb.new(
+      blog: @blog
+    )
   end
 
   getter :tags

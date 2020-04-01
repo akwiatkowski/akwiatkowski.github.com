@@ -84,7 +84,7 @@ class Tremolite::Views::BaseView
     )
 
     # add to list, fetch exif or get exif cache, set some attribs
-    photo_entity = @blog.data_manager.not_nil!.process_photo_entity(photo_entity)
+    photo_entity = @blog.data_manager.exif_db.append_photo_entity(photo_entity)
 
     post.append_photo_entity(photo_entity)
 

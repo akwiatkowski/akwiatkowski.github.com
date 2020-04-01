@@ -20,10 +20,14 @@ class Tremolite::Post
     lands_from_headers
     pois_from_headers
     coords_from_headers
-    photos_entities_from_content
     basic_from_headers
     seo_from_headers
     finished_at_from_headers
+  end
+
+  # TODO this will require a lot of operations
+  def slow_process_header
+    photos_entities_from_content
   end
 
   def tags_initialize
