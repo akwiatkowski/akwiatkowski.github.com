@@ -56,9 +56,16 @@ class Tremolite::Blog
     post_to_render.each do |post|
       @logger.debug("#{self.class}: preparing content #{post.slug}")
       post.content_html
+      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
+      data_manager.exif_db.save_cache(post.slug)
       @logger.debug("#{self.class}: rendering #{post.slug}")
       renderer.render_post(post)
       @logger.debug("#{self.class}: DONE #{post.slug}")
+    end
+
+    # if post were changed render some fast related pages
+    if post_paths_to_update.size > 0
+      renderer.render_fast_only_post_related
     end
 
     # Z) store current state

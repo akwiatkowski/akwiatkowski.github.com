@@ -32,9 +32,30 @@ require "./views/rss_generator"
 require "./views/atom_generator"
 
 class Tremolite::Renderer
+  def render_fast_only_post_related
+    @logger.debug("#{self.class}:render_fast_only_post_related START")
+
+    render_index
+    render_paginated_list
+
+    render_map
+    render_pois
+
+    @logger.debug("#{self.class}:render_fast_only_post_related DONE")
+  end
+
+  def render_post(post : Tremolite::Post)
+    view = PostView.new(blog: @blog, post: post)
+    write_output(view)
+
+    @logger.debug("#{self.class}:render_post #{post.slug} DONE")
+  end
+
+  ####
+
   def render_all
     return
-    
+
     watchers = all_mod_watchers
     watchers_static = watchers[:static].as(Array(String))
     watchers_posts_mtime = watchers[:posts_mtime].as(Array(String))
@@ -90,14 +111,9 @@ class Tremolite::Renderer
   end
 
   def render_post_related_fast_renders
-    render_index
-    render_paginated_list
-
-    render_map
-    render_pois
-
     render_summary_page
     render_year_stat_reports_pages
+
 
     # it's post and town related
     # should not take much time but not sure
@@ -407,12 +423,6 @@ class Tremolite::Renderer
       render_post(post)
     end
     @logger.info("Renderer: Posts finished")
-  end
-
-  def render_post(post : Tremolite::Post)
-
-
-    @logger.debug("#{self.class}:render_post #{post.slug} DONE")
   end
 
   def render_more_page

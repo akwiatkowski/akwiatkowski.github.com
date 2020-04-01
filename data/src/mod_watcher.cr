@@ -2,14 +2,14 @@ class Tremolite::ModWatcher
   DETAILED_CORE_KEYS = [
     KEY_POSTS_FILES,
     KEY_YAML_FILES,
-    KEY_EXIF_DB_FILE,
+    KEY_EXIF_DB_FILES,
     KEY_PHOTO_FILES,
     KEY_SOURCE_FILES
   ]
 
   KEY_POSTS_FILES = "post_files"
   KEY_YAML_FILES = "yaml_files"
-  KEY_EXIF_DB_FILE = "exif_db"
+  KEY_EXIF_DB_FILES = "exif_db_files"
   KEY_PHOTO_FILES = "photo_files"
   KEY_SOURCE_FILES = "source_files"
 
@@ -61,7 +61,7 @@ class Tremolite::ModWatcher
     key_files = {
       KEY_POSTS_FILES => Dir[File.join([@blog.posts_path, "**", "*.#{@blog.posts_ext}"])],
       KEY_YAML_FILES => Dir[File.join([@blog.data_path, "**", "*.yml"])],
-      KEY_EXIF_DB_FILE => [@blog.data_manager.exif_db.exif_db_file_path.as(String)],
+      KEY_EXIF_DB_FILES => Dir[File.join([@blog.data_manager.exif_db.exif_db_file_parent_path, "**", "*.yml"])],
       KEY_PHOTO_FILES => Dir[File.join([@blog.data_path, "images", "**", "*"])],
       KEY_SOURCE_FILES => Dir[File.join([@blog.data_path, "**", "*.cr"])],
     }

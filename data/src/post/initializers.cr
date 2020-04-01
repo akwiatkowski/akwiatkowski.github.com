@@ -23,6 +23,7 @@ class Tremolite::Post
     basic_from_headers
     seo_from_headers
     finished_at_from_headers
+    header_image_from_headers
   end
 
   # TODO this will require a lot of operations
