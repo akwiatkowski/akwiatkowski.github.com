@@ -1,0 +1,936 @@
+---
+- image_filename: 2020_03_21__13_30__3216848.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56480555555555
+  lon: 17.233194444444443
+  altitude: 97.0
+  focal_length: 160.0
+  focal_length_35: 320.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 13:30:12+01:00
+  focus_distance: 53.89
+- image_filename: 2020_03_21__14_46__3217034.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56644444444444
+  lon: 17.24251388888889
+  altitude: 98.0
+  focal_length: 85.0
+  focal_length_35: 170.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5148
+  height: 3786
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 14:46:29+01:00
+  focus_distance: 15.11
+- image_filename: 2020_03_21__15_07_DSC07273.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55981944444444
+  lon: 17.25775
+  altitude: 107.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 2.8
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6938
+  height: 4634
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-03-21 15:07:59+01:00
+- image_filename: 2020_03_21__13_10__3216804.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55768055555555
+  lon: 17.231652777777775
+  altitude: 101.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5130
+  height: 3830
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 13:10:39+01:00
+  focus_distance: 5.49
+- image_filename: 2020_03_21__14_59__3217066.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.562486111111106
+  lon: 17.251208333333334
+  altitude: 102.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 14:59:34+01:00
+  focus_distance: 4.72
+- image_filename: 2020_03_21__12_41_DSC07188.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.554249999999996
+  lon: 17.239583333333336
+  altitude: 102.0
+  focal_length: 29.0
+  focal_length_35: 29.0
+  crop: 1.0
+  aperture: 11.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-03-21 12:41:19+01:00
+- image_filename: 2020_03_21__15_31_DSC07295.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55423611111111
+  lon: 17.24502777777778
+  altitude: 122.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-21 15:31:01+01:00
+- image_filename: 2020_03_21__13_30__3216851.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56481944444444
+  lon: 17.233180555555553
+  altitude: 96.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-03-21 13:30:27+01:00
+  focus_distance: 136.53
+- image_filename: 2020_03_21__13_05__3216768.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55661111111111
+  lon: 17.234180555555557
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-21 13:05:07+01:00
+  focus_distance: 0.3
+- image_filename: 2020_03_21__12_40__3216644.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55427777777778
+  lon: 17.239555555555558
+  altitude: 101.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 8.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 12:40:04+01:00
+  focus_distance: 7.51
+- image_filename: 2020_03_21__14_03_DSC07228.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56615277777777
+  lon: 17.229333333333333
+  altitude: 96.0
+  focal_length: 33.0
+  focal_length_35: 33.0
+  crop: 1.0
+  aperture: 9.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6980
+  height: 4662
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-03-21 14:03:18+01:00
+- image_filename: 2020_03_21__12_52_DSC07207.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556152777777775
+  lon: 17.236375000000002
+  altitude: 106.0
+  focal_length: 49.0
+  focal_length_35: 49.0
+  crop: 1.0
+  aperture: 10.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 12:52:04+01:00
+- image_filename: 2020_03_21__14_22__3216963.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.565416666666664
+  lon: 17.239555555555558
+  altitude: 98.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-21 14:22:57+01:00
+  focus_distance: 105.03
+- image_filename: 2020_03_21__13_31__3216861.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56505555555555
+  lon: 17.233194444444443
+  altitude: 96.0
+  focal_length: 175.0
+  focal_length_35: 350.0
+  crop: 2.0
+  aperture: 7.1
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 13:31:33+01:00
+  focus_distance: 75.85
+- image_filename: 2020_03_21__15_14_DSC07279.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55645833333333
+  lon: 17.257819444444443
+  altitude: 102.0
+  focal_length: 65.0
+  focal_length_35: 65.0
+  crop: 1.0
+  aperture: 11.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-03-21 15:14:54+01:00
+- image_filename: 2020_03_21__13_50__3216918.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566111111111105
+  lon: 17.22720833333333
+  altitude: 86.0
+  focal_length: 85.0
+  focal_length_35: 170.0
+  crop: 2.0
+  aperture: 6.3
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-03-21 13:50:32+01:00
+  focus_distance: 0.7
+- image_filename: 2020_03_21__14_27__3216974.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56443055555555
+  lon: 17.24013888888889
+  altitude: 98.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 14:27:09+01:00
+  focus_distance: 151.7
+- image_filename: 2020_03_21__13_06__3216787.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556625
+  lon: 17.234222222222222
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-21 13:06:26+01:00
+  focus_distance: 0.29
+- image_filename: 2020_03_21__13_30__3216852.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56483333333333
+  lon: 17.233194444444443
+  altitude: 96.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 13:30:30+01:00
+  focus_distance: 136.53
+- image_filename: 2020_03_21__13_06__3216779.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556625
+  lon: 17.234180555555557
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 4825
+  height: 3724
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  time: 2020-03-21 13:06:00+01:00
+  focus_distance: 0.29
+- image_filename: 2020_03_21__13_38__3216885.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566125
+  lon: 17.22908333333333
+  altitude: 91.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 3891
+  height: 5202
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 13:38:57+01:00
+  focus_distance: 27.49
+- image_filename: 2020_03_21__12_46_DSC07200.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.555305555555556
+  lon: 17.23859722222222
+  altitude: 101.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 12:46:46+01:00
+- image_filename: 2020_03_21__14_11__3216946.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56623611111111
+  lon: 17.233305555555553
+  altitude: 99.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-03-21 14:11:49+01:00
+  focus_distance: 0.86
+- image_filename: 2020_03_21__13_35__3216878.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56616666666666
+  lon: 17.231902777777776
+  altitude: 99.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4989
+  height: 3724
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 13:35:53+01:00
+  focus_distance: 124.12
+- image_filename: 2020_03_21__14_11__3216943.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.233152777777775
+  altitude: 99.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5090
+  height: 3728
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 14:11:25+01:00
+  focus_distance: 0.75
+- image_filename: 2020_03_21__13_05__3216777.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556638888888884
+  lon: 17.234180555555557
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 4481
+  height: 3397
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  time: 2020-03-21 13:05:55+01:00
+  focus_distance: 0.3
+- image_filename: 2020_03_21__14_45__3217024.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566374999999994
+  lon: 17.241847222222223
+  altitude: 99.0
+  focal_length: 200.0
+  focal_length_35: 400.0
+  crop: 2.0
+  aperture: 5.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 14:45:23+01:00
+  focus_distance: 58.51
+- image_filename: 2020_03_21__14_11__3216938.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.23309722222222
+  altitude: 99.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 14:11:01+01:00
+  focus_distance: 0.74
+- image_filename: 2020_03_21__15_05__3217082.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.560583333333334
+  lon: 17.255916666666668
+  altitude: 109.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5025
+  height: 3477
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 15:05:54+01:00
+  focus_distance: 170.66
+- image_filename: 2020_03_21__14_56__3217051.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.563125
+  lon: 17.249597222222224
+  altitude: 101.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 6.3
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5020
+  height: 3748
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-03-21 14:56:54+01:00
+  focus_distance: 151.7
+- image_filename: 2020_03_21__14_06_DSC07231.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566125
+  lon: 17.230513888888886
+  altitude: 100.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7024
+  height: 4692
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 14:06:17+01:00
+- image_filename: 2020_03_21__13_43_DSC07213.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56645833333333
+  lon: 17.226888888888887
+  altitude: 83.0
+  focal_length: 59.0
+  focal_length_35: 59.0
+  crop: 1.0
+  aperture: 8.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-21 13:43:00+01:00
+- image_filename: 2020_03_21__14_58_DSC07267.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56261111111111
+  lon: 17.250875
+  altitude: 103.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-03-21 14:58:35+01:00
+- image_filename: 2020_03_21__14_37__3217003.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.563541666666666
+  lon: 17.240708333333334
+  altitude: 98.0
+  focal_length: 115.0
+  focal_length_35: 230.0
+  crop: 2.0
+  aperture: 6.3
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-03-21 14:37:41+01:00
+  focus_distance: 35.62
+- image_filename: 2020_03_21__13_59_DSC07225.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566374999999994
+  lon: 17.227819444444442
+  altitude: 89.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 10.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 13:59:58+01:00
+- image_filename: 2020_03_21__13_05__3216774.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556638888888884
+  lon: 17.234180555555557
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 4924
+  height: 3276
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-21 13:05:41+01:00
+  focus_distance: 0.4
+- image_filename: 2020_03_21__13_38__3216882.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56604166666666
+  lon: 17.22973611111111
+  altitude: 96.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 7.1
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5188
+  height: 3841
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 13:38:17+01:00
+  focus_distance: 8.35
+- image_filename: 2020_03_21__14_01_DSC07226.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566180555555555
+  lon: 17.22922222222222
+  altitude: 96.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 7.1
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 4920
+  height: 7366
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-03-21 14:01:58+01:00
+- image_filename: 2020_03_21__13_02__3216734.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55658333333333
+  lon: 17.234236111111112
+  altitude: 107.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 13:02:57+01:00
+  focus_distance: 0.44
+- image_filename: 2020_03_21__13_24__3216830.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56316666666666
+  lon: 17.231499999999997
+  altitude: 96.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 13:24:38+01:00
+  focus_distance: 14.88
+- image_filename: 2020_03_21__12_37__3216633.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55416666666667
+  lon: 17.240305555555558
+  altitude: 100.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-03-21 12:37:38+01:00
+  focus_distance: 27.49
+- image_filename: 2020_03_21__13_47__3216907.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56615277777777
+  lon: 17.227152777777775
+  altitude: 84.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5072
+  height: 3786
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-03-21 13:47:03+01:00
+  focus_distance: 124.12
+- image_filename: 2020_03_21__14_10__3216932.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56619444444444
+  lon: 17.233055555555556
+  altitude: 98.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-03-21 14:10:17+01:00
+  focus_distance: 1.2
+- image_filename: 2020_03_21__13_03__3216742.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55658333333333
+  lon: 17.234208333333335
+  altitude: 106.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 13:03:23+01:00
+  focus_distance: 0.56
+- image_filename: 2020_03_21__14_50_DSC07260.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56634722222222
+  lon: 17.246208333333335
+  altitude: 101.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 14:50:29+01:00
+- image_filename: 2020_03_21__14_12__3216951.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.233611111111113
+  altitude: 99.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4847
+  height: 3505
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-21 14:12:47+01:00
+  focus_distance: 13.34
+- image_filename: 2020_03_21__13_08__3216793.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55676388888889
+  lon: 17.233833333333333
+  altitude: 104.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5042
+  height: 3764
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-03-21 13:08:06+01:00
+  focus_distance: 2.45
+- image_filename: 2020_03_21__13_04__3216754.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55661111111111
+  lon: 17.234194444444444
+  altitude: 105.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-21 13:04:09+01:00
+  focus_distance: 0.62
+- image_filename: 2020_03_21__14_36_DSC07258.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56295833333333
+  lon: 17.24126388888889
+  altitude: 99.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2020-03-21 14:36:01+01:00
+- image_filename: 2020_03_21__14_10__3216935.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.23309722222222
+  altitude: 98.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-21 14:10:46+01:00
+  focus_distance: 1.15
+- image_filename: 2020_03_21__14_33_DSC07257.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.562625
+  lon: 17.242361111111112
+  altitude: 97.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2020-03-21 14:33:13+01:00
+- image_filename: 2020_03_21__14_32_DSC07250.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56279166666666
+  lon: 17.241875
+  altitude: 97.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-03-21 14:32:34+01:00
+- image_filename: 2020_03_21__14_53__3217044.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56477777777778
+  lon: 17.247666666666667
+  altitude: 99.0
+  focal_length: 67.0
+  focal_length_35: 134.0
+  crop: 2.0
+  aperture: 4.5
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-03-21 14:53:23+01:00
+  focus_distance: 7.07
+- image_filename: 2020_03_21__12_42_DSC07194.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.554291666666664
+  lon: 17.239541666666668
+  altitude: 100.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 10.0
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-21 12:42:38+01:00
+- image_filename: 2020_03_21__15_05__3217081.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.560652777777776
+  lon: 17.25575
+  altitude: 108.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-21 15:05:45+01:00
+  focus_distance: 151.7
+- image_filename: 2020_03_21__14_03__3216924.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56613888888889
+  lon: 17.229416666666665
+  altitude: 97.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-21 14:03:26+01:00
+  focus_distance: 14.78

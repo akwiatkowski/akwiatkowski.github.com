@@ -1,0 +1,608 @@
+---
+- image_filename: IMGP1038raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.90168055555555
+  lon: 15.735333333333333
+  altitude: 337.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-10-17 13:31:37+02:00
+- image_filename: IMGP1041raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.933638888888886
+  lon: 15.685319444444445
+  altitude: 290.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 14:07:02+02:00
+- image_filename: IMGP1053raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  focal_length: 23.0
+  focal_length_35: 34.0
+  crop: 1.4782608695652173
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-10-17 14:17:52+02:00
+- image_filename: IMGP1044raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.935805555555554
+  lon: 15.685694444444445
+  altitude: 294.0
+  focal_length: 22.0
+  focal_length_35: 33.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 14:12:05+02:00
+- image_filename: IMGP1058raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94383333333333
+  lon: 15.69438888888889
+  altitude: 329.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2017-10-17 14:33:48+02:00
+- image_filename: IMGP1094raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94870833333333
+  lon: 15.689875
+  altitude: 350.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:53:36+02:00
+- image_filename: IMGP1123raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95236111111112
+  lon: 15.683666666666667
+  altitude: 323.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 15:08:14+02:00
+- image_filename: IMGP1145raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96065277777778
+  lon: 15.67911111111111
+  altitude: 353.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 15:23:01+02:00
+- image_filename: IMGP1158raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.964847222222225
+  lon: 15.675777777777776
+  altitude: 341.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 5.6
+  camera: PENTAX K-S2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2017-10-17 15:32:13+02:00
+- image_filename: IMGP1177raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96559722222222
+  lon: 15.65876388888889
+  altitude: 297.0
+  focal_length: 31.0
+  focal_length_35: 46.0
+  crop: 1.4838709677419355
+  aperture: 4.5
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-10-17 15:48:56+02:00
+- image_filename: IMGP1181raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lon: 15.656916666666667
+  altitude: 297.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 15:52:50+02:00
+- image_filename: IMGP1190raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96845833333334
+  lon: 15.654319444444445
+  altitude: 278.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2017-10-17 15:58:09+02:00
+- image_filename: IMGP1194raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.968472222222225
+  lon: 15.654361111111111
+  altitude: 277.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 16:00:33+02:00
+- image_filename: IMGP1214raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.967958333333335
+  lon: 15.65613888888889
+  altitude: 294.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-10-17 16:05:55+02:00
+- image_filename: IMGP1246raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95922222222222
+  lon: 15.679430555555555
+  altitude: 343.0
+  focal_length: 31.0
+  focal_length_35: 46.0
+  crop: 1.4838709677419355
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 16:43:01+02:00
+- image_filename: IMGP1280raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.93494444444444
+  lon: 15.684402777777779
+  altitude: 286.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2017-10-17 17:39:41+02:00
+- image_filename: IMGP1287raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.933416666666666
+  lon: 15.685736111111112
+  altitude: 292.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2017-10-17 17:49:28+02:00
+- image_filename: IMGP1093raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94869444444444
+  lon: 15.689902777777778
+  altitude: 350.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:53:34+02:00
+- image_filename: IMGP1174raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.965986111111114
+  lon: 15.661708333333333
+  altitude: 289.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 15:46:11+02:00
+- image_filename: IMGP1107raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.951
+  lon: 15.684319444444444
+  altitude: 338.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 15:02:16+02:00
+- image_filename: IMGP1063raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94522222222222
+  lon: 15.694680555555555
+  altitude: 335.0
+  focal_length: 43.0
+  focal_length_35: 64.0
+  crop: 1.4883720930232558
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 14:36:22+02:00
+- image_filename: IMGP1084raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94752777777777
+  lon: 15.691666666666666
+  altitude: 347.0
+  focal_length: 400.0
+  focal_length_35: 600.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2017-10-17 14:49:10+02:00
+- image_filename: IMGP1137raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.958708333333334
+  lon: 15.679555555555554
+  altitude: 343.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2017-10-17 15:19:55+02:00
+- image_filename: IMGP1281raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.93494444444444
+  lon: 15.684347222222222
+  altitude: 286.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2017-10-17 17:40:45+02:00
+- image_filename: IMGP1203raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96852777777778
+  lon: 15.654236111111112
+  altitude: 277.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 18.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 16:02:13+02:00
+- image_filename: IMGP1257raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95615277777778
+  lon: 15.681513888888889
+  altitude: 329.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.5
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-10-17 16:49:51+02:00
+- image_filename: IMGP1052raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.937666666666665
+  lon: 15.688152777777779
+  altitude: 300.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2017-10-17 14:16:59+02:00
+- image_filename: IMGP1088raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94859722222222
+  lon: 15.690041666666668
+  altitude: 350.0
+  focal_length: 230.0
+  focal_length_35: 345.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2017-10-17 14:52:56+02:00
+- image_filename: IMGP1277raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94445833333333
+  lon: 15.687930555555555
+  altitude: 324.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.5
+  camera: PENTAX K-S2
+  exposure: 0.1
+  exposure_string: 1/10 s
+  time: 2017-10-17 17:10:53+02:00
+- image_filename: IMGP1090raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.948611111111106
+  lon: 15.690041666666668
+  altitude: 350.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2017-10-17 14:53:04+02:00
+- image_filename: IMGP1138raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95883333333334
+  lon: 15.679458333333333
+  altitude: 344.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-10-17 15:20:05+02:00
+- image_filename: IMGP1057raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.943041666666666
+  lon: 15.693958333333333
+  altitude: 322.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 14:32:19+02:00
+- image_filename: IMGP1070raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94638888888888
+  lon: 15.693111111111111
+  altitude: 343.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:41:17+02:00
+- image_filename: IMGP1103raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95015277777778
+  lon: 15.68623611111111
+  altitude: 342.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:57:49+02:00
+- image_filename: IMGP1115raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95131944444445
+  lon: 15.683430555555557
+  altitude: 331.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2017-10-17 15:05:43+02:00
+- image_filename: IMGP1230raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96641666666667
+  lon: 15.67175
+  altitude: 315.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 16:25:12+02:00
+- image_filename: IMGP1290raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.93640277777777
+  lon: 15.687611111111112
+  altitude: 301.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2017-10-17 17:56:18+02:00
+- image_filename: IMGP1193raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.968472222222225
+  lon: 15.654361111111111
+  altitude: 277.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 16:00:29+02:00
+- image_filename: IMGP1222raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96581944444445
+  lon: 15.660375
+  altitude: 290.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2017-10-17 16:12:06+02:00
+- image_filename: header.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96581944444445
+  lon: 15.660375
+  altitude: 290.0
+  focal_length: 20.0
+  focal_length_35: 30.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2017-10-17 16:12:06+02:00
+- image_filename: IMGP1078raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.94713888888889
+  lon: 15.692152777777778
+  altitude: 345.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:48:22+02:00
+- image_filename: IMGP1248raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95891666666667
+  lon: 15.679527777777777
+  altitude: 341.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-17 16:43:29+02:00
+- image_filename: IMGP1144raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.960625
+  lon: 15.67911111111111
+  altitude: 353.0
+  focal_length: 19.0
+  focal_length_35: 28.0
+  crop: 1.4736842105263157
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 15:22:59+02:00
+- image_filename: IMGP1141raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.95981944444445
+  lon: 15.679180555555554
+  altitude: 350.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-10-17 15:21:38+02:00
+- image_filename: IMGP1092raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.948611111111106
+  lon: 15.690041666666668
+  altitude: 350.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-17 14:53:23+02:00
+- image_filename: IMGP1152raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.9635
+  lon: 15.677263888888888
+  altitude: 347.0
+  focal_length: 43.0
+  focal_length_35: 64.0
+  crop: 1.4883720930232558
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-10-17 15:30:21+02:00
+- image_filename: IMGP1187raw1.jpg
+  post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.96834722222222
+  lon: 15.655000000000001
+  altitude: 293.0
+  focal_length: 33.0
+  focal_length_35: 49.0
+  crop: 1.4848484848484849
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-10-17 15:56:06+02:00

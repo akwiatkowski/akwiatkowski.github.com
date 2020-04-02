@@ -1,0 +1,40 @@
+---
+- image_filename: IMGP1764raw1.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  lat: 50.79479166666666
+  lon: 16.12686111111111
+  altitude: 472.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2017-10-19 15:27:08+02:00
+- image_filename: IMGP1744raw1.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  lat: 50.79277777777778
+  lon: 16.124597222222224
+  altitude: 503.0
+  focal_length: 210.0
+  focal_length_35: 315.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2017-10-19 15:17:40+02:00
+- image_filename: header.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  lat: 50.79291666666666
+  lon: 16.12477777777778
+  altitude: 501.0
+  focal_length: 150.0
+  focal_length_35: 225.0
+  crop: 1.5
+  aperture: 8.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-10-19 15:20:23+02:00

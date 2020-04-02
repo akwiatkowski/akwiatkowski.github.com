@@ -1,0 +1,55 @@
+---
+- image_filename: IMGP0670raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.76133333333333
+  lon: 15.862569444444444
+  altitude: 773.0
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 5.0
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-12-28 12:12:45+01:00
+- image_filename: IMGP0683raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.75640277777778
+  lon: 15.85698611111111
+  altitude: 858.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 4.0
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-12-28 12:32:27+01:00
+- image_filename: IMGP0695raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.74594444444445
+  lon: 15.822180555555555
+  altitude: 1041.0
+  focal_length: 29.0
+  focal_length_35: 43.0
+  crop: 1.4827586206896552
+  aperture: 6.3
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-12-28 15:28:01+01:00
+- image_filename: header.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.75965277777778
+  lon: 15.859874999999999
+  altitude: 795.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 4.5
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-12-28 12:21:03+01:00

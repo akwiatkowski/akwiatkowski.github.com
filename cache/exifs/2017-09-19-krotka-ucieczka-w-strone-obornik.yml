@@ -1,0 +1,63 @@
+---
+- image_filename: IMGP0550raw1.jpg
+  post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2017-09-19 11:27:49+02:00
+- image_filename: IMGP0562raw1.jpg
+  post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  lat: 52.461666666666666
+  lon: 16.86626388888889
+  altitude: 87.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-09-19 11:40:13+02:00
+- image_filename: IMGP0566raw1.jpg
+  post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  lat: 52.47069444444445
+  lon: 16.818194444444444
+  altitude: 75.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-09-19 11:49:57+02:00
+- image_filename: IMGP0555raw1.jpg
+  post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  lat: 52.451875
+  lon: 16.891833333333334
+  altitude: 78.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  camera: PENTAX K-S2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2017-09-19 11:33:36+02:00
+- image_filename: header.jpg
+  post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  lat: 52.47430555555556
+  lon: 16.79204166666667
+  altitude: 59.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-09-19 11:55:35+02:00

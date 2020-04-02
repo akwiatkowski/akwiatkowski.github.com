@@ -1,0 +1,562 @@
+---
+- image_filename: 2019_02_24__13_00__2243275.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.364444444444445
+  lon: 18.642083333333332
+  altitude: 4.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5020
+  height: 3895
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2019-02-24 13:00:43+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__13_00__2243276.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.364444444444445
+  lon: 18.64211111111111
+  altitude: 4.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5096
+  height: 3711
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-02-24 13:00:52+01:00
+  focus_distance: 18.96
+- image_filename: 2019_02_24__13_10__2243293.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.36383333333333
+  lon: 18.648374999999998
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4565
+  height: 3403
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-02-24 13:10:44+01:00
+  focus_distance: 5.49
+- image_filename: 2019_02_24__13_19__2243300.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.36240277777778
+  lon: 18.650680555555553
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5063
+  height: 3664
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-02-24 13:19:52+01:00
+  focus_distance: 77.64
+- image_filename: 2019_02_24__13_35__2243327.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.357083333333335
+  lon: 18.65386111111111
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4458
+  height: 3764
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-02-24 13:35:21+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__14_45__2243349.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.349694444444445
+  lon: 18.65738888888889
+  altitude: 11.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 10366
+  height: 7747
+  exposure: 8.0
+  exposure_string: 8 s
+  time: 2019-02-24 14:45:00+01:00
+  focus_distance: 62.53
+- image_filename: 2019_02_24__15_22__2243361.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34781944444445
+  lon: 18.65658333333333
+  altitude: 32.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 10193
+  height: 7521
+  exposure: 8.0
+  exposure_string: 8 s
+  time: 2019-02-24 15:22:10+01:00
+  focus_distance: 4.95
+- image_filename: 2019_02_24__15_42__2243367.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34804166666667
+  lon: 18.655347222222222
+  altitude: 26.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9890
+  height: 7698
+  exposure: 13.0
+  exposure_string: 13 s
+  time: 2019-02-24 15:42:38+01:00
+  focus_distance: 5.34
+- image_filename: 2019_02_24__17_37__2243377.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34965277777778
+  lon: 18.657916666666665
+  altitude: 10.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9696
+  height: 7751
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2019-02-24 17:37:21+01:00
+  focus_distance: 2.25
+- image_filename: 2019_02_24__17_46__2243380.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34973611111111
+  lon: 18.655527777777777
+  altitude: 22.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9200
+  height: 7354
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2019-02-24 17:46:45+01:00
+  focus_distance: 4.93
+- image_filename: 2019_02_24__17_50__2243382.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.349875000000004
+  lon: 18.65436111111111
+  altitude: 28.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9826
+  height: 7612
+  exposure: 4.0
+  exposure_string: 4 s
+  time: 2019-02-24 17:50:11+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__13_10__2243294.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.363875
+  lon: 18.64840277777778
+  altitude: 4294967296.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-02-24 13:10:56+01:00
+  focus_distance: 21.64
+- image_filename: 2019_02_24__13_06__2243291.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.363819444444445
+  lon: 18.644291666666668
+  altitude: 4294967296.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 6.3
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5153
+  height: 3796
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2019-02-24 13:06:32+01:00
+  focus_distance: 17.47
+- image_filename: 2019_02_24__14_59__2243353.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.349611111111116
+  lon: 18.65559722222222
+  altitude: 21.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9437
+  height: 7350
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2019-02-24 14:59:56+01:00
+  focus_distance: 1.04
+- image_filename: 2019_02_24__15_39__2243366.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34802777777778
+  lon: 18.655527777777777
+  altitude: 25.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8595
+  height: 6466
+  exposure: 15.0
+  exposure_string: 15 s
+  time: 2019-02-24 15:39:10+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__17_52__2243384.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34981944444445
+  lon: 18.654416666666666
+  altitude: 27.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 10246
+  height: 7729
+  exposure: 8.0
+  exposure_string: 8 s
+  time: 2019-02-24 17:52:26+01:00
+  focus_distance: 3.44
+- image_filename: 2019_02_24__13_30__2243325.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.35933333333333
+  lon: 18.65623611111111
+  altitude: 4294967296.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4960
+  height: 3703
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-02-24 13:30:25+01:00
+  focus_distance: 119.59
+- image_filename: 2019_02_24__15_51__2243370.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34813888888889
+  lon: 18.654069444444442
+  altitude: 31.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8279
+  height: 6510
+  exposure: 15.0
+  exposure_string: 15 s
+  time: 2019-02-24 15:51:24+01:00
+  focus_distance: 7.22
+- image_filename: 2019_02_24__17_58__2243387.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.350208333333335
+  lon: 18.654305555555553
+  altitude: 28.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9009
+  height: 6786
+  exposure: 5.0
+  exposure_string: 5 s
+  time: 2019-02-24 17:58:06+01:00
+  focus_distance: 34.28
+- image_filename: 2019_02_24__17_28__2243374.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.351222222222226
+  lon: 18.65784722222222
+  altitude: 9.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9354
+  height: 6420
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2019-02-24 17:28:42+01:00
+  focus_distance: 2.15
+- image_filename: 2019_02_24__15_48__2243369.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.348222222222226
+  lon: 18.654513888888886
+  altitude: 31.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8410
+  height: 5817
+  exposure: 13.0
+  exposure_string: 13 s
+  time: 2019-02-24 15:48:30+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__13_27__2243316.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.36051388888889
+  lon: 18.656513888888888
+  altitude: 4294967296.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5192
+  height: 3846
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2019-02-24 13:27:04+01:00
+  focus_distance: 51.69
+- image_filename: 2019_02_24__13_49__2243340.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.351194444444445
+  lon: 18.654430555555553
+  altitude: 3.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4244
+  height: 3187
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-02-24 13:49:14+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__13_04__2243288.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.36430555555555
+  lon: 18.64326388888889
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-02-24 13:04:54+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__15_27__2243362.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34759722222223
+  lon: 18.657124999999997
+  altitude: 29.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8966
+  height: 5713
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2019-02-24 15:27:39+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__15_54__2243371.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34838888888889
+  lon: 18.65409722222222
+  altitude: 30.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8583
+  height: 6520
+  exposure: 15.0
+  exposure_string: 15 s
+  time: 2019-02-24 15:54:23+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__13_14__2243297.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.364000000000004
+  lon: 18.648263888888888
+  altitude: 4294967296.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3495
+  height: 5135
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-02-24 13:14:32+01:00
+  focus_distance: 1.13
+- image_filename: 2019_02_24__17_40__2243378.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.349722222222226
+  lon: 18.656625
+  altitude: 12.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8159
+  height: 6234
+  exposure: 15.0
+  exposure_string: 15 s
+  time: 2019-02-24 17:40:02+01:00
+  focus_distance: 1.86
+- image_filename: 2019_02_24__13_42__2243336.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.35352777777778
+  lon: 18.654902777777778
+  altitude: 1.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4392
+  height: 3287
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-02-24 13:42:30+01:00
+  focus_distance: 5.72
+- image_filename: 2019_02_24__13_27__2243320.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.36036111111111
+  lon: 18.65698611111111
+  altitude: 4294967296.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2019-02-24 13:27:52+01:00
+  focus_distance: 0.64
+- image_filename: 2019_02_24__15_33__2243364.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.347430555555555
+  lon: 18.65548611111111
+  altitude: 26.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 8668
+  height: 5868
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2019-02-24 15:33:58+01:00
+  focus_distance: 12.48
+- image_filename: 2019_02_24__15_17__2243359.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34788888888889
+  lon: 18.656333333333333
+  altitude: 32.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9000
+  height: 6210
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2019-02-24 15:17:45+01:00
+  focus_distance: 1000.0
+- image_filename: 2019_02_24__14_48__2243350.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.34959722222222
+  lon: 18.656527777777775
+  altitude: 13.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 8.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9264
+  height: 7608
+  exposure: 8.0
+  exposure_string: 8 s
+  time: 2019-02-24 14:48:43+01:00
+  focus_distance: 1.64
