@@ -4,7 +4,7 @@ class TimelineList < WidePageView
     @data_manager = @blog.data_manager.as(Tremolite::DataManager)
     # gather from all posts, flatten and select for only suitable for timeline
     @photo_entities = @posts.map { |p|
-      p.all_photo_entities
+      p.published_photo_entities
     }.flatten.select { |p|
       # better to use only gallery capable
       # timeline capable has higher priority

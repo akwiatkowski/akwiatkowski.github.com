@@ -12,9 +12,71 @@ class ExifDb
     @exif_entities = Hash(String, Array(ExifEntity)).new
     @exif_entities_dirty = Hash(String, Bool).new
 
-    @photo_entities = Array(PhotoEntity).new
+    @published_photo_entities = Hash(String, Array(PhotoEntity)).new
+    @uploaded_photo_entities = Hash(String, Array(PhotoEntity)).new
 
-    @photo_entities_loaded = false
+    @loaded_posts = Hash(String, Bool).new
+  end
+
+  def published_photo_entities(post_slug : String)
+    @published_photo_entities[post_slug]
+  end
+
+  def uploaded_photo_entities(post_slug : String)
+    @uploaded_photo_entities[post_slug]
+  end
+
+  def all_flatten_photo_entities : Array(PhotoEntity)
+    @published_photo_entities.values.flatten + @uploaded_photo_entities.values.flatten
+  end
+
+  # PE created from function while processing md file
+  def append_published_photo_entity(photo_entity : PhotoEntity)
+    exifed_pe = process_photo_entity(photo_entity)
+
+    @published_photo_entities[exifed_pe.post_slug] ||= Array(PhotoEntity).new
+    @published_photo_entities[exifed_pe.post_slug] << exifed_pe
+
+    return exifed_pe
+  end
+
+  def append_uploaded_photo_entity(photo_entity : PhotoEntity)
+    exifed_pe = process_photo_entity(photo_entity)
+
+    @uploaded_photo_entities[exifed_pe.post_slug] ||= Array(PhotoEntity).new
+    @uploaded_photo_entities[exifed_pe.post_slug] << exifed_pe
+
+    return exifed_pe
+  end
+
+  def initialize_post_photos_exif(post : Tremolite::Post)
+    return if @loaded_posts[post.slug]?
+
+    # first we need populate published photos
+    # to not overadd them as uploaded
+    post.populate_published_post
+
+    published_filenames = published_photo_entities(post.slug).map do |pe|
+      pe.image_filename
+    end
+
+    uploaded_filenames = post.list_of_uploaded_photos
+    not_published_filenames = post.list_of_uploaded_photos - published_filenames
+
+    @logger.debug("#{self.class}: not_published_filenames #{not_published_filenames.size}, uploaded_filenames #{uploaded_filenames.size}")
+
+    not_published_filenames.each do |uploaded_path|
+      draft_photo_entity = PhotoEntity.new(
+        post: post,
+        image_filename: uploaded_path,
+        param_string: "",
+      )
+
+      append_uploaded_photo_entity(draft_photo_entity)
+    end
+
+    # mark as loaded
+    @loaded_posts[post.slug] = true
   end
 
   # this should load all existing caches and initialize photo_entities
@@ -26,18 +88,6 @@ class ExifDb
       post.all_uploaded_photo_entities
     end
     @photo_entities_loaded = true
-  end
-
-  def photo_entities
-    load_photo_entities unless @photo_entities_loaded
-    return @photo_entities
-  end
-
-  # append, post, load, ... whatever is needed
-  def append_photo_entity(photo_entity : PhotoEntity)
-    load_or_initialize_exif_for_post(photo_entity.post_slug)
-    process_photo_entity(photo_entity)
-    return photo_entity
   end
 
   def save_cache(post_slug : String)
@@ -79,7 +129,9 @@ class ExifDb
   end
 
   # search in @exifs, match and assign or generate
-  def process_photo_entity(photo_entity : PhotoEntity)
+  private def process_photo_entity(photo_entity : PhotoEntity)
+    load_or_initialize_exif_for_post(photo_entity.post_slug)
+
     selected = @exif_entities[photo_entity.post_slug].select do |e|
       e.post_slug == photo_entity.post_slug &&
         e.image_filename == photo_entity.image_filename
@@ -100,8 +152,6 @@ class ExifDb
     # assign exif
     photo_entity.exif = exif
 
-    append_photo_entity_to_internal(photo_entity)
-
     return photo_entity
   end
 
@@ -110,7 +160,4 @@ class ExifDb
     @exif_entities_dirty[post_slug] = true
   end
 
-  private def append_photo_entity_to_internal(photo_entity : PhotoEntity)
-    @photo_entities << photo_entity
-  end
 end

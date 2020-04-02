@@ -7,10 +7,6 @@ require "./validator"
 require "./mod_watcher"
 
 class Tremolite::Blog
-  # 1) check what was changed:
-  #   * posts
-  #
-
   def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed
@@ -140,7 +136,7 @@ class Tremolite::Blog
 
     post_to_render_galleries.each do |post|
       @logger.debug("#{self.class}: preparing content #{post.slug}")
-      post.content_html
+      data_manager.exif_db.initialize_post_photos_exif(post)
       @logger.debug("#{self.class}: rendering #{post.slug}")
       renderer.render_post(post)
       @logger.debug("#{self.class}: rendering galleries #{post.slug}")
@@ -173,7 +169,9 @@ class Tremolite::Blog
 
     if exifs_changed
       # first we need to load all (and/or process new) exif data
-      data_manager.exif_db.load_photo_entities
+      post_collection.posts.each do |post|
+        data_manager.exif_db.initialize_post_photos_exif(post)
+      end
       renderer.render_exif_page
     end
 

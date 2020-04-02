@@ -75,7 +75,7 @@ class PostGalleryStatsView < BaseView
   def stats_for_published_photos
     helper = ExifStatHelper.new(
       posts: [@post],
-      photos: @post.photo_entities.not_nil!
+      photos: @post.published_photo_entities
     )
     helper.make_it_so
 
@@ -85,7 +85,7 @@ class PostGalleryStatsView < BaseView
   def stats_for_all_photos
     helper = ExifStatHelper.new(
       posts: [@post],
-      photos: @post.all_uploaded_photo_entities
+      photos: @post.all_photo_entities_unsorted
     )
     helper.make_it_so
     return helper.render_post_gallery_detailed_stats

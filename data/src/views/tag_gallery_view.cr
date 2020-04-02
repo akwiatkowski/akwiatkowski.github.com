@@ -5,7 +5,7 @@ class TagGalleryView < WidePageView
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
     # select only photos with proper tag
     @photo_entities = @posts.map { |p|
-      p.all_photo_entities
+      p.published_photo_entities
     }.flatten.select { |p|
       p.tags.includes?(@tag)
     }.as(Array(PhotoEntity))

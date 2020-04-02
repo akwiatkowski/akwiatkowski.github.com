@@ -13,7 +13,7 @@ class Map::Base
     @logger.info("#{self.class}: Start")
 
     # select only photos with lat/lon
-    @photos = @blog.data_manager.exif_db.photo_entities.select do |photo_entity|
+    @photos = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
     @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")

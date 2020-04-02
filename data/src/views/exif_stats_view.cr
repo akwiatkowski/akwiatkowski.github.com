@@ -13,6 +13,8 @@ class ExifStatsView < WidePageView
     @url : String,
     @by_tag : String | Nil = nil
   )
+    @logger = @blog.logger.as(Logger)
+
     @url = "/exif_stats"
     @title = "Statystyki EXIF"
     @subtitle = ""
@@ -31,10 +33,10 @@ class ExifStatsView < WidePageView
       end
     end
 
-    @posts.map do |post|
-      post.photo_entities.not_nil!.each do |photo_entity|
-        @published_photos << photo_entity.not_nil!
-      end
+    @posts.each do |post|
+      published_photos = @blog.data_manager.exif_db.published_photo_entities(post.slug)
+      @logger.debug("#{self.class}: post #{post.slug} - #{published_photos.size} photos")
+      @published_photos += published_photos
     end
   end
 

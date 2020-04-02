@@ -16,7 +16,6 @@ class Tremolite::Post
   getter :distance, :time_spent
   getter :image_filename, :header_nogallery
   getter :finished_at
-  getter :photo_entities
 
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)

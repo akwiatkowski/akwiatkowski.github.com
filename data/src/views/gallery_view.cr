@@ -56,7 +56,7 @@ class GalleryView < WidePageView
   def post_images(post)
     s = ""
 
-    post.all_photo_entities.each do |photo_entity|
+    post.published_photo_entities.each do |photo_entity|
       if photo_entity.is_gallery
         s += load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
       end

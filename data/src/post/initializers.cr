@@ -10,7 +10,7 @@ class Tremolite::Post
     lands_initialize
     pois_initialize
     coords_initialize
-    photos_entities_initialize
+    published_photos_entities_initialize
     seo_initialize
   end
 
@@ -23,7 +23,7 @@ class Tremolite::Post
     basic_from_headers
     seo_from_headers
     finished_at_from_headers
-    header_image_from_headers
+    header_post_photo_from_headers
   end
 
   # TODO this will require a lot of operations
@@ -106,8 +106,8 @@ class Tremolite::Post
     end
   end
 
-  def photos_entities_initialize
-    @photo_entities = Array(PhotoEntity).new
+  def published_photos_entities_initialize
+    @published_photo_entities = Array(PhotoEntity).new
   end
 
   def photos_entities_from_content
@@ -168,7 +168,7 @@ class Tremolite::Post
     @image_format = DEFAULT_IMAGE_FORMAT
   end
 
-  def header_image_from_headers
+  def header_post_photo_from_headers
     # easily changable post image
     if @header["image_filename"]?
       @image_filename = @header["image_filename"].to_s

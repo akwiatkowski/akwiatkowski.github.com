@@ -10,16 +10,17 @@ class Tremolite::Post
     self.url + PostGalleryView::GALLERY_URL_SUFFIX
   end
 
-  def all_photo_entities
-    [@head_photo_entity.not_nil!] + @photo_entities.not_nil!
-  end
-
   def image_url
     return images_dir_url + image_filename.not_nil!
   end
 
   def image_format_m43?
     @image_format == IMAGE_FORMAT_M43
+  end
+
+  def populate_published_post
+    # by running this it runs function which populate exif_db
+    content_html
   end
 
   def processed_image_url(prefix : String)
@@ -39,60 +40,24 @@ class Tremolite::Post
   end
 
   def list_of_uploaded_photos
-    return Dir.entries(uploaded_photos_path)
-  end
-
-  # BaseView#process_functions is run in #to_html
-  # because of that we don't have access to published photos before
-  # converting markdown post to html output.
-  def count_of_published_photos
-    # TODO clean this
-    # because it's theoretically not possible to run this during function processing
-    size = @photo_entities.not_nil!.size
-    return size if size > 0
-
-    # ugly hack
-    # check how many commands there is in markdown file
-    size = @content_string.scan(/#{Tremolite::Views::BaseView::PHOTO_COMMAND}/).size
-    return size
-  end
-
-  def append_photo_entity(pe : PhotoEntity)
-    @photo_entities.not_nil! << pe
-  end
-
-  # getter/generator all photos uploaded to post dir
-  # converted to PhotoEntity. used in PostGalleryView
-  def all_uploaded_photo_entities : Array(PhotoEntity)
-    return @all_uploaded_photo_entities.not_nil! if @all_uploaded_photo_entities
-
-    # use already existing photos
-    # photos which were added in post markdown content
-    @all_uploaded_photo_entities = photo_entities.dup
-
-    photo_entities_filenames = self.photo_entities.not_nil!.map { |pe| pe.image_filename }
-
-    list_of_uploaded_photos.each do |name|
-      if false == File.directory?(File.join([uploaded_photos_path, name]))
-        unless photo_entities_filenames.includes?(name)
-          # if it was not used already
-          # create nameless PhotoEntity
-          draft_photo_entity = PhotoEntity.new(
-            post: self,
-            image_filename: name,
-            param_string: "",
-          )
-
-          # add to list, fetch exif or get exif cache, set some attribs
-          draft_photo_entity = @blog.data_manager.exif_db.append_photo_entity(draft_photo_entity)
-
-          @all_uploaded_photo_entities.not_nil! << draft_photo_entity
-        end
-      end
+    upp = uploaded_photos_path
+    # return only files, no directories
+    return Dir.entries(uploaded_photos_path).select do |path|
+        File.directory?(File.join([upp, path])) == false
     end
+  end
 
-    @all_uploaded_photo_entities = @all_uploaded_photo_entities.not_nil!.sort { |a, b| a.image_filename <=> b.image_filename }
-    return @all_uploaded_photo_entities.not_nil!
+  def published_photo_entities : Array(PhotoEntity)
+    # TODO add header photo entity
+    @blog.data_manager.exif_db.published_photo_entities(self.slug)
+  end
+
+  def uploaded_photo_entities : Array(PhotoEntity)
+    @blog.data_manager.exif_db.uploaded_photo_entities(self.slug)
+  end
+
+  def all_photo_entities_unsorted : Array(PhotoEntity)
+    published_photo_entities + uploaded_photo_entities
   end
 
   # XXX refactor

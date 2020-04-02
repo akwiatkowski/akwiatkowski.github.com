@@ -67,7 +67,7 @@ class PostGalleryView < BaseView
     pl = load_html("post/pager_post", pd)
     data["post_pager"] = pl
 
-    photo_entities = @post.all_uploaded_photo_entities
+    photo_entities = @post.all_photo_entities_unsorted
     data["photos.count"] = photo_entities.size.to_s
 
     s = ""
@@ -100,11 +100,11 @@ class PostGalleryView < BaseView
   def stats_html
     data = Hash(String, String).new
 
-    if @post.all_uploaded_photo_entities.size >= MINIMUM_PHOTOS_FOR_STATS
+    if @post.all_photo_entities_unsorted.size >= MINIMUM_PHOTOS_FOR_STATS
       # don't render if there is not enough photos
       helper = ExifStatHelper.new(
         posts: [@post],
-        photos: @post.all_uploaded_photo_entities
+        photos: @post.all_photo_entities_unsorted
       )
       helper.make_it_so
       return helper.render_post_gallery_stats
