@@ -11,17 +11,7 @@ class Tremolite::Blog
   #   * posts
   #
 
-  def make_it_so
-    # ** render all just like the old way
-    if mod_watcher.enabled == false
-      @logger.debug("#{self.class}: render all START")
-      renderer.render_all
-      @logger.debug("#{self.class}: render all DONE")
-      return
-    end
-
-    # ** new way is to render what has changed
-
+  def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed
     mod_watcher.load_from_file
@@ -33,43 +23,161 @@ class Tremolite::Blog
     # so we still need to update exif which require loading db
     # because of that I'll split exif and photo data to separate files
     post_paths_to_update = changes_summary[Tremolite::ModWatcher::KEY_POSTS_FILES]
-
-    # if yaml config was changed we need to re-render all posts and
-    if changes_summary[Tremolite::ModWatcher::KEY_YAML_FILES].size > 0
-      @logger.debug("#{self.class}: YAML changed -> rendering all posts + YAML views")
-      render_yaml = true
-    else
-      render_yaml = false
-    end
-
-    # ** the real render part
-
-    # render changed posts
-    @logger.debug("#{self.class}: PostCollection#initialize_posts")
-    post_collection.initialize_posts
-    @logger.debug("#{self.class}: PostCollection#initialize_posts DONE")
+    @logger.debug("#{self.class}: #{post_paths_to_update.size} posts changed")
 
     post_to_render = post_collection.posts.select do |post|
       post_paths_to_update.includes?(post.path)
     end
 
-    post_to_render.each do |post|
-      @logger.debug("#{self.class}: preparing content #{post.slug}")
-      post.content_html
-      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
-      data_manager.exif_db.save_cache(post.slug)
-      @logger.debug("#{self.class}: rendering #{post.slug}")
-      renderer.render_post(post)
-      @logger.debug("#{self.class}: DONE #{post.slug}")
+    # if yaml config was changed we need to re-render all posts and
+    if changes_summary[Tremolite::ModWatcher::KEY_YAML_FILES].size > 0
+      @logger.debug("#{self.class}: YAML changed -> rendering all posts + YAML views")
+      yamls_changed = true
+    else
+      yamls_changed = false
     end
 
-    # if post were changed render some fast related pages
     if post_paths_to_update.size > 0
-      renderer.render_fast_only_post_related
+      posts_changed = true
+    else
+      posts_changed = false
     end
+
+    post_slugs_to_update_photos = changes_summary[Tremolite::ModWatcher::KEY_PHOTO_FILES].map do |photo_path|
+      scan = photo_path.scan(/(\d{4}-\d{2}-\d{2}[^\/]+)/)
+      # first (0) mached and first (1) group
+      scan[0][1].to_s
+    end.uniq
+
+    post_to_update_photos = post_collection.posts.select do |post|
+      post_slugs_to_update_photos.includes?(post.slug)
+    end
+    @logger.debug("#{self.class}: Update #{post_to_update_photos.size} post photos")
+
+
+    post_slugs_to_update_exif = changes_summary[Tremolite::ModWatcher::KEY_EXIF_DB_FILES].map do |exif_path|
+      scan = exif_path.scan(/(\d{4}-\d{2}-\d{2}[^\.]+).yml/)
+      # first (0) mached and first (1) group
+      scan[0][1].to_s
+    end.uniq
+
+    post_to_update_exif = post_collection.posts.select do |post|
+      post_slugs_to_update_exif.includes?(post.slug)
+    end
+    @logger.debug("#{self.class}: Update #{post_to_update_photos.size} post exif")
+
+    if post_to_update_exif.size > 0
+      exifs_changed = true
+    else
+      exifs_changed = false
+    end
+
+    return {
+      post_to_render: post_to_render,
+      posts_changed: posts_changed,
+      yamls_changed: yamls_changed,
+      post_to_update_photos: post_to_update_photos,
+      post_to_update_exif: post_to_update_exif,
+      exifs_changed: exifs_changed,
+    }
+  end
+
+  def make_it_so(
+    force_full_render : Bool = false
+  )
+    # ** new way is to render what has changed
+
+    # first we need to initialize all posts
+    # ...unfortunately
+    @logger.debug("#{self.class}: PostCollection#initialize_posts")
+    post_collection.initialize_posts
+    @logger.debug("#{self.class}: PostCollection#initialize_posts DONE")
+
+    if mod_watcher.enabled == false || force_full_render
+      all_posts = post_collection.posts
+      post_to_render = all_posts
+      posts_changed = true
+      yamls_changed = true
+      post_to_update_photos = all_posts
+      post_to_update_exif = all_posts
+      exifs_changed = true
+    else
+      tuple = mod_watcher_summary
+      post_to_render = tuple[:post_to_render]
+      posts_changed = tuple[:posts_changed]
+      yamls_changed = tuple[:yamls_changed]
+      post_to_update_photos = tuple[:post_to_update_photos]
+      post_to_update_exif = tuple[:post_to_update_exif]
+      exifs_changed = tuple[:exifs_changed]
+    end
+
+    render(
+      post_to_render: post_to_render,
+      posts_changed: posts_changed,
+      yamls_changed: yamls_changed,
+      post_to_update_photos: post_to_update_photos,
+      post_to_update_exif: post_to_update_exif,
+      exifs_changed: exifs_changed,
+    )
 
     # Z) store current state
     # current state is refreshed in `#update_before_save`
     mod_watcher.save_to_file
+  end
+
+  def render(
+    post_to_render : Array(Tremolite::Post),
+    posts_changed : Bool,
+    yamls_changed : Bool,
+    post_to_update_photos : Array(Tremolite::Post),
+    post_to_update_exif : Array(Tremolite::Post),
+    exifs_changed : Bool,
+  )
+
+    # because
+    post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
+    post_to_render_only_post = post_to_render - post_to_render_galleries
+
+    post_to_render_galleries.each do |post|
+      @logger.debug("#{self.class}: preparing content #{post.slug}")
+      post.content_html
+      @logger.debug("#{self.class}: rendering #{post.slug}")
+      renderer.render_post(post)
+      @logger.debug("#{self.class}: rendering galleries #{post.slug}")
+      renderer.render_post_galleries_for_post(post)
+      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
+      data_manager.exif_db.save_cache(post.slug)
+      @logger.debug("#{self.class}: DONE #{post.slug}")
+    end
+
+    post_to_render.each do |post|
+      @logger.debug("#{self.class}: preparing content #{post.slug}")
+      post.content_html
+      @logger.debug("#{self.class}: rendering #{post.slug}")
+      renderer.render_post(post)
+      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
+      data_manager.exif_db.save_cache(post.slug)
+      @logger.debug("#{self.class}: DONE #{post.slug}")
+    end
+
+    # if post were changed render some fast related pages
+    if posts_changed
+      renderer.render_fast_only_post_related
+      # TODO check if this is working ok
+      renderer.render_galleries_pages
+    end
+
+    if posts_changed || yamls_changed
+      renderer.render_fast_post_and_yaml_related
+    end
+
+    if exifs_changed
+      # first we need to load all (and/or process new) exif data
+      data_manager.exif_db.load_photo_entities
+      renderer.render_exif_page
+    end
+
+    # maybe somewhere in future we can add if here
+    renderer.render_fast_static_renders
   end
 end

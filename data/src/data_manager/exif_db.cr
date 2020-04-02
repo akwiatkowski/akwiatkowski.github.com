@@ -13,6 +13,24 @@ class ExifDb
     @exif_entities_dirty = Hash(String, Bool).new
 
     @photo_entities = Array(PhotoEntity).new
+
+    @photo_entities_loaded = false
+  end
+
+  # this should load all existing caches and initialize photo_entities
+  # for not it uses Post#all_uploaded_photo_entities which is not best idea
+  def load_photo_entities
+    @blog.post_collection.posts.each do |post|
+      # TODO is it possible to move exif generate/load from function to here?
+      #load_or_initialize_exif_for_post(post.slug)
+      post.all_uploaded_photo_entities
+    end
+    @photo_entities_loaded = true
+  end
+
+  def photo_entities
+    load_photo_entities unless @photo_entities_loaded
+    return @photo_entities
   end
 
   # append, post, load, ... whatever is needed

@@ -84,7 +84,7 @@ class Tremolite::Post
           )
 
           # add to list, fetch exif or get exif cache, set some attribs
-          draft_photo_entity = @blog.data_manager.not_nil!.process_photo_entity(draft_photo_entity)
+          draft_photo_entity = @blog.data_manager.exif_db.append_photo_entity(draft_photo_entity)
 
           @all_uploaded_photo_entities.not_nil! << draft_photo_entity
         end
