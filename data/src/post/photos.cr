@@ -47,6 +47,11 @@ class Tremolite::Post
     end
   end
 
+  # it's not into published here
+  def header_photo_entity
+    @head_photo_entity
+  end
+
   def published_photo_entities : Array(PhotoEntity)
     # TODO add header photo entity
     @blog.data_manager.exif_db.published_photo_entities(self.slug)

@@ -18,12 +18,12 @@ class ExifDb
     @loaded_posts = Hash(String, Bool).new
   end
 
-  def published_photo_entities(post_slug : String)
-    @published_photo_entities[post_slug]
+  def published_photo_entities(post_slug : String) : Array(PhotoEntity)
+    @published_photo_entities[post_slug]? || Array(PhotoEntity).new
   end
 
-  def uploaded_photo_entities(post_slug : String)
-    @uploaded_photo_entities[post_slug]
+  def uploaded_photo_entities(post_slug : String) : Array(PhotoEntity)
+    @uploaded_photo_entities[post_slug]? || Array(PhotoEntity).new
   end
 
   def all_flatten_photo_entities : Array(PhotoEntity)
@@ -52,8 +52,12 @@ class ExifDb
   def initialize_post_photos_exif(post : Tremolite::Post)
     return if @loaded_posts[post.slug]?
 
-    # first we need populate published photos
-    # to not overadd them as uploaded
+    # append header
+    if post.header_photo_entity
+      append_uploaded_photo_entity(post.header_photo_entity.not_nil!)
+    end
+
+    # we need populate published photos to not overadd them as uploaded
     post.populate_published_post
 
     published_filenames = published_photo_entities(post.slug).map do |pe|
