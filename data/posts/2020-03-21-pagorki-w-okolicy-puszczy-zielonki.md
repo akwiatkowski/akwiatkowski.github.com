@@ -8,7 +8,7 @@ date:                   2020-03-21 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2020_03_21__12_52_DSC07207.jpg
 tags:                   [hike, todo]
 towns:                  []
 
