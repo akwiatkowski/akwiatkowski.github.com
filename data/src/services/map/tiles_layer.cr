@@ -20,6 +20,10 @@ class Map::TilesLayer
     @y_tile2 = [y_tile1, y_tile2].max.as(Int32)
 
     # add additional row and column to fix lack of round
+    @x_tile1 -= 1
+    @y_tile1 -= 1
+
+    # add additional row and column to fix lack of round
     @x_tile2 += 1
     @y_tile2 += 1
 
@@ -62,7 +66,7 @@ class Map::TilesLayer
   def tile_coords_from_geo_coords(lat_deg, lon_deg, zoom = @zoom) : Tuple(Float64, Float64)
     return self.class.tile_coords_from_geo_coords(
       lat_deg: lat_deg,
-      lon_deg: lon_deg, 
+      lon_deg: lon_deg,
       zoom: zoom,
     )
   end

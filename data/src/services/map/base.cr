@@ -70,9 +70,15 @@ class Map::Base
     @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
 
     # store here to speed up
-    @posts = @blog.post_collection.posts.select do |post|
-      @post_slugs.includes?(post.slug)
-    end.as(Array(Tremolite::Post))
+    @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+
+    # filter posts photos
+    # routes are taken from this later
+    if @post_slugs.size > 0
+      @posts = @posts.select do |post|
+        @post_slugs.includes?(post.slug)
+      end
+    end
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
@@ -87,7 +93,7 @@ class Map::Base
       lat_max: @lat_max,
       lon_min: @lon_min,
       lon_max: @lon_max,
-      zoom: 10,
+      zoom: @zoom,
       logger: @logger,
     )
 

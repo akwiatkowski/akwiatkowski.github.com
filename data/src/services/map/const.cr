@@ -6,9 +6,24 @@ module Map
 
   TILE_WIDTH   = 256
   DEFAULT_ZOOM =  10
-  # size of photo in pixels
+  DEFAULT_SMALL_ZOOM = 9
   DEFAULT_PHOTO_SIZE = 200
-  DEFAULT_VOIVODESHIP_PHOTO_SIZE = 90
+
+  DEFAULT_OVERALL_ZOOM = 10
+  DEFAULT_OVERALL_PHOTO_SIZE = 200
+
+  # TODO maybe dowload 11 later?
+  DEFAULT_DETAILED_ZOOM = 10
+  DEFAULT_DETAILED_PHOTO_SIZE = 80
+
+  DEFAULT_SMALL_ZOOM = 8
+  DEFAULT_SMALL_PHOTO_SIZE = 100
+
+  DEFAULT_VOIVODESHIP_ZOOM = 10
+  DEFAULT_VOIVODESHIP_PHOTO_SIZE = 100
+
+  DEFAULT_VOIVODESHIP_SMALL_ZOOM = 9
+  DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE = 80
 
   struct CoordRange
     @lat_from : Float64
@@ -20,7 +35,7 @@ module Map
 
     def initialize(ve : VoivodeshipEntity)
       puts ve.inspect
-      
+
       lats = [ve.border_top_left_lat.not_nil!, ve.border_bottom_right_lat.not_nil!]
       @lat_from = lats.min
       @lat_to = lats.max

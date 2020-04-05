@@ -6,7 +6,8 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @url : String,
     @post_slugs : Array(String) = Array(String).new,
     @quant_size : Int32? = nil,
-    @coord_range : Map::CoordRange?= nil,
+    @zoom : Int32 = Map::DEFAULT_ZOOM,
+    @coord_range : Map::CoordRange? = nil,
     @subtitle : String = "",
     # append towns on map
     @append_towns = true
@@ -27,12 +28,14 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
         post_slugs: @post_slugs,
         quant_size: @quant_size.not_nil!,
         coord_range: @coord_range,
+        zoom: @zoom,
       )
     else
       m = Map::Base.new(
         blog: @blog,
         post_slugs: @post_slugs,
         coord_range: @coord_range,
+        zoom: @zoom,
       )
     end
 

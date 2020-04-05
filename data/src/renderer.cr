@@ -166,28 +166,66 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    overall_deailed_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/overall_detailed.svg"
-    )
-    write_output(overall_deailed_view)
+    render_photo_maps_voivodeships
+    render_photo_maps_global
+  end
 
+  def render_photo_maps_voivodeships
     # select posts in voivodeship
     # and render mini-map (not so mini)
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      voivodeship_coord_range = Map::CoordRange.new(voivodeship)
+
       voivodeship_view = PhotoMapSvgView.new(
         blog: @blog,
         url: "/photo_map/#{voivodeship.slug}.svg",
+        zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
         quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
-        coord_range: Map::CoordRange.new(voivodeship),
+        coord_range: voivodeship_coord_range,
       )
       write_output(voivodeship_view)
+
+      voivodeship_small_view = PhotoMapSvgView.new(
+        blog: @blog,
+        url: "/photo_map/#{voivodeship.slug}_small.svg",
+        zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
+        quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
+        coord_range: voivodeship_coord_range,
+      )
+      write_output(voivodeship_small_view)
     end
+  end
+
+  # global... lol, only Poland
+  def render_photo_maps_global
+    overall_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/all_overall.svg",
+      zoom: Map::DEFAULT_OVERALL_ZOOM,
+      quant_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
+    )
+    write_output(overall_view)
+
+    small_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/all_small.svg",
+      zoom: Map::DEFAULT_SMALL_ZOOM,
+      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
+    )
+    write_output(small_view)
+
+    deailed_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/all_detailed.svg"
+      zoom: Map::DEFAULT_DETAILED_ZOOM,
+      quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
+    )
+    write_output(deailed_view)
 
     html_view = PhotoMapHtmlView.new(
       blog: @blog,
       url: "/photo_map",
-      svg_url: overall_deailed_view.url
+      svg_url: overall_view.url
     )
     write_output(html_view)
   end
