@@ -5,7 +5,8 @@ require "./views/wide_page_view"
 require "./views/home_view"
 require "./views/paginated_post_list_view"
 require "./views/map_view"
-require "./views/photo_map_view"
+require "./views/photo_map_html_view"
+require "./views/photo_map_svg_view"
 require "./views/planner_view"
 require "./views/tag_view"
 require "./views/town_view"
@@ -164,8 +165,35 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    view = PhotoMapView.new(blog: @blog, url: "/photo_map")
-    write_output(view)
+    overall_deailed_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/overall_detailed.svg"
+    )
+    write_output(overall_deailed_view)
+
+    # select posts in voivodeship
+    # and render mini-map (not so mini)
+    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      slugs = @blog.post_collection.posts.select do |post|
+        post.was_in_voivodeship(voivodeship)
+      end.map do |post|
+        post.slug
+      end
+
+      voivodeship_view = PhotoMapSvgView.new(
+        blog: @blog,
+        url: "/photo_map/#{voivodeship.slug}.svg",
+        post_slugs: slugs,
+      )
+      write_output(voivodeship_view)
+    end
+
+    html_view = PhotoMapHtmlView.new(
+      blog: @blog,
+      url: "/photo_map",
+      svg_url: overall_deailed_view.url
+    )
+    write_output(html_view)
   end
 
   def render_photo_map

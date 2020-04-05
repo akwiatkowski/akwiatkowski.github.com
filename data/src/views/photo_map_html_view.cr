@@ -1,17 +1,15 @@
 require "../services/map/base"
 
-class PhotoMapView < WidePageView
+class PhotoMapHtmlView < WidePageView
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,
-    # size of small quant - one image per quant
-    @quant_width = 0.10,
-    # pixel width of @quant_width
-    @quant_css_width = 100,
-    # append towns on map
-    @append_towns = true
+    @svg_url : String,
+    @subtitle : String = ""
   )
   end
+
+  getter :subtitle
 
   # main params of this page
   def title
@@ -24,19 +22,11 @@ class PhotoMapView < WidePageView
 
   # w/o header image
   def content
-    return inner_html
+    return "<embed src='#{@svg_url}' />"
   end
 
   # because of absolute positioning we don't want copyright footer here
   def footer
     return ""
-  end
-
-  def inner_html
-    m = Map::Base.new(
-      blog: @blog,
-    )
-
-    return m.to_s
   end
 end

@@ -81,4 +81,12 @@ class Tremolite::Post
   def gallery?
     self.header_nogallery.not_nil! != true
   end
+
+  def was_in_voivodeship(voivodeship_slug : String) : Bool
+    @towns.not_nil!.includes?(voivodeship_slug)
+  end
+
+  def was_in_voivodeship(voivodeship : TownEntity) : Bool
+    @towns.not_nil!.includes?(voivodeship.slug)
+  end
 end

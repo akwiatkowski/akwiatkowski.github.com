@@ -8,4 +8,6 @@ t = Tremolite::Blog.new(
   logger: logger,
   mod_watcher_yaml_path: File.join(["cache", "mod_watcher.yml"])
 )
-t.render
+t.make_it_so(
+  force_full_render: false,
+)

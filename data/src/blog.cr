@@ -79,7 +79,8 @@ class Tremolite::Blog
   end
 
   def make_it_so(
-    force_full_render : Bool = false
+    force_full_render : Bool = false,
+    exifs_changed : Bool = false,
   )
     # ** new way is to render what has changed
 
@@ -104,7 +105,7 @@ class Tremolite::Blog
       yamls_changed = tuple[:yamls_changed]
       post_to_update_photos = tuple[:post_to_update_photos]
       post_to_update_exif = tuple[:post_to_update_exif]
-      exifs_changed = tuple[:exifs_changed]
+      exifs_changed ||= tuple[:exifs_changed]
     end
 
     render(

@@ -7,13 +7,23 @@ class Map::Base
   def initialize(
     @blog : Tremolite::Blog,
     @tile = MapType::Ump,
-    @zoom = DEFAULT_ZOOM
+    @zoom = DEFAULT_ZOOM,
+    @post_slugs : Array(String) = Array(String).new,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
 
     # select only photos with lat/lon
-    @photos = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
+    all_photos = @blog.data_manager.exif_db.all_flatten_photo_entities
+
+    # if list of post slugs were provided select only for this posts
+    if @post_slugs.size > 0
+      all_photos = all_photos.select do |photo_entity|
+        @post_slugs.includes?(photo_entity.post_slug)
+      end
+    end
+
+    @photos = all_photos.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
     @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
@@ -44,7 +54,10 @@ class Map::Base
     @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
 
     # store here to speed up
-    @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    @posts = @blog.post_collection.posts.select do |post|
+      @post_slugs.includes?(post.slug)
+    end.as(Array(Tremolite::Post))
+
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
       town.lat && town.lon
@@ -75,7 +88,7 @@ class Map::Base
     )
   end
 
-  def to_s
+  def to_svg
     return String.build do |s|
       s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg'>\n"
       s << @tiles_layer.render_svg
