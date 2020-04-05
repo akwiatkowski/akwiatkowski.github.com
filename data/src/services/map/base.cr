@@ -9,6 +9,9 @@ class Map::Base
     @tile = MapType::Ump,
     @zoom = DEFAULT_ZOOM,
     @post_slugs : Array(String) = Array(String).new,
+    @quant_size = DEFAULT_PHOTO_SIZE,
+    # filter only photos in rectangle
+    @coord_range : CoordRange? = nil,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -23,9 +26,22 @@ class Map::Base
       end
     end
 
-    @photos = all_photos.select do |photo_entity|
+    photos_w_coords = all_photos.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
+
+    if @coord_range
+      photos_w_coords = photos_w_coords.select do |photo_entity|
+        @coord_range.not_nil!.is_within?(
+          lat: photo_entity.exif.not_nil!.lat.not_nil!,
+          lon: photo_entity.exif.not_nil!.lon.not_nil!,
+        )
+      end
+    end
+
+    # end of filtering
+    @photos = photos_w_coords.as(Array(PhotoEntity))
+
     @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
 
     # if not enouh photos
@@ -85,6 +101,7 @@ class Map::Base
       photos: @photos,
       tiles_layer: @tiles_layer,
       logger: @logger,
+      quant_size: @quant_size
     )
   end
 

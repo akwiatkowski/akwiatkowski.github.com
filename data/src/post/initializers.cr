@@ -7,6 +7,7 @@ class Tremolite::Post
     basic_initialize
     tags_initialize
     towns_initialize
+    # voivodeships_initialize
     lands_initialize
     pois_initialize
     coords_initialize
@@ -17,6 +18,7 @@ class Tremolite::Post
   def custom_process_header
     tags_from_headers
     towns_from_headers
+    # voivodeships_from_headers
     lands_from_headers
     pois_from_headers
     coords_from_headers
@@ -54,6 +56,18 @@ class Tremolite::Post
       end
     end
   end
+
+  # def voivodeships_initialize
+  #   @voivodeships = Array(String).new
+  # end
+  #
+  # def voivodeships_from_headers
+  #   if @header["towns"]?
+  #     @header["towns"].as_a.each do |town|
+  #       @towns.not_nil! << town.to_s
+  #     end
+  #   end
+  # end
 
   def lands_initialize
     @lands = Array(String).new

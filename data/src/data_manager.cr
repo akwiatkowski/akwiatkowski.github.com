@@ -1,4 +1,5 @@
 require "./models/town_entity"
+require "./models/voivodeship_entity"
 require "./models/tag_entity"
 require "./models/land_type_entity"
 require "./models/land_entity"
@@ -14,7 +15,7 @@ class Tremolite::DataManager
   def custom_initialize
     @towns = Array(TownEntity).new
     @town_slugs = Array(String).new
-    @voivodeships = Array(TownEntity).new
+    @voivodeships = Array(VoivodeshipEntity).new
     @tags = Array(TagEntity).new
     @land_types = Array(LandTypeEntity).new
     @lands = Array(LandEntity).new
@@ -114,11 +115,12 @@ class Tremolite::DataManager
     town_yaml = YAML.parse(File.read(f))
     town_yaml.as_a.each do |town|
       o = TownEntity.new(town)
-      if o.is_town?
+      if town["type"].to_s != "voivodeship"
         @towns.not_nil! << o
         @town_slugs.not_nil! << o.slug
-      end
-      if o.is_voivodeship?
+
+      elsif town["type"].to_s == "voivodeship"
+        o = VoivodeshipEntity.new(town)
         @voivodeships.not_nil! << o
       end
     end

@@ -10,6 +10,7 @@ require "./views/photo_map_svg_view"
 require "./views/planner_view"
 require "./views/tag_view"
 require "./views/town_view"
+require "./views/voivodeship_view"
 require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
@@ -174,16 +175,11 @@ class Tremolite::Renderer
     # select posts in voivodeship
     # and render mini-map (not so mini)
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      slugs = @blog.post_collection.posts.select do |post|
-        post.was_in_voivodeship(voivodeship)
-      end.map do |post|
-        post.slug
-      end
-
       voivodeship_view = PhotoMapSvgView.new(
         blog: @blog,
         url: "/photo_map/#{voivodeship.slug}.svg",
-        post_slugs: slugs,
+        quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
+        coord_range: Map::CoordRange.new(voivodeship),
       )
       write_output(voivodeship_view)
     end
@@ -337,10 +333,10 @@ class Tremolite::Renderer
 
   def render_voivodeships_pages
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-      view = TownView.new(blog: @blog, town: voivodeship)
+      view = VoivodeshipView.new(blog: @blog, voivodeship: voivodeship)
       write_output(view)
     end
-    @logger.info("Renderer: Voivodeships (town) finished")
+    @logger.info("Renderer: Voivodeships finished")
   end
 
   def render_posts

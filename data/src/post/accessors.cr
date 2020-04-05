@@ -17,6 +17,11 @@ class Tremolite::Post
   getter :image_filename, :header_nogallery
   getter :finished_at
 
+  #getter :voivodeships
+  def voivodeships
+    self.towns
+  end
+
   def bicycle?
     self.tags.not_nil!.includes?(BICYCLE_TAG)
   end
@@ -88,5 +93,9 @@ class Tremolite::Post
 
   def was_in_voivodeship(voivodeship : TownEntity) : Bool
     @towns.not_nil!.includes?(voivodeship.slug)
+  end
+
+  def was_in_voivodeship(voivodeship : VoivodeshipEntity) : Bool
+    self.voivodeships.not_nil!.includes?(voivodeship.slug)
   end
 end

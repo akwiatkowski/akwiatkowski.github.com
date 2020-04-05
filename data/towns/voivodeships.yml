@@ -1,58 +1,129 @@
 - slug: dolnoslaskie
   name: Dolnośląskie
-  header-ext-img: https://drscdn.500px.org/photo/28181651/m%3D2048/f41769da8802c9b98b9e7235586ab436
   type: voivodeship
+  border_top_left:
+    - 51.805807
+    - 14.571561
+  border_bottom_right:
+    - 49.994227
+    - 17.823514
 
 - slug: kujawsko_pomorskie
   name: Kujawsko-pomorskie
-  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1
   type: voivodeship
+  border_top_left:
+    - 53.829354
+    - 17.103356
+  border_bottom_right:
+    - 52.247480
+    - 19.838951
 
 - slug: lubuskie
   name: Lubuskie
-  header-ext-img: https://drscdn.500px.org/photo/39984034/m%3D2048/c8304caec3ad0fcd39fda59499de26c1
   type: voivodeship
+  border_top_left:
+    - 53.140520
+    - 13.980738
+  border_bottom_right:
+    - 51.372134
+    - 16.535060
 
 - slug: malopolskie
   name: Małopolskie
-  header-ext-img: https://drscdn.500px.org/photo/30570749/m%3D2048/91530ab1c3c3e63febe951920293a5c6
   type: voivodeship
+  border_top_left:
+    - 50.564650
+    - 19.065275
+  border_bottom_right:
+    - 49.090676
+    - 21.482268
 
 - slug: podkarpackie
   name: Podkarpackie
-  header-ext-img: https://drscdn.500px.org/photo/53417900/m%3D2048/fa5d39eed3658ccae4c70f719da71f87
   type: voivodeship
+  border_top_left:
+    - 50.843534
+    - 20.960228
+  border_bottom_right:
+    - 48.693990
+    - 23.888085
 
 - slug: pomorskie
   name: Pomorskie
-  header-ext-img: https://drscdn.500px.org/photo/80117625/m%3D2048/12c29746f24f76d7bd62eb04abd32a91
   type: voivodeship
+  border_top_left:
+    - 54.919669
+    - 16.223747
+  border_bottom_right:
+    - 53.421426
+    - 19.651482
 
 - slug: slaskie
   name: Śląskie
-  header-ext-img: https://drscdn.500px.org/photo/49060748/m%3D2048/16f60768c8815f6fdec6cdc226da8192
   type: voivodeship
+  border_top_left:
+    - 51.163195
+    - 17.943707
+  border_bottom_right:
+    - 49.301170
+    - 19.849835
 
 - slug: warminsko_mazurskie
   name: Warmińsko-mazurskie
   type: voivodeship
+  border_top_left:
+    - 54.563008
+    - 18.989221
+  border_bottom_right:
+    - 53.117626
+    - 22.900354
 
 - slug: wielkopolskie
   name: Wielkopolskie
   type: voivodeship
+  border_top_left:
+    - 53.628155
+    - 15.549943
+  border_bottom_right:
+    - 50.989347
+    - 19.164445
 
 - slug: zachodnio_pomorskie
   name: Zachodnio-pomorskie
   type: voivodeship
+  border_top_left:
+    - 54.667011
+    - 13.624436
+  border_bottom_right:
+    - 52.645907
+    - 17.151047
 
 - slug: opolskie
   name: Opolskie
   type: voivodeship
+  border_top_left:
+    - 51.322139
+    - 16.813008
+  border_bottom_right:
+    - 49.815061
+    - 18.807027
 
 - slug: podlaskie
   name: Podlaskie
   type: voivodeship
+  border_top_left:
+    - 54.437349
+    - 21.385539
+  border_bottom_right:
+    - 52.082086
+    - 24.044231
 
 - slug: lodzkie
   name: Łódzkie
   type: voivodeship
+  border_top_left:
+    - 52.584995
+    - 17.894489
+  border_bottom_right:
+    - 50.717643
+    - 20.706989

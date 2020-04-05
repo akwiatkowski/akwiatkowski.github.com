@@ -7,7 +7,7 @@ class Map::PhotoLayer
   def initialize(
     @photos : Array(PhotoEntity),
     @tiles_layer : TilesLayer,
-    @quant_size = PHOTO_SIZE,
+    @quant_size = DEFAULTH_PHOTO_SIZE.as(Int32),
     @logger : Logger = Logger.new(STDOUT)
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
@@ -47,9 +47,9 @@ class Map::PhotoLayer
         )
 
         # remember to increment
-        y += PHOTO_SIZE
+        y += @quant_size
       end
-      x += PHOTO_SIZE
+      x += @quant_size
     end
 
     @logger.info("#{self.class}: selected total #{@photo_map_sets.size} photos")
@@ -60,7 +60,7 @@ class Map::PhotoLayer
     y : Int32
   )
     lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
-    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + PHOTO_SIZE, y + PHOTO_SIZE)
+    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @quant_size, y + @quant_size)
 
     selected_photos = select_photos_for_area(
       lat_min: lat2, # Y/lat axis is reversed
@@ -124,13 +124,16 @@ class Map::PhotoLayer
 
   def photo_map_set_to_svg_image(photo_map_set)
     url = photo_map_set[:photo].gallery_thumb_image_src
+    post_url = photo_map_set[:photo].post_url
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]
 
     return String.build do |s|
-      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}' class='photo-map-photo'>"
+      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}' class='photo-map-photo'>\n"
+      s << "<a href='#{post_url}' target='_blank'>\n"
       s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@quant_size}' height='#{@quant_size}' />\n"
-      s << "</svg>"
+      s << "</a>\n"
+      s << "</svg>\n"
     end
   end
 end

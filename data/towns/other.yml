@@ -8,6 +8,12 @@
   name: Kraj Ołomucki
   type: voivodeship
   country: Czechy
+  border_top_left:
+    - 50.601311
+    - 16.456987
+  border_bottom_right:
+    - 49.207489
+    - 18.017046
 
 - slug: praga
   name: Praga
