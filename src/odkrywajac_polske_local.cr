@@ -1,4 +1,4 @@
-require "tremolite"
+require "../../crystal/tremolite/src/tremolite"
 require "../data/src/blog"
 
 logger = Logger.new(STDOUT)
@@ -11,4 +11,5 @@ t = Tremolite::Blog.new(
 
 t.make_it_so(
   force_full_render: false,
+  exifs_changed: true
 )

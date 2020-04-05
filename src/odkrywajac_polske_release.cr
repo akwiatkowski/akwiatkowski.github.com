@@ -10,5 +10,5 @@ t = Tremolite::Blog.new(
 )
 
 t.make_it_so(
-  force_full_render: false,
+  force_full_render: true,
 )

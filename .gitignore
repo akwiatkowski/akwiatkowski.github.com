@@ -22,5 +22,4 @@ old
 # when working on features with lib in different path
 watch_dev.sh
 watch_dev_smart.sh
-src/odkrywajac_polske_local.cr
 ./blog
