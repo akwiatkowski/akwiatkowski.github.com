@@ -6,6 +6,8 @@ require "./tiles_layer"
 class Map::Downloader
   DEFAULT_ZOOM = 10
   PUBLIC_PATH = "public/tiles"
+  # download addition border tile
+  BORDER_TILE = 2
 
   def initialize(
     @lat_from : Float64,
@@ -24,22 +26,25 @@ class Map::Downloader
       x_from_float.floor.to_i,
       x_to_float.ceil.to_i
     ].min.as(Int32)
+    @x_from -= BORDER_TILE
 
     @x_to = [
       x_from_float.floor.to_i,
       x_to_float.ceil.to_i
     ].max.as(Int32)
+    @x_to += BORDER_TILE
 
     @y_from = [
       y_from_float.floor.to_i,
       y_to_float.ceil.to_i
     ].min.as(Int32)
+    @y_from -= BORDER_TILE
 
     @y_to = [
       y_from_float.floor.to_i,
       y_to_float.ceil.to_i
     ].max.as(Int32)
-    # .as(Tuple(Int32, Int32))
+    @y_to += BORDER_TILE
   end
 
   def make_it_so
