@@ -92,7 +92,7 @@ class Tremolite::Renderer
     @logger.debug("#{self.class}:render_post #{post.slug} PostGalleryStatsView")
   end
 
-  # galleries which do not require exif data
+  # galleries which require exif data (photo lat/lon)
   # but require all photos in post content need to be initialized
   def render_galleries_pages
     render_gallery
@@ -166,6 +166,7 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
+    render_photo_maps_posts
     render_photo_maps_voivodeships
     render_photo_maps_global
   end
@@ -174,6 +175,8 @@ class Tremolite::Renderer
     # select posts in voivodeship
     # and render mini-map (not so mini)
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      @logger.debug("#{self.class}: render_photo_maps_voivodeships #{voivodeship.slug}")
+
       voivodeship_coord_range = Map::CoordRange.new(voivodeship)
 
       voivodeship_view = PhotoMapSvgView.new(
@@ -193,6 +196,36 @@ class Tremolite::Renderer
         coord_range: voivodeship_coord_range,
       )
       write_output(voivodeship_small_view)
+    end
+  end
+
+  def render_photo_maps_posts
+    @blog.post_collection.posts.not_nil!.each do |post|
+      if post.self_propelled? && post.coords && post.coords.not_nil!.size > 0
+        # TODO refactor post coords into someting not ugly
+        if post.coords.not_nil![0]["route"].as(Array(Array(Float64))).size > 0
+          @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug}")
+
+          # sometime I take photos from train and we want to have detailed
+          # route map (big zoom) so we must remove photos taken from non route
+          # places
+          coord_range = Map::CoordRange.new(post.coords.not_nil!)
+          begin
+            # let's ignore train for now and w/o coords
+            post_map_view = PhotoMapSvgView.new(
+              blog: @blog,
+              url: "/photo_map/post/#{post.slug}.svg",
+              zoom: Map::DEFAULT_POST_ZOOM,
+              quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+              post_slugs: [post.slug],
+              coord_range: coord_range,
+            )
+            write_output(post_map_view)
+          rescue Map::NotEnoughPhotos
+            # ignore this
+          end
+        end
+      end
     end
   end
 
@@ -216,7 +249,7 @@ class Tremolite::Renderer
 
     deailed_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/all_detailed.svg"
+      url: "/photo_map/all_detailed.svg",
       zoom: Map::DEFAULT_DETAILED_ZOOM,
       quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
     )

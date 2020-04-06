@@ -47,6 +47,7 @@ class Map::Base
     # if not enouh photos
     if @photos.size <= 2
       @logger.warn("#{self.class}: not enough photos")
+      raise NotEnoughPhotos.new
     end
 
     # assign at this moment to have not nil value
@@ -112,11 +113,18 @@ class Map::Base
   end
 
   def to_svg
-    return String.build do |s|
-      s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg'>\n"
+    svg_content = String.build do |s|
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
       s << @routes_layer.render_svg
+    end
+
+    return String.build do |s|
+      s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' "
+      s << "viewBox='#{@tiles_layer.cropped_x} #{@tiles_layer.cropped_y} #{@tiles_layer.cropped_width} #{@tiles_layer.cropped_height}' "
+      s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' >\n"
+      # first we need render all to know about padding
+      s << svg_content
       s << "</svg>\n"
     end
   end

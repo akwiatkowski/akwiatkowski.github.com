@@ -40,6 +40,7 @@ class PostGalleryView < BaseView
 
   def post_article_html
     data = Hash(String, String).new
+    data["post.slug"] = @post.slug
     # if not used should be set to blank
     data["next_post_pager"] = ""
     data["prev_post_pager"] = ""

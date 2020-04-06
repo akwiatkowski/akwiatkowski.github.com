@@ -128,6 +128,10 @@ class Map::PhotoLayer
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]
 
+    # for cropping
+    @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
+    @tiles_layer.mark_bottom_right_corner(x.to_i + @quant_size, y.to_i + @quant_size)
+
     return String.build do |s|
       s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}' class='photo-map-photo'>\n"
       s << "<a href='#{post_url}' target='_blank'>\n"

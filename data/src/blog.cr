@@ -160,8 +160,6 @@ class Tremolite::Blog
     # if post were changed render some fast related pages
     if posts_changed
       renderer.render_fast_only_post_related
-      # TODO check if this is working ok
-      renderer.render_galleries_pages
     end
 
     if posts_changed || yamls_changed
@@ -174,6 +172,9 @@ class Tremolite::Blog
         data_manager.exif_db.initialize_post_photos_exif(post)
       end
       renderer.render_exif_page
+      # this probably should be updated more often
+      # but at leas is not overwritten
+      renderer.render_galleries_pages
     end
 
     # maybe somewhere in future we can add if here

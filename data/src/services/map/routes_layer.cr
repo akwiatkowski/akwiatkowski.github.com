@@ -53,6 +53,10 @@ class Map::RoutesLayer
               lon_deg: lon
             ).as(Tuple(Int32, Int32))
 
+            # for cropping
+            @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
+            @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
+
             s << "#{x.to_i},#{y.to_i} "
           end
           s << "'  />\n"
