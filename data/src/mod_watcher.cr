@@ -4,14 +4,14 @@ class Tremolite::ModWatcher
     KEY_YAML_FILES,
     KEY_EXIF_DB_FILES,
     KEY_PHOTO_FILES,
-    KEY_SOURCE_FILES
+    KEY_SOURCE_FILES,
   ]
 
-  KEY_POSTS_FILES = "post_files"
-  KEY_YAML_FILES = "yaml_files"
+  KEY_POSTS_FILES   = "post_files"
+  KEY_YAML_FILES    = "yaml_files"
   KEY_EXIF_DB_FILES = "exif_db_files"
-  KEY_PHOTO_FILES = "photo_files"
-  KEY_SOURCE_FILES = "source_files"
+  KEY_PHOTO_FILES   = "photo_files"
+  KEY_SOURCE_FILES  = "source_files"
 
   # core method to check what has been changed
   def changed_summary
@@ -59,11 +59,11 @@ class Tremolite::ModWatcher
 
   def current_state_of(key : String) : ModHash
     key_files = {
-      KEY_POSTS_FILES => Dir[File.join([@blog.posts_path, "**", "*.#{@blog.posts_ext}"])],
-      KEY_YAML_FILES => Dir[File.join([@blog.data_path, "**", "*.yml"])],
+      KEY_POSTS_FILES   => Dir[File.join([@blog.posts_path, "**", "*.#{@blog.posts_ext}"])],
+      KEY_YAML_FILES    => Dir[File.join([@blog.data_path, "**", "*.yml"])],
       KEY_EXIF_DB_FILES => Dir[File.join([@blog.data_manager.exif_db.exif_db_file_parent_path, "**", "*.yml"])],
-      KEY_PHOTO_FILES => Dir[File.join([@blog.data_path, "images", "**", "*"])],
-      KEY_SOURCE_FILES => Dir[File.join([@blog.data_path, "**", "*.cr"])],
+      KEY_PHOTO_FILES   => Dir[File.join([@blog.data_path, "images", "**", "*"])],
+      KEY_SOURCE_FILES  => Dir[File.join([@blog.data_path, "**", "*.cr"])],
     }
 
     if key_files[key]?
@@ -135,7 +135,6 @@ class Tremolite::ModWatcher
   # 1) KEY_POSTS_FILES
   # 1) KEY_EXIF_DB - PostGalleryStatsView, galleries,
 
-
   # # size of all photos in data/images/**
   # KEY_PHOTOS = "photos"
   # KEY_EXIF_DB = "exif_db"
@@ -188,8 +187,6 @@ class Tremolite::ModWatcher
   #     return ModHash.new
   #   end
   # end
-
-
 
   # # return ALL_STATIC_KEYS and dynamic (posts)
   # def all_mod_watchers : NamedTuple(static: Array(String), posts_mtime: Array(String), photo_count: Array(String))

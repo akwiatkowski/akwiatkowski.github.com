@@ -211,9 +211,9 @@ class Tremolite::Renderer
           # places
           coord_range = PostRouteObject.array_to_coord_range(
             array: post.coords.not_nil!,
-            # lets accept all types for now
+                      # lets accept all types for now
             # only_types: ["hike", "bicycle", "train", "car", "air"]
-          )
+)
           begin
             Map::DEFAULT_POST_ZOOMS.each do |zoom|
               # let's ignore train for now and w/o coords

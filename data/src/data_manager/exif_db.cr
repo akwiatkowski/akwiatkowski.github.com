@@ -88,7 +88,7 @@ class ExifDb
   def load_photo_entities
     @blog.post_collection.posts.each do |post|
       # TODO is it possible to move exif generate/load from function to here?
-      #load_or_initialize_exif_for_post(post.slug)
+      # load_or_initialize_exif_for_post(post.slug)
       post.all_uploaded_photo_entities
     end
     @photo_entities_loaded = true
@@ -163,5 +163,4 @@ class ExifDb
     @exif_entities[post_slug] << exif
     @exif_entities_dirty[post_slug] = true
   end
-
 end

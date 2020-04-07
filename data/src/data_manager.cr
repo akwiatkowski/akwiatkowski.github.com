@@ -118,7 +118,6 @@ class Tremolite::DataManager
       if town["type"].to_s != "voivodeship"
         @towns.not_nil! << o
         @town_slugs.not_nil! << o.slug
-
       elsif town["type"].to_s == "voivodeship"
         o = VoivodeshipEntity.new(town)
         @voivodeships.not_nil! << o

@@ -17,7 +17,7 @@ class Tremolite::Post
   getter :image_filename, :header_nogallery
   getter :finished_at
 
-  #getter :voivodeships
+  # getter :voivodeships
   def voivodeships
     self.towns
   end

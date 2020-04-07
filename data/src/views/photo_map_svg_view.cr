@@ -11,7 +11,7 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @subtitle : String = "",
     # append towns on map
     @append_towns = true,
-    @do_not_crop_routes : Bool = false,
+    @do_not_crop_routes : Bool = false
   )
   end
 

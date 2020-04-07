@@ -43,7 +43,7 @@ class Tremolite::Post
     upp = uploaded_photos_path
     # return only files, no directories
     return Dir.entries(uploaded_photos_path).select do |path|
-        File.directory?(File.join([upp, path])) == false
+      File.directory?(File.join([upp, path])) == false
     end
   end
 

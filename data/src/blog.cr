@@ -50,7 +50,6 @@ class Tremolite::Blog
     end
     @logger.debug("#{self.class}: Update #{post_to_update_photos.size} post photos")
 
-
     post_slugs_to_update_exif = changes_summary[Tremolite::ModWatcher::KEY_EXIF_DB_FILES].map do |exif_path|
       scan = exif_path.scan(/(\d{4}-\d{2}-\d{2}[^\.]+).yml/)
       # first (0) mached and first (1) group
@@ -69,18 +68,18 @@ class Tremolite::Blog
     end
 
     return {
-      post_to_render: post_to_render,
-      posts_changed: posts_changed,
-      yamls_changed: yamls_changed,
+      post_to_render:        post_to_render,
+      posts_changed:         posts_changed,
+      yamls_changed:         yamls_changed,
       post_to_update_photos: post_to_update_photos,
-      post_to_update_exif: post_to_update_exif,
-      exifs_changed: exifs_changed,
+      post_to_update_exif:   post_to_update_exif,
+      exifs_changed:         exifs_changed,
     }
   end
 
   def make_it_so(
     force_full_render : Bool = false,
-    exifs_changed : Bool = false,
+    exifs_changed : Bool = false
   )
     # ** new way is to render what has changed
 
@@ -128,9 +127,8 @@ class Tremolite::Blog
     yamls_changed : Bool,
     post_to_update_photos : Array(Tremolite::Post),
     post_to_update_exif : Array(Tremolite::Post),
-    exifs_changed : Bool,
+    exifs_changed : Bool
   )
-
     # because
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries

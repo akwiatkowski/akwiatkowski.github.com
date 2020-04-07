@@ -14,7 +14,7 @@ class Map::Base
     @coord_range : CoordRange? = nil,
     # enforce to render all routes points on map
     # by changing extreme coords
-    @do_not_crop_routes : Bool = false,
+    @do_not_crop_routes : Bool = false
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -88,9 +88,9 @@ class Map::Base
       coord_ranges = @posts.map do |post|
         PostRouteObject.array_to_coord_range(
           array: post.coords.not_nil!,
-          # lets accept all types for now
+                  # lets accept all types for now
           # only_types: ["hike", "bicycle", "train", "car", "air"]
-        )
+)
       end.compact
 
       # uglier sum, but don't want to define CoordRange.zero

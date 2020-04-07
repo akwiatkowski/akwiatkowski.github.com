@@ -20,7 +20,7 @@ struct CoordRange
     @lat_from,
     @lat_to,
     @lon_from,
-    @lon_to,
+    @lon_to
   )
   end
 
