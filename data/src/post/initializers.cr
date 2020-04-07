@@ -1,4 +1,4 @@
-alias PostRouteObject = Hash(String, (String | Array(Array(Float64))))
+require "./../models/post_route_object"
 
 class Tremolite::Post
   def custom_initialize
@@ -103,18 +103,7 @@ class Tremolite::Post
       # easier to generate JSON
       coords = @header["coords"]
       coords.as_a.each do |ch|
-        ro = PostRouteObject.new
-        ro["type"] = ch["type"].to_s
-        ro["route"] = Array(Array(Float64)).new
-
-        ch["route"].as_a.each do |coord|
-          if coord.size == 2
-            ro["route"].as(Array) << [coord[0].to_s.to_f, coord[1].to_s.to_f]
-          else
-            @logger.error("Post #{@slug} - error in route coords")
-          end
-        end
-
+        ro = PostRouteObject.new(ch)
         @coords.not_nil! << ro
       end
     end

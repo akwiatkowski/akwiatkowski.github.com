@@ -7,7 +7,7 @@ class Tremolite::Post
     end
 
     @coords.not_nil!.each do |ce|
-      ce["route"].as(Array).each do |c|
+      ce.route.each do |c|
         cs << {c[0], c[1]}
       end
     end

@@ -36,10 +36,10 @@ class Map::RoutesLayer
       }
 
     return String.build do |s|
-      if allowed_types.keys.includes?(route_object["type"])
+      if allowed_types.keys.includes?(route_object.type)
         # color is determined by type
-        color_svg_for_route_object = allowed_types[route_object["type"]]
-        geo_coords = route_object["route"].as(Array(Array(Float64)))
+        color_svg_for_route_object = allowed_types[route_object.type]
+        geo_coords = route_object.route.as(Array(Array(Float64)))
 
         # render only if there 2 or more
         if geo_coords.size >= 2
@@ -55,7 +55,7 @@ class Map::RoutesLayer
 
             # for cropping
             @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
-            @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
+            @tiles_layer.mark_bottom_right_corner(x.to_i, y.to_i)
 
             s << "#{x.to_i},#{y.to_i} "
           end

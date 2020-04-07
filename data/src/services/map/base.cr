@@ -12,6 +12,9 @@ class Map::Base
     @quant_size = DEFAULT_PHOTO_SIZE,
     # filter only photos in rectangle
     @coord_range : CoordRange? = nil,
+    # enforce to render all routes points on map
+    # by changing extreme coords
+    @do_not_crop_routes : Bool = false,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -68,7 +71,6 @@ class Map::Base
       @lat_max = lat if lat > @lat_max
       @lon_max = lon if lon > @lon_max
     end
-    @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
 
     # store here to speed up
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
@@ -80,6 +82,32 @@ class Map::Base
         @post_slugs.includes?(post.slug)
       end
     end
+
+    # use post routes to change extreme ranges
+    if @posts.size > 0 && @do_not_crop_routes
+      coord_ranges = @posts.map do |post|
+        PostRouteObject.array_to_coord_range(
+          array: post.coords.not_nil!,
+          # lets accept all types for now
+          # only_types: ["hike", "bicycle", "train", "car", "air"]
+        )
+      end.compact
+
+      # uglier sum, but don't want to define CoordRange.zero
+      coord_range = coord_ranges.first
+      (1...coord_ranges.size).each do |i|
+        coord_range += coord_ranges[i]
+      end
+
+      # TODO refactor 4 variables into CoordRange
+      @lat_min = coord_range.lat_from if coord_range.lat_from < @lat_min
+      @lon_min = coord_range.lon_from if coord_range.lon_from < @lon_min
+
+      @lat_max = coord_range.lat_to if coord_range.lat_to > @lat_max
+      @lon_max = coord_range.lon_to if coord_range.lon_to > @lon_max
+    end
+
+    @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|

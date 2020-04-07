@@ -177,7 +177,7 @@ class Tremolite::Renderer
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
       @logger.debug("#{self.class}: render_photo_maps_voivodeships #{voivodeship.slug}")
 
-      voivodeship_coord_range = Map::CoordRange.new(voivodeship)
+      voivodeship_coord_range = CoordRange.new(voivodeship)
 
       voivodeship_view = PhotoMapSvgView.new(
         blog: @blog,
@@ -203,24 +203,31 @@ class Tremolite::Renderer
     @blog.post_collection.posts.not_nil!.each do |post|
       if post.self_propelled? && post.coords && post.coords.not_nil!.size > 0
         # TODO refactor post coords into someting not ugly
-        if post.coords.not_nil![0]["route"].as(Array(Array(Float64))).size > 0
+        if post.coords.not_nil![0].route.size > 0
           @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug}")
 
           # sometime I take photos from train and we want to have detailed
           # route map (big zoom) so we must remove photos taken from non route
           # places
-          coord_range = Map::CoordRange.new(post.coords.not_nil!)
+          coord_range = PostRouteObject.array_to_coord_range(
+            array: post.coords.not_nil!,
+            # lets accept all types for now
+            # only_types: ["hike", "bicycle", "train", "car", "air"]
+          )
           begin
-            # let's ignore train for now and w/o coords
-            post_map_view = PhotoMapSvgView.new(
-              blog: @blog,
-              url: "/photo_map/post/#{post.slug}.svg",
-              zoom: Map::DEFAULT_POST_ZOOM,
-              quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-              post_slugs: [post.slug],
-              coord_range: coord_range,
-            )
-            write_output(post_map_view)
+            Map::DEFAULT_POST_ZOOMS.each do |zoom|
+              # let's ignore train for now and w/o coords
+              post_map_view = PhotoMapSvgView.new(
+                blog: @blog,
+                url: "/photo_map/post/#{zoom}/#{post.slug}.svg",
+                zoom: zoom,
+                quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+                post_slugs: [post.slug],
+                coord_range: coord_range,
+                do_not_crop_routes: true,
+              )
+              write_output(post_map_view)
+            end
           rescue Map::NotEnoughPhotos
             # ignore this
           end
