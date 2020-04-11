@@ -263,7 +263,7 @@ class Tremolite::Renderer
 
     voivodeship_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/#{voivodeship.slug}.svg",
+      url: "/photo_map/for_voivodeship/#{voivodeship.slug}.svg",
       zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
       quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
@@ -273,7 +273,7 @@ class Tremolite::Renderer
 
     voivodeship_small_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/#{voivodeship.slug}_small.svg",
+      url: "/photo_map/for_voivodeship/#{voivodeship.slug}_small.svg",
       zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
       quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
