@@ -11,6 +11,8 @@ towns:                  [zachodnio_pomorskie, ustronie_morskie, bedzino, mielno,
 lands:                  [wybrzeze_slowinskie]
 
 coords:                 [{"route": [[54.21019,15.72414], [54.24200,15.87383], [54.25875,16.05648], [54.30685,16.19672], [54.28281,16.21835], [54.29213,16.27311], [54.35570,16.33525], [54.37930,16.31946], [54.38830,16.33113]], "type": "bicycle"}]
+coords_file:            "2014-07-14-z-sianozet-do-dabek.json"
+coords_type:            "bicycle"
 distance:               61
 time_spent:             8
 ---
