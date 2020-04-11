@@ -12,6 +12,8 @@ tags:                   [hike, main]
 towns:                  [wielkopolskie, steszew]
 
 coords:                 [{"route": [[52.27906,16.70855], [52.29282,16.68924], [52.29061,16.67079], [52.29644,16.67061], [52.31381,16.64469], [52.31271,16.63534], [52.30463,16.65585]], "type": "hike"}]
+coords_file:            "2017-09-09-spacer-w-okolicy-rzeki-samicy.json"
+coords_type:            "hike"
 distance:               16
 time_spent:             5
 elevation:              250  

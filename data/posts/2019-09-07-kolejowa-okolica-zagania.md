@@ -16,6 +16,8 @@ tags:                   [main, train]
 towns:                  [wielkopolskie, lubuskie, poznan, dopiewo, buk, opalenica, nowy_tomysl, zbaszyn, zbaszynek, babimost, sulechow, czerwiensk, zielona_gora, swidnica_lubuskie, nowogrod_bobrzanski, zary, zagan, malomice, szprotawa, niegoslawice]
 
 coords:                 [{"route": [[51.95062,15.48002], [51.80926,15.24073], [51.63763,15.11679], [51.56854,15.54010], [51.60203,15.70593]], "type": "train"}]
+coords_file:            "2019-09-07-kolejowa-okolica-zagania.json"
+coords_type:            "train"
 distance:               490
 time_spent:             2
 elevation:              42

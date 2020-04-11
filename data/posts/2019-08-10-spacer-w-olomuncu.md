@@ -13,6 +13,8 @@ tags:                   [hike, city, todo]
 towns:                  [czechy, czechy_kraj_olomucki]
 
 coords:                 [{"route": [[49.59256,17.27765], [49.59690,17.26203], [49.59390,17.25216], [49.58917,17.25404], [49.59245,17.27791]], "type": "hike"}]
+coords_file:            "2019-08-10-spacer-w-olomuncu.json"
+coords_type:            "hike"
 distance:               6
 time_spent:             3
 elevation:              48

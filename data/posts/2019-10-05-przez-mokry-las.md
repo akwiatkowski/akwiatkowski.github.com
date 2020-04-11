@@ -15,6 +15,8 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, opalenica, grodzisk_wielkopolski]
 
 coords:                 [{"route": [[52.30225,16.28942], [52.28387,16.33053], [52.26938,16.34547], [52.25609,16.35199], [52.23796,16.39225], [52.23580,16.39010]], "type": "hike"}]
+coords_file:            "2019-10-05-przez-mokry-las.json"
+coords_type:            "hike"
 distance:               13
 time_spent:             3
 elevation:              45

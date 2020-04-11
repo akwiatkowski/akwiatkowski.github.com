@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, lubuskie, zbaszyn, zbaszynek, trzciel, miedzyrzecz, bledzew, skwierzyna]
 
 coords:                 [{"route": [[52.25976,15.89548], [52.27321,15.81222], [52.34164,15.71043], [52.37540,15.68897], [52.37927,15.64966], [52.40724,15.63833], [52.44440,15.57808], [52.44011,15.52932], [52.48122,15.45087], [52.48457,15.40144], [52.51654,15.41174], [52.53607,15.46014], [52.58741,15.47886], [52.59378,15.49448], [52.59075,15.50014]], "type": "bicycle"}]
+coords_file:            "2018-04-04-pierwszy-dzien-lata-tej-wiosny.json"
+coords_type:            "bicycle"
 distance:               65
 time_spent:             5
 elevation:              305

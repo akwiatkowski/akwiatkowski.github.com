@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, pleszew, dobrzyca, rozdrazew, krotoszyn, kobylin, jutrosin, miejska_gorka, rawicz]
 
 coords:                 [{"route": [[51.89199,17.73404], [51.86645,17.60478], [51.81279,17.56598], [51.78062,17.50487], [51.73876,17.47140], [51.73450,17.43432], [51.74779,17.38660], [51.72897,17.27313], [51.71579,17.22627], [51.70749,17.18833], [51.66013,17.15348], [51.65651,17.04242], [51.66482,16.99504], [51.62775,16.89548], [51.61080,16.86561], [51.60696,16.84054]], "type": "bicycle"}]
+coords_file:            "2019-06-23-z-pleszewa-do-rawicza.json"
+coords_type:            "bicycle"
 distance:               92
 time_spent:             6
 elevation:              188

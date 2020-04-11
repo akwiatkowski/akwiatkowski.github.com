@@ -13,6 +13,8 @@ tags:                   [hike, main, mountains]
 towns:                  [dolnoslaskie, radkow]
 
 coords:                 [{"route": [[50.48933,16.32867], [50.48289,16.32609], [50.47535,16.33802], [50.47655,16.35631], [50.48546,16.35107], [50.48846,16.34017], [50.48529,16.33056], [50.48939,16.32832]], "type": "hike"}]
+coords_file:            "2017-12-31-wokol-szczelinca-wielkiego.json"
+coords_type:            "hike"
 distance:               9
 time_spent:             3
 elevation:              189

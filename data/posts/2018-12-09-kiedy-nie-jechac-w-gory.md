@@ -15,6 +15,8 @@ tags:                   [hike, main]
 towns:                  [dolnoslaskie, szklarska_poreba]
 
 coords:                 [{"route": [[50.84843,15.55727], [50.84141,15.55332], [50.84122,15.55813], [50.83702,15.55895], [50.83412,15.55521], [50.83258,15.52946], [50.82697,15.52208], [50.81827,15.51715], [50.81404,15.49620], [50.79399,15.50097]], "type": "hike"}]
+coords_file:            "2018-12-09-kiedy-nie-jechac-w-gory.json"
+coords_type:            "hike"
 distance:               4
 time_spent:             2
 elevation:              42

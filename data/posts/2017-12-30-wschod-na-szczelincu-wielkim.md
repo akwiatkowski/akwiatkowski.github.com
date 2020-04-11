@@ -14,6 +14,8 @@ tags:                   [hike, photo, main, mountains]
 towns:                  [dolnoslaskie, radkow]
 
 coords:                 [{"route": [[50.49447,16.32549], [50.48333,16.33759], [50.48529,16.34034], [50.48354,16.33725], [50.47541,16.33785], [50.48300,16.32644], [50.48993,16.32832]], "type": "hike"}]
+coords_file:            "2017-12-30-wschod-na-szczelincu-wielkim.json"
+coords_type:            "hike"
 distance:               10
 time_spent:             4
 elevation:              277

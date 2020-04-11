@@ -16,6 +16,8 @@ tags:                   [bicycle, main]
 towns:                  [kujawsko_pomorskie, wielkopolskie, mogilno, trzemeszno]
 
 coords:                 [{"route": [[52.66043,17.94686], [52.68026,17.93493], [52.68328,17.91579], [52.68739,17.87176], [52.66657,17.84146], [52.63658,17.79760], [52.60469,17.81674], [52.59494,17.82919], [52.58258,17.82893], [52.57721,17.81485], [52.56579,17.82541]], "type": "bicycle"}]
+coords_file:            "2019-07-28-eksploracja-jezior-mogilna.json"
+coords_type:            "bicycle"
 distance:               36
 time_spent:             5
 elevation:              218

@@ -12,6 +12,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, oborniki]
 
 coords:                 [{"route": [[52.51209,16.74139], [52.53851,16.75984], [52.54718,16.75401], [52.55182,16.77435], [52.58177,16.75855], [52.59058,16.77933], [52.59767,16.76516], [52.59053,16.77967], [52.58344,16.78765], [52.58844,16.82653], [52.58088,16.82782], [52.58020,16.82310]], "type": "bicycle"}]
+coords_file:            "2017-09-19-krotka-ucieczka-w-strone-obornik.json"
+coords_type:            "bicycle"
 distance:               37
 time_spent:             2
 elevation:              158  

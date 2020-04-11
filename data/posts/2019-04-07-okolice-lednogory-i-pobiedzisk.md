@@ -19,6 +19,8 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, lubowo, pobiedziska]
 
 coords:                 [{"route": [[52.49100,17.36340], [52.48818,17.37662], [52.47767,17.36134], [52.46988,17.33713], [52.46240,17.33593], [52.47600,17.29465], [52.47992,17.27980]], "type": "hike"}]
+coords_file:            "2019-04-07-okolice-lednogory-i-pobiedzisk.json"
+coords_type:            "hike"
 distance:               4
 time_spent:             2
 elevation:              42

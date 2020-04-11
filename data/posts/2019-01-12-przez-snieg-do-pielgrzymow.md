@@ -14,6 +14,8 @@ towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.75075,15.70853], [50.76829,15.70274], [50.76775,15.69484]], "type": "hike"}]
+coords_file:            "2019-01-12-przez-snieg-do-pielgrzymow.json"
+coords_type:            "hike"
 distance:               7
 time_spent:             4
 elevation:              311

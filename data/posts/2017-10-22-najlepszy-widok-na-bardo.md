@@ -14,6 +14,8 @@ towns:                  [dolnoslaskie, bardo]
 lands:                  [gory_bardzkie]
 
 coords:                 [{"route": [[50.50474,16.73669], [50.49642,16.73905], [50.50087,16.74162], [50.49631,16.73909], [50.50329,16.72999], [50.50592,16.74012], [50.50963,16.75874]], "type": "hike"}]
+coords_file:            "2017-10-22-najlepszy-widok-na-bardo.json"
+coords_type:            "hike"
 distance:               8
 time_spent:             3
 elevation:              267  

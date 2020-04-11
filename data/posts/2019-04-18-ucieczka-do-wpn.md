@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, lubon, komorniki, steszew]
 
 coords:                 [{"route": [[52.37008,16.90039], [52.35309,16.86443], [52.33883,16.87035], [52.32509,16.86254], [52.28289,16.80297], [52.27434,16.74178], [52.27985,16.70916]], "type": "bicycle"}]
+coords_file:            "2019-04-18-ucieczka-do-wpn.json"
+coords_type:            "bicycle"
 distance:               28
 time_spent:             2
 elevation:              150

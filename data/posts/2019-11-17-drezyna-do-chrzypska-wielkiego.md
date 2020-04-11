@@ -13,6 +13,8 @@ tags:                   [train, todo]
 towns:                  [wielkopolskie, chrzypsko_wielkie]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2019-11-17-drezyna-do-chrzypska-wielkiego.json"
+coords_type:            "train"
 distance:               4
 time_spent:             2
 elevation:              42

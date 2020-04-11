@@ -13,6 +13,8 @@ tags:                   [hike, todo]
 towns:                  [czechy, czechy_kraj_olomucki]
 
 coords:                 [{"route": [[50.0864,17.1395], [50.0839,17.1442], [50.0756,17.1445], [50.0706,17.1536], [50.0770,17.1623]], "type": "hike"}]
+coords_file:            "2019-08-12-elektrownia-dlouhe-strane.json"
+coords_type:            "hike"
 distance:               8
 time_spent:             3
 elevation:              253

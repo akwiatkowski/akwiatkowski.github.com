@@ -15,6 +15,8 @@ tags:                   [car, hike, main]
 towns:                  [praga]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2018-12-31-kiedy-nie-jechac-do-pragi.json"
+coords_type:            "car"
 distance:               5
 time_spent:             4
 elevation:              74

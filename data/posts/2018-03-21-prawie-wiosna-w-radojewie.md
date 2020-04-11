@@ -13,6 +13,8 @@ tags:                   [photo, main]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.45413,16.95325], [52.45440,16.97123]], "type": "hike"}]
+coords_file:            "2018-03-21-prawie-wiosna-w-radojewie.json"
+coords_type:            "hike"
 distance:               3
 time_spent:             1
 elevation:              33

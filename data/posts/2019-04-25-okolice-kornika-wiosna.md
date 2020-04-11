@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, krzykosy, zaniemysl, kornik]
 
 coords:                 [{"route": [[52.13716,17.30963], [52.13837,17.26200], [52.14711,17.22157], [52.17423,17.22183], [52.21705,17.12570], [52.21390,17.11668], [52.24854,17.08724], [52.28148,17.10493]], "type": "bicycle"}]
+coords_file:            "2019-04-25-okolice-kornika-wiosna.json"
+coords_type:            "bicycle"
 distance:               31
 time_spent:             2
 elevation:              90

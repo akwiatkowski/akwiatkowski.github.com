@@ -13,6 +13,8 @@ tags:                   [hike, todo]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 
 coords:                 [{"route": [[50.20833,16.83227], [50.21799,16.80249], [50.22837,16.76524]], "type": "hike"}]
+coords_file:            "2020-01-02-opuszczenie-snieznika.json"
+coords_type:            "hike"
 distance:               9
 time_spent:             2
 elevation:              43

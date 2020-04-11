@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [podlaskie, goniadz, dobrzyniewo_duze, krypno, tykocin]
 
 coords:                 [{"route": [[53.48954,22.73581], [53.45970,22.71556], [53.45960,22.72500]], "type": "bicycle"}, {"route": [[53.22275,22.93666], [53.22347,22.95005], [53.23970,22.93906], [53.23066,22.86336], [53.23518,22.80242], [53.22110,22.77650], [53.20589,22.77392], [53.20394,22.70938]], "type": "bicycle"}]
+coords_file:            "2018-08-10-dojazd-do-tykocina-przed-burza.json"
+coords_type:            "bicycle"
 distance:               34 # 26 + 8
 time_spent:             7 # 5 + 2
 elevation:              112 # 64 + 48

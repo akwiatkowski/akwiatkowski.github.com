@@ -13,6 +13,9 @@ tags:                   [car, main]
 towns:                  [kujawsko_pomorskie, warminsko_mazurskie, wielka_nieszawka, torun, lubicz, obrowo, ciechocin, golub-dobrzyn, bobrowo, brodnica, brzozie, kurzetnik, nowe_miasto_lubawskie, lubawa, ostroda, milomlyn, zalewo, ilawa, kisielice, biskupiec, swiecie_nad_osa, radzyn_chelminski, wabrezno, kowalewo_pomorskie]
 
 coords:                 [{"route": [], "type": "car"}]
+# 37kB json is quite big
+#coords_file:            "2019-12-01-eksploracja-warmii-samochodem.json"
+#coords_type:            "car"
 distance:               806 # 315 + 161 + 330
 time_spent:             22 # 7 + 7 + 8
 elevation:              

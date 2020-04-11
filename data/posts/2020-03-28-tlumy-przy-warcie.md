@@ -13,6 +13,8 @@ tags:                   [hike, todo]
 towns:                  [wielkopolskie, kornik, srem]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2020-03-28-tlumy-przy-warcie.json"
+coords_type:            "hike"
 distance:               10
 time_spent:             4
 elevation:              36

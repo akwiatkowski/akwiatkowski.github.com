@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [lubuskie, rzepin, osno_lubuskie, sulecin, lubniewice]
 
 coords:                 [{"route": [[52.34990,14.81463], [52.35000,14.83351], [52.40847,14.88003], [52.40523,14.90012], [52.42899,14.93188], [52.41245,14.99728], [52.44249,15.11761], [52.48025,15.13547], [52.48067,15.15006], [52.51672,15.16894], [52.51046,15.23349]], "type": "bicycle"}]
+coords_file:            "2019-06-01-przez-lubuskie-wioski-do-lubniewic.json"
+coords_type:            "bicycle"
 distance:               48
 time_spent:             6
 elevation:              320

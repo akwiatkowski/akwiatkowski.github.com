@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [warminsko_mazurskie, kujawsko_pomorskie, ilawa, biskupiec_nowomiejski, zbiczno, bobrowo, jablonowo_pomorskie, ksiazki]
 
 coords:                 [{"route": [[53.60472,19.60059], [53.62529,19.58788], [53.60432,19.55853], [53.59736,19.55424], [53.56388,19.50068], [53.54369,19.50351], [53.50379,19.39485], [53.47846,19.37099], [53.46314,19.38266], [53.43676,19.34387], [53.41323,19.33872], [53.38519,19.37871], [53.35395,19.38867], [53.33345,19.37511], [53.32761,19.31726], [53.34288,19.30129], [53.33366,19.25941], [53.35037,19.22851], [53.34227,19.19984], [53.31777,19.18525], [53.32997,19.06732]], "type": "bicycle"}]
+coords_file:            "2019-04-30-zolte-pola-w-okolicy-ilawy.json"
+coords_type:            "bicycle"
 distance:               78
 time_spent:             8
 elevation:              414

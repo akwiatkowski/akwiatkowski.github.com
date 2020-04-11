@@ -13,6 +13,8 @@ tags:                   [hike, todo]
 towns:                  [wielkopolskie, oborniki, rogozno]
 
 coords:                 [{"route": [[52.67932,16.85335], [52.70434,16.86519], [52.70595,16.86125]], "type": "hike"}]
+coords_file:            "2020-02-08-polaczenie-rzek-welny-i-flinty.json"
+coords_type:            "hike"
 distance:               6
 time_spent:             2
 elevation:              28

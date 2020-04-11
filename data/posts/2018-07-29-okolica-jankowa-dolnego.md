@@ -14,6 +14,8 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, gniezno]
 
 coords:                 [{"route": [[52.53368,17.72082], [52.53180,17.70040], [52.55064,17.69095], [52.54782,17.71679], [52.53289,17.71928]], "type": "hike"}]
+coords_file:            "2018-07-29-okolica-jankowa-dolnego.json"
+coords_type:            "hike"
 distance:               9
 time_spent:             4
 elevation:              82

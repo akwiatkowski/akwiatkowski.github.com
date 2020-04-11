@@ -15,6 +15,8 @@ towns:                  [wielkopolskie, lubuskie, miedzichowo, trzciel, pszczew]
 weather:                [hot, sand, storm, rain, summer]
 
 coords:                 [{"route": [[52.36986,15.88625], [52.37971,15.88848], [52.40449,15.85544], [52.41862,15.85063], [52.42705,15.82763], [52.45473,15.84290], [52.47225,15.80977], [52.48108,15.77579], [52.45844,15.77810], [52.42920,15.80334], [52.41506,15.80754], [52.40648,15.83115], [52.36839,15.86702], [52.36630,15.87741]], "type": "bicycle"}]
+coords_file:            "2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa.json"
+coords_type:            "bicycle"
 distance:               43
 time_spent:             7
 elevation:              314

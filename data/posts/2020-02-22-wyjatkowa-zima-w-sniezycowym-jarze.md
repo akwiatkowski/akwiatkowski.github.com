@@ -13,6 +13,8 @@ tags:                   [hike, todo]
 towns:                  [wielkopolskie, murowana_goslina]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2020-02-22-wyjatkowa-zima-w-sniezycowym-jarze.json"
+coords_type:            "hike"
 distance:               13 # 7 + 6
 time_spent:             4
 elevation:              111 #45 + 66

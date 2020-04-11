@@ -13,6 +13,8 @@ tags:                   [hike, main, town]
 towns:                  [lubuskie, wielkopolskie, trzciel, miedzichowo]
 
 coords:                 [{"route": [[52.35283,15.89045], [52.36488,15.89354], [52.36986,15.88625], [52.36635,15.87140], [52.36357,15.87372], [52.36645,15.87715]], "type": "hike"}]
+coords_file:            "2018-05-31-trzciel-miasto-kotow-i-starych-domow.json"
+coords_type:            "hike"
 distance:               9
 time_spent:             4
 elevation:              38

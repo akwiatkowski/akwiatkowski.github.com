@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [zachodnio_pomorskie, insko, wegorzyno]
 
 coords:                 [{"route": [[53.43594,15.54922], [53.43451,15.52003], [53.44790,15.47746], [53.45833,15.51694], [53.48877,15.48278], [53.51910,15.50201], [53.52451,15.49583], [53.51971,15.46648]], "type": "bicycle"}]
+coords_file:            "2019-08-25-zakamarki-inskiego-parku.json"
+coords_type:            "bicycle"
 distance:               25
 time_spent:             4
 elevation:              181

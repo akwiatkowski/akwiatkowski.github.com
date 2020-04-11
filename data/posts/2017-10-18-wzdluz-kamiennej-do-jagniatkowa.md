@@ -13,6 +13,8 @@ towns:                  [dolnoslaskie, szklarska_poreba, piechowice]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.83769,15.54049], [50.83278,15.54598], [50.82861,15.54323], [50.82750,15.54680], [50.83132,15.55787], [50.83476,15.56577], [50.82945,15.58542], [50.83194,15.58654]], "type": "hike"}]
+coords_file:            "2017-10-18-wzdluz-kamiennej-do-jagniatkowa.json"
+coords_type:            "hike"
 distance:               10
 time_spent:             4
 elevation:              255  

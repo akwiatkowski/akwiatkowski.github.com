@@ -14,6 +14,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, suchy_las, czerwonak, murowana_goslina]
 
 coords:                 [{"route": [[52.54094,16.95488], [52.54126,16.97239], [52.55691,16.97565], [52.57705,16.99419], [52.57037,17.03075], [52.58128,17.07530], [52.59103,17.09006], [52.61230,17.09049], [52.61902,17.11015]], "type": "bicycle"}]
+coords_file:            "2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018.json"
+coords_type:            "bicycle"
 distance:               33
 time_spent:             3
 elevation:              203

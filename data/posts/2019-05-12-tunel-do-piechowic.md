@@ -13,6 +13,8 @@ tags:                   [hike, main]
 towns:                  [dolnoslaskie, piechowice]
 
 coords:                 [{"route": [[50.83179,15.58658], [50.84762,15.57912], [50.85152,15.59165]], "type": "hike"}]
+coords_file:            "2019-05-12-tunel-do-piechowic.json"
+coords_type:            "hike"
 distance:               5
 time_spent:             3
 elevation:              2

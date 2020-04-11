@@ -12,6 +12,8 @@ tags:                   [train, main]
 towns:                  [kujawsko_pomorskie, wielkopolskie, bydgoszcz, biale_blota, szubin, sicienko, naklo_nad_notecia, kcynia, wapno, damaslawek, janowiec_wielkopolski, mieleszyn, gniezno, czerniejewo, wrzesnia]
 
 coords:                 [{"route": [[53.11687,17.95020], [53.09909,17.88625], [53.07321,17.82514], [53.07213,17.80343], [53.03839,17.78678], [53.00349,17.74523]], "type": "train"}, {"route": [[53.15188,17.88720], [53.15559,17.71416], [53.14869,17.62542], [53.13901,17.59263]], "type": "train"}, {"route": [[53.13767,17.58628], [53.07615,17.57495], [52.98427,17.49169], [52.94022,17.49049], [52.90773,17.47658], [52.84090,17.49804], [52.80740,17.48688], [52.75018,17.48740], [52.68457,17.50079], [52.60312,17.54267], [52.55221,17.61889], [52.53352,17.62662], [52.52569,17.58164], [52.51817,17.57409], [52.45242,17.56808], [52.32775,17.55572]], "type": "train"}]
+coords_file:            "2017-04-11-pociagiem-przez-paluki.json"
+coords_type:            "train"
 distance:               200
 time_spent:             8
 

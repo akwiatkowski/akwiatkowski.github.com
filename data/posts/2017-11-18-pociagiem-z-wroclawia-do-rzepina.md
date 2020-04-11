@@ -13,6 +13,8 @@ tags:                   [train]
 towns:                  [dolnoslaskie, lubuskie, wroclaw, miekinia, brzeg_dolny, wolow, winsko, scinawa, rudna, grebocice, glogow, zukowo, bytom_odrzanski, otyn, zielona_gora, czerwiensk, krosno_odrzanskie, bytnica, torzym, rzepin, lagow, lubrza, swiebodzin, szczaniec, zbaszynek, zbaszyn]
 
 coords:                 [{"route": [[51.11703,16.96477], [51.26571,16.72478], [51.37128,16.58505], [51.41134,16.41751], [51.50525,16.26816], [51.66908,16.07899], [51.73270,15.78683], [51.91477,15.62855], [52.01398,15.42153], [52.09716,15.24953], [52.35016,14.81694], [52.26409,15.17091], [52.26430,15.73876]], "type": "train"}]
+coords_file:            "2017-11-18-pociagiem-z-wroclawia-do-rzepina.json"
+coords_type:            "train"
 distance:               310
 time_spent:             5
 pois:

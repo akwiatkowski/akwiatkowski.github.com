@@ -15,6 +15,8 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, swarzedz, czerwonak]
 
 coords:                 [{"route": [[52.44570,17.07947], [52.46276,17.06883], [52.46453,17.01965]], "type": "hike"}]
+coords_file:            "2019-09-28-z-kobylnicy-do-kicina.json"
+coords_type:            "hike"
 distance:               7
 time_spent:             2
 elevation:              59

@@ -12,6 +12,8 @@ tags:                   [train, main]
 towns:                  [kujawsko_pomorskie, kruszwica, inowroclaw]
 
 coords:                 [{"route": [[52.67202,18.31608], [52.73277,18.27523], [52.76893,18.24364], [52.77869,18.20107], [52.78866,18.20107], [52.79613,18.23437], [52.80371,18.24313]], "type": "train"}]
+coords_file:            "2017-06-15-pociagiem-do-kruszwicy.gpx"
+coords_type:            "train"
 distance:               24
 time_spent:             3
 

@@ -13,6 +13,8 @@ towns:                  [malopolskie, grybow, ropa, uscie_gorlickie]
 lands:                  [beskid_niski]
 
 coords:                 [{"route": [[49.62510,20.95306], [49.60514,20.99435], [49.61370,21.00387], [49.60291,21.04224], [49.58556,21.04542], [49.57649,21.06850], [49.55238,21.07340], [49.53183,21.10610], [49.52175,21.13794], [49.50687,21.12953], [49.48602,21.15391], [49.46527,21.16103]], "type": "bicycle"}, {"route": [[49.57671,21.06807], [49.57136,21.09082], [49.56368,21.09434], [49.56018,21.08335]], "type": "bicycle"}]
+coords_file:            "2017-07-24-cieply-wilgotny-dojazd-do-hanczowej.json"
+coords_type:            "bicycle"
 distance:               42
 time_spent:             8
 elevation:              634

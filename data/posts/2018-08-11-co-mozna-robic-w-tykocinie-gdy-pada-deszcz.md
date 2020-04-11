@@ -14,6 +14,8 @@ tags:                   [bicycle, chillout, main]
 towns:                  [podlaskie, tykocin]
 
 coords:                 [{"route": [], "type": "bicycle"}]
+coords_file:            "2018-08-11-co-mozna-robic-w-tykocinie-gdy-pada-deszcz.json"
+coords_type:            "bicycle"
 distance:               14
 time_spent:             7
 elevation:              37

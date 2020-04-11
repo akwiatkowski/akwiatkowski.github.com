@@ -13,6 +13,8 @@ tags:                   [train, main]
 towns:                  [dolnoslaskie, opolskie, slaskie, lodzkie, wielkopolskie, wroclaw, siechnice, olawa, skarbimierz, brzeg, olszanka, lewin_brzeski, dabrowa_opolskie, komprachcice, opole, chrzastowice, ozimek, kolonowskie, dobrodzien, pawonkow, lubliniec, koszecin, kochanowice, herby, blachownia, czestochowa, redziny, klomnice, kruszyna, radomsko, dobryszyce, gomunice, kamiensk, gorzkowice, rozprza, piotrkow_trybunalski, moszczenica, czarnocin, bedkow, rokociny, koluszki, andrespol, lodz, ujazd, lubochnia, tomaszow_mazowiecki, inowlodz, pabianice, dobron, lask, zdunska_wola, sieradz, wroblew, blaszki, szczytniki, opatowek, kalisz, nowe_skalmierzyce, ostrow_wielkopolski, raszkow, pleszew, kotlin, jarocin, nowe_miasto_nad_warta, krzykosy, sroda_wielkopolska, kornik, poznan]
 
 coords:                 [{"route": [], "type": "train"}]
+coords_file:            "2018-08-27-dwa-dni-nostalgii-kolejowej.json"
+coords_type:            "train"
 distance:               726 # 334 + 392
 time_spent:             22 # 9 + 13
 elevation:              0

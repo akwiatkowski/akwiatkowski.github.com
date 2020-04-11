@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [podlaskie, tykocin, sokoly, lapy]
 
 coords:                 [{"route": [[53.20424,22.76637], [53.10141,22.73478], [53.10244,22.75281], [53.09543,22.77358], [53.05283,22.83246], [53.03756,22.84568], [53.03756,22.84568], [53.00194,22.82765], [52.98385,22.86593], [52.99078,22.88481]], "type": "bicycle"}]
+coords_file:            "2018-08-13-opuszczenie-podlasia.json"
+coords_type:            "bicycle"
 distance:               37
 time_spent:             4
 elevation:              171

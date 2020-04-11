@@ -13,6 +13,8 @@ tags:                   [bicycle, main]
 towns:                  [wielkopolskie, bojanowo, poniec, rydzyna, krzemieniewo, osieczna, krzywin, koscian]
 
 coords:                 [{"route": [[51.70090,16.74456], [51.72504,16.76275], [51.76931,16.80850], [51.79464,16.77357], [51.86185,16.73065], [51.88018,16.70259], [51.89385,16.72353], [51.90894,16.73091], [51.92027,16.76130], [51.93830,16.76722], [51.93552,16.72752], [51.97323,16.72610], [52.03088,16.70980], [52.03743,16.65632], [52.06904,16.62843], [52.07954,16.64173]], "type": "bicycle"}]
+coords_file:            "2018-03-25-z-bojanowa-do-kosciana.json"
+coords_type:            "bicycle"
 distance:               58
 time_spent:             4
 elevation:              167

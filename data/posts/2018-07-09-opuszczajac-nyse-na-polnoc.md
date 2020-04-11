@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [opolskie, nysa, pakoslawice, skoroszyce]
 
 coords:                 [{"route": [[50.46993,17.34436], [50.49931,17.33062], [50.54657,17.34676], [50.54319,17.37062], [50.56544,17.37989], [50.61568,17.38246], [50.61764,17.37817]], "type": "bicycle"}]
+coords_file:            "2018-07-09-opuszczajac-nyse-na-polnoc.json"
+coords_type:            "bicycle"
 distance:               22
 time_spent:             2
 elevation:              135

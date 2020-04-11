@@ -13,6 +13,8 @@ tags:                   [bicycle, panniers, main]
 towns:                  [warminsko_mazurskie, ilawa]
 
 coords:                 [{"route": [[53.60760,19.59750], [53.61549,19.62325], [53.60027,19.69294], [53.62583,19.70753], [53.64618,19.74392], [53.66216,19.73294]], "type": "bicycle"}]
+coords_file:            "2019-05-02-ucieczka-przed-zimnem.json"
+coords_type:            "bicycle"
 distance:               17
 time_spent:             2
 elevation:              60

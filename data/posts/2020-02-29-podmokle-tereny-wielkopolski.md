@@ -13,6 +13,8 @@ tags:                   [hike, car, todo]
 towns:                  [wielkopolskie, siedlec, kargowa, lwowek, kazmierz]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2020-02-29-podmokle-tereny-wielkopolski.json"
+coords_type:            "hike"
 distance:               15 # 8 + 4 + 3
 time_spent:             6 # 3 + 2 + 1
 elevation:              87 # 45 + 37 + 5
