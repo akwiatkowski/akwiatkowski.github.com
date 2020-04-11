@@ -7,14 +7,16 @@ class Map::Base
   def initialize(
     @blog : Tremolite::Blog,
     @tile = MapType::Ump,
-    @zoom = DEFAULT_ZOOM,
+    zoom = DEFAULT_ZOOM,
     @post_slugs : Array(String) = Array(String).new,
     @quant_size = DEFAULT_PHOTO_SIZE,
     # filter only photos in rectangle
     @coord_range : CoordRange? = nil,
     # enforce to render all routes points on map
     # by changing extreme coords
-    @do_not_crop_routes : Bool = false
+    @do_not_crop_routes : Bool = false,
+    # try to select best zoom
+    @autozoom : Bool = false,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -117,12 +119,25 @@ class Map::Base
     @logger.info("#{self.class}: #{@towns.size} towns")
 
     # tiles will be first initial
+
+    ideal = TilesLayer.ideal_zoom(
+      CoordRange.new(
+        lat_from: @lat_min,
+        lat_to: @lat_max,
+        lon_from: @lon_min,
+        lon_to: @lon_max
+      )
+    )
+
+    puts ideal.inspect
+    sleep 1
+
     @tiles_layer = TilesLayer.new(
       lat_min: @lat_min,
       lat_max: @lat_max,
       lon_min: @lon_min,
       lon_max: @lon_max,
-      zoom: @zoom,
+      zoom: zoom,
       logger: @logger,
     )
 

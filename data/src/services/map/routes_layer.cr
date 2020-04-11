@@ -12,9 +12,9 @@ class Map::RoutesLayer
 
       @posts.each do |post|
         if post.coords
-          if post.coords.not_nil!.size > 0
+          if post.detailed_routes.size > 0
             # post can have multiple route objects
-            post.coords.not_nil!.each do |route_object|
+            post.detailed_routes.each do |route_object|
               # append
               s << "<!-- #{post.slug} -->\n"
               s << convert_route_object_to_array_of_svg_lines(route_object)
@@ -39,7 +39,7 @@ class Map::RoutesLayer
       if allowed_types.keys.includes?(route_object.type)
         # color is determined by type
         color_svg_for_route_object = allowed_types[route_object.type]
-        geo_coords = route_object.route.as(Array(Array(Float64)))
+        geo_coords = route_object.route.as(SingleRouteObject)
 
         # render only if there 2 or more
         if geo_coords.size >= 2

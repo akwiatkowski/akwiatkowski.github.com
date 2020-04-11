@@ -95,6 +95,10 @@ class Map::TilesLayer
     return r
   end
 
+  def diagonal
+    return Math.sqrt(@map_height ** 2 + @map_width ** 2).to_i
+  end
+
   def tile_numbers_from_geo_coords(lat_deg, lon_deg, zoom = @zoom) : Tuple(Int32, Int32)
     x, y = tile_coords_from_geo_coords(lat_deg, lon_deg, zoom)
     return x.to_i, y.to_i
@@ -127,6 +131,43 @@ class Map::TilesLayer
     y = ((1.0 - Math.log(Math.tan(lat_rad) + (1 / Math.cos(lat_rad))) / Math::PI) / 2.0 * n)
 
     return x, y
+  end
+
+  def self.ideal_zoom(
+    coord_range : CoordRange,
+    min_diagonal : Int32 = 300,
+    max_diagonal : Int32 = 5000,
+  ) : Int32?
+    h = diagonal_for_zoom(coord_range)
+    h.keys.sort.reverse.each do |zoom|
+      diagonal = h[zoom]
+      return zoom if diagonal >= min_diagonal && diagonal <= max_diagonal
+    end
+
+    return nil
+  end
+
+  def self.diagonal_for_zoom(coord_range : CoordRange)
+    VALID_ZOOMS.map do |zoom|
+      tile_from_x, time_from_y = tile_coords_from_geo_coords(
+        lat_deg: coord_range.lat_from,
+        lon_deg: coord_range.lon_from,
+        zoom: zoom
+      )
+
+      tile_to_x, time_to_y = tile_coords_from_geo_coords(
+        lat_deg: coord_range.lat_to,
+        lon_deg: coord_range.lon_to,
+        zoom: zoom
+      )
+
+      diagonal = Math.sqrt(
+        (tile_from_x - tile_to_x) ** 2 +
+        (time_from_y - time_to_y) ** 2
+      ) * TILE_WIDTH.to_f
+
+      [zoom, diagonal.to_i]
+    end.to_h
   end
 
   def geo_coords_from_tile_number(tile_x, tile_y, zoom = @zoom) : Tuple(Float64, Float64)
