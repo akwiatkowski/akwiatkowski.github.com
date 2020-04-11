@@ -34,7 +34,7 @@ class PayloadJsonGenerator < Tremolite::Views::AbstractView
                 json.field("small_image_url", post.small_image_url)
 
                 json.field "coords" do
-                  json.raw post.coords.to_json
+                  json.raw post.detailed_routes.to_json
                 end
                 json.field "tags" do
                   json.raw post.tags.to_json
