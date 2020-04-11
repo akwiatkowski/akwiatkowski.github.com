@@ -37,4 +37,12 @@ struct CoordRange
     return lat >= @lat_from && lat < @lat_to &&
       lon >= @lon_from && lon < @lon_to
   end
+
+  def overlap_other(other : CoordRange)
+    # not sure if it's working
+    return false if self.lat_from < other.lat_to || other.lat_from > self.lat_to
+    return false if self.lon_from < other.lon_to || other.lon_from > self.lon_to
+
+    return true
+  end
 end

@@ -75,14 +75,23 @@ class Map::Base
     end
 
     # store here to speed up
-    @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
+    @posts = @blog.post_collection.posts.sort.as(Array(Tremolite::Post))
 
     # filter posts photos
     # routes are taken from this later
     if @post_slugs.size > 0
+      @logger.debug("#{self.class}: pre post_slug filter #{@posts.size}")
+
       @posts = @posts.select do |post|
         @post_slugs.includes?(post.slug)
       end
+
+      @logger.debug("#{self.class}: after post_slug filter #{@posts.size}")
+    end
+
+    # select only posts with routes/coords
+    @posts = @posts.select do |post|
+      post.detailed_routes.size > 0
     end
 
     # use post routes to change extreme ranges
@@ -128,9 +137,6 @@ class Map::Base
         lon_to: @lon_max
       )
     )
-
-    puts ideal.inspect
-    sleep 1
 
     @tiles_layer = TilesLayer.new(
       lat_min: @lat_min,

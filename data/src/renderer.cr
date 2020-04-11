@@ -166,74 +166,120 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
+    # render_photo_maps_debug_voivodeships
+    # return
+
     render_photo_maps_posts
     render_photo_maps_voivodeships
     render_photo_maps_global
   end
 
-  def render_photo_maps_voivodeships
-    # select posts in voivodeship
-    # and render mini-map (not so mini)
+  def render_photo_maps_debug_post
+    slug = "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy"
+    post = @blog.post_collection.posts.not_nil!.select do |post|
+      post.slug == slug
+    end.first
+
+    render_photo_map_for_post(post)
+    sleep 60
+  end
+
+  def render_photo_maps_debug_voivodeships
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      @logger.debug("#{self.class}: render_photo_maps_voivodeships #{voivodeship.slug}")
+      next unless voivodeship.slug == "pomorskie"
+      render_photo_map_for_voivodeship(voivodeship)
+      sleep 60
+    end
+  end
 
-      voivodeship_coord_range = CoordRange.new(voivodeship)
-
-      voivodeship_view = PhotoMapSvgView.new(
-        blog: @blog,
-        url: "/photo_map/#{voivodeship.slug}.svg",
-        zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
-        quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
-        coord_range: voivodeship_coord_range,
-      )
-      write_output(voivodeship_view)
-
-      voivodeship_small_view = PhotoMapSvgView.new(
-        blog: @blog,
-        url: "/photo_map/#{voivodeship.slug}_small.svg",
-        zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
-        quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
-        coord_range: voivodeship_coord_range,
-      )
-      write_output(voivodeship_small_view)
+  def render_photo_maps_voivodeships
+    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      render_photo_map_for_voivodeship(voivodeship)
     end
   end
 
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
       if post.self_propelled? && post.coords && post.coords.not_nil!.size > 0
-        # TODO refactor post coords into someting not ugly
-        if post.coords.not_nil![0].route.size > 0
-          @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug}")
+        render_photo_map_for_post(post)
+      end
+    end
+  end
 
-          # sometime I take photos from train and we want to have detailed
-          # route map (big zoom) so we must remove photos taken from non route
-          # places
-          coord_range = PostRouteObject.array_to_coord_range(
-            array: post.coords.not_nil!,
-                      # lets accept all types for now
-            # only_types: ["hike", "bicycle", "train", "car", "air"]
-)
-          begin
-            Map::DEFAULT_POST_ZOOMS.each do |zoom|
-              # let's ignore train for now and w/o coords
-              post_map_view = PhotoMapSvgView.new(
-                blog: @blog,
-                url: "/photo_map/post/#{zoom}/#{post.slug}.svg",
-                zoom: zoom,
-                quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-                post_slugs: [post.slug],
-                coord_range: coord_range,
-                do_not_crop_routes: true,
-              )
-              write_output(post_map_view)
-            end
-          rescue Map::NotEnoughPhotos
-            # ignore this
-          end
+  def render_photo_map_for_post(post : Tremolite::Post)
+    # TODO refactor post coords into someting not ugly
+    if post.coords.not_nil![0].route.size > 0
+      @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug}")
+
+      # sometime I take photos from train and we want to have detailed
+      # route map (big zoom) so we must remove photos taken from non route
+      # places
+      coord_range = PostRouteObject.array_to_coord_range(
+        array: post.coords.not_nil!,
+        # only_types: ["hike", "bicycle", "train", "car", "air"]
+        # lets accept all types for now
+      )
+
+      autozoom_value = Map::TilesLayer.ideal_zoom(
+        coord_range: coord_range.not_nil!,
+        min_diagonal: 600,
+        max_diagonal: 3000,
+      )
+
+      if autozoom_value
+        begin
+          post_map_view = PhotoMapSvgView.new(
+            blog: @blog,
+            url: "/photo_map/for_post/#{post.slug}.svg",
+            zoom: autozoom_value.not_nil!,
+            quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+            post_slugs: [post.slug],
+            coord_range: coord_range,
+            do_not_crop_routes: true,
+          )
+          write_output(post_map_view)
+        rescue Map::NotEnoughPhotos
+          # ignore this
         end
       end
     end
+  end
+
+  def render_photo_map_for_voivodeship(voivodeship : VoivodeshipEntity)
+    # select posts in voivodeship
+    # and render mini-map (not so mini)
+    @logger.debug("#{self.class}: render_photo_maps_voivodeships #{voivodeship.slug}")
+
+    # used for photos
+    # TODO maybe use similar for routes but it will require some work
+    voivodeship_coord_range = CoordRange.new(voivodeship)
+
+    # for now select post slugs assigned for that voivodeship
+    post_slugs = @blog.post_collection.posts.select do |post|
+      post.was_in_voivodeship(voivodeship)
+    end.map do |post|
+      post.slug
+    end
+
+    voivodeship_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/#{voivodeship.slug}.svg",
+      zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
+      quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
+      coord_range: voivodeship_coord_range,
+      post_slugs: post_slugs,
+    )
+    write_output(voivodeship_view)
+
+    voivodeship_small_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/#{voivodeship.slug}_small.svg",
+      zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
+      quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
+      coord_range: voivodeship_coord_range,
+      post_slugs: post_slugs,
+    )
+    write_output(voivodeship_small_view)
   end
 
   # global... lol, only Poland
@@ -268,10 +314,6 @@ class Tremolite::Renderer
       svg_url: overall_view.url
     )
     write_output(html_view)
-  end
-
-  def render_photo_map
-    render_photo_maps
   end
 
   def render_planner

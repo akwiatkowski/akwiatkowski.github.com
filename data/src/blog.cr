@@ -178,4 +178,13 @@ class Tremolite::Blog
     # maybe somewhere in future we can add if here
     renderer.render_fast_static_renders
   end
+
+  def routes_path
+    @routes_path ||= File.join(
+      [
+        @data_path.as(String),
+        "routes"
+      ]
+    )
+  end
 end

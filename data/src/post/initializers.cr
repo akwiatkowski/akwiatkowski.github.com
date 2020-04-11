@@ -1,6 +1,12 @@
 require "./../models/post_route_object"
 
 class Tremolite::Post
+  @coords_file : String?
+  @coords_type : String?
+  @detailed_routes : Array(PostRouteObject)?
+  @routes_coord_range : CoordRange?
+  @routes_coord_range_set : Bool?
+
   def custom_initialize
     header_image_defaults
 
@@ -95,6 +101,9 @@ class Tremolite::Post
 
   def coords_initialize
     @coords = Array(PostRouteObject).new
+    @coords_file = nil
+    @coords_type = nil
+    @routes_coord_range_set = false
   end
 
   def coords_from_headers
@@ -107,7 +116,53 @@ class Tremolite::Post
         @coords.not_nil! << ro
       end
     end
+
+    if @header["coords_file"]?
+      @coords_file = @header["coords_file"].to_s
+    end
+    if @header["coords_type"]?
+      @coords_type = @header["coords_type"].to_s
+    end
   end
+
+  def detailed_routes : Array(PostRouteObject)
+    if @coords_file && @coords_type
+      # detailed route file is specified
+      if @detailed_routes.nil?
+        # load it when not loaded yet
+        file_path = File.join(
+          [
+            @blog.routes_path,
+            @coords_file
+          ]
+        )
+
+        routes_array = Array(SingleRouteObject).from_json(File.open(file_path))
+
+        @detailed_routes = routes_array.map do |route|
+          PostRouteObject.new(
+            route: route,
+            type: @coords_type.not_nil! # bicycle, hike, train
+          )
+        end.as(Array(PostRouteObject))
+      end
+      return @detailed_routes.not_nil!
+    else
+      # not specified, using coords defined in post
+      return @coords.not_nil!
+    end
+  end
+
+  # XXX too much work and small profit
+  # def routes_coord_range : CoordRange?
+  #   unless @routes_coord_range_set
+  #     @routes_coord_range = PostRouteObject.array_to_coord_range(
+  #       array: detailed_routes
+  #     )
+  #     @routes_coord_range_set = true
+  #   end
+  #   return @routes_coord_range
+  # end
 
   def published_photos_entities_initialize
     @published_photo_entities = Array(PhotoEntity).new

@@ -1,18 +1,21 @@
 require "./coord_range"
 
+alias SingleRouteObject = Array(Array(Float64))
+
 struct PostRouteObject
   @type : String
-  @route : Array(Array(Float64))
+  @route : SingleRouteObject
 
   getter :type, :route
 
   JSON.mapping(
     type: String,
-    route: Array(Array(Float64)),
+    route: SingleRouteObject,
   )
 
-  def initialize(hash)
+  def initialize(hash : YAML::Any)
     @type = hash["type"].to_s
+
     @route = Array(Array(Float64)).new
 
     hash["route"].as_a.each do |coord|
@@ -20,6 +23,9 @@ struct PostRouteObject
         @route << [coord[0].to_s.to_f, coord[1].to_s.to_f]
       end
     end
+  end
+
+  def initialize(@type : String, @route : SingleRouteObject)
   end
 
   def to_coord_range : CoordRange?
@@ -36,10 +42,10 @@ struct PostRouteObject
       lon = ro[1].as(Float64)
 
       lat_from = [lat_from, lat].min
-      lat_to = [lat_from, lat].max
+      lat_to = [lat_to, lat].max
 
       lon_from = [lon_from, lon].min
-      lon_to = [lon_from, lon].max
+      lon_to = [lon_to, lon].max
     end
 
     return CoordRange.new(

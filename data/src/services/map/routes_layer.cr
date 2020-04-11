@@ -7,18 +7,19 @@ class Map::RoutesLayer
   end
 
   def render_svg
+    @logger.debug("#{self.class} #{@posts.size} @posts")
     return String.build do |s|
       s << "<g id='photo-map-routes' >\n"
 
       @posts.each do |post|
-        if post.coords
-          if post.detailed_routes.size > 0
-            # post can have multiple route objects
-            post.detailed_routes.each do |route_object|
-              # append
-              s << "<!-- #{post.slug} -->\n"
-              s << convert_route_object_to_array_of_svg_lines(route_object)
-            end
+        routes = post.detailed_routes
+        @logger.debug("#{self.class}: #{routes.size} routes in #{post.slug}")
+        if routes.size > 0
+          # post can have multiple route objects
+          post.detailed_routes.each do |route_object|
+            # append
+            s << "<!-- #{post.slug} -->\n"
+            s << convert_route_object_to_array_of_svg_lines(route_object)
           end
         end
       end

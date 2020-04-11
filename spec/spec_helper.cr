@@ -1,2 +1,4 @@
 require "spec"
-require "../src/odkrywajac_polske"
+
+require "../../crystal/tremolite/src/tremolite"
+require "../data/src/blog"
