@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.75076,15.70852], [50.74109,15.70642], [50.73615,15.73457], [50.73599,15.74010], [50.73927,15.72869], [50.73425,15.69740], [50.74120,15.70225], [50.74145,15.70607]], "type": "hike"}]
+coords_file:            "2013-11-30-pierwsze-wejscie-na-sniezke.json"
+coords_type:            "hike"
 distance:               11
 time_spent:             6
 ---

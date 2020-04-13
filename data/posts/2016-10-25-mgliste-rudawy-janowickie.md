@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [[50.86915,15.86542], [50.86295,15.87301], [50.85225,15.86915], [50.84856,15.86237], [50.84827,15.84907], [50.84726,15.84816]], "type": "hike"}]
+coords_file:            "2016-10-25-mgliste-rudawy-janowickie.json"
+coords_type:            "hike"
 distance:               16
 time_spent:             8
 

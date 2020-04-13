@@ -12,6 +12,8 @@ towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
 coords:                 [{"route": [[49.30016,19.96219], [49.29198,19.96528], [49.27748,19.98099], [49.27244,19.98107], [49.26735,19.97832], [49.25956,19.96665]], "type": "hike"}]
+coords_file:            "2016-07-18-dotarcie-do-zakopanego.json"
+coords_type:            "hike"
 distance:               6
 time_spent:             3
 

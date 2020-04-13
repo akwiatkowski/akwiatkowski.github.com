@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [[50.90229,15.75538], [50.89547,15.78465], [50.88781,15.79379], [50.88914,15.79860], [50.88608,15.80521], [50.87676,15.81392], [50.87067,15.82053], [50.87070,15.82705], [50.86842,15.83177], [50.86967,15.86954]], "type": "hike"}, {"route": [[50.85187,15.86778], [50.85016,15.85327], [50.85675,15.84499], [50.86850,15.83164]], "type": "hike"}]
+coords_file:            "2016-10-24-wejscie-na-sokolik.json"
+coords_type:            "hike"
 distance:               21
 time_spent:             8
 

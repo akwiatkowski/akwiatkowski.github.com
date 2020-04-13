@@ -12,6 +12,8 @@ tags:                   [photo, workshop, main, mountains]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74676,15.72722], [50.74915,15.71468], [50.75792,15.72271], [50.76853,15.72996]], "type": "hike"}]
+coords_file:            "2017-02-12-opuszczenie-bialej-krainy.json"
+coords_type:            "hike"
 distance:               9
 time_spent:             5
 

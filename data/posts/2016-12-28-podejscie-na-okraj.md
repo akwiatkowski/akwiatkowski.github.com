@@ -13,6 +13,8 @@ towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.76308,15.86734], [50.75852,15.85859], [50.74793,15.84614], [50.74804,15.83301], [50.74690,15.82340], [50.74366,15.81919], [50.74385,15.81597]], "type": "hike"}]
+coords_file:            "2016-12-28-podejscie-na-okraj.json"
+coords_type:            "hike"
 distance:               7
 time_spent:             3
 

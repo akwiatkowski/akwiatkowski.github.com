@@ -11,6 +11,8 @@ towns:                  [malopolskie, rytro, szczawnica]
 lands:                  [beskid_sadecki]
 
 coords:                 [{"route": [[49.46029,20.66721], [49.44562,20.64687], [49.43820,20.61057], [49.44897,20.60456], [49.45388,20.58164], [49.46537,20.57675], [49.46676,20.55495]], "type": "hike"}]
+coords_file:            "2015-07-13-z-kordowca-przez-radziejowa-do-przehyby.json"
+coords_type:            "bicycle"
 distance:               13
 time_spent:             5
 ---

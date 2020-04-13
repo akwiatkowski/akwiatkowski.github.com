@@ -11,6 +11,8 @@ tags:                   [photo]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2016-10-20-radojewo-i-okolice-warty.json"
+coords_type:            "hike"
 distance:               3
 time_spent:             1
 

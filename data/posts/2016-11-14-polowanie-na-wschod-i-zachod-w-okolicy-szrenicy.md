@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.81389,15.49615], [50.80712,15.49624], [50.79434,15.50156], [50.78973,15.51169], [50.77945,15.52435], [50.77936,15.53529], [50.77310,15.53581]], "type": "hike"}]
+coords_file:            "2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy.json"
+coords_type:            "hike"
 distance:               29
 time_spent:             14
 

@@ -12,6 +12,8 @@ towns:                  [dolnoslaskie, szklarska_poreba, stara_kamienica, jezow_
 lands:                  [gory_izerskie, gory_kaczawskie]
 
 coords:                 [{"route": [[50.82033,15.51883], [50.83881,15.52021], [50.85334,15.57076], [50.87073,15.52141], [50.88692,15.54844], [50.91593,15.57265], [50.94358,15.60080], [50.94458,15.68758], [50.96475,15.73779], [50.94171,15.79435], [50.90920,15.75023], [50.90265,15.75573]], "type": "bicycle"}]
+coords_file:            "2015-06-05-wokol-jeleniej-gory.json"
+coords_type:            "bicycle"
 distance:               55
 time_spent:             7
 ---

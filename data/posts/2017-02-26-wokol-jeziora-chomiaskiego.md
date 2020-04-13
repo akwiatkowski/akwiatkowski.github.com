@@ -12,6 +12,8 @@ tags:                   [relax, hike]
 towns:                  [kujawsko_pomorskie, gasawa]
 
 coords:                 [{"route": [[52.75181,17.84251], [52.76605,17.83719], [52.77742,17.82294], [52.77685,17.81608], [52.76433,17.82809], [52.75737,17.82595], [52.74537,17.83264], [52.74610,17.84063], [52.75213,17.84226]], "type": "hike"}]
+coords_file:            "2017-02-26-wokol-jeziora-chomiaskiego.json"
+coords_type:            "hike"
 distance:               16
 time_spent:             6
 

@@ -13,6 +13,8 @@ towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, pob
 lands:                  [puszcza_zielonka]
 
 coords:                 [{"route": [[52.51818,16.95646], [52.54032,16.95448], [52.54178,16.97835], [52.54450,16.99174], [52.53113,17.02212], [52.53526,17.05070], [52.52810,17.07182], [52.51572,17.13662], [52.49775,17.16065], [52.48490,17.15447], [52.47679,17.18606], [52.46712,17.17043]], "type": "bicycle"}, {"route": [[52.46707,17.17028], [52.41381,16.95673], [52.41381,16.91639], [52.40271,16.91210]], "type": "train"}]
+coords_file:            "2013-08-24-przez-puszcze-zielonke-do-biskupic.json"
+coords_type:            "bicycle"
 distance:               38
 time_spent:             3
 ---

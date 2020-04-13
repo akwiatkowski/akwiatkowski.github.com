@@ -12,6 +12,8 @@ tags:                   [photo, workshop, mountains, main]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74114,15.70645], [50.74980,15.71121], [50.74836,15.70387]], "type": "hike"}]
+coords_file:            "2017-02-10-poszukiwanie-pogody-obok-samotni.json"
+coords_type:            "hike"
 distance:               10
 time_spent:             6
 

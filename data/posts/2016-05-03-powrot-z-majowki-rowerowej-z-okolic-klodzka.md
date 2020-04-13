@@ -11,6 +11,9 @@ categories:             article
 tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, klodzko]
 lands:                  [kotlina_klodzka]
+
+coords_file:            "2016-05-03-powrot-z-majowki-rowerowej-z-okolic-klodzka.json"
+coords_type:            "bicycle"
 ---
 
 Wstęp

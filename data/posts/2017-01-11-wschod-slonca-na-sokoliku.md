@@ -13,6 +13,8 @@ towns:                  [dolnoslaskie, myslakowice]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2017-01-11-wschod-slonca-na-sokoliku.json"
+coords_type:            "hike"
 distance:               12
 time_spent:             7
 

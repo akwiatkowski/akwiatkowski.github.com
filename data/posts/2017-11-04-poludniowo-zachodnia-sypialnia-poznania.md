@@ -12,7 +12,7 @@ tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, komorniki, dopiewo, tarnowo_podgorne, rokietnica]
 
 coords:                 [{"route": [[52.39137,16.89047], [52.38242,16.87416], [52.37870,16.84652], [52.36895,16.84309], [52.36151,16.80859], [52.36402,16.80575], [52.35081,16.77614], [52.35737,16.75314], [52.36722,16.73649], [52.37953,16.74499], [52.38807,16.74499], [52.40049,16.71357], [52.40667,16.71889], [52.42410,16.71769], [52.43383,16.70104], [52.44859,16.72404], [52.46166,16.73486], [52.47745,16.76146], [52.47547,16.78953]], "type": "bicycle"}]
-coords_file:            "2017-11-04-poludniowo-zachodnia-sypialnia-poznania.gpx"
+coords_file:            "2017-11-04-poludniowo-zachodnia-sypialnia-poznania.json"
 coords_type:            "bicycle"
 distance:               48
 time_spent:             4

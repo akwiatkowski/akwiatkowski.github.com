@@ -11,6 +11,8 @@ tags:                   [main, photo, todo_media_later]
 towns:                  [zachodnio_pomorskie, swinoujscie]
 
 coords:                 [{"route": [[53.92244,14.25623], [53.92191,14.26854], [53.92451,14.27872], [53.92628,14.27730], [53.92214,14.27906]], "type": "hike"}]
+coords_file:            "2016-09-16-zdjecia-o-wschodzie-i-zachodzie-slonca-nad-baltykiem.json"
+coords_type:            "hike"
 distance:               12
 time_spent:             5
 
