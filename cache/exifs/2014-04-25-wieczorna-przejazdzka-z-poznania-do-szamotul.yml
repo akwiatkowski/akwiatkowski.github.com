@@ -27,3 +27,28 @@
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2014-04-25 18:15:20+02:00
+- image_filename: IMGP5486raw1.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2014-04-25 18:44:40+02:00
+- image_filename: IMGP5484raw1.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  lat: 52.576352222222226
+  lon: 16.649485
+  altitude: 80.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-04-25 18:15:37+02:00

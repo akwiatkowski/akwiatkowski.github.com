@@ -11,3 +11,33 @@
   exposure: 8.0
   exposure_string: 8 s
   time: 2016-10-04 07:10:33+02:00
+- image_filename: IMGP7253raw2.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 13.0
+  camera: PENTAX K-S2
+  exposure: 13.0
+  exposure_string: 13 s
+  time: 2016-10-04 07:17:18+02:00
+- image_filename: IMGP7311raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 11.0
+  camera: PENTAX K-S2
+  exposure: 4.0
+  exposure_string: 4 s
+  time: 2016-10-04 07:50:50+02:00
+- image_filename: IMGP7286raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  camera: PENTAX K-S2
+  exposure: 8.0
+  exposure_string: 8 s
+  time: 2016-10-04 07:34:36+02:00
