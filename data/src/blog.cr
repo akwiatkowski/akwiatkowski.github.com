@@ -189,7 +189,7 @@ class Tremolite::Blog
     @routes_path ||= File.join(
       [
         @data_path.as(String),
-        "routes"
+        "routes",
       ]
     )
   end

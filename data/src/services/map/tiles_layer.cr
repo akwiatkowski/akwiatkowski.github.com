@@ -136,7 +136,7 @@ class Map::TilesLayer
   def self.ideal_zoom(
     coord_range : CoordRange,
     min_diagonal : Int32 = 300,
-    max_diagonal : Int32 = 5000,
+    max_diagonal : Int32 = 5000
   ) : Int32?
     h = diagonal_for_zoom(coord_range)
     h.keys.sort.reverse.each do |zoom|

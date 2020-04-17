@@ -34,7 +34,7 @@ class ExifStatHelper
         if cell
           s += "<td>#{cell}</td>"
         else
-          s += "<td\>"
+          s += "<td>"
         end
       end
       s += "</tr>\n"

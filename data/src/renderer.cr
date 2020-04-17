@@ -220,9 +220,9 @@ class Tremolite::Renderer
       # places
       coord_range = PostRouteObject.array_to_coord_range(
         array: post.coords.not_nil!,
-        # only_types: ["hike", "bicycle", "train", "car", "air"]
+              # only_types: ["hike", "bicycle", "train", "car", "air"]
         # lets accept all types for now
-      )
+)
 
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
@@ -243,8 +243,9 @@ class Tremolite::Renderer
           )
           write_output(post_map_view)
           @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug} done")
-        # rescue Map::NotEnoughPhotos
+          # rescue Map::NotEnoughPhotos
           # ignore this
+
         end
       else
         @logger.warn("#{post.slug} - autozoom_value could not calculate")
@@ -331,7 +332,7 @@ class Tremolite::Renderer
     overall_view = PhotoMapSvgView.new(
       blog: @blog,
       url: "/photo_map/for_tag/cat.svg",
-      zoom: Map::DEFAULT_SMALL_ZOOM,
+      zoom: Map::DEFAULT_TAG_ZOOM,
       quant_size: Map::DEFAULT_TAG_PHOTO_SIZE,
       photo_entities: photo_entities,
       render_routes: false,

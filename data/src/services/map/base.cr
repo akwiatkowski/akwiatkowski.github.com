@@ -20,14 +20,14 @@ class Map::Base
     # if we need to show only selected photos
     @photo_entities : Array(PhotoEntity)? = nil,
     # selective rendering
-    @render_routes : Bool = true,
+    @render_routes : Bool = true
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
 
     @internal_coord_range = CoordRange.new
 
-    ### PHOTOS
+    # ## PHOTOS
 
     if @photo_entities
       all_photos = @photo_entities.not_nil!
@@ -61,7 +61,7 @@ class Map::Base
 
     @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
 
-    ### END OF PHOTOS FILTER
+    # ## END OF PHOTOS FILTER
 
     # set geo range using photos
     if @photos.size > 0
@@ -74,7 +74,7 @@ class Map::Base
       @logger.info("#{self.class}: area from photos #{@internal_coord_range.to_s}")
     end
 
-    ### POSTS (for routes)
+    # ## POSTS (for routes)
 
     posts = @blog.post_collection.posts.sort.as(Array(Tremolite::Post))
 
@@ -97,7 +97,7 @@ class Map::Base
 
     # enlarge coord range
     if @posts.size > 0
-      array = @posts.map {|post| post.detailed_routes }.flatten.compact
+      array = @posts.map { |post| post.detailed_routes }.flatten.compact
       array = [array] if array.is_a?(PostRouteObject)
       routes_coord_range = PostRouteObject.array_to_coord_range(
         array: array
@@ -118,7 +118,7 @@ class Map::Base
       end
     end
 
-    ### END OF POSTS
+    # ## END OF POSTS
 
     if @coord_range
       @internal_coord_range = @coord_range.not_nil!

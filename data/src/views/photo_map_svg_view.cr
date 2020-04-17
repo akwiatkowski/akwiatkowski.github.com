@@ -13,9 +13,8 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @append_towns = true,
     @do_not_crop_routes : Bool = false,
     @photo_entities : Array(PhotoEntity)? = nil,
-    @render_routes : Bool = true,
+    @render_routes : Bool = true
   )
-
     @map = Map::Base.new(
       blog: @blog,
       post_slugs: @post_slugs,

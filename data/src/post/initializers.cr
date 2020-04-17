@@ -133,7 +133,7 @@ class Tremolite::Post
         file_path = File.join(
           [
             @blog.routes_path,
-            @coords_file
+            @coords_file,
           ]
         )
 
