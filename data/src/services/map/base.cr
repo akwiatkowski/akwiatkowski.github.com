@@ -17,6 +17,10 @@ class Map::Base
     @do_not_crop_routes : Bool = false,
     # try to select best zoom
     @autozoom : Bool = false,
+    # if we need to show only selected photos
+    @photo_entities : Array(PhotoEntity)? = nil,
+    # selective rendering
+    @render_routes : Bool = true,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -25,7 +29,11 @@ class Map::Base
 
     ### PHOTOS
 
-    all_photos = @blog.data_manager.exif_db.all_flatten_photo_entities
+    if @photo_entities
+      all_photos = @photo_entities.not_nil!
+    else
+      all_photos = @blog.data_manager.exif_db.all_flatten_photo_entities
+    end
 
     # if list of post slugs were provided select only for this posts
     if @post_slugs.size > 0
@@ -103,17 +111,19 @@ class Map::Base
         # soon after start riding) we need to enlarge coord range to make
         # all route point visible on map
 
-        if !@internal_coord_range.valid?
+        if !@internal_coord_range.valid? || @do_not_crop_routes
           @internal_coord_range.enlarge!(routes_coord_range)
           @logger.debug("#{self.class}: area from routes_coord_range #{@internal_coord_range.to_s}")
-        elsif @do_not_crop_routes
-          @internal_coord_range.enlarge!(routes_coord_range)
-          @logger.debug("#{self.class}: enlarge from routes_coord_range #{@internal_coord_range.to_s}")
         end
       end
     end
 
     ### END OF POSTS
+
+    if @coord_range
+      @internal_coord_range = @coord_range.not_nil!
+      @logger.debug("#{self.class}: coord_range was provided")
+    end
 
     @logger.info("#{self.class}: area #{@internal_coord_range.to_s}")
 
@@ -153,7 +163,7 @@ class Map::Base
     svg_content = String.build do |s|
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
-      s << @routes_layer.render_svg
+      s << @routes_layer.render_svg if @render_routes
       @logger.debug("#{self.class}: svg content done")
     end
 

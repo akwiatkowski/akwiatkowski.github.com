@@ -79,7 +79,7 @@ struct CoordRange
     if @lon_from_set
       @lon_from = [lon, @lon_from].min
     else
-      @lon_from = lat
+      @lon_from = lon
       @lon_from_set = true
     end
 

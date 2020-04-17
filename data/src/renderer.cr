@@ -166,16 +166,18 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    # render_photo_maps_debug_voivodeships
+    # render_photo_maps_debug_post
+    # render_photo_maps_debug_voivodeship
     # return
 
+    render_photo_maps_for_tagged_photos
     render_photo_maps_voivodeships
     render_photo_maps_posts
     render_photo_maps_global
   end
 
   def render_photo_maps_debug_post
-    slug = "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy"
+    slug = "2016-05-21-z-przysieczyna-obok-wagrowca-do-pily"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
     end.first
@@ -185,9 +187,9 @@ class Tremolite::Renderer
     sleep 5
   end
 
-  def render_photo_maps_debug_voivodeships
+  def render_photo_maps_debug_voivodeship
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      next unless voivodeship.slug == "pomorskie"
+      next unless voivodeship.slug == "wielkopolskie"
       render_photo_map_for_voivodeship(voivodeship)
       puts "SLEEPING"
       sleep 5
@@ -319,6 +321,22 @@ class Tremolite::Renderer
       svg_url: overall_view.url
     )
     write_output(html_view)
+  end
+
+  def render_photo_maps_for_tagged_photos
+    photo_entities = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
+      photo_entity.tags.includes?("cat")
+    end
+
+    overall_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: "/photo_map/for_tag/cat.svg",
+      zoom: Map::DEFAULT_SMALL_ZOOM,
+      quant_size: Map::DEFAULT_TAG_PHOTO_SIZE,
+      photo_entities: photo_entities,
+      render_routes: false,
+    )
+    write_output(overall_view)
   end
 
   def render_planner
