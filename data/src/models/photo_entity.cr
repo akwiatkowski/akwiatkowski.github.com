@@ -143,6 +143,14 @@ struct PhotoEntity
     )
   end
 
+  def <=>(other : PhotoEntity)
+    if other.exif && self.exif && other.exif.time && self.exif.time
+      return self.exif.time.not_nil! <=> other.exif.time.not_nil!
+    else
+      return self.image_filename <=> other.image_filename
+    end
+  end
+
   private def generate_full_image_src
     "/images/#{@post_time.year.as(Int32)}/#{@post_slug}/#{@image_filename}"
   end

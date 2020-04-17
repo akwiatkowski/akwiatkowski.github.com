@@ -21,7 +21,10 @@ class Map::Base
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
 
-    # select only photos with lat/lon
+    @internal_coord_range = CoordRange.new
+
+    ### PHOTOS
+
     all_photos = @blog.data_manager.exif_db.all_flatten_photo_entities
 
     # if list of post slugs were provided select only for this posts
@@ -31,10 +34,12 @@ class Map::Base
       end
     end
 
+    # select only with geo coords
     photos_w_coords = all_photos.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
 
+    # select only photos which are within @coord_range
     if @coord_range
       photos_w_coords = photos_w_coords.select do |photo_entity|
         @coord_range.not_nil!.is_within?(
@@ -44,81 +49,73 @@ class Map::Base
       end
     end
 
-    # end of filtering
     @photos = photos_w_coords.as(Array(PhotoEntity))
 
     @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
 
-    # if not enouh photos
-    if @photos.size <= 2
-      @logger.warn("#{self.class}: not enough photos")
-      raise NotEnoughPhotos.new
+    ### END OF PHOTOS FILTER
+
+    # set geo range using photos
+    if @photos.size > 0
+      @photos.each do |photo|
+        lat = photo.exif.not_nil!.lat.not_nil!
+        lon = photo.exif.not_nil!.lon.not_nil!
+        @internal_coord_range.enlarge!(lat, lon)
+      end
+
+      @logger.info("#{self.class}: area from photos #{@internal_coord_range.to_s}")
     end
 
-    # assign at this moment to have not nil value
-    @lat_min = @photos.first.exif.not_nil!.lat.not_nil!.as(Float64)
-    @lat_max = @lat_min.as(Float64)
+    ### POSTS (for routes)
 
-    @lon_min = @photos.first.exif.not_nil!.lon.not_nil!.as(Float64)
-    @lon_max = @lon_min.as(Float64)
-
-    # @lat_min, @lat_max are sorted
-    @photos.each do |photo|
-      lat = photo.exif.not_nil!.lat.not_nil!
-      lon = photo.exif.not_nil!.lon.not_nil!
-
-      @lat_min = lat if lat < @lat_min
-      @lon_min = lon if lon < @lon_min
-
-      @lat_max = lat if lat > @lat_max
-      @lon_max = lon if lon > @lon_max
-    end
-
-    # store here to speed up
-    @posts = @blog.post_collection.posts.sort.as(Array(Tremolite::Post))
+    posts = @blog.post_collection.posts.sort.as(Array(Tremolite::Post))
 
     # filter posts photos
     # routes are taken from this later
     if @post_slugs.size > 0
-      @logger.debug("#{self.class}: pre post_slug filter #{@posts.size}")
+      @logger.debug("#{self.class}: pre post_slug filter #{posts.size}")
 
-      @posts = @posts.select do |post|
+      posts = posts.select do |post|
         @post_slugs.includes?(post.slug)
       end
 
-      @logger.debug("#{self.class}: after post_slug filter #{@posts.size}")
+      @logger.debug("#{self.class}: after post_slug filter #{posts.size}")
     end
 
     # select only posts with routes/coords
-    @posts = @posts.select do |post|
+    @posts = posts.select do |post|
       post.detailed_routes.size > 0
-    end
+    end.as(Array(Tremolite::Post))
 
-    # use post routes to change extreme ranges
-    if @posts.size > 0 && @do_not_crop_routes
-      coord_ranges = @posts.map do |post|
-        PostRouteObject.array_to_coord_range(
-          array: post.coords.not_nil!,
-                  # lets accept all types for now
-          # only_types: ["hike", "bicycle", "train", "car", "air"]
-)
-      end.compact
+    # enlarge coord range
+    if @posts.size > 0
+      array = @posts.map {|post| post.detailed_routes }.flatten.compact
+      array = [array] if array.is_a?(PostRouteObject)
+      routes_coord_range = PostRouteObject.array_to_coord_range(
+        array: array
+      )
 
-      # uglier sum, but don't want to define CoordRange.zero
-      coord_range = coord_ranges.first
-      (1...coord_ranges.size).each do |i|
-        coord_range += coord_ranges[i]
+      if routes_coord_range
+        @logger.debug("#{self.class}: routes_coord_range #{routes_coord_range}")
+
+        routes_coord_range = routes_coord_range.not_nil!
+        # when we don't have photos near edges of route (I haven't took photo
+        # soon after start riding) we need to enlarge coord range to make
+        # all route point visible on map
+
+        if !@internal_coord_range.valid?
+          @internal_coord_range.enlarge!(routes_coord_range)
+          @logger.debug("#{self.class}: area from routes_coord_range #{@internal_coord_range.to_s}")
+        elsif @do_not_crop_routes
+          @internal_coord_range.enlarge!(routes_coord_range)
+          @logger.debug("#{self.class}: enlarge from routes_coord_range #{@internal_coord_range.to_s}")
+        end
       end
-
-      # TODO refactor 4 variables into CoordRange
-      @lat_min = coord_range.lat_from if coord_range.lat_from < @lat_min
-      @lon_min = coord_range.lon_from if coord_range.lon_from < @lon_min
-
-      @lat_max = coord_range.lat_to if coord_range.lat_to > @lat_max
-      @lon_max = coord_range.lon_to if coord_range.lon_to > @lon_max
     end
 
-    @logger.info("#{self.class}: area #{@lat_min}-#{@lat_max},#{@lon_min}-#{@lon_max}")
+    ### END OF POSTS
+
+    @logger.info("#{self.class}: area #{@internal_coord_range.to_s}")
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
@@ -129,20 +126,11 @@ class Map::Base
 
     # tiles will be first initial
 
-    ideal = TilesLayer.ideal_zoom(
-      CoordRange.new(
-        lat_from: @lat_min,
-        lat_to: @lat_max,
-        lon_from: @lon_min,
-        lon_to: @lon_max
-      )
-    )
-
     @tiles_layer = TilesLayer.new(
-      lat_min: @lat_min,
-      lat_max: @lat_max,
-      lon_min: @lon_min,
-      lon_max: @lon_max,
+      lat_min: @internal_coord_range.lat_from,
+      lat_max: @internal_coord_range.lat_to,
+      lon_min: @internal_coord_range.lon_from,
+      lon_max: @internal_coord_range.lon_to,
       zoom: zoom,
       logger: @logger,
     )
@@ -166,6 +154,7 @@ class Map::Base
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
       s << @routes_layer.render_svg
+      @logger.debug("#{self.class}: svg content done")
     end
 
     return String.build do |s|
@@ -175,6 +164,7 @@ class Map::Base
       # first we need render all to know about padding
       s << svg_content
       s << "</svg>\n"
+      @logger.debug("#{self.class}: svg done")
     end
   end
 end

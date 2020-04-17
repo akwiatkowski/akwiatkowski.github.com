@@ -41,6 +41,7 @@ class Tremolite::Blog
 
     post_slugs_to_update_photos = changes_summary[Tremolite::ModWatcher::KEY_PHOTO_FILES].map do |photo_path|
       scan = photo_path.scan(/(\d{4}-\d{2}-\d{2}[^\/]+)/)
+      next if scan.size == 0 || scan[0].size == 0
       # first (0) mached and first (1) group
       scan[0][1].to_s
     end.uniq
@@ -134,6 +135,11 @@ class Tremolite::Blog
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
     post_to_render_galleries.each do |post|
+      @logger.debug("#{self.class}: resize_all_images_for_post")
+      @image_resizer.not_nil!.resize_all_images_for_post(
+        post: post,
+        overwrite: false
+      )
       @logger.debug("#{self.class}: preparing content #{post.slug}")
       data_manager.exif_db.initialize_post_photos_exif(post)
       @logger.debug("#{self.class}: rendering #{post.slug}")

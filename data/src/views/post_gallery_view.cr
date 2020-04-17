@@ -68,7 +68,7 @@ class PostGalleryView < BaseView
     pl = load_html("post/pager_post", pd)
     data["post_pager"] = pl
 
-    photo_entities = @post.all_photo_entities_unsorted
+    photo_entities = @post.all_photo_entities_sorted
     data["photos.count"] = photo_entities.size.to_s
 
     s = ""

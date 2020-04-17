@@ -169,8 +169,8 @@ class Tremolite::Renderer
     # render_photo_maps_debug_voivodeships
     # return
 
-    render_photo_maps_posts
     render_photo_maps_voivodeships
+    render_photo_maps_posts
     render_photo_maps_global
   end
 
@@ -181,14 +181,16 @@ class Tremolite::Renderer
     end.first
 
     render_photo_map_for_post(post)
-    sleep 60
+    puts "SLEEPING"
+    sleep 5
   end
 
   def render_photo_maps_debug_voivodeships
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
       next unless voivodeship.slug == "pomorskie"
       render_photo_map_for_voivodeship(voivodeship)
-      sleep 60
+      puts "SLEEPING"
+      sleep 5
     end
   end
 
@@ -238,9 +240,12 @@ class Tremolite::Renderer
             do_not_crop_routes: true,
           )
           write_output(post_map_view)
-        rescue Map::NotEnoughPhotos
+          @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug} done")
+        # rescue Map::NotEnoughPhotos
           # ignore this
         end
+      else
+        @logger.warn("#{post.slug} - autozoom_value could not calculate")
       end
     end
   end

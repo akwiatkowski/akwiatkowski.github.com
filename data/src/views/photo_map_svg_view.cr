@@ -13,6 +13,15 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @append_towns = true,
     @do_not_crop_routes : Bool = false
   )
+
+    @map = Map::Base.new(
+      blog: @blog,
+      post_slugs: @post_slugs,
+      quant_size: @quant_size.not_nil!,
+      coord_range: @coord_range,
+      zoom: @zoom,
+      do_not_crop_routes: @do_not_crop_routes,
+    )
   end
 
   getter :url
@@ -22,26 +31,6 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
   end
 
   def to_svg
-    # TODO check if it's possible to compact method params
-    if @quant_size
-      m = Map::Base.new(
-        blog: @blog,
-        post_slugs: @post_slugs,
-        quant_size: @quant_size.not_nil!,
-        coord_range: @coord_range,
-        zoom: @zoom,
-        do_not_crop_routes: @do_not_crop_routes,
-      )
-    else
-      m = Map::Base.new(
-        blog: @blog,
-        post_slugs: @post_slugs,
-        coord_range: @coord_range,
-        zoom: @zoom,
-        do_not_crop_routes: @do_not_crop_routes,
-      )
-    end
-
-    return m.to_svg
+    return @map.to_svg
   end
 end

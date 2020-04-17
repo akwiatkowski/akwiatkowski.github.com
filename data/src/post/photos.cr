@@ -62,7 +62,11 @@ class Tremolite::Post
   end
 
   def all_photo_entities_unsorted : Array(PhotoEntity)
-    published_photo_entities + uploaded_photo_entities
+    return (published_photo_entities + uploaded_photo_entities).uniq
+  end
+
+  def all_photo_entities_sorted : Array(PhotoEntity)
+    return all_photo_entities_unsorted.sort
   end
 
   # XXX refactor

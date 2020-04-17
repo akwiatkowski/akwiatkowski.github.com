@@ -25,6 +25,7 @@ class Map::RoutesLayer
       end
 
       s << "</g>"
+      @logger.debug("#{self.class}: svg done")
     end
   end
 

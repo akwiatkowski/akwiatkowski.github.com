@@ -72,17 +72,18 @@ struct PostRouteObject
     # if empty return nil
     return nil if filtered_array.size == 0
 
-    coord_range = filtered_array[0].to_coord_range
+    # blank one
+    coord_range = CoordRange.new
 
     filtered_array.each do |pro|
       # operator override
       new_coord_range = pro.to_coord_range
 
-      if new_coord_range.nil?
-        coord_range += new_coord_range.not_nil!
+      if new_coord_range.is_a?(CoordRange)
+        coord_range += new_coord_range.as(CoordRange)
       end
     end
 
-    return coord_range
+    return coord_range.as(CoordRange)
   end
 end

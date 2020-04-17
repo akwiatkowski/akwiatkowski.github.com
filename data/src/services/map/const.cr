@@ -1,5 +1,5 @@
 module Map
-  class NotEnoughPhotos < Exception
+  class DataError < Exception
   end
 
   enum MapType
