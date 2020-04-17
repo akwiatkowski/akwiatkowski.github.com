@@ -4,7 +4,6 @@ title:                  "Powrót do Głuszycy"
 subtitle:               "koniec przygody z Górami Sowimi"
 date:                   2014-01-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/57453366/m%3D2048/35b8b3d3cc6ea1fe7a1bdeac11d2a378"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]

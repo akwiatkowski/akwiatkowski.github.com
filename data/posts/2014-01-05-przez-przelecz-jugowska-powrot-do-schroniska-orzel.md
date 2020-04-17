@@ -4,7 +4,6 @@ title:                  "Powrót przez Przełęcz Jugowską do Schroniska Orzeł
 subtitle:               "depresyjne jesienne sudeckie wioski"
 date:                   2014-01-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/61532277/m%3D2048/194c5c96793ed4ec82b3dc0c3dd4bc7a"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]

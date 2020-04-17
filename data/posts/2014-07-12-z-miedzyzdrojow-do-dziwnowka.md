@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, coast, panniers, todo_media_later]
+tags:                   [main, bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
 lands:                  [wybrzeze_trzebiatowskie]
 
@@ -40,27 +40,30 @@ Opis trasy
 Szczegóły
 ---------
 
+{% photo "IMGP7842raw1.jpg","Noteć przy Drawskim Młynie","timeline" %}
+
 Jechaliśmy pociągiem do [Międzyzdroi][wiki-miedzyzdroje] około 6 rano, a na miejscu wysiedliśmy
 (po przepakowaniu się) około 12-tej. Touring na 100% - razem z namiotami. Tylko kuchenki by brakowało.
+
+{% photo "IMGP7879raw1.jpg","Okolica stacji Słonice","timeline" %}
 
 Pojechaliśmy do centrum coś zjeść, a następnie na wschód. Lizneliśmy
 [Wolimski Park Narodowy][wiki-park-wolimski]. Przyznam, że szlak ten mnie nie zachwycił.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/103762175' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP7894raw1.jpg","Wjazd do Szczecina" %}
 
 Dalej jechaliśmy przez wioski i lekkie lasy, czasem pola. To jest najlepszy opis
 jaki potrafię wymyśleć.
+
+{% photo "IMGP7937raw1.jpg","Łąka" %}
+
 Podobała mi się drogą przed [Kołczewem][wiki-kolczewo] oraz pole w okolicy
 [Jeziora Koprowo][wiki-j-koprowo].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/145390331/m%3D900/26eb605a7cb49c3cf75180e70c336def' alt='Balic Sea at Międzywodzie by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/145390331/balic-sea-at-mi%C4%99dzywodzie-by-aleksander-kwiatkowski' alt='Balic Sea at Międzywodzie by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7966raw1.jpg","Lewieńska Struga" %}
 
 Nocleg mieliśmy na polu namiotowym w [Dziwnówki][wiki-dziwnowek]. Nie było tanie,
 ale mieli bardzo dobre łazienki. Podobało mi się gdy w nocy wiał silny wiatr, który
 wszystko zagłuszał. Reszta wniosków będzie opisana ostatniego dnia.
+
+{% photo "IMGP7970raw1.jpg","Okolice Międzywodzia" %}

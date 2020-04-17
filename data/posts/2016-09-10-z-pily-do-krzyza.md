@@ -5,7 +5,6 @@ subtitle:               "szlakiem R1, głownie przez tereny lesiste"
 date:                   2016-09-10 18:00:00
 finished_at:            2016-09-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/172235283/q%3D80_m%3D2000/122dd7657020136b9660dc61256b9bc4"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, pila, szydlowo, trzcianka, czarnkow, wielen, krzyz_wielkopolski]
@@ -102,15 +101,6 @@ Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
 w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
 
 {% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy","timeline" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/172234947/m%3D900/3d67378a682417b6b7f9485e0c5bc0a7' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/172234947/leaving-%C5%81omnica-river-valley-by-aleksander-kwiatkowski' alt='Leaving Łomnica river valley by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
 W [Łomnicy][wiki-lomnica] skręciłem na zachód. Oczywiście cały czas jechałem
 tym samym szlakiem - [R1][wiki-r1]. Podobały mi się domy po obu stronach drogi,

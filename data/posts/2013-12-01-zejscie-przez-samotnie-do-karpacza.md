@@ -4,9 +4,8 @@ title:                  "Zejście przez Samotnię do Karpacza"
 subtitle:               "na górze śnieg, w dolinie niby jesień"
 date:                   2013-12-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/55424230/m%3D2048/705382a9e829d4acef600fded6a8235c"
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, karpacz, marciszow]
 lands:                  [karkonosze, rudawy_janowickie]
 
@@ -47,50 +46,38 @@ Wyruszyliśmy tak wcześnie, jak to się udało (po Andrzejkach), czyli po 9-tej
 Zeszliśmy do [Samotni][wiki-samotnia], która jest całkiem blisko od [Strzechy Akademickiej][wiki-strzecha].
 Tam zjedliśmy śniadanie i dalej w drogę. Subiektywnie jedzenie w [Samotni][wiki-samotnia] jest lepsze.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/55948982/m%3D900/16a98cf5264e772fdb3323281c062822' alt='Trail to Samotnia by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/55948982/trail-to-samotnia-by-aleksander-kwiatkowski' alt='Trail to Samotnia by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1437raw1.jpg","Schronisko Samotnia" %}
 
-Zaskoczył mnie ogrom ściany [Kocioła Małego Stawu][wiki-kociol]. Widzi się zdjęcia, przechodziło
+Zaskoczył mnie ogrom ściany [Kotła Małego Stawu][wiki-kociol]. Widzi się zdjęcia, przechodziło
 się obok szlakiem na górze, ale dopiero jak się na żywo stanie na dole to widać, jakie to jest duże.
 W końcu 200 metrów wysokości różnicy to 200 metrów - musi być duże.
+
+{% photo "IMGP1448raw1.jpg","Schronisko Samotnia" %}
 
 Zrobiłem kilka zdjęć, jednak wiem że nie udało mi się pokazać (i chyba się nie da)
 jakie to jest duże. Na pewno trzeba tu wrócić, tylko tym razem jak będzie zielono.
 Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo wycieczki byłem tylko w zimie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/54760416/m%3D900/6c4308d13b7111bf56564fa1e7668f77' alt='Samotnia, mountain hut by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/54760416/samotnia-mountain-hut-by-aleksander-kwiatkowski' alt='Samotnia, mountain hut by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1457raw1.jpg","Mały Staw obok Samotni" %}
 
 Dalsza część wycieczki była mniej interesująca. Schodziliśmy sobie po
 dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już koniec
 trasy - [Karpacz][wiki-karpacz].
+
+{% photo "IMGP1504raw1.jpg","Ośnieżony las" %}
 
 Z [Karpacza][wiki-karpacz] jechaliśmy dalej samochodem. Zaproponowałem, abyśmy przejechali
 przez [Rudawy Janowickie][wiki-rudawy] aby pokazać, że nie tylko [Karkonosze][wiki-karkonosze]
 tutaj są. Chciałem abyśmy przejechali południową drogą przez [Leszczyniec][wiki-leszczyniec],
 tylko źle skręciliśmy i przejechaliśmy przez [Karpniki][wiki-karpniki]
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/54760322/m%3D900/3d7b81d7ead50cce5bdd02cf25e3f23e' alt='Hillside near Marciszów by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/54760322/hillside-near-marcisz%C3%B3w-by-aleksander-kwiatkowski' alt='Hillside near Marciszów by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1558raw1.jpg","Ośnieżony Karpacz" %}
 
 Wysiadłem w [Marciszowie][wiki-marciszow], gdyż jest to największa stacja kolejowa w okolicy.
 Trochę pochodziłem, jednak za wiele zdjęć nie zrobiłem - nie było śniegu, raczej nudne,
 późnojesienne barwy.
+
+{% photo "IMGP1627raw1.jpg","Bezśnieżne okolice Marciszowa" %}
 
 Wnioski
 -------

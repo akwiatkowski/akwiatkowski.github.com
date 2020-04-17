@@ -5,7 +5,6 @@ subtitle:               "dlaczego szlak przebiega przez teren prywatny?"
 date:                   2016-09-19 18:00:00
 finished_at:            2016-09-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173702209/q%3D80_m%3D2000/a8db9f45feeaa66629a951bcb7c056fe"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [zachodnio_pomorskie, swinoujscie]
@@ -66,12 +65,10 @@ wróciliśmy do głównej drogi w [Karsiborze][wiki-karsibor].
 
 {% photo "IMGP6961raw1.jpg","Szukając żółtego szlaku rowerowego","timeline" %}
 
-
 Wjechaliśmy w Ostoję Ptaków Karsiborska Kępa, gdzie była remontowana
 wieża obserwacyjna. Tam zrobiliśmy chwilę przerwy.
 
 {% photo "IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach" %}
-
 
 Wróciliśmy aby kontynuować jazdę szlakiem, jednak nie znaleźliśmy nic co by wyglądało
 na sensowną drogą. Tam gdzie mógł być szlak umieszczono ostrzeżenie o terenie prywatnym.

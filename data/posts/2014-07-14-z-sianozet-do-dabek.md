@@ -6,7 +6,7 @@ date:                   2014-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6"
 categories:             trip
-tags:                   [main, bicycle, coast, panniers, todo_media_later]
+tags:                   [main, bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, ustronie_morskie, bedzino, mielno, sianow, darlowo]
 lands:                  [wybrzeze_slowinskie]
 
@@ -41,10 +41,12 @@ Dzień ten był chyba najmniej ciekawym, gdyż nie zapamiętałem nic naprawdę 
 Jedyne co mi się przypomniało, patrząc na filmik, to wioska przez którą przejeżdzaliśmy.
 Nie pamiętam która to była, ale była dość mała z brukowaną jezdnią.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/105007388' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8114raw1.jpg","Ujście Jamieński Nurt" %}
 
 Nawet nie zauważyłem niczego istotnego gdy przejeżdzaliśmy przez [Mielno][wiki-mielno], które
 niby jest polską Ibizą.
+
+{% photo "IMGP8156raw1.jpg","Budynek we wsi Rzepkowo" %}
 
 Większe miejscowości, które minęliśmy to:
 
@@ -53,10 +55,4 @@ Większe miejscowości, które minęliśmy to:
 * [Łazy][wiki-lazy]
 * [Bukowo Morskie][wiki-bukowo]
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/80117625/m%3D900/75f7c21469383551df0153d2b5aeb1f4' alt='Flame evening by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/80117625/flame-evening-by-aleksander-kwiatkowski' alt='Flame evening by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8190raw1.jpg","Zachód nad Bałtykiem" %}

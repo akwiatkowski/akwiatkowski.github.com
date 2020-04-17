@@ -4,9 +4,8 @@ title:                  "Z Dziwnówka do Sianożęt (Ustroni Morskich)"
 subtitle:               "drugi dzień przejażdzki na wybrzeżu, 80km i 11 godzin an rowerze"
 date:                   2014-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/79684929/m%3D2048/cae4ae6b4f76c7a355d500bb5d2c0cff"
 categories:             trip
-tags:                   [main, bicycle, coast, panniers, best, todo_media_later, photo_of_the_year]
+tags:                   [main, bicycle, coast, panniers, best, photo_of_the_year]
 towns:                  [zachodnio_pomorskie, dziwnow, rewal, trzebiatow, kolobrzeg, ustronie_morskie]
 lands:                  [wybrzeze_trzebiatowskie, wybrzeze_slowinskie]
 
@@ -45,18 +44,24 @@ Szczegóły
 Najgorszą wadą namiotów jest to, że trzeba je składać. Wyruszyliśmy w trasę chwilę
 po 9-tej. Musieliśmy wszystko poskładać i to trwało.
 
+{% photo "IMGP8011raw1.jpg","Plaża w Trzęsaczu" %}
+
 Do [Pobierowa][wiki-pobierowo] jechaliśmy głównie lasami, dalej musieliśmy jechać
 główną drogą przez standardowe polskie miasteczko wypoczynkowe na wybrzeżu.
 Brutalnie mówiąc - ogrom tandety.
 
+{% photo "IMGP8037raw1.jpg","Las otulający bazę wojskową" %}
+
 W okolicy [Niechorza][wiki-niechorze] jechaliśmy ścieżką rowerową obok [torów][kolej]
 kolejki wąskotorowej. Ciekawostka - można przewozić rower w niej.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/103796121' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8055raw1.jpg","Jezioro Resko Przymorskie" %}
 
 Przed [Mrzeżyno][wiki-mrzezyno] przejeżdzaliśmy przez dość ciekawy las. W sumie
 tylko tyle jestem w stanie o nim teraz powiedzieć, że był ciekawy. Obok
 były jakieś wojskowe tereny, prawdopodobnie radar.
+
+{% photo "IMGP8056raw1crop.jpg","Plaża w Lubostroniu" %}
 
 W [Mrzeżyno][wiki-mrzezyno] również coś zjedliśmy i zrobiliśmy godzinną przerwę.
 
@@ -64,7 +69,7 @@ Najciekawszym fragmentem był szlak za [Kołobrzegiem][wiki-kolobrzeg]. Jest on
 położony bardzo blisko morza, przez dłuższy czas widać je bezpośrednio, do tego
 jest on w bardzo dobrej jakości.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/103808770' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8057raw1.jpg","Ścieżka rowerowa z Kołobrzegu na wschód" %}
 
 Na nocleg wybraliśmy [Sianożęty][wiki-sianozety]. Pole namiotowe było tańsze,
 jednak tym razem nie było ciepłej wody, ale człowiek w wakacje jej nie potrzebuje.

@@ -4,10 +4,9 @@ title:                  "Pierwsze wejście na Śnieżkę"
 subtitle:               "po co czekać do lata"
 date:                   2013-11-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/55590686/m%3D2048/c78578fb07a2484e09de6017b2b568fb"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, best, todo_media_later, photo_of_the_year]
+tags:                   [main, hike, mountains, best, photo_of_the_year]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -75,44 +74,30 @@ Pokręciliśmy się po [Śnieżce][wiki-sniezka], porobiłem trochę zdjęć i w
 lody. Specjalnie dla mnie i Krzycha musieli włączać automat do lodów. W końcu co lepiej byłoby zjeść w zimie,
 na szczycie góry gdzie jest jeszcze mocniejsza zima, niż właśnie lody?
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/53941418/m%3D900/da3df0ae050123b88dbea38a6bcdf9ea' alt='Śnieżka summit by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/53941418/%C5%9Anie%C5%BCka-summit-by-aleksander-kwiatkowski' alt='Śnieżka summit by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1275raw5.jpg","Podejście na Śnieżkę" %}
 
 Teraz czas na zejście. Zawsze "lubię" ten moment, w którym muszę ubrać raczki. Ta gumowa konstrukcja jest
 bardzo łatwa do założenia (ironia). Jednak jest to potrzebne gdyż daje luksuk normalnego zchodzenia.
 Nie trzeba sprawdzać czy stopa jest stabilna, bo będzie stabilna. Można normalne sobie iść. Każdy kto
 jest świadom tego, że [Śnieżka][wiki-sniezka] jest bardzo wybitnym szczytem doceni ten luksus.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/53759606/m%3D900/e92d432ae9979664bd1966368f7e9292' alt='Śnieżka, snow sculptures by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/53759606/%C5%9Anie%C5%BCka-snow-sculptures-by-aleksander-kwiatkowski' alt='Śnieżka, snow sculptures by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1290raw1.jpg","Pod Śnieżką" %}
 
 Podczas zejście połączenie słabej widoczności z chwilowo przebijającymi się promieniami, umożliwiło mi
 zrobienie bardzo ciekawych zdjęć.
+
+{% photo "IMGP1292raw1.jpg","Krzychu pokazuje na mapie gdzie aktualnie jesteśmy" %}
 
 Obok [Domu Śląskiego][wiki-dom-slaski] ruszyliśmy niebieskim szlakiem do [Luční Bouda][wiki-lucni].
 Szliśmy raczej po płaski, wokół pełno śniegu i nie zauważyliśmy nic ciekawego. No może oprócz
 tego że przeszliśmy przez jakieś mokradła bo szliśmy po drewnianym moście.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/55949202/m%3D900/2edd368f98e7177b1a8dbf6c9ceab777' alt='In lightness by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/55949202/in-lightness-by-aleksander-kwiatkowski' alt='In lightness by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1303raw1.jpg","Spacer po czeskiej stronie" %}
 
 w [Luční Bouda][wiki-lucni] zjedliśmy i spróbowaliśmy [Tatra Tea][wiki-tatra-tea]. Całkiem ładnie
 mają w tych schroniskach, chociaż lepsze słowo to hotel, moim zdaniem.
+
+{% photo "IMGP1313raw1.jpg","Samotna osoba w zimie" %}
 
 Wróciliśmy najpierw żółtym, później niebieskim szlakiem do [Strzechy Akademickiej][wiki-strzecha].
 Nie pamiętam co robiliśmy, ale wiem że wieczorem były Andrzejki z GOPRowcami.

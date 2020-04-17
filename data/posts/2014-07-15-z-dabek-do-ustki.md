@@ -4,9 +4,8 @@ title:                  "Z Dąbek do Ustki"
 subtitle:               "czwarty ostatni dzień przejażdzki na wybrzeżu, 57km i poszukiwanie powrotu"
 date:                   2014-07-15 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/133511713/m%3D2048/e94716760c96f76e3352b095377b798e"
 categories:             trip
-tags:                   [main, bicycle, panniers, coast, best, todo_media_later]
+tags:                   [main, bicycle, panniers, coast, best]
 towns:                  [zachodnio_pomorskie, pomorskie, darlowo, postomino, ustka]
 lands:                  [wybrzeze_slowinskie]
 
@@ -46,6 +45,8 @@ Szczegóły
 Główną różnicą była dobra pogoda. Niebo chyba było bezchmurne, co za tym idzie
 było bardzo ciepło.
 
+{% photo "IMGP8230raw1.jpg","Wiatraki obok Darłówka" %}
+
 Kolejną rzeczą to rozładowała mi się kamerka i nie mogłem nic nagrać, chociaż
 filmik z tego dnia byłby najciekawszy.
 
@@ -54,26 +55,24 @@ się do [Darłowa][wiki-darlowo]. Tam się rozdzieliliśmy, gdyż część chcia
 [zamek][wiki-darlowo-zamek], a część wolała popływać. Mi się pływać nie chciało, ale
 również nie chciało mi się łazić po zamku. Wybrałem pływanie jako mniejsze zło.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/145868575/m%3D900/21d288fe564fa9f2e9ba83974d0e4a62' alt='Coastline wind turbines near Darłowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/145868575/coastline-wind-turbines-near-dar%C5%82owo-by-aleksander-kwiatkowski' alt='Coastline wind turbines near Darłowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8261raw1.jpg","Opuszczając wieś Jezierzany","timeline" %}
 
 Z [Darłowa][wiki-darlowo] jechaliśmy drogą równoległą do aleji Jana Pawła II.
 Całkiem fajna trasa - pola i wiatraki. Wyjechaliśmy tą drogą na plażę i tam
 "przeczekaliśmy".
 
-Przez roździelenie całej grupy nie mogliśmy się później znaleźć. My czekaliśmy
-godzinę i conajmniej kilka telefonów "gdzie jesteście". Zdecydowaliśmy wszyscy, że
+{% photo "IMGP8264raw1.jpg","Okolica Łącko-Korlino","timeline" %}
+
+Przez rozdzielenie całej grupy nie mogliśmy się później znaleźć. My czekaliśmy
+godzinę i co najmniej kilka telefonów "gdzie jesteście". Zdecydowaliśmy wszyscy, że
 jednak pojedziemy sami. Miałem GPSa oraz musieliśmy wracać do cywilizacji, reszta
 jechała dalej aż do [Helu][wiki-hel]. Tak przy okazji, to [Hel][wiki-hel] mam
 również w planach.
 
 Zaczęliśmy jechać na wschód w kierunku [Ustki][wiki-ustka]. Teraz na mapie widzę,
 że w linii prostej były to 32km.
+
+{% photo "IMGP8280raw1.jpg","Droga do wsi Zaleskie","timeline" %}
 
 Początkowo jechaliśmy po lekko terenowym szlaku, na szczęście piasków nie było za dużo.
 W [Jarosławcu][wiki-jaroslawiec] skręciliśmy w stronę [Jezierzan][wiki-jezierzany]
@@ -87,13 +86,7 @@ Może to wszystko w tym momencie jest pewną wizją tych terenów popartą kilko
 a hamowanie i ruszanie obciążonym rowerem trwa.
 Niemniej chciałbym jeszcze odwiedzić te tereny kiedyś.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/133542849/m%3D900/c7372cbeedc4b690c0ed5dc4a56785ab' alt='Wind turbine farm near Złakowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/133542849/wind-turbine-farm-near-z%C5%82akowo-by-aleksander-kwiatkowski' alt='Wind turbine farm near Złakowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8293raw1","Zachód w Ustce" %}
 
 Za [Zlakowo][wiki-zlakowo] był bardzo fajny zjazd. Prosta droga i 40km/h z
 sakwami. Sakwami i namiotem!
@@ -107,14 +100,6 @@ ze spokojem.
 
 Będąc w okolicach dworca PKP pojechaliśmy na północ zjeść coś, a następnie zobaczyć
 port.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/145868751/m%3D900/6076e14dbaa50c4d28b13b9276901b74' alt='Ustka coastline by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/145868751/ustka-coastline-by-aleksander-kwiatkowski' alt='Ustka coastline by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Wracaliśmy pociągiem w nocy. Zapieliśmy rowery do ostatnich drzwi i trochę udało się
 pospać.

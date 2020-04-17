@@ -5,9 +5,8 @@ subtitle:               "wstawanie o 5 rano jako nowa forma odpoczynku"
 date:                   2016-09-16 19:00:00
 finished_at:            2016-09-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173700561/q%3D80_m%3D2000/3eb0c5d8ff3d62e17e1e971cf794b7b7"
 categories:             trip
-tags:                   [main, photo, todo_media_later]
+tags:                   [main, photo]
 towns:                  [zachodnio_pomorskie, swinoujscie]
 
 coords:                 [{"route": [[53.92244,14.25623], [53.92191,14.26854], [53.92451,14.27872], [53.92628,14.27730], [53.92214,14.27906]], "type": "hike"}]
@@ -34,56 +33,38 @@ Wyjazd nad [Morze Bałtyckie][wiki-morze-baltyckie] planowałem wcześniej i
 [prawie udało się to zrealizować]({% post_url 2016-08-20-mialy-byc-pagorki-a-pozniej-morze %}).
 Teraz akurat miało być spokojniej - bez pośpiechu.
 
+{% photo "IMGP6154raw1.jpg","Zachód słońca w Świnoujściu" %}
+
 Pierwszego wieczoru wyszedłem ze statywem na plażę próbując swoich sił
 robiąc zdjęcia morza. Powtórzyłem to również rano - wstałem o 5:30.
 Powtórzyłem to jeszcze dwa razy, z tym że za trzecim razem już mi się bardzo
 nie chciało, bo co nowego zobaczę?, ale wstałem wcześniej bo o 5:00.
 
+{% photo "IMGP6205raw1.jpg","Wpływający statek" %}
+
 Zdjęcia
 -------
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/173198195/m%3D900/b71f944b7361cbdcf27a80fd217f2bc6' alt='Before sunrise at Baltic shore by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/173198195/before-sunrise-at-baltic-shore-by-aleksander-kwiatkowski' alt='Before sunrise at Baltic shore by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6532raw1.jpg","Plaża w Świnoujściu" %}
 
 Już w tym momencie robiło się zbyt jasno w miejscu gdzie pojawi się Słońce.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/173199545/m%3D900/89fa59a3179236bde260422dcac0cd13' alt='Morning splash by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/173199545/morning-splash-by-aleksander-kwiatkowski' alt='Morning splash by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6605raw1.jpg","Niewielkie fale" %}
 
 Przydałby mi się filtr szary oraz musiałbym pomyśleć nad lepszym pierwszym planem.
 Bardziej agresywnie uderzająca woda mogła by dać lepsze efekty.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/173748931/m%3D900/2dd75c1d579969037cee190317263fed' alt='Świnoujście bay at morning by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/173748931/%C5%9Awinouj%C5%9Bcie-bay-at-morning-by-aleksander-kwiatkowski' alt='Świnoujście bay at morning by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6825raw1.jpg","Wiatrak w Świnoujściu" %}
 
 Tutaj jest przykład balansu bieli, który idzie w stronę fioletu.
 Kamienny pierwszy plan jest, ale mógłby być znacznie ciekawszy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/174093173/m%3D900/eee795b674ab656a524a9c57e63a6c7f' alt='Lighthouse windmill Świnoujście by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/174093173/lighthouse-windmill-%C5%9Awinouj%C5%9Bcie-by-aleksander-kwiatkowski' alt='Lighthouse windmill Świnoujście by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP6842raw3.jpg","Widok na port" %}
 
 Pomimo ptaków na pierwszym planie coś temu zdjęciu brakuje. Może powinienem mieć
 coś z większą ogniskową i przyciąć aby widoczny był wiatrak z dwoma ptakami pod nim.
+
+{% photo "IMGP6857raw1.jpg","Wiatrak w Świnoujściu" %}
 
 
 Wnioski
@@ -105,6 +86,8 @@ Wnioski
 6. Ludzie wolą kolory cieple podczas mgły, ale jak to jest ze wschodami? Czy lepiej
    balans bieli kierować w stronę ciepło-szare czy w kierunku fioletu (niebieska
    godzina)?
+
+{% photo "IMGP6899raw1.jpg","Meduza" %}
 
 ### Filtr szary - ND
 
