@@ -2,6 +2,7 @@ require "./const"
 require "./tiles_layer"
 require "./routes_layer"
 require "./photo_layer"
+require "./photo_to_route_layer"
 
 class Map::Base
   def initialize(
@@ -20,7 +21,8 @@ class Map::Base
     # if we need to show only selected photos
     @photo_entities : Array(PhotoEntity)? = nil,
     # selective rendering
-    @render_routes : Bool = true
+    @render_routes : Bool = true,
+    @render_photos_out_of_route : Bool = false,
   )
     @logger = @blog.logger.as(Logger)
     @logger.info("#{self.class}: Start")
@@ -151,6 +153,13 @@ class Map::Base
       logger: @logger,
     )
 
+    @photo_to_route_layer = PhotoToRouteLayer.new(
+      photos: @photos,
+      tiles_layer: @tiles_layer,
+      logger: @logger,
+      image_size: @quant_size
+    )
+
     @photo_layer = PhotoLayer.new(
       photos: @photos,
       tiles_layer: @tiles_layer,
@@ -162,7 +171,13 @@ class Map::Base
   def to_svg
     svg_content = String.build do |s|
       s << @tiles_layer.render_svg
-      s << @photo_layer.render_svg
+
+      if @render_photos_out_of_route
+        s << @photo_layer.render_svg
+      else
+        s << @photo_to_route_layer.render_svg
+      end
+
       s << @routes_layer.render_svg if @render_routes
       @logger.debug("#{self.class}: svg content done")
     end

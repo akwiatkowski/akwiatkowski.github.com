@@ -166,9 +166,9 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    # render_photo_maps_debug_post
+    render_photo_maps_debug_post
     # render_photo_maps_debug_voivodeship
-    # return
+    return
 
     render_photo_maps_for_tagged_photos
     render_photo_maps_voivodeships
@@ -177,7 +177,7 @@ class Tremolite::Renderer
   end
 
   def render_photo_maps_debug_post
-    slug = "2016-05-21-z-przysieczyna-obok-wagrowca-do-pily"
+    slug = "2019-06-09-pomorska-dziura-transportowa"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
     end.first
@@ -220,14 +220,14 @@ class Tremolite::Renderer
       # places
       coord_range = PostRouteObject.array_to_coord_range(
         array: post.coords.not_nil!,
-              # only_types: ["hike", "bicycle", "train", "car", "air"]
-        # lets accept all types for now
-)
+      )
+      # only_types: ["hike", "bicycle", "train", "car", "air"]
+      # lets accept all types for now
 
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
-        min_diagonal: 600,
-        max_diagonal: 3000,
+        min_diagonal: 800,
+        max_diagonal: 4500,
       )
 
       if autozoom_value
@@ -240,11 +240,13 @@ class Tremolite::Renderer
             post_slugs: [post.slug],
             coord_range: coord_range,
             do_not_crop_routes: true,
+            render_photos_out_of_route: true,
           )
           write_output(post_map_view)
           @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug} done")
           # rescue Map::NotEnoughPhotos
           # ignore this
+
 
         end
       else
