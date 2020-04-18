@@ -115,7 +115,7 @@ Nie mieliśmy określonego celu podróży, jednak wcześniej analizując opcje
 najlepsza była okolica [Bytowa][wiki-bytow]. Znaleźliśmy domek przy lesie i
 zarezerwowaliśmy. Planowaliśmy być tam o 19-tej.
 
-{% photo "2019_06_08__09_50_P6080008.jpg","Opuszczając Czapielsk","tag:cat" %}
+{% photo "2019_06_08__09_50_P6080008.jpg","Opuszczając Czapielsk" %}
 
 Ruszyliśmy z ośrodka wczasowego. Nie chcieliśmy zjeżdżać do [Kolbud][wiki-kolbudy]
 ani jechać na północny-wschód. Ruszyliśmy drogą gruntową przez las na zachód.
