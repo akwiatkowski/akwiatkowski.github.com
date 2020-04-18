@@ -166,9 +166,9 @@ class Tremolite::Renderer
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
   def render_photo_maps
-    render_photo_maps_debug_post
+    # render_photo_maps_debug_post
     # render_photo_maps_debug_voivodeship
-    return
+    # return
 
     render_photo_maps_for_tagged_photos
     render_photo_maps_voivodeships
