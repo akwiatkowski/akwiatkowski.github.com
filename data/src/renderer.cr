@@ -178,6 +178,7 @@ class Tremolite::Renderer
 
   def render_photo_maps_debug_post
     slug = "2019-06-09-pomorska-dziura-transportowa"
+    slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
     end.first
@@ -227,7 +228,7 @@ class Tremolite::Renderer
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
         min_diagonal: 800,
-        max_diagonal: 4500,
+        max_diagonal: 3500,
       )
 
       if autozoom_value
