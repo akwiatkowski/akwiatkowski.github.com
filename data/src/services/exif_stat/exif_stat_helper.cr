@@ -2,6 +2,8 @@ require "./exif_stat_service"
 require "./exif_lens_coverage"
 
 class ExifStatHelper
+  Log = ::Log.for(self)
+  
   def initialize(
     @photos : Array(PhotoEntity) = Array(PhotoEntity).new,
     @posts : Array(Tremolite::Post) = Array(Tremolite::Post).new

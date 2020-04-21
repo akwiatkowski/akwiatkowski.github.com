@@ -1,6 +1,8 @@
 require "crystal_gpx"
 
-class TransportPoiEntity
+struct TransportPoiEntity
+  Log = ::Log.for(self)
+
   HOME_LAT   = 52.40285
   HOME_LON   = 16.91062
   HOME_POINT = CrystalGpx::Point.new(lat: HOME_LAT, lon: HOME_LON)

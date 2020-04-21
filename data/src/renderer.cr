@@ -35,7 +35,7 @@ require "./views/atom_generator"
 
 class Tremolite::Renderer
   def render_fast_only_post_related
-    @logger.debug("#{self.class}:render_fast_only_post_related START")
+    Log.debug { "render_fast_only_post_related START" }
 
     render_index
     render_paginated_list
@@ -46,11 +46,11 @@ class Tremolite::Renderer
     render_sitemap
     render_robot
 
-    @logger.debug("#{self.class}:render_fast_only_post_related DONE")
+    Log.debug { "render_fast_only_post_related DONE" }
   end
 
   def render_fast_post_and_yaml_related
-    @logger.debug("#{self.class}: render_fast_post_and_yaml_related START")
+    Log.debug { "render_fast_post_and_yaml_related START" }
 
     render_summary_page
     render_year_stat_reports_pages
@@ -72,24 +72,24 @@ class Tremolite::Renderer
     render_voivodeships_pages
     render_lands_index
 
-    @logger.debug("#{self.class}: render_fast_post_and_yaml_related DONE")
+    Log.debug { "render_fast_post_and_yaml_related DONE" }
   end
 
   def render_post(post : Tremolite::Post)
     view = PostView.new(blog: @blog, post: post)
     write_output(view)
 
-    @logger.debug("#{self.class}:render_post #{post.slug} DONE")
+    Log.debug { "render_post #{post.slug} DONE" }
   end
 
   def render_post_galleries_for_post(post)
     view_gallery = PostGalleryView.new(blog: @blog, post: post)
     write_output(view_gallery)
-    @logger.debug("#{self.class}:render_post #{post.slug} PostGalleryView")
+    Log.debug { "render_post #{post.slug} PostGalleryView" }
 
     view_gallery_stats = PostGalleryStatsView.new(blog: @blog, post: post)
     write_output(view_gallery_stats)
-    @logger.debug("#{self.class}:render_post #{post.slug} PostGalleryStatsView")
+    Log.debug { "render_post #{post.slug} PostGalleryStatsView" }
   end
 
   # galleries which require exif data (photo lat/lon)
@@ -155,7 +155,7 @@ class Tremolite::Renderer
       write_output(url, view.to_html)
     end
 
-    @logger.info("Renderer: Rendered paginated list")
+    Log.info { "Renderer: Rendered paginated list" }
   end
 
   def render_map
@@ -214,7 +214,7 @@ class Tremolite::Renderer
   def render_photo_map_for_post(post : Tremolite::Post)
     # TODO refactor post coords into someting not ugly
     if post.coords.not_nil![0].route.size > 0
-      @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug}")
+      Log.debug { "render_photo_maps_posts #{post.slug}" }
 
       # sometime I take photos from train and we want to have detailed
       # route map (big zoom) so we must remove photos taken from non route
@@ -232,26 +232,20 @@ class Tremolite::Renderer
       )
 
       if autozoom_value
-        begin
-          post_map_view = PhotoMapSvgView.new(
-            blog: @blog,
-            url: "/photo_map/for_post/#{post.slug}.svg",
-            zoom: autozoom_value.not_nil!,
-            quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-            post_slugs: [post.slug],
-            coord_range: coord_range,
-            do_not_crop_routes: true,
-            render_photos_out_of_route: true,
-          )
-          write_output(post_map_view)
-          @logger.debug("#{self.class}: render_photo_maps_posts #{post.slug} done")
-          # rescue Map::NotEnoughPhotos
-          # ignore this
-
-
-        end
+        post_map_view = PhotoMapSvgView.new(
+          blog: @blog,
+          url: "/photo_map/for_post/#{post.slug}.svg",
+          zoom: autozoom_value.not_nil!,
+          quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+          post_slugs: [post.slug],
+          coord_range: coord_range,
+          do_not_crop_routes: true,
+          render_photos_out_of_route: true,
+        )
+        write_output(post_map_view)
+        Log.debug { "#{post.slug} - render_photo_maps_posts done" }
       else
-        @logger.warn("#{post.slug} - autozoom_value could not calculate")
+        Log.warn { "#{post.slug} - autozoom_value could not calculate" }
       end
     end
   end
@@ -259,7 +253,7 @@ class Tremolite::Renderer
   def render_photo_map_for_voivodeship(voivodeship : VoivodeshipEntity)
     # select posts in voivodeship
     # and render mini-map (not so mini)
-    @logger.debug("#{self.class}: render_photo_maps_voivodeships #{voivodeship.slug}")
+    Log.debug { "render_photo_maps_voivodeships #{voivodeship.slug}" }
 
     # used for photos
     # TODO maybe use similar for routes but it will require some work
@@ -456,7 +450,7 @@ class Tremolite::Renderer
       view = TagView.new(blog: @blog, tag: tag)
       write_output(view)
     end
-    @logger.info("Renderer: Tags finished")
+    Log.info { "Renderer: Tags finished" }
   end
 
   def render_lands_pages
@@ -464,7 +458,7 @@ class Tremolite::Renderer
       view = LandView.new(blog: @blog, land: land)
       write_output(view)
     end
-    @logger.info("Renderer: Lands finished")
+    Log.info { "Renderer: Lands finished" }
   end
 
   def render_towns_pages
@@ -475,7 +469,7 @@ class Tremolite::Renderer
       # XXX move later to somewhere else
       town.validate(@blog.validator.not_nil!)
     end
-    @logger.info("Renderer: Towns finished")
+    Log.info { "Renderer: Towns finished" }
   end
 
   def render_voivodeships_pages
@@ -483,14 +477,14 @@ class Tremolite::Renderer
       view = VoivodeshipView.new(blog: @blog, voivodeship: voivodeship)
       write_output(view)
     end
-    @logger.info("Renderer: Voivodeships finished")
+    Log.info { "Renderer: Voivodeships finished" }
   end
 
   def render_posts
     blog.post_collection.posts.each do |post|
       render_post(post)
     end
-    @logger.info("Renderer: Posts finished")
+    Log.info { "Renderer: Posts finished" }
   end
 
   def render_more_page

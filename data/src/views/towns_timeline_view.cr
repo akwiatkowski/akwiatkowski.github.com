@@ -1,4 +1,6 @@
 class TownsTimelineView < PageView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["towns_timeline.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["towns_timeline.title"].as(String)
@@ -50,9 +52,9 @@ class TownsTimelineView < PageView
       previous_self_propelled += @self_propelled[time].size if @self_propelled[time]?
 
       # next month
-      time = time.at_end_of_month
-      time += Time::Span.new(1, 0, 0)
-      time = time.at_beginning_of_month
+      time = time.at_beginning_of_next_month
+
+      puts "1 #{time}"
     end
 
     return s
@@ -122,9 +124,9 @@ class TownsTimelineView < PageView
       get_towns_in_month(time: t)
 
       # next month
-      t = t.at_end_of_month
-      t += Time::Span.new(1, 0, 0)
-      t = t.at_beginning_of_month
+      t = t.at_beginning_of_next_month
+
+      puts "2 #{t}"
     end
   end
 

@@ -4,6 +4,8 @@ require "./const"
 require "./tiles_layer"
 
 class Map::Downloader
+  Log = ::Log.for(self)
+  
   DEFAULT_ZOOM = 10
   PUBLIC_PATH  = "public/tiles"
   # download addition border tile
@@ -14,7 +16,6 @@ class Map::Downloader
     @lat_to : Float64,
     @lon_from : Float64,
     @lon_to : Float64,
-    @logger = Logger.new(STDOUT),
     @zoom = DEFAULT_ZOOM,
     @type = MapType::Ump,
     @show_command = false
@@ -48,7 +49,7 @@ class Map::Downloader
   end
 
   def make_it_so
-    @logger.info("#{@x_to - @x_from}*#{@y_to - @y_from}=#{(@x_to - @x_from)*(@y_to - @y_from)} tiles to download")
+    Log.info { "#{@x_to - @x_from}*#{@y_to - @y_from}=#{(@x_to - @x_from)*(@y_to - @y_from)} tiles to download" }
 
     (@x_from..@x_to).each do |x|
       # prepare parent path

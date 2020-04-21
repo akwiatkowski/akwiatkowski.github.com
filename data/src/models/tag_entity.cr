@@ -1,4 +1,6 @@
 struct TagEntity
+  Log = ::Log.for(self)
+
   @slug : String
   @name : String
 

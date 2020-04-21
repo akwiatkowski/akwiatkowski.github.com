@@ -5,6 +5,8 @@ require "./photo_layer"
 require "./photo_to_route_layer"
 
 class Map::Base
+  Log = ::Log.for(self)
+  
   def initialize(
     @blog : Tremolite::Blog,
     @tile = MapType::Ump,
@@ -24,8 +26,7 @@ class Map::Base
     @render_routes : Bool = true,
     @render_photos_out_of_route : Bool = false
   )
-    @logger = @blog.logger.as(Logger)
-    @logger.info("#{self.class}: Start")
+    Log.info { "Start" }
 
     @internal_coord_range = CoordRange.new
 
@@ -61,7 +62,7 @@ class Map::Base
 
     @photos = photos_w_coords.as(Array(PhotoEntity))
 
-    @logger.info("#{self.class}: selected #{@photos.size} photos with lat/lon")
+    Log.info { "selected #{@photos.size} photos with lat/lon" }
 
     # ## END OF PHOTOS FILTER
 
@@ -73,7 +74,7 @@ class Map::Base
         @internal_coord_range.enlarge!(lat, lon)
       end
 
-      @logger.info("#{self.class}: area from photos #{@internal_coord_range.to_s}")
+      Log.info { "area from photos #{@internal_coord_range.to_s}" }
     end
 
     # ## POSTS (for routes)
@@ -83,13 +84,13 @@ class Map::Base
     # filter posts photos
     # routes are taken from this later
     if @post_slugs.size > 0
-      @logger.debug("#{self.class}: pre post_slug filter #{posts.size}")
+      Log.debug { "pre post_slug filter #{posts.size}" }
 
       posts = posts.select do |post|
         @post_slugs.includes?(post.slug)
       end
 
-      @logger.debug("#{self.class}: after post_slug filter #{posts.size}")
+      Log.debug { "after post_slug filter #{posts.size}" }
     end
 
     # select only posts with routes/coords
@@ -106,7 +107,7 @@ class Map::Base
       )
 
       if routes_coord_range
-        @logger.debug("#{self.class}: routes_coord_range #{routes_coord_range}")
+        Log.debug { "routes_coord_range #{routes_coord_range}" }
 
         routes_coord_range = routes_coord_range.not_nil!
         # when we don't have photos near edges of route (I haven't took photo
@@ -115,7 +116,7 @@ class Map::Base
 
         if !@internal_coord_range.valid? || @do_not_crop_routes
           @internal_coord_range.enlarge!(routes_coord_range)
-          @logger.debug("#{self.class}: area from routes_coord_range #{@internal_coord_range.to_s}")
+          Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
         end
       end
     end
@@ -124,17 +125,17 @@ class Map::Base
 
     if @coord_range
       @internal_coord_range = @coord_range.not_nil!
-      @logger.debug("#{self.class}: coord_range was provided")
+      Log.debug { "coord_range was provided" }
     end
 
-    @logger.info("#{self.class}: area #{@internal_coord_range.to_s}")
+    Log.info { "area #{@internal_coord_range.to_s}" }
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
       town.lat && town.lon
     end.as(Array(TownEntity))
-    @logger.info("#{self.class}: #{@posts.size} posts")
-    @logger.info("#{self.class}: #{@towns.size} towns")
+    Log.info { "#{@posts.size} posts" }
+    Log.info { "#{@towns.size} towns" }
 
     # tiles will be first initial
 
@@ -144,13 +145,11 @@ class Map::Base
       lon_min: @internal_coord_range.lon_from,
       lon_max: @internal_coord_range.lon_to,
       zoom: zoom,
-      logger: @logger,
     )
 
     @routes_layer = RoutesLayer.new(
       posts: @posts,
       tiles_layer: @tiles_layer,
-      logger: @logger,
     )
 
     if @render_photos_out_of_route
@@ -158,14 +157,12 @@ class Map::Base
         photos: @photos,
         posts: @posts,
         tiles_layer: @tiles_layer,
-        logger: @logger,
         image_size: @quant_size
       )
     else
       @photo_layer = PhotoLayer.new(
         photos: @photos,
         tiles_layer: @tiles_layer,
-        logger: @logger,
         quant_size: @quant_size
       )
     end
@@ -176,7 +173,7 @@ class Map::Base
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
       s << @routes_layer.render_svg if @render_routes
-      @logger.debug("#{self.class}: svg content done")
+      Log.debug { "svg content done" }
     end
 
     return String.build do |s|
@@ -186,7 +183,7 @@ class Map::Base
       # first we need render all to know about padding
       s << svg_content
       s << "</svg>\n"
-      @logger.debug("#{self.class}: svg done")
+      Log.debug { "svg done" }
     end
   end
 end

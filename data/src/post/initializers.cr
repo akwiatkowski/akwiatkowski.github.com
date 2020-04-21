@@ -170,9 +170,9 @@ class Tremolite::Post
 
   def photos_entities_from_content
     # process helper functions: like photo and populate photo_entities
-    @logger.debug("photos_entities_from_content pre")
+    Log.debug { "photos_entities_from_content pre" }
     content_html
-    @logger.debug("photos_entities_from_content post")
+    Log.debug { "photos_entities_from_content post" }
   end
 
   def basic_initialize

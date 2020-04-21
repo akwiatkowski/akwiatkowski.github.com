@@ -1,4 +1,6 @@
 struct LandTypeEntity
+  Log = ::Log.for(self)
+
   @slug : String
   @name : String
 

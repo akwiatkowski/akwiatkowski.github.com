@@ -1,4 +1,6 @@
 class LandView < BaseView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @land : LandEntity)
     @url = @land.url
   end

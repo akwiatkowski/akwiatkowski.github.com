@@ -1,6 +1,8 @@
 require "./exif_stat_struct"
 
 class ExifStatService
+  Log = ::Log.for(self)
+  
   # better to not add because it makes lens duplicated
   ADD_CAMERA_TO_LENS_NAME = false
 

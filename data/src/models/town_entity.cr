@@ -3,6 +3,8 @@ require "yaml"
 alias TownEntityHash = Hash(String, String | Array(String))
 
 struct TownEntity
+  Log = ::Log.for(self)
+
   @slug : String
   @name : String
   @type : String

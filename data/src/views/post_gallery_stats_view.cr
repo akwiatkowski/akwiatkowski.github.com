@@ -1,6 +1,8 @@
 require "../services/exif_stat/exif_stat_helper"
 
 class PostGalleryStatsView < BaseView
+  Log = ::Log.for(self)
+  
   STATS_URL_SUFFIX = "/gallery_stats.html"
 
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)

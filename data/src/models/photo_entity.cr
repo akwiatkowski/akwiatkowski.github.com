@@ -1,6 +1,8 @@
 require "./exif_entity"
 
 struct PhotoEntity
+  Log = ::Log.for(self)
+
   @desc : String
   @image_filename : String
   @param_string : String

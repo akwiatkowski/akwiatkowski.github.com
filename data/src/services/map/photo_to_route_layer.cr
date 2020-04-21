@@ -47,6 +47,8 @@ struct Map::PhotoToRoutePosition
 end
 
 class Map::PhotoToRouteLayer
+  Log = ::Log.for(self)
+  
   BLOCKED_ROUTE_PADDING = 30
   DISTANCES_FROM_POINT  = [240, 320, 480]
   DEGREE_INCREMENTAL    =    15
@@ -59,7 +61,7 @@ class Map::PhotoToRouteLayer
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
     @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-    @logger : Logger = Logger.new(STDOUT)
+
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -192,7 +194,7 @@ class Map::PhotoToRouteLayer
     end
 
     if filtered_map_coords.size > 0
-      @logger.debug "point #{point_x},#{point_y} - filtered possible coords #{filtered_map_coords.size}"
+      Log.debug { "point #{point_x},#{point_y} - filtered possible coords #{filtered_map_coords.size}" }
       return filtered_map_coords.first
     else
       return nil

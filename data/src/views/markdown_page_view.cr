@@ -1,6 +1,8 @@
 require "./page_view"
 
 class MarkdownPageView < PageView
+  Log = ::Log.for(self)
+  
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,

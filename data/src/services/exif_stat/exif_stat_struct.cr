@@ -1,6 +1,8 @@
 require "./exif_stat_type"
 
 struct ExifStatStruct
+  Log = ::Log.for(self)
+
   getter :is_zoom
   getter :count_by_focal35
   getter :count_by_month_and_focal35

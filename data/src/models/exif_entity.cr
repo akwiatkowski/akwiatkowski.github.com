@@ -1,4 +1,6 @@
 struct ExifEntity
+  Log = ::Log.for(self)
+
   # used for mapping
   @image_filename : String
   @post_slug : String

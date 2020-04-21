@@ -1,4 +1,6 @@
 struct PoiEntity
+  Log = ::Log.for(self)
+
   @name : String
   @lat : Float64
   @lon : Float64

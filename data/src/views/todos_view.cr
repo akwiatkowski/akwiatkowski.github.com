@@ -1,4 +1,6 @@
 class TodosView < PageView
+  Log = ::Log.for(self)
+  
   CLOSE_POST_DISTANCE = 12.0
 
   FILTER_CHECKED_SMALL   = :small

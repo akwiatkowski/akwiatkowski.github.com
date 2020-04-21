@@ -1,4 +1,6 @@
 class YearStatReportView < PageView
+  Log = ::Log.for(self)
+  
   BICYCLE_MAX_DISTANCE = 800.0
   HIKE_MAX_DISTANCE    = 100.0
   OPACITY_MAX          =   1.0

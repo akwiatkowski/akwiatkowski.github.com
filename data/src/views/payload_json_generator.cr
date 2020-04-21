@@ -1,6 +1,8 @@
 require "json"
 
 class PayloadJsonGenerator < Tremolite::Views::AbstractView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
 

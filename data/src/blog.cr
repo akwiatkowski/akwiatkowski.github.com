@@ -19,7 +19,7 @@ class Tremolite::Blog
     # so we still need to update exif which require loading db
     # because of that I'll split exif and photo data to separate files
     post_paths_to_update = changes_summary[Tremolite::ModWatcher::KEY_POSTS_FILES]
-    @logger.debug("#{self.class}: #{post_paths_to_update.size} posts changed")
+    Log.debug { "#{post_paths_to_update.size} posts changed" }
 
     post_to_render = post_collection.posts.select do |post|
       post_paths_to_update.includes?(post.path)
@@ -27,7 +27,7 @@ class Tremolite::Blog
 
     # if yaml config was changed we need to re-render all posts and
     if changes_summary[Tremolite::ModWatcher::KEY_YAML_FILES].size > 0
-      @logger.debug("#{self.class}: YAML changed -> rendering all posts + YAML views")
+      Log.debug { "YAML changed -> rendering all posts + YAML views" }
       yamls_changed = true
     else
       yamls_changed = false
@@ -49,7 +49,7 @@ class Tremolite::Blog
     post_to_update_photos = post_collection.posts.select do |post|
       post_slugs_to_update_photos.includes?(post.slug)
     end
-    @logger.debug("#{self.class}: Update #{post_to_update_photos.size} post photos")
+    Log.debug { "Update #{post_to_update_photos.size} post photos" }
 
     post_slugs_to_update_exif = changes_summary[Tremolite::ModWatcher::KEY_EXIF_DB_FILES].map do |exif_path|
       scan = exif_path.scan(/(\d{4}-\d{2}-\d{2}[^\.]+).yml/)
@@ -60,7 +60,7 @@ class Tremolite::Blog
     post_to_update_exif = post_collection.posts.select do |post|
       post_slugs_to_update_exif.includes?(post.slug)
     end
-    @logger.debug("#{self.class}: Update #{post_to_update_photos.size} post exif")
+    Log.debug { "Update #{post_to_update_photos.size} post exif" }
 
     if post_to_update_exif.size > 0
       exifs_changed = true
@@ -86,9 +86,9 @@ class Tremolite::Blog
 
     # first we need to initialize all posts
     # ...unfortunately
-    @logger.debug("#{self.class}: PostCollection#initialize_posts")
+    Log.debug { "PostCollection#initialize_posts" }
     post_collection.initialize_posts
-    @logger.debug("#{self.class}: PostCollection#initialize_posts DONE")
+    Log.debug { "PostCollection#initialize_posts DONE" }
 
     if mod_watcher.enabled == false || force_full_render
       all_posts = post_collection.posts
@@ -135,30 +135,30 @@ class Tremolite::Blog
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
     post_to_render_galleries.each do |post|
-      @logger.debug("#{self.class}: resize_all_images_for_post")
+      Log.debug { "resize_all_images_for_post" }
       @image_resizer.not_nil!.resize_all_images_for_post(
         post: post,
         overwrite: false
       )
-      @logger.debug("#{self.class}: preparing content #{post.slug}")
+      Log.debug { "#{post.slug} - preparing content" }
       data_manager.exif_db.initialize_post_photos_exif(post)
-      @logger.debug("#{self.class}: rendering #{post.slug}")
+      Log.debug { "#{post.slug} - rendering" }
       renderer.render_post(post)
-      @logger.debug("#{self.class}: rendering galleries #{post.slug}")
+      Log.debug { "#{post.slug} - rendering galleries" }
       renderer.render_post_galleries_for_post(post)
-      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
+      Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
-      @logger.debug("#{self.class}: DONE #{post.slug}")
+      Log.debug { "#{post.slug} - DONE" }
     end
 
     post_to_render.each do |post|
-      @logger.debug("#{self.class}: preparing content #{post.slug}")
+      Log.debug { "#{post.slug} - preparing content" }
       post.content_html
-      @logger.debug("#{self.class}: rendering #{post.slug}")
+      Log.debug { "#{post.slug} - rendering" }
       renderer.render_post(post)
-      @logger.debug("#{self.class}: saving exif cache #{post.slug}")
+      Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
-      @logger.debug("#{self.class}: DONE #{post.slug}")
+      Log.debug { "#{post.slug} - DONE" }
     end
 
     # if post were changed render some fast related pages

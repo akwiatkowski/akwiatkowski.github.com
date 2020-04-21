@@ -1,4 +1,6 @@
 class TownsIndexView < PageView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["towns.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["towns.title"].as(String)

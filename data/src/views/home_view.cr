@@ -1,4 +1,6 @@
 class HomeView < BaseView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @url = "/")
     @show_only_count = 8
   end

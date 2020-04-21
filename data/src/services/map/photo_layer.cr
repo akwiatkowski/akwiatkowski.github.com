@@ -4,11 +4,13 @@ alias PhotoMapSet = NamedTuple(
   photo: PhotoEntity)
 
 class Map::PhotoLayer
+  Log = ::Log.for(self)
+  
   def initialize(
     @photos : Array(PhotoEntity),
     @tiles_layer : TilesLayer,
     @quant_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-    @logger : Logger = Logger.new(STDOUT)
+
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -52,7 +54,7 @@ class Map::PhotoLayer
       x += @quant_size
     end
 
-    @logger.info("#{self.class}: selected total #{@photo_map_sets.size} photos")
+    Log.info { "selected total #{@photo_map_sets.size} photos" }
   end
 
   def select_photos_for_quant_and_add_to_list(
@@ -71,7 +73,7 @@ class Map::PhotoLayer
 
     # no photos, move along
     if selected_photos.size > 0
-      @logger.info("#{self.class}: #{selected_photos.size} selected_photos x: #{x} y: #{y}")
+      Log.info { "#{selected_photos.size} selected_photos x: #{x} y: #{y}" }
 
       # having array of photos take the best one
       # TODO: we need some logic to select which photos are better

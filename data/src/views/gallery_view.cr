@@ -1,5 +1,7 @@
 # TODO refactor to abstract GalleryAbstractView
 class GalleryView < WidePageView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog)
     @all_posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
     # only w/o "nogallery" flag and only trips
@@ -46,7 +48,7 @@ class GalleryView < WidePageView
         end
 
         # to be sure
-        t = t.at_beginning_of_month - Time::Span.new(24, 0, 0)
+        t = t.at_beginning_of_month - 1.month
       end
     end
 

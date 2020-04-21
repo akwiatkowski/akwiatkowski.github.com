@@ -1,11 +1,12 @@
 class Map::TilesLayer
+  Log = ::Log.for(self)
+  
   def initialize(
     # coord range of photos exif location
     @lat_min : Float64,
     @lat_max : Float64,
     @lon_min : Float64,
     @lon_max : Float64,
-    @logger = Logger.new(STDOUT),
     @zoom = DEFAULT_ZOOM,
     @type = MapType::Ump
   )
@@ -43,10 +44,10 @@ class Map::TilesLayer
     @map_lat1, @map_lon2 = geo_coords_from_tile_number(@x_tile1, @y_tile1).as(Tuple(Float64, Float64))
     @map_lat2, @map_lon1 = geo_coords_from_tile_number(@x_tile2, @y_tile2).as(Tuple(Float64, Float64))
 
-    @logger.info("#{self.class}: @x_tile1,@y_tile1=#{@x_tile1},#{@y_tile1} @x_tile2,@y_tile2=#{@x_tile2},#{@y_tile2}")
-    @logger.info("#{self.class}: @x_tile_size=#{@x_tile_size} @y_tile_size=#{@y_tile_size}")
-    @logger.info("#{self.class}: @map_width=#{@map_width} @map_height=#{@map_height}")
-    @logger.info("#{self.class}: @map_lat1,@map_lon1=#{@map_lat1},#{@map_lon1} @map_lat2,@map_lon2=#{@map_lat2},#{@map_lon2}")
+    Log.info { "@x_tile1,@y_tile1=#{@x_tile1},#{@y_tile1} @x_tile2,@y_tile2=#{@x_tile2},#{@y_tile2}" }
+    Log.info { "@x_tile_size=#{@x_tile_size} @y_tile_size=#{@y_tile_size}" }
+    Log.info { "@map_width=#{@map_width} @map_height=#{@map_height}" }
+    Log.info { "@map_lat1,@map_lon1=#{@map_lat1},#{@map_lon1} @map_lat2,@map_lon2=#{@map_lat2},#{@map_lon2}" }
   end
 
   getter :x_tile1, :y_tile1, :x_tile2, :y_tile2

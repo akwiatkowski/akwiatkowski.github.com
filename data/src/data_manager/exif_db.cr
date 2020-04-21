@@ -1,10 +1,11 @@
 class ExifDb
+  Log = ::Log.for(self)
+  
   BATCH_SAVE_COUNT = 500
 
   def initialize(
     @blog : Tremolite::Blog
   )
-    @logger = @blog.logger.as(Logger)
     @cache_path = Tremolite::DataManager::CACHE_PATH
 
     # Post#slug
@@ -67,7 +68,7 @@ class ExifDb
     uploaded_filenames = post.list_of_uploaded_photos
     not_published_filenames = post.list_of_uploaded_photos - published_filenames
 
-    @logger.debug("#{self.class}: not_published_filenames #{not_published_filenames.size}, uploaded_filenames #{uploaded_filenames.size}")
+    Log.debug { "not_published_filenames #{not_published_filenames.size}, uploaded_filenames #{uploaded_filenames.size}" }
 
     not_published_filenames.each do |uploaded_path|
       draft_photo_entity = PhotoEntity.new(
@@ -96,7 +97,7 @@ class ExifDb
 
   def save_cache(post_slug : String)
     dirty = @exif_entities_dirty[post_slug]?
-    @logger.debug("#{self.class}: save_exif_entities dirty=#{dirty}")
+    Log.debug { "save_exif_entities dirty=#{dirty}" }
     # not need to overwrite if no exif data was added
     return unless dirty
 
@@ -104,7 +105,7 @@ class ExifDb
       @exif_entities[post_slug].to_yaml(f)
     end
 
-    @logger.info("#{self.class}: save_exif_entities #{@exif_entities[post_slug].size}")
+    Log.info { "save_exif_entities #{@exif_entities[post_slug].size}" }
   end
 
   def load_or_initialize_exif_for_post(post_slug : String)
@@ -113,11 +114,11 @@ class ExifDb
 
     path = exif_db_file_path(post_slug)
     if File.exists?(path)
-      @logger.debug("#{self.class}: loading exif for #{post_slug}")
+      Log.debug { "loading exif for #{post_slug}" }
       @exif_entities[post_slug] = Array(ExifEntity).from_yaml(File.open(path))
       @exif_entities_dirty[post_slug] = false
     else
-      @logger.debug("#{self.class}: initializing exif for #{post_slug}")
+      Log.debug { "initializing exif for #{post_slug}" }
       @exif_entities[post_slug] = Array(ExifEntity).new
       # because even if it's empty it need to be saved
       @exif_entities_dirty[post_slug] = true

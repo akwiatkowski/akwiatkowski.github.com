@@ -1,6 +1,8 @@
 require "../services/map/base"
 
 class PhotoMapHtmlView < WidePageView
+  Log = ::Log.for(self)
+  
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,

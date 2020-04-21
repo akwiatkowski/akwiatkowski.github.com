@@ -1,4 +1,6 @@
 class MapView < BaseView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["map.backgrounds"].as(String)
   end

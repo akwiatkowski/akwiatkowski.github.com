@@ -4,6 +4,8 @@ require "logger"
 require "./transport_poi_entity"
 
 struct TodoRouteEntity
+  Log = ::Log.for(self)
+
   @voivodeship : String
   @type : String         # bicycle, hike
   @distance : Float64    # kilometers
@@ -33,7 +35,7 @@ struct TodoRouteEntity
   getter :train_return_time_cost
   getter :from_poi, :to_poi
 
-  def initialize(y : YAML::Any, transport_pois : Array(TransportPoiEntity), @logger : Logger)
+  def initialize(y : YAML::Any, transport_pois : Array(TransportPoiEntity))
     @voivodeship = y["voivodeship"].to_s
     @type = y["type"].to_s
     @distance = y["distance"].to_s.to_f
@@ -55,7 +57,7 @@ struct TodoRouteEntity
         @transport_from_cost = -1
       end
     else
-      @logger.error("TodoRouteEntity: NOT FOUND FOR #{@from}".colorize(:red))
+      Log.error { "not found for #{@from}" }
       @transport_from_cost = -1
       raise "TodoRouteEntity: NOT FOUND FOR #{@from}"
     end
@@ -69,7 +71,7 @@ struct TodoRouteEntity
         @transport_to_cost = -1
       end
     else
-      @logger.error("TodoRouteEntity: NOT FOUND FOR #{@to}".colorize(:red))
+      Log.error { "not found for #{@to}" }
       @transport_to_cost = -1
       raise "TodoRouteEntity: NOT FOUND FOR #{@to}"
     end

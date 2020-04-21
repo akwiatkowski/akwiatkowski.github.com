@@ -8,13 +8,13 @@ require "../services/exif_stat/exif_stat_helper"
 # * filter only zoom lenses
 
 class ExifStatsView < WidePageView
+  Log = ::Log.for(self)
+  
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,
     @by_tag : String | Nil = nil
   )
-    @logger = @blog.logger.as(Logger)
-
     @url = "/exif_stats"
     @title = "Statystyki EXIF"
     @subtitle = ""
@@ -35,7 +35,7 @@ class ExifStatsView < WidePageView
 
     @posts.each do |post|
       published_photos = @blog.data_manager.exif_db.published_photo_entities(post.slug)
-      @logger.debug("#{self.class}: post #{post.slug} - #{published_photos.size} photos")
+      Log.debug { "post #{post.slug} - #{published_photos.size} photos" }
       @published_photos += published_photos
     end
   end

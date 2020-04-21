@@ -1,6 +1,8 @@
 require "yaml"
 
 struct VoivodeshipEntity
+  Log = ::Log.for(self)
+
   @slug : String
   @name : String
   @header_img : (String | Nil)

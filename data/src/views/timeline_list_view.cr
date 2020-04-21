@@ -1,4 +1,6 @@
 class TimelineList < WidePageView
+  Log = ::Log.for(self)
+  
   def initialize(@blog : Tremolite::Blog)
     @posts = @blog.post_collection.posts.select { |p| p.trip? }.as(Array(Tremolite::Post))
     @data_manager = @blog.data_manager.as(Tremolite::DataManager)

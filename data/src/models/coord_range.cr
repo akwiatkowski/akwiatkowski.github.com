@@ -1,4 +1,6 @@
 struct CoordRange
+  Log = ::Log.for(self)
+
   @lat_from : Float64
   @lat_to : Float64
   @lon_from : Float64

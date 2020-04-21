@@ -1,19 +1,21 @@
 class Map::RoutesLayer
+  Log = ::Log.for(self)
+  
   def initialize(
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
-    @logger : Logger = Logger.new(STDOUT)
+
   )
   end
 
   def render_svg
-    @logger.debug("#{self.class} #{@posts.size} @posts")
+    Log.debug { "#{self.class} #{@posts.size} @posts" }
     return String.build do |s|
       s << "<g id='photo-map-routes' >\n"
 
       @posts.each do |post|
         routes = post.detailed_routes
-        @logger.debug("#{self.class}: #{routes.size} routes in #{post.slug}")
+        Log.debug { "#{routes.size} routes in #{post.slug}" }
         if routes.size > 0
           # post can have multiple route objects
           post.detailed_routes.each do |route_object|
@@ -25,7 +27,7 @@ class Map::RoutesLayer
       end
 
       s << "</g>"
-      @logger.debug("#{self.class}: svg done")
+      Log.debug { "svg done" }
     end
   end
 
