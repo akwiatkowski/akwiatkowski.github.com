@@ -112,6 +112,9 @@ class Tremolite::Renderer
   def render_exif_page
     render_photo_maps
     render_exif_stats
+
+    # if exif was changed copy (no overwrite) images
+    copy_post_photos
   end
 
   # simple renders
@@ -178,7 +181,7 @@ class Tremolite::Renderer
 
   def render_photo_maps_debug_post
     slug = "2019-06-09-pomorska-dziura-transportowa"
-    slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
+    # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
     end.first
@@ -228,7 +231,7 @@ class Tremolite::Renderer
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
         min_diagonal: 800,
-        max_diagonal: 3500,
+        max_diagonal: 4200,
       )
 
       if autozoom_value
@@ -616,5 +619,10 @@ class Tremolite::Renderer
   # to decide which renderers to run
   def all_mod_watchers
     @blog.mod_watcher.not_nil!.all_mod_watchers
+  end
+
+  private def copy_post_photos
+    command = "rsync -av #{blog.data_path}/images/ #{blog.public_path}/images/"
+    `#{command}`
   end
 end
