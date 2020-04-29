@@ -117,6 +117,8 @@ class Tremolite::Blog
       exifs_changed: exifs_changed,
     )
 
+    validator.run
+
     # Z) store current state
     # current state is refreshed in `#update_before_save`
     mod_watcher.save_to_file
