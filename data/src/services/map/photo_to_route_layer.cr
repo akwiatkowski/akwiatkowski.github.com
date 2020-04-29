@@ -48,20 +48,22 @@ end
 
 class Map::PhotoToRouteLayer
   Log = ::Log.for(self)
-  
-  BLOCKED_ROUTE_PADDING = 30
-  DISTANCES_FROM_POINT  = [240, 320, 480]
-  DEGREE_INCREMENTAL    =    15
-  MARGIN_COEFF          =   1.4
-  CLOSEST_PHOTO_POINT   =    10 # not sure why not working :(
-  MIN_GEO_DISTANCE      = 0.004
+
+  BLOCKED_ROUTE_PADDING          = 20
+  DISTANCES_FROM_POINT           = [150, 200, 250]
+  DEGREE_INCREMENTAL             =    15
+  MARGIN_COEFF                   =   1.3
+  CLOSEST_PHOTO_POINT            =    10 # not sure why not working :(
+  MIN_GEO_DISTANCE               = 0.004
+  DISTANCES_FROM_POINT_SIDE      = [150, 200, 220]
+  BEARING_ROUTE_CROP_SIZE        =   10
+  BEARING_ROUTE_CLOSEST_DISTANCE = 0.05
 
   def initialize(
     photos : Array(PhotoEntity),
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
-    @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-
+    @image_size = DEFAULTH_PHOTO_SIZE.as(Int32)
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -77,6 +79,15 @@ class Map::PhotoToRouteLayer
     @last_photo_point_x = 0
     @last_photo_point_y = 0
 
+    # this is used for calculating ideal place for photo
+    @all_route_points = SingleRouteObject.new
+
+    @posts.each do |post|
+      post.detailed_routes.each do |route_object|
+        @all_route_points += route_object.route.as(SingleRouteObject)
+      end
+    end
+
     # 1. populate blocking @blocked_coord_ranges
     @blocked_coord_ranges = Array(Map::MapCoordRange).new
     populate_route_coord_ranges
@@ -86,6 +97,9 @@ class Map::PhotoToRouteLayer
     @photo_margin = (MARGIN_COEFF * @photo_center_to_corner).to_i.as(Int32)
     @photo_positions = Array(Map::PhotoToRoutePosition).new
     assign_photo_positions
+
+    # 3. fix crossed photos
+    fix_crossing_photos
   end
 
   private def populate_route_coord_ranges
@@ -119,17 +133,57 @@ class Map::PhotoToRouteLayer
     end
   end
 
+  private def find_route_bearing_for_point(lat, lon)
+    # sort
+    sorted_points = @all_route_points.sort do |a, b|
+      distance_a = Math.sqrt(((a[0] - lat) ** 2) + ((a[1] - lon) ** 2))
+      distance_b = Math.sqrt(((b[0] - lat) ** 2) + ((b[1] - lon) ** 2))
+      distance_a <=> distance_b
+    end
+
+    # select only few closest
+    cropped_points = sorted_points.select do |a|
+      distance_a = Math.sqrt(((a[0] - lat) ** 2) + ((a[1] - lon) ** 2))
+      distance_a < BEARING_ROUTE_CLOSEST_DISTANCE
+    end[0..BEARING_ROUTE_CROP_SIZE]
+
+    # convert to x/y
+    converted_points = cropped_points.map do |geo_coord|
+      @tiles_layer.in_map_position_from_geo_coords(
+        lat_deg: geo_coord[0],
+        lon_deg: geo_coord[1]
+      ).as(Tuple(Int32, Int32))
+    end
+
+    x_array = converted_points.map { |g| g[0] }
+    y_array = converted_points.map { |g| g[1] }
+
+    return nil if x_array.size == 0 || y_array.size == 0
+
+    x_distance = x_array.max - x_array.min
+    y_distance = y_array.max - y_array.min
+
+    degree = 180.0 * Math.atan2(x_distance.to_f, y_distance.to_f) / Math::PI
+
+    return degree
+  end
+
   private def assign_photo_positions
     @filtered_photos.sort.each do |photo|
+      lat = photo.exif.lat.not_nil!
+      lon = photo.exif.lon.not_nil!
+
       point_x, point_y = @tiles_layer.in_map_position_from_geo_coords(
-        lat_deg: photo.exif.lat.not_nil!,
-        lon_deg: photo.exif.lon.not_nil!,
+        lat_deg: lat,
+        lon_deg: lon,
       ).as(Tuple(Int32, Int32))
+
+      degree = find_route_bearing_for_point(lat, lon)
 
       distance_to_last_photo = Math.sqrt((@last_photo_point_x - point_x) ** 2 + (@last_photo_point_y - point_y) ** 2).to_i
       distance_longer = distance_to_last_photo > CLOSEST_PHOTO_POINT
 
-      spot_for_photo = find_photo_spot_for_point(point_x, point_y)
+      spot_for_photo = find_photo_spot_for_point(point_x, point_y, degree)
 
       if spot_for_photo && distance_to_last_photo
         # set photo coordinates (not point) on map
@@ -157,33 +211,59 @@ class Map::PhotoToRouteLayer
     end
   end
 
-  private def find_photo_spot_for_point(point_x, point_y)
+  private def find_photo_spot_for_point(point_x, point_y, degree)
     possible_map_coords = Array(MapCoordRange).new
+    possible_photo_coords = Array(Tuple(Int32, Int32)).new
 
-    degree = 0
-    DISTANCES_FROM_POINT.each do |distance|
-      while degree < 360
-        # minus to start from top
-        photo_x = point_x - (Math.sin(degree) * distance.to_f).to_i
-        photo_y = point_y - (Math.cos(degree) * distance.to_f).to_i
+    # degree bases, best strategy
+    if degree
+      DISTANCES_FROM_POINT_SIDE.each do |distance|
+        [degree.not_nil! - 90.0, degree.not_nil! + 90.0].each do |iteration_degree|
+          photo_x = point_x - (Math.sin(iteration_degree) * distance.to_f).to_i
+          photo_y = point_y - (Math.cos(iteration_degree) * distance.to_f).to_i
 
-        x_from = photo_x - @photo_margin
-        y_from = photo_y - @photo_margin
-        x_to = photo_x + @photo_margin
-        y_to = photo_y + @photo_margin
+          Log.debug { "route side photo spot #{photo_x},#{photo_y}" }
 
-        positoned_on_map = x_from >= 0 && y_from >= 0 && x_to <= @map_width && y_to <= @map_height
-
-        if positoned_on_map
-          possible_map_coords << MapCoordRange.new(
-            x_from: x_from,
-            y_from: y_from,
-            x_to: x_to,
-            y_to: y_to,
-          )
+          possible_photo_coords << {photo_x, photo_y}
         end
+      end
+    end
 
-        degree += DEGREE_INCREMENTAL
+    # circle around point, good but not great
+    iteration_degree = 0
+    DISTANCES_FROM_POINT.each do |distance|
+      while iteration_degree < 360
+        # minus to start from top
+        photo_x = point_x - (Math.sin(iteration_degree) * distance.to_f).to_i
+        photo_y = point_y - (Math.cos(iteration_degree) * distance.to_f).to_i
+
+        Log.debug { "rotated photo spot #{photo_x},#{photo_y}" }
+
+        possible_photo_coords << {photo_x, photo_y}
+
+        iteration_degree += DEGREE_INCREMENTAL
+      end
+    end
+
+    # process photo center point
+    possible_photo_coords.each do |coord|
+      photo_x = coord[0]
+      photo_y = coord[1]
+
+      x_from = photo_x - @photo_margin
+      y_from = photo_y - @photo_margin
+      x_to = photo_x + @photo_margin
+      y_to = photo_y + @photo_margin
+
+      positioned_on_map = x_from >= 0 && y_from >= 0 && x_to <= @map_width && y_to <= @map_height
+
+      if positioned_on_map
+        possible_map_coords << MapCoordRange.new(
+          x_from: x_from,
+          y_from: y_from,
+          x_to: x_to,
+          y_to: y_to,
+        )
       end
     end
 
@@ -223,6 +303,58 @@ class Map::PhotoToRouteLayer
       end
     end
     return array
+  end
+
+  private def fix_crossing_photos
+    # TODO not working as intended
+    return
+
+    (1...@photo_positions.size).each do |i|
+      previous = @photo_positions[i - 1]
+      current = @photo_positions[i]
+
+      point_distance = Math.sqrt(
+        ((previous.point_x - current.point_x) ** 2) +
+        ((previous.point_y - current.point_y) ** 2)
+      )
+
+      switch = false
+
+      if point_distance < 150 && (previous.point_x > current.photo_center_x && current.point_x < previous.photo_center_x)
+        Log.debug { "switch X @photo_positions #{i - 1} <> #{i}" }
+        switch = true
+      end
+
+      if point_distance < 150 && (previous.point_y > current.photo_center_y && current.point_y < previous.photo_center_y)
+        Log.debug { "switch Y @photo_positions #{i - 1} <> #{i}" }
+        switch = true
+      end
+
+      if switch
+        new_previous = PhotoToRoutePosition.new(
+          photo_entity: previous.photo_entity,
+          point_x: previous.point_x,
+          point_y: previous.point_y,
+          photo_center_x: current.photo_center_x,
+          photo_center_y: current.photo_center_y,
+          corner_photo_x: current.corner_photo_x,
+          corner_photo_y: current.corner_photo_y,
+        )
+
+        new_current = PhotoToRoutePosition.new(
+          photo_entity: current.photo_entity,
+          point_x: current.point_x,
+          point_y: current.point_y,
+          photo_center_x: previous.photo_center_x,
+          photo_center_y: previous.photo_center_y,
+          corner_photo_x: previous.corner_photo_x,
+          corner_photo_y: previous.corner_photo_y,
+        )
+
+        @photo_positions[i - 1] = new_previous
+        @photo_positions[i] = new_current
+      end
+    end
   end
 
   def render_svg
