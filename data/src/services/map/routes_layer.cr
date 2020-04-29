@@ -1,10 +1,9 @@
 class Map::RoutesLayer
   Log = ::Log.for(self)
-  
+
   def initialize(
     @posts : Array(Tremolite::Post),
-    @tiles_layer : TilesLayer,
-
+    @tiles_layer : TilesLayer
   )
   end
 

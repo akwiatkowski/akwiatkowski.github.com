@@ -5,12 +5,11 @@ alias PhotoMapSet = NamedTuple(
 
 class Map::PhotoLayer
   Log = ::Log.for(self)
-  
+
   def initialize(
     @photos : Array(PhotoEntity),
     @tiles_layer : TilesLayer,
-    @quant_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-
+    @quant_size = DEFAULTH_PHOTO_SIZE.as(Int32)
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)

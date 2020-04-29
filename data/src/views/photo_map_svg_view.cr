@@ -2,7 +2,7 @@ require "../services/map/base"
 
 class PhotoMapSvgView < Tremolite::Views::AbstractView
   Log = ::Log.for(self)
-  
+
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,

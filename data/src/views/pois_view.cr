@@ -1,6 +1,6 @@
 class PoisView < PageView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["pois.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["pois.title"].as(String)

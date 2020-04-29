@@ -3,7 +3,7 @@ require "./post_gallery_stats_view"
 
 class PostGalleryView < BaseView
   Log = ::Log.for(self)
-  
+
   GALLERY_URL_SUFFIX = "/gallery.html"
 
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)

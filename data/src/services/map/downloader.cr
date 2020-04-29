@@ -5,7 +5,7 @@ require "./tiles_layer"
 
 class Map::Downloader
   Log = ::Log.for(self)
-  
+
   DEFAULT_ZOOM = 10
   PUBLIC_PATH  = "public/tiles"
   # download addition border tile

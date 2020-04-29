@@ -1,6 +1,6 @@
 class ExifDb
   Log = ::Log.for(self)
-  
+
   BATCH_SAVE_COUNT = 500
 
   def initialize(

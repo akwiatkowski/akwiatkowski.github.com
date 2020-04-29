@@ -1,6 +1,6 @@
 class Map::TilesLayer
   Log = ::Log.for(self)
-  
+
   def initialize(
     # coord range of photos exif location
     @lat_min : Float64,

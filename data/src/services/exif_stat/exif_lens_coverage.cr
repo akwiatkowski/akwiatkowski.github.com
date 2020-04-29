@@ -1,6 +1,6 @@
 class ExifStat::ExifLensCoverage
   Log = ::Log.for(self)
-  
+
   # how much I could crop using FF than I can using m43 [%]
   FF_RANGE_TO_MAX_CROP_PERC = 25
   FF_RANGE_TO_COEF          = 1.0 + (FF_RANGE_TO_MAX_CROP_PERC.to_f / 100.0)

@@ -1,6 +1,6 @@
 class PlannerView < BaseView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["planner.backgrounds"].as(String)
   end

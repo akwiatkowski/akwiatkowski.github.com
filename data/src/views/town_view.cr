@@ -1,6 +1,6 @@
 class TownView < BaseView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @town : TownEntity)
     @url = @town.url
 

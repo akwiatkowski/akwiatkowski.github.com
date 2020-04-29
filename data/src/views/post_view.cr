@@ -2,7 +2,7 @@ require "../services/day_of_week"
 
 class PostView < BaseView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @post : Tremolite::Post)
     @url = @post.url.as(String)
     @validator = @blog.validator.as(Tremolite::Validator)

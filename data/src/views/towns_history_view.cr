@@ -1,6 +1,6 @@
 class TownsHistoryView < PageView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @url : String)
     @image_url = @blog.data_manager.not_nil!["towns_history.backgrounds"].as(String)
     @title = @blog.data_manager.not_nil!["towns_history.title"].as(String)

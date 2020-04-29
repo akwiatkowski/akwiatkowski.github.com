@@ -1,6 +1,6 @@
 class ExifProcessor
   Log = ::Log.for(self)
-  
+
   PROCESSED_KEYS = [
     "Exif.GPSInfo.GPSAltitude",
     "Exif.GPSInfo.GPSLongitude",

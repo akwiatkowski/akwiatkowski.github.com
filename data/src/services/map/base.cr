@@ -6,7 +6,7 @@ require "./photo_to_route_layer"
 
 class Map::Base
   Log = ::Log.for(self)
-  
+
   def initialize(
     @blog : Tremolite::Blog,
     @tile = MapType::Ump,

@@ -1,6 +1,6 @@
 class VoivodeshipView < BaseView
   Log = ::Log.for(self)
-  
+
   def initialize(@blog : Tremolite::Blog, @voivodeship : VoivodeshipEntity)
     @url = @voivodeship.url
 

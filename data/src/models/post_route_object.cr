@@ -4,7 +4,7 @@ alias SingleRouteObject = Array(Array(Float64))
 
 struct PostRouteObject
   Log = ::Log.for(self)
-  
+
   @type : String
   @route : SingleRouteObject
 
