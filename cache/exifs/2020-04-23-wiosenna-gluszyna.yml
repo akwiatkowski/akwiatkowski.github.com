@@ -1,0 +1,326 @@
+---
+- image_filename: header.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+- image_filename: 2020_04_23__16_44__4238018.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31718055555556
+  lon: 16.941583333333334
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5024
+  height: 3750
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-23 16:44:35+02:00
+  focus_distance: 3.43
+- image_filename: 2020_04_23__16_38__4237963.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.318625000000004
+  lon: 16.931486111111113
+  altitude: 66.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4633
+  height: 3159
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-04-23 16:38:51+02:00
+  focus_distance: 0.6
+- image_filename: 2020_04_23__16_40__4237994.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31866666666667
+  lon: 16.93163888888889
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4787
+  height: 3494
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-04-23 16:40:19+02:00
+  focus_distance: 3.46
+- image_filename: 2020_04_23__16_23__4237726.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.32793055555556
+  lon: 16.931458333333335
+  altitude: 68.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-04-23 16:23:53+02:00
+  focus_distance: 2.33
+- image_filename: 2020_04_23__17_24__4238045.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.30094444444444
+  lon: 16.973847222222222
+  altitude: 73.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3912
+  height: 5240
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-23 17:24:29+02:00
+  focus_distance: 50.56
+- image_filename: 2020_04_23__16_27__4237734.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.322388888888895
+  lon: 16.930875
+  altitude: 67.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5156
+  height: 3849
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2020-04-23 16:27:08+02:00
+  focus_distance: 5.28
+- image_filename: 2020_04_23__17_19__4238035.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.30083333333333
+  lon: 16.97658333333333
+  altitude: 63.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5101
+  height: 3819
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-04-23 17:19:15+02:00
+  focus_distance: 1.71
+- image_filename: 2020_04_23__16_34__4237769.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31859722222222
+  lon: 16.931458333333335
+  altitude: 65.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4716
+  height: 3499
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-04-23 16:34:50+02:00
+  focus_distance: 1.75
+- image_filename: 2020_04_23__17_08__4238032.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.300888888888885
+  lon: 16.976680555555554
+  altitude: 66.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-23 17:08:52+02:00
+  focus_distance: 8.61
+- image_filename: 2020_04_23__16_36__4237875.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31865277777778
+  lon: 16.931486111111113
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-04-23 16:36:01+02:00
+  focus_distance: 2.05
+- image_filename: 2020_04_23__17_03__4238027.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.30052777777777
+  lon: 16.973999999999997
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5007
+  height: 3738
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-04-23 17:03:24+02:00
+  focus_distance: 27.86
+- image_filename: 2020_04_23__16_38__4237958.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.318625000000004
+  lon: 16.931486111111113
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-04-23 16:38:28+02:00
+  focus_distance: 2.1
+- image_filename: 2020_04_23__16_35__4237855.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31863888888889
+  lon: 16.931486111111113
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-04-23 16:35:53+02:00
+  focus_distance: 3.42
+- image_filename: 2020_04_23__16_06__4237719.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.35916666666667
+  lon: 16.941083333333335
+  altitude: 80.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5230
+  height: 3898
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-04-23 16:06:32+02:00
+  focus_distance: 59.15
+- image_filename: 2020_04_23__17_19__4238037.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.30083333333333
+  lon: 16.976611111111108
+  altitude: 63.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5101
+  height: 3808
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-04-23 17:19:43+02:00
+  focus_distance: 18.94
+- image_filename: 2020_04_23__17_33__4238056.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.30645833333333
+  lon: 16.96972222222222
+  altitude: 64.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5070
+  height: 3772
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-23 17:33:11+02:00
+  focus_distance: 5.97
+- image_filename: 2020_04_23__16_35__4237863.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.31863888888889
+  lon: 16.931486111111113
+  altitude: 66.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-04-23 16:35:54+02:00
+  focus_distance: 3.38
+- image_filename: 2020_04_23__16_35__4237827.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.318625000000004
+  lon: 16.931472222222222
+  altitude: 65.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4643
+  height: 3398
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-04-23 16:35:45+02:00
+  focus_distance: 3.91
+- image_filename: 2020_04_23__16_26__4237731.jpg
+  post_slug: 2020-04-23-wiosenna-gluszyna
+  lat: 52.322861111111116
+  lon: 16.930958333333333
+  altitude: 67.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.04
+  exposure_string: 1/25 s
+  time: 2020-04-23 16:26:56+02:00
+  focus_distance: 14.14
