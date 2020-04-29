@@ -53,8 +53,6 @@ class TownsTimelineView < PageView
 
       # next month
       time = time.at_beginning_of_next_month
-
-      puts "1 #{time}"
     end
 
     return s
@@ -125,8 +123,6 @@ class TownsTimelineView < PageView
 
       # next month
       t = t.at_beginning_of_next_month
-
-      puts "2 #{t}"
     end
   end
 
