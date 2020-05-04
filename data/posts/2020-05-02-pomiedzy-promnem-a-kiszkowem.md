@@ -32,6 +32,104 @@ pois:
 
 ## Wstęp
 
-## Opis trasy
+Tego dnia zaplanowałem spacer połączony z jazdą samochodem. Chciałem
+dokładniej zwiedzić okolice a północ od [Pobiedzisk][wiki-pobiedziska]
+jednak nie miałem dokładnego planu.
 
 ## Szczegóły
+
+Gdy ruszyliśmy z [Poznania][wiki-poznan] ponownie zobaczyłem na prognozę pogody.
+Deszcz, który na wykresie zniknął rankiem, ponownie się pojawił co zobaczyłem
+na własne oczy. Zaczął padać bardzo silny deszcz z gradem.
+
+{% photo "2020_05_02__13_21_DSC07796.jpg","Samotny budynek na skraju" %}
+
+W okolicy [Promno-Stacja][wiki-promno-stacja] skręciliśmy w lewo na północ.
+Chciałem zobaczyć okolicę [Borowego Młynu][wiki-borowy-mlyn].
+
+{% photo "2020_05_02__13_21_DSC07800.jpg","Droga w stronę Wronczyna/Jerzyna","timeline" %}
+
+Szukajac dobrego miejsca aby zaparkować, gdyż do gradu dołączyła burza,
+szukaliśmy miejsca z dala od drzew ale nie w terenie całkowicie otwartym.
+
+{% photo "2020_05_02__13_35__5028211.jpg","Mokry dmuchawiec" %}
+
+Poczekaliśmy chwilę aż deszcz przestał padać. Przyznam się, że widok
+takiego deszczu i burzy dawno nie widziałem.
+
+{% photo "2020_05_02__13_56_DSC07813.jpg","Jezioro Jerzyńskie" %}
+
+Okolica bardzo mi się podobała. Soczyste zielone pola były w tym momencie
+dla mnie bardzo ładne i uspokajające. Właśnie jeżdżąc rowerem lubie takie miejsca
+gdyż mogę mentalnie uciec od tego zabetonowanego miasta które tak wypycha
+przyrodę.
+
+{% photo "2020_05_02__14_41_DSC07831.jpg","Okolica sklepu we Wronczynie" %}
+
+Dojechaliśmy drogą leśną do [Jerzyna][wiki-jerzyn] i tam zatrzymaliśmy
+się na plaży przy jeziorze. Słyszałem tam bardzo głośnego ptaka,
+prawdopodobnie to był [trzciniak][wiki-trzciniak].
+
+[wiki-trzciniak]: https://pl.wikipedia.org/wiki/Trzciniak_zwyczajny
+
+{% photo "2020_05_02__15_04__5028304.jpg","Tunel drzewny niedaleko Krześlic","timeline" %}
+
+Ruszyliśmy w stronę [Krześlic][wiki-krzeslice]. Zatrzymaliśmy się przed
+tą wsią aby zrobić trochę zdjęć kwitnącego rzepaku.
+
+{% photo "2020_05_02__15_05_DSC07870.jpg","Wiosenna droga" %}
+
+Chciałem ponownie dojechać w okolice [Turostowa][wiki-turostowo],
+gdzie byłem ponad
+[miesiąc temu]({% post_url 2020-03-21-pagorki-w-okolicy-puszczy-zielonki %})
+i byłem zaskoczony pagórkami. Dlatego ponownie chciałem zwiedzić te tereny
+jednak będę musiał to zrobić na pewno jeszcze raz - na rowerze.
+
+{% photo "2020_05_02__15_30_DSC07916.jpg","Mlecze na polanie" %}
+
+Zatrzymaliśmy się na polanie niedaleko wsi [Bednary][wiki-bednary].
+
+{% photo "2020_05_02__15_50__5028430.jpg","Dmuchawiec" %}
+
+Próbowałem robić zdjęcia mleczom chociaż jestem średnio zadowolony z nich.
+Szukałem jakiś robaków do zdjęć makro ale widać, że przyroda dopiero się
+budzi. Pewnie w lecie będzie ich więcej.
+
+{% photo "2020_05_02__15_46__5028405.jpg","Mały robal na mleczu" %}
+
+Przejechaliśmy przez [Stęszewice][wiki-steszewice] i [Karczewko][wiki-karczewko].
+Musieliśmy jechać bardzo powoli gdyż jakość drogi jest tam na ogoł średnio-słaba.
+
+{% photo "2020_05_02__16_32__5028526.jpg","Widok na pole w stronę wsi Łubowiczki","timeline" %}
+
+[Karczewko][wiki-karczewko] mi się podobało jednak musiałbym jeszcze raz tu przyjechać,
+tym razem rowerem, i przejechać drogami gruntowymi mając więcej czasu
+na robienie zdjęć. Przyznam, że niewiele zapamiętałem z tej okolicy.
+
+{% photo "2020_05_02__16_49__5028611.jpg","Żółte pola","timeline" %}
+
+Widziałem przystanek autobusowy w okolicy [Stęszewic][wiki-steszewice] jednak
+nie zatrzymałem się aby zobaczyć jaki autobus tutaj jeździ.
+
+{% photo "2020_05_02__16_55__5028618.jpg","Wieś Pomarzanowice wiosną" %}
+
+Przejechaliśmy przez [Kiszkowo][wiki-kiszkowo] i wracaliśmy do [Pobiedzisk][wiki-pobiedziska].
+
+W okolicy [Pomarzanowic][wiki-pomarzanowice] zauważyliśmy ciekawą aleję drzew między polami
+rzepaku. Zatrzymaliśmy się tam na chwilę.
+
+{% photo "2020_05_02__17_06__5028677.jpg","Ślimak" %}
+
+Patrząc na zachód widziałem bardzo solidną chmurę, która stałą się głównym
+obiektem do zdjęć. Idealnie ona kontrastowała z żółtymi polami rzepaku.
+
+{% photo "2020_05_02__17_37_DSC07987.jpg","Rzepak i ciemna chmura" %}
+
+Zrobiłem więcej zdjęć rzepaku i ciemnej chmury jednak nie chce wrzucać więcej podobnych.
+
+{% photo "2020_05_02__17_23__5028747.jpg","Trzmiel pracujący" %}
+
+Robiło się ciemniej i chłodniej. Wróciliśmy do samochodu i już wracaliśmy do
+[Poznania][wiki-poznan].
+
+{% photo "2020_05_02__17_42__5028840.jpg","Blog w Pomarzanowicach" %}
