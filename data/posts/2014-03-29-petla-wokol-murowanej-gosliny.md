@@ -4,9 +4,8 @@ title:                  "Pętla wokół Murowanej Gośliny"
 subtitle:               "trochę po Puszczy Zielonce"
 date:                   2014-03-29 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/74025541/m%3D2048/ec9fa92b983add7b72530e15e82e534d"
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle, no_photos]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina]
 
 distance:               75

@@ -4,10 +4,9 @@ title:                  "Z Szamotuł do Trzcianki"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/111757373/m%3D2048/76b4921e336aac1ba799ff54684fcf00"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, best, todo_media_later]
+tags:                   [main, bicycle, best]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
 lands:                  [pojezierze_poznanskie]
 
@@ -73,24 +72,28 @@ Szczegóły
 Wyjeżdzając z [Szamotuł][wiki-szamotuly] trafiłem na bardzo ładne tereny wiejskie w okolicy [Grabowca][ump-grabowiec], niestety
 szybko one minęły i po chwili jechałem już asfaltem w stronę [Piotrkówka][wiki-piotrkowko].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/126749638' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP9763raw1.jpg","Okolica Szczuczyna","timeline" %}
 
-
-[Piotrkówko][wiki-piotrkowko] jest wsią znacznie większą niż Grabowiec. Prawdopodobnie dlatego ma swoją stronę na wikipedii. Przejazd przez nią widać
-[tutaj][vimeo-2]. Patrząc na gęstość zabudowy jest to jednak spora wioska.
+[Piotrkówko][wiki-piotrkowko] jest wsią znacznie większą niż Grabowiec. Prawdopodobnie dlatego ma swoją stronę na wikipedii. Patrząc na gęstość zabudowy jest to jednak spora wioska.
 
 Na szlaku w obrębie Sycyna
 minąłem gospodarstwo agroturystyczne. Następnie krótka, mało ciekawa trasa przez las i wyjazd
 w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce jest trochę daleko od cywilizacji. Z północy graniczy ona z
 rzeką [Wartą][wiki-warta].
 
-Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej. [Wyjeżdzając z niej][vimeo-3] jedzie się po moście,
+{% photo "IMGP9765raw1.jpg","Osada Piotrkówko przy leie" %}
+
+Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej. Wyjeżdzając z niej jedzie się po moście,
 położonym nad nieistniejącą już linią kolejową [Oborniki][wiki-oborniki] - [Wronki][wiki-wronki],
 oraz widzi się fragment [mostu][most-stobnica] łączącego ze [Stobnicą][wiki-stobnica].
+
+{% photo "IMGP9777raw1.jpg","Widok na Wartę niedaleko Obrzycka","timeline" %}
 
 Dalej jadąc do [Obrzycka][wiki-obrzycko] przez las mijałem coś co wyglądało na przystanek. Mógł to być przystanek
 nieistniejącej już kolei, chociaż w pobliżu żadnych innych zabudowań nie widziałem.
 Jeżdząc po Polsce gdzieniegdzie widać takie ciekawostki.
+
+{% photo "IMGP9781raw1.jpg","Nudna droga przez Puszczę Notecką" %}
 
 Z [Obrzycka][wiki-obrzycko] wyjechałem przez most w stronę [Zielonejgóry][wiki-zielonagora] (nie Zielonej Góry).
 Jest to wioska o dość gęstej zabudowie, po drugiej stronie [Warty][wiki-warta] od [Obrzycka][wiki-obrzycko].
@@ -98,21 +101,27 @@ W poprzednim roku [przejeżdzałem](/trip/2014/04/28/nadwarcianskim-szlakiem-row
 z Obornik
 do Wronek przez tą miejscowośc, tym razem skręciłem na północ kierując się przez [Puszczę Notecką][wiki-puszcza-notecka].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/126865029' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP9795raw1.jpg","Okolica Jędrzejewa","timeline" %}
 
 [Puszcza Notecka][wiki-puszcza-notecka] z perspektywy przejazdu rowerem jest raczej nudna - asfalt i około 7km prosto przez
 lasy. Jak się jedzie to również nie słyszy się ptaków i ogólnie samej przyrody tylko słyszy
 się szum powietrza. Po wyjechaniu z puszczy przejechałem przez wieś
 [Tarnówko][wiki-tarnowko]. Ponownie, kolejna w miarę duża wieś po drodzę.
 
+{% photo "IMGP9798raw1.jpg","Wiosenna droga","timeline" %}
+
 Wyjeżdzajac z [Młynkowa][wiki-mlynkowo] do [Jędrzejewa][wiki-jedrzejewo] zaczęło trochę wiać. Ostudziło to moje myśli aby
 przedłużyć trasę dalej do [Piły][wiki-pila], a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.
 Przez cały czas jechałem wokół pól i raczej nie ma co więcej opisywać.
 [Młynkowo][wiki-mlynkowo] to kolejna duża wioska. Chyba nawet jest tam
-szkoła. [Filmik][vimeo-5] przedstawia trasę aż do wyjazdu z [Młynkowa][wiki-mlynkowo].
+szkoła.
+
+{% photo "IMGP9804raw2.jpg","Pola pomiędzy Dębe a Prusinowem","timeline" %}
 
 Na drodzę z [Młynkowa][wiki-mlynkowo] w stronę [Prusinowa][wiki-prusinowo] zatrzymałem się, aby zrobić główne zdjęcie tego wpisu.
-W tym miejscu równiez widać ślady starej linii kolejowej. [(filmik)][vimeo-6]
+W tym miejscu równiez widać ślady starej linii kolejowej.
+
+{% photo "IMGP9809raw1.jpg","Droga do Radolina" %}
 
 Z [Prusinowa][wiki-prusinowo] kierowałem się w stronę [Czarnkowa][wiki-czarnkow]. Początkowo wiejską drogą, później polną, a
 później przywitał mnie znak "Droga nieprzejezdna". Faktycznie samochód by tam miał spore problemy. Gdy udało mi się pokonać
@@ -121,18 +130,18 @@ możliwość usunięcia brudu z opon, oczywiście część na siebie. Nie zatrzy
 wolałem szybko przejechać
 i dojechać maksymalnie szybko do [Trzcianki][wiki-trzcianka] na dworzec.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/126940266' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP9813raw1.jpg","Droga w stronę Teresina" %}
 
 Niestety musiałem trochę pojechać główną drogą wyjazdową z Czarnkowa, prawie aż do [Kuźnicy Czarnkowskiej][wiki-kuznica-czarnk],
 gdzie zjechałem na szlak rowerowy w teren. Kierowałem się na północ przez [Radolinek][wiki-radolinek]. Bardzo mała wioska, ale
-ciekawie położona. Po prawej płaska dolina [Noteci][wiki-notec], a po lewej od drogi 10 metrów terenu wyżej. [(filmik)][vimeo-8]
+ciekawie położona. Po prawej jest płaska dolina [Noteci][wiki-notec], a po lewej od drogi 10 metrów terenu wyżej.
 I tak cały czas
 jadąc na północ przez [Radolin][wiki-radolin], gdzie dalej zgodnie z zielonym szlakiem kierowałem się w stronę Trzcianki.
 
 Na północ od [Radolina][wiki-radolin] nierówności terenu są jeszcze bardziej widoczne, gdyż nie ma tam tyle lasów.
 
+{% photo "IMGP9825raw1.jpg","Kaplica we Wieleniu" %}
+
 Dojechałem na dworzec w [Trzciance][wiki-trzcianka]. Miałem godzinę do odjazdu pociagu i w sumie nie chciało mi się jechać
 dalej. Pogoda robiła się powoli bardziej szara. Może nie wiało mocno, ale to był też kolejny czynnik, który mnie przekonał, aby
 zakończyć trasę w Trzciance. Powróciłem do Poznania pociągiem z przesiadką w [Krzyżu Wielkopolskim][wiki-krzyz].
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/127342600' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>

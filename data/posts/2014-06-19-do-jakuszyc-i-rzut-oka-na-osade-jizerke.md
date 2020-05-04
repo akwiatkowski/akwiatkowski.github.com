@@ -6,7 +6,7 @@ date:                   2014-06-19 20:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/133471253/m%3D2048/9915b70e044776f3ad9a4b62188e73a9"
 categories:             trip
-tags:                   [main, bicycle, mountains, best, todo_media_later]
+tags:                   [main, bicycle, mountains, best, no_photos]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [gory_izerskie]
 
@@ -53,6 +53,8 @@ Do [Jakuszyc][wiki-jakuszyce] [dojechaliśmy][vimeo-1] klasycznym szlakiem rower
 Dzień był jeszcze wczesny, dlatego zgodnie z wcześniejszym planem ruszyliśmy na zachód
 do [Czech][wiki-czechy], do wsi [Jizerka][wiki-jizerka].
 
+{% photo "IMGP7322raw1.jpg","Okolica Rudaw Janowickich","timeline" %}
+
 Okazało się, że to co na jednej mapie jest szlakiem rowerowym, na innej jest szlakiem
 pieszym. Dlatego zamiast jechać prowadziłem rower, gdyż nie lubię jeździć po korzeniach
 i kamieniach. ([filmik][vimeo-4])
@@ -60,6 +62,8 @@ i kamieniach. ([filmik][vimeo-4])
 [Pokręciliśmy][vimeo-5] się trochę po [Jizerce][wiki-jizerka]. Jak widać na filmiku,
 pogoda się trochę już popsuła - zamiast słońca pojawiło się pełne zachmurzenie.
 [Powróciliśmy][vimeo-6] do [Jakuszyc][wiki-jakuszyce].
+
+{% photo "IMGP7341raw1.jpg","Widok na Sokolik" %}
 
 Zjazd do [Szklarskiej Poręby][wiki-szklarska] był najfajniejszą aktywnością
 tego dnia.
@@ -69,3 +73,5 @@ tego dnia.
 Spokojne 10 minut zjazdu, lekkie chwilowe podjazdy, bardzo dobra
 asfaltowa droga i minimalny ruch - dlatego on mi się bardzo podobało.
 Hamowanie nie było konieczne, jednak ja wolę jeździć ostrożnie i to robiłem.
+
+{% photo "IMGP7376raw1.jpg","Dom w Jizerce" %}

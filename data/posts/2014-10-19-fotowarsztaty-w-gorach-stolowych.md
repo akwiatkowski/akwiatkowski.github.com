@@ -4,9 +4,8 @@ title:                  "Fotowarsztaty w Górach Stołowych w 2014r."
 subtitle:               "Szczeliniec Wielki, oraz droga na północ od Kudowy Zdrój"
 date:                   2014-10-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/87300393/m%3D2048/9293889b89d2e64faed85e0fbf303dbd"
 categories:             trip
-tags:                   [main, hike, photo, workshop, mountains, todo_media_later]
+tags:                   [main, hike, photo, workshop, mountains]
 towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
@@ -39,50 +38,26 @@ Było spokojniej, gdyż nie było żadnego festiwalu obok. Patrzyłem na niepoko
 prognozę pogody przed zaśnięciem. Nie mogłem uwierzyć, że teraz widzę gwiazdy, a
 następnego dnia będzie mokro i mgliście.
 
+{% photo "header.jpg","Niebieski wschód" %}
+
 Obudziliśmy się przed 5 rano z planem wyjścia na [Szczeliniec][wiki-szczeliniec]
 aby zrobić zdjęcia wschodu słońca. Dobrze że ten cel nie mieliśmy wypisany na czole
 w tym momencie bo by było wstyd.
 
+{% photo "IMGP0716raw1.jpg","Jeden z wielu zakrętów" %}
+
 Na szczęście nawet gdy pogoda jest zła, zdarza się coś dobrego z niej wyciągnąć. Przykładem jest
 główne zdjęcie, które tutaj poniżej ponownie umieszczę.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/87300393/m%3D900/37ec453fe2dd9e7df53b332af37574a9' alt='Blue morning from Szczeliniec by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/87300393/blue-morning-from-szczeliniec-by-aleksander-kwiatkowski' alt='Blue morning from Szczeliniec by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+Nie jestem w stanie zrozumieć dlaczego ludziom podoba się tak bardzo poniższe zdjęcie.
+
+{% photo "IMGP0707raw1.jpg","Jesienna droga","timeline" %}
 
 Później wyruszyliśmy w stronę [Błędnych Skał][wiki-bledne-skaly], jednak wiedząc
 jak jest tam ciasno opuściłem grupę i przeszedłem się drogą w stronę
 [Kudowy Zdrój][wiki-kudowa].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/92762559/m%3D900/317ef3d339362f428c241d280ae44c20' alt='Foggy road to Kudowa Zdrój by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/92762559/foggy-road-to-kudowa-zdr%C3%B3j-by-aleksander-kwiatkowski' alt='Foggy road to Kudowa Zdrój by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-Nie jestem w stanie zrozumieć dlaczego ludziom podoba się tak bardzo poniższe zdjęcie.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/89280683/m%3D900/469c53ce91e052a648a3f888f6e9c205' alt='Road to Kudowa Zdrój by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/89280683/road-to-kudowa-zdr%C3%B3j-by-aleksander-kwiatkowski' alt='Road to Kudowa Zdrój by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1197raw1b.jpg","Okolice Radkowa" %}
 
 Wschód słońca dnia następnego był lepszy, jednak nie był tak dobry jak to było
 rok temu.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/87110351/m%3D900/5a548a12e32cb44c79e16c22458805b1' alt='Red morning from Szczeliniec by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/87110351/red-morning-from-szczeliniec-by-aleksander-kwiatkowski' alt='Red morning from Szczeliniec by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>

@@ -15,3 +15,28 @@
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2014-06-20 13:37:38+02:00
+- image_filename: IMGP7380raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2014-06-20 12:26:24+02:00
+- image_filename: IMGP7383raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  lat: 50.89243416666667
+  lon: 15.30607
+  altitude: 1088.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2014-06-20 13:36:43+02:00

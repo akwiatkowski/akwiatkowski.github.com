@@ -1,13 +1,12 @@
 ---
 layout:                 post
 title:                  "Drugie zimowe wejście na Śnieżkę"
-subtitle:               "ogólne też jest to drugie - nigdy nie byłem w innej porze roku"
+subtitle:               "ogólne też jest to drugie wejście - nigdy nie byłem na Śnieżce o innej porze roku"
 date:                   2015-02-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/101052739/m%3D2048/e417fab7574c638c651d16c4b31283f2"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, best, todo_media_later]
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 
@@ -34,14 +33,6 @@ Wstęp
 Jakoś do [Śnieżki][wiki-sniezka] mam szczęscie tylko zimą. Rok temu żałowałem, że nie miałem
 kamerki aby nagrać warunki podczas wejścia, teraz udało mi się naprawić ten błąd.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/105211333/m%3D900/11a9ee02e0f6c4ca02bc25c122f20fad' alt='Śnieżka winter trail by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/105211333/%C5%9Anie%C5%BCka-winter-trail-by-aleksander-kwiatkowski' alt='Śnieżka winter trail by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 Szczegóły
 ---------
 
@@ -49,13 +40,15 @@ To był krótki weekendowy wyjazd do [Szklarskiej Poręby][wiki-szklarska]. Mia�
 trochę nart i trochę chodzenia. Przyjechaliśmy wieczorem dwa dni wcześniej, z tym że
 ja przyjechałem pociągiem.
 
+{% photo "IMGP8232raw1.jpg","Szklarska Poręba w śniegu" %}
+
 Dzień przed wejściem na [Śnieżkę][wiki-sniezka] dyskutowaliśmy co robimy. Ja
 wolałem narty i ostatecznie poszedłem sam pozjeżdzać. Całkiem mi się to udało,
 tylko dwa razy się wywaliłem na Puchatku. Przez ostatnie dwa lata nie miałem
 czasu, albo nie było zimy gdy ja miałem czas, dlatego nie chciałem czekać dalej i skorzystałem
 z odpowiedniej pogody.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/118859974' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8299raw1.jpg","Podejście do Strzechy Akademickiej" %}
 
 Przyszedł czas spakować się i ruszyć dalej. Pojechaliśmy samochodem do [Karpacza][wiki-karpacz],
 gdzie rozpoczął się główny punkt programu - zimowe zejście na [Śnieżkę][wiki-sniezka]
@@ -67,7 +60,7 @@ Szliśmy żółtym szlakiem do [Strzechy Akademickiej][wiki-strzecha] obserwują
 pogłębiającą się zimę na drzewach. W podejściach raczej nie ma nic dynamicznego.
 Zmiana ta była delikatnie stopniowana.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/118575991' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8364raw2.jpg","Zimowe okolice Strzechy Akademickiej" %}
 
 Następnie śniadanie w [schronisku][wiki-strzecha]. Wyszliśmy
 ze [schroniska][wiki-strzecha]
@@ -75,19 +68,16 @@ już we mgle, lub chmurze. Widoczność była minimalna więc tylko sobie szliś
 aż do [Domu Śląskiego][wiki-dom-slaski]. Tyczki i wydeptany śnieg pokazywały nam gdzie
 iść.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/118589851' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8435raw2.jpg","Początek trasy na Śnieżkę" %}
 
 Podejście na [Śnieżkę][wiki-sniezka] również nie było zbyt interesujące, jednak na górze
 zaczęło robić się ciekawiej. Chmury poruszały się bardzo szybko i tuż przed zejściem
 mieliśmy szczęście mieć bardzo dobrą widoczność. Rozpoczęło się ponad półgodzinne
 okno z bardzo dobrą widocznością i niebieskim niebem.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/118605307' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8597raw1.jpg","Zbocze Śnieżki" %}
 
 Nie wchodziliśmy do [Domu Śląskiego][wiki-dom-slaski]. Postanowiliśmy że zejdziemy/zjedziemy
 do [Karpacza][wiki-karpacz] i tam coś zjemy. Ja z Krzychem zjechaliśmy wyciągiem.
 
-Poniżej filmik nakręcony aparatem. Jakość jest trochę lepsza za cenę odgłosów - mój oddech na
-podejściu.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/118818266' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8733raw1.jpg","Nadciągająca mgła" %}

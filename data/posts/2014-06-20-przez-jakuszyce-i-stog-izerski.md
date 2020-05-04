@@ -4,9 +4,8 @@ title:                  "Przez Jakuszyce i Stóg Izerski"
 subtitle:               "zjazd z 1050 do 600m npm w ciągu 15 minut"
 date:                   2014-06-20 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/133477751/m%3D2048/b047bb4a0114af939e6cad9b443e3faa"
 categories:             trip
-tags:                   [main, bicycle, mountains, best, todo_media_later]
+tags:                   [main, bicycle, mountains, best, no_photos]
 towns:                  [dolnoslaskie, szklarska_poreba, swieradow_zdroj]
 lands:                  [karkonosze, gory_izerskie]
 
@@ -56,6 +55,8 @@ tym razem jechaliśmy dalej na północ. Skręciliśmy na zachód w Osiedle Podg
 jechaliśmy prawie równolegle do szlaku pieszego na
 [Wysoki Kamień][wiki-wysoki-kamien]. ([filmik][vimeo-1])
 
+{% photo "IMGP7380raw1.jpg","Chatka Górzystów" %}
+
 Podjazd był raczej rozłożony na sporą odległość, dlatego nie był ciężki, lecz długi.
 Wjechaliśmy na wysokość ponad 1000m n.p.m.,
 na takiej jest [Kopalnia "Stanisław"][wiki-kopalnia].
@@ -78,6 +79,8 @@ To była druga przerwa tego dnia.
 Nie przestawało padać, a trasa jest do zrobienia. [Ruszyliśmy][vimeo-4] dalej w stronę
 [Stogu Izerskiego][wiki-stog-izerski]. Pod koniec rowery juz prowadziliśmy, gdyż
 poruszaliśmy się po szlaku pieszym - kamienie.
+
+{% photo "IMGP7383raw1.jpg","Schronisko w okolicy Stogu Izerskiego" %}
 
 Tutaj zrobiliśmy trzecią przerwę - najdłuższą, z jedzeniem i suszeniem ubrań.
 Czekał na nas najciekawszy fragment - zjazd ze [Stogu Izerskiego][wiki-stog-izerski]

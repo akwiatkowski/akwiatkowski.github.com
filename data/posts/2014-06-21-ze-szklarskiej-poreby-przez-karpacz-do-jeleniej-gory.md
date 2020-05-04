@@ -4,9 +4,8 @@ title:                  "Ze Szklarskiej Poręby przez Karpacz do Jeleniej Góry"
 subtitle:               "zjazd w Karpaczu środkiem pasa szybciej niż samochody"
 date:                   2014-06-21 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/133482321/m%3D2048/c89184b6ac780414fe4d75d3c687c503"
 categories:             trip
-tags:                   [main, bicycle, mountains, best, todo_media_later]
+tags:                   [main, bicycle, mountains, best, no_photos]
 towns:                  [dolnoslaskie, szklarska_poreba, piechowice, jelenia_gora, podgorzyn, karpacz, myslakowice]
 lands:                  [karkonosze]
 
