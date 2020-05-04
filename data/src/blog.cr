@@ -153,7 +153,12 @@ class Tremolite::Blog
       Log.debug { "#{post.slug} - DONE" }
     end
 
-    post_to_render.each do |post|
+    post_to_render_only_post.each do |post|
+      Log.debug { "resize_all_images_for_post" }
+      @image_resizer.not_nil!.resize_all_images_for_post(
+        post: post,
+        overwrite: false
+      )
       Log.debug { "#{post.slug} - preparing content" }
       post.content_html
       Log.debug { "#{post.slug} - rendering" }
