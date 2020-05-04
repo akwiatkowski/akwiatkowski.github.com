@@ -4,10 +4,9 @@ title:                  "Pierwsza wizyta w Wielkopolskim Parku Narodowym"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/137171697/m%3D2048/0950532b87dde74f1df75e724a9d2340"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, mosina, poznan]
 
 coords:                 [{"route": [[52.34561,16.87809], [52.33895,16.87028], [52.33135,16.87097], [52.32075,16.85320], [52.31556,16.84925], [52.28328,16.80359], [52.26952,16.75364], [52.25302,16.74162], [52.22963,16.75999], [52.22790,16.77638], [52.23694,16.82745], [52.24566,16.84410], [52.24493,16.85526]], "type": "bicycle"}]
@@ -44,15 +43,17 @@ Szczegóły
 Jechaliśmy przez [Luboń][wiki-lubon] i [Wiry][wiki-wiry] aż do żółtego szlaku rowerowego
 w [parku][wiki-wpn]. Całkiem ciekawe były te tereny, zwłaszcza wioski i pola.
 
+{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach" %}
+
 Gdy już byliśmy w [parku][wiki-wpn] zrobiło się trochę nudniej, gdyż jechaliśmy przez
 prawie 5km prostą drogą. Wyglądało to jak zwykły przejazd przez las. Ciekawie wyglądało
 [jezioro][wiki-jezioro-jarosl] obok [Jarosławca][wiki-jaroslawiec]. Będę chciał to
 miejsce jeszcze raz odwiedzić.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/129466705' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
 Następnie jechaliśmy do [Łodzi][wiki-lodz]. Tam teren zrobił się trochę bardziej
 pofalowany.
+
+{% photo "IMGP0192raw1.jpg","Pola niedaleko Wirów","timeline" %}
 
 Z [Łodzi][wiki-lodz] już wracaliśmy drogą asfaltową do [Mosiny][wiki-mosina]. Ruch nie był duży,
 ale nie był też minimalny - dało się jechać.
@@ -61,4 +62,4 @@ Z jednej strony zauważyłem potencjal tamtych terenów, z drugiej wydaję mi si
 nic co jest istotne nie udało się nam zobaczyć (oprócz [jeziora][wiki-jezioro-jarosl]).
 To był taki rekonesans przed prawdziwym zwiedzaniem tych okolic.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/129483899' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0194raw1.jpg","Leśna droga","timeline" %}

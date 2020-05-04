@@ -15,3 +15,59 @@
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2015-05-30 16:31:43+02:00
+- image_filename: IMGP0187raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.31932055555556
+  lon: 16.84867388888889
+  altitude: 72.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2015-05-30 16:18:00+02:00
+- image_filename: IMGP0189raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.31932694444445
+  lon: 16.848671666666664
+  altitude: 72.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 10.0
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2015-05-30 16:18:15+02:00
+- image_filename: IMGP0194raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.313558888888885
+  lon: 16.846876944444443
+  altitude: 86.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.2
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2015-05-30 16:27:48+02:00
+- image_filename: IMGP0192raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.313784722222216
+  lon: 16.84717722222222
+  altitude: 86.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2015-05-30 16:27:37+02:00

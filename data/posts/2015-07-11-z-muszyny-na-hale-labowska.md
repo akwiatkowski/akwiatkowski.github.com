@@ -4,10 +4,9 @@ title:                  "Z Muszyny na Halę Łabowską"
 subtitle:               "trochę małego miasta, łąk i dużo lasu gdzie nic nie widać"
 date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/146665187/q%3D80_m%3D2000/89026865477689dffa587d9459ac2d82"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
 lands:                  [beskid_sadecki]
 
@@ -39,32 +38,28 @@ Szczegóły
 Wyrusziliśmy pociągiem przed 20-tą w Poznaniu, niecałe dwie godziny później przesiadka w Kutnie i 10 godzin w pociągu do
 [Muszyny][wiki-muszyna]. Odzwyczaiłem się i tyle godzin w pociągu spędzać nie było to dla mnie łatwe.
 
+{% photo "IMGP0991raw1.jpg","Okolice Pławna","timeline" %}
+
 Na szczęście za Tarnowem teren zaczął robić się bardziej wypukły i zaczęło pojawiaś się słońce, dzięki
 czemu z pociągu widoki były całkiem interesujące.
 
-<div class="pixels-photo">
-  <p><img src="https://drscdn.500px.org/photo/115042419/m%3D900/4d09be226a458caf16869a238285fd66" alt="Photograph Morning in Stróże Niżne by Aleksander Kwiatkowski on 500px"></p>
-  <a href="https://500px.com/photo/115042419/morning-in-str%C3%B3%C5%BCe-ni%C5%BCne-by-aleksander-kwiatkowski">Morning in Stróże Niżne by Aleksander Kwiatkowski on 500px</a>
-</div>
-<script type="text/javascript" src="https://500px.com/embed.js"></script>
+{% photo "IMGP1089raw1.jpg","Rzeka Poprad" %}
 
 Pierwszy dzień był zaplanowany jako jatrudniejszy, mapowe 6h chodzenia. Wysiedliśmy w [Muszynie][wiki-muszyna] i kierowaliśmy się
 w stronę wsi [Złockie][wiki-zlockie] zielonym szlakiem. Ciekawoską były zbudowane z kwiatów "pomniki" zwierząt na
 ulicy Zazamcze.
 
+{% photo "IMGP1135raw1.jpg","Okolice wsi Złockie","timeline" %}
+
 Niedaleko [cerkwi w Złockie][wiki-zlockie-cerkiew] zielony szlak pieszy prowadził po najlepszych miejscach widokowych, moim zdaniem.
 Pagórki i polany są najciekawszymi krajobrazami w tamtych rejonach.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/115739183/m%3D900/ad9f6800bbbdfaa6d3d74aff33f5eda4' alt='One tree on trail in Beskid Sądecki by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/115739183/one-tree-on-trail-in-beskid-s%C4%85decki-by-aleksander-kwiatkowski' alt='One tree on trail in Beskid Sądecki by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1140raw1.jpg","Podchodząc zielonym szlakiem pieszym" %}
 
 Po pewnym czasie weszliśmy w las i tym lasem doszliśmy do [Jaworzyny Krynickiej][wiki-jaworzyna], gdzie oprócz widoków
 była przerwa na jedzenie. Dzięki kolejce linowej był tam ogrom ludzi, prawie jak na Krupówkach.
+
+{% photo "IMGP1180raw1.jpg","Las Beskidu Sądeckiego" %}
 
 Dalej ruszyliśmy czerwonym szlakiem ([GSB][wiki-gsb]) aż do [Hali Łabowskiej][wiki-labowska]. Raczej nie ma co pisać,
 większośc trasy to był las, czasami
@@ -74,13 +69,7 @@ po drugiej stronie Polski, to nie jest to co najbardziej mnie interesuje.
 Jednocześnie nie jestem zwolennikiem wycinania
 aby zrobić specjalnie miejsca widokowe. W zimie pewnie jest tam bardzo ładnie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/115181755/m%3D900/03b70c2803de9a75e2c7fd5f33d70c46' alt='Near Jaworzyna Krynicka by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/115181755/near-jaworzyna-krynicka-by-aleksander-kwiatkowski' alt='Near Jaworzyna Krynicka by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP1201raw1.jpg","Widok na Tatry" %}
 
 Około 17-tej godziny dotarliśmy do schroniska. Okazało się że prąd jest tylko wieczorami, oraz jest w nim bardzo
 dobry widok na wschód Słońca.

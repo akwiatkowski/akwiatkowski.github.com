@@ -4,9 +4,8 @@ title:                  "Okolice Harrachova i Wielkiej Mumławy"
 subtitle:               "pierwszy dzień drugiego rowerowego wyjazdu do Szklarskiej Poręby"
 date:                   2015-06-04 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/112145101/m%3D2048/2cce83d51859616ff87792d044045023"
 categories:             trip
-tags:                   [main, bicycle, mountains, best, todo_media_later]
+tags:                   [main, bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze, gory_izerskie]
 
@@ -63,26 +62,22 @@ Szczegóły
 
 Do [Jakuszyc][wiki-jakuszyce] dojechaliśmy terenowym szlakiem rowerowym. Po drodzę minęliśmy trochę [ruin][wiki-huta] i
 zabudowań, dużo lasu, oraz tory trasy kolejowej [Szklarska Poręba][wiki-szklarska] - [Harrachov][wiki-harrachov].
-[Film][vimeo-1].
 
-
+{% photo "IMGP0279raw1.jpg","Dojeżdżając do Szklarskiej Poręby" %}
 
 Zjechaliśmy trochę zbyt daleko w stronę [Harrachova][wiki-harrachov], gdyż trudno było chcieć się
-zatrzymać na takim [zjeździe][vimeo-2]. Z tego powodu czeski fragment trasy został odwrócony od planowanego.
-Filmik z drugiej części zjazdu jest [tutaj][vimeo-3].
-
+zatrzymać na takim zjeździe. Z tego powodu czeski fragment trasy został odwrócony od planowanego.
 
 Następnie był bardzo długi podjazd, podczas którego jedyną ciekawą rzeczą
-jest [Wodospad Mumlawy][wiki-mumlawa]. [Film][vimeo-4].
+jest [Wodospad Mumlawy][wiki-mumlawa].
+
+{% photo "IMGP0338raw1.jpg","Okolice schroniska Orle" %}
 
 Po minięciu [Krakonošova snídaně][wiki-snidane] były naprzemiennie
 podjazdy i zjazdy z widokiem na [czeskie Góry Izerskie][wiki-izery] podczas
-powrotu do Jakuszyc. Zrobiłem z tego dwa filmiki, jeden [tutaj][vimeo-5] a drugi poniżej.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/130184788' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
+powrotu do Jakuszyc.
 
 Aby dobić trochę kilometrów więcej
-pojechaliśmy pod [schronisko Orle][wiki-orle] ([filmik][vimeo-7]). Powróciliśmy do Szklarskiej Poręby drogą asfaltową
-po dość długiej przerwie. [Zjazd z Jakuszyc do Szklarskiej Poręby][vimeo-8] zawsze umożliwia rozwinięcie dużej prędkości, a
+pojechaliśmy pod [schronisko Orle][wiki-orle]. Powróciliśmy do Szklarskiej Poręby drogą asfaltową
+po dość długiej przerwie. Zjazd z Jakuszyc do Szklarskiej Poręby zawsze umożliwia rozwinięcie dużej prędkości, a
 wyprzedzanie samochodów nie jest niczym szokującym tam.

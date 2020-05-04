@@ -15,3 +15,28 @@
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2015-06-04 11:29:11+02:00
+- image_filename: IMGP0279raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.0
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2015-06-03 16:53:48+02:00
+- image_filename: IMGP0338raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  lat: 50.815444166666666
+  lon: 15.381174444444445
+  altitude: 831.7
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 4.5
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2015-06-04 16:16:03+02:00

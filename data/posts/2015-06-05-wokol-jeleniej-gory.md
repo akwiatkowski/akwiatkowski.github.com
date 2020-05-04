@@ -4,10 +4,9 @@ title:                  "Na północ wokół Jeleniej Góry"
 subtitle:               "sudeckie wioski, pola i dużo słońca - pogórze"
 date:                   2015-06-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/111341431/m%3D2048/21998e31cabd789f8e72f4a96fa60cff"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, mountains, best, todo_media_later]
+tags:                   [main, bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska_poreba, stara_kamienica, jezow_sudecki, jelenia_gora]
 lands:                  [gory_izerskie, gory_kaczawskie]
 
@@ -66,39 +65,45 @@ Początkiem trasy był zjazd ze Szklarskiej Poręby Górnej prawie aż do [Piech
 Niektóre części szlaku obok stacji Szklarskiej Poręby Dolnej były dla mnie zbyt strome aby można
 spokojnie zjeżdzać, bez przesadnego używania hamulców.
 
+{% photo "IMGP0348raw1.jpg","Okolice Koziej Szyi","timeline" %}
+
 Kolejnym etapem trasy był długi, ale raczej lekki podjazd w stronę [Koziej Szyi][wiki-kozia-szyja].
 Cały podjazd był utwardzonymi drogami leśnymi. Z Koziej Szyi jest bardzo dobry [widok][panoramio-kozia-szyja] na
-[Pogórze Izerski][wiki-pogorze-izerskie]. [Tutaj][vimeo-1] jest filmik od Szklarskiej Poręby aż do podjazdów na Kozią Szyję.
+[Pogórze Izerski][wiki-pogorze-izerskie].
+
+{% photo "IMGP0365raw1.jpg","Okolice Koziej Szyi","timeline" %}
 
 Zjazd z Koziej Szyi do [Kopańca][wiki-kopaniec] bardzo dobrze zrekompensował mało ciekawy podjazd
 i zmniejszył moją frustrację.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/130551453' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0390raw1.jpg","Jezioro Wrzeszczyńskie" %}
 
-
-Następnie [pojechaliśmy][vimeo-3] bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
+Następnie pojechaliśmy bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
 Pogoda przekonała Radka że warto kupić 6 litrową butlę wody.
+
+{% photo "IMGP0396raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","timeline" %}
 
 Po przerwie w Starej Kamienicy wyruszyliśmy dalej w stronę [Barcinka][wiki-barcinek] korzystając z lekkiego
 przyjemnego spadku terenu. Chcieliśmy udać się w centrum [Jeziora Pilchowickiego][wiki-pilchowickie], jednak
-po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. [Przejechaliśmy przez][vimeo-4] zaporę elektrowni we
+po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. Przejechaliśmy przez zaporę elektrowni we
 Wrzeszczyniu i kierowaliśmy się wzdłuż
 rzeki [Bóbr][wiki-bobr] w stronę [Siedlęcina][wiki-siedlecin].
 
+{% photo "IMGP0399raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","timeline" %}
+
 W Siedlęcinie dwie osoby się roździeliły jadąc w stronę Jeleniej Góry, a my pojechaliśmy dalej mając
 na uwadzę, że powrót do Szklarskiej Poręby będzie koleją. Początkowo chcieliśmy dojechać do [Wojanowa][wiki-wojanow],
-jednak ostatecznie się to nam nie udało. [Ruszyliśmy][vimeo-5] w stronę [Płoszczynki][wiki-ploszczynka] gdzie po drodzę
+jednak ostatecznie się to nam nie udało. Ruszyliśmy w stronę [Płoszczynki][wiki-ploszczynka] gdzie po drodzę
 odkryliśmy [miejsce][ump-ploszczynka], z którego jest bardzo ładny widok na całe Karkonosze.
-
 
 Tego dnia udało mi się pobić swój rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
 [Płoszczyny][wiki-ploszczyna].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/130620133' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0414raw1.jpg","Między Siedlęcinem a Płoszczynką","timeline" %}
 
 Wysoka temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
 nas do tego, aby zmienić plany i zjechać do Jeleniej Góry, a nie do [Wojanowa][wiki-wojanow]. Zjechaliśmy
-drogą 365 z [Dziwiszowa][wiki-dziwiszow]. [Tutaj filmik ze zjazdu][vimeo-7].
+drogą 365 z [Dziwiszowa][wiki-dziwiszow].
 
 Jutro wracaliśmy późniejszym pociągiem i jak patrzę na to teraz, to wolałbym pojechać dalej i jechać pociągiem
 późniejszym. Bardzo mi się podobają tereny [Pogórza Izerskiego][wiki-pogorze-izerskie] i

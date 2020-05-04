@@ -81,7 +81,7 @@ minąłem gospodarstwo agroturystyczne. Następnie krótka, mało ciekawa trasa 
 w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce jest trochę daleko od cywilizacji. Z północy graniczy ona z
 rzeką [Wartą][wiki-warta].
 
-{% photo "IMGP9765raw1.jpg","Osada Piotrkówko przy leie" %}
+{% photo "IMGP9765raw1.jpg","Osada Piotrkówko przy lesie" %}
 
 Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej. Wyjeżdzając z niej jedzie się po moście,
 położonym nad nieistniejącą już linią kolejową [Oborniki][wiki-oborniki] - [Wronki][wiki-wronki],

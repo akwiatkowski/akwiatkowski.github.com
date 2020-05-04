@@ -1,13 +1,12 @@
 ---
 layout:                 post
 title:                  "W stronę Śremu, ale bez niego"
-subtitle:               "koniec trasy w Czempinie"
+subtitle:               "koniec trasy był w Czempinie"
 date:                   2015-05-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/137154151/m%3D2048/5d17bcb45467e65bba131a334e9c47bf"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, mosina, brodnica, czempin]
 
 coords:                 [{"route": [[52.24325,16.85449], [52.23704,16.88152], [52.21707,16.90693], [52.20844,16.95045], [52.19818,16.95628], [52.18908,16.97439], [52.14223,16.97448], [52.13638,16.92650], [52.15102,16.84307], [52.15450,16.82385], [52.14428,16.76943], [52.13912,16.75346]], "type": "bicycle"}, {"route": [[52.14197,16.75640], [52.18377,16.79957], [52.24115,16.85218], [52.29499,16.87081], [52.40331,16.91209]], "type": "train"}]
@@ -50,19 +49,27 @@ Robiło się ciepło i trasa miejscami była bardzo piaszczysta.
 
 Dojechałem do [Mosiny][wiki-mosina]. Czyli od tego momentu zaczynają się nowe tereny dla mnie.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/129367038' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0128raw1.jpg","Okolica Warty na wysokości Lubonia","timeline" %}
 
 Jechałem dalej [szlakiem nadwarciańskim][wiki-nadwarcianski]. Trasa całkiem fajna,
 cały czas dobrym asfaltem z praktycznie zerowym ruchem przez wioski. Podobał
 mi się spokój tych terenów, jednak nie wiem czy coś było tam ciekawego aż do [Krajkowa][wiki-krajkowo].
 
+{% photo "IMGP0140raw1-1.jpg","Kanał Mosiński" %}
+
 Wybrałem wariant trasy bliżej [Warty][wiki-warta]. Rozważałem jazdę do [Śremu][wiki-srem],
 tylko było ciepło i piaszczyście. W [Jaszkowie][wiki-jaszkowo] skręciłem i
 jechałem w stronę najbliższego przystanku kolejowego, czyli do [Czempinia][wiki-czempin].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/129367037' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0151raw1.jpg","Droga leśna do Jaszkowa","timeline" %}
 
 Już nie pamiętam co było tam ciekawego, oraz w którym miejscu. Ciekawe ukształotowanie terenu,
-tunel leśny oraz stare tory kolejowe. Chociaż tego ostatniego najmniej teraz jestem pewien.
+tunel leśny oraz stare tory kolejowe.
+
+{% photo "IMGP0157raw1.jpg","Okolica Ludwikowa","timeline" %}
+
+Chociaż tego ostatniego najmniej teraz jestem pewien.
 Patrząc na mapę, to wygląda jakby tam była stara linia kolejowa [Czempiń][wiki-czempin] -
 [Śrem][wiki-srem].
+
+{% photo "IMGP0164raw1.jpg","Tunel drzew w Piotrowie","timeline" %}
