@@ -5,10 +5,9 @@ subtitle:               "jak szybko zjechać z górki gdy nadchodzi burza"
 date:                   2016-05-28 20:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media_later]
+tags:                   [main, bicycle, mountains]
 towns:                  [podkarpackie, krempna, dukla, rymanow, jasliska]
 lands:                  [beskid_niski]
 
@@ -70,18 +69,23 @@ dnia na wschód przez [Polany][wiki-polany]. Tym
 razem nie jechaliśmy do [Huty Polańskiej][wiki-huta-polanska] a w kierunku
 [Olchowca][wiki-olchowiec].
 
+{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","timeline" %}
+
 Trasa do [Jaślisk][wiki-jasliska] jest dosyć prosta, tylko że my nie chcieliśmy
 wracać tą samą drogą. Z tego powodu były dwa "odbicia". Pierwsze
 przez [Olchowiec][wiki-olchowiec] zielonym szlakiem rowerowym. Drugie
 przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska] później.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748211' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0840raw1.jpg","Normalny szlak rowerowy" %}
 
 W okolicy [Olchowca][wiki-olchowiec] jechaliśmy jeszcze szutrem, jednak dalej
 trasa zrobiła się bardziej terenowa. Zaczęła przypominać mi się wczorajsza
 walka przed schroniskiem,
 gdzie jechaliśmy zielonym szlakiem pieszym,
 oraz pojawiły się opinie w grupie "ale mieliśmy jechać asfaltem".
+
+{% photo "IMGP0852raw1.jpg","Polana we wsi Smereczne" %}
+
 Zawsze gdy planowałem trasy większość z nich była asfaltowa. Niektórzy czuli
 niedosyt z tego powodu. Po tym wyjeździe chyba nikt nie będzie miał mi za złe,
 jak następne trasy będą biegły bardziej cywilizowanymi miejscami.
@@ -91,12 +95,16 @@ Jadąc (i częściej idąc) po szlaku pieszo-rowerowym minęliśmy doliny opuszc
 [Smereczne][wiki-smereczne]. Nie badaliśmy okolicy, koncentrowaliśmy się
 aby w miarę sprawnie wyjechać do cywilizacji.
 
+{% photo "IMGP0858raw1.jpg","Chata w Zawadzie Rymanowskiej" %}
+
 Bardzo podobał mi się zjazd po polanie, który nie trwał długo. Następnie
 jechaliśmy szutrową drogą aż do [Tylawy][wiki-tylawa] obserwując charakterystyczne
 dla tego pasma krajobrazy.
 
 Po krótkiej przerwie na pierwszy obiad ruszyliśmy dalej - na północ. Musieliśmy
 przejechać przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska].
+
+{% photo "IMGP0868raw1.jpg","Widok z góry Kamińska" %}
 
 Jechaliśmy drogą [19][wiki-droga-19]. Jest to droga krajowa, jednak w tych okolicach
 oraz w sobotę ruch nie jest tak straszny, jak to bywa na innych drogach krajowych.
@@ -107,17 +115,21 @@ przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska]. Minęliśmy most na
 rzecze [Jasiołka][wiki-jasiolka]. Bardzo podobają mi się te drewniane mosty
 w tych stronach.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748258' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0875raw1.jpg","Centrum Jaślisk" %}
 
 Było ciepło i parno, a na horyzoncie robiło się szaro. Zaczęliśmy podjazd, a
 raczej podejście, na Kamińską - górę o wysokości 639m. Podejście było całkiem
 stromę a już słyszeliśmy głosy burzy.
+
+{% photo "IMGP0876raw1.jpg","Centrum Jaślisk" %}
 
 Gdy dotarliśmy na górę już zaczynało padać. Szybko ruszyliśmy w stronę przełęczy
 obok wioski [Szklary][wiki-szklary]. Jazda po trawiastym zboczu podczas silnego
 deszczu z gradem nie była najprzyjemniejsza. Rano sprawdzałem pogodę i wynikało
 z niej, że nie miało padać. Tam chyba wszystko jest mocno zróżnicowane lokalnie -
 może padać, a może nie padać, wszystko zależy gdzie się chmury zakręcą.
+
+{% photo "IMGP0878raw1.jpg","Nieużywany budynek w Jaśliskach" %}
 
 Zjechaliśmy pod przystanek autobusowy i tam przeczekaliśmy kilka minut aż burza
 minie. Jechaliśmy dalej do [Daliowej][wiki-daliowa], a następnie 2km i już
@@ -129,17 +141,11 @@ do granicy. Niestety domy blokowały większość widoku, a nie miałem czasu (t
 nie chciało mi się). Caciekawiła mnie dolina od strony góry [Kamień][wiki-kamien]
 i wydaję mi się że gdy będę tutaj następnym razem to pojadę tą trasą.
 
+{% photo "IMGP0890raw1.jpg","Droga z Mszany","timeline" %}
+
 Po chwili rozpoczęliśmy trasę powrotną. Tym razem już mieliśmy jechać tylko
 asfaltem. Najpierw zjazd z centrum wsi, później drogą do [Tylawy][wiki-tylawa]
 przez gęsty las.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/159793907/m%3D900/ce25dd7732df06220bdcb617958fefb3' alt='Road in Low Beskid near Mszana by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/159793907/road-in-low-beskid-near-mszana-by-aleksander-kwiatkowski' alt='Road in Low Beskid near Mszana by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 W [Tylawie][wiki-tylawa] przerwa na obiadokolację i powrót najspokojniejszą
 częścią trasy. Inaczej niż zawsze ta spokojność nie równałą się nudzie. Było

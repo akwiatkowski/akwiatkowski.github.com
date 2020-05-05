@@ -5,9 +5,8 @@ subtitle:               "sporo jezior, stawów, wody i domków rekreacyjnych obo
 date:                   2016-04-17 19:00:00
 finished_at:            2016-04-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/149930427/q%3D80_m%3D2000/0d02170007537812b905118117788e99"
 categories:             trip
-tags:                   [main, hike, todo_media_later]
+tags:                   [main, hike]
 towns:                  [wielkopolskie, skoki]
 lands:                  [pojezierze_poznanskie]
 
@@ -47,28 +46,18 @@ na lewą stronę drogi i za około pół kilometra szliśmy drogą gruntową. Na
 mapie jest to ulica Włókna, a według [wikipedii][wiki-potrzanowo] Włókna to
 folwark częsci [Potrzanowa][wiki-potrzanowo].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/150271183/m%3D900/851e9ac281c6fdfb72eb6b6b9c30e208' alt='Trail near Sława Wielkopolska by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/150271183/trail-near-s%C5%82awa-wielkopolska-by-aleksander-kwiatkowski' alt='Trail near Sława Wielkopolska by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9231raw1.jpg","Droga gruntowa ze Sławy Wielkopolskiej","timeline" %}
 
 Po prawej minęliśmy Jezioro Lisówka, a po lewej Jezioro Włókieńskie. Domki
 rekreacyjne są tam chyba przy każdym jeziorze. Ich ilość pokazuje, że
 muszą być to jedne z najciekawszych terenów w okolicy.
 
+{% photo "IMGP9246raw1.jpg","Zbliżając się do Potrzanowa","timeline" %}
+
 Kierowaliśmy się na północ w stronę Starego Potrzanowa, było tam krótkie
 podejście.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/150271317/m%3D900/fd37153b0d3baa6c63f496b69c3410b2' alt='Spring in Potrzanowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/150271317/spring-in-potrzanowo-by-aleksander-kwiatkowski' alt='Spring in Potrzanowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9255raw1.jpg","Samotny dom" %}
 
 Co chwilę widzieliśmy tabliczki "teren prywatny". Jakby każdy chciał mieć
 kawałek terenu przy jeziorach bez dostępu innych osób. Powoli opuszczając
@@ -77,29 +66,31 @@ miałem na mapie. Myślałem że pójdziemy tam i znowu zobaczymy tabliczkę
 informującą, że mamy sobie iść. Okazało się, że dotarliśmy do Jeziora
 Maciejak.
 
+{% photo "IMGP9267raw1.jpg","Po drugiej stronie jezior niedaleko Skoków" %}
+
 Jezioro Maciejak jest jednym z największych, widoczne bezpośrednio z ulicy
 Poznańskiej - głównej drogi przelotowej przez [Skoki][wiki-skoki].
 Zauważyliśmy, że byłoby to dobre miejsce na robienie zdjęć porannej mgły jesienią.
 
+{% photo "IMGP9278raw1.jpg","Jezioro Maciejak" %}
+
 Przechodziliśmy przed rzeczką dopływającą do [Małej Wełny][wiki-mala-welna].
 Wysokie zbocze rzeki z jednej strony było bardzo interesujące.
+
+{% photo "IMGP9284raw1.jpg","Droga w kierunku Łoskonia Starego","timeline" %}
 
 Ruszyliśmy dalej w stronę [Skoków][wiki-skoki] kierując się do centrum,
 jednak szybko zboczyliśmy i szliśmy wokół [Małej Wełny][wiki-mala-welna]. Po
 chwili wydeptany szlak się skończył i musieliśmy skrócić przez podmokłą polanę.
 Przeszliśmy przez tory i skręciliśmy na południę.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/150272357/m%3D900/8c1e586965884e1a4deb502ddd24cffe' alt='Fish pond near Skoki by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/150272357/fish-pond-near-skoki-by-aleksander-kwiatkowski' alt='Fish pond near Skoki by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9295raw1.jpg","Mała Wełna" %}
 
 Dotarliśmy do [czarnego szlaku rowerowego][wiki-szlak-kosciolow] i szliśmy
 na wschód. Była to druga najładniejsza atrakcja dzisiejszego dnia. Po
 lewej [Mała Wełna][wiki-mala-welna] a po prawej stawy rybne - dużo wody.
+
+{% photo "IMGP9386raw1.jpg","Bloki w Antoniewie" %}
 
 Dotarliśmy prawie do [Antoniewa][wiki-antoniewo], jednak od razu wracaliśmy
 do centrum [Skoków][wiki-skoki] aby dostać się na stację kolejową i wrócić

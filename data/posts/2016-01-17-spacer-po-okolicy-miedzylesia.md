@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/136585827/m%3D2048/61cde6d090bae78bec388cd4ad9b7012"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, miedzylesie]
 lands:                  [masyw_snieznika, kotlina_klodzka]
 
@@ -54,62 +54,57 @@ Wstaliśmy dość wcześnie. Szybko się spakowałem z najważniejszych rzeczy i
 na dwór porobić trochę zdjęć o poranku. Gdzieś około 8-ej musiałem wrócić aby dokończyć
 śniadanie i pakowanie się. Ruszyliśmy samochodem do [Międzylesia][wiki-miedzylesie].
 
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/137814543/m%3D900/b2ffe0b2a3c3e171f9632102839854c9' alt='Hillsides near Pisary by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/137814543/hillsides-near-pisary-by-aleksander-kwiatkowski' alt='Hillsides near Pisary by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7871raw1.jpg","Poranek w Jodłowie" %}
 
 Tam się rozdzieliliśmy i rozpocząłem samotne zwiedzanie okolic.
 
+{% photo "IMGP7899raw1.jpg","Poranne mgły" %}
+
 Mój spacer rozpocząłem obok Biedronki w [Międzylesiu][wiki-miedzylesie]. Musiałem
 chwilę poczekać, bo w niedziele otwierają ją o 9-tej.
+
+{% photo "IMGP7967raw8.jpg","Powrót do Międzylesia" %}
 
 Gdy już kupiłem jedzenie i zjadłem coś ciepłego (pizzerki) ruszyłem w drogę
 niebieskim szlakiem pieszym. Szybko skręciłem na północ w stronę [Nagodzic][wiki-nagodzice],
 gdzie przeszedłem przez wioskę robiąc zdjęcia wszystkiemu, co było chociaż trochę
 ciekawe.
 
+{% photo "IMGP8019raw8.jpg","Nysa Kłodzka w Nagodzicach" %}
+
 Chmury zalegały całe niebo, było trochę szaro i nudno. Na szczeście śniegu nie było
 tak dużo jak dzień wcześniej na [Śnieżniku][wiki-snieznik].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/148163223/m%3D900/1354cb114bc983a103561733fe96b3dd' alt='One and a half of tree by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/148163223/one-and-a-half-of-tree-by-aleksander-kwiatkowski' alt='One and a half of tree by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8036raw8.jpg","Białe niebo" %}
 
 Chwilę później musiałem iść drogą asfaltową. Na papierowej mapie była jakaś dróżka,
 ale na GPS jej nie widziałem. Nie chciałem wylądować u kogoś na terenie prywatnym
 przypadkiem, oraz powoli zacząłem zastanawiać się "gdzie tu jest jakieś ludzkie WC".
+
+{% photo "IMGP8051raw8.jpg","Stary dom w Gajniku" %}
 
 W [Roztokach][wiki-roztoki] dowiedziałem się w sklepie, że jest w [Międzylesiu][wiki-miedzylesie].
 Fajnie, z tamtąd przyszedłem. Chwila na analizę: trasa, pociągi, pogoda. Wyszło na to,
 że w [Międzylesiu][wiki-miedzylesie] można coś zjeść, wartość iść pieszo, oraz
 tam będzie najlepsza pogoda za 3 godziny.
 
+{% photo "IMGP8072raw8.jpg","Półtora drzewa" %}
+
 Ruszyłem na wschód w kierunku wsi [Gajnik][wiki-gajnik] niebieskim szlakiem rowerowym.
 Zaciekawiło mnie, że w każdej tej wsi jest przystanek autobusowy. Oczywiście w niedziele
 żaden nie kursuje. W ogóle bardzo mało ludzi po drodzę spotkałem.
 
+{% photo "IMGP8133raw8.jpg","Ponownie wracając do Międzylesia" %}
+
 Gdy doszedłem do [Goworowa][wiki-goworow] pogoda powoli zaczęła się poprawiać. Ruszyłem
 drogą do [Międzylesia][wiki-miedzylesie] i w ciągu pół godziny chmur już prawie nie było.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/136919477/m%3D900/fc918695f5ca1cfae4875fc1b8ecc55e' alt='Winter tree by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/136919477/winter-tree-by-aleksander-kwiatkowski' alt='Winter tree by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8235raw1.jpg","Widok na Masyw Śnieżnika" %}
 
 Zastanawiałem się, którym pociągiem będę wracać i planowałem jak najlepiej wykorzystać
 czas.
+
+{% photo "IMGP8335raw1.jpg","Trzecie powrót do Międzylesia" %}
 
 Dotarłem do [zamku][wiki-zamek-miedzylesie] gdzie zjadłem coś ciepłego i po tym
 ruszyłym niebieskim szlakiem pieszym. Pamiętałem, że jest on położony przez lekkie
@@ -118,13 +113,7 @@ wzgórze nad [Międzylesiem][wiki-miedzylesie]. Prawie idealne miejsce na zdjęc
 Wyruszyłem powoli robiąc dość dużo zdjęć, korzystając z pogody i powoli zachodzącego
 słońca. W [Szklarni][wiki-szklarnia] zacząłem wracać tą samą trasą.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/136711207/m%3D900/1051c0964b5c2039bec0863db6c6d68d' alt='Purple evening near Szklarnia by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/136711207/purple-evening-near-szklarnia-by-aleksander-kwiatkowski' alt='Purple evening near Szklarnia by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP8390raw1.jpg","Ostatnie promienie słoneczne" %}
 
 Niestety pojawiła się duża chmura, która blokowała przez pewien czas światło.
 Zrozumiałem również, że południowe [Góry Bystrzyckie][wiki-bystrzyckie] i

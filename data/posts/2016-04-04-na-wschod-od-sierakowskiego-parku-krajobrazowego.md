@@ -5,9 +5,8 @@ subtitle:               "z Wronek do Szamotuł, zdecydowanie nie najbliższą tr
 date:                   2016-04-04 20:00:00
 finished_at:            2016-04-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/147837707/q%3D80_m%3D2000/8a23a97982af176e9a488945a522d6ce"
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle, no_photos]
 towns:                  [wielkopolskie, wronki, chrzypsko_wielkie, pniewy, ostrorog, szamotuly]
 lands:                  [pojezierze_poznanskie, sierakowski_park_krajobrazowy]
 
@@ -70,19 +69,11 @@ Z dworca kolejowego ruszyłym na północny-zachód w stronę [Warty][wiki-warta
 niebieskiego szlaku rowerowego. Nie mam pewności, ale jest to chyba
 [Nadwiarciański Szlak Rowerowy][wiki-nadwarcianski].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/161771412' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
 Minąłem [Stare Miasto][wiki-stare-miasto], bardzo ciekawa nazwa miejscowości,
 która nie jest miastem. Musiałem pokonać lekki podjazd i czekał mnie miły
 zjazd.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/148162013/m%3D900/6296f1cbbe31abaa17d7cf7570e70606' alt='Bus station near Warta and Stare Miasto by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/148162013/bus-station-near-warta-and-stare-miasto-by-aleksander-kwiatkowski' alt='Bus station near Warta and Stare Miasto by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP9175raw1.jpg","Widok na Wartę niedaleko Popowa","timeline" %}
 
 Według mapy przez dłuższy czas nie było żadnej miejscowości, ale z tego co
 pamiętam przy drodze były domy. Dopiero po niecałych 5km
@@ -92,24 +83,16 @@ Według [niej][nsr-mapa] biegnie on przez rzekę [Wartę][wiki-warta] na wysoko�
 [Wartosławia][wiki-wartoslaw]. Trzeba tam skorzystać z promu. Jednak na mapie UMP
 szlak ten biegnie dalej i przeprawa promowa jest na wysokości wsi [Chojno][wiki-chojno].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/148034387/m%3D900/ea6208548de6ec6973c3692c6e780d1b' alt='Blocks in Pożarowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/148034387/blocks-in-po%C5%BCarowo-by-aleksander-kwiatkowski' alt='Blocks in Pożarowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 Ruszyłem dalej na zachód w stronę wsi [Lubowo][wiki-lubowo], gdzie drogą gruntową
 skręciłem na południe w stronę [Pożarowa][wiki-pozarowo].
 
 [Pożarowo][wiki-pozarowo] jest bardzo spokojną wsią rolniczą, położoną totalnie na uboczu.
 Rozpoczęły się lekkie pagórki.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/161780188' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP9180raw1.jpg","Bloki w Pożarowie" %}
 
 Następnie kierowałem się na zachód, w stronę wsi [Pakawie][wiki-pakawie], jednak nie
-wjeżdzałem do niej. Od razu skręciłem na południe jadąc do wsi [Kłodzisko][wiki-klodzisko].
+wjeżdżałem do niej. Od razu skręciłem na południe jadąc do wsi [Kłodzisko][wiki-klodzisko].
 Była to raczej zwykła polna droga i chyba niewiele z niej nagrałem.
 
 Czas na kolejny skręt i znowu na zachód - do wsi [Dąbrowa][wiki-dabrowa] i po chwili
@@ -123,6 +106,8 @@ Droga między [Dąbrową][wiki-dabrowa] przez [Mylin][wiki-mylin] do
 jest wsią położoną w dolinie, obok niego jest [Jezioro Radziszewskie][wiki-jezioro-radziszewskie].
 Droga do niego jest widocznie wyżej.
 
+{% photo "IMGP9188raw1.jpg","Droga do Mylina","timeline" %}
+
 Dojechałem do nieużywanej stacji kolejowej w [Chrzypsku Wielkim][wiki-chrzypsko-wielkie]
 i jechałem dalej do [Chrzypska Małego][wiki-chrzypsko-male], z którego wyjazd był
 raczej stromy. Było to pozytywne, taka ciekawostka, że jednak tutaj w Wielkopolsce
@@ -133,7 +118,6 @@ i już kierowałem się do cywilizacji. Wiedziałem, że zostało mi jeszcze spo
 Tereny już nie były tak ciekawe jak wcześniej, oprócz infrastruktury kolejowej -
 głównie mostów.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/161797157' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Przejechałem przez [Nojewo][wiki-nojewo] przez normalne już tereny wiejskie, gdzie
 w [Zajączkowie][wiki-zajaczkowo] musiałem przejechać przez las drogą gruntową -
@@ -147,8 +131,6 @@ Wybrałem ambitniej - to pierwsze. Wolałem mieć ładniejszą pętle na mapie t
 Wyjazd z [Ostroroga][wiki-ostrorog] niestety był przez kilka kilometrów drogą nie
 najspokojniejszą. Cały czas jechałem czarnym szlakiem - [Szlak Stu Jezior][wiki-szlak-stu-jezior].
 Tu jest jego [mapa][ssj-mapa].
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/161818790' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Spokojnie dojechałem do [Szamotuł][wiki-szamotuly] przez [Jastrowo][wiki-jastrowo],
 chociaż nie był to fragment z którego zapamiętałem coś ciekawego. Zdecydowanie zmęczony

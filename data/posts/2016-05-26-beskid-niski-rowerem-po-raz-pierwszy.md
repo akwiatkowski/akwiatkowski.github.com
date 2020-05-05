@@ -5,9 +5,8 @@ subtitle:               "na południe od Krempnej, tam gdzie nie powinno nas by�
 date:                   2016-05-26 20:00:00
 finished_at:            2016-06-16 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/156858245/q%3D80_m%3D2000/f78d6ec50b11528fe329fd7d7daf4940"
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media_later]
+tags:                   [main, bicycle, mountains]
 towns:                  [podkarpackie, krempna]
 lands:                  [beskid_niski]
 
@@ -54,17 +53,13 @@ Pierwszy raz w [Beskidzie Niskim][wiki-beskid-niski] byłem w 2012 roku. Trochę
 od tego momentu minęło. W międzyczasie planowałem dłuższą wycieczkę z sakwami po tym
 paśmie. Niestety się nie udało.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/157539497/m%3D900/5e3648072f9c9ba45277dca144809406' alt='Road to Krempna by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/157539497/road-to-krempna-by-aleksander-kwiatkowski' alt='Road to Krempna by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP0536raw1.jpg","Idealne rowerowe górki niedaleko Tarnowa" %}
 
 Planowaliśmy w okolice Bożego Ciała wyruszyć na pętle wokół Tatr, jednak niepewna
 pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górskie pasmo
 Polski.
+
+{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","timeline" %}
 
 
 Opis trasy
@@ -79,19 +74,21 @@ Do [Krempnej][wiki-krempna] dotarliśmy około 14-tej. Wszyscy byli zmęczeni, t
 ja nabrałem sił widząc jakie ładne tereny tutaj są. Postanowiłem że przejadę się
 po okolicy i zobaczę co jest tutaj ciekawego.
 
+{% photo "IMGP0604raw1.jpg","Przejazd przez Wisłokę" %}
+
 Wyruszyłem na wschód i zjechałem do głównego skrzyżowania w [Krempnej][wiki-krempna].
 Był to całkiem fajny zjazd. Nie znając drogi i znaków zjechałem dość spokojnie i
 kierowałem się dalej na wschód.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/170483059' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Niecały kilometr dalej przejechałem przez [Wisłokę][wiki-wisloka]. Jechałem spokojnie,
 a rzeka w tym miejscu jest raczej szeroka. Udało mi się przejechać, jednak buty
 miałem solidnie przemoczone (co nie jest jakimś wielkim wyczynem).
 Było ciepło, więc to mi nie przeszkadzało.
 
+{% photo "IMGP0606raw1.jpg","Niebieska kapliczka" %}
+
 Jechałem dalej lekkim podjazdem. Mijałem łąki po drodzę, później jakieś zabudowania.
-Było to raczej kilka domów, ktore na mapach nazywane jest
+Było to raczej kilka domów, które na mapach nazywane jest
 [Hutą Krempską][wiki-huta-krempska].
 
 Za połową pętli czekał mnie bardzo przyjemny zjazd, którym dotarłem do południowej części
@@ -105,7 +102,7 @@ pierwszeństwo. Podjechaliśmy pod [Wisłokę][wiki-wisloka], gdyż chciałem po
 reszcie przejazd przez rzekę. Dopiero w tym momencie zauważyłem most wiszący obok,
 którym mógłbym przeprowadzić rower.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/170490805' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","timeline" %}
 
 Krzychu miał jedną przygodę z rzeką, a Ewa miała aż dwie. Szczegółów tutaj nie będę
 opisywał.
@@ -113,13 +110,11 @@ opisywał.
 Jechaliśmy dalej na wschód w stronę [Polan][wiki-polany] mijając chyba dwa drewniane
 mosty i beskidzkie polany, wioski i kościoły. Minęliśmy również krowy i owce.
 
+{% photo "IMGP0649raw1.jpg","Klasyczna zielona polana" %}
+
 Dojechaliśmy do schroniska [Hajstra][schronisko-hajstra].
 Problematyczne było dostanie się za dolinę [Ciechanii][wiki-ciechania], gdyż
 jest to teren parku i jest zakaz wchodzenia tam.
-
-<!--
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/170495557' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
--->
 
 Kolejnym etapem był zjazd od wsi [Żydowskie][wiki-zydowskie] do [Ożennej][wiki-ozenna].
 Bardzo mi się podobała droga, z której widać dolinię [Ciechanii][wiki-ciechania].
@@ -127,12 +122,12 @@ Większość zjazdu było przez las.
 Niestety podczas ostatniej części zjazdu kropla błota spadła na kamerkę, co
 jest widoczne cały czas na filmie.
 
+{% photo "IMGP0662raw1.jpg","Zielony Beskid Niski","timeline" %}
+
 Zrobiliśmy przerwę przy sklepie. Widzieliśmy w pewnym momencie jak drogą
 prowadzone jest małe stado krów. Zaczęliśmy wracać przez [Grab][wiki-grab]
 i [Rozstajne][wiki-rozstajne]. Miałem wrażenie, że był to lekki zjazd gdyż
 łatwo było osiągać prędkość 30km/h.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/170867075' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Co chwilę przy drodzę widzieliśmy
 tabliczki "Zwolnij, Ryś", czasem to byl niedźwiedź albo wilk.

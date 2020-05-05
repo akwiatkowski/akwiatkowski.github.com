@@ -4,10 +4,9 @@ title:                  "Wschód słońca na Śnieżniku"
 subtitle:               "zapierająca dech biel"
 date:                   2016-01-16 18:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/136604421/m%3D2048/7163852183b878689a3c4c405f636b4d"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
@@ -38,35 +37,19 @@ Wstaliśmy po 4-tej i przed 5-tą już wyruszyliśmy na wschód słońca. Wyszli
 pomimo tego, że prognoza pogody była mało obiecująca, delikatnie mówiąc. Większość
 musiała wracać w niedzielę bardzo wcześnie (a dokładniej - wszyscy oprócz mnie).
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/137944875/m%3D900/750b892351d7d3ad17e2e5cc8045420b' alt='Winter road to Śnieżnik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/137944875/winter-road-to-%C5%9Anie%C5%BCnik-by-aleksander-kwiatkowski' alt='Winter road to Śnieżnik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7469raw1.jpg","Światło czołówki" %}
 
 Trasy opisywać nie będę, bo był tylko śnieg i drzewa. Z czasem było tylko więcej śniegu.
 Było to ogromnie monotonne i przydałoby się trochę słońca, które dałoby jakieś
 barwy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/139588949/m%3D900/9edefb2999974c9ae72c17d3c7631289' alt='Meeting below Śnieżnik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/139588949/meeting-below-%C5%9Anie%C5%BCnik-by-aleksander-kwiatkowski' alt='Meeting below Śnieżnik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7603raw1.jpg","Głodne zwierzaki" %}
 
 Z ciekawszych momentów dnia była wizyta trzech zwierzaków, które spotkaliśmy obok
 [schroniska][wiki-schronisko].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/137672441/m%3D900/76ec513cc1b09e512ee4776a8641fe8e' alt='Wild animals not being such wild by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/137672441/wild-animals-not-being-such-wild-by-aleksander-kwiatkowski' alt='Wild animals not being such wild by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP7670raw8.jpg","Spacer na Śnieżnik" %}
 
 Tego dnia poszliśmy spać około 20-tej. Wszyscy byli bardzo zmęczeni.
+
+{% photo "IMGP7730raw8.jpg","Polary są przereklamowane" %}

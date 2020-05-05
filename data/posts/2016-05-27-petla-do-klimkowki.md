@@ -5,10 +5,9 @@ subtitle:               "najdłuższa, najmocniejsza i z największymi przygodam
 date:                   2016-05-27 20:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, mountains, todo_media_later]
+tags:                   [main, bicycle, mountains]
 towns:                  [podkarpackie, malopolskie, krempna, sekowa, uscie_gorlickie, ropa, gorlice]
 lands:                  [beskid_niski]
 
@@ -79,6 +78,8 @@ tylko tam skręciliśmy na zachód do [Nieznajowej][wiki-nieznajowa].
 Po drodzę spotkaliśmy pasterza ze stadem owiec, a chwilę później widzieliśmy
 [Chatkę w Nieznajowej][chatka-w-nieznajowej].
 
+{% photo "IMGP0690raw1.jpg","Owce w Nieznajowej" %}
+
 Po pierwszym przejściu przez [Wisłokę][wiki-wisloka] przypomniałem sobie, że
 na mapię jest tam około 5 razy napisane "bród" i co to oznacza.
 Strategie przejść były różne:
@@ -86,7 +87,7 @@ przejazd, przejście w butach, przejście gołymi stopami, a nawet budowa wysepe
 z kamieni aby przejść suchymi butami. Ja nie pamiętam teraz co wybierałem, ale buty
 miałem i tak mokre.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748057' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0698raw1.jpg","Drzwi w Nieznajowej" %}
 
 Bardzo podobał mi się ten szlak, ta bliskość rzeki, która sprawiała, że jest
 tutaj trochę inaczej. Może było bardziej dziko niż zwykle jest.
@@ -97,12 +98,12 @@ na jedzenie. Dalej ruszyliśmy drogą obok rzeki Lipna do
 przyjemny zjazd. Jakieś ciekawe widoki niestety były dopiero pod koniec, wcześniej jechaliśmy
 cały czas przez las.
 
+{% photo "IMGP0707raw1.jpg","Rzeka Wisłoka" %}
+
 Gdy byliśmy już w [Zdyni][wiki-zdynia] Tomek zauważył że ma problemy z
 tylnim kołem. Trochę to trwało, ale załatwiliśmy transport do [Gorlic][wiki-gorlice],
 gdyż tam jest najbliższy serwis rowerowy. Sami ruszyliśmy dalej. Świadomość
 kryzysowej sytuacji spowodowała, że nie podjechaliśmy do [Regietowa][wiki-regietow].
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/170867109' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Jechaliśmy główną drogą na północ do [Smerekowca][wiki-smerekowiec] jednocześnie
 podziwiając widoki podczas zjazdów.
@@ -110,13 +111,7 @@ podziwiając widoki podczas zjazdów.
 Skręciliśmy w lewo w stronę [Kwiatonia][wiki-kwiaton], gdzie zrobiliśmy przerwę przy
 cerkwi, która jest jedną z najlepiej zachowanych cerkwi łemkowskich w Polsce.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/157540231/m%3D900/20cc482c1af39d72fc452c9459d6c596' alt='Orthodox church in Kwiatoń by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/157540231/orthodox-church-in-kwiato%C5%84-by-aleksander-kwiatkowski' alt='Orthodox church in Kwiatoń by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP0716raw1.jpg","Przejście przez Wisłokę" %}
 
 [Uście Gorlickie][wiki-uscie-gorlickie] jak i sama [Klimkówka][wiki-klimkowka-jezioro] było już
 blisko.
@@ -130,11 +125,11 @@ dłuższą przerwę.
 Zaplanowaliśmy drogę powrotną i chyba źle się zrozumieliśmy rady właściciela, co
 się okazało później.
 
+{% photo "IMGP0742raw1.jpg","Cerkiew w Kwiatoniu" %}
+
 Ruszyliśmy na północ w stronę wsi [Łosie][wiki-losie]. Zjazd do niej był chyba
 najładniejszym widokowo zjazdem. Mieliśmy idealną widoczność na
 [Suchy Wierch][wiki-suchy-wierch] i okoliczne polany.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748108' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
 Za wsią [Łosie][wiki-losie] czekał nas podjazd do [Bielanki][wiki-bielanka], a
 następnie kolejny podjazd już drogą mało uczęszczaną.
@@ -142,6 +137,8 @@ następnie kolejny podjazd już drogą mało uczęszczaną.
 Tutaj zaczęło się pierwsze piekło - pieszy szlak do [schoniska][wiki-schronisko].
 Wydaję mi się, że powinniśmy pojechać drogą trochę na południe i przejechać
 przez [Nowicę][wiki-nowica], tak byłoby łatwiej i szybciej.
+
+{% photo "IMGP0747raw1.jpg","Klimkówka" %}
 
 Przemek w jednym momencie skręcił i zamiast jechać szlakiem wybrał ciekawszą drogę.
 Krzychu wyruszył z misją ratunkową.
@@ -161,7 +158,7 @@ ze stabilnością podczas zjazdu.
 W [Pętnej][wiki-petna] ruszyliśmy na wschód. Robiło się już ciemno co mnie bardzo
 martwiło.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/171748141' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP0792raw1.jpg","Późnym wieczorem w Banicy" %}
 
 Cały czas czuliśmy że jedziemy przez [Beskid Niski][wiki-beskid-niski]. Przejechaliśmy
 przez [Banicę][wiki-banica] i teraz zjeżdzaliśmy do [Wołowca][wiki-wolowiec].
@@ -179,13 +176,7 @@ z guglowych map i tam kierowaliśmy się, gdzie powinna być droga. Najpierw by�
 nasze się wyładowywały gdyż każdy rejestrował trasę. Ja nie rejestrowałem, po prostu
 moja komórka jest słaba (dosadniejsze słowo lepiej będzie pasowało tutaj).
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/159792723/m%3D900/1c59da05369fcfff22ef346a731be12f' alt='Evenining in Wołowiec in Low Beskid by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/159792723/evenining-in-wo%C5%82owiec-in-low-beskid-by-aleksander-kwiatkowski' alt='Evenining in Wołowiec in Low Beskid by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP0797raw1.jpg","Szukając odpowiedniej drogi w Wołowcu" %}
 
 Szliśmy przez las czymś co wyglądało w miarę sensownie na jakąś drogę, jakby
 raz na jakiś czas człowiek tam szedł. Co chwilę wchodziłem w błoto.

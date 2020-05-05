@@ -4,9 +4,8 @@ title:                  "Narty w Zieleńcu"
 subtitle:               "przyjazd w zimie, odjazd podczas jesieni"
 date:                   2016-02-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/142297667/q%3D80_m%3D2000/0785ed72db8617e39a284da7851e4a5b"
 categories:             trip
-tags:                   [main, relax, todo_media_later]
+tags:                   [main, relax]
 towns:                  [dolnoslaskie, duszniki_zdroj]
 lands:                  [gory_bystrzyckie, gory_orlickie]
 
@@ -31,12 +30,14 @@ Szczegóły
 Do [Duszników Zdrój][wiki-duszniki] dojechaliśmy autobusem z Wrocławia.
 Wjeżdzaliśmy w trakcie zimy.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/156331426' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP8422raw1.jpg","Śnieżny Zieleniec" %}
 
 [Zieleniec][wiki-zieleniec] okazał być się naprawdę solidną, jak na polskie warunki, miejscowością
 narciarską. Ogromny wybór tras i wyciągów, jak i odpowiedni chłodny klimat.
 
-Tam są tylko 5 rodzajów obiektów:
+{% photo "IMGP8422raw1.jpg","Śnieżny Zieleniec" %}
+
+Tam jest tylko pięć rodzajów obiektów:
 
 * noclegi
 * wypożyczalnie
@@ -44,22 +45,22 @@ Tam są tylko 5 rodzajów obiektów:
 * restauracje
 * wyciągi
 
+{% photo "IMGP8448raw1.jpg","Zieleniec popołudniem" %}
+
 Widziałem dwa albo trzy sklepy, żadnej biedronki ani żabki. Sklepy tylko lokalne.
 
-Dwa dni później zjechaliśmy autobusem do [Dusznik Zdrój][wiki-duszniki]. Po tym
-jak spadł solidny deszcz znacząco pogorszyły się warunki.
+{% photo "IMGP8456raw1.jpg","No to po sezonie narciarskim" %}
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/146061597/m%3D900/39e9ad2f36a49b88792927468e5ed3ba' alt='Shop in Duszniki Zdrój by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/146061597/shop-in-duszniki-zdr%C3%B3j-by-aleksander-kwiatkowski' alt='Shop in Duszniki Zdrój by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+Dwa dni później zjechaliśmy autobusem do [Dusznik Zdrój][wiki-duszniki]. Po tym
+jak spadł solidny deszcz znacząco pogorszyły się warunki narciarskie.
+
+{% photo "IMGP8469raw1.jpg","Smutne domy w Dusznikach Zdrój" %}
 
 Trochę pochodziliśmy po mieście, jednak zauważam, że skoro zimy nie ma dobrej to
-pozostaje czekać na wiosnę. Gdy się zazieleni będzie wszędzie ładniej. Teraz
-było tak szarawo.
+pozostaje czekać na wiosnę. Gdy się zazieleni będzie ładniej. Teraz
+było tak szaro o smutno.
+
+{% photo "IMGP8470raw1.jpg","Uliczka w Dusznikach Zdrój" %}
 
 Wracaliśmy pociągiem z [Dusznik][wiki-duszniki] przez [Kłodzko][wiki-klodzko] do
 Poznania.
