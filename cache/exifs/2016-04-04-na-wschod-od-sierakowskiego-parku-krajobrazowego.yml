@@ -15,3 +15,45 @@
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2016-04-04 13:20:12+02:00
+- image_filename: IMGP9175raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.71203583333334
+  lon: 16.309504166666667
+  altitude: 51.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-04-04 13:09:21+02:00
+- image_filename: IMGP9180raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.68951916666666
+  lon: 16.26478277777778
+  altitude: 58.3
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 5.6
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2016-04-04 13:37:40+02:00
+- image_filename: IMGP9188raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.657875555555556
+  lon: 16.225925277777776
+  altitude: 67.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2016-04-04 14:09:51+02:00
