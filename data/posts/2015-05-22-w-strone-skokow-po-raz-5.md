@@ -51,20 +51,6 @@ przejazdu.
 
 Nowe są tylko filmiki. Na pierwszym jest kilka fragmentów nagrane aparatem.
 
-
-<!--
-A poniżej lista filmików z przejazdu nagrane kamerką:
-
-1. [Nadwarciański Szlak Rowerowy w Poznaniu - Biedrusko][vimeo-1]
-2. [Promnice - Mściszewo][vimeo-2]
-3. [Mściszewo - Uchorowo][vimeo-3]
-4. [Uchorowo - Łoskoń Stary][vimeo-4]
-5. [Łoskoń Stary - Budziszewko][vimeo-5]
-6. [Budziszewko - Lechlin][vimeo-6]
-7. [Lechlin - Przysieczyn][vimeo-7]
--->
-
-
 ### Aktualizacja 2020-05-04
 
 Wywalam filmiki. Nie są one na tyle ciekawe i robię je

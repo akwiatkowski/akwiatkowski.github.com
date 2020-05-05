@@ -4,9 +4,8 @@ title:                  "Z Lednogóry do Skoków kręcąc się wokół jezior"
 subtitle:               "rozpoczęcie roku szkolnego w piekle na Ziemii (rekordowa temperatura września)"
 date:                   2015-09-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225"
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, pobiedziska, kiszkowo, klecko, skoki]
 lands:                  [pojezierze_gnieznienskie]
 
@@ -64,16 +63,16 @@ Opis trasy
 Szczegóły
 ---------
 
-Ruszyliśmy przed 8 pociągiem w kierunku [Lednogóry][wiki-legnogora]. Tam [wyruszliśmy][vimeo1] w stronę Jeziora
+Ruszyliśmy przed 8 pociągiem w kierunku [Lednogóry][wiki-legnogora]. Tam wyruszliśmy w stronę Jeziora
 [Lednica][wiki-lednica].
 Objechaliśmy je przez [Dziekanowice][wiki-dziekanowice], [Siemianowo][wiki-siemianowo] i
 [Waliszewo][wiki-waliszewo]. Obok [Waliszewa][wiki-waliszewo] widzieliśmy bardzo ciekawy przystanek autobusowy.
 Zauważam, że ciekawią mnie dziwne przystanki. Był on na skrzyżowaniu dróg gdzieś ponad kilometr od wioski, do której
 droga prowadziła przez las.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/138469654' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP3191raw1.jpg","Jezioro Lednica" %}
 
-Cofneliśmy się, pojechaliśmy trochę na południe, do [Skrzetuszewa][wiki-skrzetuszewo], a następnie ruszyliśmy w kierunku
+Cofnęliśmy się, pojechaliśmy trochę na południe, do [Skrzetuszewa][wiki-skrzetuszewo], a następnie ruszyliśmy w kierunku
 wsi [Głębokie][wiki-glebokie]. Po
 drodzę minęliśmy Jezioro Głębokie i ruszyliśmy do [Sławna][wiki-slawno]. Tam okazało się, że znowu musimy się lekko
 cofnąć.
@@ -84,8 +83,7 @@ Dojechaliśmy prawie do [Kiszkowa][wiki-kiszkowo]. Bardzo fajny był zjazd po dr
 aby móc się kierować do [Brudzewka][wiki-brudzewko]. Przejechaliśmy obok dwóch stawów i rzeki
 [Małej Wełny][wiki-mala-welna]. Po ilości ptaków oceniam to na taką małą "Dolinę Baryczy".
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/138473676' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
+{% photo "IMGP3197raw1.jpg","Krzyż niedaleko Sławna" %}
 
 Przejechaliśmy przez [Rybno Wielkie][wiki-rybno-wielkie] drogą polną do [Wysokiej][wiki-wysoka],
 z której już woleliśmy jechać drogą asfaltową. W okolicy przebiega [linia kolejowa 377][wiki-377] łącząca
@@ -95,13 +93,11 @@ dla pasażerów.
 Susza dała nam duże ilości piasku jako urozmaicenie. Po drodzę przerwa w sklepie i kierowaliśmy się jak
 najszybciej do [Skoków][wiki-skoki].
 
-
 Minęliśmy [Bliżyce][wiki-blizyce], a w [Glinnie][wiki-glinno] już jechaliśmy dobrą
 drogą asfaltową do Skoków. Za [Antoniewem Górnym][wiki-antoniewo]
 był drugi fajny zjazd.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/139141065' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
+{% photo "IMGP3211raw1.jpg","Stawy niedaleko Rybna Wielkiego / Kizkowa" %}
 
 Ze [Skoków][wiki-skoki] kierowaliśmy się do [Rościnna][wiki-roscinno] - małej wioski w kierunku [Rogoźna][wiki-rogozno].
 Było już tak ciepło, że mógłbym już zakończyć dzień. Chcieliśmy jednak spróbować wykąpać się
@@ -110,6 +106,8 @@ Dowiedzieliśmy się, że może po drugiej stronie woda będzie czystsza.
 Niestety druga strona to droga terenowe, a przez tą suszę piasku był ogrom.
 Ostatnie porcje energii zużyliśmy właśnie tam.
 Znaleźliśmy jakąś plażę, gdzie było trochę cieia.
+
+{% photo "IMGP3220raw1.jpg","Trasa Rybno Wielkie - Wysoka","timeline" %}
 
 Powrót i ponownie jazda przez piaski, ale wykombinowaliśmy inną drogę - obok Kostusina i [Potrzanowa][wiki-potrzanowo].
 W [Potrzanowie][wiki-potrzanowo] był trzeci zjazd, tym razem najlepszy. Prawie 50km/h to

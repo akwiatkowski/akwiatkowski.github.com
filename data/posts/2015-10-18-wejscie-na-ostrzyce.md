@@ -4,10 +4,9 @@ title:                  "Wejście na Ostrzycę"
 subtitle:               "a wcześniej wejście na Wielisławkę"
 date:                   2015-10-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/126112863/m%3D2048/34d513464fccfade3f92a8fe62981d3f"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later]
+tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, swierzawa, pielgrzymka]
 lands:                  [pogorze_kaczawskie]
 
@@ -34,31 +33,23 @@ Szczegóły
 Prognoza pogody nadal była niepewna. Okno dobrej widoczności poprzedniego wieczoru nadal było zmienne.
 Nie mieliśmy jednak wyboru - warto wyruszyć i zobaczyć, jakakolwiek pogoda by była.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/174094649/m%3D900/df2ba02fc5e6a5faa8ab990d3c79a683' alt='Ostrzyca Proboszczowa by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/174094649/ostrzyca-proboszczowa-by-aleksander-kwiatkowski' alt='Ostrzyca Proboszczowa by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5558raw1","Widok z Wielisławki" %}
 
 Najpierw poszliśmy wejść na [Wielisławkę][wiki-organy], które mieliśmy całkiem blisko.
 Podejście było dość mocne, wszędzie bardzo dużo liści, tylko kolory były trochę wczesne -
 bardziej zielone niż czerwone.
 
+{% photo "IMGP5673raw1-1.jpg","Pies na Ostrzycy" %}
+
 Na górze okazało się, że tylko z jednego miejsca jest dobry widok. Reszta jest zasłonięta przez drzewa.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/127597879/m%3D900/2d8a073837ef047bbb9b48d23c077b15' alt='Sokołowiec area by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/127597879/soko%C5%82owiec-area-by-aleksander-kwiatkowski' alt='Sokołowiec area by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5734raw1.jpg","Widok z Ostrzycy" %}
 
 Później pojechaliśmy do [Proboszczowa][wiki-proboszczow], gdzie ruszyliśmy żółtym szlakiem
 na [Ostrzycę][wiki-ostrzyca]. Mieliśmy małe przygody z niedopalonymi ogniskami w lesie,
 które nas opóźniły o około godzinę.
+
+{% photo "IMGP5777raw1.jpg","Widok z Ostrzycy" %}
 
 Podchodząc na [Ostrzycę][wiki-ostrzyca] musieliśmy uważać na śliskie schody.
 Na górze czekał dla nas, i nie tylko bo nie byliśmy tam sami, najlepsze widoki tego

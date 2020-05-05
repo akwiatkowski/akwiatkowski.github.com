@@ -4,10 +4,9 @@ title:                  "Do Milicza trasą dawnej kolei wąskotorowej"
 subtitle:               "oraz pętelka wokół Stawów Milickich"
 date:                   2015-07-26 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/116283685/m%3D2048/f86f748be05df0e81f9e449415e10398"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media_later]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 
@@ -54,26 +53,25 @@ Szczegóły
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/354708275/embed/0d907e24326f9bdec8ec53c84a1c88e2de3f390b'></iframe>
 
-Zgodnie z tym że większośc osób od nas dzień wcześniej wracała inaczej niż ja, oraz ja mało co zwracałem na widoki (spieszyłem się
-gdyż padało), postanowiliśmy [pojechać][vimeo-1] przez [Rudę Żmigrodzką][wiki-ruda-zmigrodzka]. Dalej jechaliśmy drogą polną
+Zgodnie z tym że większość osób od nas dzień wcześniej wracała inaczej niż ja, oraz ja mało co zwracałem na widoki (spieszyłem się
+gdyż padało), postanowiliśmy pojechać przez [Rudę Żmigrodzką][wiki-ruda-zmigrodzka]. Dalej jechaliśmy drogą polną
 wzdłuż [Baryczy][wiki-barycz], gdyż ktoś lokalny nam powiedział że tam jest fajnie.
 Jedyną fajną rzeczą była stara zapora na rzecze.
 Odwiedziliśmy jeszcze nową, która była niedaleko.
 
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/134814391' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2203raw1.jpg","Rzeka Barycz","timeline" %}
 
 Dalej pojechaliśmy już główną drogą, aby jak najszybciej dostać się do [Sułowa][wiki-sulow]. Miała być tam smażalnia ryb.
 Mieszkańcy mówili że nic takiego tutaj nie ma, ale okazało się że jedna jest - na ulicy Leśnej.
 Miałem pewne wrażenie opuszczenia tych terenów przez turystykę.
 
+{% photo "IMGP2218raw1.jpg","Dom w Sułowie" %}
+
 Ruszyliśmy przez las aby dostać się do szlaku dawnej kolei wąskotorowej od wsi [Pracze][wiki-pracze]. Od tego miejsca aż po
 [Milicz][wiki-milicz] była to najlepsza część trasy.
+Idealna, spokojna trasa rowerowa po drodze asfaltowej przez pola.
 
-Idealna, spokojna trasa rowerowa po drodze asfaltowej przez pola. Poniższy film chyba
-lepiej ją opisze niż ja jestem w stanie.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/134878409' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2236raw1.jpg","Budynki gospodarcze wsi Pracze" %}
 
 W związku z tym że mieliśmy trochę czasu, a ja chciałem trochę kilometrów dorobić, to pojechałem z [Milicza][wiki-milicz]
 na małą przejażdżkę. Pojechałem tam gdzie jest dużo stawów na mapie,
@@ -81,17 +79,25 @@ czyli przez [Rudę Milicką][wiki-ruda-milicka] i [Stawno][wiki-stawno].
 Drogą za [Stawnem][wiki-stawno] była bardzo dobra, jednak mocno zarośnięta i z roweru widziałem widoków na
 wodę nie było. Myślałem że będzie trochę lepiej.
 
+{% photo "IMGP2240raw1.jpg","Szlak rowerowy na trasie kolei wąskotorowej" %}
+
 Miałem ponad godzinę do odjazdu pociągu i zastanawiałem się czy jechać dalej, czy wrócić. Zawsze jest to jakieś ryzyko.
 Mapa na GPS może nie być aktualna, może coś się wydarzyć, może droga być nieprzejezdna.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/135268126' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2284raw1.jpg","Stacja kolejowa w Miliczu" %}
 
 Przejechałem przez [Nowy Zamek][wiki-nowy-zamek], dojechałem do wsi [Wszewilki][wiki-wszewilki] i tam w lewo żółtym
 szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co robić dalej. Wniosłem rower po schodach,
 przejechałem przez most i pod koniec mam do wyboru zejście w lewo lub w prawo.
 Gdy wybiorę w lewo nic nie widzę co jest dalej, gdy w prawo jest jakaś droga tam.
+
+{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","timeline" %}
+
 Przechodzę przez tory i znoszę rower z sakwami po schodach. Okazuje się, że ludzie się tam kręcą i dowiaduję
 się że dojadę do dworca.
+
+{% photo "IMGP2377raw1.jpg","Okolica Sulęcinka" %}
+
 Przejeżdzam obok zalewu i kilka minut później jestem przy dworcu. Wszystko dobrze, tylko nie zdążyłem kupić sobie jedzenia
 na drogę. Od zjedzenia ryby w [Sułowie][wiki-sulow] nic nie jadłem a mieliśmy 2h
 jazdy pociągiem do Poznania. Wytrzymałem obserwując tereny jakie mijaliśmy.

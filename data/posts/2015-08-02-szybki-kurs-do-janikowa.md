@@ -7,7 +7,7 @@ author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 
 coords:                 [{"route": [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]], "type": "bicycle"}]
@@ -45,19 +45,13 @@ Początkowo jechałem w stronę [Rzadkwina][wiki-rzadkwin] gdzie przejechałem p
 [Noteć][wiki-notec] i jechałem na północ przez [Strzelce][wiki-strzelce]. Powoli robiło
 się bardzo ciepło, ja również jechałem bardzo szybko.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/136709850' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2491raw1.jpg","Noteć Zachodnia / Jezioro Pakoskie" %}
 
 Pod względem trasy mało jest do opowiedzenia. Wystarczyło jechać dalej przez
 [Trląg][wiki-trlag], skręcić na wschód mijając [Jezioro Pakoskie][wiki-jezioro-pakoskie]
 i już jest [Janikowo][wiki-janikowo].
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/171795953/m%3D900/d874dd56538a4a2ac016c68d067ab101' alt='Blue and yellow by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/171795953/blue-and-yellow-by-aleksander-kwiatkowski' alt='Blue and yellow by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2617raw1.jpg","Okolice Jankowa Dolnego","timeline" %}
 
 Trasę tą znam dobrze z perspektywy jazdy samochodem, gdyż jest to jeden z dojazdów
 do [Janikowa][wiki-janikowo].

@@ -4,10 +4,9 @@ title:                  "Przez Powidz i granicę dwóch województw"
 subtitle:               "wielkopolskie i kujawsko-pomorskie, od Strzałkowa do Strzelna"
 date:                   2015-08-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/117006701/m%3D2048/3d23b55abe3b31f6a01d06f559db95e3"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, todo_media_later]
+tags:                   [main, bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, strzalkowo, powidz, orchowo, jeziora_wielkie, strzelno]
 lands:                  [powidzki_park_krajobrazowy]
 
@@ -67,63 +66,51 @@ Szczegóły
 Wyruszyłem pociągiem z [Poznania][wiki-poznan] do [Strzałkowa][wiki-strzalkowo], które
 jest miasteczkiem przed [Słupcą][wiki-slupca].
 
-[Wyruszyłem][vimeo-1] na północ przejeżdzając przez tereny wiejskie i leśne.
+Wyruszyłem na północ przejeżdżając przez tereny wiejskie i leśne.
 Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i przyjemne
 do jazdy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/171796395/m%3D900/18551951b23e8c5fe50ecee6b3711b58' alt='Road near Powidzkie Lake by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/171796395/road-near-powidzkie-lake-by-aleksander-kwiatkowski' alt='Road near Powidzkie Lake by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2410raw1.jpg","Droga do Polanowa","timeline" %}
 
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
 starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/135331028' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
-Przejeżdzałem przez tory kolejowe, ale na mapie ich już nie ma. Zastanawiam się
+Przejeżdżałem przez tory kolejowe, ale na mapie ich już nie ma. Zastanawiam się
 dokąd one kiedyś prowadziły. Tory te były przed [Kochowem][wiki-kochowo],
 wioską położoną na południu od [Jeziora Powidzkiego][wiki-jezioro-powidzkie].
+
+{% photo "IMGP2414raw1.jpg","Jezioro Powidzkie" %}
 
 Przypadkowo dojechałem do centrum [Kochowa][wiki-kochowo] i musiałem się
 kilkaset metrów wrócić.
 
-Następnie [jechałem][vimeo-3] na północ po zachodniej stronie [jeziora][wiki-jezioro-powidzkie].
+Następnie jechałem na północ po zachodniej stronie [jeziora][wiki-jezioro-powidzkie].
 W okolicy [Polanowa][wiki-polanowa] podobał mi się krajobraz:
 spokojna droga i pole na lekkim wzgórzu. Taki teren był dość krótko niestety.
 
-[Wjechałem][vimeo-4] na plażę w [Powidzu][wiki-powidz], przerwa aby coś zjeść i jadę dalej na
+{% photo "IMGP2416raw1.jpg","Tory w kierunku do Anastazewa" %}
+
+Wjechałem na plażę w [Powidzu][wiki-powidz], przerwa aby coś zjeść i jadę dalej na
 północ. W [Przybrodzinie][wiki-przybrodzin] skręciłem na drogę wokół torów,
 jednak przy tej pogodzie było tam sporo piasku. Dość szybko uciekłem i jechałem
 już asfaltem w stronę [Anastazewa][wiki-anastazewo] czując, że jadę przez
 spory las.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/135355794' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2424raw1.jpg","Szlak rowerowy z Suszewa w stronę Mleczy/Gaju" %}
 
 Następnie jechałem niebieskim szlakiem rowerowym przez [Osówiec][wiki-osowiec].
 Całkiem fajne dość dzikie tereny, zwłaszcza [Mlecze][wiki-mlecze]. Czułem że opuszczam
 województwo [wielkopolskie][wiki-wielkopolskie].
 
-Do [Przyjezierza][wiki-przyjezierze] [wjechałem][vimeo-6] przez las.
+Do [Przyjezierza][wiki-przyjezierze] wjechałemo-6] przez las.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/135699638' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","timeline" %}
 
 Przejechałem [Przyjezierze][wiki-przyjezierze] i kierowałem sie w stronę [Strzelna][wiki-strzelno].
 Mijałem wsie ([Ostrowo][wiki-ostrowo] i [Cieńcisko][wiki-ciensisko]),
 które znałem całkiem dobrze.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/171797517/m%3D900/98f9d67786b79d2c3797e7821732d14d' alt='Field after harvest by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/171797517/field-after-harvest-by-aleksander-kwiatkowski' alt='Field after harvest by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2482raw1.jpg","Pola po żniwach","timeline" %}
 
 Mając trochę czasu przejechałem się do [Bronisławia][wiki-bronislaw] przez małe
 kujawskie wioski.
-
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/135737760' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>

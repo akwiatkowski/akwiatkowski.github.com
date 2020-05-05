@@ -4,9 +4,8 @@ title:                  "Zachodnia część Doliny Baryczy, od Żmigrodu po Rud�
 subtitle:               "bardzo mokry dzień, niewiele było czasu aby móc pojechać gdzieś dalej"
 date:                   2015-07-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/116283285/m%3D2048/5eb8e98a8daa352db6f7c411a4d28776"
 categories:             trip
-tags:                   [main, bicycle, panniers, todo_media_later]
+tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, zmigrod, milicz]
 lands:                  [dolina_baryczy]
 
@@ -53,18 +52,22 @@ Szczegóły
 
 Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu po zapasy i później zjeść coś ciepłego.
 Było bardzo ciepło i wilgotno, pojawiły się szare chmury.
-[Zaskoczyła][vimeo-1] nas burza w momencie gdy jedliśmy siedząc pod parasolami.
+Zaskoczyła nas burza w momencie gdy jedliśmy siedząc pod parasolami.
 
-Na szczeście nie trwała ona długo i między 13-tą a 14-tą [wyruszyliśmy][vimeo-2] w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
+{% photo "IMGP2006raw2.jpg","Okolica Kościanu","timeline" %}
+
+Na szczeście nie trwała ona długo i między 13-tą a 14-tą wyruszyliśmy w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
 nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to ruiny, ale można powiedzieć, że
 w dobrym stanie.
+
+{% photo "IMGP2065raw1.jpg","Ruiny pałacu w Żmigrodzie" %}
 
 Następnie pojechaliśmy do [Radziądza][wiki-radziadz] zostawić sakwy i wyruszyć dalej z mniejszym obciążeniem. Niestety
 udało nam się wyruszyć dopiero około 16-tej. Wcześniej rozważałem długą trasę na południe przez [Trzebnicę][wiki-trzebnica],
 jednak teraz
 było to absolutnie niemożliwe.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/134642618' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2083raw1.jpg","Dom na skrzyżowaniu" %}
 
 Pojechałem trochę szybciej. Przejechałem przez [Niezgodę][wiki-niezgoda] i kierowałem się w stronę wieży widokowej na
 Starym Stawie, a
@@ -72,33 +75,33 @@ przynajmniej tak mi się wydaje, że się tak on nazywa. Trasa jest trochę tere
 się po niej jechało. Z wieży był bardzo dobry widok na cały staw, który jest domem ogromnej ilości ptaków. Z tego miejsca widać
 najlepiej ogrom ich ilości.
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/134669867' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2095raw1.jpg","Widok na Stary Staw" %}
 
 Ruszyłem dalej w stronę [Olszy][wiki-olsza] przez [Wilkowo][wiki-wilkowo]. Ta ostatnia wieś ma bardzo duży starych,
 opuszczonych domów. Jest dziko, ale bardzo ładnie.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/116283285/m%3D900/009706ea1b5544c431749d5067564858' alt='Ruined house in Wilkowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/116283285/ruined-house-in-wilkowo-by-aleksander-kwiatkowski' alt='Ruined house in Wilkowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP2113raw1.jpg","Dom z kotkiem w Olszy" %}
 
 Od [Grabówki][wiki-grabowka] aż za [Rudę Sułowską][wiki-ruda-sulowska] do drogi 439 ([Radziądz][wiki-radziadz]-[Sułów][wiki-sulow])
-[prowadził][vimeo-5] najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.
+prowadził najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.
 I co za tym idzie, najładniejszy moim zdaniem również.
 
-Dalej [pojechałem][vimeo-6] mniej ciekawym szlakiem przez las w kierunku zapory na [Baryczy][wiki-barycz]. Ponoć postawili ją
+{% photo "IMGP2126raw1.jpg","Staw w okolicy Rudy Sułowskiej","timeline" %}
+
+Dalej pojechałem mniej ciekawym szlakiem przez las w kierunku zapory na [Baryczy][wiki-barycz]. Ponoć postawili ją
 niedawno. I dalej przez las w kierunki wsi [Osiek][wiki-osiek]. Po drodzę minąłem [Książęcą Wieś][wiki-ksiazeca-wies].
 Wieś podobnie zapuszczona jak [Wilkowo][wiki-wilkowo].
 
-<div class="vimeo"><iframe src='http://player.vimeo.com/video/134785986' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
+{% photo "IMGP2139raw1.jpg","Las niedaleko Rudy Żmigrodzkiej","timeline" %}
 
 Gdy dojechałem do głównego skrzyżowania we wsi [Osiek][wiki-osiek] zobaczyłem, że chmury stają się być podejrzane.
 Od tego momentu starałem się w miarę szybko jechać do [Radziądza][wiki-radziadz]. Mniej już zwracałem uwagę na
 to co mijałem.
 Powoli zaczęło padać, oraz słyszałem grzmoty w oddali. Ostatnie 3km trasy przejechałem w solidnym deszczu.
 
+{% photo "IMGP2145raw1.jpg","Dom w Książęcej Wsi" %}
+
 Po powrocie czułem że to była walka z czasem, ucieczka od ogromnej ulewy, jednak po 15 minutach nie było śladu deszczu.
 Nawet zrobiło się w miarę słonecznie i ładnie.
+
+{% photo "IMGP2162raw1.jpg","Stary Staw po burzy" %}

@@ -4,10 +4,9 @@ title:                  "Pętla po Pogórzu Kaczawskim"
 subtitle:               "30km pieszo, jeden dzień jak trzy różne dni"
 date:                   2015-10-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains, todo_media_later, best, photo_of_the_year]
+tags:                   [main, hike, mountains, best, photo_of_the_year]
 towns:                  [dolnoslaskie, swierzawa]
 lands:                  [gory_kaczawskie, pogorze_kaczawskie]
 
@@ -45,81 +44,63 @@ Opis trasy
 Szczegóły
 ---------
 
+{% photo "IMGP4797raw1.jpg","Droga Legnica - Złotoryja" %}
+
 Dzień wcześniej niecierpliwie sprawdzałem różne prognozy
 pogody szukając tej najlepszej. W nocy zaczęło padać. Pogodziłem się, że pogoda będzie raczej słaba.
 Słaba jeżeli chodzi o widoki, jeżeli chodzi o zdjęcia to z tym bywa różnie - nigdy niewiadomo
 jaka jest najlepsza.
 
+{% photo "IMGP4856raw1.jpg","Organy Wielisławskie" %}
+
 Wyruszyliśmy dość wcześnie, ale bez przesady i kierowaliśmy się na północ od [Sędziszowej][wiki-sedziszowa].
 Jak zwykle w mało popularnych pasmach oznaczenia szlaków są namalowane czasem mniej
 intuicyjnie, dlatego się trochę pokręciliśmy.
 
+{% photo "IMGP4906raw1.jpg","Żółty szlak do Sokołowca","timeline" %}
+
 Przez te tereny biegnie nieczynna trasa kolejowa.
+
+{% photo "IMGP4933raw1.jpg","Bardzo stary sklep w Sokołowcu" %}
 
 Ruszyliśmy lekkim podejściem na zachód w stronę [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Szliśmy przez lekko
 pofalowane pola. Bym powiedział że miejscami zbyt lekko, ale w zimie może to być istotna zaleta.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/140810969/m%3D900/9d44c157d9117b2429449f799876a447' alt='Old house in Rząśnik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/140810969/old-house-in-rz%C4%85%C5%9Bnik-by-aleksander-kwiatkowski' alt='Old house in Rząśnik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5085raw1.jpg","Kot w Rząśniku","tag:cat" %}
 
 Dotarliśmy do [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Jesienią sudeckie wioski w taką pogodę
 robią się jeszcze bardziej "sudeckie", czyli smutniejsze, bardziej szarse. Bieda, opuszczone domy, gdzieniegdzie
 mniej biedy. W lecie jak jest ciepło na pewno będzie tam radośniej.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/127777903/m%3D900/e11618dd34a2ecb5c8d288be883399e6' alt='Cows and hills near Rząśnik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/127777903/cows-and-hills-near-rz%C4%85%C5%9Bnik-by-aleksander-kwiatkowski' alt='Cows and hills near Rząśnik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5102raw1.jpg","Stary dom w Rząśniku" %}
 
 Szliśmy cały czas asfaltem w kierunku [Rząśnika][wiki-rzasnik] z lekkim podeściem. Dalej trochę żółtym szlakiem,
 a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przerwy na picie i rozpoczęło się
 podejście. Niby strome, ale szybko je pokonaliśmy. Pogoda zaczęła się "psuć", pojawiała się mgła.
 Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre zdjęcia, a bez mgły robi się nudniejszy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/140836127/m%3D900/906711beccdeaddbcc0e2a49960cc86c' alt='Ruin of Rząśnik palace by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/140836127/ruin-of-rz%C4%85%C5%9Bnik-palace-by-aleksander-kwiatkowski' alt='Ruin of Rząśnik palace by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5132raw1-1.jpg","Trzy drzewa","timeline" %}
 
 Szliśmy przez las we mgle. Niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/130141625/m%3D900/96d7ec1e102c8db42d1f649d4c6b786f' alt='Ascend in the fog by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/130141625/ascend-in-the-fog-by-aleksander-kwiatkowski' alt='Ascend in the fog by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5168raw1.jpg","Droga w stronę Chrośnicy" %}
 
 Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i idziemy dalej.
 
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/128754487/m%3D900/0e6e89497cbbf9abedef167fd568acea' alt='Wood storage and hut in Kaczawskie mountains by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/128754487/wood-storage-and-hut-in-kaczawskie-mountains-by-aleksander-kwiatkowski' alt='Wood storage and hut in Kaczawskie mountains by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+{% photo "IMGP5324raw1.jpg","Wycięte drzewa w Górach Kaczawskich" %}
 
 Po dotarciu do drogi asfaltowej, którą już wracaliśmy i schodziliśmy, miałem na GPS około 18km trasy.
 Droga którą schodziliśmy jest idealna jest na rower. Bez wysiłku pokonałbym większość pozostałej trasy. Jak widzę
 na mapie wszystko było z górki.
 
+{% photo "IMGP5401raw2.jpg","Mgła w lesie" %}
+
 W [Lubiechowej][wiki-lubiechowa] wybraliśmy dłuższą trasę, która prowadziła do centrum
 [Świerzawy][wiki-swierzawa] ufajac, że po drodzę będziemy mijać jakieś miejsca gdzie można zjeść
 coś ciepłego. Była już sobota po południu, więc miasto powoli zasypiało.
+
+{% photo "IMGP5512raw1.jpg","Dom w Świerzawie" %}
 
 Do bazy wracaliśmy już po zmroku z czołówkami aby samochody nas widziały. Byłem bardzo zmęczony.
 30km pieszo to jest dla mnie dużo.
@@ -131,14 +112,6 @@ Widać że gminy sudeckie próbuję ściągnąć turystów, drukują bardzo duż
 o tym co jest ciekawe w tamtych okolicach.
 
 Jest tam też trochę rolnictwa, gdyż teren nie jest jeszcze mocno pofalowany.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/159619267/m%3D900/16f719a86ffb2f9c8cea1fc9cb1ff979' alt='Foggy forest in Kaczawskie Mountains by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/159619267/foggy-forest-in-kaczawskie-mountains-by-aleksander-kwiatkowski' alt='Foggy forest in Kaczawskie Mountains by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Będę musiał zobaczyć jak tam jest w zimie jak śnieg spadnie. Niestety kolejna
 słaba zima nie umożliwiła mi tego zrobić.
