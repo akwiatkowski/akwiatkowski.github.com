@@ -13,8 +13,8 @@ tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2020-04-26-nadwarcianskie-lasy-radojewa.json"
+coords_type:            "hike"
 distance:               4
 time_spent:             2
 elevation:              42

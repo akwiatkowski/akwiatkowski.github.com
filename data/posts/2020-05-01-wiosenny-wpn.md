@@ -17,8 +17,8 @@ tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, poznan, mosina, puszczykowo, steszew, komorniki, lubon]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2020-05-01-wiosenny-wpn.json"
+coords_type:            "bicycle"
 distance:               47
 time_spent:             4
 elevation:              202

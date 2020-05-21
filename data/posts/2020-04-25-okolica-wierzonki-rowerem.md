@@ -13,8 +13,8 @@ tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, swarzedz, czerwonak]
 
 coords:                 [{"route": [[52.43009,17.07181], [52.46169,17.06787], [52.47800,17.09516], [52.49264,17.06512], [52.44066,16.98238], [52.40978,16.97757]], "type": "bicycle"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2020-04-25-okolica-wierzonki-rowerem.json"
+coords_type:            "bicycle"
 distance:               47
 time_spent:             4
 elevation:              242
