@@ -224,3 +224,14 @@ bardziej "krajobrazowe".
 
 Również zauważyłem, że zdjęcia z Olympusa nie są na tyle soczyste. Bardzo
 możliwe że błędem jest moja percepcja.
+
+## Aktualizacja 2020-05-28
+
+[tutorial]: https://www.youtube.com/playlist?list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_
+
+Znalazłem naprawdę bardzo dobry [tutorial][tutorial] dzięki któremu dowiedziałem się o:
+
+1. Możliwości tworzenia HDR z kilku rawów - tworzy 32bitowe pliki DNG.
+2. `base curve` domyślny nie zawsze jest idealny i można trochę więcej wyciągnąć z
+   rawów olympusowskich jeżeli się odpowiednio go zmodyfikuje. Dla mnie to jest
+   bardzo przydatna rzecz.
