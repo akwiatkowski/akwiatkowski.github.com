@@ -1,0 +1,887 @@
+---
+- image_filename: header.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+- image_filename: 2020_06_05__09_29__6055581.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30070833333333
+  lon: 19.505111111111113
+  altitude: 121.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5136
+  height: 3834
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 09:29:27+02:00
+  focus_distance: 23.84
+- image_filename: 2020_06_05__09_09__6055573-hdr.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.27847222222222
+  lon: 19.444625
+  altitude: 77.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 09:09:44+02:00
+  focus_distance: 2.15
+- image_filename: 2020_06_05__09_38__6055598.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31426388888889
+  lon: 19.52327777777778
+  altitude: 76.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4985
+  height: 3759
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 09:38:12+02:00
+  focus_distance: 107.08
+- image_filename: 2020_06_05__09_38__6055600.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.314375
+  lon: 19.52347222222222
+  altitude: 77.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5065
+  height: 3781
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 09:38:16+02:00
+  focus_distance: 86.23
+- image_filename: 2020_06_05__09_37__6055593.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31304166666666
+  lon: 19.52133333333333
+  altitude: 75.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-05 09:37:41+02:00
+  focus_distance: 25.84
+- image_filename: 2020_06_05__09_53__6055613.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31388888888888
+  lon: 19.55188888888889
+  altitude: 93.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5075
+  height: 3789
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-05 09:53:15+02:00
+  focus_distance: 26.17
+- image_filename: 2020_06_05__10_02__6055620.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.313111111111105
+  lon: 19.579291666666666
+  altitude: 107.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-05 10:02:38+02:00
+  focus_distance: 16.19
+- image_filename: 2020_06_05__09_49__6055605.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.317347222222224
+  lon: 19.54052777777778
+  altitude: 88.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.04
+  exposure_string: 1/25 s
+  time: 2020-06-05 09:49:44+02:00
+  focus_distance: 5.55
+- image_filename: 2020_06_05__09_53__6055611.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31408333333333
+  lon: 19.551472222222223
+  altitude: 94.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5060
+  height: 3778
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-05 09:53:08+02:00
+  focus_distance: 5.53
+- image_filename: 2020_06_05__10_06__6055632.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31386111111111
+  lon: 19.580125
+  altitude: 111.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5075
+  height: 3688
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-05 10:06:17+02:00
+  focus_distance: 5.24
+- image_filename: 2020_06_05__10_07__6055635.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31384722222222
+  lon: 19.58013888888889
+  altitude: 111.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-05 10:07:18+02:00
+  focus_distance: 3.81
+- image_filename: 2020_06_05__10_07__6055637.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31384722222222
+  lon: 19.58013888888889
+  altitude: 111.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5220
+  height: 3896
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 10:07:26+02:00
+  focus_distance: 41.9
+- image_filename: 2020_06_05__10_08__6055646.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31383333333333
+  lon: 19.580111111111112
+  altitude: 111.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 10:08:07+02:00
+  focus_distance: 5.88
+- image_filename: 2020_06_05__10_19__6055661.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.31598611111111
+  lon: 19.57851388888889
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-05 10:19:51+02:00
+  focus_distance: 114.57
+- image_filename: 2020_06_05__10_25__6055699.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.315999999999995
+  lon: 19.57852777777778
+  altitude: 115.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4961
+  height: 3704
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 10:25:35+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_05__10_34__6055721.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.32183333333334
+  lon: 19.58673611111111
+  altitude: 135.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5125
+  height: 3826
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-05 10:34:53+02:00
+  focus_distance: 6.78
+- image_filename: 2020_06_05__10_49__6055729.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30933333333333
+  lon: 19.608027777777778
+  altitude: 113.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5070
+  height: 3681
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-05 10:49:09+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_05__10_41__6055726.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.324986111111116
+  lon: 19.604472222222224
+  altitude: 137.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4918
+  height: 3639
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-05 10:41:39+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_05__10_34__6055723.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.32181944444445
+  lon: 19.58709722222222
+  altitude: 136.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5082
+  height: 3794
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 10:34:58+02:00
+  focus_distance: 7.01
+- image_filename: 2020_06_05__10_41__6055725.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.32491666666667
+  lon: 19.604222222222223
+  altitude: 137.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3987
+  height: 3830
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-05 10:41:34+02:00
+  focus_distance: 2.18
+- image_filename: 2020_06_05__10_51__6055741.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.304944444444445
+  lon: 19.615041666666666
+  altitude: 104.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5014
+  height: 3742
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-06-05 10:51:10+02:00
+  focus_distance: 21.64
+- image_filename: 2020_06_05__10_55__6055747.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30168055555555
+  lon: 19.614847222222224
+  altitude: 122.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5048
+  height: 3769
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-05 10:55:36+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_05__10_49__6055734.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30704166666666
+  lon: 19.609069444444447
+  altitude: 108.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-06-05 10:49:34+02:00
+  focus_distance: 18.64
+- image_filename: 2020_06_05__11_00__6055758.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30059722222222
+  lon: 19.62161111111111
+  altitude: 136.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5041
+  height: 3704
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:00:53+02:00
+  focus_distance: 3.09
+- image_filename: 2020_06_05__10_59__6055755.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.300124999999994
+  lon: 19.61605555555556
+  altitude: 138.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5055
+  height: 3774
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 10:59:46+02:00
+  focus_distance: 36.98
+- image_filename: 2020_06_05__10_58__6055751.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.30031944444444
+  lon: 19.614694444444446
+  altitude: 135.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2020-06-05 10:58:03+02:00
+  focus_distance: 4.9
+- image_filename: 2020_06_05__11_01__6055759.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.300666666666665
+  lon: 19.622097222222223
+  altitude: 136.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4999
+  height: 3776
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:01:36+02:00
+  focus_distance: 2.69
+- image_filename: 2020_06_05__11_04__6055767.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29972222222222
+  lon: 19.625375000000002
+  altitude: 144.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 11:04:02+02:00
+  focus_distance: 195.04
+- image_filename: 2020_06_05__11_04__6055772.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29898611111111
+  lon: 19.627
+  altitude: 145.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5037
+  height: 3598
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-05 11:04:41+02:00
+  focus_distance: 40.06
+- image_filename: 2020_06_05__11_04__6055774.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29891666666666
+  lon: 19.627541666666666
+  altitude: 146.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:04:50+02:00
+  focus_distance: 51.2
+- image_filename: 2020_06_05__11_09__6055780.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29602777777777
+  lon: 19.635819444444444
+  altitude: 149.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4957
+  height: 3700
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:09:44+02:00
+  focus_distance: 51.04
+- image_filename: 2020_06_05__11_11__6055789.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29602777777777
+  lon: 19.63586111111111
+  altitude: 149.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5208
+  height: 3888
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 11:11:01+02:00
+  focus_distance: 45.26
+- image_filename: 2020_06_05__11_10__6055784.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29604166666667
+  lon: 19.635833333333334
+  altitude: 149.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5058
+  height: 3776
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:10:00+02:00
+  focus_distance: 5.05
+- image_filename: 2020_06_05__11_11__6055791.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29602777777777
+  lon: 19.63586111111111
+  altitude: 149.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5109
+  height: 3814
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 11:11:12+02:00
+  focus_distance: 4.95
+- image_filename: 2020_06_05__11_12__6055797.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.295513888888884
+  lon: 19.63975
+  altitude: 137.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5093
+  height: 3802
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-05 11:12:41+02:00
+  focus_distance: 50.41
+- image_filename: 2020_06_05__11_13__6055803.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.295180555555554
+  lon: 19.643083333333333
+  altitude: 134.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5116
+  height: 3819
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-05 11:13:11+02:00
+  focus_distance: 95.25
+- image_filename: 2020_06_05__11_12__6055796.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.295513888888884
+  lon: 19.638972222222222
+  altitude: 137.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5040
+  height: 3763
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-05 11:12:36+02:00
+  focus_distance: 107.08
+- image_filename: 2020_06_05__11_13__6055806.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.294958333333334
+  lon: 19.644430555555555
+  altitude: 131.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4972
+  height: 3712
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 11:13:22+02:00
+  focus_distance: 141.24
+- image_filename: 2020_06_05__11_13__6055808.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29498611111111
+  lon: 19.646194444444443
+  altitude: 131.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-06-05 11:13:36+02:00
+  focus_distance: 90.02
+- image_filename: 2020_06_05__11_21__6055810.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29416666666666
+  lon: 19.671958333333336
+  altitude: 137.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5061
+  height: 3779
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 11:21:27+02:00
+  focus_distance: 11.45
+- image_filename: 2020_06_05__11_37__6055826.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.28970833333333
+  lon: 19.718374999999998
+  altitude: 143.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5198
+  height: 3881
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-05 11:37:55+02:00
+  focus_distance: 4.03
+- image_filename: 2020_06_05__11_38__6055828.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.290388888888884
+  lon: 19.721194444444443
+  altitude: 138.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-05 11:38:22+02:00
+  focus_distance: 6.24
+- image_filename: 2020_06_05__11_21__6055814.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29388888888889
+  lon: 19.67361111111111
+  altitude: 138.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4934
+  height: 3684
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-05 11:21:44+02:00
+  focus_distance: 7.22
+- image_filename: 2020_06_05__11_38__6055831.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.290680555555554
+  lon: 19.722555555555555
+  altitude: 137.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5121
+  height: 3823
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-05 11:38:34+02:00
+  focus_distance: 31.62
+- image_filename: 2020_06_05__11_41__6055839.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29318055555555
+  lon: 19.73159722222222
+  altitude: 148.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5041
+  height: 3764
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-05 11:41:47+02:00
+  focus_distance: 4.38
+- image_filename: 2020_06_05__11_41__6055837.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29304166666667
+  lon: 19.73072222222222
+  altitude: 147.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-06-05 11:41:32+02:00
+  focus_distance: 53.02
+- image_filename: 2020_06_05__11_41__6055841.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29325
+  lon: 19.73198611111111
+  altitude: 150.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.05
+  exposure_string: 1/20 s
+  time: 2020-06-05 11:41:56+02:00
+  focus_distance: 19.76
+- image_filename: 2020_06_05__12_08__6055862.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29519444444444
+  lon: 19.760555555555555
+  altitude: 150.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 12:08:58+02:00
+  focus_distance: 23.37
+- image_filename: 2020_06_05__12_09__6055869.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.29479166666666
+  lon: 19.760930555555557
+  altitude: 151.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5033
+  height: 3757
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-05 12:09:14+02:00
+  focus_distance: 49.35
+- image_filename: 2020_06_05__12_32__6055871.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.266555555555556
+  lon: 19.819708333333335
+  altitude: 130.0
+  focal_length: 13.0
+  focal_length_35: 26.0
+  crop: 2.0
+  aperture: 9.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4614
+  height: 3498
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-05 12:32:27+02:00
+  focus_distance: 5.55
+- image_filename: 2020_06_05__18_58__6055885.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.257416666666664
+  lon: 19.86951388888889
+  altitude: 150.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5122
+  height: 3824
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-05 18:58:15+02:00
+  focus_distance: 98.11
+- image_filename: 2020_06_05__18_21__6055882.jpg
+  post_slug: 2020-06-05-myslalem-ze-bedzie-padalo-pozniej
+  lat: 53.265625
+  lon: 19.820819444444446
+  altitude: 152.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5011
+  height: 3771
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-05 18:21:02+02:00
+  focus_distance: 3.82
