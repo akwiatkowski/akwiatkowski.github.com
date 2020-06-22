@@ -116,10 +116,16 @@ class Map::PhotoLayer
     if selected.size == 0
       selected = array.select { |photo| photo.is_timeline }
     end
+    # TODO select published
+    # require storing published flag in PhotoEntity
     if selected.size == 0
       selected = array
     end
 
+    # sort by time ASC
+    selected = selected.sort {|a,b| a.time <=> b.time }
+
+    # and return latest one
     return selected.last
   end
 
