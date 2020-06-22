@@ -45,4 +45,44 @@ daleko od [Poznania][wiki-poznan].
 ## Szczegóły
 
 Ruszyliśmy pociągiem po 9-tej. Postanowiłem, że najlepiej będzie wysiąść
-w [Mokrzu][wiki-mokrz] i dalej spokojnie dojechać
+w [Mokrzu][wiki-mokrz] i dalej spokojnie dojechać przez nadwarciańskie wioski.
+
+Wiedziałem, że najprostszą drogą do celu byłoby podjechać do drogi 150 i następnie
+kierować się na zachód. Chciałem wybrać inną trasę teraz - przejechać
+przez [Chojno-Błota][wiki-chojno-blota]. Nie wiedziałem co mnie tam mogło czekać
+ale chciałem zobaczyć jak może wyglądać taka wieś na pograniczu
+[Puszczy Noteckiej][wiki-puszcza-notecka].
+
+Za tą decyzją przemawiała mapa na której widziałem dużą polanę. Skręciliśmy w lewo
+i wjechaliśmy po kilku zakrętach na tą polanę właśnie.
+
+Ciekawiła mnie sieć ścieżek do małych osad, które prawdopodobnie nie mają nawet
+hasła na wikipedii. Grunt był dosyć suchy i dlatego nie chcieliśmy specjalnie
+zbaczać.
+
+Dotarliśmy do asfaltowej drogi i po chwili wjechaliśmy do [Chojno-Wieś][wiki-chojno-wies].
+Będąc na mojej pierwszej wycieczce rowerowej w tym roku wszystko wydawało mi się
+ciekawe, nawet ta miejscowość.
+
+Podjechaliśmy na chwilę w stronę promu, który akurat nie był przez nikogo
+obsługiwany. Zrobiliśmy tam krótką przerwę.
+
+Bardzo zaciekawił mnie dom stylizowany na stację kolejową. Miał on bramę zrobioną
+ze szlabanu oraz działający semafor!
+
+Przejechaliśmy wieś i skręciliśmy w niebieski szlak rowerowy, którym
+[prawie 4 lata temu]({% post_url 2016-07-16-najkrotszy-dojazd-do-sierakowa %})
+pierwszy raz jechałem.
+
+Droga mi się podobała ale obiektywnie trudno mi powiedzieć czy to fakt
+pierwszej wycieczki rowerowej, czy jest w niej coś nadzwyczajnego. Na pewno
+ulokowane domy z daleko od miasta są czymś fajnym, klimatycznym.
+
+Dotarliśmy do ujścia jakieś małej rzeki. Tam zauważyłem przy ciekawym
+domu kilka kotów.
+
+Opuściliśmy las i powróciliśmy do drogi 150. Byliśmy już blisko
+[Sierakowa][wiki-sierakow].
+
+Dotarliśmy do noclegu i tam zacząłem myśleć o krótkiej trasie popołudniowej
+po tym jak zjemy obiad.
