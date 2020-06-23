@@ -1,4 +1,6 @@
 class BaseView < Tremolite::Views::BaseView
+  @voivodeship_nav : String?
+
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
 
@@ -57,6 +59,27 @@ class BaseView < Tremolite::Views::BaseView
     @blog.data_manager.not_nil!["site.url"]
   end
 
+  # cached list of voivodeship links for nav
+  def voivodeship_nav
+    if @voivodeship_nav.nil?
+      @voivodeship_nav = String.build do |s|
+        @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+          # lets ignore not Polish regions
+          next unless voivodeship.is_poland?
+
+          vh = voivodeship.to_hash
+          h = Hash(String, String).new
+          h["url"] = vh["url"].to_s
+          h["name"] = vh["name"].to_s
+
+          s << load_html("include/nav_per_voivodeship", h)
+        end
+      end
+    end
+
+    return @voivodeship_nav.not_nil!
+  end
+
   def title
     return ""
   end
@@ -109,6 +132,7 @@ class BaseView < Tremolite::Views::BaseView
     # parametrized
     h = Hash(String, String).new
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
+    h["nav-voivodeships"] = voivodeship_nav
 
     return load_html("include/nav", h)
   end

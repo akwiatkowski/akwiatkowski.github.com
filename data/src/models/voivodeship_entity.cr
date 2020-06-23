@@ -5,13 +5,15 @@ struct VoivodeshipEntity
 
   @slug : String
   @name : String
-  @header_img : (String | Nil)
+  @type : String?
+  @country : String?
+  @header_img : String?
   @border_top_left_lat : Float64?
   @border_top_left_lon : Float64?
   @border_bottom_right_lat : Float64?
   @border_bottom_right_lon : Float64?
 
-  getter :name, :slug, :header_img
+  getter :name, :slug, :header_img, :country
   getter :border_top_left_lat, :border_top_left_lon,
     :border_bottom_right_lat, :border_bottom_right_lon
 
@@ -21,6 +23,10 @@ struct VoivodeshipEntity
 
     if y["header-img"]?
       @header_img = y["header-img"].to_s
+    end
+
+    if y["country"]?
+      @country = y["country"].to_s.strip
     end
 
     if y["border_top_left"]?
@@ -36,11 +42,12 @@ struct VoivodeshipEntity
 
   def to_hash
     h = TownEntityHash.new
-    h["slug"] = @slug.to_s unless @slug.nil?
+    unless @slug.nil?
+      h["slug"] = @slug.to_s
+      h["url"] = "/voivodeship/#{@slug.to_s}/"
+    end
     h["name"] = @name.to_s unless @name.nil?
-    h["header-ext-img"] = @header_ext_img.to_s unless @header_ext_img.nil?
     h["type"] = @type.to_s unless @type.nil?
-    h["voivodeship"] = @voivodeship.to_s unless @voivodeship.nil?
 
     return h
   end
@@ -51,6 +58,10 @@ struct VoivodeshipEntity
 
   def is_voivodeship?
     return @type == "voivodeship"
+  end
+
+  def is_poland?
+    return @country == "Polska"
   end
 
   def url

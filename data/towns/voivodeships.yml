@@ -1,6 +1,7 @@
 - slug: dolnoslaskie
   name: Dolnośląskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 51.805807
     - 14.571561
@@ -11,6 +12,7 @@
 - slug: kujawsko_pomorskie
   name: Kujawsko-pomorskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 53.829354
     - 17.103356
@@ -21,6 +23,7 @@
 - slug: lubuskie
   name: Lubuskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 53.140520
     - 13.980738
@@ -31,6 +34,7 @@
 - slug: malopolskie
   name: Małopolskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 50.564650
     - 19.065275
@@ -41,6 +45,7 @@
 - slug: podkarpackie
   name: Podkarpackie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 50.843534
     - 20.960228
@@ -51,6 +56,7 @@
 - slug: pomorskie
   name: Pomorskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 54.919669
     - 16.223747
@@ -61,6 +67,7 @@
 - slug: slaskie
   name: Śląskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 51.163195
     - 17.943707
@@ -71,6 +78,7 @@
 - slug: warminsko_mazurskie
   name: Warmińsko-mazurskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 54.563008
     - 18.989221
@@ -81,6 +89,7 @@
 - slug: wielkopolskie
   name: Wielkopolskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 53.628155
     - 15.549943
@@ -91,6 +100,7 @@
 - slug: zachodnio_pomorskie
   name: Zachodnio-pomorskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 54.667011
     - 13.624436
@@ -101,6 +111,7 @@
 - slug: opolskie
   name: Opolskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 51.322139
     - 16.813008
@@ -111,6 +122,7 @@
 - slug: podlaskie
   name: Podlaskie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 54.437349
     - 21.385539
@@ -121,6 +133,7 @@
 - slug: lodzkie
   name: Łódzkie
   type: voivodeship
+  country: Polska
   border_top_left:
     - 52.584995
     - 17.894489
