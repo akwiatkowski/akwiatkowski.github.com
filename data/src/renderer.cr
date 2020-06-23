@@ -571,8 +571,8 @@ class Tremolite::Renderer
   end
 
   def render_tag_galleries
-    # TODO
-    ["cat"].each do |tag|
+    # TODO get all tags from array of PhotoEntity
+    ["cat", "portfolio"].each do |tag|
       view = TagGalleryView.new(blog: @blog, tag: tag)
       write_output(view)
     end

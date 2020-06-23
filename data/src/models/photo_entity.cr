@@ -43,7 +43,7 @@ struct PhotoEntity
   getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless
-  getter :post_title, :post_time, :post_slug, :post_url
+  getter :post_title, :post_time, :post_slug, :post_url, :param_string
 
   property :exif
 
@@ -58,20 +58,6 @@ struct PhotoEntity
     @is_map = false,
     @tags = Array(String).new
   )
-    if param_string.includes?(FLAG_NOGALLERY)
-      @is_gallery = false
-    end
-
-    if param_string.includes?(FLAG_NO_TIMELINE)
-      @is_timeline = false
-    elsif param_string.includes?(FLAG_TIMELINE)
-      @is_timeline = true
-    end
-
-    if param_string.includes?(FLAG_MAP)
-      @is_map = true
-    end
-
     # nameless entities are uploaded not added in post content
     if desc.nil?
       @desc = @image_filename
@@ -81,18 +67,13 @@ struct PhotoEntity
       @nameless = false
     end
 
+    update_from_param_string
+
     # copy data from Post to not store instance here
     @post_url = post.url
     @post_time = post.time.not_nil!
     @post_title = post.title
     @post_slug = post.slug
-
-    # add tags
-    param_string.split(/,/).each do |param_split|
-      if param_split =~ /tag:(\w+)/
-        @tags << $1.to_s
-      end
-    end
 
     # just optimization
     @big_thumb_image_src = processed_img_path(BIG_THUMB_PREFIX)
@@ -110,6 +91,38 @@ struct PhotoEntity
       post_slug: @post_slug,
       image_filename: @image_filename,
     )
+  end
+
+  def update_desc_and_params(new_desc, new_param_string)
+    @desc = new_desc
+    @nameless = false
+    @param_string = new_param_string
+    update_from_param_string
+  end
+
+  # params_string can be updated later for header photo
+  # from post_function
+  private def update_from_param_string
+    if @param_string.includes?(FLAG_NOGALLERY)
+      @is_gallery = false
+    end
+
+    if @param_string.includes?(FLAG_NO_TIMELINE)
+      @is_timeline = false
+    elsif @param_string.includes?(FLAG_TIMELINE)
+      @is_timeline = true
+    end
+
+    if @param_string.includes?(FLAG_MAP)
+      @is_map = true
+    end
+
+    # add tags
+    @param_string.split(/,/).each do |param_split|
+      if param_split =~ /tag:(\w+)/
+        @tags << $1.to_s
+      end
+    end
   end
 
   def hash_for_partial(

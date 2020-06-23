@@ -1,5 +1,6 @@
 class Tremolite::Views::BaseView
   PHOTO_COMMAND = "photo"
+  HEADER_PHOTO_COMMAND = "photo_header"
 
   def custom_process_function(
     command : String,
@@ -41,6 +42,17 @@ class Tremolite::Views::BaseView
       )
     end
 
+    # header photo command - add title, tags
+    # used for creating portfolio page
+    result = command.scan(/#{HEADER_PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]+)\"/)
+    if result.size > 0 && post
+      return header_post_photo_attrs(
+        post: post,
+        desc: result[0][1],
+        param_string: result[0][2]
+      )
+    end
+
     result = command.scan(/strava_iframe\s+\"([^\"]+)\",\"([^\"]+)\"/)
     if result.size > 0
       return strava_iframe(
@@ -72,6 +84,13 @@ class Tremolite::Views::BaseView
     end
 
     return nil
+  end
+
+  # used to update header
+  def header_post_photo_attrs(post : Tremolite::Post, desc : String, param_string : String)
+    post.update_photo_header_desc_and_params(desc, param_string)
+
+    return ""
   end
 
   def post_photo(post : Tremolite::Post, image_filename : String, desc : String, param_string : String)

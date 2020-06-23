@@ -16,6 +16,7 @@ class Tremolite::Post
   getter :distance, :time_spent
   getter :image_filename, :header_nogallery
   getter :finished_at
+  getter :head_photo_entity
 
   # getter :voivodeships
   def voivodeships
