@@ -1,16 +1,18 @@
-<div id="fullpage">
-  <div class="section">
+<div id="photo-portfolio" class="carousel slide carousel-fade" data-ride="carousel">
+  <ol class="carousel-indicators">
+    {{ indicators }}
+  </ol>
+
+  <div class="carousel-inner" role="listbox">
     {{ content }}
   </div>
-</div>
 
-<script>
-  $('#fullpage').fullpage({
-    navigation: true,
-    autoScrolling: true,
-    easing: 'easeInOutCubic',
-	  easingcss3: 'ease',
-    loopHorizontal: true,
-    keyboardScrolling: true,
-  });
-</script>
+  <a class="carousel-control-prev" href="#photo-portfolio" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#photo-portfolio" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

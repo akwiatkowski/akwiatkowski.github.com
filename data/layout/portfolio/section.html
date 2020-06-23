@@ -1,12 +1,14 @@
 <div
-  class="slide portfolio"
-  style='background-image: url("{{ img.src }}");'
+  class="carousel-item {{ carousel-active }}"
+  style="background-image-DISABLED: url('{{ img.src }}')"
   data-post-slug="{{ post.slug }}"
   data-image-filename="{{ img.filename }}"
 >
-  <div class="intro">
-    <h1 class="portfolio-title">{{ img.title }}</h1>
-    <p class="portfolio-desc">
+  <img src="{{ img.src }}" class="d-block w-100" alt="{{ img.title }}">
+
+  <div class="carousel-caption d-none d-md-block">
+    <h2>{{ img.title }}</h2>
+    <p>
       {{ img.desc }}
       <a href="{{ post.url }}">(wpis)</a>
     </p>

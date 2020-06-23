@@ -302,12 +302,22 @@
 }
 
 /* portfolio */
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .portfolio .portfolio-title {
-  bottom: 80px;
+  /* bottom: 80px; */
 }
 
 .portfolio .portfolio-desc {
-  bottom: 40px;
+  /* bottom: 40px; */
 }
 
 .portfolio {
