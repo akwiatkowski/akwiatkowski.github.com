@@ -60,6 +60,13 @@ gallery.cat.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-
 gallery.cat.title: Koty polskie
 gallery.cat.subtitle: Spotkane koty na trasie
 
+gallery.portfolio.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
+gallery.portfolio.title: Najlepsze zdjęcia
+gallery.portfolio.subtitle:
+
+# but it shouldn't be used
+portfolio.title: Portfolio
+
 en.backgrounds: /images/2019/2019-10-11-wschodnie-rudawy-janowickie/2019_10_11__17_27_DSC01519.jpg
 en.title: Welcome
 en.subtitle: a few words for English only speaking visitors

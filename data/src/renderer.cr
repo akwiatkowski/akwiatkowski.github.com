@@ -3,6 +3,8 @@ require "./views/page_view"
 require "./views/wide_page_view"
 
 require "./views/home_view"
+require "./views/portfolio_view"
+
 require "./views/paginated_post_list_view"
 require "./views/map_view"
 require "./views/photo_map_html_view"
@@ -34,6 +36,10 @@ require "./views/rss_generator"
 require "./views/atom_generator"
 
 class Tremolite::Renderer
+  def render_copy_assets
+    copy_assets
+  end
+
   def render_fast_only_post_related
     Log.debug { "render_fast_only_post_related START" }
 
@@ -95,9 +101,10 @@ class Tremolite::Renderer
   # galleries which require exif data (photo lat/lon)
   # but require all photos in post content need to be initialized
   def render_galleries_pages
+    render_portfolio
+
     render_gallery
     render_tag_galleries
-
     render_timeline_list
   end
 
@@ -580,6 +587,11 @@ class Tremolite::Renderer
 
   def render_timeline_list
     view = TimelineList.new(blog: @blog)
+    write_output(view)
+  end
+
+  def render_portfolio
+    view = PortfolioView.new(blog: @blog, url: "/portfolio")
     write_output(view)
   end
 

@@ -300,3 +300,18 @@
 .photo-map-tile {
   saturate(30%);
 }
+
+/* portfolio */
+.portfolio .portfolio-title {
+  bottom: 80px;
+}
+
+.portfolio .portfolio-desc {
+  bottom: 40px;
+}
+
+.portfolio {
+  background-size: cover;
+  padding: 6% 0 0 0;
+  color: #fff;
+}

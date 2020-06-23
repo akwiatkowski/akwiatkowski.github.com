@@ -5,6 +5,7 @@ require "./models/land_type_entity"
 require "./models/land_entity"
 require "./models/transport_poi_entity"
 require "./models/todo_route_entity"
+require "./models/portfolio_entity"
 
 require "./services/exif_processor"
 require "./data_manager/exif_db"
@@ -21,6 +22,7 @@ class Tremolite::DataManager
     @lands = Array(LandEntity).new
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
+    @portfolios = Array(PortfolioEntity).new
 
     @exif_db = ExifDb.new(
       blog: @blog
@@ -29,7 +31,7 @@ class Tremolite::DataManager
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
-  getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities
+  getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
 
   def exif_db
     return @exif_db.not_nil!
@@ -44,6 +46,17 @@ class Tremolite::DataManager
     load_lands
     load_transport_pois
     load_todo_routes
+    load_portfolio
+  end
+
+  def load_portfolio
+    Log.debug { "loading portfolio" }
+
+    f = File.join([@data_path, "portfolio.yml"])
+    YAML.parse(File.read(f)).as_a.each do |portfolio|
+      o = PortfolioEntity.new(portfolio)
+      @portfolios.not_nil! << o
+    end
   end
 
   def load_towns

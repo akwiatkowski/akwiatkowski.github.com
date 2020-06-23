@@ -35,6 +35,7 @@ pois:
 [wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
 [wiki-kotlina-jelenia]: https://pl.wikipedia.org/wiki/Kotlina_Jeleniog%C3%B3rska
 
+{% photo_header "Mgiełki nad Trzcińskiem","tag:portfolio" %}
 
 Wstęp
 -----

@@ -1,0 +1,14 @@
+<div
+  class="slide portfolio"
+  style='background-image: url("{{ img.src }}");'
+  data-post-slug="{{ post.slug }}"
+  data-image-filename="{{ img.filename }}"
+>
+  <div class="intro">
+    <h1 class="portfolio-title">{{ img.title }}</h1>
+    <p class="portfolio-desc">
+      {{ img.desc }}
+      <a href="{{ post.url }}">(wpis)</a>
+    </p>
+  </div>
+</div>

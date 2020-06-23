@@ -86,8 +86,5 @@ class Tremolite::Post
     pe = @head_photo_entity.not_nil!
     pe.update_desc_and_params(new_desc, new_param_string)
     @head_photo_entity = pe
-
-    puts pe.inspect
-    sleep 1
   end
 end

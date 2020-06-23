@@ -85,7 +85,7 @@ bardzo dobry znak.
 Stopniowo mieliśmy coraz lepszy widok na [Karpacz][wiki-karpacz]
 i całą okolicę [Jeleniej Góry][wiki-jelenia-gora].
 
-{% photo "2019_01_11__07_32__1110822.jpg","Luční bouda przed wschodem" %}
+{% photo "2019_01_11__07_32__1110822.jpg","Luční bouda przed wschodem","tag:portfolio" %}
 
 Ucieszyłem się w momencie gdy zobaczyłem światła [Domu Śląskiego][wiki-dom-slaski].
 Za nim była, średnio jeszcze widoczna, [Śnieżka][wiki-sniezka].

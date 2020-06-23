@@ -5,11 +5,9 @@ subtitle:               "test zmiennego filtra szarego"
 date:                   2016-11-25 12:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/184879713/q%3D80_m%3D2000/bb166ac6db3d49f999d290a66af9fc8f"
 categories:             trip
 tags:                   [main, photo]
 towns:                  [wielkopolskie, poznan]
-
 coords:                 [{"route": [], "type": "hike"}]
 distance:               3
 time_spent:             2
@@ -24,13 +22,14 @@ pois:
 
 [wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/Park_Jana_Paw%C5%82a_II_w_Poznaniu
 
+{% photo_header "Obalone drzewo w parku dębińskim","tag:portfolio" %}
 
 Wstęp
 -----
 
 Pojechałem ponownie na [Łęgi Dębińskie][wiki-legi-debinskie] aby porobić
 zdjęcia. Nie przypuszczałem, że w wyniku mgły i późnej jesieni uda mi się
-osiągnać takie rezultaty.
+osiągnąć takie rezultaty.
 
 Szczegóły
 ---------

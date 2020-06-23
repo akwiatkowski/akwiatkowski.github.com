@@ -136,6 +136,9 @@ class Tremolite::Blog
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
+    # uses rsync so it's fast
+    renderer.render_copy_assets
+
     post_to_render_galleries.each do |post|
       Log.debug { "resize_all_images_for_post" }
       @image_resizer.not_nil!.resize_all_images_for_post(
@@ -167,6 +170,9 @@ class Tremolite::Blog
       data_manager.exif_db.save_cache(post.slug)
       Log.debug { "#{post.slug} - DONE" }
     end
+
+    # TODO move somewhere else
+    renderer.render_portfolio
 
     # if post were changed render some fast related pages
     if posts_changed
