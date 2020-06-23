@@ -27,7 +27,7 @@ class PortfolioView < BaseView
     portfolios = @blog.data_manager.portfolios.not_nil!
 
     content_string = String.build do |s|
-      photo_entities.each do |photo_entity|
+      photo_entities.each_with_index do |photo_entity, i|
         # find long_desc from portfolio.yml
         selected_portfolio = portfolios.select do |portfolio|
           puts "#{portfolio.post_slug} == #{photo_entity.post_slug} && #{portfolio.image_filename} == #{photo_entity.image_filename}"
@@ -50,14 +50,28 @@ class PortfolioView < BaseView
           ph["img.desc"] = ""
         end
 
-
+        ph["carousel-active"] = ""
+        ph["carousel-active"] = "active" if i == 0
+        ph["index"] = i.to_s
 
         s << load_html("portfolio/section", ph)
       end
     end
 
+    indicators_string = String.build do |s|
+      photo_entities.each_with_index do |photo_entity, i|
+        ph = Hash(String, String).new
+        ph["carousel-active"] = ""
+        ph["carousel-active"] = "active" if i == 0
+        ph["index"] = i.to_s
+
+        s << load_html("portfolio/indicator", ph)
+      end
+    end
+
     ph = Hash(String, String).new
     ph["content"] = content_string
+    ph["indicators"] = indicators_string
     return load_html("portfolio/page", ph)
 
     data = Hash(String, String).new
