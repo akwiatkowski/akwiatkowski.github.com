@@ -145,7 +145,7 @@ Krajobraz zmieniał się stopniowo. Absolutnie nie myślałem, że tego dnia bę
 w stanie zrobić takie zdjęcia - jak połączenie szronu, śniegu i mgły stworzy
 wyjątkowo klimatyczną scenerię.
 
-{% photo "2020_01_18__13_30_DSC06011.jpg","Zimowy las" %}
+{% photo "2020_01_18__13_30_DSC06011.jpg","Zimowy las","tag:portfolio,tag:winter" %}
 
 Zrobiłem bardzo dużo zdjęć. Operując odpowiednio kontrastem dzięki mgle
 można uzyskać bardzo ciekawe rezultaty.

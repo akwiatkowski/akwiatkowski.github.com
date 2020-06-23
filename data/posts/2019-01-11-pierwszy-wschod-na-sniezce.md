@@ -85,7 +85,7 @@ bardzo dobry znak.
 Stopniowo mieliśmy coraz lepszy widok na [Karpacz][wiki-karpacz]
 i całą okolicę [Jeleniej Góry][wiki-jelenia-gora].
 
-{% photo "2019_01_11__07_32__1110822.jpg","Luční bouda przed wschodem","tag:portfolio" %}
+{% photo "2019_01_11__07_32__1110822.jpg","Luční bouda przed wschodem" %}
 
 Ucieszyłem się w momencie gdy zobaczyłem światła [Domu Śląskiego][wiki-dom-slaski].
 Za nim była, średnio jeszcze widoczna, [Śnieżka][wiki-sniezka].
@@ -115,7 +115,7 @@ zdjęć robić korzystając z ośnieżonych drzew jako pierwszy plan.
 Wcześniej bym mógł zacząć robić zdjęcia i lepiej wykorzystać zmieniającą się
 barwę światła.
 
-{% photo "2019_01_11__08_03__1110899.jpg","Szlak na Śnieżkę od wschodniej strony" %}
+{% photo "2019_01_11__08_03__1110899.jpg","Szlak na Śnieżkę od wschodniej strony","tag:portfolio" %}
 
 Z drugiej strony nigdy nie byłem na wschodzie słońca
 na [Śnieżce][wiki-sniezka], nie miałbym widoku na wschód gdyż
