@@ -143,6 +143,19 @@ class Tremolite::Views::BaseView
       file_name: image_filename
     )
 
+    if exif
+      exif_string = String.build do |s|
+        s << "#{exif.camera}, " if exif.camera.to_s.strip != ""
+        s << "#{exif.lens}, " if exif.lens.to_s.strip != ""
+        s << "#{exif.focal_length.not_nil!.to_i}mm " if exif.focal_length.to_s.strip != ""
+        s << "f#{exif.aperture} " if exif.aperture.to_s.strip != ""
+        s << "#{exif.exposure_string} " if exif.exposure_string.to_s.strip != ""
+        s << "ISO#{exif.iso} " if exif.iso.to_s.strip != ""
+      end
+    else
+      exif_string = ""
+    end
+
     data = {
       "img.src"         => url,
       "img.alt"         => desc,
@@ -155,6 +168,7 @@ class Tremolite::Views::BaseView
       "img.lon"         => "",
       "img.altitude"    => "",
       "img.time"        => "",
+      "img.exif_string" => exif_string,
     }
 
     if exif

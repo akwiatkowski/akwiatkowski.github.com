@@ -1,12 +1,19 @@
-<a href="{{ img_full.src }}" target="_blank">
-  <img src="{{ img.src }}"
-    title="{{ img.alt }}"
-    alt="{{ img.alt }} ({{ img.size }})"
-    data-is-gallery="{{ img.is_gallery }}"
-    data-is-timeline="{{ img.is_timeline }}"
-    data-lat="{{ img.lat }}"
-    data-lon="{{ img.lon }}"
-    data-altitude="{{ img.altitude }}"
-    data-time="{{ img.time }}"
-  />
-</a>
+<figure class="figure">
+  <a href="{{ img_full.src }}" target="_blank">
+    <img src="{{ img.src }}"
+      title="{{ img.alt }}"
+      alt="{{ img.alt }} ({{ img.size }})"
+      data-is-gallery="{{ img.is_gallery }}"
+      data-is-timeline="{{ img.is_timeline }}"
+      data-lat="{{ img.lat }}"
+      data-lon="{{ img.lon }}"
+      data-altitude="{{ img.altitude }}"
+      data-time="{{ img.time }}"
+    />
+  </a>
+  <figcaption class="figure-caption">
+    {{ img.alt }}
+    <br/>
+    {{ img.exif_string }}
+  </figcaption>
+</figure>
