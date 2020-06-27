@@ -1,4 +1,22 @@
 ---
+- image_filename: P8130009.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.03648611111111
+  lon: 22.84576388888889
+  altitude: 132.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4499
+  height: 3274
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2018-08-13 12:24:53+02:00
+  focus_distance: 1000.0
 - image_filename: P8130001.jpg
   post_slug: 2018-08-13-opuszczenie-podlasia
   lat: 53.09352777777778
@@ -8,6 +26,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.7
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -25,6 +44,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4547
@@ -42,6 +62,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4265
@@ -59,6 +80,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4533
@@ -66,23 +88,6 @@
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2018-08-13 13:48:03+02:00
-  focus_distance: 1000.0
-- image_filename: P8130009.jpg
-  post_slug: 2018-08-13-opuszczenie-podlasia
-  lat: 53.03648611111111
-  lon: 22.84576388888889
-  altitude: 132.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4499
-  height: 3274
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-08-13 12:24:53+02:00
   focus_distance: 1000.0
 - image_filename: P8130006.jpg
   post_slug: 2018-08-13-opuszczenie-podlasia
@@ -93,6 +98,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4524

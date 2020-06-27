@@ -1,10 +1,29 @@
 ---
+- image_filename: 2019_10_24__10_49__A243585.jpg
+  post_slug: 2019-10-24-taka-wiosenna-jesien
+  lat: 50.240125
+  lon: 16.680666666666667
+  altitude: 415.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4988
+  height: 3724
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-10-24 10:49:52+02:00
+  focus_distance: 45.76
 - image_filename: 2019_10_23__17_41_DSC03049.jpg
   post_slug: 2019-10-24-taka-wiosenna-jesien
   focal_length: 28.0
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 1000
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -21,6 +40,7 @@
   focal_length_35: 50.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -37,6 +57,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -54,6 +75,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 250
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -70,6 +92,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 160
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -86,6 +109,7 @@
   focal_length_35: 68.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -102,6 +126,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7050
@@ -118,6 +143,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -135,6 +161,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4913
@@ -152,6 +179,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -169,6 +197,7 @@
   focal_length_35: 30.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -185,6 +214,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -202,6 +232,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5070
@@ -219,6 +250,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5109
@@ -236,6 +268,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5054
@@ -253,6 +286,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4694
@@ -270,6 +304,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -287,6 +322,7 @@
   focal_length_35: 29.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -303,6 +339,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -319,6 +356,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7275
@@ -335,6 +373,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -352,6 +391,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -369,6 +409,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -386,6 +427,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6811
@@ -402,6 +444,7 @@
   focal_length_35: 47.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7179
@@ -418,6 +461,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6781
@@ -434,6 +478,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4652
@@ -451,6 +496,7 @@
   focal_length_35: 360.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3876
@@ -465,6 +511,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5156
@@ -482,6 +529,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -499,6 +547,7 @@
   focal_length_35: 380.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4947
@@ -516,6 +565,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7009
@@ -532,6 +582,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7140
@@ -548,6 +599,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -564,6 +616,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -580,6 +633,7 @@
   focal_length_35: 44.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6805
@@ -593,6 +647,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -610,6 +665,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5111
@@ -627,6 +683,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -644,6 +701,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -661,6 +719,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -678,6 +737,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 250
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -694,6 +754,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -710,6 +771,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -727,6 +789,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -744,6 +807,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5136
@@ -761,6 +825,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -774,6 +839,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 3846
@@ -791,6 +857,7 @@
   focal_length_35: 320.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5009
@@ -808,6 +875,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -825,6 +893,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5136
@@ -842,6 +911,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -859,6 +929,7 @@
   focal_length_35: 40.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6934
@@ -875,6 +946,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6855
@@ -891,6 +963,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -908,6 +981,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -925,6 +999,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -942,6 +1017,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -959,6 +1035,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -976,6 +1053,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7136
@@ -989,6 +1067,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5168
@@ -1006,6 +1085,7 @@
   focal_length_35: 230.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3912
@@ -1023,6 +1103,7 @@
   focal_length_35: 29.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7059
@@ -1039,6 +1120,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1056,6 +1138,7 @@
   focal_length_35: 320.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1070,6 +1153,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7159
@@ -1086,6 +1170,7 @@
   focal_length_35: 29.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7179
@@ -1102,6 +1187,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1118,6 +1204,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5142
@@ -1135,6 +1222,7 @@
   focal_length_35: 320.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1149,6 +1237,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 640
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1165,6 +1254,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1182,6 +1272,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 4.0
+  iso: 200
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -1195,6 +1286,7 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1212,6 +1304,7 @@
   focal_length_35: 58.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1228,6 +1321,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5174
@@ -1245,6 +1339,7 @@
   focal_length_35: 53.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -1261,6 +1356,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1269,23 +1365,6 @@
   exposure_string: 1/200 s
   time: 2019-10-24 09:48:29+02:00
   focus_distance: 1000.0
-- image_filename: 2019_10_24__10_49__A243585.jpg
-  post_slug: 2019-10-24-taka-wiosenna-jesien
-  lat: 50.240125
-  lon: 16.680666666666667
-  altitude: 415.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4988
-  height: 3724
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-10-24 10:49:52+02:00
-  focus_distance: 45.76
 - image_filename: 2019_10_24__10_19__A243503.jpg
   post_slug: 2019-10-24-taka-wiosenna-jesien
   lat: 50.240375
@@ -1295,6 +1374,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1312,6 +1392,7 @@
   focal_length_35: 50.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1328,6 +1409,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1345,6 +1427,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1362,6 +1445,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7241
@@ -1378,6 +1462,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6817
@@ -1394,6 +1479,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1410,6 +1496,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5044
@@ -1424,6 +1511,7 @@
   focal_length_35: 29.0
   crop: 1.0
   aperture: 2.8
+  iso: 640
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1440,6 +1528,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1457,6 +1546,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1471,6 +1561,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.0
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5081
@@ -1488,6 +1579,7 @@
   focal_length_35: 43.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7152
@@ -1501,6 +1593,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5096
@@ -1518,6 +1611,7 @@
   focal_length_35: 174.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1532,6 +1626,7 @@
   focal_length_35: 42.0
   crop: 1.0
   aperture: 2.8
+  iso: 640
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7106
@@ -1548,6 +1643,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1565,6 +1661,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3861
@@ -1582,6 +1679,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1599,6 +1697,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1616,6 +1715,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1633,6 +1733,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1650,6 +1751,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1667,6 +1769,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1683,6 +1786,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1700,6 +1804,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5130
@@ -1717,6 +1822,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5020
@@ -1734,6 +1840,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -1750,6 +1857,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1767,6 +1875,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1784,6 +1893,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1800,6 +1910,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1817,6 +1928,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5121
@@ -1834,6 +1946,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1851,6 +1964,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7287
@@ -1867,6 +1981,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1884,6 +1999,7 @@
   focal_length_35: 45.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -1900,6 +2016,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4920
@@ -1916,6 +2033,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1933,6 +2051,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1950,6 +2069,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 160
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -1966,6 +2086,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5084
@@ -1983,6 +2104,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -2000,6 +2122,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5149
@@ -2017,6 +2140,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -2034,6 +2158,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 4.0
+  iso: 400
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4630
@@ -2050,6 +2175,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -2067,6 +2193,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -2084,6 +2211,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7204
@@ -2100,6 +2228,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -2116,6 +2245,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -2133,6 +2263,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7071
@@ -2149,6 +2280,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4978

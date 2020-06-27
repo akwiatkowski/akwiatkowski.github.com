@@ -1,4 +1,19 @@
 ---
+- image_filename: P7151433.jpg
+  post_slug: 2018-07-15-eksplorujac-puszcze-notecka
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.5
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4538
+  height: 3396
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2018-07-15 11:37:09+02:00
+  focus_distance: 1000.0
 - image_filename: P7141346.jpg
   post_slug: 2018-07-15-eksplorujac-puszcze-notecka
   lat: 52.67315277777777
@@ -8,6 +23,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4584
@@ -25,6 +41,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4301
@@ -42,6 +59,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -59,6 +77,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -76,6 +95,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -93,6 +113,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4473
@@ -110,6 +131,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -127,6 +149,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -144,6 +167,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -161,6 +185,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4276
@@ -178,6 +203,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -195,6 +221,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -212,6 +239,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -229,6 +257,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -243,6 +272,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -260,6 +290,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -274,6 +305,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -288,6 +320,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -302,6 +335,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4289
@@ -316,6 +350,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4482
@@ -330,6 +365,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 1000
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -344,6 +380,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4561
@@ -361,6 +398,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -378,6 +416,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -392,6 +431,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -409,6 +449,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -423,6 +464,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -437,6 +479,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -451,6 +494,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -465,6 +509,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 3260
@@ -482,6 +527,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4595
@@ -499,6 +545,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -516,6 +563,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -530,6 +578,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4140
@@ -544,6 +593,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 1000
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 2933
@@ -561,6 +611,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -575,6 +626,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -592,6 +644,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -609,6 +662,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4562
@@ -626,6 +680,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4598
@@ -643,6 +698,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4547
@@ -651,20 +707,6 @@
   exposure_string: 1/1000 s
   time: 2018-07-15 13:06:20+02:00
   focus_distance: 199.82
-- image_filename: P7151433.jpg
-  post_slug: 2018-07-15-eksplorujac-puszcze-notecka
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.5
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4538
-  height: 3396
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2018-07-15 11:37:09+02:00
-  focus_distance: 1000.0
 - image_filename: P7141389.jpg
   post_slug: 2018-07-15-eksplorujac-puszcze-notecka
   lat: 52.699749999999995
@@ -674,6 +716,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4531
@@ -691,6 +734,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -705,6 +749,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -720,6 +765,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4537
@@ -737,6 +783,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -754,6 +801,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -771,6 +819,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -785,6 +834,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -802,6 +852,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -816,6 +867,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -830,6 +882,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -844,6 +897,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4576
@@ -858,6 +912,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4602
@@ -875,6 +930,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640

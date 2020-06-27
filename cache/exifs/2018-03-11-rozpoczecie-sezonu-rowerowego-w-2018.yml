@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP6055raw1.jpg
+  post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
+  lat: 52.53219444444444
+  lon: 16.94384722222222
+  altitude: 156.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  iso: 400
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2018-03-11 14:24:08+01:00
 - image_filename: IMGP6052raw1.jpg
   post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
   lat: 52.462652777777784
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -21,20 +36,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
   time: 2018-03-11 14:57:22+01:00
-- image_filename: IMGP6055raw1.jpg
-  post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
-  lat: 52.53219444444444
-  lon: 16.94384722222222
-  altitude: 156.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-03-11 14:24:08+01:00

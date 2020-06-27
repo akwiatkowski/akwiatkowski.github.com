@@ -5,28 +5,20 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   camera: PENTAX K-S2
   width: 2000
   height: 1334
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2016-08-21 16:34:52+02:00
-- image_filename: IMGP4751raw1.jpg
-  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-08-21 16:27:49+02:00
 - image_filename: IMGP4748raw1.jpg
   post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -37,6 +29,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,16 +40,73 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2016-08-21 17:55:48+02:00
+- image_filename: IMGP4851raw1.jpg
+  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 400
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2016-08-21 18:29:51+02:00
+- image_filename: IMGP4912raw1.jpg
+  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 1000
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2016-08-21 18:49:27+02:00
+- image_filename: IMGP4911raw1.jpg
+  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 800
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2016-08-21 18:49:24+02:00
+- image_filename: IMGP4751raw1.jpg
+  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 200
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2016-08-21 16:27:49+02:00
+- image_filename: IMGP4896raw1.jpg
+  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 1000
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2016-08-21 18:42:44+02:00
 - image_filename: IMGP4793raw1.jpg
   post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -67,47 +117,8 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2016-08-21 18:26:06+02:00
-- image_filename: IMGP4911raw1.jpg
-  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-21 18:49:24+02:00
-- image_filename: IMGP4851raw1.jpg
-  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-21 18:29:51+02:00
-- image_filename: IMGP4896raw1.jpg
-  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-21 18:42:44+02:00
-- image_filename: IMGP4912raw1.jpg
-  post_slug: 2016-08-21-dziewicza-gora-w-deszczowy-dzien
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2016-08-21 18:49:27+02:00

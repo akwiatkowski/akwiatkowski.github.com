@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP8092raw1.jpg
+  post_slug: 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy
+  lat: 53.83181944444445
+  lon: 17.492430555555558
+  altitude: 122.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2018-04-29 13:04:34+02:00
 - image_filename: IMGP8006raw1.jpg
   post_slug: 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy
   lat: 53.814125
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -60,6 +78,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -73,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -83,6 +103,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -93,6 +114,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -106,6 +128,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -119,6 +142,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -129,6 +153,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -139,6 +164,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -152,6 +178,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -162,6 +189,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -175,6 +203,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -188,6 +217,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -198,23 +228,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2018-04-29 13:39:25+02:00
-- image_filename: IMGP8092raw1.jpg
-  post_slug: 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy
-  lat: 53.83181944444445
-  lon: 17.492430555555558
-  altitude: 122.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2018-04-29 13:04:34+02:00
 - image_filename: IMGP8073raw1.jpg
   post_slug: 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy
   lat: 53.87572222222222
@@ -224,6 +242,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -237,6 +256,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -247,6 +267,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -257,6 +278,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -270,6 +292,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -283,6 +306,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -296,6 +320,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -309,6 +334,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -322,6 +348,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s

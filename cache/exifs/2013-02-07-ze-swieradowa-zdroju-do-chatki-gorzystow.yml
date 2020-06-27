@@ -1,4 +1,19 @@
 ---
+- image_filename: IMGP7946b.jpg
+  post_slug: 2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow
+  lat: 50.87072583333333
+  lon: 15.353429166666666
+  altitude: 943.7
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2013-02-07 16:50:48+01:00
 - image_filename: IMGP7517b.jpg
   post_slug: 2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow
   lat: 50.878754444444446
@@ -8,6 +23,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.002
@@ -22,6 +38,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -36,6 +53,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -50,6 +68,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -64,6 +83,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -78,6 +98,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -92,6 +113,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.01
@@ -106,6 +128,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -120,25 +143,12 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2013-02-07 09:15:48+01:00
-- image_filename: IMGP7946b.jpg
-  post_slug: 2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow
-  lat: 50.87072583333333
-  lon: 15.353429166666666
-  altitude: 943.7
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-02-07 16:50:48+01:00
 - image_filename: IMGP7538b.jpg
   post_slug: 2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow
   lat: 50.88454222222222
@@ -148,6 +158,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.002
@@ -162,6 +173,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 2048
@@ -178,6 +190,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025

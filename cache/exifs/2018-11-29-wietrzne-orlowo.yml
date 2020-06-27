@@ -1,10 +1,29 @@
 ---
+- image_filename: 2018_11_29__06_53__B294752.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48002777777778
+  lon: 18.56488888888889
+  altitude: 4294967296.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5106
+  height: 3760
+  exposure: 0.5
+  exposure_string: 1/2 s
+  time: 2018-11-29 06:53:02+01:00
+  focus_distance: 7.62
 - image_filename: 2018_11_28__20_38__B284741.jpg
   post_slug: 2018-11-29-wietrzne-orlowo
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5186
@@ -22,6 +41,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4871
@@ -39,6 +59,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4864
@@ -56,6 +77,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4881
@@ -73,6 +95,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5108
@@ -90,6 +113,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4593
@@ -107,6 +131,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -124,6 +149,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5129
@@ -141,6 +167,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4878
@@ -158,6 +185,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5198
@@ -175,6 +203,7 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5106
@@ -192,6 +221,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4685
@@ -209,6 +239,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4918
@@ -226,6 +257,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5049
@@ -243,6 +275,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4816
@@ -260,6 +293,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4809
@@ -277,6 +311,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -294,6 +329,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5096
@@ -311,6 +347,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4814
@@ -328,6 +365,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4604
@@ -345,6 +383,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -362,6 +401,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4616
@@ -379,6 +419,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -396,6 +437,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5091
@@ -413,6 +455,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4871
@@ -421,20 +464,3 @@
   exposure_string: 25 s
   time: 2018-11-29 06:58:55+01:00
   focus_distance: 6.53
-- image_filename: 2018_11_29__06_53__B294752.jpg
-  post_slug: 2018-11-29-wietrzne-orlowo
-  lat: 54.48002777777778
-  lon: 18.56488888888889
-  altitude: 4294967296.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5106
-  height: 3760
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-29 06:53:02+01:00
-  focus_distance: 7.62

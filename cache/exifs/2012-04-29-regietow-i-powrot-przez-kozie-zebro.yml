@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-04-29-regietow-i-powrot-przez-kozie-zebro
+  lat: 49.45524138888889
+  lon: 21.238885
+  altitude: 587.5
+  focal_length: 16.0
+  focal_length_35: 24.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 400
+  lens: smc PENTAX-DA 16-45mm F4 ED AL
+  camera: PENTAX K100D
+  width: 2048
+  height: 1362
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2012-04-29 17:35:10+02:00
 - image_filename: IMGP5507b.jpg
   post_slug: 2012-04-29-regietow-i-powrot-przez-kozie-zebro
   lat: 49.802985
@@ -8,6 +25,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0025
@@ -22,6 +40,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.000625
@@ -36,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -52,6 +72,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -66,6 +87,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.003125
@@ -80,6 +102,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 2384
@@ -96,6 +119,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.008
@@ -110,6 +134,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0025
@@ -124,6 +149,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.001
@@ -138,6 +164,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0025
@@ -152,6 +179,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0025
@@ -166,6 +194,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.008
@@ -180,6 +209,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.002
@@ -194,27 +224,12 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2012-04-29 17:33:27+02:00
-- image_filename: header.jpg
-  post_slug: 2012-04-29-regietow-i-powrot-przez-kozie-zebro
-  lat: 49.45524138888889
-  lon: 21.238885
-  altitude: 587.5
-  focal_length: 16.0
-  focal_length_35: 24.0
-  crop: 1.5
-  aperture: 5.6
-  lens: smc PENTAX-DA 16-45mm F4 ED AL
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2012-04-29 17:35:10+02:00
 - image_filename: IMGP5769b.jpg
   post_slug: 2012-04-29-regietow-i-powrot-przez-kozie-zebro
   lat: 49.43738472222222
@@ -224,6 +239,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.005
@@ -238,6 +254,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 3008
@@ -254,6 +271,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008

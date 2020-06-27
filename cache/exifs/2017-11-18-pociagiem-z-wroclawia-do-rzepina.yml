@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
+  lat: 51.26673611111111
+  lon: 16.72561111111111
+  altitude: 107.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2017-11-18 11:57:38+01:00
 - image_filename: IMGP3121raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.24341666666667
@@ -8,6 +22,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -21,6 +36,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -34,6 +50,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -47,6 +64,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -60,6 +78,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -73,6 +92,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -86,6 +106,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 6.3
+  iso: 1600
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -99,23 +120,11 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2017-11-18 12:13:11+01:00
-- image_filename: header.jpg
-  post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
-  lat: 51.26673611111111
-  lon: 16.72561111111111
-  altitude: 107.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 4.5
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2017-11-18 11:57:38+01:00
 - image_filename: IMGP3159raw1.jpg
   post_slug: 2017-11-18-pociagiem-z-wroclawia-do-rzepina
   lat: 51.40925
@@ -125,6 +134,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 4.5
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -138,6 +148,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
+  iso: 1600
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s

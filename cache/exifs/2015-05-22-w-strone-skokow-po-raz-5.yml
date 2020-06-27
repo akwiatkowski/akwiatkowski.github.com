@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -24,6 +25,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -38,6 +40,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.00625
@@ -52,6 +55,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -66,6 +70,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -80,6 +85,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01
@@ -94,6 +100,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.02
@@ -108,6 +115,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -122,6 +130,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01
@@ -136,6 +145,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -150,6 +160,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -164,6 +175,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.00625
@@ -178,6 +190,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -192,6 +205,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -206,6 +220,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -220,6 +235,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0125
@@ -234,6 +250,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -248,6 +265,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.2
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -262,6 +280,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0125
@@ -276,6 +295,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025

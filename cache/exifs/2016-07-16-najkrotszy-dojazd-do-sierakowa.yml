@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-07-16-najkrotszy-dojazd-do-sierakowa
+  lat: 52.6492875
+  lon: 16.083023055555554
+  altitude: 33.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-07-16 11:10:55+02:00
 - image_filename: IMGP2201raw1.jpg
   post_slug: 2016-07-16-najkrotszy-dojazd-do-sierakowa
   lat: 52.71573277777778
@@ -8,6 +24,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +38,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +66,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -60,6 +80,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -73,6 +94,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -86,6 +108,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -99,6 +122,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -112,22 +136,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
   time: 2016-07-16 11:54:40+02:00
-- image_filename: header.jpg
-  post_slug: 2016-07-16-najkrotszy-dojazd-do-sierakowa
-  lat: 52.6492875
-  lon: 16.083023055555554
-  altitude: 33.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-07-16 11:10:55+02:00

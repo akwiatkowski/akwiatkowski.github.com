@@ -1,10 +1,26 @@
 ---
+- image_filename: P7010434_dark1.jpg
+  post_slug: 2018-07-01-spacer-po-murowanej-goslinie
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 400
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  width: 4640
+  height: 3472
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2018-07-01 16:14:27+02:00
+  focus_distance: 0.41
 - image_filename: 13_38_P7010304.jpg
   post_slug: 2018-07-01-spacer-po-murowanej-goslinie
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 3728
@@ -19,6 +35,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 3472
@@ -33,6 +50,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 3853
@@ -47,6 +65,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 3849
@@ -61,6 +80,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4324
@@ -75,6 +95,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4607
@@ -89,6 +110,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 6.3
+  iso: 1000
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -103,6 +125,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   camera: E-M10MarkII
   width: 4640
   height: 3472
@@ -115,6 +138,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4104
@@ -129,6 +153,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4497
@@ -143,6 +168,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4215
@@ -157,6 +183,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4640
@@ -171,6 +198,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4232
@@ -185,6 +213,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4482
@@ -199,6 +228,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4573
@@ -213,6 +243,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4536
@@ -227,6 +258,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4640
@@ -241,6 +273,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4112
@@ -255,6 +288,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4640
@@ -269,6 +303,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4474
@@ -283,6 +318,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4467
@@ -297,6 +333,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4104
@@ -311,6 +348,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4313
@@ -325,6 +363,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -339,6 +378,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 3871
@@ -353,6 +393,7 @@
   focal_length_35: 18.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.9-18mm F4.0-5.6
   camera: E-M10MarkII
   width: 4640
@@ -367,6 +408,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 6.3
+  iso: 1000
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -375,17 +417,3 @@
   exposure_string: 1/125 s
   time: 2018-07-01 16:06:26+02:00
   focus_distance: 0.27
-- image_filename: P7010434_dark1.jpg
-  post_slug: 2018-07-01-spacer-po-murowanej-goslinie
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-07-01 16:14:27+02:00
-  focus_distance: 0.41

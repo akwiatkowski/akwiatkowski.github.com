@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-09-24-przemecki-park-krajobrazowy-po-sezonie
+  lat: 51.928888888888885
+  lon: 16.28836111111111
+  altitude: 61.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 320
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-09-24 13:39:09+02:00
 - image_filename: IMGP0580raw1.jpg
   post_slug: 2017-09-24-przemecki-park-krajobrazowy-po-sezonie
   lat: 51.953375
@@ -8,6 +22,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -21,6 +36,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 5.6
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -34,6 +50,7 @@
   focal_length_35: 64.0
   crop: 1.4883720930232558
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -47,6 +64,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -60,6 +78,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 5.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -73,6 +92,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -86,6 +106,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -99,6 +120,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -112,6 +134,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -125,6 +148,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -138,6 +162,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -151,6 +176,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -164,6 +190,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 7.1
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -177,6 +204,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.04
   exposure_string: 1/25 s
@@ -190,6 +218,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -203,6 +232,7 @@
   focal_length_35: 28.0
   crop: 1.4736842105263157
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -213,6 +243,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -226,6 +257,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 7.1
+  iso: 800
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -239,6 +271,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -252,6 +285,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -265,6 +299,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -278,6 +313,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 6.3
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -291,6 +327,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -304,6 +341,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -317,6 +355,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -330,6 +369,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 6.3
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -343,6 +383,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -356,6 +397,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -369,23 +411,11 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2017-09-24 11:25:36+02:00
-- image_filename: header.jpg
-  post_slug: 2017-09-24-przemecki-park-krajobrazowy-po-sezonie
-  lat: 51.928888888888885
-  lon: 16.28836111111111
-  altitude: 61.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-09-24 13:39:09+02:00
 - image_filename: IMGP0716raw1.jpg
   post_slug: 2017-09-24-przemecki-park-krajobrazowy-po-sezonie
   lat: 51.93983333333333
@@ -395,6 +425,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -408,6 +439,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -421,6 +453,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s

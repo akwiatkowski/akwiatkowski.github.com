@@ -1,4 +1,22 @@
 ---
+- image_filename: 2018_10_21__14_33__A212255.jpg
+  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
+  lat: 52.51719444444444
+  lon: 17.146527777777777
+  altitude: 89.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2018-10-21 14:33:01+02:00
+  focus_distance: 3.7
 - image_filename: 2018_10_20__14_26__A201298.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.474875000000004
@@ -8,6 +26,7 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4985
@@ -25,6 +44,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4905
@@ -42,6 +62,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -59,6 +80,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -76,6 +98,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4802
@@ -93,6 +116,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -110,6 +134,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -127,6 +152,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -144,6 +170,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3882
@@ -161,6 +188,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5097
@@ -178,6 +206,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4955
@@ -195,6 +224,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -212,6 +242,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
+  iso: 250
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -229,6 +260,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 250
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -246,6 +278,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5067
@@ -263,6 +296,7 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4992
@@ -280,6 +314,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.7
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5092
@@ -297,6 +332,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -314,6 +350,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 4052
@@ -331,6 +368,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5240
@@ -348,6 +386,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5240
@@ -365,6 +404,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -382,6 +422,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4981
@@ -399,6 +440,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4936
@@ -416,6 +458,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -433,6 +476,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -450,6 +494,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -467,6 +512,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -484,6 +530,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5218
@@ -501,6 +548,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5187
@@ -518,6 +566,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.7
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5202
@@ -535,6 +584,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5128
@@ -552,6 +602,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5125
@@ -569,6 +620,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4884
@@ -586,6 +638,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -603,6 +656,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -620,6 +674,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 5.0
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -637,6 +692,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4628
@@ -654,6 +710,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 3027
@@ -671,6 +728,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -688,6 +746,7 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5226
@@ -705,6 +764,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -722,6 +782,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 4461
@@ -739,6 +800,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -756,6 +818,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5190
@@ -773,6 +836,7 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5140
@@ -790,6 +854,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5240
@@ -807,6 +872,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -815,23 +881,6 @@
   exposure_string: 1/250 s
   time: 2018-10-21 14:11:09+02:00
   focus_distance: 0.45
-- image_filename: 2018_10_21__14_33__A212255.jpg
-  post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
-  lat: 52.51719444444444
-  lon: 17.146527777777777
-  altitude: 89.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-21 14:33:01+02:00
-  focus_distance: 3.7
 - image_filename: 2018_10_21__12_25__A212047.jpg
   post_slug: 2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego
   lat: 52.51002777777778
@@ -841,6 +890,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5240
@@ -858,6 +908,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -875,6 +926,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 250
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -892,6 +944,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4970
@@ -909,6 +962,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5232
@@ -926,6 +980,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -943,6 +998,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5000
@@ -960,6 +1016,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -977,6 +1034,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 10.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -994,6 +1052,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5186
@@ -1011,6 +1070,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5240
@@ -1028,6 +1088,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1045,6 +1106,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1062,6 +1124,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4727
@@ -1079,6 +1142,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.7
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5240
@@ -1096,6 +1160,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5024
@@ -1113,6 +1178,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240

@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-07-01-szybka-wizyta-w-dolinie-baryczy
+  lat: 51.52590277777778
+  lon: 17.07702777777778
+  altitude: 94.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2017-07-01 12:00:24+02:00
 - image_filename: IMGP8323raw1.jpg
   post_slug: 2017-07-01-szybka-wizyta-w-dolinie-baryczy
   lat: 51.548513888888884
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -60,6 +78,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -73,23 +92,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2017-07-01 11:57:38+02:00
-- image_filename: header.jpg
-  post_slug: 2017-07-01-szybka-wizyta-w-dolinie-baryczy
-  lat: 51.52590277777778
-  lon: 17.07702777777778
-  altitude: 94.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2017-07-01 12:00:24+02:00
 - image_filename: IMGP8327raw1.jpg
   post_slug: 2017-07-01-szybka-wizyta-w-dolinie-baryczy
   lat: 51.52590277777778
@@ -99,6 +106,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s

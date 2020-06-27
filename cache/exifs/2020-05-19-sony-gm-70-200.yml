@@ -1,220 +1,11 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-- image_filename: 2020_05_18__21_47__DSC2360.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 5320
-  height: 7980
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2020-05-18 21:47:29+02:00
-- image_filename: 2020_05_18__21_57__DSC2391.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-18 21:57:08+02:00
-- image_filename: 2020_05_18__21_59__DSC2423.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 7639
-  height: 5092
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-18 21:59:45+02:00
-- image_filename: 2020_05_19__00_12__DSC2481.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 6700
-  height: 4684
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-19 00:12:40+02:00
-- image_filename: 2020_05_19__00_17__DSC2538.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 5320
-  height: 7980
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-19 00:17:37+02:00
-- image_filename: 2020_05_19__10_26__DSC2545.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 7635
-  height: 5105
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-05-19 10:26:17+02:00
-- image_filename: 2020_05_19__10_28__DSC2588.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 192.0
-  focal_length_35: 192.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-19 10:28:39+02:00
-- image_filename: 2020_05_19__10_58__DSC2710.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 161.0
-  focal_length_35: 161.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-19 10:58:47+02:00
-- image_filename: 2020_05_19__11_00__DSC2736.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-19 11:00:25+02:00
-- image_filename: 2020_05_19__11_00__DSC2751.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7RM3
-  width: 5320
-  height: 7980
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-19 11:00:44+02:00
-- image_filename: 2020_05_19__11_00__DSC2746.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7RM3
-  width: 5320
-  height: 7980
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-19 11:00:39+02:00
-- image_filename: 2020_05_19__11_15__DSC2841.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:15:33+02:00
-- image_filename: 2020_05_19__11_15__DSC2854.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 71.0
-  focal_length_35: 71.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:15:46+02:00
-- image_filename: 2020_05_19__11_16__DSC2877.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7529
-  height: 5019
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:16:13+02:00
-- image_filename: 2020_05_19__11_18__DSC2968.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 111.0
-  focal_length_35: 111.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7746
-  height: 5164
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:18:16+02:00
-- image_filename: 2020_05_19__11_18__DSC2974.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 107.0
-  focal_length_35: 107.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:18:20+02:00
 - image_filename: 2020_05_19__11_19__DSC3013.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 122.0
   focal_length_35: 122.0
   crop: 1.0
   aperture: 2.8
+  iso: 250
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7980
@@ -222,227 +13,13 @@
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2020-05-19 11:19:30+02:00
-- image_filename: 2020_05_19__11_20__DSC3020.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:20:43+02:00
-- image_filename: 2020_05_19__11_18__DSC3001.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 182.0
-  focal_length_35: 182.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:18:58+02:00
-- image_filename: 2020_05_19__11_23__DSC3059.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 125.0
-  focal_length_35: 125.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-05-19 11:23:37+02:00
-- image_filename: 2020_05_19__11_26__DSC3132.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:26:57+02:00
-- image_filename: 2020_05_19__11_24__DSC3090.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-19 11:24:14+02:00
-- image_filename: 2020_05_19__11_28__DSC3156.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 184.0
-  focal_length_35: 184.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-05-19 11:28:09+02:00
-- image_filename: 2020_05_19__11_31__DSC3194.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 114.0
-  focal_length_35: 114.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-19 11:31:10+02:00
-- image_filename: 2020_05_19__11_31__DSC3200.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 5.6
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7934
-  height: 5289
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-05-19 11:31:36+02:00
-- image_filename: 2020_05_19__11_34__DSC3224.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 197.0
-  focal_length_35: 197.0
-  crop: 1.0
-  aperture: 3.2
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-19 11:34:38+02:00
-- image_filename: 2020_05_19__11_35__DSC3240.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 144.0
-  focal_length_35: 144.0
-  crop: 1.0
-  aperture: 3.2
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-05-19 11:35:07+02:00
-- image_filename: 2020_05_19__11_35__DSC3262.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-05-19 11:35:52+02:00
-- image_filename: 2020_05_19__12_16__DSC3318.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  aperture: 0.0
-  lens: '----'
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-19 12:16:47+02:00
-- image_filename: 2020_05_19__13_47__DSC3494.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-19 13:47:36+02:00
-- image_filename: 2020_05_19__13_44__DSC3424.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-19 13:44:38+02:00
-- image_filename: 2020_05_19__12_21__DSC3345.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  aperture: 0.0
-  lens: '----'
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-19 12:21:11+02:00
-- image_filename: 2020_05_19__13_55__DSC3563.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-05-19 13:55:17+02:00
-- image_filename: 2020_05_19__13_55__DSC3564.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7RM3
-  width: 7980
-  height: 5320
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-05-19 13:55:21+02:00
 - image_filename: 2020_05_19__14_23__DSC3594.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7654
@@ -450,38 +27,27 @@
   exposure: 0.0015625
   exposure_string: 1/640 s
   time: 2020-05-19 14:23:36+02:00
-- image_filename: 2020_05_19__14_23__DSC3592.jpg
+- image_filename: 2020_05_19__13_47__DSC3494.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 2.8
+  iso: 1000
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
-  width: 7723
-  height: 5148
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-05-19 14:23:02+02:00
-- image_filename: 2020_05_19__14_27__DSC3611.jpg
-  post_slug: 2020-05-19-sony-gm-70-200
-  focal_length: 200.0
-  focal_length_35: 200.0
-  crop: 1.0
-  aperture: 2.8
-  lens: FE 70-200mm F2.8 GM OSS
-  camera: ILCE-7RM3
-  width: 4977
-  height: 7583
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-05-19 14:27:01+02:00
+  width: 7980
+  height: 5320
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-05-19 13:47:36+02:00
 - image_filename: 2020_05_19__16_36__DSC3672.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 4.0
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7875
@@ -489,12 +55,234 @@
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2020-05-19 16:36:46+02:00
+- image_filename: 2020_05_19__11_18__DSC2968.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 111.0
+  focal_length_35: 111.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7746
+  height: 5164
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:18:16+02:00
+- image_filename: 2020_05_19__11_26__DSC3132.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 250
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:26:57+02:00
+- image_filename: 2020_05_19__14_23__DSC3592.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7723
+  height: 5148
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-05-19 14:23:02+02:00
+- image_filename: 2020_05_19__13_55__DSC3563.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 1600
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-05-19 13:55:17+02:00
+- image_filename: 2020_05_19__00_17__DSC2538.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 8000
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 5320
+  height: 7980
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-19 00:17:37+02:00
+- image_filename: 2020_05_18__21_59__DSC2423.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 5000
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 7639
+  height: 5092
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-18 21:59:45+02:00
+- image_filename: 2020_05_19__11_34__DSC3224.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 197.0
+  focal_length_35: 197.0
+  crop: 1.0
+  aperture: 3.2
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:34:38+02:00
+- image_filename: 2020_05_19__11_35__DSC3262.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 640
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-05-19 11:35:52+02:00
+- image_filename: 2020_05_19__11_31__DSC3194.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 114.0
+  focal_length_35: 114.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-05-19 11:31:10+02:00
+- image_filename: 2020_05_19__11_24__DSC3090.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-19 11:24:14+02:00
+- image_filename: 2020_05_19__13_44__DSC3424.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 800
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-05-19 13:44:38+02:00
+- image_filename: 2020_05_19__10_58__DSC2710.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 161.0
+  focal_length_35: 161.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 8000
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-05-19 10:58:47+02:00
+- image_filename: 2020_05_19__10_26__DSC2545.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 160
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 7635
+  height: 5105
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-05-19 10:26:17+02:00
+- image_filename: 2020_05_19__12_16__DSC3318.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  aperture: 0.0
+  iso: 8000
+  lens: '----'
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-19 12:16:47+02:00
+- image_filename: 2020_05_19__11_18__DSC2974.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 107.0
+  focal_length_35: 107.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:18:20+02:00
+- image_filename: 2020_05_19__10_28__DSC2588.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 192.0
+  focal_length_35: 192.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 640
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-05-19 10:28:39+02:00
 - image_filename: 2020_05_19__16_37__DSC3679.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 3.5
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7980
@@ -502,12 +290,55 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2020-05-19 16:37:14+02:00
+- image_filename: 2020_05_18__21_57__DSC2391.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 4000
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-18 21:57:08+02:00
+- image_filename: 2020_05_19__11_20__DSC3020.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 200
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:20:43+02:00
+- image_filename: 2020_05_19__11_15__DSC2854.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 71.0
+  focal_length_35: 71.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:15:46+02:00
 - image_filename: 2020_05_19__14_28__DSC3631.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7626
@@ -515,25 +346,38 @@
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2020-05-19 14:28:07+02:00
-- image_filename: 2020_05_19__14_27__DSC3617.jpg
+- image_filename: 2020_05_19__11_15__DSC2841.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 2.8
+  iso: 200
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7980
   height: 5320
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-05-19 14:27:11+02:00
+  time: 2020-05-19 11:15:33+02:00
+- image_filename: 2020_05_19__12_21__DSC3345.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  aperture: 0.0
+  iso: 6400
+  lens: '----'
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-19 12:21:11+02:00
 - image_filename: 2020_05_19__16_37__DSC3682.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 200.0
   focal_length_35: 200.0
   crop: 1.0
   aperture: 3.5
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7645
@@ -541,12 +385,27 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2020-05-19 16:37:55+02:00
+- image_filename: 2020_05_18__21_47__DSC2360.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 8000
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 5320
+  height: 7980
+  exposure: 0.05
+  exposure_string: 1/20 s
+  time: 2020-05-18 21:47:29+02:00
 - image_filename: 2020_05_19__16_39__DSC3690.jpg
   post_slug: 2020-05-19-sony-gm-70-200
   focal_length: 135.0
   focal_length_35: 135.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 70-200mm F2.8 GM OSS
   camera: ILCE-7RM3
   width: 7617
@@ -554,3 +413,185 @@
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2020-05-19 16:39:18+02:00
+- image_filename: 2020_05_19__11_35__DSC3240.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 144.0
+  focal_length_35: 144.0
+  crop: 1.0
+  aperture: 3.2
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-05-19 11:35:07+02:00
+- image_filename: 2020_05_19__11_23__DSC3059.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 125.0
+  focal_length_35: 125.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-05-19 11:23:37+02:00
+- image_filename: 2020_05_19__14_27__DSC3611.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 4977
+  height: 7583
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-05-19 14:27:01+02:00
+- image_filename: 2020_05_19__11_28__DSC3156.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 184.0
+  focal_length_35: 184.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-05-19 11:28:09+02:00
+- image_filename: 2020_05_19__11_00__DSC2751.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 8000
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  width: 5320
+  height: 7980
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-19 11:00:44+02:00
+- image_filename: 2020_05_19__11_00__DSC2736.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 8000
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-19 11:00:25+02:00
+- image_filename: 2020_05_19__14_27__DSC3617.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 14:27:11+02:00
+- image_filename: 2020_05_19__11_18__DSC3001.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 182.0
+  focal_length_35: 182.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 200
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:18:58+02:00
+- image_filename: 2020_05_19__11_31__DSC3200.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 5.6
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7934
+  height: 5289
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-05-19 11:31:36+02:00
+- image_filename: 2020_05_19__13_55__DSC3564.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 1250
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 7980
+  height: 5320
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-05-19 13:55:21+02:00
+- image_filename: 2020_05_19__11_16__DSC2877.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200.0
+  focal_length_35: 200.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 160
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  width: 7529
+  height: 5019
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-19 11:16:13+02:00
+- image_filename: 2020_05_19__00_12__DSC2481.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 2500
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  width: 6700
+  height: 4684
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-19 00:12:40+02:00
+- image_filename: 2020_05_19__11_00__DSC2746.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 8000
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  width: 5320
+  height: 7980
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-19 11:00:39+02:00

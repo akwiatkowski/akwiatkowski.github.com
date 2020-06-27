@@ -1,4 +1,22 @@
 ---
+- image_filename: 2019_06_15__17_21__6156619.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46270833333334
+  lon: 17.20488888888889
+  altitude: 78.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5126
+  height: 3759
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2019-06-15 17:21:33+02:00
+  focus_distance: 0.99
 - image_filename: 2019_06_15__17_01__6156537.jpg
   post_slug: 2019-06-15-okolice-promna
   lat: 52.468291666666666
@@ -8,6 +26,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -25,6 +44,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -42,6 +62,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -59,6 +80,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -75,6 +97,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -92,6 +115,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -109,6 +133,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -125,6 +150,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -142,6 +168,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -159,6 +186,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -176,6 +204,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -192,6 +221,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -208,6 +238,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 3912
@@ -225,6 +256,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -242,6 +274,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -259,6 +292,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 4925
@@ -276,6 +310,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -290,6 +325,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4797
@@ -304,6 +340,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4161
@@ -321,6 +358,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -337,6 +375,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -354,6 +393,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -368,6 +408,7 @@
   focal_length_35: 310.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -385,6 +426,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -402,6 +444,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -418,6 +461,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 4795
@@ -435,6 +479,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -451,6 +496,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -468,6 +514,7 @@
   focal_length_35: 340.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -485,6 +532,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -502,6 +550,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -518,6 +567,7 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -535,6 +585,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -543,23 +594,6 @@
   exposure_string: 1/250 s
   time: 2019-06-15 17:13:17+02:00
   focus_distance: 0.29
-- image_filename: 2019_06_15__17_21__6156619.jpg
-  post_slug: 2019-06-15-okolice-promna
-  lat: 52.46270833333334
-  lon: 17.20488888888889
-  altitude: 78.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5126
-  height: 3759
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-06-15 17:21:33+02:00
-  focus_distance: 0.99
 - image_filename: 2019_06_15__17_17__6156580.jpg
   post_slug: 2019-06-15-okolice-promna
   lat: 52.462763888888894
@@ -569,6 +603,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -586,6 +621,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 320
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -603,6 +639,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 4775
@@ -620,6 +657,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -637,6 +675,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -653,6 +692,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -670,6 +710,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 320
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4314

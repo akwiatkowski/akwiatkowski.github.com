@@ -1,4 +1,19 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.71385027777778
+  lon: 17.092857499999997
+  altitude: 71.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2015-03-18 15:37:20+01:00
 - image_filename: IMGP8891raw1.jpg
   post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
   lat: 52.71383222222222
@@ -8,6 +23,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -22,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -36,25 +53,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
   time: 2015-03-18 14:40:59+01:00
-- image_filename: header.jpg
-  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
-  lat: 52.71385027777778
-  lon: 17.092857499999997
-  altitude: 71.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-03-18 15:37:20+01:00
 - image_filename: IMGP8906raw1.jpg
   post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
   lat: 52.71386944444445
@@ -64,6 +68,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025

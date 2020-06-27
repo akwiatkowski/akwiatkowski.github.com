@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2011-09-10-tatry-dla-poczatkujacego
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.0
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  width: 3008
+  height: 2000
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2011-09-10 13:58:45+02:00
 - image_filename: IMGP0331b.jpg
   post_slug: 2011-09-10-tatry-dla-poczatkujacego
   focal_length: 113.0
   focal_length_35: 169.0
   crop: 1.4955752212389382
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.000625
@@ -16,6 +31,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -27,6 +43,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.005
@@ -38,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -49,6 +67,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0004
@@ -60,6 +79,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.003125
@@ -71,6 +91,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.004
@@ -82,6 +103,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.004
@@ -93,6 +115,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0008
@@ -104,6 +127,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -117,6 +141,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -130,6 +155,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -143,6 +169,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -154,6 +181,7 @@
   focal_length_35: 45.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.002
@@ -165,6 +193,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.004
@@ -176,6 +205,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -187,6 +217,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -200,6 +231,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -213,6 +245,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0005
@@ -224,6 +257,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.00125
@@ -235,6 +269,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -248,6 +283,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.003125
@@ -259,30 +295,19 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2011-09-10 13:11:35+02:00
-- image_filename: header.jpg
-  post_slug: 2011-09-10-tatry-dla-poczatkujacego
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  width: 3008
-  height: 2000
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2011-09-10 13:58:45+02:00
 - image_filename: IMGP0432.JPG
   post_slug: 2011-09-10-tatry-dla-poczatkujacego
   focal_length: 113.0
   focal_length_35: 169.0
   crop: 1.4955752212389382
   aperture: 5.6
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -296,6 +321,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.002
@@ -307,6 +333,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -320,6 +347,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008

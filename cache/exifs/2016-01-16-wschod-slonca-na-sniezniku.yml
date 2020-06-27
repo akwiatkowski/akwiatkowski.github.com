@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -15,59 +16,6 @@
   exposure: 0.5
   exposure_string: 1/2 s
   time: 2016-01-16 08:03:31+01:00
-- image_filename: IMGP7385raw1.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.450491944444444
-  lon: 16.65727861111111
-  altitude: 286.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2016-01-15 21:08:46+01:00
-- image_filename: IMGP7458raw1.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2016-01-16 00:07:35+01:00
-- image_filename: IMGP7417raw2.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.44658944444444
-  lon: 16.658427222222222
-  altitude: 286.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2016-01-15 21:31:29+01:00
-- image_filename: IMGP7410raw1.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.44779194444444
-  lon: 16.657758055555554
-  altitude: 285.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 10.0
-  exposure_string: 10 s
-  time: 2016-01-15 21:26:04+01:00
 - image_filename: IMGP7469raw1.jpg
   post_slug: 2016-01-16-wschod-slonca-na-sniezniku
   lat: 50.19461777777777
@@ -77,39 +25,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 30.0
   exposure_string: 30 s
   time: 2016-01-16 07:01:07+01:00
-- image_filename: IMGP7488raw9.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.19878583333333
-  lon: 16.826039166666668
-  altitude: 1240.7
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 11.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 3.0
-  exposure_string: 3 s
-  time: 2016-01-16 07:45:58+01:00
-- image_filename: IMGP7670raw8.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.20502638888889
-  lon: 16.84075722222222
-  altitude: 1346.9
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 10.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-01-16 10:27:17+01:00
 - image_filename: IMGP7603raw1.jpg
   post_slug: 2016-01-16-wschod-slonca-na-sniezniku
   lat: 50.20789166666667
@@ -119,39 +40,27 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2016-01-16 09:56:26+01:00
-- image_filename: IMGP7696raw8.jpg
+- image_filename: IMGP7670raw8.jpg
   post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.205737222222226
-  lon: 16.842028055555556
-  altitude: 1360.4
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  lens: smc PENTAX-FA Macro 50mm F2.8
+  lat: 50.20502638888889
+  lon: 16.84075722222222
+  altitude: 1346.9
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2016-01-16 11:05:35+01:00
-- image_filename: IMGP7715raw8.jpg
-  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
-  lat: 50.20419277777778
-  lon: 16.83802
-  altitude: 1284.9
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-01-16 11:14:43+01:00
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2016-01-16 10:27:17+01:00
 - image_filename: IMGP7730raw8.jpg
   post_slug: 2016-01-16-wschod-slonca-na-sniezniku
   lat: 50.20662472222222
@@ -161,6 +70,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -175,8 +85,111 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2016-01-16 14:32:21+01:00
+- image_filename: IMGP7458raw1.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2016-01-16 00:07:35+01:00
+- image_filename: IMGP7715raw8.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.20419277777778
+  lon: 16.83802
+  altitude: 1284.9
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-01-16 11:14:43+01:00
+- image_filename: IMGP7385raw1.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.450491944444444
+  lon: 16.65727861111111
+  altitude: 286.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2016-01-15 21:08:46+01:00
+- image_filename: IMGP7488raw9.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.19878583333333
+  lon: 16.826039166666668
+  altitude: 1240.7
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  iso: 100
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 3.0
+  exposure_string: 3 s
+  time: 2016-01-16 07:45:58+01:00
+- image_filename: IMGP7696raw8.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.205737222222226
+  lon: 16.842028055555556
+  altitude: 1360.4
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2016-01-16 11:05:35+01:00
+- image_filename: IMGP7417raw2.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.44658944444444
+  lon: 16.658427222222222
+  altitude: 286.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 11.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2016-01-15 21:31:29+01:00
+- image_filename: IMGP7410raw1.jpg
+  post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.44779194444444
+  lon: 16.657758055555554
+  altitude: 285.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 10.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 10.0
+  exposure_string: 10 s
+  time: 2016-01-15 21:26:04+01:00

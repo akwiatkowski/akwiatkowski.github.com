@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek
+  lat: 52.62101388888889
+  lon: 16.14720833333333
+  altitude: 61.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 200
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-05-14 13:12:19+02:00
 - image_filename: IMGP6323raw1.jpg
   post_slug: 2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek
   lat: 52.35370833333334
@@ -8,6 +22,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -21,6 +36,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -47,6 +64,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,6 +78,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -73,6 +92,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -86,6 +106,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -99,6 +120,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -112,6 +134,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -125,6 +148,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -138,6 +162,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -151,6 +176,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -164,6 +190,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -177,6 +204,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -190,6 +218,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -203,6 +232,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -216,20 +246,8 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2017-05-14 13:12:50+02:00
-- image_filename: header.jpg
-  post_slug: 2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek
-  lat: 52.62101388888889
-  lon: 16.14720833333333
-  altitude: 61.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-05-14 13:12:19+02:00

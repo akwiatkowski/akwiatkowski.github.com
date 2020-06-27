@@ -1,4 +1,22 @@
 ---
+- image_filename: 2018_11_29__18_54__B295416.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35019444444445
+  lon: 18.650791666666667
+  altitude: 26.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.8
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 5160
+  height: 3883
+  exposure: 0.5
+  exposure_string: 1/2 s
+  time: 2018-11-29 18:54:42+01:00
+  focus_distance: 1000.0
 - image_filename: 2018_11_29__18_41__B295377.jpg
   post_slug: 2018-11-29-gdansk-wieczorem
   lat: 54.351125
@@ -8,6 +26,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5151
@@ -25,6 +44,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 3614
@@ -42,6 +62,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5017
@@ -59,6 +80,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5112
@@ -76,6 +98,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -93,6 +116,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -110,6 +134,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.0
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5115
@@ -127,6 +152,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5190
@@ -134,23 +160,6 @@
   exposure: 0.125
   exposure_string: 1/8 s
   time: 2018-11-29 18:35:36+01:00
-  focus_distance: 1000.0
-- image_filename: 2018_11_29__18_54__B295416.jpg
-  post_slug: 2018-11-29-gdansk-wieczorem
-  lat: 54.35019444444445
-  lon: 18.650791666666667
-  altitude: 26.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.8
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5160
-  height: 3883
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-29 18:54:42+01:00
   focus_distance: 1000.0
 - image_filename: 2018_11_29__18_53__B295411.jpg
   post_slug: 2018-11-29-gdansk-wieczorem
@@ -161,6 +170,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5187
@@ -178,6 +188,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5009
@@ -195,6 +206,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5234
@@ -212,6 +224,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5177
@@ -229,6 +242,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -246,6 +260,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5136
@@ -263,6 +278,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.6
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5102
@@ -280,6 +296,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5053
@@ -297,6 +314,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -314,6 +332,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.6
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5117
@@ -331,6 +350,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 4980
@@ -348,6 +368,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.6
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5071
@@ -365,6 +386,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5153
@@ -382,6 +404,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 4900

@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.0
+  iso: 800
+  lens: Sigma Lens
+  camera: PENTAX K100D
+  width: 2048
+  height: 1362
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2011-09-15 11:48:40+02:00
 - image_filename: IMGP1479.JPG
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -18,6 +33,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -29,6 +45,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0025
@@ -40,6 +57,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.002
@@ -51,6 +69,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -62,6 +81,7 @@
   focal_length_35: 33.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -73,6 +93,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.008
@@ -84,6 +105,7 @@
   focal_length_35: 33.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.004
@@ -95,6 +117,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00625
@@ -106,6 +129,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -117,6 +141,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00625
@@ -128,6 +153,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -141,6 +167,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.002
@@ -152,6 +179,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -163,6 +191,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -174,6 +203,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -185,6 +215,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0008
@@ -196,6 +227,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -209,6 +241,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -220,30 +253,19 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2011-09-15 10:56:55+02:00
-- image_filename: header.jpg
-  post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.0
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2011-09-15 11:48:40+02:00
 - image_filename: IMGP1744b.jpg
   post_slug: 2011-09-14-dolina-pieciu-stawow-polskich
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.004

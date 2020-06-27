@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -24,11 +25,57 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2015-07-26 12:22:07+02:00
+- image_filename: IMGP2218raw1.jpg
+  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
+  lat: 51.497887222222225
+  lon: 17.163959444444444
+  altitude: 111.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2015-07-26 13:18:49+02:00
+- image_filename: IMGP2236raw1.jpg
+  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
+  lat: 51.479843055555556
+  lon: 17.202790555555556
+  altitude: 120.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2015-07-26 14:55:08+02:00
+- image_filename: IMGP2240raw1.jpg
+  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
+  lat: 51.47926805555556
+  lon: 17.224533055555554
+  altitude: 137.6
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 3.5
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2015-07-26 15:04:09+02:00
 - image_filename: IMGP2284raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.52740138888889
@@ -38,11 +85,42 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2015-07-26 17:18:58+02:00
+- image_filename: IMGP2362raw1.jpg
+  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
+  lat: 51.98811833333333
+  lon: 17.464329166666666
+  altitude: 108.8
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2015-07-26 18:53:30+02:00
+- image_filename: IMGP2377raw1.jpg
+  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
+  lat: 52.15300166666667
+  lon: 17.30449972222222
+  altitude: 72.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2015-07-26 19:13:09+02:00
 - image_filename: IMGP2221raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.498982777777776
@@ -52,6 +130,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -66,25 +145,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2015-07-26 11:41:36+02:00
-- image_filename: IMGP2362raw1.jpg
-  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
-  lat: 51.98811833333333
-  lon: 17.464329166666666
-  altitude: 108.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-26 18:53:30+02:00
 - image_filename: IMGP2214raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.48271555555556
@@ -94,25 +160,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2015-07-26 12:33:51+02:00
-- image_filename: IMGP2218raw1.jpg
-  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
-  lat: 51.497887222222225
-  lon: 17.163959444444444
-  altitude: 111.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-26 13:18:49+02:00
 - image_filename: IMGP2232raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.48269277777778
@@ -122,25 +175,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2015-07-26 14:53:03+02:00
-- image_filename: IMGP2236raw1.jpg
-  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
-  lat: 51.479843055555556
-  lon: 17.202790555555556
-  altitude: 120.8
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2015-07-26 14:55:08+02:00
 - image_filename: IMGP2332raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.70544833333334
@@ -150,39 +190,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
   time: 2015-07-26 18:09:34+02:00
-- image_filename: IMGP2377raw1.jpg
-  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
-  lat: 52.15300166666667
-  lon: 17.30449972222222
-  altitude: 72.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-07-26 19:13:09+02:00
-- image_filename: IMGP2240raw1.jpg
-  post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
-  lat: 51.47926805555556
-  lon: 17.224533055555554
-  altitude: 137.6
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 3.5
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-07-26 15:04:09+02:00
 - image_filename: IMGP2209raw1.jpg
   post_slug: 2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej
   lat: 51.48273416666667
@@ -192,6 +205,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01

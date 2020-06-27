@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-05-23-kraina-stu-jezior
 - image_filename: 2020_05_23__14_30__5232977.jpg
   post_slug: 2020-05-23-kraina-stu-jezior
   lat: 52.57908333333334
@@ -10,6 +8,7 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5094
@@ -18,40 +17,6 @@
   exposure_string: 1/160 s
   time: 2020-05-23 14:30:17+02:00
   focus_distance: 22.69
-- image_filename: 2020_05_23__11_46__5232792.jpg
-  post_slug: 2020-05-23-kraina-stu-jezior
-  lat: 52.590500000000006
-  lon: 16.031625
-  altitude: 71.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-23 11:46:51+02:00
-  focus_distance: 10.87
-- image_filename: 2020_05_23__14_20__5232965.jpg
-  post_slug: 2020-05-23-kraina-stu-jezior
-  lat: 52.571875000000006
-  lon: 15.816180555555556
-  altitude: 51.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-23 14:20:32+02:00
-  focus_distance: 72.5
 - image_filename: 2020_05_23__10_52__5232688.jpg
   post_slug: 2020-05-23-kraina-stu-jezior
   lat: 52.6355
@@ -61,6 +26,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5216
@@ -78,6 +44,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -95,6 +62,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5178
@@ -112,6 +80,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -129,6 +98,7 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -146,6 +116,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 800
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 4380
@@ -154,6 +125,24 @@
   exposure_string: 1/160 s
   time: 2020-05-23 19:05:11+02:00
   focus_distance: 2.13
+- image_filename: 2020_05_23__11_46__5232792.jpg
+  post_slug: 2020-05-23-kraina-stu-jezior
+  lat: 52.590500000000006
+  lon: 16.031625
+  altitude: 71.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-23 11:46:51+02:00
+  focus_distance: 10.87
 - image_filename: 2020_05_23__12_53__5232898.jpg
   post_slug: 2020-05-23-kraina-stu-jezior
   lat: 52.56783333333334
@@ -163,6 +152,7 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -171,6 +161,24 @@
   exposure_string: 1/125 s
   time: 2020-05-23 12:53:03+02:00
   focus_distance: 8.89
+- image_filename: 2020_05_23__14_20__5232965.jpg
+  post_slug: 2020-05-23-kraina-stu-jezior
+  lat: 52.571875000000006
+  lon: 15.816180555555556
+  altitude: 51.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-23 14:20:32+02:00
+  focus_distance: 72.5
 - image_filename: 2020_05_23__11_38__5232778.jpg
   post_slug: 2020-05-23-kraina-stu-jezior
   lat: 52.598958333333336
@@ -180,6 +188,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -197,6 +206,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -214,6 +224,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -231,6 +242,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5065
@@ -248,6 +260,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -265,6 +278,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -282,6 +296,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3373
@@ -299,6 +314,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -316,6 +332,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5052
@@ -333,6 +350,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5069
@@ -350,6 +368,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5054
@@ -367,6 +386,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -384,6 +404,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5131
@@ -400,6 +421,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -417,6 +439,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -434,6 +457,7 @@
   focal_length_35: 140.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5204
@@ -451,6 +475,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -468,6 +493,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5079
@@ -485,6 +511,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -502,6 +529,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5147
@@ -519,6 +547,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5046
@@ -536,6 +565,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5129
@@ -553,6 +583,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5103
@@ -570,6 +601,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240

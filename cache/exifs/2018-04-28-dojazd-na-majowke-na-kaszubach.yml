@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP7985raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68270833333333
+  lon: 17.975916666666667
+  altitude: 111.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2018-04-28 15:19:12+02:00
 - image_filename: IMGP7949raw1.jpg
   post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
   lat: 53.52038888888889
@@ -8,6 +22,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -60,6 +78,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -73,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -86,6 +106,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -99,6 +120,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -109,6 +131,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -122,6 +145,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -135,6 +159,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -148,6 +173,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -161,23 +187,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2018-04-28 15:11:30+02:00
-- image_filename: IMGP7985raw1.jpg
-  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
-  lat: 53.68270833333333
-  lon: 17.975916666666667
-  altitude: 111.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-04-28 15:19:12+02:00
 - image_filename: IMGP7972raw1.jpg
   post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
   lat: 53.65348611111111
@@ -187,6 +201,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -200,6 +215,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -213,6 +229,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -226,6 +243,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s

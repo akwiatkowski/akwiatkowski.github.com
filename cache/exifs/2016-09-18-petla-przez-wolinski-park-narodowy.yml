@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
+  lat: 53.876041944444445
+  lon: 14.440398333333334
+  altitude: 36.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  iso: 125
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-09-18 14:28:41+02:00
 - image_filename: IMGP6708raw1.jpg
   post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
   lat: 53.87968055555556
@@ -8,6 +24,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -21,6 +38,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -47,6 +66,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -60,6 +80,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.125
   exposure_string: 1/8 s
@@ -73,6 +94,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -86,6 +108,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -99,6 +122,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -112,10 +136,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
   time: 2016-09-18 12:34:17+02:00
+- image_filename: IMGP6721raw1.jpg
+  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
+  lat: 53.88693055555556
+  lon: 14.349180555555556
+  altitude: 3.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 200
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-09-18 11:41:05+02:00
 - image_filename: IMGP6718raw1.jpg
   post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
   lat: 53.883041666666664
@@ -125,6 +164,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -138,10 +178,53 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2016-09-18 11:32:17+02:00
+- image_filename: IMGP6752raw1.jpg
+  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
+  lat: 53.895875
+  lon: 14.385291666666665
+  altitude: 6.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  iso: 400
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-09-18 12:40:33+02:00
+- image_filename: IMGP6778raw1.jpg
+  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
+  lat: 53.876041666666666
+  lon: 14.440402777777779
+  altitude: 36.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  iso: 125
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-09-18 14:28:41+02:00
+- image_filename: IMGP6743raw1.jpg
+  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
+  lat: 53.89463888888889
+  lon: 14.380208333333334
+  altitude: 5.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  iso: 400
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2016-09-18 12:34:16+02:00
 - image_filename: IMGP6722raw1.jpg
   post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
   lat: 53.88644444444444
@@ -151,6 +234,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -164,6 +248,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -177,77 +262,11 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2016-09-18 11:51:34+02:00
-- image_filename: header.jpg
-  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
-  lat: 53.876041944444445
-  lon: 14.440398333333334
-  altitude: 36.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-09-18 14:28:41+02:00
-- image_filename: IMGP6721raw1.jpg
-  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
-  lat: 53.88693055555556
-  lon: 14.349180555555556
-  altitude: 3.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-09-18 11:41:05+02:00
-- image_filename: IMGP6752raw1.jpg
-  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
-  lat: 53.895875
-  lon: 14.385291666666665
-  altitude: 6.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-09-18 12:40:33+02:00
-- image_filename: IMGP6743raw1.jpg
-  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
-  lat: 53.89463888888889
-  lon: 14.380208333333334
-  altitude: 5.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-09-18 12:34:16+02:00
-- image_filename: IMGP6778raw1.jpg
-  post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
-  lat: 53.876041666666666
-  lon: 14.440402777777779
-  altitude: 36.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2016-09-18 14:28:41+02:00
 - image_filename: IMGP6783raw1.jpg
   post_slug: 2016-09-18-petla-przez-wolinski-park-narodowy
   lat: 53.87779166666667
@@ -257,6 +276,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s

@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -24,6 +25,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -38,25 +40,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2015-08-01 13:24:53+02:00
-- image_filename: IMGP2424raw1.jpg
-  post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
-  lat: 52.48050611111111
-  lon: 18.086401944444443
-  altitude: 109.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 5.6
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2015-08-01 14:26:23+02:00
 - image_filename: IMGP2416raw1.jpg
   post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
   lat: 52.431647777777776
@@ -66,25 +55,27 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2015-08-01 13:33:02+02:00
-- image_filename: IMGP2468raw1.jpg
+- image_filename: IMGP2424raw1.jpg
   post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
-  lat: 52.57786
-  lon: 18.11902138888889
-  altitude: 102.0
+  lat: 52.48050611111111
+  lon: 18.086401944444443
+  altitude: 109.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
-  aperture: 6.3
+  aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2015-08-01 15:37:15+02:00
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2015-08-01 14:26:23+02:00
 - image_filename: IMGP2445raw1.jpg
   post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
   lat: 52.501965
@@ -94,6 +85,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -108,11 +100,27 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2015-08-01 17:54:02+02:00
+- image_filename: IMGP2468raw1.jpg
+  post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
+  lat: 52.57786
+  lon: 18.11902138888889
+  altitude: 102.0
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2015-08-01 15:37:15+02:00
 - image_filename: IMGP2483raw1.jpg
   post_slug: 2015-08-01-przez-powidz-i-granice-dwoch-wojewodztw
   lat: 52.62528416666667
@@ -122,6 +130,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002

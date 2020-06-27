@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
+  lat: 51.06234722222222
+  lon: 15.888097222222221
+  altitude: 254.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-04-30 11:32:21+02:00
 - image_filename: IMGP5161raw1.jpg
   post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -18,6 +33,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -31,6 +47,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -44,6 +61,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -57,6 +75,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -70,6 +89,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -83,6 +103,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -96,6 +117,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -109,6 +131,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -122,6 +145,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -135,6 +159,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -148,6 +173,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -161,6 +187,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 13.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -174,6 +201,7 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -187,6 +215,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -200,6 +229,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -213,6 +243,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -226,20 +257,8 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2017-04-30 13:51:52+02:00
-- image_filename: header.jpg
-  post_slug: 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego
-  lat: 51.06234722222222
-  lon: 15.888097222222221
-  altitude: 254.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-30 11:32:21+02:00

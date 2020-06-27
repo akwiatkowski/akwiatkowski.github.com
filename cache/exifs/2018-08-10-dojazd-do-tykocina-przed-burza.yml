@@ -1,4 +1,22 @@
 ---
+- image_filename: P8100273.jpg
+  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
+  lat: 53.20455555555556
+  lon: 22.754055555555556
+  altitude: 122.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 2.5
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4435
+  height: 3317
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2018-08-10 17:19:52+02:00
+  focus_distance: 16.99
 - image_filename: P8100205.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   lat: 53.479625
@@ -8,6 +26,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -25,6 +44,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 3483
@@ -42,6 +62,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -59,6 +80,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -76,6 +98,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4486
@@ -93,6 +116,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4501
@@ -110,6 +134,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4498
@@ -127,6 +152,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4582
@@ -144,6 +170,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4612
@@ -161,6 +188,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -169,23 +197,6 @@
   exposure_string: 1/400 s
   time: 2018-08-10 14:10:54+02:00
   focus_distance: 1000.0
-- image_filename: P8100273.jpg
-  post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
-  lat: 53.20455555555556
-  lon: 22.754055555555556
-  altitude: 122.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 2.5
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4435
-  height: 3317
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2018-08-10 17:19:52+02:00
-  focus_distance: 16.99
 - image_filename: P8100267.jpg
   post_slug: 2018-08-10-dojazd-do-tykocina-przed-burza
   lat: 53.20733333333334
@@ -195,6 +206,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -212,6 +224,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -229,6 +242,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 2903
@@ -243,6 +257,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.7
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 3331

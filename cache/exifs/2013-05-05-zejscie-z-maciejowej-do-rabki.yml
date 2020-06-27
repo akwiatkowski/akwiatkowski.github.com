@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-05-05-zejscie-z-maciejowej-do-rabki
+  lat: 49.58294444444445
+  lon: 20.006879444444444
+  altitude: 843.7
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1356
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2013-05-05 06:51:17+02:00
 - image_filename: IMGP2161b.jpg
   post_slug: 2013-05-05-zejscie-z-maciejowej-do-rabki
   lat: 49.5827175
@@ -8,6 +25,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
@@ -22,6 +40,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -36,6 +55,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 10.0
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.00625
@@ -50,6 +70,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -64,6 +85,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.001
@@ -78,24 +100,9 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2013-05-05 06:50:30+02:00
-- image_filename: header.jpg
-  post_slug: 2013-05-05-zejscie-z-maciejowej-do-rabki
-  lat: 49.58294444444445
-  lon: 20.006879444444444
-  altitude: 843.7
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 8.0
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2013-05-05 06:51:17+02:00

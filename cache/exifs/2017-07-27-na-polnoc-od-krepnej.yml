@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-07-27-na-polnoc-od-krepnej
+  lat: 49.57141666666667
+  lon: 21.46673611111111
+  altitude: 403.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-07-27 11:09:06+02:00
 - image_filename: IMGP9409raw1.jpg
   post_slug: 2017-07-27-na-polnoc-od-krepnej
   lat: 49.507527777777774
@@ -8,6 +22,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.06666666666666667
   exposure_string: 1/15 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -60,6 +78,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -73,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -86,6 +106,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -99,6 +120,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -112,6 +134,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -125,6 +148,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -138,6 +162,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -150,6 +175,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -163,6 +189,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -176,6 +203,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -189,6 +217,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -202,6 +231,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -215,6 +245,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -228,6 +259,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -241,6 +273,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -254,6 +287,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -267,6 +301,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -280,6 +315,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -293,6 +329,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -306,6 +343,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -319,6 +357,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -332,6 +371,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -345,20 +385,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2017-07-27 09:47:34+02:00
-- image_filename: header.jpg
-  post_slug: 2017-07-27-na-polnoc-od-krepnej
-  lat: 49.57141666666667
-  lon: 21.46673611111111
-  altitude: 403.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-07-27 11:09:06+02:00

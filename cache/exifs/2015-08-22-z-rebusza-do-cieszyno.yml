@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2015-08-22-z-rebusza-do-cieszyno
+  lat: 53.08031833333334
+  lon: 15.600344722222221
+  altitude: 83.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2015-08-22 08:20:31+02:00
 - image_filename: IMGP2776raw1.jpg
   post_slug: 2015-08-22-z-rebusza-do-cieszyno
   lat: 53.0987275
@@ -8,6 +25,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -22,6 +40,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -36,6 +55,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -50,6 +70,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -64,6 +85,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -78,6 +100,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -92,6 +115,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -106,6 +130,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -117,6 +142,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.002
@@ -128,6 +154,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 80
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 1.0
@@ -142,6 +169,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.02
@@ -156,27 +184,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2015-08-22 11:44:14+02:00
-- image_filename: header.jpg
-  post_slug: 2015-08-22-z-rebusza-do-cieszyno
-  lat: 53.08031833333334
-  lon: 15.600344722222221
-  altitude: 83.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-08-22 08:20:31+02:00
 - image_filename: IMGP2871raw1.jpg
   post_slug: 2015-08-22-z-rebusza-do-cieszyno
   lat: 53.602495000000005
@@ -186,6 +199,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.003125

@@ -1,4 +1,22 @@
 ---
+- image_filename: 2018_11_05__09_35__B053767.jpg
+  post_slug: 2018-11-05-spacer-na-przedmiescia
+  lat: 50.29618055555555
+  lon: 16.65123611111111
+  altitude: 336.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2018-11-05 09:35:21+01:00
+  focus_distance: 4.51
 - image_filename: 2018_11_05__09_33__B053760.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.296347222222224
@@ -8,6 +26,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5084
@@ -25,6 +44,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -42,6 +62,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -59,6 +80,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3745
@@ -76,6 +98,7 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5189
@@ -93,6 +116,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5153
@@ -110,6 +134,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -127,6 +152,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5188
@@ -135,23 +161,6 @@
   exposure_string: 1/200 s
   time: 2018-11-05 10:03:49+01:00
   focus_distance: 1000.0
-- image_filename: 2018_11_05__09_35__B053767.jpg
-  post_slug: 2018-11-05-spacer-na-przedmiescia
-  lat: 50.29618055555555
-  lon: 16.65123611111111
-  altitude: 336.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-11-05 09:35:21+01:00
-  focus_distance: 4.51
 - image_filename: 2018_11_05__09_40__B053792.jpg
   post_slug: 2018-11-05-spacer-na-przedmiescia
   lat: 50.29494444444444
@@ -161,6 +170,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4867
@@ -178,6 +188,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5161
@@ -195,6 +206,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5081
@@ -212,6 +224,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5199
@@ -229,6 +242,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4968
@@ -246,6 +260,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -263,6 +278,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -280,6 +296,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5023

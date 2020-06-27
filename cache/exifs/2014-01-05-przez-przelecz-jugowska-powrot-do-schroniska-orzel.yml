@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2014-01-05-przez-przelecz-jugowska-powrot-do-schroniska-orzel
+  lat: 50.662932222222224
+  lon: 16.469606388888888
+  altitude: 809.1
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 400
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2014-01-04 11:56:48+01:00
 - image_filename: IMGP3030raw1.jpg
   post_slug: 2014-01-05-przez-przelecz-jugowska-powrot-do-schroniska-orzel
   lat: 50.65689
@@ -8,6 +25,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -22,6 +40,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 3200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -36,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.016666666666666666
@@ -50,6 +70,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.008
@@ -64,6 +85,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -78,6 +100,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.01
@@ -92,6 +115,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -106,6 +130,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.016666666666666666
@@ -120,6 +145,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -134,6 +160,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.025
@@ -148,27 +175,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2014-01-05 12:41:53+01:00
-- image_filename: header.jpg
-  post_slug: 2014-01-05-przez-przelecz-jugowska-powrot-do-schroniska-orzel
-  lat: 50.662932222222224
-  lon: 16.469606388888888
-  altitude: 809.1
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-01-04 11:56:48+01:00
 - image_filename: IMGP2978raw1.jpg
   post_slug: 2014-01-05-przez-przelecz-jugowska-powrot-do-schroniska-orzel
   lat: 50.65958
@@ -178,6 +190,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.016666666666666666
@@ -192,6 +205,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0125
@@ -206,6 +220,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 1600
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.016666666666666666

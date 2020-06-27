@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP8812raw1.jpg
+  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
+  lat: 53.98493055555556
+  lon: 17.883194444444445
+  altitude: 132.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2018-05-05 15:22:37+02:00
 - image_filename: IMGP8696raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.84190277777778
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,6 +64,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,6 +78,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -73,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -86,6 +106,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -99,6 +120,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -109,6 +131,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -119,6 +142,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -132,6 +156,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -145,6 +170,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -158,6 +184,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -171,6 +198,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -184,6 +212,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -197,6 +226,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -210,6 +240,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -223,6 +254,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -236,6 +268,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -249,6 +282,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -262,6 +296,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -275,6 +310,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -288,6 +324,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -298,6 +335,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -311,6 +349,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -324,6 +363,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00125
   exposure_string: 1/800 s
@@ -337,6 +377,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -350,6 +391,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -363,6 +405,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -376,6 +419,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -389,6 +433,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -402,6 +447,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -415,6 +461,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -428,6 +475,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -441,6 +489,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -454,6 +503,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -467,6 +517,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -480,6 +531,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -493,6 +545,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -506,6 +559,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -516,6 +570,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -529,6 +584,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -542,6 +598,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -555,6 +612,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -568,6 +626,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -581,6 +640,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -591,6 +651,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -604,6 +665,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -617,6 +679,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -630,6 +693,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -640,6 +704,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -653,6 +718,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -666,6 +732,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -679,6 +746,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -692,6 +760,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -705,23 +774,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
   time: 2018-05-05 11:55:43+02:00
-- image_filename: IMGP8812raw1.jpg
-  post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
-  lat: 53.98493055555556
-  lon: 17.883194444444445
-  altitude: 132.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2018-05-05 15:22:37+02:00
 - image_filename: IMGP8808raw1.jpg
   post_slug: 2018-05-05-petla-wokol-jezior-wdzydzkich
   lat: 53.98566666666667
@@ -731,6 +788,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -741,6 +799,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -754,6 +813,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -767,6 +827,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s

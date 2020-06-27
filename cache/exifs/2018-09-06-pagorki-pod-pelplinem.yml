@@ -1,4 +1,22 @@
 ---
+- image_filename: _9060153.jpg
+  post_slug: 2018-09-06-pagorki-pod-pelplinem
+  lat: 53.876125
+  lon: 18.6845
+  altitude: 52.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 8.0
+  iso: 200
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  width: 5163
+  height: 3854
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2018-09-06 16:37:36+02:00
+  focus_distance: 1000.0
 - image_filename: _9060010.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.879666666666665
@@ -8,6 +26,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5033
@@ -25,6 +44,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4984
@@ -42,6 +62,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -59,6 +80,7 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -76,6 +98,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4959
@@ -93,6 +116,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 4961
@@ -110,6 +134,7 @@
   focal_length_35: 188.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 4912
@@ -127,6 +152,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.7
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 4917
@@ -144,6 +170,7 @@
   focal_length_35: 234.0
   crop: 2.0
   aperture: 5.3
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5240
@@ -161,6 +188,7 @@
   focal_length_35: 328.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5028
@@ -178,6 +206,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5240
@@ -195,6 +224,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4935
@@ -212,6 +242,7 @@
   focal_length_35: 374.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5240
@@ -229,6 +260,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.7
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5101
@@ -246,6 +278,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5092
@@ -263,6 +296,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 5240
@@ -271,23 +305,6 @@
   exposure_string: 1/500 s
   time: 2018-09-06 16:37:52+02:00
   focus_distance: 56.25
-- image_filename: _9060153.jpg
-  post_slug: 2018-09-06-pagorki-pod-pelplinem
-  lat: 53.876125
-  lon: 18.6845
-  altitude: 52.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.75-300mm F4.8-6.7 II
-  camera: E-M1MarkII
-  width: 5163
-  height: 3854
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-09-06 16:37:36+02:00
-  focus_distance: 1000.0
 - image_filename: _9060044b.jpg
   post_slug: 2018-09-06-pagorki-pod-pelplinem
   lat: 53.88316666666667
@@ -297,6 +314,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -314,6 +332,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 4811
@@ -328,6 +347,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5114
@@ -345,6 +365,7 @@
   focal_length_35: 456.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 3741
@@ -362,6 +383,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.75-300mm F4.8-6.7 II
   camera: E-M1MarkII
   width: 3539

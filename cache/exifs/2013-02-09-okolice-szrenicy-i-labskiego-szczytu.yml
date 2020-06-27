@@ -1,4 +1,19 @@
 ---
+- image_filename: IMGP8806b.jpg
+  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
+  lat: 50.78666
+  lon: 15.53549638888889
+  altitude: 1208.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2013-02-09 13:40:11+01:00
 - image_filename: IMGP8398b.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
   lat: 50.79464333333333
@@ -8,6 +23,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00125
@@ -22,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -36,6 +53,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -50,6 +68,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -64,6 +83,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -78,6 +98,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -89,6 +110,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 8.0
@@ -103,6 +125,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.002
@@ -117,6 +140,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -131,6 +155,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.02
@@ -145,6 +170,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -159,6 +185,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -173,6 +200,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -187,6 +215,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0003125
@@ -201,6 +230,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -215,6 +245,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -229,6 +260,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.000625
@@ -243,6 +275,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -257,6 +290,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.000625
@@ -271,6 +305,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -285,25 +320,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2013-02-09 11:41:30+01:00
-- image_filename: IMGP8806b.jpg
-  post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
-  lat: 50.78666
-  lon: 15.53549638888889
-  altitude: 1208.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2013-02-09 13:40:11+01:00
 - image_filename: header.jpg
   post_slug: 2013-02-09-okolice-szrenicy-i-labskiego-szczytu
   lat: 50.78145361111111
@@ -313,6 +335,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 2048
@@ -329,6 +352,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -343,6 +367,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 20.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -357,6 +382,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -371,6 +397,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002

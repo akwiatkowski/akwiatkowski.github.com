@@ -1,10 +1,29 @@
 ---
+- image_filename: 2019_01_09__18_17__1090594.jpg
+  post_slug: 2019-01-09-sniezny-karpacz
+  lat: 50.77740277777778
+  lon: 15.726444444444445
+  altitude: 824.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 2000
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 5095
+  height: 3717
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2019-01-09 18:17:12+01:00
+  focus_distance: 1000.0
 - image_filename: 2019_01_09__10_50__1090265.jpg
   post_slug: 2019-01-09-sniezny-karpacz
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -22,6 +41,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5175
@@ -39,6 +59,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4979
@@ -56,6 +77,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4562
@@ -73,6 +95,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4549
@@ -90,6 +113,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -107,6 +131,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4836
@@ -124,6 +149,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 640
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5161
@@ -141,6 +167,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 640
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 3912
@@ -158,6 +185,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 1250
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5113
@@ -175,6 +203,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 1250
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -192,6 +221,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5029
@@ -206,6 +236,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 800
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5198
@@ -223,6 +254,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5137
@@ -240,6 +272,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.6
+  iso: 200
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5218
@@ -257,6 +290,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5138
@@ -274,6 +308,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 1250
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5118
@@ -291,6 +326,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5240
@@ -308,6 +344,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 640
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5216
@@ -325,6 +362,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5194
@@ -342,6 +380,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 3806
@@ -359,6 +398,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 640
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5100
@@ -376,6 +416,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4670
@@ -393,6 +434,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5192
@@ -410,6 +452,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5128
@@ -427,6 +470,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5061
@@ -444,6 +488,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4629
@@ -461,6 +506,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4545
@@ -469,23 +515,6 @@
   exposure_string: 1/200 s
   time: 2019-01-09 13:28:29+01:00
   focus_distance: 6.24
-- image_filename: 2019_01_09__18_17__1090594.jpg
-  post_slug: 2019-01-09-sniezny-karpacz
-  lat: 50.77740277777778
-  lon: 15.726444444444445
-  altitude: 824.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5095
-  height: 3717
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-01-09 18:17:12+01:00
-  focus_distance: 1000.0
 - image_filename: 2019_01_09__13_27__1090378.jpg
   post_slug: 2019-01-09-sniezny-karpacz
   lat: 50.77715277777778
@@ -495,6 +524,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5017
@@ -512,6 +542,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.2
+  iso: 2000
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5183
@@ -529,6 +560,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.8
+  iso: 640
   lens: OLYMPUS M.25mm F1.2
   camera: E-M1MarkII
   width: 5155
@@ -543,6 +575,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5193

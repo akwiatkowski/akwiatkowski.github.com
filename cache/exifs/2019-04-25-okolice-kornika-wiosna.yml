@@ -1,10 +1,29 @@
 ---
+- image_filename: 2019_04_25__17_12_P4250013.jpg
+  post_slug: 2019-04-25-okolice-kornika-wiosna
+  lat: 52.13848611111111
+  lon: 17.261944444444445
+  altitude: 60.0
+  focal_length: 140.0
+  focal_length_35: 280.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  width: 4575
+  height: 3423
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2019-04-25 17:12:48+02:00
+  focus_distance: 159.36
 - image_filename: 2019_04_25__16_51_P4250002.jpg
   post_slug: 2019-04-25-okolice-kornika-wiosna
   focal_length: 14.0
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -22,6 +41,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4535
@@ -39,6 +59,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4557
@@ -56,6 +77,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4574
@@ -73,6 +95,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -90,6 +113,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -107,6 +131,7 @@
   focal_length_35: 130.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4579
@@ -124,6 +149,7 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4532
@@ -141,6 +167,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4542
@@ -158,6 +185,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4569
@@ -175,6 +203,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4473
@@ -192,6 +221,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4184
@@ -209,6 +239,7 @@
   focal_length_35: 74.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4477
@@ -226,6 +257,7 @@
   focal_length_35: 110.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4464
@@ -243,6 +275,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4535
@@ -251,23 +284,6 @@
   exposure_string: 1/100 s
   time: 2019-04-25 17:05:31+02:00
   focus_distance: 1000.0
-- image_filename: 2019_04_25__17_12_P4250013.jpg
-  post_slug: 2019-04-25-okolice-kornika-wiosna
-  lat: 52.13848611111111
-  lon: 17.261944444444445
-  altitude: 60.0
-  focal_length: 140.0
-  focal_length_35: 280.0
-  crop: 2.0
-  aperture: 7.1
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4575
-  height: 3423
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2019-04-25 17:12:48+02:00
-  focus_distance: 159.36
 - image_filename: 2019_04_25__18_11_P4250102.jpg
   post_slug: 2019-04-25-okolice-kornika-wiosna
   lat: 52.20986111111112
@@ -277,6 +293,7 @@
   focal_length_35: 168.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4520
@@ -294,6 +311,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -311,6 +329,7 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -328,6 +347,7 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -345,6 +365,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4616
@@ -362,6 +383,7 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4453
@@ -379,6 +401,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 3472
@@ -396,6 +419,7 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4474
@@ -413,6 +437,7 @@
   focal_length_35: 60.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4380
@@ -430,6 +455,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4535
@@ -447,6 +473,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4288
@@ -464,6 +491,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4609

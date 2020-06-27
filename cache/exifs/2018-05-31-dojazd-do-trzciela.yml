@@ -1,4 +1,17 @@
 ---
+- image_filename: P5311348raw1.jpg
+  post_slug: 2018-05-31-dojazd-do-trzciela
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2018-05-31 15:45:14+02:00
+  focus_distance: 83.58
 - image_filename: P5311351raw1.jpg
   post_slug: 2018-05-31-dojazd-do-trzciela
   lat: 52.297041666666665
@@ -8,6 +21,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.025
@@ -20,6 +34,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.02
@@ -35,6 +50,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.0125
@@ -50,6 +66,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.008
@@ -65,30 +82,20 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2018-05-31 16:37:33+02:00
   focus_distance: 1000.0
-- image_filename: P5311348raw1.jpg
-  post_slug: 2018-05-31-dojazd-do-trzciela
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2018-05-31 15:45:14+02:00
-  focus_distance: 83.58
 - image_filename: P5311368raw1.jpg
   post_slug: 2018-05-31-dojazd-do-trzciela
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.04

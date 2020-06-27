@@ -1,119 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-- image_filename: 2020_05_09__17_40_DSC08020.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21541666666667
-  lon: 16.920694444444447
-  altitude: 45.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 9.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7097
-  height: 4740
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2020-05-09 17:40:13+02:00
-- image_filename: 2020_05_09__17_38__5090130.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21538888888889
-  lon: 16.920625
-  altitude: 45.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5207
-  height: 3887
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-09 17:38:58+02:00
-  focus_distance: 40.96
-- image_filename: 2020_05_09__18_01_DSC08027.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.215333333333334
-  lon: 16.920708333333334
-  altitude: 48.0
-  focal_length: 60.0
-  focal_length_35: 60.0
-  crop: 1.0
-  aperture: 13.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7269
-  height: 4855
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2020-05-09 18:01:04+02:00
-- image_filename: 2020_05_09__18_09_DSC08029.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21684722222222
-  lon: 16.91888888888889
-  altitude: 56.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 13.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7335
-  height: 4899
-  exposure: 25.0
-  exposure_string: 25 s
-  time: 2020-05-09 18:09:19+02:00
-- image_filename: 2020_05_09__18_27_DSC08038.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.20805555555556
-  lon: 16.951680555555555
-  altitude: 56.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7221
-  height: 4823
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-09 18:27:38+02:00
-- image_filename: 2020_05_09__18_26_DSC08032.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.20805555555556
-  lon: 16.951694444444446
-  altitude: 55.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 4.5
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7150
-  height: 4776
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-09 18:26:11+02:00
-- image_filename: 2020_05_09__18_28_DSC08040.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.20804166666667
-  lon: 16.95175
-  altitude: 55.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 4.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7221
-  height: 4823
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-05-09 18:28:16+02:00
 - image_filename: 2020_05_09__18_41_DSC08059.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
   lat: 52.20975
@@ -123,6 +8,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 13.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7280
@@ -139,6 +25,7 @@
   focal_length_35: 45.0
   crop: 1.0
   aperture: 4.0
+  iso: 125
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -146,22 +33,6 @@
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2020-05-09 18:35:30+02:00
-- image_filename: 2020_05_09__18_39_DSC08055.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.20922222222222
-  lon: 16.957319444444444
-  altitude: 53.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 13.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7295
-  height: 4872
-  exposure: 0.16666666666666666
-  exposure_string: 1/6 s
-  time: 2020-05-09 18:39:47+02:00
 - image_filename: 2020_05_09__18_43_DSC08061.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
   lat: 52.21016666666667
@@ -171,6 +42,7 @@
   focal_length_35: 51.0
   crop: 1.0
   aperture: 13.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -178,6 +50,110 @@
   exposure: 0.125
   exposure_string: 1/8 s
   time: 2020-05-09 18:43:13+02:00
+- image_filename: 2020_05_09__17_40_DSC08020.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21541666666667
+  lon: 16.920694444444447
+  altitude: 45.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7097
+  height: 4740
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2020-05-09 17:40:13+02:00
+- image_filename: 2020_05_09__18_27_DSC08038.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.20805555555556
+  lon: 16.951680555555555
+  altitude: 56.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7221
+  height: 4823
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-09 18:27:38+02:00
+- image_filename: 2020_05_09__19_05__5090353.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21244444444445
+  lon: 16.958652777777775
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-09 19:05:03+02:00
+  focus_distance: 9.68
+- image_filename: 2020_05_09__18_01_DSC08027.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.215333333333334
+  lon: 16.920708333333334
+  altitude: 48.0
+  focal_length: 60.0
+  focal_length_35: 60.0
+  crop: 1.0
+  aperture: 13.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7269
+  height: 4855
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2020-05-09 18:01:04+02:00
+- image_filename: 2020_05_09__19_05__5090356.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21244444444445
+  lon: 16.958652777777775
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-09 19:05:15+02:00
+  focus_distance: 5.01
+- image_filename: 2020_05_09__18_39_DSC08055.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.20922222222222
+  lon: 16.957319444444444
+  altitude: 53.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 13.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7295
+  height: 4872
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  time: 2020-05-09 18:39:47+02:00
 - image_filename: 2020_05_09__19_03__5090343.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
   lat: 52.21233333333333
@@ -187,6 +163,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -195,6 +172,111 @@
   exposure_string: 1/160 s
   time: 2020-05-09 19:03:11+02:00
   focus_distance: 11.8
+- image_filename: 2020_05_09__19_06__5090380.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21233333333333
+  lon: 16.959374999999998
+  altitude: 55.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5137
+  height: 3835
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-05-09 19:06:53+02:00
+  focus_distance: 71.86
+- image_filename: 2020_05_09__18_26_DSC08032.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.20805555555556
+  lon: 16.951694444444446
+  altitude: 55.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 4.5
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7150
+  height: 4776
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-09 18:26:11+02:00
+- image_filename: 2020_05_09__19_36__5090415.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.20752777777778
+  lon: 16.953791666666667
+  altitude: 55.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.04
+  exposure_string: 1/25 s
+  time: 2020-05-09 19:36:24+02:00
+  focus_distance: 80.31
+- image_filename: 2020_05_09__18_09_DSC08029.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21684722222222
+  lon: 16.91888888888889
+  altitude: 56.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 13.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7335
+  height: 4899
+  exposure: 25.0
+  exposure_string: 25 s
+  time: 2020-05-09 18:09:19+02:00
+- image_filename: 2020_05_09__19_05__5090358.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.21243055555556
+  lon: 16.95863888888889
+  altitude: 54.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-09 19:05:21+02:00
+  focus_distance: 6.79
+- image_filename: 2020_05_09__18_28_DSC08040.jpg
+  post_slug: 2020-05-09-dzikie-okolice-mosiny
+  lat: 52.20804166666667
+  lon: 16.95175
+  altitude: 55.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  iso: 500
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7221
+  height: 4823
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-05-09 18:28:16+02:00
 - image_filename: 2020_05_09__18_47_DSC08063.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
   lat: 52.21204166666667
@@ -204,6 +286,7 @@
   focal_length_35: 57.0
   crop: 1.0
   aperture: 13.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -220,6 +303,7 @@
   focal_length_35: 42.0
   crop: 1.0
   aperture: 13.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -227,91 +311,24 @@
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
   time: 2020-05-09 18:50:23+02:00
-- image_filename: 2020_05_09__19_05__5090353.jpg
+- image_filename: 2020_05_09__17_38__5090130.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21244444444445
-  lon: 16.958652777777775
-  altitude: 54.0
+  lat: 52.21538888888889
+  lon: 16.920625
+  altitude: 45.0
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-09 19:05:03+02:00
-  focus_distance: 9.68
-- image_filename: 2020_05_09__19_05__5090356.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21244444444445
-  lon: 16.958652777777775
-  altitude: 54.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
+  width: 5207
+  height: 3887
   exposure: 0.0025
   exposure_string: 1/400 s
-  time: 2020-05-09 19:05:15+02:00
-  focus_distance: 5.01
-- image_filename: 2020_05_09__19_06__5090380.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21233333333333
-  lon: 16.959374999999998
-  altitude: 55.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5137
-  height: 3835
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-05-09 19:06:53+02:00
-  focus_distance: 71.86
-- image_filename: 2020_05_09__19_05__5090358.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.21243055555556
-  lon: 16.95863888888889
-  altitude: 54.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-09 19:05:21+02:00
-  focus_distance: 6.79
-- image_filename: 2020_05_09__19_36__5090415.jpg
-  post_slug: 2020-05-09-dzikie-okolice-mosiny
-  lat: 52.20752777777778
-  lon: 16.953791666666667
-  altitude: 55.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2020-05-09 19:36:24+02:00
-  focus_distance: 80.31
+  time: 2020-05-09 17:38:58+02:00
+  focus_distance: 40.96
 - image_filename: 2020_05_09__19_28__5090390.jpg
   post_slug: 2020-05-09-dzikie-okolice-mosiny
   lat: 52.20804166666667
@@ -321,6 +338,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5077

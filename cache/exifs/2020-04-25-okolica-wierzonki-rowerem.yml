@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
 - image_filename: 2020_04_25__15_49_DSC07569.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.469569444444446
@@ -10,6 +8,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7287
@@ -17,38 +16,57 @@
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2020-04-25 15:49:16+02:00
-- image_filename: 2020_04_25__15_48_DSC07564.jpg
+- image_filename: 2020_04_25__14_01_DSC07484.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46955555555556
-  lon: 17.077402777777777
-  altitude: 112.0
-  focal_length: 28.0
-  focal_length_35: 28.0
+  lat: 52.40127777777778
+  lon: 16.944944444444445
+  altitude: 74.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 8.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7284
-  height: 4865
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 15:48:36+02:00
-- image_filename: 2020_04_25__14_27_DSC07497.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.396277777777776
-  lon: 17.019166666666667
-  altitude: 92.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 11.0
+  aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
   height: 4920
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-04-25 14:01:05+02:00
+- image_filename: 2020_04_25__14_36_DSC07504.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.40255555555555
+  lon: 17.027902777777776
+  altitude: 94.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 14:36:57+02:00
+- image_filename: 2020_04_25__15_31_DSC07516.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46058333333334
+  lon: 17.06940277777778
+  altitude: 108.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 7.1
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6994
+  height: 4671
   exposure: 0.008
   exposure_string: 1/125 s
-  time: 2020-04-25 14:27:52+02:00
+  time: 2020-04-25 15:31:16+02:00
 - image_filename: 2020_04_25__15_33_DSC07520.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46109722222222
@@ -58,6 +76,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7094
@@ -65,6 +84,159 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-04-25 15:33:24+02:00
+- image_filename: 2020_04_25__15_35_DSC07525.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46284722222222
+  lon: 17.06925
+  altitude: 112.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7226
+  height: 4827
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-25 15:35:06+02:00
+- image_filename: 2020_04_25__15_36_DSC07533.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46338888888889
+  lon: 17.068638888888888
+  altitude: 117.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 7.1
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7284
+  height: 4865
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 15:36:45+02:00
+- image_filename: 2020_04_25__15_40_DSC07551.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46330555555556
+  lon: 17.067055555555555
+  altitude: 116.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6879
+  height: 4595
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-04-25 15:40:35+02:00
+- image_filename: 2020_04_25__15_40_DSC07555.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46329166666667
+  lon: 17.067055555555555
+  altitude: 116.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7284
+  height: 4865
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 15:40:57+02:00
+- image_filename: 2020_04_25__15_48_DSC07564.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.46955555555556
+  lon: 17.077402777777777
+  altitude: 112.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7284
+  height: 4865
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 15:48:36+02:00
+- image_filename: 2020_04_25__15_49_DSC07572.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.469569444444446
+  lon: 17.077402777777777
+  altitude: 112.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7208
+  height: 4814
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-04-25 15:49:33+02:00
+- image_filename: 2020_04_25__16_11_DSC07582.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.49218055555556
+  lon: 17.06698611111111
+  altitude: 123.0
+  focal_length: 59.0
+  focal_length_35: 59.0
+  crop: 1.0
+  aperture: 7.1
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6612
+  height: 4240
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 16:11:54+02:00
+- image_filename: 2020_04_25__16_16_DSC07590.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.49218055555556
+  lon: 17.06698611111111
+  altitude: 122.0
+  focal_length: 57.0
+  focal_length_35: 57.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 6989
+  height: 4463
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-04-25 16:16:34+02:00
+- image_filename: 2020_04_25__14_27_DSC07497.jpg
+  post_slug: 2020-04-25-okolica-wierzonki-rowerem
+  lat: 52.396277777777776
+  lon: 17.019166666666667
+  altitude: 92.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-04-25 14:27:52+02:00
 - image_filename: 2020_04_25__15_35_DSC07526.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46286111111112
@@ -74,6 +246,7 @@
   focal_length_35: 65.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7256
@@ -90,6 +263,7 @@
   focal_length_35: 52.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7142
@@ -106,6 +280,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7127
@@ -122,6 +297,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -138,6 +314,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7232
@@ -154,6 +331,7 @@
   focal_length_35: 29.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7284
@@ -170,6 +348,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7181
@@ -186,6 +365,7 @@
   focal_length_35: 39.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7088
@@ -202,6 +382,7 @@
   focal_length_35: 41.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7284
@@ -209,22 +390,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-04-25 15:48:01+02:00
-- image_filename: 2020_04_25__15_40_DSC07551.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46330555555556
-  lon: 17.067055555555555
-  altitude: 116.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 9.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6879
-  height: 4595
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-04-25 15:40:35+02:00
 - image_filename: 2020_04_25__15_34_DSC07523.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46284722222222
@@ -234,6 +399,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4249
@@ -241,70 +407,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-04-25 15:34:50+02:00
-- image_filename: 2020_04_25__15_31_DSC07516.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46058333333334
-  lon: 17.06940277777778
-  altitude: 108.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 7.1
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6994
-  height: 4671
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-25 15:31:16+02:00
-- image_filename: 2020_04_25__14_36_DSC07504.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.40255555555555
-  lon: 17.027902777777776
-  altitude: 94.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 8.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 14:36:57+02:00
-- image_filename: 2020_04_25__15_35_DSC07525.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46284722222222
-  lon: 17.06925
-  altitude: 112.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 8.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7226
-  height: 4827
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-04-25 15:35:06+02:00
-- image_filename: 2020_04_25__15_49_DSC07572.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.469569444444446
-  lon: 17.077402777777777
-  altitude: 112.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7208
-  height: 4814
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-04-25 15:49:33+02:00
 - image_filename: 2020_04_25__15_47_DSC07557.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46936111111111
@@ -314,6 +416,7 @@
   focal_length_35: 40.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7141
@@ -330,6 +433,7 @@
   focal_length_35: 40.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -346,6 +450,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7083
@@ -362,6 +467,7 @@
   focal_length_35: 51.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7181
@@ -378,6 +484,7 @@
   focal_length_35: 52.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6865
@@ -385,38 +492,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-04-25 15:33:20+02:00
-- image_filename: 2020_04_25__16_11_DSC07582.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.49218055555556
-  lon: 17.06698611111111
-  altitude: 123.0
-  focal_length: 59.0
-  focal_length_35: 59.0
-  crop: 1.0
-  aperture: 7.1
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6612
-  height: 4240
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 16:11:54+02:00
-- image_filename: 2020_04_25__15_36_DSC07533.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46338888888889
-  lon: 17.068638888888888
-  altitude: 117.0
-  focal_length: 35.0
-  focal_length_35: 35.0
-  crop: 1.0
-  aperture: 7.1
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7284
-  height: 4865
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 15:36:45+02:00
 - image_filename: 2020_04_25__15_31_DSC07515.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46058333333334
@@ -426,6 +501,7 @@
   focal_length_35: 46.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7145
@@ -442,6 +518,7 @@
   focal_length_35: 54.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7284
@@ -458,6 +535,7 @@
   focal_length_35: 37.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7284
@@ -465,38 +543,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-04-25 15:48:07+02:00
-- image_filename: 2020_04_25__15_40_DSC07555.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.46329166666667
-  lon: 17.067055555555555
-  altitude: 116.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7284
-  height: 4865
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 15:40:57+02:00
-- image_filename: 2020_04_25__14_01_DSC07484.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.40127777777778
-  lon: 16.944944444444445
-  altitude: 74.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-04-25 14:01:05+02:00
 - image_filename: 2020_04_25__14_23_DSC07492.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.39508333333333
@@ -506,6 +552,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -513,22 +560,6 @@
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2020-04-25 14:23:37+02:00
-- image_filename: 2020_04_25__16_16_DSC07590.jpg
-  post_slug: 2020-04-25-okolica-wierzonki-rowerem
-  lat: 52.49218055555556
-  lon: 17.06698611111111
-  altitude: 122.0
-  focal_length: 57.0
-  focal_length_35: 57.0
-  crop: 1.0
-  aperture: 8.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 6989
-  height: 4463
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-04-25 16:16:34+02:00
 - image_filename: 2020_04_25__15_33_DSC07522.jpg
   post_slug: 2020-04-25-okolica-wierzonki-rowerem
   lat: 52.46145833333333
@@ -538,6 +569,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7271
@@ -554,6 +586,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7067

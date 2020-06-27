@@ -1,10 +1,29 @@
 ---
+- image_filename: 10_13_PA060046.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.54738888888889
+  lon: 17.970555555555553
+  altitude: 229.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 3.2
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4640
+  height: 3472
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2018-10-06 10:13:10+02:00
+  focus_distance: 1000.0
 - image_filename: 06_40_PA060001.jpg
   post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.7
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4473
@@ -19,6 +38,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4387
@@ -36,6 +56,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -53,6 +74,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4124
@@ -70,6 +92,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 2923
@@ -87,6 +110,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -104,6 +128,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4534
@@ -121,6 +146,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -138,6 +164,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4451
@@ -155,6 +182,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -172,6 +200,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4569
@@ -189,6 +218,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -206,6 +236,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4422
@@ -223,6 +254,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -240,6 +272,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -257,6 +290,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4423
@@ -271,6 +305,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4524
@@ -279,29 +314,13 @@
   exposure_string: 1/250 s
   time: 2018-10-06 09:13:50+02:00
   focus_distance: 1000.0
-- image_filename: 10_13_PA060046.jpg
-  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
-  lat: 51.54738888888889
-  lon: 17.970555555555553
-  altitude: 229.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 3.2
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-10-06 10:13:10+02:00
-  focus_distance: 1000.0
 - image_filename: 13_31_PA060095.jpg
   post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -319,6 +338,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -333,6 +353,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4472
@@ -350,6 +371,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -367,6 +389,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4496
@@ -384,6 +407,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4500
@@ -401,6 +425,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -418,6 +443,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4124
@@ -435,6 +461,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4409
@@ -452,6 +479,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4567
@@ -469,6 +497,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640

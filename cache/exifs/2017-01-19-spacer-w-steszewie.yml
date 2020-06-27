@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-01-19-spacer-w-steszewie
+  lat: 52.26902777777778
+  lon: 16.724833333333333
+  altitude: 66.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 320
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-01-19 14:36:19+01:00
 - image_filename: IMGP2246raw1.jpg
   post_slug: 2017-01-19-spacer-w-steszewie
   lat: 52.27152777777778
@@ -8,6 +22,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -21,6 +36,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -47,6 +64,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,6 +78,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -73,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -86,6 +106,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -99,6 +120,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -112,6 +134,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -125,20 +148,8 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2017-01-19 15:10:11+01:00
-- image_filename: header.jpg
-  post_slug: 2017-01-19-spacer-w-steszewie
-  lat: 52.26902777777778
-  lon: 16.724833333333333
-  altitude: 66.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-01-19 14:36:19+01:00

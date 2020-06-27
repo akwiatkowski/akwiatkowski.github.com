@@ -1,4 +1,22 @@
 ---
+- image_filename: 2019_02_24__17_50__2243382.jpg
+  post_slug: 2019-02-24-gdansk-po-zmroku
+  lat: 54.349875000000004
+  lon: 18.65436111111111
+  altitude: 28.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 9826
+  height: 7612
+  exposure: 4.0
+  exposure_string: 4 s
+  time: 2019-02-24 17:50:11+01:00
+  focus_distance: 1000.0
 - image_filename: 2019_02_24__13_00__2243275.jpg
   post_slug: 2019-02-24-gdansk-po-zmroku
   lat: 54.364444444444445
@@ -8,6 +26,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5020
@@ -25,6 +44,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5096
@@ -42,6 +62,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4565
@@ -59,6 +80,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5063
@@ -76,6 +98,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4458
@@ -93,6 +116,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 10366
@@ -110,6 +134,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 10193
@@ -127,6 +152,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9890
@@ -144,6 +170,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9696
@@ -161,6 +188,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9200
@@ -169,23 +197,6 @@
   exposure_string: 6 s
   time: 2019-02-24 17:46:45+01:00
   focus_distance: 4.93
-- image_filename: 2019_02_24__17_50__2243382.jpg
-  post_slug: 2019-02-24-gdansk-po-zmroku
-  lat: 54.349875000000004
-  lon: 18.65436111111111
-  altitude: 28.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 9826
-  height: 7612
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2019-02-24 17:50:11+01:00
-  focus_distance: 1000.0
 - image_filename: 2019_02_24__13_10__2243294.jpg
   post_slug: 2019-02-24-gdansk-po-zmroku
   lat: 54.363875
@@ -195,6 +206,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -212,6 +224,7 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5153
@@ -229,6 +242,7 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9437
@@ -246,6 +260,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8595
@@ -263,6 +278,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 10246
@@ -280,6 +296,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4960
@@ -297,6 +314,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8279
@@ -314,6 +332,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9009
@@ -331,6 +350,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9354
@@ -348,6 +368,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8410
@@ -365,6 +386,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5192
@@ -382,6 +404,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4244
@@ -399,6 +422,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -416,6 +440,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8966
@@ -433,6 +458,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8583
@@ -450,6 +476,7 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3495
@@ -467,6 +494,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8159
@@ -484,6 +512,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4392
@@ -501,6 +530,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -518,6 +548,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 8668
@@ -535,6 +566,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9000
@@ -552,6 +584,7 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 9264

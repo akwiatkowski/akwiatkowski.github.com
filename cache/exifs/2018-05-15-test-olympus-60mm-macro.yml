@@ -1,10 +1,24 @@
 ---
+- image_filename: P5150494raw1.jpg
+  post_slug: 2018-05-15-test-olympus-60mm-macro
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2018-05-15 11:30:19+02:00
+  focus_distance: 0.28
 - image_filename: P5170616raw1.jpg
   post_slug: 2018-05-15-test-olympus-60mm-macro
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -17,6 +31,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125
@@ -29,6 +44,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00125
@@ -41,30 +57,20 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2018-05-13 14:25:33+02:00
   focus_distance: 0.9
-- image_filename: P5150494raw1.jpg
-  post_slug: 2018-05-15-test-olympus-60mm-macro
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2018-05-15 11:30:19+02:00
-  focus_distance: 0.28
 - image_filename: P5170562raw1.jpg
   post_slug: 2018-05-15-test-olympus-60mm-macro
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -77,6 +83,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -89,6 +96,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -101,6 +109,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -113,6 +122,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -125,6 +135,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -137,6 +148,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -149,6 +161,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -161,6 +174,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.002
@@ -173,6 +187,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0025
@@ -185,6 +200,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0008
@@ -197,6 +213,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.03333333333333333
@@ -209,6 +226,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125
@@ -221,6 +239,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -233,6 +252,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0025
@@ -245,6 +265,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 800
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -257,6 +278,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.002
@@ -269,6 +291,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0008
@@ -281,6 +304,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 8.0
+  iso: 640
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -293,6 +317,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.002
@@ -305,6 +330,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 1000
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0125
@@ -317,6 +343,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -329,6 +356,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 800
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -341,6 +369,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -353,6 +382,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.002
@@ -365,6 +395,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.005
@@ -377,6 +408,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -389,6 +421,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -401,6 +434,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -413,6 +447,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0015625
@@ -425,6 +460,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125
@@ -437,6 +473,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -449,6 +486,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -461,6 +499,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125
@@ -473,6 +512,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -485,6 +525,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -497,6 +538,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -509,6 +551,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125
@@ -521,6 +564,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.005
@@ -533,6 +577,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -545,6 +590,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -557,6 +603,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.005
@@ -569,6 +616,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -581,6 +629,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.001
@@ -593,6 +642,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -605,6 +655,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0008
@@ -617,6 +668,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -629,6 +681,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0015625
@@ -641,6 +694,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 500
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -653,6 +707,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.00625
@@ -665,6 +720,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008
@@ -677,6 +733,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0025
@@ -689,6 +746,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.004
@@ -701,6 +759,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0025
@@ -713,6 +772,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.0025
@@ -725,6 +785,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.002
@@ -737,6 +798,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.008

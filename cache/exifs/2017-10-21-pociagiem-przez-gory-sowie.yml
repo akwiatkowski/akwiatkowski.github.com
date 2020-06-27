@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-10-21-pociagiem-przez-gory-sowie
+  lat: 50.591
+  lon: 16.521527777777777
+  altitude: 422.0
+  focal_length: 38.0
+  focal_length_35: 57.0
+  crop: 1.5
+  aperture: 4.0
+  iso: 160
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-10-21 12:41:06+02:00
 - image_filename: IMGP2282raw1.jpg
   post_slug: 2017-10-21-pociagiem-przez-gory-sowie
   lat: 50.614694444444446
@@ -8,6 +22,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 4.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -21,6 +36,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 4.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -34,6 +50,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 4.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +64,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 4.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -60,6 +78,7 @@
   focal_length_35: 43.0
   crop: 1.4827586206896552
   aperture: 4.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -73,23 +92,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2017-10-21 12:32:47+02:00
-- image_filename: header.jpg
-  post_slug: 2017-10-21-pociagiem-przez-gory-sowie
-  lat: 50.591
-  lon: 16.521527777777777
-  altitude: 422.0
-  focal_length: 38.0
-  focal_length_35: 57.0
-  crop: 1.5
-  aperture: 4.0
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-10-21 12:41:06+02:00
 - image_filename: IMGP2247raw1.jpg
   post_slug: 2017-10-21-pociagiem-przez-gory-sowie
   lat: 50.67194444444444
@@ -99,6 +106,7 @@
   focal_length_35: 57.0
   crop: 1.5
   aperture: 4.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s

@@ -8,6 +8,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 2048
@@ -24,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.016666666666666666
@@ -38,25 +40,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2015-06-27 11:49:24+02:00
-- image_filename: IMGP0509raw1.jpg
-  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
-  lat: 52.37148472222222
-  lon: 16.632656666666666
-  altitude: 85.2
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2015-06-27 12:53:41+02:00
 - image_filename: IMGP0506raw1.jpg
   post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
   lat: 52.39099777777778
@@ -66,8 +55,24 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2015-06-27 12:43:29+02:00
+- image_filename: IMGP0509raw1.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.37148472222222
+  lon: 16.632656666666666
+  altitude: 85.2
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2015-06-27 12:53:41+02:00

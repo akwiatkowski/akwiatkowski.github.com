@@ -1,10 +1,27 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.71375472222223
+  lon: 17.47686138888889
+  altitude: 109.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2016-09-25 11:44:52+02:00
 - image_filename: IMGP6973raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -15,6 +32,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -28,6 +46,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -38,6 +57,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -48,6 +68,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -58,6 +79,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -68,22 +90,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2016-09-25 13:54:35+02:00
-- image_filename: header.jpg
-  post_slug: 2016-09-25-ze-skokow-do-janikowa
-  lat: 52.71375472222223
-  lon: 17.47686138888889
-  altitude: 109.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-09-25 11:44:52+02:00

@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-04-21-wysiadajac-stacje-wczesniej-przed-zmigrodem
+  lat: 51.49509722222222
+  lon: 17.063097222222222
+  altitude: 101.0
+  focal_length: 200.0
+  focal_length_35: 300.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 1000
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2017-04-21 14:41:09+02:00
 - image_filename: IMGP4549raw1.jpg
   post_slug: 2017-04-21-wysiadajac-stacje-wczesniej-przed-zmigrodem
   lat: 51.50870833333333
@@ -8,6 +22,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -21,6 +36,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -47,6 +64,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,6 +78,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 4.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -73,6 +92,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -86,6 +106,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -99,6 +120,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -112,6 +134,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -125,6 +148,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -138,6 +162,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 4.5
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -151,20 +176,8 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2017-04-21 12:38:00+02:00
-- image_filename: header.jpg
-  post_slug: 2017-04-21-wysiadajac-stacje-wczesniej-przed-zmigrodem
-  lat: 51.49509722222222
-  lon: 17.063097222222222
-  altitude: 101.0
-  focal_length: 200.0
-  focal_length_35: 300.0
-  crop: 1.5
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2017-04-21 14:41:09+02:00

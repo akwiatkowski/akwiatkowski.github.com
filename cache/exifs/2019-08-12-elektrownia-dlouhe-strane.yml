@@ -1,4 +1,339 @@
 ---
+- image_filename: 2019_08_12__13_13__8121433.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07593055555556
+  lon: 17.158319444444444
+  altitude: 1344.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4864
+  height: 3631
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-08-12 13:13:57+02:00
+  focus_distance: 122.26
+- image_filename: 2019_08_12__11_53__8121078.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.08552777777778
+  lon: 17.14097222222222
+  altitude: 1130.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.05
+  exposure_string: 1/20 s
+  time: 2019-08-12 11:53:30+02:00
+  focus_distance: 23.17
+- image_filename: 2019_08_12__12_16__8121167.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07938888888889
+  lon: 17.144569444444443
+  altitude: 1210.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4700
+  height: 3569
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2019-08-12 12:16:21+02:00
+  focus_distance: 1.04
+- image_filename: 2019_08_12__12_17__8121173.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07931944444445
+  lon: 17.144555555555556
+  altitude: 1211.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4295
+  height: 3311
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2019-08-12 12:17:46+02:00
+  focus_distance: 1.35
+- image_filename: 2019_08_12__12_20__8121204.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.079236111111115
+  lon: 17.144555555555556
+  altitude: 1212.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4486
+  height: 3271
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2019-08-12 12:20:03+02:00
+  focus_distance: 0.78
+- image_filename: 2019_08_12__12_40_DSC08773.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.074736111111115
+  lon: 17.146124999999998
+  altitude: 1275.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2019-08-12 12:40:16+02:00
+- image_filename: 2019_08_12__12_51_DSC08781.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07091666666667
+  lon: 17.150680555555553
+  altitude: 1294.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.2
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 4920
+  height: 7366
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2019-08-12 12:51:20+02:00
+- image_filename: 2019_08_12__13_05__8121416.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.071847222222225
+  lon: 17.156291666666664
+  altitude: 1343.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-12 13:05:51+02:00
+  focus_distance: 15.26
+- image_filename: 2019_08_12__13_30_DSC08831.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07704166666667
+  lon: 17.16234722222222
+  altitude: 1344.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2019-08-12 13:30:06+02:00
+- image_filename: 2019_08_12__13_37_DSC08845.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.073375000000006
+  lon: 17.160055555555555
+  altitude: 1344.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.5
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2019-08-12 13:37:39+02:00
+- image_filename: 2019_08_12__13_45_DSC08868.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07123611111111
+  lon: 17.15658333333333
+  altitude: 1346.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2019-08-12 13:45:35+02:00
+- image_filename: 2019_08_12__13_58_DSC08908.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.072069444444445
+  lon: 17.14913888888889
+  altitude: 1292.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-08-12 13:58:08+02:00
+- image_filename: 2019_08_12__14_00_DSC08915.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.07338888888889
+  lon: 17.147777777777776
+  altitude: 1287.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 4.0
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-08-12 14:00:53+02:00
+- image_filename: 2019_08_13__10_48__8131684.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.35095833333334
+  lon: 17.037236111111113
+  altitude: 359.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5141
+  height: 3764
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-08-13 10:48:11+02:00
+  focus_distance: 1000.0
+- image_filename: 2019_08_13__10_56__8131756.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.419916666666666
+  lon: 16.99575
+  altitude: 287.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 320
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-08-13 10:56:47+02:00
+  focus_distance: 58.31
+- image_filename: 2019_08_13__11_15__8131810.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.497347222222224
+  lon: 16.87477777777778
+  altitude: 270.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 320
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5030
+  height: 3755
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-08-13 11:15:14+02:00
+  focus_distance: 32.63
+- image_filename: 2019_08_13__11_21__8131842.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.536375
+  lon: 16.863430555555556
+  altitude: 250.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 320
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4694
+  height: 3084
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-13 11:21:02+02:00
+  focus_distance: 1.43
+- image_filename: 2019_08_13__11_38__8131897.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.653597222222224
+  lon: 16.82836111111111
+  altitude: 319.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 320
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5152
+  height: 3873
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2019-08-13 11:38:48+02:00
+  focus_distance: 1000.0
+- image_filename: 2019_08_13__11_45__8131927.jpg
+  post_slug: 2019-08-12-elektrownia-dlouhe-strane
+  lat: 50.71629166666667
+  lon: 16.825847222222222
+  altitude: 225.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5184
+  height: 3870
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2019-08-13 11:45:21+02:00
+  focus_distance: 1000.0
 - image_filename: 2019_08_12__12_42__8121348.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07441666666667
@@ -8,6 +343,7 @@
   focal_length_35: 320.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -25,6 +361,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -42,6 +379,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 7.1
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5155
@@ -50,22 +388,6 @@
   exposure_string: 1/320 s
   time: 2019-08-13 11:15:38+02:00
   focus_distance: 17.94
-- image_filename: 2019_08_12__14_00_DSC08915.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07338888888889
-  lon: 17.147777777777776
-  altitude: 1287.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-12 14:00:53+02:00
 - image_filename: 2019_08_12__12_04__8121120.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.08331944444445
@@ -75,6 +397,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -92,6 +415,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4893
@@ -100,23 +424,6 @@
   exposure_string: 1/1600 s
   time: 2019-08-12 12:20:45+02:00
   focus_distance: 0.83
-- image_filename: 2019_08_13__10_56__8131756.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.419916666666666
-  lon: 16.99575
-  altitude: 287.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-13 10:56:47+02:00
-  focus_distance: 58.31
 - image_filename: 2019_08_12__13_47_DSC08874.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07115277777778
@@ -126,6 +433,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -142,6 +450,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4419
@@ -159,6 +468,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -175,6 +485,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 6.3
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4569
@@ -183,23 +494,6 @@
   exposure_string: 1/500 s
   time: 2019-08-12 12:25:03+02:00
   focus_distance: 1.0
-- image_filename: 2019_08_12__12_17__8121173.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07931944444445
-  lon: 17.144555555555556
-  altitude: 1211.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4295
-  height: 3311
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2019-08-12 12:17:46+02:00
-  focus_distance: 1.35
 - image_filename: 2019_08_12__13_48__8121478.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.071125
@@ -209,6 +503,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -226,6 +521,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -242,6 +538,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -249,23 +546,6 @@
   exposure: 0.0015625
   exposure_string: 1/640 s
   time: 2019-08-12 13:16:20+02:00
-- image_filename: 2019_08_13__11_38__8131897.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.653597222222224
-  lon: 16.82836111111111
-  altitude: 319.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5152
-  height: 3873
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-13 11:38:48+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_08_13__11_45__8131930.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.718472222222225
@@ -275,6 +555,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 8.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -292,6 +573,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5087
@@ -309,6 +591,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -326,6 +609,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -342,6 +626,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.2
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -358,6 +643,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -375,6 +661,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -392,6 +679,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -409,6 +697,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -425,6 +714,7 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -433,23 +723,6 @@
   exposure_string: 1/160 s
   time: 2019-08-12 13:15:38+02:00
   focus_distance: 1000.0
-- image_filename: 2019_08_13__11_15__8131810.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.497347222222224
-  lon: 16.87477777777778
-  altitude: 270.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5030
-  height: 3755
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-13 11:15:14+02:00
-  focus_distance: 32.63
 - image_filename: 2019_08_12__13_52_DSC08891.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07036111111111
@@ -459,6 +732,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -475,6 +749,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -492,6 +767,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5014
@@ -509,6 +785,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 8.0
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4921
@@ -526,6 +803,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4182
@@ -543,6 +821,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -559,6 +838,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 6.3
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5087
@@ -576,6 +856,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -593,6 +874,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 6.3
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4929
@@ -601,22 +883,6 @@
   exposure_string: 1/640 s
   time: 2019-08-12 12:15:23+02:00
   focus_distance: 1.35
-- image_filename: 2019_08_12__12_40_DSC08773.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.074736111111115
-  lon: 17.146124999999998
-  altitude: 1275.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-12 12:40:16+02:00
 - image_filename: 2019_08_12__13_04__8121405.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07138888888889
@@ -626,6 +892,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -643,6 +910,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 6.3
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4992
@@ -651,22 +919,6 @@
   exposure_string: 1/200 s
   time: 2019-08-13 11:36:03+02:00
   focus_distance: 37.32
-- image_filename: 2019_08_12__13_37_DSC08845.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.073375000000006
-  lon: 17.160055555555555
-  altitude: 1344.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 4.5
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-12 13:37:39+02:00
 - image_filename: 2019_08_12__13_48_DSC08879.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.071125
@@ -676,6 +928,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -692,6 +945,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -709,6 +963,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -725,6 +980,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -733,23 +989,6 @@
   exposure_string: 1/160 s
   time: 2019-08-12 13:00:27+02:00
   focus_distance: 5.08
-- image_filename: 2019_08_12__11_53__8121078.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.08552777777778
-  lon: 17.14097222222222
-  altitude: 1130.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2019-08-12 11:53:30+02:00
-  focus_distance: 23.17
 - image_filename: 2019_08_12__12_22__8121247.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07895833333334
@@ -759,6 +998,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4648
@@ -776,6 +1016,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -792,6 +1033,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 6.3
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4679
@@ -809,6 +1051,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -826,6 +1069,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -842,6 +1086,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7120
@@ -858,6 +1103,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -874,6 +1120,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4217
@@ -891,6 +1138,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7186
@@ -907,6 +1155,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -923,6 +1172,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -940,6 +1190,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -956,6 +1207,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 125
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -963,23 +1215,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2019-08-12 14:26:10+02:00
-- image_filename: 2019_08_12__12_20__8121204.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.079236111111115
-  lon: 17.144555555555556
-  altitude: 1212.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4486
-  height: 3271
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-12 12:20:03+02:00
-  focus_distance: 0.78
 - image_filename: 2019_08_13__10_43__8131668.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.32822222222222
@@ -989,6 +1224,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1006,6 +1242,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 7.1
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4345
@@ -1023,6 +1260,7 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 7.1
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5128
@@ -1040,6 +1278,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1048,23 +1287,6 @@
   exposure_string: 1/125 s
   time: 2019-08-12 13:02:41+02:00
   focus_distance: 4.16
-- image_filename: 2019_08_13__11_21__8131842.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.536375
-  lon: 16.863430555555556
-  altitude: 250.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4694
-  height: 3084
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-13 11:21:02+02:00
-  focus_distance: 1.43
 - image_filename: 2019_08_12__12_42__8121347.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.07448611111111
@@ -1074,6 +1296,7 @@
   focal_length_35: 210.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3909
@@ -1091,6 +1314,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4786
@@ -1108,6 +1332,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.2
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1115,22 +1340,6 @@
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2019-08-12 13:34:25+02:00
-- image_filename: 2019_08_12__13_30_DSC08831.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07704166666667
-  lon: 17.16234722222222
-  altitude: 1344.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-08-12 13:30:06+02:00
 - image_filename: 2019_08_12__13_48__8121470.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.071125
@@ -1140,6 +1349,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1157,6 +1367,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1174,6 +1385,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4738
@@ -1191,6 +1403,7 @@
   focal_length_35: 170.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5011
@@ -1199,56 +1412,6 @@
   exposure_string: 1/400 s
   time: 2019-08-12 12:37:33+02:00
   focus_distance: 17.5
-- image_filename: 2019_08_12__12_51_DSC08781.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07091666666667
-  lon: 17.150680555555553
-  altitude: 1294.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.2
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-08-12 12:51:20+02:00
-- image_filename: 2019_08_13__11_45__8131927.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.71629166666667
-  lon: 16.825847222222222
-  altitude: 225.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5184
-  height: 3870
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2019-08-13 11:45:21+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_12__13_05__8121416.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.071847222222225
-  lon: 17.156291666666664
-  altitude: 1343.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-12 13:05:51+02:00
-  focus_distance: 15.26
 - image_filename: 2019_08_12__12_03__8121104.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.08330555555556
@@ -1258,6 +1421,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4959
@@ -1266,22 +1430,6 @@
   exposure_string: 1/320 s
   time: 2019-08-12 12:03:12+02:00
   focus_distance: 0.45
-- image_filename: 2019_08_12__13_45_DSC08868.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07123611111111
-  lon: 17.15658333333333
-  altitude: 1346.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2019-08-12 13:45:35+02:00
 - image_filename: 2019_08_12__11_25__8121026.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.09769444444445
@@ -1291,6 +1439,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1308,6 +1457,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4910
@@ -1316,22 +1466,6 @@
   exposure_string: 1/400 s
   time: 2019-08-12 12:18:12+02:00
   focus_distance: 0.86
-- image_filename: 2019_08_12__13_58_DSC08908.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.072069444444445
-  lon: 17.14913888888889
-  altitude: 1292.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-12 13:58:08+02:00
 - image_filename: 2019_08_12__11_50__8121074.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.08588888888889
@@ -1341,6 +1475,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1358,6 +1493,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1374,6 +1510,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5150
@@ -1391,6 +1528,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4532
@@ -1408,6 +1546,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4490
@@ -1425,6 +1564,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.2
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1432,23 +1572,6 @@
   exposure: 0.0004
   exposure_string: 1/2500 s
   time: 2019-08-12 12:51:26+02:00
-- image_filename: 2019_08_12__12_16__8121167.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07938888888889
-  lon: 17.144569444444443
-  altitude: 1210.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4700
-  height: 3569
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-12 12:16:21+02:00
-  focus_distance: 1.04
 - image_filename: 2019_08_13__10_41__8131656.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.32384722222223
@@ -1458,6 +1581,7 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5086
@@ -1475,6 +1599,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1491,6 +1616,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1508,6 +1634,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1524,6 +1651,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1541,6 +1669,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1557,6 +1686,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1574,6 +1704,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1590,6 +1721,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -1607,6 +1739,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1623,6 +1756,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 6.3
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4380
@@ -1640,6 +1774,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1656,6 +1791,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1672,6 +1808,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1679,40 +1816,6 @@
   exposure: 0.00125
   exposure_string: 1/800 s
   time: 2019-08-12 13:10:03+02:00
-- image_filename: 2019_08_13__10_48__8131684.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.35095833333334
-  lon: 17.037236111111113
-  altitude: 359.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5141
-  height: 3764
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-13 10:48:11+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_08_12__13_13__8121433.jpg
-  post_slug: 2019-08-12-elektrownia-dlouhe-strane
-  lat: 50.07593055555556
-  lon: 17.158319444444444
-  altitude: 1344.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4864
-  height: 3631
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-08-12 13:13:57+02:00
-  focus_distance: 122.26
 - image_filename: 2019_08_12__13_01__8121389.jpg
   post_slug: 2019-08-12-elektrownia-dlouhe-strane
   lat: 50.070930555555556
@@ -1722,6 +1825,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1739,6 +1843,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4321
@@ -1756,6 +1861,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5025
@@ -1773,6 +1879,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4467
@@ -1790,6 +1897,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1806,6 +1914,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240

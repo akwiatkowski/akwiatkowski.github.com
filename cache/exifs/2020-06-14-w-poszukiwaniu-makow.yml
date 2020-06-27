@@ -1,55 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-- image_filename: 2020_06_14__13_13_DSC08251.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-06-14 13:13:28+02:00
-- image_filename: 2020_06_14__13_16__6147848.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 13:16:05+02:00
-  focus_distance: 17.28
-- image_filename: 2020_06_14__13_13_DSC08256.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-06-14 13:13:54+02:00
 - image_filename: 2020_06_14__13_16__6147850.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80288888888889
@@ -59,6 +8,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
@@ -67,455 +17,6 @@
   exposure_string: 1/640 s
   time: 2020-06-14 13:16:13+02:00
   focus_distance: 9.48
-- image_filename: 2020_06_14__13_21__6147867.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 6.25e-5
-  exposure_string: 1/16000 s
-  time: 2020-06-14 13:21:55+02:00
-  focus_distance: 1.2
-- image_filename: 2020_06_14__13_16_DSC08265.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 52.0
-  focal_length_35: 52.0
-  crop: 1.0
-  aperture: 2.8
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4919
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-06-14 13:16:28+02:00
-- image_filename: 2020_06_14__13_20__6147860.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 6.25e-5
-  exposure_string: 1/16000 s
-  time: 2020-06-14 13:20:04+02:00
-  focus_distance: 1.98
-- image_filename: 2020_06_14__13_21_DSC08271.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7365
-  height: 4919
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  time: 2020-06-14 13:21:00+02:00
-- image_filename: 2020_06_14__13_21_DSC08277.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-06-14 13:21:48+02:00
-- image_filename: 2020_06_14__13_21_DSC08274.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 6881
-  height: 4596
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-06-14 13:21:32+02:00
-- image_filename: 2020_06_14__13_22__6147873.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 7.8125e-5
-  exposure_string: 1/12800 s
-  time: 2020-06-14 13:22:45+02:00
-  focus_distance: 2.94
-- image_filename: 2020_06_14__13_22__6147870.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 3807
-  height: 4541
-  exposure: 6.25e-5
-  exposure_string: 1/16000 s
-  time: 2020-06-14 13:22:02+02:00
-  focus_distance: 0.93
-- image_filename: 2020_06_14__13_22__6147871.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-06-14 13:22:24+02:00
-  focus_distance: 2.34
-- image_filename: 2020_06_14__13_22_DSC08279.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  time: 2020-06-14 13:22:07+02:00
-- image_filename: 2020_06_14__13_22_DSC08281.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-06-14 13:22:22+02:00
-- image_filename: 2020_06_14__13_22_DSC08278.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00015625
-  exposure_string: 1/6400 s
-  time: 2020-06-14 13:22:02+02:00
-- image_filename: 2020_06_14__13_25_DSC08289.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-06-14 13:25:52+02:00
-- image_filename: 2020_06_14__13_27_DSC08296.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 5906
-  height: 3945
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-06-14 13:27:29+02:00
-- image_filename: 2020_06_14__13_23__6147877.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 1.2
-  lens: OLYMPUS M.25mm F1.2
-  camera: E-M1MarkII
-  width: 5191
-  height: 3838
-  exposure: 0.000125
-  exposure_string: 1/8000 s
-  time: 2020-06-14 13:23:17+02:00
-  focus_distance: 1.35
-- image_filename: 2020_06_14__13_30_DSC08307.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-06-14 13:30:14+02:00
-- image_filename: 2020_06_14__13_50__6147908.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80294444444444
-  lon: 16.968055555555555
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 13:50:00+02:00
-  focus_distance: 7.86
-- image_filename: 2020_06_14__13_37__6147903.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.96561111111111
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 13:37:14+02:00
-  focus_distance: 11.22
-- image_filename: 2020_06_14__13_50__6147910.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80294444444444
-  lon: 16.968805555555555
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-06-14 13:50:43+02:00
-  focus_distance: 85.33
-- image_filename: 2020_06_14__13_57__6147933.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.802875
-  lon: 16.972819444444443
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-14 13:57:52+02:00
-  focus_distance: 14.62
-- image_filename: 2020_06_14__13_56__6147928.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.802875
-  lon: 16.972541666666665
-  altitude: 83.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 13:56:48+02:00
-  focus_distance: 20.68
-- image_filename: 2020_06_14__13_56__6147923.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.802875
-  lon: 16.972111111111108
-  altitude: 82.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 13:56:18+02:00
-  focus_distance: 9.08
-- image_filename: 2020_06_14__13_58__6147940.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.802875
-  lon: 16.973208333333332
-  altitude: 84.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5066
-  height: 3765
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-06-14 13:58:32+02:00
-  focus_distance: 10.77
-- image_filename: 2020_06_14__13_58__6147938.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.802875
-  lon: 16.97322222222222
-  altitude: 84.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 13:58:22+02:00
-  focus_distance: 7.95
-- image_filename: 2020_06_14__14_02__6147969.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80288888888889
-  lon: 16.975888888888885
-  altitude: 84.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 14:02:34+02:00
-  focus_distance: 16.65
-- image_filename: 2020_06_14__14_02__6147965.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80298611111111
-  lon: 16.975666666666665
-  altitude: 84.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-14 14:02:10+02:00
-  focus_distance: 1.25
-- image_filename: 2020_06_14__14_03__6147973.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80248611111111
-  lon: 16.97606944444444
-  altitude: 82.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-06-14 14:03:16+02:00
-  focus_distance: 1.92
 - image_filename: 2020_06_14__14_18__6148000.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80351388888889
@@ -525,6 +26,7 @@
   focal_length_35: 228.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5039
@@ -533,294 +35,24 @@
   exposure_string: 1/80 s
   time: 2020-06-14 14:18:38+02:00
   focus_distance: 10.69
-- image_filename: 2020_06_14__14_20__6148003.jpg
+- image_filename: 2020_06_14__14_02__6147969.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80434722222222
-  lon: 16.981791666666666
-  altitude: 77.0
+  lat: 52.80288888888889
+  lon: 16.975888888888885
+  altitude: 84.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
   height: 3911
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-06-14 14:20:48+02:00
-  focus_distance: 17.5
-- image_filename: 2020_06_14__14_16__6147999.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80320833333333
-  lon: 16.98101388888889
-  altitude: 79.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 3540
-  height: 2709
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 14:16:37+02:00
-  focus_distance: 0.75
-- image_filename: 2020_06_14__14_06__6147981.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80115277777777
-  lon: 16.97808333333333
-  altitude: 80.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 3793
-  height: 5152
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-14 14:06:32+02:00
-  focus_distance: 3.95
-- image_filename: 2020_06_14__14_23__6148028.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80456944444444
-  lon: 16.98259722222222
-  altitude: 77.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4148
-  height: 2964
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 14:23:54+02:00
-  focus_distance: 0.7
-- image_filename: 2020_06_14__14_22__6148010.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80455555555555
-  lon: 16.982180555555555
-  altitude: 78.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 14:22:55+02:00
-  focus_distance: 12.34
-- image_filename: 2020_06_14__14_29__6148056.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.804944444444445
-  lon: 16.984375
-  altitude: 76.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4664
-  height: 3421
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-14 14:29:27+02:00
-  focus_distance: 12.68
-- image_filename: 2020_06_14__14_28_DSC08320.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.805
-  lon: 16.983736111111114
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7177
-  height: 4794
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 14:28:22+02:00
-- image_filename: 2020_06_14__14_36__6148063.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80672222222222
-  lon: 16.98548611111111
-  altitude: 75.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-14 14:36:51+02:00
-  focus_distance: 14.78
-- image_filename: 2020_06_14__14_45__6148084.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80976388888889
-  lon: 16.983361111111112
-  altitude: 79.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 14:45:23+02:00
-  focus_distance: 26.94
-- image_filename: 2020_06_14__14_47__6148089.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81106944444444
-  lon: 16.982402777777775
-  altitude: 79.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5209
-  height: 3889
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 14:47:53+02:00
-  focus_distance: 19.59
-- image_filename: 2020_06_14__15_16__6148117.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81586111111111
-  lon: 16.97247222222222
-  altitude: 78.0
-  focal_length: 104.0
-  focal_length_35: 208.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5177
-  height: 3864
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-14 15:16:03+02:00
-  focus_distance: 6.39
-- image_filename: 2020_06_14__15_00__6148108.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.816875
-  lon: 16.980625
-  altitude: 84.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4581
-  height: 3652
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 15:00:27+02:00
-  focus_distance: 67.14
-- image_filename: 2020_06_14__15_09__6148110.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.816180555555555
-  lon: 16.976
-  altitude: 79.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4440
-  height: 3572
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-14 15:09:54+02:00
-  focus_distance: 5.08
-- image_filename: 2020_06_14__14_53__6148102.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.814
-  lon: 16.981277777777777
-  altitude: 79.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4601
-  height: 3086
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-14 14:53:45+02:00
-  focus_distance: 4.21
-- image_filename: 2020_06_14__15_29__6148139.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.814625
-  lon: 16.96002777777778
-  altitude: 74.0
-  focal_length: 230.0
-  focal_length_35: 460.0
-  crop: 2.0
-  aperture: 6.3
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5204
-  height: 3884
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-14 15:29:32+02:00
-  focus_distance: 42.22
-- image_filename: 2020_06_14__15_22__6148136.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81529166666667
-  lon: 16.966791666666666
-  altitude: 76.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 6.3
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 15:22:27+02:00
-  focus_distance: 6.59
-- image_filename: 2020_06_14__15_17__6148128.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81573611111111
-  lon: 16.97148611111111
-  altitude: 78.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.3
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5178
-  height: 3828
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-14 15:17:02+02:00
-  focus_distance: 75.85
+  time: 2020-06-14 14:02:34+02:00
+  focus_distance: 16.65
 - image_filename: 2020_06_14__15_33_DSC08322.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.81433333333333
@@ -830,6 +62,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -837,166 +70,58 @@
   exposure: 0.000625
   exposure_string: 1/1600 s
   time: 2020-06-14 15:33:23+02:00
-- image_filename: 2020_06_14__15_43_DSC08326.jpg
+- image_filename: 2020_06_14__13_13_DSC08251.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81423611111111
-  lon: 16.959527777777776
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
+  aperture: 2.8
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 15:43:19+02:00
-- image_filename: 2020_06_14__15_43_DSC08327.jpg
+  height: 4919
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2020-06-14 13:13:28+02:00
+- image_filename: 2020_06_14__13_21_DSC08271.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81422222222222
-  lon: 16.959555555555553
-  altitude: 75.0
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
-  width: 7192
-  height: 4803
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 15:43:28+02:00
-- image_filename: 2020_06_14__15_45_DSC08335.jpg
+  width: 7365
+  height: 4919
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  time: 2020-06-14 13:21:00+02:00
+- image_filename: 2020_06_14__13_16__6147848.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81422222222222
-  lon: 16.9595
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-14 15:45:15+02:00
-- image_filename: 2020_06_14__15_45_DSC08336.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81422222222222
-  lon: 16.9595
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
   exposure: 0.0015625
   exposure_string: 1/640 s
-  time: 2020-06-14 15:45:21+02:00
-- image_filename: 2020_06_14__15_45_DSC08337.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81422222222222
-  lon: 16.95948611111111
-  altitude: 74.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7184
-  height: 4799
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-06-14 15:45:25+02:00
-- image_filename: 2020_06_14__15_44_DSC08331.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81422222222222
-  lon: 16.959541666666667
-  altitude: 76.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-06-14 15:44:14+02:00
-- image_filename: 2020_06_14__15_45_DSC08341.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81423611111111
-  lon: 16.95948611111111
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-06-14 15:45:54+02:00
-- image_filename: 2020_06_14__15_46_DSC08342.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81423611111111
-  lon: 16.95948611111111
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 15:46:05+02:00
-- image_filename: 2020_06_14__15_46_DSC08344.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81423611111111
-  lon: 16.95948611111111
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 15:46:16+02:00
-- image_filename: 2020_06_14__15_46_DSC08345.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81423611111111
-  lon: 16.95948611111111
-  altitude: 75.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 15:46:20+02:00
+  time: 2020-06-14 13:16:05+02:00
+  focus_distance: 17.28
 - image_filename: 2020_06_14__16_04__6148166.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.81434722222222
@@ -1006,6 +131,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
@@ -1014,159 +140,24 @@
   exposure_string: 1/320 s
   time: 2020-06-14 16:04:49+02:00
   focus_distance: 7.43
-- image_filename: 2020_06_14__15_56__6148148.jpg
+- image_filename: 2020_06_14__13_57__6147933.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81430555555555
-  lon: 16.95948611111111
-  altitude: 77.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 6.3
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-14 15:56:06+02:00
-  focus_distance: 15.45
-- image_filename: 2020_06_14__16_05__6148170.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81436111111111
-  lon: 16.959458333333334
-  altitude: 78.0
+  lat: 52.802875
+  lon: 16.972819444444443
+  altitude: 83.0
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-14 16:05:45+02:00
-  focus_distance: 21.78
-- image_filename: 2020_06_14__16_06__6148173.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81448611111111
-  lon: 16.95947222222222
-  altitude: 78.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-14 16:06:18+02:00
-  focus_distance: 22.88
-- image_filename: 2020_06_14__16_05__6148171.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.814375
-  lon: 16.95947222222222
-  altitude: 78.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-14 16:05:52+02:00
-  focus_distance: 24.52
-- image_filename: 2020_06_14__16_09__6148177.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.814416666666666
-  lon: 16.95809722222222
-  altitude: 78.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4096
-  height: 2840
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-14 16:09:20+02:00
-  focus_distance: 0.75
-- image_filename: 2020_06_14__16_11__6148187.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81430555555555
-  lon: 16.957013888888888
-  altitude: 77.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5216
-  height: 3894
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 16:11:56+02:00
-  focus_distance: 92.57
-- image_filename: 2020_06_14__16_14__6148199.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81401388888889
-  lon: 16.953916666666665
-  altitude: 76.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4893
-  height: 3353
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 16:14:30+02:00
-  focus_distance: 0.64
-- image_filename: 2020_06_14__16_22__6148209.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81325
-  lon: 16.94626388888889
-  altitude: 76.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5097
-  height: 3806
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-14 16:22:53+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_14__16_11__6148184.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81431944444444
-  lon: 16.957083333333333
-  altitude: 77.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5178
-  height: 3866
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-14 16:11:50+02:00
-  focus_distance: 66.07
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-14 13:57:52+02:00
+  focus_distance: 14.62
 - image_filename: 2020_06_14__16_31__6148238.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.812805555555556
@@ -1176,6 +167,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5144
@@ -1184,91 +176,24 @@
   exposure_string: 1/160 s
   time: 2020-06-14 16:31:12+02:00
   focus_distance: 10.99
-- image_filename: 2020_06_14__16_29__6148234.jpg
+- image_filename: 2020_06_14__15_29__6148139.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.81295833333333
-  lon: 16.94273611111111
-  altitude: 75.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5118
-  height: 3821
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-14 16:29:24+02:00
-  focus_distance: 17.28
-- image_filename: 2020_06_14__16_27__6148220.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.813111111111105
-  lon: 16.944736111111112
-  altitude: 76.0
-  focal_length: 300.0
-  focal_length_35: 600.0
-  crop: 2.0
-  aperture: 7.1
-  lens: M.40-150mm F2.8 + MC-20
-  camera: E-M1MarkII
-  width: 4790
-  height: 3445
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-14 16:27:05+02:00
-  focus_distance: 0.7
-- image_filename: 2020_06_14__16_37__6148250.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80920833333333
-  lon: 16.941875
+  lat: 52.814625
+  lon: 16.96002777777778
   altitude: 74.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-14 16:37:30+02:00
-  focus_distance: 0.45
-- image_filename: 2020_06_14__16_32__6148244.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.812194444444444
-  lon: 16.941347222222223
-  altitude: 76.0
-  focal_length: 15.0
-  focal_length_35: 30.0
+  focal_length: 230.0
+  focal_length_35: 460.0
   crop: 2.0
   aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
-  width: 5224
-  height: 3900
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-14 16:32:31+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_14__16_45__6148279.jpg
-  post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80645833333333
-  lon: 16.940569444444446
-  altitude: 74.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-06-14 16:45:36+02:00
-  focus_distance: 1.03
+  width: 5204
+  height: 3884
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-14 15:29:32+02:00
+  focus_distance: 42.22
 - image_filename: 2020_06_14__16_52__6148284.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80645833333333
@@ -1278,6 +203,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5146
@@ -1286,6 +212,200 @@
   exposure_string: 1/800 s
   time: 2020-06-14 16:52:29+02:00
   focus_distance: 71.86
+- image_filename: 2020_06_14__15_16__6148117.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81586111111111
+  lon: 16.97247222222222
+  altitude: 78.0
+  focal_length: 104.0
+  focal_length_35: 208.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5177
+  height: 3864
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-14 15:16:03+02:00
+  focus_distance: 6.39
+- image_filename: 2020_06_14__13_58__6147940.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.802875
+  lon: 16.973208333333332
+  altitude: 84.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5066
+  height: 3765
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-06-14 13:58:32+02:00
+  focus_distance: 10.77
+- image_filename: 2020_06_14__15_45_DSC08335.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81422222222222
+  lon: 16.9595
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-14 15:45:15+02:00
+- image_filename: 2020_06_14__13_21__6147867.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 3911
+  height: 5239
+  exposure: 6.25e-5
+  exposure_string: 1/16000 s
+  time: 2020-06-14 13:21:55+02:00
+  focus_distance: 1.2
+- image_filename: 2020_06_14__16_06__6148173.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81448611111111
+  lon: 16.95947222222222
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-14 16:06:18+02:00
+  focus_distance: 22.88
+- image_filename: 2020_06_14__14_45__6148084.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80976388888889
+  lon: 16.983361111111112
+  altitude: 79.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 14:45:23+02:00
+  focus_distance: 26.94
+- image_filename: 2020_06_14__13_16_DSC08265.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 52.0
+  focal_length_35: 52.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4919
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-06-14 13:16:28+02:00
+- image_filename: 2020_06_14__16_11__6148187.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81430555555555
+  lon: 16.957013888888888
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 500
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5216
+  height: 3894
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 16:11:56+02:00
+  focus_distance: 92.57
+- image_filename: 2020_06_14__13_25_DSC08289.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  time: 2020-06-14 13:25:52+02:00
+- image_filename: 2020_06_14__16_29__6148234.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81295833333333
+  lon: 16.94273611111111
+  altitude: 75.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5118
+  height: 3821
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 16:29:24+02:00
+  focus_distance: 17.28
+- image_filename: 2020_06_14__15_43_DSC08326.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81423611111111
+  lon: 16.959527777777776
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 15:43:19+02:00
 - image_filename: 2020_06_14__17_00__6148306.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80302777777778
@@ -1295,6 +415,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 400
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
@@ -1303,6 +424,60 @@
   exposure_string: 1/500 s
   time: 2020-06-14 17:00:54+02:00
   focus_distance: 0.75
+- image_filename: 2020_06_14__13_22__6147873.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 7.8125e-5
+  exposure_string: 1/12800 s
+  time: 2020-06-14 13:22:45+02:00
+  focus_distance: 2.94
+- image_filename: 2020_06_14__14_20__6148003.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80434722222222
+  lon: 16.981791666666666
+  altitude: 77.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 14:20:48+02:00
+  focus_distance: 17.5
+- image_filename: 2020_06_14__15_00__6148108.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.816875
+  lon: 16.980625
+  altitude: 84.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4581
+  height: 3652
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 15:00:27+02:00
+  focus_distance: 67.14
 - image_filename: 2020_06_14__17_00__6148303.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80330555555555
@@ -1312,6 +487,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
@@ -1320,6 +496,42 @@
   exposure_string: 1/320 s
   time: 2020-06-14 17:00:32+02:00
   focus_distance: 1.09
+- image_filename: 2020_06_14__13_50__6147908.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80294444444444
+  lon: 16.968055555555555
+  altitude: 83.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 13:50:00+02:00
+  focus_distance: 7.86
+- image_filename: 2020_06_14__13_22__6147870.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 3807
+  height: 4541
+  exposure: 6.25e-5
+  exposure_string: 1/16000 s
+  time: 2020-06-14 13:22:02+02:00
+  focus_distance: 0.93
 - image_filename: 2020_06_14__17_00__6148307.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.803
@@ -1329,6 +541,7 @@
   focal_length_35: 600.0
   crop: 2.0
   aperture: 5.6
+  iso: 400
   lens: M.40-150mm F2.8 + MC-20
   camera: E-M1MarkII
   width: 5239
@@ -1337,6 +550,94 @@
   exposure_string: 1/1000 s
   time: 2020-06-14 17:00:56+02:00
   focus_distance: 0.77
+- image_filename: 2020_06_14__15_45_DSC08341.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81423611111111
+  lon: 16.95948611111111
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 15:45:54+02:00
+- image_filename: 2020_06_14__15_56__6148148.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81430555555555
+  lon: 16.95948611111111
+  altitude: 77.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-14 15:56:06+02:00
+  focus_distance: 15.45
+- image_filename: 2020_06_14__13_22_DSC08279.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  time: 2020-06-14 13:22:07+02:00
+- image_filename: 2020_06_14__14_23__6148028.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80456944444444
+  lon: 16.98259722222222
+  altitude: 77.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 4148
+  height: 2964
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 14:23:54+02:00
+  focus_distance: 0.7
+- image_filename: 2020_06_14__13_37__6147903.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 13:37:14+02:00
+  focus_distance: 11.22
 - image_filename: 2020_06_14__17_26__6148343.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80305555555555
@@ -1346,6 +647,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4991
@@ -1354,23 +656,411 @@
   exposure_string: 1/320 s
   time: 2020-06-14 17:26:58+02:00
   focus_distance: 27.86
-- image_filename: 2020_06_14__17_11__6148325.jpg
+- image_filename: 2020_06_14__15_46_DSC08344.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
-  lat: 52.80254166666666
-  lon: 16.94579166666667
-  altitude: 71.0
+  lat: 52.81423611111111
+  lon: 16.95948611111111
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 15:46:16+02:00
+- image_filename: 2020_06_14__13_27_DSC08296.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 5906
+  height: 3945
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  time: 2020-06-14 13:27:29+02:00
+- image_filename: 2020_06_14__15_46_DSC08342.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81423611111111
+  lon: 16.95948611111111
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 15:46:05+02:00
+- image_filename: 2020_06_14__13_56__6147928.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.802875
+  lon: 16.972541666666665
+  altitude: 83.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 13:56:48+02:00
+  focus_distance: 20.68
+- image_filename: 2020_06_14__16_05__6148171.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.814375
+  lon: 16.95947222222222
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-14 16:05:52+02:00
+  focus_distance: 24.52
+- image_filename: 2020_06_14__13_56__6147923.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.802875
+  lon: 16.972111111111108
+  altitude: 82.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 13:56:18+02:00
+  focus_distance: 9.08
+- image_filename: 2020_06_14__13_22_DSC08281.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-06-14 13:22:22+02:00
+- image_filename: 2020_06_14__15_09__6148110.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.816180555555555
+  lon: 16.976
+  altitude: 79.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4440
+  height: 3572
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-14 15:09:54+02:00
+  focus_distance: 5.08
+- image_filename: 2020_06_14__16_27__6148220.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.813111111111105
+  lon: 16.944736111111112
+  altitude: 76.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 4790
+  height: 3445
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-14 16:27:05+02:00
+  focus_distance: 0.7
+- image_filename: 2020_06_14__15_46_DSC08345.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81423611111111
+  lon: 16.95948611111111
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 15:46:20+02:00
+- image_filename: 2020_06_14__16_37__6148250.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80920833333333
+  lon: 16.941875
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 16:37:30+02:00
+  focus_distance: 0.45
+- image_filename: 2020_06_14__16_14__6148199.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81401388888889
+  lon: 16.953916666666665
+  altitude: 76.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4893
+  height: 3353
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 16:14:30+02:00
+  focus_distance: 0.64
+- image_filename: 2020_06_14__13_22_DSC08278.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  time: 2020-06-14 13:22:02+02:00
+- image_filename: 2020_06_14__14_02__6147965.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80298611111111
+  lon: 16.975666666666665
+  altitude: 84.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-14 14:02:10+02:00
+  focus_distance: 1.25
+- image_filename: 2020_06_14__13_13_DSC08256.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4919
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-06-14 13:13:54+02:00
+- image_filename: 2020_06_14__15_43_DSC08327.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81422222222222
+  lon: 16.959555555555553
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7192
+  height: 4803
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 15:43:28+02:00
+- image_filename: 2020_06_14__16_32__6148244.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.812194444444444
+  lon: 16.941347222222223
+  altitude: 76.0
   focal_length: 15.0
   focal_length_35: 30.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5085
-  height: 3797
+  width: 5224
+  height: 3900
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-06-14 17:11:26+02:00
+  time: 2020-06-14 16:32:31+02:00
   focus_distance: 1000.0
+- image_filename: 2020_06_14__15_22__6148136.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81529166666667
+  lon: 16.966791666666666
+  altitude: 76.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 15:22:27+02:00
+  focus_distance: 6.59
+- image_filename: 2020_06_14__13_23__6147877.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 5191
+  height: 3838
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  time: 2020-06-14 13:23:17+02:00
+  focus_distance: 1.35
+- image_filename: 2020_06_14__14_22__6148010.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80455555555555
+  lon: 16.982180555555555
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-06-14 14:22:55+02:00
+  focus_distance: 12.34
+- image_filename: 2020_06_14__13_50__6147910.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80294444444444
+  lon: 16.968805555555555
+  altitude: 83.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-06-14 13:50:43+02:00
+  focus_distance: 85.33
+- image_filename: 2020_06_14__15_45_DSC08336.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81422222222222
+  lon: 16.9595
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 15:45:21+02:00
+- image_filename: 2020_06_14__14_47__6148089.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81106944444444
+  lon: 16.982402777777775
+  altitude: 79.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5209
+  height: 3889
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 14:47:53+02:00
+  focus_distance: 19.59
 - image_filename: 2020_06_14__17_30__6148345.jpg
   post_slug: 2020-06-14-w-poszukiwaniu-makow
   lat: 52.80284722222222
@@ -1380,6 +1070,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4362
@@ -1388,3 +1079,393 @@
   exposure_string: 1/320 s
   time: 2020-06-14 17:30:07+02:00
   focus_distance: 16.85
+- image_filename: 2020_06_14__14_53__6148102.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.814
+  lon: 16.981277777777777
+  altitude: 79.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4601
+  height: 3086
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-14 14:53:45+02:00
+  focus_distance: 4.21
+- image_filename: 2020_06_14__13_21_DSC08277.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  time: 2020-06-14 13:21:48+02:00
+- image_filename: 2020_06_14__13_58__6147938.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.802875
+  lon: 16.97322222222222
+  altitude: 84.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 3911
+  height: 5239
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 13:58:22+02:00
+  focus_distance: 7.95
+- image_filename: 2020_06_14__14_28_DSC08320.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.805
+  lon: 16.983736111111114
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7177
+  height: 4794
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-14 14:28:22+02:00
+- image_filename: 2020_06_14__14_16__6147999.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80320833333333
+  lon: 16.98101388888889
+  altitude: 79.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 3540
+  height: 2709
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-14 14:16:37+02:00
+  focus_distance: 0.75
+- image_filename: 2020_06_14__13_22__6147871.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  time: 2020-06-14 13:22:24+02:00
+  focus_distance: 2.34
+- image_filename: 2020_06_14__15_45_DSC08337.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81422222222222
+  lon: 16.95948611111111
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7184
+  height: 4799
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-06-14 15:45:25+02:00
+- image_filename: 2020_06_14__14_36__6148063.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80672222222222
+  lon: 16.98548611111111
+  altitude: 75.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-14 14:36:51+02:00
+  focus_distance: 14.78
+- image_filename: 2020_06_14__17_11__6148325.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80254166666666
+  lon: 16.94579166666667
+  altitude: 71.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5085
+  height: 3797
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-14 17:11:26+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_14__14_03__6147973.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80248611111111
+  lon: 16.97606944444444
+  altitude: 82.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-06-14 14:03:16+02:00
+  focus_distance: 1.92
+- image_filename: 2020_06_14__14_06__6147981.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80115277777777
+  lon: 16.97808333333333
+  altitude: 80.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 3793
+  height: 5152
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-14 14:06:32+02:00
+  focus_distance: 3.95
+- image_filename: 2020_06_14__16_22__6148209.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81325
+  lon: 16.94626388888889
+  altitude: 76.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5097
+  height: 3806
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-14 16:22:53+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_14__14_29__6148056.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.804944444444445
+  lon: 16.984375
+  altitude: 76.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 4664
+  height: 3421
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-14 14:29:27+02:00
+  focus_distance: 12.68
+- image_filename: 2020_06_14__13_30_DSC08307.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-06-14 13:30:14+02:00
+- image_filename: 2020_06_14__16_09__6148177.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.814416666666666
+  lon: 16.95809722222222
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 500
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 4096
+  height: 2840
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-14 16:09:20+02:00
+  focus_distance: 0.75
+- image_filename: 2020_06_14__16_11__6148184.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81431944444444
+  lon: 16.957083333333333
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 500
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5178
+  height: 3866
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-14 16:11:50+02:00
+  focus_distance: 66.07
+- image_filename: 2020_06_14__13_20__6147860.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  width: 3911
+  height: 5239
+  exposure: 6.25e-5
+  exposure_string: 1/16000 s
+  time: 2020-06-14 13:20:04+02:00
+  focus_distance: 1.98
+- image_filename: 2020_06_14__15_17__6148128.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81573611111111
+  lon: 16.97148611111111
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5178
+  height: 3828
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-14 15:17:02+02:00
+  focus_distance: 75.85
+- image_filename: 2020_06_14__16_05__6148170.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81436111111111
+  lon: 16.959458333333334
+  altitude: 78.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-14 16:05:45+02:00
+  focus_distance: 21.78
+- image_filename: 2020_06_14__15_44_DSC08331.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.81422222222222
+  lon: 16.959541666666667
+  altitude: 76.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-06-14 15:44:14+02:00
+- image_filename: 2020_06_14__13_21_DSC08274.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80288888888889
+  lon: 16.96561111111111
+  altitude: 83.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 6881
+  height: 4596
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-06-14 13:21:32+02:00
+- image_filename: 2020_06_14__16_45__6148279.jpg
+  post_slug: 2020-06-14-w-poszukiwaniu-makow
+  lat: 52.80645833333333
+  lon: 16.940569444444446
+  altitude: 74.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-06-14 16:45:36+02:00
+  focus_distance: 1.03

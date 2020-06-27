@@ -1,4 +1,21 @@
 ---
+- image_filename: 2020_01_19__11_23_DSC06163.jpg
+  post_slug: 2020-01-19-wokol-zbiornika-bukowka
+  lat: 50.71281944444445
+  lon: 15.938222222222223
+  altitude: 534.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7125
+  height: 4759
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-01-19 11:23:20+01:00
 - image_filename: 2020_01_19__09_55__1190965.jpg
   post_slug: 2020-01-19-wokol-zbiornika-bukowka
   lat: 50.77627777777778
@@ -8,6 +25,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -25,6 +43,7 @@
   focal_length_35: 50.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -41,6 +60,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -57,6 +77,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -73,6 +94,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7311
@@ -89,6 +111,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -105,6 +128,7 @@
   focal_length_35: 33.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7335
@@ -121,6 +145,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -138,6 +163,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -155,6 +181,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -172,6 +199,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4927
@@ -189,6 +217,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -206,6 +235,7 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -223,6 +253,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.5
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -240,6 +271,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -257,6 +289,7 @@
   focal_length_35: 38.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 6892
@@ -273,6 +306,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -290,6 +324,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -307,6 +342,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -324,6 +360,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7134
@@ -340,6 +377,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -357,6 +395,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -374,6 +413,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7297
@@ -381,22 +421,6 @@
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2020-01-19 12:59:29+01:00
-- image_filename: 2020_01_19__11_23_DSC06163.jpg
-  post_slug: 2020-01-19-wokol-zbiornika-bukowka
-  lat: 50.71281944444445
-  lon: 15.938222222222223
-  altitude: 534.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7125
-  height: 4759
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-01-19 11:23:20+01:00
 - image_filename: 2020_01_19__12_18_DSC06195.jpg
   post_slug: 2020-01-19-wokol-zbiornika-bukowka
   lat: 50.70230555555556
@@ -406,6 +430,7 @@
   focal_length_35: 59.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -422,6 +447,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4978
@@ -439,6 +465,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -456,6 +483,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -472,6 +500,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7092
@@ -488,6 +517,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -505,6 +535,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.5
+  iso: 320
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4888

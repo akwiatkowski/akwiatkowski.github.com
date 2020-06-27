@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-07-18-krotka-ucieczka-do-lopuchowa
+  lat: 52.623444444444445
+  lon: 17.10073611111111
+  altitude: 86.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2017-07-18 18:21:13+02:00
 - image_filename: IMGP8899raw1.jpg
   post_slug: 2017-07-18-krotka-ucieczka-do-lopuchowa
   lat: 52.56565277777778
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.00125
   exposure_string: 1/800 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -60,23 +78,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2017-07-18 18:20:55+02:00
-- image_filename: header.jpg
-  post_slug: 2017-07-18-krotka-ucieczka-do-lopuchowa
-  lat: 52.623444444444445
-  lon: 17.10073611111111
-  altitude: 86.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2017-07-18 18:21:13+02:00
 - image_filename: IMGP8905raw1.jpg
   post_slug: 2017-07-18-krotka-ucieczka-do-lopuchowa
   lat: 52.61475
@@ -86,6 +92,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s

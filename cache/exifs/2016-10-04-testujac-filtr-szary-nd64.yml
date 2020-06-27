@@ -5,6 +5,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   width: 2000
   height: 1334
@@ -17,6 +18,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
@@ -27,6 +29,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
@@ -37,6 +40,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s

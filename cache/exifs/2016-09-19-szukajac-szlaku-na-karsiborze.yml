@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
+  lat: 53.86027555555556
+  lon: 14.320862222222223
+  altitude: 5.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2016-09-19 12:59:14+02:00
 - image_filename: IMGP6922raw1.jpg
   post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
   lat: 53.87068055555556
@@ -8,6 +24,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -21,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -34,6 +52,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -47,6 +66,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -60,38 +80,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
   time: 2016-09-19 13:12:29+02:00
-- image_filename: header.jpg
-  post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
-  lat: 53.86027555555556
-  lon: 14.320862222222223
-  altitude: 5.4
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2016-09-19 12:59:14+02:00
-- image_filename: IMGP6925raw1.jpg
-  post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
-  lat: 53.869458333333334
-  lon: 14.285041666666666
-  altitude: 9.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-09-19 11:54:47+02:00
 - image_filename: IMGP6940raw1.jpg
   post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
   lat: 53.86025
@@ -101,6 +94,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -114,10 +108,25 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2016-09-19 12:20:17+02:00
+- image_filename: IMGP6925raw1.jpg
+  post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
+  lat: 53.869458333333334
+  lon: 14.285041666666666
+  altitude: 9.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-09-19 11:54:47+02:00
 - image_filename: IMGP6965raw1.jpg
   post_slug: 2016-09-19-szukajac-szlaku-na-karsiborze
   lat: 53.854597222222225
@@ -127,6 +136,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s

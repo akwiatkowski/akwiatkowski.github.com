@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2011-12-31-zimowa-sniezka
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 400
+  lens: Sigma Lens
+  camera: PENTAX K100D
+  width: 2048
+  height: 1365
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2011-12-31 09:46:44+01:00
 - image_filename: IMGP2524b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.00125
@@ -16,6 +31,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 25.0
@@ -27,6 +43,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -36,6 +53,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.00025
@@ -47,6 +65,7 @@
   focal_length_35: 169.0
   crop: 1.4955752212389382
   aperture: 8.0
+  iso: 200
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.002
@@ -56,6 +75,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   width: 3008
@@ -67,6 +87,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   width: 3008
@@ -78,6 +99,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0003125
@@ -87,6 +109,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -96,6 +119,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -105,6 +129,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0005
@@ -116,6 +141,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0004
@@ -127,6 +153,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 4.5
+  iso: 1600
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -138,6 +165,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0005
@@ -149,6 +177,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 8.0
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.005
@@ -158,6 +187,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -169,6 +199,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00025
@@ -178,6 +209,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -189,6 +221,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 30.0
@@ -200,6 +233,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -211,6 +245,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -222,6 +257,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -233,6 +269,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -244,6 +281,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0003125
@@ -253,6 +291,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -262,6 +301,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0005
@@ -271,6 +311,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0005
@@ -280,6 +321,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   width: 3008
@@ -291,6 +333,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -300,6 +343,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -309,6 +353,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   width: 3008
@@ -320,28 +365,17 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.00025
   exposure_string: 1/4000 s
   time: 2011-12-31 11:40:45+01:00
-- image_filename: header.jpg
-  post_slug: 2011-12-31-zimowa-sniezka
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 4.5
-  lens: Sigma Lens
-  camera: PENTAX K100D
-  width: 2048
-  height: 1365
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2011-12-31 09:46:44+01:00
 - image_filename: IMGP3102b1.jpg
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.000625
@@ -353,6 +387,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0005
@@ -362,6 +397,7 @@
   post_slug: 2011-12-31-zimowa-sniezka
   crop: 1.5
   aperture: 9.0
+  iso: 200
   lens: A Series Lens
   camera: PENTAX K100D
   exposure: 0.001

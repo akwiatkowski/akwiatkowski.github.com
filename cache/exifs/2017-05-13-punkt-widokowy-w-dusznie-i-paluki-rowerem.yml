@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem
+  lat: 52.62266666666667
+  lon: 17.866541666666667
+  altitude: 162.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-05-13 11:38:33+02:00
 - image_filename: IMGP6188raw1.jpg
   post_slug: 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem
   lat: 52.618944444444445
@@ -8,6 +22,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -21,6 +36,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -34,6 +50,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +64,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -57,6 +75,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -70,6 +89,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -83,6 +103,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -96,6 +117,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -109,6 +131,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -122,6 +145,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -135,6 +159,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 7.1
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -148,6 +173,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -161,6 +187,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -174,6 +201,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -187,23 +215,11 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2017-05-13 10:30:01+02:00
-- image_filename: header.jpg
-  post_slug: 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem
-  lat: 52.62266666666667
-  lon: 17.866541666666667
-  altitude: 162.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-05-13 11:38:33+02:00
 - image_filename: IMGP6316raw1.jpg
   post_slug: 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem
   lat: 52.86736111111111
@@ -213,6 +229,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s

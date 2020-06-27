@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354625
+  lon: 18.938458333333333
+  altitude: 4294967296.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 18.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 2.0
+  exposure_string: 2 s
+  time: 2018-01-07 15:04:15+01:00
 - image_filename: IMGP4316raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.34152777777778
@@ -8,6 +22,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -21,6 +36,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -34,6 +50,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -60,6 +78,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -70,6 +89,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -83,6 +103,7 @@
   focal_length_35: 555.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -93,6 +114,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -106,6 +128,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -116,6 +139,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -129,6 +153,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 25.0
   exposure_string: 25 s
@@ -142,6 +167,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -155,6 +181,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
@@ -168,6 +195,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
@@ -178,6 +206,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
@@ -191,6 +220,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -204,6 +234,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 3.0
   exposure_string: 3 s
@@ -217,6 +248,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 6.0
   exposure_string: 6 s
@@ -230,6 +262,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -243,6 +276,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -256,6 +290,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
@@ -266,6 +301,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.5
   exposure_string: 1/2 s
@@ -279,6 +315,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -292,6 +329,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 3.0
   exposure_string: 3 s
@@ -305,6 +343,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.16666666666666666
   exposure_string: 1/6 s
@@ -318,6 +357,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -331,6 +371,7 @@
   focal_length_35: 43.0
   crop: 1.4827586206896552
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
@@ -341,23 +382,11 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
   time: 2018-01-07 15:03:20+01:00
-- image_filename: header.jpg
-  post_slug: 2018-01-07-mewia-lacha
-  lat: 54.354625
-  lon: 18.938458333333333
-  altitude: 4294967296.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 18.0
-  camera: PENTAX K-S2
-  exposure: 2.0
-  exposure_string: 2 s
-  time: 2018-01-07 15:04:15+01:00
 - image_filename: IMGP4334raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
   lat: 54.35447222222222
@@ -367,6 +396,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -377,6 +407,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
@@ -390,6 +421,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -400,6 +432,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s

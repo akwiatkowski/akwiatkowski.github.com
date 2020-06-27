@@ -1,4 +1,20 @@
 ---
+- image_filename: P5190083raw1.jpg
+  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
+  lat: 52.71501388888889
+  lon: 18.354861111111113
+  altitude: 80.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 10.0
+  iso: 100
+  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
+  camera: E-M10MarkII
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2018-05-19 13:36:45+02:00
+  focus_distance: 20.58
 - image_filename: P5190034raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.86873611111111
@@ -8,6 +24,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -23,6 +40,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.0025
@@ -38,6 +56,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00125
@@ -53,6 +72,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -68,6 +88,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.0025
@@ -83,6 +104,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -98,6 +120,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -113,6 +136,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 8.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -128,6 +152,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -143,6 +168,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00625
@@ -158,6 +184,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 10.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -170,6 +197,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.5
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.016666666666666666
@@ -185,6 +213,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00625
@@ -200,6 +229,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -215,6 +245,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -227,6 +258,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 4.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.01
@@ -242,6 +274,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 5.6
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.0125
@@ -257,6 +290,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 9.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -272,6 +306,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.0025
@@ -287,6 +322,7 @@
   focal_length_35: 66.0
   crop: 2.0
   aperture: 8.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00625
@@ -302,27 +338,13 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 8.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2018-05-19 13:49:54+02:00
   focus_distance: 17.73
-- image_filename: P5190083raw1.jpg
-  post_slug: 2018-05-19-przez-wioski-do-kruszwicy
-  lat: 52.71501388888889
-  lon: 18.354861111111113
-  altitude: 80.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 10.0
-  lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
-  camera: E-M10MarkII
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-05-19 13:36:45+02:00
-  focus_distance: 20.58
 - image_filename: P5190058raw1.jpg
   post_slug: 2018-05-19-przez-wioski-do-kruszwicy
   lat: 52.751041666666666
@@ -332,6 +354,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -347,6 +370,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 9.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -362,6 +386,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00625
@@ -377,6 +402,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00125
@@ -392,6 +418,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -407,6 +434,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.008
@@ -419,6 +447,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.00625
@@ -434,6 +463,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -446,6 +476,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 5.6
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.016666666666666666
@@ -461,6 +492,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 9.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -476,6 +508,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.003125
@@ -491,6 +524,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.002
@@ -506,6 +540,7 @@
   focal_length_35: 78.0
   crop: 2.0
   aperture: 9.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -521,6 +556,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 8.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005
@@ -536,6 +572,7 @@
   focal_length_35: 84.0
   crop: 2.0
   aperture: 7.1
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.004
@@ -551,6 +588,7 @@
   focal_length_35: 54.0
   crop: 2.0
   aperture: 8.0
+  iso: 100
   lens: OLYMPUS M.14-42mm F3.5-5.6 EZ
   camera: E-M10MarkII
   exposure: 0.005

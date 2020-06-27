@@ -1,10 +1,26 @@
 ---
+- image_filename: 2020_02_09__14_05__2092142-crop.jpg
+  post_slug: 2020-02-09-ptaki-w-parku
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 400
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4750
+  height: 3546
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-02-09 14:05:34+01:00
+  focus_distance: 2.97
 - image_filename: 2020_02_09__14_01__2091968.jpg
   post_slug: 2020-02-09-ptaki-w-parku
   focal_length: 210.0
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -19,6 +35,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4524
@@ -33,6 +50,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3746
@@ -47,6 +65,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4343
@@ -61,6 +80,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4151
@@ -75,6 +95,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4367
@@ -89,6 +110,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -103,6 +125,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 1250
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3731
@@ -117,6 +140,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 2500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3735
@@ -131,6 +155,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 1600
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4830
@@ -145,6 +170,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4698
@@ -159,6 +185,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 800
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4768
@@ -173,6 +200,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4750
@@ -187,6 +215,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4058
@@ -201,6 +230,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4252
@@ -215,6 +245,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 2500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3735
@@ -229,6 +260,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -243,6 +275,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4750
@@ -257,6 +290,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -271,6 +305,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 250
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4794
@@ -285,6 +320,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 3200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4111
@@ -299,6 +335,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -313,6 +350,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 1250
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4710
@@ -327,6 +365,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 3200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3744
@@ -341,6 +380,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 3200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5050
@@ -355,6 +395,7 @@
   focal_length_35: 250.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -369,6 +410,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4600
@@ -383,6 +425,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4299
@@ -397,6 +440,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 1250
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4434
@@ -411,6 +455,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 1250
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3985
@@ -425,6 +470,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 320
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5002
@@ -433,17 +479,3 @@
   exposure_string: 1/250 s
   time: 2020-02-09 14:12:07+01:00
   focus_distance: 4.98
-- image_filename: 2020_02_09__14_05__2092142-crop.jpg
-  post_slug: 2020-02-09-ptaki-w-parku
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4750
-  height: 3546
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-02-09 14:05:34+01:00
-  focus_distance: 2.97

@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-08-08-krotkie-popoludnie-w-swieradowie
+  lat: 50.91206361111111
+  lon: 15.312423055555556
+  altitude: 649.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 4.5
+  iso: 200
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1333
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2016-08-08 20:09:04+02:00
 - image_filename: IMGP4137raw1.jpg
   post_slug: 2016-08-08-krotkie-popoludnie-w-swieradowie
   lat: 50.891855
@@ -8,6 +24,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -21,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,6 +66,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -60,6 +80,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -73,6 +94,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -86,6 +108,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -99,25 +122,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2016-08-08 17:12:55+02:00
-- image_filename: header.jpg
-  post_slug: 2016-08-08-krotkie-popoludnie-w-swieradowie
-  lat: 50.91206361111111
-  lon: 15.312423055555556
-  altitude: 649.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 4.5
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1333
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2016-08-08 20:09:04+02:00
 - image_filename: IMGP4141raw1.jpg
   post_slug: 2016-08-08-krotkie-popoludnie-w-swieradowie
   lat: 50.890905833333335
@@ -127,6 +136,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s

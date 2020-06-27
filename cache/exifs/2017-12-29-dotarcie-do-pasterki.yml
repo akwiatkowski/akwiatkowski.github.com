@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-12-29-dotarcie-do-pasterki
+  lat: 50.50190277777778
+  lon: 16.394833333333334
+  altitude: 400.0
+  focal_length: 90.0
+  focal_length_35: 135.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 125
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-12-29 11:11:33+01:00
 - image_filename: IMGP3723raw1.jpg
   post_slug: 2017-12-29-dotarcie-do-pasterki
   focal_length: 24.0
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -18,6 +33,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -31,6 +47,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -44,6 +61,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -57,6 +75,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -70,6 +89,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -83,6 +103,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -96,6 +117,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -109,6 +131,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -122,6 +145,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -135,6 +159,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -148,6 +173,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -161,6 +187,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -174,6 +201,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -187,6 +215,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -200,6 +229,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -213,6 +243,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -226,23 +257,11 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2017-12-29 11:19:35+01:00
-- image_filename: header.jpg
-  post_slug: 2017-12-29-dotarcie-do-pasterki
-  lat: 50.50190277777778
-  lon: 16.394833333333334
-  altitude: 400.0
-  focal_length: 90.0
-  focal_length_35: 135.0
-  crop: 1.5
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-12-29 11:11:33+01:00
 - image_filename: IMGP3818raw1.jpg
   post_slug: 2017-12-29-dotarcie-do-pasterki
   lat: 50.49520833333334
@@ -252,6 +271,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -265,6 +285,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -278,6 +299,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -291,6 +313,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 6.3
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -304,6 +327,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s

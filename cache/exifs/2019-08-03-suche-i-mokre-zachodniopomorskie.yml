@@ -1,4 +1,21 @@
 ---
+- image_filename: 2019_08_03__11_35_DSC08275.jpg
+  post_slug: 2019-08-03-suche-i-mokre-zachodniopomorskie
+  lat: 53.07368055555556
+  lon: 15.00025
+  altitude: 92.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 20mm F2
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-08-03 11:35:10+02:00
 - image_filename: 2019_08_03__09_09_DSC08220.jpg
   post_slug: 2019-08-03-suche-i-mokre-zachodniopomorskie
   lat: 53.163624999999996
@@ -8,6 +25,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -24,6 +42,7 @@
   focal_length_35: 74.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -41,6 +60,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -57,6 +77,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7223
@@ -73,6 +94,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 2.8
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -89,6 +111,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -105,6 +128,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4577
@@ -122,6 +146,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -139,6 +164,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6817
@@ -155,6 +181,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -171,6 +198,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -187,6 +215,7 @@
   focal_length_35: 38.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -204,6 +233,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4616
@@ -221,6 +251,7 @@
   focal_length_35: 80.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4497
@@ -238,6 +269,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4523
@@ -255,6 +287,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4484
@@ -272,6 +305,7 @@
   focal_length_35: 60.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4578
@@ -289,6 +323,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6776
@@ -305,6 +340,7 @@
   focal_length_35: 138.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -322,6 +358,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -339,6 +376,7 @@
   focal_length_35: 60.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -356,6 +394,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -372,6 +411,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6985
@@ -388,6 +428,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -404,6 +445,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -420,6 +462,7 @@
   focal_length_35: 60.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -437,6 +480,7 @@
   focal_length_35: 110.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4598
@@ -454,6 +498,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -471,6 +516,7 @@
   focal_length_35: 74.0
   crop: 2.0
   aperture: 5.0
+  iso: 400
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -488,6 +534,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -504,6 +551,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 5.0
+  iso: 400
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -521,6 +569,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6396
@@ -537,6 +586,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -553,6 +603,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -569,6 +620,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7026
@@ -585,6 +637,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -601,6 +654,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4529
@@ -618,6 +672,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6399
@@ -634,6 +689,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4412
@@ -651,6 +707,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -667,6 +724,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4598
@@ -684,6 +742,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4584
@@ -701,6 +760,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4533
@@ -718,6 +778,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7131
@@ -734,6 +795,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4473
@@ -751,6 +813,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -767,6 +830,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7145
@@ -783,6 +847,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -800,6 +865,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4566
@@ -817,6 +883,7 @@
   focal_length_35: 74.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4589
@@ -834,6 +901,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4563
@@ -851,6 +919,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -867,6 +936,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4586
@@ -875,22 +945,6 @@
   exposure_string: 1/50 s
   time: 2019-08-03 12:05:20+02:00
   focus_distance: 80.23
-- image_filename: 2019_08_03__11_35_DSC08275.jpg
-  post_slug: 2019-08-03-suche-i-mokre-zachodniopomorskie
-  lat: 53.07368055555556
-  lon: 15.00025
-  altitude: 92.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-03 11:35:10+02:00
 - image_filename: 2019_08_03__12_05_P8030101.jpg
   post_slug: 2019-08-03-suche-i-mokre-zachodniopomorskie
   lat: 53.060694444444444
@@ -900,6 +954,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4501
@@ -917,6 +972,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -933,6 +989,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4494
@@ -950,6 +1007,7 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4620
@@ -967,6 +1025,7 @@
   focal_length_35: 194.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -984,6 +1043,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4435
@@ -1001,6 +1061,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -1017,6 +1078,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -1033,6 +1095,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1050,6 +1113,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4579
@@ -1067,6 +1131,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4483
@@ -1084,6 +1149,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 7.1
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7122
@@ -1100,6 +1166,7 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1117,6 +1184,7 @@
   focal_length_35: 204.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640

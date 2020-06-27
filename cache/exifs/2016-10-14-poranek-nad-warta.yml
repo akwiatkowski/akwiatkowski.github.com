@@ -1,10 +1,27 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-10-14-poranek-nad-warta
+  lat: 52.45558333333334
+  lon: 16.974708333333332
+  altitude: 43.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 16.0
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1333
+  exposure: 6.0
+  exposure_string: 6 s
+  time: 2016-10-14 08:25:55+02:00
 - image_filename: IMGP7699raw1.jpg
   post_slug: 2016-10-14-poranek-nad-warta
   lat: 52.455555555555556
   lon: 16.97561111111111
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
@@ -15,6 +32,7 @@
   lon: 16.975555555555555
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
@@ -25,6 +43,7 @@
   lon: 16.975541666666665
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
@@ -35,6 +54,7 @@
   lon: 16.975583333333333
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
@@ -48,6 +68,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
@@ -61,6 +82,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 6.0
   exposure_string: 6 s
@@ -74,6 +96,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
@@ -84,6 +107,7 @@
   lon: 16.975541666666665
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
@@ -97,6 +121,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 22.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
@@ -107,6 +132,7 @@
   lon: 16.97559722222222
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0003125
   exposure_string: 1/3200 s
@@ -117,31 +143,18 @@
   lon: 16.975569444444442
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2016-10-14 08:00:25+02:00
-- image_filename: header.jpg
-  post_slug: 2016-10-14-poranek-nad-warta
-  lat: 52.45558333333334
-  lon: 16.974708333333332
-  altitude: 43.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 16.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1333
-  exposure: 6.0
-  exposure_string: 6 s
-  time: 2016-10-14 08:25:55+02:00
 - image_filename: IMGP7695raw1.jpg
   post_slug: 2016-10-14-poranek-nad-warta
   lat: 52.45554166666667
   lon: 16.975624999999997
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0003125
   exposure_string: 1/3200 s
@@ -152,6 +165,7 @@
   lon: 16.975569444444442
   altitude: 42.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.001
   exposure_string: 1/1000 s

@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna
+  lat: 52.46769444444445
+  lon: 17.226763888888886
+  altitude: 90.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-03-04 13:51:20+01:00
 - image_filename: IMGP3064raw1.jpg
   post_slug: 2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna
   lat: 52.402569444444445
@@ -8,6 +22,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -21,6 +36,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -34,6 +50,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -47,6 +64,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,20 +78,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
   time: 2017-03-04 14:30:34+01:00
-- image_filename: header.jpg
-  post_slug: 2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna
-  lat: 52.46769444444445
-  lon: 17.226763888888886
-  altitude: 90.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-03-04 13:51:20+01:00

@@ -1,4 +1,22 @@
 ---
+- image_filename: 2019_03_31__14_59__3310814.jpg
+  post_slug: 2019-03-31-kokoryczkowe-wzgorze
+  lat: 52.496125
+  lon: 16.955388888888887
+  altitude: 90.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.8mm F1.8
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-03-31 14:59:15+02:00
+  focus_distance: 1000.0
 - image_filename: 2019_03_31__14_19__3310708.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
   lat: 52.499722222222225
@@ -8,6 +26,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5075
@@ -25,6 +44,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4579
@@ -42,6 +62,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -59,6 +80,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -76,6 +98,7 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -83,23 +106,6 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2019-03-31 15:07:29+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_03_31__14_59__3310814.jpg
-  post_slug: 2019-03-31-kokoryczkowe-wzgorze
-  lat: 52.496125
-  lon: 16.955388888888887
-  altitude: 90.0
-  focal_length: 8.0
-  focal_length_35: 16.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.8mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-03-31 14:59:15+02:00
   focus_distance: 1000.0
 - image_filename: 2019_03_31__14_48__3310758.jpg
   post_slug: 2019-03-31-kokoryczkowe-wzgorze
@@ -110,6 +116,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 1250
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -127,6 +134,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -144,6 +152,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -161,6 +170,7 @@
   focal_length_35: 26.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -178,6 +188,7 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -195,6 +206,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -212,6 +224,7 @@
   focal_length_35: 172.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -229,6 +242,7 @@
   focal_length_35: 172.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -246,6 +260,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -263,6 +278,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -280,6 +296,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -297,6 +314,7 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -314,6 +332,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M1MarkII
   width: 5240
@@ -331,6 +350,7 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -348,6 +368,7 @@
   focal_length_35: 16.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.8mm F1.8
   camera: E-M1MarkII
   width: 3912
@@ -365,6 +386,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240

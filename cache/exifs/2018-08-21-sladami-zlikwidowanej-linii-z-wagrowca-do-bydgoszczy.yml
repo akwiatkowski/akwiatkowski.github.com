@@ -1,4 +1,22 @@
 ---
+- image_filename: P8210074.jpg
+  post_slug: 2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy
+  lat: 52.96491666666667
+  lon: 17.66575
+  altitude: 91.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4446
+  height: 3440
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2018-08-21 11:46:18+02:00
+  focus_distance: 8.15
 - image_filename: P8210001.jpg
   post_slug: 2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy
   lat: 52.921499999999995
@@ -8,6 +26,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4554
@@ -25,6 +44,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 3472
@@ -42,6 +62,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -59,6 +80,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4465
@@ -76,6 +98,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4455
@@ -93,6 +116,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4438
@@ -110,6 +134,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4518
@@ -127,6 +152,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -144,6 +170,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4429
@@ -161,6 +188,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4519
@@ -178,6 +206,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4594
@@ -195,6 +224,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -212,6 +242,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4505
@@ -229,6 +260,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4493
@@ -243,6 +275,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -257,6 +290,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -274,6 +308,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4457
@@ -291,6 +326,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4161
@@ -308,6 +344,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4508
@@ -322,6 +359,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4443
@@ -339,6 +377,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 3412
@@ -356,6 +395,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -364,23 +404,6 @@
   exposure_string: 1/400 s
   time: 2018-08-21 11:25:28+02:00
   focus_distance: 1000.0
-- image_filename: P8210074.jpg
-  post_slug: 2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy
-  lat: 52.96491666666667
-  lon: 17.66575
-  altitude: 91.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4446
-  height: 3440
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2018-08-21 11:46:18+02:00
-  focus_distance: 8.15
 - image_filename: P8210057.jpg
   post_slug: 2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy
   lat: 52.96080555555556
@@ -390,6 +413,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4308
@@ -407,6 +431,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4450
@@ -424,6 +449,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4524
@@ -441,6 +467,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4518

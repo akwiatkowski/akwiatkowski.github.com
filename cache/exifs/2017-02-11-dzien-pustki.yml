@@ -1,17 +1,4 @@
 ---
-- image_filename: IMGP2718raw1.jpg
-  post_slug: 2017-02-11-dzien-pustki
-  lat: 50.73608333333333
-  lon: 15.739777777777777
-  altitude: 1605.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-02-12 07:23:48+01:00
 - image_filename: header.jpg
   post_slug: 2017-02-11-dzien-pustki
   lat: 50.733666666666664
@@ -21,7 +8,22 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2017-02-11 14:57:41+01:00
+- image_filename: IMGP2718raw1.jpg
+  post_slug: 2017-02-11-dzien-pustki
+  lat: 50.73608333333333
+  lon: 15.739777777777777
+  altitude: 1605.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 5.6
+  iso: 125
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-02-12 07:23:48+01:00

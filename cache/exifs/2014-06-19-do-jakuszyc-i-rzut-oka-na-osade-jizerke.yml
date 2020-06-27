@@ -8,6 +8,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   width: 2048
@@ -15,34 +16,6 @@
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2014-06-19 17:59:45+02:00
-- image_filename: IMGP7318raw1.jpg
-  post_slug: 2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke
-  lat: 50.80799277777778
-  lon: 16.121826388888888
-  altitude: 455.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-06-19 12:09:42+02:00
-- image_filename: IMGP7336raw1.jpg
-  post_slug: 2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke
-  lat: 50.881393055555556
-  lon: 15.952730277777777
-  altitude: 392.4
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 8.0
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-06-19 12:31:31+02:00
 - image_filename: IMGP7322raw1.jpg
   post_slug: 2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke
   lat: 50.80799277777778
@@ -52,6 +25,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -66,6 +40,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -80,8 +55,39 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2014-06-19 17:59:52+02:00
+- image_filename: IMGP7336raw1.jpg
+  post_slug: 2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke
+  lat: 50.881393055555556
+  lon: 15.952730277777777
+  altitude: 392.4
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-06-19 12:31:31+02:00
+- image_filename: IMGP7318raw1.jpg
+  post_slug: 2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke
+  lat: 50.80799277777778
+  lon: 16.121826388888888
+  altitude: 455.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-06-19 12:09:42+02:00

@@ -1,40 +1,40 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2020_05_16__09_03__5161084.jpg
   post_slug: 2020-05-16-dzien-zmiany-planow
-- image_filename: 2020_05_16__08_48__5161067.jpg
-  post_slug: 2020-05-16-dzien-zmiany-planow
-  lat: 52.26668055555555
-  lon: 17.148888888888887
-  altitude: 75.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  lat: 52.274791666666665
+  lon: 17.203097222222222
+  altitude: 81.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4938
-  height: 3706
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-16 08:48:03+02:00
-  focus_distance: 8.51
-- image_filename: 2020_05_16__08_48__5161069.jpg
+  width: 5240
+  height: 3912
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-05-16 09:03:07+02:00
+  focus_distance: 2.33
+- image_filename: 2020_05_16__09_20__5161100.jpg
   post_slug: 2020-05-16-dzien-zmiany-planow
-  lat: 52.26598611111111
-  lon: 17.150291666666664
-  altitude: 75.0
-  focal_length: 29.0
-  focal_length_35: 58.0
+  lat: 52.29741666666666
+  lon: 17.22936111111111
+  altitude: 96.0
+  focal_length: 31.0
+  focal_length_35: 62.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5183
-  height: 3869
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-05-16 08:48:22+02:00
-  focus_distance: 20.48
+  width: 5209
+  height: 3889
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-05-16 09:20:48+02:00
+  focus_distance: 22.57
 - image_filename: 2020_05_16__09_00__5161078.jpg
   post_slug: 2020-05-16-dzien-zmiany-planow
   lat: 52.27290277777778
@@ -44,6 +44,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -61,6 +62,7 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5136
@@ -78,6 +80,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3835
@@ -86,23 +89,42 @@
   exposure_string: 1/100 s
   time: 2020-05-16 09:03:04+02:00
   focus_distance: 1.75
-- image_filename: 2020_05_16__09_03__5161084.jpg
+- image_filename: 2020_05_16__08_48__5161067.jpg
   post_slug: 2020-05-16-dzien-zmiany-planow
-  lat: 52.274791666666665
-  lon: 17.203097222222222
-  altitude: 81.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 52.26668055555555
+  lon: 17.148888888888887
+  altitude: 75.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
-  aperture: 5.6
+  aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-16 09:03:07+02:00
-  focus_distance: 2.33
+  width: 4938
+  height: 3706
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-16 08:48:03+02:00
+  focus_distance: 8.51
+- image_filename: 2020_05_16__08_48__5161069.jpg
+  post_slug: 2020-05-16-dzien-zmiany-planow
+  lat: 52.26598611111111
+  lon: 17.150291666666664
+  altitude: 75.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5183
+  height: 3869
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-05-16 08:48:22+02:00
+  focus_distance: 20.48
 - image_filename: 2020_05_16__09_17__5161097.jpg
   post_slug: 2020-05-16-dzien-zmiany-planow
   lat: 52.29522222222222
@@ -112,6 +134,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5064
@@ -129,6 +152,7 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5085
@@ -137,20 +161,3 @@
   exposure_string: 1/160 s
   time: 2020-05-16 09:17:26+02:00
   focus_distance: 9.17
-- image_filename: 2020_05_16__09_20__5161100.jpg
-  post_slug: 2020-05-16-dzien-zmiany-planow
-  lat: 52.29741666666666
-  lon: 17.22936111111111
-  altitude: 96.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5209
-  height: 3889
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-05-16 09:20:48+02:00
-  focus_distance: 22.57

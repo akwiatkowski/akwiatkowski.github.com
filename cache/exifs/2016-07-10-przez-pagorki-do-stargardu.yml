@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-07-10-przez-pagorki-do-stargardu
+  lat: 53.13381277777778
+  lon: 15.165651111111112
+  altitude: 39.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1333
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-07-10 14:13:24+02:00
 - image_filename: IMGP1991raw1.jpg
   post_slug: 2016-07-10-przez-pagorki-do-stargardu
   lat: 52.96641666666667
@@ -8,6 +24,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,6 +66,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -60,6 +80,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 2.8
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -73,6 +94,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -86,6 +108,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -99,6 +122,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -112,6 +136,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -125,6 +150,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -138,6 +164,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -151,22 +178,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2016-07-10 13:16:07+02:00
-- image_filename: header.jpg
-  post_slug: 2016-07-10-przez-pagorki-do-stargardu
-  lat: 53.13381277777778
-  lon: 15.165651111111112
-  altitude: 39.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1333
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-07-10 14:13:24+02:00

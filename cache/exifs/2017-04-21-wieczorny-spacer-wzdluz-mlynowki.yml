@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-04-21-wieczorny-spacer-wzdluz-mlynowki
+  lat: 51.517625
+  lon: 17.094513888888887
+  altitude: 98.0
+  focal_length: 63.0
+  focal_length_35: 94.0
+  crop: 1.492063492063492
+  aperture: 8.0
+  iso: 200
+  camera: PENTAX K-S2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2017-04-21 18:37:17+02:00
 - image_filename: IMGP4707raw1.jpg
   post_slug: 2017-04-21-wieczorny-spacer-wzdluz-mlynowki
   lat: 51.51241666666667
@@ -8,6 +22,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 7.1
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -21,6 +36,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -34,6 +50,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -47,6 +64,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -60,6 +78,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -73,6 +92,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -86,6 +106,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -99,6 +120,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -112,6 +134,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -125,6 +148,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -138,6 +162,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 7.1
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -151,6 +176,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -164,6 +190,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -177,23 +204,11 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2017-04-21 18:40:44+02:00
-- image_filename: header.jpg
-  post_slug: 2017-04-21-wieczorny-spacer-wzdluz-mlynowki
-  lat: 51.517625
-  lon: 17.094513888888887
-  altitude: 98.0
-  focal_length: 63.0
-  focal_length_35: 94.0
-  crop: 1.492063492063492
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2017-04-21 18:37:17+02:00
 - image_filename: IMGP4744raw1.jpg
   post_slug: 2017-04-21-wieczorny-spacer-wzdluz-mlynowki
   lat: 51.518930555555556
@@ -203,6 +218,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -216,6 +232,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s

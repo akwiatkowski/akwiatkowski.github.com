@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
+  lat: 53.94252472222222
+  lon: 14.190433333333333
+  altitude: 2.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 6.3
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2016-09-17 11:53:02+02:00
 - image_filename: IMGP6378raw1.jpg
   post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
   lat: 53.92706944444444
@@ -8,6 +24,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -21,6 +38,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -47,6 +66,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -60,6 +80,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -73,6 +94,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -86,6 +108,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -99,10 +122,53 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0008
   exposure_string: 1/1250 s
   time: 2016-09-17 17:18:46+02:00
+- image_filename: IMGP6377raw1.jpg
+  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
+  lat: 53.92706944444444
+  lon: 14.224916666666667
+  altitude: 4.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-09-17 11:14:39+02:00
+- image_filename: IMGP6494raw1.jpg
+  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
+  lat: 53.898208333333336
+  lon: 14.144541666666667
+  altitude: 11.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  camera: PENTAX K-S2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-09-17 16:25:32+02:00
+- image_filename: IMGP6421raw1.jpg
+  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
+  lat: 53.955986111111116
+  lon: 14.170402777777777
+  altitude: 3.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-09-17 12:12:09+02:00
 - image_filename: IMGP6426raw1.jpg
   post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
   lat: 53.955958333333335
@@ -112,6 +178,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -125,10 +192,25 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2016-09-17 16:02:02+02:00
+- image_filename: IMGP6492raw1.jpg
+  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
+  lat: 53.912055555555554
+  lon: 14.138263888888888
+  altitude: 2.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2016-09-17 16:09:23+02:00
 - image_filename: IMGP6001raw1.jpg
   post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
   lat: 53.91031944444444
@@ -138,22 +220,22 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 4.5
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2016-09-16 15:30:18+02:00
-- image_filename: header.jpg
+- image_filename: IMGP6400raw1.jpg
   post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.94252472222222
-  lon: 14.190433333333333
-  altitude: 2.1
+  lat: 53.94252777777778
+  lon: 14.190430555555556
+  altitude: 2.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
-  width: 2000
-  height: 1334
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2016-09-17 11:53:02+02:00
@@ -166,72 +248,8 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2016-09-17 16:54:09+02:00
-- image_filename: IMGP6377raw1.jpg
-  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.92706944444444
-  lon: 14.224916666666667
-  altitude: 4.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.0
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-09-17 11:14:39+02:00
-- image_filename: IMGP6421raw1.jpg
-  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.955986111111116
-  lon: 14.170402777777777
-  altitude: 3.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-09-17 12:12:09+02:00
-- image_filename: IMGP6492raw1.jpg
-  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.912055555555554
-  lon: 14.138263888888888
-  altitude: 2.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2016-09-17 16:09:23+02:00
-- image_filename: IMGP6400raw1.jpg
-  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.94252777777778
-  lon: 14.190430555555556
-  altitude: 2.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-09-17 11:53:02+02:00
-- image_filename: IMGP6494raw1.jpg
-  post_slug: 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol
-  lat: 53.898208333333336
-  lon: 14.144541666666667
-  altitude: 11.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-09-17 16:25:32+02:00

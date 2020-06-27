@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2011-09-12-kasprowy-dla-leniwego
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  width: 2048
+  height: 1362
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2011-09-13 11:08:50+02:00
 - image_filename: IMGP1210b1.jpg
   post_slug: 2011-09-12-kasprowy-dla-leniwego
   focal_length: 93.0
   focal_length_35: 139.0
   crop: 1.4946236559139785
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -16,6 +31,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.003125
@@ -27,6 +43,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0008
@@ -38,6 +55,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.001
@@ -49,6 +67,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0025
@@ -60,6 +79,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -71,6 +91,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0008
@@ -82,6 +103,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.002
@@ -93,6 +115,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -106,6 +129,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00025
@@ -117,6 +141,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.00125
@@ -128,6 +153,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -141,6 +167,7 @@
   focal_length_35: 199.0
   crop: 1.4962406015037595
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -152,6 +179,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
@@ -163,30 +191,19 @@
   focal_length_35: 169.0
   crop: 1.4955752212389382
   aperture: 6.3
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2011-09-13 10:35:15+02:00
-- image_filename: header.jpg
-  post_slug: 2011-09-12-kasprowy-dla-leniwego
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.6
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2011-09-13 11:08:50+02:00
 - image_filename: IMGP1234b1.jpg
   post_slug: 2011-09-12-kasprowy-dla-leniwego
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.00125
@@ -198,6 +215,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 400
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008

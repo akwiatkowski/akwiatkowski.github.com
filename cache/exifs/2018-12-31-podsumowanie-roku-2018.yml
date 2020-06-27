@@ -1,19 +1,4 @@
 ---
-- image_filename: P6100413raw1.jpg
-  post_slug: 2018-12-31-podsumowanie-roku-2018
-  lat: 53.89533333333333
-  lon: 19.482041666666664
-  altitude: 98.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M10MarkII
-  exposure: 0.04
-  exposure_string: 1/25 s
-  time: 2018-06-10 12:53:46+02:00
-  focus_distance: 132.35
 - image_filename: P6100451raw1.jpg
   post_slug: 2018-12-31-podsumowanie-roku-2018
   lat: 53.94522222222222
@@ -23,12 +8,29 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2018-06-10 14:53:49+02:00
   focus_distance: 19.29
+- image_filename: P6100413raw1.jpg
+  post_slug: 2018-12-31-podsumowanie-roku-2018
+  lat: 53.89533333333333
+  lon: 19.482041666666664
+  altitude: 98.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  exposure: 0.04
+  exposure_string: 1/25 s
+  time: 2018-06-10 12:53:46+02:00
+  focus_distance: 132.35
 - image_filename: P6100433raw1.jpg
   post_slug: 2018-12-31-podsumowanie-roku-2018
   lat: 53.92198611111111
@@ -38,6 +40,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   exposure: 0.003125

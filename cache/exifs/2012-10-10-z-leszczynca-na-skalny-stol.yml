@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.751892222222224
+  lon: 15.818875555555556
+  altitude: 1175.3
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  width: 2048
+  height: 1356
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2012-10-10 13:56:46+02:00
 - image_filename: IMGP2675b.jpg
   post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
   lat: 50.77066222222222
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -22,6 +40,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -36,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -50,6 +70,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 11.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -64,6 +85,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0008
@@ -78,6 +100,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.000625
@@ -92,6 +115,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.008
@@ -106,6 +130,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -120,6 +145,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928
@@ -136,6 +162,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -150,6 +177,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -164,6 +192,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -178,6 +207,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -192,6 +222,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -206,27 +237,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2012-10-10 09:29:53+02:00
-- image_filename: header.jpg
-  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
-  lat: 50.751892222222224
-  lon: 15.818875555555556
-  altitude: 1175.3
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 4.5
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2012-10-10 13:56:46+02:00
 - image_filename: IMGP2760b.jpg
   post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
   lat: 50.76345305555556
@@ -236,6 +252,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 13.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -250,6 +267,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025

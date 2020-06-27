@@ -1,4 +1,22 @@
 ---
+- image_filename: 2019_04_22__14_37_P4220070.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  lat: 52.27336111111111
+  lon: 16.48848611111111
+  altitude: 77.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4568
+  height: 3342
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-04-22 14:37:02+02:00
+  focus_distance: 1000.0
 - image_filename: 2019_04_22__12_30_P4220008.jpg
   post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
   lat: 52.33215277777778
@@ -8,6 +26,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4529
@@ -25,6 +44,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4407
@@ -42,6 +62,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -59,6 +80,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -76,6 +98,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -93,6 +116,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4535
@@ -110,6 +134,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4475
@@ -127,6 +152,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -144,6 +170,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4169
@@ -161,6 +188,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4541
@@ -168,23 +196,6 @@
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2019-04-22 14:14:52+02:00
-  focus_distance: 1000.0
-- image_filename: 2019_04_22__14_37_P4220070.jpg
-  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
-  lat: 52.27336111111111
-  lon: 16.48848611111111
-  altitude: 77.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 5.0
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4568
-  height: 3342
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-04-22 14:37:02+02:00
   focus_distance: 1000.0
 - image_filename: 2019_04_22__12_50_P4220030.jpg
   post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
@@ -195,6 +206,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -212,6 +224,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -229,6 +242,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4485
@@ -246,6 +260,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4501
@@ -263,6 +278,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4500
@@ -280,6 +296,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4550
@@ -297,6 +314,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -314,6 +332,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -331,6 +350,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4341
@@ -348,6 +368,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -365,6 +386,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640

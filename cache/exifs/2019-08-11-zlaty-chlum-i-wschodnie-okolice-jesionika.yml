@@ -1,4 +1,392 @@
 ---
+- image_filename: 2019_08_11__13_33__8110358.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23809722222222
+  lon: 17.237458333333333
+  altitude: 890.0
+  focal_length: 56.0
+  focal_length_35: 112.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-08-11 13:33:00+02:00
+  focus_distance: 8.85
+- image_filename: 2019_08_11__11_14__8110153.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.22963888888889
+  lon: 17.213069444444443
+  altitude: 480.0
+  focal_length: 92.0
+  focal_length_35: 184.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2019-08-11 11:14:12+02:00
+  focus_distance: 20.56
+- image_filename: 2019_08_11__11_34_DSC08678.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.22829166666667
+  lon: 17.220277777777778
+  altitude: 578.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2019-08-11 11:34:06+02:00
+- image_filename: 2019_08_11__11_44_DSC08686.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.227805555555555
+  lon: 17.223319444444442
+  altitude: 626.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.5
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-08-11 11:44:02+02:00
+- image_filename: 2019_08_11__11_50_DSC08695.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.22647222222223
+  lon: 17.224749999999997
+  altitude: 657.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 6.3
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2019-08-11 11:50:12+02:00
+- image_filename: 2019_08_11__11_55__8110220.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.226222222222226
+  lon: 17.22486111111111
+  altitude: 665.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2019-08-11 11:55:27+02:00
+  focus_distance: 5.28
+- image_filename: 2019_08_11__11_58__8110228.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.22609722222222
+  lon: 17.224638888888887
+  altitude: 667.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5208
+  height: 3894
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2019-08-11 11:58:37+02:00
+  focus_distance: 113.78
+- image_filename: 2019_08_11__13_00_DSC08713.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23305555555556
+  lon: 17.237444444444446
+  altitude: 770.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 2.0
+  iso: 320
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7170
+  height: 4619
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2019-08-11 13:00:35+02:00
+- image_filename: 2019_08_11__13_27__8110344.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.238055555555555
+  lon: 17.237472222222223
+  altitude: 888.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-11 13:27:54+02:00
+  focus_distance: 5.08
+- image_filename: 2019_08_11__13_29_DSC08722.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.238083333333336
+  lon: 17.237458333333333
+  altitude: 889.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 9.0
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-11 13:29:06+02:00
+- image_filename: 2019_08_11__13_36__8110384.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23806944444445
+  lon: 17.237458333333333
+  altitude: 891.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 3912
+  height: 5240
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-11 13:36:02+02:00
+  focus_distance: 6.16
+- image_filename: 2019_08_11__13_45__8110429.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.238055555555555
+  lon: 17.23751388888889
+  altitude: 893.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2019-08-11 13:45:04+02:00
+  focus_distance: 136.53
+- image_filename: 2019_08_11__13_49__8110452.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23804166666667
+  lon: 17.237486111111114
+  altitude: 894.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2019-08-11 13:49:39+02:00
+  focus_distance: 113.78
+- image_filename: 2019_08_11__13_52__8110475.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23804166666667
+  lon: 17.2375
+  altitude: 895.0
+  focal_length: 190.0
+  focal_length_35: 380.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5116
+  height: 3746
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2019-08-11 13:52:27+02:00
+  focus_distance: 61.13
+- image_filename: 2019_08_11__14_20_DSC08733.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.235819444444445
+  lon: 17.242694444444446
+  altitude: 863.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2019-08-11 14:20:10+02:00
+- image_filename: 2019_08_11__14_31_DSC08750.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.23254166666667
+  lon: 17.246791666666667
+  altitude: 852.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 4920
+  height: 7366
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  time: 2019-08-11 14:31:30+02:00
+- image_filename: 2019_08_11__14_32_DSC08756.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.2325
+  lon: 17.24677777777778
+  altitude: 851.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 100
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  time: 2019-08-11 14:32:24+02:00
+- image_filename: 2019_08_11__14_50__8110531.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.22859722222223
+  lon: 17.254805555555556
+  altitude: 890.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5109
+  height: 3744
+  exposure: 0.1
+  exposure_string: 1/10 s
+  time: 2019-08-11 14:50:40+02:00
+  focus_distance: 10.78
+- image_filename: 2019_08_11__15_52__8110638.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.220875
+  lon: 17.254319444444445
+  altitude: 656.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2019-08-11 15:52:29+02:00
+  focus_distance: 5.28
+- image_filename: 2019_08_11__16_25__8110732.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.21504166666667
+  lon: 17.231499999999997
+  altitude: 496.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4216
+  height: 3275
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2019-08-11 16:25:34+02:00
+  focus_distance: 0.7
+- image_filename: 2019_08_11__16_27__8110781.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.214666666666666
+  lon: 17.23109722222222
+  altitude: 494.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5126
+  height: 3703
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2019-08-11 16:27:18+02:00
+  focus_distance: 1.26
+- image_filename: 2019_08_11__16_55__8110985.jpg
+  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
+  lat: 50.21801388888889
+  lon: 17.210430555555554
+  altitude: 446.0
+  focal_length: 87.0
+  focal_length_35: 174.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2019-08-11 16:55:21+02:00
+  focus_distance: 9.35
 - image_filename: 2019_08_11__12_34__8110250.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.227375
@@ -8,6 +396,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -25,6 +414,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -33,23 +423,6 @@
   exposure_string: 1/200 s
   time: 2019-08-11 13:45:46+02:00
   focus_distance: 24.09
-- image_filename: 2019_08_11__13_33__8110358.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23809722222222
-  lon: 17.237458333333333
-  altitude: 890.0
-  focal_length: 56.0
-  focal_length_35: 112.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-11 13:33:00+02:00
-  focus_distance: 8.85
 - image_filename: 2019_08_11__13_38__8110398.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23806944444445
@@ -59,6 +432,7 @@
   focal_length_35: 230.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -76,6 +450,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -93,6 +468,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5090
@@ -110,6 +486,7 @@
   focal_length_35: 172.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -118,22 +495,6 @@
   exposure_string: 1/40 s
   time: 2019-08-11 14:17:08+02:00
   focus_distance: 74.47
-- image_filename: 2019_08_11__13_29_DSC08722.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.238083333333336
-  lon: 17.237458333333333
-  altitude: 889.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 9.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-11 13:29:06+02:00
 - image_filename: 2019_08_11__14_30__8110500.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23251388888889
@@ -143,6 +504,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -160,6 +522,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4849
@@ -168,23 +531,6 @@
   exposure_string: 1/200 s
   time: 2019-08-11 12:44:34+02:00
   focus_distance: 192.75
-- image_filename: 2019_08_11__15_52__8110638.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.220875
-  lon: 17.254319444444445
-  altitude: 656.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2019-08-11 15:52:29+02:00
-  focus_distance: 5.28
 - image_filename: 2019_08_11__14_56__8110539.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.22841666666667
@@ -194,6 +540,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -211,6 +558,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -228,6 +576,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -244,6 +593,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 3.5
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -260,6 +610,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -267,23 +618,6 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2019-08-11 14:21:13+02:00
-- image_filename: 2019_08_11__16_55__8110985.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.21801388888889
-  lon: 17.210430555555554
-  altitude: 446.0
-  focal_length: 87.0
-  focal_length_35: 174.0
-  crop: 2.0
-  aperture: 5.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2019-08-11 16:55:21+02:00
-  focus_distance: 9.35
 - image_filename: 2019_08_11__12_54__8110297.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23201388888889
@@ -293,6 +627,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -301,23 +636,6 @@
   exposure_string: 1/4 s
   time: 2019-08-11 12:54:25+02:00
   focus_distance: 154.57
-- image_filename: 2019_08_11__13_52__8110475.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23804166666667
-  lon: 17.2375
-  altitude: 895.0
-  focal_length: 190.0
-  focal_length_35: 380.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5116
-  height: 3746
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-11 13:52:27+02:00
-  focus_distance: 61.13
 - image_filename: 2019_08_11__16_25__8110722.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.21502777777778
@@ -327,6 +645,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4498
@@ -344,6 +663,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4456
@@ -361,6 +681,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -377,6 +698,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -394,6 +716,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7108
@@ -410,6 +733,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -426,6 +750,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -442,6 +767,7 @@
   focal_length_35: 240.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -459,6 +785,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -476,6 +803,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5009
@@ -484,22 +812,6 @@
   exposure_string: 1/25 s
   time: 2019-08-11 11:19:16+02:00
   focus_distance: 5.08
-- image_filename: 2019_08_11__14_31_DSC08750.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23254166666667
-  lon: 17.246791666666667
-  altitude: 852.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 4920
-  height: 7366
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2019-08-11 14:31:30+02:00
 - image_filename: 2019_08_11__12_45__8110275.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.231680555555556
@@ -509,6 +821,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -526,6 +839,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -543,6 +857,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -560,6 +875,7 @@
   focal_length_35: 270.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -577,6 +893,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -593,6 +910,7 @@
   focal_length_35: 180.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -601,23 +919,6 @@
   exposure_string: 1/160 s
   time: 2019-08-11 13:37:25+02:00
   focus_distance: 20.08
-- image_filename: 2019_08_11__11_55__8110220.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.226222222222226
-  lon: 17.22486111111111
-  altitude: 665.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-11 11:55:27+02:00
-  focus_distance: 5.28
 - image_filename: 2019_08_11__16_13__8110694.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.21705555555556
@@ -627,6 +928,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -644,6 +946,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5173
@@ -661,6 +964,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4421
@@ -678,6 +982,7 @@
   focal_length_35: 220.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -686,22 +991,6 @@
   exposure_string: 1/100 s
   time: 2019-08-11 13:34:17+02:00
   focus_distance: 28.05
-- image_filename: 2019_08_11__13_00_DSC08713.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23305555555556
-  lon: 17.237444444444446
-  altitude: 770.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7170
-  height: 4619
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-11 13:00:35+02:00
 - image_filename: 2019_08_11__16_31__8110893.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.21425
@@ -711,6 +1000,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4534
@@ -728,6 +1018,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5015
@@ -745,6 +1036,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3912
@@ -762,6 +1054,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -779,6 +1072,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4317
@@ -796,6 +1090,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5209
@@ -813,6 +1108,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 5.6
+  iso: 3200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -830,6 +1126,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -847,6 +1144,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -854,23 +1152,6 @@
   exposure: 0.00025
   exposure_string: 1/4000 s
   time: 2019-08-11 11:49:35+02:00
-- image_filename: 2019_08_11__16_27__8110781.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.214666666666666
-  lon: 17.23109722222222
-  altitude: 494.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5126
-  height: 3703
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2019-08-11 16:27:18+02:00
-  focus_distance: 1.26
 - image_filename: 2019_08_11__14_20_DSC08737.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23577777777778
@@ -880,6 +1161,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7016
@@ -896,6 +1178,7 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -913,6 +1196,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4532
@@ -930,6 +1214,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -938,23 +1223,6 @@
   exposure_string: 1/160 s
   time: 2019-08-11 13:11:47+02:00
   focus_distance: 1000.0
-- image_filename: 2019_08_11__11_14__8110153.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.22963888888889
-  lon: 17.213069444444443
-  altitude: 480.0
-  focal_length: 92.0
-  focal_length_35: 184.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-08-11 11:14:12+02:00
-  focus_distance: 20.56
 - image_filename: 2019_08_11__13_36__8110385.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23806944444445
@@ -964,6 +1232,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -972,22 +1241,6 @@
   exposure_string: 1/160 s
   time: 2019-08-11 13:36:06+02:00
   focus_distance: 113.78
-- image_filename: 2019_08_11__11_44_DSC08686.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.227805555555555
-  lon: 17.223319444444442
-  altitude: 626.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.5
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-08-11 11:44:02+02:00
 - image_filename: 2019_08_11__11_51_DSC08702.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.22647222222223
@@ -997,6 +1250,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1013,6 +1267,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1030,6 +1285,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1047,6 +1303,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1064,6 +1321,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1080,6 +1338,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1097,6 +1356,7 @@
   focal_length_35: 240.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1105,55 +1365,6 @@
   exposure_string: 1/125 s
   time: 2019-08-11 13:48:39+02:00
   focus_distance: 35.62
-- image_filename: 2019_08_11__11_34_DSC08678.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.22829166666667
-  lon: 17.220277777777778
-  altitude: 578.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 2.0
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2019-08-11 11:34:06+02:00
-- image_filename: 2019_08_11__11_50_DSC08695.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.22647222222223
-  lon: 17.224749999999997
-  altitude: 657.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 6.3
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-11 11:50:12+02:00
-- image_filename: 2019_08_11__13_36__8110384.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23806944444445
-  lon: 17.237458333333333
-  altitude: 891.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-11 13:36:02+02:00
-  focus_distance: 6.16
 - image_filename: 2019_08_11__14_51__8110536.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.22851388888889
@@ -1163,6 +1374,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1180,6 +1392,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1188,22 +1401,6 @@
   exposure_string: 1/4 s
   time: 2019-08-11 11:16:20+02:00
   focus_distance: 3.43
-- image_filename: 2019_08_11__14_20_DSC08733.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.235819444444445
-  lon: 17.242694444444446
-  altitude: 863.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2019-08-11 14:20:10+02:00
 - image_filename: 2019_08_11__11_37__8110186.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.22848611111111
@@ -1213,6 +1410,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1230,6 +1428,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1247,6 +1446,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1264,6 +1464,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4930
@@ -1281,6 +1482,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4717
@@ -1298,6 +1500,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1306,23 +1509,6 @@
   exposure_string: 1/160 s
   time: 2019-08-11 13:48:18+02:00
   focus_distance: 68.26
-- image_filename: 2019_08_11__13_45__8110429.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.238055555555555
-  lon: 17.23751388888889
-  altitude: 893.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-11 13:45:04+02:00
-  focus_distance: 136.53
 - image_filename: 2019_08_11__13_15__8110339.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23513888888889
@@ -1332,6 +1518,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1340,23 +1527,6 @@
   exposure_string: 1/100 s
   time: 2019-08-11 13:15:27+02:00
   focus_distance: 32.76
-- image_filename: 2019_08_11__11_58__8110228.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.22609722222222
-  lon: 17.224638888888887
-  altitude: 667.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5208
-  height: 3894
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2019-08-11 11:58:37+02:00
-  focus_distance: 113.78
 - image_filename: 2019_08_11__11_54__8110217.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.22644444444445
@@ -1366,6 +1536,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5000
@@ -1383,6 +1554,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5173
@@ -1400,6 +1572,7 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -1417,6 +1590,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4999
@@ -1434,6 +1608,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1441,39 +1616,6 @@
   exposure: 0.0004
   exposure_string: 1/2500 s
   time: 2019-08-11 13:58:07+02:00
-- image_filename: 2019_08_11__14_32_DSC08756.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.2325
-  lon: 17.24677777777778
-  altitude: 851.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.0002
-  exposure_string: 1/5000 s
-  time: 2019-08-11 14:32:24+02:00
-- image_filename: 2019_08_11__14_50__8110531.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.22859722222223
-  lon: 17.254805555555556
-  altitude: 890.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5109
-  height: 3744
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2019-08-11 14:50:40+02:00
-  focus_distance: 10.78
 - image_filename: 2019_08_11__13_51__8110464.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23804166666667
@@ -1483,6 +1625,7 @@
   focal_length_35: 240.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1500,6 +1643,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1517,6 +1661,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4738
@@ -1534,6 +1679,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1551,6 +1697,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5119
@@ -1568,6 +1715,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1576,23 +1724,6 @@
   exposure_string: 1/100 s
   time: 2019-08-11 13:37:36+02:00
   focus_distance: 6.97
-- image_filename: 2019_08_11__16_25__8110732.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.21504166666667
-  lon: 17.231499999999997
-  altitude: 496.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.5
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4216
-  height: 3275
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2019-08-11 16:25:34+02:00
-  focus_distance: 0.7
 - image_filename: 2019_08_11__14_38__8110513.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.23151388888889
@@ -1602,6 +1733,7 @@
   focal_length_35: 34.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1619,6 +1751,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3448
@@ -1636,6 +1769,7 @@
   focal_length_35: 310.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1653,6 +1787,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4855
@@ -1670,6 +1805,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5020
@@ -1687,6 +1823,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1704,6 +1841,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 4.0
+  iso: 250
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -1720,6 +1858,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5051
@@ -1737,6 +1876,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 2.2
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1753,6 +1893,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5145
@@ -1770,6 +1911,7 @@
   focal_length_35: 112.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5181
@@ -1787,6 +1929,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5166
@@ -1804,6 +1947,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -1812,40 +1956,6 @@
   exposure_string: 1/125 s
   time: 2019-08-11 13:47:16+02:00
   focus_distance: 113.78
-- image_filename: 2019_08_11__13_49__8110452.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.23804166666667
-  lon: 17.237486111111114
-  altitude: 894.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 5.6
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-08-11 13:49:39+02:00
-  focus_distance: 113.78
-- image_filename: 2019_08_11__13_27__8110344.jpg
-  post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
-  lat: 50.238055555555555
-  lon: 17.237472222222223
-  altitude: 888.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2019-08-11 13:27:54+02:00
-  focus_distance: 5.08
 - image_filename: 2019_08_11__13_14__8110334.jpg
   post_slug: 2019-08-11-zlaty-chlum-i-wschodnie-okolice-jesionika
   lat: 50.234791666666666
@@ -1855,6 +1965,7 @@
   focal_length_35: 108.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1872,6 +1983,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5193
@@ -1889,6 +2001,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1905,6 +2018,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -1922,6 +2036,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -1938,6 +2053,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240

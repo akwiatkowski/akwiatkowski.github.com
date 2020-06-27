@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP5652raw1.jpg
+  post_slug: 2018-02-04-stare-miasto-w-gdansku
+  lat: 54.348
+  lon: 18.655624999999997
+  altitude: 4.0
+  focal_length: 14.0
+  focal_length_35: 21.0
+  crop: 1.5
+  aperture: 11.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2018-02-04 15:37:46+01:00
 - image_filename: IMGP5610raw1.jpg
   post_slug: 2018-02-04-stare-miasto-w-gdansku
   lat: 54.351875
@@ -8,6 +22,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -21,6 +36,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -34,6 +50,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 20.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 20.0
   exposure_string: 20 s
@@ -47,6 +64,7 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -60,6 +78,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -73,6 +92,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -86,6 +106,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -99,6 +120,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -112,6 +134,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -125,6 +148,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -138,6 +162,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 5.0
   exposure_string: 5 s
@@ -151,6 +176,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
@@ -164,6 +190,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 3.0
   exposure_string: 3 s
@@ -177,6 +204,7 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -190,6 +218,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -203,6 +232,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 22.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -216,23 +246,11 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
   time: 2018-02-04 16:32:39+01:00
-- image_filename: IMGP5652raw1.jpg
-  post_slug: 2018-02-04-stare-miasto-w-gdansku
-  lat: 54.348
-  lon: 18.655624999999997
-  altitude: 4.0
-  focal_length: 14.0
-  focal_length_35: 21.0
-  crop: 1.5
-  aperture: 11.0
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 15:37:46+01:00
 - image_filename: IMGP5630raw1.jpg
   post_slug: 2018-02-04-stare-miasto-w-gdansku
   lat: 54.352291666666666
@@ -242,6 +260,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -255,6 +274,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -268,6 +288,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s
@@ -278,6 +299,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -291,6 +313,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -304,6 +327,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -317,6 +341,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -330,6 +355,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -343,6 +369,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -356,6 +383,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
@@ -369,6 +397,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 20.0
   exposure_string: 20 s
@@ -382,6 +411,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 20.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 6.0
   exposure_string: 6 s
@@ -395,6 +425,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 29.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
@@ -408,6 +439,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -421,6 +453,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -434,6 +467,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -447,6 +481,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -460,6 +495,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s

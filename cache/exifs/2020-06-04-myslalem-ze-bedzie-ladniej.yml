@@ -1,6 +1,22 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2020_06_04__15_36__6045512.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.121722222222225
+  lon: 19.135402777777777
+  altitude: 100.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 15:36:48+02:00
+  focus_distance: 3.7
 - image_filename: 2020_06_04__11_12__6045366.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.00866666666667
@@ -10,6 +26,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4973
@@ -18,40 +35,6 @@
   exposure_string: 1/200 s
   time: 2020-06-04 11:12:15+02:00
   focus_distance: 2.92
-- image_filename: 2020_06_04__11_12__6045365.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.008583333333334
-  lon: 18.610569444444447
-  altitude: 40.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4488
-  height: 3239
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 11:12:09+02:00
-  focus_distance: 5.72
-- image_filename: 2020_06_04__11_55__6045372.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.04973611111111
-  lon: 18.717680555555553
-  altitude: 82.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-04 11:55:28+02:00
-  focus_distance: 3.19
 - image_filename: 2020_06_04__11_12__6045369.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.009083333333336
@@ -61,6 +44,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4381
@@ -69,6 +53,24 @@
   exposure_string: 1/200 s
   time: 2020-06-04 11:12:41+02:00
   focus_distance: 2.98
+- image_filename: 2020_06_04__11_55__6045372.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.04973611111111
+  lon: 18.717680555555553
+  altitude: 82.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-04 11:55:28+02:00
+  focus_distance: 3.19
 - image_filename: 2020_06_04__12_06__6045377.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.045791666666666
@@ -78,6 +80,7 @@
   focal_length_35: 62.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3890
@@ -95,6 +98,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5141
@@ -103,74 +107,6 @@
   exposure_string: 1/250 s
   time: 2020-06-04 12:12:56+02:00
   focus_distance: 57.49
-- image_filename: 2020_06_04__12_06__6045379.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.04544444444444
-  lon: 18.734722222222224
-  altitude: 92.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-04 12:06:30+02:00
-  focus_distance: 9.23
-- image_filename: 2020_06_04__12_17__6045391.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.05206944444444
-  lon: 18.773402777777775
-  altitude: 85.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5016
-  height: 3597
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 12:17:57+02:00
-  focus_distance: 21.44
-- image_filename: 2020_06_04__12_45__6045404.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.07038888888889
-  lon: 18.87088888888889
-  altitude: 55.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5107
-  height: 3812
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-04 12:45:00+02:00
-  focus_distance: 2.54
-- image_filename: 2020_06_04__12_39__6045399.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.07384722222223
-  lon: 18.849069444444442
-  altitude: 57.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4998
-  height: 3732
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-04 12:39:07+02:00
-  focus_distance: 5.28
 - image_filename: 2020_06_04__12_38__6045395.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.073875
@@ -180,6 +116,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5111
@@ -197,6 +134,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5159
@@ -205,23 +143,6 @@
   exposure_string: 1/160 s
   time: 2020-06-04 12:40:00+02:00
   focus_distance: 12.09
-- image_filename: 2020_06_04__13_30__6045435.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.07445833333334
-  lon: 18.96072222222222
-  altitude: 62.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5056
-  height: 3645
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-04 13:30:00+02:00
-  focus_distance: 1000.0
 - image_filename: 2020_06_04__13_09__6045417.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.071513888888894
@@ -231,6 +152,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -248,6 +170,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5101
@@ -256,23 +179,24 @@
   exposure_string: 1/200 s
   time: 2020-06-04 13:20:17+02:00
   focus_distance: 45.76
-- image_filename: 2020_06_04__13_55__6045456.jpg
+- image_filename: 2020_06_04__13_30__6045435.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.106236111111116
-  lon: 19.025416666666665
-  altitude: 59.0
+  lat: 53.07445833333334
+  lon: 18.96072222222222
+  altitude: 62.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5112
-  height: 3884
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-04 13:55:21+02:00
-  focus_distance: 4.03
+  width: 5056
+  height: 3645
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-04 13:30:00+02:00
+  focus_distance: 1000.0
 - image_filename: 2020_06_04__13_55__6045452.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.10561111111111
@@ -282,6 +206,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5115
@@ -299,6 +224,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -307,40 +233,6 @@
   exposure_string: 1/160 s
   time: 2020-06-04 14:06:08+02:00
   focus_distance: 1000.0
-- image_filename: 2020_06_04__14_12__6045470.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.11541666666667
-  lon: 19.04925
-  altitude: 92.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5166
-  height: 3771
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-04 14:12:09+02:00
-  focus_distance: 4.03
-- image_filename: 2020_06_04__14_14__6045477-hdr.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.115430555555555
-  lon: 19.049277777777778
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5166
-  height: 3816
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2020-06-04 14:14:11+02:00
-  focus_distance: 4.03
 - image_filename: 2020_06_04__14_25__6045489.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.114875000000005
@@ -350,6 +242,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4886
@@ -358,57 +251,6 @@
   exposure_string: 1/250 s
   time: 2020-06-04 14:25:15+02:00
   focus_distance: 3.19
-- image_filename: 2020_06_04__14_16__6045486.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.115375
-  lon: 19.049319444444446
-  altitude: 93.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4712
-  height: 3783
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-04 14:16:48+02:00
-  focus_distance: 2.8
-- image_filename: 2020_06_04__14_25__6045491.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.114875000000005
-  lon: 19.048444444444446
-  altitude: 93.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5217
-  height: 3882
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-04 14:25:25+02:00
-  focus_distance: 28.25
-- image_filename: 2020_06_04__15_28__6045507.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.12316666666667
-  lon: 19.124180555555554
-  altitude: 72.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-04 15:28:29+02:00
-  focus_distance: 3.35
 - image_filename: 2020_06_04__14_25__6045494.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.11486111111111
@@ -418,6 +260,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5197
@@ -435,6 +278,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -443,23 +287,6 @@
   exposure_string: 1/80 s
   time: 2020-06-04 15:34:47+02:00
   focus_distance: 2.92
-- image_filename: 2020_06_04__15_36__6045512.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.121722222222225
-  lon: 19.135402777777777
-  altitude: 100.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 15:36:48+02:00
-  focus_distance: 3.7
 - image_filename: 2020_06_04__16_17__6045522.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.14906944444444
@@ -469,6 +296,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -477,125 +305,6 @@
   exposure_string: 1/160 s
   time: 2020-06-04 16:17:21+02:00
   focus_distance: 9.79
-- image_filename: 2020_06_04__15_38__6045520.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.12356944444444
-  lon: 19.13998611111111
-  altitude: 95.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5094
-  height: 3803
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 15:38:37+02:00
-  focus_distance: 3.43
-- image_filename: 2020_06_04__16_35__6045526.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.16979166666666
-  lon: 19.305069444444445
-  altitude: 95.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5126
-  height: 3755
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-04 16:35:30+02:00
-  focus_distance: 40.45
-- image_filename: 2020_06_04__16_38__6045530.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.16976388888889
-  lon: 19.305111111111113
-  altitude: 95.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5062
-  height: 3774
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-04 16:38:33+02:00
-  focus_distance: 2.74
-- image_filename: 2020_06_04__16_39__6045540.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.17118055555555
-  lon: 19.306958333333334
-  altitude: 91.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5180
-  height: 3867
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 16:39:49+02:00
-  focus_distance: 30.8
-- image_filename: 2020_06_04__16_38__6045534.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.16976388888889
-  lon: 19.305111111111113
-  altitude: 95.0
-  focal_length: 31.0
-  focal_length_35: 62.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4987
-  height: 3723
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-04 16:38:53+02:00
-  focus_distance: 10.87
-- image_filename: 2020_06_04__16_49__6045552.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.17920833333333
-  lon: 19.341152777777776
-  altitude: 91.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5100
-  height: 3807
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-04 16:49:58+02:00
-  focus_distance: 14.27
-- image_filename: 2020_06_04__16_55__6046525.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.18284722222222
-  lon: 19.35298611111111
-  altitude: 88.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5070
-  height: 3785
-  exposure: 0.0005
-  exposure_string: 1/2000 s
-  time: 2020-06-04 16:55:48+02:00
-  focus_distance: 7.03
 - image_filename: 2020_06_04__16_40__6045546.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.17194444444444
@@ -605,6 +314,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -613,23 +323,24 @@
   exposure_string: 1/160 s
   time: 2020-06-04 16:40:22+02:00
   focus_distance: 112.99
-- image_filename: 2020_06_04__16_40__6045543.jpg
+- image_filename: 2020_06_04__16_49__6045552.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.17176388888889
-  lon: 19.309833333333334
-  altitude: 86.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 53.17920833333333
+  lon: 19.341152777777776
+  altitude: 91.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
-  aperture: 6.3
+  aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5110
-  height: 3815
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-04 16:40:09+02:00
-  focus_distance: 3.7
+  width: 5100
+  height: 3807
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 16:49:58+02:00
+  focus_distance: 14.27
 - image_filename: 2020_06_04__16_56__6046535.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.18283333333333
@@ -639,6 +350,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 4615
@@ -647,23 +359,6 @@
   exposure_string: 1/2500 s
   time: 2020-06-04 16:56:16+02:00
   focus_distance: 1.81
-- image_filename: 2020_06_04__16_56__6046545.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.18284722222222
-  lon: 19.353
-  altitude: 88.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4980
-  height: 3718
-  exposure: 0.0003125
-  exposure_string: 1/3200 s
-  time: 2020-06-04 16:56:52+02:00
-  focus_distance: 3.31
 - image_filename: 2020_06_04__19_05__6045556.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.281416666666665
@@ -673,6 +368,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -690,6 +386,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 800
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 3688
@@ -707,6 +404,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 1600
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5190
@@ -715,23 +413,6 @@
   exposure_string: 1/160 s
   time: 2020-06-04 19:59:11+02:00
   focus_distance: 2.64
-- image_filename: 2020_06_04__19_55__6046562.jpg
-  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
-  lat: 53.28140277777778
-  lon: 19.405541666666664
-  altitude: 112.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 2.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4505
-  height: 3420
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-04 19:55:24+02:00
-  focus_distance: 2.48
 - image_filename: 2020_06_04__20_01__6046710.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.28140277777778
@@ -741,6 +422,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 320
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5166
@@ -749,6 +431,240 @@
   exposure_string: 1/40 s
   time: 2020-06-04 20:01:09+02:00
   focus_distance: 2.05
+- image_filename: 2020_06_04__20_04__6046757.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.28140277777778
+  lon: 19.405541666666664
+  altitude: 113.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.0
+  iso: 800
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 3911
+  height: 5239
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-04 20:04:37+02:00
+  focus_distance: 1.37
+- image_filename: 2020_06_04__13_55__6045456.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.106236111111116
+  lon: 19.025416666666665
+  altitude: 59.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5112
+  height: 3884
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-04 13:55:21+02:00
+  focus_distance: 4.03
+- image_filename: 2020_06_04__14_14__6045477-hdr.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.115430555555555
+  lon: 19.049277777777778
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5166
+  height: 3816
+  exposure: 0.1
+  exposure_string: 1/10 s
+  time: 2020-06-04 14:14:11+02:00
+  focus_distance: 4.03
+- image_filename: 2020_06_04__12_45__6045404.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.07038888888889
+  lon: 18.87088888888889
+  altitude: 55.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5107
+  height: 3812
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-04 12:45:00+02:00
+  focus_distance: 2.54
+- image_filename: 2020_06_04__16_56__6046545.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.18284722222222
+  lon: 19.353
+  altitude: 88.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 4980
+  height: 3718
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  time: 2020-06-04 16:56:52+02:00
+  focus_distance: 3.31
+- image_filename: 2020_06_04__16_35__6045526.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.16979166666666
+  lon: 19.305069444444445
+  altitude: 95.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5126
+  height: 3755
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-04 16:35:30+02:00
+  focus_distance: 40.45
+- image_filename: 2020_06_04__16_55__6046525.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.18284722222222
+  lon: 19.35298611111111
+  altitude: 88.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 5070
+  height: 3785
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  time: 2020-06-04 16:55:48+02:00
+  focus_distance: 7.03
+- image_filename: 2020_06_04__14_25__6045491.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.114875000000005
+  lon: 19.048444444444446
+  altitude: 93.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5217
+  height: 3882
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-04 14:25:25+02:00
+  focus_distance: 28.25
+- image_filename: 2020_06_04__12_39__6045399.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.07384722222223
+  lon: 18.849069444444442
+  altitude: 57.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4998
+  height: 3732
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-04 12:39:07+02:00
+  focus_distance: 5.28
+- image_filename: 2020_06_04__16_38__6045530.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.16976388888889
+  lon: 19.305111111111113
+  altitude: 95.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5062
+  height: 3774
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-04 16:38:33+02:00
+  focus_distance: 2.74
+- image_filename: 2020_06_04__16_39__6045540.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.17118055555555
+  lon: 19.306958333333334
+  altitude: 91.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5180
+  height: 3867
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 16:39:49+02:00
+  focus_distance: 30.8
+- image_filename: 2020_06_04__15_28__6045507.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.12316666666667
+  lon: 19.124180555555554
+  altitude: 72.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-04 15:28:29+02:00
+  focus_distance: 3.35
+- image_filename: 2020_06_04__12_06__6045379.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.04544444444444
+  lon: 18.734722222222224
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-04 12:06:30+02:00
+  focus_distance: 9.23
 - image_filename: 2020_06_04__20_00__6046682.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.28140277777778
@@ -758,6 +674,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 500
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 4623
@@ -775,6 +692,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 2.0
+  iso: 1000
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 3911
@@ -783,20 +701,147 @@
   exposure_string: 1/100 s
   time: 2020-06-04 20:04:33+02:00
   focus_distance: 1.52
-- image_filename: 2020_06_04__20_04__6046757.jpg
+- image_filename: 2020_06_04__15_38__6045520.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.12356944444444
+  lon: 19.13998611111111
+  altitude: 95.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5094
+  height: 3803
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 15:38:37+02:00
+  focus_distance: 3.43
+- image_filename: 2020_06_04__14_16__6045486.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.115375
+  lon: 19.049319444444446
+  altitude: 93.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4712
+  height: 3783
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-04 14:16:48+02:00
+  focus_distance: 2.8
+- image_filename: 2020_06_04__11_12__6045365.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.008583333333334
+  lon: 18.610569444444447
+  altitude: 40.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4488
+  height: 3239
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 11:12:09+02:00
+  focus_distance: 5.72
+- image_filename: 2020_06_04__16_38__6045534.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.16976388888889
+  lon: 19.305111111111113
+  altitude: 95.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4987
+  height: 3723
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-04 16:38:53+02:00
+  focus_distance: 10.87
+- image_filename: 2020_06_04__14_12__6045470.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.11541666666667
+  lon: 19.04925
+  altitude: 92.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5166
+  height: 3771
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-04 14:12:09+02:00
+  focus_distance: 4.03
+- image_filename: 2020_06_04__12_17__6045391.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.05206944444444
+  lon: 18.773402777777775
+  altitude: 85.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5016
+  height: 3597
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-04 12:17:57+02:00
+  focus_distance: 21.44
+- image_filename: 2020_06_04__19_55__6046562.jpg
   post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
   lat: 53.28140277777778
   lon: 19.405541666666664
-  altitude: 113.0
+  altitude: 112.0
   focal_length: 75.0
   focal_length_35: 150.0
   crop: 2.0
-  aperture: 2.0
+  aperture: 2.8
+  iso: 1250
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-04 20:04:37+02:00
-  focus_distance: 1.37
+  width: 4505
+  height: 3420
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-04 19:55:24+02:00
+  focus_distance: 2.48
+- image_filename: 2020_06_04__16_40__6045543.jpg
+  post_slug: 2020-06-04-myslalem-ze-bedzie-ladniej
+  lat: 53.17176388888889
+  lon: 19.309833333333334
+  altitude: 86.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5110
+  height: 3815
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-04 16:40:09+02:00
+  focus_distance: 3.7

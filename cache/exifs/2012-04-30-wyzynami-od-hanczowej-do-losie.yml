@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-04-30-wyzynami-od-hanczowej-do-losie
+  lat: 49.5553275
+  lon: 21.073153333333334
+  altitude: 448.6
+  focal_length: 45.0
+  focal_length_35: 67.0
+  crop: 1.488888888888889
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 16-45mm F4 ED AL
+  camera: PENTAX K100D
+  width: 2048
+  height: 1362
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2012-05-01 11:47:14+02:00
 - image_filename: IMGP6102b.jpg
   post_slug: 2012-04-30-wyzynami-od-hanczowej-do-losie
   lat: 49.472860555555556
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.000625
@@ -22,6 +40,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.002
@@ -36,6 +55,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 2000
@@ -52,6 +72,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.016666666666666666
@@ -66,6 +87,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.003125
@@ -80,6 +102,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.00125
@@ -94,6 +117,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.00625
@@ -108,6 +132,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0005
@@ -122,6 +147,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.008
@@ -136,6 +162,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.002
@@ -150,6 +177,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.7
+  iso: 800
   lens: Sigma Lens
   camera: PENTAX K100D
   width: 3008
@@ -166,6 +194,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.008
@@ -180,27 +209,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.000625
   exposure_string: 1/1600 s
   time: 2012-04-30 09:13:12+02:00
-- image_filename: header.jpg
-  post_slug: 2012-04-30-wyzynami-od-hanczowej-do-losie
-  lat: 49.5553275
-  lon: 21.073153333333334
-  altitude: 448.6
-  focal_length: 45.0
-  focal_length_35: 67.0
-  crop: 1.488888888888889
-  aperture: 7.1
-  lens: smc PENTAX-DA 16-45mm F4 ED AL
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2012-05-01 11:47:14+02:00
 - image_filename: IMGP6504b.jpg
   post_slug: 2012-04-30-wyzynami-od-hanczowej-do-losie
   lat: 49.56089305555555
@@ -210,6 +224,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.016666666666666666
@@ -224,6 +239,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 3008

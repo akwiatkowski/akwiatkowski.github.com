@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-04-15-orlowa-i-rownica-w-beskidzie-slaskim
+  lat: 49.69894083333333
+  lon: 18.866146944444445
+  altitude: 634.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  width: 2048
+  height: 1362
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2012-04-14 14:35:07+02:00
 - image_filename: IMGP4714.JPG
   post_slug: 2012-04-15-orlowa-i-rownica-w-beskidzie-slaskim
   lat: 49.69186111111111
@@ -8,6 +25,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 3008
@@ -24,6 +42,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -40,6 +59,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 3008
@@ -56,6 +76,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -72,6 +93,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -88,6 +110,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -104,6 +127,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -111,19 +135,3 @@
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2012-04-14 15:09:27+02:00
-- image_filename: header.jpg
-  post_slug: 2012-04-15-orlowa-i-rownica-w-beskidzie-slaskim
-  lat: 49.69894083333333
-  lon: 18.866146944444445
-  altitude: 634.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  width: 2048
-  height: 1362
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2012-04-14 14:35:07+02:00

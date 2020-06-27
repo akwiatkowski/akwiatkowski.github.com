@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-05-02-pociagiem-pierscien-i-granica
+  lat: 51.11036111111111
+  lon: 15.593125
+  altitude: 217.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 320
+  camera: PENTAX K-S2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2017-05-02 10:38:03+02:00
 - image_filename: IMGP5594raw1.jpg
   post_slug: 2017-05-02-pociagiem-pierscien-i-granica
   lat: 50.93919444444444
@@ -8,6 +22,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +36,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -34,6 +50,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 4.5
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,6 +64,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 5.6
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -60,6 +78,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -73,6 +92,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -86,6 +106,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -99,6 +120,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -112,6 +134,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -125,6 +148,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -138,6 +162,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 6.3
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -151,6 +176,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -164,6 +190,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -177,6 +204,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -190,6 +218,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -203,6 +232,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -216,6 +246,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -229,6 +260,7 @@
   focal_length_35: 31.0
   crop: 1.4761904761904763
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -239,6 +271,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -252,6 +285,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -265,6 +299,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 3.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -278,6 +313,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -291,6 +327,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -304,6 +341,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -317,6 +355,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -330,6 +369,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -343,6 +383,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -356,23 +397,11 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 7.1
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
   time: 2017-05-02 11:18:30+02:00
-- image_filename: header.jpg
-  post_slug: 2017-05-02-pociagiem-pierscien-i-granica
-  lat: 51.11036111111111
-  lon: 15.593125
-  altitude: 217.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2017-05-02 10:38:03+02:00
 - image_filename: IMGP5700raw1.jpg
   post_slug: 2017-05-02-pociagiem-pierscien-i-granica
   lat: 51.10965277777778
@@ -382,6 +411,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 7.1
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -395,6 +425,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -408,6 +439,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s

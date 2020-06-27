@@ -1,4 +1,17 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 9.0
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2016-07-20 16:57:11+02:00
 - image_filename: IMGP2783raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
   lat: 49.23633138888889
@@ -8,6 +21,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +35,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -34,6 +49,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -47,6 +63,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -60,6 +77,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -73,6 +91,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -86,6 +105,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -99,6 +119,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.2
   exposure_string: 1/5 s
@@ -112,6 +133,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -125,6 +147,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -138,6 +161,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -151,6 +175,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -164,6 +189,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -177,6 +203,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -190,6 +217,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -203,6 +231,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -216,6 +245,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -229,6 +259,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.25
   exposure_string: 1/4 s
@@ -242,6 +273,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.16666666666666666
   exposure_string: 1/6 s
@@ -255,6 +287,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.2
   exposure_string: 1/5 s
@@ -268,6 +301,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -281,6 +315,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -294,6 +329,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -307,6 +343,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.125
   exposure_string: 1/8 s
@@ -320,6 +357,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -333,6 +371,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -346,6 +385,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -359,6 +399,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -372,6 +413,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -385,6 +427,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -398,6 +441,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -411,6 +455,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -424,6 +469,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -437,6 +483,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -450,6 +497,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -463,6 +511,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -476,6 +525,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -489,6 +539,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -502,6 +553,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 160
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -515,6 +567,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -528,6 +581,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.2
   exposure_string: 1/5 s
@@ -541,6 +595,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -554,6 +609,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -567,6 +623,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -580,22 +637,11 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2016-07-20 17:18:17+02:00
-- image_filename: header.jpg
-  post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 9.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2016-07-20 16:57:11+02:00
 - image_filename: IMGP2894raw1.jpg
   post_slug: 2016-07-20-drugie-wejscie-na-trzydniowianski-wierch
   lat: 49.21907388888889
@@ -605,6 +651,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 9.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -618,6 +665,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s

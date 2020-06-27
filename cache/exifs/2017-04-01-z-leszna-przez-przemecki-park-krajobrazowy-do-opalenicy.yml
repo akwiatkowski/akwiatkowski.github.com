@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-04-01-z-leszna-przez-przemecki-park-krajobrazowy-do-opalenicy
+  lat: 51.88475
+  lon: 16.445125
+  altitude: 103.0
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2017-04-01 09:45:17+02:00
 - image_filename: IMGP3313raw1.jpg
   post_slug: 2017-04-01-z-leszna-przez-przemecki-park-krajobrazowy-do-opalenicy
   lat: 51.85516666666667
@@ -8,6 +22,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -21,6 +36,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -34,6 +50,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -47,6 +64,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -60,6 +78,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -73,6 +92,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -86,6 +106,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -99,6 +120,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -112,6 +134,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -125,6 +148,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -138,6 +162,7 @@
   focal_length_35: 16.0
   crop: 1.4545454545454546
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -151,6 +176,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -164,20 +190,8 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2017-04-01 09:39:01+02:00
-- image_filename: header.jpg
-  post_slug: 2017-04-01-z-leszna-przez-przemecki-park-krajobrazowy-do-opalenicy
-  lat: 51.88475
-  lon: 16.445125
-  altitude: 103.0
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 6.3
-  camera: PENTAX K-S2
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2017-04-01 09:45:17+02:00

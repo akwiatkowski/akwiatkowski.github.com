@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-05-03-krotka-trasa-przez-ropki
+  lat: 49.445054166666665
+  lon: 21.138090555555554
+  altitude: 659.6
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K100D
+  width: 2000
+  height: 1330
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2012-05-03 10:11:43+02:00
 - image_filename: IMGP7975.JPG
   post_slug: 2012-05-03-krotka-trasa-przez-ropki
   lat: 49.46962638888889
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -24,6 +42,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.0025
@@ -38,6 +57,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -49,6 +69,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -65,6 +86,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -81,6 +103,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   width: 3008
@@ -97,6 +120,7 @@
   focal_length_35: 24.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.001
@@ -111,6 +135,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 16-45mm F4 ED AL
   camera: PENTAX K100D
   exposure: 0.002
@@ -122,6 +147,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -135,6 +161,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -148,6 +175,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008
@@ -155,22 +183,6 @@
   exposure: 0.000625
   exposure_string: 1/1600 s
   time: 2012-05-03 18:15:02+02:00
-- image_filename: header.jpg
-  post_slug: 2012-05-03-krotka-trasa-przez-ropki
-  lat: 49.445054166666665
-  lon: 21.138090555555554
-  altitude: 659.6
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 6.3
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K100D
-  width: 2000
-  height: 1330
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2012-05-03 10:11:43+02:00
 - image_filename: IMGP7996b.jpg
   post_slug: 2012-05-03-krotka-trasa-przez-ropki
   lat: 49.46931222222222
@@ -180,6 +192,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   exposure: 0.0015625
@@ -194,6 +207,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K100D
   width: 3008

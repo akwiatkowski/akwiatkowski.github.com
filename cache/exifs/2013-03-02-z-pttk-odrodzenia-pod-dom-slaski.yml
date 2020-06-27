@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-03-02-z-pttk-odrodzenia-pod-dom-slaski
+  lat: 50.741126944444446
+  lon: 15.719278888888889
+  altitude: 1405.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 9.0
+  iso: 100
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  width: 2048
+  height: 1356
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2013-03-02 12:54:11+01:00
 - image_filename: IMGP9357b.jpg.jpg
   post_slug: 2013-03-02-z-pttk-odrodzenia-pod-dom-slaski
 - image_filename: IMGP9409b.jpg
@@ -10,6 +27,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.001
@@ -24,6 +42,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.00125
@@ -38,6 +57,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -52,6 +72,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 20.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.001
@@ -66,6 +87,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928
@@ -82,6 +104,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0008
@@ -93,6 +116,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -107,6 +131,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.000625
@@ -121,6 +146,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 14.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -135,6 +161,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -149,6 +176,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00125
@@ -160,27 +188,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2013-03-02 06:28:39+01:00
-- image_filename: header.jpg
-  post_slug: 2013-03-02-z-pttk-odrodzenia-pod-dom-slaski
-  lat: 50.741126944444446
-  lon: 15.719278888888889
-  altitude: 1405.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 9.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2013-03-02 12:54:11+01:00
 - image_filename: IMGP9490b.JPG
   post_slug: 2013-03-02-z-pttk-odrodzenia-pod-dom-slaski
   lat: 50.76068138888889
@@ -190,6 +203,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928
@@ -206,6 +220,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -220,6 +235,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928

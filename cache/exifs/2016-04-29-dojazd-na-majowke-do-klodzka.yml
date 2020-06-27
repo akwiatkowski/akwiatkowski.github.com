@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
+  lat: 50.46798805555556
+  lon: 16.579857222222223
+  altitude: 355.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  width: 2000
+  height: 1326
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2016-04-29 16:27:16+02:00
 - image_filename: IMGP9516raw1.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
   lat: 50.76826583333333
@@ -8,6 +25,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.001
@@ -22,6 +40,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.00125
@@ -36,6 +55,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -50,6 +70,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -64,6 +85,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -78,6 +100,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -92,6 +115,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.00125
@@ -106,6 +130,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -120,6 +145,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -134,6 +160,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -148,6 +175,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.008
@@ -162,6 +190,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -176,6 +205,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
@@ -190,6 +220,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -204,27 +235,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2016-04-29 15:12:40+02:00
-- image_filename: header.jpg
-  post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
-  lat: 50.46798805555556
-  lon: 16.579857222222223
-  altitude: 355.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2000
-  height: 1326
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2016-04-29 16:27:16+02:00
 - image_filename: IMGP9555raw1.jpg
   post_slug: 2016-04-29-dojazd-na-majowke-do-klodzka
   lat: 50.71268555555556
@@ -234,6 +250,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0008
@@ -248,6 +265,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.000625

@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-08-10-ze-swieradowa-przez-gryfow-slaski-w-strone-lubania
+  lat: 51.03547333333333
+  lon: 15.328929166666667
+  altitude: 319.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 9.0
+  iso: 100
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2016-08-10 11:58:39+02:00
 - image_filename: IMGP4220raw1.jpg
   post_slug: 2016-08-10-ze-swieradowa-przez-gryfow-slaski-w-strone-lubania
   lat: 51.028259722222224
@@ -8,6 +24,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -21,6 +38,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -34,6 +52,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -47,6 +66,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -60,22 +80,8 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 2.8
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
   time: 2016-08-10 14:05:57+02:00
-- image_filename: header.jpg
-  post_slug: 2016-08-10-ze-swieradowa-przez-gryfow-slaski-w-strone-lubania
-  lat: 51.03547333333333
-  lon: 15.328929166666667
-  altitude: 319.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 9.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2016-08-10 11:58:39+02:00

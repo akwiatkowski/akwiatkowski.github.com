@@ -1,6 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-05-22-dojazd-do-sierakowa-przez-puszcze
 - image_filename: 2020_05_22__12_14__5222465.jpg
   post_slug: 2020-05-22-dojazd-do-sierakowa-przez-puszcze
   lat: 52.684374999999996
@@ -10,6 +8,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -18,23 +17,6 @@
   exposure_string: 1/100 s
   time: 2020-05-22 12:14:39+02:00
   focus_distance: 13.92
-- image_filename: 2020_05_22__12_12__5222462.jpg
-  post_slug: 2020-05-22-dojazd-do-sierakowa-przez-puszcze
-  lat: 52.68434722222222
-  lon: 16.138472222222223
-  altitude: 43.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5156
-  height: 3849
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-22 12:12:13+02:00
-  focus_distance: 3.61
 - image_filename: 2020_05_22__10_19__5222191.jpg
   post_slug: 2020-05-22-dojazd-do-sierakowa-przez-puszcze
   lat: 52.718916666666665
@@ -44,6 +26,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4099
@@ -61,6 +44,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4907
@@ -78,6 +62,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5020
@@ -95,6 +80,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -112,6 +98,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 3911
@@ -129,6 +116,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -146,6 +134,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5099
@@ -163,6 +152,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 3911
@@ -180,6 +170,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3834
@@ -197,6 +188,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4952
@@ -214,6 +206,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -231,6 +224,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 4998
@@ -248,6 +242,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4944
@@ -265,6 +260,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -282,6 +278,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5017
@@ -299,6 +296,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -316,6 +314,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -333,6 +332,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5089
@@ -350,6 +350,7 @@
   focal_length_35: 76.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -367,6 +368,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -384,6 +386,7 @@
   focal_length_35: 68.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4897
@@ -401,6 +404,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -418,6 +422,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4926
@@ -435,6 +440,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -452,6 +458,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5164
@@ -469,6 +476,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5095
@@ -486,6 +494,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -503,6 +512,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -520,6 +530,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3706
@@ -537,6 +548,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -554,6 +566,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5059
@@ -571,6 +584,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -588,6 +602,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -605,6 +620,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: OLYMPUS M.75mm F1.8
   camera: E-M1MarkII
   width: 5240
@@ -613,3 +629,21 @@
   exposure_string: 1/2500 s
   time: 2020-05-22 11:52:43+02:00
   focus_distance: 1.52
+- image_filename: 2020_05_22__12_12__5222462.jpg
+  post_slug: 2020-05-22-dojazd-do-sierakowa-przez-puszcze
+  lat: 52.68434722222222
+  lon: 16.138472222222223
+  altitude: 43.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5156
+  height: 3849
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-05-22 12:12:13+02:00
+  focus_distance: 3.61

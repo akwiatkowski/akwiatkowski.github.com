@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -24,39 +25,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2015-08-02 12:34:48+02:00
-- image_filename: IMGP2496raw1.jpg
-  post_slug: 2015-08-02-szybki-kurs-do-janikowa
-  lat: 52.66363416666667
-  lon: 18.119024166666666
-  altitude: 85.2
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2015-08-02 12:35:13+02:00
-- image_filename: IMGP2494raw1.jpg
-  post_slug: 2015-08-02-szybki-kurs-do-janikowa
-  lat: 52.66374944444444
-  lon: 18.120779722222224
-  altitude: 88.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2015-08-02 12:35:05+02:00
 - image_filename: IMGP2617raw1.jpg
   post_slug: 2015-08-02-szybki-kurs-do-janikowa
   lat: 52.53920861111111
@@ -66,8 +40,24 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2015-08-02 15:39:33+02:00
+- image_filename: IMGP2496raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  lat: 52.66363416666667
+  lon: 18.119024166666666
+  altitude: 85.2
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2015-08-02 12:35:13+02:00

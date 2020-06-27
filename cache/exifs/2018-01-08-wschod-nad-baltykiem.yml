@@ -1,10 +1,22 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2018-01-08-wschod-nad-baltykiem
+  focal_length: 10.0
+  focal_length_35: 15.0
+  crop: 1.5
+  aperture: 13.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 4.0
+  exposure_string: 4 s
+  time: 2018-01-08 08:06:48+01:00
 - image_filename: IMGP4506raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   focal_length: 27.0
   focal_length_35: 40.0
   crop: 1.4814814814814814
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -15,6 +27,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
@@ -25,6 +38,7 @@
   focal_length_35: 28.0
   crop: 1.4736842105263157
   aperture: 5.6
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -38,6 +52,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 3.2
+  iso: 640
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -48,6 +63,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
@@ -61,6 +77,7 @@
   focal_length_35: 28.0
   crop: 1.4736842105263157
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -74,6 +91,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -87,6 +105,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 5.0
   exposure_string: 5 s
@@ -100,6 +119,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -110,6 +130,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -120,6 +141,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -130,6 +152,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -143,6 +166,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -156,6 +180,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
@@ -166,6 +191,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
@@ -179,6 +205,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 10.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -189,6 +216,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -202,6 +230,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -215,6 +244,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
@@ -225,6 +255,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -238,6 +269,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.3333333333333333
   exposure_string: 1/3 s
@@ -248,20 +280,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 4.5
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
   time: 2018-01-07 19:51:54+01:00
-- image_filename: header.jpg
-  post_slug: 2018-01-08-wschod-nad-baltykiem
-  focal_length: 10.0
-  focal_length_35: 15.0
-  crop: 1.5
-  aperture: 13.0
-  camera: PENTAX K-S2
-  exposure: 4.0
-  exposure_string: 4 s
-  time: 2018-01-08 08:06:48+01:00
 - image_filename: IMGP4581raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
   lat: 54.48151388888889
@@ -271,6 +294,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -284,6 +308,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -297,6 +322,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
+  iso: 500
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -310,6 +336,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -323,6 +350,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 8.0
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -336,6 +364,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 4.0
   exposure_string: 4 s

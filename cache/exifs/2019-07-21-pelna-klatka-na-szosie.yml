@@ -1,4 +1,21 @@
 ---
+- image_filename: 2019_07_21__15_46_DSC08076.jpg
+  post_slug: 2019-07-21-pelna-klatka-na-szosie
+  lat: 52.31531944444444
+  lon: 16.625333333333334
+  altitude: 60.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 8.0
+  iso: 100
+  lens: E 20mm F2
+  camera: ILCE-7R
+  width: 7214
+  height: 4818
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2019-07-21 15:46:45+02:00
 - image_filename: 2019_07_21__14_23_DSC08047.jpg
   post_slug: 2019-07-21-pelna-klatka-na-szosie
   lat: 52.242736111111114
@@ -8,6 +25,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7327
@@ -21,6 +39,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -34,6 +53,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7161
@@ -50,6 +70,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6601
@@ -66,6 +87,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 2.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 4920
@@ -82,6 +104,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 4.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -98,6 +121,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -114,6 +138,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7230
@@ -127,6 +152,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 2.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7293
@@ -143,6 +169,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 2.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -159,6 +186,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 6.3
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -175,6 +203,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 10.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 6972
@@ -191,6 +220,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -204,6 +234,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7203
@@ -220,6 +251,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -236,6 +268,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7231
@@ -252,6 +285,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 4.5
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -268,6 +302,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7366
@@ -281,6 +316,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7318
@@ -294,6 +330,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7360
@@ -301,19 +338,3 @@
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2019-07-21 14:57:03+02:00
-- image_filename: 2019_07_21__15_46_DSC08076.jpg
-  post_slug: 2019-07-21-pelna-klatka-na-szosie
-  lat: 52.31531944444444
-  lon: 16.625333333333334
-  altitude: 60.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 8.0
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 7214
-  height: 4818
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2019-07-21 15:46:45+02:00

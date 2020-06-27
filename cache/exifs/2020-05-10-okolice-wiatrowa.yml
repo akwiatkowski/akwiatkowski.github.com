@@ -1,346 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-- image_filename: 2020_05_10__16_41__5100427.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75929166666667
-  lon: 17.130444444444446
-  altitude: 72.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-05-10 16:41:45+02:00
-  focus_distance: 8.38
-- image_filename: 2020_05_10__16_48__5100470.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75929166666667
-  lon: 17.13051388888889
-  altitude: 73.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-10 16:48:36+02:00
-  focus_distance: 11.04
-- image_filename: 2020_05_10__16_47__5100461.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75930555555556
-  lon: 17.130708333333335
-  altitude: 72.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5214
-  height: 3892
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-05-10 16:47:00+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_05_10__16_43__5100440.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75930555555556
-  lon: 17.130569444444443
-  altitude: 73.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 4921
-  height: 3674
-  exposure: 0.0008
-  exposure_string: 1/1250 s
-  time: 2020-05-10 16:43:39+02:00
-  focus_distance: 2.73
-- image_filename: 2020_05_10__16_44__5100449.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75933333333333
-  lon: 17.13059722222222
-  altitude: 73.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-05-10 16:44:37+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_05_10__16_49__5100472.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.75933333333333
-  lon: 17.13061111111111
-  altitude: 73.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4310
-  height: 3481
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-10 16:49:01+02:00
-  focus_distance: 6.25
-- image_filename: 2020_05_10__16_49__5100484.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.759347222222225
-  lon: 17.130736111111112
-  altitude: 73.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-10 16:49:30+02:00
-  focus_distance: 7.28
-- image_filename: 2020_05_10__17_09__5100555.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.76884722222222
-  lon: 17.13175
-  altitude: 70.0
-  focal_length: 200.0
-  focal_length_35: 400.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4824
-  height: 3570
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-10 17:09:45+02:00
-  focus_distance: 2.99
-- image_filename: 2020_05_10__17_09__5100538.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.76883333333333
-  lon: 17.131777777777778
-  altitude: 69.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-05-10 17:09:33+02:00
-  focus_distance: 3.94
-- image_filename: 2020_05_10__17_15__5100577.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.769125
-  lon: 17.13226388888889
-  altitude: 70.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-10 17:15:12+02:00
-  focus_distance: 20.38
-- image_filename: 2020_05_10__17_18__5100586.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.769625
-  lon: 17.132958333333335
-  altitude: 70.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.03333333333333333
-  exposure_string: 1/30 s
-  time: 2020-05-10 17:18:21+02:00
-  focus_distance: 2.74
-- image_filename: 2020_05_10__17_17__5100581.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.76926388888889
-  lon: 17.132416666666668
-  altitude: 70.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5218
-  height: 3850
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-10 17:17:03+02:00
-  focus_distance: 4.73
-- image_filename: 2020_05_10__17_19__5100588.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.76968055555555
-  lon: 17.133152777777777
-  altitude: 70.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-05-10 17:19:15+02:00
-  focus_distance: 12.55
-- image_filename: 2020_05_10__17_28__5100620.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.77044444444444
-  lon: 17.134416666666667
-  altitude: 69.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5088
-  height: 3799
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-05-10 17:28:58+02:00
-  focus_distance: 2.73
-- image_filename: 2020_05_10__17_35__5100644.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.770430555555556
-  lon: 17.134375
-  altitude: 71.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 1.8
-  lens: OLYMPUS M.75mm F1.8
-  camera: E-M1MarkII
-  width: 3912
-  height: 5240
-  exposure: 0.00025
-  exposure_string: 1/4000 s
-  time: 2020-05-10 17:35:01+02:00
-  focus_distance: 8.39
-- image_filename: 2020_05_10__17_31__5100634.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.770472222222224
-  lon: 17.134319444444444
-  altitude: 71.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3861
-  height: 5172
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-10 17:31:43+02:00
-  focus_distance: 2.4
-- image_filename: 2020_05_10__18_13__5100693.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.773694444444445
-  lon: 17.122569444444444
-  altitude: 71.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-05-10 18:13:37+02:00
-  focus_distance: 14.02
-- image_filename: 2020_05_10__18_11__5100684.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.77370833333333
-  lon: 17.122541666666667
-  altitude: 71.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 4683
-  height: 3429
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-05-10 18:11:52+02:00
-  focus_distance: 13.88
-- image_filename: 2020_05_10__18_10__5100679.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.77368055555556
-  lon: 17.122569444444444
-  altitude: 71.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5066
-  height: 3782
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-05-10 18:10:34+02:00
-  focus_distance: 16.5
-- image_filename: 2020_05_10__18_32__5100746.jpg
-  post_slug: 2020-05-10-okolice-wiatrowa
-  lat: 52.77280555555556
-  lon: 17.122458333333334
-  altitude: 71.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-05-10 18:32:25+02:00
-  focus_distance: 1.64
 - image_filename: 2020_05_10__18_18__5100723.jpg
   post_slug: 2020-05-10-okolice-wiatrowa
   lat: 52.77370833333333
@@ -350,6 +8,7 @@
   focal_length_35: 30.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -357,6 +16,258 @@
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2020-05-10 18:18:30+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_05_10__16_41__5100427.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75929166666667
+  lon: 17.130444444444446
+  altitude: 72.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-05-10 16:41:45+02:00
+  focus_distance: 8.38
+- image_filename: 2020_05_10__17_09__5100555.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.76884722222222
+  lon: 17.13175
+  altitude: 70.0
+  focal_length: 200.0
+  focal_length_35: 400.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 800
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4824
+  height: 3570
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-10 17:09:45+02:00
+  focus_distance: 2.99
+- image_filename: 2020_05_10__16_48__5100470.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75929166666667
+  lon: 17.13051388888889
+  altitude: 73.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-05-10 16:48:36+02:00
+  focus_distance: 11.04
+- image_filename: 2020_05_10__17_18__5100586.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.769625
+  lon: 17.132958333333335
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3912
+  height: 5240
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  time: 2020-05-10 17:18:21+02:00
+  focus_distance: 2.74
+- image_filename: 2020_05_10__18_13__5100693.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.773694444444445
+  lon: 17.122569444444444
+  altitude: 71.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-05-10 18:13:37+02:00
+  focus_distance: 14.02
+- image_filename: 2020_05_10__16_47__5100461.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75930555555556
+  lon: 17.130708333333335
+  altitude: 72.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 5214
+  height: 3892
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-05-10 16:47:00+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_05_10__18_32__5100746.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.77280555555556
+  lon: 17.122458333333334
+  altitude: 71.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-10 18:32:25+02:00
+  focus_distance: 1.64
+- image_filename: 2020_05_10__17_28__5100620.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.77044444444444
+  lon: 17.134416666666667
+  altitude: 69.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5088
+  height: 3799
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-05-10 17:28:58+02:00
+  focus_distance: 2.73
+- image_filename: 2020_05_10__16_43__5100440.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75930555555556
+  lon: 17.130569444444443
+  altitude: 73.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 4921
+  height: 3674
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  time: 2020-05-10 16:43:39+02:00
+  focus_distance: 2.73
+- image_filename: 2020_05_10__18_11__5100684.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.77370833333333
+  lon: 17.122541666666667
+  altitude: 71.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4683
+  height: 3429
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-05-10 18:11:52+02:00
+  focus_distance: 13.88
+- image_filename: 2020_05_10__17_35__5100644.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.770430555555556
+  lon: 17.134375
+  altitude: 71.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 3912
+  height: 5240
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  time: 2020-05-10 17:35:01+02:00
+  focus_distance: 8.39
+- image_filename: 2020_05_10__17_17__5100581.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.76926388888889
+  lon: 17.132416666666668
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5218
+  height: 3850
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-05-10 17:17:03+02:00
+  focus_distance: 4.73
+- image_filename: 2020_05_10__17_31__5100634.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.770472222222224
+  lon: 17.134319444444444
+  altitude: 71.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3861
+  height: 5172
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-10 17:31:43+02:00
+  focus_distance: 2.4
+- image_filename: 2020_05_10__16_44__5100449.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75933333333333
+  lon: 17.13059722222222
+  altitude: 73.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 1.8
+  iso: 200
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-05-10 16:44:37+02:00
   focus_distance: 1000.0
 - image_filename: 2020_05_10__18_15__5100713.jpg
   post_slug: 2020-05-10-okolice-wiatrowa
@@ -367,6 +278,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -375,3 +287,111 @@
   exposure_string: 1/320 s
   time: 2020-05-10 18:15:56+02:00
   focus_distance: 13.6
+- image_filename: 2020_05_10__17_09__5100538.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.76883333333333
+  lon: 17.131777777777778
+  altitude: 69.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 800
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-05-10 17:09:33+02:00
+  focus_distance: 3.94
+- image_filename: 2020_05_10__16_49__5100472.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.75933333333333
+  lon: 17.13061111111111
+  altitude: 73.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 4310
+  height: 3481
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-05-10 16:49:01+02:00
+  focus_distance: 6.25
+- image_filename: 2020_05_10__18_10__5100679.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.77368055555556
+  lon: 17.122569444444444
+  altitude: 71.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5066
+  height: 3782
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-10 18:10:34+02:00
+  focus_distance: 16.5
+- image_filename: 2020_05_10__17_19__5100588.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.76968055555555
+  lon: 17.133152777777777
+  altitude: 70.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-05-10 17:19:15+02:00
+  focus_distance: 12.55
+- image_filename: 2020_05_10__16_49__5100484.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.759347222222225
+  lon: 17.130736111111112
+  altitude: 73.0
+  focal_length: 210.0
+  focal_length_35: 420.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-05-10 16:49:30+02:00
+  focus_distance: 7.28
+- image_filename: 2020_05_10__17_15__5100577.jpg
+  post_slug: 2020-05-10-okolice-wiatrowa
+  lat: 52.769125
+  lon: 17.13226388888889
+  altitude: 70.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-05-10 17:15:12+02:00
+  focus_distance: 20.38

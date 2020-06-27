@@ -1,4 +1,22 @@
 ---
+- image_filename: 2019_04_30__15_23_P4300618.jpg
+  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
+  lat: 53.31729166666667
+  lon: 19.335305555555554
+  altitude: 104.0
+  focal_length: 88.0
+  focal_length_35: 176.0
+  crop: 2.0
+  aperture: 11.0
+  iso: 200
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  width: 4640
+  height: 3472
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2019-04-30 15:23:35+02:00
+  focus_distance: 1000.0
 - image_filename: 2019_04_30__07_14_P4300015.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 52.649499999999996
@@ -8,6 +26,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4592
@@ -25,6 +44,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 6.3
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4377
@@ -42,6 +62,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4541
@@ -59,6 +80,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4534
@@ -76,6 +98,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 7.1
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4511
@@ -93,6 +116,7 @@
   focal_length_35: 162.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4566
@@ -110,6 +134,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -127,6 +152,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -144,6 +170,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -161,6 +188,7 @@
   focal_length_35: 80.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -178,6 +206,7 @@
   focal_length_35: 194.0
   crop: 2.0
   aperture: 5.4
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4490
@@ -195,6 +224,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4613
@@ -212,6 +242,7 @@
   focal_length_35: 38.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -229,6 +260,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -246,6 +278,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -263,6 +296,7 @@
   focal_length_35: 184.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -280,6 +314,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -297,6 +332,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4561
@@ -314,6 +350,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -331,6 +368,7 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4460
@@ -348,6 +386,7 @@
   focal_length_35: 168.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -365,6 +404,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4539
@@ -382,6 +422,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4464
@@ -399,6 +440,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4385
@@ -416,6 +458,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4556
@@ -433,6 +476,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -450,6 +494,7 @@
   focal_length_35: 110.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4525
@@ -467,6 +512,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4172
@@ -484,6 +530,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4480
@@ -501,6 +548,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4532
@@ -518,6 +566,7 @@
   focal_length_35: 64.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -535,6 +584,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -552,6 +602,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -569,6 +620,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -586,6 +638,7 @@
   focal_length_35: 162.0
   crop: 2.0
   aperture: 5.4
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4396
@@ -603,6 +656,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4476
@@ -620,6 +674,7 @@
   focal_length_35: 168.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4395
@@ -637,6 +692,7 @@
   focal_length_35: 130.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -654,6 +710,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4607
@@ -671,6 +728,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -688,6 +746,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 5.6
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4564
@@ -705,6 +764,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -722,6 +782,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4240
@@ -739,6 +800,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -756,6 +818,7 @@
   focal_length_35: 194.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -773,6 +836,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4243
@@ -790,6 +854,7 @@
   focal_length_35: 110.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -807,6 +872,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 5.4
+  iso: 320
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4382
@@ -824,6 +890,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4491
@@ -841,6 +908,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4453
@@ -858,6 +926,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4411
@@ -875,6 +944,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -892,6 +962,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -909,6 +980,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -926,6 +998,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4565
@@ -943,6 +1016,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4466
@@ -960,6 +1034,7 @@
   focal_length_35: 56.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -977,6 +1052,7 @@
   focal_length_35: 42.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4528
@@ -994,6 +1070,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4513
@@ -1011,6 +1088,7 @@
   focal_length_35: 80.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1028,6 +1106,7 @@
   focal_length_35: 48.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1045,6 +1124,7 @@
   focal_length_35: 74.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1053,23 +1133,6 @@
   exposure_string: 1/80 s
   time: 2019-04-30 13:29:52+02:00
   focus_distance: 14.56
-- image_filename: 2019_04_30__15_23_P4300618.jpg
-  post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
-  lat: 53.31729166666667
-  lon: 19.335305555555554
-  altitude: 104.0
-  focal_length: 88.0
-  focal_length_35: 176.0
-  crop: 2.0
-  aperture: 11.0
-  lens: LUMIX G VARIO 14-140/F3.5-5.6
-  camera: E-M10MarkII
-  width: 4640
-  height: 3472
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2019-04-30 15:23:35+02:00
-  focus_distance: 1000.0
 - image_filename: 2019_04_30__15_03_P4300582.jpg
   post_slug: 2019-04-30-zolte-pola-w-okolicy-ilawy
   lat: 53.32627777777778
@@ -1079,6 +1142,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1096,6 +1160,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1113,6 +1178,7 @@
   focal_length_35: 130.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4394
@@ -1130,6 +1196,7 @@
   focal_length_35: 122.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1147,6 +1214,7 @@
   focal_length_35: 92.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1164,6 +1232,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4570
@@ -1181,6 +1250,7 @@
   focal_length_35: 162.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1198,6 +1268,7 @@
   focal_length_35: 280.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4474
@@ -1215,6 +1286,7 @@
   focal_length_35: 176.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1232,6 +1304,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 8.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1249,6 +1322,7 @@
   focal_length_35: 38.0
   crop: 2.0
   aperture: 9.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1266,6 +1340,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1283,6 +1358,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1300,6 +1376,7 @@
   focal_length_35: 28.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4480
@@ -1317,6 +1394,7 @@
   focal_length_35: 80.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4494
@@ -1334,6 +1412,7 @@
   focal_length_35: 154.0
   crop: 2.0
   aperture: 11.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640
@@ -1351,6 +1430,7 @@
   focal_length_35: 52.0
   crop: 2.0
   aperture: 10.0
+  iso: 200
   lens: LUMIX G VARIO 14-140/F3.5-5.6
   camera: E-M10MarkII
   width: 4640

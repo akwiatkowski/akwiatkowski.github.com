@@ -8,6 +8,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7245
@@ -15,188 +16,40 @@
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2020-03-28 16:09:40+01:00
-- image_filename: 2020_03_28__16_25__3287320.jpg
+- image_filename: 2020_03_28__14_00_DSC07311.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.170069444444444
-  lon: 16.998055555555556
-  altitude: 58.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-03-28 16:25:13+01:00
-  focus_distance: 57.49
-- image_filename: 2020_03_28__14_17_DSC07333.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17811111111111
-  lon: 17.00477777777778
-  altitude: 48.0
-  focal_length: 62.0
-  focal_length_35: 62.0
-  crop: 1.0
-  aperture: 6.3
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7057
-  height: 4713
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-03-28 14:17:20+01:00
-- image_filename: 2020_03_28__14_31__3287164.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17805555555555
-  lon: 17.004597222222223
-  altitude: 51.0
-  focal_length: 210.0
-  focal_length_35: 420.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5108
-  height: 3813
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-03-28 14:31:10+01:00
-  focus_distance: 10.5
-- image_filename: 2020_03_28__16_21_DSC07440.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.169916666666666
-  lon: 16.999708333333334
-  altitude: 56.0
+  lat: 52.17847222222222
+  lon: 17.01515277777778
+  altitude: 43.0
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0
-  aperture: 10.0
+  aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7011
-  height: 4682
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-03-28 16:21:07+01:00
-- image_filename: 2020_03_28__17_06__3287414.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.16781944444444
-  lon: 17.002277777777778
-  altitude: 54.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5191
-  height: 3875
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-03-28 17:06:47+01:00
-  focus_distance: 71.24
-- image_filename: 2020_03_28__15_32_DSC07400.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.179652777777775
-  lon: 16.990347222222223
-  altitude: 53.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 11.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7258
-  height: 4848
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-03-28 15:32:19+01:00
-- image_filename: 2020_03_28__16_39__3287338.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17125
-  lon: 16.990041666666666
-  altitude: 56.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  time: 2020-03-28 16:39:01+01:00
-  focus_distance: 129.01
-- image_filename: 2020_03_28__16_00__3287271.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17658333333333
-  lon: 16.995416666666667
-  altitude: 54.0
-  focal_length: 60.0
-  focal_length_35: 120.0
-  crop: 2.0
-  aperture: 9.0
-  lens: OLYMPUS M.60mm F2.8 Macro
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
+  width: 7366
+  height: 4920
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-03-28 16:00:50+01:00
-  focus_distance: 0.3
-- image_filename: 2020_03_28__14_38_DSC07345.jpg
+  time: 2020-03-28 14:00:32+01:00
+- image_filename: 2020_03_28__14_01_DSC07312.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17840277777778
-  lon: 17.00115277777778
-  altitude: 51.0
-  focal_length: 28.0
-  focal_length_35: 28.0
+  lat: 52.17836111111111
+  lon: 17.013666666666666
+  altitude: 45.0
+  focal_length: 75.0
+  focal_length_35: 75.0
   crop: 1.0
-  aperture: 11.0
+  aperture: 5.6
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7360
-  height: 4916
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-03-28 14:38:14+01:00
-- image_filename: 2020_03_28__16_39__3287346.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17113888888888
-  lon: 16.990069444444444
-  altitude: 56.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5151
-  height: 3845
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2020-03-28 16:39:38+01:00
-  focus_distance: 78.76
-- image_filename: 2020_03_28__15_15_DSC07393.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.18008333333333
-  lon: 17.000958333333333
-  altitude: 50.0
-  focal_length: 28.0
-  focal_length_35: 28.0
-  crop: 1.0
-  aperture: 11.0
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7250
-  height: 4843
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-03-28 15:15:55+01:00
+  width: 7366
+  height: 4920
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-03-28 14:01:42+01:00
 - image_filename: 2020_03_28__14_12__3287106.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.17836111111111
@@ -206,6 +59,7 @@
   focal_length_35: 190.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -223,6 +77,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -231,39 +86,130 @@
   exposure_string: 1/80 s
   time: 2020-03-28 14:13:21+01:00
   focus_distance: 35.62
-- image_filename: 2020_03_28__17_32__3287429.jpg
+- image_filename: 2020_03_28__14_31__3287164.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17795833333333
-  lon: 17.018402777777776
-  altitude: 58.0
-  focal_length: 75.0
-  focal_length_35: 150.0
+  lat: 52.17805555555555
+  lon: 17.004597222222223
+  altitude: 51.0
+  focal_length: 210.0
+  focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
-  width: 5113
-  height: 3737
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-03-28 17:32:34+01:00
-  focus_distance: 16.43
-- image_filename: 2020_03_28__14_00_DSC07311.jpg
+  width: 5108
+  height: 3813
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-03-28 14:31:10+01:00
+  focus_distance: 10.5
+- image_filename: 2020_03_28__14_38_DSC07345.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17847222222222
-  lon: 17.01515277777778
-  altitude: 43.0
-  focal_length: 75.0
-  focal_length_35: 75.0
+  lat: 52.17840277777778
+  lon: 17.00115277777778
+  altitude: 51.0
+  focal_length: 28.0
+  focal_length_35: 28.0
   crop: 1.0
-  aperture: 5.6
+  aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
-  width: 7366
-  height: 4920
+  width: 7360
+  height: 4916
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-03-28 14:38:14+01:00
+- image_filename: 2020_03_28__14_55_DSC07380.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17947222222222
+  lon: 17.001055555555556
+  altitude: 53.0
+  focal_length: 20.0
+  focal_length_35: 20.0
+  crop: 1.0
+  aperture: 11.0
+  iso: 100
+  lens: E 20mm F2
+  camera: ILCE-7R
+  width: 6885
+  height: 4436
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-03-28 14:55:06+01:00
+- image_filename: 2020_03_28__15_53__3287242.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17729166666666
+  lon: 16.99459722222222
+  altitude: 53.0
+  focal_length: 73.0
+  focal_length_35: 146.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  width: 5108
+  height: 3813
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2020-03-28 15:53:34+01:00
+  focus_distance: 9.48
+- image_filename: 2020_03_28__16_00__3287271.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17658333333333
+  lon: 16.995416666666667
+  altitude: 54.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 9.0
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
   exposure: 0.01
   exposure_string: 1/100 s
-  time: 2020-03-28 14:00:32+01:00
+  time: 2020-03-28 16:00:50+01:00
+  focus_distance: 0.3
+- image_filename: 2020_03_28__16_39__3287338.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17125
+  lon: 16.990041666666666
+  altitude: 56.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  time: 2020-03-28 16:39:01+01:00
+  focus_distance: 129.01
+- image_filename: 2020_03_28__16_39__3287346.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17113888888888
+  lon: 16.990069444444444
+  altitude: 56.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5151
+  height: 3845
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-03-28 16:39:38+01:00
+  focus_distance: 78.76
 - image_filename: 2020_03_28__16_42__3287356.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.17045833333333
@@ -273,6 +219,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5129
@@ -281,6 +228,146 @@
   exposure_string: 1/320 s
   time: 2020-03-28 16:42:52+01:00
   focus_distance: 15.92
+- image_filename: 2020_03_28__17_01__3287398.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.16898611111111
+  lon: 16.99990277777778
+  altitude: 53.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-28 17:01:58+01:00
+  focus_distance: 12.42
+- image_filename: 2020_03_28__17_32__3287429.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17795833333333
+  lon: 17.018402777777776
+  altitude: 58.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5113
+  height: 3737
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-03-28 17:32:34+01:00
+  focus_distance: 16.43
+- image_filename: 2020_03_28__16_25__3287320.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.170069444444444
+  lon: 16.998055555555556
+  altitude: 58.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5240
+  height: 3912
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-03-28 16:25:13+01:00
+  focus_distance: 57.49
+- image_filename: 2020_03_28__14_17_DSC07333.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.17811111111111
+  lon: 17.00477777777778
+  altitude: 48.0
+  focal_length: 62.0
+  focal_length_35: 62.0
+  crop: 1.0
+  aperture: 6.3
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7057
+  height: 4713
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-03-28 14:17:20+01:00
+- image_filename: 2020_03_28__16_21_DSC07440.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.169916666666666
+  lon: 16.999708333333334
+  altitude: 56.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 10.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7011
+  height: 4682
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-03-28 16:21:07+01:00
+- image_filename: 2020_03_28__17_06__3287414.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.16781944444444
+  lon: 17.002277777777778
+  altitude: 54.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5191
+  height: 3875
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2020-03-28 17:06:47+01:00
+  focus_distance: 71.24
+- image_filename: 2020_03_28__15_32_DSC07400.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.179652777777775
+  lon: 16.990347222222223
+  altitude: 53.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7258
+  height: 4848
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-03-28 15:32:19+01:00
+- image_filename: 2020_03_28__15_15_DSC07393.jpg
+  post_slug: 2020-03-28-tlumy-przy-warcie
+  lat: 52.18008333333333
+  lon: 17.000958333333333
+  altitude: 50.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 11.0
+  iso: 100
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  width: 7250
+  height: 4843
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-03-28 15:15:55+01:00
 - image_filename: 2020_03_28__14_40_DSC07353.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.17856944444444
@@ -290,6 +377,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 4632
@@ -306,6 +394,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -323,6 +412,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7124
@@ -330,23 +420,6 @@
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2020-03-28 14:37:59+01:00
-- image_filename: 2020_03_28__17_01__3287398.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.16898611111111
-  lon: 16.99990277777778
-  altitude: 53.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5240
-  height: 3912
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-03-28 17:01:58+01:00
-  focus_distance: 12.42
 - image_filename: 2020_03_28__16_09__3287298.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.17393055555555
@@ -356,6 +429,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -373,6 +447,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 3813
@@ -390,6 +465,7 @@
   focal_length_35: 49.0
   crop: 1.0
   aperture: 9.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 4719
@@ -406,6 +482,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5151
@@ -423,6 +500,7 @@
   focal_length_35: 75.0
   crop: 1.0
   aperture: 4.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -430,23 +508,6 @@
   exposure: 0.0125
   exposure_string: 1/80 s
   time: 2020-03-28 14:07:03+01:00
-- image_filename: 2020_03_28__15_53__3287242.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17729166666666
-  lon: 16.99459722222222
-  altitude: 53.0
-  focal_length: 73.0
-  focal_length_35: 146.0
-  crop: 2.0
-  aperture: 4.0
-  lens: M.40-150mm F2.8 + MC-14
-  camera: E-M1MarkII
-  width: 5108
-  height: 3813
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2020-03-28 15:53:34+01:00
-  focus_distance: 9.48
 - image_filename: 2020_03_28__14_46_DSC07368.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.178625
@@ -456,6 +517,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 11.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7057
@@ -463,22 +525,6 @@
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2020-03-28 14:46:51+01:00
-- image_filename: 2020_03_28__14_55_DSC07380.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17947222222222
-  lon: 17.001055555555556
-  altitude: 53.0
-  focal_length: 20.0
-  focal_length_35: 20.0
-  crop: 1.0
-  aperture: 11.0
-  lens: E 20mm F2
-  camera: ILCE-7R
-  width: 6885
-  height: 4436
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-03-28 14:55:06+01:00
 - image_filename: 2020_03_28__14_14_DSC07330.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.17820833333333
@@ -488,6 +534,7 @@
   focal_length_35: 28.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 28-75mm F2.8-2.8
   camera: ILCE-7R
   width: 7366
@@ -504,6 +551,7 @@
   focal_length_35: 20.0
   crop: 1.0
   aperture: 8.0
+  iso: 100
   lens: E 20mm F2
   camera: ILCE-7R
   width: 7258
@@ -511,22 +559,6 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2020-03-28 14:40:02+01:00
-- image_filename: 2020_03_28__14_01_DSC07312.jpg
-  post_slug: 2020-03-28-tlumy-przy-warcie
-  lat: 52.17836111111111
-  lon: 17.013666666666666
-  altitude: 45.0
-  focal_length: 75.0
-  focal_length_35: 75.0
-  crop: 1.0
-  aperture: 5.6
-  lens: E 28-75mm F2.8-2.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-03-28 14:01:42+01:00
 - image_filename: 2020_03_28__16_54__3287389.jpg
   post_slug: 2020-03-28-tlumy-przy-warcie
   lat: 52.168416666666666
@@ -536,6 +568,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912

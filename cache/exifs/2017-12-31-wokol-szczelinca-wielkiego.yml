@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP4184raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.483333333333334
+  lon: 16.352055555555555
+  altitude: 729.0
+  focal_length: 18.0
+  focal_length_35: 27.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 800
+  camera: PENTAX K-S2
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2017-12-31 13:15:10+01:00
 - image_filename: IMGP4100raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
   lat: 50.490972222222226
@@ -8,6 +22,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -21,6 +36,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -34,6 +50,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -47,6 +64,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.06666666666666667
   exposure_string: 1/15 s
@@ -60,23 +78,11 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 5.6
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
   time: 2018-01-01 14:56:37+01:00
-- image_filename: IMGP4184raw1.jpg
-  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
-  lat: 50.483333333333334
-  lon: 16.352055555555555
-  altitude: 729.0
-  focal_length: 18.0
-  focal_length_35: 27.0
-  crop: 1.5
-  aperture: 5.6
-  camera: PENTAX K-S2
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2017-12-31 13:15:10+01:00
 - image_filename: IMGP4207raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
   lat: 50.48591666666667
@@ -86,6 +92,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 3.0
   exposure_string: 3 s
@@ -99,6 +106,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.6
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -112,6 +120,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -125,6 +134,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 5.6
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -138,6 +148,7 @@
   focal_length_35: 31.0
   crop: 1.4761904761904763
   aperture: 5.6
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -151,6 +162,7 @@
   focal_length_35: 42.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -164,6 +176,7 @@
   focal_length_35: 58.0
   crop: 1.4871794871794872
   aperture: 4.5
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -177,6 +190,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 4.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -190,6 +204,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 4.5
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -203,6 +218,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 4.5
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -216,6 +232,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 5.6
+  iso: 500
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -229,6 +246,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -242,6 +260,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 5.6
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -255,6 +274,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -265,6 +285,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s

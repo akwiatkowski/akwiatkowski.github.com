@@ -1,4 +1,20 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
+  lat: 50.83043055555556
+  lon: 15.521319444444446
+  altitude: 681.0
+  focal_length: 17.0
+  focal_length_35: 25.0
+  crop: 1.4705882352941178
+  aperture: 8.0
+  iso: 200
+  camera: PENTAX K-S2
+  width: 2000
+  height: 1334
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2016-11-13 13:55:14+01:00
 - image_filename: IMGP8986raw1.jpg
   post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
   lat: 50.813986111111106
@@ -8,6 +24,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
@@ -21,6 +38,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 16.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 20.0
   exposure_string: 20 s
@@ -34,6 +52,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -47,6 +66,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 20.0
   exposure_string: 20 s
@@ -60,6 +80,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
@@ -73,22 +94,8 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 13.0
   exposure_string: 13 s
   time: 2016-11-13 16:27:30+01:00
-- image_filename: header.jpg
-  post_slug: 2016-11-13-dojscie-tylko-do-kamienczyka
-  lat: 50.83043055555556
-  lon: 15.521319444444446
-  altitude: 681.0
-  focal_length: 17.0
-  focal_length_35: 25.0
-  crop: 1.4705882352941178
-  aperture: 8.0
-  camera: PENTAX K-S2
-  width: 2000
-  height: 1334
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2016-11-13 13:55:14+01:00

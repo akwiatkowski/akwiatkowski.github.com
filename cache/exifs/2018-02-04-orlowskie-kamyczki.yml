@@ -1,4 +1,15 @@
 ---
+- image_filename: IMGP5567raw1.jpg
+  post_slug: 2018-02-04-orlowskie-kamyczki
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2018-02-04 08:33:36+01:00
 - image_filename: IMGP5531raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
   lat: 54.459208333333336
@@ -8,6 +19,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -21,6 +33,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 10.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -34,6 +47,7 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 14.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -47,6 +61,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -60,6 +75,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -73,6 +89,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -86,20 +103,11 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 22.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
   time: 2018-02-04 09:03:50+01:00
-- image_filename: IMGP5567raw1.jpg
-  post_slug: 2018-02-04-orlowskie-kamyczki
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2018-02-04 08:33:36+01:00
 - image_filename: IMGP5589raw2.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
   lat: 54.46716666666667
@@ -109,6 +117,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
@@ -122,6 +131,7 @@
   focal_length_35: 157.0
   crop: 1.4952380952380953
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -135,6 +145,7 @@
   focal_length_35: 46.0
   crop: 1.4838709677419355
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -148,6 +159,7 @@
   focal_length_35: 21.0
   crop: 1.5
   aperture: 14.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -161,6 +173,7 @@
   focal_length_35: 64.0
   crop: 1.4883720930232558
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 2.0
   exposure_string: 2 s
@@ -174,6 +187,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
@@ -187,6 +201,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -200,6 +215,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -213,6 +229,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 22.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 15.0
   exposure_string: 15 s
@@ -226,6 +243,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -239,6 +257,7 @@
   focal_length_35: 33.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -252,6 +271,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -262,6 +282,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 22.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 25.0
   exposure_string: 25 s

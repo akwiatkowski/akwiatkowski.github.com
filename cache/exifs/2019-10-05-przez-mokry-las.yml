@@ -1,4 +1,21 @@
 ---
+- image_filename: 2019_10_05__13_13_DSC00709.jpg
+  post_slug: 2019-10-05-przez-mokry-las
+  lat: 52.27772222222222
+  lon: 16.33908333333333
+  altitude: 90.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  iso: 160
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  width: 7366
+  height: 4920
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2019-10-05 13:13:19+02:00
 - image_filename: 2019_10_05__11_53_DSC00578.jpg
   post_slug: 2019-10-05-przez-mokry-las
   lat: 52.30159722222222
@@ -8,6 +25,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -24,6 +42,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 250
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -40,6 +59,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 160
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -56,6 +76,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7188
@@ -72,6 +93,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4920
@@ -88,6 +110,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7141
@@ -104,6 +127,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -120,6 +144,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 6759
@@ -136,6 +161,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -152,6 +178,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -168,6 +195,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -184,6 +212,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -201,6 +230,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 160
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -217,6 +247,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -233,6 +264,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7102
@@ -249,6 +281,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 6821
@@ -265,6 +298,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7176
@@ -281,6 +315,7 @@
   focal_length_35: 146.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5125
@@ -298,6 +333,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 125
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4743
@@ -314,6 +350,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -330,6 +367,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 250
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 6995
@@ -346,6 +384,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 160
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7148
@@ -362,6 +401,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7256
@@ -378,6 +418,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -394,6 +435,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 6957
@@ -410,6 +452,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -426,6 +469,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -442,6 +486,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7165
@@ -458,6 +503,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5100
@@ -475,6 +521,7 @@
   focal_length_35: 310.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 5240
@@ -492,6 +539,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -508,6 +556,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 125
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4773
@@ -524,6 +573,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7078
@@ -540,6 +590,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -556,6 +607,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.0
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -572,6 +624,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7299
@@ -588,6 +641,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -604,6 +658,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -620,6 +675,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 4692
@@ -636,6 +692,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 5.6
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7168
@@ -652,6 +709,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 160
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -668,6 +726,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -684,6 +743,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7172
@@ -700,6 +760,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -716,6 +777,7 @@
   focal_length_35: 420.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: M.40-150mm F2.8 + MC-14
   camera: E-M1MarkII
   width: 4716
@@ -733,6 +795,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 200
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7150
@@ -749,6 +812,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7237
@@ -765,6 +829,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 320
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -781,6 +846,7 @@
   focal_length_35: 85.0
   crop: 1.0
   aperture: 1.8
+  iso: 100
   lens: FE 85mm F1.8
   camera: ILCE-7R
   width: 7366
@@ -788,19 +854,3 @@
   exposure: 0.003125
   exposure_string: 1/320 s
   time: 2019-10-05 12:43:15+02:00
-- image_filename: 2019_10_05__13_13_DSC00709.jpg
-  post_slug: 2019-10-05-przez-mokry-las
-  lat: 52.27772222222222
-  lon: 16.33908333333333
-  altitude: 90.0
-  focal_length: 85.0
-  focal_length_35: 85.0
-  crop: 1.0
-  aperture: 1.8
-  lens: FE 85mm F1.8
-  camera: ILCE-7R
-  width: 7366
-  height: 4920
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2019-10-05 13:13:19+02:00

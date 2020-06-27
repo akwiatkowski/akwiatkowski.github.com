@@ -1,32 +1,36 @@
 ---
-- image_filename: IMGP7855raw1.jpg
+- image_filename: header.jpg
   post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 52.87341555555555
-  lon: 16.059820277777778
-  altitude: 43.4
+  lat: 53.95703944444445
+  lon: 14.61492111111111
+  altitude: 0.1
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
-  aperture: 7.1
+  aperture: 3.2
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2014-07-12 15:07:02+02:00
+- image_filename: IMGP7842raw1.jpg
+  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
+  lat: 52.8624825
+  lon: 16.09041611111111
+  altitude: 53.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.003125
   exposure_string: 1/320 s
-  time: 2014-07-12 07:58:20+02:00
-- image_filename: IMGP7970raw1.jpg
-  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 54.01437277777778
-  lon: 14.707835555555555
-  altitude: 3.5
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-07-12 17:34:52+02:00
+  time: 2014-07-12 07:56:32+02:00
 - image_filename: IMGP7879raw1.jpg
   post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
   lat: 53.09090666666667
@@ -36,25 +40,12 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.0015625
   exposure_string: 1/640 s
   time: 2014-07-12 08:49:46+02:00
-- image_filename: IMGP7926raw1.jpg
-  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 53.938183055555555
-  lon: 14.603218888888888
-  altitude: 2.1
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.6
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-07-12 14:55:25+02:00
 - image_filename: IMGP7894raw1.jpg
   post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
   lat: 53.41609583333333
@@ -64,6 +55,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -78,11 +70,72 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.00125
   exposure_string: 1/800 s
   time: 2014-07-12 15:37:35+02:00
+- image_filename: IMGP7966raw1.jpg
+  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
+  lat: 53.991776111111115
+  lon: 14.686351944444445
+  altitude: 4.0
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.0
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2014-07-12 16:06:42+02:00
+- image_filename: IMGP7970raw1.jpg
+  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
+  lat: 54.01437277777778
+  lon: 14.707835555555555
+  altitude: 3.5
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-07-12 17:34:52+02:00
+- image_filename: IMGP7855raw1.jpg
+  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
+  lat: 52.87341555555555
+  lon: 16.059820277777778
+  altitude: 43.4
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2014-07-12 07:58:20+02:00
+- image_filename: IMGP7926raw1.jpg
+  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
+  lat: 53.938183055555555
+  lon: 14.603218888888888
+  altitude: 2.1
+  focal_length: 40.0
+  focal_length_35: 60.0
+  crop: 1.5
+  aperture: 5.6
+  iso: 400
+  lens: smc PENTAX-DA 40mm F2.8 Limited
+  camera: PENTAX K-5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2014-07-12 14:55:25+02:00
 - image_filename: IMGP7945raw1.jpg
   post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
   lat: 53.97766472222222
@@ -92,6 +145,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -106,6 +160,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -120,41 +175,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2014-07-12 14:38:19+02:00
-- image_filename: header.jpg
-  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 53.95703944444445
-  lon: 14.61492111111111
-  altitude: 0.1
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 3.2
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2014-07-12 15:07:02+02:00
-- image_filename: IMGP7966raw1.jpg
-  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 53.991776111111115
-  lon: 14.686351944444445
-  altitude: 4.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 5.0
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2014-07-12 16:06:42+02:00
 - image_filename: IMGP7841raw1.jpg
   post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
   lat: 52.86150722222222
@@ -164,22 +190,9 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 40mm F2.8 Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2014-07-12 07:56:23+02:00
-- image_filename: IMGP7842raw1.jpg
-  post_slug: 2014-07-12-z-miedzyzdrojow-do-dziwnowka
-  lat: 52.8624825
-  lon: 16.09041611111111
-  altitude: 53.0
-  focal_length: 40.0
-  focal_length_35: 60.0
-  crop: 1.5
-  aperture: 6.3
-  lens: smc PENTAX-DA 40mm F2.8 Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2014-07-12 07:56:32+02:00

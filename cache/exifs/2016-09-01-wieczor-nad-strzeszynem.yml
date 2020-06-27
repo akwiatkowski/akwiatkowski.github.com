@@ -8,6 +8,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   width: 2000
   height: 1334
@@ -23,6 +24,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0015625
   exposure_string: 1/640 s
@@ -36,6 +38,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -49,6 +52,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.0015625
   exposure_string: 1/640 s
@@ -72,6 +76,7 @@
   focal_length_35: 555.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -85,6 +90,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -98,6 +104,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -111,6 +118,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -124,6 +132,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.2
   exposure_string: 1/5 s
@@ -137,6 +146,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.04
   exposure_string: 1/25 s
@@ -150,6 +160,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 11.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -163,6 +174,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.5
   exposure_string: 1/2 s
@@ -176,6 +188,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.05
   exposure_string: 1/20 s
@@ -189,6 +202,7 @@
   focal_length_35: 60.0
   crop: 1.5
   aperture: 18.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -202,6 +216,7 @@
   focal_length_35: 510.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00025
   exposure_string: 1/4000 s
@@ -215,6 +230,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 14.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -228,6 +244,7 @@
   focal_length_35: 555.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00016666666666666666
   exposure_string: 1/6000 s
@@ -241,6 +258,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -254,6 +272,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -267,6 +286,7 @@
   focal_length_35: 240.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -280,6 +300,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -293,6 +314,7 @@
   focal_length_35: 660.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0005
   exposure_string: 1/2000 s

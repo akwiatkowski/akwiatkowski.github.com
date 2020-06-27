@@ -1,10 +1,25 @@
 ---
+- image_filename: IMGP6126raw2.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45461111111111
+  lon: 16.96908333333333
+  altitude: 50.0
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 320
+  camera: PENTAX K-S2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2018-03-21 08:28:07+01:00
 - image_filename: IMGP6065raw1.jpg
   post_slug: 2018-03-21-prawie-wiosna-w-radojewie
   lat: 52.45513888888889
   lon: 16.961708333333334
   altitude: 63.0
   aperture: 0.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0004
   exposure_string: 1/2500 s
@@ -18,6 +33,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -31,6 +47,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -44,6 +61,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -57,6 +75,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -70,6 +89,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -83,6 +103,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -96,6 +117,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -109,6 +131,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -122,23 +145,11 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2018-03-21 08:10:30+01:00
-- image_filename: IMGP6126raw2.jpg
-  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
-  lat: 52.45461111111111
-  lon: 16.96908333333333
-  altitude: 50.0
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2018-03-21 08:28:07+01:00
 - image_filename: IMGP6128raw1.jpg
   post_slug: 2018-03-21-prawie-wiosna-w-radojewie
   lat: 52.45472222222222
@@ -148,6 +159,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s

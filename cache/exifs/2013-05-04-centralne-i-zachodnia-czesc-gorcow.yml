@@ -1,4 +1,19 @@
 ---
+- image_filename: IMGP1891b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.54347083333333
+  lon: 20.118647222222222
+  altitude: 1259.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2013-05-04 13:44:48+02:00
 - image_filename: IMGP1863b.jpg
   post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
   lat: 49.54206111111111
@@ -8,6 +23,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -22,6 +38,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -36,6 +53,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -50,6 +68,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -61,25 +80,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 2.8
+  iso: 400
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 30.0
   exposure_string: 30 s
   time: 2013-05-04 22:21:06+02:00
-- image_filename: IMGP1891b.jpg
-  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
-  lat: 49.54347083333333
-  lon: 20.118647222222222
-  altitude: 1259.0
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2013-05-04 13:44:48+02:00
 - image_filename: IMGP1892b.jpg
   post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
   lat: 49.54345611111111
@@ -89,6 +95,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125

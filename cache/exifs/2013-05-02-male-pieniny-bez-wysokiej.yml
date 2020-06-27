@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
+  lat: 49.395649166666665
+  lon: 20.540117222222225
+  altitude: 752.4
+  focal_length: 70.0
+  focal_length_35: 105.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 200
+  lens: smc PENTAX-DA 70mm F2.4 Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1356
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2013-05-02 14:23:09+02:00
 - image_filename: IMGP1045b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
   lat: 49.405764166666664
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -22,6 +40,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -36,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -50,6 +70,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0015625
@@ -64,6 +85,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -78,6 +100,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -92,6 +115,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -106,6 +130,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -120,6 +145,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.003125
@@ -134,6 +160,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -148,6 +175,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.005
@@ -162,6 +190,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.005
@@ -173,6 +202,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  iso: 100
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002
@@ -187,6 +217,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -201,6 +232,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -215,6 +247,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.005
@@ -229,27 +262,12 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2013-05-02 14:11:30+02:00
-- image_filename: header.jpg
-  post_slug: 2013-05-02-male-pieniny-bez-wysokiej
-  lat: 49.395649166666665
-  lon: 20.540117222222225
-  altitude: 752.4
-  focal_length: 70.0
-  focal_length_35: 105.0
-  crop: 1.5
-  aperture: 4.5
-  lens: smc PENTAX-DA 70mm F2.4 Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2013-05-02 14:23:09+02:00
 - image_filename: IMGP1146b.jpg
   post_slug: 2013-05-02-male-pieniny-bez-wysokiej
   lat: 49.38637277777778
@@ -259,6 +277,7 @@
   focal_length_35: 52.0
   crop: 1.4857142857142858
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 35mm F2.4 AL
   camera: PENTAX K-5
   exposure: 0.004
@@ -273,6 +292,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.002

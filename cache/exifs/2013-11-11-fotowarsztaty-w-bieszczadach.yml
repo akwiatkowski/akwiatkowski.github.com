@@ -1,10 +1,25 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 5.0
+  iso: 400
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2013-11-10 15:39:44+01:00
 - image_filename: IMGP0003raw1.jpg
   post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
   focal_length: 55.0
   focal_length_35: 82.0
   crop: 1.490909090909091
   aperture: 0.0
+  iso: 200
   lens: K or M Lens
   camera: PENTAX K-5
   exposure: 0.02
@@ -16,6 +31,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 6.3
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.025
@@ -30,6 +46,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -44,6 +61,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.03333333333333333
@@ -55,6 +73,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -69,6 +88,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 1600
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.01
@@ -80,6 +100,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0125
@@ -94,6 +115,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -108,6 +130,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -122,6 +145,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.00625
@@ -133,6 +157,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.0125
@@ -144,6 +169,7 @@
   focal_length_35: 105.0
   crop: 1.5
   aperture: 3.2
+  iso: 200
   lens: smc PENTAX-DA 70mm F2.4 Limited
   camera: PENTAX K-5
   exposure: 0.03333333333333333
@@ -158,6 +184,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -169,24 +196,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 100
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2013-11-10 12:16:20+01:00
-- image_filename: header.jpg
-  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 5.0
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2013-11-10 15:39:44+01:00
 - image_filename: IMGP0122raw1.jpg
   post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
   lat: 49.406437499999996
@@ -196,6 +211,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.5
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.02
@@ -207,6 +223,7 @@
   focal_length_35: 82.0
   crop: 1.490909090909091
   aperture: 0.0
+  iso: 1600
   lens: K or M Lens
   camera: PENTAX K-5
   exposure: 0.025
@@ -221,6 +238,7 @@
   focal_length_35: 202.0
   crop: 1.4962962962962962
   aperture: 0.0
+  iso: 80
   lens: K or M Lens
   camera: PENTAX K-5
   exposure: 2.0
@@ -235,6 +253,7 @@
   focal_length_35: 82.0
   crop: 1.490909090909091
   aperture: 0.0
+  iso: 400
   lens: K or M Lens
   camera: PENTAX K-5
   exposure: 0.016666666666666666

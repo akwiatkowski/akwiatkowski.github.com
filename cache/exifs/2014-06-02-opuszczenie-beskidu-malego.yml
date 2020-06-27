@@ -1,46 +1,36 @@
 ---
-- image_filename: IMGP6890raw1.jpg
+- image_filename: header.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.83101555555556
-  lon: 19.383834722222222
-  altitude: 466.4
+  lat: 49.84657555555556
+  lon: 19.38154666666667
+  altitude: 437.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
-  aperture: 5.6
+  aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
-  exposure: 0.000625
-  exposure_string: 1/1600 s
-  time: 2014-06-01 10:10:23+02:00
-- image_filename: IMGP6878raw1.jpg
+  width: 2048
+  height: 1358
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-06-01 11:00:16+02:00
+- image_filename: IMGP6850raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.82588833333334
-  lon: 19.378464722222223
-  altitude: 389.0
+  lat: 49.780451388888885
+  lon: 19.370320833333334
+  altitude: 873.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
-  time: 2014-06-01 09:30:29+02:00
-- image_filename: IMGP6901raw1.jpg
-  post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.83300472222223
-  lon: 19.383656388888888
-  altitude: 430.3
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-06-01 10:14:35+02:00
+  time: 2014-06-01 06:19:42+02:00
 - image_filename: IMGP6854raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
   lat: 49.78775361111111
@@ -50,11 +40,57 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
   time: 2014-06-01 06:54:05+02:00
+- image_filename: IMGP6884raw1.jpg
+  post_slug: 2014-06-02-opuszczenie-beskidu-malego
+  lat: 49.82866944444445
+  lon: 19.38390638888889
+  altitude: 473.1
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2014-06-01 10:01:26+02:00
+- image_filename: IMGP6890raw1.jpg
+  post_slug: 2014-06-02-opuszczenie-beskidu-malego
+  lat: 49.83101555555556
+  lon: 19.383834722222222
+  altitude: 466.4
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.6
+  iso: 400
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  time: 2014-06-01 10:10:23+02:00
+- image_filename: IMGP6901raw1.jpg
+  post_slug: 2014-06-02-opuszczenie-beskidu-malego
+  lat: 49.83300472222223
+  lon: 19.383656388888888
+  altitude: 430.3
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2014-06-01 10:14:35+02:00
 - image_filename: IMGP6920raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
   lat: 49.85089444444444
@@ -64,11 +100,42 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01
   exposure_string: 1/100 s
   time: 2014-06-01 11:08:54+02:00
+- image_filename: IMGP6927raw2.jpg
+  post_slug: 2014-06-02-opuszczenie-beskidu-malego
+  lat: 49.850902777777776
+  lon: 19.386522777777778
+  altitude: 374.6
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2014-06-01 11:13:38+02:00
+- image_filename: IMGP6878raw1.jpg
+  post_slug: 2014-06-02-opuszczenie-beskidu-malego
+  lat: 49.82588833333334
+  lon: 19.378464722222223
+  altitude: 389.0
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 8.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2014-06-01 09:30:29+02:00
 - image_filename: IMGP6899raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
   lat: 49.8324725
@@ -78,6 +145,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -92,25 +160,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.001
   exposure_string: 1/1000 s
   time: 2014-06-01 11:15:07+02:00
-- image_filename: IMGP6927raw2.jpg
-  post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.850902777777776
-  lon: 19.386522777777778
-  altitude: 374.6
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-06-01 11:13:38+02:00
 - image_filename: IMGP6897raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
   lat: 49.83210861111112
@@ -120,55 +175,12 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2014-06-01 10:12:43+02:00
-- image_filename: header.jpg
-  post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.84657555555556
-  lon: 19.38154666666667
-  altitude: 437.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 6.3
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2014-06-01 11:00:16+02:00
-- image_filename: IMGP6884raw1.jpg
-  post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.82866944444445
-  lon: 19.38390638888889
-  altitude: 473.1
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.6
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2014-06-01 10:01:26+02:00
-- image_filename: IMGP6850raw1.jpg
-  post_slug: 2014-06-02-opuszczenie-beskidu-malego
-  lat: 49.780451388888885
-  lon: 19.370320833333334
-  altitude: 873.5
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 8.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2014-06-01 06:19:42+02:00
 - image_filename: IMGP6856raw1.jpg
   post_slug: 2014-06-02-opuszczenie-beskidu-malego
   lat: 49.78750972222222
@@ -178,6 +190,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01

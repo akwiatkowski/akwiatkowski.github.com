@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP7473raw1.jpg
+  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
+  lat: 53.523513888888886
+  lon: 17.541597222222222
+  altitude: 121.0
+  focal_length: 24.0
+  focal_length_35: 36.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 100
+  camera: PENTAX K-S2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2018-04-16 10:42:10+02:00
 - image_filename: IMGP7186raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 54.120472222222226
@@ -8,6 +22,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -21,6 +36,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -34,6 +50,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 4.5
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -47,6 +64,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -60,6 +78,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -73,6 +92,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -86,6 +106,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0025
   exposure_string: 1/400 s
@@ -99,6 +120,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -112,6 +134,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 5.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -125,6 +148,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 1600
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -138,6 +162,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -151,6 +176,7 @@
   focal_length_35: 67.0
   crop: 1.488888888888889
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -164,6 +190,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -177,6 +204,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 5.6
+  iso: 1600
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -190,6 +218,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 4.5
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -203,6 +232,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -216,6 +246,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 1600
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -229,6 +260,7 @@
   focal_length_35: 79.0
   crop: 1.490566037735849
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -242,6 +274,7 @@
   focal_length_35: 222.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -255,6 +288,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -268,23 +302,11 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2018-04-16 12:12:01+02:00
-- image_filename: IMGP7473raw1.jpg
-  post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
-  lat: 53.523513888888886
-  lon: 17.541597222222222
-  altitude: 121.0
-  focal_length: 24.0
-  focal_length_35: 36.0
-  crop: 1.5
-  aperture: 7.1
-  camera: PENTAX K-S2
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2018-04-16 10:42:10+02:00
 - image_filename: IMGP7329raw1.jpg
   post_slug: 2018-04-16-pociagiem-z-koscierzyny-do-gniezna
   lat: 53.65734722222222
@@ -294,6 +316,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 5.6
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -307,6 +330,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 7.1
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -320,6 +344,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -333,6 +358,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 6.3
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -346,6 +372,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 4.5
+  iso: 100
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -359,6 +386,7 @@
   focal_length_35: 187.0
   crop: 1.496
   aperture: 5.6
+  iso: 1250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -372,6 +400,7 @@
   focal_length_35: 94.0
   crop: 1.492063492063492
   aperture: 6.3
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -385,6 +414,7 @@
   focal_length_35: 36.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -398,6 +428,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 5.6
+  iso: 125
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -411,6 +442,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s

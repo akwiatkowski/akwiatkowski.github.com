@@ -1,142 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-- image_filename: 2020_06_06__09_31__6065888.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.272124999999996
-  lon: 19.867069444444446
-  altitude: 145.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-06 09:31:57+02:00
-  focus_distance: 3.27
-- image_filename: 2020_06_06__09_37__6065893.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.277055555555556
-  lon: 19.869500000000002
-  altitude: 150.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 10.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5039
-  height: 3763
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-06 09:37:11+02:00
-  focus_distance: 8.07
-- image_filename: 2020_06_06__09_40__6065905.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.27894444444444
-  lon: 19.87038888888889
-  altitude: 152.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5160
-  height: 3852
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 09:40:00+02:00
-  focus_distance: 40.45
-- image_filename: 2020_06_06__09_37__6065899.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.277097222222224
-  lon: 19.86951388888889
-  altitude: 150.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5081
-  height: 3793
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 09:37:47+02:00
-  focus_distance: 22.11
-- image_filename: 2020_06_06__09_48__6065936.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.28906944444444
-  lon: 19.864958333333334
-  altitude: 155.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 09:48:59+02:00
-  focus_distance: 70.01
-- image_filename: 2020_06_06__09_45__6065925.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.28411111111111
-  lon: 19.868902777777777
-  altitude: 148.0
-  focal_length: 75.0
-  focal_length_35: 150.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 09:45:26+02:00
-  focus_distance: 9.4
-- image_filename: 2020_06_06__09_41__6065912.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.28165277777778
-  lon: 19.870930555555557
-  altitude: 149.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5045
-  height: 3767
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 09:41:08+02:00
-  focus_distance: 11.43
-- image_filename: 2020_06_06__09_55__6065944.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.301874999999995
-  lon: 19.862833333333334
-  altitude: 141.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4621
-  height: 3735
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 09:55:03+02:00
-  focus_distance: 2.29
 - image_filename: 2020_06_06__09_55__6065943.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.30180555555555
@@ -146,6 +8,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4823
@@ -154,448 +17,6 @@
   exposure_string: 1/125 s
   time: 2020-06-06 09:55:00+02:00
   focus_distance: 2.25
-- image_filename: 2020_06_06__09_54__6065941.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.29897222222222
-  lon: 19.861208333333334
-  altitude: 149.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5217
-  height: 3885
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 09:54:02+02:00
-  focus_distance: 15.61
-- image_filename: 2020_06_06__09_59__6065950.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.30676388888889
-  lon: 19.86273611111111
-  altitude: 162.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3911
-  height: 5239
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-06-06 09:59:12+02:00
-  focus_distance: 5.86
-- image_filename: 2020_06_06__10_13__6065952.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.323013888888894
-  lon: 19.899444444444445
-  altitude: 147.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5228
-  height: 3903
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 10:13:39+02:00
-  focus_distance: 50.41
-- image_filename: 2020_06_06__10_25__6065965.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.32893055555556
-  lon: 19.940375
-  altitude: 144.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:25:11+02:00
-  focus_distance: 4.16
-- image_filename: 2020_06_06__10_38__6065976.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.338458333333335
-  lon: 19.954180555555556
-  altitude: 147.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5021
-  height: 3749
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:38:35+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_06__10_16__6065961.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.32497222222223
-  lon: 19.910597222222222
-  altitude: 146.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4974
-  height: 3714
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:16:50+02:00
-  focus_distance: 3.35
-- image_filename: 2020_06_06__10_39__6065982.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.34008333333333
-  lon: 19.95273611111111
-  altitude: 147.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4954
-  height: 3698
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 10:39:24+02:00
-  focus_distance: 44.16
-- image_filename: 2020_06_06__10_46__6066001.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.34351388888889
-  lon: 19.95075
-  altitude: 151.0
-  focal_length: 14.0
-  focal_length_35: 28.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5101
-  height: 3827
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:46:59+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_06__10_45__6065996.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.343875000000004
-  lon: 19.952805555555553
-  altitude: 145.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:45:27+02:00
-  focus_distance: 8.2
-- image_filename: 2020_06_06__10_49__6066006.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.347
-  lon: 19.946930555555557
-  altitude: 150.0
-  focal_length: 50.0
-  focal_length_35: 100.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5031
-  height: 3803
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 10:49:29+02:00
-  focus_distance: 20.15
-- image_filename: 2020_06_06__11_18__6066019.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.40797222222222
-  lon: 19.935958333333332
-  altitude: 168.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4867
-  height: 3633
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 11:18:38+02:00
-  focus_distance: 46.54
-- image_filename: 2020_06_06__11_10__6066013.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.386694444444444
-  lon: 19.930722222222222
-  altitude: 157.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5132
-  height: 3766
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 11:10:23+02:00
-  focus_distance: 3.45
-- image_filename: 2020_06_06__11_18__6066015.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.406083333333335
-  lon: 19.935194444444445
-  altitude: 173.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4947
-  height: 3694
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-06 11:18:09+02:00
-  focus_distance: 4.03
-- image_filename: 2020_06_06__10_51__6066008.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.35231944444445
-  lon: 19.947861111111113
-  altitude: 153.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 10:51:49+02:00
-  focus_distance: 3.7
-- image_filename: 2020_06_06__11_19__6066022.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.41415277777778
-  lon: 19.936930555555556
-  altitude: 154.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5159
-  height: 3851
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 11:19:54+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_06__11_30__6066034.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.420513888888884
-  lon: 19.927208333333333
-  altitude: 161.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5019
-  height: 3701
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-06 11:30:13+02:00
-  focus_distance: 10.35
-- image_filename: 2020_06_06__11_30__6066033.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.420513888888884
-  lon: 19.927222222222223
-  altitude: 162.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 11:30:10+02:00
-  focus_distance: 3.81
-- image_filename: 2020_06_06__11_27__6066029.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.418861111111106
-  lon: 19.93123611111111
-  altitude: 163.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 11:27:37+02:00
-  focus_distance: 7.22
-- image_filename: 2020_06_06__11_57__6066049.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.423069444444444
-  lon: 19.923972222222222
-  altitude: 162.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.002
-  exposure_string: 1/500 s
-  time: 2020-06-06 11:57:19+02:00
-  focus_distance: 108.5
-- image_filename: 2020_06_06__12_00__6066055.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.42425
-  lon: 19.920944444444444
-  altitude: 163.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-06 12:00:43+02:00
-  focus_distance: 6.53
-- image_filename: 2020_06_06__11_30__6066038.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.420513888888884
-  lon: 19.927194444444446
-  altitude: 161.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 11:30:36+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_06__12_05__6066073.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.43372222222222
-  lon: 19.92015277777778
-  altitude: 169.0
-  focal_length: 66.0
-  focal_length_35: 132.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5151
-  height: 3708
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 12:05:42+02:00
-  focus_distance: 18.85
-- image_filename: 2020_06_06__12_10__6066078.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.441430555555556
-  lon: 19.920819444444447
-  altitude: 175.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 12:10:06+02:00
-  focus_distance: 4.43
-- image_filename: 2020_06_06__12_13__6066086.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.443486111111106
-  lon: 19.923055555555557
-  altitude: 168.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 12:13:04+02:00
-  focus_distance: 10.77
-- image_filename: 2020_06_06__12_03__6066065.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.42875
-  lon: 19.91865277777778
-  altitude: 167.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 8.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 12:03:02+02:00
-  focus_distance: 2.29
-- image_filename: 2020_06_06__12_13__6066090.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.44347222222222
-  lon: 19.923055555555557
-  altitude: 168.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4997
-  height: 3731
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 12:13:20+02:00
-  focus_distance: 5.49
 - image_filename: 2020_06_06__12_19__6066109.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.449625
@@ -605,6 +26,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -613,108 +35,96 @@
   exposure_string: 1/100 s
   time: 2020-06-06 12:19:48+02:00
   focus_distance: 26.0
-- image_filename: 2020_06_06__12_13__6066092-hdr.jpg
+- image_filename: 2020_06_06__09_48__6065936.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.44347222222222
-  lon: 19.923069444444447
-  altitude: 168.0
+  lat: 53.28906944444444
+  lon: 19.864958333333334
+  altitude: 155.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 09:48:59+02:00
+  focus_distance: 70.01
+- image_filename: 2020_06_06__09_31__6065888.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.272124999999996
+  lon: 19.867069444444446
+  altitude: 145.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 7.1
+  aperture: 10.0
+  iso: 800
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4937
-  height: 3686
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 12:13:28+02:00
-  focus_distance: 4.9
-- image_filename: 2020_06_06__12_18__6066103.jpg
+  width: 5239
+  height: 3911
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-06 09:31:57+02:00
+  focus_distance: 3.27
+- image_filename: 2020_06_06__09_59__6065950.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.44709722222222
-  lon: 19.925611111111113
-  altitude: 187.0
-  focal_length: 41.0
-  focal_length_35: 82.0
+  lat: 53.30676388888889
+  lon: 19.86273611111111
+  altitude: 162.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3911
+  height: 5239
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-06-06 09:59:12+02:00
+  focus_distance: 5.86
+- image_filename: 2020_06_06__14_42__6066230.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.60713888888889
+  lon: 19.922027777777778
+  altitude: 171.0
+  focal_length: 54.0
+  focal_length_35: 108.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-06 12:18:01+02:00
-  focus_distance: 42.89
-- image_filename: 2020_06_06__12_19__6066110.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.449625
-  lon: 19.926694444444447
-  altitude: 190.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
+  width: 5059
+  height: 3777
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-06-06 12:19:50+02:00
-  focus_distance: 74.14
-- image_filename: 2020_06_06__12_50__6066123.jpg
+  time: 2020-06-06 14:42:19+02:00
+  focus_distance: 22.48
+- image_filename: 2020_06_06__11_19__6066022.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.49875
-  lon: 19.972819444444443
-  altitude: 200.0
-  focal_length: 20.0
-  focal_length_35: 40.0
+  lat: 53.41415277777778
+  lon: 19.936930555555556
+  altitude: 154.0
+  focal_length: 16.0
+  focal_length_35: 32.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5027
-  height: 3688
+  width: 5159
+  height: 3851
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-06-06 12:50:49+02:00
-  focus_distance: 10.81
-- image_filename: 2020_06_06__12_37__6066121.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.4795
-  lon: 19.978458333333332
-  altitude: 189.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 12:37:38+02:00
-  focus_distance: 117.03
-- image_filename: 2020_06_06__13_11__6066128.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.50197222222222
-  lon: 19.96719444444444
-  altitude: 203.0
-  focal_length: 28.0
-  focal_length_35: 56.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5101
-  height: 3808
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 13:11:03+02:00
-  focus_distance: 14.0
+  time: 2020-06-06 11:19:54+02:00
+  focus_distance: 1000.0
 - image_filename: 2020_06_06__13_14__6066136.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.50544444444444
@@ -724,6 +134,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5110
@@ -732,108 +143,168 @@
   exposure_string: 1/250 s
   time: 2020-06-06 13:14:35+02:00
   focus_distance: 50.26
-- image_filename: 2020_06_06__13_14__6066133.jpg
+- image_filename: 2020_06_06__12_05__6066073.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.50431944444444
-  lon: 19.96313888888889
-  altitude: 205.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.43372222222222
+  lon: 19.92015277777778
+  altitude: 169.0
+  focal_length: 66.0
+  focal_length_35: 132.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5110
-  height: 3815
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 13:14:00+02:00
-  focus_distance: 215.57
-- image_filename: 2020_06_06__13_34__6066143.jpg
+  width: 5151
+  height: 3708
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 12:05:42+02:00
+  focus_distance: 18.85
+- image_filename: 2020_06_06__17_01__6066353.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.53488888888889
-  lon: 19.945916666666665
-  altitude: 281.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.63663888888889
+  lon: 20.072652777777776
+  altitude: 120.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 13:34:32+02:00
-  focus_distance: 14.6
-- image_filename: 2020_06_06__13_14__6066135.jpg
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-06-06 17:01:35+02:00
+  focus_distance: 3.27
+- image_filename: 2020_06_06__12_10__6066078.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.504625
-  lon: 19.96258333333333
-  altitude: 206.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.441430555555556
+  lon: 19.920819444444447
+  altitude: 175.0
+  focal_length: 12.0
+  focal_length_35: 24.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 4972
-  height: 3712
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 13:14:09+02:00
-  focus_distance: 90.02
-- image_filename: 2020_06_06__13_45__6066160.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.54804166666666
-  lon: 19.93713888888889
-  altitude: 296.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4968
-  height: 3741
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 13:45:24+02:00
-  focus_distance: 9.6
-- image_filename: 2020_06_06__13_45__6066162.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.54826388888889
-  lon: 19.937458333333332
-  altitude: 298.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5097
-  height: 3715
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-06 13:45:34+02:00
-  focus_distance: 20.05
-- image_filename: 2020_06_06__13_53__6066174.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.55043055555555
-  lon: 19.939875
-  altitude: 304.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5174
-  height: 3863
+  width: 5239
+  height: 3911
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-06-06 13:53:02+02:00
-  focus_distance: 18.47
+  time: 2020-06-06 12:10:06+02:00
+  focus_distance: 4.43
+- image_filename: 2020_06_06__15_47__6066338.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.64523611111111
+  lon: 20.098888888888887
+  altitude: 145.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-06 15:47:51+02:00
+  focus_distance: 40.26
+- image_filename: 2020_06_06__09_40__6065905.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.27894444444444
+  lon: 19.87038888888889
+  altitude: 152.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5160
+  height: 3852
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 09:40:00+02:00
+  focus_distance: 40.45
+- image_filename: 2020_06_06__09_55__6065944.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.301874999999995
+  lon: 19.862833333333334
+  altitude: 141.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4621
+  height: 3735
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 09:55:03+02:00
+  focus_distance: 2.29
+- image_filename: 2020_06_06__18_29__6066395.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.58491666666667
+  lon: 20.088444444444445
+  altitude: 161.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5161
+  height: 3809
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-06 18:29:44+02:00
+  focus_distance: 15.17
+- image_filename: 2020_06_06__10_39__6065982.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.34008333333333
+  lon: 19.95273611111111
+  altitude: 147.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4954
+  height: 3698
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 10:39:24+02:00
+  focus_distance: 44.16
+- image_filename: 2020_06_06__09_37__6065899.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.277097222222224
+  lon: 19.86951388888889
+  altitude: 150.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5081
+  height: 3793
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 09:37:47+02:00
+  focus_distance: 22.11
 - image_filename: 2020_06_06__13_56__6066193.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.55
@@ -843,6 +314,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -851,6 +323,42 @@
   exposure_string: 1/60 s
   time: 2020-06-06 13:56:37+02:00
   focus_distance: 9.32
+- image_filename: 2020_06_06__10_13__6065952.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.323013888888894
+  lon: 19.899444444444445
+  altitude: 147.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5228
+  height: 3903
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 10:13:39+02:00
+  focus_distance: 50.41
+- image_filename: 2020_06_06__12_13__6066092-hdr.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.44347222222222
+  lon: 19.923069444444447
+  altitude: 168.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4937
+  height: 3686
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 12:13:28+02:00
+  focus_distance: 4.9
 - image_filename: 2020_06_06__14_00__6066199.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.55497222222222
@@ -860,6 +368,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4543
@@ -868,23 +377,42 @@
   exposure_string: 1/80 s
   time: 2020-06-06 14:00:57+02:00
   focus_distance: 6.49
-- image_filename: 2020_06_06__13_57__6066198.jpg
+- image_filename: 2020_06_06__12_19__6066110.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.54898611111111
-  lon: 19.938375
-  altitude: 303.0
-  focal_length: 12.0
-  focal_length_35: 24.0
+  lat: 53.449625
+  lon: 19.926694444444447
+  altitude: 190.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.5
+  aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-06 13:57:12+02:00
-  focus_distance: 2.74
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 12:19:50+02:00
+  focus_distance: 74.14
+- image_filename: 2020_06_06__13_14__6066133.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.50431944444444
+  lon: 19.96313888888889
+  altitude: 205.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5110
+  height: 3815
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 13:14:00+02:00
+  focus_distance: 215.57
 - image_filename: 2020_06_06__14_20__6066211.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.584875000000004
@@ -894,6 +422,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4957
@@ -911,6 +440,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -928,6 +458,7 @@
   focal_length_35: 46.0
   crop: 2.0
   aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -936,91 +467,42 @@
   exposure_string: 1/160 s
   time: 2020-06-06 14:23:38+02:00
   focus_distance: 8.11
-- image_filename: 2020_06_06__14_32__6066221.jpg
+- image_filename: 2020_06_06__11_18__6066019.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.60395833333334
-  lon: 19.910805555555555
-  altitude: 153.0
-  focal_length: 66.0
-  focal_length_35: 132.0
+  lat: 53.40797222222222
+  lon: 19.935958333333332
+  altitude: 168.0
+  focal_length: 80.0
+  focal_length_35: 160.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5051
-  height: 3771
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-06 14:32:23+02:00
-  focus_distance: 18.96
-- image_filename: 2020_06_06__14_42__6066230.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.60713888888889
-  lon: 19.922027777777778
-  altitude: 171.0
-  focal_length: 54.0
-  focal_length_35: 108.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5059
-  height: 3777
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 14:42:19+02:00
-  focus_distance: 22.48
-- image_filename: 2020_06_06__14_32__6066224.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.60416666666667
-  lon: 19.911194444444444
-  altitude: 155.0
-  focal_length: 70.0
-  focal_length_35: 140.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 14:32:50+02:00
-  focus_distance: 25.72
-- image_filename: 2020_06_06__14_43__6066238.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.60716666666667
-  lon: 19.922083333333333
-  altitude: 171.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
+  width: 4867
+  height: 3633
   exposure: 0.004
   exposure_string: 1/250 s
-  time: 2020-06-06 14:43:13+02:00
-  focus_distance: 162.21
-- image_filename: 2020_06_06__14_44__6066242.jpg
+  time: 2020-06-06 11:18:38+02:00
+  focus_distance: 46.54
+- image_filename: 2020_06_06__11_10__6066013.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.60743055555556
-  lon: 19.922833333333333
-  altitude: 171.0
-  focal_length: 100.0
-  focal_length_35: 200.0
+  lat: 53.386694444444444
+  lon: 19.930722222222222
+  altitude: 157.0
+  focal_length: 24.0
+  focal_length_35: 48.0
   crop: 2.0
-  aperture: 5.0
+  aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-06 14:44:00+02:00
-  focus_distance: 147.6
+  width: 5132
+  height: 3766
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 11:10:23+02:00
+  focus_distance: 3.45
 - image_filename: 2020_06_06__14_50__6066258.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.61431944444445
@@ -1030,6 +512,7 @@
   focal_length_35: 32.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5072
@@ -1038,125 +521,186 @@
   exposure_string: 1/250 s
   time: 2020-06-06 14:50:52+02:00
   focus_distance: 1000.0
-- image_filename: 2020_06_06__14_58__6066272.jpg
+- image_filename: 2020_06_06__10_25__6065965.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63356944444445
-  lon: 19.953138888888887
-  altitude: 141.0
+  lat: 53.32893055555556
+  lon: 19.940375
+  altitude: 144.0
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-06 14:58:53+02:00
-  focus_distance: 3.79
-- image_filename: 2020_06_06__14_58__6066270.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63341666666667
-  lon: 19.952277777777777
-  altitude: 141.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5068
-  height: 3784
   exposure: 0.005
   exposure_string: 1/200 s
-  time: 2020-06-06 14:58:44+02:00
-  focus_distance: 49.79
-- image_filename: 2020_06_06__15_17__6066306.jpg
+  time: 2020-06-06 10:25:11+02:00
+  focus_distance: 4.16
+- image_filename: 2020_06_06__12_50__6066123.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.62806944444444
-  lon: 19.999333333333333
-  altitude: 146.0
-  focal_length: 70.0
-  focal_length_35: 140.0
+  lat: 53.49875
+  lon: 19.972819444444443
+  altitude: 200.0
+  focal_length: 20.0
+  focal_length_35: 40.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5034
-  height: 3758
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-06 15:17:53+02:00
-  focus_distance: 20.6
-- image_filename: 2020_06_06__15_14__6066285.jpg
+  width: 5027
+  height: 3688
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 12:50:49+02:00
+  focus_distance: 10.81
+- image_filename: 2020_06_06__09_45__6065925.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63422222222222
-  lon: 19.989125
-  altitude: 145.0
-  focal_length: 70.0
-  focal_length_35: 140.0
+  lat: 53.28411111111111
+  lon: 19.868902777777777
+  altitude: 148.0
+  focal_length: 75.0
+  focal_length_35: 150.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 09:45:26+02:00
+  focus_distance: 9.4
+- image_filename: 2020_06_06__10_38__6065976.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.338458333333335
+  lon: 19.954180555555556
+  altitude: 147.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5021
+  height: 3749
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 10:38:35+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_06__12_13__6066086.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.443486111111106
+  lon: 19.923055555555557
+  altitude: 168.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
   exposure: 0.00625
   exposure_string: 1/160 s
-  time: 2020-06-06 15:14:18+02:00
-  focus_distance: 25.09
-- image_filename: 2020_06_06__15_29__6066314.jpg
+  time: 2020-06-06 12:13:04+02:00
+  focus_distance: 10.77
+- image_filename: 2020_06_06__13_45__6066160.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.626958333333334
-  lon: 20.049000000000003
-  altitude: 143.0
+  lat: 53.54804166666666
+  lon: 19.93713888888889
+  altitude: 296.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4968
+  height: 3741
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 13:45:24+02:00
+  focus_distance: 9.6
+- image_filename: 2020_06_06__10_46__6066001.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.34351388888889
+  lon: 19.95075
+  altitude: 151.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5101
+  height: 3827
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 10:46:59+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_06__09_37__6065893.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.277055555555556
+  lon: 19.869500000000002
+  altitude: 150.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  iso: 800
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5039
+  height: 3763
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-06 09:37:11+02:00
+  focus_distance: 8.07
+- image_filename: 2020_06_06__14_32__6066224.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.60416666666667
+  lon: 19.911194444444444
+  altitude: 155.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 14:32:50+02:00
+  focus_distance: 25.72
+- image_filename: 2020_06_06__10_45__6065996.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.343875000000004
+  lon: 19.952805555555553
+  altitude: 145.0
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 5.6
+  iso: 1600
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2020-06-06 15:29:06+02:00
-  focus_distance: 8.52
-- image_filename: 2020_06_06__15_28__6066312.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.62591666666667
-  lon: 20.046222222222223
-  altitude: 137.0
-  focal_length: 61.0
-  focal_length_35: 122.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.05
-  exposure_string: 1/20 s
-  time: 2020-06-06 15:28:01+02:00
-  focus_distance: 15.69
-- image_filename: 2020_06_06__15_27__6066309.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.625625
-  lon: 20.045361111111113
-  altitude: 133.0
-  focal_length: 24.0
-  focal_length_35: 48.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.1
-  exposure_string: 1/10 s
-  time: 2020-06-06 15:27:39+02:00
-  focus_distance: 4.82
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 10:45:27+02:00
+  focus_distance: 8.2
 - image_filename: 2020_06_06__15_29__6066317.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.627430555555556
@@ -1166,6 +710,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4705
@@ -1174,57 +719,114 @@
   exposure_string: 1/20 s
   time: 2020-06-06 15:29:29+02:00
   focus_distance: 26.13
-- image_filename: 2020_06_06__15_33__6066321.jpg
+- image_filename: 2020_06_06__15_29__6066314.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63613888888889
-  lon: 20.071458333333332
-  altitude: 124.0
-  focal_length: 86.0
-  focal_length_35: 172.0
+  lat: 53.626958333333334
+  lon: 20.049000000000003
+  altitude: 143.0
+  focal_length: 100.0
+  focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4839
-  height: 3612
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-06-06 15:33:58+02:00
-  focus_distance: 33.78
-- image_filename: 2020_06_06__15_33__6066319.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.635930555555554
-  lon: 20.071041666666666
-  altitude: 126.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4833
-  height: 3608
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-06 15:33:53+02:00
-  focus_distance: 38.28
-- image_filename: 2020_06_06__15_47__6066338.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.64523611111111
-  lon: 20.098888888888887
-  altitude: 145.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-06 15:47:51+02:00
-  focus_distance: 40.26
+  exposure: 0.1
+  exposure_string: 1/10 s
+  time: 2020-06-06 15:29:06+02:00
+  focus_distance: 8.52
+- image_filename: 2020_06_06__13_45__6066162.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.54826388888889
+  lon: 19.937458333333332
+  altitude: 298.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5097
+  height: 3715
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 13:45:34+02:00
+  focus_distance: 20.05
+- image_filename: 2020_06_06__11_18__6066015.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.406083333333335
+  lon: 19.935194444444445
+  altitude: 173.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4947
+  height: 3694
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-06 11:18:09+02:00
+  focus_distance: 4.03
+- image_filename: 2020_06_06__11_30__6066034.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.420513888888884
+  lon: 19.927208333333333
+  altitude: 161.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5019
+  height: 3701
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-06 11:30:13+02:00
+  focus_distance: 10.35
+- image_filename: 2020_06_06__11_57__6066049.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.423069444444444
+  lon: 19.923972222222222
+  altitude: 162.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.002
+  exposure_string: 1/500 s
+  time: 2020-06-06 11:57:19+02:00
+  focus_distance: 108.5
+- image_filename: 2020_06_06__14_58__6066272.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63356944444445
+  lon: 19.953138888888887
+  altitude: 141.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-06 14:58:53+02:00
+  focus_distance: 3.79
 - image_filename: 2020_06_06__16_54__6066350.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.64718055555556
@@ -1234,6 +836,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5214
@@ -1242,108 +845,24 @@
   exposure_string: 1/50 s
   time: 2020-06-06 16:54:29+02:00
   focus_distance: 11.23
-- image_filename: 2020_06_06__16_50__6066348.jpg
+- image_filename: 2020_06_06__12_03__6066065.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.64131944444444
-  lon: 20.11301388888889
-  altitude: 155.0
-  focal_length: 23.0
-  focal_length_35: 46.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-06 16:50:13+02:00
-  focus_distance: 8.78
-- image_filename: 2020_06_06__15_46__6066332.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.643430555555554
-  lon: 20.09626388888889
-  altitude: 139.0
-  focal_length: 57.0
-  focal_length_35: 114.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-06 15:46:45+02:00
-  focus_distance: 25.76
-- image_filename: 2020_06_06__17_01__6066353.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63663888888889
-  lon: 20.072652777777776
-  altitude: 120.0
+  lat: 53.42875
+  lon: 19.91865277777778
+  altitude: 167.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 8.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
   height: 3911
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-06-06 17:01:35+02:00
-  focus_distance: 3.27
-- image_filename: 2020_06_06__17_03__6066355.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63465277777778
-  lon: 20.068916666666667
-  altitude: 126.0
-  focal_length: 41.0
-  focal_length_35: 82.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-06 17:03:57+02:00
-  focus_distance: 61.83
-- image_filename: 2020_06_06__17_04__6066359.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.63465277777778
-  lon: 20.068916666666667
-  altitude: 126.0
-  focal_length: 29.0
-  focal_length_35: 58.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.025
-  exposure_string: 1/40 s
-  time: 2020-06-06 17:04:08+02:00
-  focus_distance: 10.64
-- image_filename: 2020_06_06__18_29__6066395.jpg
-  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
-  lat: 53.58491666666667
-  lon: 20.088444444444445
-  altitude: 161.0
-  focal_length: 47.0
-  focal_length_35: 94.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3809
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-06 18:29:44+02:00
-  focus_distance: 15.17
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 12:03:02+02:00
+  focus_distance: 2.29
 - image_filename: 2020_06_06__17_24__6066375.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.59041666666667
@@ -1353,6 +872,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5116
@@ -1361,6 +881,510 @@
   exposure_string: 1/80 s
   time: 2020-06-06 17:24:49+02:00
   focus_distance: 13.94
+- image_filename: 2020_06_06__17_03__6066355.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63465277777778
+  lon: 20.068916666666667
+  altitude: 126.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 17:03:57+02:00
+  focus_distance: 61.83
+- image_filename: 2020_06_06__15_17__6066306.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.62806944444444
+  lon: 19.999333333333333
+  altitude: 146.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5034
+  height: 3758
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-06 15:17:53+02:00
+  focus_distance: 20.6
+- image_filename: 2020_06_06__13_34__6066143.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.53488888888889
+  lon: 19.945916666666665
+  altitude: 281.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 13:34:32+02:00
+  focus_distance: 14.6
+- image_filename: 2020_06_06__15_14__6066285.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63422222222222
+  lon: 19.989125
+  altitude: 145.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 15:14:18+02:00
+  focus_distance: 25.09
+- image_filename: 2020_06_06__16_50__6066348.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.64131944444444
+  lon: 20.11301388888889
+  altitude: 155.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-06 16:50:13+02:00
+  focus_distance: 8.78
+- image_filename: 2020_06_06__13_53__6066174.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.55043055555555
+  lon: 19.939875
+  altitude: 304.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5174
+  height: 3863
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 13:53:02+02:00
+  focus_distance: 18.47
+- image_filename: 2020_06_06__15_28__6066312.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.62591666666667
+  lon: 20.046222222222223
+  altitude: 137.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.05
+  exposure_string: 1/20 s
+  time: 2020-06-06 15:28:01+02:00
+  focus_distance: 15.69
+- image_filename: 2020_06_06__14_58__6066270.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63341666666667
+  lon: 19.952277777777777
+  altitude: 141.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5068
+  height: 3784
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 14:58:44+02:00
+  focus_distance: 49.79
+- image_filename: 2020_06_06__10_16__6065961.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.32497222222223
+  lon: 19.910597222222222
+  altitude: 146.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4974
+  height: 3714
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 10:16:50+02:00
+  focus_distance: 3.35
+- image_filename: 2020_06_06__12_37__6066121.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.4795
+  lon: 19.978458333333332
+  altitude: 189.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 12:37:38+02:00
+  focus_distance: 117.03
+- image_filename: 2020_06_06__15_33__6066321.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63613888888889
+  lon: 20.071458333333332
+  altitude: 124.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4839
+  height: 3612
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-06-06 15:33:58+02:00
+  focus_distance: 33.78
+- image_filename: 2020_06_06__14_43__6066238.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.60716666666667
+  lon: 19.922083333333333
+  altitude: 171.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 14:43:13+02:00
+  focus_distance: 162.21
+- image_filename: 2020_06_06__12_13__6066090.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.44347222222222
+  lon: 19.923055555555557
+  altitude: 168.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4997
+  height: 3731
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 12:13:20+02:00
+  focus_distance: 5.49
+- image_filename: 2020_06_06__09_54__6065941.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.29897222222222
+  lon: 19.861208333333334
+  altitude: 149.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5217
+  height: 3885
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-06 09:54:02+02:00
+  focus_distance: 15.61
+- image_filename: 2020_06_06__11_30__6066033.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.420513888888884
+  lon: 19.927222222222223
+  altitude: 162.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 11:30:10+02:00
+  focus_distance: 3.81
+- image_filename: 2020_06_06__13_57__6066198.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.54898611111111
+  lon: 19.938375
+  altitude: 303.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-06 13:57:12+02:00
+  focus_distance: 2.74
+- image_filename: 2020_06_06__12_00__6066055.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.42425
+  lon: 19.920944444444444
+  altitude: 163.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-06 12:00:43+02:00
+  focus_distance: 6.53
+- image_filename: 2020_06_06__11_30__6066038.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.420513888888884
+  lon: 19.927194444444446
+  altitude: 161.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 11:30:36+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_06__13_11__6066128.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.50197222222222
+  lon: 19.96719444444444
+  altitude: 203.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5101
+  height: 3808
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 13:11:03+02:00
+  focus_distance: 14.0
+- image_filename: 2020_06_06__11_27__6066029.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.418861111111106
+  lon: 19.93123611111111
+  altitude: 163.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 11:27:37+02:00
+  focus_distance: 7.22
+- image_filename: 2020_06_06__17_04__6066359.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.63465277777778
+  lon: 20.068916666666667
+  altitude: 126.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.025
+  exposure_string: 1/40 s
+  time: 2020-06-06 17:04:08+02:00
+  focus_distance: 10.64
+- image_filename: 2020_06_06__09_41__6065912.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.28165277777778
+  lon: 19.870930555555557
+  altitude: 149.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5045
+  height: 3767
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 09:41:08+02:00
+  focus_distance: 11.43
+- image_filename: 2020_06_06__15_46__6066332.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.643430555555554
+  lon: 20.09626388888889
+  altitude: 139.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-06 15:46:45+02:00
+  focus_distance: 25.76
+- image_filename: 2020_06_06__15_27__6066309.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.625625
+  lon: 20.045361111111113
+  altitude: 133.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.1
+  exposure_string: 1/10 s
+  time: 2020-06-06 15:27:39+02:00
+  focus_distance: 4.82
+- image_filename: 2020_06_06__14_32__6066221.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.60395833333334
+  lon: 19.910805555555555
+  altitude: 153.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5051
+  height: 3771
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 14:32:23+02:00
+  focus_distance: 18.96
+- image_filename: 2020_06_06__13_14__6066135.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.504625
+  lon: 19.96258333333333
+  altitude: 206.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4972
+  height: 3712
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 13:14:09+02:00
+  focus_distance: 90.02
+- image_filename: 2020_06_06__10_49__6066006.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.347
+  lon: 19.946930555555557
+  altitude: 150.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5031
+  height: 3803
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-06 10:49:29+02:00
+  focus_distance: 20.15
+- image_filename: 2020_06_06__10_51__6066008.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.35231944444445
+  lon: 19.947861111111113
+  altitude: 153.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-06 10:51:49+02:00
+  focus_distance: 3.7
 - image_filename: 2020_06_06__18_33__6066398.jpg
   post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
   lat: 53.58493055555556
@@ -1370,6 +1394,7 @@
   focal_length_35: 150.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5125
@@ -1378,3 +1403,57 @@
   exposure_string: 1/60 s
   time: 2020-06-06 18:33:34+02:00
   focus_distance: 35.08
+- image_filename: 2020_06_06__15_33__6066319.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.635930555555554
+  lon: 20.071041666666666
+  altitude: 126.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4833
+  height: 3608
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-06 15:33:53+02:00
+  focus_distance: 38.28
+- image_filename: 2020_06_06__14_44__6066242.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.60743055555556
+  lon: 19.922833333333333
+  altitude: 171.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-06 14:44:00+02:00
+  focus_distance: 147.6
+- image_filename: 2020_06_06__12_18__6066103.jpg
+  post_slug: 2020-06-06-mialo-by-ladnie-i-bylo
+  lat: 53.44709722222222
+  lon: 19.925611111111113
+  altitude: 187.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-06 12:18:01+02:00
+  focus_distance: 42.89

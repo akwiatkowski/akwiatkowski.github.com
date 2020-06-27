@@ -1,10 +1,29 @@
 ---
+- image_filename: P8090057.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.486402777777776
+  lon: 22.645819444444445
+  altitude: 113.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  width: 4450
+  height: 3328
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2018-08-09 15:15:30+02:00
+  focus_distance: 1000.0
 - image_filename: P8090018.jpg
   post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -22,6 +41,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4564
@@ -39,6 +59,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -56,6 +77,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4270
@@ -73,6 +95,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4591
@@ -87,6 +110,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 5.6
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -104,6 +128,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 3211
@@ -121,6 +146,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4542
@@ -135,6 +161,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -152,6 +179,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -169,6 +197,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4549
@@ -186,6 +215,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -200,6 +230,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -217,6 +248,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 3472
@@ -234,6 +266,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -251,6 +284,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.7
+  iso: 800
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -268,6 +302,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4429
@@ -285,6 +320,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 3391
@@ -299,6 +335,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -316,6 +353,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4556
@@ -330,6 +368,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 800
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -338,23 +377,6 @@
   exposure_string: 1/60 s
   time: 2018-08-09 17:52:56+02:00
   focus_distance: 4.95
-- image_filename: P8090057.jpg
-  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
-  lat: 53.486402777777776
-  lon: 22.645819444444445
-  altitude: 113.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.0
-  lens: LUMIX G 20/F1.7 II
-  camera: E-M10MarkII
-  width: 4450
-  height: 3328
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-08-09 15:15:30+02:00
-  focus_distance: 1000.0
 - image_filename: P8090031.jpg
   post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
   lat: 53.471611111111116
@@ -364,6 +386,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 1.8
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -381,6 +404,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -398,6 +422,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 2.8
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4507
@@ -415,6 +440,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 3.5
+  iso: 200
   lens: LUMIX G 20/F1.7 II
   camera: E-M10MarkII
   width: 4640
@@ -432,6 +458,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4582
@@ -446,6 +473,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640
@@ -460,6 +488,7 @@
   focal_length_35: 120.0
   crop: 2.0
   aperture: 2.8
+  iso: 400
   lens: OLYMPUS M.60mm F2.8 Macro
   camera: E-M10MarkII
   width: 4640

@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2017-10-20-delikatne-mgly-z-sokolika
+  lat: 50.869625
+  lon: 15.86951388888889
+  altitude: 646.0
+  focal_length: 36.0
+  focal_length_35: 54.0
+  crop: 1.5
+  aperture: 4.5
+  iso: 250
+  camera: PENTAX K-S2
+  exposure: 30.0
+  exposure_string: 30 s
+  time: 2017-10-20 05:40:54+02:00
 - image_filename: IMGP1781raw1cropped.jpg
   post_slug: 2017-10-20-delikatne-mgly-z-sokolika
   lat: 50.869625
@@ -8,6 +22,7 @@
   focal_length_35: 43.0
   crop: 1.4827586206896552
   aperture: 4.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -21,6 +36,7 @@
   focal_length_35: 46.0
   crop: 1.4838709677419355
   aperture: 5.6
+  iso: 250
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -34,6 +50,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -47,6 +64,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -60,6 +78,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -73,6 +92,7 @@
   focal_length_35: 54.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -86,6 +106,7 @@
   focal_length_35: 345.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -99,6 +120,7 @@
   focal_length_35: 285.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -112,6 +134,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -125,6 +148,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.016666666666666666
   exposure_string: 1/60 s
@@ -138,6 +162,7 @@
   focal_length_35: 25.0
   crop: 1.4705882352941178
   aperture: 5.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -151,6 +176,7 @@
   focal_length_35: 57.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -164,6 +190,7 @@
   focal_length_35: 46.0
   crop: 1.4838709677419355
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -177,6 +204,7 @@
   focal_length_35: 465.0
   crop: 1.5
   aperture: 9.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -190,6 +218,7 @@
   focal_length_35: 315.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.02
   exposure_string: 1/50 s
@@ -203,6 +232,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -216,6 +246,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -229,6 +260,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -242,6 +274,7 @@
   focal_length_35: 49.0
   crop: 1.4848484848484849
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.0125
   exposure_string: 1/80 s
@@ -255,6 +288,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.01
   exposure_string: 1/100 s
@@ -268,6 +302,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 0.1
   exposure_string: 1/10 s
@@ -281,6 +316,7 @@
   focal_length_35: 600.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.002
   exposure_string: 1/500 s
@@ -294,6 +330,7 @@
   focal_length_35: 555.0
   crop: 1.5
   aperture: 8.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 1.0
   exposure_string: 1 s
@@ -307,6 +344,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 250
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -320,6 +358,7 @@
   focal_length_35: 240.0
   crop: 1.5
   aperture: 8.0
+  iso: 320
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -333,6 +372,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -346,6 +386,7 @@
   focal_length_35: 375.0
   crop: 1.5
   aperture: 8.0
+  iso: 400
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s
@@ -359,23 +400,11 @@
   focal_length_35: 315.0
   crop: 1.5
   aperture: 13.0
+  iso: 250
   camera: PENTAX K-S2
   exposure: 8.0
   exposure_string: 8 s
   time: 2017-10-20 06:00:37+02:00
-- image_filename: header.jpg
-  post_slug: 2017-10-20-delikatne-mgly-z-sokolika
-  lat: 50.869625
-  lon: 15.86951388888889
-  altitude: 646.0
-  focal_length: 36.0
-  focal_length_35: 54.0
-  crop: 1.5
-  aperture: 4.5
-  camera: PENTAX K-S2
-  exposure: 30.0
-  exposure_string: 30 s
-  time: 2017-10-20 05:40:54+02:00
 - image_filename: IMGP1844raw1.jpg
   post_slug: 2017-10-20-delikatne-mgly-z-sokolika
   lat: 50.869638888888886
@@ -385,6 +414,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 0.00125
   exposure_string: 1/800 s

@@ -1,4 +1,18 @@
 ---
+- image_filename: IMGP5363raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  lat: 54.60698611111111
+  lon: 18.799847222222223
+  altitude: 4294967296.0
+  focal_length: 500.0
+  focal_length_35: 750.0
+  crop: 1.5
+  aperture: 8.0
+  iso: 640
+  camera: PENTAX K-S2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2018-02-03 12:39:54+01:00
 - image_filename: IMGP5216raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.45915277777778
@@ -8,6 +22,7 @@
   focal_length_35: 30.0
   crop: 1.5
   aperture: 8.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -21,6 +36,7 @@
   focal_length_35: 112.0
   crop: 1.4933333333333334
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.025
   exposure_string: 1/40 s
@@ -34,6 +50,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -47,6 +64,7 @@
   focal_length_35: 300.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -60,6 +78,7 @@
   focal_length_35: 750.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.0015625
   exposure_string: 1/640 s
@@ -73,6 +92,7 @@
   focal_length_35: 255.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.00625
   exposure_string: 1/160 s
@@ -86,6 +106,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -99,6 +120,7 @@
   focal_length_35: 315.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -109,6 +131,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 8.0
+  iso: 200
   camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
@@ -119,6 +142,7 @@
   focal_length_35: 27.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -132,6 +156,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -145,6 +170,7 @@
   focal_length_35: 405.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -158,6 +184,7 @@
   focal_length_35: 15.0
   crop: 1.5
   aperture: 13.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -168,6 +195,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 6.3
+  iso: 100
   camera: PENTAX K-S2
   exposure: 6.0
   exposure_string: 6 s
@@ -181,6 +209,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.005
   exposure_string: 1/200 s
@@ -191,6 +220,7 @@
   focal_length_35: 465.0
   crop: 1.5
   aperture: 8.0
+  iso: 640
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -204,6 +234,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.008
   exposure_string: 1/125 s
@@ -217,23 +248,11 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
   time: 2018-02-03 07:54:09+01:00
-- image_filename: IMGP5363raw1.jpg
-  post_slug: 2018-02-03-fokarium-na-helu
-  lat: 54.60698611111111
-  lon: 18.799847222222223
-  altitude: 4294967296.0
-  focal_length: 500.0
-  focal_length_35: 750.0
-  crop: 1.5
-  aperture: 8.0
-  camera: PENTAX K-S2
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2018-02-03 12:39:54+01:00
 - image_filename: IMGP5238raw1.jpg
   post_slug: 2018-02-03-fokarium-na-helu
   lat: 54.44968055555555
@@ -243,6 +262,7 @@
   focal_length_35: 135.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.03333333333333333
   exposure_string: 1/30 s
@@ -253,6 +273,7 @@
   focal_length_35: 18.0
   crop: 1.5
   aperture: 10.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 30.0
   exposure_string: 30 s
@@ -266,6 +287,7 @@
   focal_length_35: 225.0
   crop: 1.5
   aperture: 6.3
+  iso: 800
   camera: PENTAX K-S2
   exposure: 0.004
   exposure_string: 1/250 s
@@ -276,6 +298,7 @@
   focal_length_35: 19.0
   crop: 1.4615384615384615
   aperture: 9.0
+  iso: 100
   camera: PENTAX K-S2
   exposure: 10.0
   exposure_string: 10 s
@@ -289,6 +312,7 @@
   focal_length_35: 465.0
   crop: 1.5
   aperture: 7.1
+  iso: 1000
   camera: PENTAX K-S2
   exposure: 0.003125
   exposure_string: 1/320 s

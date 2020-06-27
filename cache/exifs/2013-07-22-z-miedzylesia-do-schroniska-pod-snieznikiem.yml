@@ -1,4 +1,18 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2013-07-22 11:57:02+02:00
 - image_filename: IMGP6740b.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
   lat: 50.15058833333333
@@ -8,6 +22,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -22,6 +37,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -36,6 +52,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 9.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -50,6 +67,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -64,6 +82,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
@@ -75,6 +94,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.003125
@@ -86,6 +106,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.01
@@ -100,6 +121,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.001
@@ -114,6 +136,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -125,6 +148,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -139,6 +163,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -153,6 +178,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -167,24 +193,12 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2013-07-22 09:32:51+02:00
-- image_filename: header.jpg
-  post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-07-22 11:57:02+02:00
 - image_filename: IMGP6730b.jpg
   post_slug: 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem
   lat: 50.15031138888889
@@ -194,6 +208,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -208,6 +223,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -219,6 +235,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025
@@ -230,6 +247,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.0025

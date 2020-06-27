@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.86046138888889
+  lon: 15.912455277777779
+  altitude: 552.9
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 3.5
+  iso: 800
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  width: 2048
+  height: 1356
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  time: 2012-08-11 15:08:03+02:00
 - image_filename: IMGP7551b.jpg
   post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
   lat: 50.86062722222222
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 3.2
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.008
@@ -22,6 +40,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 1600
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -36,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928
@@ -52,6 +72,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 2.8
+  iso: 800
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 4928
@@ -68,24 +89,9 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.0
+  iso: 1600
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
   exposure_string: 1/200 s
   time: 2012-08-11 16:01:06+02:00
-- image_filename: header.jpg
-  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
-  lat: 50.86046138888889
-  lon: 15.912455277777779
-  altitude: 552.9
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 3.5
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1356
-  exposure: 0.001
-  exposure_string: 1/1000 s
-  time: 2012-08-11 15:08:03+02:00

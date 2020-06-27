@@ -1,244 +1,4 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-- image_filename: 2020_06_13__08_34__6137468.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.73154166666667
-  lon: 16.328166666666668
-  altitude: 128.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 6.3
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5148
-  height: 3844
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-13 08:34:01+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_13__08_36__6137474.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.73152777777778
-  lon: 16.328180555555555
-  altitude: 128.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.004
-  exposure_string: 1/250 s
-  time: 2020-06-13 08:36:38+02:00
-  focus_distance: 10.69
-- image_filename: 2020_06_13__08_52__6137503.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.723305555555555
-  lon: 16.292472222222223
-  altitude: 101.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.01
-  exposure_string: 1/100 s
-  time: 2020-06-13 08:52:13+02:00
-  focus_distance: 11.43
-- image_filename: 2020_06_13__08_48__6137493.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.72018055555556
-  lon: 16.295833333333334
-  altitude: 107.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3855
-  height: 3003
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-13 08:48:19+02:00
-  focus_distance: 17.25
-- image_filename: 2020_06_13__08_36__6137476.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.73140277777778
-  lon: 16.328083333333332
-  altitude: 128.0
-  focal_length: 18.0
-  focal_length_35: 36.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-13 08:36:55+02:00
-  focus_distance: 3.65
-- image_filename: 2020_06_13__08_53__6137506.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.726416666666665
-  lon: 16.287791666666667
-  altitude: 82.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5066
-  height: 3782
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-13 08:53:02+02:00
-  focus_distance: 138.85
-- image_filename: 2020_06_13__09_01__6137522.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.726333333333336
-  lon: 16.2865
-  altitude: 80.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.00625
-  exposure_string: 1/160 s
-  time: 2020-06-13 09:01:24+02:00
-  focus_distance: 72.82
-- image_filename: 2020_06_13__09_00__6137519.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.726333333333336
-  lon: 16.28651388888889
-  altitude: 80.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5170
-  height: 3859
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-13 09:00:41+02:00
-  focus_distance: 3.92
-- image_filename: 2020_06_13__10_11__6137585.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.76584722222222
-  lon: 16.093763888888887
-  altitude: 86.0
-  focal_length: 15.0
-  focal_length_35: 30.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4936
-  height: 3830
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-13 10:11:28+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_13__10_11__6137586.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.76584722222222
-  lon: 16.093763888888887
-  altitude: 86.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5161
-  height: 3807
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-13 10:11:33+02:00
-  focus_distance: 23.24
-- image_filename: 2020_06_13__09_10_P6137566.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.72634722222222
-  lon: 16.2865
-  altitude: 80.0
-  focal_length: 20.0
-  focal_length_35: 40.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-13 09:10:44+02:00
-  focus_distance: 1000.0
-- image_filename: 2020_06_13__10_11__6137582.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.76584722222222
-  lon: 16.093763888888887
-  altitude: 86.0
-  focal_length: 34.0
-  focal_length_35: 68.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 3840
-  height: 5186
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-13 10:11:12+02:00
-  focus_distance: 11.84
-- image_filename: 2020_06_13__10_17__6137588.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.76584722222222
-  lon: 16.093763888888887
-  altitude: 86.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4759
-  height: 3487
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-13 10:17:51+02:00
-  focus_distance: 5.0
-- image_filename: 2020_06_13__10_18__6137592.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.76584722222222
-  lon: 16.093763888888887
-  altitude: 86.0
-  focal_length: 35.0
-  focal_length_35: 70.0
-  crop: 2.0
-  aperture: 7.1
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5122
-  height: 3803
-  exposure: 0.005
-  exposure_string: 1/200 s
-  time: 2020-06-13 10:18:16+02:00
-  focus_distance: 61.13
 - image_filename: 2020_06_13__10_43__6137594.jpg
   post_slug: 2020-06-13-pierwsza-upalna-ucieczka
   lat: 53.782875
@@ -248,6 +8,7 @@
   focal_length_35: 114.0
   crop: 2.0
   aperture: 5.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5134
@@ -265,6 +26,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5166
@@ -273,159 +35,24 @@
   exposure_string: 1/200 s
   time: 2020-06-13 10:51:09+02:00
   focus_distance: 1000.0
-- image_filename: 2020_06_13__11_00__6137607.jpg
+- image_filename: 2020_06_13__10_11__6137585.jpg
   post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.79819444444444
-  lon: 16.046861111111113
-  altitude: 135.0
-  focal_length: 35.0
-  focal_length_35: 70.0
+  lat: 53.76584722222222
+  lon: 16.093763888888887
+  altitude: 86.0
+  focal_length: 15.0
+  focal_length_35: 30.0
   crop: 2.0
-  aperture: 4.0
+  aperture: 7.1
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
-  width: 5170
-  height: 3858
-  exposure: 0.016666666666666666
-  exposure_string: 1/60 s
-  time: 2020-06-13 11:00:39+02:00
-  focus_distance: 26.34
-- image_filename: 2020_06_13__11_15__6137629-hdr.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.83351388888889
-  lon: 16.009291666666666
-  altitude: 105.0
-  focal_length: 21.0
-  focal_length_35: 42.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5051
-  height: 3771
-  exposure: 0.02
-  exposure_string: 1/50 s
-  time: 2020-06-13 11:15:32+02:00
-  focus_distance: 3.59
-- image_filename: 2020_06_13__11_14__6137623.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.82940277777778
-  lon: 16.01413888888889
-  altitude: 113.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 4.5
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5047
-  height: 3769
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-13 11:14:33+02:00
-  focus_distance: 5.97
-- image_filename: 2020_06_13__11_00__6137608.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.79833333333333
-  lon: 16.046972222222223
-  altitude: 135.0
-  focal_length: 80.0
-  focal_length_35: 160.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5051
-  height: 3770
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2020-06-13 11:00:43+02:00
-  focus_distance: 27.22
-- image_filename: 2020_06_13__11_43__6137639.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.867041666666665
-  lon: 15.943902777777778
-  altitude: 98.0
-  focal_length: 12.0
-  focal_length_35: 24.0
-  crop: 2.0
-  aperture: 5.6
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.008
-  exposure_string: 1/125 s
-  time: 2020-06-13 11:43:55+02:00
-  focus_distance: 3.43
-- image_filename: 2020_06_13__11_28__6137633.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.85590277777778
-  lon: 15.959569444444444
-  altitude: 79.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 5.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5193
-  height: 3877
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-13 11:28:41+02:00
-  focus_distance: 84.89
-- image_filename: 2020_06_13__14_27__6137701.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.05322222222222
-  lon: 15.591680555555556
-  altitude: 119.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4998
-  height: 3789
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2020-06-13 14:27:23+02:00
-  focus_distance: 30.17
-- image_filename: 2020_06_13__14_27__6137713.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 53.05169444444444
-  lon: 15.594055555555556
-  altitude: 112.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 4773
-  height: 3534
-  exposure: 0.0015625
-  exposure_string: 1/640 s
-  time: 2020-06-13 14:27:47+02:00
-  focus_distance: 135.4
-- image_filename: 2020_06_13__14_41__6137736.jpg
-  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
-  lat: 52.9685
-  lon: 15.746833333333333
-  altitude: 113.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  width: 5239
-  height: 3911
-  exposure: 0.0025
-  exposure_string: 1/400 s
-  time: 2020-06-13 14:41:53+02:00
-  focus_distance: 100.51
+  width: 4936
+  height: 3830
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-13 10:11:28+02:00
+  focus_distance: 1000.0
 - image_filename: 2020_06_13__14_42__6137742.jpg
   post_slug: 2020-06-13-pierwsza-upalna-ucieczka
   lat: 52.96848611111111
@@ -435,6 +62,7 @@
   focal_length_35: 58.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -452,6 +80,7 @@
   focal_length_35: 88.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5239
@@ -469,6 +98,7 @@
   focal_length_35: 132.0
   crop: 2.0
   aperture: 4.0
+  iso: 800
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5102
@@ -477,6 +107,312 @@
   exposure_string: 1/800 s
   time: 2020-06-13 15:15:26+02:00
   focus_distance: 21.75
+- image_filename: 2020_06_13__11_43__6137639.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.867041666666665
+  lon: 15.943902777777778
+  altitude: 98.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-13 11:43:55+02:00
+  focus_distance: 3.43
+- image_filename: 2020_06_13__14_27__6137701.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.05322222222222
+  lon: 15.591680555555556
+  altitude: 119.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4998
+  height: 3789
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-13 14:27:23+02:00
+  focus_distance: 30.17
+- image_filename: 2020_06_13__11_28__6137633.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.85590277777778
+  lon: 15.959569444444444
+  altitude: 79.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5193
+  height: 3877
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-13 11:28:41+02:00
+  focus_distance: 84.89
+- image_filename: 2020_06_13__08_34__6137468.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.73154166666667
+  lon: 16.328166666666668
+  altitude: 128.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 6.3
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5148
+  height: 3844
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-13 08:34:01+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_13__10_17__6137588.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.76584722222222
+  lon: 16.093763888888887
+  altitude: 86.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4759
+  height: 3487
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-13 10:17:51+02:00
+  focus_distance: 5.0
+- image_filename: 2020_06_13__10_18__6137592.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.76584722222222
+  lon: 16.093763888888887
+  altitude: 86.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5122
+  height: 3803
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-13 10:18:16+02:00
+  focus_distance: 61.13
+- image_filename: 2020_06_13__08_36__6137474.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.73152777777778
+  lon: 16.328180555555555
+  altitude: 128.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.004
+  exposure_string: 1/250 s
+  time: 2020-06-13 08:36:38+02:00
+  focus_distance: 10.69
+- image_filename: 2020_06_13__11_00__6137607.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.79819444444444
+  lon: 16.046861111111113
+  altitude: 135.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5170
+  height: 3858
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-06-13 11:00:39+02:00
+  focus_distance: 26.34
+- image_filename: 2020_06_13__08_52__6137503.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.723305555555555
+  lon: 16.292472222222223
+  altitude: 101.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.01
+  exposure_string: 1/100 s
+  time: 2020-06-13 08:52:13+02:00
+  focus_distance: 11.43
+- image_filename: 2020_06_13__11_15__6137629-hdr.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.83351388888889
+  lon: 16.009291666666666
+  altitude: 105.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5051
+  height: 3771
+  exposure: 0.02
+  exposure_string: 1/50 s
+  time: 2020-06-13 11:15:32+02:00
+  focus_distance: 3.59
+- image_filename: 2020_06_13__11_14__6137623.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.82940277777778
+  lon: 16.01413888888889
+  altitude: 113.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5047
+  height: 3769
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-13 11:14:33+02:00
+  focus_distance: 5.97
+- image_filename: 2020_06_13__08_48__6137493.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.72018055555556
+  lon: 16.295833333333334
+  altitude: 107.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3855
+  height: 3003
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-13 08:48:19+02:00
+  focus_distance: 17.25
+- image_filename: 2020_06_13__10_11__6137586.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.76584722222222
+  lon: 16.093763888888887
+  altitude: 86.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5161
+  height: 3807
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2020-06-13 10:11:33+02:00
+  focus_distance: 23.24
+- image_filename: 2020_06_13__08_36__6137476.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.73140277777778
+  lon: 16.328083333333332
+  altitude: 128.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-13 08:36:55+02:00
+  focus_distance: 3.65
+- image_filename: 2020_06_13__14_27__6137713.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.05169444444444
+  lon: 15.594055555555556
+  altitude: 112.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4773
+  height: 3534
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  time: 2020-06-13 14:27:47+02:00
+  focus_distance: 135.4
+- image_filename: 2020_06_13__14_41__6137736.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 52.9685
+  lon: 15.746833333333333
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 400
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  time: 2020-06-13 14:41:53+02:00
+  focus_distance: 100.51
+- image_filename: 2020_06_13__08_53__6137506.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.726416666666665
+  lon: 16.287791666666667
+  altitude: 82.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5066
+  height: 3782
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-13 08:53:02+02:00
+  focus_distance: 138.85
 - image_filename: 2020_06_13__15_17__6137801.jpg
   post_slug: 2020-06-13-pierwsza-upalna-ucieczka
   lat: 52.87744444444444
@@ -486,6 +422,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 800
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5022
@@ -494,3 +431,93 @@
   exposure_string: 1/1600 s
   time: 2020-06-13 15:17:38+02:00
   focus_distance: 3.27
+- image_filename: 2020_06_13__11_00__6137608.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.79833333333333
+  lon: 16.046972222222223
+  altitude: 135.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5051
+  height: 3770
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-13 11:00:43+02:00
+  focus_distance: 27.22
+- image_filename: 2020_06_13__09_01__6137522.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.726333333333336
+  lon: 16.2865
+  altitude: 80.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  time: 2020-06-13 09:01:24+02:00
+  focus_distance: 72.82
+- image_filename: 2020_06_13__09_10_P6137566.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.72634722222222
+  lon: 16.2865
+  altitude: 80.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.008
+  exposure_string: 1/125 s
+  time: 2020-06-13 09:10:44+02:00
+  focus_distance: 1000.0
+- image_filename: 2020_06_13__09_00__6137519.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.726333333333336
+  lon: 16.28651388888889
+  altitude: 80.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5170
+  height: 3859
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-06-13 09:00:41+02:00
+  focus_distance: 3.92
+- image_filename: 2020_06_13__10_11__6137582.jpg
+  post_slug: 2020-06-13-pierwsza-upalna-ucieczka
+  lat: 53.76584722222222
+  lon: 16.093763888888887
+  altitude: 86.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.5
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 3840
+  height: 5186
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2020-06-13 10:11:12+02:00
+  focus_distance: 11.84

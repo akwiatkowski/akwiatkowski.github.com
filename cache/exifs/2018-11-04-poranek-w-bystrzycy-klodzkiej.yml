@@ -1,10 +1,29 @@
 ---
+- image_filename: 2018_11_04__07_24__B042658.jpg
+  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
+  lat: 50.299375
+  lon: 16.654152777777778
+  altitude: 345.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 2.0
+  iso: 200
+  lens: LEICA DG SUMMILUX 25/F1.4
+  camera: E-M1MarkII
+  width: 4928
+  height: 3837
+  exposure: 0.5
+  exposure_string: 1/2 s
+  time: 2018-11-04 07:24:40+01:00
+  focus_distance: 6.72
 - image_filename: 2018_11_03__17_16__B032637.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 5000
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -22,6 +41,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 1.4
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5109
@@ -36,6 +56,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5094
@@ -50,6 +71,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4314
@@ -64,6 +86,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 250
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4681
@@ -78,6 +101,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4940
@@ -92,6 +116,7 @@
   focal_length_35: 100.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5177
@@ -106,6 +131,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3580
@@ -120,6 +146,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -134,6 +161,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -148,6 +176,7 @@
   focal_length_35: 94.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3766
@@ -162,6 +191,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5069
@@ -176,6 +206,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 1000
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -190,6 +221,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -204,6 +236,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5177
@@ -218,6 +251,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4879
@@ -232,6 +266,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -246,6 +281,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3674
@@ -260,6 +296,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5113
@@ -274,6 +311,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5119
@@ -288,6 +326,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4868
@@ -302,6 +341,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4847
@@ -316,6 +356,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 2000
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3862
@@ -330,6 +371,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4744
@@ -344,6 +386,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5031
@@ -358,6 +401,7 @@
   focal_length_35: 40.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3505
@@ -372,6 +416,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4744
@@ -386,6 +431,7 @@
   focal_length_35: 36.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4966
@@ -400,6 +446,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -414,6 +461,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5133
@@ -428,6 +476,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4540
@@ -442,6 +491,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4717
@@ -450,23 +500,6 @@
   exposure_string: 1/5 s
   time: 2018-11-04 08:00:58+01:00
   focus_distance: 6.53
-- image_filename: 2018_11_04__07_24__B042658.jpg
-  post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
-  lat: 50.299375
-  lon: 16.654152777777778
-  altitude: 345.0
-  focal_length: 25.0
-  focal_length_35: 50.0
-  crop: 2.0
-  aperture: 2.0
-  lens: LEICA DG SUMMILUX 25/F1.4
-  camera: E-M1MarkII
-  width: 4928
-  height: 3837
-  exposure: 0.5
-  exposure_string: 1/2 s
-  time: 2018-11-04 07:24:40+01:00
-  focus_distance: 6.72
 - image_filename: 2018_11_04__07_23__B042656.jpg
   post_slug: 2018-11-04-poranek-w-bystrzycy-klodzkiej
   lat: 50.29875
@@ -476,6 +509,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 3.2
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5181
@@ -490,6 +524,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4662
@@ -504,6 +539,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -518,6 +554,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 4898
@@ -535,6 +572,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5167
@@ -549,6 +587,7 @@
   focal_length_35: 160.0
   crop: 2.0
   aperture: 4.0
+  iso: 200
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3821
@@ -563,6 +602,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 500
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5097
@@ -580,6 +620,7 @@
   focal_length_35: 50.0
   crop: 2.0
   aperture: 2.0
+  iso: 200
   lens: LEICA DG SUMMILUX 25/F1.4
   camera: E-M1MarkII
   width: 5095
@@ -594,6 +635,7 @@
   focal_length_35: 24.0
   crop: 2.0
   aperture: 4.5
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3912
@@ -608,6 +650,7 @@
   focal_length_35: 200.0
   crop: 2.0
   aperture: 4.0
+  iso: 640
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 5240
@@ -622,6 +665,7 @@
   focal_length_35: 70.0
   crop: 2.0
   aperture: 4.0
+  iso: 400
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   width: 3822

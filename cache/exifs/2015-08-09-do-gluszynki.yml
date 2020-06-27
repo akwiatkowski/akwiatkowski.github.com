@@ -1,23 +1,25 @@
 ---
-- image_filename: IMGP2659raw1.jpg
-  post_slug: 2015-08-09-do-gluszynki
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 5.0
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.0125
-  exposure_string: 1/80 s
-  time: 2015-08-09 18:42:27+02:00
 - image_filename: header.jpg
   post_slug: 2015-08-09-do-gluszynki
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.004
   exposure_string: 1/250 s
   time: 2015-08-09 18:38:36+02:00
+- image_filename: IMGP2659raw1.jpg
+  post_slug: 2015-08-09-do-gluszynki
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 5.0
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  time: 2015-08-09 18:42:27+02:00

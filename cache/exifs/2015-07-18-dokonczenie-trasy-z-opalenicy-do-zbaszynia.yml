@@ -8,6 +8,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 7.1
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   width: 2048
@@ -15,20 +16,6 @@
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2015-07-18 13:58:17+02:00
-- image_filename: IMGP1939raw1.jpg
-  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
-  lat: 52.26923055555555
-  lon: 16.136253055555557
-  altitude: 70.8
-  focal_length: 15.0
-  focal_length_35: 22.0
-  crop: 1.4666666666666666
-  aperture: 7.1
-  lens: smc PENTAX-DA 15mm F4 ED AL Limited
-  camera: PENTAX K-5
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2015-07-18 10:47:49+02:00
 - image_filename: IMGP1936raw1.jpg
   post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
   lat: 52.290930277777775
@@ -38,8 +25,24 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 0.002
   exposure_string: 1/500 s
   time: 2015-07-18 09:58:49+02:00
+- image_filename: IMGP1939raw1.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  lat: 52.26923055555555
+  lon: 16.136253055555557
+  altitude: 70.8
+  focal_length: 15.0
+  focal_length_35: 22.0
+  crop: 1.4666666666666666
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-DA 15mm F4 ED AL Limited
+  camera: PENTAX K-5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2015-07-18 10:47:49+02:00

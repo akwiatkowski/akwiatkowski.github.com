@@ -1,4 +1,21 @@
 ---
+- image_filename: header.jpg
+  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
+  lat: 52.46083194444445
+  lon: 17.200321944444443
+  altitude: 98.1
+  focal_length: 50.0
+  focal_length_35: 75.0
+  crop: 1.5
+  aperture: 7.1
+  iso: 200
+  lens: smc PENTAX-FA Macro 50mm F2.8
+  camera: PENTAX K-5
+  width: 2048
+  height: 1358
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  time: 2013-09-08 09:43:33+02:00
 - image_filename: IMGP8486raw_b.jpg
   post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
   lat: 52.51726388888889
@@ -8,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 10.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -22,6 +40,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.002
@@ -36,24 +55,9 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 8.0
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
   exposure_string: 1/400 s
   time: 2013-09-08 16:01:49+02:00
-- image_filename: header.jpg
-  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
-  lat: 52.46083194444445
-  lon: 17.200321944444443
-  altitude: 98.1
-  focal_length: 50.0
-  focal_length_35: 75.0
-  crop: 1.5
-  aperture: 7.1
-  lens: smc PENTAX-FA Macro 50mm F2.8
-  camera: PENTAX K-5
-  width: 2048
-  height: 1358
-  exposure: 0.003125
-  exposure_string: 1/320 s
-  time: 2013-09-08 09:43:33+02:00

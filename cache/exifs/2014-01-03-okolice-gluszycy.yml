@@ -8,6 +8,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   width: 2048
@@ -24,6 +25,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 4.5
+  iso: 200
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.005
@@ -38,6 +40,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.003125
@@ -52,6 +55,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 6.3
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -66,6 +70,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 7.1
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0025
@@ -77,6 +82,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 6400
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 30.0
@@ -91,6 +97,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.6
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -102,6 +109,7 @@
   focal_length_35: 22.0
   crop: 1.4666666666666666
   aperture: 4.0
+  iso: 800
   lens: smc PENTAX-DA 15mm F4 ED AL Limited
   camera: PENTAX K-5
   exposure: 55.0
@@ -116,6 +124,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 5.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.004
@@ -130,6 +139,7 @@
   focal_length_35: 75.0
   crop: 1.5
   aperture: 11.0
+  iso: 400
   lens: smc PENTAX-FA Macro 50mm F2.8
   camera: PENTAX K-5
   exposure: 0.0008
