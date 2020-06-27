@@ -22,6 +22,8 @@ class ExifProcessor
     "Exif.Photo.DateTimeOriginal",
 
     "Exif.OlympusFi.FocusDistance",
+
+    "Exif.Photo.ISOSpeedRatings", # ISO
   ]
 
   TODO_KEYS = [
@@ -141,6 +143,11 @@ class ExifProcessor
     # lens aperture
     if hash["Exif.Photo.FNumber"]?
       exif.aperture = hash["Exif.Photo.FNumber"].gsub(/[A-Z]/, "").to_f
+    end
+
+    # ISO
+    if hash["Exif.Photo.ISOSpeedRatings"]?
+      exif.iso = hash["Exif.Photo.ISOSpeedRatings"].gsub(/[A-Z]/, "").to_i
     end
 
     # exposure time

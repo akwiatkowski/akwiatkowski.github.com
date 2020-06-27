@@ -15,6 +15,7 @@ struct ExifEntity
   @exposure : (Float64 | Nil)
   @exposure_string : (String | Nil)
   @focus_distance : (Float64 | Nil)
+  @iso : Int32?
 
   @width : (Int32 | Nil)
   @height : (Int32 | Nil)
@@ -25,7 +26,7 @@ struct ExifEntity
   @time : (Time | Nil)
 
   property :lat, :lon, :altitude, :focal_length, :aperture
-  property :lens, :camera
+  property :lens, :camera, :iso
 
   def initialize(@image_filename, @post_slug)
   end
@@ -40,6 +41,7 @@ struct ExifEntity
     focal_length_35: Float64?,
     crop: Float64?,
     aperture: Float64?,
+    iso: Int32?,
     lens: String?,
     camera: String?,
     width: Int32?,
@@ -60,6 +62,7 @@ struct ExifEntity
     focal_length_35: Float64?,
     crop: Float64?,
     aperture: Float64?,
+    iso: Int32?,
     lens: String?,
     camera: String?,
     width: Int32?,
