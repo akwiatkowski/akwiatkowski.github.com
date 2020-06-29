@@ -1,26 +1,13 @@
-require "./post_list_masonry_view"
-
-class HomeView < PostListMasonryView
+class PostListMasonryView < BaseView
   Log = ::Log.for(self)
 
   def initialize(@blog : Tremolite::Blog, @url = "/")
     @show_only_count = 8
   end
 
-  def title
-    @blog.data_manager.not_nil!["site.title"]
-  end
-
-  def meta_keywords_string
-    "turystyka, rower, zwiedzanie, Polska, trasa, góry, odkryj, szlak, okolica, wieś, zdjęcia, fotografia, krajobraz"
-  end
-
-  def meta_description_string
-    site_desc
-  end
-
-  def page_desc
-    site_desc
+  # only non-todo, and main tagged posts
+  def post_list
+    @blog.post_collection.posts.select { |p| (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true) }
   end
 
   def content
@@ -29,10 +16,11 @@ class HomeView < PostListMasonryView
     boxes = ""
     count = 0
 
-    # only non-todo, and main tagged posts
-    posts = @blog.post_collection.posts.select { |p| (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true) }
     # sorted by date descending
-    posts = posts.sort { |a, b| b.time <=> a.time }
+    posts = post_list.sort { |a, b| b.time <=> a.time }.select do |post|
+      # and only show finished posts
+      post.ready?
+    end
 
     posts.each do |post|
       ph = Hash(String, String).new

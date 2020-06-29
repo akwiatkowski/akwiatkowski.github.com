@@ -11,8 +11,10 @@ require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
 require "./views/planner_view"
 require "./views/tag_view"
+require "./views/tag_masonry_view"
 require "./views/town_view"
 require "./views/voivodeship_view"
+require "./views/voivodeship_masonry_view"
 require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
@@ -459,6 +461,9 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
       view = TagView.new(blog: @blog, tag: tag)
       write_output(view)
+
+      masonry_view = TagMasonryView.new(blog: @blog, tag: tag)
+      write_output(masonry_view)
     end
     Log.info { "Renderer: Tags finished" }
   end
@@ -486,6 +491,9 @@ class Tremolite::Renderer
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
       view = VoivodeshipView.new(blog: @blog, voivodeship: voivodeship)
       write_output(view)
+
+      masonry_view = VoivodeshipMasonryView.new(blog: @blog, voivodeship: voivodeship)
+      write_output(masonry_view)
     end
     Log.info { "Renderer: Voivodeships finished" }
   end

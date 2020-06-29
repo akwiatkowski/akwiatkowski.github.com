@@ -8,12 +8,12 @@ struct TownEntity
   @slug : String
   @name : String
   @type : String
-  @header_ext_img : (String | Nil)
-  @header_img : (String | Nil)
+  @header_ext_img : String?
+  @header_img : String?
 
-  @voivodeship : String | Nil
-  @lat : Float64 | Nil
-  @lon : Float64 | Nil
+  @voivodeship : String?
+  @lat : Float64?
+  @lon : Float64?
 
   getter :name, :slug, :voivodeship, :header_ext_img, :header_img, :lat, :lon
 

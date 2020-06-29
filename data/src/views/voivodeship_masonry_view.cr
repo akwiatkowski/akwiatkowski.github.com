@@ -1,8 +1,11 @@
-class VoivodeshipView < BaseView
+require "./paginated_post_list_view"
+
+class VoivodeshipMasonryView < PostListMasonryView
   Log = ::Log.for(self)
 
   def initialize(@blog : Tremolite::Blog, @voivodeship : VoivodeshipEntity)
-    @url = @voivodeship.list_url
+    @show_only_count = 8
+    @url = @voivodeship.masonry_url
 
     @posts = Array(Tremolite::Post).new
     @blog.post_collection.each_post_from_latest do |post|
@@ -38,24 +41,8 @@ class VoivodeshipView < BaseView
     return @voivodeship.image_url
   end
 
-  def content
-    voivodeship_header_html +
-      voivodeship_article_html
-  end
-
-  def voivodeship_header_html
-    data = Hash(String, String).new
-    data["post.image_url"] = image_url
-    data["post.title"] = @voivodeship.name
-    data["post.subtitle"] = self.subtitle
-    return load_html("page/header", data)
-  end
-
-  def voivodeship_article_html
-    content = ""
-    data = Hash(String, String).new
-
-    data["content"] = render_posts_preview(@posts)
-    return load_html("page/article", data)
+  # already added to array in constructor
+  def post_list
+    @posts
   end
 end

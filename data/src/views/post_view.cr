@@ -77,7 +77,7 @@ class PostView < BaseView
     @post.tags.not_nil!.each do |tag|
       @blog.data_manager.not_nil!.tags.not_nil!.each do |tag_entity|
         if tag == tag_entity.slug
-          links << "<a href=\"" + tag_entity.url + "\">" + tag_entity.name + "</a>"
+          links << "<a href=\"" + tag_entity.list_url + "\">" + tag_entity.name + "</a>"
         end
       end
     end
@@ -136,7 +136,7 @@ class PostView < BaseView
     @post.towns.not_nil!.each do |voivodeship|
       @blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship_entity|
         if voivodeship == voivodeship_entity.slug
-          links << "<a href=\"" + voivodeship_entity.url + "\">" + voivodeship_entity.name + "</a>"
+          links << "<a href=\"" + voivodeship_entity.list_url + "\">" + voivodeship_entity.name + "</a>"
         end
       end
     end

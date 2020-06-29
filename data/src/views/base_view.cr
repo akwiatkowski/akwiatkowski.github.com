@@ -1,5 +1,6 @@
 class BaseView < Tremolite::Views::BaseView
   @voivodeship_nav : String?
+  @tag_nav : String?
 
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
@@ -69,7 +70,7 @@ class BaseView < Tremolite::Views::BaseView
 
           vh = voivodeship.to_hash
           h = Hash(String, String).new
-          h["url"] = vh["url"].to_s
+          h["url"] = vh["masonry_url"].to_s
           h["name"] = vh["name"].to_s
 
           s << load_html("include/nav_per_voivodeship", h)
@@ -78,6 +79,26 @@ class BaseView < Tremolite::Views::BaseView
     end
 
     return @voivodeship_nav.not_nil!
+  end
+
+  # cached list of voivodeship links for nav
+  def tag_nav
+    if @tags_nav.nil?
+      @tags_nav = String.build do |s|
+        @blog.data_manager.tags.not_nil!.each do |tag|
+          # lets ignore not specifically added
+          next unless tag.is_nav?
+
+          h = Hash(String, String).new
+          h["url"] = tag.masonry_url.to_s
+          h["name"] = tag.name.to_s
+
+          s << load_html("include/nav_per_tag", h)
+        end
+      end
+    end
+
+    return @tags_nav.not_nil!
   end
 
   def title
@@ -133,6 +154,7 @@ class BaseView < Tremolite::Views::BaseView
     h = Hash(String, String).new
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
     h["nav-voivodeships"] = voivodeship_nav
+    h["nav-tags"] = tag_nav
 
     return load_html("include/nav", h)
   end
