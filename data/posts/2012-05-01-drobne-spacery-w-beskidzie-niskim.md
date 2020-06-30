@@ -9,7 +9,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP7056b.jpg
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 

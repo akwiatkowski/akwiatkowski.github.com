@@ -7,7 +7,7 @@ keywords:               [góry kamienne, wałbrzych, sokołowsko, zima, śnieg, 
 date:                   2012-12-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [main, hike, mountains, photo_of_the_year]
+tags:                   [main, hike, mountains, photo_of_the_year, best]
 towns:                  [dolnoslaskie, mieroszow, walbrzych]
 lands:                  [gory_kamienne]
 

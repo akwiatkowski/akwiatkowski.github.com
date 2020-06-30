@@ -7,7 +7,7 @@ keywords:               [jesień, rudawy, rudawy janowickie, leszczyniec, kowary
 date:                   2012-10-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, kamienna_gora, kowary, karpacz]
 lands:                  [rudawy_janowickie, karkonosze]
 
