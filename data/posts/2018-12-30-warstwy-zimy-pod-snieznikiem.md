@@ -14,7 +14,7 @@ image_filename:         2018_12_30__11_32__C308525.jpg
 # 2018_12_30__11_44__C308567.jpg
 #
 # 2018_12_30__11_46__C308581
-tags:                   [hike, main]
+tags:                   [hike, main, best]
 towns:                  [dolnoslaskie, stronie_slaskie, bystrzyca_klodzka]
 
 coords:                 [{"route": [[50.24439,16.85304], [50.20810,16.83236], [50.20403,16.83922]], "type": "hike"}]

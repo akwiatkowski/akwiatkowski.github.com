@@ -9,7 +9,7 @@ finished_at:            2019-02-06 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2018_11_04__13_04__B043393.jpg
-tags:                   [hike, photo, cats, main]
+tags:                   [hike, photo, cats, main, best]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 lands:                  [gory_bystrzyckie]
 

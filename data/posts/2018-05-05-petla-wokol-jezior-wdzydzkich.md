@@ -9,7 +9,7 @@ finished_at:            2018-10-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8812raw1.jpg
-tags:                   [bicycle, main]
+tags:                   [bicycle, main, best]
 towns:                  [pomorskie, czersk, karsin, koscierzyna, dziemiany]
 lands:                  [wdzydzki_park_krajobrazowy]
 

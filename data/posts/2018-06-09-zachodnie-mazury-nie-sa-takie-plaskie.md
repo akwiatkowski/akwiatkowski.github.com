@@ -10,7 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6090266raw1.jpg
-tags:                   [bicycle, panniers, main]
+tags:                   [bicycle, panniers, main, best]
 towns:                  [warminsko_mazurskie, olsztyn, jonkowo, lukta, morag, milomlyn]
 lands:                  [warmia]
 

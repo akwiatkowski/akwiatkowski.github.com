@@ -10,7 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5936raw1.jpg
-tags:                   [photo, main, coast]
+tags:                   [photo, main, coast, best]
 towns:                  [pomorskie, gdynia]
 
 coords:                 [{"route": [[54.47932,18.56418], [54.48124,18.56530]], "type": "hike"}]
