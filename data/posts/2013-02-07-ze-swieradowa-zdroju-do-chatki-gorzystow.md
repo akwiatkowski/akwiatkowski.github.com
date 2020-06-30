@@ -9,7 +9,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP7946b.jpg
 header_timeline:        true
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
 

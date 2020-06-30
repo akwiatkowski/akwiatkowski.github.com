@@ -7,7 +7,7 @@ keywords:               [wiosna, gorce, lubań, burza, deszcz]
 date:                   2013-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [malopolskie, szczawnica, ochotnica_dolna]
 lands:                  [gorce]
 

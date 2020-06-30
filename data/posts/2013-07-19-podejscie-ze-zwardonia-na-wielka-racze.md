@@ -8,7 +8,7 @@ date:                   2013-07-19 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
