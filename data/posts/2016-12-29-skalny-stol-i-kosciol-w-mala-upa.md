@@ -7,7 +7,7 @@ finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/190327035/q%3D80_m%3D2000/f96b1840189f36a1e0162fbf51ee0bb0"
 categories:             trip
-tags:                   [main, photo, hike, mountains]
+tags:                   [main, photo, hike, mountains, best]
 towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 

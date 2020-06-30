@@ -5,10 +5,9 @@ subtitle:               "tym razem krajobraz pełen zieleni i bez bolących kola
 date:                   2016-07-20 18:00:00
 finished_at:            2016-07-30 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/164632915/q%3D80_m%3D2000/f792b56898a4710197b65028784f8e10"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike]
+tags:                   [main, hike, best]
 towns:                  [malopolskie, koscielisko]
 lands:                  [tatry]
 

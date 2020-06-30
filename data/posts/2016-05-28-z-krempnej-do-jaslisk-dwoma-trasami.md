@@ -7,7 +7,7 @@ finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip
-tags:                   [main, bicycle, mountains]
+tags:                   [main, bicycle, mountains, best]
 towns:                  [podkarpackie, krempna, dukla, rymanow, jasliska]
 lands:                  [beskid_niski]
 
