@@ -8,7 +8,7 @@ date:                   2011-09-14 21:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [main, hike, mountains, photo_of_the_year]
+tags:                   [main, hike, mountains, photo_of_the_year, best]
 towns:                  [malopolskie, zakopane]
 lands:                  [tatry]
 
