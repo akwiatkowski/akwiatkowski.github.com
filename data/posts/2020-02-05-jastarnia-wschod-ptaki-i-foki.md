@@ -9,7 +9,7 @@ finished_at:            2020-02-13 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_02_05__07_33_DSC06692.jpg
-tags:                   [photo, main]
+tags:                   [photo, main, best]
 towns:                  [pomorskie, jastarnia, hel]
 
 coords:                 [{"route": [[54.70111,18.67764], [54.69392,18.67309]], "type": "hike"}]

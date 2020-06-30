@@ -9,7 +9,7 @@ finished_at:            2020-01-29 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_01_18__13_38_DSC06066.jpg
-tags:                   [hike, main]
+tags:                   [hike, main, best]
 towns:                  [dolnoslaskie, szczawno_zdroj, stare_bogaczowice, czarny_bor]
 
 coords:                 [{"route": [[50.80053,16.25068], [50.80457,16.24836], [50.79853,16.22558], [50.80295,16.19459], [50.81274,16.16365], [50.81461,16.14520], [50.80664,16.12447], [50.79546,16.12992]], "type": "hike"}]
