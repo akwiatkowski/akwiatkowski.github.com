@@ -123,7 +123,7 @@ class Map::PhotoLayer
     end
 
     # sort by time ASC
-    selected = selected.sort {|a,b| a.time <=> b.time }
+    selected = selected.sort { |a, b| a.time <=> b.time }
 
     # and return latest one
     return selected.last

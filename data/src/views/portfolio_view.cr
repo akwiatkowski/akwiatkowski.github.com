@@ -85,7 +85,6 @@ class PortfolioView < BaseView
     posts = posts.sort { |a, b| b.time <=> a.time }
 
     posts.each do |post|
-
       boxes += "\n"
 
       count += 1

@@ -1,5 +1,5 @@
 class Tremolite::Views::BaseView
-  PHOTO_COMMAND = "photo"
+  PHOTO_COMMAND        = "photo"
   HEADER_PHOTO_COMMAND = "photo_header"
 
   def custom_process_function(
