@@ -9,7 +9,7 @@ finished_at:            2019-05-09 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_04_30__15_23_P4300618.jpg
-tags:                   [bicycle, main]
+tags:                   [bicycle, main, best]
 towns:                  [warminsko_mazurskie, kujawsko_pomorskie, ilawa, biskupiec_nowomiejski, zbiczno, bobrowo, jablonowo_pomorskie, ksiazki]
 
 coords:                 [{"route": [[53.60472,19.60059], [53.62529,19.58788], [53.60432,19.55853], [53.59736,19.55424], [53.56388,19.50068], [53.54369,19.50351], [53.50379,19.39485], [53.47846,19.37099], [53.46314,19.38266], [53.43676,19.34387], [53.41323,19.33872], [53.38519,19.37871], [53.35395,19.38867], [53.33345,19.37511], [53.32761,19.31726], [53.34288,19.30129], [53.33366,19.25941], [53.35037,19.22851], [53.34227,19.19984], [53.31777,19.18525], [53.32997,19.06732]], "type": "bicycle"}]

@@ -9,7 +9,7 @@ finished_at:            2020-01-31 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_08_25__12_21_P8250020.jpg
-tags:                   [bicycle, panniers, main]
+tags:                   [bicycle, panniers, main, best]
 towns:                  [zachodnio_pomorskie, insko, wegorzyno]
 
 coords:                 [{"route": [[53.43594,15.54922], [53.43451,15.52003], [53.44790,15.47746], [53.45833,15.51694], [53.48877,15.48278], [53.51910,15.50201], [53.52451,15.49583], [53.51971,15.46648]], "type": "bicycle"}]

@@ -9,7 +9,7 @@ finished_at:            2019-01-23 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_01_11__07_54__1110868.jpg
-tags:                   [hike, photo, photo_of_the_year, main]
+tags:                   [hike, photo, photo_of_the_year, main, best]
 towns:                  [dolnoslaskie, karpacz]
 lands:                  [karkonosze]
 

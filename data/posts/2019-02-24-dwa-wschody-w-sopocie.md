@@ -2,14 +2,14 @@
 layout:                 post
 title:                  "Dwa wschody słońca w Sopocie"
 subtitle:               "przy najładniejszym molo"
-desc:                   ""
-keywords:               []
+desc:                   "Kolejny zimowy wyjazd nad morze i kolejne poszukiwanie dobrych warunków na zdjęcia wschodu słońca."
+keywords:               [sopot, wschód słońca]
 date:                   2019-02-24 07:00:00
 finished_at:            2019-03-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_02_23__06_32__2230197_02.jpg
-tags:                   [photo, main]
+tags:                   [photo, main, best]
 towns:                  [pomorskie, sopot]
 
 distance:               8 # 4
