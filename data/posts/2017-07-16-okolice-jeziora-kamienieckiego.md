@@ -8,7 +8,7 @@ date:                   2017-07-16 19:00:00
 finished_at:            2017-11-25 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, main]
+tags:                   [bicycle, main, best]
 towns:                  [wielkopolskie, kujawsko_pomorskie, trzemeszno, orchowo, mogilno, strzelno, janikowo]
 lands:                  [pojezierze_gnieznienskie]
 

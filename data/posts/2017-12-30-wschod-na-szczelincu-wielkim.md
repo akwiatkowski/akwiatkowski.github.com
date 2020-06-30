@@ -10,7 +10,7 @@ finished_at:            2018-01-30 15:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [hike, photo, main, mountains]
+tags:                   [hike, photo, main, mountains, best]
 towns:                  [dolnoslaskie, radkow]
 
 coords:                 [{"route": [[50.49447,16.32549], [50.48333,16.33759], [50.48529,16.34034], [50.48354,16.33725], [50.47541,16.33785], [50.48300,16.32644], [50.48993,16.32832]], "type": "hike"}]

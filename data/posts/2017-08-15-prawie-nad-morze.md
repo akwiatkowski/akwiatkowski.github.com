@@ -9,7 +9,7 @@ finished_at:            2017-11-25 12:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, panniers, main]
+tags:                   [bicycle, panniers, main, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, rabino, bialogard]
 
 coords:                 [{"route": [[53.63214,16.05598], [53.64517,16.04207], [53.65962,16.04860], [53.65290,16.07830], [53.67508,16.07881], [53.69185,16.09374], [53.71492,16.06748], [53.74336,16.08448], [53.74701,16.09889], [53.77918,16.09357], [53.80392,16.07452], [53.81426,16.03143], [53.84405,15.99744], [53.85741,15.95556], [53.87897,15.93616], [53.91033,15.93976], [53.93004,15.96740], [53.94520,15.95745], [53.98650,15.98508], [54.00981,15.97805]], "type": "bicycle"}]

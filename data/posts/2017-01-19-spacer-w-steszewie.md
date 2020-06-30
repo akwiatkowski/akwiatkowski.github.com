@@ -8,7 +8,7 @@ date:                   2017-01-19 19:00:00
 finished_at:            2017-01-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [photo, hike, main]
+tags:                   [photo, hike, main, best]
 towns:                  [wielkopolskie, steszew, mosina]
 
 coords:                 [{"route": [[52.27904,16.70827], [52.27027,16.72002], [52.25845,16.74989], [52.26065,16.74740], [52.26541,16.74994], [52.26654,16.73329]], "type": "hike"}]

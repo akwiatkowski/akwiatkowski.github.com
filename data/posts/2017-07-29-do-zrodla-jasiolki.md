@@ -9,7 +9,7 @@ finished_at:            2017-11-25 12:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, mountains, main]
+tags:                   [bicycle, mountains, main, best]
 towns:                  [podkarpackie, jasliska, komancza]
 lands:                  [beskid_niski]
 

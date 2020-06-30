@@ -9,7 +9,7 @@ finished_at:            2017-09-01 12:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-tags:                   [bicycle, main]
+tags:                   [bicycle, main, best]
 towns:                  [dolnoslaskie, jezow_sudecki, jelenia_gora, myslakowice, kowary, podgorzyn]
 lands:                  [rudawy_janowickie]
 

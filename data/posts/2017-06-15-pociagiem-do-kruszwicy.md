@@ -4,7 +4,7 @@ title:                  "Pociągiem do Kruszwicy"
 subtitle:               "przejazd fragmentem nieusuniętych torów, które kiedyś łączyły Inowrocław przez Kruszwicę i Strzelno z Mogilnem"
 desc:                   "Przejazd pociągiem Turkol Gopło/Popiel z Kruszwicy do Inowrocławia z powrotem."
 keywords:               [turkol, kruszwica, inowrocław, parowóz, tupadły, strzelno]
-date:                   2017-06-10 17:00:00
+date:                   2017-06-15 17:00:00
 finished_at:            2017-10-15 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
