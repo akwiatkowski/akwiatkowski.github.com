@@ -99,4 +99,9 @@ class Tremolite::Post
   def was_in_voivodeship(voivodeship : VoivodeshipEntity) : Bool
     self.voivodeships.not_nil!.includes?(voivodeship.slug)
   end
+
+  # fix hyphen breaking
+  def title
+    @title.to_s.gsub("-", "&#x2011;")
+  end
 end

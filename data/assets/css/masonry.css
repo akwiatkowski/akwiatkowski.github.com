@@ -126,3 +126,11 @@
 .lg-sub-html .gallery-desc-link {
   color: #fff;
 }
+
+.grid-container .nojs-visible {
+  display: inline-flex;
+}
+
+.grid-container .hidden {
+  display: none;
+}

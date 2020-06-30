@@ -24,7 +24,7 @@ class PostListMasonryView < BaseView
 
     posts.each do |post|
       ph = Hash(String, String).new
-      ph["klass"] = @show_only_count >= count ? "" : "hidden"
+      ph["klass"] = @show_only_count >= count ? "nojs-visible" : "hidden"
       ph["post.url"] = post.url
       ph["post.small_image_url"] = post.small_image_url.not_nil!
       ph["post.title"] = post.title
