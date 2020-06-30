@@ -6,7 +6,7 @@ date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip
-tags:                   [main, hike, mountains]
+tags:                   [main, hike, mountains, best]
 towns:                  [slaskie, andrychow, lekawica]
 lands:                  [beskid_maly]
 
