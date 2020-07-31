@@ -103,8 +103,6 @@ class Tremolite::Renderer
   # galleries which require exif data (photo lat/lon)
   # but require all photos in post content need to be initialized
   def render_galleries_pages
-    render_portfolio
-
     render_gallery
     render_tag_galleries
     render_timeline_list
@@ -119,6 +117,8 @@ class Tremolite::Renderer
   end
 
   def render_exif_page
+    render_portfolio
+
     render_photo_maps
     render_exif_stats
 
@@ -429,13 +429,46 @@ class Tremolite::Renderer
       url: "/feed.xml",
       site_title: @blog.data_manager.not_nil!["site.title"],
       site_url: @blog.data_manager.not_nil!["site.url"],
-      site_desc: @blog.data_manager.not_nil!["site.desc"],
+      site_desc: site_desc,
       site_webmaster: @blog.data_manager.not_nil!["site.email"],
       site_language: "pl",
       updated_at: blog.post_collection.last_updated_at
     )
 
     write_output(view)
+  end
+
+  # overall site desc string
+  @site_desc : String?
+
+  def site_desc
+    unless @site_desc
+      posts = @blog.post_collection.posts.select { |post| post.trip? }
+      bicycle_posts = posts.select{|post| post.bicycle? }
+      hike_posts = posts.select{|post| post.hike? }
+
+      bicycle_km = bicycle_posts.map { |post| post.distance }.select{|v| v }.map{|v| v.as(Float64) }.sum
+      hike_km = hike_posts.map { |post| post.distance }.select{|v| v }.map{|v| v.as(Float64) }.sum
+
+      total_hours = posts.map { |post| post.time_spent }.select{|v| v }.map{|v| v.as(Float64) }.sum
+
+      total_km = bicycle_km + hike_km
+
+
+      s = @blog.data_manager.not_nil!["site.desc"].to_s
+      {
+        "total_km" => total_km.to_i,
+        "total_hours" => total_hours.to_i,
+        "bicycle_km" => bicycle_km.to_i,
+        "hike_km" => hike_km.to_i,
+      }.each do |key, value|
+        s = s.gsub("{{#{key}}}", value.to_s)
+      end
+
+      @site_desc = s
+    end
+
+    return @site_desc.to_s
   end
 
   def render_atom
@@ -446,7 +479,7 @@ class Tremolite::Renderer
       url: "/feed_atom.xml",
       site_title: @blog.data_manager.not_nil!["site.title"],
       site_url: @blog.data_manager.not_nil!["site.url"],
-      site_desc: @blog.data_manager.not_nil!["site.desc"],
+      site_desc: site_desc,
       site_webmaster: @blog.data_manager.not_nil!["site.email"],
       author_name: @blog.data_manager.not_nil!["site.author"],
       site_guid: Digest::MD5.hexdigest(@blog.data_manager.not_nil!["site.title"]).to_guid,

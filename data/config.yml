@@ -1,5 +1,5 @@
 site.title: OdkrywajacPolske.pl
-site.desc: "Odkrywając rowerem i pieszo jaka Polska jest naprawdę"
+site.desc: "Spędziłem w terenie {{total_hours}} godzin. {{bicycle_km}}km przejechałem rowerem, a {{hike_km}}km przeszedłem pieszo starając się odkrywać najciekawsze miejsca w Polsce. Na tej stronie nie zamierzam pokazywać gdzie jechać, co zwiedzać, co zobaczyć na wakacjach w Polsce. Lepiej wybierać miejsca o których się nie mówi, albo zobaczyć te, które jeszcze można a powoli przemijają."
 site.email: aleksander_kwiatkowski1@interia.pl
 site.url: "http://odkrywajacpolske.pl"
 site.author: Aleksander Kwiatkowski

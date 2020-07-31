@@ -53,7 +53,7 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   def site_desc
-    @blog.data_manager.not_nil!["site.desc"]
+    @blog.renderer.site_desc
   end
 
   def site_url
