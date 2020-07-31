@@ -415,4 +415,101 @@
   to: Kołobrzeg
   distance: 174
   time_length: 11
-  url: http://umapa.pl/Q22oD    
+  url: http://umapa.pl/Q22oD
+
+- voivodeship: Wielkopolskie
+  type: bicycle
+  from: Szamotuły
+  to: Grodzisk Wielkopolski
+  through:
+    - Myszkowo
+    - Kaźmierz
+    - Młodarsko
+    - Grzebienisko
+    - Wilkowo
+    - Buk
+    - Szewce
+    - Woźniki
+  info: Wioski, ale większe. Zachodnia część Poznania jest bardziej ucywilizowana.
+  priorities:
+    - normal
+  distance: 55
+  time_length: 3.5
+  url: http://umapa.pl/RS8RR
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Toporów
+  to: Santok
+  through:
+    - Łagów
+    - Wielowieś
+    - Templewo
+    - Bledzew
+    - Skwierzyna
+  info: Została w części przejechana. Teren na północ trudniejszy w dojeździe
+  priorities:
+    - high
+  distance: 64
+  time_length: 4
+  url: http://umapa.pl/rcaoU
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Skwierzyna
+  to: Zbąszyń
+  through:
+    - Chełmsko
+    - Rokitno
+    - Lubikowo
+    - Kuligowo
+    - Policko
+    - Rańsko
+    - Bukowiec Międzyrzecki
+    - Lutol Suchy
+    - Chociszewo Rogoziniec
+    - Dąbrówka Wielkopolska
+  info: Jest tam bardzo dużo terenowych i lekkich szlaków rowerowych
+  priorities:
+    - normal
+  distance: 65
+  time_length: 4
+  url: http://umapa.pl/dt3A4
+
+- voivodeship: kujawsko_pomorskie
+  type: bicycle
+  from: Kawnice
+  to: Janikowo
+  through:
+    - Kazimierz Biskupi
+    - Kleczew
+    - Kopydłowo
+    - Wilczogóra
+    - Wójcin
+    - Miradz
+    - Strzelno
+    - Rzadkwin
+  info: W większości została przejechana. Można zacząć z Konina i jechać bardziej na wschód do Torunia
+  priorities:
+    - normal
+  distance: 65
+  time_length: 4
+  url: http://umapa.pl/yRYcf
+
+- voivodeship: lubuskie
+  type: bicycle
+  from: Głębokie Międzyrzeckie
+  to: Rzepin
+  through:
+    - Goruńsko
+    - Lubniewice
+    - Sulęcin
+    - Ośno Lubuskie
+  info: Trasa głównie lasy, wioski, czasami jakieś jezioro. Klasyczne ale w klimacie lubuskim.
+  priorities:
+    - high
+  distance: 67
+  time_length: 4.5
+  url: http://umapa.pl/9b87j
+
+  

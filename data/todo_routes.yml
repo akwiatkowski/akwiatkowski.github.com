@@ -521,23 +521,6 @@
   time_length: 6
   url: http://umapa.pl/unC5c
 
-- voivodeship: lubuskie
-  type: bicycle
-  from: Toporów
-  to: Santok
-  through:
-    - Łagów
-    - Wielowieś
-    - Templewo
-    - Bledzew
-    - Skwierzyna
-  info: Trasa przez lasy, jeziora, głównie przez trochę dzikie tereny. Skrócić można dopiero w Skwierzynie.
-  priorities:
-    - high
-  distance: 64
-  time_length: 4
-  url: http://umapa.pl/rcaoU
-
 - voivodeship: wielkopolskie
   type: bicycle
   from: Kobylnica
@@ -712,27 +695,7 @@
   time_length: 5.5
   url: http://umapa.pl/C21Sa
 
-- voivodeship: lubuskie
-  type: bicycle
-  from: Skwierzyna
-  to: Zbąszyń
-  through:
-    - Chełmsko
-    - Rokitno
-    - Lubikowo
-    - Kuligowo
-    - Policko
-    - Rańsko
-    - Bukowiec Międzyrzecki
-    - Lutol Suchy
-    - Chociszewo Rogoziniec
-    - Dąbrówka Wielkopolska
-  info: Jest tam bardzo dużo terenowych i lekkich szlaków rowerowych
-  priorities:
-    - normal
-  distance: 65
-  time_length: 4
-  url: http://umapa.pl/dt3A4
+
 
 - voivodeship: lubuskie
   type: bicycle
@@ -836,26 +799,6 @@
   distance: 73
   time_length: 4.5
   url: http://umapa.pl/8txhr
-
-- voivodeship: Wielkopolskie
-  type: bicycle
-  from: Szamotuły
-  to: Grodzisk Wielkopolski
-  through:
-    - Myszkowo
-    - Kaźmierz
-    - Młodarsko
-    - Grzebienisko
-    - Wilkowo
-    - Buk
-    - Szewce
-    - Woźniki
-  info: Wioski, ale większe. Zachodnia część Poznania jest bardziej ucywilizowana.
-  priorities:
-    - normal
-  distance: 55
-  time_length: 3.5
-  url: http://umapa.pl/RS8RR
 
 - voivodeship: wielkopolskie
   type: bicycle
@@ -977,25 +920,7 @@
   train_return_time_cost: 90
   url: http://umapa.pl/ay8Ts
 
-- voivodeship: kujawsko_pomorskie
-  type: bicycle
-  from: Kawnice
-  to: Janikowo
-  through:
-    - Kazimierz Biskupi
-    - Kleczew
-    - Kopydłowo
-    - Wilczogóra
-    - Wójcin
-    - Miradz
-    - Strzelno
-    - Rzadkwin
-  info: Przez okolicę elektrowni Konin/Pątnów, dalej trochę pól i lasy w okolicy Strzelna.
-  priorities:
-    - normal
-  distance: 65
-  time_length: 4
-  url: http://umapa.pl/yRYcf
+
 
 - voivodeship: opolskie
   type: bicycle
@@ -1100,23 +1025,6 @@
   distance: 76
   time_length: 5
   url: http://umapa.pl/Q5Pzq
-
-- voivodeship: lubuskie
-  type: bicycle
-  from: Głębokie Międzyrzeckie
-  to: Rzepin
-  through:
-    - Goruńsko
-    - Lubniewice
-    - Sulęcin
-    - Ośno Lubuskie
-  info: Trasa głównie lasy, wioski, czasami jakieś jezioro. Klasyczne ale w klimacie lubuskim.
-  priorities:
-    - high
-  distance: 67
-  time_length: 4.5
-  url: http://umapa.pl/9b87j
-
 
 - voivodeship: lubuskie
   type: bicycle
