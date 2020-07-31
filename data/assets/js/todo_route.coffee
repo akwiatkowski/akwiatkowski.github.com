@@ -22,35 +22,97 @@ class @TodoRoute
     filter_route_to = $("#filter-route-to").val()
     filter_route_both = $("#filter-route-both").val()
     filter_route_both_major = $("#filter-route-both-major").val()
-    filter_route_less = $("#filter-distance-less-than").val()
-    filter_route_more = $("#filter-distance-more-than").val()
-
-    filter_route_flag_small = $("#filter-flag-small").prop( "checked")
-    filter_route_flag_normal = $("#filter-flag-normal").prop( "checked")
-    filter_route_flag_long = $("#filter-flag-long").prop( "checked")
-    filter_route_flag_touring = $("#filter-flag-touring").prop( "checked")
 
     filter_route_total_cost = $("#filter-total-cost-less-than").val()
     filter_route_transport_cost = $("#filter-transport-cost-less-than").val()
 
-    # hide not matching with filters
-    # boolean checkboxes - `or`
-    $(".todo_route").hide()
+    # range input
+    filter_min_distance = parseInt($("#min-distance").val())
+    filter_max_distance = parseInt($("#max-distance").val())
+    filter_direction = parseInt($("#direction").val()) % 180
 
-    $(".todo_route").each (index, todo_route) =>
-      if $(todo_route).data("route-flag-small") && filter_route_flag_small
-        $(todo_route).show()
+    # distance range inputs operations
+    $("#distance-range").text(filter_min_distance + "-" + filter_max_distance + "km")
 
-      if $(todo_route).data("route-flag-normal") && filter_route_flag_normal
-        $(todo_route).show()
+    if filter_direction < 0
+      $("#direction-name").text("dowolnym")
+    else
+      rotate = 90 + filter_direction
+      icon_string = '<i style="transform: rotate(' + rotate + '); -ms-transform: rotate(' + rotate + 'deg); -webkit-transform: rotate(' + rotate + 'deg);" class="fa">&#xf07e;</i>'
+      $("#direction-name").html(icon_string)
 
-      if $(todo_route).data("route-flag-long") && filter_route_flag_long
-        $(todo_route).show()
+    # show all
+    $(".todo_route").show()
 
-      if $(todo_route).data("route-flag-touring") && filter_route_flag_touring
-        $(todo_route).show()
+    # hide shorter
+    if filter_min_distance > 0
+      $(".todo_route").each (index, todo_route) =>
+        if parseInt($(todo_route).data("route-distance")) < parseInt(filter_min_distance)
+          $(todo_route).hide()
 
-    # select filters - `and`
+    # hide longer
+    if filter_max_distance > 0
+      $(".todo_route").each (index, todo_route) =>
+        if parseInt($(todo_route).data("route-distance")) > parseInt(filter_max_distance)
+          $(todo_route).hide()
+
+    # hide other direction
+    # >= because 0 is also valid
+    if filter_direction >= 0
+      direction_width = 15
+      $(".todo_route").each (index, todo_route) =>
+        route_direction = parseInt($(todo_route).data("route-real-direction")) % 180
+        direction_diff = Math.abs(filter_direction - route_direction)
+        if direction_diff <= direction_width
+          console.log("show " + direction_diff)
+        else
+          console.log("hide " + direction_diff)
+          $(todo_route).hide()
+
+      # # this could be changed
+      # direction_width = 15
+      # direction_from = filter_direction - direction_width
+      # direction_to = filter_direction + direction_width
+      #
+      # direction_second_from = direction_from
+      # direction_second_to = direction_to
+      #
+      # console.log("direction_from = " + direction_from)
+      # console.log("direction_to = " + direction_to)
+      # console.log("direction_second_from = " + direction_second_from)
+      # console.log("direction_second_to = " + direction_second_to)
+      #
+      # # 1: direction_from is below 0 -> add another range near 180
+      # if direction_from < 0
+      #   direction_second_from = 0
+      #   direction_second_to = direction_to
+      #
+      #   direction_from = 180 + direction_from
+      #   direction_to = 180
+      #
+      # # 2: both are within 0 and 180 -> direct
+      # # nothing, second range was already defined/copied
+      #
+      # # 3: direction_to is above 180 -> add another range near 0
+      # if direction_to > 180
+      #   direction_second_from = direction_from
+      #   direction_second_to = 180
+      #
+      #   direction_from = 0
+      #   direction_to = direction_to - 180
+      #
+      # $(".todo_route").each (index, todo_route) =>
+      #   rd = parseInt($(todo_route).data("route-distance")) % 180
+      #   console.log("normalized route direction " + rd)
+      #   console.log("logic1 " + ((rd >= direction_from) && (rd <= direction_to)))
+      #   console.log("logic2 " + ((rd >= direction_second_from) && (rd <= direction_second_to)))
+      #   if ((rd >= direction_from) && (rd <= direction_to) || (rd >= direction_second_from) && (rd <= direction_second_to))
+      #     console.log("show " + rd + " / " + filter_direction)
+      #   else
+      #     console.log("hide " + rd + " / " + filter_direction)
+      #     $(todo_route).hide()
+
+    # additive hiding (and logic)
     if filter_route_from.length > 1
       $(".todo_route").each (index, todo_route) =>
         if $(todo_route).data("route-from") != filter_route_from
@@ -71,15 +133,6 @@ class @TodoRoute
         if ($(todo_route).data("route-to-major") != filter_route_both_major) && ($(todo_route).data("route-from-major") != filter_route_both_major)
           $(todo_route).hide()
 
-    if filter_route_less.length > 1
-      $(".todo_route").each (index, todo_route) =>
-        if parseInt($(todo_route).data("route-distance")) > parseInt(filter_route_less)
-          $(todo_route).hide()
-
-    if filter_route_more.length > 1
-      $(".todo_route").each (index, todo_route) =>
-        if parseInt($(todo_route).data("route-distance")) < parseInt(filter_route_more)
-          $(todo_route).hide()
 
     if filter_route_total_cost.length > 1
       $(".todo_route").each (index, todo_route) =>
@@ -95,8 +148,6 @@ class @TodoRoute
 
         if $(todo_route).data("route-to-cost-minutes")
           c += parseFloat($(todo_route).data("route-to-cost-minutes"))
-
-        console.log(c)
 
         if c > parseFloat(filter_route_transport_cost)
           $(todo_route).hide()
@@ -191,7 +242,6 @@ class @TodoRoute
     @route_destination_major_objects = @route_destination_major_objects.sort (a, b) ->
       a.name.localeCompare(b.name)
 
-    # add filter data
     for route_element_object in @route_destination_objects
 
       $("#filter-route-from").append $("<option>",
