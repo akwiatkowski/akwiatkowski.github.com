@@ -7,9 +7,11 @@
   data-route-to="{{ route.to }}"
   data-route-to-major="{{ route.to-major }}"
   data-route-to-cost-minutes="{{ route.to_cost_minutes }}"
-  data-route-to-distance="{{ route.to_distance }}"
+  data-route-to-distance="{{ route.real_direction }}"
   data-route-to-direction-human="{{ route.to_direction_human }}"
   data-route-distance="{{ route.distance }}"
+  data-route-real-direction="{{ route.real_direction }}"
+  data-route-quant-direction="{{ route.quant_direction }}"
   data-route-total-cost="{{ route.total_cost }}"
   data-route-time-length="{{ route.time_length }}"
   data-route-flag-small="{{ route.flag_small }}"
@@ -24,7 +26,7 @@
   <div class="route_to">{{ route.to }}</div>
   <div class="route_to_cost">{{ route.to_cost }}</div>
 
-  <div class="route_inner"><a href="{{ route.url }}" target="_blank"><i style="font-size:22px; transform: rotate({{ route.direction }}deg); -ms-transform: rotate({{ route.direction }}deg); -webkit-transform: rotate({{ route.direction }}deg);" class="fa">&#xf07e;</i>{{ route.distance }}km</a></div>
+  <div class="route_inner"><a href="{{ route.url }}" target="_blank"><i style="font-size:22px; transform: rotate({{ route.symbol_direction }}deg); -ms-transform: rotate({{ route.symbol_direction }}deg); -webkit-transform: rotate({{ route.symbol_direction }}deg);" class="fa">&#xf07e;</i>{{ route.distance }}km</a></div>
   <div class="route_inner_cost">{{ route.time_length }}h</div>
 
   <div class="route_cost_summary">
@@ -49,5 +51,5 @@
 
   </div>
 
-  <div class="route_direction">{{ route.direction }}</div>
+  <div class="route_direction">kierunek: {{ route.real_direction }}&deg;, kwant. kierunek: {{ route.quant_direction }}&deg; </div>
 </div>

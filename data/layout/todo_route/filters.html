@@ -2,102 +2,56 @@
 
   <form class="form-horizontal">
 
+    <p>
+      Trasy o odległości
+      <span id="distance-range" class="strong">10-200km</span>,
+      z kierunkiem
+      <span id="direction-name" class="strong">dowolnym</span>.
+    </p>
+
     <div class="form-group">
-      <label for="filter-flag-normal" class="col-sm-5 control-label">Typ odległościowy trasy</label>
-      <div class="col-sm-7">
-        <input type="checkbox" id="filter-flag-small" value="small" class="route-filter-field" {{ filter.small.checked }}>
-        Krótkie (do 40km)<br/>
+      <p>Zakres odległości </p>
 
-        <input type="checkbox" id="filter-flag-normal" value="normal" class="route-filter-field" {{ filter.normal.checked }}>
-        Normalna (30-80km)<br/>
+      <label for="min-distance">Minimalny dystans</label>
+      <input type="range" class="custom-range route-filter-field" min="10" max="200" step="10" value="10" id="min-distance">
 
-        <input type="checkbox" id="filter-flag-long" value="long" class="route-filter-field" {{ filter.long.checked }}>
-        Długie (50-120km)<br/>
-
-        <input type="checkbox" id="filter-flag-touring" value="touring" class="route-filter-field" {{ filter.touring.checked }}>
-        Wielodniowe (>110km)<br/>
-
-      </div>
+      <label for="max-distance">Maksymalny dystans</label>
+      <input type="range" class="custom-range route-filter-field" min="10" max="200" step="10" value="200" id="max-distance">
     </div>
 
     <div class="form-group">
-      <label for="filter-route-both" class="col-sm-5 control-label">Początek lub koniec trasy</label>
-      <div class="col-sm-7">
-        <select name="filter-route-both" id="filter-route-both" class="route-filter-field form-control input-lg">
+      <label for="direction">Kierunek (wszystko, północny i zgodnie ze wskazówkami zegara)</label>
+      <input type="range" class="custom-range route-filter-field" min="-10" max="180" step="10" value="10" id="direction">
+    </div>
+
+    <div class="form-row">
+      <div class="col">
+        <select name="filter-route-both" id="filter-route-both" class="route-filter-field form-control input-sm">
           <option value="">(początek lub koniec)</option>
+        </select
+      </div>
+
+      <!--
+      <div class="col">
+        <select name="filter-route-from" id="filter-route-from" class="route-filter-field form-control input-lg">
+          <option value="">(początek)</option>
         </select>
       </div>
+
+      <div class="col">
+        <select name="filter-route-to" id="filter-route-to" class="route-filter-field form-control input-lg">
+          <option value="">(koniec)</option>
+        </select>
+      </div>
+      -->
     </div>
 
+    <div class="hidden">
     <div class="form-group">
       <label for="filter-route-both-major" class="col-sm-5 control-label">Początek lub koniec trasy (główne miejscowości)</label>
       <div class="col-sm-7">
         <select name="filter-route-both-major" id="filter-route-both-major" class="route-filter-field form-control input-lg">
           <option value="">(początek lub koniec)</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label for="filter-route-from" class="col-sm-5 control-label">Początek trasy</label>
-      <div class="col-sm-7">
-        <select name="filter-route-from" id="filter-route-from" class="route-filter-field form-control input-lg">
-          <option value="">(początek)</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label for="filter-route-to" class="col-sm-5 control-label">Koniec trasy</label>
-      <div class="col-sm-7">
-        <select name="filter-route-to" id="filter-route-to" class="route-filter-field form-control input-lg">
-          <option value="">(koniec)</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label for="filter-distance-less-than" class="col-sm-5 control-label">Dystans mniejszy niż</label>
-      <div class="col-sm-7">
-        <select id="filter-distance-less-than" class="route-filter-field form-control input-lg">
-          <option value="">(dystans mniejszy niż)</option>
-          <option value="30">30km</option>
-          <option value="40">40km</option>
-          <option value="50">50km</option>
-          <option value="60">60km</option>
-          <option value="70">70km</option>
-          <option value="80">80km</option>
-          <option value="90">90km</option>
-          <option value="100">100km</option>
-          <option value="125">125km</option>
-          <option value="150">150km</option>
-          <option value="175">175km</option>
-          <option value="200">200km</option>
-          <option value="250">250km</option>
-          <option value="300">300km</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label for="filter-distance-more-than" class="col-sm-5 control-label">Dystans większy niż</label>
-      <div class="col-sm-7">
-        <select id="filter-distance-more-than" class="route-filter-field form-control input-lg">
-          <option value="">(dystans większy niż)</option>
-          <option value="30">30km</option>
-          <option value="40">40km</option>
-          <option value="50">50km</option>
-          <option value="60">60km</option>
-          <option value="70">70km</option>
-          <option value="80">80km</option>
-          <option value="90">90km</option>
-          <option value="100">100km</option>
-          <option value="125">125km</option>
-          <option value="150">150km</option>
-          <option value="175">175km</option>
-          <option value="200">200km</option>
-          <option value="250">250km</option>
-          <option value="300">300km</option>
         </select>
       </div>
     </div>
@@ -141,6 +95,7 @@
           <option value="600">10h</option>
         </select>
       </div>
+    </div>
     </div>
 
   </form>
