@@ -3,6 +3,9 @@ class TodosView < PageView
 
   CLOSE_POST_DISTANCE = 12.0
 
+  QUANT_DIRECTION = 20
+  HALF_QUANT_DIRECTION = (QUANT_DIRECTION / 2).to_i
+
   FILTER_CHECKED_SMALL   = :small
   FILTER_CHECKED_NORMAL  = :normal
   FILTER_CHECKED_LONG    = :long
@@ -89,8 +92,17 @@ class TodosView < PageView
         data["route.to-major"] = ""
       end
 
+      # add half of quant (-1/2, +1/2)
+      temp_direction = todo_route.direction.to_i + HALF_QUANT_DIRECTION
+      # quantize, convert to hals of 360 degrees
+      quant_direction = todo_route.direction.to_i - (temp_direction % QUANT_DIRECTION)
+      quant_direction = quant_direction - HALF_QUANT_DIRECTION
+      quant_direction = quant_direction % 180
+
       data["route.distance"] = todo_route.distance.to_i.to_s
-      data["route.direction"] = (90 + (1 * todo_route.direction.to_i)).to_s
+      data["route.symbol_direction"] = (90 + (1 * todo_route.direction.to_i)).to_s
+      data["route.real_direction"] = todo_route.direction.to_i.to_s
+      data["route.quant_direction"] = quant_direction.to_s
       data["route.bidirection"] = todo_route.bidirection_human.to_s
       data["route.time_length"] = todo_route.time_length.to_i.to_s
       data["route.total_cost"] = todo_route.total_cost_hours.to_i.to_s
