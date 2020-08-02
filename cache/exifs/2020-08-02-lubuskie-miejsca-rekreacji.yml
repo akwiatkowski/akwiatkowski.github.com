@@ -1,0 +1,39 @@
+---
+- image_filename: header.jpg
+  post_slug: 2020-08-02-lubuskie-miejsca-rekreacji
+- image_filename: 2020_08_02__15_07__8027528.jpg
+  post_slug: 2020-08-02-lubuskie-miejsca-rekreacji
+  lat: 52.215180555555555
+  lon: 15.433194444444444
+  altitude: 88.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 4799
+  height: 3699
+  exposure: 0.005
+  exposure_string: 1/200 s
+  time: 2020-08-02 15:07:25+02:00
+  focus_distance: 65.54
+- image_filename: 2020_08_02__10_27__8027397.jpg
+  post_slug: 2020-08-02-lubuskie-miejsca-rekreacji
+  lat: 52.20684722222222
+  lon: 15.428194444444443
+  altitude: 82.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  width: 5239
+  height: 3911
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  time: 2020-08-02 10:27:19+02:00
+  focus_distance: 19.59
