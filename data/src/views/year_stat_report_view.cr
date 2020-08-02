@@ -80,6 +80,8 @@ class YearStatReportView < PageView
         activity_icon_class = "icon-hike"
       elsif post.train?
         activity_icon_class = "icon-train"
+      elsif post.bus?
+        activity_icon_class = "icon-bus"
       elsif post.car?
         activity_icon_class = "icon-car"
       elsif post.walk?

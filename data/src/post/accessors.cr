@@ -2,6 +2,7 @@ class Tremolite::Post
   BICYCLE_TAG           = "bicycle"
   HIKE_TAG              = "hike"
   TRAIN_TAG             = "train"
+  BUS_TAG               = "bus"
   CAR_TAG               = "car"
   PHOTO_OF_THE_YEAR_TAG = "photo_of_the_year"
   TODO_TAG              = "todo"
@@ -33,6 +34,10 @@ class Tremolite::Post
 
   def train?
     self.tags.not_nil!.includes?(TRAIN_TAG)
+  end
+
+  def bus?
+    self.tags.not_nil!.includes?(BUS_TAG)
   end
 
   def car?
@@ -75,7 +80,7 @@ class Tremolite::Post
 
   # distance can be used in stats
   def self_propelled?
-    return false if train? || car?
+    return false if train? || car? || bus?
     return true if bicycle? || hike? || walk?
     return false
   end

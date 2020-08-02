@@ -178,6 +178,13 @@
   height: 14px;
 }
 
+.icon-bus {
+  margin-top: 5px;
+  background-image: url("/img/icon-bus.png");
+  width: 30px;
+  height: 14px;
+}
+
 .icon-car {
   margin-top: 5px;
   background-image: url("/img/icon-car.png");
