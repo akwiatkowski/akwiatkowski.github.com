@@ -23,6 +23,7 @@ class Tremolite::DataManager
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
     @portfolios = Array(PortfolioEntity).new
+    @town_photo_cache = TownPhotoCache.new(@blog)
 
     @exif_db = ExifDb.new(
       blog: @blog
@@ -32,6 +33,7 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
+  getter :town_photo_cache
 
   def exif_db
     return @exif_db.not_nil!

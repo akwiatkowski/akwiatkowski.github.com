@@ -5,8 +5,11 @@ require "./renderer"
 require "./post_function_parser"
 require "./validator"
 require "./mod_watcher"
+require "./services/town_photo_cache"
+
 
 class Tremolite::Blog
+
   def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed
@@ -188,6 +191,9 @@ class Tremolite::Blog
       post_collection.posts.each do |post|
         data_manager.exif_db.initialize_post_photos_exif(post)
       end
+      # recalculate towns photo for closest photo
+      data_manager.town_photo_cache.not_nil!.refresh
+
       renderer.render_exif_page
       # this probably should be updated more often
       # but at leas is not overwritten

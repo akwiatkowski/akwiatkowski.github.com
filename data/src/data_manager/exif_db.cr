@@ -19,6 +19,36 @@ class ExifDb
     @loaded_posts = Hash(String, Bool).new
   end
 
+  SEARCH_PHOTO_COORD_DISTANCE = 0.1
+
+  def search_in_coord(lat : Float64, lon : Float64)
+    selected_photos = all_flatten_photo_entities.select do |photo_entity|
+      if photo_entity.exif.lat && photo_entity.exif.lon
+        # only check with coords
+        distance = (photo_entity.exif.lat.not_nil! - lat).abs + (photo_entity.exif.lon.not_nil! - lon).abs
+        if distance < SEARCH_PHOTO_COORD_DISTANCE
+          # select only within distance to not sort using all
+          true
+        else
+          false
+        end
+      else
+        false
+      end
+    end
+
+    if selected_photos.size > 0
+      sorted_photos = selected_photos.sort do |photo_a, photo_b|
+        distance_a = (photo_a.exif.lat.not_nil! - lat).abs + (photo_a.exif.lon.not_nil! - lon).abs
+        distance_b = (photo_b.exif.lat.not_nil! - lat).abs + (photo_b.exif.lon.not_nil! - lon).abs
+        distance_a <=> distance_b
+      end
+      return sorted_photos.first
+    else
+      return nil
+    end
+  end
+
   def published_photo_entities(post_slug : String) : Array(PhotoEntity)
     @published_photo_entities[post_slug]? || Array(PhotoEntity).new
   end

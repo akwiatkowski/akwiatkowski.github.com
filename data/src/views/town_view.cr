@@ -34,8 +34,19 @@ class TownView < BaseView
     end
   end
 
-  def image_url
+  def image_url_from_geo_coord
+    @blog.data_manager.town_photo_cache.not_nil!.get(@town.slug)
+  end
+
+  def image_url_from_slug
     return @town.image_url
+  end
+
+  def image_url
+    # TODO check if results are ok
+    temp_image_url = image_url_from_geo_coord
+    temp_image_url = image_url_from_slug if temp_image_url.nil?
+    return temp_image_url.not_nil!
   end
 
   def content
