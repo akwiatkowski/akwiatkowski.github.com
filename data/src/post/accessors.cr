@@ -71,16 +71,20 @@ class Tremolite::Post
 
   # all other types of light walking activities with >0 distance
   def walk?
-    return false if train? || car?
+    return false if externally_propelled?
     return false if bicycle? || hike?
 
     return true if self.distance && self.distance.not_nil! > 0.0
     return false
   end
 
+  def externally_propelled?
+    return true if train? || car? || bus?
+  end
+
   # distance can be used in stats
   def self_propelled?
-    return false if train? || car? || bus?
+    return false if externally_propelled?
     return true if bicycle? || hike? || walk?
     return false
   end

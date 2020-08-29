@@ -444,23 +444,22 @@ class Tremolite::Renderer
   def site_desc
     unless @site_desc
       posts = @blog.post_collection.posts.select { |post| post.trip? }
-      bicycle_posts = posts.select{|post| post.bicycle? }
-      hike_posts = posts.select{|post| post.hike? }
+      bicycle_posts = posts.select { |post| post.bicycle? }
+      hike_posts = posts.select { |post| post.hike? }
 
-      bicycle_km = bicycle_posts.map { |post| post.distance }.select{|v| v }.map{|v| v.as(Float64) }.sum
-      hike_km = hike_posts.map { |post| post.distance }.select{|v| v }.map{|v| v.as(Float64) }.sum
+      bicycle_km = bicycle_posts.map { |post| post.distance }.select { |v| v }.map { |v| v.as(Float64) }.sum
+      hike_km = hike_posts.map { |post| post.distance }.select { |v| v }.map { |v| v.as(Float64) }.sum
 
-      total_hours = posts.map { |post| post.time_spent }.select{|v| v }.map{|v| v.as(Float64) }.sum
+      total_hours = posts.map { |post| post.time_spent }.select { |v| v }.map { |v| v.as(Float64) }.sum
 
       total_km = bicycle_km + hike_km
 
-
       s = @blog.data_manager.not_nil!["site.desc"].to_s
       {
-        "total_km" => total_km.to_i,
+        "total_km"    => total_km.to_i,
         "total_hours" => total_hours.to_i,
-        "bicycle_km" => bicycle_km.to_i,
-        "hike_km" => hike_km.to_i,
+        "bicycle_km"  => bicycle_km.to_i,
+        "hike_km"     => hike_km.to_i,
       }.each do |key, value|
         s = s.gsub("{{#{key}}}", value.to_s)
       end

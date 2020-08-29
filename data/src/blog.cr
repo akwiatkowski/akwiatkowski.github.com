@@ -7,9 +7,7 @@ require "./validator"
 require "./mod_watcher"
 require "./services/town_photo_cache"
 
-
 class Tremolite::Blog
-
   def mod_watcher_summary
     # keep in mind posts were not yet loaded
     # 0) check what was changed

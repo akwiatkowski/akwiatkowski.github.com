@@ -222,7 +222,8 @@ class Map::PhotoToRouteLayer
           photo_x = point_x - (Math.sin(iteration_degree) * distance.to_f).to_i
           photo_y = point_y - (Math.cos(iteration_degree) * distance.to_f).to_i
 
-          Log.debug { "route side photo spot #{photo_x},#{photo_y}" }
+          # TODO think about logging
+          # Log.debug { "route side photo spot #{photo_x},#{photo_y}" }
 
           possible_photo_coords << {photo_x, photo_y}
         end
@@ -237,7 +238,7 @@ class Map::PhotoToRouteLayer
         photo_x = point_x - (Math.sin(iteration_degree) * distance.to_f).to_i
         photo_y = point_y - (Math.cos(iteration_degree) * distance.to_f).to_i
 
-        Log.debug { "rotated photo spot #{photo_x},#{photo_y}" }
+        # Log.debug { "rotated photo spot #{photo_x},#{photo_y}" }
 
         possible_photo_coords << {photo_x, photo_y}
 
@@ -321,12 +322,12 @@ class Map::PhotoToRouteLayer
       switch = false
 
       if point_distance < 150 && (previous.point_x > current.photo_center_x && current.point_x < previous.photo_center_x)
-        Log.debug { "switch X @photo_positions #{i - 1} <> #{i}" }
+        # Log.debug { "switch X @photo_positions #{i - 1} <> #{i}" }
         switch = true
       end
 
       if point_distance < 150 && (previous.point_y > current.photo_center_y && current.point_y < previous.photo_center_y)
-        Log.debug { "switch Y @photo_positions #{i - 1} <> #{i}" }
+        # Log.debug { "switch Y @photo_positions #{i - 1} <> #{i}" }
         switch = true
       end
 
