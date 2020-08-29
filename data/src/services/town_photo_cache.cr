@@ -32,11 +32,13 @@ class TownPhotoCache
         if closest_photo_tuple
           closest_photo = closest_photo_tuple.not_nil![:photo_entity]
           closest_coeff = closest_photo_tuple.not_nil![:coeff]
+          preselected_size = closest_photo_tuple.not_nil![:preselected_size]
 
           @cache[town.slug] = TownPhotoCacheData.new(
             photo_path: closest_photo.not_nil!.full_image_src,
             post_slug: closest_photo.not_nil!.post_slug,
             coeff: closest_coeff,
+            preselected_size: preselected_size,
           )
         end
       end
