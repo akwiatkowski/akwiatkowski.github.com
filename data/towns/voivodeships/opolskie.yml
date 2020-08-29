@@ -3,19 +3,30 @@
   name: Nysa
   type: town
   voivodeship: opolskie
+  lat: 50.47536
+  lon: 17.33720
 - slug: pakoslawice
   name: Pakosławice
   type: town
   voivodeship: opolskie
+  lat: 50.54550
+  lon: 17.36467
 - slug: skoroszyce
   name: Skoroszyce
   type: town
   voivodeship: opolskie
+  lat: 50.59593
+  lon: 17.37600
 - slug: otmuchow
   name: Otmuchów
   type: town
   voivodeship: opolskie
+  lat: 50.46416
+  lon: 17.17438
 - slug: kamiennik
   name: Kamiennik
   type: town
   voivodeship: opolskie
+  lat: 50.57107
+  lon: 17.15344
+  

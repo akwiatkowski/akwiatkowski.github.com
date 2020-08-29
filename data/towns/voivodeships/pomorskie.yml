@@ -1,171 +1,244 @@
 ---
 - slug: miastko
   name: Miastko
-  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
   type: town
   voivodeship: pomorskie
+  lat: 53.99999
+  lon: 16.97474
 - slug: ustka
   name: Ustka
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: pomorskie
+  lat: 54.58141
+  lon: 16.86161
 - slug: wejherowo
   name: Wejherowo
   type: town
   voivodeship: pomorskie
+  lat: 54.60438
+  lon: 18.23525
 - slug: luzino
   name: Luzino
   type: town
   voivodeship: pomorskie
+  lat: 54.55892
+  lon: 18.10375
 - slug: szemud
   name: Szemud
   type: town
   voivodeship: pomorskie
+  lat: 54.48589
+  lon: 18.21963
 - slug: przodkowo
   name: Przodkowo
   type: town
   voivodeship: pomorskie
+  lat: 54.37895
+  lon: 18.28726
 - slug: kartuzy
   name: Kartuzy
   type: town
   voivodeship: pomorskie
+  lat: 54.33213
+  lon: 18.19937
 - slug: zukowo
   name: Żukowo
   type: town
   voivodeship: pomorskie
+  lat: 54.34214
+  lon: 18.36039
 - slug: kolbudy
   name: Kolbudy
   type: town
   voivodeship: pomorskie
+  lat: 54.27053
+  lon: 18.46888
 - slug: pruszcz_gdanski
   name: Pruszcz Gdański
   type: town
   voivodeship: pomorskie
+  lat: 54.26182
+  lon: 18.63796
 - slug: suchy_dab
   name: Suchy Dąb
   type: town
   voivodeship: pomorskie
+  lat: 54.20612
+  lon: 18.76654
 - slug: tczew
   name: Tczew
   type: town
   voivodeship: pomorskie
+  lat: 54.09453
+  lon: 18.78714
 - slug: gdansk
   name: Gdańsk
   type: town
   voivodeship: pomorskie
+  lat: 54.35635
+  lon: 18.64466
 - slug: somonino
   name: Somonino
   type: town
   voivodeship: pomorskie
+  lat: 54.27003
+  lon: 18.19319
 - slug: stezyca
   name: Stężyca
   type: town
   voivodeship: pomorskie
+  lat: 54.20612
+  lon: 17.95595
 - slug: koscierzyna
   name: Kościerzyna
   type: town
   voivodeship: pomorskie
+  lat: 54.12120
+  lon: 17.98239
 - slug: lipusz
   name: Lipusz
   type: town
   voivodeship: pomorskie
+  lat: 54.09825
+  lon: 17.78343
 - slug: dziemiany
   name: Dziemiany
   type: town
   voivodeship: pomorskie
+  lat: 54.00564
+  lon: 17.77245
 - slug: brusy
   name: Brusy
   type: town
   voivodeship: pomorskie
+  lat: 53.88476
+  lon: 17.72267
 - slug: chojnice
   name: Chojnice
   type: town
   voivodeship: pomorskie
+  lat: 53.69248
+  lon: 17.56637
 - slug: czersk
   name: Czersk
   type: town
   voivodeship: pomorskie
+  lat: 53.79639
+  lon: 17.97612
 - slug: kaliska
   name: Kaliska
   type: town
   voivodeship: pomorskie
+  lat: 53.90463
+  lon: 18.21808
 - slug: zblewo
   name: Zblewo
   type: town
   voivodeship: pomorskie
+  lat: 53.93318
+  lon: 18.32022
 - slug: starogard_gdanski
   name: Starogard Gdański
   type: town
   voivodeship: pomorskie
-- slug: gdansk
-  name: Gdańsk
-  type: town
-  voivodeship: pomorskie
+  lat: 53.96773
+  lon: 18.53179
 - slug: gdynia
   name: Gdynia
   type: town
   voivodeship: pomorskie
+  lat: 54.52116
+  lon: 18.53814
 - slug: sopot
   name: Sopot
   type: town
   voivodeship: pomorskie
+  lat: 54.44108
+  lon: 18.56646
 - slug: hel
   name: Hel
   type: town
   voivodeship: pomorskie
+  lat: 54.60467
+  lon: 18.80550
 - slug: czluchow
   name: Człuchów
   type: town
   voivodeship: pomorskie
-# TODO pix
+  lat: 53.66492
+  lon: 17.35951
 - slug: stara_kiszewa
   name: Stara Kiszewa
   type: town
   voivodeship: pomorskie
+  lat: 53.98944
+  lon: 18.16915
 - slug: skarszewy
   name: Skarszewy
   type: town
   voivodeship: pomorskie
+  lat: 54.07191
+  lon: 18.44639
 - slug: trabki_wielkie
   name: Trąbki Wielkie
   type: town
   voivodeship: pomorskie
+  lat: 54.17094
+  lon: 18.53740
 - slug: pszczolki
   name: Pszczółki
   type: town
   voivodeship: pomorskie
+  lat: 54.17342
+  lon: 18.69306
 - slug: lubichowo
   name: Lubichowo
   type: town
   voivodeship: pomorskie
+  lat: 53.85205
+  lon: 18.39609
 - slug: debrzno
   name: Debrzno
   type: town
   voivodeship: pomorskie
+  lat: 53.53799
+  lon: 17.23514
 - slug: karsin
   name: Karsin
   type: town
   voivodeship: pomorskie
+  lat: 53.90437
+  lon: 17.92780
 - slug: stary_dzierzgon
   name: Stary Dzierzgoń
   type: town
   voivodeship: pomorskie
+  lat: 53.83950
+  lon: 19.40632
 - slug: dzierzgon
   name: Dzierzgoń
   type: town
   voivodeship: pomorskie
+  lat: 53.92378
+  lon: 19.34692
 - slug: stary_targ
   name: Stary Targ
   type: town
   voivodeship: pomorskie
+  lat: 53.92308
+  lon: 19.17114
 - slug: malbork
   name: Malbork
   type: town
   voivodeship: pomorskie
+  lat: 54.03120
+  lon: 19.03570
 - slug: przechlewo
   name: Przechlewo
   type: town
   voivodeship: pomorskie
+  lat: 53.79866
+  lon: 17.25557
 - slug: pelplin
   name: Pelplin
   type: town
@@ -176,42 +249,62 @@
   name: Sztum
   type: town
   voivodeship: pomorskie
+  lat: 53.91984
+  lon: 19.03124
 - slug: ryjewo
   name: Ryjewo
   type: town
   voivodeship: pomorskie
+  lat: 53.84375
+  lon: 18.95862
 - slug: kwidzyn
   name: Kwidzyń
   type: town
   voivodeship: pomorskie
+  lat: 53.73098
+  lon: 18.93699
 - slug: gardeja
   name: Gardeja
   type: town
   voivodeship: pomorskie
+  lat: 53.60935
+  lon: 18.94455
 - slug: bytow
   name: Bytów
   type: town
   voivodeship: pomorskie
+  lat: 54.16759
+  lon: 17.48852
 - slug: przywidz
   name: Przywidz
   type: town
   voivodeship: pomorskie
+  lat: 54.19552
+  lon: 18.32210
 - slug: chmielno
   name: Chmielno
   type: town
   voivodeship: pomorskie
+  lat: 54.32407
+  lon: 18.09826
 - slug: suleczyno
   name: Sulęczyno
   type: town
   voivodeship: pomorskie
+  lat: 54.23005
+  lon: 17.77450
 - slug: borzytuchom
   name: Borzytuchom
   type: town
   voivodeship: pomorskie
+  lat: 54.19853
+  lon: 17.36767
 - slug: tuchomie
   name: Tuchomie
   type: town
   voivodeship: pomorskie
+  lat: 54.11389
+  lon: 17.33282
 - slug: trzebielino
   name: Trzebielino
   type: town

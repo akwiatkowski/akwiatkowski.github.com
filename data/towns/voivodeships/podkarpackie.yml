@@ -1,81 +1,109 @@
 ---
 - slug: czarna_bieszczady
-  name: Czarne
-  header-ext-img: https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538
+  name: Czarna
   type: town
   voivodeship: podkarpackie
+  lat: 49.32612
+  lon: 22.66154
 - slug: dukla
   name: Dukla
-  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
   type: town
   voivodeship: podkarpackie
+  lat: 49.55450
+  lon: 21.68272
 - slug: jasliska
   name: Jaśliska
-  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
   type: town
   voivodeship: podkarpackie
+  lat: 49.44122
+  lon: 21.80804
 - slug: krempna
   name: Krempna
-  header-ext-img: https://drscdn.500px.org/photo/156858245/q%3D80_m%3D2000/f78d6ec50b11528fe329fd7d7daf4940
   type: town
   voivodeship: podkarpackie
+  lat: 49.51038
+  lon: 21.49939
 - slug: lutowiska
   name: Lutowiska
-  header-ext-img: https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538
   type: town
   voivodeship: podkarpackie
+  lat: 49.25357
+  lon: 22.69003
 - slug: olszanica
   name: Olszanica
-  header-ext-img: https://drscdn.500px.org/photo/51989474/m%3D2048/0167e57632caf6622867f08744f9f538
   type: town
   voivodeship: podkarpackie
+  lat: 49.47637
+  lon: 22.44318
 - slug: rymanow
   name: Rymanów
-  header-ext-img: https://drscdn.500px.org/photo/156860575/q%3D80_m%3D2000/72f2f8eeb84d1d1f747f383f03bc6e05
   type: town
   voivodeship: podkarpackie
+  lat: 49.57387
+  lon: 21.86674
 - slug: nowy_zmigrod
   name: Nowy Żmigród
   type: town
   voivodeship: podkarpackie
+  lat: 49.60214
+  lon: 21.52394
 - slug: komancza
   name: Komańcza
   type: town
   voivodeship: podkarpackie
+  lat: 49.33529
+  lon: 22.06639
 - slug: krosno
   name: Krosno
   type: town
   voivodeship: podkarpackie
+  lat: 49.69183
+  lon: 21.76443
 - slug: wisniowa
   name: Wiśniowa
   type: town
   voivodeship: podkarpackie
+  lat: 49.86764
+  lon: 21.64736
 - slug: strzyzow
   name: Strzyżów
   type: town
   voivodeship: podkarpackie
+  lat: 49.87051
+  lon: 21.78932
 - slug: czudec
   name: Czudec
   type: town
   voivodeship: podkarpackie
+  lat: 49.94481
+  lon: 21.83550
 - slug: wielopole_skrzynskie
   name: Wielopole Skrzyńskie
   type: town
   voivodeship: podkarpackie
+  lat: 49.94580
+  lon: 21.61371
 - slug: iwierzyce
   name: Iwierzyce
   type: town
   voivodeship: podkarpackie
+  lat: 50.02659
+  lon: 21.75619
 - slug: sedziszow_malopolski
   name: Sędziszów Małopolski
   type: town
   voivodeship: podkarpackie
+  lat: 50.07179
+  lon: 21.69611
 - slug: wojaszowka
   name: Wojaszówka
   type: town
   voivodeship: podkarpackie
-
+  lat: 49.77959
+  lon: 21.66521
 - slug: rzeszow
   name: Rzeszów
   type: town
   voivodeship: podkarpackie
+  lat: 50.03696
+  lon: 22.00407

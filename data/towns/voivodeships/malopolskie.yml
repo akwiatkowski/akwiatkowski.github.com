@@ -1,19 +1,22 @@
 ---
 - slug: czorsztyn
   name: Czorsztyn
-  header-ext-img: https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501
   type: town
   voivodeship: malopolskie
+  lat: 49.43787
+  lon: 20.33098
 - slug: gorlice
   name: Gorlice
-  header-ext-img: https://drscdn.500px.org/photo/156860375/q%3D80_m%3D2000/2e3504c38a1c181cb5f3477d8a7bc650
   type: town
   voivodeship: malopolskie
+  lat: 49.65762
+  lon: 21.15821
 - slug: koscielisko
   name: Kościelisko
-  header-ext-img: https://drscdn.500px.org/photo/164959367/q%3D80_m%3D2000/a35615dc628b05b84cf17cb94fcf2f8e
   type: town
   voivodeship: malopolskie
+  lat: 49.28935
+  lon: 19.88723
 - slug: krakow
   name: Kraków
   header-ext-img: https://drscdn.500px.org/photo/94912789/m%3D2048/9517435e6c69f69f411c2770d6f0097d

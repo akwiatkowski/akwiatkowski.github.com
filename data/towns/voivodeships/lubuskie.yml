@@ -169,52 +169,74 @@
   name: Szczaniec
   type: town
   voivodeship: lubuskie
+  lat: 52.26910
+  lon: 15.68153
 - slug: zbaszynek
   name: Zbąszynek
   type: town
   voivodeship: lubuskie
+  lat: 52.24461
+  lon: 15.81637
 - slug: czerwiensk
   name: Czerwieńsk
   type: town
   voivodeship: lubuskie
-
+  lat: 52.01320
+  lon: 15.42026
 - slug: miedzyrzecz
   name: Międzyrzecz
   type: town
   voivodeship: lubuskie
+  lat: 52.44525
+  lon: 15.57827
 - slug: bledzew
   name: Bledzew
   type: town
   voivodeship: lubuskie
+  lat: 52.51702
+  lon: 15.41339
 - slug: skwierzyna
   name: Skwierzyna
   type: town
   voivodeship: lubuskie
+  lat: 52.59707
+  lon: 15.50386
 - slug: sulecin
   name: Sulęcin
   type: town
   voivodeship: lubuskie
-
+  lat: 52.44101
+  lon: 15.11522
 - slug: slonsk
   name: Słońsk
   type: town
   voivodeship: lubuskie
+  lat: 52.56432
+  lon: 14.80657
 - slug: witnica
   name: Witnica
   type: town
   voivodeship: lubuskie
+  lat: 52.67278
+  lon: 14.89849
 - slug: gorzow_wielkopolski
   name: Gorzów Wielkopolski
   type: town
   voivodeship: lubuskie
+  lat: 52.73137
+  lon: 15.23958
 - slug: lubniewice
   name: Lubniewice
   type: town
   voivodeship: lubuskie
+  lat: 52.51321
+  lon: 15.24619
 - slug: osno_lubuskie
   name: Ośno Lubuskie
   type: town
   voivodeship: lubuskie
+  lat: 52.45268
+  lon: 14.87716
 - slug: lubiszyn
   name: Lubiszyn
   type: town

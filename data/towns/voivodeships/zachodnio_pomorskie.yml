@@ -1,153 +1,181 @@
 ---
 - slug: bedzino
   name: Będzino
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.20687
+  lon: 15.98773
 - slug: bierzwnik
   name: Bierzwnik
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.03413
+  lon: 15.66364
 - slug: borne_sulinowo
   name: Borne Sulinowo
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.58544
+  lon: 16.53808
 - slug: choszczno
   name: Choszczno
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.16822
+  lon: 15.41936
 - slug: czaplinek
   name: Czaplinek
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.55788
+  lon: 16.23321
 - slug: dolice
   name: Dolice
-  header-ext-img: https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.19116
+  lon: 15.20290
 - slug: drawno
   name: Drawno
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.21861
+  lon: 15.75737
 - slug: drawsko_pomorskie
   name: Drawsko Pomorskie
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.52973
+  lon: 15.81161
 - slug: dziwnow
   name: Dziwnów
-  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.02606
+  lon: 14.75624
 - slug: kalisz_pomorski
   name: Kalisz Pomorski
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.29604
+  lon: 15.90808
 - slug: kolobrzeg
   name: Kołobrzeg
-  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.18056
+  lon: 15.56871
 - slug: malechowo
   name: Malechowo
-  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.30634
+  lon: 16.51474
 - slug: miedzyzdroje
   name: Międzyzdroje
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.92763
+  lon: 14.45051
 - slug: mielno
   name: Mielno
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.26115
+  lon: 16.06327
 - slug: miroslawiec
   name: Mirosławiec
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.34129
+  lon: 16.08730
 - slug: ostrowice
   name: Ostrowice
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.63785
+  lon: 15.97327
 - slug: pelczyce
   name: Pełczyce
-  header-ext-img: https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.04321
+  lon: 15.30139
 - slug: polanow
   name: Polanow
-  header-ext-img: https://drscdn.500px.org/photo/169017677/q%3D80_m%3D2000/2e2f9b1d210e2507dc40add676c13e20
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.11769
+  lon: 16.68245
 - slug: polczyn_zdroj
   name: Polczyn Zdrój
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.76364
+  lon: 16.09743
 - slug: postomino
   name: Postomino
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.49096
+  lon: 16.71406
 - slug: przelewice
   name: Przelewice
-  header-ext-img: https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.10287
+  lon: 15.07968
 - slug: rewal
   name: Rewal
-  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.07967
+  lon: 15.01234
 - slug: sianow
   name: Sianów
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.22777
+  lon: 16.29542
 - slug: stargard
   name: Stargard
-  header-ext-img: https://drscdn.500px.org/photo/162515433/q%3D80_m%3D2000/f101726747a1a2b32ec9036257383413
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.33913
+  lon: 15.03491
 - slug: swinoujscie
   name: Świnoujście
-  header-ext-img: https://drscdn.500px.org/photo/173700561/q%3D80_m%3D2000/3eb0c5d8ff3d62e17e1e971cf794b7b7
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.90864
+  lon: 14.25128
 - slug: szczecinek
   name: Szczecinek
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.70672
+  lon: 16.69780
 - slug: trzebiatow
   name: Trzebiatów
-  header-ext-img: https://drscdn.500px.org/photo/24016939/m%3D2048/23ddb31ccc7ddf62b7f1933302e8e701
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.06227
+  lon: 15.26846
 - slug: ustronie_morskie
   name: Ustroie Morskie
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.21452
+  lon: 15.75332
 - slug: wolin
   name: Wolin
-  header-ext-img: https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.84388
+  lon: 14.61409
 - slug: zlocieniec
   name: Złocieniec
   header-img: 2015-08-22-z-rebusza-do-cieszyno/IMGP2857raw1.jpg
-  header-ext-img: https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c
   type: town
   lat: 53.52758
   lon: 16.01846
@@ -156,38 +184,56 @@
   name: Darłowo
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.42278
+  lon: 16.40932
 - slug: walcz
   name: Wałcz
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.27420
+  lon: 16.46820
 - slug: wierzchowo
   name: Wierzchowo
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.46042
+  lon: 16.10067
 - slug: rabino
   name: Rąbino
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.86726
+  lon: 15.95013
 - slug: bialogard
   name: Białogard
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 54.00904
+  lon: 15.98291
 - slug: marianowo
   name: Marianowo
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.38134
+  lon: 15.26434
 - slug: suchan
   name: Suchań
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.28005
+  lon: 15.32682
 - slug: dobrzany
   name: Dobrzany
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.35717
+  lon: 15.42931
 - slug: krzecin
   name: Krzęcin
   type: town
   voivodeship: zachodnio_pomorskie
+  lat: 53.08006
+  lon: 15.48733
 - slug: insko
   name: Ińsko
   type: town
