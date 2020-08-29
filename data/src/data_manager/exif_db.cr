@@ -19,36 +19,6 @@ class ExifDb
     @loaded_posts = Hash(String, Bool).new
   end
 
-  SEARCH_PHOTO_COORD_DISTANCE = 0.1
-
-  def search_in_coord(lat : Float64, lon : Float64)
-    selected_photos = all_flatten_photo_entities.select do |photo_entity|
-      if photo_entity.exif.lat && photo_entity.exif.lon
-        # only check with coords
-        distance = (photo_entity.exif.lat.not_nil! - lat).abs + (photo_entity.exif.lon.not_nil! - lon).abs
-        if distance < SEARCH_PHOTO_COORD_DISTANCE
-          # select only within distance to not sort using all
-          true
-        else
-          false
-        end
-      else
-        false
-      end
-    end
-
-    if selected_photos.size > 0
-      sorted_photos = selected_photos.sort do |photo_a, photo_b|
-        distance_a = (photo_a.exif.lat.not_nil! - lat).abs + (photo_a.exif.lon.not_nil! - lon).abs
-        distance_b = (photo_b.exif.lat.not_nil! - lat).abs + (photo_b.exif.lon.not_nil! - lon).abs
-        distance_a <=> distance_b
-      end
-      return sorted_photos.first
-    else
-      return nil
-    end
-  end
-
   def published_photo_entities(post_slug : String) : Array(PhotoEntity)
     @published_photo_entities[post_slug]? || Array(PhotoEntity).new
   end
@@ -63,10 +33,24 @@ class ExifDb
 
   # PE created from function while processing md file
   def append_published_photo_entity(photo_entity : PhotoEntity)
+    # TODO check if it should be put elsewhere
+    photo_entity.mark_as_published!
+
     exifed_pe = process_photo_entity(photo_entity)
 
     @published_photo_entities[exifed_pe.post_slug] ||= Array(PhotoEntity).new
-    @published_photo_entities[exifed_pe.post_slug] << exifed_pe
+
+    existing_size = @published_photo_entities[exifed_pe.post_slug].select do |added_photo_entity|
+      added_photo_entity.image_filename == photo_entity.image_filename
+    end.size
+
+    # add only if it not exists here
+    if existing_size == 0
+      @published_photo_entities[exifed_pe.post_slug] << exifed_pe
+    end
+
+    # to reduce duplicates
+    remove_from_uploaded(exifed_pe)
 
     return exifed_pe
   end
@@ -75,9 +59,24 @@ class ExifDb
     exifed_pe = process_photo_entity(photo_entity)
 
     @uploaded_photo_entities[exifed_pe.post_slug] ||= Array(PhotoEntity).new
-    @uploaded_photo_entities[exifed_pe.post_slug] << exifed_pe
+
+    existing_size = @uploaded_photo_entities[exifed_pe.post_slug].select do |added_photo_entity|
+      added_photo_entity.image_filename == photo_entity.image_filename
+    end.size
+
+    # add only if it not exists here
+    if existing_size == 0
+      @uploaded_photo_entities[exifed_pe.post_slug] << exifed_pe
+    end
 
     return exifed_pe
+  end
+
+  private def remove_from_uploaded(photo_entity : PhotoEntity)
+    @uploaded_photo_entities[photo_entity.post_slug] ||= Array(PhotoEntity).new
+    @uploaded_photo_entities[photo_entity.post_slug] = @uploaded_photo_entities[photo_entity.post_slug].select do |added_photo_entity|
+      added_photo_entity.image_filename != photo_entity.image_filename
+    end
   end
 
   def initialize_post_photos_exif(post : Tremolite::Post)

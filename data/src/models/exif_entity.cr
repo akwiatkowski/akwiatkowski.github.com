@@ -81,4 +81,9 @@ struct ExifEntity
     data["img.time"] = time.to_s
     data
   end
+
+  def is_horizontal?
+    return false if self.width.nil? || self.height.nil?
+    return self.width.not_nil! > self.height.not_nil!
+  end
 end

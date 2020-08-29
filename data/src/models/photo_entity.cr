@@ -18,6 +18,7 @@ struct PhotoEntity
   @is_gallery : Bool
   @is_header : Bool
   @is_timeline : Bool
+  @is_published : Bool
 
   @big_thumb_image_src : String
   @gallery_thumb_image_src : String
@@ -39,7 +40,7 @@ struct PhotoEntity
   GALLERY_THUMB_PREFIX = "gallery_thumb"
   SMALL_PREFIX         = "small"
 
-  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map
+  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map, :is_published
   getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless
@@ -56,6 +57,7 @@ struct PhotoEntity
     @is_header = false,
     @is_timeline = false,
     @is_map = false,
+    @is_published = false,
     @tags = Array(String).new
   )
     # nameless entities are uploaded not added in post content
@@ -91,6 +93,10 @@ struct PhotoEntity
       post_slug: @post_slug,
       image_filename: @image_filename,
     )
+  end
+
+  def mark_as_published!
+    @published = true
   end
 
   def update_desc_and_params(new_desc, new_param_string)

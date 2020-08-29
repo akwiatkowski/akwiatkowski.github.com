@@ -35,7 +35,7 @@ class TownView < BaseView
   end
 
   def image_url_from_geo_coord
-    @blog.data_manager.town_photo_cache.not_nil!.get(@town.slug)
+    @blog.data_manager.town_photo_cache.not_nil!.get_photo_path_for_town(@town.slug)
   end
 
   def image_url_from_slug
