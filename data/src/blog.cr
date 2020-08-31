@@ -175,15 +175,6 @@ class Tremolite::Blog
     # TODO move somewhere else
     renderer.render_portfolio
 
-    # if post were changed render some fast related pages
-    if posts_changed
-      renderer.render_fast_only_post_related
-    end
-
-    if posts_changed || yamls_changed
-      renderer.render_fast_post_and_yaml_related
-    end
-
     if exifs_changed
       # first we need to load all (and/or process new) exif data
       post_collection.posts.each do |post|
@@ -196,6 +187,17 @@ class Tremolite::Blog
       # this probably should be updated more often
       # but at leas is not overwritten
       renderer.render_galleries_pages
+    end
+
+    # moved after town cache update to have refreshed town images
+
+    # if post were changed render some fast related pages
+    if posts_changed
+      renderer.render_fast_only_post_related
+    end
+
+    if posts_changed || yamls_changed
+      renderer.render_fast_post_and_yaml_related
     end
 
     # maybe somewhere in future we can add if here

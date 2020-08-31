@@ -47,8 +47,12 @@ class TownPhotoCache
     save_cache
   end
 
+  def get_cache_structure(slug_name : String)
+    return @cache[slug_name]?
+  end
+
   def get_photo_path_for_town(slug_name : String)
-    data = @cache[slug_name]?
+    data = get_cache_structure(slug_name)
     if data
       return data[:photo_path]?
     else

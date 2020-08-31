@@ -1,6 +1,8 @@
 class TownView < BaseView
   Log = ::Log.for(self)
 
+  @preselected_size : Int32?
+
   def initialize(@blog : Tremolite::Blog, @town : TownEntity)
     @url = @town.url
 
@@ -10,6 +12,13 @@ class TownView < BaseView
         @posts << post
       end
     end
+
+    @photo_cache = @blog.data_manager.town_photo_cache.not_nil!.get_cache_structure(@town.slug).as(TownPhotoCache::TownPhotoCacheData?)
+    if @photo_cache
+      @preselected_size = @photo_cache.not_nil![:preselected_size]
+    else
+    end
+    puts "#{self.title} #{@photo_cache.inspect} *"
   end
 
   def title
@@ -35,7 +44,9 @@ class TownView < BaseView
   end
 
   def image_url_from_geo_coord
-    @blog.data_manager.town_photo_cache.not_nil!.get_photo_path_for_town(@town.slug)
+    if @photo_cache
+      return @photo_cache.not_nil![:photo_path].not_nil!
+    end
   end
 
   def image_url_from_slug
@@ -59,6 +70,7 @@ class TownView < BaseView
     data["post.image_url"] = image_url
     data["post.title"] = @town.name
     data["post.subtitle"] = self.subtitle
+    data["post.title.hidden"] = @preselected_size.to_s
     return load_html("page/header", data)
   end
 
