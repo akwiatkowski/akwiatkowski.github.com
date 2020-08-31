@@ -107,3 +107,21 @@
   voivodeship: podkarpackie
   lat: 50.03696
   lon: 22.00407
+- slug: cisna
+  name: Cisna
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.20901
+  lon: 22.32928
+- slug: solina
+  name: Solina
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.39929
+  lon: 22.44790
+- slug: bukowsko
+  name: Bukowsko
+  type: town
+  voivodeship: podkarpackie
+  lat: 49.47866
+  lon: 22.06080

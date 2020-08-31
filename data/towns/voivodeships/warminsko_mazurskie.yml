@@ -126,3 +126,39 @@
   voivodeship: warminsko_mazurskie
   lat: 53.50038
   lon: 19.34796
+- slug: ostroda
+  name: Ostróda
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.70016
+  lon: 19.95924
+- slug: lidzbark
+  name: Lidzbark
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.26274
+  lon: 19.81934
+- slug: rybno
+  name: Rybno
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.38266
+  lon: 19.93031
+- slug: lubawa
+  name: Lubawa
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.50402
+  lon: 19.74990
+- slug: dabrowno
+  name: Dąbrówno
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.43305
+  lon: 20.03511
+- slug: grunwald
+  name: Grunwald
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.48508
+  lon: 20.09116

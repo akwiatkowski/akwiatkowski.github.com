@@ -263,3 +263,39 @@
   voivodeship: kujawsko_pomorskie
   lat: 53.385639
   lon: 18.935896
+- slug: kowalewo_pomorskie
+  name: Kowalewo Pomorskie
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.15464
+  lon: 18.89725
+- slug: torun
+  name: Toruń
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.01555
+  lon: 18.60594
+- slug: sadki
+  name: Sadki
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.15855
+  lon: 17.44860
+- slug: koronowo
+  name: Koronowo
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.31180
+  lon: 17.94153
+- slug: brodnica
+  name: Brodnica
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.25554
+  lon: 19.40282
+- slug: golub_dobrzyn
+  name: Golub-Dobrzyń
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.11214
+  lon: 19.05169
