@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_20__11_04__8208291.jpg
 tags:                   [hike, todo]
 towns:                  [podkarpackie, bukowsko]
+lands:                  [bieszczady]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-20-wejscie-na-tokarnie.json"
@@ -29,6 +30,7 @@ pois:
 
 ---
 
+[wiki-tokarnia]: https://pl.wikipedia.org/wiki/Tokarnia_(Beskid_Niski)
 
 ## Wstęp
 

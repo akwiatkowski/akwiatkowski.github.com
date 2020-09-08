@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_21__09_47__8219097.jpg
 tags:                   [train, todo]
 towns:                  [podkarpackie, cisna, komancza]
+lands:                  [bieszczady]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-08-21-bieszczadzka-kolej-lesna.json"

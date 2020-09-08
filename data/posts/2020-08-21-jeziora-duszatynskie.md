@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_21__15_35_DSC03617.jpg
 tags:                   [hike, todo]
 towns:                  [podkarpackie, komancza]
+lands:                  [bieszczady]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-21-jeziora-duszatynskie.json"

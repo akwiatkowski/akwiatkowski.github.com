@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_22__16_10__8229395.jpg
 tags:                   [hike, todo]
 towns:                  [podkarpackie, cisna, solina]
+lands:                  [bieszczady]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-22-lopienka-i-zachodnie-bieszczady.json"
