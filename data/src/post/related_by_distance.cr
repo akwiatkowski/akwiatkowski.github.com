@@ -35,7 +35,6 @@ class Tremolite::Post
     if p
       cp = CrystalGpx::Point.new(lat: p[0], lon: p[1])
       d = cp.distance_to(other_lat: lat, other_lon: lon)
-      # puts "#{d}: #{lat}, #{lon} - #{p[0]}, #{p[1]}"
       return d
     else
       return nil

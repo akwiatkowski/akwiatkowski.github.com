@@ -17,8 +17,8 @@ class TownView < BaseView
     if @photo_cache
       @preselected_size = @photo_cache.not_nil![:preselected_size]
     else
+      @preselected_size = nil
     end
-    puts "#{self.title} #{@photo_cache.inspect} *"
   end
 
   def title

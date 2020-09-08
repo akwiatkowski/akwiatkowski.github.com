@@ -30,7 +30,6 @@ class PortfolioView < BaseView
       photo_entities.each_with_index do |photo_entity, i|
         # find long_desc from portfolio.yml
         selected_portfolio = portfolios.select do |portfolio|
-          puts "#{portfolio.post_slug} == #{photo_entity.post_slug} && #{portfolio.image_filename} == #{photo_entity.image_filename}"
           portfolio.post_slug == photo_entity.post_slug && portfolio.image_filename == photo_entity.image_filename
         end
 
