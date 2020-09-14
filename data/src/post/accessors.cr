@@ -11,7 +11,6 @@ class Tremolite::Post
 
   CATEGORY_TRIP = "trip"
 
-  getter :coords
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
   getter :distance, :time_spent

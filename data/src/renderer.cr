@@ -189,7 +189,7 @@ class Tremolite::Renderer
   end
 
   def render_photo_maps_debug_post
-    slug = "2019-06-09-pomorska-dziura-transportowa"
+    slug = "2020-09-06-lodzkie-zakamarki-i-stare-domy"
     # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
@@ -217,22 +217,23 @@ class Tremolite::Renderer
 
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
-      if post.self_propelled? && post.coords && post.coords.not_nil!.size > 0
+      if post.self_propelled? && post.detailed_routes && post.detailed_routes.not_nil!.size > 0
         render_photo_map_for_post(post)
       end
     end
   end
 
   def render_photo_map_for_post(post : Tremolite::Post)
-    # TODO refactor post coords into someting not ugly
-    if post.coords.not_nil![0].route.size > 0
+    # TODO refactor post coords into something not ugly
+
+    if post.detailed_routes.not_nil![0].route.size > 0
       Log.debug { "render_photo_maps_posts #{post.slug}" }
 
       # sometime I take photos from train and we want to have detailed
       # route map (big zoom) so we must remove photos taken from non route
       # places
       coord_range = PostRouteObject.array_to_coord_range(
-        array: post.coords.not_nil!,
+        array: post.detailed_routes.not_nil!,
       )
       # only_types: ["hike", "bicycle", "train", "car", "air"]
       # lets accept all types for now
@@ -253,12 +254,15 @@ class Tremolite::Renderer
           coord_range: coord_range,
           do_not_crop_routes: true,
           render_photos_out_of_route: true,
+          photo_direct_link: true,
         )
         write_output(post_map_view)
         Log.debug { "#{post.slug} - render_photo_maps_posts done" }
       else
         Log.warn { "#{post.slug} - autozoom_value could not calculate" }
       end
+    else
+      Log.debug { "#{post.slug} - no coords" }
     end
   end
 

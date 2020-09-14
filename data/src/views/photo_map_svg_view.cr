@@ -16,7 +16,8 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @do_not_crop_routes : Bool = false,
     @photo_entities : Array(PhotoEntity)? = nil,
     @render_routes : Bool = true,
-    @render_photos_out_of_route : Bool = false
+    @render_photos_out_of_route : Bool = false,
+    @photo_direct_link : Bool = false
   )
     @map = Map::Base.new(
       blog: @blog,
@@ -28,6 +29,7 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
       photo_entities: @photo_entities,
       render_routes: @render_routes,
       render_photos_out_of_route: @render_photos_out_of_route,
+      photo_direct_link: @photo_direct_link,
     )
   end
 

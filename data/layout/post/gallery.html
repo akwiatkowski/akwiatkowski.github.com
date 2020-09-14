@@ -10,8 +10,10 @@
 
         <hr>
         {{ stats }}
-        <a href="{{ stats.path }}">Szczegóły statystyk</a> |
-        <a href="/photo_map/for_post/{{ post.slug }}.svg">Mapa zdjęć i trasy</a>
+
+        <a class="btn btn-light" href="{{ stats.path }}">Szczegóły statystyk</a>
+        <a class="btn btn-light" href="/photo_map/for_post/{{ post.slug }}.svg">Mapa zdjęć i trasy</a>
+
         <hr>
 
         <ul class="pager">

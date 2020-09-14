@@ -1,7 +1,12 @@
 struct Map::MapCoordRange
   getter :x_from, :y_from, :x_to, :y_to
 
-  def initialize(@x_from : Int32, @y_from : Int32, @x_to : Int32, @y_to : Int32)
+  def initialize(
+    @x_from : Int32,
+    @y_from : Int32,
+    @x_to : Int32,
+    @y_to : Int32
+  )
   end
 
   def x_center
@@ -63,7 +68,8 @@ class Map::PhotoToRouteLayer
     photos : Array(PhotoEntity),
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
-    @image_size = DEFAULTH_PHOTO_SIZE.as(Int32)
+    @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
+    @photo_direct_link : Bool = false
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -380,6 +386,7 @@ class Map::PhotoToRouteLayer
     photo_entity = photo_position.photo_entity
     url = photo_entity.gallery_thumb_image_src
     post_url = photo_entity.post_url
+    photo_url = photo_entity.full_image_src
 
     corner_photo_x = photo_position.corner_photo_x
     corner_photo_y = photo_position.corner_photo_y
@@ -388,6 +395,10 @@ class Map::PhotoToRouteLayer
     @tiles_layer.mark_top_left_corner(corner_photo_x.to_i, corner_photo_y.to_i)
     @tiles_layer.mark_bottom_right_corner(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size)
     # no need to add route point for cropping
+
+    # for single post maps render link to image full size not post
+    href_url = post_url
+    href_url = photo_url if @photo_direct_link
 
     return String.build do |s|
       s << "<svg x='#{corner_photo_x.to_i}' y='#{corner_photo_y.to_i}' width='#{@image_size}' height='#{@image_size}' class='photo-map-photo'>\n"

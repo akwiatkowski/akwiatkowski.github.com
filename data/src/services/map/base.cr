@@ -24,7 +24,9 @@ class Map::Base
     @photo_entities : Array(PhotoEntity)? = nil,
     # selective rendering
     @render_routes : Bool = true,
-    @render_photos_out_of_route : Bool = false
+    @render_photos_out_of_route : Bool = false,
+    # by default photos are linked to Post not full src of PhotoEntity
+    @photo_direct_link : Bool = false
   )
     Log.info { "Start" }
 
@@ -157,7 +159,8 @@ class Map::Base
         photos: @photos,
         posts: @posts,
         tiles_layer: @tiles_layer,
-        image_size: @quant_size
+        image_size: @quant_size,
+        photo_direct_link: @photo_direct_link,
       )
     else
       @photo_layer = PhotoLayer.new(
