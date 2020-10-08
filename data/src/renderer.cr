@@ -26,6 +26,7 @@ require "./views/pois_view"
 require "./views/towns_index_view"
 require "./views/lands_index_view"
 require "./views/year_stat_report_view"
+require "./views/burnout_stat_view"
 require "./views/gallery_view"
 require "./views/tag_gallery_view"
 require "./views/towns_history_view"
@@ -38,6 +39,11 @@ require "./views/rss_generator"
 require "./views/atom_generator"
 
 class Tremolite::Renderer
+  # method run every time for test+dev stuff
+  def dev_render
+    render_burnout_stat_pages
+  end
+
   def render_copy_assets
     copy_assets
   end
@@ -62,6 +68,7 @@ class Tremolite::Renderer
 
     render_summary_page
     render_year_stat_reports_pages
+    render_burnout_stat_pages
 
     render_towns_history
     render_towns_timeline
@@ -614,6 +621,11 @@ class Tremolite::Renderer
       view = YearStatReportView.new(blog: @blog, year: year, all_years: years)
       write_output(view)
     end
+  end
+
+  def render_burnout_stat_pages
+    view = BurnoutStatView.new(blog: @blog)
+    write_output(view)
   end
 
   def render_gallery

@@ -133,6 +133,9 @@ class Tremolite::Blog
     post_to_update_exif : Array(Tremolite::Post),
     exifs_changed : Bool
   )
+    # test+dev stuff
+    renderer.dev_render
+
     # because
     post_to_render_galleries = (post_to_update_photos + post_to_update_exif).uniq
     post_to_render_only_post = post_to_render - post_to_render_galleries
