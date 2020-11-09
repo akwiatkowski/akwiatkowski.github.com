@@ -53,25 +53,25 @@ class ExifStatService
       @stats_overall.increment(photo: photo)
 
       # one stats per camera
-      if exif.camera
-        unless @stats_by_camera[exif.camera.to_s]?
-          @stats_by_camera[exif.camera.to_s] = ExifStatStruct.new(
-            key_name: exif.camera.to_s,
+      if exif.camera_name
+        unless @stats_by_camera[exif.camera_name.to_s]?
+          @stats_by_camera[exif.camera_name.to_s] = ExifStatStruct.new(
+            key_name: exif.camera_name.to_s,
             type: ExifStatType::Camera
           )
         end
-        @stats_by_camera[exif.camera.to_s].increment(photo: photo)
+        @stats_by_camera[exif.camera_name.to_s].increment(photo: photo)
       end
 
       # one stats per lens
-      if exif.lens
-        unless @stats_by_lens[exif.lens.to_s]?
-          @stats_by_lens[exif.lens.to_s] = ExifStatStruct.new(
-            key_name: exif.lens.to_s,
+      if exif.lens_name
+        unless @stats_by_lens[exif.lens_name.to_s]?
+          @stats_by_lens[exif.lens_name.to_s] = ExifStatStruct.new(
+            key_name: exif.lens_name.to_s,
             type: ExifStatType::Lens
           )
         end
-        @stats_by_lens[exif.lens.to_s].increment(photo: photo)
+        @stats_by_lens[exif.lens_name.to_s].increment(photo: photo)
       end
     end
   end
