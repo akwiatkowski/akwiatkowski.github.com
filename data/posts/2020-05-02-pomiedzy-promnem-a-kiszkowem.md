@@ -2,8 +2,8 @@
 layout:                 post
 title:                  "Pomiędzy Promnem a Kiszkowem"
 subtitle:               "czyli pierwsza burza, mocny deszcz i grad, ślimaki, zielone pola i kwitnący rzepak"
-desc:                   ""
-keywords:               []
+desc:                   "Eksploracja północnych okolic od Pobiedzisk. Postanowiliśmy jechać samochodem i zobaczyć gdzie warto by pospacerować."
+keywords:               [pobiedziska, promno, borowo-młyn, jerzyn, krześlice, stęszewice, pomarzanowice]
 date:                   2020-05-02 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -11,8 +11,8 @@ categories:             trip
 image_filename:         2020_05_02__17_26_DSC07968.jpg
 #2020_05_02__13_21_DSC07800
 #2020_05_02__13_37__5028224
-tags:                   [car, todo]
-towns:                  [wielkopolskie, pobiedziska, kiszkowo, ]
+tags:                   [car, main]
+towns:                  [wielkopolskie, pobiedziska, kiszkowo]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
@@ -29,11 +29,24 @@ pois:
 
 ---
 
+[wiki-pobiedziska]: https://pl.wikipedia.org/wiki/Pobiedziska
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-promno-stacja]: https://pl.wikipedia.org/wiki/Promno-Stacja
+[wiki-borowo-mlyn]: https://pl.wikipedia.org/wiki/Borowo-M%C5%82yn
+[wiki-jerzyn]: https://pl.wikipedia.org/wiki/Jerzyn
+[wiki-krzeslice]: https://pl.wikipedia.org/wiki/Krze%C5%9Blice
+[wiki-turostowo]: https://pl.wikipedia.org/wiki/Turostowo
+[wiki-bednary]: https://pl.wikipedia.org/wiki/Bednary_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-steszewice]: https://pl.wikipedia.org/wiki/St%C4%99szewice
+[wiki-karczewko]: https://pl.wikipedia.org/wiki/Karczewko_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kiszkowo]: https://pl.wikipedia.org/wiki/Kiszkowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-pomarzanowice]: https://pl.wikipedia.org/wiki/Pomarzanowice
+[wiki-trzciniak]: https://pl.wikipedia.org/wiki/Trzciniak_zwyczajny
 
 ## Wstęp
 
 Tego dnia zaplanowałem spacer połączony z jazdą samochodem. Chciałem
-dokładniej zwiedzić okolice a północ od [Pobiedzisk][wiki-pobiedziska]
+dokładniej zwiedzić okolice na północ od [Pobiedzisk][wiki-pobiedziska]
 jednak nie miałem dokładnego planu.
 
 ## Szczegóły
@@ -45,7 +58,7 @@ na własne oczy. Zaczął padać bardzo silny deszcz z gradem.
 {% photo "2020_05_02__13_21_DSC07796.jpg","Samotny budynek na skraju" %}
 
 W okolicy [Promno-Stacja][wiki-promno-stacja] skręciliśmy w lewo na północ.
-Chciałem zobaczyć okolicę [Borowego Młynu][wiki-borowy-mlyn].
+Chciałem zobaczyć okolicę [Borowo-Młyn][wiki-borowo-mlyn].
 
 {% photo "2020_05_02__13_21_DSC07800.jpg","Droga w stronę Wronczyna/Jerzyna","timeline" %}
 
@@ -54,23 +67,22 @@ szukaliśmy miejsca z dala od drzew ale nie w terenie całkowicie otwartym.
 
 {% photo "2020_05_02__13_35__5028211.jpg","Mokry dmuchawiec" %}
 
-Poczekaliśmy chwilę aż deszcz przestał padać. Przyznam się, że widok
-takiego deszczu i burzy dawno nie widziałem.
+Poczekaliśmy chwilę aż deszcz przestał padać. Przyznam się, że
+takiego deszczu i burzy dawno nie widziałem. Ostatnie kilka miesięcy
+to była susza.
 
 {% photo "2020_05_02__13_56_DSC07813.jpg","Jezioro Jerzyńskie" %}
 
 Okolica bardzo mi się podobała. Soczyste zielone pola były w tym momencie
 dla mnie bardzo ładne i uspokajające. Właśnie jeżdżąc rowerem lubie takie miejsca
-gdyż mogę mentalnie uciec od tego zabetonowanego miasta które tak wypycha
-przyrodę.
+gdyż mogę mentalnie uciec od tego zabetonowanego miasta, które tak wypycha
+przyrodę od siebie.
 
 {% photo "2020_05_02__14_41_DSC07831.jpg","Okolica sklepu we Wronczynie" %}
 
 Dojechaliśmy drogą leśną do [Jerzyna][wiki-jerzyn] i tam zatrzymaliśmy
 się na plaży przy jeziorze. Słyszałem tam bardzo głośnego ptaka,
 prawdopodobnie to był [trzciniak][wiki-trzciniak].
-
-[wiki-trzciniak]: https://pl.wikipedia.org/wiki/Trzciniak_zwyczajny
 
 {% photo "2020_05_02__15_04__5028304.jpg","Tunel drzewny niedaleko Krześlic","timeline" %}
 
@@ -82,8 +94,8 @@ tą wsią aby zrobić trochę zdjęć kwitnącego rzepaku.
 Chciałem ponownie dojechać w okolice [Turostowa][wiki-turostowo],
 gdzie byłem ponad
 [miesiąc temu]({% post_url 2020-03-21-pagorki-w-okolicy-puszczy-zielonki %})
-i byłem zaskoczony pagórkami. Dlatego ponownie chciałem zwiedzić te tereny
-jednak będę musiał to zrobić na pewno jeszcze raz - na rowerze.
+i byłem zaskoczony pagórkami. Z tego powodu chcę ponownie zwiedzić te tereny
+jednak będę musiał to zrobić na rowerze.
 
 {% photo "2020_05_02__15_30_DSC07916.jpg","Mlecze na polanie" %}
 
@@ -93,7 +105,7 @@ Zatrzymaliśmy się na polanie niedaleko wsi [Bednary][wiki-bednary].
 
 Próbowałem robić zdjęcia mleczom chociaż jestem średnio zadowolony z nich.
 Szukałem jakiś robaków do zdjęć makro ale widać, że przyroda dopiero się
-budzi. Pewnie w lecie będzie ich więcej.
+budzi do życia. Pewnie w lecie będzie ich więcej.
 
 {% photo "2020_05_02__15_46__5028405.jpg","Mały robal na mleczu" %}
 
@@ -109,7 +121,7 @@ na robienie zdjęć. Przyznam, że niewiele zapamiętałem z tej okolicy.
 {% photo "2020_05_02__16_49__5028611.jpg","Żółte pola","timeline" %}
 
 Widziałem przystanek autobusowy w okolicy [Stęszewic][wiki-steszewice] jednak
-nie zatrzymałem się aby zobaczyć jaki autobus tutaj jeździ.
+nie zatrzymałem się aby zobaczyć czy jakiś autobus tutaj się zatrzymuje.
 
 {% photo "2020_05_02__16_55__5028618.jpg","Wieś Pomarzanowice wiosną" %}
 
@@ -120,16 +132,17 @@ rzepaku. Zatrzymaliśmy się tam na chwilę.
 
 {% photo "2020_05_02__17_06__5028677.jpg","Ślimak" %}
 
-Patrząc na zachód widziałem bardzo solidną chmurę, która stałą się głównym
+Patrząc na zachód widziałem bardzo solidną chmurę, która stała się głównym
 obiektem do zdjęć. Idealnie ona kontrastowała z żółtymi polami rzepaku.
 
 {% photo "2020_05_02__17_37_DSC07987.jpg","Rzepak i ciemna chmura" %}
 
-Zrobiłem więcej zdjęć rzepaku i ciemnej chmury jednak nie chce wrzucać więcej podobnych.
+Zrobiłem więcej zdjęć rzepaku i "ciemnej chmury" jednak nie chce wrzucać tutaj
+więcej podobnych zdjęć.
 
 {% photo "2020_05_02__17_23__5028747.jpg","Trzmiel pracujący" %}
 
 Robiło się ciemniej i chłodniej. Wróciliśmy do samochodu i już wracaliśmy do
 [Poznania][wiki-poznan].
 
-{% photo "2020_05_02__17_42__5028840.jpg","Blog w Pomarzanowicach" %}
+{% photo "2020_05_02__17_42__5028840.jpg","Blok w Pomarzanowicach" %}
