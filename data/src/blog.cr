@@ -183,6 +183,10 @@ class Tremolite::Blog
       post_collection.posts.each do |post|
         data_manager.exif_db.initialize_post_photos_exif(post)
       end
+
+      # lens galleries require exif data to be loaded
+      renderer.render_lens_galleries
+
       # recalculate towns photo for closest photo
       data_manager.town_photo_cache.not_nil!.refresh
 

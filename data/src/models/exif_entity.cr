@@ -92,13 +92,15 @@ struct ExifEntity
 
   # safest way to process weird lens/camera names
 
-  NAMES = {
+  CAMERA_NAMES = {
     "ILCE-7M3" => "Sony A7III",
     "ILCE-7R" => "Sony A7R",
     "E-M1MarkII" => "Olympus M1m2",
     "E-M10MarkII" => "Olympus M10m2",
     "Hero3-Black Edition" => "Gopro 3 Black",
+  }
 
+  LENS_NAMES = {
     "FE 85mm F1.8" => "Sony 85 f1.8",
     "E 28-75mm F2.8-2.8" => "Tamron 28-75mm f2.8",
     "100-400mm F5-6.3 DG DN OS | Contemporary 020" => "Sigma 100-400mm f5-6.3",
@@ -127,8 +129,10 @@ struct ExifEntity
     "OLYMPUS M.75mm F1.8" => "Olympus 75mm f1.8",
     "LEICA DG 8-18/F2.8-4.0" => "Lumix 8-18mm",
     "OLYMPUS M.8mm F1.8" => "Olympus 8mm f1.8",
-
+    "105mm F1.4 DG HSM | Art 018" => "Sigma 105mm f1.4"
   }
+
+  NAMES = CAMERA_NAMES.merge(LENS_NAMES)
 
   def camera_name
     if @camera_name.nil?
