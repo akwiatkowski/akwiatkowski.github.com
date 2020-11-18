@@ -37,4 +37,5 @@ pois:
 47km, 325m, 4h
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3607353238/embed/b140f936f3a1026a805155035a0ce0dc65b16b15'></iframe>
+
 ## Szczegóły

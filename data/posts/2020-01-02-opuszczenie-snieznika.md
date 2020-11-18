@@ -1,8 +1,8 @@
 ---
 layout:                 post
 title:                  "Opuszczenie Śnieżnika"
-subtitle:               ""
-desc:                   ""
+subtitle:               "czyli kiedy w górach nie będzie już zimy"
+desc:                   "Opuszczenie po-sylwestrowe Masywu Śnieżnika. Pierwszy raz byłem w górach"
 keywords:               []
 date:                   2020-01-02 11:00:00
 #finished_at:            2100-02-09 12:00:00
