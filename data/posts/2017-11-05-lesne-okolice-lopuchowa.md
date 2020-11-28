@@ -60,7 +60,7 @@ chwilę po godzinie 12-tej.
 Tuż przy stacji jest osiedle domów jednorodzinnych w budowie. Zaletą tego miejsca
 jest bliskość wspomnianej stacji oraz Jezioro Gackie.
 
-{% photo "IMGP2758raw1.jpg","Ogrodzona posesja","timeline" %}
+{% photo "IMGP2758raw1.jpg","Ogrodzona posesja","tag:timeline" %}
 
 Poszliśmy na południowy-wschód około kilometr. Na skrzyżowaniu skręciliśmy
 w lewo i doszliśmy do pierwszego ciekawego miejsca -
@@ -79,13 +79,13 @@ jej zdjęcie ona zdażyła już na nie wejść. W tym momencie żałowałem, że
 wziąłem mojej Sigmy 150-500, gdyż mógłbym zrobić bardzo ciekawe zdjęcia
 wiewiórce.
 
-{% photo "IMGP2799raw1.jpg","Wiewiórka w Sławicy","timeline" %}
+{% photo "IMGP2799raw1.jpg","Wiewiórka w Sławicy","tag:timeline" %}
 
 Szliśmy ulicą Gacką na północny-wschód i ostatecznie dotarliśmy nad
 jezioro. Widzieliśmy kilku wędkarzy łowiących
 ze swoich łódek.
 
-{% photo "IMGP2822raw1.jpg","Jezioro Gackie","timeline" %}
+{% photo "IMGP2822raw1.jpg","Jezioro Gackie","tag:timeline" %}
 
 Wróciliśmy ponownie do centrum [Sławicy][wiki-slawica]. Idąc ulicą
 Dzwonowską dotarliśmy do Jeziora Borowego. Podczas opuszczania

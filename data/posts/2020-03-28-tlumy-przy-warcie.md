@@ -68,13 +68,13 @@ jak inne opcje do spędzania czasu.
 Wybrałem dojazd do [Czmońca][wiki-czmoniec] gdyż w okolicy widziałem wieżę
 widokową oraz dogodne dojście do rzeki [Warty][wiki-warta].
 
-{% photo "2020_03_28__14_38_DSC07345.jpg","Podłużny wijący zbiornik wodny","timeline" %}
+{% photo "2020_03_28__14_38_DSC07345.jpg","Podłużny wijący zbiornik wodny","tag:timeline" %}
 
 Ruszyliśmy ulicą Malwową. Dotarliśmy do lasu i idąc przez las dotarliśmy
 w okolice mokradeł. Tam zrobiliśmy krotką przerwę czekając,
 aż pojawi się jakiś ptak.
 
-{% photo "2020_03_28__14_55_DSC07380.jpg","Zwykła droga","timeline" %}
+{% photo "2020_03_28__14_55_DSC07380.jpg","Zwykła droga","tag:timeline" %}
 
 Może się wydawać, że w tym roku wiosna powinna przyjść wcześniej, jednak
 większość trzcin i roślin przy wodzie była jeszcze zasuszona.
@@ -83,7 +83,7 @@ Ruszyliśmy dalej. Dotarliśmy na polanę i tam zobaczyłem, że ludzi jest niem
 Niektórzy podjechali samochodami prawie pod samą [Wartę][wiki-warta].
 Ktoś inny wystawił krzesła i sobie siedział przed polanami.
 
-{% photo "2020_03_28__15_53__3287242.jpg","Jeden ze stawów, jeszcze przed wiosną","timeline" %}
+{% photo "2020_03_28__15_53__3287242.jpg","Jeden ze stawów, jeszcze przed wiosną","tag:timeline" %}
 
 Dotarliśmy do wieży widokowej a później do rzeki [Warty][wiki-warta].
 

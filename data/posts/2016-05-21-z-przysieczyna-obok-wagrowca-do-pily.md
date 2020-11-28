@@ -119,7 +119,7 @@ uwagi temu miast. Jechałem na północ drogą przecinającą
 [Noteć][wiki-notec]. Zaciekawił mnie samotny dom położony w pobliżu mostu nad
 rzeką. Sam most i widok z niego był również bardzo ciekawy.
 
-{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży","timeline" %}
+{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży","tag:timeline" %}
 
 Na wysokości wsi [Krzewiny][wiki-krzewina] zaciekawiła mnie ścieżka polna
 w kierunku wschodnim, gdyż pole było wybitnie pofalowane. Zastanawiałem się

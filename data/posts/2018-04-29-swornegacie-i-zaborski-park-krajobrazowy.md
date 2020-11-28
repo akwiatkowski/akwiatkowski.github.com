@@ -99,7 +99,7 @@ Podobały mi się domy podczas opuszczania tej miejscowości. Wygląda na to, ż
 większość nowych budynków jest we wschodniej części. Jechaliśmy czarnym szlakiem rowerowym
 w stronę [Wielkich Chełmów][wiki-wielkie-chelmy].
 
-{% photo "IMGP8039raw1.jpg","Przed Kosobudami","timeline" %}
+{% photo "IMGP8039raw1.jpg","Przed Kosobudami","tag:timeline" %}
 
 Mijaliśmy już sporo nowych budynków będących chyba również gospodarstwami
 rolnymi. Odjeżdzając dalej od [Brus][wiki-brusy] pojawiało się więcej

@@ -55,20 +55,20 @@ Prognozowane były huraganowe wiatry dla zachodniej Polski. Łącząc to z opada
 nadzieję na to, że sama [Jelenia Góra][wiki-jelenia-gora] będzie na
 chwilę "biała".
 
-{% photo "IMGP4897raw1.jpg","Okolice Witkowa - ogrodzenie","timeline" %}
+{% photo "IMGP4897raw1.jpg","Okolice Witkowa - ogrodzenie","tag:timeline" %}
 
 Dojeżdzając pociągiem w okolicach [Wałbrzycha][wiki-walbrzych] wokół
 mnie szalała zamieć. Wszystkie drogi były zaśnieżone. Był to dla mnie
 bardzo dobry znak.
 
-{% photo "IMGP4943raw1.jpg","Sarny na polach niedaleko Witkowa","timeline" %}
+{% photo "IMGP4943raw1.jpg","Sarny na polach niedaleko Witkowa","tag:timeline" %}
 
 Gdy dotarłem do bazy w [Jeleniej Górze][wiki-jelenia-gora], rozpakowałem się,
 sytuacja zmieniała się diametralnie. Silny wiatr który przynosił śnieg
 jeszcze szybciej go zabierał. Wystarczyło 30 minut aby miasto stało
 się ponownie szare.
 
-{% photo "IMGP4939raw1.jpg","Pofalowana perspektywa","timeline" %}
+{% photo "IMGP4939raw1.jpg","Pofalowana perspektywa","tag:timeline" %}
 
 Analizując teraz mapę widzę, że centrum [Jeleniej Góry][wiki-jelenia-gora]
 jest na wysokości około 350m (n.p.m.). Nie jest to liczba imponującą.
@@ -86,7 +86,7 @@ na zdjęcia.
 Za drugim razem udałem się tam na wschód słońca. Niestety ułożenie chmur
 zakryło promienie słoneczne.
 
-{% photo "IMGP4988raw1.jpg","Białe pola niedaleko Witkowa","timeline" %}
+{% photo "IMGP4988raw1.jpg","Białe pola niedaleko Witkowa","tag:timeline" %}
 
 Bardzo byłem niezadowolony z tego wyjazdu. Mogłem ruszyć do
 [Trójmiasta][wiki-trojmiasto], gdzie niezależnie od pogody,

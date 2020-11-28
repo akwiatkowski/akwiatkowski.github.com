@@ -130,7 +130,7 @@ przy wyjeżdzie były bloki, tym razem trzy. Tym razem wyjechaliśmy na zachód
 w kierunku [Będargowa][wiki-bedargowo]. Rozpoczęły się charakterystyczne dla tych
 regionów częste małe podjazdy i zjazdy.
 
-{% photo "IMGP2004raw1.jpg","Granica województwa lubuskiego z zachodniopomorskim","timeline" %}
+{% photo "IMGP2004raw1.jpg","Granica województwa lubuskiego z zachodniopomorskim","tag:timeline" %}
 
 Po chwili znowu pola i kolejna wioska - [Trzęsacz][wiki-trzesacz]. A po nim
 jeszcze trochę do [Pełczyc][wiki-pelczyce].
@@ -143,7 +143,7 @@ widać, że kiedyś było tutaj połączenie kolejowe. Gdyby ono istniało dalej
 bym miał znacznie łatwiejszy dojazd do bardzo ciekawych terenów, które są
 w okolicy.
 
-{% photo "IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne","timeline" %}
+{% photo "IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne","tag:timeline" %}
 
 Wyjeżdzając z [Pełczyc][wiki-pelczyce] na zachód dojechaliśmy do rozdroża.
 Na prawo przez [Jagów][wiki-jagow], a na lewo [Chrapowo][wiki-chrapowo].
@@ -158,7 +158,7 @@ aby zrobić zdjęcie, jednak sam zjazd mnie przekonał, abym tego nie robił.
 Tutaj były najciekawsze tereny podczas tego wyjazdu, zdecydowanie tu kiedyś
 powrócę.
 
-{% photo "IMGP2066raw2.jpg","Idealna droga na rower","timeline" %}
+{% photo "IMGP2066raw2.jpg","Idealna droga na rower","tag:timeline" %}
 
 Czekał na nas teraz dojazd do [Laskówka][wiki-laskowko]. Sama droga aż do
 [Wołdowa][wiki-woldowo] była bardzo ładna. W okolicy płynie rzeka
@@ -187,7 +187,7 @@ gdyż mieliśmy jeszcze siły.
 w [Dolicach][wiki-dolice] skręciliśmy na zachód i cały czas jechaliśmy tą
 samą drogą.
 
-{% photo "IMGP2181raw1.jpg","Droga do Witkowa Pierwszego","timeline" %}
+{% photo "IMGP2181raw1.jpg","Droga do Witkowa Pierwszego","tag:timeline" %}
 
 
 Powoli okolica stawała się bardziej podmiejska. Co się najbardziej rzuciło to

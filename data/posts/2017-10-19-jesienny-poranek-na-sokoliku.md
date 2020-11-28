@@ -127,4 +127,4 @@ miejsc. Pomysły na ciekawe zdjęcia zaczęły się kończyć
 O 8:30 ruszyłem na powrotny pociąg aby zdążyć na śniadanie. Widziałem
 poranne mgły gdy przechodziłem przez las w okolicy [Sokolika][wiki-sokolik].
 
-{% photo "IMGP1711raw1.jpg","Schodząc niebieskim szlakiem","timeline" %}
+{% photo "IMGP1711raw1.jpg","Schodząc niebieskim szlakiem","tag:timeline" %}

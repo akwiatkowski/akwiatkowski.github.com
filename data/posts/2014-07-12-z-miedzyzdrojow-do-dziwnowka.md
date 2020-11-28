@@ -40,12 +40,12 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP7842raw1.jpg","Noteć przy Drawskim Młynie","timeline" %}
+{% photo "IMGP7842raw1.jpg","Noteć przy Drawskim Młynie","tag:timeline" %}
 
 Jechaliśmy pociągiem do [Międzyzdroi][wiki-miedzyzdroje] około 6 rano, a na miejscu wysiedliśmy
 (po przepakowaniu się) około 12-tej. Touring na 100% - razem z namiotami. Tylko kuchenki by brakowało.
 
-{% photo "IMGP7879raw1.jpg","Okolica stacji Słonice","timeline" %}
+{% photo "IMGP7879raw1.jpg","Okolica stacji Słonice","tag:timeline,tag:good,tag:best" %}
 
 Pojechaliśmy do centrum coś zjeść, a następnie na wschód. Lizneliśmy
 [Wolimski Park Narodowy][wiki-park-wolimski]. Przyznam, że szlak ten mnie nie zachwycił.
@@ -66,4 +66,4 @@ Nocleg mieliśmy na polu namiotowym w [Dziwnówki][wiki-dziwnowek]. Nie było ta
 ale mieli bardzo dobre łazienki. Podobało mi się gdy w nocy wiał silny wiatr, który
 wszystko zagłuszał. Reszta wniosków będzie opisana ostatniego dnia.
 
-{% photo "IMGP7970raw1.jpg","Okolice Międzywodzia" %}
+{% photo "IMGP7970raw1.jpg","Okolice Międzywodzia","tag:good" %}

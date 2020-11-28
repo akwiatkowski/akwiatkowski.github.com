@@ -115,7 +115,7 @@ większymi opadami deszczu na północy Polski, które ostatnimi czasy wystąpi�
 Podczas jazdy mój rower skrzypiał. Michał zaczął mnie straszyć, że mogła mi rama
 pęknąć. Dokańczając ten wpis napiszę, że problemem był luz w haku przerzutki.
 
-{% photo "2019_07_13__11_02_P7130040.jpg","Kot przy rzece Parsęta","tag:cat" %}
+{% photo "2019_07_13__11_02_P7130040.jpg","Kot przy rzece Parsęta","tag:cat,tag:cat" %}
 
 Jechaliśmy do centrum wsi [Wielanowo][wiki-wielanowo]. Okolica mi się bardzo
 podobała. Byliśmy już odpowiednio odizolowani od cywilizacji.
@@ -127,7 +127,7 @@ zaciekawił mnie teren dalszy. Są tam jakieś mokradła w okolicy rzeki Brzeźn
 Jedno z wielu ciekawych miejsc, których w tym województwie jest pełno,
 a które niestety nie zobaczę podczas tej wycieczki.
 
-{% photo "2019_07_13__11_12_P7130057.jpg","Wjazd do wsi Białowąs","timeline" %}
+{% photo "2019_07_13__11_12_P7130057.jpg","Wjazd do wsi Białowąs","tag:timeline,tag:good" %}
 
 Kierowaliśmy się do wsi [Białowąs][wiki-bialowas]. Na horyzoncie widziałem
 podwyższenie terenu z lasami.
@@ -138,11 +138,11 @@ Opuszczając na południe zauważyłem kota przed mostem nad [Parsętą][wiki-pa
 Zatrzymałem się dość szybko. Musiałem mu zrobić zdjęcia jak i samej
 [rzece][wiki-parseta-rzeka].
 
-{% photo "2019_07_13__11_28_P7130075.jpg","Okolica Sulikowa","timeline" %}
+{% photo "2019_07_13__11_28_P7130075.jpg","Okolica Sulikowa","tag:timeline" %}
 
 Ciekawie wyglądały bloki podczas wjazdu do [Białowąsu][wiki-bialowas].
 
-{% photo "2019_07_13__11_29_P7130079.jpg","Okolica Sulikowa","timeline" %}
+{% photo "2019_07_13__11_29_P7130079.jpg","Okolica Sulikowa","tag:timeline" %}
 
 Skręciliśmy w stronę [Sulikowa][wiki-sulikowo] jadąc dość wąską drogą asfaltową.
 Było tam kilka ciekawych starych domów.
@@ -154,7 +154,7 @@ Mi osobiście bardziej ciekawiła trasa przez [Ostrowąsy][wiki-ostrowasy] gdyż
 mógł być tam mocny zjazd w okolicy rzeki. Wybraliśmy łatwiejszą trasę z
 lepszymi widokami.
 
-{% photo "2019_07_13__11_33_P7130086.jpg","Wieś Sulikowo" %}
+{% photo "2019_07_13__11_33_P7130086.jpg","Wieś Sulikowo","tag:good" %}
 
 Musieliśmy podjechać około 50m. Chociaż lepszy widok mieliśmy za sobą niż
 przed siebie.
@@ -162,23 +162,23 @@ przed siebie.
 Zjeżdżając do [Barwic][wiki-barwice] widzieliśmy szeroki pola już trochę
 wyschniętego zboża.
 
-{% photo "2019_07_13__11_38_P7130102.jpg","Droga z Sulikowa do Barwic","timeline" %}
+{% photo "2019_07_13__11_38_P7130102.jpg","Droga z Sulikowa do Barwic","tag:timeline" %}
 
 Była tam kiedyś [linia kolejowa 410][wiki-linina-410], która jest trudna
 ekonomicznie ale na pewno była bardzo ładna widokowo i sporo by pomagała
 w moich wycieczkach.
 
-{% photo "2019_07_13__11_42_P7130107.jpg","Widok w stronę Grzmiącej","timeline" %}
+{% photo "2019_07_13__11_42_P7130107.jpg","Widok w stronę Grzmiącej","tag:timeline,tag:good" %}
 
 Dotarliśmy na rynek. Samo [miasteczko Barwice][wiki-barwice] podobało mi się
 ściśle do siebie wybudowanymi domami wzdłuż drogi.
 
-{% photo "2019_07_13__11_47_P7130124.jpg","Droga przez pola" %}
+{% photo "2019_07_13__11_47_P7130124.jpg","Droga przez pola","tag:good" %}
 
 Jechaliśmy teraz do [Kluczewa][wiki-kluczewo], do którego mieliśmy około 16km.
 Wkraczaliśmy w kolejny "dziki" obszar.
 
-{% photo "2019_07_13__12_14_P7130139.jpg","Rynek w Barwicach" %}
+{% photo "2019_07_13__12_14_P7130139.jpg","Rynek w Barwicach","tag:good" %}
 
 Jechaliśmy zgodnie ze szlakiem rowerowym przez [Przybkowo][wiki-przybkowo].
 Czułem, że w tej wsi mentalna odległość od większych miast już jest na odpowiednim
@@ -191,7 +191,7 @@ Przy skrzyżowaniu do [Luboradzy][wiki-luboradza] zauważyłem ciekawe
 ukształtowanie terenu. Patrząc na mapę jest tam dość mocne połączenie
 rzeki, jeziora i pagórków.
 
-{% photo "2019_07_13__12_25_P7130153.jpg","Dojeżdżając do Przybkowa","timeline" %}
+{% photo "2019_07_13__12_25_P7130153.jpg","Dojeżdżając do Przybkowa","tag:timeline" %}
 
 Jechaliśmy wijącą się drogą przez las. Podczas zjazdu i zakrętów przy tej
 prędkości musiałem bardziej uważać. Po prawej stronie widzieliśmy wyraźny spadek
@@ -230,18 +230,18 @@ Gdy Michał zobaczył jak nam trudno było wjechać na tą drogę oraz
 gdy przejechaliśmy ją kilkaset metrów, to już wiedział, że nie warto jechać
 ją dalej niż to jest konieczne.
 
-{% photo "2019_07_13__13_38_P7130252.jpg","Droga Stare Gonno - Kluczewo","timeline" %}
+{% photo "2019_07_13__13_38_P7130252.jpg","Droga Stare Gonno - Kluczewo","tag:timeline" %}
 
 W [Kluczewie][wiki-kluczewo] zrobiliśmy przerwę obok kościoła na jedzenie.
 Po chwili pojawił się kot. Dałem mu trochę kiełbasy.
 
-{% photo "2019_07_13__14_03_P7130284.jpg","Kot w Kluczewie","timeline" %}
+{% photo "2019_07_13__14_03_P7130284.jpg","Kot w Kluczewie (1)","tag:timeline,tag:good" %}
 
 Od tego miejsca jechałem już po znanych terenach. Wiedziałem, że na północ od
 Zatoki Kluczewskiej (które należy do [Jeziora Drawsko][wiki-jezioro-drawsko])
 będzie solidny zjazd i podjazd otoczony dużą ilością zieleni.
 
-{% photo "2019_07_13__14_03_P7130301.jpg","Kot w Kluczewie","timeline" %}
+{% photo "2019_07_13__14_03_P7130301.jpg","Kot w Kluczewie (2)","tag:timeline" %}
 
 Byłem zaskoczony ilością świerszczy. Droga była ich pełna.
 
@@ -252,13 +252,13 @@ mi pagórki. Pamiętam jak [dwa late temu]({% post_url 2017-08-14-z-pily-do-zloc
 chciałem wyznaczyć ciekawą trasę lecz ostatecznie mijany teren tego dnia
 nie był tak urozmaicony, jak urozmaicony był właśnie tego dnia.
 
-{% photo "2019_07_13__14_31_P7130339.jpg","Droga do Nowego Worowa","timeline" %}
+{% photo "2019_07_13__14_31_P7130339.jpg","Droga do Nowego Worowa","tag:timeline" %}
 
 Przed samym [Nowym Worowem][wiki-nowe-worowo] mieliśmy długi spokojny zjazd.
 Przy wyjeździe z tej miejscowości miałem wrażenie, że domy są bardziej
 chaotycznie (czyli ciekawiej) położone.
 
-{% photo "2019_07_13__14_50_P7130379.jpg","Krowy w okolicy Nowego Worowa","timeline" %}
+{% photo "2019_07_13__14_50_P7130379.jpg","Krowy w okolicy Nowego Worowa","tag:timeline" %}
 
 Jechaliśmy na zachód w stronę [Gawrońca][wiki-gawroniec] drogą, którą można
 określić jako "klasyczna droga [Drawskiego Parku Krajobrazowego][wiki-drawski-park]".
@@ -268,13 +268,13 @@ określić jako "klasyczna droga [Drawskiego Parku Krajobrazowego][wiki-drawski-
 Dotarliśmy do drogi 173. Ruch był minimalny ale zawsze wolę jeździć bocznymi drogami.
 Krajobraz stał się wyraźnie mniej ciekawy w tym momencie.
 
-{% photo "2019_07_13__15_53_P7130395.jpg","Drawskie pagórki","timeline" %}
+{% photo "2019_07_13__15_53_P7130395.jpg","Drawskie pagórki","tag:timeline,tag:good" %}
 
 Były miejsca ciekawego pofalowania terenu ale gładki i całkiem prosty asfalt jest
 dla mnie nudny. Gdybym jechał w wyścigu szosowym to może byłbym zadowolony
 z tej drogi ale tak to miałem nijakie odczucia.
 
-{% photo "2019_07_13__16_25_P7130410.jpg","Skrót do wsi Przytoń","timeline" %}
+{% photo "2019_07_13__16_25_P7130410.jpg","Skrót do wsi Przytoń","tag:timeline" %}
 
 Przekonałem Michała aby skręcić w drogę gruntową i skrótem dojechać
 do miejscowości [Przytoń][wiki-przyton].
@@ -289,7 +289,7 @@ omijało dużo ciekawszych miejsc.
 Tereny dokładnie w połowie [Świdwina][wiki-swidwin] a [Ostrowicami][wiki-ostrowice]
 dopiero powinny gwarantować odpowiedni klimat.
 
-{% photo "2019_07_13__17_36_P7130509.jpg","Pole w okolicy Rożnowa Łobeskiego","timeline" %}
+{% photo "2019_07_13__17_36_P7130509.jpg","Pole w okolicy Rożnowa Łobeskiego","tag:timeline" %}
 
 Jest tam w okolicy zielony szlak rowerowy oraz dużo jezior.
 Same jeziora niestety były dość zarośnięte, jednak inny teren był mi potrzebny.

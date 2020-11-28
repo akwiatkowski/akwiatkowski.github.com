@@ -4,7 +4,6 @@ title:                  "Zejście z Przehyby do Starego Sącza"
 subtitle:               "mała ścieżka, gęsty las i najlepsze widoki są w dolinie"
 date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/115266201/m%3D2048/4353b56cc0fe5416ed412cf530fcfcfa"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
@@ -37,7 +36,7 @@ Szczegóły
 
 Pogoda była podobnie niemrawa jak dzień wcześniej. Dyskutować można, który dzień był gorszy.
 
-{% photo "IMGP1673raw1.jpg","Szlak wokół trawy" %}
+{% photo "IMGP1673raw1.jpg","Szlak wokół trawy","tag:good" %}
 
 Na początku cofneliśmy się trochę czerwonym szlakiem, do miejsca gdzie zaczynał się żółty, którym szliśmy dalej. Cały czas do
 [Starego Sącza][wiki-stary-sacz] szliśmy żółtym.
@@ -45,7 +44,7 @@ Szlak ten można podzielić na dwie częśći: las i wioski. W lesie to cały cz
 poprowadzoną zboczami. "Fajnie" musi się tam chodzić w zimie. Przez wioski to, według mnie, najciekawsza
 część trasy. Znacznie ciekawsze widoki.
 
-{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","timeline" %}
+{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","tag:timeline" %}
 
 Gdy wyszliśmy z lasu trasa się mocno wypłaszczyła. Jak mam szukać dziur w całym, to powiedziałbym,
 że za bardzo. Zdziwiłem się widząc pierwszy dom tak blisko "lasu", na takim odludziu.

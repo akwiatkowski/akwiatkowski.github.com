@@ -90,7 +90,7 @@ Do prawdziwego początku wiosny została jeszcze chwila ale
 widziałem drzewa, gdzie pąki zamieniły się już na zamknięte kwiaty.
 Może już za kilka dni się one otworzą.
 
-{% photo "2019_03_30__15_22__3300275.jpg","Przed rozkwitem","timeline" %}
+{% photo "2019_03_30__15_22__3300275.jpg","Przed rozkwitem","tag:timeline" %}
 
 Przechodziłem właśnie przez przemysłową część [Opalenicy][wiki-opalenica],
 gdzie umieszczona jest cukrownia. Na północ od niej są zbiorniki wodne,
@@ -121,12 +121,12 @@ Zbliżając się do [Mogilnicy][wiki-mogilnica-rzeka] czułem nieprzyjemny zapac
 Wydaje mi się, że to nie powinny być odpady z cukrowni ale innego wytłumaczenia
 nie mam.
 
-{% photo "2019_03_30__15_58__3300356.jpg","Mogilnica w stronę Opalenicy","timeline" %}
+{% photo "2019_03_30__15_58__3300356.jpg","Mogilnica w stronę Opalenicy","tag:timeline" %}
 
 Dopiero teraz, idąc na północ, czułem że opuszczam tereny miejskie. Powinienem się
 z tego cieszyć jednak nic ciekawego nie mijałem po drodze.
 
-{% photo "2019_03_30__16_00__3300364.jpg","Szlak rowerowy w stronę wsi Rudniki","timeline" %}
+{% photo "2019_03_30__16_00__3300364.jpg","Szlak rowerowy w stronę wsi Rudniki","tag:timeline" %}
 
 Jako szlak rowerowy jest to bardzo fajne miejsce. Można sobie spokojnie jechać
 po drodze o dobrej jakości, jednak jeżeli ktoś idzie pieszo, to absolutnie nie
@@ -140,7 +140,7 @@ Dotarłem do skrzyżowania obok wsi [Rudniki][wiki-rudniki]. Tam musiałem
 zdecydować, czy iść ponad 3km do [Niegolewa][wiki-niegolewo], czy skrócić trasę
 i iść na wschód do wsi [Łagwy][wiki-lagwy].
 
-{% photo "2019_03_30__16_46__3300405.jpg","Rzeka Mogilnica, Olympus 8mm","timeline" %}
+{% photo "2019_03_30__16_46__3300405.jpg","Rzeka Mogilnica, Olympus 8mm","tag:timeline" %}
 
 Zaciekawiło mnie [Niegolewo][wiki-niegolewo]. Jest tam park i pałac. Chciałem
 zobaczyć tą miejscowość, jednak wiedziałem, że nie mam za dużo czasu tego dnia.
@@ -151,14 +151,14 @@ Zachowawcza decyzja była dobrym wyborem. Obawiałem się również, że niewiel
 ciekawego bym zobaczył, a to by mnie kosztowało znacznie późniejszym
 powrotem. To jeszcze nie jest odpowiednia pora roku na takie szaleństwa.
 
-{% photo "2019_03_30__16_56__3300430.jpg","Kotka na drzewie","timeline" %}
+{% photo "2019_03_30__16_56__3300430.jpg","Kotka na drzewie","tag:timeline" %}
 
 Dotarłem do skraju lasu. Jakakolwiek zmiana terenu była dla mnie pozytywna.
 
 Poruszałem się drogą do wsi [Łagwy][wiki-lagwy], do której miałem teraz 2km
 odległości.
 
-{% photo "2019_03_30__16_59__3300450.jpg","Żółte kotki","timeline" %}
+{% photo "2019_03_30__16_59__3300450.jpg","Żółte kotki","tag:timeline" %}
 
 Co jakiś czas próbowałem robić zdjęcia makro. Koncentrowałem się na
 "baziach" ([kotkach][wiki-kotka])

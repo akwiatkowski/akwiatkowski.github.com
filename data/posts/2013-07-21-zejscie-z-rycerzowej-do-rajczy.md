@@ -38,21 +38,21 @@ Szczegóły
 Po wyjściu ze schroniska było wiadomo, że ten dzień będzie gorący. Ruszyliśmy w kierunku [Rajczy][wiki-rajcza]
 przez [Małą Rycerzową][wiki-mala-rycerzowa]. Po drodzę spotkaliśmy lokalne stado owiec.
 
-{% photo "IMGP6572raw_b.jpg","Owce w okolicy Rycerzowej","timeline" %}
+{% photo "IMGP6572raw_b.jpg","Owce w okolicy Rycerzowej","tag:timeline" %}
 
 Nie trudno było zrobić zdjęcie, na którym nie byłoby ani jednej chmury. Sporo szlaku, z tego co pamiętam,
 prowadziło nas otwartymi terenami.
 
-{% photo "IMGP6573raw_b.jpg","Słońce nad górami" %}
+{% photo "IMGP6573raw_b.jpg","Słońce nad górami","tag:good" %}
 
 Bardzo podobały mi się wioski, które mijaliśmy po drodzę. Zwłaszcza [Młada Hora][wiki-mlada-hora]
 ulokowana totalnie "w górach". Z tego co widziałem na mapie, to prowadzi do niej droga
 położona równolegle do szlaku, którym szliśmy dalej.
 
-{% photo "IMGP6592raw_b.jpg","Młada Hora","timeline" %}
+{% photo "IMGP6592raw_b.jpg","Młada Hora","tag:timeline" %}
 
 Po pewnym czasie szlak się zagęścił i zaczęło się trochę ostrzejsze zejście.
 
 Przerwa na jedzenie w [Rajczy][wiki-rajcza], a następnie kierowaliśmy się na dworzec kolejowy.
 
-{% photo "IMGP6631raw_b.jpg","Podczas schodzenia do Rajczy","timeline" %}
+{% photo "IMGP6631raw_b.jpg","Podczas schodzenia do Rajczy","tag:timeline" %}

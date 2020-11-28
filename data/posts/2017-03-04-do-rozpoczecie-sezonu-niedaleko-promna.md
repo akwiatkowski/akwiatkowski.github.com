@@ -82,7 +82,7 @@ przyjemnie terenowa.
 Z [Gruszczyna][wiki-gruszczyn] jechaliśmy cały czas na wschód do [Uzarzewa][wiki-uzarzewo].
 Podobał mi się zjazd w [Katarzynkach][wiki-katarzynki].
 
-{% photo "IMGP3071raw1.jpg","Droga do Promienka","timeline" %}
+{% photo "IMGP3071raw1.jpg","Droga do Promienka","tag:timeline" %}
 
 Cały czas jechaliśmy prosto przez jeszcze łyse pola. Po prawej widzieliśmy obniżenie
 terenu - dolinę rzeki [Cybiny][wiki-cybina]. Teraz gdy to piszę przypomniało mi się,
@@ -105,7 +105,7 @@ i musiałem wracać. Odłączyłem się od Macieja i chciałem przez [Kaczynę][
 ścieżkami polnymi dostać się do stacji
 [Pobiedziska Letniska][wiki-pobiedziska-letniska].
 
-{% photo "IMGP3079raw1.jpg","Droga przez Kaczynę","timeline" %}
+{% photo "IMGP3079raw1.jpg","Droga przez Kaczynę","tag:timeline" %}
 
 Droga niestety tam była tylko na mapie. Musiałbym przejść przez teren prywatny.
 Szybka analiza na mapie i ruszyłem w stronę [Pobiedzisk][wiki-pobiedziska].

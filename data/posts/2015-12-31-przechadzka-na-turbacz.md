@@ -72,7 +72,7 @@ powrót do [bazy][wiki-maciejowa]. Tłumów dużych nie było, wydaję mi się, 
 Zastanawiam się, jak zimno było rowerzystom, którzy przyjechali na
 [Turbacz][wiki-turbacz] tego dnia.
 
-{% photo "IMGP7048raw1.jpg","Babia Góra","timeline" %}
+{% photo "IMGP7048raw1.jpg","Babia Góra","tag:timeline" %}
 <!--
 <div class='pixels-photo'>
   <p>

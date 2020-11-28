@@ -42,12 +42,12 @@ padał bardzo intensywnie.
 Ruszyliśmy samochodami. Zrobiłem kilka zdjęć po drodze gdyż krajobraz się
 zmienił diametralnie.
 
-{% photo "2019_01_02__10_57__1029600.jpg","Okolice Gorzanowa","timeline" %}
+{% photo "2019_01_02__10_57__1029600.jpg","Okolice Gorzanowa","tag:timeline" %}
 
 Śnieg padał bardzo mocno. Pola były już białe. Oczekiwana zima nadeszła.
 Ponownie nie wtedy, gdy najbardziej była oczekiwana.
 
-{% photo "2019_01_02__11_40__1029774.jpg","Kapliczka w okolicy Braszowic (Ząbkowice Śląskie)","timeline" %}
+{% photo "2019_01_02__11_40__1029774.jpg","Kapliczka w okolicy Braszowic (Ząbkowice Śląskie)","tag:timeline" %}
 
 Robiąc zdjęcia szukałem ciekawych obiektów. Samotna kapliczka na polu
 wyglądała ciekawie.
@@ -57,17 +57,17 @@ wyglądała ciekawie.
 Bardzo żałowałem, że nie mógłbym wtedy przejść się po klimatycznych uliczkach
 jakiegoś [dolnośląskiego][wiki-dolnoslaskie] miasteczka.
 
-{% photo "2019_01_02__12_14__1029829.jpg","Drzewo na północ od Ząbkowic Śląskich","timeline" %}
+{% photo "2019_01_02__12_14__1029829.jpg","Drzewo na północ od Ząbkowic Śląskich","tag:timeline" %}
 
 Okolice [Sulisławic][wiki-sulislawice] są położone poniżej drogi 8-ki,
 którą właśnie jechaliśmy.
 
-{% photo "2019_01_02__12_17__1029854.jpg","Okolice Sulisławic","timeline" %}
+{% photo "2019_01_02__12_17__1029854.jpg","Okolice Sulisławic","tag:timeline" %}
 
 Okolice [Niemczy][wiki-niemcza] również teraz były ciekawsze w
 porównaniu do tego, jak je widzieliśmy kilka dni wcześniej.
 
-{% photo "2019_01_02__12_22__1029891.jpg","Okolice Niemczy","timeline" %}
+{% photo "2019_01_02__12_22__1029891.jpg","Okolice Niemczy","tag:timeline" %}
 
 Warto zobaczyć jak wyglądają zimowe zdjęcia, gdy się je przekonwerteruje
 na tryb czarno-biały. Często stają się one wtedy jeszcze ciekawsze.

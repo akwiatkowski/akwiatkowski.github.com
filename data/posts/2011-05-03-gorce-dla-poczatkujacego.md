@@ -41,7 +41,7 @@ Bazę mieliśmy w dolinie, w wiosce [Porębie Wielkiej][wiki-poreba].
 Nie było żadnych planów tras, przez to jak udało nam się rozlokować i wyruszyć była już przynajmniej 16-ta. Udało nam się
 wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego, i musiałem robić zdjęcia.
 
-{% photo "IMGP6034b.jpg","Dom w Koninkach" %}
+{% photo "IMGP6034b.jpg","Dom w Koninkach","tag:good" %}
 
 Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10-tej. Po przejściu 20-30 minut zaczęło padać.
 Już wiem, że warto sprawdzać prognozę pogody wcześniej, oraz warto mieć trochę odpowiedniejsze ubranie.
@@ -52,15 +52,15 @@ Padało tak cały dzień, dopiero
 wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
 z której jest widok na całą dolinę.
 
-{% photo "IMGP6504b.jpg","Poręga Górna","timeline" %}
+{% photo "IMGP6504b.jpg","Poręba Górna","tag:timeline,tag:good" %}
 
 Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliśmy przed autobusem ponownie na tą polanę.
 Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.
 Dodatkową atrakcją były pasące się owce.
 
-{% photo "IMGP6536b.jpg","Owce pasące się nad Koninkami" %}
+{% photo "IMGP6536b.jpg","Owce wypasane nad Koninkami","tag:good" %}
 
 Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach. Było to
 trochę zaskakujące.
 
-{% photo "IMGP6579.JPG","Koziołek" %}
+{% photo "IMGP6579.JPG","Koziołek","tag:good" %}

@@ -72,12 +72,12 @@ stronę [Pajewa][wiki-pajewo].
 Nad drogą S8 jechaliśmy po chodniku, co nie było najlepszym rozwiązaniem.
 Musieliśmy zatrzymać się i znieść rowery gdyż chodnik miał swój koniec.
 
-{% photo "P8120022.jpg","Wieś Pajewo","timeline" %}
+{% photo "P8120022.jpg","Wieś Pajewo","tag:timeline" %}
 
 Gdy wyjechaliśmy z lasu mieliśmy dobry widok. Po chwili czekał na nas
 przyjemny zjazd, pomimo tego, że jechaliśmy po drodze gruntowej.
 
-{% photo "P8120030.jpg","Okolice Pajewa","timeline" %}
+{% photo "P8120030.jpg","Okolice Pajewa","tag:timeline" %}
 
 Gdy dotarliśmy do skrzyżowania obok [Kurowo-Kolonia][wiki-kurowo-kolonia]
 mogliśmy jechać po drodze asfaltowej. Zostały 2km jazdy do siedziby
@@ -100,7 +100,7 @@ Mocno to pokrzyżowało nasze plany, nie wiedzieliśmy co teraz powinniśmy zrob
 Postanowiliśmy spróbować dojechać z "innej strony" - przez [Rzędziany][wiki-rzedziany].
 Musieliśmy cofnąć się do [Pajewa][wiki-pajewo].
 
-{% photo "P8120100.jpg","Z pierwszej części mostu w stronę Kruszewa","timeline" %}
+{% photo "P8120100.jpg","Z pierwszej części mostu w stronę Kruszewa","tag:timeline" %}
 
 Będąc w pobliżu drogi do uszkodzonego mostu obok [Kruszewa][wiki-kruszewo]
 podjechaliśmy ją półtora kilometra. Zatrzymałem się na małym moście, obok którego było
@@ -108,12 +108,12 @@ kilku wędkarzy.
 
 Tego dnia pogoda była zdecydowanie chłodniejsza. Jechało się całkiem przyjemnie.
 
-{% photo "P8120109.jpg","Jadąc do Pajewa","timeline" %}
+{% photo "P8120109.jpg","Jadąc do Pajewa","tag:timeline" %}
 
 W [Pajewie][wiki-pajewo] skręciliśmy na wschód w stronę wsi [Radule][wiki-radule].
 Podobały mi się okoliczne pola.
 
-{% photo "P8120119.jpg","Widok na Radule","timeline" %}
+{% photo "P8120119.jpg","Widok na Radule","tag:timeline" %}
 
 Znalazłem restauracje przy parkingu na północ od wsi [Radule][wiki-radule].
 Podjechaliśmy tam aby zjeść obiad. Zrobiliśmy godzinną przerwę i ruszyliśmy dalej
@@ -135,12 +135,12 @@ Drugim przejazdem była śluza, za którą droga zamieniła się
 w ułożone obok siebie płyty betonowe. Jest to mniej nieprzyjemne niż
 bruk ale nadal jazda rowerem nie jest komfortowa.
 
-{% photo "P8120135.jpg","Droga z betonowych płyt","timeline" %}
+{% photo "P8120135.jpg","Droga z betonowych płyt","tag:timeline" %}
 
 Pomimo mniejszego komfortu jazdy okolica była znacznie ciekawsza. Wokół szlaku
 były gęste krzaki i drzewa, za którymi można było zobaczyć ogromne ilości trzciny.
 
-{% photo "P8120139.jpg","Droga z betonowych płyt","timeline" %}
+{% photo "P8120139.jpg","Droga z betonowych płyt","tag:timeline" %}
 
 Na drodze spotkaliśmy jaszczurkę.
 
@@ -166,20 +166,20 @@ na północ od wsi.
 Wracając jechaliśmy na północ w stroną wsi [Saniki][wiki-saniki].
 Słońce ciekawie układało się z chmurami dodając nasycenia barw.
 
-{% photo "P8120209.jpg","Okolice Tykocina","timeline" %}
+{% photo "P8120209.jpg","Okolice Tykocina","tag:timeline" %}
 
 W [Sanikach][wiki-saniki] był przyjemny lekki zjazd. Wydaje mi się, że
 widziałem trochę nowych domów, jednak pasowały one do okolicy. Było też trochę
 budynków rolniczych.
 
-{% photo "P8120217.jpg","Pola w okolicy Tykocina","timeline" %}
+{% photo "P8120217.jpg","Pola w okolicy Tykocina","tag:timeline" %}
 
 Dwa kilometry przed [Tykocinem][wiki-tykocin] zrobiłem sporo przerw na zdjęcia.
 Słońce dobrze komponowało się z chmurami. Zieleń była bardziej zielona.
 Cienie były już całkiem długie (17:30) - słońce zaczynało zbliżać się powoli w
 stronę horyzontu.
 
-{% photo "P8120229.jpg","Pola w okolicy Tykocina","timeline" %}
+{% photo "P8120229.jpg","Pola w okolicy Tykocina","tag:timeline" %}
 
 [tejsza]: http://tejsza.eu/
 

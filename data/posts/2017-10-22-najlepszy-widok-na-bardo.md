@@ -59,7 +59,7 @@ drogą krzyżową.
 Oprócz źródła Marii i samych pomników - stacji drogi krzyżowej, szlak ten nie
 miał w sobie wiele ciekawego.
 
-{% photo "IMGP2446raw1.jpg","Źródło Marii","timeline" %}
+{% photo "IMGP2446raw1.jpg","Źródło Marii","tag:timeline" %}
 
 W okolicy jest żółty szlak rowerowy, który powinien być dość przyjemny i
 łatwy do jazdy. Tak przewiduję, nie jestem tego pewien, gdyż widziałem

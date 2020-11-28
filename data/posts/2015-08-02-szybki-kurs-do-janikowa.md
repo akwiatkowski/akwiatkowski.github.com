@@ -51,7 +51,7 @@ Pod względem trasy mało jest do opowiedzenia. Wystarczyło jechać dalej przez
 [Trląg][wiki-trlag], skręcić na wschód mijając [Jezioro Pakoskie][wiki-jezioro-pakoskie]
 i już jest [Janikowo][wiki-janikowo].
 
-{% photo "IMGP2617raw1.jpg","Okolice Jankowa Dolnego","timeline" %}
+{% photo "IMGP2617raw1.jpg","Okolice Jankowa Dolnego","tag:timeline" %}
 
 Trasę tą znam dobrze z perspektywy jazdy samochodem, gdyż jest to jeden z dojazdów
 do [Janikowa][wiki-janikowo].

@@ -70,7 +70,7 @@ Dojazd bezpośredni jest dość łatwy gdyż wystarczy przejechać 32km na wsch�
 po drodze 544. Jest to droga wojewódzka co oznacza istotny ruch samochodów
 dlatego to nie była opcja, którą byśmy brali pod uwagę.
 
-{% photo "2020_06_05__09_37__6055593.jpg","Drwęca w okolicy osady Topiele","timeline" %}
+{% photo "2020_06_05__09_37__6055593.jpg","Drwęca w okolicy osady Topiele","tag:timeline,tag:good" %}
 
 Alternatywą była jazda przez kilka kilometrów po drodze 15-ce aby przejechać
 przez [Drwęcę][wiki-drweca]. Nie podobało mi się to, ale było to konieczne abyśmy
@@ -81,7 +81,7 @@ mogli przejechać przez ciekawe tereny.
 Chciałem ruszyć z noclegu i jechać drogą na wschód lecz okazało się, że jest tam
 teren prywatny i musieliśmy się cofnąć.
 
-{% photo "2020_06_05__09_53__6055611.jpg","Droga do Młodego Głęboczka","timeline" %}
+{% photo "2020_06_05__09_53__6055611.jpg","Droga do Młodego Głęboczka","tag:timeline" %}
 
 Sama jazda po drodze 15-ce była mało przyjemna. Przynajmniej trzy samochody
 wyprzedzały nas "na trzeciego". Sam bym bardzo chciał aby istniała alternatywna
@@ -99,13 +99,13 @@ Przejechaliśmy skrótem przez las do centrum [Wielkiego Głęboczka][wiki-wielk
 Wieś ta zapowiadała ciekawsze okolice tego dnia. Spadł bardzo delikatny
 deszcz, co było raczej zgodne z godzinową prognozą pogody.
 
-{% photo "2020_06_05__10_08__6055646.jpg","Droga przez pole do Augustowa","timeline" %}
+{% photo "2020_06_05__10_08__6055646.jpg","Droga przez pole do Augustowa","tag:timeline,tag:good" %}
 
 Kolejną miejscowością był [Mały Głęboczek][wiki-maly-gleboczek] od którego okolica
 wyraźnie stawała się ciekawsza. Widziałem to na przykładzie bardziej pofalowanego
 terenu.
 
-{% photo "2020_06_05__10_25__6055699.jpg","Widok na Mały Głęboczek","timeline" %}
+{% photo "2020_06_05__10_25__6055699.jpg","Widok na Mały Głęboczek","tag:timeline" %}
 
 Zatrzymaliśmy się przy skrzyżowaniu obok kapliczki. Chciałem coś zjeść już teraz
 podczas gdy Maciej podjechał drogą polną szukając miejsca na ciekawe zdjęcie.
@@ -132,7 +132,7 @@ Podobał mi się delikatny zjazd w stronę [Janówka][wiki-janowko], chociaż
 oznaczał on, że za chwilę będzie podjazd. Podjazd, który był znacznie
 bardziej stromy.
 
-{% photo "2020_06_05__10_51__6055741.jpg","Droga do Janówka","timeline" %}
+{% photo "2020_06_05__10_51__6055741.jpg","Droga do Janówka","tag:timeline,tag:good" %}
 
 Zaskoczyły mnie wbite szyny kolejowe jako barierki. Ciekawe rozwiązanie pod
 względem bezpieczeństwa.
@@ -155,19 +155,19 @@ jak i na lewo.
 Chmury na zachodzie wyglądały coraz ciemniej. Z prognozy pogody wiedziałem, że jeszcze
 mamy czas.
 
-{% photo "2020_06_05__11_04__6055774.jpg","Pole w okolicy Janówka" %}
+{% photo "2020_06_05__11_04__6055774.jpg","Pole w okolicy Janówka","tag:good" %}
 
 Gdy zbliżaliśmy się do [Zalesia][wiki-zalesie] deszcz już zaczął padać. Zatrzymaliśmy
 się pod przystankiem autobusowym zastanawiając się, czy jakieś autobusy tutaj
 przyjeżdżają.
 
-{% photo "2020_06_05__11_10__6055784.jpg","Droga do wsi Zembrze" %}
+{% photo "2020_06_05__11_10__6055784.jpg","Droga do wsi Zembrze (1)" %}
 
 Deszcz niestety padał mocno. Ubraliśmy płachty przeciwdeszczowe i
 ruszyliśmy dalej. Nie wiedziałem czy to już jest tam fala największego opadu, czy to będzie
 za chwilę. Do naszego noclegu zostało 15km.
 
-{% photo "2020_06_05__11_13__6055808.jpg","Droga do wsi Zembrze" %}
+{% photo "2020_06_05__11_13__6055808.jpg","Droga do wsi Zembrze (2)","tag:good" %}
 
 Jazda drogą wojewódzką w deszczu była średnio przyjemna.
 

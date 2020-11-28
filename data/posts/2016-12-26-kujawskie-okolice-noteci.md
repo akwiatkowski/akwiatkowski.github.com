@@ -52,7 +52,7 @@ takie ładne są tutaj miejsca.
 Mieliśmy problemem przejechać przez [Kątno][wiki-katno] gdyż miejscami było bardzo
 dużo błota.
 
-{% photo "IMGP0624raw1.jpg","Pofalowane okolice wsi Kątno","timeline" %}
+{% photo "IMGP0624raw1.jpg","Pofalowane okolice wsi Kątno","tag:timeline" %}
 
 
 

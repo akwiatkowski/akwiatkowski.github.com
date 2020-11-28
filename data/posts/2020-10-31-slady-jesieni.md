@@ -42,22 +42,22 @@ To będzie bardzo trudny wpis dla mnie gdyż nie wiem co mógłbym napisać.
 
 {% photo "2020_10_31__11_59_DSC04549.jpg","Drzewo w wodzie" %}
 
-{% photo "2020_10_31__12_00_DSC04554.jpg","Kaczki" %}
+{% photo "2020_10_31__12_00_DSC04554.jpg","Kaczki","tag:good" %}
 
 {% photo "2020_10_31__12_03_DSC04576.jpg","Przewalone drzewo" %}
 
 {% photo "2020_10_31__12_06_DSC04599.jpg","Jesienny las" %}
 
-{% photo "2020_10_31__12_07_DSC04606.jpg","Opadłe liście" %}
+{% photo "2020_10_31__12_07_DSC04606.jpg","Opadłe liście","tag:good" %}
 
 {% photo "2020_10_31__12_11_DSC04638.jpg","Jesienne drzewa nad stawami" %}
 
-{% photo "2020_10_31__12_15_DSC04660.jpg","Jesienna aleja" %}
+{% photo "2020_10_31__12_15_DSC04660.jpg","Jesienna aleja","tag:good" %}
 
-{% photo "2020_10_31__12_18_DSC04684.jpg","Otaczająca jesień" %}
+{% photo "2020_10_31__12_18_DSC04684.jpg","Otaczająca jesień","tag:good" %}
 
 {% photo "2020_10_31__12_24_DSC04730.jpg","Bez liści" %}
 
-{% photo "2020_10_31__12_27_DSC04746.jpg","Ogrodzenie" %}
+{% photo "2020_10_31__12_27_DSC04746.jpg","Ogrodzenie","tag:best,tag:good" %}
 
-{% photo "2020_10_31__12_48_DSC04865.jpg","Dwa kolory" %}
+{% photo "2020_10_31__12_48_DSC04865.jpg","Dwa kolory","tag:good" %}

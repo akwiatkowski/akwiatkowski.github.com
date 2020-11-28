@@ -60,12 +60,12 @@ na własne oczy. Zaczął padać bardzo silny deszcz z gradem.
 W okolicy [Promno-Stacja][wiki-promno-stacja] skręciliśmy w lewo na północ.
 Chciałem zobaczyć okolicę [Borowo-Młyn][wiki-borowo-mlyn].
 
-{% photo "2020_05_02__13_21_DSC07800.jpg","Droga w stronę Wronczyna/Jerzyna","timeline" %}
+{% photo "2020_05_02__13_21_DSC07800.jpg","Droga w stronę Wronczyna/Jerzyna","tag:timeline" %}
 
 Szukajac dobrego miejsca aby zaparkować, gdyż do gradu dołączyła burza,
 szukaliśmy miejsca z dala od drzew ale nie w terenie całkowicie otwartym.
 
-{% photo "2020_05_02__13_35__5028211.jpg","Mokry dmuchawiec" %}
+{% photo "2020_05_02__13_35__5028211.jpg","Mokry dmuchawiec","tag:good" %}
 
 Poczekaliśmy chwilę aż deszcz przestał padać. Przyznam się, że
 takiego deszczu i burzy dawno nie widziałem. Ostatnie kilka miesięcy
@@ -84,7 +84,7 @@ Dojechaliśmy drogą leśną do [Jerzyna][wiki-jerzyn] i tam zatrzymaliśmy
 się na plaży przy jeziorze. Słyszałem tam bardzo głośnego ptaka,
 prawdopodobnie to był [trzciniak][wiki-trzciniak].
 
-{% photo "2020_05_02__15_04__5028304.jpg","Tunel drzewny niedaleko Krześlic","timeline" %}
+{% photo "2020_05_02__15_04__5028304.jpg","Tunel drzewny niedaleko Krześlic","tag:timeline" %}
 
 Ruszyliśmy w stronę [Krześlic][wiki-krzeslice]. Zatrzymaliśmy się przed
 tą wsią aby zrobić trochę zdjęć kwitnącego rzepaku.
@@ -97,7 +97,7 @@ gdzie byłem ponad
 i byłem zaskoczony pagórkami. Z tego powodu chcę ponownie zwiedzić te tereny
 jednak będę musiał to zrobić na rowerze.
 
-{% photo "2020_05_02__15_30_DSC07916.jpg","Mlecze na polanie" %}
+{% photo "2020_05_02__15_30_DSC07916.jpg","Mlecze na polanie","tag:good" %}
 
 Zatrzymaliśmy się na polanie niedaleko wsi [Bednary][wiki-bednary].
 
@@ -112,13 +112,13 @@ budzi do życia. Pewnie w lecie będzie ich więcej.
 Przejechaliśmy przez [Stęszewice][wiki-steszewice] i [Karczewko][wiki-karczewko].
 Musieliśmy jechać bardzo powoli gdyż jakość drogi jest tam na ogoł średnio-słaba.
 
-{% photo "2020_05_02__16_32__5028526.jpg","Widok na pole w stronę wsi Łubowiczki","timeline" %}
+{% photo "2020_05_02__16_32__5028526.jpg","Widok na pole w stronę wsi Łubowiczki","tag:timeline" %}
 
 [Karczewko][wiki-karczewko] mi się podobało jednak musiałbym jeszcze raz tu przyjechać,
 tym razem rowerem, i przejechać drogami gruntowymi mając więcej czasu
 na robienie zdjęć. Przyznam, że niewiele zapamiętałem z tej okolicy.
 
-{% photo "2020_05_02__16_49__5028611.jpg","Żółte pola","timeline" %}
+{% photo "2020_05_02__16_49__5028611.jpg","Żółte pola","tag:timeline,ta:good" %}
 
 Widziałem przystanek autobusowy w okolicy [Stęszewic][wiki-steszewice] jednak
 nie zatrzymałem się aby zobaczyć czy jakiś autobus tutaj się zatrzymuje.
@@ -130,12 +130,12 @@ Przejechaliśmy przez [Kiszkowo][wiki-kiszkowo] i wracaliśmy do [Pobiedzisk][wi
 W okolicy [Pomarzanowic][wiki-pomarzanowice] zauważyliśmy ciekawą aleję drzew między polami
 rzepaku. Zatrzymaliśmy się tam na chwilę.
 
-{% photo "2020_05_02__17_06__5028677.jpg","Ślimak" %}
+{% photo "2020_05_02__17_06__5028677.jpg","Ślimak","tag:good" %}
 
 Patrząc na zachód widziałem bardzo solidną chmurę, która stała się głównym
 obiektem do zdjęć. Idealnie ona kontrastowała z żółtymi polami rzepaku.
 
-{% photo "2020_05_02__17_37_DSC07987.jpg","Rzepak i ciemna chmura" %}
+{% photo "2020_05_02__17_37_DSC07987.jpg","Rzepak i ciemna chmura","tag:good" %}
 
 Zrobiłem więcej zdjęć rzepaku i "ciemnej chmury" jednak nie chce wrzucać tutaj
 więcej podobnych zdjęć.

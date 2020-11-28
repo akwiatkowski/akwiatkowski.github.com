@@ -104,14 +104,14 @@ Chce przetestować jak ten obietyw sprawdzi się podczas normalnej wycieczki
 rowerowej. Chce ograniczać zmiany obiektywów i zobaczyć, jak dłuższa
 ogniskowa wpłynie na moje zdjęcia, na to jak widzę krajobraz.
 
-{% photo "2019_04_30__08_24_P4300222.jpg","Okolice Kowalewa Pomorskiego","timeline" %}
+{% photo "2019_04_30__08_24_P4300222.jpg","Okolice Kowalewa Pomorskiego","tag:timeline" %}
 
 Przejazd pociągiem minął dość szybko. Jedynie denerwował mnie pałętający się
 dzieciak, którego matka pozwalała na wszystko. Dzieciak łaził obok mnie
 (stałem na końcu pociągu) i roweru. Pociąg czasami kołysał i wtedy mógłbym
 uderzyć to dziecko. Do tego chciał on kręcić czerwonym hamulcem awaryjnym.
 
-{% photo "2019_04_30__08_40_P4300290.jpg","Tory po prawej prowadzą do Grudziądza","timeline" %}
+{% photo "2019_04_30__08_40_P4300290.jpg","Tory po prawej prowadzą do Grudziądza","tag:timeline" %}
 
 Gdy wysiedliśmy w [Iławie][wiki-ilawa] mieliśmy mały problem jak dalej
 jechać. Droga dojazdowa do dworca była remontowana.
@@ -132,7 +132,7 @@ Na początku kierowaliśmy się do [Kamienia Dużego][wiki-kamien-duzy]
 aby następnie dostać się do centrum [Iławy][wiki-ilawa] inną drogą i mieć
 szanse zobaczyć [Jezioro Jeziorak][wiki-jeziorak], które jest bardzo duże.
 
-{% photo "2019_04_30__11_02_P4300355.jpg","Jezioro Jeziorak","timeline" %}
+{% photo "2019_04_30__11_02_P4300355.jpg","Jezioro Jeziorak","tag:timeline" %}
 
 Naprzemienne podjazdy i zjazdy pokazały nam, jak będą wyglądały nasze trasy
 podczas tej majówki.
@@ -146,7 +146,7 @@ standardzie.
 W [Iławie][wiki-ilawa] jest dużo ścieżek rowerowych. Z jednym wyjątkiem
 (podczas wyjazdu z miasta) to wcale nie musieliśmy jeździć po ulicy.
 
-{% photo "2019_04_30__11_46_P4300380.jpg","Droga niedaleko wsi Karaś","timeline" %}
+{% photo "2019_04_30__11_46_P4300380.jpg","Droga niedaleko wsi Karaś","tag:timeline" %}
 
 Przejechaliśmy po moście przy [Małym Jezioraku][wiki-jeziorak].
 
@@ -156,7 +156,7 @@ to most nad torami obok stacji [Iława Miasto][wiki-ilawa-miasto].
 Opuściliśmy miasto i wjechaliśmy w dość gęsty las. Czekały na nas naprzemienne
 zjazdy i podjazdy.
 
-{% photo "2019_04_30__11_56_P4300390.jpg","Skrzyżowanie między wsiami Wonna, Jamielnik i Karaś","timeline" %}
+{% photo "2019_04_30__11_56_P4300390.jpg","Skrzyżowanie między wsiami Wonna, Jamielnik i Karaś","tag:timeline" %}
 
 Szybko wjechaliśmy w [Wikielec][wiki-wikielec] a następnie [Karaś][wiki-karas].
 Dopiero w tej miejscowości widziałem więcej starych niż nowych budynków.
@@ -165,7 +165,7 @@ Patrząc na mapę to jest tutaj Jezioro Karaś, chociaż tyle ile jezior jest w
 tej okolicy to nie jest niczym wyjątkowym. Oprócz samych jezior widzieliśmy
 bardzo dużo małych stawów.
 
-{% photo "2019_04_30__12_06_P4300401.jpg","Gospodarstwo we wsi Wonna","timeline" %}
+{% photo "2019_04_30__12_06_P4300401.jpg","Gospodarstwo we wsi Wonna","tag:timeline" %}
 
 Patrząc na krajobraz czasami miałem wrażenie, że tej zieleni jest jeszcze za
 mało. Z jednej strony teraz kwitnie rzepak, jednak w czerwcu już wszystko powinno być
@@ -173,63 +173,63 @@ jeszcze ładniejsze, bardziej zielone. Nie powinniśmo być już gołych, szaryc
 
 Dotarliśmy do skrzyżowania we wsi [Wonna][wiki-wonna].
 
-{% photo "2019_04_30__12_17_P4300429.jpg","Budynek w kwitnącym rzepaku","timeline" %}
+{% photo "2019_04_30__12_17_P4300429.jpg","Budynek w kwitnącym rzepaku","tag:timeline" %}
 
 Bardzo mi się podobał teren: jego ukształtowanie, klimat. Trudno mi coś napisać
 więcej. Co chwile warto było się zatrzymać na zrobienie jakiegoś zdjęcia.
 
 We wsi [Krotoszyny][wiki-krotoszyny] zrobiliśmy przerwę przy sklepie spożywczym.
 
-{% photo "2019_04_30__12_20_P4300437.jpg","Droga do wsi Krotoszyny","timeline" %}
+{% photo "2019_04_30__12_20_P4300437.jpg","Droga do wsi Krotoszyny","tag:timeline" %}
 
 Na południe od nas jest [linia kolejowa 353][wiki-linia-353], dzięki której
 dotarliśmy do [Iławy][wiki-ilawa].
 Ogranicza ona obszar [Brodnickiego Parku Krajobrazowego][wiki-brodnicki-park]
 od strony północnej.
 
-{% photo "2019_04_30__12_23_P4300448.jpg","Wiosenna droga","timeline" %}
+{% photo "2019_04_30__12_23_P4300448.jpg","Wiosenna droga","tag:timeline" %}
 
 Po przejechaniu przez tory zdecydowaliśmy pojechać mniej priorytetową drogą.
 To akurat była łatwa decyzja bo i tak byśmy dojechali do [Łąkorza][wiki-lakorz].
 
-{% photo "2019_04_30__13_03_P4300455.jpg","Jadąc do wsi Łąkorz","timeline" %}
+{% photo "2019_04_30__13_03_P4300455.jpg","Jadąc do wsi Łąkorz","tag:timeline" %}
 
 Dotarliśmy do wsi [Gaj][wiki-gaj]. Chcieliśmy zrobić zdjęcie Jeziora Dębno,
 jedak nie było do niego odpowiedniego dojścia (plaży albo pomostu).
 
-{% photo "2019_04_30__13_08_P4300462.jpg","Jezioro Dębno","timeline" %}
+{% photo "2019_04_30__13_08_P4300462.jpg","Jezioro Dębno","tag:timeline" %}
 
 Jest tam obok jakiś ośrodek harcerzy (jeżeli się nie mylę) ale wyglądał on na trochę
 zaniedbany.
 
-{% photo "2019_04_30__13_20_P4300480.jpg","Dom przed wsią Łąkorz","timeline" %}
+{% photo "2019_04_30__13_20_P4300480.jpg","Dom przed wsią Łąkorz","tag:timeline" %}
 
 Dojechaliśmy do [Łąkorza][wiki-lakorz], jednej z większych miejscowości
 na terenie [parku][wiki-brodnicki-park]. W tym momencie planowaliśmy jechać
 na południe w stronę [Brodnicy][wiki-brodnica].
 
-{% photo "2019_04_30__13_30_P4300496.jpg","Widok na wieś Sztremlarowo","timeline" %}
+{% photo "2019_04_30__13_30_P4300496.jpg","Widok na wieś Sztremlarowo","tag:timeline" %}
 
 Trudno było nie zauważyć pofalowanych terenów. Cała ta majówka jest idealnem
 przykładem tego, że warto było tu przyjechać.
 
 Bardzo mi się podobały pola przed [Łąkorkiem][wiki-lakorek].
 
-{% photo "2019_04_30__13_40_P4300527.jpg","Droga do wsi Wielgrób","timeline" %}
+{% photo "2019_04_30__13_40_P4300527.jpg","Droga do wsi Wielgrób","tag:timeline" %}
 
 Kierowaliśmy się przez [Ciche][wiki-ciche] do miejscowości [Zbiczno][wiki-zbiczno].
 
 Sporo drzew przy drodze było jeszcze bez liści. Zastanawiałem się, czy to normalne,
 czy jest to efekt kwietniowych susz.
 
-{% photo "2019_04_30__14_08_P4300535.jpg","Droga w stronę Zbiczna","timeline" %}
+{% photo "2019_04_30__14_08_P4300535.jpg","Droga w stronę Zbiczna","tag:timeline" %}
 
 Przed dotarciem do wsi [Zbiczno][wiki-zbiczno] po lewej stronie zauważyłem
 ciekawą drogę gruntową. Bardzo podobały mi się kwitnący rzepak po obu stronach.
 Droga prowadziła do jakiegoś gospodarstwo. Poświęciłem kilka minut na zrobienie
 zdjęć tutaj.
 
-{% photo "2019_04_30__14_29_P4300551.jpg","Rzepakowa droga","timeline" %}
+{% photo "2019_04_30__14_29_P4300551.jpg","Rzepakowa droga","tag:timeline" %}
 
 Wjechaliśmy do [Zbiczno][wiki-zbiczno]. Mogliśmy jechać dalej na południe do [Brodnicy][wiki-brodnica]
 i wrócić pociągiem, jednak mieliśmy stosunkowo dużo czasu. Decyzje podjeliśmy
@@ -259,7 +259,7 @@ Musieliśmy teraz 2km przejechać drogą gruntową, trochę piaszczystą.
 Ponownie spodobała mi się wijąca się droga przez pofalowane pola. Zwłaszcza
 kwitnące pola rzepaku.
 
-{% photo "2019_04_30__15_08_P4300603.jpg","Podmokłe tereny w okolicy jezior","timeline" %}
+{% photo "2019_04_30__15_08_P4300603.jpg","Podmokłe tereny w okolicy jezior","tag:timeline" %}
 
 W [Najmowie][wiki-najmowo] skręciliśmy na północny-zachód kierując się do
 [Sumówka][wiki-sumowko].
@@ -269,13 +269,13 @@ W samym [Najmowie][wiki-najmowo] z tego co widzę na mapie jest przystanek kolej
 Wsie pokroju [Sumowa][wiki-sumowo] mają już swój klimat. Są wystarczająco odległe
 od miasta.
 
-{% photo "2019_04_30__15_24_P4300622.jpg","Drzewo między polami rzepaku","timeline" %}
+{% photo "2019_04_30__15_24_P4300622.jpg","Drzewo między polami rzepaku","tag:timeline" %}
 
 Czekał na nas podjazd 10%, chociaż był on raczej krótki.
 
 W [Sumówku][wiki-sumowko] podobały mi się dwa budynki, które były opuszczone.
 
-{% photo "2019_04_30__15_35_P4300630.jpg","Opuszczając Sumowo","timeline" %}
+{% photo "2019_04_30__15_35_P4300630.jpg","Opuszczając Sumowo","tag:timeline" %}
 
 Z [Tomków][wiki-tomki] kierowaliśmy się do [Konojadów][wiki-konojady]. Był to
 pierwszy rezerwowy punkt powrotny. Jest tam przystanek [linii 208][wiki-linia-208].
@@ -291,13 +291,13 @@ wrócić do [Iławy][wiki-ilawa]. Zrobiliśmy przerwę na jedzenie na ławce na 
 Jechaliśmy przez [Lembarg][wiki-lembarg] i [Kruszyny][wiki-kruszyny] do
 [Książek][wiki-ksiazki]. Tam znalazłem restauracje i zatrzymaliśmy się na obiad.
 
-{% photo "2019_04_30__16_45_P4300656.jpg","Okolice wsi Kruszyny","timeline" %}
+{% photo "2019_04_30__16_45_P4300656.jpg","Okolice wsi Kruszyny","tag:timeline" %}
 
 Chciałem kupić bilet kolejowy do [Iławy][wiki-ilawa] jednak nie było miejsc na
 rowery. Kupiłem tylko dla nas. Był to okres majówki więc nie wiedziałem
 ile osób może podróżować z rowerem. Nie wiedziałem jaki pociąg przyjedzie.
 
-{% photo "2019_04_30__17_01_P4300684.jpg","Okolice wsi Brudzawki","timeline" %}
+{% photo "2019_04_30__17_01_P4300684.jpg","Okolice wsi Brudzawki","tag:timeline" %}
 
 Zacząłem nawet analizować opcje awaryjne gdyż powrót 50km pod wiatr
 był mało przyjemną opcją.

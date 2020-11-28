@@ -46,19 +46,19 @@ Wyruszyliśmy tak wcześnie, jak to się udało (po Andrzejkach), czyli po 9-tej
 Zeszliśmy do [Samotni][wiki-samotnia], która jest całkiem blisko od [Strzechy Akademickiej][wiki-strzecha].
 Tam zjedliśmy śniadanie i dalej w drogę. Subiektywnie jedzenie w [Samotni][wiki-samotnia] jest lepsze.
 
-{% photo "IMGP1437raw1.jpg","Schronisko Samotnia" %}
+{% photo "IMGP1437raw1.jpg","Schronisko Samotnia (1)" %}
 
 Zaskoczył mnie ogrom ściany [Kotła Małego Stawu][wiki-kociol]. Widzi się zdjęcia, przechodziło
 się obok szlakiem na górze, ale dopiero jak się na żywo stanie na dole to widać, jakie to jest duże.
 W końcu 200 metrów wysokości różnicy to 200 metrów - musi być duże.
 
-{% photo "IMGP1448raw1.jpg","Schronisko Samotnia" %}
+{% photo "IMGP1448raw1.jpg","Schronisko Samotnia (2)" %}
 
 Zrobiłem kilka zdjęć, jednak wiem że nie udało mi się pokazać (i chyba się nie da)
 jakie to jest duże. Na pewno trzeba tu wrócić, tylko tym razem jak będzie zielono.
 Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo wycieczki byłem tylko w zimie.
 
-{% photo "IMGP1457raw1.jpg","Mały Staw obok Samotni" %}
+{% photo "IMGP1457raw1.jpg","Mały Staw obok Samotni","tag:good" %}
 
 Dalsza część wycieczki była mniej interesująca. Schodziliśmy sobie po
 dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już koniec

@@ -86,12 +86,12 @@ Teraz kierowaliśmy się na północ do drogi zjazdowej do [Świeradowa][wiki-sw
 Wydaje mi się, że z roku na rok droga ta jest w gorszym stanie, co jest w sumie
 normalne gdyż chyba się jej nie remontuje często (tak mi się wydaje, mogę się mylić).
 
-{% photo "IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej","timeline" %}
+{% photo "IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej","tag:timeline" %}
 
 Zjazd trudno mi opisać. Był fajny i każdemu polecam, ale wiedząc co mnie czeka
 nie przeżyłem wyraźnego zaskoczenia.
 
-{% photo "IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów","timeline" %}
+{% photo "IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów","tag:timeline" %}
 
 Do centrum [miasta][wiki-swieradow] dojechaliśmy drogą 358.
 Chcieliśmy jeszcze spróbować pobliski singletrak. Niestety dla nas musieliśmy

@@ -30,6 +30,8 @@ pois:
 
 ---
 
+{% photo_header "Mgły nad Rzepedzią","tag:good,tag:best,tag:portfolio" %}
+
 [wiki-konik-pospolity]: https://pl.wikipedia.org/wiki/Konik_pospolity
 [wiki-rzepedka]: https://pl.wikipedia.org/wiki/Rzepedka_(g%C3%B3ra)
 
@@ -45,7 +47,7 @@ w krótki spacer w okolicy noclegu.
 Tak naprawdę obudziłem się trochę wcześniej jednak nie chciało mi się wstawać.
 Widziałem jak wygląda sytuacja na zewnątrz i postanowiłem, że ruszę później.
 
-{% photo "2020_08_21__06_07_DSC03057.jpg","Pajęczyna pod słońce" %}
+{% photo "2020_08_21__06_07_DSC03057.jpg","Pajęczyna pod słońce","tag:good,tag:best" %}
 
 Nie chciałem iść daleko, gdyż byłem prawie pewien, że to właśnie tylko w dolinie
 (byłem na 550m n.p.m.) są mgiełki.
@@ -71,7 +73,7 @@ słońce jednak rezultaty średnio mi się podobały.
 Może gdyby to była nieścięta trawa rezultaty były by lepsze
 ale nie ma sensu gdybać.
 
-{% photo "2020_08_21__06_49__8218743.jpg","Konik polny" %}
+{% photo "2020_08_21__06_49__8218743.jpg","Konik polny","tag:good,tag:best" %}
 
 Co charakteryzowało ten cały wyjazd to ilość zdjęć [koników polnych][wiki-konik-pospolity]
 jakie zrobiłem. Były one najbardziej aktywne wieczorem ale w nocy i rano stawały
@@ -83,7 +85,7 @@ moje kroki.
 Próbowałem zrobić kilka zdjęć kropelkom na trawie gdyż wiedziałem, że
 prawdopodobnie jutro takich warunków już nie będzie.
 
-{% photo "2020_08_21__07_05__8218896.jpg","Rozmyślający konik polny" %}
+{% photo "2020_08_21__07_05__8218896.jpg","Rozmyślający konik polny","tag:good" %}
 
 Jednak najbardziej podobały mi się robaczki - głównie koniki polne.
 Zauważyłem pajęczyny i na niektórych były pająki. Niestety nie zostało mi
@@ -95,4 +97,4 @@ Pomimo tego, że byłem z pełno-klatkowym Sony A7III to uważam, że Olympus M1
 ze obiektywem makro Olympus 60mm był bardzo przydatny. Muszę przetestować obiektyw
 makro Pentax 50/2.8 i porównać rezultaty.
 
-{% photo "2020_08_21__07_22__8218966.jpg","Małe kropelki" %}
+{% photo "2020_08_21__07_22__8218966.jpg","Małe kropelki","tag:good" %}

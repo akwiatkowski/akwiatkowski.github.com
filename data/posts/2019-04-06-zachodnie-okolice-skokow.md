@@ -59,7 +59,7 @@ Dotarliśmy do [Skoków][wiki-skoki] pociągiem około 10:20. Przez [Rościnno][
 do [Grzybowa][wiki-grzybowo] jechałem już nie raz. Krajobraz był bardzo
 wczesno-wiosenny.
 
-{% photo "2019_04_06__10_54_P4060002.jpg","Pole niedaleko Rościnna","timeline" %}
+{% photo "2019_04_06__10_54_P4060002.jpg","Pole niedaleko Rościnna","tag:timeline" %}
 
 Na drzewach bardzo niemrawo pojawiały się oznaki wiosny.
 
@@ -83,7 +83,7 @@ na zdjęcia... i podziwianie zdechłej ryby. Zdjęcia zdechłej ryby nie będę 
 Założyłem kamerkę na kask aby przetestować jak będzie działać stabilizacja.
 To była zdecydowanie zła decyzja, jak się dopiero później okazało.
 
-{% photo "2019_04_06__11_37_P4060089.jpg","Jezioro Czarne","timeline" %}
+{% photo "2019_04_06__11_37_P4060089.jpg","Jezioro Czarne","tag:timeline" %}
 
 Jechaliśmy na południe do [Budziszewka][wiki-budziszewko] po dość ubitej drodze
 gruntowej. Dawno nie jeździłem tutaj. Teraz widziałem nowe domy w budowie.
@@ -112,7 +112,7 @@ W tym momencie wydawało mi się, że lepszy byłby jakiś uniwersalny superzoom
 Bez zmian obiektywu mógłbym robić wszystkie zdjęcia. Pisząc ten wpis
 (styczen 2020) już wiem, że w przypadku kotów konieczny jest jasny obiektyw.
 
-{% photo "2019_04_06__12_26_P4060139.jpg","Okolice Budziszewka","timeline" %}
+{% photo "2019_04_06__12_26_P4060139.jpg","Okolice Budziszewka","tag:timeline" %}
 
 W [Budziszewicach][wiki-budziszewice] skończyła się droga asfaltowa i musieliśmy
 jechać po trochę piaszczystej drodze gruntowej.
@@ -123,7 +123,7 @@ Zawsze gdy tutaj jechałem to kierowałem się z [Łoskonia Starego][wiki-loskon
 na północ ale tym razem skręciliśmy w prawo, na zachód,
 jadąc czarnym szlakiem rowerowym.
 
-{% photo "2019_04_06__12_34_P4060157.jpg","Droga do Budziszewic","timeline" %}
+{% photo "2019_04_06__12_34_P4060157.jpg","Droga do Budziszewic","tag:timeline" %}
 
 Droga na zachód była bardzo ładna. Widziałem dwa bardzo duże nowe domy a dalej
 starsze budynki, całkiem klimatyczne.
@@ -139,7 +139,7 @@ Dotarliśmy do polany między dwoma częściami lasu. Początkowo myślałem, ż
 okolica [Łoskonia][wiki-loskon], jednak patrząc na zrobione zdjęcia poprawiłem
 się.
 
-{% photo "2019_04_06__12_57_P4060173.jpg","Polana w Budziszewicach","timeline" %}
+{% photo "2019_04_06__12_57_P4060173.jpg","Polana w Budziszewicach","tag:timeline" %}
 
 Musieliśmy teraz przejechać przez las, z którego wyjechaliśmy na drogę do
 [Długiej Gośliny][wiki-dluga-goslina].
@@ -150,7 +150,7 @@ Jechaliśmy wzdłuż jeziora Łoskoń. Droga, pomimo klasy regionalnej, była
 wykorzystywana przez samochody na tyle, że kombinowaliśmy jak tu można
 jechać inaczej.
 
-{% photo "2019_04_06__13_37_P4060188.jpg","Pola niedaleko Łoskonia Starego","timeline" %}
+{% photo "2019_04_06__13_37_P4060188.jpg","Pola niedaleko Łoskonia Starego","tag:timeline" %}
 
 Podjechaliśmy jeszcze do jeziora z drugiej strony. Niestety tam też nie
 znaleźliśmy idealnego miejsca (plaży) ale mogliśmy dojść

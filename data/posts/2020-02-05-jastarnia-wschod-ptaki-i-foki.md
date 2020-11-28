@@ -72,7 +72,7 @@ kilka zdjęć z długim naświetlaniem.
 Pod molo widziałem dwie osoby, które
 chyba piły alkohol - widziałem później wyrzucaną butelkę do kosza.
 
-{% photo "2020_02_04__20_32_DSC06682.jpg","Molo w Jastarni" %}
+{% photo "2020_02_04__20_32_DSC06682.jpg","Molo w Jastarni (1)" %}
 
 Gdy byłem pod koniec molo przyszedł do mnie kot, chwilę się popatrzył i uciekł.
 Uciekł w dość dziwny sposób, jakby znał tajne ścieżki pod powierznią molo.
@@ -81,7 +81,7 @@ zrobić jemu kolejnego zdjęcia.
 
 Wróciłem widząc zamknięte budki z jedzeniem i puste miejsca noclegowe.
 
-{% photo "2020_02_04__20_39_DSC06686.jpg","Molo w Jastarni" %}
+{% photo "2020_02_04__20_39_DSC06686.jpg","Molo w Jastarni (2)","tag:good" %}
 
 Wiatr w tym miejscu był średni ale słyszałem znacznie silniejszy od strony morza.
 We [Władysławowie][wiki-wladyslawowo] wedug stron pogodowych
@@ -96,7 +96,7 @@ Wstałem około 6:30. Zjadłem coś lekkiego i ruszyłem na północ nad
 [morze][wiki-morze-baltyckie]. Dojście na plaże było bezproblemowe i
 stosunkowo krótkie.
 
-{% photo "2020_02_05__07_05_P2050117.jpg","Wschód nad morzem w Jastarni" %}
+{% photo "2020_02_05__07_05_P2050117.jpg","Wschód nad morzem w Jastarni","tag:good,tag:best" %}
 
 Prognoza pogody była obiecująca. Jednak gdy dotarłem na miejsce sytuacja
 nie była taka oczywista.
@@ -106,11 +106,11 @@ nie była taka oczywista.
 Niebo było w większości zachmurzone, jednak na szczęście w punkcie
 wschodu słońca była "szpara" w chmurach.
 
-{% photo "2020_02_05__07_24__2050021.jpg","Mokry piasek" %}
+{% photo "2020_02_05__07_24__2050021.jpg","Mokry piasek (1)" %}
 
 I dzięki tym chmurom zdjęcia zyskały bardziej "złowrogi" charakter.
 
-{% photo "2020_02_05__07_24__2050144.jpg","Mokry piasek" %}
+{% photo "2020_02_05__07_24__2050144.jpg","Mokry piasek (2)","tag:good" %}
 
 Przypomniało mi się jak [dwa lata temu]({% post_url 2018-01-08-wschod-nad-baltykiem %})
 miałem podobne szczęście.
@@ -120,19 +120,19 @@ miałem podobne szczęście.
 W pewnym momencie obok mnie przebiegła para ludzi zostawiając ślady na
 piasku. Pojawił się pomysł aby wykorzystać te ślady jako pierwszy plan.
 
-{% photo "2020_02_05__07_38_DSC06695.jpg","Fale pod światło" %}
+{% photo "2020_02_05__07_38_DSC06695.jpg","Fale pod światło","tag:good" %}
 
 Większość zdjęć na statywie robiłem Sony A7R z Tokiną 20mm/2 MF
 i nałożonymi filtrami Cokin P (75mm).
 
-{% photo "2020_02_05__07_56_DSC06727.jpg","Czarno-białe fale" %}
+{% photo "2020_02_05__07_56_DSC06727.jpg","Czarno-białe fale (1)" %}
 
 Wydawało mi się, że 62mm średnica filtra obiektywu powinna oznaczać, że mój
 zestaw 75mm filtrów szklanych nada się idealnie.
 Niestety tak właśnie nie było. Wszystkie zdjęcia tym obiektywem
 z nałożonymi filtrami są obarczone ogromnym winietowaniem.
 
-{% photo "2020_02_05__08_04_DSC06746.jpg","Czarno-białe fale" %}
+{% photo "2020_02_05__08_04_DSC06746.jpg","Czarno-białe fale (2)","tag:good" %}
 
 Chyba będę musiał zainwestować w jakieś większe szklane filtry, o czym
 napiszę jeszcze poniżej.
@@ -149,16 +149,16 @@ Zapytałem się w recepcji gdzie jest przystanek "autobusu za pociąg".
 Dotarłem do niego tuż przed odjazdem gdyż pomyliłem się z godziną
 odjazdu.
 
-{% photo "2020_02_05__10_50__2050330.jpg","Foka" %}
+{% photo "2020_02_05__10_50__2050330.jpg","Foka (1)","tag:good" %}
 
 Chciałem dostać się na pierwsze karmienie fok w [fokarium][fokarium],
 które jest o godzinie 11-tej.
 
-{% photo "2020_02_05__11_03__2050557.jpg","Foka" %}
+{% photo "2020_02_05__11_03__2050557.jpg","Foka (2)","tag:seal" %}
 
 Wysiadłem w [Helu][wiki-hel] około 20 minut przed 11-tą. Ruszyłem w stronę portu.
 
-{% photo "2020_02_05__11_05__2050633.jpg","Foka na plecach" %}
+{% photo "2020_02_05__11_05__2050633.jpg","Foka na plecach","tag:seal" %}
 
 Przed wejście do [fokarium][fokarium] potrenowałem robiąc zdjęcia
 ptakom w locie.
@@ -167,7 +167,7 @@ ptakom w locie.
 
 Używałem do tego Olympus M1 mark 2 i Olympusa 40-150/2.8 z telekonwerterem 1.4x.
 
-{% photo "2020_02_05__11_18__2051130.jpg","Foka podwodna" %}
+{% photo "2020_02_05__11_18__2051130.jpg","Foka podwodna","tag:good,tag:seal" %}
 
 W samym [fokarium][fokarium] było sporo ludzi. Czasami miałem problem
 aby mieć dostęp - ludzie zasłaniali widok.
@@ -182,7 +182,7 @@ samiec był zamknięty w mniejszym, tym po lewej.
 Po spędzeniu 20 minut ruszyłem ponownie na plażę. Powrotny pociąg miałem
 przed godziną 14-tą, więc mając 2 godziny musiałem się czymś zająć.
 
-{% photo "2020_02_05__11_52__2050494.jpg","Mewa i łabędź" %}
+{% photo "2020_02_05__11_52__2050494.jpg","Mewa i łabędź","tag:good" %}
 
 Na plaży był jeden łabędź. Spędziłem w jego okolicy 20 minut czekając
 aż odpowiednio rozłoży skrzydła. Niestety akurat musiał się
@@ -196,7 +196,7 @@ musiał tego śmiecia usunąć aby być w pełni zadowolonym ze zdjęcia.
 Kolejnym ciekawym obiektem była mewa z małą rybką w buzi, która jej co chwilę
 wypadała i inne ptaki chciały ją wykraść.
 
-{% photo "2020_02_05__12_00__2050879.jpg","Mewa z małą rybką" %}
+{% photo "2020_02_05__12_00__2050879.jpg","Mewa z małą rybką","tag:good,tag:best" %}
 
 Przyszedł ktoś z chlebem który rzucał ptakom. To je mocno pobudziło
 do latania.
@@ -230,11 +230,11 @@ i chciałem potestować tym razem Olympusa i tryb wysokiej roździelczości.
 Często planuję zrobić coś a pojawiają się inne warunki do których muszę się
 dopasować.
 
-{% photo "2020_02_05__16_15__2050867.jpg","Wieczorny łabędź" %}
+{% photo "2020_02_05__16_15__2050867.jpg","Wieczorny łabędź (1)","tag:good" %}
 
 Tym razem w miejscu, które mnie ciekawiło, spotkałem cztery łabędzie.
 
-{% photo "2020_02_05__16_15__2050877.jpg","Wieczorny łabędź" %}
+{% photo "2020_02_05__16_15__2050877.jpg","Wieczorny łabędź (2)" %}
 
 Próbowały one coś wyłowić z wody i postanowiłęm się na nich skupić.
 

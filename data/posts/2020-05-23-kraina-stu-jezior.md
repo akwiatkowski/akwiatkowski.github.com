@@ -166,7 +166,7 @@ inną drogą.
 Paradoksalnie podobała mi się część blokowo-osiedlowa [Międzychodu][wiki-miedzychod],
 przez którą przejechałem podczas opuszczania miasta.
 
-{% photo "2020_05_23__14_20__5232965.jpg","Droga do Wierzbna","timeline" %}
+{% photo "2020_05_23__14_20__5232965.jpg","Droga do Wierzbna","tag:timeline" %}
 
 Uwielbiam wsie położone w ciekawym miejscu i [Gorzycko Stare][wiki-gorzycko-stare]
 takie jest. Nie jest czymś specjalnym ale czuć, że jest odległe od miasta.
@@ -176,7 +176,7 @@ Dotarłem do [Wierzbna][wiki-wierzbno] co dla mnie oznaczało zaliczenie gminy
 [Przytoczna][wiki-przytoczna-gmina], chociaż na pewno będę musiał jeszcze
 tutaj przyjechać aby zobaczyć wioski nad [Wartą][wiki-warta].
 
-{% photo "2020_05_23__14_42__5232992.jpg","Żurawia Łąka","timeline" %}
+{% photo "2020_05_23__14_42__5232992.jpg","Żurawia Łąka","tag:timeline" %}
 
 Dotarłem do linii kolejowej, po której jeszcze kilka lat temu można było
 przyjechać na paradę parowozów pociągiem [Turkola][turkol] - do

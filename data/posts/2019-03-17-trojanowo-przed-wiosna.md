@@ -41,22 +41,22 @@ zdjęć.
 Oczekiwałem już wiosny. Chciałem aby pojawiła się zieleń i abym miał dużo okazji
 do wycieczek rowerowych.
 
-{% photo "2019_03_17__15_17__3175436.jpg","Okolice Trojanowa w stronę drogi 196","timeline" %}
+{% photo "2019_03_17__15_17__3175436.jpg","Okolice Trojanowa w stronę drogi 196","tag:timeline" %}
 
 Do przetestowania drona wybraliśmy miejsce na północ
 od [Murowanej Gośliny][wiki-murowana-goslina]. Mieliśmy
 w planie eksploracje tej okolicy kiedyś.
 
-{% photo "2019_03_17__15_36__3175474.jpg","Jeszcze gołe pola","timeline" %}
+{% photo "2019_03_17__15_36__3175474.jpg","Jeszcze gołe pola","tag:timeline" %}
 
 Zrobiłem kilka zdjęć okolicy, jednak nie było to nic na tyle istotnego, abym
 miał co opisywać.
 
-{% photo "2019_03_17__15_38__3175484.jpg","Czekając za wiosną","timeline" %}
+{% photo "2019_03_17__15_38__3175484.jpg","Czekając za wiosną","tag:timeline" %}
 
 W okolicy jest jakiś zbiornik wodny albo teren podmokły. Widzieliśmy dużo czciny.
 
-{% photo "2019_03_17__15_43__3175509.jpg","Jeszcze gołe pola","timeline" %}
+{% photo "2019_03_17__15_43__3175509.jpg","Jeszcze gołe pola","tag:timeline" %}
 
 Wracając natrafiłem na niebieskiego żuka. Zrobiłem kilka zdjęć korzystając
 z Olympusa 60mm macro.

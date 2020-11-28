@@ -37,23 +37,23 @@ opisywałem we wpisach (
 [styczeń]({% post_url 2018-01-08-wschod-nad-baltykiem %})
 ), jednak warto dodać kilka nowych zdjęć.
 
-{% photo "2019_02_22__15_42__2220009.jpg","Dom w okolicy Smętowa Granicznego","timeline" %}
+{% photo "2019_02_22__15_42__2220009.jpg","Dom w okolicy Smętowa Granicznego","tag:timeline" %}
 
 Ciekawi mnie okolica [Smętowa Granicznego][wiki-smetowo-graniczne],
 gdzie kiedyś była [linia kolejowa][wiki-linia-kwidzyn] do [Kwidzynia][wiki-kwidzyn].
 
-{% photo "2019_02_22__15_47__2220025.jpg","Okolice Morzeszczyna","timeline" %}
+{% photo "2019_02_22__15_47__2220025.jpg","Okolice Morzeszczyna","tag:timeline" %}
 
 [Morzeszczyn][wiki-morzeszczyn] i okolice mam w planie zwiedzić rowerem.
 Okolice [Kulic][wiki-kulice] bardzo pobieżnie
 [zwiedziłem we wrześniu]({% post_url 2018-09-06-pagorki-pod-pelplinem %}) pieszo.
 Niestety nie były one aż tak ciekawe ale może jadąc rowerem zobaczyłbym więcej.
 
-{% photo "2019_02_22__15_49__2220031.jpg","Okolice wsi Gętomie","timeline" %}
+{% photo "2019_02_22__15_49__2220031.jpg","Okolice wsi Gętomie","tag:timeline" %}
 
 Zbliżając się do [Tczewa][wiki-tczew] teren był już płaski i mniej interesujący.
 
-{% photo "2019_02_22__15_59__2220086.jpg","Okolice rzeki Drybok","timeline" %}
+{% photo "2019_02_22__15_59__2220086.jpg","Okolice rzeki Drybok","tag:timeline" %}
 
 ### Plaża w Sopocie
 

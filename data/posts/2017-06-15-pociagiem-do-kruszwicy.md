@@ -77,7 +77,7 @@ Trasa nie była zbyt długa i można podzielić ją na trzy części:
 
 Podział może mało oryginalny ale według mnie najwłaściwszy.
 
-{% photo "IMGP7561raw1.jpg","Wiejskie tereny","timeline" %}
+{% photo "IMGP7561raw1.jpg","Wiejskie tereny","tag:timeline" %}
 
 Opuszczając [Kruszwicę][wiki-kruszwica] mijaliśmy zakłady przemysłowe po lewej
 stronie. Dzięki ich istnieniu ta linia kolejowa nie została

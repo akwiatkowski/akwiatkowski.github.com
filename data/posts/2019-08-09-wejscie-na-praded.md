@@ -113,13 +113,13 @@ odwrotnością.
 Najlepiej jest zaparkować samochód "na dole" i podjechać autobusem na górny
 parking. Dojazd samochodem, według mnie, nie jest zalecany.
 
-{% photo "2019_08_09__13_27__8097457.jpg","Parking górny" %}
+{% photo "2019_08_09__13_27__8097457.jpg","Parking górny","tag:good" %}
 
 Zastanawiam się, czy w zimie również jest aktywne połączenie autobusowe.
 Samo istnienie różnych, ponumerowanych, linii autobusowych w górach jest
 przykładem bardzo dobrej organizacji. Kolejna rzecz, którą im zazdroszczę.
 
-{% photo "2019_08_09__13_45__8097492.jpg","Polana na szczycie Pradziada" %}
+{% photo "2019_08_09__13_45__8097492.jpg","Polana na szczycie Pradziada","tag:good" %}
 
 Szlak na sam szczyt jest mało interesujący i jednocześnie bardzo popularny.
 Wiele osób podjeżdżało rowerem.
@@ -146,13 +146,13 @@ Sony 85/1.8 - do zdjęć z rozmyciem tła.
 Schodząc spróbowałem zrobić kilka zdjęć skupiając się na rozmyciu.
 Na początku wybrałem ciekawie wyglądającą górską trawę.
 
-{% photo "2019_08_09__14_56_DSC08578.jpg","Trawa, zwykła, górska" %}
+{% photo "2019_08_09__14_56_DSC08578.jpg","Trawa, zwykła, górska","tag:good" %}
 
 Po zjedzeniu, gdy czekaliśmy na powrotny autobus, zauważyłem różowe kwiatki (wierzbówka).
 Postanowiłem się skupić na nich. Zastanawiałem się, czy można by było je wykorzystać
 jako pierwszy plan do bardziej zaplanowanych zdjęć.
 
-{% photo "2019_08_09__15_17_DSC08605.jpg","Wierzbówka" %}
+{% photo "2019_08_09__15_17_DSC08605.jpg","Wierzbówka (1)","tag:best,tag:good" %}
 
 Zdjęcia z Olympusa są bardzo ładne, ostre, jednak w tym wypadku wydaje mi się,
 że to właśnie rozmycie dodaje uroku.

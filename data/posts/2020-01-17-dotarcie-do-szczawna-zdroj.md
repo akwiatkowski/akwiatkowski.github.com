@@ -91,7 +91,7 @@ W okolicy [stacji][wiki-walbrzych-miasto]
 budowana jest obwodnica i aby dotrzeć do niebieskiego szlaku pieszego
 musiałem trochę kombinować.
 
-{% photo "2020_01_17__15_07__1170225.jpg","Park Zdrojowy w Szczawnie Zdrój","timeline" %}
+{% photo "2020_01_17__15_07__1170225.jpg","Park Zdrojowy w Szczawnie Zdrój","tag:timeline" %}
 
 Ulicą Bardowskiego dotarłem do szlaku przez [Park Zdrojowy][wiki-park-zdrojowy].
 Wiedziałem, że [park][wiki-park-zdrojowy] ten nie będzie jakoś specjalnie

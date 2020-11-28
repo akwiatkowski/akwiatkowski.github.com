@@ -80,7 +80,7 @@ Chcąc ruszyć na zachód wybrałem pierwszą możliwość. Tym razem nie chcia�
 [Moraską Górę][wiki-moraska-gora]. Dzień
 wcześniej padało i wszędzie były kałuże, nie chciało mi się bezcelowo walczyć z błotem.
 
-{% photo "IMGP0494raw1.jpg","Droga ze Złotnik do Kiekrza","timeline" %}
+{% photo "IMGP0494raw1.jpg","Droga ze Złotnik do Kiekrza","tag:timeline,tag:good" %}
 
 Trasa do [Złotnik][wiki-zlotniki] jest w miarę ciekawa, jak się jeździ ją rzadko.
 Trochę ubitego terenu, trochę cywilizacji obok,

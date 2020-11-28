@@ -27,6 +27,8 @@ pois:
 
 ---
 
+{% photo_header "Zima w lesie","tag:portfolio,tag:good,tag:best" %}
+
 [wiki-chelmiec]: https://pl.wikipedia.org/wiki/Che%C5%82miec_(szczyt)
 [wiki-trojgarb]: https://pl.wikipedia.org/wiki/Tr%C3%B3jgarb
 [wiki-boguszow-gorce]: https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce
@@ -89,13 +91,13 @@ Przerabiając zdjęcia ustawiam nazwę pliku JPG aby zawierała datę i godzinę
 co mi znacząco ułatwia sortowanie i rozwiązuje problem nadpisywania w przypadku
 zmiany karty.
 
-{% photo "2020_01_18__10_24__1180572.jpg","Droga przez las (do Lubomina)","timeline" %}
+{% photo "2020_01_18__10_24__1180572.jpg","Droga przez las (do Lubomina)","tag:timeline" %}
 
 W przypadku tras pieszych zdjęcia są moimi głównymi notatkami. Patrzenie na nie
 pomaga mi przypomnieć wszystko co było istotnego i napisać wpis.
 Teraz gdy zdjęcia są pomieszane ze sobą jest to znacząco utrudnia.
 
-{% photo "2020_01_18__11_53_DSC05915.jpg","Okolice Lubomina","timeline" %}
+{% photo "2020_01_18__11_53_DSC05915.jpg","Okolice Lubomina","tag:timeline" %}
 
 Gdy chodziłem to miałem sporo przemyśleń w głowie, tego co mógłbym tutaj napisać, a pomimo
 upływu tylko jednego tygodnia, trudno jest mi wymyśleć więcej. Mała głupia pierdoła
@@ -139,13 +141,13 @@ stopniowo zmienia. Jak się później okazało 200m wysokości to bardzo duża r
 Mgła w połączeniu z zimnem tworzyła szron na drzewach. Na ziemi leżał też delikatny
 świeży śnieg.
 
-{% photo "2020_01_18__13_28_DSC05998.jpg","Drugie spotkanie z mgłą" %}
+{% photo "2020_01_18__13_28_DSC05998.jpg","Drugie spotkanie z mgłą","tag:good" %}
 
 Krajobraz zmieniał się stopniowo. Absolutnie nie myślałem, że tego dnia będę
 w stanie zrobić takie zdjęcia - jak połączenie szronu, śniegu i mgły stworzy
 wyjątkowo klimatyczną scenerię.
 
-{% photo "2020_01_18__13_30_DSC06011.jpg","Zimowy las","tag:portfolio,tag:winter" %}
+{% photo "2020_01_18__13_30_DSC06011.jpg","Zimowy las","tag:portfolio,tag:winter,tag:good,tag:best" %}
 
 Zrobiłem bardzo dużo zdjęć. Operując odpowiednio kontrastem dzięki mgle
 można uzyskać bardzo ciekawe rezultaty.
@@ -156,10 +158,10 @@ Zbliżaliśmy się do wieży widokowej. Usiadłem z Krzychem pod wiatą.
 Było kilka osób które piekły kiełbaski nad ogniskiem.
 Nie myślałem, że to miejsce jest tak popularne.
 
-{% photo "2020_01_18__13_55_DSC06085.jpg","Widok w stronę Marciszowa" %}
+{% photo "2020_01_18__13_55_DSC06085.jpg","Widok w stronę Marciszowa","tag:good" %}
 
 Krzychu powiedział mi, że nie warto iść na wieżę widokową. Był przed chwilą i
-nie widział nic oprócz białego koloru mgły. Zaczeliśmy jeść cukierki
+nie widział nic oprócz białego koloru mgły. Zaczęliśmy jeść cukierki
 (tylko to mieliśmy przy sobie) i pić herbatę.
 
 {% photo "2020_01_18__14_02_DSC06116.jpg","Widok na Chełmiec" %}
@@ -175,14 +177,14 @@ Udało mi się zrobić tyle zdjęć, że wybranie jakie tutaj umieścić
 nie jest czymś prostym. Już w tym momencie wiedziałem, że wyjazd mogę
 uznać za udany.
 
-{% photo "2020_01_18__12_58__1180693.jpg","Warstwy drzew" %}
+{% photo "2020_01_18__12_58__1180693.jpg","Warstwy drzew","tag:good" %}
 
 Spędziłem na wieży około 20 minut. Powrót był związany z pewnymi błędami
 organizacyjnymi. Pociąg powrotny mieliśmy za ponad 3 godziny,
 nie zrobiliśmy zapasów w sklepie i nie mogliśmy znaleźć na mapie żadnego
 sklepu w [Witkowie][wiki-witkow].
 
-{% photo "2020_01_18__13_06__1180738.jpg","Kręta droga" %}
+{% photo "2020_01_18__13_06__1180738.jpg","Kręta droga","tag:good" %}
 
 [Witków][wiki-witkow], według mapy, jest oddalony o półtora godziny
 drogi. I tam byśmy musieli czekać kolejne półtora godziny na stacji kolejowej.
@@ -203,7 +205,7 @@ nie poślizgnąć. Zabranie kijków było dobrym pomysłem.
 Dotarliśmy do drogi asfaltowej. Drogi, która była jeszcze lepsza na rower.
 Zerowy ruch samochód, idealny asfalt i góry w okolicy.
 
-{% photo "2020_01_18__14_03__1180809.jpg","Droga do Witkowa Śląskiego","timeline" %}
+{% photo "2020_01_18__14_03__1180809.jpg","Droga do Witkowa Śląskiego","tag:timeline" %}
 
 Kierowaliśmy się na zachód do [Witkowa Śląskiego][wiki-witkow].
 Krajobraz ponownie uderzył swoją szarością.

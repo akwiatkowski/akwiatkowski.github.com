@@ -73,7 +73,7 @@ do centrum.
 
 Pogoda tego dnia była idealna. Widać było delikatne chmury na niebie.
 
-{% photo "IMGP9418raw1.jpg","Delikatne chmury podczas wyjazdu z Krempnej","timeline" %}
+{% photo "IMGP9418raw1.jpg","Delikatne chmury podczas wyjazdu z Krempnej","tag:timeline" %}
 
 Wyruszyliśmy z [Krempnej][wiki-krempna] na zachód do wsi [Kotań][wiki-kotan].
 Po prawej stronie na łące pasły się krowy.
@@ -105,7 +105,7 @@ panoram. To mi się najbardziej podoba w [Beskidzie Niskim][wiki-beskid-niski]
 czyli delikatne wzgórza pokryte trawą. Oczywiście podoba mi się klimat, wioski i ludzie
 również.
 
-{% photo "IMGP9444raw1.jpg","Zjazd do Desznicy","timeline" %}
+{% photo "IMGP9444raw1.jpg","Zjazd do Desznicy","tag:timeline" %}
 
 Wjechaliśmy do [Desznicy][wiki-desznica] i pierwsze co zauważyłem to
 bardzo ładne nowe domy. Jakby to były najbogatsze miejscowości w okolicy.
@@ -113,7 +113,7 @@ bardzo ładne nowe domy. Jakby to były najbogatsze miejscowości w okolicy.
 Skręciliśmy w lewo jadąc do miejscowości [Jaworze][wiki-jaworze].
 Jechaliśmy zgodnie z czerwonym szlakiem rowerowym podjeżdzając na pagórek.
 
-{% photo "IMGP9451raw1.jpg","Podjazd ze wsi Jaworze","timeline" %}
+{% photo "IMGP9451raw1.jpg","Podjazd ze wsi Jaworze","tag:timeline" %}
 
 Gdy wjechaliśmy na górkę ponownie ukazał się jeszcze piękniejszy widok.
 
@@ -122,7 +122,7 @@ Gdy wjechaliśmy na górkę ponownie ukazał się jeszcze piękniejszy widok.
 Zdecydowaliśmy o tym, że będziemy konsekwentnie jechać czerwonym szlakiem
 rowerowym chociaż bardziej mnie interesował szlak zielony.
 
-{% photo "IMGP9469raw1.jpg","Wzgórza niedaleko Jaworza","timeline" %}
+{% photo "IMGP9469raw1.jpg","Wzgórza niedaleko Jaworza","tag:timeline" %}
 
 Gdy szlak skręcił w prawo przebiegał on przez 500m w lesie. Gdy las się
 skończył ponownie ujrzeliśmy bardzo fajny widok.

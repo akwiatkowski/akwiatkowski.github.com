@@ -31,13 +31,13 @@ Pierwsza zimowa styczność z górami - [Karkonoszami][wiki-karkonosze].
 Szczegóły
 ---------
 
-{% photo "IMGP2524b1.jpg","Dojeżdzając niedaleko Kowar","timeline" %}
+{% photo "IMGP2524b1.jpg","Dojeżdżając do Kowar","tag:timeline,tag:good" %}
 
 Wyruszyliśmy dość wcześnie z centrum [Karpacza][wiki-karpacz] w kierunku wyciągu na [Kopę][wiki-kopa]. Dzień wcześniej
 był bardzo silny wiatr, na górze wiało około 25m/s, przez co wyciąg wczoraj
 był nieczynny.
 
-{% photo "IMGP2628b1.jpg","Las w Karpaczu nocą" %}
+{% photo "IMGP2628b1.jpg","Las w Karpaczu nocą","tag:good" %}
 
 Tego dnia na szczęście pogoda się uspokoiła
 i udało się wjechać na [Kopę][wiki-kopa]. Siedzenia są pojedyńcze i wjeżdza się całe 20 minut. Trzeba mieć na uwadzę, że może być wtedy zimno. Taka oczywista rada.
@@ -46,22 +46,22 @@ i udało się wjechać na [Kopę][wiki-kopa]. Siedzenia są pojedyńcze i wjeżd
 
 Na górze wszystko było ośnieżone po wczorajszej zamieci. Był to dla mnie całkowicie inny świat.
 
-{% photo "IMGP3130b1.jpg","Okolice Kopy w śniegu" %}
+{% photo "IMGP3130b1.jpg","Okolice Kopy w śniegu","tag:good" %}
 
 Ruszyliśmy w kierunku [Śnieżki][wiki-sniezka]. Byliśmy jednymi z pierwszych osób na szlaku.
 
-{% photo "IMGP3026b1.jpg","Kotlina Jeleniogórska","timeline" %}
+{% photo "IMGP3026b1.jpg","Kotlina Jeleniogórska","tag:timeline" %}
 
 Próbowaliśmy wejść
 na [Śnieżkę][wiki-sniezka], jednak szlak był mocno oblodzony. Gdzieniegdzie pokryty śniegiem.
 Do tego miałem zamiast sensownych górskich zimowych butów glany. Nie było mi zimno, ale z jakiegoś
 powodu ludzie używają innych butów w tych warunkach. Postanowiliści się wycofać.
 
-{% photo "IMGP3041.JPG","Granica równi pod Śniezką po czeskiej stronie" %}
+{% photo "IMGP3041.JPG","Granica równi pod Śnieżką po czeskiej stronie","tag:good" %}
 
 W tym momencie pokręciliśmy się po tutejszej okolicy, gdyż niebo zrobiło się bardziej przejrzyśte a tereny ładniejsze.
 
-{% photo "IMGP3090.JPG","Kopa","timeline" %}
+{% photo "IMGP3090.JPG","Kopa","tag:timeline,tag:good" %}
 
 Zadziwiało mnie to, że większość ludzi wchodziła na [Śnieżkę][wiki-sniezka] tego dnia.
 Ja uznałem, że wejście nie było bezpieczne, a oni jednak

@@ -48,7 +48,7 @@ raz w tym roku. Wiele z nich widziało trawę pierwszy raz w swoim życiu.
 
 Niektóre z nich nawet próbowały pozować.
 
-{% photo "IMGP6705.JPG","Owce w Hańczowej" %}
+{% photo "IMGP6705.JPG","Owce w Hańczowej","tag:good" %}
 
 Z [Hańczowej][wiki-hanczowa] podjechaliśmy autobusem do [Klimkówki][wiki-klimkowka-wies]
 gdzie ponad godzinę spacerowaliśmy po plaży [jeziora][wiki-klimkowka] i okolicy.
@@ -60,7 +60,7 @@ do [Hańczowej][wiki-hanczowa].
 Czekając na autobus zaciekawiły mnie plecaki Deutera u spotkanych turystów,
 zwłaszcza jak chodzenie z takim dużym plecakiem może być wygodne.
 
-{% photo "IMGP7273b.jpg","Kot pilnujący owiec","tag:cat" %}
+{% photo "IMGP7273b.jpg","Kot pilnujący owiec","tag:cat,tag:best" %}
 
 ### Wejście na Rotundę
 

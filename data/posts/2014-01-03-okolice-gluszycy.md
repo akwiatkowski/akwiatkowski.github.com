@@ -61,4 +61,4 @@ Obiadokolacje zjedliśmy w [Zámeček][zamecek].
 
 Później znowu powrót przez las do samochodu, i powrót do noclegu.
 
-{% photo "IMGP2584raw1.jpg","Nocne zdjęcia przy noclegu" %}
+{% photo "IMGP2584raw1.jpg","Nocne zdjęcia przy noclegu","tag:good" %}

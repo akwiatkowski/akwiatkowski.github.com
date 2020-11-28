@@ -72,7 +72,7 @@ Szczegóły
 Wyjeżdzając z [Szamotuł][wiki-szamotuly] trafiłem na bardzo ładne tereny wiejskie w okolicy [Grabowca][ump-grabowiec], niestety
 szybko one minęły i po chwili jechałem już asfaltem w stronę [Piotrkówka][wiki-piotrkowko].
 
-{% photo "IMGP9763raw1.jpg","Okolica Szczuczyna","timeline" %}
+{% photo "IMGP9763raw1.jpg","Okolica Szczuczyna","tag:timeline,tag:good" %}
 
 [Piotrkówko][wiki-piotrkowko] jest wsią znacznie większą niż Grabowiec. Prawdopodobnie dlatego ma swoją stronę na wikipedii. Patrząc na gęstość zabudowy jest to jednak spora wioska.
 
@@ -87,7 +87,7 @@ Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej
 położonym nad nieistniejącą już linią kolejową [Oborniki][wiki-oborniki] - [Wronki][wiki-wronki],
 oraz widzi się fragment [mostu][most-stobnica] łączącego ze [Stobnicą][wiki-stobnica].
 
-{% photo "IMGP9777raw1.jpg","Widok na Wartę niedaleko Obrzycka","timeline" %}
+{% photo "IMGP9777raw1.jpg","Widok na Wartę niedaleko Obrzycka","tag:timeline" %}
 
 Dalej jadąc do [Obrzycka][wiki-obrzycko] przez las mijałem coś co wyglądało na przystanek. Mógł to być przystanek
 nieistniejącej już kolei, chociaż w pobliżu żadnych innych zabudowań nie widziałem.
@@ -101,14 +101,14 @@ W poprzednim roku [przejeżdzałem](/trip/2014/04/28/nadwarcianskim-szlakiem-row
 z Obornik
 do Wronek przez tą miejscowośc, tym razem skręciłem na północ kierując się przez [Puszczę Notecką][wiki-puszcza-notecka].
 
-{% photo "IMGP9795raw1.jpg","Okolica Jędrzejewa","timeline" %}
+{% photo "IMGP9795raw1.jpg","Okolica Jędrzejewa","tag:timeline,tag:good" %}
 
 [Puszcza Notecka][wiki-puszcza-notecka] z perspektywy przejazdu rowerem jest raczej nudna - asfalt i około 7km prosto przez
 lasy. Jak się jedzie to również nie słyszy się ptaków i ogólnie samej przyrody tylko słyszy
 się szum powietrza. Po wyjechaniu z puszczy przejechałem przez wieś
 [Tarnówko][wiki-tarnowko]. Ponownie, kolejna w miarę duża wieś po drodzę.
 
-{% photo "IMGP9798raw1.jpg","Wiosenna droga","timeline" %}
+{% photo "IMGP9798raw1.jpg","Wiosenna droga","tag:timeline,tag:good" %}
 
 Wyjeżdzajac z [Młynkowa][wiki-mlynkowo] do [Jędrzejewa][wiki-jedrzejewo] zaczęło trochę wiać. Ostudziło to moje myśli aby
 przedłużyć trasę dalej do [Piły][wiki-pila], a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.
@@ -116,7 +116,7 @@ Przez cały czas jechałem wokół pól i raczej nie ma co więcej opisywać.
 [Młynkowo][wiki-mlynkowo] to kolejna duża wioska. Chyba nawet jest tam
 szkoła.
 
-{% photo "IMGP9804raw2.jpg","Pola pomiędzy Dębe a Prusinowem","timeline" %}
+{% photo "IMGP9804raw2.jpg","Pola pomiędzy Dębe a Prusinowem","tag:timeline" %}
 
 Na drodzę z [Młynkowa][wiki-mlynkowo] w stronę [Prusinowa][wiki-prusinowo] zatrzymałem się, aby zrobić główne zdjęcie tego wpisu.
 W tym miejscu równiez widać ślady starej linii kolejowej.

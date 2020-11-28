@@ -68,7 +68,7 @@ tak ciepło jakby to był środek lata.
 Udałem się na ulicę Bankową, z której ruszyłem autobusem linii 5 do
 [Siedlęcina][wiki-siedlecin].
 
-{% photo "IMGP1041raw1.jpg","Rzeka Bóbr w Siedlęcinie","timeline" %}
+{% photo "IMGP1041raw1.jpg","Rzeka Bóbr w Siedlęcinie","tag:timeline" %}
 
 Chciałem dostać się do [zapory w Pilchowicach][wiki-pilchowice-zapora].
 Byłem tam dwa razy. Dwa razy padał deszcz, było pochmurnie, teraz była
@@ -97,7 +97,7 @@ Zdecydowałem się przejść ulicą Ogrodową a następnie polami w stronę
 sporą część drogi asfaltowej. Miałem też nadzieje na lepsze widoki będąc wyżej.
 Niestety powietrze nie było jakoś wybitnie przejrzyste tego dnia.
 
-{% photo "IMGP1094raw1.jpg","Siedlęcin","timeline" %}
+{% photo "IMGP1094raw1.jpg","Siedlęcin","tag:timeline" %}
 
 Tuż przed dotarciem do drogi asfaltowej przeszedłem przez mały ale gęsty lasek.
 Każde drzewo miało już jesienne barwy.
@@ -110,7 +110,7 @@ do [zapory][wiki-pilchowice-zapora].
 Niestety zielony szlak pieszy przebiega po drodze asfaltowej o dość wyraźnym
 ruchu.
 
-{% photo "IMGP1145raw1.jpg","Droga między Siedlęcinem a Strzyżowcem","timeline" %}
+{% photo "IMGP1145raw1.jpg","Droga między Siedlęcinem a Strzyżowcem","tag:timeline" %}
 
 Poruszałem się na północ robiąc zdjęcia jesiennej okolicy.
 
@@ -122,7 +122,7 @@ Na skrzyżowaniu z drogą do [zapory][wiki-pilchowice-zapora] były umieszczone
 trzy ławki. Było to dowodem na turystyczną popularność tego miejsca. Musiałem skręcić w lewo
 schodząc powoli w stronę celu dzisiejszego dnia.
 
-{% photo "IMGP1158raw1.jpg","Droga w stronę Strzyżowca","timeline" %}
+{% photo "IMGP1158raw1.jpg","Droga w stronę Strzyżowca","tag:timeline" %}
 
 Idąc samemu ma się dużo czas na przemyślenia o trasie. Teraz myślałem głównie
 o czasie i mojej sile. Bo dostać się do celu to jedno, a jeszcze trzeba wrócić.
@@ -148,7 +148,7 @@ Gdy zobaczyłem most kolejowy wiedziałem, że już jestem bliski celu. Poszedł
 [stację kolejową][wiki-pilchowice-stacja], na którą już teraz żaden pociag nie przyjeżdza.
 Trochę jest to smutne.
 
-{% photo "IMGP1190raw1.jpg","Przystanek Pilchowice Zapora","timeline" %}
+{% photo "IMGP1190raw1.jpg","Przystanek Pilchowice Zapora","tag:timeline" %}
 
 Zszedłem na plażę pod stacją aby zrobić jeszcze kilka zdjęć jeziora.
 

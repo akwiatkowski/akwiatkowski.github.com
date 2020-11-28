@@ -99,14 +99,14 @@ Jadąc do [Potaśni][wiki-potasnia] zjechaliśmy z 215m do 195m wysokości.
 Okolica stopniowo zmieniała się z osiedli z nowymi domami do klimatycznych wiosek,
 gdzie również nietrudno było znaleźć nowe budynki.
 
-{% photo "09_33_PA060014.jpg","Okolica Siedlikowa","timeline" %}
+{% photo "09_33_PA060014.jpg","Okolica Siedlikowa","tag:timeline" %}
 
 Na drzewach było widać nieśmiałe oznaki jesieni, jednak trochę liści spadło już
 na ziemię w wyniku suszy.
 
 W [Siedlikowie][wiki-siedlikow] widziałem dom z małą elektrownią wiatrową.
 
-{% photo "09_44_PA060021.jpg","Droga z Mikstatu","timeline" %}
+{% photo "09_44_PA060021.jpg","Droga z Mikstatu","tag:timeline" %}
 
 Do [Mikstatu][wiki-mikstat] wjechaliśmy nową ścieżką rowerową.
 Centrum tej miejscowości ma ładny rynek, z którego widzieliśmy kościół.
@@ -161,7 +161,7 @@ Same wioski niewiele się różniły obok siebie. Patrząc na mapę wydawało mi
 a w środku tygodnia ludzie dojeżdżają do pracy. Pomimo klasy drogi
 jest ona wyraźnie eksploatowana.
 
-{% photo "13_03_PA060087.jpg","Wyjazd z Raszkowa","timeline" %}
+{% photo "13_03_PA060087.jpg","Wyjazd z Raszkowa","tag:timeline" %}
 
 W [Raszkowie][wiki-raszkow] zauważyłem sporo nieremontowanych budynków z
 czerwonej cegły.

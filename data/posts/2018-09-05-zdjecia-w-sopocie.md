@@ -55,7 +55,7 @@ nasze bilety, ledwo zdążyła do nas.
 Okolice [Terespolu Pomorskiego][wiki-terespol-pomorski] są ciekawe. Jest tam spory
 zbiornik na [Wdzie][wiki-wda] i bardzo ładny most kolejowy.
 
-{% photo "\_9050050.jpg","Okolice Kulic","timeline" %}
+{% photo "\_9050050.jpg","Okolice Kulic","tag:timeline" %}
 
 Tereny w pobliżu [Kulic][wiki-kulice] są znacznie ciekawsze z okna pociągu.
 O tym się przekonałem

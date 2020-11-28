@@ -123,7 +123,7 @@ Zrobiłem przerwę obok drewnianego kościoła w [Jaminach][wiki-jaminy].
 Obok jest cmentarz. Zauważyłem odróżniające się groby od reszty. Jeżeli się nie mylę
 (a niestety nie zapisałem sobie tego) są to groby pomordowanych przez hitlerowców.
 
-{% photo "P8080140.jpg","Stary dom we wsi Jaminy","timeline" %}
+{% photo "P8080140.jpg","Stary dom we wsi Jaminy","tag:timeline" %}
 
 Często widzieliśmy bociana w gnieździe na słupach elektrycznych. Chyba to jest dość
 powszechny widok na [Podlasiu][wiki-podlasie].
@@ -149,13 +149,13 @@ Opuszczając [tą wieś][wiki-mogilnice] widziałem jeszcze wiele ciekawych
 budynków jednak nie zatrzymywałem się. Nagrałem je na filmiku. Przestałem
 wrzucać filmiki do sieci gdyż wolę robić je dłuższe, tylko dla samego siebie.
 
-{% photo "P8080181.jpg","Kanał Augustowski","timeline" %}
+{% photo "P8080181.jpg","Kanał Augustowski","tag:timeline" %}
 
 Dotarliśmy do skrzyżowania gdzie skręciliśmy w lewo, zgodnie
 ze szlakiem. Gdybyśmy skręcili w prawo po 20km dojechalibyśmy do
 [Augustowa][wiki-augustow]. Też mnie ciekawi ten szlak rowerowy.
 
-{% photo "P8080187.jpg","Biebrza obok Dębowa","timeline" %}
+{% photo "P8080187.jpg","Biebrza obok Dębowa","tag:timeline" %}
 
 Mieliśmy 3.5km jazdy do [Dębowa][wiki-debowo]. Wysokie krzewy blokowały widok
 na [Biebrzę][wiki-biebrza].
@@ -179,7 +179,7 @@ Gdy dotarliśmy do [Jasionowa Dębowskiego][wiki-jasionowo-debowskie]
 skończyła się droga asfaltowa.
 Droga gruntowa nie była zła. Od tego miejsca widzieliśmy już znacznie więcej rowerzystów.
 
-{% photo "P8080215.jpg","Rzeka Biebrza","timeline" %}
+{% photo "P8080215.jpg","Rzeka Biebrza","tag:timeline" %}
 
 Jechaliśmy 5km wzdłuż [Biebrzy][wiki-biebrza] aż do
 [Dolistowa Starego][wiki-dolistowo-stare]. Jest to zdecydowanie najciekawszy

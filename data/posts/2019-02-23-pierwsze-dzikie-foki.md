@@ -39,12 +39,12 @@ zobaczyć foki jednak nie udało mi się. Tego dnia miałem podobną nadzieję.
 Dotarliśmy do stacji [Gdańsk Główny][wiki-gdansk-glowny] a następnie
 ruszyliśmy autobusem 112.
 
-{% photo "2019_02_23__11_36__2231038.jpg","Drugi brzeg Wisły","timeline" %}
+{% photo "2019_02_23__11_36__2231038.jpg","Drugi brzeg Wisły","tag:timeline" %}
 
 Wysiedliśmy około 11:30. Pogoda była dosyć nijaka. Było szaro i
 nie za ciepło, ale też nie przesadnie zimno.
 
-{% photo "2019_02_23__11_40__2231045.jpg","Szlak wzdłuż brzegu Wisły","timeline" %}
+{% photo "2019_02_23__11_40__2231045.jpg","Szlak wzdłuż brzegu Wisły","tag:timeline" %}
 
 Kierowaliśmy się wzłuż [Wisły][wiki-wisla] na północ.
 
@@ -77,7 +77,7 @@ widziałem ciekawe sople.
 
 W stawie w okolicy pływał łabędź.
 
-{% photo "2019_02_23__13_27__2231284.jpg","Łabędź na Mewiej Łasze","timeline" %}
+{% photo "2019_02_23__13_27__2231284.jpg","Łabędź na Mewiej Łasze","tag:timeline" %}
 
 Wróciliśmy na ten sam przystanek autobusowy. Zauważyliśmy kota obok sklepu.
 

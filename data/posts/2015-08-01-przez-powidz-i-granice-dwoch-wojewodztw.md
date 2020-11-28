@@ -70,7 +70,7 @@ Wyruszyłem na północ przejeżdżając przez tereny wiejskie i leśne.
 Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i przyjemne
 do jazdy.
 
-{% photo "IMGP2410raw1.jpg","Droga do Polanowa","timeline" %}
+{% photo "IMGP2410raw1.jpg","Droga do Polanowa","tag:timeline" %}
 
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
 starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
@@ -104,13 +104,13 @@ województwo [wielkopolskie][wiki-wielkopolskie].
 
 Do [Przyjezierza][wiki-przyjezierze] wjechałemo-6] przez las.
 
-{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","timeline" %}
+{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","tag:timeline" %}
 
 Przejechałem [Przyjezierze][wiki-przyjezierze] i kierowałem sie w stronę [Strzelna][wiki-strzelno].
 Mijałem wsie ([Ostrowo][wiki-ostrowo] i [Cieńcisko][wiki-ciensisko]),
 które znałem całkiem dobrze.
 
-{% photo "IMGP2482raw1.jpg","Pola po żniwach","timeline" %}
+{% photo "IMGP2482raw1.jpg","Pola po żniwach","tag:timeline" %}
 
 Mając trochę czasu przejechałem się do [Bronisławia][wiki-bronislaw] przez małe
 kujawskie wioski.

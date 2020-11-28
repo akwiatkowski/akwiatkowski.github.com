@@ -69,7 +69,7 @@ dnia na wschód przez [Polany][wiki-polany]. Tym
 razem nie jechaliśmy do [Huty Polańskiej][wiki-huta-polanska] a w kierunku
 [Olchowca][wiki-olchowiec].
 
-{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","timeline" %}
+{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","tag:timeline" %}
 
 Trasa do [Jaślisk][wiki-jasliska] jest dosyć prosta, tylko że my nie chcieliśmy
 wracać tą samą drogą. Z tego powodu były dwa "odbicia". Pierwsze
@@ -141,7 +141,7 @@ do granicy. Niestety domy blokowały większość widoku, a nie miałem czasu (t
 nie chciało mi się). Caciekawiła mnie dolina od strony góry [Kamień][wiki-kamien]
 i wydaję mi się że gdy będę tutaj następnym razem to pojadę tą trasą.
 
-{% photo "IMGP0890raw1.jpg","Droga z Mszany","timeline" %}
+{% photo "IMGP0890raw1.jpg","Droga z Mszany","tag:timeline" %}
 
 Po chwili rozpoczęliśmy trasę powrotną. Tym razem już mieliśmy jechać tylko
 asfaltem. Najpierw zjazd z centrum wsi, później drogą do [Tylawy][wiki-tylawa]

@@ -57,7 +57,7 @@ Prognoza pogody była aż za dobra. Wokół była "złota polska jesień" w peł
 Ja niestety nie czułem się zbyt dobrze. Coś mnie w gardle zaczęło gryźć. Na szczęście
 głowa mnie nie bolała i jeszcze mogłem pracować.
 
-{% photo "2018_10_10_06_53__A100812.jpg","Polana pod Wołkiem","timeline" %}
+{% photo "2018_10_10_06_53__A100812.jpg","Polana pod Wołkiem","tag:timeline" %}
 
 Dzień wcześniej wieczorem rozmawiałem z [Arturem][artur-bociarski]. Był on
 samochodem dlatego postanowiłem wykorzystać okazję, która się pojawiła.
@@ -110,13 +110,13 @@ Zrobiłem kilka zdjęć umieszczając aparat nisko w trawie. Z rezultatów
 jestem zdecydowanie zadowolony.
 
 <!-- {% photo "2018_10_10_07_45__A100967.jpg","Aż tak daleko nie chciałem iść" %} -->
-{% photo "2018_10_10_07_59__A101007.jpg","Widok w stronę Lubawki","timeline" %}
+{% photo "2018_10_10_07_59__A101007.jpg","Widok w stronę Lubawki","tag:timeline" %}
 
 Natrafiłem na ciekawą polanę. Zadzwoniłem do Artura aby mu o tym powiedzieć.
 Chociaż nie jestem zadowolony ze zdjęć, które tam zrobiłem. Nie wiem czemu.
 Miejsce to mi się podobało na żywo ale zdjęcia mi się nie podobają.
 
-{% photo "2018_10_10_08_08__A101024.jpg","Polana","timeline" %}
+{% photo "2018_10_10_08_08__A101024.jpg","Polana","tag:timeline" %}
 
 Wiedziałem, że następnego dnia pogoda już nie będzie tak dobra.
 

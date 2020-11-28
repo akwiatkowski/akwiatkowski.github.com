@@ -81,7 +81,7 @@ przez opuszczone tereny, stare gospodarstwa rolne.
 Mapy OpenStreetMap i UMP różnią się jeżeli chodzi o nazwy i położenia
 miejscowości wzdłuż drogi, którą jechaliśmy.
 
-{% photo "IMGP9844raw1.jpg","Jeden z wielu przydrożnych krzyży w Beskidzie Niskim","timeline" %}
+{% photo "IMGP9844raw1.jpg","Jeden z wielu przydrożnych krzyży w Beskidzie Niskim","tag:timeline" %}
 
 Dzień wcześniej zjeżdzając do [Jaślisk][wiki-jasliska] delikatnie przebiłem
 dętkę. Miałem kawałek metalu wbity w oponę. Napompowałem rano oponę jednak
@@ -102,7 +102,7 @@ Dwa szczególne miejsca muszę polecić tutaj. Pierwszym obiektem
 są bardzo czyste zbiorniki wodne, które chyba należą do
 rzeki [Jasiołki][wiki-jasiolka-rzeka]
 
-{% photo "IMGP9903raw1.jpg","Rzeka Jasiołka","timeline" %}
+{% photo "IMGP9903raw1.jpg","Rzeka Jasiołka","tag:timeline" %}
 
 Drugim to pomnik zamordowanych przez [UPA][wiki-upa] podczas
 [Zbrodni w Jasielu][wiki-zbrodnia-jasiel]
@@ -125,7 +125,7 @@ Dojechaliśmy do starych gospodarstw rolnych przy [Moszczańcu][wiki-moszczaniec
 Całkiem klimatyczne było to miejsce chociaż ponownie trudno mi
 to opisać.
 
-{% photo "IMGP9947raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","timeline" %}
+{% photo "IMGP9947raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","tag:timeline" %}
 
 Ponownie dołączyliśmy do drogi 897 widząc bardzo ładne pagórki przed nami.
 Widok ten jest połączoniem pofalowanych łąk, na których gdzieniegdzie są drzewa,
@@ -152,7 +152,7 @@ Do wyboru były tylko pierogi. Czemu pierogi są tutaj tak popularne?
 Dwa samochody, które zaparkowały obok tego obiektu, miały na sobie rowery
 i to całkiem dużo - jeden miał cztery a drugi dwa.
 
-{% photo "IMGP9953raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","timeline" %}
+{% photo "IMGP9953raw1.jpg","Zjazd w stronę Wisłoka Wielkiego","tag:timeline" %}
 
 Podjazd, którego się tak obawiałem, udało się pokonać dość szybko. Nie był
 taki straszny. Wracaliśmy tą samą drogą do [Moszczańca][wiki-moszczaniec]

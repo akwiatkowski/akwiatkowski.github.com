@@ -51,13 +51,13 @@ Pogoda była idealna - soczysty niebieski kolor nieba i soczysta zieleń trawy.
 W niektórych miejscach mlecze i kwitnące drzewa. Trudno mi opisać, ale było czuć że po prawej
 stronie mijam [Puszczę Notecką][wiki-puszcza-notecka].
 
-{% photo "IMGP5533raw1.jpg","Widok na Wartę" %}
+{% photo "IMGP5533raw1.jpg","Widok na Wartę","tag:good" %}
 
 Wjeżdzając do [Obrzycka][wiki-obrzycko] zmienił się znacząco krajobraz. Od tego momentu
 aż do [Wronek][wiki-wronki] jechałem przez las drogami polnymi. Trochę mniej interesująca trasa,
 gdyż jedyne co się widzi to las i miejscami jechałem przez lekkie piaski.
 
-{% photo "IMGP5538raw1.jpg","Zielona wiosna","timeline" %}
+{% photo "IMGP5538raw1.jpg","Zielona wiosna","tag:timeline" %}
 
 Ciekawostką jest to, że kiedyś było połączenie kolejowe
 [Oborniki][wiki-oborniki] - [Wronki][wiki-wronki].

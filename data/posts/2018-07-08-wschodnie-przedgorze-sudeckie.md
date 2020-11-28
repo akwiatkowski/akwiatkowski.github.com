@@ -99,7 +99,7 @@ Pogoda też się "pogorszyła". Niebo było zachmurzone. Nawet rozważałem
 aby ubrać koszulkę z długim rękawem (co jednak nie było konieczne).
 Po majówce nigdy rano nie musiałem zakładać koszulki z długim rękawem.
 
-{% photo "P7080765.jpg","Okolice Bobolic","timeline" %}
+{% photo "P7080765.jpg","Okolice Bobolic","tag:timeline" %}
 
 Jechaliśmy ulicą Ziębicką mijając stare domy i kamienice. Później
 przejechaliśmy pod wiaduktem [linii kolejowej 137][wiki-linia-137], którą
@@ -109,7 +109,7 @@ Wjechaliśmy do [Jaworka][wiki-jaworek]. Średnio mi się podoba ta miejscowoś�
 Jest tu bardzo dużo nowych domów mieszkalnych. Miejscowość
 ta straciła swój dolnośląski klimat.
 
-{% photo "P7080796.jpg","Warstwy pól","timeline" %}
+{% photo "P7080796.jpg","Warstwy pól","tag:timeline" %}
 
 Na majówce [w 2016]({% post_url 2016-04-30-przez-srebrna-gore-do-henrykowa %})
 jechaliśmy tą samą drogę podczas opuszczania
@@ -129,7 +129,7 @@ Gdy dojeżdzaliśmy do [Krzelkowa][wiki-krzelkow] miałem wrażenie, jakby już
 się był to był już koniec tej ciekawej, wijącej się, sudeckiej drogi.
 Wcale tak nie było.
 
-{% photo "P7080830.jpg","Po opuszczeniu Krzelkowa","timeline" %}
+{% photo "P7080830.jpg","Po opuszczeniu Krzelkowa","tag:timeline" %}
 
 Wjechaliśmy do [Lipy][wiki-lipa]. Miałem wrażenie jakbyśmy już
 zjechali w płaską dolinę ale to były tylko pozory. Gdy byliśmy w centrum
@@ -164,7 +164,7 @@ Nie wiem czy droga do [Dębowca][wiki-debowiec] była gorsza wizualnie.
 Opuszczając [miasto][wiki-ziebice] zabudowa stawała się
 rzadsza. My skręciliśmy w lewo w stronę [Osiny Wielkiej][wiki-osina-wielka].
 
-{% photo "P7080882.jpg","Pagórki w okolicy Dębowca","timeline" %}
+{% photo "P7080882.jpg","Pagórki w okolicy Dębowca","tag:timeline" %}
 
 Jechaliśmy asfaltową
 drogą mijając pola z prawej. Dobrze się to zapowiadało. Powoli podjeżdżaliśmy
@@ -177,12 +177,12 @@ Dojechaliśmy do okolic skrzyżowania z [Dębowcem][wiki-debowiec].
 Skręciliśmy w dróżkę, którą dojechaliśmy do miejsca z idealnym widokiem
 na [Góry Złote][wiki-gory-zlote] i wschodnie [Sudety][wiki-sudety].
 
-{% photo "P7080901.jpg","Żółty szlak pieszy do Paczkowa","timeline" %}
+{% photo "P7080901.jpg","Żółty szlak pieszy do Paczkowa","tag:timeline" %}
 
 Z tamtego miejsca jest poprowadzony żółty szlak pieszy do [Paczkowa][wiki-paczkow],
 który jest oddalony o niecałek 4h.
 
-{% photo "P7080919.jpg","Osina Wielka","timeline" %}
+{% photo "P7080919.jpg","Osina Wielka","tag:timeline" %}
 
 Jechaliśmy przez bardzo klimatyczną wioskę. Odpoczywający kot na ulicy
 był przykładem minimalnego ruchu samochodów w tym miejscu.
@@ -193,7 +193,7 @@ Kierowaliśmy się do [Chociebórza][wiki-chocieborz] jadąc jeszcze
 w miarę asfaltową drogą. Droga ta stopniowo zmieniła się na bardzo ubitą
 ziemię z kamieniami. To był najciekawszy fragment całego wyjazdu.
 
-{% photo "P7080974.jpg","Pofalowane pola podczas wyjazdu z Osiny Wielkiej","timeline" %}
+{% photo "P7080974.jpg","Pofalowane pola podczas wyjazdu z Osiny Wielkiej","tag:timeline" %}
 
 Przydrożny mały obelisk wskazujący na granicę [Księstwa Nyskiego][wiki-ksiestwo-nyskie]
 wyjaśnia dzikość tych terenów. Słup (monolit) został wyryty około 1300 roku.
@@ -204,11 +204,11 @@ W [Chociebórze][wiki-chocieborz] skręciliśmy w prawo jadąc na południe.
 Gdy opuściliśmy tą wioskę mieliśmy widok wprost na farmę
 elektrowni wiatrowych.
 
-{% photo "P7080998.jpg","Widok na farmę wiatrową","timeline" %}
+{% photo "P7080998.jpg","Widok na farmę wiatrową","tag:timeline" %}
 
 Jak na złość tutaj najwięcej ciekawych zdjęć zrobiłem.
 
-{% photo "P7081005.jpg","Droga wokół dzikich drzew owocowych","timeline" %}
+{% photo "P7081005.jpg","Droga wokół dzikich drzew owocowych","tag:timeline" %}
 
 Bardzo mi się podobało to miejsce. Zdecydowanie był to najlepszy fragment tego
 wyjazdu
@@ -218,7 +218,7 @@ wyjazdu
 Jadąc na południe do [Lipnik][wiki-lipniki] mieliśmy całkiem solidny zjazd
 gdyż w okolicy jest źródło rzeki [Oławy][wiki-olawa-rzeka].
 
-{% photo "P7081026.jpg","Widok na dolinę rzeki Oławy","timeline" %}
+{% photo "P7081026.jpg","Widok na dolinę rzeki Oławy","tag:timeline" %}
 
 Z [Lipnik][wiki-lipniki] ruszyliśmy na południowy wschód do
 [Janowej][wiki-janowa]
@@ -290,7 +290,7 @@ i tam zdecydować: albo bezpośrednio do [Nysy][wiki-nysa] (w której mieliśmy
 nocleg) albo przez [Kijów][wiki-kijow]. Druga opcja przedłużała dojazd o 40 minut
 ale bym zaliczył dodatkową gminę - [Głuchołazy][wiki-glucholazy-gmina].
 
-{% photo "P7081099.jpg","Przydrożna kapliczka","timeline" %}
+{% photo "P7081099.jpg","Przydrożna kapliczka","tag:timeline" %}
 
 Robiło się już późno. Słońce skryte za chmurami potęgowało jeszcze
 wrażenie, jakby niedługo miało ono zachodzić, dlatego zachowawczo wolałem

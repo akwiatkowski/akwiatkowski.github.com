@@ -56,27 +56,27 @@ jechaliśmy samochodem do [Karpacza][wiki-karpacz].
 W [Ogorzelcu][wiki-ogorzelec] zeszliśmy do wioski i dołączyliśmy do niebieskiego szlaku pieszego
 obok rzeki [Świdnik][wiki-swidnik].
 
-{% photo "IMGP2703b.jpg","Stary dom w Ogorzelcu" %}
+{% photo "IMGP2703b.jpg","Stary dom w Ogorzelcu","tag:good" %}
 
 Doszliśmy do [Przełęczy Kowarskiej][wiki-przel-kowarska], czyli byliśmy już na 727m
 wysokości n.p.m.
 
-{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu" %}
+{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu","tag:good,tag:best" %}
 
 Od tego miejsca szliśmy cały czas żółtym szlakiem pieszym
 w kierunku [Malá Úpa][wiki-mala-upa] lub
 [Przełęczy Okraj][wiki-okraj].
 
-{% photo "IMGP2801c.jpg","Wieś Podgórzyn","timeline" %}
+{% photo "IMGP2801c.jpg","Wieś Podgórzyn","tag:timeline" %}
 
 Po drodze z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].
 
-{% photo "IMGP2816b.jpg","Widok na Jelenią Strugę" %}
+{% photo "IMGP2816b.jpg","Widok na Jelenią Strugę","tag:good" %}
 
 Dalej droga była raczej umiarkowanie ciekawa, oprócz miejsc takich jak to. Oczywiście ciekawość jest subiektywna.
 
-{% photo "IMGP2849b.jpg","Żółty szlak z Przełęczy Okraj","timeline" %}
+{% photo "IMGP2849b.jpg","Żółty szlak z Przełęczy Okraj","tag:timeline,tag:good" %}
 
 Jak dotarliśmy do [Malá Úpa][wiki-mala-upa] i przeszliśmy przez granicę,
 to od razu można było
@@ -94,7 +94,7 @@ opcją.
 Jedynym plusem był padający śnieg. Fajnie, pierwszy śnieg w tym roku miałem zaliczony. Szkoda że było tak mało.
 Powrót w śnieżycy mógłby być ciekawym doświadczeniem.
 
-{% photo "IMGP3017b.jpg","Jeden z pierwszych śniegów w Karkonoszach" %}
+{% photo "IMGP3017b.jpg","Jeden z pierwszych śniegów w Karkonoszach","tag:good" %}
 
 Doszliśmy do [Skalnego Stołu][wiki-skalny-stol] który przy tej pogodzie okazał się kupą kamieni. Po tym zejście
 do [Karpacza][wiki-karpacz] przez las. Nie pamiętam abym zauważył coś ciekawego wtedy.

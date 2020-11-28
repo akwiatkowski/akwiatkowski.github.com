@@ -56,7 +56,7 @@ miasta. Ma w sobie coś, ogrom miejsc do zdjęć które lubię robić. Jednak je
 trudno nie mieć wrażenia, że w którejś z tym bram ktoś chciałby pożyczyć ode mnie
 telefon (jakby moje xiaomi było dużo warte).
 
-{% photo "2019_07_03__16_21__7031339.jpg","Ulica Legionów w Łodzi" %}
+{% photo "2019_07_03__16_21__7031339.jpg","Ulica Legionów w Łodzi","tag:good" %}
 
 W moich oczach wąski rozstaw szyn tramwajowym w [Łodzi][wiki-lodz] to problem.
 Większość tramwajów porusza się po drogach asfaltowych, których szerokość
@@ -69,7 +69,7 @@ szybkiej komunikacji, tutaj niezupełnie.
 Kolejną wadą komunikacji łódzkiej to nazwy przystanków. Nazwa dwuczłonowa złożona
 z ulic krzyżujących się jest według mnie gorsza od nazwy jednoczłonowej.
 
-{% photo "2019_07_03__16_28__7031353.jpg","Odrestaurowany budynek przemysłowy" %}
+{% photo "2019_07_03__16_28__7031353.jpg","Odrestaurowany budynek przemysłowy","tag:good" %}
 
 Łatwiej zapamiętać i wpisać w aplikacji *jakdojade* jeden wyraz niż dopasować dwa.
 
@@ -88,7 +88,7 @@ jak to widziałem w [Krakowie][wiki-krakow].
 Nie miałem dużo czasu w [Pabianicach][wiki-pabianice]. Chciałem wrócić i jeszcze
 pozwiedzać centrum [Łodzi][wiki-lodz] późnym popołudniem.
 
-{% photo "2019_07_03__18_43__7031514.jpg","Łódzkie ruiny - przędzalnia Grohmana" %}
+{% photo "2019_07_03__18_43__7031514.jpg","Łódzkie ruiny - przędzalnia Grohmana","tag:good" %}
 
 Pokręciłem się w okolicy dawnego zespołu włókienniczego [Księży Młyn][wiki-ksiezy-mlyn].
 
@@ -100,7 +100,7 @@ Są tam bardzo klimatyczne budynki. To jest taka prawdziwie łódzka [Łódź][w
 
 Ruszyłem pieszo w stronę centrum. Szukałem jakiegoś ciekawego miejsca z jedzeniem.
 
-{% photo "2019_07_03__19_06__7031566.jpg","Okolica ulicy Miedzianej" %}
+{% photo "2019_07_03__19_06__7031566.jpg","Okolica ulicy Miedzianej","tag:good" %}
 
 Widocznie takie sklepiki, jak ten na zdjęciu na początku wpisu, to normalna część
 kulturowa [Łodzi][wiki-lodz].

@@ -93,7 +93,7 @@ w nim żadnego światła. Pasażerowie szanowali ciemność i nie używali latar
 Zastanawiałem się, co by było gdyby z jakiegoś
 powodu pociąg się zatrzymał w środku tunelu.
 
-{% photo "IMGP5630raw1.jpg","Niedaleko Nielestna","timeline" %}
+{% photo "IMGP5630raw1.jpg","Niedaleko Nielestna","tag:timeline" %}
 
 Przejeżdzając przez okolice stacji w [Marczowie][wiki-marczow]
 (aż za [Dębowy Gaj][wiki-debowy-gaj]) miałem odczucie
@@ -137,7 +137,7 @@ Stacja ta jest na terenie Polski ale jest obsługiwana przez niemieckiego
 przewoźnika i korzystają z niej głównie Niemcy - mieszkańcy
 miejscowości [Ostritz][wiki-ostritz].
 
-{% photo "IMGP5862raw1.jpg","Widok na Ostritz","timeline" %}
+{% photo "IMGP5862raw1.jpg","Widok na Ostritz","tag:timeline" %}
 
 Gdy zbliżaliśmy się do [Turoszowa][wiki-turoszow] pociąg dwa razy przekraczał
 granicę przez [Nysę][wiki-nysa-rzeka].

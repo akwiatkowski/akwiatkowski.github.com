@@ -62,7 +62,7 @@ jednak chyba nie rzuciłbym się na niego rowerem.
 Zeszliśmy do [Ponic][wiki-ponice], takiej małej wsi pośrodku gór. Chociaż bardziej
 to były duże pagórki.
 
-{% photo "IMGP7252raw1.jpg","Idąc do Rdzawki","timeline" %}
+{% photo "IMGP7252raw1.jpg","Idąc do Rdzawki","tag:timeline" %}
 
 Następnie kolejne podejście na wzgórze nad [Rdzawką][wiki-rdzawka]. Mieliśmy
 tam zobaczyć [kościół][wiki-rdzawka-kosciol], jednak robiło się zimniej niż

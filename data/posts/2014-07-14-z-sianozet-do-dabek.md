@@ -55,4 +55,4 @@ Większe miejscowości, które minęliśmy to:
 * [Łazy][wiki-lazy]
 * [Bukowo Morskie][wiki-bukowo]
 
-{% photo "IMGP8190raw1.jpg","Zachód nad Bałtykiem" %}
+{% photo "IMGP8190raw1.jpg","Zachód nad Bałtykiem","tag:good" %}

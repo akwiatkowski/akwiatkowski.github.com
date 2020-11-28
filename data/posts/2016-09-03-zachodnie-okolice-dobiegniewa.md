@@ -58,7 +58,7 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP5533raw1.jpg","Drzewa w okolicy Jeziora Osiek","timeline" %}
+{% photo "IMGP5533raw1.jpg","Drzewa w okolicy Jeziora Osiek","tag:timeline" %}
 
 Do [Dobiegniewa][wiki-dobiegniew] dojechaliśmy trochę późno - po 13-tej.
 Chwilę po tym wyruszyliśmy niebieskim szlakiem pieszym na zachód przez
@@ -87,7 +87,7 @@ raczej głównie z tego powodu, była to bardzo ładna okolica.
 Ciekawiło mnie "co jest tam za wzgórzem", ale niestety nie było na to czasu.
 Wrócę tutaj rowerem i zobaczę więcej następnym razem.
 
-{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","timeline" %}
+{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","tag:timeline" %}
 
 Wróciliśmy drogą "główną", która nawet nie była asfaltowa, do [Osieka][wiki-osiek]
 i dalej do [Dobiegniewa][wiki-dobiegniew].

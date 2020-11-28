@@ -44,7 +44,7 @@ Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem sz
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 
-{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój","timeline" %}
+{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój","tag:timeline" %}
 
 Dopiero teraz zauważyłem że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
 Myślałem, że jest jakieś bardziej bezpośrednie połączenie, ale innych torów tam nie ma.

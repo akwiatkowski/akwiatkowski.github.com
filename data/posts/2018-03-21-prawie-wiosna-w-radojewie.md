@@ -55,4 +55,4 @@ gdyż zbliżała się Wielkanoc.
 W okolicy rzeki [Warty][wiki-warta] jest trochę powalonych drzew. Niestety
 nie udało mi się zrobić wystarczająco ciekawego zdjęcia z nimi.
 
-{% photo "IMGP6169raw1.jpg","Powalone drzewa w zamarzniętej wodzie","timeline" %}
+{% photo "IMGP6169raw1.jpg","Powalone drzewa w zamarzniętej wodzie","tag:timeline" %}

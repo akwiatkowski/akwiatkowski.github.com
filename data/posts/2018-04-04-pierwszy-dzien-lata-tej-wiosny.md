@@ -89,7 +89,7 @@ Ruszyłem w stronę [Dąbrówki Wielkopolskiej][wiki-dabrowka-wielkopolska] drog
 powinna być spokojna. Środek tygodnia i bliskość miasta wpływał na nieznacznie
 większy ruch.
 
-{% photo "IMGP6281raw1.jpg","Droga do Dąbrówki Wielkopolskiej","timeline" %}
+{% photo "IMGP6281raw1.jpg","Droga do Dąbrówki Wielkopolskiej","tag:timeline" %}
 
 Ciekawa jest burzliwa historia [wsi][wiki-dabrowka-wielkopolska] przed
 [II Wojną Światową][wiki-ii-wojna], głównie chodzi o próby germanizacji.
@@ -221,7 +221,7 @@ Dowiedziałem się, że raczej powinienem bezproblemowo dojechać do [Chyciny][w
 mógłbym jechać drogą asfaltową do [Skwierzyny][wiki-skwierzyna]. Droga ta była gruntowo-brukowa i
 dość ciężko się jechało.
 
-{% photo "IMGP6320raw1.jpg","Wyjeżdzając z Gorzycy","timeline" %}
+{% photo "IMGP6320raw1.jpg","Wyjeżdzając z Gorzycy","tag:timeline" %}
 
 W samej [wiosce][wiki-gorzyca] wokół drogi były drzewa a zabudowania (chyba bez ogrodzeń)
 były położone dalej od głównej drogi.

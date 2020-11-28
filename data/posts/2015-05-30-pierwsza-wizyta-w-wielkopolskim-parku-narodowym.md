@@ -43,7 +43,7 @@ Szczegóły
 Jechaliśmy przez [Luboń][wiki-lubon] i [Wiry][wiki-wiry] aż do żółtego szlaku rowerowego
 w [parku][wiki-wpn]. Całkiem ciekawe były te tereny, zwłaszcza wioski i pola.
 
-{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach" %}
+{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach","tag:good" %}
 
 Gdy już byliśmy w [parku][wiki-wpn] zrobiło się trochę nudniej, gdyż jechaliśmy przez
 prawie 5km prostą drogą. Wyglądało to jak zwykły przejazd przez las. Ciekawie wyglądało
@@ -53,7 +53,7 @@ miejsce jeszcze raz odwiedzić.
 Następnie jechaliśmy do [Łodzi][wiki-lodz]. Tam teren zrobił się trochę bardziej
 pofalowany.
 
-{% photo "IMGP0192raw1.jpg","Pola niedaleko Wirów","timeline" %}
+{% photo "IMGP0192raw1.jpg","Pola niedaleko Wirów","tag:timeline,tag:good" %}
 
 Z [Łodzi][wiki-lodz] już wracaliśmy drogą asfaltową do [Mosiny][wiki-mosina]. Ruch nie był duży,
 ale nie był też minimalny - dało się jechać.
@@ -62,4 +62,4 @@ Z jednej strony zauważyłem potencjal tamtych terenów, z drugiej wydaję mi si
 nic co jest istotne nie udało się nam zobaczyć (oprócz [jeziora][wiki-jezioro-jarosl]).
 To był taki rekonesans przed prawdziwym zwiedzaniem tych okolic.
 
-{% photo "IMGP0194raw1.jpg","Leśna droga","timeline" %}
+{% photo "IMGP0194raw1.jpg","Leśna droga","tag:timeline,tag:good" %}

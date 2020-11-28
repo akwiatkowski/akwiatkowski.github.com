@@ -84,7 +84,7 @@ stacji kolejowej. Musiałem już wracać.
 
 ## Powrót
 
-{% photo "IMGP4728raw1.jpg","Kilka godzin później chmury całkowicie zniknęły","timeline" %}
+{% photo "IMGP4728raw1.jpg","Kilka godzin później chmury całkowicie zniknęły","tag:timeline" %}
 
 Podczas powrotu zauważyłem jak ostatnia wyżowa noc oszroniła całą okolicę.
 Trudno mi było zrobić odpowiednie zdjęcie z pociągu.

@@ -60,7 +60,7 @@ Ruszyliśmy na wschód drogą 65. W weekend rano ruch jest minimalny tam.
 Temperatura nie była jakaś tragiczna gdyż "tylko" 26 stopni. Wiatr
 wiał w kierunku wschodnim. Nie zauważyłem aby jakoś istotnie to nam pomagało.
 
-{% photo "P8050002.jpg","Droga do Bobrowników","timeline" %}
+{% photo "P8050002.jpg","Droga do Bobrowników","tag:timeline" %}
 
 Linia kolejowa na wschód od [Waliły-Stacja][wiki-walily-stacja] została zamknięta
 w roku 2000.
@@ -82,13 +82,13 @@ Jechaliśmy dalej do [Świsłoczan][wiki-swisloczany] obok granicy
 z [Białorusią][wiki-bialorus]. Piasek na drodze był ubity w sposób taki,
 który powodował irytujące drgania roweru.
 
-{% photo "P8050034.jpg","Jadąc do Świsłoczan","timeline" %}
+{% photo "P8050034.jpg","Jadąc do Świsłoczan","tag:timeline" %}
 
 Dotarliśmy do [Świsłoczan][wiki-swisloczany]. Wieś ta jest uosobieniem
 [Podlasia][wiki-podlasie]. Większość domów w niej to są stare, drewniane budynki.
 Bardzo mi się to podobało.
 
-{% photo "P8050060.jpg","Drewniane stare domy w Świsłoczanach","timeline" %}
+{% photo "P8050060.jpg","Drewniane stare domy w Świsłoczanach","tag:timeline" %}
 
 Zapytałem się kogoś gdzie jest najbliższy sklep. Nie pamiętam już odpowiedzi ale
 dla nas najlepszym rozwiązaniem było pojechać do [Gródka][wiki-grodek] obok
@@ -97,18 +97,18 @@ dla nas najlepszym rozwiązaniem było pojechać do [Gródka][wiki-grodek] obok
 Ruszyliśmy żółtym szlakiem rowerowym na południe. Przejechaliśmy po moście
 nad [rzeką Kołodzieżanką][wiki-kolodziezanka-rzeka].
 
-{% photo "P8050066.jpg","Dom w Mostowlanach","timeline" %}
+{% photo "P8050066.jpg","Dom w Mostowlanach","tag:timeline" %}
 
 Wjechaliśmy do [Mostowlan][wiki-mostowlany]. Drewniane domy przypomniały mi
 o [Beskidzie Niskim][wiki-beskid-niski]. Było ich tutaj sporo, a raczej
 przeważająca większość.
 
-{% photo "P8050078.jpg","Rzeka Świsłocz i Białoruś","timeline" %}
+{% photo "P8050078.jpg","Rzeka Świsłocz i Białoruś","tag:timeline" %}
 
 Zauważyłem kilka razy ławki przed domami. Ławki te były małe ale położone w
 miejscu dostępnym dla wszystkich.
 
-{% photo "P8050070.jpg","Kościół w Mostowlanach","timeline" %}
+{% photo "P8050070.jpg","Kościół w Mostowlanach","tag:timeline" %}
 
 Zatrzymaliśmy się obok kościoła w [Mostowlanach][wiki-mostowlany].
 Odpoczeliśmy chwilę i zobaczyliśmy okolice.
@@ -116,7 +116,7 @@ Jest ścieżka na wschód, którą można dojść do
 [rzeki Świsłocz][wiki-swislocz-rzeka]. Za tą rzeką jest już terytorium
 [Białorusi][wiki-bialorus].
 
-{% photo "P8050103.jpg","Mostowlany obok rzeki Świsłocz graniczącej z Białorusią","timeline" %}
+{% photo "P8050103.jpg","Mostowlany obok rzeki Świsłocz graniczącej z Białorusią","tag:timeline" %}
 
 Następnie na chwilę poszedłem zobaczyć okolice kościoła i cmentarza obok.
 Obiektyw 20mm był trochę zbyt wąski na zrobienie odpowiedniego zdjęcia.
@@ -127,7 +127,7 @@ Jechaliśmy w kierunku południowo-zachodnim mijając od czasu do czasu jakieś
 gospodarstwo rolne. Okolica przypominała [Beskid Niski][wiki-beskid-niski] tylko
 z mniejszą ilością górek i gorszą drogą.
 
-{% photo "P8050119.jpg","Jadąc na zachód","timeline" %}
+{% photo "P8050119.jpg","Jadąc na zachód","tag:timeline" %}
 
 Wjechaliśmy w las. W nim zauważyłem niemały pomnik z napisami po rosyjsku (lub pochodnym).
 
@@ -141,7 +141,7 @@ Jechaliśmy pod wiatr. Takie to dziwne, że gdy jedzie się z wiatrem się tego
 nie docenia, a gdy jedzie się pod wiatr to nikt nie ma wątpliwości, że jest
 to "pod wiatr" właśnie.
 
-{% photo "P8050132.jpg","Wieś Wiejki","timeline" %}
+{% photo "P8050132.jpg","Wieś Wiejki","tag:timeline" %}
 
 Mineliśmy skrzyżowanie do [Zubr][wiki-zubry]. Kolejny przykład jak bardzo
 brakuje dróg asfaltowych na [Podlasiu][wiki-podlasie].
@@ -155,7 +155,7 @@ brukowaną.
 Na szczęście brukowana droga była tam tylko przez kilkaset metrów.
 Podobała mi się okolice tej [wsi][wiki-wiejki].
 
-{% photo "P8050136.jpg","Przed wjazdem do Gródka","timeline" %}
+{% photo "P8050136.jpg","Przed wjazdem do Gródka","tag:timeline" %}
 
 Wjechaliśmy w las. Musieliśmy podjechać z 150m na 190m. Później czekał nas nas zjazd.
 Do [Bielewiczy][wiki-bielewicze] wjechaliśmy rozpędzeni.

@@ -93,7 +93,7 @@ W okolicy [Ścinawy][wiki-scinawa] widziałem sporo ciekawych wiosek z budynkami
 z czerwonej cegły. Gdy przejeżdzałem samochodem z [Poznania][wiki-poznan] do
 [Jeleniej Góry][wiki-jelenia-gora] podobał mi się klimat tej okolicy.
 
-{% photo "IMGP3190raw1.jpg","Dojeżdzając do Rudnej","timeline" %}
+{% photo "IMGP3190raw1.jpg","Dojeżdzając do Rudnej","tag:timeline" %}
 
 Zbliżając się do [Rudnej][wiki-rudna] w okolicy miejscowości
 [Wądróże][wiki-wadroze] można było zauważyć delikatne pagórki.

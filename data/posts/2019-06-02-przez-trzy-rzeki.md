@@ -72,7 +72,7 @@ stosunkowo ciepło.
 Chyba przez całą długość [miasta][wiki-lubniewice] wzdłuż drogi dla samochodów jest
 wydzielony pas dla rowerów.
 
-{% photo "2019_06_02__10_46_P6020870.jpg","Droga do wsi Osiecko","timeline" %}
+{% photo "2019_06_02__10_46_P6020870.jpg","Droga do wsi Osiecko","tag:timeline" %}
 
 Skręciliśmy na wschód w stronę [Skwierzyny][wiki-skwierzyna]. Krajobraz nie był
 dla mnie zbyt ciekawy. Zielonym polom brakowało tego czegoś, co
@@ -94,7 +94,7 @@ drodze gruntowej w północnej części wsi. Zaciekawiła mnie kolumna z krzyże
 Kierowaliśmy się do miejscowości [Bledzew][wiki-bledzew], przez którą
 przejeżdżałem [ponad rok temu]({% post_url 2018-04-04-pierwszy-dzien-lata-tej-wiosny %}).
 
-{% photo "2019_06_02__11_15_P6020924.jpg","Pola na północ od Sokola Dąbrowskiego","timeline" %}
+{% photo "2019_06_02__11_15_P6020924.jpg","Pola na północ od Sokola Dąbrowskiego","tag:timeline" %}
 
 Sama [miejscowość][wiki-bledzew] mi się spodobała. Wyglądała jak bardzo małe
 miasteczko z dużą ilością starych domów.
@@ -104,7 +104,7 @@ miasteczko z dużą ilością starych domów.
 Przy wschodnim wyjeździe jest bardzo ładne miejsce postojowe przy
 rzece [Obrze][wiki-obra-rzeka].
 
-{% photo "2019_06_02__11_59_P6020955.jpg","Rzeka Obra","timeline" %}
+{% photo "2019_06_02__11_59_P6020955.jpg","Rzeka Obra","tag:timeline" %}
 
 W [Zemsku][wiki-zemsko] tym razem postanowiliśmy, że ciekawiej będzie
 gdy zobaczymy obracany most obok
@@ -145,7 +145,7 @@ Przejechaliśmy mostem nad [Wartą][wiki-warta-rzeka]. Trochę zgłupiałem jak
 zobaczyłem drogę w remoncie i objazd. Bałem się, że objazd jest przez
 [Drezdenko][wiki-drezdenko].
 
-{% photo "2019_06_02__15_31_P6021047.jpg","Droga do Gościnowa","timeline" %}
+{% photo "2019_06_02__15_31_P6021047.jpg","Droga do Gościnowa","tag:timeline" %}
 
 Dotarliśmy do drogi do [Murzynowa][wiki-murzynowo] obok której
 była kiedyś [linia kolejowa 403][wiki-linia-403]. Ja sam nie widziałem

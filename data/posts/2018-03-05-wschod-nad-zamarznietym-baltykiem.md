@@ -83,7 +83,7 @@ W okolicy przystani rybackiej są usypane kamienie. Oczywiście były one
 w całości pokryte lodem i śniegiem. Są one dobrym pierwszym planem
 podczas robienia zdjęć.
 
-{% photo "IMGP5949raw1.jpg","Kamienie pokryte lodem i śniegiem","timeline" %}
+{% photo "IMGP5949raw1.jpg","Kamienie pokryte lodem i śniegiem","tag:timeline" %}
 
 W wodzie jest metalowy obiekt. Nie znam jego przeznaczenia. Zawsze
 siedzą na nim ptaki. [Wczoraj]({% post_url 2018-03-04-zamarzniety-baltyk-w-orlowie %})

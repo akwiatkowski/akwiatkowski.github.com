@@ -65,23 +65,23 @@ Podjechaliśmy pociągiem do [Biskupic][wiki-biskupice]. Ze stacji tej wystarczy
 Kojarzyłem tą okolicę. Pomimo tego, że jest to tak blisko
 [Poznania][wiki-poznan], to podoba mi się i jazda tutaj uspokaja.
 
-{% photo "P9020052.jpg","Jadąc w stronę wsi Kowalskie","timeline" %}
+{% photo "P9020052.jpg","Jadąc w stronę wsi Kowalskie","tag:timeline" %}
 
 Dwa kilometry na zachód zauważyliśmy zjazd w stronę [jeziora][wiki-jezioro-kowalskie].
 Tą drogą można dojechać na półwysep. Jest tam miejsce postojowe, jednak
 nie miałem czasu sprawdzać co jest najciekawszego tutaj.
 
-{% photo "P9020054.jpg","Zjazd na półwysep przy Jeziorze Kowalskim","timeline" %}
+{% photo "P9020054.jpg","Zjazd na półwysep przy Jeziorze Kowalskim","tag:timeline" %}
 
 Drzewa powoli robiły się rude. Chyba większym powodem jest brak wody niż
 jesienna, chłodniejsza temperatura.
 
-{% photo "P9020056.jpg","Jezioro Kowalskie","timeline" %}
+{% photo "P9020056.jpg","Jezioro Kowalskie","tag:timeline" %}
 
 Opuszczając wieś [Kowalskie][wiki-kowalskie] chciałem się zatrzymać i porobić zdjęcia
 budynków gospodarstwa rolnego. Były już trochę stare.
 
-{% photo "P9020086.jpg","Okolica Karłowic","timeline" %}
+{% photo "P9020086.jpg","Okolica Karłowic","tag:timeline" %}
 
 Tego dnia mineło nas przynajmniej 6 rowerzystów szosowych. Mogli się powtórzać bo nie
 zapamiętałem ich dobrze.

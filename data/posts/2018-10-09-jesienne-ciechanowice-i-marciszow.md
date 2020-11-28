@@ -63,25 +63,25 @@ w przeciwnym kierunku.
 Ruszyłem wcześniej zaplanowaną trasą. Żałowałem, że nie miałem ze sobą filtra
 polaryzacyjnego. Pogoda była bardzo ładna. Na niebie była idealna ilość chmur.
 
-{% photo "2018_10_09_14_42__A090725.jpg","Opuszczenie Ciechanowic","timeline" %}
+{% photo "2018_10_09_14_42__A090725.jpg","Opuszczenie Ciechanowic","tag:timeline" %}
 
 Poruszałem dalej się drogą, która była dla mnie nudna. Cała droga do
 [Marciszowa][wiki-marciszow] nie była jakaś specjalnie interesująca.
 Za to jest bardzo dobra na rower, nawet rower szosowy.
 
-{% photo "2018_10_09_14_48__A090730.jpg","Jesienna droga","timeline" %}
+{% photo "2018_10_09_14_48__A090730.jpg","Jesienna droga","tag:timeline" %}
 
 Zaciekawiły mnie budynki mieszkalne oddalone od miasta. Dlaczego ludzie akurat
 chcieli się tutaj osiedlić? Przecież to miejsce jest oddalone od reszty zabudowań,
 sklepów i nic tu nie ma. A może coś tu było kiedyś? Odpowiedź na to pytanie nie była
 bardzo istotna dla mnie.
 
-{% photo "2018_10_09_14_52__A090733.jpg","Późnojesienna droga","timeline" %}
+{% photo "2018_10_09_14_52__A090733.jpg","Późnojesienna droga","tag:timeline" %}
 
 A jedynym, ale za to jakim, obiektem do fotografowania były rzędy drzew. W zależności od
 miejsca i kadru drzewa przedstawiały różny etap jesieni.
 
-{% photo "2018_10_09_15_05__A090743.jpg","Pierwszy widok na Marciszów","timeline" %}
+{% photo "2018_10_09_15_05__A090743.jpg","Pierwszy widok na Marciszów","tag:timeline" %}
 
 Ogniskowa 100mm wydawała mi się czasami zbyt mała aby przedstawić ciekawą
 perspektywę rzędu drzew.

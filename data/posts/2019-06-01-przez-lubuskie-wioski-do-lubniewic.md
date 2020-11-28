@@ -85,7 +85,7 @@ Jazda po drodze wojewódzkiej jest dla mnie nużąca. Droga ta jest przystosowan
 szybkiego przemieszczania się samochodem dlatego dla jazdy rowerem
 jest na ogół nudna.
 
-{% photo "2019_06_01__11_30_P6010014.jpg","Zachodnie okolice wsi Połęcko","timeline" %}
+{% photo "2019_06_01__11_30_P6010014.jpg","Zachodnie okolice wsi Połęcko","tag:timeline" %}
 
 Przystanek kolejowy w [Lubniechni Małej][wiki-lubiechnia-mala] zaskoczył mnie
 nową tablicą. Widać było od razu, że została ona niedawno wymieniona,
@@ -93,7 +93,7 @@ a w tym momencie nie ma tam żadnego połączenia kolejowego.
 Sama [wieś][wiki-lubiechnia-mala] jest bardzo mała, położona w lesie około
 kilometr od drogi.
 
-{% photo "2019_06_01__11_53_P6010065.jpg","Północne okolice wsi Połęcko","timeline" %}
+{% photo "2019_06_01__11_53_P6010065.jpg","Północne okolice wsi Połęcko","tag:timeline" %}
 
 Dojechaliśmy do skrzyżowania do [Połęcka][wiki-polecko]. Nie planowaliśmy tam
 skręcać jednak po krótkiej analizie opcji zmieniliśmy zdanie.
@@ -101,7 +101,7 @@ skręcać jednak po krótkiej analizie opcji zmieniliśmy zdanie.
 Najpierw wjechaliśmy zobaczyć łąkę na zachód od drogi. Niestety nie było
 tam za wiele ciekawego.
 
-{% photo "2019_06_01__11_59_P6010071.jpg","Soczyste niebo","timeline" %}
+{% photo "2019_06_01__11_59_P6010071.jpg","Soczyste niebo","tag:timeline" %}
 
 Pomimo tego, że jechałem z sakwami, to podobał mi się podjazd. Zapowiadał on
 wjazd w znacznie ciekawszy teren.
@@ -119,7 +119,7 @@ Podobał mi się budynek ochotniczej straży pożarnej w centrum.
 Najładniejsze domy (w mojej ocenie) widziałem podczas wyjazdu na północ.
 Gruntowa droga i okoliczne pola również bardzo mi się podobały.
 
-{% photo "2019_06_01__12_11_P6010092.jpg","Wyjazd na północ ze wsi Połęcko","timeline" %}
+{% photo "2019_06_01__12_11_P6010092.jpg","Wyjazd na północ ze wsi Połęcko","tag:timeline" %}
 
 Przejechaliśmy pola i mały las. Wjechaliśmy do wsi [Grabno][wiki-grabno].
 Ta wieś również mi się podobała. W centrum był mały staw oraz kamienny kościół.
@@ -142,7 +142,7 @@ Zrobiliśmy przerwę przy sklepie przy głównym skrzyżowaniu.
 Gdy byśmy skręcili
 na południe to moglibśmy dojechać do [Boczowa][wiki-boczow].
 
-{% photo "2019_06_01__12_56_P6010126.jpg","Droga do Lubienia","timeline" %}
+{% photo "2019_06_01__12_56_P6010126.jpg","Droga do Lubienia","tag:timeline" %}
 
 W [Boczowie][wiki-boczow]
 przystanek kolejowy, jednak gdy szukałem dojazdu w weekend to nie było
@@ -162,7 +162,7 @@ Zaciekawiły mnie różnokolorowe domy bliźniaki podczas wyjazdu.
 Pomiędzy [Lubieniem][wiki-lubien] a [Brzeźnem][wiki-brzezno] było obniżenie terenu.
 Zjechaliśmy na chwilę do lasu w którym było małe jezioro.
 
-{% photo "2019_06_01__13_45_P6010188.jpg","Droga do Brzeźna","timeline" %}
+{% photo "2019_06_01__13_45_P6010188.jpg","Droga do Brzeźna","tag:timeline" %}
 
 Dotarliśmy do centrum wsi [Brzeźno][wiki-brzezno]. Przejechaliśmy obok
 kościoła i kierowaliśmy się do [Sulęcina][wiki-sulecin].
@@ -173,7 +173,7 @@ Widok był bardzo ładny. Czekał na nas bardzo solidny zjazd.
 Ostatnie obniżenie terenu jest związane z rzeką [Postomia][wiki-postomia],
 która płynie przez [Słońsk][wiki-slonsk] do [Kostrzyna nad Odrą][wiki-kostrzyn].
 
-{% photo "2019_06_01__14_07_P6010221.jpg","Obniżenie terenu do Sulęcina","timeline" %}
+{% photo "2019_06_01__14_07_P6010221.jpg","Obniżenie terenu do Sulęcina","tag:timeline" %}
 
 [Sulęcin][wiki-sulecin] cierpi według mnie trochę na problemy większej miejscowości
 ale z drugiej strony sporo budynków zachowało swój klimat.
@@ -186,7 +186,7 @@ tory kolejowe [linii 364][wiki-linia-364].
 Pomimo tego, że droga do [Miechowa][wiki-miechow] jest drogą regionalną, panował
 na niej niemały ruch. Postanowiliśmy "skrócić" skręcając do [Żubrowa][wiki-zubrow].
 
-{% photo "2019_06_01__15_43_P6010230.jpg","Las niedaleko Miechowa","timeline" %}
+{% photo "2019_06_01__15_43_P6010230.jpg","Las niedaleko Miechowa","tag:timeline" %}
 
 Sama wieś mi się podobała, jednak miałem złe przeczucie odnośnie tego pomysłu.
 Mieliśmy pewną drogą, wystarczyło przejechać dalej asfaltem tylko 3km.

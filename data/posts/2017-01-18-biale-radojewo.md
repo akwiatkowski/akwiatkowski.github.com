@@ -52,7 +52,7 @@ mały lasek komunalny.
 
 Polana ta w sumie niczym specjalnym się nie wyróżnia,
 
-{% photo "IMGP2191raw1.jpg","Polana niedaleku lasy obok Radojewa","timeline" %}
+{% photo "IMGP2191raw1.jpg","Polana niedaleku lasy obok Radojewa","tag:timeline" %}
 
 Najłatwiej dostać się w te miejsce idąc z pętli Boranta drogą gruntową.
 

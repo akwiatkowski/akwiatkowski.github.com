@@ -61,7 +61,7 @@ Ruszyliśmy samochodem już w piątek. Pogoda tego dnia była bardzo ładna, naw
 można powiedzieć, że było za ciepło. Trudno było uwierzyć w prognozy pogody,
 na których było ochłodzenie o 10 stopni.
 
-{% photo "P9210018.jpg","Droga przez las","timeline" %}
+{% photo "P9210018.jpg","Droga przez las","tag:timeline" %}
 
 Nie włączyłem GPS. Zapomniałem go wyciągnąć z plecaka, a ślad z komórki gdzieś mi się
 zawieruszył. Dlatego nie wiem gdzie dokładnie te zdjęcia zrobiłem.
@@ -198,13 +198,13 @@ Dotarliśmy do stacji pomp. W okolicy jest jakaś agroturystyka.
 Gdy obserwowaliśmy okolice przyszedł do nas kot. Niestety najlepsze zdjęcie,
 jakie mu zrobiłem, było z wystawionym tyłkiem w moją stronę.
 
-{% photo "\_9220113.jpg","Ścieżka wzdłuż Postomii","timeline" %}
+{% photo "\_9220113.jpg","Ścieżka wzdłuż Postomii","tag:timeline" %}
 
 Musiałbym ustawić specjalny
 tryb w aparacie z bardziej aktywnym autofocusem do poruszających się zwierząt.
 Gdy koty są ufne lubią przychodzić i wtedy statyczny autofocus się nie sprawdza.
 
-{% photo "\_9220135.jpg","Drzewa przy Postomii","timeline" %}
+{% photo "\_9220135.jpg","Drzewa przy Postomii","tag:timeline" %}
 
 Początkowo planowaliśmy spokojnie pokręcić się po okolicy, jednak po rozmowie
 z mijającymi ludźmi rozważyliśmy pójść ścieżką w okolicy [rzeki][wiki-postomia].

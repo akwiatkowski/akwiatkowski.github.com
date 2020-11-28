@@ -97,7 +97,7 @@ ruch samochodów.
 Będąc już 2km na trasie zauważyłem, że zapomniałem zabrać bidonu. Musiałem się
 wrócić. Zostawiłem tylko sakwy abym był szybszy.
 
-{% photo "IMGP8105raw1.jpg","Klasyczna droga gruntowa","timeline" %}
+{% photo "IMGP8105raw1.jpg","Klasyczna droga gruntowa","tag:timeline" %}
 
 Droga asfaltowa, jak to bywa często, się skończyła i jadąc już po drodze gruntowej
 wjechaliśmy do lasu. Było to dość częste zjawisko na tym wyjeździe.
@@ -122,7 +122,7 @@ czasie jechaliśmy już asfaltem, a jak się nie mylę to po lewej stronie
 minęliśmy składowisko odpadów. Znak zagrożenia biologicznego przy bramie
 bardzo kontrastował z dzikością tych terenów.
 
-{% photo "IMGP8130raw1.jpg","Pola przed Włościborzem","timeline" %}
+{% photo "IMGP8130raw1.jpg","Pola przed Włościborzem","tag:timeline" %}
 
 Skręciliśmy na prawo jadąc teraz dłużej na wschód przez
 [Włościbórz][wiki-wlosciborz] aż do [Wałdowa][wiki-waldowo], gdzie będziemy
@@ -130,7 +130,7 @@ skręcać na północ. Udało mi się rozpędzić na zjeździe. Kierowaliśmy
 się w stronę rzeki [Kamionka][wiki-rzeka-kamionka], a rzeki na ogół są w obniżeniu
 terenu.
 
-{% photo "IMGP8146raw1.jpg","Droga dojazdowa do Włościborza od wschodu","timeline" %}
+{% photo "IMGP8146raw1.jpg","Droga dojazdowa do Włościborza od wschodu","tag:timeline" %}
 
 Udało mi się rozpędzić do ponad 50km/h. W miejscu gdy droga asfaltowa się
 skończyła, a za chwilę było ograniczenie prędkości do 30km/h, udało mi się
@@ -140,7 +140,7 @@ Minęliśmy jakieś zabudowania, jakby to była jakaś zapomniana wioska
 rolnicza składająca się z 2-3 gospodarstw rolnych.
 Według OpenStreetMap jest to miejscowość o nazwie Toboła.
 
-{% photo "IMGP8167raw1.jpg","Dwa rodzaje zboża","timeline" %}
+{% photo "IMGP8167raw1.jpg","Dwa rodzaje zboża","tag:timeline" %}
 
 Minęliśmy rzekę [Kamionkę][wiki-rzeka-kamionka] i chwilę po tym rozpoczął się
 pierwszy istotny opad deszczu tego dnia.
@@ -163,7 +163,7 @@ Wyjechaliśmy z krótkiego lasu i rozpoczął się lekki podjazd. Z prawej stron
 mieliśmy bardzo ładny widok w kierunku [Gostycynia][wiki-gostycyn]
 (chociaż nie wiem czy widzieliśmy wspomnianą miejscowość).
 
-{% photo "IMGP8194raw1.jpg","Jadąc w stronę Bralewnicy","timeline" %}
+{% photo "IMGP8194raw1.jpg","Jadąc w stronę Bralewnicy","tag:timeline" %}
 
 W [Bralewnicy][wiki-bralewnica] również mieliśmy dobry widok na okoliczne
 tereny.
@@ -196,7 +196,7 @@ musiałem przecierać kamerkę. Każda kropelka znacząco pogarsza jakość obra
 Do [Tucholi][wiki-tuchola] mieliśmy około 6km w linii prostej. Jechaliśmy
 przez tereny pól uprawnych, które położone są wyżej niż miasto.
 
-{% photo "IMGP8252raw1.jpg","Zboże po deszczu","timeline" %}
+{% photo "IMGP8252raw1.jpg","Zboże po deszczu","tag:timeline" %}
 
 Deszcz po kilku minutach przeniósł się w inne miejsce a my mogliśmy obserwować
 kontrast słonecznej pogody z ciemnymi chmurami.

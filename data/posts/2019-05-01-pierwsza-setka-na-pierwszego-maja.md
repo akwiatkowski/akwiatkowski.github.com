@@ -107,7 +107,7 @@ Te 3 minuty zmusiły nas do szybszego dojazdu, do małej walki z czasem.
 
 W pociągu byliśmy 3 minuty przed odjazdem. Bilety kupiliśmy u konduktora.
 
-{% photo "2019_05_01__06_40_P5010072.jpg","Okolice wsi Kołoząb","timeline" %}
+{% photo "2019_05_01__06_40_P5010072.jpg","Okolice wsi Kołoząb","tag:timeline" %}
 
 Spotkałem dwóch rowerzystów, którzy jechali do [Elbląga][wiki-elblag], a następnie
 "gdzieś na wschód".
@@ -120,7 +120,7 @@ jest dość rzadkie.
 Wysiedliśmy na stacji [Dąbrówka Malborska][wiki-dabrowka-malborska]. Mieliśmy kierować
 się bezpośrednio do [Sztumu][wiki-sztum]. Przywitały nas tam ładne nieduże górki.
 
-{% photo "2019_05_01__06_55_P5010090.jpg","Jezioro Dąbrówka","timeline" %}
+{% photo "2019_05_01__06_55_P5010090.jpg","Jezioro Dąbrówka","tag:timeline" %}
 
 Bardzo mi się podobała okolica [Jeziora Dąbrówka][wiki-jezioro-dabrowka].
 Teren jest tam bardzo ciekawie ukształtowany a jezioro dodaje uroku
@@ -153,7 +153,7 @@ właśnie remontowana.
 Maciej zauważył zjazd nad Jezioro Sztumskie i podjechaliśmy tam robiąc pierwszą
 przerwę na jedzenie.
 
-{% photo "2019_05_01__07_30_P5010134.jpg","Naprzemienne pola","timeline" %}
+{% photo "2019_05_01__07_30_P5010134.jpg","Naprzemienne pola","tag:timeline" %}
 
 [Jezioro Zajezierskie][wiki-jezioro-zajezierskie] jest bardzo ładnym miejscem.
 Tak samo jak wcześniej poznane [Jezioro Dąbrówka][wiki-jezioro-dabrowka] tak
@@ -168,12 +168,12 @@ Następnie jadąc wzdłuż [jeziora][wiki-jezioro-zajezierskie] objechaliśmy ko
 Mijaliśmy dużo rybaków z wędkami.
 Opuściliśmy miasto najmniej priorytetową drogą, na południe do [Postolina][wiki-postolin].
 
-{% photo "2019_05_01__08_21_P5010205.jpg","Opuszczając Sztum","timeline" %}
+{% photo "2019_05_01__08_21_P5010205.jpg","Opuszczając Sztum","tag:timeline" %}
 
 Jadąc przez [Sztumską Wieś][wiki-sztumska-wies] bardzo podobał mi się rozległy widok
 na pola po lewej stronie.
 
-{% photo "2019_05_01__08_28_P5010213.jpg","Wiatraki niedaleko Sztumskiej Wsi","timeline" %}
+{% photo "2019_05_01__08_28_P5010213.jpg","Wiatraki niedaleko Sztumskiej Wsi","tag:timeline" %}
 
 W pobliżu [Postolina][wiki-postolin] okolica stała się wyraźnie klimatyczna.
 Jeżeli się nie mylę, to sama wioska była bardzo ładna. Jest tam ciekawy kościół
@@ -196,12 +196,12 @@ Polskę, której powoli jest coraz mniej.
 Opuściliśmy [Watkowice Małe][wiki-watkowice-male] jadąc obok jakiegoś dużego,
 ogrodzonego gospodarstwa rolnego.
 
-{% photo "2019_05_01__09_05_P5010244.jpg","Opuszczając Watkowice","timeline" %}
+{% photo "2019_05_01__09_05_P5010244.jpg","Opuszczając Watkowice","tag:timeline" %}
 
 [Straszewo][wiki-straszewo] było ciekawie położoną wioską. Jechaliśmy drogą
 położoną znacznie wyżej niż wschodia część tej wsi.
 
-{% photo "2019_05_01__09_16_P5010253.jpg","Wieś Straszewo","timeline" %}
+{% photo "2019_05_01__09_16_P5010253.jpg","Wieś Straszewo","tag:timeline" %}
 
 We wsi [Trzciano][wiki-trzciano] zrobiliśmy przerwę przy sklepie.
 
@@ -210,7 +210,7 @@ Początkowo planowałem abyśmy jechali drogą wojewódzką na południe do wsi
 do [Rakowca][wiki-rakowiec]. Oboje woleliśmy nie jechać po drodze
 wojewódzkiej.
 
-{% photo "2019_05_01__09_52_P5010270.jpg","Skrzyżowanie z drogą wojewódzką Licze - Brachlewo","timeline" %}
+{% photo "2019_05_01__09_52_P5010270.jpg","Skrzyżowanie z drogą wojewódzką Licze - Brachlewo","tag:timeline" %}
 
 Wjechaliśmy w las. Samo skrzyżowanie z drogą wojewódzką było dość dziwne.
 Droga ta wyglądała bardzo niepozornie. Mam jednak już jakieś doświadczenie
@@ -218,7 +218,7 @@ z drogami [województwa pomorskiego][wiki-pomorskie] i nie było to ogromnym
 zaskoczeniem. Tam po prostu niektóre drogi czekają na bardzo solidny remont.
 Z punktu widzenia rowerzysty jest to pozytywne.
 
-{% photo "2019_05_01__10_01_P5010273.jpg","Droga z Brokowa do Kwidzynia","timeline" %}
+{% photo "2019_05_01__10_01_P5010273.jpg","Droga z Brokowa do Kwidzynia","tag:timeline" %}
 
 Wjechaliśmy do [Brokowa][wiki-brokowo]. Na skrzyżowaniu z nowo wyremontowaną drogą do
 [Tychnowa][wiki-tychnowo] skręciliśmy w lewo. To tutaj musieliśmy drogą
@@ -249,7 +249,7 @@ jak pojedziemy chwilę na wschód i następnie ruszymy do [Otoczyna][wiki-otoczy
 Różnica odległości wynosiła półtora kilometra ale dzięki temu jechaliśmy przez
 miejscowości bardziej oddalone od drogi 55.
 
-{% photo "2019_05_01__10_48_P5010305.jpg","Droga z Rakowca do Otoczyna","timeline" %}
+{% photo "2019_05_01__10_48_P5010305.jpg","Droga z Rakowca do Otoczyna","tag:timeline" %}
 
 Droga do [Otoczyna][wiki-otoczyn] bardzo mi się podobała. Muszę tutaj przyjechać
 ponownie pod koniec czerwca, przed żniwami, gdy pola będą gęstsze i zyskają
@@ -262,29 +262,29 @@ niego. Musieliśmy ją opuścić i jechać po drodze szutrowej do [Wandowa][wiki
 Patrząc teraz na mapę to ciekawią mnie teraz jeziora w okolicy wsi [Klasztore][wiki-klasztorek],
 położone na wschód.
 
-{% photo "2019_05_01__11_15_P5010328.jpg","Droga Otoczyn - Wandowo","timeline" %}
+{% photo "2019_05_01__11_15_P5010328.jpg","Droga Otoczyn - Wandowo","tag:timeline" %}
 
 Okolica wspomnianej drogi szutrowej do [Wandowa][wiki-wandowo]
 również była bardzo interesująca. A sama droga złożona była z wielu zjazdów
 i podjazdów.
 
-{% photo "2019_05_01__11_20_P5010339.jpg","Pofalowane pola w okolicy Wandowa","timeline" %}
+{% photo "2019_05_01__11_20_P5010339.jpg","Pofalowane pola w okolicy Wandowa","tag:timeline" %}
 
 Kierowaliśmy się przez [Rozajny][wiki-rozajny], [Czarne Małe][wiki-czarne-male]
 do [Czarne Dolne][wiki-czarne-dolne].
 
-{% photo "2019_05_01__11_20_P5010342.jpg","Wyschnięty staw w polu rzepaku","timeline" %}
+{% photo "2019_05_01__11_20_P5010342.jpg","Wyschnięty staw w polu rzepaku","tag:timeline" %}
 
 Po lewej stronie widzieliśmy nie małe jezioro, które prawdopodobnie nie ma nazwy.
 
-{% photo "2019_05_01__11_27_P5010357.jpg","Okolica Wandowa","timeline" %}
+{% photo "2019_05_01__11_27_P5010357.jpg","Okolica Wandowa","tag:timeline" %}
 
 W [Rozajnach][wiki-rozajny] przejechaliśmy obok budynku wyglądającego na
 [dworzec kolejowy][wiki-rozajny-wielkie]. Patrząc teraz na mapę widzę,
 że faktycznie było tam połączenie kolejowe, tylko w 1945 zostało ono
 zlikwidowane.
 
-{% photo "2019_05_01__12_20_P5010389.jpg","Droga gruntowa do wsi Nogat","timeline" %}
+{% photo "2019_05_01__12_20_P5010389.jpg","Droga gruntowa do wsi Nogat","tag:timeline" %}
 
 Ponownie musieliśmy jechać drogą szutrową. Chcieliśmy dostać się do
 wsi [Nogat][wiki-nogat].
@@ -294,23 +294,23 @@ Droga się urwała, nie wiedzieliśmy jak jechać dalej. Dowiedziałem się
 jak powinniśmy jechać, chociaż to wcale nie było oczywiste. Bardzo lubię klimat
 takich miejsc ale nie lubię, gdy nie wiem czy jestem na terenie prywatnym czy publicznym.
 
-{% photo "2019_05_01__12_38_P5010413.jpg","Jezioro Nogat / Gardęga","timeline" %}
+{% photo "2019_05_01__12_38_P5010413.jpg","Jezioro Nogat / Gardęga","tag:timeline" %}
 
 Za domem, obok garaży była droga gruntowa, dość zarośnięta, to właśnie nią musieliśmy
 jechać aby dostać się do wsi [Nogat][wiki-nogat].
 
-{% photo "2019_05_01__12_42_P5010419.jpg","Południowy koniec Jeziora Nogat","timeline" %}
+{% photo "2019_05_01__12_42_P5010419.jpg","Południowy koniec Jeziora Nogat","tag:timeline" %}
 
 Jadąc w okolicy [Starego Błonowa][wiki-stare-blonowo] mieliśmy
 bardzo dobry widok na obniżenie terenu po lewej stronie. Im bliżej byliśmy
 do [Łasina][wiki-lasin] tym różnica wysokości terenu była mniejsza.
 
-{% photo "2019_05_01__12_47_P5010436.jpg","Okolice wsi Przeczno","timeline" %}
+{% photo "2019_05_01__12_47_P5010436.jpg","Okolice wsi Przeczno","tag:timeline" %}
 
 Sporo tego dnia nagrywałem na kamerce i musiałem teraz oszczędzać baterię
 nagrywając tylko najciekawsze filmiki.
 
-{% photo "2019_05_01__12_56_P5010452.jpg","Okolice wsi Stare Błonowo","timeline" %}
+{% photo "2019_05_01__12_56_P5010452.jpg","Okolice wsi Stare Błonowo","tag:timeline" %}
 
 [Łasin][wiki-lasin] był ostatnią dużą miejscowością na naszej trasie.
 Planowaliśmy zjesć tutaj coś ciepłego. Restauracja na rynku okazała się być
@@ -331,7 +331,7 @@ nagrywałem tylko najciekawsze sceny. Dlatego teraz opiszę właśnie tylko te.
 Jedną z takich bardzo ciekawych fragmentów był zjazd
 między [Jakubkowem][wiki-jakubkowo] a [Bogdankami][wiki-bogdanki].
 
-{% photo "2019_05_01__14_01_P5010480.jpg","Pole rzepaku niedaleko wsi Jakubkowo","timeline" %}
+{% photo "2019_05_01__14_01_P5010480.jpg","Pole rzepaku niedaleko wsi Jakubkowo","tag:timeline" %}
 
 Sam fakt tego, że jest tu szlak pieszy wiele mówi o ciekawym
 ukształtowaniu terenu.
@@ -346,20 +346,20 @@ Zjazd do [Mędrzyc][wiki-medrzyce] też był bardzo miły, chociaż nie był lek
 cofnąć. Czekał na nas teraz solidny podjazd. Na tyle solidny, że wolałem
 chwilę prowadzić rower. Tutaj jest właśnie niebieski szlak pieszy.
 
-{% photo "2019_05_01__14_40_P5010497.jpg","Rzepakowe pagórki","timeline" %}
+{% photo "2019_05_01__14_40_P5010497.jpg","Rzepakowe pagórki","tag:timeline" %}
 
 Na niebie pojawiły się chmury. Sam dostałem alarm ostrzegawczy o możliwości
 wystąpienia burz w tej okolicy.
 
 Kolejnym dobrym zjazdem był wjazd do [Świecia nad Osą][wiki-swiecie-nad-osa].
 
-{% photo "2019_05_01__14_52_P5010516.jpg","Droga do Rychowa","timeline" %}
+{% photo "2019_05_01__14_52_P5010516.jpg","Droga do Rychowa","tag:timeline" %}
 
 W centrum [tej miejscowości][wiki-swiecie-nad-osa] przemyśleliśmy dalszą trasę.
 Mieliśmy sporo czasu i warto by było jeszcze pojeździć aby udało się
 nam dobić do 100km.
 
-{% photo "2019_05_01__14_56_P5010521.jpg","Wiatraki w okolicy wsi Linowo","timeline" %}
+{% photo "2019_05_01__14_56_P5010521.jpg","Wiatraki w okolicy wsi Linowo","tag:timeline" %}
 
 Mieliśmy jechać do [Linowa][wiki-linowo] i dalej bezpośrednio
 na południe do [Książek][wiki-ksiazki]. Jeżeli jednak byśmy jechali przez
@@ -374,7 +374,7 @@ tak mentalnie również była "na uboczu". Chciałbym mieć czas i energię aby
 znaleźć się w takich miejscowościach i przejść się drogami polnymi,
 poszukać ciekawych miejsc, robić zdjęcia o wschodzie słońca.
 
-{% photo "2019_05_01__15_49_P5010558.jpg","Wjeżdżając do wsi Szczuplinki","timeline" %}
+{% photo "2019_05_01__15_49_P5010558.jpg","Wjeżdżając do wsi Szczuplinki","tag:timeline" %}
 
 Dotarliśmy do [Książek][wiki-ksiazki] i ponownie odwiedziliśmy tą samą
 restaurację co wczoraj. Mieliśmy godzinę do odjazdu i 1km do 100km

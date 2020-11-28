@@ -43,7 +43,7 @@ znane już południowo-wschodnie okolice [Poznania][wiki-poznan].
 To będzie trudny wpis. Byłem tam dość krótko i niewiele się ciekawego wydarzyło.
 A coś oprócz zdjęć powinienem dopisać.
 
-{% photo "2019_03_24__12_50__3245828.jpg","Okolice ulicy Daszewickiej","timeline" %}
+{% photo "2019_03_24__12_50__3245828.jpg","Okolice ulicy Daszewickiej","tag:timeline" %}
 
 Ruszyliśmy ulicą Daszewicką w stronę lasu. Zrobiłem kilka mało ciekawych zdjęć
 "pojawiającej się wiosny".

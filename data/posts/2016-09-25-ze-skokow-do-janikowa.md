@@ -161,7 +161,7 @@ W miejscowości [Grochowicka Szlacheckie][wiki-grochowicka-szlacheckie] skręci�
 z tej trochę ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
 po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
 
-{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa","timeline" %}
+{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa","tag:timeline" %}
 
 Wcześniej stwierdziłem, że o tej porze ruch wszędzie będzie znikomy, jednak w
 okolicy dróg krajowych tak nie było i mnie to nie dziwiło.

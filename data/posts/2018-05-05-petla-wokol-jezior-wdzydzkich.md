@@ -75,7 +75,7 @@ Niewiele ciekawego mijaliśmy: troche wiosek, lasu i
 tory [linii 215][wiki-linia-215], po której w tym momencie nie jeżdzą
 pociągi pasażerskie.
 
-{% photo "IMGP8696raw1.jpg","Opuszczając Karsin","timeline" %}
+{% photo "IMGP8696raw1.jpg","Opuszczając Karsin","tag:timeline" %}
 
 Gdy przejeżdzaliśmy obok [Dębowca][wiki-debowiec] była tablica
 informująca o wjeździe do [Wdzydzkiego Parku Krajobrazowego][wiki-wdzydzki-park].
@@ -83,7 +83,7 @@ informująca o wjeździe do [Wdzydzkiego Parku Krajobrazowego][wiki-wdzydzki-par
 [Karsin][wiki-karsin] był spokojną, zadbaną miejscowością. Chociaż
 nic więcej o nim nie napiszę.
 
-{% photo "IMGP8702raw1.jpg","Pola niedaleko Karsina","timeline" %}
+{% photo "IMGP8702raw1.jpg","Pola niedaleko Karsina","tag:timeline" %}
 
 Skręciliśmy w prawo drogą w kierunku do [Borska][wiki-borsk].
 Bardzo mi się podobała ta droga szutrowa. Wokół były zielona, "wczesne" pola,
@@ -115,7 +115,7 @@ za cenę kilku naprawdę fajnych widoków.
 Większość naszej trasy to była jazda przez las "z dodatkami". Na początku tym
 dodatkiem było bardzo ostre zbocze opadające do [jeziora][wiki-jezioro-wdzydze].
 
-{% photo "IMGP8755raw1.jpg","Jezioro Wdzydze z okolic Wdzydz Tucholskich","timeline" %}
+{% photo "IMGP8755raw1.jpg","Jezioro Wdzydze z okolic Wdzydz Tucholskich","tag:timeline" %}
 
 Wjechaliśmy we [Wdzydze Tucholskie][wiki-wdzydze-tucholskie].
 Tutaj mogliśmy odbić na asfalt i w miarę szybko dojechać do
@@ -159,7 +159,7 @@ Jadąc w dół zielonym szlakiem rowerowym mogę "polecić" jedno miejsce.
 Jest to przejście przez strumyk wyglądające jak połączenie
 uszkodzonego drewnianego mostu z rzuconymi drzewami do wody.
 
-{% photo "IMGP8794raw1.jpg","Przejście przez strumyk","timeline" %}
+{% photo "IMGP8794raw1.jpg","Przejście przez strumyk","tag:timeline" %}
 
 Wjechaliśmy do [Rowu][wiki-row] - bardzo urokliwej wsi w centrum lasu.
 Do wyjazdu z lasu zostało nam ok 4km.
@@ -176,7 +176,7 @@ się do [Wiela][wiki-wiele] bezpośrednio. Droga kamienisto-gruntowa nas
 nie przekonywała, woleliśmy pojechać asfaltem przez
 [Kliczkowy][wiki-kliczkowy].
 
-{% photo "IMGP8865raw1.jpg","Okolice Przytarni","timeline" %}
+{% photo "IMGP8865raw1.jpg","Okolice Przytarni","tag:timeline" %}
 
 W [Wielu][wiki-wiele] zrobiliśmy przerwę na zakupy, lody i gofra.
 Mogliśmy jechać do [Karsina][wiki-karsin] (5km) i wracalibyśmy

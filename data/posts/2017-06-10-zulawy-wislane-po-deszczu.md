@@ -87,7 +87,7 @@ Prawdopodobnie jest to elektrownia wodna.
 Dojechaliśmy do [Bielkówka][wiki-bielkowko], a dalej kierowaliśmy się na wschód
 w stronę [Pruszcza Gdańskiego][wiki-pruszcz-gdanski].
 
-{% photo "IMGP7160raw1.jpg","Prawdopodobnie budynek elektrowni wodnej","timeline" %}
+{% photo "IMGP7160raw1.jpg","Prawdopodobnie budynek elektrowni wodnej","tag:timeline" %}
 
 Mijaliśmy zielone pofalowane pola. Chmury wyglądało bardzo niepokojąco
 chociaż w tamtym momencie mi się one podobały. Trasa raczej była "monotonnie
@@ -122,7 +122,7 @@ do [Tczewa][wiki-tczew] (27km z możliwością skrócenia)
 zamiast jechać na północ do [Gdańska][wiki-gdansk] (20km bez możliwości skrócenia
 oraz niepewna droga - ruch w mieście). Miałem dwie godziny do odjazdu pociągu.
 
-{% photo "IMGP7190raw1.jpg","Droga na Żuławach Wiślanych","timeline" %}
+{% photo "IMGP7190raw1.jpg","Droga na Żuławach Wiślanych","tag:timeline" %}
 
 Roździeliliśmy się a sam teraz jechałem wyraźnie szybciej. Michał jechał
 wolniej będąc obładowany sakwami.

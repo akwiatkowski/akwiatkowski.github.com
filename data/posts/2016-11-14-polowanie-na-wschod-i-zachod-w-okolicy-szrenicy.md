@@ -89,7 +89,7 @@ dziwnie przesuwać. Co 15 minut musiałem jeden ponownie zakładać
 aby był on użyteczny.
 Wtedy pojawiły mi się pierwsze myśli że mogłem teraz sobie wygodnie spać.
 
-{% photo "IMGP9032raw1.jpg","Schronisko na Hali Szrenickiej","timeline" %}
+{% photo "IMGP9032raw1.jpg","Schronisko na Hali Szrenickiej","tag:timeline" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -153,7 +153,7 @@ Teraz wiem że powinienem być na wyraźnie najwyższym
 miejscu w okolicy. Niby to jest oczywiste, ale dopiero na żywo człowiek sobie
 to uzmysłowi.
 
-{% photo "IMGP9143raw1.jpg","Zaczęły pojawiać się poranne mgły w dolinach","timeline" %}
+{% photo "IMGP9143raw1.jpg","Zaczęły pojawiać się poranne mgły w dolinach","tag:timeline" %}
 
 Ruszyłem dalej czerwonym szlakiem aby podejść najwyżej jak mogę, jednak w połowie
 drogi dalsze północne partie gór oraz samo
@@ -178,7 +178,7 @@ W [schronisku][wiki-szrenica-schr] porozmawiałem z [Sławkiem Podgórnym][slawe
 który polował na zdjęcia superksiężyca. Jest to pierwszy fotograf którego spotkałem
 w boju (no prawie w boju).
 
-{% photo "IMGP9361raw1.jpg","Widok na nadajnik przy Śnieżnych Kotłach","timeline" %}
+{% photo "IMGP9361raw1.jpg","Widok na nadajnik przy Śnieżnych Kotłach","tag:timeline" %}
 
 Po 12:30 postanowiłęm się ruszyć. Ile można siedzieć w schronisku i jeść?
 Ruszyłem na wschód w stronę [Śnieżnych Kotłów][wiki-sniezne-kotly].

@@ -41,7 +41,7 @@ przez mokry las. Wilgoć powoduje, że wszystko jest jeszcze bardziej zielone.
 
 Próbowałem zrobić zdjęcia idealnie zamaskowanej żabie, jednak niestety ona była szybsza.
 
-{% photo "IMGP4771raw1.jpg","Droga przez las","timeline" %}
+{% photo "IMGP4771raw1.jpg","Droga przez las","tag:timeline" %}
 
 Z [wieży widokowej][dziewicza-wieza] widzieliśmy raczej szary krajobraz, chociaż widoczność nie
 była jakoś bardzo ograniczona.

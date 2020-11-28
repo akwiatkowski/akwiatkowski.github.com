@@ -70,7 +70,7 @@ drugiej stronie.
 
 Najbardziej spodobał mi się widok drogi wokół której były oszadzone krzaki.
 
-{% photo "IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa","timeline" %}
+{% photo "IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa","tag:timeline" %}
 
 Dotarłem do [Łodzi][wiki-lodz] niebieskim szlakiem pieszym
 mijając po lewej stawek obok ulicy Trzebawskiej.

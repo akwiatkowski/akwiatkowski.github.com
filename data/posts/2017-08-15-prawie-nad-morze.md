@@ -83,7 +83,7 @@ Zdecydowaliśmy po moich wątpliwościach aby dojechać drogą gruntową do
 [Nowego Worowa][wiki-nowe-worowo]. Przez nie przejeżdzałem
 [dwa lata temu]({% post_url 2015-08-23-z-cieszyno-do-szczecinka %}) rowerem.
 
-{% photo "IMGP0271raw1.jpg","Jadąc do Lipna","timeline" %}
+{% photo "IMGP0271raw1.jpg","Jadąc do Lipna","tag:timeline" %}
 
 Podjęliśmy kolejną decyzję - aby jechać przez [Lipno][wiki-lipno] na
 północ. Byli byśmy wtedy szybciej w [Połczynie Zdrój][wiki-polczyn-zdroj].
@@ -103,7 +103,7 @@ Bardzo podobała mi się droga przez [Smołdzęcino][wiki-smoldzecino].
 Następną miejscowością było [Kłokowo][wiki-klokowo], które było
 jeszcze mniejszą miejscowością i nie aż tak ciekawe.
 
-{% photo "IMGP0291raw1.jpg","Okolice Smołdzęcino","timeline" %}
+{% photo "IMGP0291raw1.jpg","Okolice Smołdzęcino","tag:timeline" %}
 
 Dojeżdzając do drogi 173 zauważyłem wysoką [wieżę][wiki-wieza-toporzyk]
 z nadajnikami. Bardzo mnie zaciekawiła ona gdyż wyglądała jakby
@@ -121,7 +121,7 @@ w stanie sprawdzać co się dzieje za mną.
 Dojechaliśmy do znacznie bardziej ruchliwej drogi 163 do [Kołobrzegu][wiki-kolobrzeg]
 i tam spokojnie niespokojną drogą dotarliśmy do [Połczyna Zdrój][wiki-polczyn-zdroj].
 
-{% photo "IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój","timeline" %}
+{% photo "IMGP0318raw1.jpg","Opuszczając Połczyn Zdrój","tag:timeline" %}
 
 Zamiast znowu jechać po drodze wojewódzkiej znalazłem inną opcję.
 Ulica Młyńska była idealnym rozwiązaniem. Okazało się, że tylko krótki
@@ -140,7 +140,7 @@ dziwnego robaka - taką dużą czarno-czerwoną suchą dżdżownice.
 Przeglądając mapę widzę sporo ciekawych terenów wokół
 [Połczyna Zdroju][wiki-polczyn-zdroj] jednak nie nadawały one się do tras liniowych.
 
-{% photo "IMGP0348raw1.jpg","Okolice Rzecino","timeline" %}
+{% photo "IMGP0348raw1.jpg","Okolice Rzecino","tag:timeline" %}
 
 Podobał mi się delikatny zjazd we wsi [Rzecino][wiki-rzecino] z ktorej
 kierowaliśmy się do [Rąbino][wiki-rabino]. Tam zrobiliśmy przerwę przy sklepie.
@@ -167,7 +167,7 @@ byłem zaskoczony ale jak później widziałem że jest tego znacznie więcej to
 poczułem lekkie zaniepokojenie. Może to nie jest to co myśle, tylko inna
 roślina?
 
-{% photo "IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie","timeline" %}
+{% photo "IMGP0366raw1.jpg","Elektrownie wiatrowe na horyzoncie","tag:timeline" %}
 
 Przed [Białogardem][wiki-bialogard] po lewej stronie zrobiłem zdjęcie
 ogromnej ilości elektrowni wiatrowych na zachodzie.

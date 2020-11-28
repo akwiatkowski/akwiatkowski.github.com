@@ -53,7 +53,7 @@ Do [Jakuszyc][wiki-jakuszyce] [dojechaliśmy][vimeo-1] klasycznym szlakiem rower
 Dzień był jeszcze wczesny, dlatego zgodnie z wcześniejszym planem ruszyliśmy na zachód
 do [Czech][wiki-czechy], do wsi [Jizerka][wiki-jizerka].
 
-{% photo "IMGP7322raw1.jpg","Okolica Rudaw Janowickich","timeline" %}
+{% photo "IMGP7322raw1.jpg","Okolica Rudaw Janowickich","tag:timeline" %}
 
 Okazało się, że to co na jednej mapie jest szlakiem rowerowym, na innej jest szlakiem
 pieszym. Dlatego zamiast jechać prowadziłem rower, gdyż nie lubię jeździć po korzeniach

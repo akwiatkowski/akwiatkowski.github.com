@@ -35,6 +35,7 @@ pois:
 [wiki-przebedowo]: https://pl.wikipedia.org/wiki/Przeb%C4%99dowo_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-poznan]:https://pl.wikipedia.org/wiki/Pozna%C5%84
 [wiki-wagrowiec]: https://pl.wikipedia.org/wiki/W%C4%85growiec
+[wiki-linia-365]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_356
 
 ## Wstęp
 
@@ -60,7 +61,7 @@ była w remoncie, a w drugiej była zamknięta impreza tego dnia.
 Rezerwowo odwiedziliśmy żabkę aby mieć jakieś zapasowe jedzenie. Była tam spora
 kolejka - w końcu niedziela i większe sklepy są zamknięte.
 
-{% photo "2019_06_16__16_20__6160026.jpg","Pole przy drodze do Boduszewa" %}
+{% photo "2019_06_16__16_20__6160026.jpg","Pole przy drodze do Boduszewa","tag:timeline,tag:good" %}
 
 Znaleźliśmy jakiś bar przy ulicy Polnej. Zrobiliśmy tam prawie godzinną przerwę.
 Jedzenie wyjątkowe nie było ale mogliśmy ruszyć dalej.
@@ -78,27 +79,27 @@ z dodatkową komorą.
 
 Miałem przy sobie Olympusa (12-100, 40-150) i Sony (85/1.8).
 
-{% photo "2019_06_16__16_42__6160070.jpg","Pole maków","timeline" %}
+{% photo "2019_06_16__16_42__6160070.jpg","Pole maków","tag:timeline" %}
 
 Odkrywam, że w fotografii krajobrazowej przydają się również jasne szkła. Teraz sobie
 wyobrażam jak fajnie byłoby pojechać tam rano i robić zdjęcia tego pola
 w połączeniu z żółtym światłem, rosą i rozmyciem.
 
-{% photo "2019_06_16__16_44_DSC06844.jpg","Pole maków (z rozmyciem)" %}
+{% photo "2019_06_16__16_44_DSC06844.jpg","Pole maków (z rozmyciem)","tag:good" %}
 
 Oprócz maków na polach można było miejscami znaleźć inne kwiatki.
 
-{% photo "2019_06_16__17_07_DSC06868.jpg","Chabry","timeline" %}
+{% photo "2019_06_16__17_07_DSC06868.jpg","Chabry (1)","tag:timeline,tag:good" %}
 
 Z [Boduszewa][wiki-boduszewo] ruszyliśmy drogą gruntową w stronę do
 [Głębocka][wiki-glebocko].
 
-{% photo "2019_06_16__17_25__6160117.jpg","Droga w stronę Głębocka","timeline" %}
+{% photo "2019_06_16__17_25__6160117.jpg","Droga w stronę Głębocka","tag:timeline" %}
 
 Wiosna i lato w roku 2019 były bardzo suche. Droga gruntowa zamieniła się w piasek.
 Jazda rowerem nie byłaby łatwa.
 
-{% photo "2019_06_16__17_28__6160128.jpg","Chabry" %}
+{% photo "2019_06_16__17_28__6160128.jpg","Chabry (2)" %}
 
 Pole zboża powoli dostawało żółtych kolorów, chociaż nie wszystkie. Nie znam się
 tak dobrze na gatunkach zboża niestety.
@@ -108,11 +109,11 @@ tak dobrze na gatunkach zboża niestety.
 Poświęciłem trochę czasu na robienie zdjęć chabrom. Ten niebieski kolor
 bardzo ładnie kontrastował z żółtym kolorem zboża.
 
-{% photo "2019_06_16__17_34__6160148.jpg","Chabry" %}
+{% photo "2019_06_16__17_34__6160148.jpg","Chabry (3)","tag:good" %}
 
 Ruszyliśmy na zachód w stronę [Przebędowa][wiki-przebedowo].
 
-{% photo "2019_06_16__17_35_DSC06902.jpg","Chabry" %}
+{% photo "2019_06_16__17_35_DSC06902.jpg","Chabry (4)","tag:good" %}
 
 A tu powyżej porównanie zdjęcia zrobionego Olympusem i pełnoklatkowym Sony.
 Różnica jest niewielka.
@@ -124,7 +125,7 @@ Odkryliśmy ciekawą drogą w stronę pola. Położona była w bardzo malowniczy
 terenie wijąc się między lekkimi pagórkami. Możliwe, że w okolicy był lub jest
 jakiś staw.
 
-{% photo "2019_06_16__18_02_DSC06932.jpg","Droga przez pole" %}
+{% photo "2019_06_16__18_02_DSC06932.jpg","Droga przez pole","tag:good" %}
 
 Spędziliśmy tam kilkanaście minut. Nie było sensu iść dalej gdyż droga
 stawała się bardziej gęsta a musieliśmy się dostać do [Przebędowa][wiki-przebedowo].
@@ -134,23 +135,21 @@ stawała się bardziej gęsta a musieliśmy się dostać do [Przebędowa][wiki-p
 Wracaliśmy już do [Przebędowa][wiki-przebedowo], które można opisać bardziej jako
 północną część [Murowanej Gośliny][wiki-murowana-goslina] niż osobną miejscowość.
 
-{% photo "2019_06_16__18_20_DSC06964.jpg","Idąc do Przebędowa" %}
+{% photo "2019_06_16__18_20_DSC06964.jpg","Idąc do Przebędowa (1)","tag:good" %}
 
 Pola zbóż, które mijaliśmy, były różnokolorowe. Niektóre bardziej zielone,
 inne były bardziej żółte.
 
-{% photo "2019_06_16__18_23_DSC06971.jpg","Idąc do Przebędowa","timeline" %}
+{% photo "2019_06_16__18_23_DSC06971.jpg","Idąc do Przebędowa (2)","tag:timeline" %}
 
 Drzewa wzdłuż drogi były bardzo bujne. Pomimo tego, że nie ma nic odkrywczego
 w tych zdjęciach, to bardzo lubię perspektywę lekkiego teleobiektywu.
 
-{% photo "2019_06_16__18_24_DSC06976.jpg","Idąc do Przebędowa","timeline" %}
+{% photo "2019_06_16__18_24_DSC06976.jpg","Idąc do Przebędowa","tag:timeline" %}
 
 Idealnie pokazuje to co najbardziej lubię późną wiosną i latem.
 
 {% photo "2019_06_16__18_28_DSC06987.jpg","Idąc do Przebędowa" %}
-
-[wiki-linia-365]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_356
 
 Zbliżaliśmy się do torów kolejowych [linii 365][wiki-linia-365],
 po których jeździ szynobus [Poznań][wiki-poznan]-[Wągrowiec][wiki-wagrowiec].
@@ -160,12 +159,12 @@ I którym będziemy wracać.
 
 Spodobała mi się powyższa kompozycja. Trudno mi coś więcej o tym napisać.
 
-{% photo "2019_06_16__18_41_DSC06998.jpg","Linia kolejowa w stronę Skoków/Wągrowca" %}
+{% photo "2019_06_16__18_41_DSC06998.jpg","Linia kolejowa w stronę Skoków/Wągrowca","tag:good" %}
 
 Jadąc pociągiem na tej linii widziałem różne ciekawe miejsca. Jedno z tych miejsc
 właśnie w tamtym momencie miałem okazję zobaczyć - szkielet jakiegoś budynku na polu.
 
-{% photo "2019_06_16__18_42_DSC07000.jpg","Pole i szkielet budynku" %}
+{% photo "2019_06_16__18_42_DSC07000.jpg","Pole i szkielet budynku","tag:good" %}
 
 Będąc tam mogłem spokojnie zrobić mu zdjęcie. Chociaż trochę spieszyliśmy się
 do odjazdu pociągu więc takiego pełnego spokoju nie było.
@@ -176,4 +175,4 @@ do odjazdu pociągu więc takiego pełnego spokoju nie było.
 Dotarliśmy na przystanek kolejowy. Jest on umieszczony w taki sposób,
 że dla mieszkańców pobliskich domów jest on idealnym sposobem dojazdu.
 
-{% photo "2019_06_16__18_56_DSC07009.jpg","Ślady przez pole" %}
+{% photo "2019_06_16__18_56_DSC07009.jpg","Rozmyte kwiatki" %}

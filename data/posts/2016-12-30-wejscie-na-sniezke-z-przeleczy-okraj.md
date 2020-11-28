@@ -106,7 +106,7 @@ Decyzję o schodzeniu podjeliśmy bardzo szybko. Jedyny czeski bufet był przepe
 i nie czułbym się dobrze w takim tłumie. Ponownie zrobiliśmy
 przerwę w [Jelence][wiki-schronisko-jelenka].
 
-{% photo "IMGP1054raw1.jpg","Karpacz, Miłków i okolice","timeline" %}
+{% photo "IMGP1054raw1.jpg","Karpacz, Miłków i okolice","tag:timeline" %}
 
 
 Dalej schodziliśmy szlakiem żółtym. Tak jak czerwony i ten był dość nudnym

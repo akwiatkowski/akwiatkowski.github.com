@@ -81,7 +81,7 @@ jednak trwające upały nie zachęcają. Pewnie pod koniec albo po wakacjach
 będzie padał deszcz prawie codziennie, jak to było w 2017 r.
 (aktualizacja - nie padał)
 
-{% photo "P5311362raw1.jpg","Dojeżdżając do Trzciela","timeline" %}
+{% photo "P5311362raw1.jpg","Dojeżdżając do Trzciela","tag:timeline" %}
 
 [Trzciel][wiki-trzciel] jest bardzo ładnym miastem, pełnym starych
 budynków i klimatycznych miejsc.

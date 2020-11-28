@@ -52,17 +52,17 @@ przez [Starołękę][wiki-staroleka] w stronę [Daszewic][wiki-daszewice].
 Dalej jechaliśmy głównie lasami, aż do [Jeziora Skrzyneckiego Dużego][wiki-j-skrzyneckie].
 Przejechaliśmy [Kórnik][wiki-kornik] z przerwą na jedzenie obok [zamku][wiki-kornik-zamek].
 
-{% photo "IMGP5593raw1.jpg","Okolice Radzewic" %}
+{% photo "IMGP5593raw1.jpg","Okolice Radzewic","tag:good" %}
 
 Wracaliśmy w kierunku [Rogalina][wiki-rogalin] i dalej w stronę [Mosiny][wiki-mosina], z
 której już normalnie [Nadwarciańskim Szlakiem Rowerowym][wiki-nadwiarcianski].
 
-{% photo "IMGP5607raw1.jpg","Okolice Dębów Rogalińskich","timeline" %}
+{% photo "IMGP5607raw1.jpg","Okolice Dębów Rogalińskich","tag:timeline" %}
 
 Zrobiłem tego dnia dużo kilometrów, gdyż musiałem w obie strony przejechać przez cały
 [Poznań][wiki-poznan].
 
-{% photo "IMGP5677raw1.jpg","Napotkana jaszczurka" %}
+{% photo "IMGP5677raw1.jpg","Napotkana jaszczurka","tag:good" %}
 
 Bardzo spodobała mi się okolica [Warty][wiki-warta] niedaleko [Rogalina][wiki-rogalin]. Jest tam
 sporo ciekawych drzew i ładna polana.

@@ -97,7 +97,7 @@ zrobił sobie [kolej ogrodową][nietoperek-kolej].
 Jechaliśmy dalej 3km na południe do [Kaławy][wiki-kalawa]. Widzieliśmy
 restaurację [Dworek Kaława][kalawa-dworek].
 
-{% photo "P6031881raw1.jpg","Zielono-niebieskie kolory wiosny","timeline" %}
+{% photo "P6031881raw1.jpg","Zielono-niebieskie kolory wiosny","tag:timeline" %}
 
 Na skrzyżowaniu skręciliśmy na zachód jadąc w stronę [Wysokiej][wiki-wysoka]
 przez okolice [MRU][wiki-mru]. Wieś [Kaława][wiki-kalawa] mi się podobała. Chętnie
@@ -129,7 +129,7 @@ powrót czerwonym szlakiem rowerowym obok [Jeziora Paklicko Małe][wiki-jezioro-
 W [Boryszynie][wiki-boryszyn] w centrum wsi jest działo. Okolica jest bardzo klimatyczna
 i coraz bardziej ciekawi mnie województwo [lubuskie][wiki-lubuskie].
 
-{% photo "P6031993raw1.jpg","Droga z Boryszyna do Zarzynia","timeline" %}
+{% photo "P6031993raw1.jpg","Droga z Boryszyna do Zarzynia","tag:timeline" %}
 
 Jadąc na północ z [Boryszyna][wiki-boryszyn] zaciekawiły mnie tereny na zachód
 od tego miejsca. Pagórki widać od razu. Wiedziałem, że jest gdzieś tam
@@ -138,7 +138,7 @@ od tego miejsca. Pagórki widać od razu. Wiedziałem, że jest gdzieś tam
 Chciałem tam pojechać ale to mogłoby być za dużo na dzisiaj, więc już
 myślałem o planach przyszłych wyjazdów.
 
-{% photo "P6032000raw1.jpg","Wracając do Wysokiej","timeline" %}
+{% photo "P6032000raw1.jpg","Wracając do Wysokiej","tag:timeline" %}
 
 Nie mogąc za daleko odjeżdżać skręciłem w prawo aby przejechać
 pętlę wokół [jeziora][wiki-jezioro-paklicko-male] (czerwony szlak rowerowy).
@@ -162,7 +162,7 @@ na zachód. Przeczuwałem, że będą tam znacznie ciekawsze widoki.
 Według mapy powinniśmy jechać po lepszej drodze niż droga gruntowa i okazało się,
 że była to droga brukowana. Niestety na rower nie jest to zbyt dobra droga.
 
-{% photo "P6032043raw1.jpg","Różne barwy zboża","timeline" %}
+{% photo "P6032043raw1.jpg","Różne barwy zboża","tag:timeline" %}
 
 Po 2km dotarliśmy do skrzyzowania. Patrząc na mapę widziałem, że po lewej
 są (lub były) tory [linii 375][wiki-linia-375] z [Toporowa][wiki-toporow] do
@@ -189,7 +189,7 @@ widziałem przynajmniej jeden zamknięty teraz właśnie w [Sieniawie][wiki-sien
 Woleliśmy jechać przez [Wielowieś][wiki-wielowies] chyba z powodu jakości
 drogi oraz większej szansy na sklep. Nie chcieliśmy jechać drogą brukową.
 
-{% photo "P6030009raw1.jpg","Staw w Sieniawie","timeline" %}
+{% photo "P6030009raw1.jpg","Staw w Sieniawie","tag:timeline" %}
 
 Opuszczając [Sieniawę][wiki-sieniawa] widziałem jakąś [kopalnię][sieniawa-kopalnia]
 po lewej stronie, chyba zamkniętą. A może tylko taśmociąg był wtedy wyłączony.
@@ -201,7 +201,7 @@ zjazd do [Wielowsi][wiki-wielowies]. Widzieliśmy tylko 2 albo 3 domy we
 wschodniej części tej miejscowości, od razu skręciliśmy w prawo jadąc do
 [Zarzynia][wiki-zarzyn]. Musieliśmy przejechać przez las teraz, trochę monotonny.
 
-{% photo "P6030012raw1.jpg","Jadąc do Zarzynia","timeline" %}
+{% photo "P6030012raw1.jpg","Jadąc do Zarzynia","tag:timeline" %}
 
 Dotarliśmy do wsi [Pieski][wiki-pieski]. Tutaj jazda spokojnymi drogami
 miała się skończyć. Musieliśmy dostać się do sklepu, a gdzie może
@@ -233,7 +233,7 @@ W okolicy Jeziora Oko zostało nam około 2km jazdy
 do centrum [Międzyrzecza][wiki-miedzyrzecz]. Opuściliśmy drogą i jechaliśmy
 ścieżką rowerową. Od razu zauważyłem inny kolor trawy
 
-{% photo "P6030036raw1.jpg","Dom w okolicy Międzyrzecza","timeline" %}
+{% photo "P6030036raw1.jpg","Dom w okolicy Międzyrzecza","tag:timeline" %}
 
 Po przesadnie dużych zakupach ruszyliśmy do bazy. Następnego dnia mieliśmy
 wracać wczesnym pociągiem do [Zbąszynia][wiki-zbaszyn] i prawie konduktor by

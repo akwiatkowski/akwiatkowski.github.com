@@ -66,11 +66,11 @@ część [Polski][wiki-polska] była w obszarze bezchmurnym.
 
 ### Dzień wcześniej - park na Dębcu
 
-{% photo "2019_02_16__11_49__2162180.jpg","Łęgi Dębińskie","timeline" %}
+{% photo "2019_02_16__11_49__2162180.jpg","Łęgi Dębińskie","tag:timeline" %}
 
 Dzień wcześniej ruszyłem na spacer po najciekawszym parku w [Poznaniu][wiki-poznan].
 
-{% photo "2019_02_16__11_48__2162179.jpg","Dróżka w parku","timeline" %}
+{% photo "2019_02_16__11_48__2162179.jpg","Dróżka w parku","tag:timeline" %}
 
 Chciałem przetestować ten obiektyw na pływających łabędziach. Jednak gdy zobaczyłem, że
 stawy pokryte są lodem, to wiedziałem że raczej nic pływać nie będzie.
@@ -95,7 +95,7 @@ Ruszyłem pociągiem o 10:50, którym po godzinie jazdy byłem na miejscu.
 Wybrałem dojazd do [Lipna][wiki-lipno] gdyż trochę mnie ciekawiła okolica
 na wschód od torów. Widziałem ją gdy jechałem pociągiem do [Wrocławia][wiki-wroclaw].
 
-{% photo "2019_02_17__12_17__2172358.jpg","Droga do Goniembic","timeline" %}
+{% photo "2019_02_17__12_17__2172358.jpg","Droga do Goniembic","tag:timeline" %}
 
 Byłem trochę głodny wiec ruszyłem w stronę restauracji. Po lewej stronie drogi
 zobaczyłem kota w polu. Spróbowałem do niego podejść ale gdy mnie
@@ -104,7 +104,7 @@ Powoli kierował się w moją stronę i mogłem zrobić mu zdjęcia. Jednak gdy 
 ruszyłem bardzo szybko uciekł ode mnie. Wtedy zrozumiałem, że muszę trochę zmienić ustawienia
 autofocus'u.
 
-{% photo "2019_02_17__12_21__2172375.jpg","Okolice Żakowa","timeline" %}
+{% photo "2019_02_17__12_21__2172375.jpg","Okolice Żakowa","tag:timeline" %}
 
 Przestawiłem jego czułość na `+2`, czyli maksymalną możliwą wartość. Włączyłem
 tryb `AF-C`. To powinno znacznie ułatwić.
@@ -120,7 +120,7 @@ Sam nie znam się na ptakach i nie zamierzam się poznawać w tym momencie. Są 
 dany ptak wygląda według mnie na wróbla, to tymczasowo będzie dla mnie wróblem.
 Mogę się mylić teraz.
 
-{% photo "2019_02_17__13_00__2172613.jpg","Okoliczne pola","timeline" %}
+{% photo "2019_02_17__13_00__2172613.jpg","Okoliczne pola","tag:timeline" %}
 
 Wchodząc do [Żakowa][wiki-zakowo] zobaczyłem bardzo strachliwego
 białego kotka. Gdy zbliżyłem się do niego ten bardzo szybko uciekał. Biegł
@@ -189,7 +189,7 @@ Do przystanku kolejowego zostało około 800m. Spokojnie szedłem mając na uwad
 że prawdopodobnie najciekawsze zdjęcia tego dnia zrobiłem.
 Nie musiałem się specjalnie skupiać na okolicy.
 
-{% photo "2019_02_17__14_33__2173452.jpg","Żurawie w okolicy przystanku kolejowego Górka Duchowa","timeline" %}
+{% photo "2019_02_17__14_33__2173452.jpg","Żurawie w okolicy przystanku kolejowego Górka Duchowa","tag:timeline" %}
 
 Byłem ogromnie zadowolony zdjęciami kotów. Oczywiście zrobiłem ich znacznie więcej
 niż tutaj umieszczam - chyba ponad 700. Wstępnie przerobiłem około 150 zdjęć.

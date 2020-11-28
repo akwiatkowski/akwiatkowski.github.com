@@ -66,7 +66,7 @@ to do [Tykocina][wiki-tykocin] byśmy musieli jechać rowerem tylko trochę pona
 Ale co to jest 30km? Przecież już nie raz robiłem 100km? No w tą pogodę
 nic nie jest takie, jak być powinno.
 
-{% photo "P8100205.jpg","Cmentarz w Goniądzu","timeline" %}
+{% photo "P8100205.jpg","Cmentarz w Goniądzu","tag:timeline" %}
 
 Ruszyliśmy o godzinie 11-tej. Temperatura wzrastała z 28 stopni.
 Musieliśmy, tak jak [dzień wcześniej]({% post_url 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca %})
@@ -83,7 +83,7 @@ Prawdopodobnie tym motylem jest [Rojnik morfeusz][wiki-rojnik].
 Aby dostać się do stacji [Goniądz][wiki-goniadz-stacja] musieliśmy kierować się
 w stronę [Downar][wiki-downary]. Stacja oddalona jest 4km od centrum.
 
-{% photo "P8100223.jpg","Znalezione miejsce widokowe","timeline" %}
+{% photo "P8100223.jpg","Znalezione miejsce widokowe","tag:timeline" %}
 
 Znaleźliśmy ciekawą górkę. Był z niej widok na okoliczne osady (Wójtostwo).
 

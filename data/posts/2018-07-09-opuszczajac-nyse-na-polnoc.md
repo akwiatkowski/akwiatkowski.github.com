@@ -62,7 +62,7 @@ rękawem, albo nawet softshell. W tym roku już rano czuję się jakby to było 
 Z hotelu jechaliśmy na północ aby się dostać do centrum. Okolica rynku jest
 bardzo ładna.
 
-{% photo "P7091121.jpg","Wiadukt nad torami kolejowymi na północ od Nysy","timeline" %}
+{% photo "P7091121.jpg","Wiadukt nad torami kolejowymi na północ od Nysy","tag:timeline" %}
 
 Skręciliśmy w ulicę Orląt Lwowskich jadąc w stronę [Regulic][wiki-regulice].
 Na początku musieliśmy pokonać około 20m podjazd.
@@ -80,7 +80,7 @@ Patrząc teraz na rozkład kolejowy z [Nysy][wiki-nysa] są połączenia do:
 Będę musiał pojechać do [Nysy][wiki-nysa] i pojeździć koleją bo przyszłość
 tych połączeń może być niepewna.
 
-{% photo "P7091122.jpg","W okolicy drogi 46","timeline" %}
+{% photo "P7091122.jpg","W okolicy drogi 46","tag:timeline" %}
 
 Przejechaliśmy nad drogą 46 a następnie mieliśmy zjazd do [Regulic][wiki-regulice].
 Widzieliśmy pofalowane pola żółtego już zboża.

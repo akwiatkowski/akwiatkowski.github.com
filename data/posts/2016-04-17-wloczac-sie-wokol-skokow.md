@@ -46,13 +46,13 @@ na lewą stronę drogi i za około pół kilometra szliśmy drogą gruntową. Na
 mapie jest to ulica Włókna, a według [wikipedii][wiki-potrzanowo] Włókna to
 folwark częsci [Potrzanowa][wiki-potrzanowo].
 
-{% photo "IMGP9231raw1.jpg","Droga gruntowa ze Sławy Wielkopolskiej","timeline" %}
+{% photo "IMGP9231raw1.jpg","Droga gruntowa ze Sławy Wielkopolskiej","tag:timeline" %}
 
 Po prawej minęliśmy Jezioro Lisówka, a po lewej Jezioro Włókieńskie. Domki
 rekreacyjne są tam chyba przy każdym jeziorze. Ich ilość pokazuje, że
 muszą być to jedne z najciekawszych terenów w okolicy.
 
-{% photo "IMGP9246raw1.jpg","Zbliżając się do Potrzanowa","timeline" %}
+{% photo "IMGP9246raw1.jpg","Zbliżając się do Potrzanowa","tag:timeline" %}
 
 Kierowaliśmy się na północ w stronę Starego Potrzanowa, było tam krótkie
 podejście.
@@ -77,7 +77,7 @@ Zauważyliśmy, że byłoby to dobre miejsce na robienie zdjęć porannej mgły 
 Przechodziliśmy przed rzeczką dopływającą do [Małej Wełny][wiki-mala-welna].
 Wysokie zbocze rzeki z jednej strony było bardzo interesujące.
 
-{% photo "IMGP9284raw1.jpg","Droga w kierunku Łoskonia Starego","timeline" %}
+{% photo "IMGP9284raw1.jpg","Droga w kierunku Łoskonia Starego","tag:timeline" %}
 
 Ruszyliśmy dalej w stronę [Skoków][wiki-skoki] kierując się do centrum,
 jednak szybko zboczyliśmy i szliśmy wokół [Małej Wełny][wiki-mala-welna]. Po

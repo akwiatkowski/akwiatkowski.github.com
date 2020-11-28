@@ -83,13 +83,13 @@ W [Słoninie][wiki-slonin] skręciliśmy na południe. Patrząc na mapę UMP jes
 niebieski szlak pieszy przez las. Z kolei zgodnie z mapą OSM na wschód powinna rozpoczynać
 się puszcza.
 
-{% photo "2019_07_07__11_59_P7070020.jpg","Okolice wsi Witkówki","timeline" %}
+{% photo "2019_07_07__11_59_P7070020.jpg","Okolice wsi Witkówki","tag:timeline" %}
 
 Podobało mi się połączenie zboża przed żniwami ze starymi domami.
 
 Gdy jechaliśmy przez las również tutaj była ścieżka rowerowa.
 
-{% photo "2019_07_07__12_13_P7070044.jpg","Droga do Starego Gołębina","timeline" %}
+{% photo "2019_07_07__12_13_P7070044.jpg","Droga do Starego Gołębina","tag:timeline" %}
 
 Las się skończył. Wjechaliśmy do wsi [Witkówki][wiki-witkowki] gdzie również była
 ścieżka rowerowa! Krajobraz dość szybko stał się dla mnie monotonny.
@@ -133,7 +133,7 @@ Dotarliśmy do [Rąbina][wiki-rabin]. Jest tu bardzo ładny plac w centrum wiosk
 Niestety i tutaj również trudno było szukać świeżej trawy, wszystko było
 wyschnięte.
 
-{% photo "2019_07_07__13_21_P7070131.jpg","Zboże","timeline" %}
+{% photo "2019_07_07__13_21_P7070131.jpg","Zboże","tag:timeline" %}
 
 Podczas wyjazdu na północ widziałem dużo domów i ogrodzeń z czerwonej cegły.
 
@@ -143,14 +143,14 @@ Wybraliśmy to drugie, chociaż nie wiem czy to była dobra decyzja.
 Asfaltem byśmy przejechali szybciej ale droga gruntowa była dobrym
 urozmaiceniem.
 
-{% photo "2019_07_07__13_24_P7070145.jpg","Droga do Rąbina","timeline" %}
+{% photo "2019_07_07__13_24_P7070145.jpg","Droga do Rąbina","tag:timeline,tag:good" %}
 
 Z [Błocieszewa][wiki-blociszewo] jechaliśmy już bezpośrednio do
 [Śremu][wiki-srem]. Tam chcieliśmy zrobić przerwę na obiad. Znalazłem
 restauracje przy wjeździe. Nie było zbyt ciepło a woleliśmy siedzieć na zewnątrz
 przy rowerach. Niestety za jedzeniem musieliśmy trochę poczekać.
 
-{% photo "2019_07_07__13_31_P7070149.jpg","Widok z małej wieży obserwacyjnej","timeline" %}
+{% photo "2019_07_07__13_31_P7070149.jpg","Widok z małej wieży obserwacyjnej","tag:timeline" %}
 
 Ruszyliśmy na wschód. Nie myślałem, że nasza trasa będzie tak... nie krótka.
 Nie wiem co sobie myślałem planując.
@@ -170,7 +170,7 @@ Dotarliśmy do [Dąbrowy][wiki-dabrowa]. Przy głównym skrzyżowaniu zatrzymał
 się i zrobiłem zdjęcia kotu, który krążył obok sklepu.
 Był on średnio uchwytny.
 
-{% photo "2019_07_07__14_02_P7070207.jpg","Przed Błociszewem","timeline" %}
+{% photo "2019_07_07__14_02_P7070207.jpg","Przed Błociszewem","tag:timeline" %}
 
 Musieliśmy dojechać do [Zaniemyśla][wiki-zaniemysl]. Decyzja
 opierała się na kompromisie między drogą asfaltową z niezerowym ruchem
@@ -207,7 +207,7 @@ Więc jednak coś tu nadal jeździ. W samej wsi spodobało mi się ułożenie
 budynków wzdłuż drogi. Byłem już bardzo zmęczony, za bardzo jak
 na tylko 60km.
 
-{% photo "2019_07_07__17_25_P7070285.jpg","Przez las do Zaniemyśla","timeline" %}
+{% photo "2019_07_07__17_25_P7070285.jpg","Przez las do Zaniemyśla","tag:timeline" %}
 
 Patrząc teraz na nagrany filmik i widząc mijane domy to jednak jest tu coś,
 co mnie trochę uspokaja w porównaniu do życia w mieście. Miasto separuje się

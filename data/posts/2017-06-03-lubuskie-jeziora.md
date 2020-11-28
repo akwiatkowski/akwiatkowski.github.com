@@ -68,7 +68,7 @@ Musieliśmy jechać drogami wojewódzkimi czasami
 nie mając dróg regionalnych jako sensownej alternatywy dla naszej zaplanowanej
 trasy.
 
-{% photo "IMGP6890raw1.jpg","Droga niedaleko Łochowa","timeline" %}
+{% photo "IMGP6890raw1.jpg","Droga niedaleko Łochowa","tag:timeline" %}
 
 Analizując dojazd do [Łagowa][wiki-lagow] okazało się, że tym razem jest lepiej.
 Nie będziemy skazani na drogi wojewódzkie.
@@ -76,7 +76,7 @@ Nie będziemy skazani na drogi wojewódzkie.
 Ruszyliśmy drogą 277 z [Sulechowa][wiki-sulechow] w kierunku północno-zachodnim.
 Ruch na tej drodze był raczej spokojny i można było odczuć klimat dzikiej Polski.
 
-{% photo "IMGP6939raw1.jpg","Pola niedaleko Ołobok","timeline" %}
+{% photo "IMGP6939raw1.jpg","Pola niedaleko Ołobok","tag:timeline" %}
 
 Mijaliśmy już w pełni zielone drzewa, a zboże na polach już opuszczało fazę
 koloru zielonego pokazująć że po wiośnie przyjdzie lato.
@@ -163,7 +163,7 @@ przez górę Bukowiec. Okazało się, że Bukowiec to wzniesienie o wysokości
 około 230 metrów n.p.m. Nie byłem pewien tej drugiej opcji, bo przez poligon
 jechać nie chciałem.
 
-{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa","timeline" %}  
+{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa","tag:timeline" %}  
 
 Pojechaliśmy w stronę Bukowca. Rozpoczął się lekki podjazd i droga brukowa. Miałem już
 dość dzisiejszego dnia takiej nawierzchni. Po prawej stronie

@@ -80,7 +80,7 @@ jednak była dość
 wysoka. Czułem się spokojniej - mieliśmy już jakiś nocleg i teraz mogliśmy
 szukać czegoś tańszego.
 
-{% photo "IMGP0135raw1.jpg","Wyjazd z Szydłowa","timeline" %}
+{% photo "IMGP0135raw1.jpg","Wyjazd z Szydłowa","tag:timeline" %}
 
 Michał zaczął dzwonić i ostatecznie dodzwonił się do jednego z ośrodka
 wczasowego w [Cieszyno][wiki-cieszyno]. Nie podam jego nazwy, a powód tego
@@ -105,7 +105,7 @@ W [Szydłowie][wiki-szydlowo] skręciliśmy na prawo wkraczając na lokalne drog
 tam rowerem szosowym. Miejscami było gorzej ale w tym momencie już
 nie pamiętam gdzie.
 
-{% photo "IMGP0146raw1.jpg","Dojeżdzając do Różewa","timeline" %}
+{% photo "IMGP0146raw1.jpg","Dojeżdzając do Różewa","tag:timeline" %}
 
 Minęliśmy [linię kolejową 403][wiki-linia-403]
 (trasa [Piła][wiki-pila]-[Szczecin][wiki-szczecin]), która na początku XXI wieku
@@ -152,7 +152,7 @@ Rozmawiając z przydrożnym sprzedawca miodów, owoców i innych akcesoriów
 dowiedzieliśmy się, że wspomniana linia kolejowa została wyremontowana tuż przed
 jej likwidacją.
 
-{% photo "IMGP0165raw1.jpg","Zółte pole po żniwach","timeline" %}
+{% photo "IMGP0165raw1.jpg","Zółte pole po żniwach","tag:timeline" %}
 
 W [Karsiborze][wiki-karsibor] zrobiliśmy przerwę przy ruinie kościoła.
 Cała miejscowość jest według mnie bardzo ładna.
@@ -161,7 +161,7 @@ Ruszyliśmy dalej na północ w stronę wsi [Rudki][wiki-rudki]. Patrząc teraz 
 widzę, że po prawej stronie płynie rzeka Świniarka i jest tam wyraźne obniżenie
 terenu. Mogło by to być ciekawe miejsce na piesze zwiedzanie.
 
-{% photo "IMGP0158raw1.jpg","Okolice Jaksic","timeline" %}
+{% photo "IMGP0158raw1.jpg","Okolice Jaksic","tag:timeline" %}
 
 Jadąc przez [Świerczynę][wiki-swierczyna] dotarliśmy do drogi 177 niedaleko
 [Sośnicy][wiki-sosnica]. Tam spotkaliśmy wspomnianego wyżej sprzedawcę i

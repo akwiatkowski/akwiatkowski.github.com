@@ -55,23 +55,23 @@ Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwo
 
 Niestety te 2-3km szlaku obok Jagnięcego Potoku było przez las kompletnie nieprzetartym szlakiem.
 
-{% photo "IMGP8066b.jpg","Rzeka Izera" %}
+{% photo "IMGP8066b.jpg","Rzeka Izera","tag:good" %}
 
 Co ciekawe, były tam malutkie szczeliny, ale wystarczające aby się w nie władować. Raz się
 przewróciłem i nie miałem dobrze zapiętego plecaka. Teraz wiem, że wstać z plecakiem nie jest łatwe,
 zwłaszcza jeżeli jest się w zapadającym śniegu.
 
-{% photo "IMGP8102b.jpg","Idąc przez izerski zimowy las" %}
+{% photo "IMGP8102b.jpg","Idąc przez izerski zimowy las (1)","tag:good" %}
 
 Te 2-3km tak nas zmęczyły, że nie chciało się już próbować wracać na [Główny Szlak Sudecki][wiki-gss].
 
-{% photo "IMGP8126b.jpg","Idąc przez izerski zimowy las" %}
+{% photo "IMGP8126b.jpg","Idąc przez izerski zimowy las (2)" %}
 
 Wyszliśmy na trasy narciarstwa biegowego i grzecznie poboczem kierowaliśmy się do
 [Jakuszyc][wiki-jakuszyce]. Tam zjedliśmy i poczekaliśmy na kolej do [Szklarskiej Poręby][wiki-szklarska].
 Skróciliśmy sobie drogę z 13km do około 6km. Cóż, zima.
 
-{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las","timeline" %}
+{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las (3)","tag:timeline,tag:good" %}
 
 Z centrum [Szklarskiej Poręby][wiki-szklarska] dotarliśmy do schroniska [Kamieńczyk][wiki-kamienczyk]
 idąc głównie przez miasto. Jedynie ostatnie kilkaset metrów jest trochę stromę.

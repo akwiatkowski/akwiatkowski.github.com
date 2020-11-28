@@ -44,6 +44,8 @@ pois:
 [wiki-osiek]: https://pl.wikipedia.org/wiki/Osiek_(powiat_strzelecko-drezdenecki)
 [wiki-miedzyplon]: https://pl.wikipedia.org/wiki/Mi%C4%99dzyplon
 
+{% photo_header "Jesienny tunel","tag:portfolio,tag:good,tag:best" %}
+
 ## Wstęp
 
 Co roku jesienią jeżdżę w góry. Z oczywistych powodów ten rok jest wyjątkowy
@@ -78,7 +80,7 @@ Czułem narastającą frustrację. Widziałem że jesień przyszła i niedługo 
 a ja rok 2020 zakończę bez jesiennych, górskich zdjęć. Zacząłem myśleć o
 alternatywach.
 
-{% photo "2020_11_03__09_56_DSC05395.jpg","Mierzęcka Struga","timeline" %}
+{% photo "2020_11_03__09_56_DSC05395.jpg","Mierzęcka Struga","tag:timeline" %}
 
 Pogoda i praca mi nie pomagały. Na szczęście pojawił się dzień w którym mogłem
 "wyskoczyć na spacer". Oczywiście mały spacer w znanej okolicy to dla mnie za mało.
@@ -93,41 +95,41 @@ ale ostatecznie położyłem się dopiero chwilę przed północą.
 Na szczęście wszystko się w miarę udało i usiadłem w pociągu, którym miałem
 jechać ponad dwie godziny.
 
-{% photo "2020_11_03__10_12_DSC05412.jpg","Droga do Bierzwnika" %}
+{% photo "2020_11_03__10_12_DSC05412.jpg","Droga do Bierzwnika","tag:good" %}
 
 Prognoza pogody była ociecująca ale przez pierwszą godzinę niebo było zakryte
 chmurami. Dopiero w okolicy [Krzyża][wiki-krzyz] pojawiło się słońce.
 Gdy dojeżdżałem do [Bierzwnika][wiki-bierzwnik] niebo było prawie bezchmurne.
 
-{% photo "2020_11_03__10_14_DSC05422.jpg","Resztki jesieni" %}
+{% photo "2020_11_03__10_14_DSC05422.jpg","Resztki jesieni","tag:good" %}
 
 Wysiadłem. Moja trasa była określona włącznie z pociagiem powrotnym.
 Musiałem dotrzeć przed 15-tą do [Dobiegniewa][wiki-dobiegniew] i wrócić
 pociągiem IC.
 
-{% photo "2020_11_03__10_16_DSC05440.jpg","Jesienny las","timeline" %}
+{% photo "2020_11_03__10_16_DSC05440.jpg","Jesienny las (1)","tag:timeline,tag:best,tag:good" %}
 
 Kierowałem się na południowy zachód do wsi [Ostromęcko][wiki-ostromecko]
 położonej na południowym krańcu [Jeziora Bierzwnik][wiki-jezioro-bierzwnik].
 
-{% photo "2020_11_03__10_18_DSC05449.jpg","Jesienny las" %}
+{% photo "2020_11_03__10_18_DSC05449.jpg","Jesienny las (2)","tag:good" %}
 
 Droga była położona w lesie. Z obu stron widziałem jesienny, rudy las a
 promienie słońca dawały to coś co co definiuje "złotą polską jesień".
 
-{% photo "2020_11_03__10_23_DSC05473.jpg","Złote liście","timeline" %}
+{% photo "2020_11_03__10_23_DSC05473.jpg","Złote liście","tag:timeline" %}
 
 To była bardzo ładna droga. Próbowałem zrobić sporo zdjęć korzystając z
 Sony 85/1.8 i rozmycia tła. Gdybym miał przy sobie Sigmę 105/1.4 to uzyskałbym
 jeszcze lepsze rozmycie tła, jednak ten obiektyw jest bardzo męczący
 w noszeniu.
 
-{% photo "2020_11_03__10_35_DSC05510.jpg","Droga po której szedłem","timeline" %}
+{% photo "2020_11_03__10_35_DSC05510.jpg","Droga po której szedłem","tag:timeline" %}
 
 Dotarłem na plażę nad [Jeziorem Bierzwnik][wiki-jezioro-bierzwnik]
 i tam musiałem zrobić przerwę aby coś do pracy zrobić.
 
-{% photo "2020_11_03__10_53_DSC05532.jpg","Grzyby na drzewie" %}
+{% photo "2020_11_03__10_53_DSC05532.jpg","Grzyby na drzewie","tag:good" %}
 
 Okolica plaży jest bardzo ładnie zagospodarowana - jest sporo infrastruktury
 "jeziornej".
@@ -148,18 +150,18 @@ ona położona dokładnie przy drodze a kilkaset metrów na zachód. Jest tam
 podzielone na [północne][wiki-jezioro-krzywe-polnocne] i
 [południowe][wiki-jezioro-krzywe-poludniowe]).
 
-{% photo "2020_11_03__11_10_DSC05592.jpg","Tunel drzew","timeline" %}
+{% photo "2020_11_03__11_10_DSC05592.jpg","Tunel drzew","tag:timeline,tag:good" %}
 
 Gdy opuściłem las znalazłem się w bardzo ładnym tunelu drzew. Takie tunele są idealne
 do wykorzystania z teleobiektywem.
 
-{% photo "2020_11_03__11_13_DSC05606.jpg","Tunel drzew z bliska","timeline" %}
+{% photo "2020_11_03__11_13_DSC05606.jpg","Tunel drzew z bliska","tag:timeline" %}
 
 Oprócz wspomnianego tunelu drzew to okoliczny krajobraz nie był jakoś wyjątkowy. Ostatnimi czasy
 zauważam, że jesienią pola są bardziej zielone niż na wiosnę. Wydaje mi się,
 że to jest głównie związane z obsadzeniem [międzyplonu][wiki-miedzyplon].
 
-{% photo "2020_11_03__11_26_DSC05630.jpg","Przed Kolskiem","timeline" %}
+{% photo "2020_11_03__11_26_DSC05630.jpg","Przed Kolskiem","tag:timeline" %}
 
 Aż do [Kolska][wiki-kolsk] nie zrobiłem żadnego istotnego zdjęcia.
 
@@ -190,7 +192,7 @@ Chociaż do zastanowienia jest kto by z takiego połączenia korzystał.
 Ludzie się przyzwyczaili do tego, że i tak muszą mieć samochód. Chyba tylko starsze,
 biedniejsze osoby?
 
-{% photo "2020_11_03__11_40_DSC05688.jpg","Trochę zieleni" %}
+{% photo "2020_11_03__11_40_DSC05688.jpg","Trochę zieleni","tag:good" %}
 
 "Nowa" jesień to dziwna pora roku. Zawsze jesień mi się kojarzyła z żółtymi barwami, gdy
 przyroda zasypia przed zimą, a teraz przyroda miejscami nawet lepiej rośnie niż
@@ -207,12 +209,12 @@ Krajobraz pomiędzy [Kolskiem][wiki-kolsk] a [Lubiewkiem][wiki-lubiewko]
 był bardzo ciekawy. Widać było różnice wysokości w terenie przy okolicznych
 stawach.
 
-{% photo "2020_11_03__11_51_DSC05746.jpg","Pofalowany krajobraz","timeline" %}
+{% photo "2020_11_03__11_51_DSC05746.jpg","Pofalowany krajobraz","tag:timeline" %}
 
 Zbliżałem się do [Lubiewka][wiki-lubiewko]. Wydaję mi się, że to były
 najciekawsza okolica jaką widziałem tego dnia.
 
-{% photo "2020_11_03__11_56_DSC05761.jpg","Droga do Lubiewka","timeline" %}
+{% photo "2020_11_03__11_56_DSC05761.jpg","Droga do Lubiewka","tag:timeline" %}
 
 Po lewej stronie zobaczyłem staw który był pełen łabędzi. Ciekawie ukształtowanie
 terenu sprawia, że jest tu dużo jezior i stawów, a łabędzie mogą się czuć dobrze
@@ -222,7 +224,7 @@ gdyż rzadko kiedy człowiek im przeszkadza.
 
 Ta droga również mi się bardzo podobała do zdjęć teleobiektywem.
 
-{% photo "2020_11_03__11_59_DSC05775.jpg","Ostatni widok na Kolsk" %}
+{% photo "2020_11_03__11_59_DSC05775.jpg","Ostatni widok na Kolsk","tag:good" %}
 
 Opuszczając [Lubiewko][wiki-lubiewko] ponownie zauważyłem przystanek autobusowy
 i ponownie zacząłem zastanawiać się czy jakakolwiek komunikacja autobusowa tutaj
@@ -234,7 +236,7 @@ Bardzo podobała mi się droga na wyjeździe z [Lubiewka][wiki-lubiewko]
 do [Osieka][wiki-osiek], chociaż byłaby ładniejsza gdyby nie była pokryta
 świeżym asfaltem i nie widziałbym słupków ostrzegawczych.
 
-{% photo "2020_11_03__12_23_DSC05827.jpg","Jesienna droga" %}
+{% photo "2020_11_03__12_23_DSC05827.jpg","Jesienna droga","tag:good" %}
 
 Po opuszczeniu tego niewielkiego lasu krajobraz znowu stał się mniej
 ciekawy.
@@ -272,7 +274,7 @@ Kierowałem się teraz na południe w stronę parku.
 Dotarłem w okolice "parku". Żadnego parku tutaj nie widziałem ale znowu
 spotkałem koty.
 
-{% photo "2020_11_03__13_19_DSC05964.jpg","Ruiny pałacu w Osieku" %}
+{% photo "2020_11_03__13_19_DSC05964.jpg","Ruiny pałacu w Osieku","tag:ruin,tag:good" %}
 
 Pierwszy kot siedział sobie na trampolinie. Był wyraźnie młodszy od poprzednich.
 
@@ -314,7 +316,7 @@ delikatne fale jeziora i mniej delikatny wiatr.
 Zaciekawił mnie grzyb na trawie. Nie miałem przy sobie obiektywu makro
 ale Tamron 28-75 może robić zdjęcia z bliska na najmniejszej ogniskowej.
 
-{% photo "2020_11_03__14_41_DSC06090.jpg","Grzyb w Osieku" %}
+{% photo "2020_11_03__14_41_DSC06090.jpg","Grzyb w Osieku","tag:good" %}
 
 Ruszyłem do [Dobiegniewa][wiki-dobiegniew]. Miałem około 30 minut przed odjazdem.
 Kupiłem trochę jedzenia które zjadłem czekając na stacji.

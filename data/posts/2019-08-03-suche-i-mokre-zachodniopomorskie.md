@@ -83,12 +83,12 @@ Ruszyliśmy wczesnym pociągiem trochę po godzinie 6-tej rano. Wybrałem stacj�
 mocno odizolowana od głównych dróg. Samo patrzenie na mapę powodowało, że
 aż chciałem tu jeździć.
 
-{% photo "2019_08_03__09_09_DSC08220.jpg","Droga Zaniemyśl-Sądów (Sony)","timeline" %}
+{% photo "2019_08_03__09_09_DSC08220.jpg","Droga Zaniemyśl-Sądów (Sony)","tag:timeline" %}
 
 Przejazd pociagiem skończyliśmy chwilę po 9-tej. Ruszyliśmy na zachód do
 [Sądowa][wiki-sadow]. Przy bardzo spokojnej drodze był tylko jeden dom.
 
-{% photo "2019_08_03__09_09_P8030001.jpg","Droga Zaniemyśl-Sądów (Olympus)","timeline" %}
+{% photo "2019_08_03__09_09_P8030001.jpg","Droga Zaniemyśl-Sądów (Olympus)","tag:timeline" %}
 
 Droga ta jest idealnie stworzona na rower. Trawa niestety była wysuszona. Piszę ten
 wpis na początku listopada i to zadziwiająco smutne, że właśnie teraz
@@ -119,12 +119,12 @@ głównej drogi.
 Gdy opuściliśmy tą miejscowość miałem wrażenie, że pola zaczynają się lekko
 "falować".
 
-{% photo "2019_08_03__09_44_P8030009.jpg","Pola po żniwach","timeline" %}
+{% photo "2019_08_03__09_44_P8030009.jpg","Pola po żniwach","tag:timeline" %}
 
 Przejechaliśmy przez [Skrzany][wiki-skrzany], wieś która jest komunikacyjnie dość
 odgrodzona od świata.
 
-{% photo "2019_08_03__09_55_P8030016.jpg","Droga do Przywodzia","timeline" %}
+{% photo "2019_08_03__09_55_P8030016.jpg","Droga do Przywodzia","tag:timeline" %}
 
 Jadąc tak przez pola po żniwach krajobraz jeszcze bardziej sprawiał
 wrażenie suchego. Dominującą barwą była słomkowa o niskim nasyceniu.
@@ -137,7 +137,7 @@ do jazdy asfaltem. Przez tą miejscowość
 [przejeżdżaliśmy]({% post_url 2016-07-10-przez-pagorki-do-stargardu %})
 trzy lata temu.
 
-{% photo "2019_08_03__10_18_DSC08249.jpg","Kościół we wsi Płońsko" %}
+{% photo "2019_08_03__10_18_DSC08249.jpg","Kościół we wsi Płońsko","tag:good" %}
 
 Przejechaliśmy przez rzekę [Płonię][wiki-plonia-rzeka]. Chcieliśmy przejechać
 przez [Płońsko][wiki-plonsko] do [Przelewic][wiki-przelewice]. W okolicy
@@ -153,7 +153,7 @@ Z kolei [linia 411][wiki-linia-411] do [Pyrzyc][wiki-pyrzyce]
 została zamknięta w 2004 roku. Są jakieś próby reaktywacji, jednak
 tak pocięty system jest trudny w naprawieniu.
 
-{% photo "2019_08_03__11_01_P8030023.jpg","Okolice wsi Ślazowo","timeline" %}
+{% photo "2019_08_03__11_01_P8030023.jpg","Okolice wsi Ślazowo","tag:timeline" %}
 
 We wsi [Płońsko][wiki-plonsko] zatrzymaliśmy się w centrum przy kościele.
 Tereny te były nieznacznie bardziej "ucywilizowane". Droga nasza nie była
@@ -172,14 +172,14 @@ Kierowaliśmy się do [Mielęcina][wiki-mielecin] jadąc przez kolejne wioski.
 W [Ślazowie][wiki-slazowo] podobały mi się niskie szeregowe domy mieszkalne,
 z których małe drzwi bezpośrednio wychodziły na ulicę.
 
-{% photo "2019_08_03__11_24_P8030058.jpg","Pofalowany teren obok wsi Bylice","timeline" %}
+{% photo "2019_08_03__11_24_P8030058.jpg","Pofalowany teren obok wsi Bylice","tag:timeline" %}
 
 Zaciekawiły mnie stawy wzdłuż drogi na zachód od [Ślazowej][wiki-slazowo].
 Zgodnie z mapą te tereny powinny mieć dużo małych górek i ciekawych
 ukształtowań terenu, jednak w praktyce dopiero teraz coś ciekawego mogliśmy zobaczyć.
 To co wcześniej widzieliśmy to były małe epozidy.
 
-{% photo "2019_08_03__11_29_P8030079.jpg","Droga gruntowa do wsi Brzesko" %}
+{% photo "2019_08_03__11_29_P8030079.jpg","Droga gruntowa do wsi Brzesko","tag:good" %}
 
 Dotarliśmy do wsi [Krasne][wiki-krasne]. Szczerze mówiąc trochę oczekiwałem
 ciekawszych krajobrazów tutaj. Patrząc teraz na mapę to wydaje mi się,
@@ -197,7 +197,7 @@ w dół, jednak wydaje mi się, że mogłem się ładnie rozpędzić.
 Dotarliśmy do [Mielęcina][wiki-mielecin] a tam zobaczyłem budynek
 starej stacji kolejowej. Zrobiłem kilka zdjęć.
 
-{% photo "2019_08_03__12_06_P8030106.jpg","Droga do Mielęcina" %}
+{% photo "2019_08_03__12_06_P8030106.jpg","Droga do Mielęcina","tag:good" %}
 
 Pojechaliśmy na południe przez [Derczewko][wiki-derczewko] głównie dlatego
 aby zobaczyć okolicę Rezerwatu Jezioro Jasno. Niestety z naszej perspektywy nie
@@ -217,7 +217,7 @@ pewne, że chmury na północnym zachodnie są burzowe.
 W [Sitnie][wiki-sitno] skręciliśmy w lewo i jechaliśmy na południe jednocześnie
 uciekając od burzy.
 
-{% photo "2019_08_03__12_27_DSC08284.jpg","Droga do Derczewka","timeline" %}
+{% photo "2019_08_03__12_27_DSC08284.jpg","Droga do Derczewka","tag:timeline" %}
 
 Na mapie okolica [Sitna][wiki-sitno] również jest bardzo obiecująca. Jezioro
 Sitno jest bardzo rozległe, jest na nim wyspa z małą górą i łączy się ono
@@ -265,7 +265,7 @@ Wjechaliśmy w [Myśliborzyce][wiki-mysliborzyce]. Zaciekawiły mnie tu tory kol
 [linii 415][wiki-linia-415], którymi do 1992 roku można było dojechać do
 [Gorzowa Wielkopolskiego][wiki-gorzow-wielkopolski].
 
-{% photo "2019_08_03__15_34_P8030142.jpg","Las w okolicy wsi Staw","timeline" %}
+{% photo "2019_08_03__15_34_P8030142.jpg","Las w okolicy wsi Staw","tag:timeline" %}
 
 Do [Ściechowa][wiki-sciechow] zostało nam 13km jazdy.
 

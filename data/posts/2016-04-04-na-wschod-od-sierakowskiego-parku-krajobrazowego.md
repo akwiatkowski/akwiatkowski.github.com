@@ -73,7 +73,7 @@ Minąłem [Stare Miasto][wiki-stare-miasto], bardzo ciekawa nazwa miejscowości,
 która nie jest miastem. Musiałem pokonać lekki podjazd i czekał mnie miły
 zjazd.
 
-{% photo "IMGP9175raw1.jpg","Widok na Wartę niedaleko Popowa","timeline" %}
+{% photo "IMGP9175raw1.jpg","Widok na Wartę niedaleko Popowa","tag:timeline" %}
 
 Według mapy przez dłuższy czas nie było żadnej miejscowości, ale z tego co
 pamiętam przy drodze były domy. Dopiero po niecałych 5km
@@ -106,7 +106,7 @@ Droga między [Dąbrową][wiki-dabrowa] przez [Mylin][wiki-mylin] do
 jest wsią położoną w dolinie, obok niego jest [Jezioro Radziszewskie][wiki-jezioro-radziszewskie].
 Droga do niego jest widocznie wyżej.
 
-{% photo "IMGP9188raw1.jpg","Droga do Mylina","timeline" %}
+{% photo "IMGP9188raw1.jpg","Droga do Mylina","tag:timeline" %}
 
 Dojechałem do nieużywanej stacji kolejowej w [Chrzypsku Wielkim][wiki-chrzypsko-wielkie]
 i jechałem dalej do [Chrzypska Małego][wiki-chrzypsko-male], z którego wyjazd był

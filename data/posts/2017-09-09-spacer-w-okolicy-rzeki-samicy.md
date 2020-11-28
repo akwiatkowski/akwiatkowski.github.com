@@ -46,7 +46,7 @@ Szczegóły
 Trasę zaczęliśmy dość późno, gdyż w [Stęszewie][wiki-steszew] wysiedliśmy
 po 16-tej.
 
-{% photo "IMGP0482raw1.jpg","Ścieżka do ulicy 28 Grudnia","timeline" %}
+{% photo "IMGP0482raw1.jpg","Ścieżka do ulicy 28 Grudnia","tag:timeline" %}
 
 Musieliśmy przejść przez [miasto][wiki-steszew] aby wyjść z niego ulicą
 Kanałową. Ulica ta zakręca niedaleko rzeki [Samicy][wiki-samica-rzeka].
@@ -76,7 +76,7 @@ Idąc dalej przez polę po prawej widzieliśmy obniżenie terenu obok
 czasu, dlatego chcieliśmy dostać się do Jeziora Tomieckiego we
 wsi [Mirosławki][wiki-miroslawki] i szybko wracać.
 
-{% photo "IMGP0501raw1.jpg","Obniżenie terenu w stronę rzeki Samicy","timeline" %}
+{% photo "IMGP0501raw1.jpg","Obniżenie terenu w stronę rzeki Samicy","tag:timeline" %}
 
 Powoli temperatura opadała jak i robiło się ciemniej.
 Do [Stęszewa][wiki-steszew] dotarliśmy o zmroku.

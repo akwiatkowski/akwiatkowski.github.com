@@ -66,7 +66,7 @@ jechaliśmy w pierwszym wagonie.
 
 W [Bydgoszczy][wiki-bydgoszcz] przesiadliśmy się na szynobus do [Tucholi][wiki-tuchola].
 
-{% photo "IMGP7949raw1.jpg","Wiosna widoczna z okna pociągu","timeline" %}
+{% photo "IMGP7949raw1.jpg","Wiosna widoczna z okna pociągu","tag:timeline" %}
 
 Postanowiłem, że warto by pojechać do [Tucholi][wiki-tuchola] abym mógł "dorysować"" szlak na mapie
 i jednocześnie rozgrzać się przed następnym dniem.

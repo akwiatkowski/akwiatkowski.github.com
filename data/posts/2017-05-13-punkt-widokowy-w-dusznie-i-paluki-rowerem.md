@@ -86,7 +86,7 @@ W mieście przejechaliśmy obok Jeziora Mogileńskiego a następnie przejechali�
 mostem nad torami do [Orchowa][wiki-orchowo]. Jakiś czas temu jeździł
 po nich maluch-drezyna.
 
-{% photo "IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska","timeline" %}
+{% photo "IMGP6207raw1.jpg","Droga wzdłuż zielonych drzew niedaleko Chabska","tag:timeline" %}
 
 Ruch samochodowy po opuszczeniu [Mogilna][wiki-mogilno] zmniejszył się istotnie.
 Miejscami trasa była ciekawa dzięki świeżo zielenionymi drzewami
@@ -112,7 +112,7 @@ Zjazd do [Padniewa][wiki-padniewo] był długi i spokojny. Jak to przy zjazdach
 najlepsze widoki są na początku i wtedy też było najbardziej stromo, chociaż
 nie tak bardzo nawet jak na te tereny. Widać było wiosnę w pełni.
 
-{% photo "IMGP6281raw2.jpg","Różne kolory pól","timeline" %}
+{% photo "IMGP6281raw2.jpg","Różne kolory pól","tag:timeline" %}
 
 W [Padniewie][wiki-padniewo] zatrzymaliśmy się na skrzyżowaniu abym mógł
 sprawdzić mapę. Słyszeliśmy dziwne buczenie i patrząc na niebo zauważyliśmy
@@ -139,7 +139,7 @@ Wjechaliśmy w las. Czułem podobny klimat okolicy jak
 Minęliśmy niebieski szlak rowerowy którym można
 dojechać do [Chomiąży Szlacheckiej][wiki-chomiaza].
 
-{% photo "IMGP6293raw2.jpg","Droga przez pola rzepaku","timeline" %}
+{% photo "IMGP6293raw2.jpg","Droga przez pola rzepaku","tag:timeline" %}
 
 Dojechaliśmy do [Oćwieka][wiki-ocwieka]. Przez tą wieś również
 [kiedyś przejeżdzałem]({% post_url 2016-09-25-ze-skokow-do-janikowa %}).

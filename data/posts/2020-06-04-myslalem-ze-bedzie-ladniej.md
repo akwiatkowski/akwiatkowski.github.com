@@ -99,7 +99,7 @@ akurat teraz był w remoncie. Zdenerwowaliśmy kilku kierowców samochodów gdy�
 jezdnią a nie prowadziliśmy rowery poboczem (w czasie remontu nie można było jechać
 tam rowerem).
 
-{% photo "2020_06_04__12_12__6045388.jpg","Drzewo i ule","timeline" %}
+{% photo "2020_06_04__12_12__6045388.jpg","Drzewo i ule","tag:timeline" %}
 
 Dotarliśmy na ścieżkę rowerową wzdłuż [Wisły][wiki-wisla] i jechaliśmy ją dalej na wschód.
 Naszym celem było opuszczenie [Torunia][wiki-torun] i znalezienie
@@ -112,7 +112,7 @@ jest ładne, jednak im dalej na wschód tym więcej tego, co najbardziej nie lub
 w miastach. W centrum są zabytki, jest jakaś architektura, a na obrzeżach nikt
 się specjalnie nie interesuje aby było ładnie.
 
-{% photo "2020_06_04__12_40__6045403.jpg","Okolice leśniczówki niedaleko Młyńca Pierwszego","timeline" %}
+{% photo "2020_06_04__12_40__6045403.jpg","Okolice leśniczówki niedaleko Młyńca Pierwszego","tag:timeline" %}
 
 Jechaliśmy wzdłuż drogi przelotowej która wyraźnie definiuje okolicę.
 
@@ -131,7 +131,7 @@ przez ulicę Działową a tak wzdłuż drogi 15 były całkiem dobre ścieżki r
 Gdy patrzę teraz na mapę to wiem, że to szukanie szlaku to była moja wina.
 Jest zaznaczony zielony szlak rowerowy którym powinniśmy jechać ale nie zrobiliśmy tego.
 
-{% photo "2020_06_04__13_30__6045435.jpg","Jezioro Okonin" %}
+{% photo "2020_06_04__13_30__6045435.jpg","Jezioro Okonin","tag:good" %}
 
 Dotarliśmy do drogi 552. Jeszcze tylko około półtora kilometra i mogliśmy
 jechać po zielonym szlaku rowerowym z dala od ruchu.
@@ -156,7 +156,7 @@ W głowie miałem świadomość sąsiedztwa [Drwęcy][wiki-drweca], której abso
 nie widzieliśmy. Możliwe, że gdybyśmy skręcili w jakąś drogę na prawo to byśmy
 się dostali w jej otoczenie ale nie mieliśmy czasu na takie eksperymenty.
 
-{% photo "2020_06_04__14_25__6045489.jpg","Zamek w Golubiu-Dobrzyniu" %}
+{% photo "2020_06_04__14_25__6045489.jpg","Zamek w Golubiu-Dobrzyniu","tag:good" %}
 
 Zobaczyliśmy dom w środku lasu. To chyba nie była leśniczówka ale nie jestem
 tego pewien.
@@ -166,7 +166,7 @@ tego pewien.
 Opuściliśmy las w [Elgiszewie][wiki-elgiszewo] mając jakiś widok w stronę
 doliny [Drwęcy][wiki-drweca].
 
-{% photo "2020_06_04__15_34__6045510.jpg","Droga do wsi Płonko","timeline" %}
+{% photo "2020_06_04__15_34__6045510.jpg","Droga do wsi Płonko","tag:timeline" %}
 
 Dołączyliśmy do drogi 569. Zostało nam 10km do [Golubia-Dobrzynia][wiki-golub-dobrzyn],
 co było naszym pierwszym głównym przystankiem. Kolejnym miała być
@@ -204,7 +204,7 @@ drogi, ciepłem, sakwami, czułem się bardziej zmęczony niż podczas
 standardowej jazdy. Chciałem już opuścić tą drogę gruntową i znaleźć się
 na asfalcie.
 
-{% photo "2020_06_04__16_56__6046535.jpg","Kot we wsi Łapinóż","tag:cat" %}
+{% photo "2020_06_04__16_56__6046535.jpg","Kot we wsi Łapinóż","tag:cat,tag:good" %}
 
 Dotarliśmy do asfaltu ale to było tylko na chwilę. Zdecydowaliśmy się jechać w lewo
 myśląc, że asfalt będzie położony dalej lecz po chwili jazdy nie było sensu
@@ -223,7 +223,7 @@ Wioski jakoś nie były specjalnie ciekawe. Raczej takie zwyczajne, trochę podm
 trochę rolnicze. Przypominały mi południową [Wielkopolskę][wiki-wielkopolska].
 Tak zbyt wszystko uporządkowane ale nie nazwałbym tego "wizualnie atrakcyjne".
 
-{% photo "2020_06_04__19_58__6046639.jpg","Kot noclegowy","tag:cat" %}
+{% photo "2020_06_04__19_58__6046639.jpg","Kot noclegowy (1)","tag:cat,tag:good" %}
 
 Bardzo mnie zaciekawiły ruiny jakiegoś budynku dworskiego w
 [Radzikach Małych][wiki-radziki-male]. Chyba najciekawszym miejscem było obniżenie
@@ -232,12 +232,12 @@ linia wąskotorowa do [Wojnowa][wiki-wojnowo] (południe).
 
 W [Łapinóżu][wiki-lapinoz] spotkałem koty odpoczywające na chodniku.
 
-{% photo "2020_06_04__19_59__6046664.jpg","Kot noclegowy","tag:cat" %}
+{% photo "2020_06_04__19_59__6046664.jpg","Kot noclegowy (2)","tag:cat" %}
 
 Dotarliśmy do [Osieka][wiki-osiek] i skręciliśmy na północ jadąc już
 bezpośrednio do [Brodnicy][wiki-brodnica]. Zostało nam 10km.
 
-{% photo "2020_06_04__20_01__6046710.jpg","Kot noclegowy","tag:cat" %}
+{% photo "2020_06_04__20_01__6046710.jpg","Kot noclegowy (3)","tag:cat" %}
 
 Mieliśmy teraz lekki zjazd. Dotarliśmy do centrum gdzie wybraliśmy miejsce aby
 coś zjeść. Nasz nocleg był odległy o ok 4km na północ.
@@ -247,4 +247,4 @@ Okazało się, że nocleg jest znacznie bardziej atrakcyjnym miejscem niż na to
 wskazywały zdjęcia na stronie. Mieliśmy bardzo ładny widok w stronę północy
 (i miejscowości [Zbiczno][wiki-zbiczno]).
 
-{% photo "2020_06_04__20_04__6046757.jpg","Kot noclegowy","tag:cat" %}
+{% photo "2020_06_04__20_04__6046757.jpg","Kot noclegowy (4)","tag:cat" %}

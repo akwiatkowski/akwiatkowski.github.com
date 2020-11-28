@@ -34,7 +34,7 @@ Były to moje pierwsze [fotowarsztaty][fotowarsztaty]. Głównie wybrałem się 
 Szczegóły
 ---------
 
-{% photo "IMGP9108b.jpg","Kościół w Kłodzku" %}
+{% photo "IMGP9108b.jpg","Kościół w Kłodzku","tag:good" %}
 
 [Pasterka][wiki-pasterka] okazała się miejscowością faktycznie na końcu świata. W niektórych
 miejscach jest zasięg. Rzadko gdzie w środku budynków takie miejsca są.
@@ -46,12 +46,12 @@ dolnych salach powodowało, że co chwilę zasypiałem. Delikatnie mówiąc tego
 problemu z zaśnięciem. Pełen 5-osobowy pokój to również nie był problem. Wydaję mi się, że im gorsze
 warunki, tym jest fajniej.
 
-{% photo "IMGP9167raw2.jpg","Schronisko Pasterka","timeline" %}
+{% photo "IMGP9167raw2.jpg","Schronisko Pasterka","tag:timeline,tag:good,tag:best" %}
 
 W sobotę pobudka około 5-tej rano i wyjście na wschód słońca na [Szczeliniec Wielki][wiki-szczeliniec].
 Prawie się wyspałem.
 
-{% photo "IMGP9186raw1.jpg","Poranne mgły nad dolinami" %}
+{% photo "IMGP9186raw1.jpg","Poranne mgły nad dolinami","tag:good,tag:best" %}
 
 Następnie wycieczka przez labirynt na [Szczelińcu][wiki-szczeliniec]. Z jednej strony fajne miejsce, z drugiej tak trochę
 ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mnie.
@@ -61,24 +61,24 @@ ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mni
 Tak wyglądały oba Szczelińce ([Wielki][wiki-szczeliniec] i [Mały][wiki-szczeliniec-maly]) widziane z trasy powrotnej
 do [Pasterki][wiki-pasterka].
 
-{% photo "IMGP9347raw1.jpg","Schronisko Pasterka tuż po wschodzie" %}
+{% photo "IMGP9347raw1.jpg","Schronisko Pasterka tuż po wschodzie","tag:good" %}
 
 Starałem się nie zapominać o rzeczach małych.
 
-{% photo "IMGP9365raw1.jpg","Mała roślinka" %}
+{% photo "IMGP9365raw1.jpg","Mała roślinka","tag:good" %}
 
 Wracajac do noclegu zauważyłem kota.
 
-{% photo "IMGP9529raw1.jpg","Kot w Pasterce" %}
+{% photo "IMGP9529raw1.jpg","Kot w Pasterce","tag:cat" %}
 
 Wieczorem pojechaliśmy na [Wodospad Pośny][wiki-posna]. Wodospad to może zbyt mocna nazwa, widocznie
 w każdej dziedzinie życia musi być marketing.
 
-{% photo "IMGP9558raw1.jpg","Wodospad Pośny" %}
+{% photo "IMGP9558raw1.jpg","Wodospad Pośny (1)","tag:good" %}
 
 Mały strumień jednak idealnie komponował się z jesiennymi kolorami.
 
-{% photo "IMGP9574raw1.jpg","Wodospad Pośny" %}
+{% photo "IMGP9574raw1.jpg","Wodospad Pośny (2)","tag:good,tag:best" %}
 
 Następnego ranka pobudka o bardziej ludzkiej godzinie i ruszyliśmy do [Błędnych Skał][wiki-bledne-skaly],
 gdzie zrobiłem poniższe (główne zdjęcie tego wpisu) zdjęcie.

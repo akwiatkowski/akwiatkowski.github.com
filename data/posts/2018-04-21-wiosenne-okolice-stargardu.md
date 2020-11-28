@@ -96,14 +96,14 @@ można dojechać do [Białogardu][wiki-bialogard] albo [linią 403][wiki-linia-4
 
 Jechaliśmy drogą gruntową równolegle z torami do [Ulikowa][wiki-ulikowo].
 
-{% photo "P4210190raw1.jpg","Jadąc do Ulikowa","timeline" %}
+{% photo "P4210190raw1.jpg","Jadąc do Ulikowa","tag:timeline" %}
 
 Pomimo delikatnie już zielonych drzew, pola wokół nas nie wyglądały jeszcze wiosennie.
 
 Przejechaliśmy w okolicy stacji kolejowej i jechaliśmy przez [Ulikowo][wiki-ulikowo]
 do wsi [Pęzino][wiki-pezino].
 
-{% photo "P4210197raw1.jpg","Zbliżając się do Ulikowa","timeline" %}
+{% photo "P4210197raw1.jpg","Zbliżając się do Ulikowa","tag:timeline" %}
 
 [Ulikowo][wiki-ulikowo] wyglądało na bardzo małą wioskę, jakby było złożone tylko z
 trzech domów, lecz w praktyce główna część tej miejscowości była przed nami.
@@ -139,7 +139,7 @@ miejscowość - [Sierakowo][wiki-sierakowo] - wyglądało na znacznie nowocześn
 wieś. Jakby miała ona charakter rekreacyjny, chociaż do Jeziora Sierakowskiego
 nie było blisko w tym momencie.
 
-{% photo "P4210240raw1.jpg","Jadąc do Wapnicy","timeline" %}
+{% photo "P4210240raw1.jpg","Jadąc do Wapnicy","tag:timeline" %}
 
 Nie licząc dwóch budynków to cały czas jechaliśmy w okolicy lasu. Nic ciekawego
 nie mijaliśmy.
@@ -159,7 +159,7 @@ albo spróbować drogi gruntowe. Na południe rzeka
 Postanowiłem zostawić sobie [Recz][wiki-recz] na inną wycieczkę.
 Chciałem zobaczyć jeziora, które są na północ od tej miejscowości.
 
-{% photo "P4210252raw1.jpg","Rzeka Ina","timeline" %}
+{% photo "P4210252raw1.jpg","Rzeka Ina","tag:timeline" %}
 
 Wybraliśmy trasę przez malutką wieś [Ininy][wiki-ininy]. Na mapie jest zaznaczona
 ta droga jako dość pewna droga gruntowa. Wiedzieliśmy, że gdy coś pójdzie nie tak
@@ -230,7 +230,7 @@ Mieliśmy ostatni pociąg osobowy powrotny około
 [Chłopowo][wiki-chlopowo] miało swój klimat, jednak byłem zmęczony i nie doceniałem
 go.
 
-{% photo "P4210310raw1.jpg","Podmokłe tereny w okolicy Rębusza","timeline" %}
+{% photo "P4210310raw1.jpg","Podmokłe tereny w okolicy Rębusza","tag:timeline" %}
 
 Około półtora kilometra przed stacją [Rębusz][wiki-rebusz] zauważyliśmy
 w lesie podmokłe tereny. Wyglądały one bardzo ciekawe i jest to ciekawe miejsca

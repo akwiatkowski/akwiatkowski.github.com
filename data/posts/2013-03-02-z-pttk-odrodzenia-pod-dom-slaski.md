@@ -41,7 +41,7 @@ Szczegóły
 
 Wstałem około 6-tej i poszedłem korytarzem w schronisku do okna z którego mogłem zrobić jakieś zdjęcia okolicy o poranku.
 
-{% photo "IMGP9357b.jpg.jpg","Tuż przed wschodem z za okna schroniska" %}
+{% photo "IMGP9357b.jpg.jpg","Tuż przed wschodem z za okna schroniska",tag:good" %}
 
 Gdybym wiedział że będzie taka pogoda, to wziąłbym statyw, wstałbym godzinę wcześniej i wyszedł ze schroniska.
 
@@ -54,7 +54,7 @@ po stronie polskiej.
 
 Najbardziej stromo było w okolicy [Samotni][wiki-samotnia], czyli obok [Wielkiego Stawu][wiki-wielki-staw] oraz [Małego Stawu][wiki-maly-staw].
 
-{% photo "IMGP9442b.jpg","Widok na Sosnówkę","timeline" %}
+{% photo "IMGP9442b.jpg","Widok na Sosnówkę","tag:timeline" %}
 
 Gdy idzie się granią widok na doliny jest idealny, lecz nie oznacza to, że musi
 być ciekawy.
@@ -63,14 +63,14 @@ być ciekawy.
 
 Gdy po lewej widzieliśmy schronisko [Strzecha Akademicka][wiki-strzecha] na wprost górowała [Śnieżka][wiki-sniezka].
 
-{% photo "IMGP9626b.JPG","Strzecha Akademicka","timeline" %}
+{% photo "IMGP9626b.JPG","Strzecha Akademicka","tag:timeline" %}
 
 Dotarliśmy do [Domu Śląskiego][wiki-dom-slaski] na jedzenie.
 Myśleliśmy, aby spróbować wejść na [Śnieżkę][wiki-sniezka]
 przy tak idealnej pogodzie, ale prawdopodobnie byłyby wtedy problemy z powrotem. Dlatego zachowawczo zjechaliśmy
 kolejką do [Karpacza][wiki-karpacz].
 
-{% photo "IMGP9657b.jpg","Spacer po płaskiej części Karkonoszy" %}
+{% photo "IMGP9657b.jpg","Spacer po płaskiej części Karkonoszy","tag:good" %}
 
 Wracając autobusem widziałem jak ładnie wyglądają ośnieżone pola.
 Nie wiedziałem wtedy, że będę czekał więcej niż 5 lat na zrobienie takiego zdjęcia.

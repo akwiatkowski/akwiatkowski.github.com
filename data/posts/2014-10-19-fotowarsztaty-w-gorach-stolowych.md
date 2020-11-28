@@ -38,7 +38,7 @@ Było spokojniej, gdyż nie było żadnego festiwalu obok. Patrzyłem na niepoko
 prognozę pogody przed zaśnięciem. Nie mogłem uwierzyć, że teraz widzę gwiazdy, a
 następnego dnia będzie mokro i mgliście.
 
-{% photo "header.jpg","Niebieski wschód" %}
+{% photo "header.jpg","Niebieski wschód","tag:good,tag:best" %}
 
 Obudziliśmy się przed 5 rano z planem wyjścia na [Szczeliniec][wiki-szczeliniec]
 aby zrobić zdjęcia wschodu słońca. Dobrze że ten cel nie mieliśmy wypisany na czole
@@ -51,13 +51,13 @@ główne zdjęcie, które tutaj poniżej ponownie umieszczę.
 
 Nie jestem w stanie zrozumieć dlaczego ludziom podoba się tak bardzo poniższe zdjęcie.
 
-{% photo "IMGP0707raw1.jpg","Jesienna droga","timeline" %}
+{% photo "IMGP0707raw1.jpg","Jesienna droga","tag:timeline,tag:good" %}
 
 Później wyruszyliśmy w stronę [Błędnych Skał][wiki-bledne-skaly], jednak wiedząc
 jak jest tam ciasno opuściłem grupę i przeszedłem się drogą w stronę
 [Kudowy Zdrój][wiki-kudowa].
 
-{% photo "IMGP1197raw1b.jpg","Okolice Radkowa" %}
+{% photo "IMGP1197raw1b.jpg","Okolice Radkowa","tag:good" %}
 
 Wschód słońca dnia następnego był lepszy, jednak nie był tak dobry jak to było
 rok temu.

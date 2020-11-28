@@ -89,7 +89,7 @@ na niektórych mapach nie ma. Droga była brukowa przez co Michał nie był
 zadowolony jadąc swoim crossem. W zamian po obu stronach były żółte pola
 rzepaku.
 
-{% photo "IMGP6415raw1.jpg","Nienarysowana droga do Ledna","timeline" %}
+{% photo "IMGP6415raw1.jpg","Nienarysowana droga do Ledna","tag:timeline" %}
 
 Dojechaliśmy do [Swarzynic][wiki-swarzynice]. Zaciekawiły mnie ruiny
 czegoś co wyglądało jak duże gospodarstwo rolne.
@@ -132,7 +132,7 @@ zlikwidowana w 2012. To jest aż straszne,
 że wiekszość infrastruktury kolejowej została likwidowana w przeciągu 10 lat.
 Trudno nie doszukiwać się tutaj pochopności decyzji.
 
-{% photo "IMGP6487raw1.jpg","Droga przez Łysiny","timeline" %}
+{% photo "IMGP6487raw1.jpg","Droga przez Łysiny","tag:timeline" %}
 
 Dojechaliśm do [Wschowy][wiki-wschowa] jadąc przez jakiś park. Na rynku była
 uroczystość dla straży pożarnej. Nie mogliśmy znaleźć miejsca aby zjeść gdyż
@@ -162,7 +162,7 @@ Jadąc przez [Strumienną][wiki-strumienna] mineliśmy budynki dworca kolejowego
 Przebiaga tutaj [linia 372][wiki-linia-372]. Linia ta również została zamknięta
 w roku 1991, ale tym razem została przekazana na rzecz samorządu.
 
-{% photo "IMGP6503raw1.jpg","Pola w Borszynie Wielkiem","timeline" %}
+{% photo "IMGP6503raw1.jpg","Pola w Borszynie Wielkiem","tag:timeline" %}
 
 Przejechaliśmy szybko przez [Górę][wiki-gora]. Miejscowość ta jest na trasie
 dojazdu samochodem w stronę [Jeleniej Góry][wiki-jelenia-gora].

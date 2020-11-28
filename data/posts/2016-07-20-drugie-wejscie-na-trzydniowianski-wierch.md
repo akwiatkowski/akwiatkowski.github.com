@@ -76,7 +76,7 @@ Dopiero wtedy
 można zobaczyć jakieś widoki w pełni pokazujące o co w tym chodzi.
 Doliczając czas na powrót robi się z tego 7 godzin - sporo chodzenia.
 
-{% photo "IMGP2800raw1.jpg","Czerwony szlak na Trzydniowiański Wierch","timeline" %}
+{% photo "IMGP2800raw1.jpg","Czerwony szlak na Trzydniowiański Wierch","tag:timeline" %}
 
 Zostawiliśmy rzeczy w schronisku i ruszyliśmy w dół, aby wejść trudniejszym,
 bardziej stromym czerwonym szlakiem.
@@ -152,7 +152,7 @@ Na koniec wrzucam zdjęcie czego nie lubię w górach - tłumów.
 
 Podczas podejścia na Trzydniowiański Wierch.
 
-{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska","timeline" %}
+{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska","tag:timeline" %}
 
 Szlak zejściowy do schroniska. Schodzić będziemy dopiero za chwilę.
 
@@ -164,7 +164,7 @@ Dolina Chochołowska. Tam wcześniej szliśmy do schroniska.
 
 Szlak na [Kończysty Wierch][wiki-konczysty-wierch], do którego obawiałem się iść.
 
-{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska","timeline" %}
+{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska","tag:timeline" %}
 
 A to zdjęcie wykonałem aparatem z poziomu jakiegoś małego zwierza.
 

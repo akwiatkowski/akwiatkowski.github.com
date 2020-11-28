@@ -98,7 +98,7 @@ czasu wakacji.
 Pociąg ruszył na południe. Widziałem tory kolejowe którymi przyjechaliśmy
 do [Głuchołazów][wiki-glucholazy].
 
-{% photo "2019_08_10__10_28__8107912.jpg","Okolica Jindřichova","timeline" %}
+{% photo "2019_08_10__10_28__8107912.jpg","Okolica Jindřichova","tag:timeline" %}
 
 Przejechaliśmy przez [Pokrzywne][wiki-pokrzywna], przekroczyliśmy granicę i
 wjechaliśmy w okolicę [Jindrychowa][wiki-jindrichow]. Okolica już nie była
@@ -119,7 +119,7 @@ W sumie chodzi nie tylko o transport. Co chwilę widać jak "oni mają więcej
 albo lepiej" i zastanawiam się dlaczego nie możemy brać z nich przykładu.
 Czy zapłacili to swoim językiem, który dla mnie osobiście nie brzmi poważnie?
 
-{% photo "2019_08_10__10_46__8107969.jpg","Krajobraz po żniwach","timeline" %}
+{% photo "2019_08_10__10_46__8107969.jpg","Krajobraz po żniwach","tag:timeline" %}
 
 Przejechaliśmy przez [Krnov][wiki-krnov], który albo dla mnie był mniej ciekawy,
 albo akurat miałem tam przesiadkę i mniej zapamiętałem tą miejscowość.
@@ -144,7 +144,7 @@ oraz [Rymarov][wiki-rymarov].
 
 Jechaliśmy teraz przez bardzo gęste tereny leśne aż do miejscowości [Bruntal][wiki-bruntal].
 
-{% photo "2019_08_10__11_51__8108128.jpg","Sielska okolica Tylova","timeline" %}
+{% photo "2019_08_10__11_51__8108128.jpg","Sielska okolica Tylova","tag:timeline" %}
 
 Opuściliśmy na krótką chwilę tereny górskie aby po chwili znowu jechać po mocno
 krętych torach.
@@ -180,7 +180,7 @@ Zdecydowanie bardziej wolałbym jechać pociągiem przez [Sternberk][wiki-sternb
 gdzie trasa byłaby bardziej górska, jednak niestety nie było
 sensownego połączenia o tej porze.
 
-{% photo "2019_08_10__16_13__8108432.jpg","Okolice miejscowości Mohelnice","timeline" %}
+{% photo "2019_08_10__16_13__8108432.jpg","Okolice miejscowości Mohelnice","tag:timeline,tag:good" %}
 
 Nasz pociąc z krótkim opóźnieniem dotarł do stacji [Bludov][wiki-bludow].
 Niestety pociąg na który chciałem się przesiąść nie miał opóźnienia i po prostu

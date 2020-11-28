@@ -125,7 +125,7 @@ z którego blisko jest do [Górsko][wiki-gorsko].
 Nie robiliśmy tam większych przerw. Jechaliśmy dalej na północ do [Olejnicy][wiki-olejnica].
 Po lewej stronie mijaliśmy dużo domków letniskowych.
 
-{% photo "IMGP3349raw1.jpg","Jezioro Olejnickie","timeline" %}
+{% photo "IMGP3349raw1.jpg","Jezioro Olejnickie","tag:timeline" %}
 
 W [Olejnicy][wiki-olejnica] zrobiliśmy przerwę na jedzenie i zdjęcia obok
 Jeziora Olejnickiego i zastanawialiśmy się jak jechać dalej. Wybraliśmy niebieski
@@ -155,7 +155,7 @@ Tutaj ponownie musieliśmy wybrać jak jechać. Czy dalej na zachód asfaltem
 do [Mochów][wiki-mochy], czy bardziej terenowo. Wybraliśmy to drugie i obok
 stacji kolejowej ruszyliśmy na północ przez [Solec Nowy][wiki-solec-nowy].
 
-{% photo "IMGP3367raw1.jpg","Południowy kanal Odry","timeline" %}
+{% photo "IMGP3367raw1.jpg","Południowy kanal Odry","tag:timeline" %}
 
 Dojechaliśmy do [Solca][wiki-solec]. Te tereny kojarzyły mi się z
 [okolicami Noteci]({% post_url 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem %}).

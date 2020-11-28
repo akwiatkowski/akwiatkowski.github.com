@@ -71,13 +71,13 @@ A przynajmniej tereny "bliżej przyrody" niż wioski, które są na południu
 Z pociągu w [Trzemesznie][wiki-trzemeszno] wysiedliśmy przed 9-tą. W niedzielny
 poranek ruch samochodów jak i ludzi był znikomy.
 
-{% photo "2019_05_19__09_16_P5190013.jpg","Las w okolicy Krzyżówki","timeline" %}
+{% photo "2019_05_19__09_16_P5190013.jpg","Las w okolicy Krzyżówki","tag:timeline" %}
 
 Przez 3 minuty przejechaliśmy przez centralną część [miasta][wiki-trzemeszno]
 bez zatrzymywania się. Ciasna małomiejska zabudowa podczas pochmurnego dnia
 ładnie wyglądała na nagranym kamerką filmiku.
 
-{% photo "2019_05_19__09_22_P5190021.jpg","Wieś Piaski","timeline" %}
+{% photo "2019_05_19__09_22_P5190021.jpg","Wieś Piaski","tag:timeline" %}
 
 Kierowaliśmy się w stronę [Witkowa][wiki-witkowo]. Wieś [Miaty][wiki-miaty]
 nie była specjalnie ciekawa ale miała coś w sobie. Jechało się nam przyjemniemnie
@@ -85,13 +85,13 @@ przez nią. Zielone pola podświadomie uspokajały.
 
 Patrząc teraz na drogę skojarzyła mi się trasa do [Skorzęcina][wiki-skorzecin].
 
-{% photo "2019_05_19__09_25_P5190023.jpg","Wieś Piaski","timeline" %}
+{% photo "2019_05_19__09_25_P5190023.jpg","Wieś Piaski","tag:timeline" %}
 
 Tuż przed wyjazdem tego dnia myślałem, że będę musiał ubrać koszulkę z długim rękawem.
 Temperatura jednak (zgodnie z prognozą) szybko wzrastała i już po pół godzinie
 jazdy nie czułem tej potrzeby.
 
-{% photo "2019_05_19__09_37_P5190031.jpg","Wiatraki niedaleko Witkówka","timeline" %}
+{% photo "2019_05_19__09_37_P5190031.jpg","Wiatraki niedaleko Witkówka","tag:timeline" %}
 
 Wjechaliśmy w [Małachowo Złych Miejsc][wiki-malachowo-zlych-miejsc].
 Chyba jest to miejscowość o najbardziej ciekawej nazwie w której kiedykolwiek byłem.
@@ -111,12 +111,12 @@ Na skrzyżowaniu za nią zrobiliśmy przerwę na jedzenie. Niezbyt zachęcała
 nas dalsza droga na zachód, ale ruszyliśmy sądząć, że nie może być
 jakaś tragiczna. Faktycznie dało się jechać po niej rowerem szosowym.
 
-{% photo "2019_05_19__10_00_P5190063.jpg","Skrzyżowanie niedaleko Arcugowa","timeline" %}
+{% photo "2019_05_19__10_00_P5190063.jpg","Skrzyżowanie niedaleko Arcugowa","tag:timeline" %}
 
 Bardzo mi się spodobał tunel z drzew między [Arcugowem][wiki-arcugowo]
 a [Mikołajewicami][wiki-mikolajewice].
 
-{% photo "2019_05_19__10_11_P5190088.jpg","Tunel drzew między Arcugowem a Mikołajewicami","timeline" %}
+{% photo "2019_05_19__10_11_P5190088.jpg","Tunel drzew między Arcugowem a Mikołajewicami","tag:timeline" %}
 
 Jechaliśmy do [Potrzymowa][wiki-potrzymowo]. Był tam dziwny budynek ze
 szklarnią na dachu. Nie wiem jak lepiej to wytłumaczyć, zdjęcie umieściłem poniżej.
@@ -156,12 +156,12 @@ Dotarliśmy do centrum [Pobiedzisk][wiki-pobiedziska]. Zatrzymaliśmy się przy
 kawiarni. Przeanalizowałem opcję powrotu i postanowiliśmy, że spróbujemy
 dojechać do [Poznania][wiki-poznan].
 
-{% photo "2019_05_19__12_36_P5190150.jpg","Droga z Promna do Góry","timeline" %}
+{% photo "2019_05_19__12_36_P5190150.jpg","Droga z Promna do Góry","tag:timeline" %}
 
 Opuściliśmy [Pobiedziska][wiki-pobiedziska] jadąc do [Promna][wiki-promno].
 Niebo się dziwnie zachmurzyło.
 
-{% photo "2019_05_19__12_36_P5190155.jpg","Pola niedaleko wsi Góra","timeline" %}
+{% photo "2019_05_19__12_36_P5190155.jpg","Pola niedaleko wsi Góra","tag:timeline" %}
 
 Czekał na nas solidny zjazd i podjazd w okolicy rzeki [Cybiny][wiki-cybina-rzeka].
 Na horyzoncie chmury wyglądały podejrzanie.
@@ -171,7 +171,7 @@ Na horyzoncie chmury wyglądały podejrzanie.
 Podobała mi się wieś [Góra][wiki-gora]. Mieszkańcy mają tam ładny widok na
 dolinę rzeki [Cybiny][wiki-cybina-rzeka].
 
-{% photo "2019_05_19__12_47_P5190171.jpg","Pole rzepaku","timeline" %}
+{% photo "2019_05_19__12_47_P5190171.jpg","Pole rzepaku","tag:timeline" %}
 
 Wjechaliśmy do [Jankowa][wiki-jankowo]. Podobały mi się budynki pokryte
 bluszczem.

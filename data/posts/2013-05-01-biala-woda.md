@@ -49,7 +49,7 @@ Szczegóły
 Pierwszego dnia wyruszyliśmy w kierunku wschódnim żółtym szlakiem przez [Białą wodę][wiki-biala-woda]. Wiosna była
 wtedy jeszcze trochę niemrawa, jakby potrzebowała z dodatkowe 2 tygodnie aby pokazać się w pełni.
 
-{% photo "IMGP0730d.jpg","Podczas podejścia na Przełęcz Roździela" %}
+{% photo "IMGP0730d.jpg","Podczas podejścia na Przełęcz Roździela",tag:good" %}
 
 Trasa na początku
 wyglądało jakbyśmy szli przez mały wąwóz, później trochę więcej polan, jakiś strumyk i podejście
@@ -61,7 +61,7 @@ Dalej było znowu podejście na północ niebieskim szlakiem, ale tym razem znac
 szliśmy lekkim lasem. Na rozdrożu ruszyliśmy w stronę [Beskidu Sądeckiego][wiki-beskid-sadecki] i zrobiliśmy przerwę na jedzenie w
 [Obidzy][wiki-obidza] lub [Przełęczy Gromadzkiej][wiki-gromadza].
 
-{% photo "IMGP1008b.jpg","Owce w oddali","timeline" %}
+{% photo "IMGP1008b.jpg","Owce w oddali","tag:timeline,tag:good" %}
 
 Pomimo tego, że było blisko do [Radziejowej][wiki-radziejowa], bo tylko 3km i godzinka w jedną stronę,
 to zachowawczość wzięła górę i nie zaliczyliśmy jej.
@@ -69,7 +69,7 @@ Chociaż to tłumaczyliśmy "zgodnością z podstawowym planem", albo "może
 być za późno". Faktycznie to teraz nie pamiętam jak późno było, ale jestem zadowolony z godziny
 o której wracaliśmy.
 
-{% photo "IMGP1026c.jpg","Chatka na zielonej polanie" %}
+{% photo "IMGP1026c.jpg","Chatka na zielonej polanie","tag:good,tag:best" %}
 
 Wracaliśmy szlakiem czerwonym, ale nie [Głównym Szlakiem Beskidzkim][wiki-gsb], do [Jaworek][wiki-jaworki].
 Zejście to za połową okazało się najciekawszym fragmentem dnia. Idealnie z niej było widać zbocza

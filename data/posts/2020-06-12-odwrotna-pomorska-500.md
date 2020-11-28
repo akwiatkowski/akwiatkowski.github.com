@@ -55,6 +55,7 @@ pois:
 [wiki-juchowo]: https://pl.wikipedia.org/wiki/Juchowo
 [wiki-barwice]: https://pl.wikipedia.org/wiki/Barwice
 [wiki-kielpino]: https://pl.wikipedia.org/wiki/Kie%C5%82pino_(powiat_szczecinecki)
+[photocoder]: https://photocoder.pl
 
 ## Wstęp
 
@@ -91,8 +92,6 @@ Nie wiedząc co wybrać pomyślałem o dorysowaniu fragmentu trasy z [Miastka][w
 na zachód. Zawsze lubiłem [Pomorze][wiki-pomorze], zawsze tam można odnaleźć spokój
 i dużo ładnych miejsc.
 
-[photocoder]: https://photocoder.pl
-
 Wstawanie o 5 rano nie było przyjemne. Byłem w większości spakowany dzień
 wcześniej więc w sumie to musiałem się obudzić i zjeść coś.
 
@@ -102,7 +101,7 @@ Prognoza pogody była... niejednoznaczna. Miało padać około godziny 16-17 i d
 dojechać najpierw do noclegu, przeczekać i wieczorem ewentualnie się pokręcić
 po okolicy.
 
-{% photo "2020_06_12__09_56__6126613.jpg","Motylo-ćma i ślimak" %}
+{% photo "2020_06_12__09_56__6126613.jpg","Motylo-ćma i ślimak","tag:good" %}
 
 W [Chodzieży][wiki-chodziez] do pociągu dołączyło małżeństwo,
 które jechało w stronę [Słupska][wiki-slupsk],
@@ -111,18 +110,18 @@ a w [Szczecinku][wiki-szczecinek], gdzie się przesiadaliśmy, dołączył do na
 
 Do [Miastka][wiki-miastko] dotarliśmy około 10:30. Niebo było zachmurzone.
 
-{% photo "2020_06_12__10_00__6126626.jpg","Okolice Krzeszewa","timeline" %}
+{% photo "2020_06_12__10_00__6126626.jpg","Okolice Krzeszewa","tag:timeline" %}
 
 Najsensowniejszą drogą był wyjazd na zachód przez
 [Sępólno Wielkie][wiki-sepolno-wielkie]. Ruszyliśmy lekkim podjazdem i dość
 szybko opuściliśmy tą miejscowość.
 
-{% photo "2020_06_12__10_03__6126637.jpg","Droga do Miastka","timeline" %}
+{% photo "2020_06_12__10_03__6126637.jpg","Droga do Miastka","tag:timeline" %}
 
 Do [Wołczy Wielkiej][wiki-wolcza-wielka] musieliśmy podjechać około 50m
 w górę. Sama miejscowość już miała swój spokojny klimat.
 
-{% photo "2020_06_12__10_11__6126640.jpg","Okolica wsi Kołtki","timeline" %}
+{% photo "2020_06_12__10_11__6126640.jpg","Okolica wsi Kołtki","tag:timeline" %}
 
 Krajobraz był trochę monotonny: spokojna droga z drzewami blisko jezdni.
 Tylko ten krajobraz bardzo mi się podoba. Patrząc teraz na mapę UMP widzę
@@ -130,7 +129,7 @@ bardzo ciekawą siatkę połączeń drogowych przez okoliczne wioski.
 Wątpię czy wszystkie "białe" (drogi publicznym o najniższym priorytecie)
 będą asfaltowe ale chciałbym kiedyś tutaj ponownie eksplorować.
 
-{% photo "2020_06_12__10_11__6126649.jpg","Stodoła we wsi Kołtki" %}
+{% photo "2020_06_12__10_11__6126649.jpg","Stodoła we wsi Kołtki","tag:good" %}
 
 W okolicy [Kołtek][wiki-koltki] spotkaliśmy pierwszych uczestników
 [Pomorkiej 500-tki][pomorska-500], którzy jechali w przeciwnym kierunku.
@@ -148,19 +147,19 @@ drogą wojewódzką 205 dojechać do [Bobolic][wiki-bobolice].
 Patrząc, że większość uczestników przyjeżdża z lewa, oraz chcąc zoptymalizować
 niepewną trasę, skłoniliśmy się do wybrania drogi na lewo.
 
-{% photo "2020_06_12__11_53__6126702.jpg","Jadąc do wsi Drężno - droga i drzewa 1","timeline" %}
+{% photo "2020_06_12__11_53__6126702.jpg","Jadąc do wsi Drężno - droga i drzewa 1","tag:timeline" %}
 
 Oznaczało to jazdę 5km do drogi krajowej 25 oraz kolejne 5km jazdy po tej drodze.
 Nikt nie lubi krajówek ale podejmuje się różne próby optymalizacji do
 zmieniającej się sytuacji.
 
-{% photo "2020_06_12__11_54__6126709.jpg","Jadąc do wsi Drężno - droga i drzewa 2","timeline" %}
+{% photo "2020_06_12__11_54__6126709.jpg","Jadąc do wsi Drężno - droga i drzewa 2","tag:timeline,tag:good" %}
 
 Szare chmury za plecami powoli zaczęły nam "tłumaczyć" dlaczego tak
 wyglądają. Zaczął padać deszcz, a gdy dotarliśmy do drogi 25 był na tyle intensywny,
 że naszym celem było szukanie schronienia.
 
-{% photo "2020_06_12__12_19__6126715.jpg","Jadąc do wsi Drężno - droga i drzewa 3","timeline" %}
+{% photo "2020_06_12__12_19__6126715.jpg","Jadąc do wsi Drężno - droga i drzewa 3","tag:timeline" %}
 
 Znaleźliśmy parking leśny z wiatą. Postanowiliśmy tam, że przeczekamy godzine.
 Jeżeli po godzinie deszcz nie przestanie padać uruchomimy procedurę awaryją,
@@ -171,21 +170,21 @@ czyli efektywny powrót na pociąg i anulowanie rezerwacji noclegu.
 Deszcz przestał padać po 45 minutach. Postanowiliśmy jechać dalej mając na uwadzę,
 że droga do stacji kolejowej jest identyczna jak (zaktualizowana) trasa na ten dzień.
 
-{% photo "2020_06_12__12_35__6126732.jpg","Kościół w Starym Wierzchowie" %}
+{% photo "2020_06_12__12_35__6126732.jpg","Kościół w Starym Wierzchowie","tag:good" %}
 
 Dotarliśmy do wsi [Porost][wiki-porost] i już mogliśmy spokojnie jechać wiedząc,
 że nie musimy (prawie) patrzyć na drogi krajowe.
 
-{% photo "2020_06_12__12_38__6126740.jpg","Kot w Starym Wierzchowie","tag:cat" %}
+{% photo "2020_06_12__12_38__6126740.jpg","Kot w Starym Wierzchowie (1)","tag:cat" %}
 
 Następnym celem była miejscowość [Drężno][wiki-drezno]. Jechaliśmy po mokrym
 asfalcie.
 
-{% photo "2020_06_12__12_39__6126746.jpg","Kot w Starym Wierzchowie","tag:cat" %}
+{% photo "2020_06_12__12_39__6126746.jpg","Kot w Starym Wierzchowie (2)","tag:cat,tag:good" %}
 
 Podobały mi się przydrożne drzewa pokryte mchem.
 
-{% photo "2020_06_12__13_22__6126788.jpg","Drzewa pokryte mchem","timeline" %}
+{% photo "2020_06_12__13_22__6126788.jpg","Drzewa pokryte mchem","tag:timeline,tag:good" %}
 
 Chciałem przejechać przez [Orawkę][wiki-orawka] ponieważ droga jest położona pomiędzy
 dwoma jeziorami (Wierzchowo oraz Drezno) jednak po przejechaniu 500m
@@ -193,12 +192,12 @@ wiedziałem, że jazda rowerem gravelowym drogą gruntową po niemałych opadach
 nie jest dobrym pomysłem, delikatnie mówiąc. Jazda po błocie dla mnie nigdy nie jest
 pomysłem dobrym.
 
-{% photo "2020_06_12__13_27__6126796.jpg","Droga do Kwakówka","timeline" %}
+{% photo "2020_06_12__13_27__6126796.jpg","Droga do Kwakówka","tag:timeline" %}
 
 Dotarliśmy do [Starego Wierzchowa][wiki-stare-wierzchowo]. Podobał mi się
 kościół, ułożenie domów oraz gniazdo bocianów z małymi (prawdopodobnie).
 
-{% photo "2020_06_12__13_38__6126803.jpg","Droga do Kusowa","timeline" %}
+{% photo "2020_06_12__13_38__6126803.jpg","Droga do Kusowa","tag:timeline" %}
 
 Dotarliśmy do drogi krajowej 11-tki. Niestety ponownie musieliśmy przejechać
 po krajówce - na szczęście tylko 2km.
@@ -237,7 +236,7 @@ ponad 3 godziny.
 Jadąc dalej na południe przez [Nowy Chwalim][wiki-nowy-chwalim] chcieliśmy
 dojechać do drogi 172 (znowu droga wojewódzka) i dostać się do noclegu.
 
-{% photo "2020_06_12__16_07__6127272.jpg","Droga do Jeziorek","timeline" %}
+{% photo "2020_06_12__16_07__6127272.jpg","Droga do Jeziorek","tag:timeline,tag:good,tag:best" %}
 
 Jechaliśmy "na lekko", jednak woleliśmy już załatwić biurokrację oraz zostawić
 niepotrzebne rzeczy (ręcznik, piżama, środki czystości, ładowarka).
@@ -266,7 +265,7 @@ Dotarliśmy do [Juchowa][wiki-juchowo]. Pierwsze co mnie zaskoczyło to
 "szlak dla krów". Krowy z pobliskiego gospodarstwa miały przygotowaną trasę i
 same przechodziły przez drogę.
 
-{% photo "2020_06_12__16_49__6127384.jpg","Kot w Juchowie","tag:cat" %}
+{% photo "2020_06_12__16_49__6127384.jpg","Kot w Juchowie","tag:cat,tag:good" %}
 
 Zatrzymaliśmy się przy ruinach pałacu von Kleist. Dowiedzieliśmy się, że jakiś czas
 temu była w nim szkoła i spotkana osoba uczyła się w tej szkole
@@ -291,7 +290,7 @@ Po krótkiej przerwie wracaliśmy. Niestety zostało nam jeszcze
 trochę kilometrów do przejechania. Musieliśmy dostać się do sklepu
 oraz zjeść obiad (w [Barwicach][wiki-barwice]).
 
-{% photo "2020_06_12__17_23__6127432.jpg","Pomost na Jeziorze Pile" %}
+{% photo "2020_06_12__17_23__6127432.jpg","Pomost na Jeziorze Pile","tag:good" %}
 
 Szczerze mówiąc nie podoba
 mi się późne jedzenie. Wiem, że spore danie spowoduje że człowiek będzie

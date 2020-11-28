@@ -49,7 +49,7 @@ Robiło się ciepło i trasa miejscami była bardzo piaszczysta.
 
 Dojechałem do [Mosiny][wiki-mosina]. Czyli od tego momentu zaczynają się nowe tereny dla mnie.
 
-{% photo "IMGP0128raw1.jpg","Okolica Warty na wysokości Lubonia","timeline" %}
+{% photo "IMGP0128raw1.jpg","Okolica Warty na wysokości Lubonia","tag:timeline" %}
 
 Jechałem dalej [szlakiem nadwarciańskim][wiki-nadwarcianski]. Trasa całkiem fajna,
 cały czas dobrym asfaltem z praktycznie zerowym ruchem przez wioski. Podobał
@@ -61,15 +61,15 @@ Wybrałem wariant trasy bliżej [Warty][wiki-warta]. Rozważałem jazdę do [Śr
 tylko było ciepło i piaszczyście. W [Jaszkowie][wiki-jaszkowo] skręciłem i
 jechałem w stronę najbliższego przystanku kolejowego, czyli do [Czempinia][wiki-czempin].
 
-{% photo "IMGP0151raw1.jpg","Droga leśna do Jaszkowa","timeline" %}
+{% photo "IMGP0151raw1.jpg","Droga leśna do Jaszkowa","tag:timeline,tag:good" %}
 
 Już nie pamiętam co było tam ciekawego, oraz w którym miejscu. Ciekawe ukształotowanie terenu,
 tunel leśny oraz stare tory kolejowe.
 
-{% photo "IMGP0157raw1.jpg","Okolica Ludwikowa","timeline" %}
+{% photo "IMGP0157raw1.jpg","Okolica Ludwikowa","tag:timeline,tag:good" %}
 
 Chociaż tego ostatniego najmniej teraz jestem pewien.
 Patrząc na mapę, to wygląda jakby tam była stara linia kolejowa [Czempiń][wiki-czempin] -
 [Śrem][wiki-srem].
 
-{% photo "IMGP0164raw1.jpg","Tunel drzew w Piotrowie","timeline" %}
+{% photo "IMGP0164raw1.jpg","Tunel drzew w Piotrowie","tag:timeline,tag:good" %}

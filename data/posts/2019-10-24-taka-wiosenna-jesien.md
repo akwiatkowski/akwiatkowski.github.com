@@ -64,7 +64,7 @@ Nie chciałem brać urlopu. Chciałem "ucieć" na chwilę z dużego miasta. Wybr
 trochę lepszy nocleg, który gwarantowałby lepsze warunki do pracy oraz
 mniej problemów z jedzeniem.
 
-{% photo "2019_10_23__17_41_DSC03049.jpg","Ścieżka między stacją kolejową a centrum Długopola Zdrój","timeline" %}
+{% photo "2019_10_23__17_41_DSC03049.jpg","Ścieżka między stacją kolejową a centrum Długopola Zdrój","tag:timeline" %}
 
 Ruszyłem pociągiem po 12-tej. We [Wrocławiu][wiki-wroclaw] musiałem się
 przesiąść na pociąg KD do [Międzylesia][wiki-miedzylesie]. Na peronie zobaczyłem
@@ -81,7 +81,7 @@ możliwość wystąpienia mgiełek następnego dnia. Pisząc teraz ten wpis już
 wiem, że jest ogromna różnica między mgiełkami po deszczu, a mgiełkami gdy
 słońce ogrzewa ziemie.
 
-{% photo "2019_10_24__09_26__A243363.jpg","Nad tunelem kolejowym","timeline" %}
+{% photo "2019_10_24__09_26__A243363.jpg","Nad tunelem kolejowym","tag:timeline" %}
 
 Miałem w głowie dwie trasy: albo na zachód w stronę
 [Poniatowa][wiki-poniatow], albo na wschód w okolicy
@@ -89,14 +89,14 @@ Miałem w głowie dwie trasy: albo na zachód w stronę
 Chciałem przejść przez zaspane, zapomniane podsudecki wioski podczas
 bardzo delikatnego deszczu, skupić się na starych budynkach.
 
-{% photo "2019_10_24__09_34_DSC03056.jpg","Kolorowy las" %}
+{% photo "2019_10_24__09_34_DSC03056.jpg","Kolorowy las","tag:good" %}
 
 Wybrałem spacer w stronę [Międzygórza][wiki-miedzygorze]. Czerwony szlak
 w założeniu zawsze powinien być interesujący, a możliwośc "dorysowania" szlaku
 na swojej mapie zawsze jest czymś fajnym - właśnie brakuje mi połączenia
 tych dwóch miejscowości.
 
-{% photo "2019_10_24__09_37_DSC03066.jpg","Kolorowy las","timeline" %}
+{% photo "2019_10_24__09_37_DSC03066.jpg","Kolorowy las","tag:timeline" %}
 
 Czy miałem dobrą pogodę? Niby tak. Zawsze chcemy mieć dobrą pogodę, a ja właśnie
 jak na złość chciałem mieć złą pogodę. Gdyby była zła to wiedziałbym co powinienem
@@ -123,7 +123,7 @@ Miałem mieszane emocje jeżeli chodzi o aktualny stan "jesieni". Z jednej stron
 liście już spadały, z drugiej strony zboże na polach
 i trawa przypominało wczesną wiosnę.
 
-{% photo "2019_10_24__09_54__A243413.jpg","Jesienna ścieżka","timeline" %}
+{% photo "2019_10_24__09_54__A243413.jpg","Jesienna ścieżka","tag:timeline" %}
 
 Zobaczyłem ciekawie ukryte budynki gospodarstwa. W pobliżu jest droga krajowa 33
 a do tego domu dostać się można tylko (i to nie prostą) drogą gruntową.
@@ -142,7 +142,7 @@ Rano pojawił się szron na liściach, który właśnie w tym momencie się topi
 Powoli zbliżałem się do drogi nr 33. Natrafiłem na dość błotnisty
 fragment szlaku.
 
-{% photo "2019_10_24__10_51__A243586.jpg","Góra Igliczna" %}
+{% photo "2019_10_24__10_51__A243586.jpg","Góra Igliczna","tag:good" %}
 
 Szedłem teraz drogą asfaltową do [Wilkanowa][wiki-wilkanow].
 Miałem idealny widok na góry [Masywu Śnieżnika][wiki-masyw-snieznika].
@@ -167,7 +167,7 @@ tego dnia mocno podchodzić dlatego kontynuowałem spacer drogą asfaltową.
 Oprócz lenistwa to również chciałem bez problemów zdażyć na odpowiedni autobus
 powrotny, a po południu trochę popracować.
 
-{% photo "2019_10_24__11_45__A243658.jpg","Pola Wilkanowa" %}
+{% photo "2019_10_24__11_45__A243658.jpg","Pola Wilkanowa","tag:good" %}
 
 Miałem nadzieję, że idąc przez wioski w tak pogodny dzień, będę mógł również
 zrobić jakieś zdjęcia kotów. Niestety ten dzień nie był szczęśliwy pod
@@ -200,7 +200,7 @@ Trudno mi było zrobić odpowiednie zdjęcie zapory. Jest ona naprawdę duża.
 A trudniej jest sobie wyobrazić ile musiało być tu wody aby w 1997 się
 przelała.
 
-{% photo "2019_10_24__13_04__A243751.jpg","Wodospad Wilczki" %}
+{% photo "2019_10_24__13_04__A243751.jpg","Wodospad Wilczki","tag:good" %}
 
 Idąc dalej miałem możliwość iść drogą asfaltową albo przejść przez
 teren [rezerwatu Wodospadku Wilczki][wiki-wodospad-wilczki]. Decyzja również
@@ -264,7 +264,7 @@ W piątek wracałem do domu. Prognoza pogody wskazywała na możliwość wystąp
 lekkich mgiełek. Tego dnia pozostało mi wybrać się w kierunku zachodnim w stronę
 [Poniatowa][wiki-poniatow].
 
-{% photo "2019_10_25__08_22__A253945.jpg","Poranek w okolicy Długopola Górnego" %}
+{% photo "2019_10_25__08_22__A253945.jpg","Poranek w okolicy Długopola Górnego","tag:good" %}
 
 Wstałem nie tak wcześnie. Patrząc na dostępne połączenia kolejowe i dostępne śniadanie
 miałem tylko dwie godziny na poranny spacer.
@@ -278,7 +278,7 @@ Gdy dotarłem do skrzyżowania pomyślałem, że warto by pójśc w stronę
 [Długopola Górnego][wiki-dlugopole-gorne]. Wracałem tam dzień wcześniej autobusem.
 Sam już nie wiem co mnie natknęło.
 
-{% photo "2019_10_25__08_40_DSC03211.jpg","Kapliczka na skrzyżowaniu dróg","timeline" %}
+{% photo "2019_10_25__08_40_DSC03211.jpg","Kapliczka na skrzyżowaniu dróg","tag:timeline" %}
 
 Patrząc na różne moje aplikacje mapowe, zauważyłem drogę przez pola. Wcześniej
 jej nie widziałem. Ruszyłem w jej kierunku aby być "na górce" i mieć
@@ -292,7 +292,7 @@ nietknięte mgłą.
 
 Dotarłem do szlaku pieszego i wracałem do centrum [Długopola Górnego][wiki-dlugopole-gorne].
 
-{% photo "2019_10_25__08_47_DSC03220.jpg","Górska droga do Długopola Górnego","timeline" %}
+{% photo "2019_10_25__08_47_DSC03220.jpg","Górska droga do Długopola Górnego","tag:timeline,tag:good" %}
 
 Gdy schodziłem, zauważyłem że w powietrzu jest delikatna mgła, jednak ukształtowanie
 terenu nie sprzyja pojawieniu się laserów. Musiałbym być w miejscu
@@ -306,7 +306,7 @@ Wracałem na śniadanie. Z mgiełką łączył się dym unoszący z kominów.
 
 Zjadłem śniadanie, spakowałem się i ruszyłem na pociąg powrotny o 10:50.
 
-{% photo "2019_10_25__10_30__A254078.jpg","Okolica stacji kolejowej w Długopolu Zdrój","timeline" %}
+{% photo "2019_10_25__10_30__A254078.jpg","Okolica stacji kolejowej w Długopolu Zdrój","tag:timeline" %}
 
 Pociąg KD miał 10 minutowe opóźnienie. We [Wrocławiu][wiki-wroclaw] musiałem
 przesiąść się na TLK, a według aplikacji IC był opóźniony 8 minut.

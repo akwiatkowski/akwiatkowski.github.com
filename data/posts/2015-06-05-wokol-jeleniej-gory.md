@@ -65,13 +65,13 @@ Początkiem trasy był zjazd ze Szklarskiej Poręby Górnej prawie aż do [Piech
 Niektóre części szlaku obok stacji Szklarskiej Poręby Dolnej były dla mnie zbyt strome aby można
 spokojnie zjeżdzać, bez przesadnego używania hamulców.
 
-{% photo "IMGP0348raw1.jpg","Okolice Koziej Szyi","timeline" %}
+{% photo "IMGP0348raw1.jpg","Okolice Koziej Szyi","tag:timeline" %}
 
 Kolejnym etapem trasy był długi, ale raczej lekki podjazd w stronę [Koziej Szyi][wiki-kozia-szyja].
 Cały podjazd był utwardzonymi drogami leśnymi. Z Koziej Szyi jest bardzo dobry [widok][panoramio-kozia-szyja] na
 [Pogórze Izerski][wiki-pogorze-izerskie].
 
-{% photo "IMGP0365raw1.jpg","Okolice Koziej Szyi","timeline" %}
+{% photo "IMGP0365raw1.jpg","Okolice Koziej Szyi","tag:timeline,tag:good" %}
 
 Zjazd z Koziej Szyi do [Kopańca][wiki-kopaniec] bardzo dobrze zrekompensował mało ciekawy podjazd
 i zmniejszył moją frustrację.
@@ -81,7 +81,7 @@ i zmniejszył moją frustrację.
 Następnie pojechaliśmy bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
 Pogoda przekonała Radka że warto kupić 6 litrową butlę wody.
 
-{% photo "IMGP0396raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","timeline" %}
+{% photo "IMGP0396raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","tag:timeline,tag:good,tag:best" %}
 
 Po przerwie w Starej Kamienicy wyruszyliśmy dalej w stronę [Barcinka][wiki-barcinek] korzystając z lekkiego
 przyjemnego spadku terenu. Chcieliśmy udać się w centrum [Jeziora Pilchowickiego][wiki-pilchowickie], jednak
@@ -89,7 +89,7 @@ po drodzę nie widzieliśmy żadnego skrzyżowania szlaku w lewo. Przejechaliśm
 Wrzeszczyniu i kierowaliśmy się wzdłuż
 rzeki [Bóbr][wiki-bobr] w stronę [Siedlęcina][wiki-siedlecin].
 
-{% photo "IMGP0399raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","timeline" %}
+{% photo "IMGP0399raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","tag:timeline,tag:good" %}
 
 W Siedlęcinie dwie osoby się roździeliły jadąc w stronę Jeleniej Góry, a my pojechaliśmy dalej mając
 na uwadzę, że powrót do Szklarskiej Poręby będzie koleją. Początkowo chcieliśmy dojechać do [Wojanowa][wiki-wojanow],
@@ -99,7 +99,7 @@ odkryliśmy [miejsce][ump-ploszczynka], z którego jest bardzo ładny widok na c
 Tego dnia udało mi się pobić swój rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
 [Płoszczyny][wiki-ploszczyna].
 
-{% photo "IMGP0414raw1.jpg","Między Siedlęcinem a Płoszczynką","timeline" %}
+{% photo "IMGP0414raw1.jpg","Między Siedlęcinem a Płoszczynką","tag:timeline" %}
 
 Wysoka temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
 nas do tego, aby zmienić plany i zjechać do Jeleniej Góry, a nie do [Wojanowa][wiki-wojanow]. Zjechaliśmy

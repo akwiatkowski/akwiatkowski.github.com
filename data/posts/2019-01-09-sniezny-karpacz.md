@@ -51,7 +51,7 @@ abym nie był przesadnie zmęczony podróżą.
 Gdy dojeżdżałem do [Jeleniej Góry][wiki-jelenia-gora] (czyli przed
 [Wałbrzychem][wiki-walbrzych]) już krajobraz był zdecydowanie zimowy.
 
-{% photo "2019_01_09__10_50__1090265.jpg","Zima na Dolnym Śląsku","timeline" %}
+{% photo "2019_01_09__10_50__1090265.jpg","Zima na Dolnym Śląsku","tag:timeline" %}
 
 Akurat tak się zdarzyło, że nadeszła właśnie prawdziwa zima. Przez ostatnie
 dni padał obfity śnieg oraz było wietrznie. W [Karkonoszach][wiki-karkonosze]
@@ -96,7 +96,7 @@ Ruszyłem autobusem do [Karpacza][wiki-karpacz] w okolice [Świątyni Wang][wiki
 
 Standardowo, czyli najpierw udałem się do noclegu zostawić rzeczy.
 
-{% photo "2019_01_09__13_24__1090371.jpg","Karpacz Górny zasypany","timeline" %}
+{% photo "2019_01_09__13_24__1090371.jpg","Karpacz Górny zasypany","tag:timeline" %}
 
 Po ponad półtoragodzinnej przerwie postanowiłem ruszyć do centrum. Siedząc
 samemu w średniej jakości pokoju (był tani, cena adekwatna) czułem się mało

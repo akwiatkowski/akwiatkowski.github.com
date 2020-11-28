@@ -42,7 +42,7 @@ Szczegóły
 Tego dnia pogoda się trochę pogorszyła, zrobiło się szaro. Taka wczesna szara, smutna,
 polska wiosna.
 
-{% photo "IMGP2908raw1.jpg","Jezioro Chomiąskie podczas dobrej pogody","timeline" %}
+{% photo "IMGP2908raw1.jpg","Jezioro Chomiąskie podczas dobrej pogody","tag:timeline" %}
 
 Dzień rozpoczęliśmy w okolicy [hotelu][hotel] i ruszyliśmy na północ idąc najpierw
 drogą asfaltową.

@@ -44,7 +44,7 @@ Ruszyliśmy samochodami z [Karlikowa][wiki-karlikow] w stronę [Rymanowa][wiki-r
 Tam właśnie znaleźliśmy jakąś ciekawą restauracje, chociaż jeżeli mam być
 precyzyjny to podjechaliśmy do [Rymanowa-Zdrój][wiki-rymanow-zdroj].
 
-{% photo "2020_08_20__14_05_DSC02557.jpg","Wjazd do Nagórzan","timeline" %}
+{% photo "2020_08_20__14_05_DSC02557.jpg","Wjazd do Nagórzan","tag:timeline" %}
 
 Po jedzeniu zrobiliśmy dłuższą przerwę nad rzeką [Tabor][wiki-tabor].
 

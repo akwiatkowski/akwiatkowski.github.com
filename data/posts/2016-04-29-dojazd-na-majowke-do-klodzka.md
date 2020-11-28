@@ -75,7 +75,7 @@ Skręciłem na południe przez [Piszkowice][wiki-piszkowice]. Od tego momentu za
 się podjazd. W [Ruszowicach][wiki-ruszowice] skręciłem jadąc prawie bezpośrednio
 do [Roszyc][wiki-roszyce].
 
-{% photo "IMGP9678raw1.jpg","Pola Kotliny Kłodzkiej","timeline" %}
+{% photo "IMGP9678raw1.jpg","Pola Kotliny Kłodzkiej","tag:timeline" %}
 
 Dojazd był demonstracją tego, co mnie czeka przez najbliższe dni: pofalowany teren,
 podjazdy, rzeki, wioski, górki na horyzoncie. Wszystko było inne

@@ -37,7 +37,7 @@ Szczegóły
 
 <a href="http://mapa-turystyczna.pl/route/z1gy" title="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl"><img alt="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
-{% photo "IMGP0331b.jpg","Tatry w Chmurach" %}
+{% photo "IMGP0331b.jpg","Tatry w Chmurach","tag:good" %}
 
 Z Kościeliska dojechaliśmy do centrum [Zakopanego][wiki-zakopane], a następnie do [Kir][wiki-kiry] (nie wiem czy dobrze odmieniam).
 Następnie dojechaliśmy "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [Polany Chochołowskiej][wiki-polana-choch]
@@ -55,7 +55,7 @@ który ma *tylko* 2002 metrów wysokości i
 jest oddalony o tylko 45 minut podejścia (i zejścia i później).
 No w sumie głupio by było nie skorzystać z tej szansy.
 
-{% photo "IMGP0841b1.jpg","Podczas podejścia na Kończysty Wierch" %}
+{% photo "IMGP0841b1.jpg","Podczas podejścia na Kończysty Wierch","tag:good" %}
 
 A po tym była krew, pot i łzy... i bolące kolana.
 Udało nam się wrócić na ostatni autobus powrotny, który ruszał po godzinie 20-tej.
@@ -72,7 +72,7 @@ Poniżej kilka zdjęć, które nie zmieściły się w krótki opisie powyżej.
 
 Widok na Dolinę Chochołowską z Kończystego Wierchu.
 
-{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu","timeline" %}
+{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu","tag:timeline,tag:good" %}
 
 Zejście z Trzydniowiańskiego Wierchu przez kosodrzewinę.
 

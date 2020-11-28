@@ -75,7 +75,7 @@ Ja nie interesuję się zabytkami i nie czytałem co jest ciekawego w tym mieśc
 a katedra ta to właśnie jest jeden z najważniejszych zabytków, na który trafiliśmy
 przypadkiem skręcając w jakąś uliczkę.
 
-{% photo "2019_08_10__13_30__8108306.jpg","Opustoszały Ołomuniec" %}
+{% photo "2019_08_10__13_30__8108306.jpg","Opustoszały Ołomuniec","tag:good" %}
 
 Zbliżaliśmy się do placu "Náměstí Republiky". Mam problem z czeskimi nazwami
 ponieważ ich język nie jest mi bliski.

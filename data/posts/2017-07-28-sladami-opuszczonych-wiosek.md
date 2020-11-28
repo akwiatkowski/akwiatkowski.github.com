@@ -98,7 +98,7 @@ ruin budynków. Wróciliśmy do głównego szlaku dość szybko.
 Z jednej strony jest to tylko droga w stronę granicy, jednak jak się popatrzy
 dokładniej, to widać wiele pobocznych szlaków które niewiadomo gdzie prowadzą.
 
-{% photo "IMGP9702raw1.jpg","Grób przy drodzę","timeline" %}
+{% photo "IMGP9702raw1.jpg","Grób przy drodzę","tag:timeline" %}
 
 Drugą miejscowością (miejscowość to trochę przesadzone określenie)
 jest [Czeremcha][wiki-czeremcha].

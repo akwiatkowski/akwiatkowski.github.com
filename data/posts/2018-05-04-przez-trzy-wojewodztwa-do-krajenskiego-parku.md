@@ -101,7 +101,7 @@ Jezioro Okierskie dodaje uroku tej miejscowości.
 Od tego miejsca dojazd do [Tucholi][wiki-tuchola] był
 już oczywisty.
 
-{% photo "IMGP8613raw1.jpg","Wiatraki na północ od Tucholi","timeline" %}
+{% photo "IMGP8613raw1.jpg","Wiatraki na północ od Tucholi","tag:timeline" %}
 
 Dotarliśmy na rynek [Tucholi][wiki-tuchola] gdzie spróbowałem
 regionalnej zupy. To była nasza pierwsza krótka przerwa tego dnia.
@@ -118,7 +118,7 @@ czyli gdzieś za [Starym Gronowem][wiki-stare-gronowo].
 Jadąc do [Słupów][wiki-slupy] przejechaliśmy przez tory kolejowe.
 Jadąc pociągiem po nich można dojechać do [Chojnic][wiki-chojnice].
 
-{% photo "IMGP8622raw1.jpg","Tory do Chojnic","timeline" %}
+{% photo "IMGP8622raw1.jpg","Tory do Chojnic","tag:timeline" %}
 
 Minęliśmy [Słupy][wiki-slupy] i kierowaliśmy się do [Tuchółki][wiki-tucholka].
 Wokół nas wiosna pokazywała swoje najlepsze oblicze.
@@ -130,7 +130,7 @@ staną się wyraźnie ciemniejsze.
 Po lewej stronie widziałem obniżenie terenu doliny
 rzeki Kicz dopływającej do Jeziora Tucholka.
 
-{% photo "IMGP8639raw1.jpg","Czasami musieliśmy jechać szlakiem rowerowym pomimo prawie zerowego ruchu","timeline" %}
+{% photo "IMGP8639raw1.jpg","Czasami musieliśmy jechać szlakiem rowerowym pomimo prawie zerowego ruchu","tag:timeline" %}
 
 Opuszczając tą wieś przejeżdzaliśmy przez skrzyżowanie. Na prawo skręcając
 można dojechać do [Żalna][wiki-zalno], gdzie jest przystanek kolejowy.
@@ -154,7 +154,7 @@ drogą gruntową. Nie chcieliśmy kombinować oraz obawiałem
 się jakości szlaku, dlatego dobrze że podjeliśmy taką decyzję.
 {% todo %} W przyszłości chciałbym zobaczyć [Góry Obkaskie][wiki-gory-obkaskie].
 
-{% photo "IMGP8664raw1.jpg","Droga do Kamienia Krajeńskiego","timeline" %}
+{% photo "IMGP8664raw1.jpg","Droga do Kamienia Krajeńskiego","tag:timeline" %}
 
 Jechaliśmy do [Kamienia Krajeńskiego][wiki-kamien-krajenski].
 Mijaliśmy naprzemiennie wioski, drzewa gęsto posadzone wzdłuż drogi i

@@ -103,7 +103,7 @@ pozytywne. Mam wrażenie, że mieszkańcy małych miasteczek najmniej zauważaj�
 problemy ze środowiskiem naturalnym, ze śmieciami. Mając samochód i mogąc kupić
 to co chcą w sklepie są małymi panami życia.
 
-{% photo "2019_06_23__11_01_P6230032.jpg","Okolice przystanku wąskotorowego Maciejów przez Rozdrażewem","timeline" %}
+{% photo "2019_06_23__11_01_P6230032.jpg","Okolice przystanku wąskotorowego Maciejów przez Rozdrażewem","tag:timeline" %}
 
 Kolejnym celem był [Rozdrażew][wiki-rozdrazew] oddalony o około 11km.
 Trochę podobała mi się wieś [Budy][wiki-budy] ale nie była czymś wyjątkowym.
@@ -116,31 +116,31 @@ Podczas wjazdu do [Rozdrażewa][wiki-rozdrazew] po prawej stronie widziałem cie
 kościół. Miejscowość tą można określić jako małe miasteczko - jakby powiększyć wieś
 i postawić budynki bliżej siebie.
 
-{% photo "2019_06_23__11_29_P6230044.jpg","Budynki rolnicze w Brzozie" %}
+{% photo "2019_06_23__11_29_P6230044.jpg","Budynki rolnicze w Brzozie","tag:good" %}
 
 Skręciliśmy na zachód jadąc przez [Dzielice][wiki-dzielice]. Chcieliśmy
 ominąć [Krotoszyn][wiki-krotoszyn].
 
-{% photo "2019_06_23__11_35_P6230049.jpg","Droga gruntowa do Bożacina","timeline" %}
+{% photo "2019_06_23__11_35_P6230049.jpg","Droga gruntowa do Bożacina","tag:timeline" %}
 
 Niespecjalnie lubię jeździć przez południową [wielkopolskę][wiki-wielkopolska].
 Miejscowości są bardzo podobne do siebie, jest mało przyrody, dzikości,
 za dużo cywilizacji. Czasami można znaleźć jakąś rzekę albo jezioro, jednak jest to
 sytuacja wyjątkowa. Wsie bywają ładne jednak dość często są one podobne do siebie.
 
-{% photo "2019_06_23__12_01_P6230064.jpg","Wyjazd ze wsi Benice","timeline" %}
+{% photo "2019_06_23__12_01_P6230064.jpg","Wyjazd ze wsi Benice","tag:timeline" %}
 
 Z miejscowości [Brzoza][wiki-brzoza] musieliśmy jechać drogą gruntową
 aby dojechać do [Kobylina][wiki-kobylin]. Droga gruntowa to nie jest najlepsza
 opcja na rower szosowy, jednak wolałem taką niż drogę krajową.
 
-{% photo "2019_06_23__12_01_P6230066.jpg","Pola niedaleko wsi Benice","timeline" %}
+{% photo "2019_06_23__12_01_P6230066.jpg","Pola niedaleko wsi Benice","tag:timeline" %}
 
 [Starygród][wiki-starygrod] był trochę ciekawszą wsią. Widziałem tam jakieś
 starsze, klimatyczniejsze budynki. Niestety trudno mi lepiej je opisać.
 Nie było tam w sumie nic istotnego.
 
-{% photo "2019_06_23__12_18_P6230077.jpg","Wieś Kuklinów" %}
+{% photo "2019_06_23__12_18_P6230077.jpg","Wieś Kuklinów","tag:good" %}
 
 W [Kuklinowie][wiki-kuklinow] postanowiliśmy nadrobić kilometry aby nie
 jechać po drodze krajowej. Podczas opuszczenia zaciekawił mnie zakład przemysłowy
@@ -163,7 +163,7 @@ Planowaliśmy jechać przez [Ochłodę][wiki-ochloda]. Okazało się jednak, że
 byśmy musieli jechać drogą szutrową. Drogą, która dla szosowego roweru
 Macieja mogłaby być bardzo ciężka.
 
-{% photo "2019_06_23__13_46_P6230114.jpg","Pole przed Smolicami","timeline" %}
+{% photo "2019_06_23__13_46_P6230114.jpg","Pole przed Smolicami","tag:timeline" %}
 
 Musieliśmy się cofnąć, pojechać drogą krajową i wybrać drogę równoległą.
 Nie widzielibyśmy wtedy zbiornika w [Jutrosinie][wiki-jutrosin].

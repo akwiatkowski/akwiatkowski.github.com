@@ -62,7 +62,7 @@ teren jest dość ciekawie ukształtowany. Jest tam rezerwat
 [Źródliskowe Zbocze][wiki-zrodliskowe-zbocze], który został utworzony w celu
 zachowanie terenu o dużej różnicy wysokości.
 
-{% photo "2019_08_25__10_57_P8250457.jpg","Opuszczając Ińsko na zachód","timeline" %}
+{% photo "2019_08_25__10_57_P8250457.jpg","Opuszczając Ińsko na zachód","tag:timeline" %}
 
 Ruszyliśmy nie zbyt wcześnie, bo o 10:40. Widzieliśmy niewielki ruch samochodów w okolicy
 plaży. Ludzie powoli przychodzili się kąpać.
@@ -70,7 +70,7 @@ plaży. Ludzie powoli przychodzili się kąpać.
 Ruszyliśmy szlakiem pieszym wzdłuż jeziora do centrum [Ińska][wiki-insko],
 tym samym, którym szliśmy po południu.
 
-{% photo "2019_08_25__11_10_P8250463.jpg","Przystanek autobusowy obok wsi Ścienne","timeline" %}
+{% photo "2019_08_25__11_10_P8250463.jpg","Przystanek autobusowy obok wsi Ścienne","tag:timeline" %}
 
 Chcieliśmy podjechać na targ rybny, jednak okazało się, że nie ma tego miejsca
 albo mapy google nie mają aktualnych informacji o nim. Widzieliśmy dużo
@@ -82,7 +82,7 @@ a grobla przez [jezioro][wiki-jezioro-insko] zarośnięta.
 Delikatnie z za drzew było widać [Jezioro Ińsko][wiki-jezioro-insko] ale
 pod względem widokowym to było umiarkowane doświadczenie.
 
-{% photo "2019_08_25__11_21_P8250473.jpg","Opuszczając wieś Ścienne","timeline" %}
+{% photo "2019_08_25__11_21_P8250473.jpg","Opuszczając wieś Ścienne","tag:timeline" %}
 
 Pomimo tego, że jest to droga regionalna, to jest to wyjazd z [Ińska][wiki-insko]
 na zachód, co oznacza, że ruch tam raczej zerowy nie jest. I niestety
@@ -91,14 +91,14 @@ ruchem samochodowym.
 
 [wiki-borbagno]: https://pl.wikipedia.org/wiki/Rezerwat_przyrody_B%C3%B3rbagno_Mia%C5%82ka
 
-{% photo "2019_08_25__11_41_P8250480.jpg","Ścieżka do osady Kleszcze","timeline" %}
+{% photo "2019_08_25__11_41_P8250480.jpg","Ścieżka do osady Kleszcze","tag:timeline" %}
 
 Na mapie widzę teraz [Rezerwat Bórbagno Miałka][wiki-borbagno].
 Widocznie jest tutaj sporo małych przyrodniczo
 ciekawych miejsc, jednak to nie było naszym celem na dzisiaj. Było ciepło
 i nie chcieliśmy się rozpraszać.
 
-{% photo "2019_08_25__11_49_P8250485.jpg","Ścieżka przez polanę","timeline" %}
+{% photo "2019_08_25__11_49_P8250485.jpg","Ścieżka przez polanę","tag:timeline" %}
 
 Po prawej stronie widzieliśmy trochę ukrytą bramę wjazdową. Widocznie ktoś bardzo bogaty
 kupił sobie teren w okolicy [jeziora][wiki-jezioro-insko].
@@ -107,7 +107,7 @@ Gdy odjechaliśmy 5km od centrum [Ińska][wiki-insko] skręciliśmy w prawo.
 Musieliśmy trochę objechać [jezioro][wiki-jezioro-insko].
 Celem były mniej dostępne tereny a inaczej nie da się w to miejsce dostać.
 
-{% photo "2019_08_25__11_56_P8250004.jpg","Ścieżka przez polanę (2)","timeline" %}
+{% photo "2019_08_25__11_56_P8250004.jpg","Ścieżka przez polanę (2)","tag:timeline" %}
 
 Jechaliśmy przez centrum wsi [Ścienne][wiki-scienne]. Skręciliśmy w stronę
 lasu. Stopniowo zabudowania stały się rzadsze. Jechaliśmy najpierw po starym asfalcie,
@@ -119,7 +119,7 @@ lewą gdyż były tam ślady jakiegoś rajdu, który się chyba niedawno odbył.
 
 [wiki-jezioro-dlusko]: https://pl.wikipedia.org/wiki/D%C5%82usko_(jezioro_w_powiecie_%C5%82obeskim)
 
-{% photo "2019_08_25__12_01_DSC08961.jpg","Ścieżka przez polanę (3)","timeline" %}
+{% photo "2019_08_25__12_01_DSC08961.jpg","Ścieżka przez polanę (3)","tag:timeline" %}
 
 Teren był wyraźnie pofalowany, nawet zbyt pofalowany jak na jazdę rowerem. Kilka razy musiałem
 prowadzić rower. Po prawej stronie widziałem mocny spad terenu w stronę
@@ -129,7 +129,7 @@ Wyjechaliśmy na polanę, była ona sucha, jak w sumie wszystko. Po chwili znowu
 wróciliśmy do lesu, tym razem był to terenowy zjazd. Próbowałem ograniczać
 używanie hamulca.
 
-{% photo "2019_08_25__12_01_P8250018.jpg","Polana pośrodku niczego","timeline" %}
+{% photo "2019_08_25__12_01_P8250018.jpg","Polana pośrodku niczego","tag:timeline" %}
 
 Naprzemiennie pojawiła się kolajna polana, ta była znacznie większa. Bardzo mi się podobała
 ledwo co widoczna trawiasta droga. Tylko ta trawa była już bardzo sucha.
@@ -151,7 +151,7 @@ zwykła droga gruntowa. Była bardzo zarośnięta i samo prowadzenie roweru był
 conajmniej trudne. Nie mieliśmy czasu na niepewny spacer.
 Pokręciliśmy się trochę po wsi.
 
-{% photo "2019_08_25__12_23_P8250024.jpg","Pagórki na północ od wsi Dłusko","timeline" %}
+{% photo "2019_08_25__12_23_P8250024.jpg","Pagórki na północ od wsi Dłusko","tag:timeline" %}
 
 Bardzo mi się spodobały pagórki z którymi graniczyła [wieś][wiki-dlusko].
 
@@ -168,14 +168,14 @@ przerwa w [Stargardzie][wiki-stargard] na przesiadkę nie jest akurat
 Zjechaliśmy na chwilę na plażę przy [jeziorze][wiki-jezioro-dlusko],
 gdzie zrobiliśmy 15 minutową przerwę.
 
-{% photo "2019_08_25__12_52_P8250068.jpg","Plaża przy Jeziorze Dłusko" %}
+{% photo "2019_08_25__12_52_P8250068.jpg","Plaża przy Jeziorze Dłusko","tag:good" %}
 
 Czułem niedosyt. Dopiero zaczęliśmy odkrywać ciekawe miejsca a musimy jechać
 i wracać. Z drugiej strony temperatura mnie już męczyło.
 Nie miałbym siły na kolejne godziny jazdy albo walki z ciężkim terenem.
 Chyba było cieplej niż wczoraj.
 
-{% photo "2019_08_25__13_11_P8250069.jpg","Wracając z plaży","timeline" %}
+{% photo "2019_08_25__13_11_P8250069.jpg","Wracając z plaży","tag:timeline" %}
 
 Dotarliśmy do drogi krajowej 20 i po pół kilometra jazdy ją skręciliśmy w
 lewo do wsi [Winniki][wiki-winniki]. Jest tam bardzo ładny kościół na wzgórzu.

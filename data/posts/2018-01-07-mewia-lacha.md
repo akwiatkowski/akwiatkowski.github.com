@@ -75,7 +75,7 @@ Znalazłem niedaleko małe [molo][wiki-molo-orlowo] w [Orłowie][wiki-orlowo]
 i obok tego miejsca wybrałem
 nocleg. Znalezione [zdjęcia][orlowo-zdjecia] okolicy przekonywały mnie o dobrej decyzji.
 
-{% photo "IMGP4320raw1.jpg","Drugi brzeg Wisły","timeline" %}
+{% photo "IMGP4320raw1.jpg","Drugi brzeg Wisły","tag:timeline" %}
 
 Szukałem jeszcze odpowiedniego miejsca na zachód słońca. Słyszałem sporo
 dobrego o [Wyspie Sobieszewskiej][wiki-wyspa-sobieszewska], na której można

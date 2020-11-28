@@ -91,7 +91,7 @@ Ogrodowa. Jest to droga dojazdowa na plac [folwarku][folwark-wasowo] ogrodzona
 z obu stron lekko zniszczonym
 płotem. Dodaje to klimatu temu miejscu.
 
-{% photo "IMGP6396raw1.jpg","Ulica Ogrodowa w Wąsowie","timeline" %}
+{% photo "IMGP6396raw1.jpg","Ulica Ogrodowa w Wąsowie","tag:timeline" %}
 
 Sam [folwark][folwark-wasowo] jest dużym obiektem. Ruiny kontrastują z odnowionymi częściami
 (pokoje gościnne, restauracja), które widoczne są na ich [stronie][folwark-wasowo].
@@ -161,7 +161,7 @@ Przez [Gnuszyn][wiki-gnuszyn] ruszyliśmy do
 [Przejeżdzałem]({% post_url 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego %})
 przez tą wieś. Tym razem chciałem zobaczyć z bliska most kolejowy.
 
-{% photo "IMGP6481raw1.jpg","Mlecze na plaży przy Jeziorze Chrzypskim","timeline" %}
+{% photo "IMGP6481raw1.jpg","Mlecze na plaży przy Jeziorze Chrzypskim","tag:timeline" %}
 
 Zrobiliśmy krótką przerwę przy [Jeziorze Chrzypskim][wiki-jezioro-chrzypskie].
 

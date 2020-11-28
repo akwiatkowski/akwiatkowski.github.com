@@ -28,6 +28,8 @@ pois:
 
 ---
 
+{% photo_header "Droga przez Rudawy Janowickie","tag:good" %}
+
 [wiki-rudawy-janowickie]: https://pl.wikipedia.org/wiki/Rudawy_Janowickie
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 [wiki-kamienna-gora]: https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra
@@ -50,7 +52,7 @@ Wschodnie [Rudawy Janowickie][wiki-rudawy-janowickie] zawsze podobały mi się.
 Łączą idealnie niezbyt wysokie góry, sudeckie wioski z sensownym
 połączeniem kolejowym.
 
-{% photo "2019_10_11__13_03_DSC01152.jpg","Okolice Dębrznika","timeline" %}
+{% photo "2019_10_11__13_03_DSC01152.jpg","Okolice Dębrznika","tag:timeline" %}
 
 Tego dnia chciałem z [Jeleniej Góry][wiki-jelenia-gora] dostać się pociągiem do
 [Kamiennej Góry][wiki-kamienna-gora] i tam ruszyć w trasę kierując się na północ.
@@ -107,7 +109,7 @@ Dotarliśmy do tej samej polany, na której
 [rok temu]({% post_url 2018-10-10-przelecz-redzinska %}) robiłem zdjęcia o
 wschodzie słońca.
 
-{% photo "2019_10_11__14_41_DSC01209.jpg","Widok w stronę Lubawki" %}
+{% photo "2019_10_11__14_41_DSC01209.jpg","Widok w stronę Lubawki","tag:good" %}
 
 Miałem wrażenie, że drzewa w tym roku są zdecydowanie mniej jesienne niż
 to było rok temu. Czasami tak bywa. Jeszcze dokładnie nie wiem od czego to
@@ -120,7 +122,7 @@ usuwać zanieczyszczenia powietrza związane z odległością. Mam wrażenie, ż
 jest największy problem Olympusa - wyciąganie szczegółów z mgły.
 Musiałbym kiedyś przetestować jakiś solidny teleobiektyw z korpusem Sony.
 
-{% photo "2019_10_11__14_46__A110937.jpg","Trawa miejscami była sucha" %}
+{% photo "2019_10_11__14_46__A110937.jpg","Trawa miejscami była sucha","tag:good" %}
 
 Zrobiłem kilka zdjęć szukając ciekawych obiektów. Nie chciałem koncentrować
 się za mocno na bardzo odległych widokach bo jest zbyt oczywiste.
@@ -135,7 +137,7 @@ normalnym szlakiem przez las. Zamiast tego wolałem mieć widok na polane.
 Wydawało mi się, i chyba słusznie, że właśnie tutaj będę miał więcej opcji
 na jesienne zdjęcia.
 
-{% photo "2019_10_11__15_21_DSC01238.jpg","Polany pod Wołkiem","timeline" %}
+{% photo "2019_10_11__15_21_DSC01238.jpg","Polany pod Wołkiem","tag:timeline" %}
 
 Pomysłów do zdjęć było niemało.
 
@@ -156,7 +158,7 @@ Czasami ścieżka była bardziej zarośnięta. Nie szliśmy szlakiem turystyczny
 
 Znaleźliśmy szaro-niebieskie grzyby. Sam nie wiem czym one są.
 
-{% photo "2019_10_11__15_48_DSC01309.jpg","Idąc żółtym szlakiem rowerowym" %}
+{% photo "2019_10_11__15_48_DSC01309.jpg","Idąc żółtym szlakiem rowerowym","tag:good" %}
 
 Dotarliśmy do szlaku rowerowego którym mieliśmy dotrzeć do [Mniszkowa][wiki-mniszkow].
 
@@ -176,7 +178,7 @@ drzew, wygląda jesiennie.
 Wysoka, wyschnięta trawa ciekawie wyglądała. Zwłaszcza  połączeniu
 z pełnoklatkowym rozmyciem.
 
-{% photo "2019_10_11__16_20_DSC01402.jpg","Jesienna trawa" %}
+{% photo "2019_10_11__16_20_DSC01402.jpg","Jesienna trawa","tag:good" %}
 
 Bardzo stopniowo wkraczaliśmy w ludzkie zabudowania. Na początku widzieliśmy tylko
 drewnianego ogrodzenia.
@@ -189,20 +191,20 @@ Powoli wkraczaliśmy do [Mniszkowa][wiki-mniszkow].
 
 Sama miejscowość jest bardzo ładnie ułożona pośrodku gór i lasów.
 
-{% photo "2019_10_11__16_29_DSC01411.jpg","Widok na Mniszkow" %}
+{% photo "2019_10_11__16_29_DSC01411.jpg","Widok na Mniszkow","tag:good" %}
 
 W [Mnieszkowie][wiki-mniszkow] spotkaliśmy bardzo przyjaznego kota.
 
-{% photo "2019_10_11__16_39__A111263.jpg","Kot w Mniszkowie","tag:cat" %}
+{% photo "2019_10_11__16_39__A111263.jpg","Kot w Mniszkowie (1)","tag:cat" %}
 
 Poświęciłem trochę czasu na robienie jemu zdjęć.
 
-{% photo "2019_10_11__16_47__A111507.jpg","Kot w Mniszkowie","tag:cat" %}
+{% photo "2019_10_11__16_47__A111507.jpg","Kot w Mniszkowie (2)","tag:cat" %}
 
 Nie bał się przyjść do mnie i siedzieć na kolanach. Mała odległość
 ostrzenia Tamrona była bardzo pomocna. Kot ten przypominał mi Jasia.
 
-{% photo "2019_10_11__16_49_DSC01441.jpg","Kot w Mniszkowie","tag:cat" %}
+{% photo "2019_10_11__16_49_DSC01441.jpg","Kot w Mniszkowie (3)","tag:cat,tag:good" %}
 
 Ruszyliśmy schodząc dalej. Niestety musiałem zostawić kota i ignorując go iść
 dalej. Przyjazne koty potrafią iść za człowiekiem.
@@ -212,7 +214,7 @@ dalej. Przyjazne koty potrafią iść za człowiekiem.
 Nie szliśmy w tunelu złożonym z drzew ale taka perspektywa mi się znacznie
 bardziej podoba.
 
-{% photo "2019_10_11__17_01__A112067.jpg","Wijąca się droga" %}
+{% photo "2019_10_11__17_01__A112067.jpg","Wijąca się droga","tag:good" %}
 
 Idąc dalej zauważyliśmy dwa biało-czarne koty siedzące na posłaniu.
 
@@ -220,7 +222,7 @@ Idąc dalej zauważyliśmy dwa biało-czarne koty siedzące na posłaniu.
 
 Gdy je zawołałem powoli przyszły w moją stronę.
 
-{% photo "2019_10_11__17_06__A112095.jpg","Biało-czarny kot w Mniszkowie","tag:cat" %}
+{% photo "2019_10_11__17_06__A112095.jpg","Biało-czarny kot w Mniszkowie","tag:cat,tag:good" %}
 
 Jestem zadowolony ze zdjęć które im zrobiłem. Z chęcią bym jeszcze poświęcił im
 trochę czasu ale niestety mieliśmy określony cel i robiliśmy się głodni.
@@ -245,12 +247,12 @@ Od razu mi się spodobała droga i drewniane ogrodzenie. Było ono bardzo
 Wydaje mi się, że okolica wyglądała ładniej podczas pochmurej pogody
 niż jakby niebo było czyste.
 
-{% photo "2019_10_11__17_33_DSC01546.jpg","Kierując się do Miedzianki" %}
+{% photo "2019_10_11__17_33_DSC01546.jpg","Kierując się do Miedzianki","tag:good" %}
 
 Zdecydowanie polecam ten szlak na rower. Tylko trzeba uważać na kamienie
 i drut kolczasty w ogrodzeniu.
 
-{% photo "2019_10_11__17_36_DSC01556.jpg","Widok na Krzyżną Górę i Sokolik" %}
+{% photo "2019_10_11__17_36_DSC01556.jpg","Widok na Krzyżną Górę i Sokolik","tag:good" %}
 
 Dotarliśmy do [Miedzianki][wiki-miedzianka]. Tam chcieliśmy dostać
 się do restauracji w [browarze][browar-miedzianka].

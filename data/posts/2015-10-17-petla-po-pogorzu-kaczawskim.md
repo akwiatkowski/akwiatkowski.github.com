@@ -57,7 +57,7 @@ Wyruszyliśmy dość wcześnie, ale bez przesady i kierowaliśmy się na półno
 Jak zwykle w mało popularnych pasmach oznaczenia szlaków są namalowane czasem mniej
 intuicyjnie, dlatego się trochę pokręciliśmy.
 
-{% photo "IMGP4906raw1.jpg","Żółty szlak do Sokołowca","timeline" %}
+{% photo "IMGP4906raw1.jpg","Żółty szlak do Sokołowca","tag:timeline" %}
 
 Przez te tereny biegnie nieczynna trasa kolejowa.
 
@@ -79,7 +79,7 @@ a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przerwy na 
 podejście. Niby strome, ale szybko je pokonaliśmy. Pogoda zaczęła się "psuć", pojawiała się mgła.
 Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre zdjęcia, a bez mgły robi się nudniejszy.
 
-{% photo "IMGP5132raw1-1.jpg","Trzy drzewa","timeline" %}
+{% photo "IMGP5132raw1-1.jpg","Trzy drzewa","tag:timeline" %}
 
 Szliśmy przez las we mgle. Niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.

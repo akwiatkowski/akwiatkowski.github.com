@@ -54,13 +54,13 @@ Jest tam [Rezerwat Dębiniec][wiki-rezerwat-debiniec] który chciałem zobaczyć
 Dotarliśmy stosunkowo późno bo o godzinie 17-tej. Było ciepło i wilgotno.
 Burza wisiała w powietrzu.
 
-{% photo "2019_06_15__17_01__6156537.jpg","Droga przez las","timeline" %}
+{% photo "2019_06_15__17_01__6156537.jpg","Droga przez las","tag:timeline" %}
 
 Będąc w terenie z naturą nie można być pewnym niczego. Chciałem zrobić
 kilka zdjęć Sony A7R z Sony 85/1.8 oraz potestować nowy plecak fotograficzny.
 Nic nie wskazywało na to, że głównym bohaterem tego wypadu będą motyle.
 
-{% photo "2019_06_15__17_13__6156557.jpg","Motyl (Dostojka latonia)" %}
+{% photo "2019_06_15__17_13__6156557.jpg","Motyl (Dostojka latonia)","tag:good,tag:macro" %}
 
 Większość ich siedziała na niebieskich kwiatkach. Nie trudne było zrobić
 zdjęcie na którym było ich kilka.
@@ -68,18 +68,18 @@ zdjęcie na którym było ich kilka.
 Sam się nie znam na gatunkach, jednak postanowiłem doczytać i dowiedziałęm się,
 że jest to [Dostojka latonia][wiki-dostojka-latonia].
 
-{% photo "2019_06_15__17_18__6156592.jpg","Motyle na niebieskim kwiatku (Dostojka latonia)" %}
+{% photo "2019_06_15__17_18__6156592.jpg","Motyle na niebieskim kwiatku (Dostojka latonia)","tag:good" %}
 
 Chcieliśmy obkrążyć [Jezioro Dębiniec][wiki-rezerwat-debiniec] dlatego
 nie spędzałem dużo czasu z motylami. Musiałbym przemyśleć co zrobić aby
 zdjęcia te mogły być ciekawsze.
 
-{% photo "2019_06_15__17_24_DSC06816.jpg","Zboże","timeline" %}
+{% photo "2019_06_15__17_24_DSC06816.jpg","Zboże","tag:timeline" %}
 
 Pomimo tego, że burza wisiała w powietrzu i powietrze było wilgotne, to
 gleba była bardzo sucha. Szliśmy po drodze pokrytej piaskiem.
 
-{% photo "2019_06_15__17_42__6156708.jpg","Dolina rzeki Cybiny","timeline" %}
+{% photo "2019_06_15__17_42__6156708.jpg","Dolina rzeki Cybiny","tag:timeline" %}
 
 Zeszliśmy w dół do mostu nad rzeką [Cybina][wiki-rzeka-cybina].
 Jak to zwykle w okolicy rzek, gdzie woda problemem nie jest, roślinność tutaj

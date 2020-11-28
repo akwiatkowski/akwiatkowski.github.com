@@ -65,7 +65,7 @@ Dotarliśmy do drogi asfaltowej wokół [Trzebawia][wiki-trzebaw]. Tam szliśmy
 obok stawu z którego było słychać ogrom dźwięków żab. Wioska za to była całkiem spokojna,
 więc zwierzęta korzystają z tego faktu.
 
-{% photo "IMGP0168raw1.jpg","Aleja drzew","timeline" %}
+{% photo "IMGP0168raw1.jpg","Aleja drzew","tag:timeline" %}
 
 Następnie dotarliśmy do [Jezior][wiki-jeziory], gdzie dalej poruszaliśmy się
 czerwonym szlakiem obok jeziora. Byłem zaskoczony ile ludzi tam się poruszało,

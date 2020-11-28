@@ -45,7 +45,7 @@ oprócz tego że cały świat jest szary, to mieliśmy jeszcze silniejszy wiatr.
 Z okolic [Równicy][wiki-rownica] widzieliśmy [Brennę][wiki-brenna]
 i był to w sumie jedyny widok, jaki mieliśmy okazję zaobserwować w całym wyjeździe.
 
-{% photo "IMGP4771.JPG","Okolice Palenicy","timeline" %}
+{% photo "IMGP4771.JPG","Okolice Palenicy","tag:timeline,tag:good" %}
 
 Drugiego dnia było jeszcze bardziej szaro i smutno, najlepiej przedstawi to poniższe zdjęcie.
 

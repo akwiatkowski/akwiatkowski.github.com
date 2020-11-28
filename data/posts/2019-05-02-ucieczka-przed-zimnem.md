@@ -56,7 +56,7 @@ Po analizie naszych możliwości zaproponowałem, abyśmy jechali w stronę
 tam mielibyśmy wybór kilku przystanków, na których można wsiąść do
 pociągu osobowego do [Torunia][wiki-torun].
 
-{% photo "2019_05_02__09_29_P5020589.jpg","Droga do wsi Kałduny","timeline" %}
+{% photo "2019_05_02__09_29_P5020589.jpg","Droga do wsi Kałduny","tag:timeline" %}
 
 Najpierw musieliśmy przejechać 2km drogą 16-tką. Po czym moglibyśmy odbić na
 spokojniejsze lokalne drogi. Ruch samochodowy nie był zerowy ale jazda była
@@ -65,7 +65,7 @@ raczej bezstresowa w porównaniu do klasy drogi.
 Przejechaliśmy przez tory kolejowe (czekając aż pociąg przejedzie)
 i wjechaliśmy do wsi [Kałduny][wiki-kalduny].
 
-{% photo "2019_05_02__09_48_P5020606.jpg","Widok na Wzgórza Dylewskie","timeline" %}
+{% photo "2019_05_02__09_48_P5020606.jpg","Widok na Wzgórza Dylewskie","tag:timeline" %}
 
 Wiatr tego dnia był bardzo silny. Było ogólnie zimno.
 
@@ -77,7 +77,7 @@ z [dniem wczorajszym]({% post_url 2019-05-01-pierwsza-setka-na-pierwszego-maja %
 Podobał mi się widok na obniżenie terenu w dolinie rzeki [Drwęcy][wiki-drweca]
 za którym widzieliśmy [Wzgórza Dylewskie][wiki-wzgorza-dylewskie].
 
-{% photo "2019_05_02__10_04_P5020635.jpg","Pola w okolicy wsi Mątyki","timeline" %}
+{% photo "2019_05_02__10_04_P5020635.jpg","Pola w okolicy wsi Mątyki","tag:timeline" %}
 
 Dotarliśmy do skrzyżowania w [Gromotach][wiki-gromoty]. Wcześniej myślałem, że
 powinno się nam udać pojechać dalej i w [Zielkowie][wiki-zielkowo] skręcić w lewo
@@ -88,9 +88,9 @@ według mnie patrząc ile mieliśmy czasu do odjazdu naszego pociągu.
 
 Jakość drogi idealnie komponowała się z ciężkim wiatrem bocznym.
 
-{% photo "2019_05_02__10_39_P5020680.jpg","Dom we wsi Pikus","timeline" %}
+{% photo "2019_05_02__10_39_P5020680.jpg","Dom we wsi Pikus","tag:timeline" %}
 
 Dotarliśmy do wsi [Pikus][wiki-pikus] gdzie był nasz docelowy przystanek kolejowy.
 Mając trochę czasu pojechaliśmy na północ w stronę wsi [Wiewiórka][wiki-wiewiorka].
 
-{% photo "2019_05_02__10_43_P5020683.jpg","Staw we wsi Pikus","timeline" %}
+{% photo "2019_05_02__10_43_P5020683.jpg","Staw we wsi Pikus","tag:timeline" %}

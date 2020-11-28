@@ -39,27 +39,27 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP5055b.jpg","Okolice stacji Czechowice-Dziedzice","timeline" %}
+{% photo "IMGP5055b.jpg","Okolice stacji Czechowice-Dziedzice","tag:timeline" %}
 
 Wysiedliśmy dość wcześniej w [Zwardoniu][wiki-zwardon] i ruszyliśmy czerwonym szlakiem. Najpierw musieliśmy
 wyjśc z terenów wiejskich i dopiero wtedy rozpoczęły się najlepsze, moim zdaniem, widoki.
 
-{% photo "IMGP5147b.jpg","Czerwony szlak przy granicy w Zwardoniu","timeline" %}
+{% photo "IMGP5147b.jpg","Czerwony szlak przy granicy w Zwardoniu","tag:timeline" %}
 
 Minęliśmy schronisko [Dworzec Beskidzki][wiki-zwardon-schron]. Wyglądało ono wtedy jakby było w wiecznym remoncie.
 Może teraz funkcjonuje, ale tego sam nie wiem. Tam podejście było raczej normalne, nawet lekkie.
 
-{% photo "IMGP5169b.jpg","Nad Zwardoniem","timeline" %}
+{% photo "IMGP5169b.jpg","Nad Zwardoniem","tag:timeline" %}
 
 Po pewnym czasie pojawiły się polany. Według mnie to są najładniejsze tereny w górach. Wyżej są lasy, z których widoków
 jest mało. Jeszcze wyżej są widoki, ale z tym czasem jest trudno. Polany są zawsze i będąc pośrodku ma się
 widok na doliny i góry, takie dobre urozmaicenie.
 
-{% photo "IMGP5189b.jpg","Widok na okolice Rycerki","timeline" %}
+{% photo "IMGP5189b.jpg","Widok na okolice Rycerki","tag:timeline,tag:good" %}
 
 Gdy minęliśmy polany rozpoczęło się konkretniejsze podejście.
 
-{% photo "IMGP5196b.jpg","Ścieżka pośrodku gór" %}
+{% photo "IMGP5196b.jpg","Ścieżka pośrodku gór","tag:good" %}
 
 Z ciekawostek na trasie to mieliśmy spotkanie ze
 słowacką terenówką która ugrzęzła w błocie. Pomogliśmy im, chociaż później przypomnieliśmy że jesteśmy
@@ -81,4 +81,4 @@ Do [Schroniska na Wielkiej Raczy][wiki-schron-racza] dotarliśmy chyba przed 17t
 i oglądanie zachodu Słońca na wieży obserwacyjnej. Zasnąłem po 20tej tak dobrze, że Krzychu musiał mnie obudzić
 bo ktoś do mnie dzwonił i ja tego nie słyszałem. Ten dzień to najlepsze lekarstwo na bezsenność.
 
-{% photo "IMGP5309b.jpg","Widok na Słowacje" %}
+{% photo "IMGP5411raw_b.jpg","Widok na Słowację" %}

@@ -68,7 +68,7 @@ już we mgle, lub chmurze. Widoczność była minimalna więc tylko sobie szliś
 aż do [Domu Śląskiego][wiki-dom-slaski]. Tyczki i wydeptany śnieg pokazywały nam gdzie
 iść.
 
-{% photo "IMGP8435raw2.jpg","Początek trasy na Śnieżkę" %}
+{% photo "IMGP8435raw2.jpg","Początek trasy na Śnieżkę","tag:good" %}
 
 Podejście na [Śnieżkę][wiki-sniezka] również nie było zbyt interesujące, jednak na górze
 zaczęło robić się ciekawiej. Chmury poruszały się bardzo szybko i tuż przed zejściem
@@ -80,4 +80,4 @@ okno z bardzo dobrą widocznością i niebieskim niebem.
 Nie wchodziliśmy do [Domu Śląskiego][wiki-dom-slaski]. Postanowiliśmy że zejdziemy/zjedziemy
 do [Karpacza][wiki-karpacz] i tam coś zjemy. Ja z Krzychem zjechaliśmy wyciągiem.
 
-{% photo "IMGP8733raw1.jpg","Nadciągająca mgła" %}
+{% photo "IMGP8733raw1.jpg","Nadciągająca mgła","tag:good,tag:best" %}

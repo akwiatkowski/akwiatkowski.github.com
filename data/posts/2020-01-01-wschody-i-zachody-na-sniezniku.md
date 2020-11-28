@@ -26,6 +26,8 @@ pois:
 
 ---
 
+{% photo_header "Zachód słońca na Śnieżniku","tag:good,tag:best" %}
+
 [sciezka-w-oblokach]: https://www.dolnimorava.cz/pl/sciezka-w-oblokach
 
 [wiki-schronisko]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_%C5%9Anie%C5%BCniku%E2%80%9D
@@ -70,12 +72,12 @@ tylko mały pasek ("szpara") na południowym-wschodzie.
 Dwa dni temu zaczął padać śnieg dzięki czemu mieliśmy okazję widzieć ośnieżone wioski
 w dole, chociaż były one zbyt daleko na obiektywy jakie przy sobie miałem.
 
-{% photo "2019_12_30__08_09__C302555.jpg","Czarna Góra i Kłodzko" %}
+{% photo "2019_12_30__08_09__C302555.jpg","Czarna Góra i Kłodzko","tag:good" %}
 
 Dzięki przejrzystemu powietrzu mieliśmy dobry widok na zanieczyszczenia
 świetlne [Wrocławia][wiki-wroclaw].
 
-{% photo "2019_12_30__08_14__C302564.jpg","Stronie Śląskie i Lądek Zdrój" %}
+{% photo "2019_12_30__08_14__C302564.jpg","Stronie Śląskie i Lądek Zdrój","tag:good" %}
 
 I właśnie te światła uliczne były najlepszym elementem nocnych zdjęć. Szkoda,
 że na kolejny wschód nie wybrałem się wcześniej. Chociaż silny wiatr utrudnił
@@ -95,7 +97,7 @@ Gdy słońce zniknęło za chmurami postanowiliśmy zejść do [schroniska][wiki
 Podczas zejścia było trudno niezauważyć, że śniegu teraz jest znacznie mniej
 niż było to [rok temu]({% post_url 2018-12-30-warstwy-zimy-pod-snieznikiem %}).
 
-{% photo "2019_12_30__09_29_DSC05476.jpg","Las pod Śnieżnikiem" %}
+{% photo "2019_12_30__09_29_DSC05476.jpg","Las pod Śnieżnikiem","tag:good" %}
 
 Dotarliśmy do schroniska aby zjeść śniadanie, odpoczywać i myśleć co dalej.
 
@@ -108,7 +110,7 @@ Dotarliśmy do schroniska aby zjeść śniadanie, odpoczywać i myśleć co dale
 W środku gnia wyszedłem na chwilę przejść się po okolicy, oczywiście z
 aparatem.
 
-{% photo "2019_12_30__11_51__C302921.jpg","Biegnący pies","tag:dog" %}
+{% photo "2019_12_30__11_51__C302921.jpg","Biegnący pies","tag:dog,tag:good" %}
 
 Testowałem tryb "Pro Capture" chcąc zrobić zdjęcie spadającej kropli.
 Teraz wiem, że lepiej byłoby podbić ISO i zatrzymać kroplę w powietrzu
@@ -128,7 +130,7 @@ Chmury w stronę południowo-zachodnią wyglądały ciekawie.
 Wróciłem do [schroniska][wiki-schronisko]. Znalazłem drugiego kota, który
 znowu spał na książce meldunkowej.
 
-{% photo "2019_12_30__12_30__C303212.jpg","Ciemno-szary kot w schronisku","tag:cat" %}
+{% photo "2019_12_30__12_30__C303212.jpg","Ciemno-szary kot w schronisku","tag:cat,tag:good" %}
 
 ### Zachód, grudzień 30-tego 2019
 
@@ -140,12 +142,12 @@ Prognoza pogody na zachód słońca była bardziej obiecująca. Oczywiście nie 
 
 Jakość powietrza w dolinach się stopniowo pogarszała.
 
-{% photo "2019_12_30__16_18__C303336.jpg","Zachód nad górami" %}
+{% photo "2019_12_30__16_18__C303336.jpg","Zachód nad górami","tag:good" %}
 
 Próbowałem nawet zrobić ciekawe zdjęcia korzystając z zanieczyszczonego
 powietrza.
 
-{% photo "2019_12_30__16_18__C303339.jpg","Widok w stronę miejscowości Roztoki" %}
+{% photo "2019_12_30__16_18__C303339.jpg","Widok w stronę miejscowości Roztoki","tag:good" %}
 
 Czekając za zmianą barwy światła szukałem ciekawych elementów. Ośnieżone
 ślady dawnej wieży trochę się nadawały.
@@ -172,7 +174,7 @@ zrobić zdjęcia śnieżnym polanom oświetlonym czerwonym światłem zachodząc
 Mając dobry teleobiektyw mógłbym również robić zdjęcia ośnieżonym drzewom
 i skupiać się na różne detalach w górach.
 
-{% photo "2019_12_30__16_49__C303561.jpg","Ośnieżone drzewa na zboczu" %}
+{% photo "2019_12_30__16_49__C303561.jpg","Ośnieżone drzewa na zboczu","tag:good" %}
 
 Podczas zachodu słońca można zaobserwować jaki [Śnieżnik][wiki-snieznik]
 rzuca cień.
@@ -182,34 +184,34 @@ rzuca cień.
 Ruiny dawnej wieży widokowej na tle zachodzącego słońca wyglądały
 teraz lepiej.
 
-{% photo "2019_12_30__16_52__C303582.jpg","Ruiny dawnej wieży widokowej" %}
+{% photo "2019_12_30__16_52__C303582.jpg","Ruiny dawnej wieży widokowej","tag:good" %}
 
 Poniżej widok w stronę słońca. Widać jak słońce "koloruje" zanieczyszczone
 powietrze tworząc pomarańczową "mgiełkę".
 
-{% photo "2019_12_30__16_56__C303600.jpg","Kolorowe warstwy gór" %}
+{% photo "2019_12_30__16_56__C303600.jpg","Kolorowe warstwy gór","tag:good,tag:best" %}
 
 Delikatne chmury oświetlone przez zachodzące słońce były również ładnym widokiem.
 Dla mnie to zdjęcie nie jest super oryginalne ale chyba lepiej je umieścić tutaj niż
 tego nie robić.
 
-{% photo "2019_12_30__17_01_DSC05579.jpg","Chmury oświetlone przez słońce" %}
+{% photo "2019_12_30__17_01_DSC05579.jpg","Chmury oświetlone przez słońce","tag:good" %}
 
 Mi osobiście bardziej podoba się poniższe zdjęcie. Ciekawiej pokazuje strukturę
 chmur.
 
-{% photo "2019_12_30__17_12__C303706.jpg","Oświetlone chmury tuż po zachodzie" %}
+{% photo "2019_12_30__17_12__C303706.jpg","Oświetlone chmury tuż po zachodzie","tag:good" %}
 
 Trochę żałuję, że nie zostałem dłużej i nie poczekałem aż zostaną włączone
 światła miejskie w dole. Stałem na [szczycie][wiki-snieznik] dwie godziny robiąc
 zdjęcia i w tamtym momencie wolałem zejść na jedzenie.
 
-{% photo "2019_12_30__17_39__C303798.jpg","Jeszcze ośnieżone drzewa" %}
+{% photo "2019_12_30__17_39__C303798.jpg","Jeszcze ośnieżone drzewa po zachodzie","tag:good" %}
 
 Schodząc musiałem schować aparat Sony, który nie ma stabilizacji. Nie miałem czasu na
 rozkładanie statywu.
 
-{% photo "2019_12_30__17_42__C303822.jpg","Fioletowy śnieg" %}
+{% photo "2019_12_30__17_42__C303822.jpg","Fioletowy śnieg","tag:good,tag:best" %}
 
 Przy schronisku postanowiłem się chwilę pokręcić i skorzystać z pięknego,
 już fioletowego, światła.
@@ -230,7 +232,7 @@ Na ten wschód wybrałem się sam. Pogoda się trochę zmieniła. Pojawił się
 wiatr. Ruszyłem trochę później wiedząc, że wiatr mnie bardziej wychłodzi,
 a mój statyw super stabilny nie jest.
 
-{% photo "2019_12_31__08_16__C313880.jpg","Tuż przed wschodem" %}
+{% photo "2019_12_31__08_16__C313880.jpg","Tuż przed wschodem","tag:good" %}
 
 Gdy dotarłem na [szczyt][wiki-snieznik] wiatr był delikatnie mówiąc odczuwalny.
 Miałem problemy z oddychaniem jeżeli byłem skierowany bezpośrednio w jego
@@ -243,7 +245,7 @@ Na [szczycie][wiki-snieznik] oprócz mnie były tylko dwie osoby z [schroniska][
 Inne zdjęcie podobało mi się bardziej ale wolałem umieścić powyższe. Idealnie
 ono pokazuje nastrój tamtego poranka.
 
-{% photo "2019_12_31__08_49__C313961.jpg","Drzewa podczas śnieżycy" %}
+{% photo "2019_12_31__08_49__C313961.jpg","Drzewa podczas śnieżycy","tag:good,tag:best" %}
 
 Miałem kilka minut na wykorzystanie pomarańczowej barwy światła.
 
@@ -271,7 +273,7 @@ dzień. Dowiedzieliśmy się, że warto by było pójść na
 [Żmijowiec][wiki-zmijowiec]. Tak naprawdę to warto by było pójść na
 [Czarną Górę][wiki-czarna-gora] ale nie miałem ochoty na 4-ro godzinny spacer.
 
-{% photo "2019_12_31__13_35__C314227.jpg","Śnieżne warstwy" %}
+{% photo "2019_12_31__13_35__C314227.jpg","Śnieżne warstwy","tag:good" %}
 
 Trasa była średnio ciekawa. To był taki spokojny spacer połączony z
 robieniem zdjęć.
@@ -309,7 +311,7 @@ Szlak po czeskiej stronie jest trochę bardziej niebezpieczny. W okolicy
 [Morawy][wiki-rzeka-morawa] zbocze jest stosunkowo strome.
 
 <!-- {% photo "2020_01_01__15_26__1014578.jpg","Podejście źródłem Morawy" %} -->
-{% photo "2020_01_01__16_25_DSC05761.jpg","Podejście źródłem Morawy" %}
+{% photo "2020_01_01__16_25_DSC05761.jpg","Podejście źródłem Morawy","tag:good" %}
 
 Nie wiem dlaczego teraz ale właśnie tego dnia pojawił się problem różnicy
 czasu między Olympusem a Sony. Zdjęcia z Sony mają ustawiony czas wykonania o godzinę

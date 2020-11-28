@@ -79,7 +79,7 @@ prawo kierując się na północ, zgodnie ze znakami w kierunku
 Dojechaliśmy do centrum wsi [Wydartowo][wiki-wydartowo] gdzie
 skręciliśmy ponownie w prawo i jechaliśmy do centrum wsi [Duszno][wiki-duszno].
 
-{% photo "IMGP4256raw1.jpg","Widok w kierunku północnym z punktu widokowego Duszno","timeline" %}
+{% photo "IMGP4256raw1.jpg","Widok w kierunku północnym z punktu widokowego Duszno","tag:timeline" %}
 
 Z samego [punktu widokowego][wiki-duszno-widokowy] mieliśmy tego dnia bardzo
 dobrą widoczność, nawet można było zauważyć
@@ -118,7 +118,7 @@ miejscowości [Drewno][wiki-drewno] dlatego zaproponowałem abyśmy się tam uda
 Jest tam ciekawy zjazd w stronę Jeziora Drewienko (a raczej jego okolic),
 który kończy się w miejscowości [Belki][wiki-belki].
 
-{% photo "IMGP4333raw1.jpg","Jezioro Wieniec","timeline" %}
+{% photo "IMGP4333raw1.jpg","Jezioro Wieniec","tag:timeline" %}
 
 Wracając pojechaliśmy przez [Wieniec][wiki-wieniec] w stronę [Mogilna][wiki-mogilno].
 Raczej niewiele ciekawego było na trasie. Już taka nieduża miejscowość jak
@@ -145,7 +145,7 @@ Cofnąłem się około stu metrów i poszedłem zobaczyć jak wygląda most z do
 Droga była trochę podmokła miejscami przez sąsiedztwo dużej ilości wody z
 Jeziora Pakoskiego.
 
-{% photo "IMGP4399raw1.jpg","Podmokła droga przez Jezioro Pakoskie","timeline" %}
+{% photo "IMGP4399raw1.jpg","Podmokła droga przez Jezioro Pakoskie","tag:timeline" %}
 
 Teoretycznie da się przedostać bezpośrednio przez [Czerniak][wiki-czerniak],
 jednak jest to teren prywatny, mokry i bardzo terenowy. Z tego powodu

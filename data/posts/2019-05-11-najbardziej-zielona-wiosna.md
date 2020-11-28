@@ -66,29 +66,29 @@ Gdy ruszyliśmy pociągiem z [Wrocławia][wiki-wroclaw] pogoda była jeszcze ca�
 Wiele razy jechałem tą linią kolejową. Patrząc na zdjęcia zastanawiam się nad
 sensem majówki. Przecież tydzień później krajobraz jest wyraźnie ładniejszy.
 
-{% photo "2019_05_11__10_03__5113245.jpg","Witków i wieża widokowa na Trójgarbie","timeline" %}
+{% photo "2019_05_11__10_03__5113245.jpg","Witków i wieża widokowa na Trójgarbie","tag:timeline" %}
 
 Im bardziej kolorowo tym ładnie, a wiosną to właśnie kolor kwitnącego rzepaku
 jest najbardziej widoczny (oczywiście oprócz zielonego).
 
-{% photo "2019_05_11__10_06__5113261.jpg","Śnieżka i kwitnący rzepak","timeline" %}
+{% photo "2019_05_11__10_06__5113261.jpg","Śnieżka i kwitnący rzepak","tag:timeline" %}
 
 Z [Marciszowa][wiki-marciszow] odchodzą dwie zamknięte linie kolejowe:
 [linia 302][wiki-linia-302] przez [Bolków][wiki-bolkow] do [Strzegomia][wiki-strzegom],
 oraz [linia 312][wiki-linia-312] do [Złotoryi][wiki-zlotoryja].
 
-{% photo "2019_05_11__10_12__5113303.jpg","Wiadukt linii kolejowej Marciszów-Bolków","timeline" %}
+{% photo "2019_05_11__10_12__5113303.jpg","Wiadukt linii kolejowej Marciszów-Bolków","tag:timeline" %}
 
 W przypadku kolejnej wycieczki rowerowej koniecznie muszę przejechać przez
 [Płoninę][wiki-plonina].
 
-{% photo "2019_05_11__10_19__5113332.jpg","Okolica Janowic Wielkich","timeline" %}
+{% photo "2019_05_11__10_19__5113332.jpg","Okolica Janowic Wielkich","tag:timeline" %}
 
 Piszę ten wpis w styczniu 2020 i nie mogę się doczekać za wiosną.
 Chciałbym ponownie tutaj przyjechać rowerem, tylko teraz wybrałbym okolicę trochę
 dalej od [Karkonoszy][wiki-karkonosze].
 
-{% photo "2019_05_11__10_23__5113348.jpg","Ulica Chłopska w Janowicach Wielkich","timeline" %}
+{% photo "2019_05_11__10_23__5113348.jpg","Ulica Chłopska w Janowicach Wielkich","tag:timeline" %}
 
 Dotarliśmy do hotelu, przepakowaliśmy się i ruszyliśmy na pociąg.
 Chciałem skorzystać z dobrej pogody gdyż miała się ona pogorszyć następnego dnia.
@@ -111,12 +111,12 @@ do zdjęcia i dlatego na poniższym zdjęciu okrutnie widać kable telefoniczne.
 Beztrosko położone kable często psują krajobraz wiosek, a nikt o nie nie dba
 aby były atrakcyjne dla turystów. A może dba ale jest to zbyt trudne.
 
-{% photo "2019_05_11__12_14__5113473.jpg","Tunel pod torami kolejowymi","timeline" %}
+{% photo "2019_05_11__12_14__5113473.jpg","Tunel pod torami kolejowymi","tag:timeline" %}
 
 Drogą podrzędną poruszaliśmy się do [Trzcińska][wiki-trzcinsko]. Dotarliśmy do łąki
 przepełnionej mleczami i dmuchawcami.
 
-{% photo "2019_05_11__12_15__5113479.jpg","Z poziomu łąki","timeline" %}
+{% photo "2019_05_11__12_15__5113479.jpg","Z poziomu łąki","tag:timeline" %}
 
 Oprócz wiosennej przyrody widzieliśmy mniej lub bardziej zaniedbane podsudeckie
 wioski.

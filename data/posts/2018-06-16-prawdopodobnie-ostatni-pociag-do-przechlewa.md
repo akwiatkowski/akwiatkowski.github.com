@@ -93,7 +93,7 @@ jak bardzo trawa już urosła.
 Pociąg Przytoń wynurzający się z lasu w okolicy Węgorzyna.
 Ciekawe jest połączenie "małego" pociągu z "dużym" lasem.
 
-{% photo "IMGP9374raw1.jpg","Pociąg Przytoń w okolicy Polnicy","timeline" %}
+{% photo "IMGP9374raw1.jpg","Pociąg Przytoń w okolicy Polnicy","tag:timeline" %}
 
 Na łukach można było zrobić najciekawsze zdjęcia według mnie.
 
@@ -113,7 +113,7 @@ Co ciekawe 10km obok
 [przejeżdzałem rowerem]({% post_url 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy %}) przez
 [Małe Swornegacie][wiki-male-swornegacie].
 
-{% photo "IMGP9510raw1.jpg","Wyjeżdzając z Sąpólna Człuchowskiego","timeline" %}
+{% photo "IMGP9510raw1.jpg","Wyjeżdzając z Sąpólna Człuchowskiego","tag:timeline" %}
 
 Niby to tylko normalny krajobraz późnej wiosny ale może to być ostatnie zdjęcie tych
 okolic z pociągiem.
@@ -123,12 +123,12 @@ okolic z pociągiem.
 Trochę więcej barw - połączenie nieba i żółto-niebieskie wagony.
 Zdjęcie zrobione podczas wyjazdu z [Sąpólna Człuchowskiego][wiki-sapolno-czluchowskie].
 
-{% photo "P6160010raw1.jpg","Pola zboża niedaleko Przechlewa","timeline" %}
+{% photo "P6160010raw1.jpg","Pola zboża niedaleko Przechlewa","tag:timeline" %}
 
 Żółte pola zboża niedaleko [Przechlewa][wiki-przechlewo]. Akurat w tym momencie
 chmury się ciekawie ułożyły. Przydatny byłby filtr połówkowy.
 
-{% photo "IMGP9568raw1.jpg","Pola zboża niedaleko Przechlewa","timeline" %}
+{% photo "IMGP9568raw1.jpg","Pola zboża niedaleko Przechlewa","tag:timeline" %}
 
 W wyniku bardzo ciepłego i suchego miesiaca zboża zrobiły się już
 złoto-żółte.
@@ -148,7 +148,7 @@ pociągu na tle złotego pola.
 Dojeżdzaliśmy do [Człuchowa][wiki-czluchow]. Ostatni fotostop przy przejeździe
 przez drogę 25. Do stacji dotarliśmy pieszo.
 
-{% photo "IMGP9694raw1.jpg","Tory kolejowe z Chojnic do Piły","timeline" %}
+{% photo "IMGP9694raw1.jpg","Tory kolejowe z Chojnic do Piły","tag:timeline" %}
 
 Jechaliśmy teraz do [Chojnic][wiki-chojnice]. Wolniejsza część trasy była za
 nami.

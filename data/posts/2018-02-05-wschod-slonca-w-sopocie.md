@@ -53,7 +53,7 @@ chwilę spóźniłem i nie zdążę dojść do [mola w Orłowie][wiki-orlowo-mol
 Wszystkie zdjęcia robiłem z wykorzystaniem filtrów Cokin Nuance ND256/NDx2.4,
 Hitech odwrócony połówkowy ND8/NDx0.9 oraz Cokin 121S (połówkowy miękki ND16/NDx1.2).
 
-{% photo "IMGP5709raw1.jpg","Szkielet małego tarasu w Sopocie o poranku","timeline" %}
+{% photo "IMGP5709raw1.jpg","Szkielet małego tarasu w Sopocie o poranku","tag:timeline" %}
 
 Postanowiłem wykorzystać szkielet pomostu/tarasu niedaleko
 restauracji (góralskiej!) [Koliba][koliba].
@@ -86,7 +86,7 @@ zmieni się rezultat danego dnia albo nawet dłuższego obszaru czasowego. Pogod
 się zmienia, klimat się zmienia. Mamy określoną ilość wolnego czasu i może się
 okazać, że powtórzenie danego zdjęcia będzie możliwe dopiero za kilka lat.
 
-{% photo "IMGP5726raw1.jpg","Efekt nocnego przymrozku - sople","timeline" %}
+{% photo "IMGP5726raw1.jpg","Efekt nocnego przymrozku - sople","tag:timeline" %}
 
 Postanowiłem udać się w stronę [molo w Sopocie][wiki-sopot-molo] niedaleko
 którego jest uszkodzony drewniany pomost i tam zrobić kilka zdjęć.

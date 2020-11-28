@@ -74,7 +74,7 @@ było opisywać w osobnym wpisie.
 Ruszyliśmy pociągiem do [Pęckowa][wiki-peckowo], gdzie jest stacja kolejowa
 przed [Wronkami][wiki-wronki].
 
-{% photo "P7141346.jpg","Okolica Lizbony obok Pęckowa","timeline" %}
+{% photo "P7141346.jpg","Okolica Lizbony obok Pęckowa","tag:timeline" %}
 
 Chcieliśmy przejechać rowerem przez [Lizbonę][wiki-lizbona-peckowo] jednak okazało się,
 że droga prowadzi przez ogrodzony teren gospodarstwa rolnego. Wróciliśmy się do
@@ -103,7 +103,7 @@ z [Wronkami][wiki-wronki].
 Wjechaliśmy do [Obrzycka][wiki-obrzycko]. Na chodniku widziałem sporo liści - jest
 to efekt ogólnej suszy w tym roku.
 
-{% photo "P7141362.jpg","Warta przy Obrzycku","timeline" %}
+{% photo "P7141362.jpg","Warta przy Obrzycku","tag:timeline" %}
 
 Ulicą Strzelecką dojechaliśmy do rynku. Przejechaliśmy mostem nad [Wartą][wiki-warta]
 i kierowaliśmy się na wschód przez [Zielonągórę][wiki-zielonagora].
@@ -152,7 +152,7 @@ Następnie ruszyliśmy w stronę mostu kolejowego. Podjechaliśmy na polanę prz
 Czy można przejść przez niego teraz to nie wiem.
 Jako ostrożna osoba ja bym odradzał.
 
-{% photo "P7151445.jpg","Szlak w okolicy zamku w Stobnicy","timeline" %}
+{% photo "P7151445.jpg","Szlak w okolicy zamku w Stobnicy","tag:timeline" %}
 
 Pojechaliśmy w stronę miejsca budowy "stobnickiego zamku".
 Widziałem go tylko raz przez drzewa.
@@ -165,7 +165,7 @@ Przy przejściu przez Kanał Kończak zrobiliśmy chwilową przerwę.
 
 Przy tej pogodzie moje zdjęcia były bardzo kontrastowe.
 
-{% photo "P7151453.jpg","Kanał Kończak","timeline" %}
+{% photo "P7151453.jpg","Kanał Kończak","tag:timeline" %}
 
 Opuściliśmy [Puszczę Notecką][wiki-puszcza-notecka] w okolicy
 [Boruszyna][wiki-boruszyn]. Wieś ta miała ładne centrum z małym "parkiem".
@@ -203,7 +203,7 @@ Po godzinnej przerwie obiadowej zaproponowałem, abyśmy jechali ulicą
 Łąkową. Okazało się to bardzo dobrą decyzją. Ulica ta zostałą wyasfaltowana.
 Sama nazwa tej ulicy dobrze opisuje jej okolicę.
 
-{% photo "P7151517.jpg","Ulica Łąkowa w Połajewie","timeline" %}
+{% photo "P7151517.jpg","Ulica Łąkowa w Połajewie","tag:timeline" %}
 
 Jakość drogi zaczęła się pogarszać po dłuższym dystansie.
 Dopiero po 5km pogorszyła się wyraźnie.
@@ -211,7 +211,7 @@ Dopiero po 5km pogorszyła się wyraźnie.
 Gdy dotarliśmy do lasu droga była efektem połączenia sypkiej drogi gruntowej
 i wody. Miejscami było błoto.
 
-{% photo "P7151537.jpg","Dojeżdżając do lasu","timeline" %}
+{% photo "P7151537.jpg","Dojeżdżając do lasu","tag:timeline" %}
 
 Jadąc przez las zobaczyliśmy tablicę wsi [Chlebowo][wiki-chlebowo].
 Musieliśmy przejechać 7km drogą gruntową aby dostać się do [Podlesia][wiki-podlesie],

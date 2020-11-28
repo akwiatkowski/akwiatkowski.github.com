@@ -109,7 +109,7 @@ W [Konarzewie][wiki-konarzewo] zrobiłem drugie zdjęcie - małe, stare bloki
 wzdłuż drogi wyglądały ciekawie. W tej miejscowości również spodobał mi się
 plac-rondo niedaleko kościoła.
 
-{% photo "2019_04_22__12_46_P4220022.jpg","Między Konarzewem a Trzecieline","timeline" %}
+{% photo "2019_04_22__12_46_P4220022.jpg","Między Konarzewem a Trzecieline","tag:timeline" %}
 
 Dotarliśmy do [Trzcielina][wiki-trzcielin]. Dopiero tutaj poczułem, że
 jest przyroda obok. Zatrzymałem się przy Kanale Trzcielińskim, którego
@@ -141,7 +141,7 @@ Dotarliśmy do "centrum" [wsi][wiki-lisowki] i musiałem Michałowi przekazać z
 Na nieszczęście ta droga gruntowa nie grzeszyła brakiem piasku. Mi osobiście
 się podobała, zwłaszcza wierzby po lewej stronie.
 
-{% photo "2019_04_22__13_07_P4220037.jpg","Droga gruntowa do Żarnowca","timeline" %}
+{% photo "2019_04_22__13_07_P4220037.jpg","Droga gruntowa do Żarnowca","tag:timeline" %}
 
 Na chwilę zatrzymaliśmy się w [Żarnowcu][wiki-zarnowiec],
 byłem tu [3 lata temu]({% post_url 2015-06-27-zachod-od-poznania-do-opalenicy %}).
@@ -158,7 +158,7 @@ Teraz musieliśmy wybrać przez jakie wioski przejedziemy. Celem była
 W [Jeziorkach][wiki-jeziorki] spodobał mi się kościół. W [Piekarach][wiki-piekary]
 widziałem dwa koty ale się nie zatrzymywałem dla nich.
 
-{% photo "2019_04_22__14_14_P4220056.jpg","Okolica Sznyfina","timeline" %}
+{% photo "2019_04_22__14_14_P4220056.jpg","Okolica Sznyfina","tag:timeline" %}
 
 [Dakowy Suche][wiki-dakowy-suche] i [Sznyfin][wiki-sznyfin] mają sporo
 zabudowań odległych od siebie.

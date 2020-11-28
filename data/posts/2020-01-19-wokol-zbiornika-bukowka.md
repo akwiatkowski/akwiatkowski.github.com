@@ -56,7 +56,7 @@ robiłem jemu
 zdjęcia z [Przełęczy Okraj][wiki-przelecz-okraj] i jeszcze nigdy nie miałem
 okazji być na południe od [Rudaw Janowickich][wiki-rudawy-janowickie].
 
-{% photo "2020_01_19__09_55__1190965.jpg","Okolica Pisarzowic","timeline" %}
+{% photo "2020_01_19__09_55__1190965.jpg","Okolica Pisarzowic","tag:timeline" %}
 
 Ustawiliśmy nawigacje na [Miszkowice][wiki-miszkowice]. Sądziliśmy, że tam powinno
 być w miarę łatwo znaleźć miejsce do zaparkowania samochodu w pobliżu
@@ -79,7 +79,7 @@ Rozmawiając z mieszkańcem dowiedzieliśmy się, że nie powinno być problemem
 okrążenie jeziora. Jedynym problemem może być przejście przez
 rzekę [Bóbr][wiki-bobr-rzeka].
 
-{% photo "2020_01_19__12_19_DSC06201.jpg","Ścieżka po wschodniej stronie Jeziora Bukowskiego","timeline" %}
+{% photo "2020_01_19__12_19_DSC06201.jpg","Ścieżka po wschodniej stronie Jeziora Bukowskiego","tag:timeline" %}
 
 Chyba nie powinno być tak źle? Z taką myślą ruszyliśmy dalej na południe.
 Myśleliśmy, że jakoś przeskoczymy przez [rzekę][wiki-bobr-rzeka] gdy jest ona wąska.

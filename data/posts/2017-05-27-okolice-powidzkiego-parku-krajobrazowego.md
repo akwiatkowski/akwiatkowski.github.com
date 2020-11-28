@@ -192,7 +192,7 @@ Dojechaliśmy do plaży w [Kamionkach][wiki-kamionek] gdzie zrozumiałem że nie
 dużo czasu. Ruszyliśmy na północ przez [Łosośniki][wiki-lososniki].
 Trochę czasu "zmarnowaliśmy" na zdjęcia obniżenia terenu po lewej (na zachód).
 
-{% photo "IMGP6868raw1.jpg","Droga do Targownicy","timeline" %}
+{% photo "IMGP6868raw1.jpg","Droga do Targownicy","tag:timeline" %}
 
 Od teraz jechaliśmy szybko i sprawnie. Celem była stacja w [Wydartowie][wiki-wydartowo].
 Ostatnie 2.5km musieliśmy przejechać po drodzę 15-ce denerwując kierowców,

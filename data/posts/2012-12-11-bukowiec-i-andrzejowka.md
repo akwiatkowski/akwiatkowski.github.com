@@ -47,7 +47,7 @@ Ruszyliśmy dalej w kierunku [Sokołowska][wiki-sokolowsko] idąc ulicą Główn
 gór. [Sokołowsko][wiki-sokolowsko] okazało być się najbardziej zapomnianą miejscowością sudecką jaką widziałem.
 To znaczy widziałem dużo zapomnianych, ale widać że kiedyś ta miejscowość żyła, a teraz prawie nic się tam nie dzieje.
 
-{% photo "IMGP6295b.jpg","Zimowe podejście na Bukowiec" %}
+{% photo "IMGP6295b.jpg","Zimowe podejście na Bukowiec","tag:good" %}
 
 Idąc dalej opuszczaliśmy [Sokołowsko][wiki-sokolowsko] i zaczynało się podejście na [Bukowiec][wiki-bukowiec]. W lecie idzie się
 tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
@@ -55,17 +55,17 @@ tam pół godziny, ale w zimie z tego zrobiły się prawie 2 godziny.
 Niby tylko dzień różnicy i chyba 100 metrów wyżej, ale różnica widoczna od razu. Wszystkie drzewa
 wokoło były pięknie ośnieżone, co doskonale widać na zdjęciach.
 
-{% photo "IMGP6321d.jpg","Białe drzewa" %}
+{% photo "IMGP6321d.jpg","Białe drzewa","tag:good" %}
 
 Cały czas tego totalny spokój, zero wiatru, zero dźwięków, oraz śladów na śniegu. Nie muszę mówić że na szlaku nie
 spotkaliśmy nikogo. Bardzo bym się ździwił, jakby było inaczej.
 
-{% photo "IMGP6345b.jpg","Szlak dźwiękowej pustki" %}
+{% photo "IMGP6345b.jpg","Szlak dźwiękowej pustki","tag:good,tag:best" %}
 
 Idąc dalej zauważyliśmy tablice ostrzegawcze pobliskiej kopalni. Istnienie i rozwój tej kopalni zagrażało
 schronisku [Andrzejówka][wiki-andrzejowka], do której się kierowaliśmy.
 
-{% photo "IMGP6482b.jpg","Gęsty oszroniony las na zboczach Gór Kamiennych","timeline" %}
+{% photo "IMGP6482b.jpg","Gęsty oszroniony las na zboczach Gór Kamiennych","tag:timeline,tag:good" %}
 
 Na powyższym zdjęciu widać jak szlak czasami był widoczny. Oznakowania również były
 czasem ciężko widoczne przez oszronione drzewa.

@@ -41,7 +41,7 @@ Dostałem informację o utrudnieniach na drodzę i reszta ludzi przyjedzie z op�
 Wyciągnąłem statyw i zacząłem robić zdjęcia w okolicy stacji. Te 20 minut
 upłynęło bardzo szybko.
 
-{% photo "IMGP7406raw1.jpg","Dojazd do Kłodzko Główne","timeline" %}
+{% photo "IMGP7406raw1.jpg","Dojazd do Kłodzko Główne","tag:timeline" %}
 
 Ruszyliśmy samochodem na południę w stronę [Międzylesia][wiki-miedzylesie] jadąc
 drogą [33][wiki-33].

@@ -41,14 +41,14 @@ Szczegóły
 
 W planach była chęć wejścia na [Lackową][wiki-lackowa], jednak niepewność pogody spowodowała że opuściliśmy sobie ten pomysł.
 
-{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej","timeline" %}
+{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej","tag:timeline" %}
 
 Wyruszyliśmy do [Hańczowej][wiki-hanczowa] i następnie na zachód [Głównym Szlakiem Beskidzkim][wiki-gsb]
 aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak.
 Tą drogą kierowaliśmy się już do
 [Wysowej][wiki-wysowa] przez [Hutę Wysowską][wiki-huta-wysowska].
 
-{% photo "IMGP8093b.jpg","Zieleń w pełni" %}
+{% photo "IMGP8093b.jpg","Zieleń w pełni","tag:good" %}
 
 Lekki teren, spokojnie dałoby się tam pojeździć rowerem. Klimatyczne odludne miejsca.
 

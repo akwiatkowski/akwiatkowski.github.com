@@ -62,7 +62,7 @@ było około 11-tej w kierunku [Tczewa][wiki-tczew],
 a dokładniej do [Piesienicy][wiki-piesienica]. Spodobał mi się
 ten przystanek kolejowy.
 
-{% photo "IMGP8890raw1.jpg","Okolica Starego Lasu","timeline" %}
+{% photo "IMGP8890raw1.jpg","Okolica Starego Lasu","tag:timeline" %}
 
 Gdy wysiedliśmy przed 12-tą musieliśmy kierować się na południe
 aż do obniżenia w okolicy strumienia Piesienica.
@@ -75,7 +75,7 @@ Jechaliśmy głównie w lesie chociaż czasami mijaliśmy pola.
 Właśnie te drogi przez pola są według mnie najpiękniejszymi trasami
 na rower.
 
-{% photo "IMGP8904raw1.jpg","Droga do Sumina","timeline" %}
+{% photo "IMGP8904raw1.jpg","Droga do Sumina","tag:timeline" %}
 
 Dotarliśmy do [Sucumina][wiki-sucumin], z którego następnie kierowaliśmy się
 dalej na południe do [Sumina][wiki-sumin]. Jechaliśmy asfaltem.
@@ -94,21 +94,21 @@ Wybraliśmy zielony szlak rowerowy, którym z południowej strony objechaliśmy
 Jezioro Sumińskie do [Szteklina][wiki-szteklin].
 Szlak ten był ciekawy - nie tylko dzięki polom.
 
-{% photo "IMGP8919raw1.jpg","Zielona pola wokół Sumina","timeline" %}
+{% photo "IMGP8919raw1.jpg","Zielona pola wokół Sumina","tag:timeline" %}
 
 Droga do [Lubichowa][wiki-lubichowo] opisałem
 [tutaj]({% post_url 2018-05-02-dojazd-na-kociewie %}).
 Obiad zjedliśmy w tym samym miejscu w [Lubichowie][wiki-lubichowo] i po
 40-50 minutach ruszyliśmy dalej.
 
-{% photo "IMGP8932raw1.jpg","Droga wokół zielonych drzew","timeline" %}
+{% photo "IMGP8932raw1.jpg","Droga wokół zielonych drzew","tag:timeline" %}
 
 Zaproponowałem abyśmy wracali pociągiem o 16:30 a nie o 17-tej w obawie,
 że pociąg jadący z [Gdańska][wiki-gdansk] może mieć więcej rowerów i możemy się
 nie zabrać. Kolejny pociąg byłby 2 godziny później a chcieliśmy jeszcze
 odpocząć i spakować się wieczorem.
 
-{% photo "IMGP8936raw1.jpg","Kwitnące drzewo","timeline" %}
+{% photo "IMGP8936raw1.jpg","Kwitnące drzewo","tag:timeline" %}
 
 Aby wrócić inaczej ruszyliśmy drogą 214 w stronę [Borzechowa][wiki-borzechowo].
 

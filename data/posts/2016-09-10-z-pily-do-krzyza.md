@@ -100,7 +100,7 @@ minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
 Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
 w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
 
-{% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy","timeline" %}
+{% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy","tag:timeline" %}
 
 W [Łomnicy][wiki-lomnica] skręciłem na zachód. Oczywiście cały czas jechałem
 tym samym szlakiem - [R1][wiki-r1]. Podobały mi się domy po obu stronach drogi,

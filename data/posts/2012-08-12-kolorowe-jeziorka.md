@@ -55,11 +55,11 @@ widać z [Krzyżnej Górę][wiki-krzyzna], co najwyżej z [Sokolika][wiki-sokoli
 Wracając do schroniska zacząłem robić zdjęcia poruszającym się porannym mgłom i zaciekawiło mnie jak
 szybko się widok zmieniał - jak szybko one się przesuwały.
 
-{% photo "IMGP7844b.jpg","Chmury o wschodzie słońca" %}
+{% photo "IMGP7844b.jpg","Chmury o wschodzie słońca","tag:good" %}
 
 A poniższe zdjęcie pokazuje jak wyglądał las w okolicach schroniska [Szwajcarki][wiki-szwajcarka].
 
-{% photo "IMGP7875b.jpg","Mgliste okolice Szwajcarki i Krzyżnej Góry" %}
+{% photo "IMGP7875b.jpg","Mgliste okolice Szwajcarki i Krzyżnej Góry","tag:good" %}
 
 Wróciliśmy spać i wstaliśmy po 9-tej. Było już zdecydowanie ładniej, zero śladów wczorajszej pogody -
 dobry słoneczny dzień. Ponownie wyruszyliśmy na [Krzyżną Górę][wiki-krzyzna].
@@ -77,7 +77,7 @@ nie jest najlepszym pomysłem. Do listy zakupów dorzuciłem plecak na wycieczki
 
 Szliśmy szlakiem żółtym do [Trzcińska][wiki-trzcinsko]. Miejscowość ta nazywana jest "San Fran Trzcińsko".
 
-{% photo "IMGP8131b.jpg","Snopki niedaleko stacji kolejowej w Trzcińsku","timeline" %}
+{% photo "IMGP8131b.jpg","Snopki niedaleko stacji kolejowej w Trzcińsku","tag:timeline" %}
 
 Dotarliśmy kilkanaście minut przed odjazdem pociągu w kierunku [Marciszowa][wiki-marciszow]. Czekamy i czekamy.
 Nic nie jedzie.
@@ -88,7 +88,7 @@ co tu się dzieje, i że nie ma szans aby ci biedni zwykli ludzie się połapali
 zatrzymać, to dostaję informację o remoncie mostu i najbliższe miejsce jest 3km gdzieś. Czekamy na kolejny pociąg
 i jedziemy do [Jeleniej Góry][wiki-jelenia].
 
-{% photo "IMGP8172b.jpg","Widok na Sokolik" %}
+{% photo "IMGP8172b.jpg","Widok na Sokolik","tag:good" %}
 
 Tam przerwa aby coś zjeść i chwilę później lecimy na powrotny pociąg, tym razem już do [Marciszowa][wiki-marciszow]. Jestem
 pewien że pierwsze P w skrócie PKP musi oznaczać słowo *przygoda*.
@@ -108,7 +108,7 @@ całe [Sudety][wiki-sudety].
 Największą ciekawostką [Wieściszowic][wiki-wiesciszowice] jest drewniany dom, nr 61. Bo jest stary, ładny,
 zadbany i drewniany.
 
-{% photo "IMGP8353b.jpg","Żółte Jeziorko" %}
+{% photo "IMGP8353b.jpg","Żółte Jeziorko","tag:good" %}
 
 Poniżej Niebieskie Jeziorko, jednak jestem niezadowolony ze zdjęć, jakie zrobiłem jeziorkom.
 Żadne nie podoba mi sie wystarczająco.

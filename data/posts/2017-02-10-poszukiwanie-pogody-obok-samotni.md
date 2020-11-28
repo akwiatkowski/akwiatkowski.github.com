@@ -70,7 +70,7 @@ Przez całą drogę bardzo mocno wiało. Drobinki lodu uderzały mnie w twarz.
 
 Wróciliśmy tą samą drogą do [Domu Śląskiego][wiki-dom-slaski].
 
-{% photo "IMGP2633raw1.jpg","Okolice Strzechy Akademickiej","timeline" %}
+{% photo "IMGP2633raw1.jpg","Okolice Strzechy Akademickiej","tag:timeline" %}
 
 Mój pokój był na południowo-wschodnim rogu [schroniska][wiki-dom-slaski].
 Od południa bardzo mocno wiał wiatr. W nocy było mi zimno, ale nie pomyślałem

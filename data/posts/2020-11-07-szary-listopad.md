@@ -39,7 +39,7 @@ Jesień powoli się kończy a obostrzenia związane z epidemią COVID19 są cora
 Chcąc chociaż trochę wykorzystać tą porę roku ruszyliśmy w okolicę
 [Głębocka][wiki-glebocko] obok [Łopuchowa][wiki-lopuchowo] na krótki spacer.
 
-{% photo "2020_11_07__15_35_DSC06148.jpg","Jesienny las w Głębocku","timeline" %}
+{% photo "2020_11_07__15_35_DSC06148.jpg","Jesienny las w Głębocku","tag:timeline" %}
 
 # Opis trasy
 
@@ -54,7 +54,7 @@ To nie był idealny dzień. Pogoda była dość mało atrakcyjna ale przynajmnie
 Było tak szaro-smutno-depresyjnie, że sam ten krótki wyjazd nie miał
 dużego sensu - ale zawsze zdarzają się wyjątki.
 
-{% photo "2020_11_07__15_43_DSC06168.jpg","Późnojesienna droga","timeline" %}
+{% photo "2020_11_07__15_43_DSC06168.jpg","Późnojesienna droga","tag:timeline" %}
 
 Zwyczajna proza życia uniemożliwiła szybki wyjazd i byliśmy dość późno.
 Chociaż nie miałem konkretnie ustalonego celu to wiedziałem tylko który
@@ -65,13 +65,13 @@ region mnie interesuje.
 Okolice [Murowanej Gośliny][wiki-murowana-goslina] są w mojej ocenie ładniejsze
 niż, przykładowo, okolice [Pobiedzisk][wiki-pobiedziska].
 
-{% photo "2020_11_07__15_53_DSC06191.jpg","Bogatka szukająca pożywienia" %}
+{% photo "2020_11_07__15_53_DSC06191.jpg","Bogatka szukająca pożywienia","tag:bird" %}
 
 Trochę zabawne jest to, że spacerowaliśmy tutaj dokładnie
 [trzy lata temu]({% post_url 2017-11-05-lesne-okolice-lopuchowa %}).
 Tamtego dnia pogoda była znacznie lepsza a wycieczka była również dłuższa.
 
-{% photo "2020_11_07__16_07_DSC06239.jpg","Jesienny las","timeline" %}
+{% photo "2020_11_07__16_07_DSC06239.jpg","Jesienny las","tag:timeline,tag:good" %}
 
 Gdybym i tak tego dnia mógł wyruszyć wcześniej, to nie wiem czy przy tej pogodzie
 bym miał chęć spacerować znacznie dłużej.
@@ -92,14 +92,14 @@ się przygotowywała na zimę, jednak teraz zimy nie będzie.
 Widziałem [bogatkę][wiki-bogatka] i
 [modraszkę][wiki-modraszka] jak szukają pożywienia na drzewie.
 
-{% photo "2020_11_07__16_36_DSC06295.jpg","Stare drzewo" %}
+{% photo "2020_11_07__16_36_DSC06295.jpg","Stare drzewo","tag:good" %}
 
 Dotarliśmy nad jezioro i tam po rozmowie z lokalnym wędkarzem postanowiliśmy wracać
 wzdłuż tego jeziora, a nie tą samą drogą którą przyszliśmy. Powiedział nam, że widok
 komarów w listopadzie jest czymś dziwnym. Zastanawiałem się, jak nadchodzące zimy
 go jeszcze bardziej zaskoczą.
 
-{% photo "2020_11_07__16_37_DSC06304.jpg","Dzięciął" %}
+{% photo "2020_11_07__16_37_DSC06304.jpg","Dzięciął","tag:bird" %}
 
 Zobaczyłem bardzo duży i piękny dąb. Gdy takie drzewa widziałem
 to były one oznaczone jako pomnikami przyrody i były chronione prawnie.

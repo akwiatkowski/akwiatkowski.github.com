@@ -55,12 +55,12 @@ to nawet może być ciekawie doświadczenie.
 
 Wyruszyliśmy zbyt późno, bo po 9:30. To było naszym pierwszym błędem.
 
-{% photo "2018_12_31__10_08__C319083.jpg","Okolica Starego Waliszowa","timeline" %}
+{% photo "2018_12_31__10_08__C319083.jpg","Okolica Starego Waliszowa","tag:timeline" %}
 
 Planowaliśmy przejechać granicę w [Kudowie Zdrój][wiki-kudowa-zdroj],
 czyli jechaliśmy na północ, a następnie przez obwodnicę [Kłodzka][wiki-klodzko].
 
-{% photo "2018_12_31__10_11__C319099.jpg","Wiadukt kolejowy we wsi Żelazno","timeline" %}
+{% photo "2018_12_31__10_11__C319099.jpg","Wiadukt kolejowy we wsi Żelazno","tag:timeline" %}
 
 Jak na złość, właśnie tego dnia była najlepsza pogoda podczas tego wyjazdu. Niebo było w
 większości bezchmurne. Dobra pogoda jest zjawiskiem bardzo rzadkim ostatnimi czasy.
@@ -78,7 +78,7 @@ by była w stanie wykonywać takie inwestycje jak ten wiadukt.
 [Linia 309][wiki-linia-309] ma znaczenie tylko miejscowe, jest jednotorowa na całej
 długości i w ciągu dnia roboczego przejeżdża tam 7 par pociągów ()średnio co 2 godziny).
 
-{% photo "2018_12_31__11_29__C319196.jpg","Pola w okolicy Česká Skalice","timeline" %}
+{% photo "2018_12_31__11_29__C319196.jpg","Pola w okolicy Česká Skalice","tag:timeline" %}
 
 Przy przejściu granicznym wymieniłem 150zł na korony czeskie i zjadłem coś lekkiego.
 Początkowo myślałem, że to tylko moje łakomstwo się odezwało, jednak to była bardzo dobra
@@ -86,7 +86,7 @@ decyzja.
 
 Od granicy z [Czechami][wiki-czechy] do [Pragi][wiki-praga] mieliśmy ponad 140km drogi.
 
-{% photo "2018_12_31__11_42__C319243.jpg","Stawek","timeline" %}
+{% photo "2018_12_31__11_42__C319243.jpg","Stawek","tag:timeline" %}
 
 Nie rozumiem dlaczego usunięto tory z [Kudowy Zdrój][wiki-kudowa-zdroj]
 do [Czech][wiki-czechy]. Analogiczna sytuacja jest w okolicy [Ścinawki Górnej][wiki-scinawka-gorna].

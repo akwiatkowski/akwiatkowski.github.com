@@ -54,7 +54,7 @@ Postanowiliśmy, że pójdziemy zielonym szlakiem pieszo-rowerowym,
 tak jak [dzień wcześniej]({% post_url 2017-12-30-wschod-na-szczelincu-wielkim %})
 wracaliśmy.
 
-{% photo "IMGP4100raw1.jpg","Jesienna zima w Pasterce","timeline" %}
+{% photo "IMGP4100raw1.jpg","Jesienna zima w Pasterce","tag:timeline" %}
 
 Pogoda zaczęła się zmieniać. Śnieg topniał i pojawiła się mgła.
 
@@ -83,7 +83,7 @@ Nowy Rok
 
 Udaliśmy się w stronę granicy żółtym szlakiem pieszym. Śniegu już nie było.
 
-{% photo "IMGP4233raw1.jpg","Ruiny starej stodoły w Pasterce","timeline" %}
+{% photo "IMGP4233raw1.jpg","Ruiny starej stodoły w Pasterce","tag:timeline" %}
 
 Widzieliśmy coś co było kiedyś stodołą i przez polę wróciliśmy do
 [schroniska][wiki-pasterka-schronisko].

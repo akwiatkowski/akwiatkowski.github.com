@@ -154,7 +154,7 @@ niż zjeżdzamy.
 Co do komunikacji miejskiej to dojeżdza tutaj autobus gdyńskiego PKS -
 linia [632][linia-632].
 
-{% photo "IMGP7084raw1.jpg","Pola niedaleko miejscowości Szemud","timeline" %}
+{% photo "IMGP7084raw1.jpg","Pola niedaleko miejscowości Szemud","tag:timeline" %}
 
 Przejechaliśmy obok Żwirowni Głazica i chyba przez moje niezatrzymanie się
 dojechaliśmy do miejscowości
@@ -164,7 +164,7 @@ Chwilę wytchnienia od klimatu podmiejskości poczułem w
 [Szemudzkiej Hucie][wiki-szemudzka-huta] pomimo kilku
 niedawno ukończonych domów.
 
-{% photo "IMGP7112raw1.jpg","Zielone pagórki niedaleko Trzech Rzek","timeline" %}
+{% photo "IMGP7112raw1.jpg","Zielone pagórki niedaleko Trzech Rzek","tag:timeline" %}
 
 Za [Jelonkiem][wiki-jelonek] jechaliśmy ulicą Dębową po wystarczająco
 ubitym piasku a następnie lasem dojechaliśmy do [Trzech Rzek][wiki-trzy-rzeki].

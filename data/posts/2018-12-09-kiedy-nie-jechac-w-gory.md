@@ -55,13 +55,13 @@ zrozumiałem będąc tam jaki to może mieć wpływ.
 
 ### Wejście na Szrenicę
 
-{% photo "2018_12_08__10_01__C085940.jpg","Rzeka Kamieńczyk","timeline" %}
+{% photo "2018_12_08__10_01__C085940.jpg","Rzeka Kamieńczyk","tag:timeline" %}
 
 Nie mogliśmy wjechać na [Szrenicę][wiki-szrenica] z powodu silnego wiatru i
 słabej widoczności. Plan przejścia pętli przez grań [Karkonoszy][wiki-karkonosze]
 z powodu pogody i mojego stanu był niemożliwy.
 
-{% photo "2018_12_08__10_23__C085954.jpg","Droga ze schroniska Kamieńczyk","timeline" %}
+{% photo "2018_12_08__10_23__C085954.jpg","Droga ze schroniska Kamieńczyk","tag:timeline" %}
 
 Postanowiliśmy odwiedzić [wodospad Kamieńczyka][wiki-wodospad-kamienczyka].
 Wejście w jego okolice jest płatne.
@@ -137,7 +137,7 @@ Technicznie byliśmy cały czas w [Szklarskiej Porębie][wiki-szklarska-poreba]
 jednak klimat tego miejsca bardziej wskazywał na jakąś mniej popularną,
 sudecką wieś.
 
-{% photo "2018_12_09__13_27__C096273.jpg","Czy to nadal Szklarska Poręba?","timeline" %}
+{% photo "2018_12_09__13_27__C096273.jpg","Czy to nadal Szklarska Poręba?","tag:timeline" %}
 
 Wybraliśmy ścieżkę na lewo i idąc zboczem dotarliśmy do Chaty Izerskiej.
 Przedostaliśmy się do głównej drogi i kierowaliśmy się
@@ -160,21 +160,21 @@ na tle ośnieżonych gór.
 
 Tym razem udało mi się zrobić kilka ciekawych zdjęć z pociągu.
 
-{% photo "2018_12_10__14_59__C106458.jpg","Okolice Witkowa bez śniegu","timeline" %}
+{% photo "2018_12_10__14_59__C106458.jpg","Okolice Witkowa bez śniegu","tag:timeline" %}
 
 Przykładem tutaj jest porównanie okolicy [Witkowa][wiki-witkow] przed opadami śniegu i
 w trakcie. Bardzo mi się podobało jak padał śnieg i chętnie bym więcej
 takich zdjęć zrobił, tylko nie wiem jak do tego podejść.
 
-{% photo "2018_12_10__14_59__C106462.jpg","Okolice Witkowa ze śniegiem","timeline" %}
+{% photo "2018_12_10__14_59__C106462.jpg","Okolice Witkowa ze śniegiem","tag:timeline" %}
 
 W okolicy [Czarnego Boru][wiki-czarny-bor] bardzo mi się spodobało stopniowe
 przejście między krajobrazem późnojesiennym a zimowym. Jakie to jest ciekawe,
 że wystarczy kilkanaście metrów wysokości aby całkowicie zmienić "porę roku".
 
-{% photo "2018_12_10__15_01__C106475.jpg","Okolica Czarnego Boru","timeline" %}
+{% photo "2018_12_10__15_01__C106475.jpg","Okolica Czarnego Boru","tag:timeline" %}
 
 Ostatnie zdjęcie zrobiłem przed dojazdem do [Boguszowa-Gorce][wiki-boguszow-gorce].
 Spodobało mi się samotne drzewo wokół przyschniętej trawy.
 
-{% photo "2018_12_10__15_09__C106527.jpg","Samotne drzewo w okolicy Boguszowa-Gorce","timeline" %}
+{% photo "2018_12_10__15_09__C106527.jpg","Samotne drzewo w okolicy Boguszowa-Gorce","tag:timeline" %}

@@ -60,7 +60,7 @@ za którym następną stacją są [Kulice][wiki-kulice] - tam wysiadałem.
 Wysiadłem. I teraz gdzie iść? Myślałem o tym aby przejść przez pole do wsi
 [Gętomie][wiki-getomie]. Na mapie była ścieżka przez pole.
 
-{% photo "\_9060021b.jpg","Przedjesienne Kulice","timeline" %}
+{% photo "\_9060021b.jpg","Przedjesienne Kulice","tag:timeline" %}
 
 Ruszyłem w stronę centrum [wioski][wiki-kulice].
 Gdy dotarłem do wspomnianej powyżej ścieżki
@@ -74,12 +74,12 @@ Postanowiłem zmienić plany. Może warto by było pójść na wschód w stronę
 rzeki [Wierzyca][wiki-wierzyca-rzeka]. Rzeka jest położona niecałe 20m
 niżej niż tory kolejowe.
 
-{% photo "\_9060048b.jpg","Stocki Młyn","timeline" %}
+{% photo "\_9060048b.jpg","Stocki Młyn","tag:timeline" %}
 
 Sama wieś [Kulice][wiki-kulice] nie była jakoś specjalnie ciekawa, chociaż
 nie chciałem robić dużo zdjęć przy ludziach.
 
-{% photo "\_9060067.jpg","Rzeka Wierzyca","timeline" %}
+{% photo "\_9060067.jpg","Rzeka Wierzyca","tag:timeline" %}
 
 Idąc w dół spotkałem po prawej stronie drogi kota. Przy ogniskowej 100mm
 ledwo udało mi się podejść do niego bez straszenia. Większość kotów się boi obcych

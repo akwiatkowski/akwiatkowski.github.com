@@ -45,37 +45,37 @@ W [Międzylesiu][wiki-miedzylesie] wysiedliśmy około 8 rano. Jest to ostatni p
 [Kłodzka][wiki-klodzko] w kierunku południowym, chociaż są połączenia, które
 zatrzymują się za granicą Polski.
 
-{% photo "IMGP6740b.jpg","Widok na Międzylesie","timeline" %}
+{% photo "IMGP6740b.jpg","Widok na Międzylesie","tag:timeline" %}
 
 Powoli przeszliśmy przez miasto i kierowaliśmy się niebieskim szlakiem w stronę
 [Schroniska "Na Śnieżniku"][wiki-schronisko],
 które w rzeczywistości jest trochę pod nim.
 
-{% photo "IMGP6749b.jpg","Masyw Śnieżnika","timeline" %}
+{% photo "IMGP6749b.jpg","Masyw Śnieżnika","tag:timeline" %}
 
 Początkowo szliśmy po terenie w miarę płaskim, przez pola, jednocześnie widząc przed sobą góry
 [Masywu Śnieżnika][wiki-masyw-snieznika]. Minęliśmy wieś [Szklarnia][wiki-szklarnia].
 
-{% photo "IMGP6853b.jpg","Niebieski szlak w stronę Jodłowa","timeline" %}
+{% photo "IMGP6853b.jpg","Niebieski szlak w stronę Jodłowa","tag:timeline,tag:good" %}
 
 Tereny te bardzo mi się podobały. Lubię delikatne pagórki oraz pola i wyższe góry widoczne dalej na horyzoncie.
 
 Za wsią
 [Szklarnia][wiki-szklarnia] rozpoczęło się chwilowe, lekkie podejście i znowu chwila spaceru po  płaskim.
 
-{% photo "IMGP6857b.jpg","Wieś Jodłów","timeline" %}
+{% photo "IMGP6857b.jpg","Wieś Jodłów","tag:timeline" %}
 
 Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal mijaliśmy domy, pola, ale już góry były bliżej
 i pola nie są takie już płaskie jak wcześniej. Cały czas było ciepło.
 
-{% photo "IMGP6911b.jpg","Mijając Jodłów","timeline" %}
+{% photo "IMGP6911b.jpg","Mijając Jodłów","tag:timeline,tag:good,tag:best" %}
 
 Poniżej idealna droga na rower. Kiedyś tam jeszcze powrócę.
 
 Przyznam się, że nie pamiętam w którą stronę wykonałem poniższe zdjęcie. Wydaję mi się, że było to na północ i lekko na
 wschód. Patrząc po cieniach drzew to się zgadza.
 
-{% photo "IMGP6915raw_c.jpg","Niebieski szlak pieszy do Międzylesia","timeline" %}
+{% photo "IMGP6915raw_c.jpg","Niebieski szlak pieszy do Międzylesia","tag:timeline,tag:good" %}
 
 W najwyższej partii wioski jest [Leśniczówka Ostoja][ostoja], w której kupiliśmy herbatę i wodę. Była to
 mądra decyzja. Tego dnia nie wiedziałem, że trzy lata później będę nocował w tym miejscu.

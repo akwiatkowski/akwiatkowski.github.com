@@ -49,7 +49,7 @@ Oprócz wieży widokowej niewiele istotnego widzieliśmy po drodze.
 Chcieliśmy dostać się przez [Dąbroszyn][wiki-dabroszyn] do [Kamienia Małego][wiki-kamien-maly].
 Zaparkowaliśmy obok przystanku kolejowego przy [linii 203][wiki-linia-203].
 
-{% photo "\_9230029_01.jpg","Przekraczając pierwszy strumień","timeline" %}
+{% photo "\_9230029_01.jpg","Przekraczając pierwszy strumień","tag:timeline" %}
 
 Zgodnie z mapą, jeden z ciekawych punktów do obserwacji ptaków znajdował się
 w okolicy. Musieliśmy ruszyć na południe.
@@ -66,7 +66,7 @@ Okazało się, że ścieżka edukacyjna Olszynki jest w trakcie remontu. Oznacza
 wszędzie i w każdym miejscu można je spotkać, tylko bardzo chcieliśmy udać się
 na przygotowaną czatownie.
 
-{% photo "\_9230088.jpg","Kolejny strumień","timeline" %}
+{% photo "\_9230088.jpg","Kolejny strumień","tag:timeline" %}
 
 Zaskoczyły mnie tereny rolnicze na obszarze [parku narodowego][wiki-park-ujscie-warty].
 
@@ -85,7 +85,7 @@ jest tylko 4km w linii prostej.
 
 Powoli zaczął padać deszcz, zgodnie z prognozą pogody.
 
-{% photo "\_9230027.jpg","Snopki i podwyższenie terenu na północ od Warty","timeline" %}
+{% photo "\_9230027.jpg","Snopki i podwyższenie terenu na północ od Warty","tag:timeline" %}
 
 Musieliśmy już wracać gdyż deszcz powoli padał coraz silniej.
 Wiedziałem o tym ale myślałem, że prognoza pogody będzie się trochę mylić na

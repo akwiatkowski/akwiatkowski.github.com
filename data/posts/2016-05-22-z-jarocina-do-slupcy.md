@@ -92,7 +92,7 @@ W [Przybysławie][wiki-przybyslaw] widzieliśmy dużo budynków gospodarczych.
 Wyglądały one raczej na PGR niż budynki przemysłowe, ale pewne jest, że
 najlepszy czas mają za sobą.
 
-{% photo "IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej","timeline" %}
+{% photo "IMGP0453raw1.jpg","Rzeka Prosna obok Rudy Komorskiej","tag:timeline" %}
 
 Przejechaliśmy mostem w stronę [Rudy Komorskiej][wiki-ruda-komorska] - kolejna
 wioska w podobnym klimacie.

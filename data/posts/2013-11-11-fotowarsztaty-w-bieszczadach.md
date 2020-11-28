@@ -32,7 +32,7 @@ Szczegóły
 Dzień wcześniej przed naszym przyjazdem ponoć było widać gwiazdy na niebie.
 Jak my dojechaliśmy to zdecydowanie już nic nie było widać.
 
-{% photo "IMGP0003raw1.jpg","Dojazd pociągiem do Krakowa" %}
+{% photo "IMGP0003raw1.jpg","Dojazd pociągiem do Krakowa","tag:good" %}
 
 Ponownie miałem okazję przypomnieć sobie jak to jest zasypiać w środku dnia. Było to jadąc z Krakowa
 samochodem. Podobało mi się, że za [Duklą][wiki-dukla] teren robił się już ciekawszy - bardziej pofalowany, dzikszy.
@@ -41,28 +41,28 @@ samochodem. Podobało mi się, że za [Duklą][wiki-dukla] teren robił się ju�
 
 Najciekawszym dniem miał być drugi, kiedy planowany był zachód słońca na [Połoninie Caryńskiej][wiki-carynska].
 
-{% photo "IMGP0089raw1.jpg","Okolice wsi Równia","timeline" %}
+{% photo "IMGP0089raw1.jpg","Okolice wsi Równia","tag:timeline" %}
 
 Przy tak słabej pogodzie koncentrowaliśmy się na robieniu zdjęć cerkwiom.
 
-{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia" %}
+{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia","tag:good" %}
 
 Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie widzą w tym zdjęciu.
 
-{% photo "IMGP0430raw1.jpg","Trawa na połoninie" %}
+{% photo "IMGP0430raw1.jpg","Trawa na połoninie","tag:good" %}
 
 Czasami ciekawe rzeczy można znaleźć bliżej, tam gdzie się ich nie szuka, tak jak małe kropelki.
 
-{% photo "IMGP0546raw1.jpg","Kropelki" %}
+{% photo "IMGP0546raw1.jpg","Kropelki","tag:good" %}
 
 A tak wyglądały okolice szlaku dojściowego na [połoninę][wiki-carynska].
 
-{% photo "IMGP0422raw3.jpg","Mglisty las" %}
+{% photo "IMGP0422raw3.jpg","Mglisty las","tag:good" %}
 
 Pogoda niedopisała, jednak jeżdząc obwodnicą bieszczadzką mogłem poczuć klimat tych miejsc.
 Kiedyś powrócę, ale na razie nie miałem na to jeszcze czasu.
 
-{% photo "IMGP0592raw2.jpg","Kot w Myczkowicach","tag:cat" %}
+{% photo "IMGP0592raw2.jpg","Kot w Myczkowicach","tag:cat,tag:good" %}
 
 A na koniec kot! Kot kręcił się w okolicy [miniatur cerkwi][mini-cerkwie].
 

@@ -41,7 +41,7 @@ Szczegóły
 Dojechaliśmy pociagiem do [Obornik][wiki-oborniki], a następnie kierowaliśmy się w stronę
 [Łukowa][wiki-lukowo]. Te 4km trasy musieliśmy przejechać po uczęszczanej drodze.
 
-{% photo "IMGP4074raw1.jpg","Wieś Łukowo","timeline" %}
+{% photo "IMGP4074raw1.jpg","Wieś Łukowo","tag:timeline" %}
 
 W [Łukowie][wiki-lukowo] skręciliśmy na drogą polną, którą jechaliśmy w kierunku
 do [Szymankowa][wiki-szymankowo]. Bardzo ciekawe jest oświetlenie drogi za pomocą
@@ -51,7 +51,7 @@ tak mało istotną drogę oświetlili w ten sposób.
 Następnie zjechaliśmy do [Śnieżycowego Jaru][wiki-sniezycowy-jar]. Akurat
 udało nam się trafić na czas kwitnięcia tych roślinek. Ludzi było tam całkiem sporo.
 
-{% photo "IMGP4084raw1.jpg","Śnieżycowy Jar z bliska" %}
+{% photo "IMGP4084raw1.jpg","Śnieżycowy Jar z bliska","tag:good" %}
 
 Ruszyliśmy dalej w stronę [Mściszewa][wiki-msciszewo] i dalej na południe znaną
 trasą. W [Biedrusku][wiki-biedrusko] podjechaliśmy do sklepu i po tym dalszy powrót do

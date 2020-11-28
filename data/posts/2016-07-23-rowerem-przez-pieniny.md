@@ -61,13 +61,13 @@ ale był duży.
 
 Dostaliśmy rowery, tylko mój miał krótką sztycę, ale lepsze to niż nic.
 
-{% photo "IMGP3592raw1.jpg","Widok na Tatry z Kluszkowców","timeline" %}
+{% photo "IMGP3592raw1.jpg","Widok na Tatry z Kluszkowców","tag:timeline" %}
 
 Zjechaliśmy przez centrum [Kluszkowców][wiki-kluszkowce] i ruszyliśmy w stronę
 [Czorsztyna][wiki-czorsztyn]. Czekał na nas podjazd, był on średni, ale
 tego dnia było bardzo ciepło, więc nie szaleliśmy.
 
-{% photo "IMGP3593raw1.jpg","Widok na pienińskie/gorczańskie wioski - Kluszkowce i Maniowy","timeline" %}
+{% photo "IMGP3593raw1.jpg","Widok na pienińskie/gorczańskie wioski - Kluszkowce i Maniowy","tag:timeline" %}
 
 
 Myślałem że [Czorsztyn][wiki-czorsztyn] będzie większą miejscowością, a tu
@@ -114,7 +114,7 @@ Przejechaliśmy przez [Pieniński Park Narodowy][wiki-pieniny-park] i czekał na
 lekki zjazd do [Czorsztyna][wiki-czorsztyn] gdzie zrobiliśmy dłuższą przerwę na
 obiad.
 
-{% photo "IMGP3618raw1.jpg","Pienińsko-gorczańskie wioski","timeline" %}
+{% photo "IMGP3618raw1.jpg","Pienińsko-gorczańskie wioski","tag:timeline" %}
 
 Wracaliśmy do [Maniowy][wiki-maniowy] i czekał na nas zjazd. Jadąc ostrożnie na
 nie swoim rowerze udało mi się osiągnąć prędkość 61.8km/h, co mnie bardzo

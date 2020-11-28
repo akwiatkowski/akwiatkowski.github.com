@@ -105,7 +105,7 @@ jak bardzo malowniczy jest ten teren: dużo pagórków i jezior. Chociaż
 montując teraz film większość nagranych filmików usuwam, gdyż nie podobają mi się,
 nie mają tego klimatu, który lubię podczas jeżdzenia.
 
-{% photo "IMGP6480raw1.jpg","Widok na Gothensee","timeline" %}
+{% photo "IMGP6480raw1.jpg","Widok na Gothensee","tag:timeline" %}
 
 Wyruszyliśmy dalej na południe wracając do Polski przez [Reetzow][wiki-reetzow].
 

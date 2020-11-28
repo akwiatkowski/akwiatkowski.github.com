@@ -94,7 +94,7 @@ zdjęcia na czarno-biały, eksperymentować, zobaczyć co się zmienia.
 Prawie w każdym wypadku zdjęcie dostaje "charakteru" jednak moja praktyczność
 lubi barwy, gdyż jest to istotny nośnik informacji.
 
-{% photo "P7010480_dark1.jpg.jpg","Idealnie złote zboże","timeline" %}
+{% photo "P7010480_dark1.jpg.jpg","Idealnie złote zboże","tag:timeline" %}
 
 Chciałem porobić zdjęcia zboża przed żniwami (ogólnie, niekoniecznie teraz).
 Tego dnia zboże miało ono idealnie

@@ -58,7 +58,7 @@ Po pewnym czasie minęliśmy już [wioskę][wiki-wysowa] i zaczęliśmy podchodz
 las, jak to bywa często w górach. A w [Beskidzie Niskim][wiki-beskid-niski] tym bardziej.
 Tam to widoków "w górze" jest mało. Co zrozumiałem na tej wycieczce.
 
-{% photo "IMGP5858b.jpg","Dzwon w Regietowie Wyżnym","timeline" %}
+{% photo "IMGP5858b.jpg","Dzwon w Regietowie Wyżnym","tag:timeline,tag:good" %}
 
 Przeszliśmy przez [Obycz][wiki-obycz] i kierowaliśmy się w stronę [Regietowa][wiki-regietow]. Po drodzę widzieliśmy
 jakąś zablokowaną terenówkę.

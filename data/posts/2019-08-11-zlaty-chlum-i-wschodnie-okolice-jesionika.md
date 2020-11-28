@@ -58,7 +58,7 @@ osobą dla tego miejsca.
 
 Po opuszczeniu parku kierowaliśmy się mało ciekawym szlakiem turystycznym.
 
-{% photo "2019_08_11__11_34_DSC08678.jpg","Barszcz zwyczajny" %}
+{% photo "2019_08_11__11_34_DSC08678.jpg","Barszcz zwyczajny","tag:good" %}
 
 Samo chodzenie po lesie nie jest jakoś specjalnie ciekawe, chociaż
 są wyjątki. Gdy piszę ten wpis wszyscy muszą żyć w społecznej izolacji związanej
@@ -87,12 +87,12 @@ dużej ilości drzew.
 
 Ciepło czułem już bardzo wyraźnie.
 
-{% photo "2019_08_11__13_27__8110344.jpg","Jesionik i Ceska Ves","timeline" %}
+{% photo "2019_08_11__13_27__8110344.jpg","Jesionik i Ceska Ves","tag:timeline" %}
 
 Celem na dzisiaj była wieża widokowa na [Złotym chlumie][wiki-zloty-chlum].
 
 
-{% photo "2019_08_11__13_29_DSC08722.jpg","Jesioniki i Lipova-Lazne" %}
+{% photo "2019_08_11__13_29_DSC08722.jpg","Jesioniki i Lipova-Lazne","tag:good" %}
 
 To w sumie było przewidywalne, że z takiej wieży widokowej zrobię dużo zdjęć.
 
@@ -126,7 +126,7 @@ Z kolei obywatele wybierają częściej własne produkty, które widocznie się
 odróżniają od ogólnoświatowych wersji. Dla mnie jest oczywiste że kofola jest lepsza
 od coli.
 
-{% photo "2019_08_11__14_31_DSC08750.jpg","Sucha trawa" %}
+{% photo "2019_08_11__14_31_DSC08750.jpg","Sucha trawa","tag:good" %}
 
 Od tego momentu zaczęliśmy schodzić. Schodzenie było raczej nudne.
 
@@ -147,7 +147,7 @@ W okolicy jest droga do miejscowości [Rejviz][wiki-rejviz], która,
 gdy patrzę na nią na mapie, mnie trochę ciekawi. Niestety nie planowaliśmy
 jej odwiedzić.
 
-{% photo "2019_08_11__16_25__8110732.jpg","Pszczoła na kwiatku" %}
+{% photo "2019_08_11__16_25__8110732.jpg","Pszczoła na kwiatku","tag:good" %}
 
 Opuściliśmy las. Zauważyłem ładne kwiatki i postanowiłem zrobić
 kilka zdjęć "makro". Założyłem Olympusa 40-150 który się całkiem dobrze

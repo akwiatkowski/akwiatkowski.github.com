@@ -48,7 +48,7 @@ miałem około pół godziny do zachodu słońca.
 
 Zrobiłem kilka zdjęć kaczkom. Łabędzi jeszcze nie było.
 
-{% photo "2019_03_07__17_38__3073929.jpg","Ptaki w parku na Dębcu","timeline" %}
+{% photo "2019_03_07__17_38__3073929.jpg","Ptaki w parku na Dębcu","tag:timeline" %}
 
 Zrobiłem zdjęcia malutkim pąkom, jednak już było na tyle ciemno i pochmurnie,
 że nie jestem z nich zadowolony.
@@ -92,13 +92,13 @@ Założyłem obiektyw 60mm macro i próbowałem robić zdjęcia śladów wiosny.
 Tego dnia rano pogoda była bardzo słoneczna, jednak gdy się "wykulałem z łóżka"
 pojawiły się chmury.
 
-{% photo "2019_03_10__11_24__3104592.jpg","Pojawiły się kolejne ślady wiosny","timeline" %}
+{% photo "2019_03_10__11_24__3104592.jpg","Pojawiły się kolejne ślady wiosny","tag:timeline" %}
 
 Idąc drogą w okolicy zauważyłem powyższy obiekt - jeszcze bardziej otwarte
 pąki. Zrobiłem kilka zdjęć, które pomimo mało oryginalnej tematyki,
 dobrze przedstawiają nadciągającą wiosnę.
 
-{% photo "2019_03_10__11_28__3104626.jpg","Zielone pąki się powiększyły przez noc","timeline" %}
+{% photo "2019_03_10__11_28__3104626.jpg","Zielone pąki się powiększyły przez noc","tag:timeline" %}
 
 Pąki/listki przez jedną noc zwiększyły się o kilka milietrów.
 

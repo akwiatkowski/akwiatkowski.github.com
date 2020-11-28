@@ -30,7 +30,7 @@ pois:
 
 [turkol]: http://www.turkol.pl/
 
-[wiki-piła]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
+[wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
 [wiki-stargard]: https://pl.wikipedia.org/wiki/Stargard
 [wiki-szczecinek]: https://pl.wikipedia.org/wiki/Szczecinek
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -59,7 +59,7 @@ pois:
 ## Wstęp
 
 Moja turystyka kolejowa to głównie jazda po mniej popularnych liniach kolejowych.
-O połączeniu [Piła][wiki-piła]-[Stargard][wiki-stargard] słyszałem, że jest
+O połączeniu [Piła][wiki-pila]-[Stargard][wiki-stargard] słyszałem, że jest
 bardzo ładna widokowo - ładniejsza od połączenia
 [Szczecinek][wiki-szczecinek]-[Stargard][wiki-stargard],
 dlatego postanowiłem skorzystać z oferty [Turkolu][turkol].
@@ -71,7 +71,7 @@ dlatego postanowiłem skorzystać z oferty [Turkolu][turkol].
 Wyjazdu z [Poznania][wiki-poznan] opisywać nie będę, ten fragment jest
 dla mnie mniej ciekawy.
 
-{% photo "2019_06_20__11_34_DSC07397.jpg","Okolica stacji Ostrówki","timeline" %}
+{% photo "2019_06_20__11_34_DSC07397.jpg","Okolica stacji Ostrówki","tag:timeline" %}
 
 Dopiero zbliżając się do
 [Chodzieży][wiki-chodziez] krajobraz stawał się ciekawszy.
@@ -146,14 +146,14 @@ trochę rozczarowany. Możliwe, że miałem zbyt duże oczekiwania.
 
 Może jakbym zwiedzał rowerem to bym zobaczył więcej ciekawych miejsc.
 
-{% photo "2019_06_20__15_39__6201880.jpg","Samotne drzewa","timeline" %}
+{% photo "2019_06_20__15_39__6201880.jpg","Samotne drzewa","tag:timeline" %}
 
 Dotarliśmy do [Kalisza Pomorskiego][wiki-kalisz-pomorski]. Stacja jest położona
 prawie 3km od centrum [miasta][wiki-kalisz-pomorski]. Bliżej centrum
 jest stacja [Kalisz Pomorski Miasto][wiki-kalisz-pomorski-miasto], przez który
 do 2013 można było dojechać do [Złocieńca][wiki-zlocieniec].
 
-{% photo "2019_06_20__15_46__6201908.jpg","Okolica Tuczna Krajeńskiego","timeline" %}
+{% photo "2019_06_20__15_46__6201908.jpg","Okolica Tuczna Krajeńskiego","tag:timeline" %}
 
 [Zachodniopomorskie][wiki-zachodniopomorskie] ma spore obszary mniej zaludnione
 przez co infrastruktura kolejowa nie jest tutaj w stanie idealnym. Z drugiej strony
@@ -179,7 +179,7 @@ tereny podmokłe w okolicy rzeki [Drawy][wiki-drawa].
 
 Gdyby nie bliskość drogi 10-tki te tereny mogłyby być naprawdę dzikie.
 
-{% photo "2019_06_20__16_57__6202072.jpg","Okolica Ognicy","timeline" %}
+{% photo "2019_06_20__16_57__6202072.jpg","Okolica Ognicy","tag:timeline" %}
 
 Dotarliśmy do [Recza][wiki-recz]. Ta miejscowość od dawna mnie ciekawi. Tutaj
 przystanek kolejowy jest również oddalony - około półtora kilometra od centrum.

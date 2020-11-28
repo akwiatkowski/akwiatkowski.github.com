@@ -48,7 +48,7 @@ czyli była to 6-7 rano. Był to wrzesień, wiec już oficjalnie po sezonie waka
 Następnie czekała nas jazda przez około godzinę małym, pełnym busem, stylem
 podhalańskim (na zachodzie używany jest skrót YOLO - you only live once).
 
-{% photo "IMGP1479.JPG","Poranny las tatrzański" %}
+{% photo "IMGP1479.JPG","Poranny las tatrzański","tag:good" %}
 
 Dalej spacerek po asfalcie. Z jednej strony spokojnie, nie za stromo, z drugiej strony trochę długo
 tego spacerku, a nic się nie dzieje. Tylko droga asfaltowa i las.
@@ -71,11 +71,11 @@ wyglądał aby był suchy.
 Po drodzę po prawej stronie mijaliśmy grań [Wołoszynu][wiki-woloszyn], który jest przedłużeniem szlaku [Orlej Perci][wiki-orla-perc].
 Od tego momentu ilość bodźców wizualnych jakie odbierałem była zbyt dużo. Widoki były zbyt ładne.
 
-{% photo "IMGP1719b.jpg","Widok na Dolinę Roztoki" %}
+{% photo "IMGP1719b.jpg","Widok na Dolinę Roztoki","tag:good" %}
 
 Dowiedziałem się, że na początku XX wieku był szlak tam - kontynuacja [Orlej Perci][wiki-orla-perc].
 
-{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka","timeline" %}
+{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka","tag:timeline,tag:good" %}
 
 Na pewno była przerwa w [schronisku][wiki-schron-5stawow], ale już nie pamiętam jak
 długo trwała. Dalej wyruszyliśmy niebieskim szlakiem przez
@@ -88,7 +88,7 @@ Na szlaku miejscami trzeba
 było uważać, nie było stromo, ale było wąsko i metr za szlakiem już było bardzo stromo.
 W końcu [Tatry][wiki-tatry], tu tak musi być.
 
-{% photo "IMGP1766b1.jpg","Morskie Oko" %}
+{% photo "IMGP1766b1.jpg","Morskie Oko","tag:good" %}
 
 Jakoś udało mi się zejść do okolicy [Morskiego Oka][wiki-moko]. Następnie jedzenie w przepełnionym schronisku.
 W końcu prawie każdy w polskich [Tatrach Wysokich][wiki-tatry-wysokie] idzie zobaczyć [Morskie Oko][wiki-moko] to i
@@ -100,7 +100,7 @@ i szliśmy w stronę parkingu na [Palenicy Białczańskiej][wiki-palenica-b], gd
 Następnie godzina jazdy powrotnej, dojście do bazy aby zabrać duże plecaki i spacer
 na dworzec.
 
-{% photo "IMGP1775b2.jpg","Morskie Oko z bliska" %}
+{% photo "IMGP1775b2.jpg","Morskie Oko z bliska","tag:good" %}
 
 Udało się nam złapać autobus do Krakowa gdzie mieliśmy prawie 20 minut przerwy do odjazdu pociągu
 do Poznania. Teraz tylko wytrzymać te "kilka" godzin

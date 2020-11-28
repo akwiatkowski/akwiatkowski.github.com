@@ -50,7 +50,7 @@ Przez [koronawirusa][wiki-wirus] jeszcze się boję jeździć pociągiem dlatego
 "z" oraz "do" [Poznania][wiki-poznan] musieliśmy dojechać rowerem. Ogranicza to mocno
 zasięg ale jazda przez miasto bardziej mnie męczy psychicznie.
 
-{% photo "2020_04_25__14_36_DSC07504.jpg","Okolica Cybiny","timeline" %}
+{% photo "2020_04_25__14_36_DSC07504.jpg","Okolica Cybiny","tag:timeline" %}
 
 Jeżdżę rowerem gdyż mnie psychicznie relaksuje jak jadę przez wsie i pola.
 Nie chce jeździć po to aby uważać
@@ -68,7 +68,7 @@ Zaciekawiło mnie osiedle apartamentów zbudowane na terenie jakieś
 starej fabryki przy ulicy Sośnickiej,
 obok której jest [Jezioro Swarzędzkie][wiki-jezioro-swarzedzki]
 
-{% photo "2020_04_25__15_35_DSC07525.jpg","Pole niedaleko Wierzenicy","timeline" %}
+{% photo "2020_04_25__15_35_DSC07525.jpg","Pole niedaleko Wierzenicy","tag:timeline" %}
 
 Dotarliśmy do [Kobylnicy][wiki-kobylnica] do której normalnie bym dojechał w 15 minut
 pociągiem.
@@ -78,18 +78,18 @@ pociągiem.
 Następnie drogą asfaltową kierowaliśmy się do [Wierzenicy][wiki-wierzenica],
 gdzie ostatnio byłem [jesienią]({% post_url 2019-09-28-z-kobylnicy-do-kicina %}).
 
-{% photo "2020_04_25__15_40_DSC07551.jpg","Kwitnący rzepak","timeline" %}
+{% photo "2020_04_25__15_40_DSC07551.jpg","Kwitnący rzepak","tag:timeline" %}
 
 Bardzo mi się podoba ta wieś. Jest bardzo spokojna i dzięki położeniu
 przy drodze alternatywnej jest tu głównie ruch samochodowy samych mieszkańców.
 
-{% photo "2020_04_25__15_40_DSC07555.jpg","Droga do Kicina","timeline" %}
+{% photo "2020_04_25__15_40_DSC07555.jpg","Droga do Kicina","tag:timeline" %}
 
 Zatrzymaliśmy się na chwile przy kościele. Miałem przy sobie pełnoklatkowe
 Sony A7R z Tamronem 28-75. Chciałem przetestować ten zestaw w terenie
 podczas wycieczki rowerowej - miałem go w plecaku.
 
-{% photo "2020_04_25__15_48_DSC07564.jpg","Kwitnące drzewo","timeline" %}
+{% photo "2020_04_25__15_48_DSC07564.jpg","Kwitnące drzewo","tag:timeline" %}
 
 Ruszyliśmy na wschód do [Wierzonki][wiki-wierzonka], która miała być
 naszym granicznym celem.
@@ -106,7 +106,7 @@ Początkowo planowałem dłuższą trasę, jednak obawiając się jakości drogi
 przez własną zachowawczość wolałem nie wymyślać. W [Mielnie][wiki-mielno]
 rozpoczęliśmy część powrotną.
 
-{% photo "2020_04_25__16_16_DSC07590.jpg","Świeże pole w Mielnie","timeline" %}
+{% photo "2020_04_25__16_16_DSC07590.jpg","Świeże pole w Mielnie","tag:timeline" %}
 
 Droga powrotna była łatwiejsza gdyż jechaliśmy z wiatrem.
 Jechaliśmy dość szybko gdyż okolica była troszkę mniej interesująca - jest

@@ -45,54 +45,54 @@ ponownie porobić zdjęcia ptakom, które lubią się kręcić w okolicy karmnik
 Zabrałem najlepsze szkło do zdjęć ptaków które posiadam - Olympusa 40-150/2.8
 z telekonwerterem MC-14.
 
-{% photo "2020_03_10__10_40__3100390.jpg","Modraszka zwyczajna" %}
+{% photo "2020_03_10__10_40__3100390.jpg","Modraszka zwyczajna (1)" %}
 
 W parku na [Dębcu][wiki-debiec] zauważyłem 3 karmniki w okolicy których
 pojawiają się ptaki.
 
-{% photo "2020_03_10__10_49__3101018.jpg","Modraszka zwyczajna kradnie jedzenie" %}
+{% photo "2020_03_10__10_49__3101018.jpg","Modraszka zwyczajna kradnie jedzenie","tag:good" %}
 
 Gdy już zacząłem robić zdjęcia ptakom to jednocześnie miałem motywację aby poszerzać swoją
 wiedzę - pojawiły się u mnie skojarzenia pamięciowe.
 
-{% photo "2020_03_10__10_50__3101127.jpg","Modraszka zwyczajna" %}
+{% photo "2020_03_10__10_50__3101127.jpg","Modraszka zwyczajna (2)","tag:good" %}
 
 Sam nigdy nie interesowałem się ptakami jednak są one dobrym obiektem do fotografowania.
 
-{% photo "2020_03_10__11_02__3101560.jpg","Modraszka zwyczajna" %}
+{% photo "2020_03_10__11_02__3101560.jpg","Modraszka zwyczajna (3)" %}
 
 Dowiedziałem się, że "sikorka" to nie tylko
 "sikorka" gdyż pojawia się [modraszka zwyczajna][wiki-modraszka-zwyczajna] oraz
 [bogatka zwyczajna][wiki-bogatka-zwyczajna].
 
-{% photo "2020_03_10__10_43__3100615.jpg","Bogatka zwyczajna" %}
+{% photo "2020_03_10__10_43__3100615.jpg","Bogatka zwyczajna (1)" %}
 
 Ptaki te są zdecydowanie różne. Mi osobiście bardziej podoba się
 [modraszka][wiki-modraszka-zwyczajna], która jest ma niebieską główkę
 i jest wyraźnie mniejsza (a przynajmniej ja mam takie spostrzeżenie).
 
-{% photo "2020_03_10__11_33__3102128-denoise.jpg","Bogatka zwyczajna" %}
+{% photo "2020_03_10__11_33__3102128-denoise.jpg","Bogatka zwyczajna (2)" %}
 
 Kolejnym ciekawym ptakiem jest [kowalik zwyczajny][wiki-kowalik].
 Jest on wyraźnie większy i ma dłuższy dziób, jakby był stworzony
 do innego rodzaju pokarmu.
 
-{% photo "2020_03_15__12_16__3155502.jpg","Kowalik" %}
+{% photo "2020_03_15__12_16__3155502.jpg","Kowalik (1)","tag:good" %}
 
 Wydaję mi się, że jest on również odważniejszy i bardziej żarłoczny.
 Widziałem jak próbował kilka ziarenek zmieścić w swoim dziobie
 a takie [modraszki][wiki-modraszka-zwyczajna] szybko uciekały.
 
-{% photo "2020_03_10__11_03__3101647.jpg","Kowalik" %}
+{% photo "2020_03_10__11_03__3101647.jpg","Kowalik (2)","tag:good" %}
 
 Mogłem znacznie bliżej podejść do niego bez płoszenia.
 
-{% photo "2020_03_10__11_41__3102292.jpg","Kowalik" %}
+{% photo "2020_03_10__11_41__3102292.jpg","Kowalik (3)" %}
 
 Później zauważyłem jak wydziobywał coś z drzewa obok. Może właśnie tak
 on normalnie szuka pokarmu?
 
-{% photo "2020_03_10__11_44__3102416.jpg","Kowalik" %}
+{% photo "2020_03_10__11_44__3102416.jpg","Kowalik (4)","tag:good" %}
 
 Kolejnym napotkanym ptakiem była [zięba zwyczajna][wiki-zieba-zwyczajna].
 
@@ -104,7 +104,7 @@ która zamiast podlatywać i zjadać nasionka wolała szukać ich na ziemi.
 Dla mnie osobiście nie jest ładniejsza od [modraszki][wiki-modraszka-zwyczajna],
 jednak jest tak samo "słodka".
 
-{% photo "2020_03_10__11_48__3102721.jpg","Trznadel zwyczajny" %}
+{% photo "2020_03_10__11_48__3102721.jpg","Trznadel zwyczajny","tag:good" %}
 
 Widziałem również "żółte wróble", które po doszukaniu są prawdopodobnie
 [trznadlami][wiki-trznadel-zwyczajny]. Jak powyżej napisałem - nigdy nie

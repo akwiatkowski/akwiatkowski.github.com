@@ -59,7 +59,7 @@ zostać zrewitalizowana.
 Ruszyliśmy drezyną w stronę [Gnuszyna][wiki-gnuszyn] i [Kikowa][wiki-kikowo] w okolicy
 [Chrzypska Wielkiego][wiki-chrzypsko-wielkie].
 
-{% photo "2019_11_17__14_30__B175301.jpg","Pęd drezyny" %}
+{% photo "2019_11_17__14_30__B175301.jpg","Pęd drezyny","tag:good" %}
 
 Pierwszy raz jechałem drezyną. Przyznam, że mi się podobało. Prędkość
 według mnie była optymalna - nie było ani nudno ani zbyt szybko.
@@ -81,7 +81,7 @@ Przejechaliśmy nad wiaduktem nad Oszczenicą, który jest
 najbardziej znanym i chyba największym wiaduktem kolejowym
 w województwie [wielkopolskim][wiki-wielkopolskie].
 
-{% photo "2019_11_17__15_15_DSC03655.jpg","Jesienna drezyna" %}
+{% photo "2019_11_17__15_15_DSC03655.jpg","Jesienna drezyna","tag:good" %}
 
 Sama praca nie była ciężka ale też to nie było kilka minut. Walczyliśmy prawie
 dwie pełne godziny zanim się przedostaliśmy.
@@ -91,11 +91,11 @@ dwie pełne godziny zanim się przedostaliśmy.
 Udało się nam dojechać drezyną do [Chrzypska Wielkiego][wiki-chrzypsko-wielkie]
 co dla mnie jest sporym sukcesem.
 
-{% photo "2019_11_17__17_07__B175622.jpg","Powrót Drezyną" %}
+{% photo "2019_11_17__17_07__B175622.jpg","Powrót Drezyną","tag:good" %}
 
 Świadomość, że pojazd szynowy dojechał tutaj pierwszy raz (od wielu lat) i ja byłem na
 tym pierwszym przejeździe, jest czymś ważnym dla mnie.
 
-{% photo "2019_11_17__18_13_DSC03865.jpg","Kolekcja kartonikowych biletów" %}
+{% photo "2019_11_17__18_13_DSC03865.jpg","Kolekcja kartonikowych biletów","tag:good" %}
 
 Wracaliśmy już po zmroku. Byłem trochę zmęczony jednak zadowolony z tego dnia.

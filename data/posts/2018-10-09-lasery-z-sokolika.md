@@ -177,11 +177,11 @@ Będąc w dolinie zdjęcia nie są już takie inne, ciekawsze. Jednak uważam, �
 nie powinno się wstydzić tego. Normalny, rzeczywisty krajobraz jest
 według mnie przyjemny w odbiorze.
 
-{% photo "2018_10_09_09_06__A090667.jpg","Wracając do Trzcińska","timeline" %}
+{% photo "2018_10_09_09_06__A090667.jpg","Wracając do Trzcińska","tag:timeline" %}
 
 W okolicy stacji kolejowej w [Trzcińsku][wiki-trzcinsko] na drzewach widać
 było jesień w pełni.
 
 {% photo "2018_10_09_09_11__A090686.jpg","Droga do przystanku kolejowego w Trzcińsku" %}
 
-<!-- {% photo "2018_10_09_09_15__A090698.jpg","Jesienne Trzcińsko","timeline" %} -->
+<!-- {% photo "2018_10_09_09_15__A090698.jpg","Jesienne Trzcińsko","tag:timeline" %} -->

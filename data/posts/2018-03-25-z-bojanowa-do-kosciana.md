@@ -76,7 +76,7 @@ przez ten czas temperatura powinna wzrosnać.
 Gdy wysiedliśmy w [Bojanowie][wiki-bojanowo] nie bardzo wiedziałem gdzie jechać,
 chociaż gdy patrzę na mapę zawsze to jest takie oczywiste.
 
-{% photo "IMGP6191raw1.jpg","Zalegający śnieg w rowie","timeline" %}
+{% photo "IMGP6191raw1.jpg","Zalegający śnieg w rowie","tag:timeline" %}
 
 Ruszyliśmy na północ w stronę [Pońca][wiki-poniec]. Droga była dość prosta i
 niezbyt ciekawa. W rowie widzieliśmy śnieg, który nie zdążył się roztopić.
@@ -135,7 +135,7 @@ jest Jezioro Ziemnickie.
 
 Wyjeżdzając jechaliśmy przez las i bardziej pofalowany teren.
 
-{% photo "IMGP6209raw1.jpg","Przed Wojnowicami","timeline" %}
+{% photo "IMGP6209raw1.jpg","Przed Wojnowicami","tag:timeline" %}
 
 Dotarliśmy do [Wojnowic][wiki-wojnowice]. W tym miejscu skończył się
 najciekawszy teren tego wyjazdu. Mogliśmy skrócić trasę jadąc do

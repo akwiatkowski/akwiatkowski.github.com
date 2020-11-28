@@ -55,7 +55,7 @@ każdą *wolną* chwilę próbuję wykorzystać na bycie w terenie.
 Dzień wcześniej po dość długiej jeździe (dojazd do kolejnego noclegu jak i wieczorna
 trasa po coś ciepłego do zjedzenia oraz do sklepu) byłem mocno zmęczony.
 
-{% photo "2020_06_07__08_45__6076418.jpg","Droga do wsi Ostrowin","timeline" %}
+{% photo "2020_06_07__08_45__6076418.jpg","Droga do wsi Ostrowin","tag:timeline,tag:good" %}
 
 Poprzednie dni również nie były wyjątkiem. To był intensywny wyjazd który
 rozpoczęliśmy w [Toruniu][wiki-torun] i pewnie trochę czasu minie aż
@@ -69,14 +69,14 @@ do pokoju na godzinę 9-tą.
 Trochę zmartwiłem się słysząc padający deszcz. Zaplanowana trasa była krótka jednak
 przebiegała ona w większości przez las drogami terenowymi.
 
-{% photo "2020_06_07__08_59__6076455.jpg","Soczyście zielona droga","timeline" %}
+{% photo "2020_06_07__08_59__6076455.jpg","Soczyście zielona droga","tag:timeline" %}
 
 Alternatywą była jazda starą drogą krajową 7-ką do [Ostródy][wiki-ostroda].
 Ruch jest tam minimalny jednak walory widokowe były by... inne. W sumie to jazda
 przez las nie jest pod względem widokowym rewelacyjna, a z drogi moglibyśmy zobaczyć
 więcej, to jednak wolałem podjechać do [Starych Jabłonek][wiki-stare-jablonki].
 
-{% photo "2020_06_07__09_14__6076465.jpg","Naturalny las","timeline" %}
+{% photo "2020_06_07__09_14__6076465.jpg","Naturalny las","tag:timeline" %}
 
 Śniadania nie zjedliśmy całego. Dostaliśmy w pudełkach dużą ilość jedzenia i zostawiliśmy
 większą część na drogę.

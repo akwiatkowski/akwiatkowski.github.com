@@ -55,7 +55,7 @@ wysokości horyzontu) aby wykorzystać światła uliczne w dolinach.
 Okazało się, że już po podejściu 700 metrów od schroniska mieliśmy
 ciekawe widoki.
 
-{% photo "IMGP0708raw1.jpg","Tuż przed wschodem słońca","timeline" %}
+{% photo "IMGP0708raw1.jpg","Tuż przed wschodem słońca","tag:timeline" %}
 
 O godzinie 7:56 Słońce zaczęło pojawiać się na horyzoncie.
 
@@ -97,7 +97,7 @@ straszne. Zejście niestety było już bardziej problematyczne od momentu
 gdy już faktycznie musieliśmy schodzić (zejście).
 Raczki by się nam wtedy bardzo przydały.
 
-{% photo "IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu","timeline" %}
+{% photo "IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu","tag:timeline" %}
 
 
 Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki

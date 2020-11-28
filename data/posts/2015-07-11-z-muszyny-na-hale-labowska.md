@@ -38,18 +38,18 @@ Szczegóły
 Wyrusziliśmy pociągiem przed 20-tą w Poznaniu, niecałe dwie godziny później przesiadka w Kutnie i 10 godzin w pociągu do
 [Muszyny][wiki-muszyna]. Odzwyczaiłem się i tyle godzin w pociągu spędzać nie było to dla mnie łatwe.
 
-{% photo "IMGP0991raw1.jpg","Okolice Pławna","timeline" %}
+{% photo "IMGP0991raw1.jpg","Okolice Pławna","tag:timeline" %}
 
 Na szczęście za Tarnowem teren zaczął robić się bardziej wypukły i zaczęło pojawiaś się słońce, dzięki
 czemu z pociągu widoki były całkiem interesujące.
 
-{% photo "IMGP1089raw1.jpg","Rzeka Poprad" %}
+{% photo "IMGP1089raw1.jpg","Rzeka Poprad","tag:good" %}
 
 Pierwszy dzień był zaplanowany jako jatrudniejszy, mapowe 6h chodzenia. Wysiedliśmy w [Muszynie][wiki-muszyna] i kierowaliśmy się
 w stronę wsi [Złockie][wiki-zlockie] zielonym szlakiem. Ciekawoską były zbudowane z kwiatów "pomniki" zwierząt na
 ulicy Zazamcze.
 
-{% photo "IMGP1135raw1.jpg","Okolice wsi Złockie","timeline" %}
+{% photo "IMGP1135raw1.jpg","Okolice wsi Złockie","tag:timeline,tag:good" %}
 
 Niedaleko [cerkwi w Złockie][wiki-zlockie-cerkiew] zielony szlak pieszy prowadził po najlepszych miejscach widokowych, moim zdaniem.
 Pagórki i polany są najciekawszymi krajobrazami w tamtych rejonach.

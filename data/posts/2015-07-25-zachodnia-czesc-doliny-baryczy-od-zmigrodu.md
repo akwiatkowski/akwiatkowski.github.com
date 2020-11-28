@@ -54,7 +54,7 @@ Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu 
 Było bardzo ciepło i wilgotno, pojawiły się szare chmury.
 Zaskoczyła nas burza w momencie gdy jedliśmy siedząc pod parasolami.
 
-{% photo "IMGP2006raw2.jpg","Okolica Kościanu","timeline" %}
+{% photo "IMGP2006raw2.jpg","Okolica Kościanu","tag:timeline" %}
 
 Na szczeście nie trwała ona długo i między 13-tą a 14-tą wyruszyliśmy w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
 nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to ruiny, ale można powiedzieć, że
@@ -86,13 +86,13 @@ Od [Grabówki][wiki-grabowka] aż za [Rudę Sułowską][wiki-ruda-sulowska] do d
 prowadził najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.
 I co za tym idzie, najładniejszy moim zdaniem również.
 
-{% photo "IMGP2126raw1.jpg","Staw w okolicy Rudy Sułowskiej","timeline" %}
+{% photo "IMGP2126raw1.jpg","Staw w okolicy Rudy Sułowskiej","tag:timeline" %}
 
 Dalej pojechałem mniej ciekawym szlakiem przez las w kierunku zapory na [Baryczy][wiki-barycz]. Ponoć postawili ją
 niedawno. I dalej przez las w kierunki wsi [Osiek][wiki-osiek]. Po drodzę minąłem [Książęcą Wieś][wiki-ksiazeca-wies].
 Wieś podobnie zapuszczona jak [Wilkowo][wiki-wilkowo].
 
-{% photo "IMGP2139raw1.jpg","Las niedaleko Rudy Żmigrodzkiej","timeline" %}
+{% photo "IMGP2139raw1.jpg","Las niedaleko Rudy Żmigrodzkiej","tag:timeline" %}
 
 Gdy dojechałem do głównego skrzyżowania we wsi [Osiek][wiki-osiek] zobaczyłem, że chmury stają się być podejrzane.
 Od tego momentu starałem się w miarę szybko jechać do [Radziądza][wiki-radziadz]. Mniej już zwracałem uwagę na

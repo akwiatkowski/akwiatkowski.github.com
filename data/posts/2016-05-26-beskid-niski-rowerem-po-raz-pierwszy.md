@@ -59,7 +59,7 @@ Planowaliśmy w okolice Bożego Ciała wyruszyć na pętle wokół Tatr, jednak 
 pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górskie pasmo
 Polski.
 
-{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","timeline" %}
+{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline" %}
 
 
 Opis trasy
@@ -102,7 +102,7 @@ pierwszeństwo. Podjechaliśmy pod [Wisłokę][wiki-wisloka], gdyż chciałem po
 reszcie przejazd przez rzekę. Dopiero w tym momencie zauważyłem most wiszący obok,
 którym mógłbym przeprowadzić rower.
 
-{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","timeline" %}
+{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","tag:timeline" %}
 
 Krzychu miał jedną przygodę z rzeką, a Ewa miała aż dwie. Szczegółów tutaj nie będę
 opisywał.
@@ -122,7 +122,7 @@ Większość zjazdu było przez las.
 Niestety podczas ostatniej części zjazdu kropla błota spadła na kamerkę, co
 jest widoczne cały czas na filmie.
 
-{% photo "IMGP0662raw1.jpg","Zielony Beskid Niski","timeline" %}
+{% photo "IMGP0662raw1.jpg","Zielony Beskid Niski","tag:timeline" %}
 
 Zrobiliśmy przerwę przy sklepie. Widzieliśmy w pewnym momencie jak drogą
 prowadzone jest małe stado krów. Zaczęliśmy wracać przez [Grab][wiki-grab]

@@ -43,12 +43,12 @@ Jak zwykle byłem średnio wyspany po
 nocnej jeździe pociągiem, a czekała mnie jeszcze dzisiejsza trasa.
 Jest to przepis na najlepsze lekarstwo na bezsenność.
 
-{% photo "IMGP7517b.jpg","Góry Sokole","timeline" %}
+{% photo "IMGP7517b.jpg","Góry Sokole","tag:timeline,tag:good,tag:best" %}
 
 Ciekawe widoki rozpoczęły się już za [Wałbrzychem][wiki-walbrzych] z kulminacją w okolicy [Rudaw Janowickich][wiki-rudawy].
 Pogoda była całkiem przyjemna, cały świat delikatnie ośnieżony.
 
-{% photo "IMGP7529b.jpg","Widok na Karkonosze" %}
+{% photo "IMGP7529b.jpg","Widok na Karkonosze","tag:good" %}
 
 Dojechaliśmy do [Jeleniej Góry][wiki-jelenia] i tam szliśmy z PKP do przystanku, z którego ruszał bus do
 [Świeradowa Zdroju][wiki-swieradow].
@@ -82,7 +82,7 @@ Wieczorne słońce w zimie w górach to jedna z najpiękniejszych rzeczy.
 Do schroniska dotarliśmy już w trakcie zmroku. Chmury wszystkie uciekły i widzieliśmy piękny niebieski
 krajobraz.
 
-{% photo "IMGP7967b.jpg","Tuż po zachodzie słońca w Górach Izerskich" %}
+{% photo "IMGP7967b.jpg","Tuż po zachodzie słońca w Górach Izerskich","tag:good" %}
 
 [Chatka Górzystów][wiki-chatka-gorzystow] jest specyficznym schroniskiem. Klimatyczne, bez prądu, w zimie przystosowane
 głównie dla narciarzy biegowych. Oprócz jednej rodziny byliśmy tam jedynymi osobami, które dostały się pieszo.

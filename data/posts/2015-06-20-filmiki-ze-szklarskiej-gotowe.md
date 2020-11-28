@@ -4,10 +4,9 @@ title:                  "Filmiki ze Szklarskiej Poręby gotowe"
 subtitle:               "potrzebowałem na nie tylko 2 tygodnie"
 date:                   2015-06-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/111668485/m%3D2048/d57dbab305b521dde1e7de22da8e1c0d"
 header_nogallery:       true
 categories:             localhost
-tags:                   [localhost]
+tags:                   [hidden]
 ---
 
 Po dwóch tygodniach od przyjazdu udało mi się posklejać filmiki z wyjazdu do Szklarskiej Poręby z trzech dni:

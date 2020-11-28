@@ -76,7 +76,7 @@ podjechać do przełęczy obok [Łysej Góry][wiki-lysa-gora].
 Zjazd będzie delikatniejszy i znacznie dłuższy. Jak się nie mylę
 miało być około 12km lekkiego, jak na te tereny, zjazdu.
 
-{% photo "IMGP6019raw1.jpg","Konie w Janówku","timeline" %}
+{% photo "IMGP6019raw1.jpg","Konie w Janówku","tag:timeline" %}
 
 Z przełęczy zjechaliśmy podobnie jak
 [pierwszego dnia]({% post_url 2017-04-30-ze-swierzawy-do-gryfowa-slaskiego %}) na skrzyżowanie do [Lubiechowej][wiki-lubiechowa] i
@@ -135,4 +135,4 @@ Ruszyliśmy dalej. Nie będę opisywał całej trasy, ale oprócz większych mia
 to jechaliśmy głównie pobocznymi drogami. Większość trasy chętnie przejechałbym
 kiedyś rowerem.
 
-{% photo "IMGP6112raw1.jpg","Linia kolejowa przebiega wzdłuż drogi do Legnicy","timeline" %}
+{% photo "IMGP6112raw1.jpg","Linia kolejowa przebiega wzdłuż drogi do Legnicy","tag:timeline" %}

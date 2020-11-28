@@ -121,7 +121,7 @@ zarośnięta i miejscami były lekkie kamienie. Widoki ciekawsze
 pojawiły się dopiero jak zjechaliśmy do poziomu pól - jechaliśmy tunelem
 między drzewami i krzewami.
 
-{% photo "IMGP4948raw1.jpg","Stawy w Białym Kościele","timeline" %}
+{% photo "IMGP4948raw1.jpg","Stawy w Białym Kościele","tag:timeline" %}
 
 Cieszyłem się gdy dotarliśmy do drogi asfaltowej w [Białym Kosciele][wiki-bialy-kosciol].
 Oprócz kilku budujących się nowych domów czuć tu klimat sudeckiej wioski.
@@ -171,7 +171,7 @@ ciekawe miejsca, jednak jadąc z sakwami i mając określoną konkretnę trasę
 nie można się rozpraszać pomimo tego, że czasem jest
 [tak ładnie jak tu]({% post_url 2016-09-03-zachodnie-okolice-dobiegniewa %}).
 
-{% photo "IMGP4990raw1.jpg","Obok góry Działowa","timeline" %}
+{% photo "IMGP4990raw1.jpg","Obok góry Działowa","tag:timeline" %}
 
 Podjechaliśmy rowerem pod [Golę Dzierżoniowską][wiki-gola-dzierzoniowska]
 i obok górki Działowa skręciliśmy na północ. Jechaliśmy bo fajnej polnej drodze.
@@ -181,7 +181,7 @@ Po lewej stronie mijaliśmy już zaorane pole w kształcie małej górki.
 Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][wiki-debowa-gora].
 Śłońce już zmieniało swoją barwę i widać było że zbliża się powoli zachód.
 
-{% photo "IMGP5001raw1.jpg","Widok na Ślężę","timeline" %}
+{% photo "IMGP5001raw1.jpg","Widok na Ślężę","tag:timeline" %}
 
 Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
 skręciliśmy na zachód.
@@ -206,7 +206,7 @@ Wyjątkiem jest tylko [Wierzbna][wiki-wierzbna] gdzie wjechaliśmy na teren koś
 i dowiedzieliśmy się, że mieszka w tej miejscowości dużo polityków, oraz że
 najwięcej dla kościoła zrobili politycy SLD (zdanie jednego mieszkańca).
 
-{% photo "IMGP5038raw1.jpg","Zaorane pole","timeline" %}
+{% photo "IMGP5038raw1.jpg","Zaorane pole","tag:timeline" %}
 
 Ostatnim etapem pozostał nocleg pod [Żarowem][wiki-zarow].
 Podczas rezerwacji prosiłem o pokój z łazienką

@@ -49,7 +49,7 @@ Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
 zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
-{% photo "IMGP8757raw1.jpg","Rzeka Bóbr","timeline" %}
+{% photo "IMGP8757raw1.jpg","Rzeka Bóbr","tag:timeline" %}
 
 Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
 wioski - chociaż przeszedłem tylko przez
@@ -71,4 +71,4 @@ Wnioski
 * Po deszczu bardzo często pojawiają się mgły, ale dopiero na odpowiedniej wysokości.
   Zalecane jest być na 500-600m n.p.m.
 
-  {% photo "IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku","timeline" %}
+  {% photo "IMGP8810raw1.jpg","Ostatni rzut oka na Rudawy Janowickie ze stacji kolejowej w Trzcińsku","tag:timeline" %}

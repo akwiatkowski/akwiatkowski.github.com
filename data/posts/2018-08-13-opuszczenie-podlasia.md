@@ -67,7 +67,7 @@ Podobnie jak [dzień wcześniej]({% post_url 2018-08-12-narwianski-park-narodowy
 ruszyliśmy ulicą Klasztormą na południe, jadąc niebieskim szlakiem rowerowym.
 Jest tam bardzo dobra ścieżka rowerowa.
 
-{% photo "P8130001.jpg","Okolica Pszczółczyna","timeline" %}
+{% photo "P8130001.jpg","Okolica Pszczółczyna","tag:timeline" %}
 
 Początkowo planowaliśmy aby jechać jak najdalej drogą 671 i dopiero
 w okolicy [Truskolasy-Lachy][wiki-truskolasy-lachy] skręcić i dojechać do
@@ -83,7 +83,7 @@ Wydaję mi się, że znacznie łatwiej jest przejechać to
 skrzyżowanie po jezdni. Próbowaliśmy kombinować ścieżkami rowerowymi.
 Ostatecznie przeprowadziliśmy rowery przejściem dla pieszych na drodze 671.
 
-{% photo "P8130008.jpg","Okolica Waniewa","timeline" %}
+{% photo "P8130008.jpg","Okolica Waniewa","tag:timeline" %}
 
 Skończyła się ścieżka rowerowa. Na wysokości [Pszczółczyna][wiki-pszczolczyn]
 postanowiliśmy, że nie chcemy jechać po ruchliwej drodze.
@@ -97,7 +97,7 @@ się nie stresować podczas jazdy.
 Mijaliśmy sporo ciekawych, nie drewnianych, domów.
 Niewiele opowiem o terenach i wsiach. Były dość podobne do siebie.
 
-{% photo "P8130011.jpg","Wieś Łupianka Stara","timeline" %}
+{% photo "P8130011.jpg","Wieś Łupianka Stara","tag:timeline" %}
 
 W [Łupiance Starej][wiki-lupianka-stara] znaleźliśmy sklep, gdzie zrobiliśmy przerwę.
 Zacząłem zastanawiać się nad segregacją odpadów w takich sklepach. Przecież

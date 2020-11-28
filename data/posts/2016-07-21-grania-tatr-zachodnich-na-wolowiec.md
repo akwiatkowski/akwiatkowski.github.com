@@ -63,7 +63,7 @@ tłum ludzi jeszcze nie dotarł do schroniska.
 Ruszyliśmy żółtym szlakiem w stronę [Bobrowieckiej Przełęczy][wiki-bobrowiecka].
 Szliśmy przez niezbyt gęsty las iglasty.
 
-{% photo "IMGP3106raw1.jpg","Okolica Grzesia","timeline" %}
+{% photo "IMGP3106raw1.jpg","Okolica Grzesia","tag:timeline" %}
 
 W połowie drogi do [Grzesia][wiki-grzes] już się pojawiały widoki okolicy, a gdy
 dotarliśmy już na szczyt mieliśmy idealny widok wokoło. Tak zielono i tak ładnie

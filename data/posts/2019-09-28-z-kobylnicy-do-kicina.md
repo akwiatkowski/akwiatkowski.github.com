@@ -100,12 +100,12 @@ autobusem podmiejskim do [Poznania][wiki-poznan].
 
 Oznacza to, że zostało mi około 3km spaceru pieszo. To nie jest dużo dla mnie.
 
-{% photo "2019_09_28__17_32_DSC00285.jpg","Droga polna obudowana drzewami","timeline" %}
+{% photo "2019_09_28__17_32_DSC00285.jpg","Droga polna obudowana drzewami","tag:timeline" %}
 
 Moim głównym obiektem fotograficznym była droga z drzewami wokół niej.
 Kombinowałem w różny sposób aby zrobić ciekawe zdjęcie.
 
-{% photo "2019_09_28__17_39_DSC00297.jpg","Wczesnojesienna droga","timeline" %}
+{% photo "2019_09_28__17_39_DSC00297.jpg","Wczesnojesienna droga","tag:timeline" %}
 
 Wielkiej filozofii w opisie tutaj nie będzie. Probówałem robić zdjęcia
 szerokim obiektywem, teleobiektywem oraz bardzo jasnym pełnoklatkowym.
@@ -116,7 +116,7 @@ Wydaje mi się, że najlepsze zdjęcia zrobiłem pełnoklatkowym Sony z obiektyw
 Sony 85/1.8. Mam wrażenie, że zdjęcia z Sony są bardziej nasycone.
 Może powinienem zwiększać nasycenie w zdjęciach z Olympusa...
 
-{% photo "2019_09_28__17_47_DSC00315.jpg","Szereg drzew","timeline" %}
+{% photo "2019_09_28__17_47_DSC00315.jpg","Szereg drzew","tag:timeline" %}
 
 Dotarłem do skrzyżowania dróg polnych.
 
@@ -163,4 +163,4 @@ widziałem prawdziwie jesienne barwy.
 Ruszyłem autobusem i wysiadłem na Rondzie Środka. Wyciągnąłem Olympusa
 z obiektywem 12-100 aby zrobić kilka zdjęć z ruchem tramwajów.
 
-{% photo "2019_09_28__19_07__9282066.jpg","Tramwaj w ruchu" %}
+{% photo "2019_09_28__19_07__9282066.jpg","Tramwaj w ruchu","tag:good,tag:best" %}

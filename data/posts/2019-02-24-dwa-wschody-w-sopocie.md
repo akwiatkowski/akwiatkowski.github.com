@@ -25,6 +25,8 @@ pois:
 
 ---
 
+{% photo_header "Czerwony wschód","tag:good,tag:best" %}
+
 [michal-olech]: http://michalolech.pl/#!/portfolio
 [jakub-formela]: https://www.instagram.com/nie.znane.trojmiasto/
 

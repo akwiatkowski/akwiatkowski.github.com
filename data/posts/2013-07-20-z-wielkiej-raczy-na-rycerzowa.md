@@ -33,7 +33,7 @@ Szczegóły
 
 GPS mi coś źle nagrał trasę, dlatego szlak jest [tutaj][trasa].
 
-{% photo "IMGP5495b.jpg","Okolice Wielkiej Raczy","timeline" %}
+{% photo "IMGP5495b.jpg","Okolice Wielkiej Raczy","tag:timeline" %}
 
 Po wyjściu rano ze [schroniska][wiki-schron-racza] było trochę chłodno, jednak po rozruszaniu
 się już zrobiło się idealnie. Rosa na trawie,
@@ -41,20 +41,20 @@ szczyty w chmurach, bardziej soczysta zieleń trawy i lasów - całkiem było fa
 trawą to nie jest taka
 całkowita prawda. W niektórych miejscach ona była brązowa, albo nawet czerwonana.
 
-{% photo "IMGP5587b.jpg","Idąc w lesie" %}
+{% photo "IMGP5587b.jpg","Idąc w lesie","tag:good" %}
 
 Po pewnym czasie weszliśmy w las i tak szliśmy prawie aż do [Przełęczy Przegibek][wiki-przegibek], gdzie
 był czas na jakieś solidne jedzenie. Trochę musieliśmy się cofnąć, aby dostać się do czerwonego
 szlaku do [Rycerzowej][wiki-rycerzowa].
 
-{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek" %}
+{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek","tag:good" %}
 
 Znowu szliśmy przez las i chyba nic ciekawego tam nie było. Dopiero gdy schodziliśmy z
 [Rycerzowej Wielkiej][wiki-rycerzowa] ukazał się nam najlepszy widok tego dnia - okolica schroniska.
 
-{% photo "IMGP5882b.jpg","Rycerzowa","timeline" %}
+{% photo "IMGP5882b.jpg","Rycerzowa","tag:timeline,tag:good,tag:best" %}
 
 Główną atrakcją był baca i stado owiec, które kręciło się wokół schroniska. Mniejsza atrakcja była dla
 mieszkajacych w namiotach, gdyż owce je trochę taranowały.
 
-{% photo "IMGP6048b.jpg","Owca w okolicy Rycerzowej" %}
+{% photo "IMGP6048b.jpg","Owca w okolicy Rycerzowej","tag:good" %}

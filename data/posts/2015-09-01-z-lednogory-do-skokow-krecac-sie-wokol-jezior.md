@@ -107,7 +107,7 @@ Niestety druga strona to droga terenowe, a przez tą suszę piasku był ogrom.
 Ostatnie porcje energii zużyliśmy właśnie tam.
 Znaleźliśmy jakąś plażę, gdzie było trochę cieia.
 
-{% photo "IMGP3220raw1.jpg","Trasa Rybno Wielkie - Wysoka","timeline" %}
+{% photo "IMGP3220raw1.jpg","Trasa Rybno Wielkie - Wysoka","tag:timeline" %}
 
 Powrót i ponownie jazda przez piaski, ale wykombinowaliśmy inną drogę - obok Kostusina i [Potrzanowa][wiki-potrzanowo].
 W [Potrzanowie][wiki-potrzanowo] był trzeci zjazd, tym razem najlepszy. Prawie 50km/h to

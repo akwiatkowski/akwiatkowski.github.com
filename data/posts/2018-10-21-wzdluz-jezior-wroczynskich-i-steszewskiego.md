@@ -60,18 +60,18 @@ nazwy, a przynajmniej nie widziałem jej na mapach UMP i OSM.
 Szliśmy ścieżką wzdłuż jeziora na wschód. W okolicy jest
 [Gród Pobiedziska][grod-pobiedziska], który chyba w tym momencie był zamknięty.
 
-{% photo "2018_10_20__14_52__A201349.jpg","Skrzyżowanie dróg gruntowych","timeline" %}
+{% photo "2018_10_20__14_52__A201349.jpg","Skrzyżowanie dróg gruntowych","tag:timeline" %}
 
 Na skrzyżowaniu dróg gruntowych skręciliśmy w prawo. Musieliśmy dostać się
 do drogi asfaltowej.
 
-{% photo "2018_10_20__15_03__A201395.jpg","Pola w okolicy Nadrożna","timeline" %}
+{% photo "2018_10_20__15_03__A201395.jpg","Pola w okolicy Nadrożna","tag:timeline" %}
 
 
 Widok na takie spokojne, pozamiejskie tereny, zdecydowanie uspokajał.
 Chwilowo pojawiło się słońce, które dodało nasycenia zielonemu polu.
 
-{% photo "2018_10_20__15_08__A201411.jpg","Kolejne jezioro","timeline" %}
+{% photo "2018_10_20__15_08__A201411.jpg","Kolejne jezioro","tag:timeline" %}
 
 Mieliśmy mały problem aby dostać się do drogi asfaltowej. Mapa UMP nie była wystarczająco
 dokładna, a nie chciałem wchodzić na teren prywatny.

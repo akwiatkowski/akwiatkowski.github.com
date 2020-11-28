@@ -78,7 +78,7 @@ Musieliśmy przejechać mostem przez [Narew][wiki-narew].
 W [zamku][tykocin-zamek] byliśmy prawie półtora godziny. Zamek ten kiedyś był
 ważnym obiektem na bagnach w okolicy [Narwi][wiki-narew].
 
-{% photo "P8110065.jpg","Widok z wieży widokowej w Tykocinie","timeline" %}
+{% photo "P8110065.jpg","Widok z wieży widokowej w Tykocinie","tag:timeline" %}
 
 Postanowiliśmy zobaczyć wieżę widokową na wschód od ulicy Puchalskiego.
 Już delikatnie padało.
@@ -105,7 +105,7 @@ Tego dnia przejechaliśmy prawie nic jednocześnie będąc w 7 różnych miejsca
 * 2 miejsca widokowe (wieża i żubry)
 * oraz w wiosce bocianiej
 
-{% photo "P8110155.jpg","Bociany w okolicy Kiermusów","timeline" %}
+{% photo "P8110155.jpg","Bociany w okolicy Kiermusów","tag:timeline" %}
 
 Po powrocie mieliśmy jeszcze sporo czasu do zachodu dlatego powłóczyłem się po okolicy noclegu.
 

@@ -71,7 +71,7 @@ zadecydowałem aby skręcić i jechać czarnym. Według mapy powinien być on
 poprowadzony przez ciekawsze okolice - więcej pól.
 Niestety ponownie spotkaliśmy się z piaskiem.
 
-{% photo "P6021769raw1.jpg","Okolica Sierczynka","timeline" %}
+{% photo "P6021769raw1.jpg","Okolica Sierczynka","tag:timeline" %}
 
 Zbliżając się do drogi 137 w okolicy [Sierczynka][wiki-sierczynek] widzieliśmy
 kilka ładnych budynków z czerwonej cegły. Faktycznie zamiast lasu mieliśmy
@@ -112,12 +112,12 @@ Podczas takiej pogody nie można się dziwić.
 W oddali słyszałem grzmoty. Nie wiedziałem czy ruszyć czy czekać.
 O 16 ruszyłem pomimo tego, że ostatni głośny grzmot był 10 minut wcześniej.
 
-{% photo "P6021808raw1.jpg","Piaszczysta droga w okolicy Rojewa","timeline" %}
+{% photo "P6021808raw1.jpg","Piaszczysta droga w okolicy Rojewa","tag:timeline" %}
 
 Ruszyłem drogą alternatywną do S3 na północ do [Rojewa][wiki-rojewo].
 Jechało się bardzo przyjemnie: minimalny ruch i idealny asfalt.
 
-{% photo "P6021811raw1.jpg","Piaszczysta droga w okolicy Rojewa","timeline" %}
+{% photo "P6021811raw1.jpg","Piaszczysta droga w okolicy Rojewa","tag:timeline" %}
 
 Chciałem jechać przez [Kalsko][wiki-kalsko]. Wjechałem na drogę gruntową, która
 zamieniła się w piasek. Przejechałem z 3km i wróciłem. Nie chciałem się męczyć

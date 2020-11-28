@@ -104,7 +104,7 @@ trwa okołó półtora godziny.
 O samym muzem niewiele napiszę. Oprowadzający ciekawie opowiada. Na terenie jednostki
 wojskowej nie można robić zdjęć wszędzie.
 
-{% photo "P8090051.jpg","Widok na Biebrzę z punktu widokowego","timeline" %}
+{% photo "P8090051.jpg","Widok na Biebrzę z punktu widokowego","tag:timeline" %}
 
 Ruszylismy zielonym szlakiem dalej na północ, aby przejechać mostem
 przez [Biebrze][wiki-biebrza] i może przez Wółkę Piaseczną

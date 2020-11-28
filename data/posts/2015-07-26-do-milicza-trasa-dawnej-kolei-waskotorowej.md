@@ -59,7 +59,7 @@ wzdłuż [Baryczy][wiki-barycz], gdyż ktoś lokalny nam powiedział że tam jes
 Jedyną fajną rzeczą była stara zapora na rzecze.
 Odwiedziliśmy jeszcze nową, która była niedaleko.
 
-{% photo "IMGP2203raw1.jpg","Rzeka Barycz","timeline" %}
+{% photo "IMGP2203raw1.jpg","Rzeka Barycz","tag:timeline" %}
 
 Dalej pojechaliśmy już główną drogą, aby jak najszybciej dostać się do [Sułowa][wiki-sulow]. Miała być tam smażalnia ryb.
 Mieszkańcy mówili że nic takiego tutaj nie ma, ale okazało się że jedna jest - na ulicy Leśnej.
@@ -91,7 +91,7 @@ szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co ro
 przejechałem przez most i pod koniec mam do wyboru zejście w lewo lub w prawo.
 Gdy wybiorę w lewo nic nie widzę co jest dalej, gdy w prawo jest jakaś droga tam.
 
-{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","timeline" %}
+{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","tag:timeline" %}
 
 Przechodzę przez tory i znoszę rower z sakwami po schodach. Okazuje się, że ludzie się tam kręcą i dowiaduję
 się że dojadę do dworca.

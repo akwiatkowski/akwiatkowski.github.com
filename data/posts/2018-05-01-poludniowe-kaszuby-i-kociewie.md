@@ -97,7 +97,7 @@ Przecież jadąc do [Czerska][wiki-czersk] również przejeżdzaliśmy przez
 Po opuszczeniu [Czerska][wiki-czersk] ruch samochodowy był znacznie mniejszy.
 Okolica zaczęła mi się podobać. Podawanie nazw miejscowości nie jest isotne tutaj.
 
-{% photo "IMGP8326raw1.jpg","Wiosna","timeline" %}
+{% photo "IMGP8326raw1.jpg","Wiosna","tag:timeline" %}
 
 Przejechaliśmy przez kilka wiosek. Ostatnią przed lasem była wieś
 [Gotelp][wiki-gotelp].
@@ -161,7 +161,7 @@ stronę do [Pałubina][wiki-palubin].
 Po chyba godzinnej przerwie pogoda zaczęła się poprawiać. Chociaż filmiki na
 kamerce mogą być ciekawsze gdy niebo jest nierównomiernie zachmurzone.
 
-{% photo "IMGP8392raw1.jpg","Wiosenny tunel","timeline" %}
+{% photo "IMGP8392raw1.jpg","Wiosenny tunel","tag:timeline" %}
 
 Ruszyliśmy w stronę [Czerników][wiki-czerniki] przez [Pałubin][wiki-palubin].
 Teren stał się ciekawszy, bardziej pofalowany (wiem że za często używam
@@ -225,7 +225,7 @@ Pomimo istnienia tu drogi 222 (wojewódzkiej) miejscowośc nie straciła
 swojego klimatu. Gdy zjechaliśmy z drogi wojewódzkiej
 nadal okolica była ciekawie.
 
-{% photo "IMGP8451raw1.jpg","Jadąc do Rościszewa","timeline" %}
+{% photo "IMGP8451raw1.jpg","Jadąc do Rościszewa","tag:timeline" %}
 
 Zjechaliśmy do [Rościszewa][wiki-rosciszewo] drogą położoną wzdłuż rzeki
 [Styny][wiki-styna-rzeka].
@@ -249,7 +249,7 @@ podziwialiśmy krajobraz. Miałem wrażenie, że jest tutaj
 teren jeszcze bardziej pofalowany.
 Ostatecznie dzięki temu błędowi zaliczyłem dodatkową gminę.
 
-{% photo "IMGP8465raw1.jpg","Droga do Rębielcza","timeline" %}
+{% photo "IMGP8465raw1.jpg","Droga do Rębielcza","tag:timeline" %}
 
 Szybko zjechaliśmy półtora kilometra do skrzyżowania i skręciliśmy
 w prawo. Jechałem tak szybko jak

@@ -57,7 +57,7 @@ Ruszyliśmy pociągiem IC około godziny 8-ej do [Choszczna][wiki-choszczno],
 które to jest chyba najlepszym połączeniem kolejowym, gdy chce się dojechać w
 [Iński Park Krajobrazowy][wiki-inski-park].
 
-{% photo "2019_08_24__11_20_P8240011.jpg","Droga Sulino-Sławęcin","timeline" %}
+{% photo "2019_08_24__11_20_P8240011.jpg","Droga Sulino-Sławęcin","tag:timeline" %}
 
 Ulicą Wolności przejechaliśmy przez centrum i następnie ulicą Stargardzką
 kierowaliśmy się do wsi [Pakość][wiki-pakosc]. Opuszczając [Choszczno][wiki-choszczno]
@@ -70,7 +70,7 @@ Tereny te znałem z
 [wycieczki ponad rok temu]({% post_url 2018-04-21-wiosenne-okolice-stargardu %}),
 kiedy to jechałem tą samą drogą lecz w przeciwnym kierunku.
 
-{% photo "2019_08_24__11_39_P8240044.jpg","Staw w okolicy Sławęcina","timeline" %}
+{% photo "2019_08_24__11_39_P8240044.jpg","Staw w okolicy Sławęcina","tag:timeline" %}
 
 Piszę ten wpis w drugiej połowie października. Pomimo chwilowo dobrej pogody
 tęsknie za jeżdżeniem rowerem i za zielonym krajobrazem. Chociaż krajobraz
@@ -78,7 +78,7 @@ podczas tego wycieczki
 był daleki do nazwania go zielonym. Trawa była wysuszona. Mam wrażenie, że
 trawa teraz (w październiku) jest bardziej zielona niż była w wakacje.
 
-{% photo "2019_08_24__11_51_P8240073.jpg","Rzeka Ina" %}
+{% photo "2019_08_24__11_51_P8240073.jpg","Rzeka Ina","tag:good" %}
 
 Skręciliśmy do [Pakości][wiki-pakosc]. Widziałem kilka domów położonych
 w okolicy gęstych drzew.
@@ -110,7 +110,7 @@ trochę zdjęć. Zauważyłem, że nie wziąłem drugiej karty SD do aparatu pe�
 Musiałem wyjmować kartę z Olympusa i przekładać do Sony. Było to denerwujące i powodowało,
 że z pełnej klatki korzystałem bardzo rzadko.
 
-{% photo "2019_08_24__12_24_P8240034.jpg","Konic polny na drodze" %}
+{% photo "2019_08_24__12_24_P8240034.jpg","Konik polny na drodze","tag:good" %}
 
 Chociaż i tak większośc tego
 co robię to nauka, eksperymenty i testy. Wziąłem pełną klatkę aby zobaczyć
@@ -118,7 +118,7 @@ jak się będzie sprawdzała a nie dlatego, bo miałem już zaplanowane jakieś 
 W sumie to cała moja fotografia to eksperymenty i nauka i czasami uda się
 zrobić jakieś ciekawe zdjęcia.
 
-{% photo "2019_08_24__12_31_P8240037.jpg","Idealna droga dla roweru w stronę Suchanki","timeline" %}
+{% photo "2019_08_24__12_31_P8240037.jpg","Idealna droga dla roweru w stronę Suchanki","tag:timeline" %}
 
 Tym razem tereny na północ od [rzeki Iny][wiki-ina-rzeka] nie były podtopione.
 Wybraliśmy drogę polną na północny-zachód w stronę wsi [Suchanówka][wiki-suchanowko].
@@ -181,11 +181,11 @@ Podobała mi się spokojna i niezamieszkana okolica. Po chwili wjechaliśmy
 w las, którym przez conajmniej kilka kilometrów musieliśmy jechać.
 Las ten był inny, ładniejszy, dzikszy.
 
-{% photo "2019_08_24__14_38_P8240129.jpg","Żaba przy Jeziorze Okuny" %}
+{% photo "2019_08_24__14_38_P8240129.jpg","Żaba przy Jeziorze Okuny (1)" %}
 
 Zjechaliśmy nad Jezioro Okuny.
 
-{% photo "2019_08_24__14_43_P8240147.jpg","Żaba przy Jeziorze Okuny" %}
+{% photo "2019_08_24__14_43_P8240147.jpg","Żaba przy Jeziorze Okuny (2)","tag:good" %}
 
 Gdy kontynuowaliśmy jazdę Jezioro Okuny widzieliśmy za drzewami.
 Droga była zdecydowanie rowerowa, miejscami kręta.
@@ -197,13 +197,13 @@ jednak nic sensownego dla nas tam nie było dostępne. Zamiast jechać drogą wo
 z [Ciemnika][wiki-ciemnik] postanowiliśmy spróbować jazdę
 drogą gruntową wzdłuż jeziora. Nie byłem pewien tej decyzji.
 
-{% photo "2019_08_24__15_26_P8240191.jpg","Okrążając jezioro Okuny","timeline" %}
+{% photo "2019_08_24__15_26_P8240191.jpg","Okrążając jezioro Okuny","tag:timeline" %}
 
 Gdy już opuściliśmy las i zobaczyłem pofalowane pola wiedziałem, że raczej
 to była dobra decyzja. Droga ta jest wykorzystywana przez rybaków aby mogli się
 dostać do swoich pomostów.
 
-{% photo "2019_08_24__15_38_P8240003.jpg","Zbliżając się do Ińska","timeline" %}
+{% photo "2019_08_24__15_38_P8240003.jpg","Zbliżając się do Ińska","tag:timeline" %}
 
 Gdy droga zakręcała w prawo byliśmy półtora kilometra od centrum [Ińska][wiki-insko].
 Jechaliśmy przez trochę wysuszone pole (po żniwach). Na horyzoncie widzieliśmy już

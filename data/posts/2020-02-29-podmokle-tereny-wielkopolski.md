@@ -69,7 +69,7 @@ do "centrum" zobaczyć przystań.
 
 Przez [tą miejscowość][wiki-grojec-wielki] przepływa rzeka [Obra][wiki-obra-rzeka].
 
-{% photo "2020_02_29__11_12_DSC06904.jpg","Rzeka Obra","timeline" %}
+{% photo "2020_02_29__11_12_DSC06904.jpg","Rzeka Obra","tag:timeline" %}
 
 Zauważyliśmy zielony szlak pieszy który zaprowadził nas nad [rzekę][wiki-obra-rzeka].
 Niestety nie znaleźliśmy kolejnych znaków a prywatne zabudowania blokowały
@@ -135,7 +135,7 @@ Wybraliśmy okolice Jeziora Linie Duże gdyż większe powinno oznaczać ciekaws
 Celem było obkrążenie jeziora i przejście przez obrzeże terenu
 bagna. Trasa była zdecydowanie krótsza niż poprzedni cel.
 
-{% photo "2020_02_29__14_40__2295703.jpg","Zatopiona łódka" %}
+{% photo "2020_02_29__14_40__2295703.jpg","Zatopiona łódka","tag:good" %}
 
 Mineliśmy działający, niemały, ośrodek wypoczynkowy. Według mapy
 na jego terenie powinien być sklep ale nie chcieliśmy go zwiedzać.
@@ -147,14 +147,14 @@ Tam spróbowałem zrobić zdjęcia wykorzytując filtr szary.
 Nie miałem przy sobie statywu ale udało mi się wykorzystać leżącą obok
 belkę.
 
-{% photo "2020_02_29__14_43_DSC07067.jpg","Bagno Linie Duże" %}
+{% photo "2020_02_29__14_52_DSC07076.jpg","Bagno Linie Duże" %}
 
 Samo bagno wyglądało trochę inaczej niż standardowy las ale też nie
 wyglądało jak bagno. Widać było, że brakuje wilgoci.
 
 Również wcześniej zauważyłem obniżenie poziomu jeziora.
 
-{% photo "2020_02_29__15_28__2295771.jpg","Łabędź" %}
+{% photo "2020_02_29__15_28__2295771.jpg","Łabędź","tag:good,tag:best" %}
 
 Mapa OSM akurat w tym miejscu jest bardzo dokładna i nie było
 problemem obejście ogrodzenia.
@@ -197,7 +197,7 @@ braku słońca.
 
 Gdy słońce wyjrzało z za chmur otworzyły się one.
 
-{% photo "2020_03_01__11_12__3016418.jpg","Żółte i białe krokusy" %}
+{% photo "2020_03_01__11_12__3016418.jpg","Żółte i białe krokusy","tag:good" %}
 
 Poświęciłem chwilę na robienie zdjęć krokusom.
 

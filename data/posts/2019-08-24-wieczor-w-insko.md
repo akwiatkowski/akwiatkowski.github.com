@@ -59,7 +59,7 @@ Tam również nocowalismy blisko popularnego jeziora.
 Nasz nocleg był daleko od centrum [Ińska][wiki-insko].
 Czyli chcąc odwiedzić jakieś sklepy musieliśmy trochę się przejść.
 
-{% photo "2019_08_24__18_12_P8240277.jpg","Rower wodny na jeziorze" %}
+{% photo "2019_08_24__18_12_P8240277.jpg","Rower wodny na jeziorze","tag:good" %}
 
 Koniecznie musieliśmy kupić jedzenie na śniadanie w niedzielę oraz na dalszą drogę
 w niedzielę. Również chcieliśmy zjeść coś na obiado-kolacje.
@@ -106,4 +106,4 @@ Ten zachód słońca to taka kolejna fajna niespodzianka,
 którą można otrzymać tylko gdy wyruszy się gdzieś w teren i trochę
 zaryzykuje.
 
-{% photo "2019_08_24__20_01_P8240430.jpg","Tuż po zachodzie słońca" %}
+{% photo "2019_08_24__20_01_P8240430.jpg","Tuż po zachodzie słońca","tag:good" %}

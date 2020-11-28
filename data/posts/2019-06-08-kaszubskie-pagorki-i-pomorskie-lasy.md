@@ -132,18 +132,18 @@ Mogliśmy jechać drogą pieszo-rowerową po południowej stronie [rzeki][wiki-r
 jednak wolałem został po północnej stronie. Jakoś obawiałem się jakości
 drogi rowerowej a wszyscy jechaliśmy z sakwami.
 
-{% photo "2019_06_08__10_57_P6080043.jpg","Dom we wsi Majdany","timeline" %}
+{% photo "2019_06_08__10_57_P6080043.jpg","Dom we wsi Majdany","tag:timeline" %}
 
 Droga szutrowa przez las była wystarczająco przyjemna. Już teraz zauważyliśmy, że
 dzisiaj będzie sporo podjazdów i zjazdów.
 
-{% photo "2019_06_08__11_01_P6080045.jpg","Opuszczając wieś Majdany","timeline" %}
+{% photo "2019_06_08__11_01_P6080045.jpg","Opuszczając wieś Majdany","tag:timeline" %}
 
 Dotarliśmy do [Marszewa][wiki-marszewo], gdzie nasza droga złączyła się ze
 szlakiem rowerowym na chwilę. My jednak planowaliśmy dalej jechać drogą
 asfaltową.
 
-{% photo "2019_06_08__11_09_P6080073.jpg","Łubin obok Nowej Wsi Przywidzkiej","timeline" %}
+{% photo "2019_06_08__11_09_P6080073.jpg","Łubin obok Nowej Wsi Przywidzkiej","tag:timeline" %}
 
 Przed wsią [Ząbrsko Górne][wiki-zabrsko-gorne] zrobiliśmy przerwę przy sklepie na lody.
 Podobał mi się delikatny zjazd do [Majdan][wiki-majdany].
@@ -152,7 +152,7 @@ Podobał mi się delikatny zjazd do [Majdan][wiki-majdany].
 
 Jechaliśmy do [Egiertowa][wiki-egiertowo] przez [Roztokę][wiki-roztoka].
 
-{% photo "2019_06_08__11_19_P6080119.jpg","Okolica Nowej Wsi Przywidzkiej","timeline" %}
+{% photo "2019_06_08__11_19_P6080119.jpg","Okolica Nowej Wsi Przywidzkiej","tag:timeline" %}
 
 Sama miejscowość [Egiertowo][wiki-egiertowo] nie pojawiła się nigdy w naszych
 planach, po prostu mapy google nas kierowały w tamtym kierunku. Nie było jednej
@@ -173,7 +173,7 @@ Bardzo podobał mi się bardzo zjazd z [Roztoki][wiki-roztoka] do [Kameli][wiki-
 Gdy dotarliśmy do [Egiertowa][wiki-egiertowo] od razu zauważyłem budujące się
 osiedle nowych domów.
 
-{% photo "2019_06_08__12_07_P6080165.jpg","Tory kolejowe i przystanek w Sławkach","timeline" %}
+{% photo "2019_06_08__12_07_P6080165.jpg","Tory kolejowe i przystanek w Sławkach","tag:timeline" %}
 
 Pojawił się pomysł aby podjechać do miejscowości [Ostrzyce][wiki-ostrzyce].
 Głównym powodem było [Jezioro Ostrzyckie][wiki-jezioro-ostrzyckie], które
@@ -249,7 +249,7 @@ do [Stężycy][wiki-stezyca] wzłuż [Jeziora Raduńskiego Górnego][wiki-raduns
 Myślałem, że będziemy mieć lepszy widok na jezioro, jednak jest ono obudowane
 domami z tej strony.
 
-{% photo "2019_06_08__16_37_P6080313.jpg","Jedno z jezior przy Niesiołowicach","timeline" %}
+{% photo "2019_06_08__16_37_P6080313.jpg","Jedno z jezior przy Niesiołowicach","tag:timeline" %}
 
 W [Stężycy][wiki-stezyca] zrobiliśmy półgodzinną przerwę. Podczas odpoczynku przyszedł do
 nas kot.
@@ -281,7 +281,7 @@ Gdzieniegdzie widzieliśmy przekrzywione drzewa będące dowodem
 wichury. Sama droga między wsiami
 była bardzo nudna jednak bym to polecił przejechania się tutaj.
 
-{% photo "2019_06_08__17_19_P6080349.jpg","Dom w Sumienie","timeline" %}
+{% photo "2019_06_08__17_19_P6080349.jpg","Dom w Sumienie","tag:timeline" %}
 
 W centrum [Zdunowic][wiki-zdunowice] musiałem hamować bo akurat owce zaczęły
 wychodzić na drogę.

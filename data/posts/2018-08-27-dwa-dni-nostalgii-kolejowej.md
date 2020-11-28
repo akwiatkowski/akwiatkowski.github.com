@@ -122,7 +122,7 @@ Wykupiłem przejazd [Turkolu][turkol] do [Łodzi][wiki-lodz]. Wydawało mi się,
 
 Ruszyliśmy w stronę [Opola][wiki-opole]. Tymi torami już jechałem.
 
-{% photo "\_8260272.jpg","Okolice Gierszowic niedaleko Brzegu","timeline" %}
+{% photo "\_8260272.jpg","Okolice Gierszowic niedaleko Brzegu","tag:timeline" %}
 
 Po opuszczeniu [Opola][wiki-opole] ruszyliśmy w kierunku
 [Częstochowy][wiki-czestochowa]. Pociąg poruszał się znacznie szybciej jadąc po
@@ -131,7 +131,7 @@ tego dnia (następnego również)
 dlatego duża szybkość była zalecana. Z tego powodu trudno było mi robić zdjęcia,
 a tymbardziej trudno było zapamiętać cokolwiek.
 
-{% photo "\_8260282.jpg","Nysa Kłodzka niedaleko Lewina Brzeskiego","timeline" %}
+{% photo "\_8260282.jpg","Nysa Kłodzka niedaleko Lewina Brzeskiego","tag:timeline" %}
 
 Okolica była "normalna". Nie widziałem zbyt dużo ciekawych rzeczy i naprawdę jedyne
 co mi pozostaje do zrobienia w tym wpisie, to dorzucenie kilku słów do zdjęć,
@@ -172,7 +172,7 @@ zobaczyć parowóz.
 Pojawiły się pewne problemy z parowozem. Opóźnienie wzrosło (ostatecznie)
 do godziny.
 
-{% photo "\_8260082.jpg","Okolica Czamocina","timeline" %}
+{% photo "\_8260082.jpg","Okolica Czamocina","tag:timeline" %}
 
 Do [Łodzi][wiki-lodz] dotarliśmy z godzinnym opóźnieniem. Miałem
 mały problem jak przedostać się przez skrzyżowanie obok stacji

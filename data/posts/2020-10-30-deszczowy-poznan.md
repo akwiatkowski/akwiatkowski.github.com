@@ -21,6 +21,8 @@ temperature:
 
 ---
 
+{% photo_header "Opuszczony Poznań","tag:good,tag:city" %}
+
 [2k4k]: https://2k4k.pl/
 
 ## Wstęp
@@ -45,7 +47,7 @@ Obiektyw wypożyczyłem z [2k4k][2k4k] gdyż chciałem jak najlepiej odseparowa�
 detale, głównie chodziło o jesienne liście oświetlone porannym słońcem -
 porannym dlatego że jest wtedy większa szansa na rose.
 
-{% photo "2020_10_30__18_46_DSC04237.jpg","Grunwaldzka uliczka","tag:city" %}
+{% photo "2020_10_30__18_46_DSC04237.jpg","Grunwaldzka uliczka","tag:city,tag:good" %}
 
 Akurat w dniu gdy odbierałem obiektyw pogoda się "popsuła" - zaczęło padać.
 Późną jesienią deszcz nie powinien być czymś dziwnym ale ostatecznie widać
@@ -63,7 +65,7 @@ wieczorem gdy pada deszcz. Im gorsza pogoda tym lepiej.
 Kilka zdjęć zrobiłem w okolicy wypożyczalni a następnie ruszyłem tramwajem do
 centrum.
 
-{% photo "2020_10_30__19_08_DSC04327.jpg","Tramwaj wjeżdżający na św. Marcina","tag:city" %}
+{% photo "2020_10_30__19_08_DSC04327.jpg","Tramwaj wjeżdżający na św. Marcina","tag:city,tag:good" %}
 
 Chciałem przejść się przez rynek ponieważ bardzo lubię odbijające się
 światła na mokrym bruku.
@@ -73,7 +75,7 @@ Chciałem przejść się przez rynek ponieważ bardzo lubię odbijające się
 Wysiałem na Rondzie Kaponiera i ruszyłem w stronę Starego Rynku robiąc
 kilka zdjęć na ulicy Św. Marcinie.
 
-{% photo "2020_10_30__19_21_DSC04396.jpg","Kałuża","tag:city" %}
+{% photo "2020_10_30__19_21_DSC04396.jpg","Kałuża","tag:city,tag:good" %}
 
 Centrum miasta tego dnia wyglądało inaczej. W normalny piątek byłoby pełne ludzi
 chcących spędzać tutaj wieczór, którzy by nie wracali trzeźwi.
@@ -89,7 +91,7 @@ rząd.
 Bardzo możliwe, że niedługo będziemy musieli siedzieć w domu - dokładnie tak jak
 to było w marcu.
 
-{% photo "2020_10_30__19_33_DSC04489.jpg","Spacer w deszczu","tag:city" %}
+{% photo "2020_10_30__19_33_DSC04489.jpg","Spacer w deszczu","tag:city,tag:good,tag:best" %}
 
 Stary Rynek był prawie pusty. Może ktoś "zwiedzał" z osób które widziałem,
 ale znaczna większość raczej szła do domu albo odbierała jedzenie.

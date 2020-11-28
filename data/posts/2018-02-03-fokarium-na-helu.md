@@ -49,7 +49,7 @@ Gdy dotarłem na plażę, morze było zdecydowanie spokojne a niebo
 w pełni zachmurzone. Zaczął padać śnieg który dość gwałtownie przykrył całą
 okolicę.
 
-{% photo "IMGP5237raw1.jpg","Plaża w sopocie pokryta śniegiem","timeline" %}
+{% photo "IMGP5237raw1.jpg","Plaża w sopocie pokryta śniegiem","tag:timeline" %}
 
 Tak jak [dzień wcześniej]({% post_url 2018-02-02-plaza-w-sopocie-noca %})
 tak i teraz ruszyłem w kierunku uszkodzonego pomostu.
@@ -96,7 +96,7 @@ jeszcze kilka zdjęć zrobić.
 
 Spodobała mi się łódka na brzegu.
 
-{% photo "IMGP5505raw1.jpg","Łódka na Helu","timeline" %}
+{% photo "IMGP5505raw1.jpg","Łódka na Helu","tag:timeline" %}
 
 Niestety miałem brudny obiektyw albo filtry i sporo zdjęć ma plamy.
 

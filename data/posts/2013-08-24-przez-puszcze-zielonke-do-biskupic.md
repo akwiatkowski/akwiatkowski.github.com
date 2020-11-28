@@ -50,7 +50,7 @@ jest fajny staw i podczas wiosny jest tam naprawdę ładnie.
 Nie będzie tutaj dokładnego opisu. Sporo trasy było drogami polnymi przez las i
 nie zapamiętałem dużo ciekawostek.
 
-{% photo "IMGP8357raw_b.jpg","Po żniwach","timeline" %}
+{% photo "IMGP8357raw_b.jpg","Po żniwach","tag:timeline" %}
 
 [Tuczno][wiki-tuczno] minąłem pod koniec trasy. Jest to miejscowośc wypoczynkowa, obok
 której jest w miarę duże jezioro. Z niej jechałem dalej

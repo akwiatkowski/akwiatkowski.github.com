@@ -22,7 +22,7 @@ pois:
 
 [wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/Park_Jana_Paw%C5%82a_II_w_Poznaniu
 
-{% photo_header "Obalone drzewo w parku dębińskim","tag:portfolio" %}
+{% photo_header "Obalone drzewo w parku dębińskim","tag:portfolio,tag:good,tag:best" %}
 
 Wstęp
 -----
@@ -67,6 +67,6 @@ Zatoczka na Łęgach Dębińskich. Wokół spadły już chyba wszystkie liście.
 Jest to moje ulubione miejsce. Staw ten jest bardzo rozciągnięty. Można spokojnie chodzić
 wokół niego.
 
-{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy","timeline" %}
+{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy","tag:timeline" %}
 
 Główna ścieżka przechodząca przez Łęgi - niebieski (Nadwarciański) szlak rowerowy.

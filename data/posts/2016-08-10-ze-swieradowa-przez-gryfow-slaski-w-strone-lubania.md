@@ -128,7 +128,7 @@ czemu niebo na filmiku jest znacznie ciekawsze.
 W samej wsi [Bożkowice][wiki-bozkowice] zauwayliśmy ostrzeżenie przed
 [Barszczem Sosnowskiego][wiki-barszcz-s].
 
-{% photo "IMGP4231raw1.jpg","Jadąc do Kościelników Średnich","timeline" %}
+{% photo "IMGP4231raw1.jpg","Jadąc do Kościelników Średnich","tag:timeline" %}
 
 Skręciliśmy na północ kierując się przez [Kościelnik][wiki-koscielnik] do
 [Lubania][wiki-luban]. Ta droga również była szutrowa oraz również widać z niej

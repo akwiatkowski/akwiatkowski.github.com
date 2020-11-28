@@ -85,7 +85,7 @@ i stopniowo stawał sie mniej przyjazny dla rowerzystów.
 Conajmniej raz musieliśmy przenieść rowery nad powalonym drzewem.
 Szlak zamienił się na ledwie co wydeptaną ścieżkę.
 
-{% photo "P6011649raw1.jpg","Trzcinowa droga","timeline" %}
+{% photo "P6011649raw1.jpg","Trzcinowa droga","tag:timeline" %}
 
 Patrząc na filmik teraz widzę ile wokół nas latało różnych muszek.
 Okulary są bardzo przydatne.
@@ -94,7 +94,7 @@ Opuściliśmy las i jakimiś dróżkami dotarliśmy do "trochę większej"
 drogi gruntowej. Każda droga gruntowa to było mniejszy lub większy
 piasek. Podobał mi się tunel pomiędzy trzcinami.
 
-{% photo "P6011651raw1.jpg","Jezioro Głębokie","timeline" %}
+{% photo "P6011651raw1.jpg","Jezioro Głębokie","tag:timeline" %}
 
 Dotarliśmy do Jeziora Głębokiego.
 
@@ -122,7 +122,7 @@ powiedzieli nam, że rzadko kiedy burza dociera do nich.
 Ruszyliśmy do [Pszczewa][wiki-pszczew]. Podobały mi się pola w okolicy lasu.
 Kamerka mi zaparowała i jakość filmików nie jest niestety najlepsza.
 
-{% photo "P6011699raw1.jpg","Pola przed Pszczewem","timeline" %}
+{% photo "P6011699raw1.jpg","Pola przed Pszczewem","tag:timeline" %}
 
 Zatrzymaliśmy się na rynku w [Pszczewie][wiki-pszczew]
 w idealnym momencie. Kilka minut po złożeniu
@@ -154,7 +154,7 @@ W [Rybojadach][wiki-rybojady] na chwilę zjechaliśmy nad
 [Jezioro Wielkie][wiki-jezioro-wielkie]. Deszczowy krajobraz idealnie
 kontrastował z upałem w pierwszej połowie tego dnia.
 
-{% photo "P6011759raw1.jpg","Z Rybojad do Trzciela","timeline" %}
+{% photo "P6011759raw1.jpg","Z Rybojad do Trzciela","tag:timeline" %}
 
 Gdy zaczeliśmy zbliżać się do [Trzciela][wiki-trzciel] deszcz ponownie
 zaczął padać. Mineliśmy drogę 92 i jechaliśmy przez centrum. Musiałem skoczyć

@@ -46,7 +46,7 @@ Dzień rozpoczęliśmy wyruszając na południe z [Kamionek][wiki-kamionki]. Poc
 szlak wyglądał jak spacer z lekkim podejściem po późno-jesiennym lesie. Szlak to taki
 odpowiednik "na skróty" do położonej obok drogi dla samochodów.
 
-{% photo "IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej","timeline" %}
+{% photo "IMGP3030raw1.jpg","Okolica Przełęczy Jugowskiej","tag:timeline,tag:good" %}
 
 Gdy już byliśmy w pobliżu [Przełęczy Jugowskiej][wiki-jugowska] zrobiło się znacznie
 bardziej mgliście. Zeszliśmy coś zjeść do schroniska [Zygmuntówka][wiki-zygmuntowka].
@@ -57,7 +57,7 @@ Po chwili ruszyliśmy dalej zielonym szlakiem w stronę [Jugowa][wiki-jugow]. Tr
 przeszliśmy ulicą Fabryczną w kierunku [Ludwikowic Kłodzkich][wiki-ludwikowice],
 jednak skręciliśmy dość szybko na zachód. Teraz szliśmy czarnym szlakiem rowerowym.
 
-{% photo "IMGP3119raw1.jpg","Dom w Sowinie","timeline" %}
+{% photo "IMGP3119raw1.jpg","Dom w Sowinie","tag:timeline" %}
 
 Nie wiem czy była to najlepsza decyzja. Szlak rowerowy jest idealny do roweru,
 ubita droga, raczej sensownie płasko i tak przez las 2.5km. Trochę nudne to było.
@@ -66,7 +66,7 @@ W [Sowinie][wiki-sowina] ruszyliśmy na północ w kierunku [Sokolca][wiki-sokol
 Pamiętam że podejście było trochę nużące dla mnie. Po pewnym czasie dotarliśmy
 do schroniska [Orzeł][wiki-schron-orzel].
 
-{% photo "IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina" %}
+{% photo "IMGP3126raw1.jpg","Niektóre budynki to prawdziwa ruina","tag:good" %}
 
 Warunki subiektywnie bardzo dobre, jednak nie zrozumiałem jak to może być, że
 ludzie do późna latają po korytarzu i hałasują. W nocy spadł lekki śnieg, ale

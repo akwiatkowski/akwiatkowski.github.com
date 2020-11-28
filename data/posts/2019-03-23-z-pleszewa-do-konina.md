@@ -95,7 +95,7 @@ kolei wąskotorowej, którą dojeżdżają do centrum [miasta][wiki-pleszew].
 Kierowaliśmy się na północ. Po 2km przejechaliśmy przez drogę 12/11
 i jechaliśmy do wsi [Korzkwy][wiki-korzkwy].
 
-{% photo "2019_03_23__09_28_P3230003.jpg","Wjeżdżając do wsi Skrzypnia","timeline" %}
+{% photo "2019_03_23__09_28_P3230003.jpg","Wjeżdżając do wsi Skrzypnia","tag:timeline" %}
 
 Krajobraz był monotonny. Wiosna budziła się bardzo powoli. Dominowały szare barwy
 z dodatkiem niebieskiej (niebo). W powietrzu było widać dużo wilgoci
@@ -106,7 +106,7 @@ Co jakiś czas mijaliśmy domy położone wzdłuż drogi.
 Na nagranym filmiku widziałem, że technicznie te domy były
 jeszcze we wsi [Korzkwy][wiki-korzkwy].
 
-{% photo "2019_03_23__09_38_P3230007.jpg","Opuszczając Wolę Duchowną","timeline" %}
+{% photo "2019_03_23__09_38_P3230007.jpg","Opuszczając Wolę Duchowną","tag:timeline" %}
 
 Na mapie UMP widać ślady dawnej linii wąskotorowej. Sama wioska była trochę
 gęściej zabudowana w centrum.
@@ -114,7 +114,7 @@ gęściej zabudowana w centrum.
 Planowałem przejechać przez [Czermin][wiki-czermin] jednak nie skręciliśmy w lewo,
 a później wyjechaliśmy z ulicy na drogę gruntową. Nie chciałem się wracać.
 
-{% photo "2019_03_23__09_38_P3230008.jpg","Widok w stronę wsi Czermin","timeline" %}
+{% photo "2019_03_23__09_38_P3230008.jpg","Widok w stronę wsi Czermin","tag:timeline" %}
 
 Dotarliśmy do drogi asfaltowej i teraz jechaliśmy na wschód do [Broniszewic][wiki-broniszewice].
 Nowe domy nie wpływały pozytywnie na klimat okolicy.
@@ -157,25 +157,25 @@ Wjechaliśmy w las. Musieliśmy przejechać ponad 5km drogą gruntową.
 
 Mineliśmy drogę 443, po której też nic się nie poruszało.
 
-{% photo "2019_03_23__11_36_P3230085.jpg","Droga przez las","timeline" %}
+{% photo "2019_03_23__11_36_P3230085.jpg","Droga przez las","tag:timeline" %}
 
 W [Orlinie Dużej][wiki-orlina-duza] planowaliśmy jechać na północ ale się
 zagapiliśmy, nie zauważyliśmy skrzyżowania. Tak ostatecznie jechaliśmy
 teraz na wschód.
 
-{% photo "2019_03_23__11_42_P3230090.jpg","Dom w Orlinie Małej","timeline" %}
+{% photo "2019_03_23__11_42_P3230090.jpg","Dom w Orlinie Małej","tag:timeline" %}
 
 Zobaczyliśmy ile zostało nam kilometrów do [Konina][wiki-konin] po czym
 zrozumieliśmy, że musimy się pospieszyć.
 
-{% photo "2019_03_23__11_46_P3230091.jpg","Dom w Orlinie Dużej","timeline" %}
+{% photo "2019_03_23__11_46_P3230091.jpg","Dom w Orlinie Dużej","tag:timeline" %}
 
 Nie żałuję tej trasy. Okolica tam była bardzo ładna i spokojna.
 Jazda w gęstym lesie nie jest bardzo ciekawa ale była bardzo uspokajająca.
 
 Jeżeli się nie mylę, to od wsi [Czarnybród][wiki-czarnybrod] droga była już asfaltowa.
 
-{% photo "2019_03_23__12_08_P3230101.jpg","Okolica Czarnegobrodu","timeline" %}
+{% photo "2019_03_23__12_08_P3230101.jpg","Okolica Czarnegobrodu","tag:timeline" %}
 
 Tuż po wjeździe w granice [Biskupic][wiki-biskupice] zauważyłem żabę na ulicy.
 Gdy zatrzymałem rower i ruszyłem w jej strony zobaczyłem, że są to dwie
@@ -189,13 +189,13 @@ trasy (absolutnie tu nie chodzi mi o wspomniane wyżej żaby). Musieliśmy spraw
 do [Konina][wiki-konin]. Pociąg powrotny był o 13:43 a kolejny był 3 godziny później.
 Zostało nam około 22km do granic [Konina][wiki-konin].
 
-{% photo "2019_03_23__12_22_P3230111.jpg","Staw z żabami w Biskupicach","timeline" %}
+{% photo "2019_03_23__12_22_P3230111.jpg","Staw z żabami w Biskupicach","tag:timeline" %}
 
 Całą dalszą trasę można opisać jednym zdaniem - naprzemienne pola i wsie, a
 same wsie stopniowo stawały się "sypialnią" większego miasta. Utrata spokoju i klimatu
 tych miejscowości była oczywista.
 
-{% photo "2019_03_23__12_27_P3230114.jpg","Opuszczając Biskupice","timeline" %}
+{% photo "2019_03_23__12_27_P3230114.jpg","Opuszczając Biskupice","tag:timeline" %}
 
 Jechaliśmy szybko. Ja już robiłem się zmęczony. Byłem nieprzystosowany
 do jeżdżenia po dłuższej zimowej przerwie.
@@ -205,7 +205,7 @@ W [Rzgowie][wiki-rzgow] zrobiliśmy przerwę na zakupy.
 Jechaliśmy po ścieżce rowerowej która to, jak to zwykle bywa, zniknęła
 niespodziewanie.
 
-{% photo "2019_03_23__13_53_P3230117.jpg","Okolica Warty w Koninie","timeline" %}
+{% photo "2019_03_23__13_53_P3230117.jpg","Okolica Warty w Koninie","tag:timeline" %}
 
 Gdy przejechaliśmy nad autostradą A2 po lewej stronie widziałem obniżenie
 doliny [Warty][wiki-warta]. W [Sławsku][wiki-slawsk] patrząc na mapę

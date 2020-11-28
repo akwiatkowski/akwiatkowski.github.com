@@ -91,7 +91,7 @@ Jest to jedna stacja "odległości".
 Mój pociąg się spóźnił ale i tak byłem przed czasem odjazdu tego powrotnego,
 tylko że go nie było na dworcu. Pewnie jakiś kolejny pociąg widmo.
 
-{% photo "IMGP8187raw1.jpg","Jesień była już w pełni","timeline" %}
+{% photo "IMGP8187raw1.jpg","Jesień była już w pełni","tag:timeline" %}
 
 Mogłem poczekać godzinę i ruszyć kolejnym pociągiem, albo mogłem się przejść.
 Wybrałem to drugie. Opuściłem [Jelenią Górę][wiki-jelenia-gora]
@@ -129,7 +129,7 @@ tutaj nic takiego nie miałem. Nie było określonych miejsc, przez które mam
 przejść, były określone zdjęcia jakie chciałbym zrobić
 i warunki w jakich chciałbym się znaleźć. Te rzeczy nie są deterministyczne.
 
-{% photo "IMGP8199raw1.jpg","Jesienne Rudawy Janowickie","timeline" %}
+{% photo "IMGP8199raw1.jpg","Jesienne Rudawy Janowickie","tag:timeline" %}
 <!--
 <div class='pixels-photo'>
   <p>
@@ -156,7 +156,7 @@ wejście na punkt widokowy no schodach. Pomimo tego, że ta góra jest niższa o
 widok jest chyba ciekawszy niż z [Krzyżnej Góry][wiki-krzyzna-gora] na której
 (jeżeli się nie mylę) jest blokowany drzewami ze wschodniej strony.
 
-{% photo "IMGP8273raw1.jpg","Wchodząc na Sokolik","timeline" %}
+{% photo "IMGP8273raw1.jpg","Wchodząc na Sokolik","tag:timeline" %}
 
 Następnie odwiedziłem [schronisko][wiki-szwajcarka]
 aby coś zjeść i ruszyłem żółtym szlakiem do

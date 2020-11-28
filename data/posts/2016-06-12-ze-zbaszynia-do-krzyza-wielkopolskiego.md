@@ -93,7 +93,7 @@ stary żydowski cmentarz. To że był on żydowski wiemy z tabliczki.
 Zjechaliśmy na chwilę na plażę obok jeziora Konin, chociaż nie mam pewności
 czy się ono tak nazywało.
 
-{% photo "IMGP1441raw2.jpg","Jezioro na północ od Trzciela","timeline" %}
+{% photo "IMGP1441raw2.jpg","Jezioro na północ od Trzciela","tag:timeline" %}
 
 Przejechaliśmy obok dosyć dużego tartaku. Dalej jechaliśmy głównie przez lasy aż
 do [Jabłonki Starej][wiki-jablonka-stara], w której wyjeżdzając widziałem
@@ -128,7 +128,7 @@ aby jechać. Wokół drogi są lekko pofalowane pola.
 Mieliśmy lekki podjazd, ktory nie był problemem, a lekką pracą w celu otrzymania
 późniejszej nagrody. Nagrodą tą był fajny terenowy zjazd do [Dormowa][wiki-dormowo].
 
-{% photo "IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem","timeline" %}
+{% photo "IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem","tag:timeline" %}
 
 Dojechaliśmy po pewnym czasie do lepszej drogi i kierowaliśmy się
 na północ w stronę [Międzychodu][wiki-miedzychod].

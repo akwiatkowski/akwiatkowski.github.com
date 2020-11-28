@@ -53,7 +53,7 @@ tuż przed a często nie mogłem ruszyć na południe tak z dnia na dzień.
 Ostatecznie nie chcąc czekać zgodziłem się na opcję przelotu w okolicy
 [Poznania][wiki-poznan]. Nie bardzo miałem już chęci czekać.
 
-{% photo "2019_08_07__06_10__8076649.jpg","Okolice Rabowic o poranku" %}
+{% photo "2019_08_07__06_10__8076649.jpg","Okolice Rabowic o poranku","tag:good" %}
 
 Dowiedziałem się, że lepiej by było zaplanować lot zimą, gdyż wtedy można
 również latać w środku dnia.
@@ -81,13 +81,13 @@ Trudno nawet oszacować ją na zdjęciu.
 Jeszcze nie odkryłem jak idealnie usuwać zanieczyszczenia powietrza ze zdjęcia.
 Ostatecznie zawsze zdjęcie jest bardziej szaro-niebieskie niż naturalne.
 
-{% photo "2019_08_07__06_18__8076692.jpg","Okolica Paczkowa" %}
+{% photo "2019_08_07__06_18__8076692.jpg","Okolica Paczkowa","tag:good" %}
 
 Podobały mi się okolice [Paczkowa][wiki-paczkowo]. Jest tam sporo terenów
 wiejskich. Jestem bardzo zadowolony ze zdjęć z Olympusa 12-100 podczas lotu.
 Ostrość jest co najmniej bardzo dobra.
 
-{% photo "2019_08_07__06_18__8076693.jpg","W stronę Siekierek Wielkich" %}
+{% photo "2019_08_07__06_18__8076693.jpg","W stronę Siekierek Wielkich","tag:good" %}
 
 Powoli opuszczaliśmy tereny przemysłowe i mogłem porobić kilka zdjęć
 bardziej "wiejskich".
@@ -97,7 +97,7 @@ bardziej "wiejskich".
 W sierpniu już jest po żniwach i pola są nieznacznie mniej atrakcyjne widokowo
 w mojej ocenie.
 
-{% photo "2019_08_07__06_30__8076732.jpg","Wiejskie mgiełki" %}
+{% photo "2019_08_07__06_30__8076732.jpg","Wiejskie mgiełki","tag:good,tag:best" %}
 
 Jednak będąc w górze wszystko staje się ciekawsze.
 
@@ -105,7 +105,7 @@ Jednak będąc w górze wszystko staje się ciekawsze.
 
 Bardzo mi się podoba poniższy kadr. Ulice ciekawie dzielą zdjęcie.
 
-{% photo "2019_08_07__06_35__8076759.jpg","Drogi" %}
+{% photo "2019_08_07__06_35__8076759.jpg","Drogi","tag:good,tag:best" %}
 
 Szukałem ciekawych klimatycznych wiejskich miejsc do zrobienia zdjęcia.
 

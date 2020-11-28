@@ -74,7 +74,7 @@ za żniwami.
 Musieliśmy podjechać z wysokości 65m na około 90m n.p.m. jadąc do wsi [Unimie][wiki-unimie],
 przed którą z kolei jest rzeka [Rega][wiki-rega-rzeka].
 
-{% photo "2019_07_14__09_10_P7140006.jpg","Droga w stronę wsi Unimie","timeline" %}
+{% photo "2019_07_14__09_10_P7140006.jpg","Droga w stronę wsi Unimie","tag:timeline,tag:good" %}
 
 Zjazd był całkiem intensywny. Sama droga była dla mnie idealna:
 asfalt średniej jakości, drzewa, nieidealnie prosta.
@@ -85,7 +85,7 @@ Najważniejszym budynkiem w [wiosce][wiki-unimie] jest ferma drobiu.
 Podczas wyjazdu widzieliśmy ciekawy budynek mieszkalny - ceglany, duży,
 z ciekawym wejściem. Nie zrobiłem niestety zdjęcie.
 
-{% photo "2019_07_14__09_18_P7140022.jpg","Żurawie w okolicy rzeki Regi" %}
+{% photo "2019_07_14__09_18_P7140022.jpg","Żurawie w okolicy rzeki Regi","tag:good" %}
 
 Kolejną wsią było [Dobieszewo][wiki-dobieszewo]. Na zachód są dwa jeziora
 (Konie i Mielno). Na mapie UMP nie ma do nich drogi.
@@ -103,14 +103,14 @@ w stronę wsi [Sielsko][wiki-sielsko]. Zmieniliśmy plan aby
 nie tracić tak dużo czasu na drogach niepewnej jakości. Chociaż tamta droga
 była jakości "pewnej", bo było prawie pewne, że jej jakość jest słaba.
 
-{% photo "2019_07_14__09_55_P7140054.jpg","Ucieczka brukowaną drogą" %}
+{% photo "2019_07_14__09_55_P7140054.jpg","Ucieczka brukowaną drogą","tag:good" %}
 
 Chcieliśmy dojechać do [Rekowa][wiki-rekowo] przy drodze wojewódzkiej 146.
 Okazało się tam, że droga gruntowa zarosła i musieliśmy jechać
 przez [Zachełmie][wiki-zachelmie]. Michałowi nie podobała się jazda
 po kamieniach.
 
-{% photo "2019_07_14__10_04_P7140057.jpg","Pole przed żniwami","timeline" %}
+{% photo "2019_07_14__10_04_P7140057.jpg","Pole przed żniwami","tag:timeline" %}
 
 Mała wioska Meszno mi się podobała. Gdyby wszystko zależało
 ode mnie to wolałbym właśnie jeździć przez takie zapomniane miejscowości.
@@ -136,7 +136,7 @@ dojechać alternatywną drogą.
 
 Skręciliśmy na północ. Jechaliśmy teraz 4km pod wiatr.
 
-{% photo "2019_07_14__11_34_P7140089.jpg","Okolice Dobrkowa","timeline" %}
+{% photo "2019_07_14__11_34_P7140089.jpg","Okolice Dobrkowa","tag:timeline" %}
 
 Droga przez [Orle][wiki-orle] została niedawno wyremontowana. Wsie mi się
 podobały jednak nie wiem co więcej mógłbym o nich napisać. Miałem wrażenie, że gdzieś
@@ -157,12 +157,12 @@ widzieliśmy były klimatyczne, lekko obskurne, bloki.
 Bardzo spodobało mi się to miasto. Kojarzyło mi się trochę
 z [Trzcielem][wiki-trzciel]. Podobało mi się ruiny zamku Devitz.
 
-{% photo "2019_07_14__11_49_P7140111.jpg","Kościół w miejscowości Dobra" %}
+{% photo "2019_07_14__11_49_P7140111.jpg","Kościół w miejscowości Dobra","tag:good" %}
 
 Opuściliśmy [Dobrą][wiki-dobra] na zachód. Spodobała mi się ciekawa aleja
 drzew.
 
-{% photo "2019_07_14__11_59_P7140120.jpg","Wyjazd drogą 146 z Dobrej" %}
+{% photo "2019_07_14__11_59_P7140120.jpg","Wyjazd drogą 146 z Dobrej","tag:good" %}
 
 Jechaliśmy na zachód do [Jenikowa][wiki-jenikowo] do którego zostało około 12km.
 Droga była jeszcze spokojna.
@@ -183,12 +183,12 @@ Skręciliśmy na południe. Od tego momentu droga wojewódzka stała się
 Ruch był wyraźnie większy. Droga ta łączy
 wybrzeże ze [Stargardem][wiki-stargard].
 
-{% photo "2019_07_14__13_04_P7140215.jpg","Napotkany oszołomiony wróbel we wsi Bęczno" %}
+{% photo "2019_07_14__13_04_P7140215.jpg","Napotkany oszołomiony wróbel we wsi Bęczno","tag:good,tag:bird" %}
 
 Droga na południe była mniej ciekawa. Tylko czasami widziałem jakiś ciekawy budynek.
 Ruch nie był aż taki straszny ale był wyraźny.
 
-{% photo "2019_07_14__13_49_P7140220.jpg","Okolice Parlino","timeline" %}
+{% photo "2019_07_14__13_49_P7140220.jpg","Okolice Parlino","tag:timeline" %}
 
 W [Łęczycy][wiki-leczyca] skręciliśmy na zachód. Akurat pojawiła się
 sensowna opcja jazdy po spokojniejsze drodze.

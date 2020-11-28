@@ -56,13 +56,13 @@ Przeanalizowałem opcje powrotu i wybrałem kierunek - w stronę
 [Stęszewa][wiki-steszew]. [Wielkopolski Park Narodowy][wiki-wpn] to jest zawsze
 dobra opcje.
 
-{% photo "2019_04_18__17_41_P4180009.jpg","Droga-wąwóz (Wiry, okokolica ul. Zespołowej)","timeline" %}
+{% photo "2019_04_18__17_41_P4180009.jpg","Droga-wąwóz (Wiry, okokolica ul. Zespołowej)","tag:timeline" %}
 
 Nie korzystając z pociągu musiałem niestety przejechać przez miasto.
 Dotarłem do wsi [Wiry][wiki-wiry] za którą czekał na mnie już teren
 [parku][wiki-wpn].
 
-{% photo "2019_04_18__17_45_P4180012.jpg","Żółty szlak rowerowy do Jarosławca","timeline" %}
+{% photo "2019_04_18__17_45_P4180012.jpg","Żółty szlak rowerowy do Jarosławca","tag:timeline" %}
 
 Jechałem żółtym szlakiem rowerowym - główna droga dojazdowa rowerowem.
 Pierwszym celem była osada [Jarosławiec][wiki-jaroslawiec].

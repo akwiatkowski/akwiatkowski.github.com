@@ -50,7 +50,7 @@ Dojechaliśmy rano do [Marciszowa][wiki-marciszow]. Poczekaliśmy chwilę na aut
 Tam z kolei mieliśmy trochę czasu na kolejny, więc poszedliśmy coś zjeść do centrum. Wróciliśmy i dalej jechaliśmy
 autobusem w stronę [Kowar][wiki-kowary].
 
-{% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca","timeline" %}
+{% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca","tag:timeline" %}
 
 Wysiedliśmy w [Leszczyńcu][wiki-leszczyniec], w małej wiosce położonej całkiem wysoko. Sama droga [367][wiki-367]
 położona jest całkiem wysoko.
@@ -61,11 +61,11 @@ położona jest całkiem wysoko.
 północych częśći [Rudaw][wiki-rudawy] - [Krzyżna Góra][wiki-krzyzna]. Najwyższym miejscem tej drogi jest
 [Przełęcz Kowarska][wiki-przel-kowarska], gdzie droga położona jest na wysokości 727 m n.p.m.
 
-{% photo "IMGP2286b.jpg","Centrum Leszczyńca, niedaleko sklepu","timeline" %}
+{% photo "IMGP2286b.jpg","Centrum Leszczyńca, niedaleko sklepu","tag:timeline,tag:good" %}
 
 Po zostawieniu bagaży wyruszyliśmy w kierunku najwyższej góry [Rudaw][wiki-rudawy] - [Skalnika][wiki-skalnik].
 
-{% photo "IMGP2314b.jpg","Idealnie jesienne drzewo w Leszczyńcu" %}
+{% photo "IMGP2314b.jpg","Idealnie jesienne drzewo w Leszczyńcu","tag:good,tag:best" %}
 
 Najpierw poszliśmy do centrum wsi, obok [kościoła][wiki-leszcz-kosciol] a dalej podejście w las na
 Rozdroże pod Bobrzakiem.
@@ -73,7 +73,7 @@ Rozdroże pod Bobrzakiem.
 Później szliśmy niebieskim szlakiem obok schroniska [Czartak][wiki-czartak], obok którego na asfaltowej drodzę leżał
 czarny kot. Schroniska już nie ma, zostało przekształcone teraz w gospodarstwo agroturystyczne.
 
-{% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca","timeline" %}
+{% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca","tag:timeline,tag:good" %}
 
 Szliśmy niebieskiem szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
 
@@ -84,7 +84,7 @@ tylko tą wspomnianą chwilę.
 
 Schodziliśmy inaczej - czerwonym szlakiem. Był on łatwiejszy, jednak podobnie jak niebieski był umiarkowanie ciekawy.
 
-{% photo "IMGP2646b.jpg","Tory linii kolejowej Kowary - Kamienna Góra" %}
+{% photo "IMGP2646b.jpg","Tory linii kolejowej Kowary - Kamienna Góra","tag:good" %}
 
 Wieczór we wsiach jak [Leszczyniec][wiki-leszczyniec] jest ogromnie spokojnym wydarzeniem. Chociaż
 rekordowy spokój tego miejsca został pobity później w [Pasterce][wiki-pasterka], w Górach Stołowych.

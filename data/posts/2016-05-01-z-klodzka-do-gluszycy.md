@@ -92,7 +92,7 @@ już przez wioski. Wioski te były również bardzo spokojne, ale jakoś w inny 
 Patrząc na mapę teraz to widzę, że przejeżdzaliśmy wokół, albo przez,
 [Wzgórza Włodzickich][wiki-wzgorza-wlodzickie].
 
-{% photo "IMGP9860raw1.jpg","Okolice Ścinawki Średniej","timeline" %}
+{% photo "IMGP9860raw1.jpg","Okolice Ścinawki Średniej","tag:timeline" %}
 
 Gdzieś po drodzę spotkaliśmy stado owiec, które nawet zablokowały nam drogę i
 musieliśmy przeczekać aż sobie przejdą.

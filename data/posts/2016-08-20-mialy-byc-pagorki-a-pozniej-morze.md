@@ -88,7 +88,7 @@ Możliwe że w okolicy był jakiś tartak.
 Przez [Świerzno][wiki-swierzno] ruszyliśmy na zachód w stronę
 [Nowego Żeliborza][wiki-nowy-zeliborz].
 
-{% photo "IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza","timeline" %}
+{% photo "IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza","tag:timeline" %}
 
 W tamtej okolicy sytuacja zaczęła się komplikować. O tyle jak do tej pory jechaliśmy
 drogą o prawie zerowym ruchu, z gęsto posadzonymi drzewami na poboczu, tak teraz
@@ -115,7 +115,7 @@ Jechaliśmy na północ obok Baraniej Góry (217 m n.p.m). Tam już asfaltu nie 
 była ziemia mniej lub bardziej ubita. Wokół sporo odpadów po wywożeniu drzewa
 oraz lekki spad powodował, że nie był to całkowicie niewinny zjazd.
 
-{% photo "IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki","timeline" %}
+{% photo "IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki","tag:timeline" %}
 
 Wyjechaliśmy na polankę obok rzeki Pustynki, na horyzoncie widzieliśmy
 górki: Przelęki i Dziewcza Góra.
@@ -133,7 +133,7 @@ ale droga na północ jest poprowadzona przez krótki tunelik.
 Ruszyliśmy w stronę [Warblewa][wiki-warblewo] gdzie dołączyliśmy do szlaku rowerowego
 mając nadzieję, że to poprawi jakość naszej drogi.
 
-{% photo "IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte","timeline" %}
+{% photo "IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte","tag:timeline" %}
 
 Przed Jeziorem Trzcińskim był lekki zjazd, niestety tutaj ziemia była
 najbardziej mokra. Opony zbierały glebę co znacząco zmniejszało zdolność do
@@ -164,7 +164,7 @@ na zboczu niewielkich górek.
 Teraz rozpoczęła
 się jazda przez wioski drogami o znikomym ruchu samochodowym.
 
-{% photo "IMGP4714raw1.jpg","Drzewa wokół drogi","timeline" %}
+{% photo "IMGP4714raw1.jpg","Drzewa wokół drogi","tag:timeline" %}
 
 Przed miejscowością [Laski][wiki-laski] gęste drzewa blokowały większość
 śłońca. Patrząc na mapę widzę, że kiedyś była tutaj linia kolejowa,

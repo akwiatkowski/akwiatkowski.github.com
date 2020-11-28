@@ -98,7 +98,7 @@ i jakieś jedzenie, aby mieć urozmaicenie pokarmowe podczas jazdy.
 
 Pociąc wyruszył po godzinie 8-ej. Rozpiska godzin została zaktualizowana.
 
-{% photo "\_7230277.jpg","Okolice Kolna","timeline" %}
+{% photo "\_7230277.jpg","Okolice Kolna","tag:timeline" %}
 
 Wpis ten dokańczam na początku 2019 roku. Naprawdę mam ogromny problem z czasem.
 Nie opiszę teraz dokładnie trasy gdyż nie mam szczegółowych notatek związanych
@@ -108,7 +108,7 @@ Standardowo najpierw musieliśmy opuścić okolice [Olsztyna][wiki-olsztyn].
 15km dalej w okolicy [Barczewa][wiki-barczewo] teren jest bardzo obiecujący na rower.
 Jest tam kilka jezior, rzeka i dobra siatka dróg o minimalnym ruchu samochodów.
 
-{% photo "\_7230296.jpg","Okolice Unikowa","timeline" %}
+{% photo "\_7230296.jpg","Okolice Unikowa","tag:timeline" %}
 
 Patrząc na mapę zaciekawiły mnie tereny w okolicy [Jezioran][wiki-jeziorany].
 Jest tam sporo tras rowerowych, a teren wygląda na to, aby był ładnie pofalowany.
@@ -126,7 +126,7 @@ Kolejną większą miejscowością był [Kętrzyn][wiki-ketrzyn] gdzie zaciekawi
 mnie [zamek][wiki-ketrzyn-zamek]. Według mapy są tutaj tory do [Węgorzewa][wiki-wegorzewo]
 ale przystanek ten jest wykreślony z bazy połączeń osobowych.
 
-{% photo "\_7230431.jpg","Okolice stacji Nowy Młyn niedaleko Kętrzyna","timeline" %}
+{% photo "\_7230431.jpg","Okolice stacji Nowy Młyn niedaleko Kętrzyna","tag:timeline" %}
 
 Wjeżdżaliśmy teraz w "bardziej mazurskie" [Mazury][wiki-mazury].
 Przykładem tego jest okolica wsi [Martiany][wiki-martiany] obok której są 4 różne jeziora.

@@ -80,7 +80,7 @@ niższa.
 Tego dnia [Kruszyniany][wiki-kruszyniany] były zupełnie inną, spokojniejszą
 miejscowością. Prawie nikogo nie mijaliśmy na ulicy.
 
-{% photo "P8060269.jpg","Droga Kruszyniany - Krynki","timeline" %}
+{% photo "P8060269.jpg","Droga Kruszyniany - Krynki","tag:timeline" %}
 
 Jechaliśmy na północ w stronę [Krynek][wiki-krynki].
 Jedyną miejscowość, jaką mieliśmy po drodze, to była wieś [Górka][wiki-gorka].
@@ -92,7 +92,7 @@ W okolicy jest punk widokowy Kosmata Góra. Prawie do niego trafiliśmy.
 Możliwe, że ten punkt zarósł. Wjeżdżają do centrum [wsi][wiki-gorka]
 widoki nie były jakieś rewelacyjne.
 
-{% photo "P8060275.jpg","Krzyż we wsi Górka","timeline" %}
+{% photo "P8060275.jpg","Krzyż we wsi Górka","tag:timeline" %}
 
 Sama [wieś][wiki-gorka] jest dość ciekawa. Są ciekawe, podobne do siebie
 drewniane domy. Te domy wyglądają inaczej, trochę jakby były letniskowe.
@@ -108,7 +108,7 @@ bardziej są uniezależnieni od tego uniwersalnego stylu.
 Jechaliśmy drogą gruntową na północ. W okolicy jest pomnik przyrody - aleja drzew,
 a obok drewniana stodoła.
 
-{% photo "P8060276.jpg","Rzeka Nietupa","timeline" %}
+{% photo "P8060276.jpg","Rzeka Nietupa","tag:timeline" %}
 
 Musieliśmy podjechać około 15m w górę, po czym czekał na nas stopniowy 20m
 zjazd do poziomu rzeki [Nietupy][wiki-nietupa-rzeka]. Obok jest "Łowisko u Stacha".
@@ -118,7 +118,7 @@ później sprawdziłem przejeżdża tu autobus z [Białegostoku][wiki-bialystok]
 przez [Supraśl][wiki-suprasl], [Sokołde][wiki-sokolda] i [Krynki][wiki-krynki]
 do [Kruszynian][wiki-kruszyniany].
 
-{% photo "P8060279.jpg","Skrzyżowanie do Plebanowa","timeline" %}
+{% photo "P8060279.jpg","Skrzyżowanie do Plebanowa","tag:timeline" %}
 
 Podobało mi się okolica skrzyżowania do [Plebanowa][wiki-plebanowo].
 Cały ten obszar w promieniu 10km może być interesujący.
@@ -134,7 +134,7 @@ i właśnie się o tym przekonaliśmy. Kupiliśmy naleśniki i fasolkę w sklepi
 Pani nam podgrzała w mikrofali.
 Naszą restauracją był park w centrum [Krynek][wiki-krynki].
 
-{% photo "P8060301.jpg","Jadąc do Silwarium","timeline" %}
+{% photo "P8060301.jpg","Jadąc do Silwarium","tag:timeline" %}
 
 Ruszyliśmy drogą 676 na zachód. Celem było [Silwarium][silvarium2] (arboretum)
 obok [Poczopka][wiki-poczopek]. Miejsce to jest oddalone około 15km od
@@ -149,7 +149,7 @@ Samo [Silwarium][silvarium2] wymagało nadrobienia 6km
 a przez sporą część tego dnia jechaliśmy pod wiatr. Również mieliśmy
 sporo przewyższeń. Jazda pod wiatr jest bardzo demotywująca.
 
-{% photo "P8060310.jpg","Jadąc do Silwarium","timeline" %}
+{% photo "P8060310.jpg","Jadąc do Silwarium","tag:timeline" %}
 
 Droga była dosyć monotonna: obok pola, wzdłuż drogi drzewa.
 Na szczęście ruch nie był zbyt duży.
@@ -172,7 +172,7 @@ tego miejsca.
 
 Ruszyliśmy drogą powrotną. Na niebie było znacznie mniej chmur w tym momencie.
 
-{% photo "P8060417.jpg","Droga w stronę Ostrowa Północnego","timeline" %}
+{% photo "P8060417.jpg","Droga w stronę Ostrowa Północnego","tag:timeline" %}
 
 Zjazd z wiatrem do [Ostrowa Północnego][wiki-ostrow-polnocny] był bardzo fajny.
 Zapomniałem o tym, że zaraz zacznie się jazda pod wiatr. A zostało nam 20km
@@ -208,7 +208,7 @@ Po opuszczeniu [Starej Kamionki][wiki-stara-kamionka] zostało nam 6km do
 [Sokółki][wiki-sokolka]. Byliśmy już wymęczeni dzisiejszą trasą.
 Niestety nasza baza była w zachodniej części [miasta][wiki-sokolka].
 
-{% photo "P8060427.jpg","Droga do Sokółki","timeline" %}
+{% photo "P8060427.jpg","Droga do Sokółki","tag:timeline" %}
 
 Zbliżając się do [Sokółki][wiki-sokolka] po prawej stronie widziałem
 lasy w okolicy [Szyszek][wiki-szyszki].

@@ -57,7 +57,7 @@ Jechaliśmy przez las kilka kilometrów aż do [Nowego Młyna][wiki-nowy-mlyn].
 Od tego momentu jechaliśmy drogą asfaltową mijając z prawej strony
 [Rezerwat Bagno Chorzemińskie][wiki-bagno-chorzeminskie].
 
-{% photo "IMGP1407raw1.jpg","Jezioro w Wolsztynie","timeline" %}
+{% photo "IMGP1407raw1.jpg","Jezioro w Wolsztynie","tag:timeline" %}
 
 Minęliśmy również
 dwa jeziora, tylko niestety i tego nie widzieliśmy na własne oczy.

@@ -69,7 +69,7 @@ autobusu kierowałem się wzdłuż jego trasy na wschód.
 A to zrobiłem jakieś zdjęcia infrastruktury kolejowej, a to jakiemuś
 budynkowi.
 
-{% photo "2018_10_08_17_19__A080042.jpg","Jesienne drzewa w okolicy pałacu w Wojanowie","timeline" %}
+{% photo "2018_10_08_17_19__A080042.jpg","Jesienne drzewa w okolicy pałacu w Wojanowie","tag:timeline" %}
 
 Wysiadłem w [Wojanowie][wiki-wojanow]. Ruszyłem drogą obok pałacu.
 Chciałem tylko pospacerować się po okolicy, a ostatecznie przeszedłem
@@ -81,7 +81,7 @@ w [styczniu 2017]({% post_url 2017-01-10-zimowe-okolice-wojanowa %}).
 Próbowałem zrobić kilka zdjęć "pod słońce". Nawet zwykłe drzewa wyglądają wtedy
 ciekawiej, inaczej.
 
-{% photo "2018_10_08_17_53__A080137.jpg","Droga gruntowa do Bobrowa","timeline" %}
+{% photo "2018_10_08_17_53__A080137.jpg","Droga gruntowa do Bobrowa","tag:timeline" %}
 
 Ruszyłem drogą gruntową, znanym skrótem do [Bobrowa][wiki-bobrow]. W praktyce ja
 nie odróżniam [Bobrowa][wiki-bobrow] od [Wojanowa][wiki-wojanow].

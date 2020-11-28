@@ -75,7 +75,7 @@ tam [zamek krzyżacki][wiki-zamek-w-bytowie]. Obok niego skręciliśmy w lewo na
 Wolności. Chcieliśmy wyjechać z miasta w stronę do [Dąbrówki][wiki-dabrowka].
 Akurat ta część dróg w [mieście][wiki-bytow] było remontowana.
 
-{% photo "2019_06_09__09_37_P6090447.jpg","Jedna z wielu dróg do niewiadomo gdzie","timeline" %}
+{% photo "2019_06_09__09_37_P6090447.jpg","Jedna z wielu dróg do niewiadomo gdzie","tag:timeline" %}
 
 Wybraliśmy chyba najspokojniejszą drogę wyjazdową w stronę do [Miastka][wiki-miastko].
 
@@ -84,7 +84,7 @@ Krajobraz przypominał mi
 Spokojne drogi, pofalowane pola i dużo zieleni. Chociaż wydaje mi się, że mazurskie
 wsie mają swój inny, mniej ucywilizowany klimat.
 
-{% photo "2019_06_09__09_44_P6090449.jpg","Okolice drogi do Półczynka","timeline" %}
+{% photo "2019_06_09__09_44_P6090449.jpg","Okolice drogi do Półczynka","tag:timeline" %}
 
 Jadąc do [Dąbrówki][wiki-dabrowka] widzieliśmy na południe drogi gruntowe.
 Jest tam dolina rzeki Boruny i bardzo ciekawy
@@ -94,18 +94,18 @@ jednak racjonalnie wiedziałem,
 Oczywiście racjonalnie patrząc mieliśmy solidną trasę do przejechania dzisiaj
 i nie powinniśmy zbaczać.
 
-{% photo "2019_06_09__09_45_P6090451.jpg","Widok na Nieczulice","timeline" %}
+{% photo "2019_06_09__09_45_P6090451.jpg","Widok na Nieczulice","tag:timeline" %}
 
 Gdy mineliśmy [Nieczulice][wiki-nieczulice] miałem idealny widok na
 tory [linii 212][wiki-linia-212] w stronę [Korzybia][wiki-korzybie].
 Aktualnie jeżdżą tam tylko [drezyny][bytowskie-drezyny].
 
-{% photo "2019_06_09__09_45_P6090453.jpg","Kolejna droga gruntowa","timeline" %}
+{% photo "2019_06_09__09_45_P6090453.jpg","Kolejna droga gruntowa","tag:timeline" %}
 
 W okolicy była kiedyś [linia][wiki-bytow-miastko] do [Miastka][wiki-miastko],
 która została rozebrana po 1945 roku.
 
-{% photo "2019_06_09__09_53_P6090473.jpg","Linia kolejowa 212","timeline" %}
+{% photo "2019_06_09__09_53_P6090473.jpg","Linia kolejowa 212","tag:timeline" %}
 
 Zostało nam trochę ponad kilometr do [Dąbrówki][wiki-dabrowka].
 
@@ -130,26 +130,26 @@ ale oni mieli znacznie węższe opony.
 Patrząc teraz na mapę to zaciekawiła mnie droga do [Modrzejewa][wiki-modrzejewo].
 W okolicy Jeziora Chotkowskiego byłby na niej dość mocny zjazd i podjazd.
 
-{% photo "2019_06_09__10_32_P6090535.jpg","Okolica miejscowości Tuchomie","timeline" %}  
+{% photo "2019_06_09__10_32_P6090535.jpg","Okolica miejscowości Tuchomie","tag:timeline" %}  
 
 Zjechaliśmy do [Tuchomii][wiki-tuchomie] przez którą przeływa rzeka
 [Kamienica][wiki-kamienica-rzeka]. Szukaliśmy czynnego sklepu i
 dość łatwo go znaleźliśmy. Zrobiliśmy półgodzinną przerwę co było sporym
 luksusem jak na tak zaplanowany dzień.
 
-{% photo "2019_06_09__11_23_P6090543.jpg","Osada Jabłoniec","timeline" %}
+{% photo "2019_06_09__11_23_P6090543.jpg","Osada Jabłoniec","tag:timeline" %}
 
 Nie mieliśmy jasno określonej trasy. Kierowaliśmy się docelowo do [Miastka][wiki-miastko]
 wybierając drogi o mniejszym ruchu samochodów zamiast krajówki. Z tego powodu ruszyliśmy
 do wsi [Nowe Huty][wiki-nowe-huty].
 
-{% photo "2019_06_09__11_28_P6090548.jpg","Droga do Nowej Huty","timeline" %}
+{% photo "2019_06_09__11_28_P6090548.jpg","Droga do Nowej Huty","tag:timeline" %}
 
 Jechaliśmy na północny-zachód a nasz cel był na południowym-zachodzie.
 Trochę czułem się dziwnie z tym faktem, jednak innych sensownych dróg nie
 widziałem na mapie.
 
-{% photo "2019_06_09__11_28_P6090555.jpg","Droga do Nowej Huty","timeline" %}
+{% photo "2019_06_09__11_28_P6090555.jpg","Droga do Nowej Huty","tag:timeline" %}
 
 [Nowe Huty][wiki-nowe-huty] są w dwóch miejscach. Widzieliśmy najpierw małą
 osadę ze swoim przystankiem autobusowym i po pewnym czasie wjechaliśmy
@@ -173,7 +173,7 @@ Dotarliśmy do drogi regionalnej. Chcieliśmy jechać na południe i następnie
 jakoś dostać się do [Wałdowa][wiki-waldowo]. Minęliśmy nowe słupy wysokiego
 napięcia.
 
-{% photo "2019_06_09__12_07_P6090589.jpg","Staw we wsi Podgórze","timeline" %}
+{% photo "2019_06_09__12_07_P6090589.jpg","Staw we wsi Podgórze","tag:timeline" %}
 
 Według mapy UMP musieliśmy przejechać tylko 4km po drodze regionalnej. Droga
 ta okazała się gorsza niż normalna droga gruntowa. Była ona zarośnięta i
@@ -182,24 +182,24 @@ jednak wolałem zmienić plan,
 gdyż dla gravelów z sakwami mogłoby to być bardzo trudne. Dla mnie
 było to bezsensownie trudne a jechałem rowerem MTB.
 
-{% photo "2019_06_09__12_37_P6090595.jpg","Droga do Turowa","timeline" %}
+{% photo "2019_06_09__12_37_P6090595.jpg","Droga do Turowa","tag:timeline" %}
 
 Postanowiliśmy jechać przez wieś [Role][wiki-role] do [Trzcinno][wiki-trzcinno]
 a tam już zostałoby tylko 12km do [Miastka][wiki-miastko].
 
-{% photo "2019_06_09__12_56_P6090598.jpg","Rodzina łabędzi we wsi Żabno","timeline" %}
+{% photo "2019_06_09__12_56_P6090598.jpg","Rodzina łabędzi we wsi Żabno","tag:timeline" %}
 
 Wsie które mijaliśmy były bardzo zbliżone do siebie, jednak ich ogólny klimat
 oraz drogi między nimi charakteryzowały ten teren. Chyba wszystkie drogi były
 gęsto zadrzewione. Idealnie nadawały się na rower. Szkoda tylko, że dojazd jest
 tutaj tak trudny.
 
-{% photo "2019_06_09__13_00_P6090604.jpg","Opuszczając Żabno","timeline" %}
+{% photo "2019_06_09__13_00_P6090604.jpg","Opuszczając Żabno","tag:timeline" %}
 
 Wkroczyliśmy w teren lasów, chyba głównie iglastych. Miałem wrażenie, że
 drzewa są trochę "rzadkie".
 
-{% photo "2019_06_09__13_32_P6090614.jpg","Dolina rzeki Miłacz","timeline" %}
+{% photo "2019_06_09__13_32_P6090614.jpg","Dolina rzeki Miłacz","tag:timeline" %}
 
 We wsi [Trzcinno][wiki-trzcinno] był jakiś wiejski festyn. Gdy opuszczaliśmy
 tą miejscowość przyjechał rajd motorowy.

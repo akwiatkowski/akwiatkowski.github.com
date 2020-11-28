@@ -85,12 +85,12 @@ telekonwerterem aby robić zdjęcia obiektom oddalonym ode mnie.
 Niestety przez zanieczyszczenie powietrza dość mocno muszę przerabiać
 zdjęcia aby wyciągnąć szczegóły, co często ma swoje konsekwencje.
 
-{% photo "2019_10_12__13_48_DSC01633.jpg","Wysuszona trawa i kosodrzewina","timeline" %}
+{% photo "2019_10_12__13_48_DSC01633.jpg","Wysuszona trawa i kosodrzewina","tag:timeline" %}
 
 Bardzo mi się podobał kolor trawy w połączeniu z suchym krzewem.
 To chyba był najciekawszy obiekt do zdjęć podczas tej wycieczki.
 
-{% photo "2019_10_12__13_52__A122680.jpg","Wysuszona trawa i suchy krzew","timeline" %}
+{% photo "2019_10_12__13_52__A122680.jpg","Wysuszona trawa i suchy krzew","tag:timeline" %}
 
 Najlepsze rezultaty były gdy robiłem zdjęcia teleobiektywem.
 

@@ -53,12 +53,12 @@ to jest ten mniej znany i niższy.
 Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów Wierch][wiki-bordiow] zeszliśmy obok wsi
 [Czarna][wiki-czarna]. Niewiele tam było ciekawego, ale też widać tutaj klimat [Beskidu Niskiego][wiki-beskid-niski].
 
-{% photo "IMGP6154.JPG","Podejście niebieskim szlakiem w stronę Dzielca" %}
+{% photo "IMGP6154.JPG","Podejście niebieskim szlakiem w stronę Dzielca","tag:good" %}
 
 Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejscami był prześwit i widziałem jezioro
 [Klimkówkę][wiki-klimkowka], jednak nie na tyle aby móc zrobić ciekawe zdjęcia.
 
-{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy","timeline" %}
+{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy","tag:timeline,tag:best" %}
 
 Pierwszym ciekawym miejscem była polana niedaleko góry [Flasza][wiki-flasza]. Chwilę po tym zaczęliśmy schodzić do wsi
 [Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro o tej samej nazwie.

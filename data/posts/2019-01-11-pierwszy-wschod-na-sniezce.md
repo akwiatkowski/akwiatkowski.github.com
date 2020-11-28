@@ -63,7 +63,7 @@ Poprzedniego dnia wieczorem już byłem spakowany. Pozostało mi tylko się ubra
 i zrobić herbatę.
 
 <!-- {% photo "2019_01_11__07_02__1110744_01.jpg","Rozpoczęcie podejścia na Śnieżkę" %} -->
-{% photo "2019_01_11__07_06__1110755_02.jpg","Światła Karpacza","timeline" %}
+{% photo "2019_01_11__07_06__1110755_02.jpg","Światła Karpacza","tag:timeline" %}
 
 Ruszyliśmy chwilę po godzinie 5-tej. Zderzenie z zaspami śniegu zmieniło myśli
 o tym co jest ciężkie. Zastanawiałem się "po co ja to robię? przecież mógłbym siedzieć

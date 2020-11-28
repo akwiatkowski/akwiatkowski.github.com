@@ -52,7 +52,7 @@ deszczu korzystając rozmycia, jakie daje aparat pełnoklatkowy i jasny obiektyw
 
 ## Szczegóły
 
-{% photo "2019_10_05__11_54_DSC00581.jpg","Czarny szlak rowerowy z Porażyn-Stacja do Białej Wsi","timeline" %}
+{% photo "2019_10_05__11_54_DSC00581.jpg","Czarny szlak rowerowy z Porażyn-Stacja do Białej Wsi","tag:timeline" %}
 
 Tego dnia padało. Padało dość mocno i ja sam nie byłem pewien tego wyjścia.
 Gdy byłem poza domem deszcz przekonywał mnie do powrotu. Kupiłem coś w sklepie,
@@ -71,7 +71,7 @@ po okolicy i wrócić. Ekonomicznie i czasowe nie byłoby to sensowne, jednak
 gdy pada deszcz i jest ogólnie brzydko to przyjąłem ten plan. Postanowiłem
 wracać pierwszym powrotnym pociągiem.
 
-{% photo "2019_10_05__12_23_DSC00629.jpg","Deszczowe liście","timeline" %}
+{% photo "2019_10_05__12_23_DSC00629.jpg","Deszczowe liście","tag:timeline,tag:good" %}
 
 Gdy udałem się na skraj miejscowości zacząłem myśleć o powrocie. Popatrzyłem na siłę deszczu,
 połączenia powrotne, odległość i postanowiłem "zaszaleć".
@@ -93,12 +93,12 @@ obiektywu. Trochę to łamie standardy fotografii krajobrazowej ale w fotografii
 Wkroczyłem do wsi [Kopanki][wiki-kopanki]. Moja trasa w większości przebiegała przez
 lasy dlatego doceniałem każde urozmaicenie.
 
-{% photo "2019_10_05__13_03_DSC00679.jpg","Okolice osady Porażynko","timeline" %}
+{% photo "2019_10_05__13_03_DSC00679.jpg","Okolice osady Porażynko","tag:timeline" %}
 
 Sama wieś nie była specjalnie ciekawa, chyba że zapomniałem zrobić ciekawego zdjęcia
 albo bardziej skupiałem się na zdjęciach jesiennego lasu.
 
-{% photo "2019_10_05__13_08_DSC00691.jpg","Kropelki" %}
+{% photo "2019_10_05__13_08_DSC00691.jpg","Kropelki","tag:good" %}
 
 Nie chciałem wrócić tylko ze zdjęciami lasu. Szukałem inne pomysły.
 Kropelki na ciemych liściach to ciekawy przykład.
@@ -113,7 +113,7 @@ Zastanawiam się dlaczego zdjęcia Sony są bardziej kontrastowe i nasycone w
 porównaniu do zdjęć zrobionych Olympusem. Możliwe że powinienem bardziej
 "przesuwać suwaki".
 
-{% photo "2019_10_05__13_15_DSC00713.jpg","Przyschnięta paproć" %}
+{% photo "2019_10_05__13_15_DSC00713.jpg","Przyschnięta paproć","tag:good" %}
 
 Powoli opuszczałem ten gęsty las. Byłem trochę zmęczony nim, jak i pogodą.
 Moje spodnie nie były deszczo-odporne. Było mi ogólnie trochę zimno.

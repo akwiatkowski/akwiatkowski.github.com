@@ -44,13 +44,13 @@ Szczegóły
 Początek trasy to klasyczny dojazd do [Złotnik][wiki-zlotniki]. Następnie kierowałem
 się w stronę [Kiekrza][wiki-kiekrz] i dalej na północ w stronę [Soboty][wiki-sobota].
 
-{% photo "IMGP5478raw1.jpg","Zielone pole","timeline" %}
+{% photo "IMGP5478raw1.jpg","Zielone pole","tag:timeline,tag:good" %}
 
 Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za dużo
 razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest
 most nad drogą [S11][wiki-s11].
 
-{% photo "IMGP5484raw1.jpg","Rzepakowe pole","timeline" %}
+{% photo "IMGP5484raw1.jpg","Rzepakowe pole","tag:timeline" %}
 
 Za [Sobotą][wiki-sobota] wjechałem w las i skręciłem lekko na zachód przez
 [Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] w stronę [Pamiątkowa][wiki-pamiatkowo].

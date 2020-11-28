@@ -42,7 +42,7 @@ Obudziliśmy się w miarę wcześnie widząc lekkie pogorzelisko - ślady wczora
 dwóch imprez. Wyszliśmy około 6:15, co jest niebywałe patrząc na to, o której
 normalnie się budzę.
 
-{% photo "IMGP6850raw1.jpg","Beskid Mały wczesnym rankiem","timeline" %}
+{% photo "IMGP6850raw1.jpg","Beskid Mały wczesnym rankiem","tag:timeline,tag:good" %}
 
 Schodziliśmy czarnym szlakiem na północ przez [Czarny Groń][wiki-czarny-gron].
 Od tego miejsca zrobiło sie trochę stromiej, ale nie było tragedii. Szliśmy już
@@ -55,7 +55,7 @@ Udało nam się to w południowej części wsi [Rzyki][wiki-rzyki].
 Nie pamiętam o której godzinie, ale na pewno to było dość
 wcześnie w niedzielę, więc całkiem duży fart.
 
-{% photo "IMGP6854raw1.jpg","Okilica wsi Rzyki","timeline" %}
+{% photo "IMGP6854raw1.jpg","Okilica wsi Rzyki","tag:timeline" %}
 
 W centrum [Rzyków][wiki-rzyki] miał się rozpocząć czarny szlak i chyba się rozpoczął.
 Problemem było przejście
@@ -69,12 +69,12 @@ Miłe było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzn
 i wysoką trawę. Tutaj zaczęła ona mnie delikatnie irytować, ale przemilczałem to,
 gdyż rzadko się chodzi po takich terenach.
 
-{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","timeline" %}
+{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","tag:timeline" %}
 
 W [Zagórniku][wiki-zagornik] kupiliśmy za dużo picia (soki, jogurty, ...) i
 na przystanku to "obalaliśmy".
 
-{% photo "IMGP6901raw1.jpg","Gęsta trawa" %}
+{% photo "IMGP6901raw1.jpg","Gęsta trawa","tag:good" %}
 
 Ruszyliśmy ulicą Inwałdzką, która miała zaprowadzić nas do [Inwałdu][wiki-inwald].
 Nie pamiętam już szczegółów, ale kojarzę, że ten fragment mi się najbardziej

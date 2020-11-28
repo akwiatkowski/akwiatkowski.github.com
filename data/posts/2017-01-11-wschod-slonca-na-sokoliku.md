@@ -103,7 +103,7 @@ Sama zmiana obiektywu musiała być przeprowadzona w plecaku a zdjęcia mogłem 
 tylko jak akurat w danej sekundzie wiatr był słabszy.
 Teleobiektyw się raczej nie spisał w tych warunkach.
 
-{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","timeline" %}
+{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","tag:timeline" %}
 
 Przez wszelakie drgania miałem problem z ustawianiem ostrości przez LiveView.
 

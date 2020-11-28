@@ -52,14 +52,14 @@ będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 Dopiero od tego momentu rozpoczęły się najciekawsze widoki - wioski i pagórki w
 okolicy [Rzeczki Górnej][wiki-rzeczka-gorna].
 
-{% photo "IMGP2603raw2.jpg","Ulica Gdańska w Głuszycy" %}
+{% photo "IMGP2603raw2.jpg","Ulica Gdańska w Głuszycy","tag:good" %}
 
 Trudno mi wytłumaczyć teraz dlaczego,
 ale dla mnie teren jest tam bardzo ciekawy. Zwłaszcza [Przełęcz Sokola][wiki-przelecz-sokola].
 Jest to miejsce łączące góry - gdyż na południe jest lekki spad terenu, jak i doliny -
 gdyż jest to wioska ukryta w lekkiej dolinie.
 
-{% photo "IMGP2652b1.jpg","Polana niedaleko Rzeczki","timeline" %}
+{% photo "IMGP2652b1.jpg","Polana niedaleko Rzeczki","tag:timeline,tag:good" %}
 
 Zaczęliśmy podejście z [Przełęczy Sokolej][wiki-przelecz-sokola] w stronę
 [Wielkiej Sowy][wiki-wielka-sowa]. Tutaj również było ciekawie. Podejście było
@@ -72,12 +72,12 @@ Dalsze podejście to był głównie spacer w lesie. Pojawiło się trochę stare
 w okolicach [Wielkiej Sowy][wiki-wielka-sowa]. Weszliśmy na wieżę, w której był
 całkiem ładny widok na okolicę.
 
-{% photo "IMGP2708raw1.jpg","Okolica Schroniska Orzeł" %}
+{% photo "IMGP2708raw1.jpg","Okolica Schroniska Orzeł","tag:good" %}
 
 Tam właśnie zrobiłem główne zdjęcie tego posta -
 widok na [Śnieżkę][wiki-sniezka]. Odległość w linii prostej - około 53km.
 
-{% photo "IMGP2862raw1.jpg","Widok na Ślężę" %}
+{% photo "IMGP2862raw1.jpg","Widok na Ślężę","tag:good" %}
 
 Zejście do [Kamionek][wiki-kamionki] było już mniej interesujące jeżeli chodzi o
 widoki. Był to styczeń, więc zeszliśmy prawie przed zmrokiem. Po drodzę

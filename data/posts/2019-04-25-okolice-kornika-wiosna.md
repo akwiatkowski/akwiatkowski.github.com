@@ -75,14 +75,14 @@ Jadąc szosówką nie było opcji abym jechał po leśnej drodze gruntowej.
 Z niemałej odległości widziałem, że nie ma tam nic innego niż piasek.
 Wróciłem aby jechać zgodnie z wcześniej zaplanowaną trasą.
 
-{% photo "2019_04_25__17_05_P4250009.jpg","Przeb Borowem","timeline" %}
+{% photo "2019_04_25__17_05_P4250009.jpg","Przeb Borowem","tag:timeline" %}
 
 Jechałem ulicą Klonową do skrzyżowania. Skręciłem w stronę wsi [Borowo][wiki-borowo].
 Przy wyjeździe ze wsi widziałem osiedle nowych domów, chyba szeregowców. Dziwnie ono wyglądało,
 tak nowocześnie i ciasno - budynki obok siebie. Mocno kontrastowało się to z chyba każdym
 budynkiem mieszkalnym, który widziałem tego dnia.
 
-{% photo "2019_04_25__17_21_P4250025.jpg","Rzeka Szywra (Miłosławka)","timeline" %}
+{% photo "2019_04_25__17_21_P4250025.jpg","Rzeka Szywra (Miłosławka)","tag:timeline" %}
 
 Wjechałem w las. Słońce świeciło wprost na mnie, oraz na kamerkę. Było stosunkowo ciepło.
 Las ten nie był zbyt ciekawym miejscem ale doceniałem znacznie lepsze powietrze.
@@ -91,7 +91,7 @@ Zastanawiałem się, jakie będzie lato w tym roku. Czy już globalne ocieplenie
 nasz klimat, że normalne deszcze będą czymś rzadkim. Przypomniało mi się suche
 lato 2018 roku i brak istotnych deszczów przez dłuższy czas.
 
-{% photo "2019_04_25__17_26_P4250028.jpg","Rzeka Moskawa","timeline" %}
+{% photo "2019_04_25__17_26_P4250028.jpg","Rzeka Moskawa","tag:timeline" %}
 
 Zbliżałem się do wsi [Czarnotki][wiki-czarnotki]. Minąłem jakiś strumień.
 Zatrzymałem rower i wróciłem aby dokładniej go zobaczyć.
@@ -115,18 +115,18 @@ na wycieczki rowerowe. Nie jest on super ostry, jednak zmiany obiektywów zaczyn
 mnie denerwować. Zastanawiam się, czy Olympus 12-40 nie byłby lepszym rozwiązaniem.
 Na razie przetestuję ten i zobaczymy jakie będę miał wnioski.
 
-{% photo "2019_04_25__17_39_P4250059.jpg","Widok na wieś Brzostek","timeline" %}
+{% photo "2019_04_25__17_39_P4250059.jpg","Widok na wieś Brzostek","tag:timeline" %}
 
 Ze względu na bliskość drogi 432, którą minąłem, zauważyć można było więcej nowoczesnych domów.
 
 Zbliżałem się do wsi [Śnieciska][wiki-snieciska].
 
-{% photo "2019_04_25__17_51_P4250068.jpg","Stacja kolei wąskotorowej Śnieciska","timeline" %}
+{% photo "2019_04_25__17_51_P4250068.jpg","Stacja kolei wąskotorowej Śnieciska","tag:timeline" %}
 
 W [Śnieciskach][wiki-snieciska] po prawej stronie widziałem teren pałacu.
 W tym momencie działa tam szkoła.
 
-{% photo "2019_04_25__18_08_P4250087.jpg","Okolica Bożegodaru","timeline" %}
+{% photo "2019_04_25__18_08_P4250087.jpg","Okolica Bożegodaru","tag:timeline" %}
 
 Zostało mi około 8km do [Kórnika][wiki-kornik], do którego już teraz jechałem
 raczej bezpośrednio.
@@ -140,7 +140,7 @@ Gdy wyjechałem z [Bożegodaru][wiki-bozydar] po lewej stronie mijałem pole
 kwitnącego rzepaku, którego zdjęcia nie zrobiłem a nagrałem (dla siebie)
 kamerką.
 
-{% photo "2019_04_25__18_15_P4250108.jpg","Jadąć do Prusinowa","timeline" %}
+{% photo "2019_04_25__18_15_P4250108.jpg","Jadąć do Prusinowa","tag:timeline" %}
 
 W [Biernatkach][wiki-biernatki] widziałem domy letniskowe. Nie zatrzymywałem się
 na zdjęcia.

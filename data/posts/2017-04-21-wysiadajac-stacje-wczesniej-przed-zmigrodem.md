@@ -75,7 +75,7 @@ W tym miejscu przejeżdzałem jadąc do [Radziądza][wiki-radziadz]
 Dojeżdzając do [Żmigrodu][wiki-zmigrod] ruch samochodowy stał się znacznie wyraźniejszy.
 Co jakiś czas mijaliśmy stare budynki, które dodawały uroku tym okolicom.
 
-{% photo "IMGP4557raw1.jpg","Jadąc do Żmigrodu","timeline" %}
+{% photo "IMGP4557raw1.jpg","Jadąc do Żmigrodu","tag:timeline" %}
 
 Przejechaliśmy przez centrum miasta i ulicą Sportową wyjechaliśmy na wschód.
 Droga ta była spokojna, wokół mijaliśmy jeszcze gołe pola. Niebo jak i
@@ -87,7 +87,7 @@ w normalnym [Osieku][wiki-osiek] skręciliśmy w lewo na północ.
 Dojechaliśmy do Stawu Rudego i od tego momentu czuliśmy już leśny klimat
 [Doliny Baryczy][wiki-dolina-baryczy]. Podjechaliśmy nad staw na chwilę.
 
-{% photo "IMGP4622raw1.jpg","Osada Hucisko","timeline" %}
+{% photo "IMGP4622raw1.jpg","Osada Hucisko","tag:timeline" %}
 
 Teraz naszym celem było jedzenie. Dowiedzieliśmy się wcześniej, że w sezonie jest
 czynna restauracja Karczma Rybna w [Rudzie Żmigrodzkiej][wiki-ruda-zmigrodzka].

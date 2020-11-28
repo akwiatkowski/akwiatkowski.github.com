@@ -84,7 +84,7 @@ Tym razem oprócz Olympusa byłem z pełnoklatkowym Sony. Chciałem je przetesto
 podczas "właśnie takiej" (statyw, punkt widokowy) fotografii.
 
 <!--{% photo "2019_10_11__07_18__A110632.jpg","Poranny widok na Góry Kamienne" %}-->
-{% photo "2019_10_11__07_14__A110612.jpg","Wschodzące słońce" %}
+{% photo "2019_10_11__07_14__A110612.jpg","Wschodzące słońce","tag:good" %}
 
 W tym momencie nie pamiętam ile już razy byłem na wschodzie na [Sokoliku][wiki-sokolik].
 
@@ -140,7 +140,7 @@ Wydostaliśmy się z lasu i spróbowałem wykorzystać możliwości robienia zdj
 z bliska. Umieściłęm aparat w trawie, zrobiłem zdjęcia
 a rezultat mnie urzekł.
 
-{% photo "2019_10_11__08_50_DSC01091.jpg","Rozmyta rosa" %}
+{% photo "2019_10_11__08_50_DSC01091.jpg","Rozmyta rosa","tag:good" %}
 
 Światło odbijające się od kropelek rosy generowało bardzo ładny efekt.
 
@@ -163,18 +163,18 @@ Zbliżaliśmy się do stacji, która jest oddalona 700m od centrum
 Zrobiłem jeszcze kilka zdjęć ale dopiero w bliskiej okolicy
 przystanku kolejowego miałem ciekawsze pomysły na zdjęcia.
 
-{% photo "2019_10_11__09_03_DSC01128.jpg","Ostatni widok na Sokolik","timeline" %}
+{% photo "2019_10_11__09_03_DSC01128.jpg","Ostatni widok na Sokolik","tag:timeline" %}
 
 Bardzo lubię zdjęcia z motywem drogi jako lini wiodącej. Droga, szlak z przystanku
 kolejowego do centrum [wsi][wiki-trzcinsko] to jeden element. Dodatkowo miałem tutaj
 rząd drzew, które powoli dostawały jesienne kolory, i one były drugim elementem
 zdjęć, które chciałem teraz zrobić.
 
-{% photo "2019_10_11__09_05_DSC01137.jpg","Szlak przy przystanku kolejowym w Trzcińsku","timeline" %}
+{% photo "2019_10_11__09_05_DSC01137.jpg","Szlak przy przystanku kolejowym w Trzcińsku (1)","tag:timeline,tag:good" %}
 
 Dotarliśmy minutę przed odjazdem pociągu.
 
-{% photo "2019_10_11__09_06_DSC01138.jpg","Szlak przy przystanku kolejowym w Trzcińsku","timeline" %}
+{% photo "2019_10_11__09_06_DSC01138.jpg","Szlak przy przystanku kolejowym w Trzcińsku (2)","tag:timeline,tag:good,tag:best" %}
 
 Po powrocie zjedliśmy śniadanie i sprawdziłem opcje transportowe na poźniej
 gdyż ten poranek to był tylko mały fragment z planów na dzisiaj.

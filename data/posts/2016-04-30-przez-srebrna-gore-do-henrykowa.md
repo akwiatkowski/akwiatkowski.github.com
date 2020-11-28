@@ -72,7 +72,7 @@ dalej ruszyliśmy na północ w kierunku [Srebrnej Góry][wiki-srebrna-gora].
 Podjazdy czekaly nas już trochę większe, a wioski mniejsze i zabudowy rzadsze.
 Cywilizacji było jakby trochę mniej, co jest w sumie oczywiste.
 
-{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie","timeline" %}
+{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie","tag:timeline" %}
 
 Przez prawię połowę drogi do [Srebrnej Góry][wiki-srebrna-gora] jechaliśmy wokół
 pól, bardzo mi się podobało wzgórze obok miejscowości [Huberek][wiki-huberek].
@@ -85,7 +85,7 @@ przełęcz obok góry [Wilczak][wiki-gora-wilczak], za którą rozpoczął się 
 Pierwszy fajny zjazd tego dnia. Niestety nie można było szaleć do woli, gdyż
 droga była daleka do bycia idealną.
 
-{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry","timeline" %}
+{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry","tag:timeline" %}
 
 Zjechaliśmy przy wylocie ze [Żdanowa][wiki-zdanow] i chcieliśmy podjechać do
 [Srebrnej Góry][wiki-srebrna-gora] teraz. W tym momencie nie wiedziałem, że

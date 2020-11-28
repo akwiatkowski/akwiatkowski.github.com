@@ -90,7 +90,7 @@ Wolałem wstać wcześniej i jechać pociągiem do [Wągrowca][wiki-wagrowiec]
 chwilę po godzinie 7-ej. Dzięki temu byśmy mieli dużo czasu na jazdę oraz nie
 jechalibyśmy w najgorszym słońcu.
 
-{% photo "P8210001.jpg","Okolice Gołańczy","timeline" %}
+{% photo "P8210001.jpg","Okolice Gołańczy","tag:timeline" %}
 
 Dzień wcześniej poszedłem spać niezbyt wcześnie - trochę po północy. Miałem 5
 godzin snu. Obudziłem się mając ogromne uczucie niechęci i lenistwa.
@@ -134,7 +134,7 @@ sklep spożywczy. Miałem wrażenie, że w wioskach w okolicy
 [Gołańczy][wiki-golancz] w ogóle nie ma sklepów. Nie jestem
 tego pewien bo nie "zwiedzaliśmy" je dokładnie.
 
-{% photo "P8210019.jpg","Okolice wsi Dobieszewko","timeline" %}
+{% photo "P8210019.jpg","Okolice wsi Dobieszewko","tag:timeline" %}
 
 Okolice wsi [Dobieszewko][wiki-dobieszewko] jest dość ciekawa. Niedaleko
 jest pagórek wyższy o 50m od poziomu wsi. {% todo %} Warto by było
@@ -143,14 +143,14 @@ kiedyś dokładniej się tutaj pokręcić, zwłaszcza w kierunku północno-wsch
 Do [Kcyni][wiki-kcynia] zostało nam 10km jazdy. Jechaliśmy z
 wiatrem dlatego 30km/h nie było czymś trudnym do osiągnięcia.
 
-{% photo "P8210026.jpg","Droga Dobieszewko-Panigródź","timeline" %}
+{% photo "P8210026.jpg","Droga Dobieszewko-Panigródź","tag:timeline" %}
 
 [Kcynia][wiki-kcynia] jest miastem ciekawie położonym - na górze.
 Wydaje mi się, że większość
 osad była zakładana w dolinach, a [Kcynia][wiki-kcynia]
 jest około 20-30m wyżej niż wszystkie drogi dojazdowe do niej.
 
-{% photo "P8210028.jpg","Widok na Dobieszewko","timeline" %}
+{% photo "P8210028.jpg","Widok na Dobieszewko","tag:timeline" %}
 
 Wyjazd był lekko stresujący z powodu ruchu i jeżdżących tirów.
 Za kościołem zaczęliśmy zjeżdżać w dół.
@@ -170,7 +170,7 @@ jeżdżą pociągi z [Poznania][wiki-poznan] do [Wągrowca][wiki-wagrowiec].
 I chyba właśnie ten fragment jest najbardziej obiecującym odcinkiem do
 rewitalizacji. Z tego co wiem problemy są głównie natury politycznej.
 
-{% photo "P8210043.jpg","Okolice wsi Królikowo","timeline" %}
+{% photo "P8210043.jpg","Okolice wsi Królikowo","tag:timeline" %}
 
 Skręciliśmy po chwili w prawo opuszczając drogę 247. Jechaliśmy do
 [Królikowa][wiki-krolikowo]. Centrum tej wsi miało jeden klimatyczny budynek
@@ -179,7 +179,7 @@ mieszkalny przy wyjeździe.
 W pewnym momencie zauważyłem kota po lewej stronie ulicy. Zatrzymałem się
 chcąc zrobić mu zdjęcie ale on popatrzył na mnie i uciekł.
 
-{% photo "P8210045.jpg","Okolice wsi Królikowo","timeline" %}
+{% photo "P8210045.jpg","Okolice wsi Królikowo","tag:timeline" %}
 
 Przed [Słupami][wiki-slupy] widzieliśmy policjantów rozmawiających z jednym panem
 na rowerze. Pojechaliśmy dalej, zatrzymaliśmy się na moście przy (nie jestem pewien)
@@ -221,7 +221,7 @@ Zatrzymałem się obok Macieja gdyż chciał wykorzystać dobry punkt widokowy.
 W centrum [wsi][wiki-chometowo] jest
 [kościół z ciekawą wieżą][wiki-chometowo-kosciol].
 
-{% photo "P8210081.jpg","Zjazd do Gąbina","timeline" %}
+{% photo "P8210081.jpg","Zjazd do Gąbina","tag:timeline" %}
 
 Mogliśmy jechać albo na południe w stronę [Żnina][wiki-znin] i dalej przez
 [Gąsawe][wiki-gasawa] do [Trzemeszna][wiki-trzemeszno], tylko to nie byłoby
@@ -242,7 +242,7 @@ na [Kanale Noteckim][wiki-kanal-notecki]. Szukaliśmy miejsca aby coś zjeść.
 Ostatecznie wybraliśmy danie obiadowe z lokalu fastfoodowego. Jakość nie była
 zbyt specjalna ale się najedliśmy.
 
-{% photo "P8210091.jpg","Kanał Notecki w Łabiszynie","timeline" %}
+{% photo "P8210091.jpg","Kanał Notecki w Łabiszynie","tag:timeline" %}
 
 Opuściliśmy [Łabiszyn][wiki-labiszyn] jadąc w stronę [Będzitowa][wiki-bedzitowo].
 Droga była naprawdę bardzo dobrej jakości.
@@ -254,7 +254,7 @@ Mijaliśmy raczej spokojne wioski. Chociaż nie wiem jak zdefiniować
 Do [Lisewa Kościelnego][wiki-lisewo-koscielne] raczej jechaliśmy wzdłuż pól.
 Tutaj również zrobiłem przerwę na zdjęcie przy kościele.
 
-{% photo "P8210095.jpg","Okolice Będzitowa","timeline" %}
+{% photo "P8210095.jpg","Okolice Będzitowa","tag:timeline" %}
 
 Dotarliśmy do drogi 246 i mieliśmy do przejechania 5km do stacji w
 [Złotnikach Kujawskich][wiki-zlotniki-kujawskie].

@@ -79,7 +79,7 @@ Ruszyliśmy niebieskim szlakiem rowerowym na północ. Chcieliśmy przejechać
 wzdłuż małych jezior. Cel ten nie był określony sztywno
 ale skoro byliśmy w tym miejscu to warto by było te jeziora zobaczyć.
 
-{% photo "IMGP6353raw1.jpg","Most obok Jeziora Cyganek","timeline" %}
+{% photo "IMGP6353raw1.jpg","Most obok Jeziora Cyganek","tag:timeline" %}
 
 Sama jazda przez las była mało interesująca.
 Zrobiłem główne zdjęcie tego wpisu przy Jeziorze Baba. Podobało mi się
@@ -97,7 +97,7 @@ Była tam bardzo wąska ścieżka tuż przy jeziorze. Czasami musieliśmy przeni
 rowery nad powalonymi drzewami.
 Dotarliśmy do punktu kempingowego/biwakowego.
 
-{% photo "IMGP6378raw1.jpg","Jezioro Uli","timeline" %}
+{% photo "IMGP6378raw1.jpg","Jezioro Uli","tag:timeline" %}
 
 Przejechaliśmy przez [Czachurki][wiki-czachurki] jadąc do [Zbierkowa][wiki-zbierkowo],
 mijając żwirownię po prawej stronie. Tereny w tym momencie były
@@ -130,7 +130,7 @@ Miałem wrażenie, że tutaj teren jest nieznacznie bardziej pofalowany.
 Skojarzyło mi to się z trasą gdy
 [jechałem do Jarocina]({% post_url 2016-04-24-walka-z-wiatrem-w-okolicy-jarocina %}) chociaż nie pamiętam dokładnie czemu.
 
-{% photo "IMGP6388raw1.jpg","Zbliżając się do Złotniczek","timeline" %}
+{% photo "IMGP6388raw1.jpg","Zbliżając się do Złotniczek","tag:timeline" %}
 
 Dojechaliśmy bezpośrednio do [Promna][wiki-promno] przez Gorzkie Pola prawie 20 minut przed odjazdem pociągu.
 

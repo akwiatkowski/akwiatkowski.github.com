@@ -48,7 +48,7 @@ jakiś kamlot. Faktycznie tak było.
 
 Trudno coś więcej napisać o [Zamku Bolczów][wiki-bolczow]. To jest taka ciekawa ruina pośrodku lasu.
 
-{% photo "IMGP7594b.jpg","Górne części Zamka Bolczów" %}
+{% photo "IMGP7594b.jpg","Górne części Zamka Bolczów","tag:good" %}
 
 Następnie kierowaliśmy się szlakiem zielonym na zachód. Tutaj aż do [Przełęczy Karpnickiej][wiki-karpnicka]
 niewiele było do opisywania. Las, gdzieniegdzie strumyk. Chyba właśnie te strumyki były najciekawsze wtedy.

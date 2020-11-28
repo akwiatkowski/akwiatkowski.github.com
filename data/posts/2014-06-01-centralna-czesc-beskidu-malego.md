@@ -67,14 +67,14 @@ Szliśmy cały czas czerwonym szlakiem dalej. Przebiega on na południe od
 zbiornika [elektrowni][wiki-zar-elektrownia]. Sam zbiornik jest chyba najciekawszym
 elementem trasy. Jest on też dobrym punktem widokowym.
 
-{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie","timeline" %}
+{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie","tag:timeline" %}
 
 Dalsza część trasy była, w mojej ocenie, mało interesująca. Na szczęście ma to
 również swoje plusy - nie było ciasno, nie było mocnego podejścia. Przeszliśmy
 przez [Kiczerę][wiki-kiczera], [Kocierz][wiki-kocierz] i na
 [przełęczy][wiki-kocierz-przelecz] zjedliśmy obiado-kolacje.
 
-{% photo "IMGP6717raw1.jpg","Widok z góry Żar na północ" %}
+{% photo "IMGP6717raw1.jpg","Widok z góry Żar na północ","tag:good" %}
 
 Nocleg mieliśmy w [Chatce na Potrójnej][wiki-chatka], który zapamiętam na długo,
 gdyż noc tam nie była synonimem spokoju.
@@ -82,7 +82,7 @@ Przyjechali znajomi rodziny prowadzącej schronisko z wódką, kiełbaskami
 i skwierczącymi dziećmi. Dodatkowo była jeszcze jedna grupa, która miała wieczór
 panieński.
 
-{% photo "IMGP6779raw1.jpg","Górna część elektrowni Żar" %}
+{% photo "IMGP6779raw1.jpg","Górna część elektrowni Żar","tag:good" %}
 
 O grupie wieczoru panieńskiego nic złego nie powiem, jednak byłbym bardziej
 zadowolony gdybyśmy dostali informacje o szykującej się imprezie i się mogli do

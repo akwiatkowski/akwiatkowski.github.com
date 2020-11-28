@@ -100,7 +100,7 @@ Zrobiłem zdjęcie szerszego widoku na [Trzcińsko][wiki-trzcinsko] i [Góry Kac
 Patrząc w drugą stronę (na południę) mgły również pojawiły
 się w okolicy wsi [Karpniki][wiki-karpniki].
 
-{% photo "IMGP2002raw1.jpg","Widok na Karpniki","timeline" %}
+{% photo "IMGP2002raw1.jpg","Widok na Karpniki","tag:timeline" %}
 
 Pierwszy raz udało mi się zaobserwować słynne "lasery". Pojawiają się one gdy
 promienie słoneczne padają na drzewa, są one widoczne jako cienie na mgle.
@@ -120,4 +120,4 @@ skał [Sokolika][wiki-sokolik].
 Podczas zejścia do [Trzcińska][wiki-trzcinsko] zrobiłem jeszcze kilka zdjęć pokazujących
 złotą polską jesień.
 
-{% photo "IMGP2152raw1.jpg","Jesienne okolice Sokolika na niebieskim szlaku pieszym","timeline" %}
+{% photo "IMGP2152raw1.jpg","Jesienne okolice Sokolika na niebieskim szlaku pieszym","tag:timeline" %}

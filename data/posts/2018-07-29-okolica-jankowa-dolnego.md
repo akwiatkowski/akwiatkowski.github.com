@@ -49,7 +49,7 @@ Trochę nie byłem pewien czy ten wyjazd to dobra decyzja. Mogłem zamiast
 tego pojeździć rowerem ale ostatecznie wybrałem spacer i kolejny test
 Olympusa M1m2 z obiektywem 12-100mm/4.
 
-{% photo "\_7290018.jpg","W stronę Jeziora Buczek","timeline" %}
+{% photo "\_7290018.jpg","W stronę Jeziora Buczek","tag:timeline" %}
 
 Po opuszczeniu pociągu ruszyłem drogą szutrową wzdłuż granicy z lasem.
 Przerabiając zdjęcia później testowałem nowy algorytm
@@ -90,7 +90,7 @@ I to wracać na stację musiałbym tą samą drogą?!
 Już wcześniej podjąłem decyzje o przejściu pętli. Kierowałem się teraz
 w stronę centrum [Jankowa Dolnego][wiki-jankowo-dolne].
 
-{% photo "\_7290200.jpg","Blok na obrzeżach Jankowa Dolnego","timeline" %}
+{% photo "\_7290200.jpg","Blok na obrzeżach Jankowa Dolnego","tag:timeline" %}
 
 Czułem, że miałem niezbyt idealne buty na ten spacer. Miałem jeszcze większe wątpliwości
 co do sensowności trasy. Widok na okoliczne gospodarstwo był zablokowany małym

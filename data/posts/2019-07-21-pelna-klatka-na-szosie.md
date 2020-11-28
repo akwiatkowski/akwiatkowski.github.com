@@ -84,7 +84,7 @@ Spodobało mi się pole niedaleko wsi [Tomice][wiki-tomice].
 Poeksperymentowałem tam ze zdjęciami. Okrągłe snopki wyglądały ciekawie
 na tle zachmurzonego nieba.
 
-{% photo "2019_07_21__15_47_DSC08078.jpg","Snopek siana w Tomicach","timeline" %}
+{% photo "2019_07_21__15_47_DSC08078.jpg","Snopek siana w Tomicach","tag:timeline" %}
 
 Będąc w okolicy postanowiłem, że warto by było odwiedzić ponownie
 [Żarnowiec][wiki-zarnowiec].

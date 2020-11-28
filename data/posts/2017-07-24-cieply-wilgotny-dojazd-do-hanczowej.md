@@ -146,7 +146,7 @@ Opuszczając jechaliśmy wijącą się drogą pośrodku całkowicie zielonych g�
 Czuć było dzikość okolicy kontrastującą z ruchem samochodów dostawczych, prawdopodobnie
 jechały one do [Wysowej][wiki-wysowa].
 
-{% photo "IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej","timeline" %}
+{% photo "IMGP8978raw1.jpg","Pola i góry niedaleko Hańczowej","tag:timeline" %}
 
 Reszta dojazdu do bazy w [Hańczowej][wiki-hanczowa] przebiegła bez niczego
 nadzwyczajnego.

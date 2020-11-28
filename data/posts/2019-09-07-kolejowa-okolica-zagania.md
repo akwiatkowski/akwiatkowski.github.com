@@ -89,14 +89,14 @@ z Niemcami.
 Linia ta została wyremontowana przez wojsko. Niestety tydzień przed wyjazdem
 dostaliśmy maila o zmianie planów gdyż spaliła się łącznica (jeżeli dobrze pamiętam)
 
-{% photo "2019_09_07__08_02__9070672.jpg","Okolice Porażyna","timeline" %}
+{% photo "2019_09_07__08_02__9070672.jpg","Okolice Porażyna","tag:timeline" %}
 
 Ostatnimi czasy prawie zawsze był problem z parowozem. Dla mnie osobiście
 nie jest on tak konieczny. Raz na jakiś czas fajnie jest przejechać aby mieć
 mentalną pamiątkę "jechałem tutaj parowozem", jednak ważniejsza dla mnie jest infrastruktura
 i okolica linii kolejowej.
 
-{% photo "2019_09_07__08_18__9070718.jpg","Między stacjami Jastrzębsko a Chrośnice","timeline" %}
+{% photo "2019_09_07__08_18__9070718.jpg","Między stacjami Jastrzębsko a Chrośnice","tag:timeline" %}
 
 Pociag z [Poznania][wiki-poznan] ruszył około 7:30. Trasę do [Zbąszynka][wiki-zbaszynek]
 znałem już raczej dobrze, chociaż widziałem kilka ciekawych miejsc.
@@ -105,13 +105,13 @@ Między [Opalenicą][wiki-opalenica] a [Nowym Tomyślem][wiki-nowy-tomysl] jest
 nie za duży obszarowo las. Kończy się obszar terenów przystosowanych rolniczo
 w województwie [wielkopolskim][wiki-wielkopolskie].
 
-{% photo "2019_09_07__08_57__9070825.jpg","Okolica miejscowości Nowe Kramsko","timeline" %}
+{% photo "2019_09_07__08_57__9070825.jpg","Okolica miejscowości Nowe Kramsko","tag:timeline" %}
 
 Z okna pociągu widziałem ciekawe miejsca na rower. Znacznie ciekawsze niż
 jeżdzenie w okolicy [Poznania][wiki-poznan] oraz ogólna południowa
 część [województwa][wiki-wielkopolskie].
 
-{% photo "2019_09_07__09_02_DSC09801.jpg","Okolica wsi Łęgowo","timeline" %}
+{% photo "2019_09_07__09_02_DSC09801.jpg","Okolica wsi Łęgowo","tag:timeline" %}
 
 Pociągi osobowe na ogół kończą bieg w [Zbąszynku][wiki-zbaszynek]. Kolejną
 stacją jest [Babiomost][wiki-babimost], w którego okolicy jest sporo
@@ -182,7 +182,7 @@ W [Nowogrodzie Bobrzańskim][wiki-nowogrod-bobrzanski] ciekawe jest podzielenie
 miejscowości przez rzekę [Bóbr][wiki-bobr]. Są tam dwa przystanki kolejowe,
 każdy po przeciwnej stronie rzeki.
 
-{% photo "2019_09_07__11_24_DSC09923.jpg","Prace rolnicze w okolicy Bieniowa","timeline" %}
+{% photo "2019_09_07__11_24_DSC09923.jpg","Prace rolnicze w okolicy Bieniowa","tag:timeline" %}
 
 W [Bieniowie][wiki-bieniow] również miałem okazje zobaczyć zamknięte linie kolejowe.
 Na północny-zachód było kiedyś połączenie do [Lubska][wiki-lubsko]
@@ -256,7 +256,7 @@ Do lat 1940-tych funkcjonowała [Kolej szprotawska][wiki-kolej-szprotawska],
 która łączyła [Szprotawę][wiki-szprotawa] z [Zieloną Górą][wiki-zielona-gora].
 Przejeżdżała przez południową część miasta.
 
-{% photo "2019_09_07__14_35_DSC00037.jpg","Okolice Niegosławic","timeline" %}
+{% photo "2019_09_07__14_35_DSC00037.jpg","Okolice Niegosławic","tag:timeline" %}
 
 Zbliżaliśmy się do [Niegosławic][wiki-niegoslawice]. Delikatnie padał
 deszcz. Szkoda że nie mogliśmy przejechać całej trasy aż do [Głogowa][wiki-glogow].
@@ -285,7 +285,7 @@ taką pogodę. Wolałem posiedzieć w pociągu i się nie ruszać.
 
 Robiłem teraz większość zdjęć pełnoklatkowym Sony. Wyższe ISO było ważniejsze od stabilizacji.
 
-{% photo "2019_09_07__17_39_DSC00104.jpg","Okolice Bieniowa","timeline" %}
+{% photo "2019_09_07__17_39_DSC00104.jpg","Okolice Bieniowa","tag:timeline" %}
 
 SU-42 się trochę popsuło i teraz ciągnęła nas spalinowa lokomotywa Lotosu.
 Przestałem robić zdjęcia. Czekałem tylko na kilka ważnych punktów, gdzie

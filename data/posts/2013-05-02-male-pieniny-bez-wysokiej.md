@@ -37,37 +37,37 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP1045b.jpg","Wiosnę miejscami trudno było nie zauważyć" %}
+{% photo "IMGP1045b.jpg","Wiosnę miejscami trudno było nie zauważyć","tag:good" %}
 
 Ruszyliśmy w kierunku [Wąwózu Homole][wiki-homole]. Niby znane miejsce, a trudno mi coś więcej o nim powiedzieć.
 
-{% photo "IMGP1074b.jpg","Wejście do Wąwozu Homole" %}
+{% photo "IMGP1074b.jpg","Wejście do Wąwozu Homole","tag:good" %}
 
 Po tym jak przeszliśmy [Wąwóz Homole][wiki-homole] to zaczęły się pienińskie polany.
 I to one były dla mnie bardziej interesujące.
 
-{% photo "IMGP1168b.jpg","Duża część Małych Pienin nie jest zalesiona","timeline" %}
+{% photo "IMGP1168b.jpg","Duża część Małych Pienin nie jest zalesiona","tag:timeline" %}
 
 W planie było wejście na [Wysoką][wiki-wysoka], jednak trochę popadało i słychać było burzę. Jakoś mi się
 odechciało. Znowu przejaw ostrożności, albo zachowawczości, jednak ja uważam, że to jest zaleta.
 [Wysoką][wiki-wysoka] nie ucieknie, a ciekawe jak wyglądają te tereny jesienią.
 
-{% photo "IMGP1203c.jpg","Tuż przed burzą" %}
+{% photo "IMGP1203c.jpg","Tuż przed burzą","tag:good" %}
 
 Kierowaliśmy się na zachód widząc zbliżającą się burzę. Na wysokości [Durbaszki][wiki-durbaszka] skręciliśmy
 w stronę [schroniska][wiki-durbaszka-schron] o takiej samej nazwie. Tam przeczekaliśmy burzę siedząc ponad godzinę
 i patrząc co się dzieje wokół. Zrobiło się dość mgliście.
 
-{% photo "IMGP1268c.jpg","Mgliste Pieniny" %}
+{% photo "IMGP1268c.jpg","Mgliste Pieniny (1)" %}
 
 Jak deszcz się uspokoił zaczęliśmy schodzić, pomimo tego, że burzę było cały czas było słychać i widac. Nie uciekła
 ona daleko.
 
-{% photo "IMGP1338b.jpg","Mgliste Pieniny" %}
+{% photo "IMGP1338b.jpg","Mgliste Pieniny (2)","tag:good" %}
 
 Będąc już w dolinie zaczęło ponownie mocno padać, więc schroniliśmy się obok wejścia do [Wąwózu Homole][wiki-homole]
 i po pewnym czasie wracaliśmy do [Jaworek][wiki-jaworki].
 
-{% photo "IMGP1347b.jpg","Owce schowały się pod drzewami" %}
+{% photo "IMGP1347b.jpg","Owce schowały się pod drzewami","tag:sheep" %}
 
 Pogorszenie pogody towarzyszyło nam prawie do końca majówki, jak się później okazało.

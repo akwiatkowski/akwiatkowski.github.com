@@ -30,6 +30,8 @@ time_spent:             6
 [wiki-lucni]:                   https://pl.wikipedia.org/wiki/Lu%C4%8Dn%C3%AD_bouda
 [wiki-tatra-tea]:               https://en.wikipedia.org/wiki/Tatratea
 
+{% photo_header "Zimowa kraina","tag:portfolio,tag:good,tag:best" %}
+
 Wstęp
 -----
 
@@ -53,7 +55,7 @@ Gdy już doszliśmy do [czerwonego szlaku][wiki-gss] teren się trochę wypłasz
 w stronę [Śnieżki][wiki-sniezka]. Po drodzę raczej niewiele ciekawego widzieliśmy, oprócz wspomnianych
 wcześniej drzew. Zrobiliśmy małą przerwę w [Domu Śląskim][wiki-dom-slaski].
 
-{% photo "IMGP1193raw1.jpg","Widok na Dom Śląski" %}
+{% photo "IMGP1193raw1.jpg","Widok na Dom Śląski","tag:good" %}
 
 Jak trochę zjedliśmy rozpoczęła się przygoda z górą, która [wcześniej][post-wczesniejszy] nie była zakończona.
 Teraz na szczęście naprawili łańcuchy i popadało dużo śniegu, co znacząco zwiększyło bezpieczeństwo.
@@ -68,7 +70,7 @@ ze zdjęcia będą mało ciekawe ostatecznie, ale jednak je robiłem. Głupio ta
 Podejście ani nie było straszne, ani nie było lekkie, było gdzieś pośrodku. Nie widzieliśmy tej przepaści dzięki
 słabej pogodzie, więc byliśmy spokojniejsi. Chociaż po dojściu na szczyt było małe uczucie wytchnienia.
 
-{% photo "IMGP1238raw3.jpg","Na Śnieżce" %}
+{% photo "IMGP1238raw3.jpg","Na Śnieżce","tag:good" %}
 
 Pokręciliśmy się po [Śnieżce][wiki-sniezka], porobiłem trochę zdjęć i weszliśmy do środka. Tam zamówiliśmy
 lody. Specjalnie dla mnie i Krzycha musieli włączać automat do lodów. W końcu co lepiej byłoby zjeść w zimie,
@@ -81,12 +83,12 @@ bardzo łatwa do założenia (ironia). Jednak jest to potrzebne gdyż daje luksu
 Nie trzeba sprawdzać czy stopa jest stabilna, bo będzie stabilna. Można normalne sobie iść. Każdy kto
 jest świadom tego, że [Śnieżka][wiki-sniezka] jest bardzo wybitnym szczytem doceni ten luksus.
 
-{% photo "IMGP1290raw1.jpg","Pod Śnieżką" %}
+{% photo "IMGP1290raw1.jpg","Pod Śnieżką","tag:good" %}
 
 Podczas zejście połączenie słabej widoczności z chwilowo przebijającymi się promieniami, umożliwiło mi
 zrobienie bardzo ciekawych zdjęć.
 
-{% photo "IMGP1292raw1.jpg","Krzychu pokazuje na mapie gdzie aktualnie jesteśmy" %}
+{% photo "IMGP1292raw1.jpg","Krzychu pokazuje na mapie gdzie aktualnie jesteśmy","tag:good,tag:best" %}
 
 Obok [Domu Śląskiego][wiki-dom-slaski] ruszyliśmy niebieskim szlakiem do [Luční Bouda][wiki-lucni].
 Szliśmy raczej po płaski, wokół pełno śniegu i nie zauważyliśmy nic ciekawego. No może oprócz
@@ -97,7 +99,7 @@ tego że przeszliśmy przez jakieś mokradła bo szliśmy po drewnianym moście.
 w [Luční Bouda][wiki-lucni] zjedliśmy i spróbowaliśmy [Tatra Tea][wiki-tatra-tea]. Całkiem ładnie
 mają w tych schroniskach, chociaż lepsze słowo to hotel, moim zdaniem.
 
-{% photo "IMGP1313raw1.jpg","Samotna osoba w zimie" %}
+{% photo "IMGP1313raw1.jpg","Samotna osoba w zimie","tag:good,tag:best" %}
 
 Wróciliśmy najpierw żółtym, później niebieskim szlakiem do [Strzechy Akademickiej][wiki-strzecha].
 Nie pamiętam co robiliśmy, ale wiem że wieczorem były Andrzejki z GOPRowcami.

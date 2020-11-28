@@ -62,7 +62,7 @@ jak wspomniałem.
 [Międzygórze][wiki-miedzygorze] okazało się dość dziwną miejscowością. Jest ono położone totalnie pośrodku gór.
 Gdziekolwiek się spojrzy, wszystko jest wyżej niż sama wioska.
 
-{% photo "IMGP7229b.jpg","Zbliżając się do Międzygórza","timeline" %}
+{% photo "IMGP7229b.jpg","Zbliżając się do Międzygórza","tag:timeline" %}
 
 Poczekaliśmy trochę obok przystanku autobusowego, który dopełnia dziwny klimat tej miejscowości. Jest to
 chyba ostatni przystanek na trasie autobusów.

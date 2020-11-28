@@ -75,7 +75,7 @@ do noclegu w [Sokółce][wiki-sokolka].
 
 Ominąłem centrum i wyjechałem ulicą Kresową na wschód.
 
-{% photo "P8070001.jpg","Tory kolejowe do Kuźnicy","timeline" %}
+{% photo "P8070001.jpg","Tory kolejowe do Kuźnicy","tag:timeline" %}
 
 Jadąc drogą regionalną przejechałem przez 4 pary torów kolejowych:
 jakaś lokalna linia towarowa, [linia do Suwałk][wiki-linia-40],
@@ -89,13 +89,13 @@ Dotarłem do przejazdu przez [linię 6][wiki-linia-6]. Nie miałem planów wraca
 rowerem z granicy z [Białorusią][wiki-bialorus], wolałbym zobaczyć tereny
 na północ i wrócić pociągiem. Rozważałem powrót z [Dąbrowy Białostockiej][wiki-dabrowa-bialostocka].
 
-{% photo "P8070005.jpg","Tory do terminalu przeładunkowego gazu i węgla w Buchwałowie","timeline" %}
+{% photo "P8070005.jpg","Tory do terminalu przeładunkowego gazu i węgla w Buchwałowie","tag:timeline" %}
 
 Wróciłem rowerem i skręciłem w prawo jadąc do Buchwałowa.
 Jechałem teraz po dość dobrze ubitej drodze gruntowej. W okolicy domów leżały
 snopki po żniwach.
 
-{% photo "P8070006.jpg","Snopki po żniwach","timeline" %}
+{% photo "P8070006.jpg","Snopki po żniwach","tag:timeline" %}
 
 Ponownie dotarłem do jakiś torow. Szukając dowiedziałem się, że jest tam terminal
 przeładunkowy gazu i węgla.
@@ -116,7 +116,7 @@ Gdy wjechałem na drogę 19-tką zaciekawiła mnie okolica doliny
 rzeki [Łosośny][wiki-lososna-rzeka]. Trudno mi powiedzieć jak bym to chciał
 kiedyś zwiedzić.
 
-{% photo "P8070024.jpg","Okolice rzeki Łosośny","timeline" %}
+{% photo "P8070024.jpg","Okolice rzeki Łosośny","tag:timeline" %}
 
 Dotarłem do [Popławców][wiki-poplawce] i tam skręciłem w lewo opuszczając
 drogę 19. Tuż obok skrzyżowania zaciekawił mnie drewniany dom.
@@ -127,7 +127,7 @@ Dopiero wjazd do [Starowlan][wiki-starowlany] był ciekawszy za sprawą starych
 drewnianych domów.
 Widziałem również kilka nowych, które bardzo pasowały.
 
-{% photo "P8070028.jpg","Wjazd do Starowlanów","timeline" %}
+{% photo "P8070028.jpg","Wjazd do Starowlanów","tag:timeline" %}
 
 Trudno mi lepiej opisać klimat tej miejscowości.
 
@@ -172,7 +172,7 @@ Do [Śniczan][wiki-sniczany] był lekki zjazd, gdyż w okolicy jest dolina rzeki
 [Sidry][wiki-sidra]. Zalesione wzniesienie terenu wyglądało ciekawie.
 Przejechałem bardzo szybko przez wieś.
 
-{% photo "P8070050.jpg","Między wsią Sliczany a Jurasze","timeline" %}
+{% photo "P8070050.jpg","Między wsią Sliczany a Jurasze","tag:timeline" %}
 
 Kolejną wsią, do której się kierowałem, były [Jurasze][wiki-jurasze].
 Przez tą wieś również przejechałem szybko. Nie było jednego ciekawego punktu ale

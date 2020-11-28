@@ -80,7 +80,7 @@ Nie przestawało padać, a trasa jest do zrobienia. [Ruszyliśmy][vimeo-4] dalej
 [Stogu Izerskiego][wiki-stog-izerski]. Pod koniec rowery juz prowadziliśmy, gdyż
 poruszaliśmy się po szlaku pieszym - kamienie.
 
-{% photo "IMGP7383raw1.jpg","Schronisko w okolicy Stogu Izerskiego" %}
+{% photo "IMGP7383raw1.jpg","Schronisko w okolicy Stogu Izerskiego","tag:good" %}
 
 Tutaj zrobiliśmy trzecią przerwę - najdłuższą, z jedzeniem i suszeniem ubrań.
 Czekał na nas najciekawszy fragment - zjazd ze [Stogu Izerskiego][wiki-stog-izerski]

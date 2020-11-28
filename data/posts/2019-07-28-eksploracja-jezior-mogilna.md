@@ -73,7 +73,7 @@ dojeżdżając samochodem na pociąg i teraz chciałem eksplorować rowerem.
 Zabrałem Sony A7R z Tokiną 20mm i Olympus M10m2 z Panasonic'iem 14-140.
 Moje zdjęcia to efekt uboczny testowania różnych sprzętów.
 
-{% photo "2019_07_28__15_27_DSC08131.jpg","Droga niedaleko osady Baba","timeline" %}
+{% photo "2019_07_28__15_27_DSC08131.jpg","Droga niedaleko osady Baba","tag:timeline" %}
 
 Gdy wydostaliśmy się z pociągu musieliśmy przejechać na drugą stronę torów.
 Kiedyś był tam przejazd dla samochodów a teraz jest ścieżka
@@ -81,7 +81,7 @@ pieszo-rowerowa.
 
 Nie miałem konkretnego planu na trasę tego dnia.
 
-{% photo "2019_07_28__15_33_DSC08136.jpg","Okolica Szerzawy","timeline" %}
+{% photo "2019_07_28__15_33_DSC08136.jpg","Okolica Szerzawy","tag:timeline" %}
 
 Widziałem na mapie miejscowość [Baba][wiki-baba] na południowym brzegu
 [Jeziora Wiecanowskiego][wiki-jezioro-wiecanowskie].
@@ -90,7 +90,7 @@ Stopniowo opuszczaliśmy miasto. Widać było to po coraz rzadszej zabudowie.
 Patrząc na filmik, to właśnie dzięki drzewom wzdłuż drogi nie mamy
 takiego wrażenia, jakby była tam ogromna susza.
 
-{% photo "2019_07_28__15_38_DSC08138.jpg","Opuszczając Szerzawę","timeline" %}
+{% photo "2019_07_28__15_38_DSC08138.jpg","Opuszczając Szerzawę","tag:timeline,tag:good" %}
 
 Dotarliśmy do skrzyżowania. Skręciliśmy w prawo aby dojechać do wsi
 [Baba][wiki-baba] myśląc, że będzie tam jakaś ciekawa plaża.
@@ -101,7 +101,7 @@ ale żadnej plaży nie znaleźliśmy. Coraz częśiej pojawiają się tabliczki
 "teren prywatny". Ludzie są coraz bogatsi i jak mogą to chcą mieć dostęp do
 jeziora na własność. Nie dziwię się im.
 
-{% photo "2019_07_28__15_41_DSC08141.jpg","Koniec drogi, konieczny powrót","timeline" %}
+{% photo "2019_07_28__15_41_DSC08141.jpg","Koniec drogi, konieczny powrót","tag:timeline" %}
 
 Sama wieś była całkiem klimatyczną osadą. My musieliśmy się teraz wrócić.
 
@@ -109,7 +109,7 @@ Jechaliśmy na zachód. Po chwili dotarliśmy do lekkiego, przyjemnego zjazdu.
 Nie zauważyłem w którym momencie asfaltowa droga zamieniła się na
 ubity grunt. Na szczęście był dobrze ubity, tylko czasami z lekkimi dziurami.
 
-{% photo "2019_07_28__15_47_DSC08145.jpg","Wracając do Szerzawy","timeline" %}
+{% photo "2019_07_28__15_47_DSC08145.jpg","Wracając do Szerzawy","tag:timeline,tag:good" %}
 
 Wieś [Szerzawy][wiki-szerzawy] już mi się mniej podobała. Dotarliśmy do
 starego osrodka wczasowego/działkowego/domów letnich, który był mocno zarośnięty.
@@ -120,7 +120,7 @@ asfaltowej i przyspieszyć. Niestety aby dostać się do drogi
 musieliśmy prowadzić rowery przez piaszczystą drogę polną.
 Gdy wjechaliśmy w las słońce już nie było tak okrutne.
 
-{% photo "2019_07_28__16_06_DSC08154.jpg","Droga do Chałwowa","timeline" %}
+{% photo "2019_07_28__16_06_DSC08154.jpg","Droga do Chałwowa","tag:timeline,tag:good" %}
 
 Skręciliśmy do [Chwałowa][wiki-chwalowo] gdyż tam na mapie widziałem jak
 droga jest położona w pobliżu [Jeziora Wiecanowskiego][wiki-jezioro-wiecanowskie].
@@ -133,7 +133,7 @@ byśmy obkrążyli
 [jezioro][wiki-jezioro-wiecanowskie] i wrócili do [Mogilna][wiki-mogilno].
 Musieliśmy jechać dalej na zachód do [Wieńca][wiki-wieniec].
 
-{% photo "2019_07_28__16_20_P7280006.jpg","Droga powrotna","timeline" %}
+{% photo "2019_07_28__16_20_P7280006.jpg","Droga powrotna","tag:timeline" %}
 
 We [Wieńcu][wiki-wieniec] zrobiliśmy przerwę na zakupy przy sklepie.
 Zaciekawiła mnie gruntowa trasa-skrót do [Józefowa][wiki-jozefowo].
@@ -148,7 +148,7 @@ nas na zachód. Miejscowość była raczej ładna.
 Już [kiedyś]({% post_url 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem %})
 byłem tutaj, tylko wtedy jechałem w przeciwnym kierunku.
 
-{% photo "2019_07_28__17_04_DSC08174.jpg","Trasa piesza Wieniec-Józefowo","timeline" %}
+{% photo "2019_07_28__17_04_DSC08174.jpg","Trasa piesza Wieniec-Józefowo","tag:timeline" %}
 
 Zbliżaliśmy się do [Palędzia Kościelnego][wiki-paledzie-koscielne].
 Na znaku widziałem informacje o odległości 13km do [Trzemeszna][wiki-trzemeszno],
@@ -171,13 +171,11 @@ intrygujące. W końcu mamy suszę.
 Kolejnym celem na trasie były [Ławki][wiki-lawki]. Podjechaliśmy pod dom
 w którym urodził się [Hipolit Cegielski][wiki-hipolit-cegielski].
 
-{% photo "2019_07_28__18_12_DSC08195.jpg","Jezioro Kruchowskie" %}
+{% photo "2019_07_28__18_12_DSC08195.jpg","Jezioro Kruchowskie","tag:good" %}
 
 Dotarliśmy do [Kruchowa][wiki-kruchowo]. Wioska mi się podobała, jest
 tam [Jezioro Kruchowskie][wiki-jezioro-kruchowskie],
 sporo ładnych starych budynków mieszkalnych oraz dwór.
-
-
 
 {% photo "2019_07_28__18_18_DSC08207.jpg","Dwór w Kruchowie" %}
 
@@ -192,7 +190,7 @@ hodowlą zwierząt.
 Zamiast skręcić i jechać bezpośrednio asfaltem chciałem zobaczyć okolice
 [Folusza][wiki-folusz]. Na mapie widać, że są tam dwa jeziora i mokradła.
 
-{% photo "2019_07_28__18_33_DSC08215.jpg","Okolica Folusza","timeline" %}
+{% photo "2019_07_28__18_33_DSC08215.jpg","Okolica Folusza","tag:timeline" %}
 
 Sama osada [Folusz][wiki-folusz] jest też ciekawa. Dotarliśmy do młyna i tam
 chętnie bym pojechał dalej na wschód, niestety robiło się już późno i

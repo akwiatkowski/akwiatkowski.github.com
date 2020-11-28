@@ -32,7 +32,7 @@ Wstęp
 
 Trasa przez Biedrusko w stronę Skoków jest dla mnie wzorcowa. Mało samochodów, duże urozmaicenie tereniu.
 
-{% photo "IMGP9970raw1.jpg","Okolice osady Złotoryjsko" %}
+{% photo "IMGP9970raw1.jpg","Okolice osady Złotoryjsko","tag:good" %}
 
 Opis trasy
 ----------
@@ -42,12 +42,12 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP0018raw1.jpg","Pola niedaleko Starczanowa","timeline" %}
+{% photo "IMGP0018raw1.jpg","Pola niedaleko Starczanowa","tag:timeline,tag:good" %}
 
 Opis trasy jest identyczny prawie jak podczas [trzeciego](/trip/2014/07/02/w-strone-skokow-po-raz-3-ci/)
 przejazdu.
 
-{% photo "IMGP0041raw1.jpg","Staw w Starczanowie","timeline" %}
+{% photo "IMGP0041raw1.jpg","Staw w Starczanowie","tag:timeline" %}
 
 Nowe są tylko filmiki. Na pierwszym jest kilka fragmentów nagrane aparatem.
 
@@ -56,12 +56,12 @@ Nowe są tylko filmiki. Na pierwszym jest kilka fragmentów nagrane aparatem.
 Wywalam filmiki. Nie są one na tyle ciekawe i robię je
 głównie dla siebie.
 
-{% photo "IMGP0066raw1.jpg","Okolice Pacholewa","timeline" %}
+{% photo "IMGP0066raw1.jpg","Okolice Pacholewa","tag:timeline,tag:good" %}
 
 Po usunięciu filmików muszę cos tu dodać. Będą to zdjęcia do których muszę dorzucić
 trochę tekstu.
 
-{% photo "IMGP0080raw1.jpg","Jezioro Budziszewskie","timeline" %}
+{% photo "IMGP0080raw1.jpg","Jezioro Budziszewskie","tag:timeline,tag:good,tag:best" %}
 
 Patrzę na te zdjęcia i porównuję do nieba. Zastanawiam się czy
 obiektyw Pentax DA-15/4 z filtrem polaryzacyjnym jest tak rewelacyjny,
@@ -69,4 +69,4 @@ czy to faktycznie niebo jest mniej niebieskie.
 
 Za [Lechlinem][wiki-lechlin] jechałem w takim "tunelu", jak widać poniżej.
 
-{% photo "IMGP0117raw1.jpg","Tunel drzewny","timeline" %}
+{% photo "IMGP0117raw1.jpg","Tunel drzewny","tag:timeline,tag:good,tag:best" %}

@@ -48,12 +48,12 @@ zgodnie z [Głównym Szlakiem Beskidzkim][wiki-gsb] rozpoczęła się dzisiejsza
 Poranek jak wspominałem był ładny
 i słoneczny, jednak wilgotny. Gdzieniegdzie było widać powoli znikające poranne mgły.
 
-{% photo "IMGP1433b.jpg","Szlak był miejcami mokry" %}
+{% photo "IMGP1433b.jpg","Szlak był miejscami dość mokry","tag:good" %}
 
 Rozpoczęliśmy około 3-godzinne podejście z trochę ponad 400m n.p.m do 1211m n.p.m. - do [Lubania][wiki-luban].
 Strasznie rozgrzewające są takie podejścia. A przez początkową część mieliśmy całkiem dobre widoki.
 
-{% photo "IMGP1482b.jpg","Polany u podnóża Gorców","timeline" %}
+{% photo "IMGP1482b.jpg","Polany u podnóża Gorców","tag:timeline" %}
 
 Gdy dotarliśmy na [Lubań][wiki-luban] zaczęła się burza. Schroniliśmy się w drewnianym szałasie, pod którym
 ktoś już rozpalił ognisko. Burza z gradobiciem była krótka. Postanowiliśmy ruszać dalej jak się skończyła.

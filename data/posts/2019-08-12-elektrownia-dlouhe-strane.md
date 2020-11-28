@@ -105,7 +105,7 @@ opadający teren.
 
 Następnego dnia czekał nas powrót samochodem.
 
-{% photo "2019_08_13__10_48__8131684.jpg","Pola w południowej Polsce","timeline" %}
+{% photo "2019_08_13__10_48__8131684.jpg","Pola w południowej Polsce","tag:timeline" %}
 
 Podobał mi się dojazd przez [Nysę][wiki-nysa] i bardzo podobały mi się
 [Velke Kunetice][wiki-velke-kunetice], jednak wolałem wracać inaczej aby

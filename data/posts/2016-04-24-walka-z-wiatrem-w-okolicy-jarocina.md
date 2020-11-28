@@ -132,7 +132,7 @@ W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bard
 oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
 soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
 
-{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa","timeline" %}
+{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa","tag:timeline" %}
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą

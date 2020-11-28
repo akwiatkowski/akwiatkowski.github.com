@@ -52,7 +52,7 @@ kilometry obok centrum [miejscowości][wiki-kowalewo-pomorskie] o tej samej nazw
 Dla mnie była to dość dobra opcja. Mogłbym się chwilę przejść i porobić kilka
 zdjęć.
 
-{% photo "2020_07_24__16_26_DSC09205.jpg","Zboże","timeline" %}
+{% photo "2020_07_24__16_26_DSC09205.jpg","Zboże","tag:timeline" %}
 
 W zależności od chęci miałem prawię godzinę albo dwie. Jednocześnie w okolicy
 była linia kolejowa [209][wiki-linia-209] do [Brodnicy][wiki-brodnica]

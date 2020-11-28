@@ -66,7 +66,7 @@ Miejscowość ta z kwitnącymi drzewami wyglądała ładnie .
 Wjechaliśmy na drogę, po której jechaliśmy
 [pierwszego dnia]({% post_url 2018-04-28-dojazd-na-majowke-na-kaszubach %}).
 
-{% photo "IMGP8547raw1.jpg","Wiosna dodaje uroku","timeline" %}
+{% photo "IMGP8547raw1.jpg","Wiosna dodaje uroku","tag:timeline" %}
 
 W [Barłogach][wiki-barlogi] minęliśmy z prawej [Kanał Brdy][wiki-kanal-brda].
 Początkowo myślałem, że [Brda][wiki-brda] i [Kanał Brdy][wiki-kanal-brdy]
@@ -84,7 +84,7 @@ Widziałem tabliczki reklamujące [zajazd][zajazd-fojutowo] ale nie myślałem,
 że jest to tak duży obiekt.
 Ilość ludzi przyćmiła widok na akwedukt.
 
-{% photo "IMGP8567raw1.jpg","Kolejne ślady wiosny","timeline" %}
+{% photo "IMGP8567raw1.jpg","Kolejne ślady wiosny","tag:timeline" %}
 
 Opuściliśmy to miejsce jadąc żółtym szlakiem rowerowym przez las.
 Las, który oprócz smutnych śladów huraganu, nie był dla mnie ciekawy.

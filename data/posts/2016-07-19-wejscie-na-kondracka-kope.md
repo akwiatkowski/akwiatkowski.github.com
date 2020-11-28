@@ -102,7 +102,7 @@ Dopiero będąc poniżej chmur pojawił się dobry widok na dolinę
 wokół [schroniska][wiki-schr-hala]. Od tego momentu trochę zwolniłem, aby móc
 zrobić więcej zdjęć.
 
-{% photo "IMGP2563raw1.jpg","Schodząc, opuszczając chmury","timeline" %}
+{% photo "IMGP2563raw1.jpg","Schodząc, opuszczając chmury","tag:timeline" %}
 
 Tym razem zrobiliśmy sobie dłuższą przerwę w [schroniska][wiki-schr-hala].
 W międzyczasie raz solidniej padało.

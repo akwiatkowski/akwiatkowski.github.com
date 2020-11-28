@@ -66,12 +66,12 @@ w 2015 rozpocząłem
 Wtedy jechaliśmy na północ. Tym razem chciałem pozwiedzać okolice
 w kierunku południowym.
 
-{% photo "2019_04_07__13_24__4071146.jpg","Wiosna w okolicy stacji Lednogóra","timeline" %}
+{% photo "2019_04_07__13_24__4071146.jpg","Wiosna w okolicy stacji Lednogóra","tag:timeline" %}
 
 Pierwszym krokiem było dotarcie szlakiem rowerowym (szliśmy pieszo) do
 [Imielenka][wiki-imielenko].
 
-{% photo "2019_04_07__13_26__4071148.jpg","Droga do Imielenka","timeline" %}
+{% photo "2019_04_07__13_26__4071148.jpg","Droga do Imielenka","tag:timeline" %}
 
 Cieki wodne z jednej strony, lasy z drugiej strony, szlak rowerowy - to wszystko
 sprawiało że teren powinien być ciekawy.
@@ -88,7 +88,7 @@ w okolicy jakiegoś domu.
 Miałem przy sobie ciężki Olympus 40-150/2.8, którego jedyną wadą jest nieidealne
 rozmycie tła i waga.
 
-{% photo "2019_04_07__14_01__4071316.jpg","Kwitnące drzewo","timeline" %}
+{% photo "2019_04_07__14_01__4071316.jpg","Kwitnące drzewo","tag:timeline" %}
 
 Kolejnym celem to poszukiwanie śladów wiosny. Najlepiej to widać po kwitnących
 drzewach owocowych.

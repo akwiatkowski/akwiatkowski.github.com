@@ -55,13 +55,13 @@ się do [Darłowa][wiki-darlowo]. Tam się rozdzieliliśmy, gdyż część chcia
 [zamek][wiki-darlowo-zamek], a część wolała popływać. Mi się pływać nie chciało, ale
 również nie chciało mi się łazić po zamku. Wybrałem pływanie jako mniejsze zło.
 
-{% photo "IMGP8261raw1.jpg","Opuszczając wieś Jezierzany","timeline" %}
+{% photo "IMGP8261raw1.jpg","Opuszczając wieś Jezierzany","tag:timeline" %}
 
 Z [Darłowa][wiki-darlowo] jechaliśmy drogą równoległą do aleji Jana Pawła II.
 Całkiem fajna trasa - pola i wiatraki. Wyjechaliśmy tą drogą na plażę i tam
 "przeczekaliśmy".
 
-{% photo "IMGP8264raw1.jpg","Okolica Łącko-Korlino","timeline" %}
+{% photo "IMGP8264raw1.jpg","Okolica Łącko-Korlino","tag:timeline" %}
 
 Przez rozdzielenie całej grupy nie mogliśmy się później znaleźć. My czekaliśmy
 godzinę i co najmniej kilka telefonów "gdzie jesteście". Zdecydowaliśmy wszyscy, że
@@ -72,7 +72,7 @@ również w planach.
 Zaczęliśmy jechać na wschód w kierunku [Ustki][wiki-ustka]. Teraz na mapie widzę,
 że w linii prostej były to 32km.
 
-{% photo "IMGP8280raw1.jpg","Droga do wsi Zaleskie","timeline" %}
+{% photo "IMGP8280raw1.jpg","Droga do wsi Zaleskie","tag:timeline" %}
 
 Początkowo jechaliśmy po lekko terenowym szlaku, na szczęście piasków nie było za dużo.
 W [Jarosławcu][wiki-jaroslawiec] skręciliśmy w stronę [Jezierzan][wiki-jezierzany]
@@ -86,7 +86,7 @@ Może to wszystko w tym momencie jest pewną wizją tych terenów popartą kilko
 a hamowanie i ruszanie obciążonym rowerem trwa.
 Niemniej chciałbym jeszcze odwiedzić te tereny kiedyś.
 
-{% photo "IMGP8293raw1","Zachód w Ustce" %}
+{% photo "IMGP8293raw1","Zachód w Ustce","tag:good" %}
 
 Za [Zlakowo][wiki-zlakowo] był bardzo fajny zjazd. Prosta droga i 40km/h z
 sakwami. Sakwami i namiotem!

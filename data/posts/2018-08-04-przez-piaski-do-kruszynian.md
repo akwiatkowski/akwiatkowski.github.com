@@ -79,7 +79,7 @@ Podjechaliśmy na chwilę nad rzekę [Sokołdę][wiki-sokolda-rzeka].
 Same położenie [Surażkowa][wiki-surazkowo] przy połączeniu rzek powoduje,
 że ta wieś jest cywilizacyjnie dość odgrodzona od świata.
 
-{% photo "P8040417.jpg","Rzeka Sokołda","timeline" %}
+{% photo "P8040417.jpg","Rzeka Sokołda","tag:timeline" %}
 
 Wyjechaliśmy z [Surażkowa][wiki-surazkowo] i na skrzyżowaniu skręciliśmy na
 północ. Ta droga gruntowa nie była jeszcze bardzo straszna i wydaje mi się,
@@ -111,7 +111,7 @@ obniżona w stronę rzeki [Supraśl][wiki-suprasl-rzeka].
 Przejechaliśmy po kolejnym dopływie do rzeki [Supraśl][wiki-suprasl] - po
 rzece [Słoi][wiki-sloja].
 
-{% photo "P8040505.jpg","Rzeka Supraśl w okolicy Nowosiołki","timeline" %}
+{% photo "P8040505.jpg","Rzeka Supraśl w okolicy Nowosiołki","tag:timeline" %}
 
 Dotarliśmy do [Nowosiołki][wiki-nowosiolka]. Chciałem podjechać na drugi kraniec
 wioski aby zobaczyć jakieś ciekawe stare budynki, jednak przy tej pogodzie
@@ -164,7 +164,7 @@ podjechać jeszcze do [Kruszynian][wiki-kruszyniany] na
 
 ### Festiwal w Kruszynianach
 
-{% photo "P8040625.jpg","Okolica rzeki Grzybówki","timeline" %}
+{% photo "P8040625.jpg","Okolica rzeki Grzybówki","tag:timeline" %}
 
 Ruszyliśmy chyba o gozinie 16-tej. Dojechaliśmy do centrum [wsi][wiki-grzybowce]
 i dalej na północ przez rzekę Grzybówkę. Dojechaliśmy do wsi
@@ -172,7 +172,7 @@ o nazwie [Bagno][wiki-bagno]. Te miejscowości tutaj są czasem tak małe.
 Są zlepkami domów, że trudno być pewnym, że to prawdziwa miejscowość i
 w wikipedii będzie jakakolwiek informacja o niej.
 
-{% photo "P8040642.jpg","Pole przed Kruszynianami","timeline" %}
+{% photo "P8040642.jpg","Pole przed Kruszynianami","tag:timeline" %}
 
 Następnie jechaliśmy już cały czas żółtym szlakiem rowerowym.
 Wydaje mi się, że wtedy jakość drogi się pogorszyła. Miejscami musieliśmy

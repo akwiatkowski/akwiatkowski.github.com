@@ -89,7 +89,7 @@ to była to dobra informacja, z drugiej strony nigdy nie jeździłem z sakwami p
 Przejechałem przez [Zieleniewo][wiki-zieleniewo] w kierunku [Brzezin][wiki-brzeziny]. Trochę jechałem przez las, więc była
 przerwa od widoków. Na pocieszenie w lesie jest trochę lepsze powietrze.
 
-{% photo "IMGP2790raw1.jpg","Wjazd do lasu za Zieleniewem","timeline" %}
+{% photo "IMGP2790raw1.jpg","Wjazd do lasu za Zieleniewem","tag:timeline" %}
 
 Następnie skierowałem się drogą polną w kierunku
 [Drawna][wiki-drawno]. Po drodzę minąłem szyny niedziałającej już [linii kolejowej][wiki-drawno-kolej].
@@ -103,14 +103,14 @@ w stronę [Kalisza Pomorskiego][wiki-kalisz-pomorski] przez
 [Dębsko][wiki-debsko]. Przed [Dębskiem][wiki-debsko] miałem okazję zobaczyć bardzo ładne polany, lekko pofałdowane.
 Na początku wsi gęsi wskoczyły na drogę jak przejeżdzałem. Chyba musi tam być naprawdę mały ruch.
 
-{% photo "IMGP2808raw1.jpg","Centrum wsi Dębsko","timeline" %}
+{% photo "IMGP2808raw1.jpg","Centrum wsi Dębsko","tag:timeline" %}
 
 Chciałem jakoś inaczej dostać się do [Kalisza Pomorskiego][wiki-kalisz-pomorski] niż główną drogą. Wyjechałem drogą polną,
 która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół pola, dobrze ubita, jednak później pojawiło się
 więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
 [szynobus z Piły do Szczecina][wiki-kalisz-pom-tor].
 
-{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "timeline" %}
+{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "tag:timeline" %}
 
 Z [Kalisza Pomorskiego][wiki-kalisz-pomorski] wyruszyłem w kierunku [Wierzchowa Pomorskiego][wiki-wierzchowo]. Przez ten dłuższy
 czas niewiele rzeczy się odznaczało, jednak tereny były według mnie ładne. Jednym z ciekawszych fragmentów to
@@ -143,7 +143,7 @@ przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dy
 do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
-{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","timeline" %}
+{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","tag:timeline" %}
 
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
 

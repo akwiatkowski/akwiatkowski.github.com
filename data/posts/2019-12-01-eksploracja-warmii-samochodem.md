@@ -177,7 +177,7 @@ jadąc w stronę [Miłomłyna][wiki-milomlyn], gdzie spałem podczas mojej pierw
 przygody z [Warmią][wiki-warmia]. Droga była bardzo przyjemna, w końcu to
 ekspresówka.
 
-{% photo "2019_11_30__11_17__B306128.jpg","Most nad Kanałem Elbląskim","timeline" %}
+{% photo "2019_11_30__11_17__B306128.jpg","Most nad Kanałem Elbląskim","tag:timeline" %}
 
 Zatrzymaliśmy się przy śluzie na [Kanale Elbląskim][wiki-kanal-elblaski].
 Znacznie bardziej podobała mi się okolica w czerwcu, co jest oczywiste.
@@ -208,7 +208,7 @@ problemów. Daje mi większy zasięg ale zabiera skupienie i możliwość obcowa
 z przyrodą. Faktem jest również, że w listopadzie raczej nie chce się obcować
 z przyrodą tak samo jak w czerwcu.
 
-{% photo "2019_11_30__12_54_DSC04714.jpg","Taras widokowy w okolicy Jerzwałdu" %}
+{% photo "2019_11_30__12_54_DSC04714.jpg","Taras widokowy w okolicy Jerzwałdu","tag:good" %}
 
 Gdzieś w okolicy był pierwszy punkt widokowy. Myśleliśmy, że będzie on na plaży
 w [Jerzwałdzie][wiki-jerzwald] ale jak się później okazało, jest on dalej w lesie.
@@ -231,7 +231,7 @@ czasu na drugą (południową) część trasy.
 Trasę przez [Lubawę][wiki-lubawa] nie zapamiętałem za bardzo. Dopiero w okolicy
 wsi [Napromek][wiki-napromek] zauważyłem, że wkraczamy w bardziej gęsty las.
 
-{% photo "2019_11_30__16_24__B306367.jpg","Pola w Pietrzwałdzie","timeline" %}
+{% photo "2019_11_30__16_24__B306367.jpg","Pola w Pietrzwałdzie","tag:timeline" %}
 
 Celem była [Wysoka Wieś][wiki-wysoka-wies]. Jest tam [Dylewska Góra][wiki-dylewska-gora]
 o wysokości 312m, jednak się tam nie zatrzymaliśmy. Droga była dość wąska
@@ -254,40 +254,40 @@ Chciałem ponownie przejechać przez [Świecie nad Osą][wiki-swiecie-nad-osa],
 które to okolice zwiedzałem podczas rowerowej
 [majówki]({% post_url 2019-05-01-pierwsza-setka-na-pierwszego-maja %}).
 
-{% photo "2019_12_01__13_26__C010071.jpg","Kot w Rudzienicach","tag:cat" %}
+{% photo "2019_12_01__13_26__C010071.jpg","Kot w Rudzienicach (1)","tag:cat" %}
 
 Zatrzymaliśmy się na stacji benzynowej w [Rudzienicach][wiki-rudzienice].
 [Wracając z majówki]({% post_url 2019-05-02-ucieczka-przed-zimnem %})
 rozważaliśmy powrót ze stacji kolejowej z tej miejscowości.
 
-{% photo "2019_12_01__13_27__C010115.jpg","Kot w Rudzienicach","tag:cat" %}
+{% photo "2019_12_01__13_27__C010115.jpg","Kot w Rudzienicach (2)","tag:cat" %}
 
 W okolicy stacji kręcił się puchaty kot. Okazało się, że jest on bardzo przyjazny
 i postanowiłem zrobić mu kilka zdjęć. Ostatecznie zrobiłem mu trochę
 więcej (około dwustu!) bo był bardzo ładny i towarzyski.
 
-{% photo "2019_12_01__13_31__C010311.jpg","Kot w Rudzienicach","tag:cat" %}
+{% photo "2019_12_01__13_31__C010311.jpg","Kot w Rudzienicach (3)","tag:cat,tag:good" %}
 
 Dotarliśmy do [Iławy][wiki-ilawa] i dalej na zachód aż do [Laseczna][wiki-laseczno].
 Tam opuściliśmy drogę 15-tkę i jechaliśmy już eksplorując
 ciekawsze (na rower) tereny.
 
-{% photo "2019_12_01__14_00__C010415.jpg","Między Zazdrością a wsią Trupel","timeline" %}
+{% photo "2019_12_01__14_00__C010415.jpg","Między Zazdrością a wsią Trupel","tag:timeline" %}
 
 Przejeżdżaliśmy przez małe wioski aż do [Biskupca][wiki-biskupiec].
 Nie zapamiętałem niczego szczególnego. Było tak... spokojnie.
 
-{% photo "2019_12_01__14_05__C010474.jpg","Wiatrak niedaleko wsi Trupel","timeline" %}
+{% photo "2019_12_01__14_05__C010474.jpg","Wiatrak niedaleko wsi Trupel","tag:timeline,tag:good" %}
 
 W [Biskupcu][wiki-biskupiec] skręciliśmy na zachód jadąc drogą wojewódzką.
 
-{% photo "2019_12_01__14_33__C010587.jpg","Okolice Wielkiej Tymawy","timeline" %}
+{% photo "2019_12_01__14_33__C010587.jpg","Okolice Wielkiej Tymawy","tag:timeline" %}
 
 Zbliżaliśmy się do głównego celu tego dnia - do [Świecia nad Osą][wiki-swiecie-nad-osa].
 Okolice [Lisnowa][wiki-lisnowa] bardzo mi się spodobały. Zatrzymaliśmy się
 nawet tam na chwile. Pofalowane pola, rzędy drzew, z dala od ludzi.
 
-{% photo "2019_12_01__14_44_DSC04823.jpg","Droga w okolicy Lisnowa","timeline" %}
+{% photo "2019_12_01__14_44_DSC04823.jpg","Droga w okolicy Lisnowa","tag:timeline" %}
 
 Dotarliśmy dalej do [Rywałdu][wiki-rywald] i dalej jechaliśmy drogą wojewódzką aby
 dotrzeć do 15-tki w [Kowalewie Pomorskim][wiki-kowalewo-pomorskie].
