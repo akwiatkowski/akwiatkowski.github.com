@@ -93,7 +93,7 @@ a w tym momencie nie ma tam żadnego połączenia kolejowego.
 Sama [wieś][wiki-lubiechnia-mala] jest bardzo mała, położona w lesie około
 kilometr od drogi.
 
-{% photo "2019_06_01__11_53_P6010065.jpg","Północne okolice wsi Połęcko","tag:timeline" %}
+{% photo "2019_06_01__11_53_P6010065.jpg","Północne okolice wsi Połęcko","tag:timeline,tag:good" %}
 
 Dojechaliśmy do skrzyżowania do [Połęcka][wiki-polecko]. Nie planowaliśmy tam
 skręcać jednak po krótkiej analizie opcji zmieniliśmy zdanie.
@@ -162,7 +162,7 @@ Zaciekawiły mnie różnokolorowe domy bliźniaki podczas wyjazdu.
 Pomiędzy [Lubieniem][wiki-lubien] a [Brzeźnem][wiki-brzezno] było obniżenie terenu.
 Zjechaliśmy na chwilę do lasu w którym było małe jezioro.
 
-{% photo "2019_06_01__13_45_P6010188.jpg","Droga do Brzeźna","tag:timeline" %}
+{% photo "2019_06_01__13_45_P6010188.jpg","Droga do Brzeźna","tag:timeline,tag:good" %}
 
 Dotarliśmy do centrum wsi [Brzeźno][wiki-brzezno]. Przejechaliśmy obok
 kościoła i kierowaliśmy się do [Sulęcina][wiki-sulecin].
@@ -173,7 +173,7 @@ Widok był bardzo ładny. Czekał na nas bardzo solidny zjazd.
 Ostatnie obniżenie terenu jest związane z rzeką [Postomia][wiki-postomia],
 która płynie przez [Słońsk][wiki-slonsk] do [Kostrzyna nad Odrą][wiki-kostrzyn].
 
-{% photo "2019_06_01__14_07_P6010221.jpg","Obniżenie terenu do Sulęcina","tag:timeline" %}
+{% photo "2019_06_01__14_07_P6010221.jpg","Obniżenie terenu do Sulęcina","tag:timeline,tag:good" %}
 
 [Sulęcin][wiki-sulecin] cierpi według mnie trochę na problemy większej miejscowości
 ale z drugiej strony sporo budynków zachowało swój klimat.
@@ -203,7 +203,7 @@ i ostatecznie wybierałem instynktownie.
 Gdy wyjechaliśmy z lasu ponownie wszystko stało się bardziej zielone. Czyżby drzewa
 w lesie nie tolerowały nieznacznie większej temperatury?
 
-{% photo "2019_06_01__16_07_P6010235.jpg","Pierwszy widok na Jezioro Lubiąż" %}
+{% photo "2019_06_01__16_07_P6010235.jpg","Pierwszy widok na Jezioro Lubiąż","tag:good" %}
 
 Byliśmy teraz we wsi [Jarnatów][wiki-jarnatow]. Do [Lubniewic][wiki-lubniewice]
 zostało nam około 5km. Dotarliśmy do noclegu a

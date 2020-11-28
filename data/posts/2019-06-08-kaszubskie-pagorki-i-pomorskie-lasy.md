@@ -143,7 +143,7 @@ Dotarliśmy do [Marszewa][wiki-marszewo], gdzie nasza droga złączyła się ze
 szlakiem rowerowym na chwilę. My jednak planowaliśmy dalej jechać drogą
 asfaltową.
 
-{% photo "2019_06_08__11_09_P6080073.jpg","Łubin obok Nowej Wsi Przywidzkiej","tag:timeline" %}
+{% photo "2019_06_08__11_09_P6080073.jpg","Łubin obok Nowej Wsi Przywidzkiej","tag:timeline,tag:good" %}
 
 Przed wsią [Ząbrsko Górne][wiki-zabrsko-gorne] zrobiliśmy przerwę przy sklepie na lody.
 Podobał mi się delikatny zjazd do [Majdan][wiki-majdany].
@@ -164,7 +164,7 @@ opcje i jedziemy.
 Okolica była nieznacznie pofalowana. Były zjazdy, jednak były one dłuższe i
 spokojne.
 
-{% photo "2019_06_08__11_55_P6080147.jpg","Opuszczając Egiertowo" %}
+{% photo "2019_06_08__11_55_P6080147.jpg","Opuszczając Egiertowo","tag:good" %}
 
 Bardzo podobał mi się bardzo zjazd z [Roztoki][wiki-roztoka] do [Kameli][wiki-kamela].
 
@@ -173,7 +173,7 @@ Bardzo podobał mi się bardzo zjazd z [Roztoki][wiki-roztoka] do [Kameli][wiki-
 Gdy dotarliśmy do [Egiertowa][wiki-egiertowo] od razu zauważyłem budujące się
 osiedle nowych domów.
 
-{% photo "2019_06_08__12_07_P6080165.jpg","Tory kolejowe i przystanek w Sławkach","tag:timeline" %}
+{% photo "2019_06_08__12_07_P6080165.jpg","Tory kolejowe i przystanek w Sławkach","tag:timeline,tag:good" %}
 
 Pojawił się pomysł aby podjechać do miejscowości [Ostrzyce][wiki-ostrzyce].
 Głównym powodem było [Jezioro Ostrzyckie][wiki-jezioro-ostrzyckie], które

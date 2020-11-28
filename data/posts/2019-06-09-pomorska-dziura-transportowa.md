@@ -84,7 +84,7 @@ Krajobraz przypominał mi
 Spokojne drogi, pofalowane pola i dużo zieleni. Chociaż wydaje mi się, że mazurskie
 wsie mają swój inny, mniej ucywilizowany klimat.
 
-{% photo "2019_06_09__09_44_P6090449.jpg","Okolice drogi do Półczynka","tag:timeline" %}
+{% photo "2019_06_09__09_44_P6090449.jpg","Okolice drogi do Półczynka","tag:timeline,tag:good" %}
 
 Jadąc do [Dąbrówki][wiki-dabrowka] widzieliśmy na południe drogi gruntowe.
 Jest tam dolina rzeki Boruny i bardzo ciekawy
@@ -100,7 +100,7 @@ Gdy mineliśmy [Nieczulice][wiki-nieczulice] miałem idealny widok na
 tory [linii 212][wiki-linia-212] w stronę [Korzybia][wiki-korzybie].
 Aktualnie jeżdżą tam tylko [drezyny][bytowskie-drezyny].
 
-{% photo "2019_06_09__09_45_P6090453.jpg","Kolejna droga gruntowa","tag:timeline" %}
+{% photo "2019_06_09__09_45_P6090453.jpg","Kolejna droga gruntowa","tag:timeline,tag:good" %}
 
 W okolicy była kiedyś [linia][wiki-bytow-miastko] do [Miastka][wiki-miastko],
 która została rozebrana po 1945 roku.
@@ -125,7 +125,7 @@ Przez [Tągowie][wiki-tagowie] przejechaliśmy drogą poboczną. Ta decyzja nie
 była racjonalna ale Krzychu sobie wybrał tą drogę. Mi to nie przeszkadzało
 ale oni mieli znacznie węższe opony.
 
-{% photo "2019_06_09__10_13_P6090508.jpg","Droga w okolicy Tągowie" %}  
+{% photo "2019_06_09__10_13_P6090508.jpg","Droga w okolicy Tągowie","tag:timeline,tag:good" %}  
 
 Patrząc teraz na mapę to zaciekawiła mnie droga do [Modrzejewa][wiki-modrzejewo].
 W okolicy Jeziora Chotkowskiego byłby na niej dość mocny zjazd i podjazd.
@@ -149,7 +149,7 @@ Jechaliśmy na północny-zachód a nasz cel był na południowym-zachodzie.
 Trochę czułem się dziwnie z tym faktem, jednak innych sensownych dróg nie
 widziałem na mapie.
 
-{% photo "2019_06_09__11_28_P6090555.jpg","Droga do Nowej Huty","tag:timeline" %}
+{% photo "2019_06_09__11_28_P6090555.jpg","Droga do Nowej Huty","tag:timeline,tag:good" %}
 
 [Nowe Huty][wiki-nowe-huty] są w dwóch miejscach. Widzieliśmy najpierw małą
 osadę ze swoim przystankiem autobusowym i po pewnym czasie wjechaliśmy
@@ -167,7 +167,7 @@ nie wyglądało to tak oczywiście.
 
 Domy które mijaliśmy trudno nazwać wsiami, najwyżej małymi osadami.
 
-{% photo "2019_06_09__11_44_P6090576.jpg","Dom w osadzie bez nazwy" %}
+{% photo "2019_06_09__11_44_P6090576.jpg","Dom w osadzie bez nazwy","tag:good" %}
 
 Dotarliśmy do drogi regionalnej. Chcieliśmy jechać na południe i następnie
 jakoś dostać się do [Wałdowa][wiki-waldowo]. Minęliśmy nowe słupy wysokiego
@@ -199,12 +199,12 @@ tutaj tak trudny.
 Wkroczyliśmy w teren lasów, chyba głównie iglastych. Miałem wrażenie, że
 drzewa są trochę "rzadkie".
 
-{% photo "2019_06_09__13_32_P6090614.jpg","Dolina rzeki Miłacz","tag:timeline" %}
+{% photo "2019_06_09__13_32_P6090614.jpg","Dolina rzeki Miłacz","tag:timeline,tag:good" %}
 
 We wsi [Trzcinno][wiki-trzcinno] był jakiś wiejski festyn. Gdy opuszczaliśmy
 tą miejscowość przyjechał rajd motorowy.
 
-{% photo "2019_06_09__13_55_P6090625.jpg","Okolica wsi Dretynek" %}
+{% photo "2019_06_09__13_55_P6090625.jpg","Okolica wsi Dretynek","tag:good" %}
 
 Uruchomiłem mapy google i na początku zobaczyłem, że czeka nas tylko zjazd.
 Jednak gdy przejechaliśmy chwilę podjazd nie był wcale jakiś niezauważalny.

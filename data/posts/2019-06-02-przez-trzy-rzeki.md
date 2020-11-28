@@ -94,12 +94,12 @@ drodze gruntowej w północnej części wsi. Zaciekawiła mnie kolumna z krzyże
 Kierowaliśmy się do miejscowości [Bledzew][wiki-bledzew], przez którą
 przejeżdżałem [ponad rok temu]({% post_url 2018-04-04-pierwszy-dzien-lata-tej-wiosny %}).
 
-{% photo "2019_06_02__11_15_P6020924.jpg","Pola na północ od Sokola Dąbrowskiego","tag:timeline" %}
+{% photo "2019_06_02__11_15_P6020924.jpg","Pola na północ od Sokola Dąbrowskiego","tag:timeline,tag:good" %}
 
 Sama [miejscowość][wiki-bledzew] mi się spodobała. Wyglądała jak bardzo małe
 miasteczko z dużą ilością starych domów.
 
-{% photo "2019_06_02__11_56_P6020942.jpg","Kanał Bledzewski i rzeka Obra" %}
+{% photo "2019_06_02__11_56_P6020942.jpg","Kanał Bledzewski i rzeka Obra","tag:good" %}
 
 Przy wschodnim wyjeździe jest bardzo ładne miejsce postojowe przy
 rzece [Obrze][wiki-obra-rzeka].
@@ -115,7 +115,7 @@ gdy zobaczymy obracany most obok
 Ponownie mogę powiedzieć, że miejscowości były znacznie ciekawsze niż droga
 je łącząca.
 
-{% photo "2019_06_02__12_28_P6020968.jpg","Obracany most obok Starego Dworku" %}
+{% photo "2019_06_02__12_28_P6020968.jpg","Obracany most obok Starego Dworku","tag:good" %}
 
 Droga do [Starego Dworku][wiki-stary-dworek] okazała się być lepsza
 niż myślałem. Obawiałem się, że będziemy musieli jechać po brukowanej.
@@ -189,7 +189,7 @@ Dołączyliśmy do czerwonego szlaku rowerowego, z którego był bardzo ładny
 widok na [Wartę][wiki-warta-rzeka]. Dotarliśmy do drogi asfaltowej.
 Zostały nam 2km do [Santoka][wiki-santok].
 
-{% photo "2019_06_02__16_14_P6021088.jpg","Świerszcz w makach" %}
+{% photo "2019_06_02__16_14_P6021088.jpg","Świerszcz w makach","tag:good" %}
 
 Jechaliśmy specjalną drogą do rowerów aż do mostu nad [Notecią][wiki-notec-rzeka].
 
@@ -214,7 +214,7 @@ już całkowicie zapełnione.
 Postanowiłem jechać do [Gorzowa Wielkopolskiego][wiki-gorzow]. Tam pociągi
 jadą również przez [Skwierzyne][wiki-skwierzyna] do [Zbąszynka][wiki-zbaszynek].
 
-{% photo "2019_06_02__16_47_P6020111.jpg","Czarny santocki kotek","tag:cat" %}
+{% photo "2019_06_02__16_47_P6020111.jpg","Czarny santocki kotek","tag:cat,tag:good" %}
 
 Praktycznie pod sam [Gorzów][wiki-gorzow] jest droga asfaltowa wzłuż linii
 kolejowej. Jest z niej bardzo ładny widok na [Wartę][wiki-warta-rzeka].

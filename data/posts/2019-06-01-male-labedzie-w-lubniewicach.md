@@ -66,7 +66,7 @@ połączenie zadbania i zaniedbania.
 
 Okolica od wejścia do parku jest bardzo zarośnięta.
 
-{% photo "2019_06_01__19_16_P6010448.jpg","Lubniewickie łabędzie" %}
+{% photo "2019_06_01__19_16_P6010448.jpg","Lubniewickie łabędzie","tag:good" %}
 
 Spotkaliśmy tam rodzinę łabędzi, która tym razem nie blokowała pomostu obok
 naszego noclegu.
@@ -92,7 +92,7 @@ Z drugiej strony też nie uciekał ode mnie.
 Przeszliśmy na drugi brzeg [Jeziora Lubiąż][wiki-jezioro-lubiaz] mając
 teraz widok na centrum [Lubniewic][wiki-lubniewice].
 
-{% photo "2019_06_01__19_38_P6010656.jpg","Widok na Lubniewice" %}
+{% photo "2019_06_01__19_38_P6010656.jpg","Widok na Lubniewice","tag:good" %}
 
 Podobał mi się widok na miasto odbijające się od [jeziora][wiki-jezioro-lubiaz].
 
@@ -105,7 +105,7 @@ Spotkaliśmy również małe kaczki siedzące na drzewie obok swojej mamy.
 Słońce powoli zachodziło. Wróciliśmy do parku ale z ciekawości postanowiliśmy
 przejść dróżką. Dotarliśmy do miejsca pracy rybaków. Tam spotkaliśmy kolejnego kota.
 
-{% photo "2019_06_01__20_07_P6010699.jpg","Kot rybaka w Lubniewicach","tag:cat" %}
+{% photo "2019_06_01__20_07_P6010699.jpg","Kot rybaka w Lubniewicach","tag:cat,tag:good" %}
 
 Kot ten grzecznie siedział na pomoście.
 
@@ -124,11 +124,11 @@ Następnego dnia po śniadaniu ponownie poszedłem zobaczyć łabędzie. Tym raz
 wszystkie, razem z małymi, były za ogrodzeniem. Blokowały dojście do
 lokalnego pomostu.
 
-{% photo "2019_06_02__09_42_P6020782.jpg","Małe łabędzie" %}
+{% photo "2019_06_02__09_42_P6020782.jpg","Małe łabędzie (1)","tag:good" %}
 
 Małe łabędzie sobie spały podczas gdy rodzice pilnowali okolicy.
 
-{% photo "2019_06_02__09_49_P6020834.jpg","Małe łabędzie" %}
+{% photo "2019_06_02__09_49_P6020834.jpg","Małe łabędzie (2)" %}
 
 Po pewnym czasie duże łabędzie przesunęły się w stronę pomostu.
 
