@@ -32,7 +32,7 @@ struct PhotoEntity
 
   FLAG_NOGALLERY   = "nogallery"
   FLAG_NO_TIMELINE = "notimeline"
-  FLAG_TIMELINE    = "timeline"
+  FLAG_TIMELINE    = "timeline" # TODO convert to tag
   FLAG_MAP         = "map"
 
   THUMB_PREFIX         = "thumb"
@@ -40,8 +40,28 @@ struct PhotoEntity
   GALLERY_THUMB_PREFIX = "gallery_thumb"
   SMALL_PREFIX         = "small"
 
+  TAG_GOOD = "good"
+  TAG_BEST = "best"
+  TAG_CAT = "cat"
+
+  TAG_GALLERIES = [
+    TAG_CAT,
+    "portfolio",
+    TAG_GOOD,
+    TAG_BEST,
+    "timeline"
+  ]
+
+  # https://fontawesome.com/
+  TAG_BOOTSTRAP_ICON = {
+    TAG_GOOD => "check-circle-fill",
+    TAG_BEST => "gem",
+    TAG_BEST => "eye-fill"
+  }
+
   getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map, :is_published
   getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
+  getter :full_image_sanitized
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless
   getter :post_title, :post_time, :post_slug, :post_url, :param_string
@@ -83,6 +103,7 @@ struct PhotoEntity
     @thumb_image_src = processed_img_path(THUMB_PREFIX)
     @small_image_src = processed_img_path(SMALL_PREFIX)
     @full_image_src = generate_full_image_src
+    @full_image_sanitized = @full_image_src.gsub(/\W/,"_").as(String)
 
     @time = post.time
     @day_of_year = @time.day_of_year
@@ -97,6 +118,25 @@ struct PhotoEntity
 
   def mark_as_published!
     @published = true
+  end
+
+  def is_good?
+    return has_tag?(TAG_GOOD)
+  end
+
+  def is_best?
+    return has_tag?(TAG_BEST)
+  end
+
+  def is_at_least_good?
+    return is_good? || is_best?
+  end
+
+  # TODO add method for filtering by tags (portfolio, is header)
+  # TODO add method calc photo quality (tags, header, published, time...)
+
+  def has_tag?(tag : String)
+    return @tags.includes?(tag)
   end
 
   def update_desc_and_params(new_desc, new_param_string)
@@ -147,6 +187,7 @@ struct PhotoEntity
     data["img.title"] = processed_desc
     data["post.title"] = @post_title
     data["img.url"] = full_image_src
+    data["img.full_image_sanitized"] = full_image_sanitized
 
     data.merge!(self.exif.not_nil!.hash_for_partial)
 

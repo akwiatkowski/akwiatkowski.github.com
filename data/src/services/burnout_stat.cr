@@ -116,8 +116,6 @@ class BurnoutStat
         m.month == month.month && m.year < month.year
       end
 
-      puts month_keys_for_avg.inspect
-
       if month_keys_for_avg.size > 0
         # calculate average
         avg_size = month_keys_for_avg.size

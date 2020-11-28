@@ -56,7 +56,7 @@ gallery.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okra
 gallery.title: Galeria
 gallery.subtitle: Lista zdjęć dodanych do wpisów
 
-gallery.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
+gallery.lens.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
 gallery.lens.subtitle: Zdjęcia wybranym obiektywem
 
 gallery.cat.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
@@ -66,6 +66,20 @@ gallery.cat.subtitle: Spotkane koty na trasie
 gallery.portfolio.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
 gallery.portfolio.title: Najlepsze zdjęcia
 gallery.portfolio.subtitle:
+
+# TODO
+gallery.good.backgrounds:
+gallery.good.title: Zdjęcia z których jestem zadowolony
+gallery.good.subtitle:
+
+gallery.best.backgrounds:
+gallery.best.title: Najlepsze zdjęcia
+gallery.best.subtitle:
+
+gallery.timeline.backgrounds:
+gallery.timeline.title: Pory roku
+gallery.timeline.subtitle:
+
 
 # but it shouldn't be used
 portfolio.title: Portfolio

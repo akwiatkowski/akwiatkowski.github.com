@@ -30,6 +30,7 @@ require "./views/burnout_stat_view"
 require "./views/gallery_view"
 require "./views/tag_gallery_view"
 require "./views/lens_gallery_view"
+require "./views/lens_gallery_index_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
@@ -635,19 +636,33 @@ class Tremolite::Renderer
   end
 
   def render_tag_galleries
-    # TODO get all tags from array of PhotoEntity
-    ["cat", "portfolio"].each do |tag|
+    PhotoEntity::TAG_GALLERIES.each do |tag|
       view = TagGalleryView.new(blog: @blog, tag: tag)
       write_output(view)
     end
   end
 
   def render_lens_galleries
+    lens_renderers = Array(LensGalleryView).new
+
     # only for predefined lenses
-    ExifEntity::LENS_NAMES.each do |lens|
-      view = LensGalleryView.new(blog: @blog, lens: lens, tags: ["good", "best"])
+    ExifEntity::LENS_NAMES.values.each do |lens|
+      view = LensGalleryView.new(
+        blog: @blog,
+        lens: lens,
+        tags: ["good", "best"],
+        include_headers: true
+      )
       write_output(view)
+
+      lens_renderers << view
     end
+
+    index_view = LensGalleryIndexView.new(
+      blog: @blog,
+      lens_renderers: lens_renderers
+    )
+    write_output(index_view)
   end
 
   def render_timeline_list

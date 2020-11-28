@@ -12,9 +12,16 @@ class TagGalleryView < WidePageView
       p.tags.includes?(@tag)
     }.as(Array(PhotoEntity))
 
-    @image_url = @data_manager["gallery.#{@tag}.backgrounds"].as(String)
+    # display last added photo
+    if @photo_entities.size > 0
+      @image_url = @photo_entities.last.full_image_src.as(String)
+      @subtitle = "#{@photo_entities.size} zdjęć od #{@photo_entities.first.time.to_s("%Y-%m-%d")} do #{@photo_entities.last.time.to_s("%Y-%m-%d")}"
+    else
+      @image_url = @data_manager["gallery.lens.backgrounds"].as(String)
+      @subtitle = "brak zdjęć"
+    end
+
     @title = @data_manager["gallery.#{@tag}.title"].as(String)
-    @subtitle = @data_manager["gallery.#{@tag}.subtitle"].as(String)
 
     @url = "/gallery/#{@tag}"
   end
@@ -28,7 +35,7 @@ class TagGalleryView < WidePageView
   def tag_images
     s = ""
 
-    @photo_entities.each do |photo_entity|
+    @photo_entities.reverse.each do |photo_entity|
       s += load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
     end
 
