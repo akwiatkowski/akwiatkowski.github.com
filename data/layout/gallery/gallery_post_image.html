@@ -8,7 +8,11 @@
   data-time="{{ img.time }}"
   id="{{ img.full_image_sanitized }}"
 >
-  <img src="{{ img.src }}" alt="{{ img.alt }}" title="{{ img.alt }}" />
+  <img
+    src="{{ img.src }}"
+    alt="{{ img.alt }}"
+    title="{{ img.alt }}"
+    class="gallery-image-img" />
 
   <a href="{{ img.url }}" target="_blank" class="gallery-zoom">
     <img src="/img/gallery-zoom.png" alt="{{ post.title }}" />

@@ -384,7 +384,7 @@ class Map::PhotoToRouteLayer
 
   def photo_position_to_svg_image(photo_position)
     photo_entity = photo_position.photo_entity
-    url = photo_entity.gallery_thumb_image_src
+    url = photo_entity.map_thumb_image_src
     post_url = photo_entity.post_url
     photo_url = photo_entity.full_image_src
 

@@ -20,11 +20,12 @@ struct PhotoEntity
   @is_timeline : Bool
   @is_published : Bool
 
-  @big_thumb_image_src : String
+  @post_preview_image_src : String
   @gallery_thumb_image_src : String
-  @thumb_image_src : String
+  @map_thumb_image_src : String
+  @masonry_image_src : String
+
   @full_image_src : String
-  @small_image_src : String
 
   @exif : ExifEntity
 
@@ -35,10 +36,10 @@ struct PhotoEntity
   FLAG_TIMELINE    = "timeline" # TODO convert to tag
   FLAG_MAP         = "map"
 
-  THUMB_PREFIX         = "thumb"
-  BIG_THUMB_PREFIX     = "big_thumb"
-  GALLERY_THUMB_PREFIX = "gallery_thumb"
-  SMALL_PREFIX         = "small"
+  POST_PREVIEW_PREFIX     = "big_thumb"
+  MASONRY_PREFIX         = "small"
+  GALLERY_PREFIX = "gallery"
+  MAP_PREFIX = "gallery_thumb"
 
   TAG_GOOD = "good"
   TAG_BEST = "best"
@@ -60,7 +61,7 @@ struct PhotoEntity
   }
 
   getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map, :is_published
-  getter :thumb_image_src, :big_thumb_image_src, :gallery_thumb_image_src, :full_image_src, :small_image_src
+  getter :post_preview_image_src, :gallery_thumb_image_src, :full_image_src, :masonry_image_src, :map_thumb_image_src
   getter :full_image_sanitized
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless
@@ -98,10 +99,11 @@ struct PhotoEntity
     @post_slug = post.slug
 
     # just optimization
-    @big_thumb_image_src = processed_img_path(BIG_THUMB_PREFIX)
-    @gallery_thumb_image_src = processed_img_path(GALLERY_THUMB_PREFIX)
-    @thumb_image_src = processed_img_path(THUMB_PREFIX)
-    @small_image_src = processed_img_path(SMALL_PREFIX)
+    @post_preview_image_src = processed_img_path(POST_PREVIEW_PREFIX)
+    @gallery_thumb_image_src = processed_img_path(GALLERY_PREFIX)
+    @masonry_image_src = processed_img_path(MASONRY_PREFIX)
+    @map_thumb_image_src = processed_img_path(MAP_PREFIX)
+
     @full_image_src = generate_full_image_src
     @full_image_sanitized = @full_image_src.gsub(/\W/,"_").as(String)
 
@@ -181,7 +183,7 @@ struct PhotoEntity
 
     data["klass"] = klass
     data["post.url"] = @post_url
-    data["img.src"] = @gallery_thumb_image_src # @big_thumb_image_src
+    data["img.src"] = @gallery_thumb_image_src
     processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}" : @desc
     data["img.alt"] = processed_desc
     data["img.title"] = processed_desc

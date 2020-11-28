@@ -1,6 +1,7 @@
 require "./views/base_view"
 require "./views/page_view"
 require "./views/wide_page_view"
+require "./views/wider_page_view"
 
 require "./views/home_view"
 require "./views/portfolio_view"
@@ -28,11 +29,11 @@ require "./views/lands_index_view"
 require "./views/year_stat_report_view"
 require "./views/burnout_stat_view"
 require "./views/gallery_view"
-require "./views/tag_gallery_view"
-require "./views/lens_gallery_view"
-require "./views/lens_gallery_index_view"
-require "./views/focal_length_gallery_view"
-require "./views/focal_length_gallery_index_view"
+require "./views/gallery/gallery_tag_view"
+require "./views/gallery/gallery_lens_view"
+require "./views/gallery/gallery_lens_index_view"
+require "./views/gallery/gallery_focal_length_view"
+require "./views/gallery/gallery_focal_length_index_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
@@ -639,17 +640,17 @@ class Tremolite::Renderer
 
   def render_tag_galleries
     PhotoEntity::TAG_GALLERIES.each do |tag|
-      view = TagGalleryView.new(blog: @blog, tag: tag)
+      view = GalleryTagView.new(blog: @blog, tag: tag)
       write_output(view)
     end
   end
 
   def render_lens_galleries
-    lens_renderers = Array(LensGalleryView).new
+    lens_renderers = Array(GalleryLensView).new
 
     # only for predefined lenses
     ExifEntity::LENS_NAMES.values.each do |lens|
-      view = LensGalleryView.new(
+      view = GalleryLensView.new(
         blog: @blog,
         lens: lens,
         tags: ["good", "best"],
@@ -660,7 +661,7 @@ class Tremolite::Renderer
       lens_renderers << view
     end
 
-    index_view = LensGalleryIndexView.new(
+    index_view = GalleryLensIndexView.new(
       blog: @blog,
       lens_renderers: lens_renderers
     )
@@ -668,7 +669,7 @@ class Tremolite::Renderer
   end
 
   def render_focal_length_galleries
-    renderers = Array(FocalLengthGalleryView).new
+    renderers = Array(GalleryFocalLengthView).new
 
     # only for predefined focal
     # TODO generate it using algorithm
@@ -691,7 +692,7 @@ class Tremolite::Renderer
     end
 
     focals.each do |focal|
-      view = FocalLengthGalleryView.new(
+      view = GalleryFocalLengthView.new(
         blog: @blog,
         focal_from: focal[0].to_f,
         focal_to: focal[1].to_f,
@@ -703,7 +704,7 @@ class Tremolite::Renderer
       renderers << view
     end
 
-    index_view = FocalLengthGalleryIndexView.new(
+    index_view = GalleryFocalLengthIndexView.new(
       blog: @blog,
       renderers: renderers
     )

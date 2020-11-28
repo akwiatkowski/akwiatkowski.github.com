@@ -39,18 +39,23 @@ class PageView < BaseView
     return load_html("page/article", data)
   end
 
-  # same as `page_article_html` but for not pure text articles
-  # margins are much smaller
-  def page_article_full_wide_html
-    data = Hash(String, String).new
-    data["content"] = inner_html
-    return load_html("page/article_full_wide", data)
-  end
-
   # override layout for photo only view
   def page_article_wide_html
     data = Hash(String, String).new
     data["content"] = inner_html
+    return load_html("page/article_wide", data)
+  end
+
+  # override layout for photo only view
+  def page_article_wider_html
+    data = Hash(String, String).new
+    data["content"] = inner_html
     return load_html("page/article_wider", data)
+  end
+
+  def page_article_widest_html
+    data = Hash(String, String).new
+    data["content"] = inner_html
+    return load_html("page/article_widest", data)
   end
 end

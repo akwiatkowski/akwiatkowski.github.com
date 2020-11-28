@@ -1,10 +1,10 @@
 # list of lens showcase
-class LensGalleryIndexView < PageView
+class GalleryLensIndexView < PageView
   Log = ::Log.for(self)
 
   def initialize(
     @blog : Tremolite::Blog,
-    @lens_renderers : Array(LensGalleryView)
+    @lens_renderers : Array(GalleryLensView)
   )
     # ordered only with photos
     @lens_renderers_with_content = @lens_renderers.select do |lr|
@@ -17,7 +17,7 @@ class LensGalleryIndexView < PageView
       # there was problem with doubled viewers because of
       # multiple kind of "misc" lenses
       lr.url
-    end.as(Array(LensGalleryView))
+    end.as(Array(GalleryLensView))
 
     count_sum = @lens_renderers_with_content.map do |lr|
       lr.photo_entities_count

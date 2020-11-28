@@ -205,8 +205,6 @@ class Tremolite::Views::BaseView
       "img.additional_links" => additional_links.to_s,
     }
 
-    puts additional_links.inspect
-
     if exif
       data.merge!(exif.not_nil!.hash_for_partial)
     end

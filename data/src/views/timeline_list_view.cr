@@ -32,7 +32,7 @@ class TimelineList < WidePageView
 
   def content
     if USE_WIDER_LAYOUT
-      page_header_html + page_article_full_wide_html
+      page_header_html + page_article_widest_html
     else
       super
     end

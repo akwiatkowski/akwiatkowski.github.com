@@ -71,11 +71,11 @@ class Tremolite::Post
 
   # XXX refactor
   def small_image_url
-    @head_photo_entity.not_nil!.small_image_src
+    @head_photo_entity.not_nil!.masonry_image_src
   end
 
   def big_thumb_image_url
-    @head_photo_entity.not_nil!.big_thumb_image_src
+    @head_photo_entity.not_nil!.post_preview_image_src
   end
 
   def thumb_image_url
