@@ -16,3 +16,15 @@
   bottom: 8px;
   left: 8px;
 }
+
+.gallery-image-img {
+  border: 1px white;
+}
+
+.gallery-image-img:hover {
+  border: 1px gray;
+}
+
+.gallery-container {
+  text-align: center;
+}
