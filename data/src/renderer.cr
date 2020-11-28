@@ -31,6 +31,8 @@ require "./views/gallery_view"
 require "./views/tag_gallery_view"
 require "./views/lens_gallery_view"
 require "./views/lens_gallery_index_view"
+require "./views/focal_length_gallery_view"
+require "./views/focal_length_gallery_index_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
@@ -661,6 +663,49 @@ class Tremolite::Renderer
     index_view = LensGalleryIndexView.new(
       blog: @blog,
       lens_renderers: lens_renderers
+    )
+    write_output(index_view)
+  end
+
+  def render_focal_length_galleries
+    renderers = Array(FocalLengthGalleryView).new
+
+    # only for predefined focal
+    # TODO generate it using algorithm
+    # start from 18mm and increase by 20% up to 800mm
+    focals = Array(Tuple(Int32,Int32)).new
+
+    focal = 16
+    while focal < 800
+      new_focal = (focal.to_f * 1.2).to_i
+
+      # rounding, better to have bigger range
+      if new_focal > 80
+        new_focal = (new_focal.to_f / 10.0).ceil.to_i * 10
+      elsif new_focal > 40
+        new_focal = (new_focal.to_f / 5.0).ceil.to_i * 5
+      end
+
+      focals << {focal, new_focal}
+      focal = new_focal
+    end
+
+    focals.each do |focal|
+      view = FocalLengthGalleryView.new(
+        blog: @blog,
+        focal_from: focal[0].to_f,
+        focal_to: focal[1].to_f,
+        tags: ["good", "best"],
+        include_headers: true
+      )
+      write_output(view)
+
+      renderers << view
+    end
+
+    index_view = FocalLengthGalleryIndexView.new(
+      blog: @blog,
+      renderers: renderers
     )
     write_output(index_view)
   end

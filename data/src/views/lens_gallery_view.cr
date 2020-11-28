@@ -51,6 +51,10 @@ class LensGalleryView < WidePageView
     return @photo_entities.size
   end
 
+  def latest_photo_entity
+    return @photo_entities.first
+  end
+
   def inner_html
     return tag_images
   end
