@@ -91,6 +91,9 @@ class Tremolite::Blog
     post_collection.initialize_posts
     Log.debug { "PostCollection#initialize_posts DONE" }
 
+    Log.debug { "Populate HtmlBuffer referenced links" }
+    populate_referenced_links
+
     if mod_watcher.enabled == false || force_full_render
       all_posts = post_collection.posts
       post_to_render = all_posts
@@ -232,4 +235,11 @@ class Tremolite::Blog
       ]
     )
   end
+
+  private def populate_referenced_links
+    # TODO think about `not_nil!`
+    # convert getters into custom methods
+    @data_manager.not_nil!.preloaded_post_referenced_links.populate_referenced_links
+  end
+
 end

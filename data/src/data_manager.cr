@@ -8,6 +8,8 @@ require "./models/todo_route_entity"
 require "./models/portfolio_entity"
 
 require "./services/exif_processor"
+require "./services/preloaded_post_referenced_links"
+
 require "./data_manager/exif_db"
 
 class Tremolite::DataManager
@@ -23,8 +25,13 @@ class Tremolite::DataManager
     @transport_pois = Array(TransportPoiEntity).new
     @todo_routes = Array(TodoRouteEntity).new
     @portfolios = Array(PortfolioEntity).new
-    @town_photo_cache = TownPhotoCache.new(@blog)
 
+    @town_photo_cache = TownPhotoCache.new(
+      blog: @blog
+    )
+    @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
+      blog: @blog
+    )
     @exif_db = ExifDb.new(
       blog: @blog
     )
@@ -37,6 +44,10 @@ class Tremolite::DataManager
 
   def exif_db
     return @exif_db.not_nil!
+  end
+
+  def preloaded_post_referenced_links
+    return @preloaded_post_referenced_links.not_nil!
   end
 
   # end of getters

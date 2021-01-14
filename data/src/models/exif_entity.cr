@@ -129,7 +129,8 @@ struct ExifEntity
     "OLYMPUS M.75mm F1.8" => "Olympus 75mm f1.8",
     "LEICA DG 8-18/F2.8-4.0" => "Lumix 8-18mm",
     "OLYMPUS M.8mm F1.8" => "Olympus 8mm f1.8",
-    "105mm F1.4 DG HSM | Art 018" => "Sigma 105mm f1.4"
+    "105mm F1.4 DG HSM | Art 018" => "Sigma 105mm f1.4",
+    "OLYMPUS M.14-42mm F3.5-5.6 EZ" => "Olympus 14-42mm Kit"
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)
