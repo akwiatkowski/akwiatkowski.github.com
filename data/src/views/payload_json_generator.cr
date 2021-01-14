@@ -12,6 +12,11 @@ class PayloadJsonGenerator < Tremolite::Views::AbstractView
     to_json
   end
 
+  # a bit internal
+  def add_to_sitemap?
+    return false
+  end
+
   def to_json
     result = JSON.build do |json|
       json.object do

@@ -11,6 +11,11 @@ class PhotoMapHtmlView < WidePageView
   )
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   getter :subtitle
 
   # main params of this page

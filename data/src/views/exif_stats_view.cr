@@ -10,6 +10,11 @@ require "../services/exif_stat/exif_stat_helper"
 class ExifStatsView < WidePageView
   Log = ::Log.for(self)
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   def initialize(
     @blog : Tremolite::Blog,
     @url : String,

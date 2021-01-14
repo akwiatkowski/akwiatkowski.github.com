@@ -5,6 +5,11 @@ class PlannerView < BaseView
     @image_url = @blog.data_manager.not_nil!["planner.backgrounds"].as(String)
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   getter :image_url
 
   def title

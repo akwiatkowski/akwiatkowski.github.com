@@ -9,6 +9,11 @@ class PostGalleryStatsView < BaseView
     @url = @post.url.as(String) + STATS_URL_SUFFIX
   end
 
+  # could mess with duplicate SEO
+  def add_to_sitemap?
+    return false
+  end
+
   # not ready posts will not be added to sitemap.xml
   # this generator is part of `Tremolite` engine
   def ready

@@ -9,6 +9,11 @@ class TownsHistoryView < PageView
     @posts = @blog.post_collection.posts.as(Array(Tremolite::Post))
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   getter :image_url, :title, :subtitle
 
   def inner_html

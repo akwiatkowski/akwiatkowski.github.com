@@ -118,6 +118,13 @@ class Tremolite::Blog
       exifs_changed: exifs_changed,
     )
 
+    # update sitemap only when full render to not mess
+    # with google stuff
+    if force_full_render
+      renderer.render_sitemap
+    end
+
+
     validator.run
 
     # Z) store current state
@@ -175,14 +182,15 @@ class Tremolite::Blog
       Log.debug { "#{post.slug} - DONE" }
     end
 
-    # TODO move somewhere else
-    renderer.render_portfolio
-
     if exifs_changed
       # first we need to load all (and/or process new) exif data
       post_collection.posts.each do |post|
         data_manager.exif_db.initialize_post_photos_exif(post)
       end
+
+      # exif data is not required but better to update only
+      # when all posts with photos are loaded
+      renderer.render_gallery_stats
 
       # lens galleries require exif data to be loaded
       renderer.render_lens_galleries
@@ -196,6 +204,9 @@ class Tremolite::Blog
       # this probably should be updated more often
       # but at leas is not overwritten
       renderer.render_galleries_pages
+
+      # it not require exif but better to overwrite only during full render
+      renderer.render_portfolio
     end
 
     # moved after town cache update to have refreshed town images

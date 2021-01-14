@@ -7,6 +7,11 @@ class SummaryView < PageView
     @subtitle = @blog.data_manager.not_nil!["summary.subtitle"].as(String)
   end
 
+  # not so important for SEO
+  def add_to_sitemap?
+    return false
+  end
+
   getter :image_url, :title, :subtitle
 
   def inner_html

@@ -27,6 +27,11 @@ class TodosView < PageView
     @subtitle = @blog.data_manager.not_nil!["todos.subtitle"].as(String)
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   getter :image_url, :title, :subtitle
 
   def inner_html

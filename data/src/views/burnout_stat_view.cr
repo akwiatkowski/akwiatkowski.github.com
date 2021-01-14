@@ -8,6 +8,11 @@ class BurnoutStatView < WidePageView
     @url = "/burnout"
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   def opacity_style_string(
     value = 0,
     max = 100,

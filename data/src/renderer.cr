@@ -34,6 +34,7 @@ require "./views/gallery/gallery_lens_view"
 require "./views/gallery/gallery_lens_index_view"
 require "./views/gallery/gallery_focal_length_view"
 require "./views/gallery/gallery_focal_length_index_view"
+require "./views/gallery/gallery_tag_stats_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
@@ -176,7 +177,7 @@ class Tremolite::Renderer
         count: posts_per_pages.size
       )
 
-      write_output(url, view.to_html)
+      write_output(view)
     end
 
     Log.info { "Renderer: Rendered paginated list" }
@@ -666,6 +667,13 @@ class Tremolite::Renderer
       lens_renderers: lens_renderers
     )
     write_output(index_view)
+  end
+
+  def render_gallery_stats
+    view = GalleryTagStatsView.new(
+      blog: @blog
+    )
+    write_output(view)
   end
 
   def render_focal_length_galleries

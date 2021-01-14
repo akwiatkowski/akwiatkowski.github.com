@@ -33,6 +33,11 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     )
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   getter :url
 
   def output

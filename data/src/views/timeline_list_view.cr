@@ -19,6 +19,11 @@ class TimelineList < WidePageView
     @url = "/timeline"
   end
 
+  # a bit internal at this moment
+  def add_to_sitemap?
+    return false
+  end
+
   # PARTS = 12 * 4 # * 2
   PARTS          = 52 # weeks
   INTERTED_QUANT = 1.0 / PARTS.to_f
