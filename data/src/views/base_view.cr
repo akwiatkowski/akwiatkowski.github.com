@@ -16,6 +16,7 @@ class BaseView < Tremolite::Views::BaseView
     return top_html +
       head_open_html +
       head_title_html +
+      head_canonical_html +
       seo_html +
       open_graph_html +
       tracking_html +
@@ -40,6 +41,15 @@ class BaseView < Tremolite::Views::BaseView
 
   def head_title_html
     return "<title>#{head_title}</title>\n"
+  end
+
+  def head_canonical_html
+    if self.add_to_sitemap?
+      # TODO separate canonical and add_to_sitemap?
+      return "<link rel=\"canonical\" href=\"#{self.site_url}#{self.url}\" />\n"
+    else
+      return ""
+    end
   end
 
   def head_title
