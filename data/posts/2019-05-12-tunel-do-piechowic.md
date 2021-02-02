@@ -87,13 +87,13 @@ treści...
 Sam tunel średnio mnie zachwycił. Chyba miałem duże wyobrażenie i wyglądał
 tak... normalnie. Moje emocje można opisać "no fajnie ale idziemy dalej".
 
-{% photo "2019_05_12__11_42__5123895.jpg","Tunel Skalny" %}
+{% photo "2019_05_12__11_42__5123895.jpg","Tunel Skalny (1)" %}
 
 Aby dostać się do ulicy Kryształowej w [Piechowicach][wiki-piechowice]
 skorzystaliśmy ze skrótu drogą leśną. Sama nazwa wskazuje, że niedaleko jest
 [Huta Julia][huta-julia] zajmująca się produkcją szkła kryształowego.
 
-{% photo "2019_05_12__11_51__5123910.jpg","Tunel Skalny" %}
+{% photo "2019_05_12__11_51__5123910.jpg","Tunel Skalny (2)" %}
 
 Sam osobiście nie lubię miejsc które zwiedza się zorganizowaną grupą,
 jednak przy tej pogodzie była to dość sensowna opcja.

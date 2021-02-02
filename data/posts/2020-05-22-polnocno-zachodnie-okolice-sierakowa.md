@@ -38,42 +38,65 @@ pois:
 
 ## Szczegóły
 
-Na obiad ruszyliśmy do centrum [Sierakowa][wiki-sierakow]. Po około godzinnej
+Aby coś zjeść na obiad ruszyliśmy do centrum [Sierakowa][wiki-sierakow]. Po około godzinnej
 przerwie kierowaliśmy się na zachód.
 
-Mój plan nie był konkretny. Chciałem dostać się do [Kobylarni][wiki-kobylarnia]
-a następnie na północ wzdłuż Jeziora Mnisze obok którego jest rezerwat.
+Mój plan nie był ustalony. Chciałem dostać się do [Kobylarni][wiki-kobylarnia]
+a następnie przejechać na północ wzdłuż Jeziora Mnisze, obok którego jest rezerwat.
 
-Zaciekawił mnie żółty szlak pieszy. Postanowiłem, że warto by było go sprawdzić.
-Najbardziej mnie zaciekawiła jego bliskość do rzeki [Warty][wiki-warta].
+{% photo "2020_05_22__16_14__5222578.jpg","Okolice Warty przy Sierakowie","tag:timeline" %}
 
-Jak to szlak pieszy był on trochę bardziej terenowy i kręty. Spodobał mi się most
-za którym mieliśmy podejście, gdyż nie chciałem podjeżdżać i wolałem prowadzić
+Zaciekawił mnie żółty szlak pieszy położony wzdłuż
+[Warty][wiki-warta]. Postanowiłem, że warto by było go sprawdzić
+gdyż może być on ciekawą opcją ze względu na bliskość rzeki.
+
+{% photo "2020_05_22__16_15__5222584.jpg","Widok na Wartę" %}
+
+Jak to bywa ze szlakami pieszymi ten też był trochę bardziej terenowy i kręty.
+Spodobał mi się most za którym było podejście. Było na tyle strome że wolałem prowadzić
 rower.
 
-Byliśmy w [Marianowie][wiki-marianowo]. Okazało się tam, że żółty szlak pieszy
+Dotarliśmy do [Marianowa][wiki-marianowo]. Okazało się tam, że żółty szlak pieszy
 na mapie przebiega przez teren chwilowo zamknięty (ochrona przyrody).
-Nie chciałem jechać do drogi asfaltowej od razu a ominąć wyłączony teren.
+Nie chciałem jechać do drogi asfaltowej aby omijać ciekawą część terenową.
+
+{% photo "2020_05_22__16_19__5222594.jpg","Dom w Marianowie" %}
 
 Po dość skomplikowanej trasie opuściliśmy las i wyjechaliśmy na polanę.
-Nie wiem czy to było dobre gdyż dalsza trasa była jeszcze mniej pewna.
-Dotarliśmy w miejsce (polanę) gdzie szlak nie był wydeptany i szukaliśmy odpowiedniej
+Nie wiem czy to było dobre posunięcie gdyż dalsza trasa była jeszcze mniej oczywista.
+Dotarliśmy w miejsce (na polanę) gdzie szlak nie był wydeptany i szukaliśmy odpowiedniej
 drogi.
 
-Ucieszyłem się gdy znaleźliśmy przejście przez małą rzekę. Teraz musieliśmy
-dotrzeć do drogi 198 do [Kobylarni][wiki-kobylarnia]. W okolice teren jest ciekawy
-przynajmniej patrząc na mapę.
+{% photo "2020_05_22__16_35__5222603.jpg","Okolica Kurzej Stopy" %}
 
-Było już trochę późno i się trochę martwiłem tą trasą gdyż musieliśmy
-przejechać przez 3km lasu a leśne ścieżki dość często zamieniają się w
-"plażę".
+Ucieszyłem się gdy znaleźliśmy przejście przez małą rzekę. Teraz musieliśmy
+dotrzeć do drogi 198 i jechać do [Kobylarni][wiki-kobylarnia].
+W okolicy jej teren powinien być ciekawy - przynajmniej patrząc na mapę.
+
+{% photo "2020_05_22__16_53__5222624.jpg","Domy w Kobylarni zakryte drzewami" %}
+
+Było już trochę późno i trochę się martwiłem tą trasą. Musieliśmy
+przejechać przez 3km w lesie a leśne ścieżki dość często zamieniają się w
+bardzo piaszczyste drogi. Nie chciałem abyśmy musieli walczyć i wracać
+po zmroku.
+
+{% photo "2020_05_22__16_56__5222628.jpg","Chata w lesie" %}
 
 Sama jazda przez las również nie jest zbyt ciekawa. Raczej nie widziałem
-obniżenia terenu w stronę wody.
+obniżenia terenu w kierunku do Jeziora Kłosowskiego.
 
-Dotarliśmy do szerokiej drogi szutrowej. Co było również bardzo dobrą wiadomością
-dla mnie. Wiedziałem, że powrót do bazy jest już znacznie łatwiejszy gdyż dotrzemy do drogi
-asfaltowej a dalej już spokojnie do [Sierakowa][wiki-sierakow].
+{% photo "2020_05_22__17_00__5222639.jpg","Droga przez las" %}
+
+Dotarliśmy do szerokiej drogi szutrowej. Co było dla mnie bardzo dobrą wiadomością.
+Wiedziałem, że powrót do bazy jest już znacznie łatwiejszy.
+
+{% photo "2020_05_22__17_33__5222663.jpg","Huba na drzewie" %}
+
+Musieliśmy dotrzeć do drogi asfaltowe i już byśmy byli w
+[mieście][wiki-sierakow].
 
 Dotarliśmy do mostu nad [Wartą][wiki-warta] i na chwilę skoczyliśmy na rynek aby
 dokupić zapasy na jutrzejszą trasę.
+
+Dzisiejsza trasa pokazała mi, że powinienem się jeszcze raz tutaj wybrać. Najlepiej
+rowerem MTB i gdy pogoda będzie odpowiednia do jazdy po leśnych ścieżkach.

@@ -25,8 +25,8 @@ time_spent:             5
 [wiki-krzyzna]:         https://pl.wikipedia.org/wiki/Krzy%C5%BCna_G%C3%B3ra
 [wiki-kolorowe]:        https://pl.wikipedia.org/wiki/Kolorowe_jeziorka
 [wiki-sokolik]:         https://pl.wikipedia.org/wiki/Sokolik
-[wiki-trzcinsko]:       https://pl.wikipedia.org/wiki/Marcisz%C3%B3w
-[wiki-marciszow]:       https://pl.wikipedia.org/wiki/Trzci%C5%84sko
+[wiki-trzcinsko]:       https://pl.wikipedia.org/wiki/Trzci%C5%84sko
+[wiki-marciszow]:       https://pl.wikipedia.org/wiki/Marcisz%C3%B3w
 [wiki-jelenia]:         https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 [wiki-wiesciszowice]:   https://pl.wikipedia.org/wiki/Wie%C5%9Bciszowice
 [wiki-sudety]:          https://pl.wikipedia.org/wiki/Sudety
