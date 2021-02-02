@@ -15,12 +15,12 @@ class TownPhotoCache
     load_cache
   end
 
-  SEARCH_PHOTO_COORD_DISTANCE_TRESHOLD = 0.65
-  SEARCH_PHOTO_TOWN_IDEAL_DISTANCE     = 0.08
+  SEARCH_PHOTO_COORD_DISTANCE_TRESHOLD = 0.55
+  SEARCH_PHOTO_TOWN_IDEAL_DISTANCE     = 0.05
 
-  SEARCH_PHOTO_TOWN_PUBLISHED_COEFF = 0.12
-  SEARCH_PHOTO_TOWN_TIMELINE_COEFF  =  0.3
-  SEARCH_PHOTO_TOWN_MAP_COEFF       = 0.55
+  SEARCH_PHOTO_TOWN_PUBLISHED_COEFF = 0.02
+  SEARCH_PHOTO_TOWN_TIMELINE_COEFF  =  0.2
+  SEARCH_PHOTO_TOWN_MAP_COEFF       = 0.4
 
   getter :cache_file_path
 
@@ -92,7 +92,7 @@ class TownPhotoCache
         distance_ideal_coeff = (distance - SEARCH_PHOTO_TOWN_IDEAL_DISTANCE).abs
 
         # fresh photos are better
-        time_coeff = (Time.utc - photo_entity.time).days.to_f
+        time_coeff = (Time.utc - photo_entity.time).days.to_f ** 0.2
 
         # combine two coefficient
         total_coeff = distance_ideal_coeff * time_coeff
@@ -103,7 +103,8 @@ class TownPhotoCache
         # if photo is timeline -> reduce coeff
         total_coeff *= SEARCH_PHOTO_TOWN_TIMELINE_COEFF if photo_entity.is_timeline
 
-        # if photo is timeline -> reduce coeff
+        # if photo is map -> reduce coeff
+        # XXX not remember how this works
         total_coeff *= SEARCH_PHOTO_TOWN_MAP_COEFF if photo_entity.is_map
 
         valued_photos[photo_entity] = total_coeff
