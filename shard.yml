@@ -6,7 +6,7 @@ authors:
 
 targets:
   odkrywajac_polske:
-    blog: src/odkrywajac_polske.cr
+    main: src/odkrywajac_polske.cr
 
 dependencies:
   tremolite:
@@ -15,7 +15,7 @@ dependencies:
   crystal_gpx:
     github: akwiatkowski/crystal_gpx
     branch: master
-    
+
 crystal: 0.20.5
 
 license: GPLv3
