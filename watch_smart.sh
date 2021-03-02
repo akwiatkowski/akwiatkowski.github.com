@@ -13,7 +13,7 @@ do
     # --release flag is not suitable here
 
     rm ./blog
-    crystal src/odkrywajac_polske_local.cr -o blog #--error-trace
+    crystal build src/odkrywajac_polske_local.cr -o blog #--error-trace
 
     echo "compiled"
   else
