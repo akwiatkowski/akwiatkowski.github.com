@@ -28,7 +28,7 @@ class Tremolite::Blog
 
     # if yaml config was changed we need to re-render all posts and
     if changes_summary[Tremolite::ModWatcher::KEY_YAML_FILES].size > 0
-      Log.debug { "YAML changed -> rendering all posts + YAML views" }
+      Log.info { "YAML changed -> rendering all posts + YAML views" }
       yamls_changed = true
     else
       yamls_changed = false
@@ -87,12 +87,12 @@ class Tremolite::Blog
 
     # first we need to initialize all posts
     # ...unfortunately
-    Log.debug { "PostCollection#initialize_posts" }
+    Log.info { "PostCollection#initialize_posts" }
     post_collection.initialize_posts
-    Log.debug { "PostCollection#initialize_posts DONE" }
+    Log.info { "PostCollection#initialize_posts DONE" }
 
-    Log.debug { "Populate HtmlBuffer referenced links" }
     populate_referenced_links
+    Log.info { "Populated HtmlBuffer referenced links" }
 
     if mod_watcher.enabled == false || force_full_render
       all_posts = post_collection.posts
@@ -167,7 +167,7 @@ class Tremolite::Blog
       renderer.render_post_galleries_for_post(post)
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
-      Log.debug { "#{post.slug} - DONE" }
+      Log.info { "#{post.slug} - DONE" }
     end
 
     post_to_render_only_post.each do |post|

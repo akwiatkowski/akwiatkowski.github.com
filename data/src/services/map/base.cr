@@ -64,7 +64,7 @@ class Map::Base
 
     @photos = photos_w_coords.as(Array(PhotoEntity))
 
-    Log.info { "selected #{@photos.size} photos with lat/lon" }
+    Log.debug { "selected #{@photos.size} photos with lat/lon" }
 
     # ## END OF PHOTOS FILTER
 
@@ -76,7 +76,7 @@ class Map::Base
         @internal_coord_range.enlarge!(lat, lon)
       end
 
-      Log.info { "area from photos #{@internal_coord_range.to_s}" }
+      Log.debug { "area from photos #{@internal_coord_range.to_s}" }
     end
 
     # ## POSTS (for routes)
@@ -130,14 +130,15 @@ class Map::Base
       Log.debug { "coord_range was provided" }
     end
 
-    Log.info { "area #{@internal_coord_range.to_s}" }
+    Log.debug { "area #{@internal_coord_range.to_s}" }
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
       town.lat && town.lon
     end.as(Array(TownEntity))
-    Log.info { "#{@posts.size} posts" }
-    Log.info { "#{@towns.size} towns" }
+
+    Log.debug { "#{@posts.size} posts" }
+    Log.debug { "#{@towns.size} towns" }
 
     # tiles will be first initial
 

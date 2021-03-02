@@ -1,5 +1,4 @@
 require "yaml"
-require "logger"
 
 require "./transport_poi_entity"
 

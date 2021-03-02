@@ -1,4 +1,7 @@
 struct ExifEntity
+  include YAML::Serializable
+  include JSON::Serializable
+
   Log = ::Log.for(self)
 
   # used for mapping
@@ -29,52 +32,13 @@ struct ExifEntity
   @time : (Time | Nil)
 
   property :lat, :lon, :altitude, :focal_length, :aperture
-  property :lens, :camera, :iso
+  property :lens, :camera, :iso, :exposure
+  property :width, :height, :time, :focal_length_35, :crop, :exposure_string, :focus_distance
+
+  getter :post_slug, :image_filename
 
   def initialize(@image_filename, @post_slug)
   end
-
-  YAML.mapping(
-    image_filename: String,
-    post_slug: String,
-    lat: Float64?,
-    lon: Float64?,
-    altitude: Float64?,
-    focal_length: Float64?,
-    focal_length_35: Float64?,
-    crop: Float64?,
-    aperture: Float64?,
-    iso: Int32?,
-    lens: String?,
-    camera: String?,
-    width: Int32?,
-    height: Int32?,
-    exposure: Float64?,
-    exposure_string: String?,
-    time: Time?,
-    focus_distance: Float64?,
-  )
-
-  JSON.mapping(
-    image_filename: String,
-    post_slug: String,
-    lat: Float64?,
-    lon: Float64?,
-    altitude: Float64?,
-    focal_length: Float64?,
-    focal_length_35: Float64?,
-    crop: Float64?,
-    aperture: Float64?,
-    iso: Int32?,
-    lens: String?,
-    camera: String?,
-    width: Int32?,
-    height: Int32?,
-    exposure: Float64?,
-    exposure_string: String?,
-    time: Time?,
-    focus_distance: Float64?,
-  )
 
   def hash_for_partial
     data = Hash(String, String).new
@@ -93,8 +57,9 @@ struct ExifEntity
   # safest way to process weird lens/camera names
 
   CAMERA_NAMES = {
-    "ILCE-7M3" => "Sony A7III",
+    "ILCE-7M3" => "Sony A7 III",
     "ILCE-7R" => "Sony A7R",
+    "ILCE-7RM3" => "Sony A7R III"
     "E-M1MarkII" => "Olympus M1m2",
     "E-M10MarkII" => "Olympus M10m2",
     "Hero3-Black Edition" => "Gopro 3 Black",

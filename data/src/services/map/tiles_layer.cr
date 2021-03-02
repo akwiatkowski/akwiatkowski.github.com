@@ -44,10 +44,10 @@ class Map::TilesLayer
     @map_lat1, @map_lon2 = geo_coords_from_tile_number(@x_tile1, @y_tile1).as(Tuple(Float64, Float64))
     @map_lat2, @map_lon1 = geo_coords_from_tile_number(@x_tile2, @y_tile2).as(Tuple(Float64, Float64))
 
-    Log.info { "@x_tile1,@y_tile1=#{@x_tile1},#{@y_tile1} @x_tile2,@y_tile2=#{@x_tile2},#{@y_tile2}" }
-    Log.info { "@x_tile_size=#{@x_tile_size} @y_tile_size=#{@y_tile_size}" }
-    Log.info { "@map_width=#{@map_width} @map_height=#{@map_height}" }
-    Log.info { "@map_lat1,@map_lon1=#{@map_lat1},#{@map_lon1} @map_lat2,@map_lon2=#{@map_lat2},#{@map_lon2}" }
+    Log.debug { "@x_tile1,@y_tile1=#{@x_tile1},#{@y_tile1} @x_tile2,@y_tile2=#{@x_tile2},#{@y_tile2}" }
+    Log.debug { "@x_tile_size=#{@x_tile_size} @y_tile_size=#{@y_tile_size}" }
+    Log.debug { "@map_width=#{@map_width} @map_height=#{@map_height}" }
+    Log.debug { "@map_lat1,@map_lon1=#{@map_lat1},#{@map_lon1} @map_lat2,@map_lon2=#{@map_lat2},#{@map_lon2}" }
   end
 
   getter :x_tile1, :y_tile1, :x_tile2, :y_tile2

@@ -53,7 +53,7 @@ class Map::PhotoLayer
       x += @quant_size
     end
 
-    Log.info { "selected total #{@photo_map_sets.size} photos" }
+    Log.debug { "selected total #{@photo_map_sets.size} photos" }
   end
 
   def select_photos_for_quant_and_add_to_list(
@@ -72,7 +72,7 @@ class Map::PhotoLayer
 
     # no photos, move along
     if selected_photos.size > 0
-      Log.info { "#{selected_photos.size} selected_photos x: #{x} y: #{y}" }
+      Log.debug { "#{selected_photos.size} selected_photos x: #{x} y: #{y}" }
 
       # having array of photos take the best one
       # TODO: we need some logic to select which photos are better

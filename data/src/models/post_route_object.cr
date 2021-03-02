@@ -3,17 +3,14 @@ require "./coord_range"
 alias SingleRouteObject = Array(Array(Float64))
 
 struct PostRouteObject
+  include JSON::Serializable
+
   Log = ::Log.for(self)
 
   @type : String
   @route : SingleRouteObject
 
   getter :type, :route
-
-  JSON.mapping(
-    type: String,
-    route: SingleRouteObject,
-  )
 
   def initialize(hash : YAML::Any)
     @type = hash["type"].to_s
