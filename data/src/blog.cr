@@ -195,8 +195,9 @@ class Tremolite::Blog
       # when all posts with photos are loaded
       renderer.render_gallery_stats
 
-      # lens galleries require exif data to be loaded
+      # lens and camera galleries require exif data to be loaded
       renderer.render_lens_galleries
+      renderer.render_camera_galleries
       # and focal length also require exif data
       renderer.render_focal_length_galleries
 

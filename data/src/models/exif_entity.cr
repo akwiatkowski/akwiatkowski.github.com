@@ -59,7 +59,7 @@ struct ExifEntity
   CAMERA_NAMES = {
     "ILCE-7M3" => "Sony A7 III",
     "ILCE-7R" => "Sony A7R",
-    "ILCE-7RM3" => "Sony A7R III"
+    "ILCE-7RM3" => "Sony A7R III",
     "E-M1MarkII" => "Olympus M1m2",
     "E-M10MarkII" => "Olympus M10m2",
     "Hero3-Black Edition" => "Gopro 3 Black",

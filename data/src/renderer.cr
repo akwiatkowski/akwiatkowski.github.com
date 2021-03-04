@@ -32,6 +32,8 @@ require "./views/gallery_view"
 require "./views/gallery/gallery_tag_view"
 require "./views/gallery/gallery_lens_view"
 require "./views/gallery/gallery_lens_index_view"
+require "./views/gallery/gallery_camera_view"
+require "./views/gallery/gallery_camera_index_view"
 require "./views/gallery/gallery_focal_length_view"
 require "./views/gallery/gallery_focal_length_index_view"
 require "./views/gallery/gallery_tag_stats_view"
@@ -665,6 +667,29 @@ class Tremolite::Renderer
     index_view = GalleryLensIndexView.new(
       blog: @blog,
       lens_renderers: lens_renderers
+    )
+    write_output(index_view)
+  end
+
+  def render_camera_galleries
+    camera_renderers = Array(GalleryCameraView).new
+
+    # only for predefined lenses
+    ExifEntity::CAMERA_NAMES.values.each do |camera|
+      view = GalleryCameraView.new(
+        blog: @blog,
+        camera: camera,
+        tags: ["good", "best"],
+        include_headers: true
+      )
+      write_output(view)
+
+      camera_renderers << view
+    end
+
+    index_view = GalleryCameraIndexView.new(
+      blog: @blog,
+      camera_renderers: camera_renderers
     )
     write_output(index_view)
   end
