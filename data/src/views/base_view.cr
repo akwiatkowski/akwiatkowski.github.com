@@ -1,4 +1,6 @@
 class BaseView < Tremolite::Views::BaseView
+  Log = ::Log.for(self)
+
   @voivodeship_nav : String?
   @tag_nav : String?
 
@@ -34,9 +36,49 @@ class BaseView < Tremolite::Views::BaseView
     return load_html("include/top")
   end
 
+  HEAD_OPEN_HTML_KEY = "__html_head"
+
+  # return if cached
+  # cache is performed bt HtmlBuffer
   def head_open_html
-    # no parameters
-    return load_html("include/head_open")
+    buffered_html = @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?
+    return buffered_html.not_nil! if buffered_html
+
+    public_path = @blog.@public_path
+    i = 0
+
+    original_head = load_html("include/head_open")
+
+    @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY] = String.build do |s|
+      original_head.each_line do |line|
+        href_scan_results = line.scan(/href=\"([^"]+)\"/)
+        src_scan_results = line.scan(/src=\"([^"]+)\"/)
+
+        (href_scan_results + src_scan_results).each do |scan_result|
+          web_path = scan_result[1]
+          public_file_path = File.join([public_path, web_path])
+
+          # some included files do not exists
+          if File.exists?(public_file_path)
+            fi = File.info(public_file_path)
+            web_path_with_cache_fix = web_path + "?v=" + fi.modification_time.to_unix.to_s
+
+            line = line.gsub(web_path, web_path_with_cache_fix)
+
+            i += 1
+          else
+            Log.error { "#{web_path} assets NOT exists!" }
+          end
+        end
+
+        s << line
+        s << "\n"
+      end
+    end
+
+    Log.debug { "#{i} added cache fix for assets" }
+
+    return @blog.html_buffer.buffer[HEAD_OPEN_HTML_KEY]?.not_nil!
   end
 
   def head_title_html
