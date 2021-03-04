@@ -134,3 +134,23 @@
 .grid-container .hidden {
   display: none;
 }
+
+.grid-item-post .grid-item-distance {
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  font-size: 12px;
+
+  text-shadow: 1px 1px #555;
+  color: #fff;
+}
+
+.grid-item-post .grid-item-time-length {
+  position: absolute;
+  top: 2px;
+  right: 5px;
+  font-size: 12px;
+
+  text-shadow: 1px 1px #555;
+  color: #fff;
+}

@@ -1,4 +1,8 @@
+require "./post/post_item_mixin"
+
 class PostListMasonryView < BaseView
+  include PostItemMixin
+
   Log = ::Log.for(self)
 
   def initialize(@blog : Tremolite::Blog, @url = "/")
@@ -23,14 +27,10 @@ class PostListMasonryView < BaseView
     end
 
     posts.each do |post|
-      ph = Hash(String, String).new
-      ph["klass"] = @show_only_count >= count ? "" : "hidden"
-      ph["post.url"] = post.url
-      ph["post.small_image_url"] = post.small_image_url.not_nil!
-      ph["post.title"] = post.title
-      ph["post.date"] = post.date
-
-      boxes += load_html("post/box", ph)
+      boxes += render_post_box(
+        post: post,
+        klass: @show_only_count >= count ? "" : "hidden"
+      )
       boxes += "\n"
 
       count += 1

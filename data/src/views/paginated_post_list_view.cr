@@ -1,4 +1,9 @@
+require "./post/post_item_mixin"
+
+# TODO maybe inherit from PostListMasonryView or sth
 class PaginatedPostListView < BaseView
+  include PostItemMixin
+  
   Log = ::Log.for(self)
 
   PER_PAGE = 6
@@ -25,14 +30,7 @@ class PaginatedPostListView < BaseView
 
     # posts
     @posts.each do |post|
-      ph = Hash(String, String).new
-      ph["klass"] = ""
-      ph["post.url"] = post.url
-      ph["post.small_image_url"] = post.small_image_url.not_nil!
-      ph["post.title"] = post.title
-      ph["post.date"] = post.date
-
-      boxes += load_html("post/box", ph)
+      boxes += render_post_box(post)
       boxes += "\n"
     end
 
