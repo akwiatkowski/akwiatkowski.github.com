@@ -165,7 +165,7 @@ class Tremolite::Views::BaseView
     is_gallery : Bool,
     is_timeline : Bool,
     exif : (ExifEntity | Nil),
-    additional_links : String?,
+    additional_links : String?
   )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
@@ -190,18 +190,18 @@ class Tremolite::Views::BaseView
     end
 
     data = {
-      "img.src"         => url,
-      "img.alt"         => desc,
-      "img.title"       => desc,
-      "img.size"        => (image_size(url) / 1024).to_s + " kB",
-      "img_full.src"    => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
-      "img.is_gallery"  => is_gallery.to_s,
-      "img.is_timeline" => is_timeline.to_s,
-      "img.lat"         => "",
-      "img.lon"         => "",
-      "img.altitude"    => "",
-      "img.time"        => "",
-      "img.exif_string" => exif_string,
+      "img.src"              => url,
+      "img.alt"              => desc,
+      "img.title"            => desc,
+      "img.size"             => (image_size(url) / 1024).to_s + " kB",
+      "img_full.src"         => "/images/#{post_time.year}/#{post_slug}/#{image_filename}",
+      "img.is_gallery"       => is_gallery.to_s,
+      "img.is_timeline"      => is_timeline.to_s,
+      "img.lat"              => "",
+      "img.lon"              => "",
+      "img.altitude"         => "",
+      "img.time"             => "",
+      "img.exif_string"      => exif_string,
       "img.additional_links" => additional_links.to_s,
     }
 

@@ -36,28 +36,28 @@ struct PhotoEntity
   FLAG_TIMELINE    = "timeline" # TODO convert to tag
   FLAG_MAP         = "map"
 
-  POST_PREVIEW_PREFIX     = "big_thumb"
-  MASONRY_PREFIX         = "small"
-  GALLERY_PREFIX = "gallery"
-  MAP_PREFIX = "gallery_thumb"
+  POST_PREVIEW_PREFIX = "big_thumb"
+  MASONRY_PREFIX      = "small"
+  GALLERY_PREFIX      = "gallery"
+  MAP_PREFIX          = "gallery_thumb"
 
   TAG_GOOD = "good"
   TAG_BEST = "best"
-  TAG_CAT = "cat"
+  TAG_CAT  = "cat"
 
   TAG_GALLERIES = [
     TAG_CAT,
     "portfolio",
     TAG_GOOD,
     TAG_BEST,
-    "timeline"
+    "timeline",
   ]
 
   # https://fontawesome.com/
   TAG_BOOTSTRAP_ICON = {
     TAG_GOOD => "check-circle-fill",
     TAG_BEST => "gem",
-    TAG_BEST => "eye-fill"
+    TAG_BEST => "eye-fill",
   }
 
   getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map, :is_published
@@ -105,7 +105,7 @@ struct PhotoEntity
     @map_thumb_image_src = processed_img_path(MAP_PREFIX)
 
     @full_image_src = generate_full_image_src
-    @full_image_sanitized = @full_image_src.gsub(/\W/,"_").as(String)
+    @full_image_sanitized = @full_image_src.gsub(/\W/, "_").as(String)
 
     @time = post.time
     @day_of_year = @time.day_of_year

@@ -23,7 +23,7 @@ struct TownPhotoResult
     # that was not working because it's better to have 1 year older photo
     # which is closer
 
-    #return @days_ago.to_f ** 0.08
+    # return @days_ago.to_f ** 0.08
 
     # TODO temporary disabled because it's harder to do it they way I wanted
 
@@ -71,7 +71,7 @@ class TownPhotoCache
 
     "zabkowice_slaskie",
     "kamiennik",
-    "nysa"
+    "nysa",
   ]
   DEBUG_FLAG = false
 
@@ -97,7 +97,7 @@ class TownPhotoCache
       end
     end
 
-    #save_cache
+    # save_cache
   end
 
   def get_cache_structure(slug_name : String)
@@ -153,7 +153,7 @@ class TownPhotoCache
       end
 
       # sort
-      results = results.sort do |a,b|
+      results = results.sort do |a, b|
         a.value <=> b.value
       end
 

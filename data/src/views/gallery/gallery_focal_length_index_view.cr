@@ -9,7 +9,7 @@ class GalleryFocalLengthIndexView < PageView
     # ordered only with photos
     @renderers_with_content = @renderers.select do |lr|
       lr.photo_entities_count > 0
-    end.sort do |a,b|
+    end.sort do |a, b|
       # think it's better to sort by name not count reversed
       # b.photo_entities_count <=> a.photo_entities_count
       a.focal_from <=> b.focal_from
@@ -20,7 +20,7 @@ class GalleryFocalLengthIndexView < PageView
     end.sum
 
     # TODO this can crash if there is 0 photos
-    latest_photo_entity = @renderers_with_content.sort do |a,b|
+    latest_photo_entity = @renderers_with_content.sort do |a, b|
       a.latest_photo_entity.time <=> b.latest_photo_entity.time
     end.last.latest_photo_entity
 

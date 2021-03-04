@@ -1,10 +1,8 @@
 module PostItemMixin
-
   def render_post_box(
     post : Tremolite::Post,
     klass : String = ""
   ) : String
-
     ph = Hash(String, String).new
     ph["klass"] = klass
     ph["post.url"] = post.url
@@ -26,5 +24,4 @@ module PostItemMixin
 
     return load_html("post/box", ph)
   end
-
 end

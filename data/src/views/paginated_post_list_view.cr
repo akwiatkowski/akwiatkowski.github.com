@@ -3,7 +3,7 @@ require "./post/post_item_mixin"
 # TODO maybe inherit from PostListMasonryView or sth
 class PaginatedPostListView < BaseView
   include PostItemMixin
-  
+
   Log = ::Log.for(self)
 
   PER_PAGE = 6

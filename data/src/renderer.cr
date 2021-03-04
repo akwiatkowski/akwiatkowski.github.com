@@ -707,7 +707,7 @@ class Tremolite::Renderer
     # only for predefined focal
     # TODO generate it using algorithm
     # start from 18mm and increase by 20% up to 800mm
-    focals = Array(Tuple(Int32,Int32)).new
+    focals = Array(Tuple(Int32, Int32)).new
 
     focal = 16
     while focal < 800

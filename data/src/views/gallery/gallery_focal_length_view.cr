@@ -12,7 +12,6 @@ class GalleryFocalLengthView < GalleryAbstractView
     @tags : Array(String) = Array(String).new,
     @include_headers : Bool = false
   )
-
     @photo_entities = photo_entities_with_tags(@tags, @include_headers).select do |p|
       p.exif.focal_length_35 && p.exif.focal_length_35.not_nil! >= @focal_from && p.exif.focal_length_35.not_nil! < @focal_to
     end.as(Array(PhotoEntity))

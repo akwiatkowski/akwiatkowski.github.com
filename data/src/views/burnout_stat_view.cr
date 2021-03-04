@@ -208,7 +208,5 @@ class BurnoutStatView < WidePageView
 
       str << "</table>\n"
     end
-
-
   end
 end

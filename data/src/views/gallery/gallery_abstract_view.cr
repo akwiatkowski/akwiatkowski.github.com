@@ -20,7 +20,7 @@ class GalleryAbstractView < WiderPageView
     tags : Array(String),
     include_headers : Bool = false
   )
-    photo_entities = all_photo_entities.select{ |p|
+    photo_entities = all_photo_entities.select { |p|
       if include_headers == false
         (p.tags & @tags).size > 0
       else

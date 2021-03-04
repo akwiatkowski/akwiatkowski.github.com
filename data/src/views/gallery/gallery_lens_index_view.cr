@@ -9,7 +9,7 @@ class GalleryLensIndexView < PageView
     # ordered only with photos
     @lens_renderers_with_content = @lens_renderers.select do |lr|
       lr.photo_entities_count > 0
-    end.sort do |a,b|
+    end.sort do |a, b|
       # think it's better to sort by name not count reversed
       # b.photo_entities_count <=> a.photo_entities_count
       a.title <=> b.title
@@ -24,7 +24,7 @@ class GalleryLensIndexView < PageView
     end.sum
 
     # TODO this can crash if there is 0 photos
-    latest_photo_entity = @lens_renderers_with_content.sort do |a,b|
+    latest_photo_entity = @lens_renderers_with_content.sort do |a, b|
       a.latest_photo_entity.time <=> b.latest_photo_entity.time
     end.last.latest_photo_entity
 

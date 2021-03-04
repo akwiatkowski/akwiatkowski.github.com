@@ -127,7 +127,6 @@ class Tremolite::Blog
       renderer.render_sitemap
     end
 
-
     validator.run
 
     # Z) store current state
@@ -242,5 +241,4 @@ class Tremolite::Blog
     # convert getters into custom methods
     @data_manager.not_nil!.preloaded_post_referenced_links.populate_referenced_links
   end
-
 end

@@ -20,15 +20,13 @@ class BurnoutStat
     time_spent_avg: Int32?,
     time_spent_avg_change: Int32?,
     time_spent_avg_change_percent: Int32?,
-
   )
   alias MonthStatTuple = NamedTuple(
     distance: Int32,
-    time_spent: Int32
-  )
+    time_spent: Int32)
 
   def initialize(@blog : Tremolite::Blog)
-    @posts = @blog.post_collection.posts.sort do |a,b|
+    @posts = @blog.post_collection.posts.sort do |a, b|
       a.time <=> b.time
     end.as(Array(Tremolite::Post))
 
@@ -51,11 +49,11 @@ class BurnoutStat
       distance = 0
 
       posts_in_month.each do |post|
-        if post.trip? && ! post.time_spent.nil?
+        if post.trip? && !post.time_spent.nil?
           time_spent += post.time_spent.not_nil!.to_i
         end
 
-        if post.self_propelled? && ! post.time_spent.nil?
+        if post.self_propelled? && !post.time_spent.nil?
           distance += post.distance.not_nil!.to_i
         end
       end
@@ -75,11 +73,11 @@ class BurnoutStat
       month_year_before_time = (month.at_end_of_month - Time::MonthSpan.new(12)).at_beginning_of_month
       month_year_before = month_data[month_year_before_time]?
 
-      distance_last_year= nil
+      distance_last_year = nil
       distance_change = nil
       distance_change_percent = nil
 
-      time_spent_last_year= nil
+      time_spent_last_year = nil
       time_spent_change = nil
       time_spent_change_percent = nil
 
@@ -119,8 +117,8 @@ class BurnoutStat
       if month_keys_for_avg.size > 0
         # calculate average
         avg_size = month_keys_for_avg.size
-        distance_avg = (month_keys_for_avg.map {|m| month_data[m][:distance] }.sum.to_f / avg_size.to_f).to_i
-        time_spent_avg = (month_keys_for_avg.map {|m| month_data[m][:time_spent] }.sum.to_f / avg_size.to_f).to_i
+        distance_avg = (month_keys_for_avg.map { |m| month_data[m][:distance] }.sum.to_f / avg_size.to_f).to_i
+        time_spent_avg = (month_keys_for_avg.map { |m| month_data[m][:time_spent] }.sum.to_f / avg_size.to_f).to_i
 
         if distance_avg > 0 && distance_current_month > 0
           distance_avg_change = distance_current_month - distance_avg
