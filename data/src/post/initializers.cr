@@ -224,6 +224,11 @@ class Tremolite::Post
     @header_timeline = false
     # some new posts have phtos taken by M43/Olympus camera
     @image_format = DEFAULT_IMAGE_FORMAT
+
+    # most photos don't look good being centered
+    # you can specify background position css style to fix it
+    # https://www.w3schools.com/cssref/pr_background-position.asp
+    @image_position = ""
   end
 
   def header_post_photo_from_headers
@@ -233,6 +238,11 @@ class Tremolite::Post
       @image_filename = @image_filename.not_nil!.gsub(/\.jpg/, "") + ".jpg"
     else
       @image_filename = "header.jpg"
+    end
+
+    # background image css position
+    if @header["image_position"]?
+      @image_position = @header["image_position"].to_s
     end
 
     # nogallery
