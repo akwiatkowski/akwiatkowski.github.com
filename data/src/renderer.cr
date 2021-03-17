@@ -3,7 +3,9 @@ require "./views/page_view"
 require "./views/wide_page_view"
 require "./views/wider_page_view"
 
-require "./views/home_view"
+# TODO refactor views into categories and require category_view
+require "./views/post_list_view"
+
 require "./views/portfolio_view"
 
 require "./views/paginated_post_list_view"
@@ -11,11 +13,7 @@ require "./views/map_view"
 require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
 require "./views/planner_view"
-require "./views/tag_view"
-require "./views/tag_masonry_view"
 require "./views/town_view"
-require "./views/voivodeship_view"
-require "./views/voivodeship_masonry_view"
 require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
@@ -144,7 +142,7 @@ class Tremolite::Renderer
   # simple renders
 
   def render_index
-    view = HomeView.new(blog: @blog, url: "/")
+    view = PostListView::HomeMasonryView.new(blog: @blog, url: "/")
     write_output(view)
   end
 
@@ -510,10 +508,10 @@ class Tremolite::Renderer
 
   def render_tags_pages
     blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
-      view = TagView.new(blog: @blog, tag: tag)
+      view = PostListView::TagListView.new(blog: @blog, tag: tag)
       write_output(view)
 
-      masonry_view = TagMasonryView.new(blog: @blog, tag: tag)
+      masonry_view = PostListView::TagMasonryView.new(blog: @blog, tag: tag)
       write_output(masonry_view)
     end
     Log.info { "Renderer: Tags finished" }
@@ -540,10 +538,10 @@ class Tremolite::Renderer
 
   def render_voivodeships_pages
     blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-      view = VoivodeshipView.new(blog: @blog, voivodeship: voivodeship)
+      view = PostListView::VoivodeshipListView.new(blog: @blog, voivodeship: voivodeship)
       write_output(view)
 
-      masonry_view = VoivodeshipMasonryView.new(blog: @blog, voivodeship: voivodeship)
+      masonry_view = PostListView::VoivodeshipMasonryView.new(blog: @blog, voivodeship: voivodeship)
       write_output(masonry_view)
     end
     Log.info { "Renderer: Voivodeships finished" }

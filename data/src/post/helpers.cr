@@ -6,4 +6,8 @@ class Tremolite::Post
   def public_path
     return @blog.public_path.as(String)
   end
+
+  def content_html_word_count
+    self.content_html.scan(/\w+/).size
+  end
 end

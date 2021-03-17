@@ -223,6 +223,15 @@ class BaseView < Tremolite::Views::BaseView
     return load_html("include/footer", h)
   end
 
+  # TODO move to include
+  def header_html
+    data = Hash(String, String).new
+    data["post.image_url"] = image_url
+    data["post.title"] = title
+    data["post.subtitle"] = subtitle
+    return load_html("page/header", data)
+  end
+
   def render_posts_preview(posts : Array(Tremolite::Post))
     content = ""
 
@@ -234,11 +243,14 @@ class BaseView < Tremolite::Views::BaseView
       ph["post.subtitle"] = post.subtitle
       ph["post.date"] = post.date
       ph["post.author"] = post.author
+      ph["post.preview-klass"] = ""
+      ph["post.additional-info"] = ""
 
       if post.todo?
+        word_count = post.content_html_word_count
+
         ph["post.preview-klass"] = "post-todo"
-      else
-        ph["post.preview-klass"] = ""
+        ph["post.additional-info"] = "#{word_count} słów" if word_count > 100
       end
 
       ph["post.thumb_image_url"] = post.big_thumb_image_url.not_nil!

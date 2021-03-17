@@ -11,13 +11,13 @@ module PostItemMixin
     ph["post.date"] = post.date
 
     if post.distance.not_nil! > 0.0
-      ph["post.distance"] = post.distance.not_nil!.to_i.to_s
+      ph["post.distance"] = "#{post.distance.not_nil!.to_i.to_s}km"
     else
       ph["post.distance"] = ""
     end
 
     if post.time_spent.not_nil! > 0.0
-      ph["post.time_length"] = post.time_spent.not_nil!.to_i.to_s
+      ph["post.time_length"] = "#{post.time_spent.not_nil!.to_i.to_s}h"
     else
       ph["post.time_length"] = ""
     end
