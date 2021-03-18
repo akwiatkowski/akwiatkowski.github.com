@@ -1,3 +1,7 @@
+require "./renderer_mixin/accessors"
+require "./renderer_mixin/render_tags"
+require "./renderer_mixin/render_towns"
+
 require "./views/base_view"
 require "./views/page_view"
 require "./views/wide_page_view"
@@ -13,7 +17,6 @@ require "./views/map_view"
 require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
 require "./views/planner_view"
-require "./views/town_view"
 require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
@@ -45,6 +48,10 @@ require "./views/rss_generator"
 require "./views/atom_generator"
 
 class Tremolite::Renderer
+  include RendererMixin::Accessors
+  include RendererMixin::RenderTags
+  include RendererMixin::RenderTowns
+
   # method run every time for test+dev stuff
   def dev_render
     render_burnout_stat_pages
@@ -506,34 +513,12 @@ class Tremolite::Renderer
     write_output(view)
   end
 
-  def render_tags_pages
-    blog.data_manager.not_nil!.tags.not_nil!.each do |tag|
-      view = PostListView::TagListView.new(blog: @blog, tag: tag)
-      write_output(view)
-
-      masonry_view = PostListView::TagMasonryView.new(blog: @blog, tag: tag)
-      write_output(masonry_view)
-    end
-    Log.info { "Renderer: Tags finished" }
-  end
-
   def render_lands_pages
     blog.data_manager.not_nil!.lands.not_nil!.each do |land|
       view = LandView.new(blog: @blog, land: land)
       write_output(view)
     end
     Log.info { "Renderer: Lands finished" }
-  end
-
-  def render_towns_pages
-    blog.data_manager.not_nil!.towns.not_nil!.each do |town|
-      view = TownView.new(blog: @blog, town: town)
-      write_output(view)
-
-      # XXX move later to somewhere else
-      town.validate(@blog.validator.not_nil!)
-    end
-    Log.info { "Renderer: Towns finished" }
   end
 
   def render_voivodeships_pages

@@ -3,6 +3,17 @@ class Tremolite::Validator
     check_missing_towns
   end
 
+  def validate_object(object)
+    validate_town(town: object) if object.is_a?(TownEntity)
+  end
+
+  def validate_town(town : TownEntity)
+    data_image_path = File.join(blog.data_path, town.relative_image_url)
+    unless File.exists?(data_image_path)
+      error_in_object(town, "#{town.name} / #{town.voivodeship} - missing photo")
+    end
+  end
+
   private def check_missing_towns
     all_towns_or_voivodeships = (@blog.data_manager.not_nil!.towns.not_nil! + @blog.data_manager.not_nil!.voivodeships.not_nil!).map(&.slug)
     posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }

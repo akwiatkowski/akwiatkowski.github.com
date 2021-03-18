@@ -59,7 +59,7 @@ class TownsHistoryView < PageView
   end
 
   def town_element(town)
-    s = "<li><a href=\"#{town.url}\">#{town.name}</a>"
+    s = "<li><a href=\"#{town.list_url}\">#{town.name}</a>"
 
     if town.lat && town.lon
       # s += "<a class=\"small\" href"

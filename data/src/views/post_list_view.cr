@@ -1,5 +1,7 @@
 require "./post_list_view/home_masonry_view"
 require "./post_list_view/tag_masonry_view"
 require "./post_list_view/tag_list_view"
+require "./post_list_view/town_masonry_view"
+require "./post_list_view/town_list_view"
 require "./post_list_view/voivodeship_masonry_view"
 require "./post_list_view/voivodeship_list_view"

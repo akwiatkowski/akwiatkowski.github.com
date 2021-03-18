@@ -118,7 +118,7 @@ class PostView < BaseView
     @post.towns.not_nil!.each do |town|
       town_entities = @blog.data_manager.not_nil!.towns.not_nil!.select { |town_entity| town == town_entity.slug }
       town_entities.each do |town_entity|
-        links << "<a href=\"" + town_entity.url + "\">" + town_entity.name + "</a>"
+        links << "<a href=\"" + town_entity.list_url + "\">" + town_entity.name + "</a>"
       end
     end
     if links.size > 0

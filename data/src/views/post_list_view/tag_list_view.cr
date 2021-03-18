@@ -22,6 +22,5 @@ module PostListView
     def image_url
       return @tag.image_url
     end
-
   end
 end

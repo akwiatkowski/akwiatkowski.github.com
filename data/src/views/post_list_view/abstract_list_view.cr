@@ -2,7 +2,6 @@ require "../post/post_item_mixin"
 
 module PostListView
   class AbstractListView < BaseView
-
     def subtitle
       s = @posts.size
       return case s
@@ -24,7 +23,7 @@ module PostListView
     def content
       header_html + list_html
     end
-    
+
     def list_html
       content = ""
       data = Hash(String, String).new
@@ -32,6 +31,5 @@ module PostListView
       data["content"] = render_posts_preview(@posts)
       return load_html("page/article", data)
     end
-
   end
 end
