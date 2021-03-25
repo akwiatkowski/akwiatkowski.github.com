@@ -7,6 +7,12 @@ require "./renderer_mixin/render_lands"
 
 require "./renderer_mixin/render_fast"
 require "./renderer_mixin/render_special"
+require "./renderer_mixin/render_overalls"
+
+require "./renderer_mixin/render_photo_maps"
+require "./renderer_mixin/render_photo_related"
+
+###
 
 require "./views/page_view"
 require "./views/wide_page_view"
@@ -26,26 +32,13 @@ require "./views/land_view"
 require "./views/post_view"
 require "./views/post_gallery_view"
 require "./views/post_gallery_stats_view"
-require "./views/summary_view"
 require "./views/markdown_page_view"
 require "./views/todos_view"
 require "./views/pois_view"
 require "./views/towns_index_view"
 require "./views/lands_index_view"
-require "./views/year_stat_report_view"
-require "./views/burnout_stat_view"
-require "./views/gallery_view"
-require "./views/gallery/gallery_tag_view"
-require "./views/gallery/gallery_lens_view"
-require "./views/gallery/gallery_lens_index_view"
-require "./views/gallery/gallery_camera_view"
-require "./views/gallery/gallery_camera_index_view"
-require "./views/gallery/gallery_focal_length_view"
-require "./views/gallery/gallery_focal_length_index_view"
-require "./views/gallery/gallery_tag_stats_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
-require "./views/timeline_list_view"
 require "./views/exif_stats_view"
 
 class Tremolite::Renderer
@@ -58,26 +51,34 @@ class Tremolite::Renderer
 
   include RendererMixin::RenderFast
   include RendererMixin::RenderSpecial
+  include RendererMixin::RenderOveralls
 
-  # method run every time for test+dev stuff
+  include RendererMixin::RenderPhotoMaps
+
+  include RendererMixin::RenderPhotoRelated
+
   def dev_render
-    render_burnout_stat_pages
+    # nothing
   end
 
-  def render_copy_assets
+  def copy_assets_and_photos
     copy_assets
+    copy_post_photos
   end
 
   def render_fast_only_post_related
     Log.debug { "render_fast_only_post_related START" }
 
-    render_home
+    render_all_special_views_post_related
+    render_all_views_post_related
+
+
     render_paginated_list
 
-    render_map
+
     render_pois
 
-    render_all_special_views_post_related
+
 
     Log.debug { "render_fast_only_post_related DONE" }
   end
@@ -85,19 +86,16 @@ class Tremolite::Renderer
   def render_fast_post_and_yaml_related
     Log.debug { "render_fast_post_and_yaml_related START" }
 
-    render_summary_page
-    render_year_stat_reports_pages
-    render_burnout_stat_pages
+    render_all_special_views_post_and_yaml_related
+    render_all_views_post_and_yaml_related
+
+    render_all_model_pages
+
+    ###
 
     render_towns_history
     render_towns_timeline
 
-    render_all_special_views_post_and_yaml_related
-
-    render_tags_pages
-
-    render_lands_pages
-    render_towns_pages
     render_todo_routes
 
     render_towns_index
@@ -129,25 +127,10 @@ class Tremolite::Renderer
   def render_galleries_pages
     render_gallery
     render_tag_galleries
-    render_timeline_list
   end
 
-  def render_fast_static_renders
+  def render_fast_static_renders_TODO
     render_planner
-
-    render_more_page
-    render_about_page
-    render_en_page
-  end
-
-  def render_exif_page
-    render_portfolio
-
-    render_photo_maps
-    render_exif_stats
-
-    # if exif was changed copy (no overwrite) images
-    copy_post_photos
   end
 
   # simple renders
@@ -186,186 +169,6 @@ class Tremolite::Renderer
     end
 
     Log.info { "Renderer: Rendered paginated list" }
-  end
-
-
-
-  # we will have not only 1 map but many: regular small, private big, ...
-  # and maybe later I'll use this for voivodeship summary post
-  def render_photo_maps
-    # render_photo_maps_debug_post
-    # render_photo_maps_debug_voivodeship
-    # return
-
-    render_photo_maps_for_tagged_photos
-    render_photo_maps_voivodeships
-    render_photo_maps_posts
-    render_photo_maps_global
-  end
-
-  def render_photo_maps_debug_post
-    slug = "2020-09-06-lodzkie-zakamarki-i-stare-domy"
-    # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
-    post = @blog.post_collection.posts.not_nil!.select do |post|
-      post.slug == slug
-    end.first
-
-    render_photo_map_for_post(post)
-    puts "SLEEPING"
-    sleep 5
-  end
-
-  def render_photo_maps_debug_voivodeship
-    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      next unless voivodeship.slug == "wielkopolskie"
-      render_photo_map_for_voivodeship(voivodeship)
-      puts "SLEEPING"
-      sleep 5
-    end
-  end
-
-  def render_photo_maps_voivodeships
-    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      render_photo_map_for_voivodeship(voivodeship)
-    end
-  end
-
-  def render_photo_maps_posts
-    @blog.post_collection.posts.not_nil!.each do |post|
-      if post.self_propelled? && post.detailed_routes && post.detailed_routes.not_nil!.size > 0
-        render_photo_map_for_post(post)
-      end
-    end
-  end
-
-  def render_photo_map_for_post(post : Tremolite::Post)
-    # TODO refactor post coords into something not ugly
-
-    if post.detailed_routes.not_nil![0].route.size > 0
-      Log.debug { "render_photo_maps_posts #{post.slug}" }
-
-      # sometime I take photos from train and we want to have detailed
-      # route map (big zoom) so we must remove photos taken from non route
-      # places
-      coord_range = PostRouteObject.array_to_coord_range(
-        array: post.detailed_routes.not_nil!,
-      )
-      # only_types: ["hike", "bicycle", "train", "car", "air"]
-      # lets accept all types for now
-
-      autozoom_value = Map::TilesLayer.ideal_zoom(
-        coord_range: coord_range.not_nil!,
-        min_diagonal: 800,
-        max_diagonal: 4200,
-      )
-
-      if autozoom_value
-        post_map_view = PhotoMapSvgView.new(
-          blog: @blog,
-          url: "/photo_map/for_post/#{post.slug}.svg",
-          zoom: autozoom_value.not_nil!,
-          quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-          post_slugs: [post.slug],
-          coord_range: coord_range,
-          do_not_crop_routes: true,
-          render_photos_out_of_route: true,
-          photo_direct_link: true,
-        )
-        write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts done" }
-      else
-        Log.warn { "#{post.slug} - autozoom_value could not calculate" }
-      end
-    else
-      Log.debug { "#{post.slug} - no coords" }
-    end
-  end
-
-  def render_photo_map_for_voivodeship(voivodeship : VoivodeshipEntity)
-    # select posts in voivodeship
-    # and render mini-map (not so mini)
-    Log.debug { "render_photo_maps_voivodeships #{voivodeship.slug}" }
-
-    # used for photos
-    # TODO maybe use similar for routes but it will require some work
-    voivodeship_coord_range = CoordRange.new(voivodeship)
-
-    # for now select post slugs assigned for that voivodeship
-    post_slugs = @blog.post_collection.posts.select do |post|
-      post.was_in_voivodeship(voivodeship)
-    end.map do |post|
-      post.slug
-    end
-
-    voivodeship_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/for_voivodeship/#{voivodeship.slug}.svg",
-      zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
-      quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
-      coord_range: voivodeship_coord_range,
-      post_slugs: post_slugs,
-    )
-    write_output(voivodeship_view)
-
-    voivodeship_small_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/for_voivodeship/#{voivodeship.slug}_small.svg",
-      zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
-      coord_range: voivodeship_coord_range,
-      post_slugs: post_slugs,
-    )
-    write_output(voivodeship_small_view)
-  end
-
-  # global... lol, only Poland
-  def render_photo_maps_global
-    overall_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_overall.svg",
-      zoom: Map::DEFAULT_OVERALL_ZOOM,
-      quant_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
-    )
-    write_output(overall_view)
-
-    small_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_small.svg",
-      zoom: Map::DEFAULT_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
-    )
-    write_output(small_view)
-
-    deailed_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_detailed.svg",
-      zoom: Map::DEFAULT_DETAILED_ZOOM,
-      quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
-    )
-    write_output(deailed_view)
-
-    html_view = PhotoMapHtmlView.new(
-      blog: @blog,
-      url: "/photo_map",
-      svg_url: overall_view.url
-    )
-    write_output(html_view)
-  end
-
-  def render_photo_maps_for_tagged_photos
-    photo_entities = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
-      photo_entity.tags.includes?("cat")
-    end
-
-    overall_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/for_tag/cat.svg",
-      zoom: Map::DEFAULT_TAG_ZOOM,
-      quant_size: Map::DEFAULT_TAG_PHOTO_SIZE,
-      photo_entities: photo_entities,
-      render_routes: false,
-    )
-    write_output(overall_view)
   end
 
   def render_planner
@@ -435,8 +238,6 @@ class Tremolite::Renderer
     write_output(view)
   end
 
-
-
   # overall site desc string
   @site_desc : String?
 
@@ -476,46 +277,11 @@ class Tremolite::Renderer
     Log.info { "Renderer: Posts finished" }
   end
 
-  def render_more_page
-    view = MarkdownPageView.new(
-      blog: @blog,
-      url: "/more",
-      file: "more",
-      image_url: @blog.data_manager.not_nil!["more.backgrounds"],
-      title: @blog.data_manager.not_nil!["more.title"],
-      subtitle: @blog.data_manager.not_nil!["more.subtitle"]
-    )
-    write_output(view)
-  end
 
-  def render_about_page
-    view = MarkdownPageView.new(
-      blog: @blog,
-      url: "/about",
-      file: "about",
-      image_url: @blog.data_manager.not_nil!["about.backgrounds"],
-      title: @blog.data_manager.not_nil!["about.title"],
-      subtitle: @blog.data_manager.not_nil!["about.subtitle"]
-    )
-    write_output(view)
-  end
 
-  def render_en_page
-    view = MarkdownPageView.new(
-      blog: @blog,
-      url: "/en",
-      file: "en",
-      image_url: @blog.data_manager.not_nil!["en.backgrounds"],
-      title: @blog.data_manager.not_nil!["en.title"],
-      subtitle: @blog.data_manager.not_nil!["en.subtitle"]
-    )
-    write_output(view)
-  end
 
-  def render_summary_page
-    view = SummaryView.new(blog: @blog, url: "/summary")
-    write_output(view)
-  end
+
+
 
   def render_pois
     view = PoisView.new(blog: @blog, url: "/pois")
@@ -542,154 +308,6 @@ class Tremolite::Renderer
     write_output(view)
   end
 
-  def render_year_stat_reports_pages
-    years = @blog.post_collection.posts.map(&.time).map(&.year).uniq
-    years = years.select { |year| Time.local.year >= year }
-    years.each do |year|
-      view = YearStatReportView.new(blog: @blog, year: year, all_years: years)
-      write_output(view)
-    end
-  end
-
-  def render_burnout_stat_pages
-    view = BurnoutStatView.new(blog: @blog)
-    write_output(view)
-  end
-
-  def render_gallery
-    view = GalleryView.new(blog: @blog)
-    write_output(view)
-  end
-
-  def render_tag_galleries
-    PhotoEntity::TAG_GALLERIES.each do |tag|
-      view = GalleryTagView.new(blog: @blog, tag: tag)
-      write_output(view)
-    end
-  end
-
-  def render_lens_galleries
-    lens_renderers = Array(GalleryLensView).new
-
-    # only for predefined lenses
-    ExifEntity::LENS_NAMES.values.each do |lens|
-      view = GalleryLensView.new(
-        blog: @blog,
-        lens: lens,
-        tags: ["good", "best"],
-        include_headers: true
-      )
-      write_output(view)
-
-      lens_renderers << view
-    end
-
-    index_view = GalleryLensIndexView.new(
-      blog: @blog,
-      lens_renderers: lens_renderers
-    )
-    write_output(index_view)
-  end
-
-  def render_camera_galleries
-    camera_renderers = Array(GalleryCameraView).new
-
-    # only for predefined lenses
-    ExifEntity::CAMERA_NAMES.values.each do |camera|
-      view = GalleryCameraView.new(
-        blog: @blog,
-        camera: camera,
-        tags: ["good", "best"],
-        include_headers: true
-      )
-      write_output(view)
-
-      camera_renderers << view
-    end
-
-    index_view = GalleryCameraIndexView.new(
-      blog: @blog,
-      camera_renderers: camera_renderers
-    )
-    write_output(index_view)
-  end
-
-  def render_gallery_stats
-    view = GalleryTagStatsView.new(
-      blog: @blog
-    )
-    write_output(view)
-  end
-
-  def render_focal_length_galleries
-    renderers = Array(GalleryFocalLengthView).new
-
-    # only for predefined focal
-    # TODO generate it using algorithm
-    # start from 18mm and increase by 20% up to 800mm
-    focals = Array(Tuple(Int32, Int32)).new
-
-    focal = 16
-    while focal < 800
-      new_focal = (focal.to_f * 1.2).to_i
-
-      # rounding, better to have bigger range
-      if new_focal > 80
-        new_focal = (new_focal.to_f / 10.0).ceil.to_i * 10
-      elsif new_focal > 40
-        new_focal = (new_focal.to_f / 5.0).ceil.to_i * 5
-      end
-
-      focals << {focal, new_focal}
-      focal = new_focal
-    end
-
-    focals.each do |focal|
-      view = GalleryFocalLengthView.new(
-        blog: @blog,
-        focal_from: focal[0].to_f,
-        focal_to: focal[1].to_f,
-        tags: ["good", "best"],
-        include_headers: true
-      )
-      write_output(view)
-
-      renderers << view
-    end
-
-    index_view = GalleryFocalLengthIndexView.new(
-      blog: @blog,
-      renderers: renderers
-    )
-    write_output(index_view)
-  end
-
-  def render_timeline_list
-    view = TimelineList.new(blog: @blog)
-    write_output(view)
-  end
-
-  def render_portfolio
-    view = PortfolioView.new(blog: @blog, url: "/portfolio")
-    write_output(view)
-  end
-
-  def render_exif_stats
-    view = ExifStatsView.new(blog: @blog, url: "/exif_stats")
-    write_output(view)
-
-    tags = ["bicycle", "hike", "photo", "train"]
-
-    tags.each do |tag|
-      view_by_tag = ExifStatsView.new(
-        blog: @blog,
-        url: "/exif_stats",
-        by_tag: tag
-      )
-      write_output(view_by_tag)
-    end
-  end
-
   private def clear
     # because there are some not rendered content in public and we
     # cannot allow to be removed
@@ -702,6 +320,7 @@ class Tremolite::Renderer
     @blog.mod_watcher.not_nil!.all_mod_watchers
   end
 
+  # TODO add because it's probably missing
   private def copy_post_photos
     command = "rsync -av #{blog.data_path}/images/ #{blog.public_path}/images/"
     `#{command}`

@@ -150,7 +150,7 @@ class Tremolite::Blog
     post_to_render_only_post = post_to_render - post_to_render_galleries
 
     # uses rsync so it's fast
-    renderer.render_copy_assets
+    renderer.copy_assets_and_photos
 
     post_to_render_galleries.each do |post|
       Log.debug { "resize_all_images_for_post" }
@@ -185,31 +185,19 @@ class Tremolite::Blog
     end
 
     if exifs_changed
+      # TODO this should
+
+
       # first we need to load all (and/or process new) exif data
       post_collection.posts.each do |post|
         data_manager.exif_db.initialize_post_photos_exif(post)
       end
 
-      # exif data is not required but better to update only
-      # when all posts with photos are loaded
-      renderer.render_gallery_stats
-
-      # lens and camera galleries require exif data to be loaded
-      renderer.render_lens_galleries
-      renderer.render_camera_galleries
-      # and focal length also require exif data
-      renderer.render_focal_length_galleries
-
       # recalculate towns photo for closest photo
       data_manager.town_photo_cache.not_nil!.refresh
 
-      renderer.render_exif_page
-      # this probably should be updated more often
-      # but at leas is not overwritten
-      renderer.render_galleries_pages
-
-      # it not require exif but better to overwrite only during full render
-      renderer.render_portfolio
+      renderer.render_all_photo_related
+      renderer.render_all_photo_maps
     end
 
     # moved after town cache update to have refreshed town images
