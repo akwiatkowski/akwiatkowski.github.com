@@ -1,6 +1,8 @@
 require "../views/post_list_view/town_list_view"
 require "../views/post_list_view/town_masonry_view"
 
+require "../views/model_view/towns_index_view"
+
 module RendererMixin::RenderTowns
   def render_towns_pages
     towns_to_render.each do |town|
@@ -8,6 +10,11 @@ module RendererMixin::RenderTowns
       render_town_page(town)
     end
     Log.info { "Towns rendered" }
+  end
+
+  def render_towns_index
+    view = ModelView::TownsIndexView.new(blog: @blog, url: "/towns")
+    write_output(view)
   end
 
   def towns_to_render

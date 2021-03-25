@@ -1,9 +1,9 @@
 require "../base_view"
-require "../post/post_item_mixin"
+require "../post_view/item_mixin"
 
 module PostListView
   class AbstractMasonryView < BaseView
-    include PostItemMixin
+    include PostView::ItemMixin
 
     Log = ::Log.for(self)
 

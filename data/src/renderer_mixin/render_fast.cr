@@ -99,4 +99,31 @@ module RendererMixin::RenderFast
       )
     )
   end
+
+  def render_towns_history
+    write_output(
+      TownsHistoryView.new(
+        blog: blog,
+        url: "/towns/history"
+      )
+    )
+  end
+
+  def render_towns_timeline
+    write_output(
+      TownsTimelineView.new(
+        blog: blog,
+        url: "/towns/timeline"
+      )
+    )
+  end
+
+  def render_pois
+    write_output(
+      PoisView.new(
+        blog: blog,
+        url: "/pois"
+      )
+    )
+  end
 end

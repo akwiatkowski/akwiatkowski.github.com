@@ -12,6 +12,8 @@ require "./renderer_mixin/render_overalls"
 require "./renderer_mixin/render_photo_maps"
 require "./renderer_mixin/render_photo_related"
 
+require "./renderer_mixin/render_post_related"
+
 ###
 
 require "./views/page_view"
@@ -23,20 +25,15 @@ require "./views/wider_page_view"
 
 require "./views/portfolio_view"
 
-require "./views/paginated_post_list_view"
-
 require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
 require "./views/planner_view"
 require "./views/land_view"
-require "./views/post_view"
 require "./views/post_gallery_view"
 require "./views/post_gallery_stats_view"
 require "./views/markdown_page_view"
 require "./views/todos_view"
 require "./views/pois_view"
-require "./views/towns_index_view"
-require "./views/lands_index_view"
 require "./views/towns_history_view"
 require "./views/towns_timeline_view"
 require "./views/exif_stats_view"
@@ -56,9 +53,10 @@ class Tremolite::Renderer
   include RendererMixin::RenderPhotoMaps
 
   include RendererMixin::RenderPhotoRelated
+  include RendererMixin::RenderPostRelated
 
   def dev_render
-    # nothing
+    # do nothing
   end
 
   def copy_assets_and_photos
@@ -72,8 +70,7 @@ class Tremolite::Renderer
     render_all_special_views_post_related
     render_all_views_post_related
 
-
-    render_paginated_list
+    render_posts_paginated_lists
 
 
     render_pois
@@ -99,17 +96,9 @@ class Tremolite::Renderer
     render_todo_routes
 
     render_towns_index
-    render_voivodeships_pages
     render_lands_index
 
     Log.debug { "render_fast_post_and_yaml_related DONE" }
-  end
-
-  def render_post(post : Tremolite::Post)
-    view = PostView.new(blog: @blog, post: post)
-    write_output(view)
-
-    Log.debug { "render_post #{post.slug} DONE" }
   end
 
   def render_post_galleries_for_post(post)
@@ -122,53 +111,8 @@ class Tremolite::Renderer
     Log.debug { "render_post #{post.slug} PostGalleryStatsView" }
   end
 
-  # galleries which require exif data (photo lat/lon)
-  # but require all photos in post content need to be initialized
-  def render_galleries_pages
-    render_gallery
-    render_tag_galleries
-  end
-
   def render_fast_static_renders_TODO
     render_planner
-  end
-
-  # simple renders
-  def render_paginated_list
-    per_page = PaginatedPostListView::PER_PAGE
-    i = 0
-    total_count = blog.post_collection.posts.size
-
-    posts_per_pages = Array(Array(Tremolite::Post)).new
-
-    while i < total_count
-      from_idx = i
-      to_idx = i + per_page - 1
-
-      posts = blog.post_collection.posts_from_latest[from_idx..to_idx]
-      posts_per_pages << posts
-
-      i += per_page
-    end
-
-    posts_per_pages.each_with_index do |posts, i|
-      page_number = i + 1
-      url = "/list/page/#{page_number}"
-      url = "/list/" if page_number == 1
-
-      # render and save
-      view = PaginatedPostListView.new(
-        blog: @blog,
-        url: url,
-        posts: posts,
-        page: page_number,
-        count: posts_per_pages.size
-      )
-
-      write_output(view)
-    end
-
-    Log.info { "Renderer: Rendered paginated list" }
   end
 
   def render_planner
@@ -268,44 +212,6 @@ class Tremolite::Renderer
     end
 
     return @site_desc.to_s
-  end
-
-  def render_posts
-    blog.post_collection.posts.each do |post|
-      render_post(post)
-    end
-    Log.info { "Renderer: Posts finished" }
-  end
-
-
-
-
-
-
-
-  def render_pois
-    view = PoisView.new(blog: @blog, url: "/pois")
-    write_output(view)
-  end
-
-  def render_towns_index
-    view = TownsIndexView.new(blog: @blog, url: "/towns")
-    write_output(view)
-  end
-
-  def render_towns_history
-    view = TownsHistoryView.new(blog: @blog, url: "/towns/history")
-    write_output(view)
-  end
-
-  def render_towns_timeline
-    view = TownsTimelineView.new(blog: @blog, url: "/towns/timeline")
-    write_output(view)
-  end
-
-  def render_lands_index
-    view = LandsIndexView.new(blog: @blog, url: "/lands")
-    write_output(view)
   end
 
   private def clear

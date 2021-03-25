@@ -1,5 +1,5 @@
 require "../base_view"
-require "../post/post_item_mixin"
+require "../post_view/item_mixin"
 
 module PostListView
   class AbstractListView < BaseView

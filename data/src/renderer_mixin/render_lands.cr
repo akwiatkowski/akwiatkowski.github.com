@@ -1,6 +1,8 @@
 require "../views/post_list_view/land_list_view"
 require "../views/post_list_view/land_masonry_view"
 
+require "../views/model_view/lands_index_view"
+
 module RendererMixin::RenderLands
   def render_lands_pages
     lands_to_render.each do |land|
@@ -8,6 +10,11 @@ module RendererMixin::RenderLands
       render_land_page(land)
     end
     Log.info { "Lands rendered" }
+  end
+
+  def render_lands_index
+    view = ModelView::LandsIndexView.new(blog: @blog, url: "/lands")
+    write_output(view)
   end
 
   def lands_to_render
