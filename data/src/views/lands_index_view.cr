@@ -27,7 +27,7 @@ class LandsIndexView < PageView
   end
 
   def land_element(land)
-    s = "<li><a href=\"#{land.url}\">#{land.name}</a>"
+    s = "<li><a href=\"#{land.list_url}\">#{land.name}</a>"
     s += "</li>\n"
     return s
   end

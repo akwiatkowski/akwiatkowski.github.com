@@ -4,7 +4,11 @@ module PostListView
   class TownMasonryView < AbstractMasonryView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @town : TownEntity)
+    def initialize(
+      @blog : Tremolite::Blog,
+      @town : TownEntity,
+      @only_ready = true
+    )
       @show_only_count = 8
       @url = @town.masonry_url
 

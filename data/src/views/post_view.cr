@@ -98,7 +98,7 @@ class PostView < BaseView
     @post.lands.not_nil!.each do |land|
       @blog.data_manager.not_nil!.lands.not_nil!.each do |land_entity|
         if land == land_entity.slug
-          links << "<a href=\"" + land_entity.url + "\">" + land_entity.name + "</a>"
+          links << "<a href=\"" + land_entity.list_url + "\">" + land_entity.name + "</a>"
         end
       end
     end

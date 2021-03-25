@@ -4,7 +4,11 @@ module PostListView
   class TagMasonryView < AbstractMasonryView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @tag : TagEntity)
+    def initialize(
+      @blog : Tremolite::Blog,
+      @tag : TagEntity,
+      @only_ready = true
+    )
       @url = @tag.masonry_url
       @show_only_count = 8
 

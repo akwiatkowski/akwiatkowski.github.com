@@ -109,7 +109,7 @@ class PayloadJsonGenerator < Tremolite::Views::AbstractView
           json.array do
             @blog.data_manager.not_nil!.lands.not_nil!.each do |land|
               json.object do
-                json.field("url", land.url)
+                json.field("url", land.list_url)
                 json.field("slug", land.slug)
                 json.field("name", land.name)
                 json.field("header-ext-img", land.image_url)

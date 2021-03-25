@@ -4,8 +4,16 @@ module PostListView
   class HomeMasonryView < AbstractMasonryView
     Log = ::Log.for(self)
 
-    def initialize(@blog : Tremolite::Blog, @url = "/")
+    def initialize(
+      @blog : Tremolite::Blog,
+      @url = "/"
+    )
       @show_only_count = 8
+      @only_ready = true
+
+      @posts = @blog.post_collection.posts.select do |p|
+        (p.tags.not_nil!.includes?("todo") == false) && (p.tags.not_nil!.includes?("main") == true)
+      end.as(Array(Tremolite::Post))
     end
 
     def title
