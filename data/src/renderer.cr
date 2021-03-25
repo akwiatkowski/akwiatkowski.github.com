@@ -1,19 +1,24 @@
 require "./renderer_mixin/accessors"
+
 require "./renderer_mixin/render_tags"
 require "./renderer_mixin/render_towns"
+require "./renderer_mixin/render_voivodeships"
+require "./renderer_mixin/render_lands"
 
-require "./views/base_view"
+require "./renderer_mixin/render_fast"
+require "./renderer_mixin/render_special"
+
 require "./views/page_view"
 require "./views/wide_page_view"
 require "./views/wider_page_view"
 
 # TODO refactor views into categories and require category_view
-require "./views/post_list_view"
+# require "./views/post_list_view"
 
 require "./views/portfolio_view"
 
 require "./views/paginated_post_list_view"
-require "./views/map_view"
+
 require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
 require "./views/planner_view"
@@ -43,14 +48,16 @@ require "./views/towns_timeline_view"
 require "./views/timeline_list_view"
 require "./views/exif_stats_view"
 
-require "./views/payload_json_generator"
-require "./views/rss_generator"
-require "./views/atom_generator"
-
 class Tremolite::Renderer
   include RendererMixin::Accessors
+
   include RendererMixin::RenderTags
   include RendererMixin::RenderTowns
+  include RendererMixin::RenderVoivodeships
+  include RendererMixin::RenderLands
+
+  include RendererMixin::RenderFast
+  include RendererMixin::RenderSpecial
 
   # method run every time for test+dev stuff
   def dev_render
@@ -64,14 +71,13 @@ class Tremolite::Renderer
   def render_fast_only_post_related
     Log.debug { "render_fast_only_post_related START" }
 
-    render_index
+    render_home
     render_paginated_list
 
     render_map
     render_pois
 
-    render_sitemap
-    render_robot
+    render_all_special_views_post_related
 
     Log.debug { "render_fast_only_post_related DONE" }
   end
@@ -86,9 +92,7 @@ class Tremolite::Renderer
     render_towns_history
     render_towns_timeline
 
-    render_payload_json
-    render_rss
-    render_atom
+    render_all_special_views_post_and_yaml_related
 
     render_tags_pages
 
@@ -147,12 +151,6 @@ class Tremolite::Renderer
   end
 
   # simple renders
-
-  def render_index
-    view = PostListView::HomeMasonryView.new(blog: @blog, url: "/")
-    write_output(view)
-  end
-
   def render_paginated_list
     per_page = PaginatedPostListView::PER_PAGE
     i = 0
@@ -190,10 +188,7 @@ class Tremolite::Renderer
     Log.info { "Renderer: Rendered paginated list" }
   end
 
-  def render_map
-    view = MapView.new(blog: @blog, url: "/map")
-    write_output(view)
-  end
+
 
   # we will have not only 1 map but many: regular small, private big, ...
   # and maybe later I'll use this for voivodeship summary post
@@ -440,27 +435,7 @@ class Tremolite::Renderer
     write_output(view)
   end
 
-  def render_payload_json
-    view = PayloadJsonGenerator.new(blog: @blog, url: "/payload.json")
-    write_output(view)
-  end
 
-  def render_rss
-    posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
-    view = RssGenerator.new(
-      blog: @blog,
-      posts: posts,
-      url: "/feed.xml",
-      site_title: @blog.data_manager.not_nil!["site.title"],
-      site_url: @blog.data_manager.not_nil!["site.url"],
-      site_desc: site_desc,
-      site_webmaster: @blog.data_manager.not_nil!["site.email"],
-      site_language: "pl",
-      updated_at: blog.post_collection.last_updated_at
-    )
-
-    write_output(view)
-  end
 
   # overall site desc string
   @site_desc : String?
@@ -492,44 +467,6 @@ class Tremolite::Renderer
     end
 
     return @site_desc.to_s
-  end
-
-  def render_atom
-    posts = @blog.post_collection.posts.sort { |a, b| b.time <=> a.time }
-    view = AtomGenerator.new(
-      blog: @blog,
-      posts: posts,
-      url: "/feed_atom.xml",
-      site_title: @blog.data_manager.not_nil!["site.title"],
-      site_url: @blog.data_manager.not_nil!["site.url"],
-      site_desc: site_desc,
-      site_webmaster: @blog.data_manager.not_nil!["site.email"],
-      author_name: @blog.data_manager.not_nil!["site.author"],
-      site_guid: Digest::MD5.hexdigest(@blog.data_manager.not_nil!["site.title"]).to_guid,
-      site_language: "pl",
-      updated_at: blog.post_collection.last_updated_at
-    )
-
-    write_output(view)
-  end
-
-  def render_lands_pages
-    blog.data_manager.not_nil!.lands.not_nil!.each do |land|
-      view = LandView.new(blog: @blog, land: land)
-      write_output(view)
-    end
-    Log.info { "Renderer: Lands finished" }
-  end
-
-  def render_voivodeships_pages
-    blog.data_manager.not_nil!.voivodeships.not_nil!.each do |voivodeship|
-      view = PostListView::VoivodeshipListView.new(blog: @blog, voivodeship: voivodeship)
-      write_output(view)
-
-      masonry_view = PostListView::VoivodeshipMasonryView.new(blog: @blog, voivodeship: voivodeship)
-      write_output(masonry_view)
-    end
-    Log.info { "Renderer: Voivodeships finished" }
   end
 
   def render_posts
@@ -751,16 +688,6 @@ class Tremolite::Renderer
       )
       write_output(view_by_tag)
     end
-  end
-
-  def render_sitemap
-    view = Tremolite::Views::SiteMapGenerator.new(blog: @blog, url: "/sitemap.xml")
-    write_output(view)
-  end
-
-  def render_robot
-    view = Tremolite::Views::RobotGenerator.new
-    write_output(view)
   end
 
   private def clear

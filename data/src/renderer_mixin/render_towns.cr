@@ -1,3 +1,6 @@
+require "../views/post_list_view/town_list_view"
+require "../views/post_list_view/town_masonry_view"
+
 module RendererMixin::RenderTowns
   def render_towns_pages
     towns_to_render.each do |town|
@@ -12,7 +15,7 @@ module RendererMixin::RenderTowns
   end
 
   def render_town_page(town)
-    write_output(PostListView::TownListView.new(blog: @blog, town: town))
-    write_output(PostListView::TownMasonryView.new(blog: @blog, town: town))
+    write_output(PostListView::TownListView.new(blog: blog, town: town))
+    write_output(PostListView::TownMasonryView.new(blog: blog, town: town))
   end
 end

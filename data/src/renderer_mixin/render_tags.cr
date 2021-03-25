@@ -1,3 +1,6 @@
+require "../views/post_list_view/tag_list_view"
+require "../views/post_list_view/tag_masonry_view"
+
 module RendererMixin::RenderTags
   def render_tags_pages
     tags_to_render.each do |tag|
@@ -12,7 +15,7 @@ module RendererMixin::RenderTags
   end
 
   def render_tag_page(tag)
-    write_output(PostListView::TagListView.new(blog: @blog, tag: tag))
-    write_output(PostListView::TagMasonryView.new(blog: @blog, tag: tag))
+    write_output(PostListView::TagListView.new(blog: blog, tag: tag))
+    write_output(PostListView::TagMasonryView.new(blog: blog, tag: tag))
   end
 end
