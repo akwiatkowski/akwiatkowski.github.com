@@ -1,7 +1,43 @@
 require "../views/post_list_view/paginated_list_view"
+require "../views/dynamic_view/mountain_range_planner_view"
 require "../views/post_view/article_view"
 
 module RendererMixin::RenderPostRelated
+  def render_fast_only_post_related
+    Log.debug { "render_fast_only_post_related START" }
+
+    render_all_special_views_post_related
+    render_all_views_post_related
+
+    render_posts_paginated_lists
+
+    render_pois
+
+    Log.debug { "render_fast_only_post_related DONE" }
+  end
+
+  def render_fast_post_and_yaml_related
+    Log.debug { "render_fast_post_and_yaml_related START" }
+
+    render_all_special_views_post_and_yaml_related
+    render_all_views_post_and_yaml_related
+
+    render_all_model_pages
+
+    render_mountain_range_planner
+    render_towns_history
+    render_towns_timeline
+
+    render_todo_routes
+
+    ###
+
+    render_towns_index
+    render_lands_index
+
+    Log.debug { "render_fast_post_and_yaml_related DONE" }
+  end
+
   def render_posts_paginated_lists
     per_page = PostListView::PaginatedListView::PER_PAGE
     i = 0
@@ -54,6 +90,15 @@ module RendererMixin::RenderPostRelated
     write_output(view)
 
     Log.debug { "render_post #{post.slug} DONE" }
+  end
+
+  def render_mountain_range_planner
+    write_output(
+      DynamicView::MountainRangePlannerView.new(
+        blog: blog,
+        url: "/mountain_range_planner"
+      )
+    )
   end
 
 end

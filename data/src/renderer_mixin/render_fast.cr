@@ -4,6 +4,8 @@ require "../views/dynamic_view/summary_view"
 require "../views/dynamic_view/timeline_view"
 require "../views/dynamic_view/year_stat_report_view"
 require "../views/dynamic_view/burnout_stat_view"
+require "../views/dynamic_view/towns_history_view"
+require "../views/dynamic_view/towns_timeline_view"
 
 module RendererMixin::RenderFast
   def render_home
@@ -102,7 +104,7 @@ module RendererMixin::RenderFast
 
   def render_towns_history
     write_output(
-      TownsHistoryView.new(
+      DynamicView::TownsHistoryView.new(
         blog: blog,
         url: "/towns/history"
       )
@@ -111,7 +113,7 @@ module RendererMixin::RenderFast
 
   def render_towns_timeline
     write_output(
-      TownsTimelineView.new(
+      DynamicView::TownsTimelineView.new(
         blog: blog,
         url: "/towns/timeline"
       )

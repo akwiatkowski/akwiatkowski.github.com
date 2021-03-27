@@ -26,8 +26,9 @@ module RendererMixin::RenderOveralls
     render_year_stat_reports
     render_burnout_stat # TODO
 
-    render_towns_history # TODO
-    render_towns_timeline # TODO
+    # when I visited town
+    render_towns_history
+    render_towns_timeline
   end
 
   def render_galleries_pages

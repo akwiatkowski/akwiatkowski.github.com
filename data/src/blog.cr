@@ -158,14 +158,19 @@ class Tremolite::Blog
         post: post,
         overwrite: false
       )
+
       Log.debug { "#{post.slug} - preparing content" }
       data_manager.exif_db.initialize_post_photos_exif(post)
+
       Log.debug { "#{post.slug} - rendering" }
       renderer.render_post(post)
+
       Log.debug { "#{post.slug} - rendering galleries" }
       renderer.render_post_galleries_for_post(post)
+
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
+
       Log.info { "#{post.slug} - DONE" }
     end
 
@@ -175,19 +180,20 @@ class Tremolite::Blog
         post: post,
         overwrite: false
       )
+
       Log.debug { "#{post.slug} - preparing content" }
       post.content_html
+
       Log.debug { "#{post.slug} - rendering" }
       renderer.render_post(post)
+
       Log.debug { "#{post.slug} - saving exif cache" }
       data_manager.exif_db.save_cache(post.slug)
+
       Log.debug { "#{post.slug} - DONE" }
     end
 
     if exifs_changed
-      # TODO this should
-
-
       # first we need to load all (and/or process new) exif data
       post_collection.posts.each do |post|
         data_manager.exif_db.initialize_post_photos_exif(post)
@@ -200,8 +206,6 @@ class Tremolite::Blog
       renderer.render_all_photo_maps
     end
 
-    # moved after town cache update to have refreshed town images
-
     # if post were changed render some fast related pages
     if posts_changed
       renderer.render_fast_only_post_related
@@ -211,7 +215,6 @@ class Tremolite::Blog
       renderer.render_fast_post_and_yaml_related
     end
 
-    # maybe somewhere in future we can add if here
     renderer.render_fast_static_renders
   end
 

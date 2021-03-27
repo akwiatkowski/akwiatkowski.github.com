@@ -8,6 +8,9 @@ require "../views/gallery_view/lens_view"
 require "../views/gallery_view/tag_stats_view"
 require "../views/gallery_view/tag_view"
 
+require "../views/dynamic_view/portfolio_view"
+require "../views/dynamic_view/exif_stats_view"
+
 module RendererMixin::RenderPhotoRelated
   # render only when exifs were loaded
   def render_all_photo_related
@@ -142,7 +145,7 @@ module RendererMixin::RenderPhotoRelated
 
   def render_portfolio
     write_output(
-      PortfolioView.new(
+      DynamicView::PortfolioView.new(
         blog: blog,
         url: "/portfolio"
       )
@@ -150,13 +153,13 @@ module RendererMixin::RenderPhotoRelated
   end
 
   def render_exif_stats
-    view = ExifStatsView.new(blog: blog, url: "/exif_stats")
+    view = DynamicView::ExifStatsView.new(blog: blog, url: "/exif_stats")
     write_output(view)
 
     tags = ["bicycle", "hike", "photo", "train"]
 
     tags.each do |tag|
-      view_by_tag = ExifStatsView.new(
+      view_by_tag = DynamicView::ExifStatsView.new(
         blog: @blog,
         url: "/exif_stats",
         by_tag: tag
