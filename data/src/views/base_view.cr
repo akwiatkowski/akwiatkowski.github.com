@@ -112,42 +112,80 @@ class BaseView < Tremolite::Views::BaseView
     @blog.data_manager.not_nil!["site.url"]
   end
 
+  private def model_array_to_nav(
+    model_array : Array,
+    ignore_less_than = 1
+  )
+    nav_array = Array(NamedTuple(
+        name: String,
+        count: Int32,
+        url: String
+      )
+    ).new
+
+    model_array.each do |model|
+      count = @blog.post_collection.posts.select{|post| post.was_in?(model) && post.ready? }.size
+
+      if count >= ignore_less_than
+        nav_array << {
+          name: model.name,
+          url: model.masonry_url,
+          count: count
+        }
+      end
+    end
+
+    nav_array = nav_array.sort do |a,b|
+      b[:count] <=> a[:count]
+    end
+
+    return String.build do |s|
+      nav_array.each do |ni|
+        h = Hash(String, String).new
+        h["url"] = ni[:url]
+        h["name"] = "#{ni[:name]} (#{ni[:count]})"
+
+        s << load_html("include/category_nav_element", h)
+      end
+    end
+  end
+
   # cached list of voivodeship links for nav
   def voivodeship_nav
     if @voivodeship_nav.nil?
-      @voivodeship_nav = String.build do |s|
-        @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-          # lets ignore not Polish regions
-          next unless voivodeship.is_poland?
-
-          vh = voivodeship.to_hash
-          h = Hash(String, String).new
-          h["url"] = vh["masonry_url"].to_s
-          h["name"] = vh["name"].to_s
-
-          s << load_html("include/nav_per_voivodeship", h)
-        end
+      if @voivodeship_nav.nil?
+        voivodeships = @blog.data_manager.voivodeships.not_nil!
+        @voivodeship_nav = model_array_to_nav(
+          model_array: voivodeships,
+          ignore_less_than: 2
+        ).as(String)
       end
     end
 
     return @voivodeship_nav.not_nil!
   end
 
-  # cached list of voivodeship links for nav
+  # cached list of lands links for nav
+  def lands_nav
+    if @lands_nav.nil?
+      lands = @blog.data_manager.lands.not_nil!
+      @lands_nav = model_array_to_nav(
+        model_array: lands,
+        ignore_less_than: 4
+      ).as(String)
+    end
+
+    return @lands_nav.not_nil!
+  end
+
+  # cached list of tags links for nav
   def tag_nav
     if @tags_nav.nil?
-      @tags_nav = String.build do |s|
-        @blog.data_manager.tags.not_nil!.each do |tag|
-          # lets ignore not specifically added
-          next unless tag.is_nav?
-
-          h = Hash(String, String).new
-          h["url"] = tag.masonry_url.to_s
-          h["name"] = tag.name.to_s
-
-          s << load_html("include/nav_per_tag", h)
-        end
-      end
+      tags = @blog.data_manager.tags.not_nil!
+      @tags_nav = model_array_to_nav(
+        model_array: tags,
+        ignore_less_than: 2
+      ).as(String)
     end
 
     return @tags_nav.not_nil!
@@ -207,6 +245,7 @@ class BaseView < Tremolite::Views::BaseView
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
     h["nav-voivodeships"] = voivodeship_nav
     h["nav-tags"] = tag_nav
+    h["nav-lands"] = lands_nav
 
     return load_html("include/nav", h)
   end

@@ -96,6 +96,10 @@ class Tremolite::Post
     self.header_nogallery.not_nil! != true
   end
 
+  def was_in?(model : (TownEntity | VoivodeshipEntity | TagEntity | LandEntity)) : Bool
+    return model.belongs_to_post?(self)
+  end
+
   def was_in_voivodeship(voivodeship_slug : String) : Bool
     @towns.not_nil!.includes?(voivodeship_slug)
   end
