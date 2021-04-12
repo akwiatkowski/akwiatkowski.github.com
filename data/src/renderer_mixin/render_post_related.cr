@@ -100,5 +100,4 @@ module RendererMixin::RenderPostRelated
       )
     )
   end
-
 end

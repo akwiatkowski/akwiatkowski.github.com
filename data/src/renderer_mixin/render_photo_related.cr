@@ -14,7 +14,7 @@ require "../views/dynamic_view/exif_stats_view"
 module RendererMixin::RenderPhotoRelated
   # render only when exifs were loaded
   def render_all_photo_related
-    render_gallery # TODO
+    render_gallery       # TODO
     render_tag_galleries # TODO
 
     render_lens_galleries

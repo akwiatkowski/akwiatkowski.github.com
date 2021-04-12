@@ -44,6 +44,5 @@ module PostListView
       temp_image_url = image_url_from_slug if temp_image_url.nil?
       return temp_image_url.not_nil!
     end
-
   end
 end

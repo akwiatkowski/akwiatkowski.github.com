@@ -24,6 +24,5 @@ module PostListView
     def image_url
       return @land.image_url
     end
-
   end
 end

@@ -117,25 +117,23 @@ class BaseView < Tremolite::Views::BaseView
     ignore_less_than = 1
   )
     nav_array = Array(NamedTuple(
-        name: String,
-        count: Int32,
-        url: String
-      )
-    ).new
+      name: String,
+      count: Int32,
+      url: String)).new
 
     model_array.each do |model|
-      count = @blog.post_collection.posts.select{|post| post.was_in?(model) && post.ready? }.size
+      count = @blog.post_collection.posts.select { |post| post.was_in?(model) && post.ready? }.size
 
       if count >= ignore_less_than
         nav_array << {
-          name: model.name,
-          url: model.masonry_url,
-          count: count
+          name:  model.name,
+          url:   model.masonry_url,
+          count: count,
         }
       end
     end
 
-    nav_array = nav_array.sort do |a,b|
+    nav_array = nav_array.sort do |a, b|
       b[:count] <=> a[:count]
     end
 

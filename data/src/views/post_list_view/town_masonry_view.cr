@@ -27,6 +27,5 @@ module PostListView
     def image_url
       return @town.image_url
     end
-
   end
 end

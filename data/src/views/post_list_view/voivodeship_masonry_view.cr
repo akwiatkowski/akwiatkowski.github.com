@@ -27,6 +27,5 @@ module PostListView
     def image_url
       return @voivodeship.image_url
     end
-
   end
 end
