@@ -5,8 +5,8 @@ subtitle:               "odkrycie krótszej trasy nad Wartę"
 date:                   2016-10-20 15:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/178966683/q%3D80_m%3D2000/182a68539115d023f5fcc0c879ce5d01"
 categories:             trip
+image_position:         50% 80%
 tags:                   [photo]
 towns:                  [wielkopolskie, poznan]
 

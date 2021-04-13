@@ -9,6 +9,7 @@ finished_at:            2019-05-15 22:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_05_02__10_09_P5020641.jpg
+image_position:         50% 70%
 tags:                   [bicycle, panniers, main]
 towns:                  [warminsko_mazurskie, ilawa]
 

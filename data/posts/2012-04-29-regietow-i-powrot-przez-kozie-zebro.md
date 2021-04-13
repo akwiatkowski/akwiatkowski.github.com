@@ -6,6 +6,7 @@ desc:                   "Pierwsza wycieczka w Beskidzie Niskim dała mi do zrozu
 keywords:               [wiosna, majówka, kozie żebro, regietów, zielono]
 date:                   2012-04-29 21:00:00
 header_timeline:        true
+image_position:         50% 10%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

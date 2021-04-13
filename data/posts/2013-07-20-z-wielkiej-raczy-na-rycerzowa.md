@@ -7,6 +7,7 @@ keywords:               [rycerzowa, lato, wielka racza]
 date:                   2013-07-20 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
+image_position:         50% 20%
 categories:             trip
 tags:                   [main, hike, mountains, best]
 towns:                  [slaskie, rajcza]

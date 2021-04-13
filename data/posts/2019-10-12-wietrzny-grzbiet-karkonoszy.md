@@ -9,6 +9,7 @@ finished_at:            2020-12-05 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_10_12__14_27_DSC01659.jpg
+image_position:         50% 72%
 tags:                   [hike, mountains, main]
 towns:                  [dolnoslaskie, szklarska_poreba]
 

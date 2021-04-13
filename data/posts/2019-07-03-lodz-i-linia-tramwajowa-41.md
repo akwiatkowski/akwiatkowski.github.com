@@ -9,6 +9,7 @@ finished_at:            2020-05-01 11:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_07_03__21_09__7031610.jpg
+image_position:         50% 72%
 tags:                   [hike, train, main]
 towns:                  [lodzkie, lodz, ksawerow, pabianice]
 

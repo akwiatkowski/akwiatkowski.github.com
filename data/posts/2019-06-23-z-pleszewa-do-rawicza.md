@@ -9,6 +9,7 @@ finished_at:            2020-01-16 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_06_23__12_51_P6230109.jpg
+image_position:         50% 62%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, pleszew, dobrzyca, rozdrazew, krotoszyn, kobylin, jutrosin, miejska_gorka, rawicz]
 

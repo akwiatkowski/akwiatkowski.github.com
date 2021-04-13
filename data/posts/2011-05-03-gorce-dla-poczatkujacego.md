@@ -7,6 +7,7 @@ keywords:               [poręba wielka, koninki, poręba górna, owce, wiosna]
 date:                   2011-05-03 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 35%
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, niedzwiedz]
 lands:                  [gorce]

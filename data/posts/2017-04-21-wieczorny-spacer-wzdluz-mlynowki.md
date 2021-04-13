@@ -8,6 +8,7 @@ date:                   2017-04-21 20:00:00
 finished_at:            2017-06-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 76%
 tags:                   [hike, main]
 towns:                  [dolnoslaskie, milicz]
 

@@ -9,6 +9,7 @@ date:                   2020-11-01 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_11_01__15_27_DSC05340.jpg
+image_position:         50% 40%
 tags:                   [hike, todo]
 towns:                  [wielkopolskie, skoki]
 

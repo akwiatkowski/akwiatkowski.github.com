@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_02_23__12_58__2231201.jpg
 # 2019_02_23__12_56__2231196
 # 2019_02_23__12_58__2231201
+image_position:         50% 65%
 tags:                   [hike, photo, wildlife, main]
 towns:                  [pomorskie, gdansk, gdynia]
 

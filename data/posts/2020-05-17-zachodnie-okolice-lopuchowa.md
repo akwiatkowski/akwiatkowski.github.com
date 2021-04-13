@@ -9,6 +9,7 @@ date:                   2020-05-17 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_05_17__18_01__5172086.jpg
+image_position:         50% 65%
 tags:                   [hike, todo]
 towns:                  []
 

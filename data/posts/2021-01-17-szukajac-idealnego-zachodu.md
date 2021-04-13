@@ -9,7 +9,7 @@ finished_at:            2021-01-20 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_01_17__16_50_DSC04313_01.jpg
-tags:                   [hike, photo, main]
+tags:                   [hike, photo, main, photo_of_the_year]
 towns:                  [dolnoslaskie, ziebice]
 
 coords:                 [{"route": [], "type": "hike"}]

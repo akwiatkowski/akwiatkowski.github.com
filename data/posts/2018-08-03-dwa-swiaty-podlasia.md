@@ -9,6 +9,7 @@ finished_at:            2018-11-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P8030356.jpg
+image_position:         50% 68%
 tags:                   [bicycle, panniers, main]
 towns:                  [podlaskie, bialystok, wasilkow, suprasl]
 

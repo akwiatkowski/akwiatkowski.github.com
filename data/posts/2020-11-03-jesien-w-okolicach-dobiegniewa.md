@@ -9,6 +9,7 @@ finished_at:            2020-11-08 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_11_03__11_10_DSC05588.jpg
+image_position:         50% 70%
 tags:                   [hike, main]
 towns:                  [zachodnio_pomorskie, lubuskie, bierzwnik, dobiegniew]
 

@@ -5,8 +5,8 @@ subtitle:               "dwa województwa, trzy rzeki, ogrom Puszczy Noteckiej i
 date:                   2016-06-12 20:00:00
 finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/158418421/q%3D80_m%3D2000/f302cf4100a646ed86f51fb3a252702b"
 categories:             trip
+image_position:         50% 65%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, lubuskie, zbaszyn, trzciel, miedzichowo, pszczew, miedzychod, drezdenko, krzyz_wielkopolski]
 

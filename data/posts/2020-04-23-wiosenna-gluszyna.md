@@ -9,6 +9,7 @@ date:                   2020-04-23 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_04_23__16_44__4238018.jpg
+image_position:         50% 75%
 tags:                   [bicycle, todo]
 towns:                  []
 

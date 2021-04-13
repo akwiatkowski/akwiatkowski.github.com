@@ -9,6 +9,7 @@ date:                   2020-08-01 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_08_01__11_03__8016997.jpg
+image_position:         50% 70%
 tags:                   [bicycle, panniers, todo]
 towns:                  [lubuskie, swiebodzin, lubrza, lagow]
 

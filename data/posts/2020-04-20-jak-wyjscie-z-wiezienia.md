@@ -9,6 +9,7 @@ date:                   2020-04-20 20:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_04_20__17_48_DSC07454.jpg
+image_position:         50% 65%
 tags:                   [bicycle, todo]
 towns:                  [poznan]
 

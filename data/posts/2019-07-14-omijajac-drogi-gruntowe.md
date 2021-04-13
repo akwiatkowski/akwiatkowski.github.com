@@ -9,6 +9,7 @@ finished_at:            2019-08-30 16:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_07_14__09_18_P7140018.jpg
+image_position:         50% 75%
 tags:                   [bicycle, panniers, main, best]
 towns:                  [zachodnio_pomorskie, lobez, radowo_male, dobra, maszewo, stara_dabrowa, stargard]
 

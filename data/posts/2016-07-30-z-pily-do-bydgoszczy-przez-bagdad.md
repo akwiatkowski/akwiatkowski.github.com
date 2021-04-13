@@ -5,8 +5,8 @@ subtitle:               "111km rowerem z wiatrem przez okolice Noteci, wioski i 
 date:                   2016-07-30 16:00:00
 finished_at:            2016-08-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/165987109/q%3D80_m%3D2000/1b8db0fa93e90986612ce6d01b0d4780"
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, pila, kaczory, miasteczko_krajenskie, bialosliwie, wyrzysk, lobzenica, mrocza, sicienko, bydgoszcz]
 

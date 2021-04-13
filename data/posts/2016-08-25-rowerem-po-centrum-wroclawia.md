@@ -5,8 +5,8 @@ subtitle:               "ładna pogoda, ładne miasto, walka z czasem"
 date:                   2016-08-25 13:00:00
 finished_at:            2016-09-02 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/169702587/q%3D80_m%3D2000/594094c7dcea153f834db12796a4fe40"
 categories:             trip
+image_position:         50% 80%
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, wroclaw]
 

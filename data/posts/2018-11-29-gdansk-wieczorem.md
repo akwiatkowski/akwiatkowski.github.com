@@ -12,6 +12,7 @@ image_filename:         2018_11_29__18_54__B295416.jpg
 # 2018_11_29__18_47__B295390_01
 # 2018_11_29__18_48__B295396
 # 2018_11_29__18_54__B295416
+image_position:         50% 28%
 tags:                   [photo, hike, main]
 towns:                  [pomorskie, gdansk]
 

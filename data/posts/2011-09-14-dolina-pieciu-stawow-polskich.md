@@ -6,6 +6,7 @@ desc:                   "Po czterech dniach moje kolana wróciły do życia. Pos
 keywords:               [tatry wysokie, morskie oko, wodogrzmoty mickiewicza, dolina roztoki, dolina rybiego potoku]
 date:                   2011-09-14 21:00:00
 header_timeline:        true
+image_position:         50% 20%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, photo_of_the_year, best]

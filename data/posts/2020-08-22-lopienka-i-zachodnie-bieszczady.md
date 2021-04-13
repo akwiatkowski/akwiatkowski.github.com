@@ -9,6 +9,7 @@ date:                   2020-08-22 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_08_22__16_10__8229395.jpg
+image_position:         50% 40%
 tags:                   [hike, todo]
 towns:                  [podkarpackie, cisna, solina]
 lands:                  [bieszczady]

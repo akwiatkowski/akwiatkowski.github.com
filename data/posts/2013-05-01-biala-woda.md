@@ -9,6 +9,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP0985b.jpg
+image_position:         50% 23%
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, szczawnica]
 lands:                  [pieniny]

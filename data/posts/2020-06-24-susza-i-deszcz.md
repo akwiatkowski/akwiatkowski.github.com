@@ -9,6 +9,7 @@ date:                   2020-06-24 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_06_24__15_55_DSC08568.jpg
+image_position:         50% 66%
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, kornik, sroda_wielkopolska]
 

@@ -10,6 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P6011715raw1.jpg
+image_position:         50% 37%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, lubuskie, miedzichowo, trzciel, pszczew]
 weather:                [hot, sand, storm, rain, summer]

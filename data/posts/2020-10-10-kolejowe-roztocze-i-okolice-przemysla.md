@@ -9,6 +9,7 @@ date:                   2020-10-10 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_10_10__08_37_DSC09229.jpg
+image_position:         50% 60%
 tags:                   [train, todo]
 towns:                  [lubelskie, podkarpackie]
 

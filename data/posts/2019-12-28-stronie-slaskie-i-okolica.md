@@ -9,6 +9,7 @@ finished_at:            2020-09-18 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_12_29__11_27__C291981.jpg
+image_position:         50% 60%
 tags:                   [hike, main]
 towns:                  [dolnoslaskie, stronie_slaskie]
 

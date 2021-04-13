@@ -8,6 +8,7 @@ date:                   2017-07-24 20:00:00
 finished_at:            2017-10-12 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 75%
 tags:                   [bicycle, mountains, main, panniers]
 towns:                  [malopolskie, grybow, ropa, uscie_gorlickie]
 lands:                  [beskid_niski]

@@ -9,6 +9,7 @@ finished_at:            2019-07-10 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_06_09__11_28_P6090554.jpg
+image_position:         50% 62%
 tags:                   [bicycle, panniers, main, best]
 towns:                  [pomorskie, bytow, borzytuchom, tuchomie, kolczyglowy, miastko, trzebielino]
 

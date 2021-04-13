@@ -8,6 +8,7 @@ date:                   2017-05-21 19:00:00
 finished_at:            2017-10-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 70%
 tags:                   [bicycle, main, best]
 towns:                  [lubuskie, wielkopolskie, dolnoslaskie, sulechow, trzebiechow, bojadla, nowa_sol, slawa, wschowa, niechlow, gora, bojanowo]
 

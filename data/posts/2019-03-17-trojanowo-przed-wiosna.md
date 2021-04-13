@@ -9,6 +9,7 @@ finished_at:            2019-09-24 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_03_17__15_20__3175460.jpg
+image_position:         50% 64%
 tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, murowana_goslina]
 

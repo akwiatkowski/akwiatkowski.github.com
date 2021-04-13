@@ -9,6 +9,7 @@ finished_at:            2020-01-13 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_04_18__18_05_P4180013.jpg
+image_position:         50% 66%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, lubon, komorniki, steszew]
 

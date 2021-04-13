@@ -9,6 +9,7 @@ date:                   2021-01-03 16:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_01_03__14_14__1037189.jpg
+image_position:         50% 60%
 tags:                   [bird, photo, todo]
 towns:                  []
 

@@ -9,6 +9,7 @@ finished_at:            2019-01-23 01:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P8130009.jpg
+image_position:         50% 70%
 tags:                   [bicycle, panniers, main]
 towns:                  [podlaskie, tykocin, sokoly, lapy]
 

@@ -9,6 +9,7 @@ finished_at:            2020-05-28 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_02_09__14_05__2092142-crop.jpg
+image_position:         50% 65%
 tags:                   [photo, birds, wildlife, main]
 towns:                  [wielkopolskie, poznan]
 

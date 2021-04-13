@@ -9,6 +9,7 @@ date:                   2020-11-14 16:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_11_14__14_21_DSC06765.jpg
+image_position:         50% 70%
 tags:                   [car, todo]
 towns:                  [kujawsko_pomorskie, wielkopolskie, strzelno, kruszwica, piotrkow_kujawski, byton, topolka (topółka), wierzbinek, skulsk]
 

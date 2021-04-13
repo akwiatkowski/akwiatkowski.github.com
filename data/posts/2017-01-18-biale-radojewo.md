@@ -8,6 +8,7 @@ date:                   2017-01-18 15:00:00
 finished_at:            2017-01-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 45%
 tags:                   [photo, hike]
 towns:                  [wielkopolskie, poznan]
 

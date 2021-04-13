@@ -8,6 +8,7 @@ date:                   2017-07-01 18:00:00
 finished_at:            2017-11-10 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 70%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, dolnoslaskie, rawicz, pakoslaw, milicz, cieszkow, sulmierzyce, odolanow, ostrow_wielkopolski]
 

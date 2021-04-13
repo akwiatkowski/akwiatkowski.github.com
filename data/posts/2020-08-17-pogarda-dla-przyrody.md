@@ -9,6 +9,7 @@ date:                   2020-08-17 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_08_17__13_55__8177861.jpg
+image_position:         50% 70%
 tags:                   [hike, todo]
 towns:                  [podkarpackie, rymanow]
 

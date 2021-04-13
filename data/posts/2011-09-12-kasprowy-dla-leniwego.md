@@ -6,6 +6,7 @@ desc:                   "Wjechałem na Kasprowy Wierch jak większość leniwych
 keywords:               [tatry wysokie, kasprowy, świnica]
 date:                   2011-09-12 21:00:00
 header_timeline:        true
+image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

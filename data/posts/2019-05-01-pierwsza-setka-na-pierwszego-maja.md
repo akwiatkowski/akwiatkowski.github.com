@@ -9,6 +9,7 @@ finished_at:            2019-05-15 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_05_01__12_27_P5010403.jpg
+image_position:         50% 70%
 tags:                   [bicycle, main, best]
 towns:                  [stary_targ, sztum, ryjewo, kwidzyn, gardeja, lasin, swiecie_nad_osa, radzyn_chelminski, ksiazki]
 

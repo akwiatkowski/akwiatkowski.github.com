@@ -9,6 +9,7 @@ finished_at:            2020-08-30 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_08_10__14_51__8108362.jpg
+image_position:         50% 85%
 tags:                   [hike, city, main]
 towns:                  [czechy, czechy_kraj_olomucki]
 

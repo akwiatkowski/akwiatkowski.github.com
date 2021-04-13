@@ -9,6 +9,7 @@ date:                   2020-10-31 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_10_31__12_18_DSC04684.jpg
+image_position:         50% 70%
 tags:                   [photo, todo]
 towns:                  [wielkopolskie, poznan]
 

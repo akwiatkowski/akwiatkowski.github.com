@@ -5,8 +5,8 @@ subtitle:               "która skończyła się dalej - w Solcu"
 date:                   2016-04-23 16:00:00
 finished_at:            2016-04-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/150617177/q%3D80_m%3D2000/d7244d5cd8c58d87b2a7dec8e503fa20"
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, kornik, zaniemysl, krzykosy]
 lands:                  [pojezierze_poznanskie]

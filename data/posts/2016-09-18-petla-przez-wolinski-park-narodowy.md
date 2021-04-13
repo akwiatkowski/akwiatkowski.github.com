@@ -5,8 +5,8 @@ subtitle:               "demonstracja jakie mogą być szlaki rowerowe w Polsce"
 date:                   2016-09-18 18:00:00
 finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173702069/q%3D80_m%3D2000/4b57690cd127b3ab4f8ff8ae72983c96"
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, bicycle]
 towns:                  [zachodnio_pomorskie, swinoujscie, miedzyzdroje]
 

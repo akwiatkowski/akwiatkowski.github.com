@@ -8,6 +8,7 @@ date:                   2017-06-09 21:00:00
 finished_at:            2017-10-30 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 68%
 tags:                   [bicycle, panniers, main]
 towns:                  [pomorskie, wejherowo, luzino, szemud, przodkowo, kartuzy, zukowo, kolbudy]
 lands:                  [kaszuby]

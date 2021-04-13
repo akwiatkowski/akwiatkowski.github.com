@@ -8,6 +8,7 @@ date:                   2017-02-10 18:00:00
 finished_at:            2017-12-26 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 34%
 tags:                   [photo, workshop, mountains, main]
 towns:                  [dolnoslaskie, karpacz]
 

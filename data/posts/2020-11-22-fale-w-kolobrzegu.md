@@ -9,6 +9,7 @@ date:                   2020-11-22 16:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_11_20__08_03_DSC07099.jpg
+image_position:         50% 70%
 tags:                   [hike, photo, todo]
 towns:                  [zachodnio_pomorskie, kolobrzeg]
 

@@ -9,6 +9,7 @@ finished_at:            2017-04-25 12:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 64%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, poznan, swarzedz, pobiedziska]
 

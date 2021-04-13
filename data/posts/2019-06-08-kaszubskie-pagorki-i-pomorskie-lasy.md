@@ -9,6 +9,7 @@ finished_at:            2019-07-29 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_06_08__11_19_P6080119.jpg
+image_position:         50% 68%
 tags:                   [bicycle, panniers, main, best]
 towns:                  [pomorskie, pruszcz_gdanski, kolbudy, przywidz, somonino, kartuzy, chmielno, stezyca, suleczyno, parchowo, studzienice, bytow]
 

@@ -7,6 +7,7 @@ keywords:               [rycerzowa, młada hora, lato, rajcza]
 date:                   2013-07-21 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 30%
 tags:                   [main, hike, mountains]
 towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]

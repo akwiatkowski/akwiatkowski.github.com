@@ -6,6 +6,7 @@ date:                   2016-09-10 18:00:00
 finished_at:            2016-09-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 65%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, pila, szydlowo, trzcianka, czarnkow, wielen, krzyz_wielkopolski]
 

@@ -10,6 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2018_11_29__06_53__B294752.jpg
 # 2018_11_29__07_11__B294763
+image_position:         50% 38%
 tags:                   [photo, main, best]
 towns:                  [pomorskie, gdynia]
 

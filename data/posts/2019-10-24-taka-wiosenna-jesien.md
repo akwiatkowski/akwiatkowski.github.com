@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_10_24__10_49__A243585.jpg
 # 2019_10_24__10_49__A243582
 # 2019_10_24__09_45_DSC03087
+image_position:         50% 58%
 tags:                   [hike, main]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 lands:                  [masyw_snieznika]

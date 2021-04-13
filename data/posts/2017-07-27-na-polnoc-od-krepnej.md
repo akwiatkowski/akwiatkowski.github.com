@@ -8,6 +8,7 @@ date:                   2017-07-27 17:00:00
 finished_at:            2017-11-19 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 66%
 tags:                   [bicycle, mountains, main, best]
 towns:                  [podkarpackie, krempna, nowy_zmigrod]
 lands:                  [beskid_niski]

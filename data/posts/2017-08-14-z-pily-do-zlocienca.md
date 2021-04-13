@@ -6,6 +6,7 @@ desc:                   "Pierwszy dzień krótkiej wycieczki rowerowej z Piły d
 keywords:               [piła, drawski, złocieniec, cieszyno, wałcz, karsibór, świerczyna, wierzchowo, siecino]
 date:                   2017-08-14 19:00:00
 finished_at:            2017-11-25 12:00:00
+image_position:         50% 65%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, panniers, main]

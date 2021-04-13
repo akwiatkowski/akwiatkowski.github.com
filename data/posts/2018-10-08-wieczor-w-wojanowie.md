@@ -10,6 +10,7 @@ finished_at:            2019-01-30 23:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         17_37__A080080.jpg
+image_position:         50% 78%
 tags:                   [hike, photo, main]
 towns:                  [dolnoslaskie, myslakowice]
 

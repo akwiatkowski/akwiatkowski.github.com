@@ -5,6 +5,7 @@ subtitle:               "ciepło, cieplej, ale tym razem mniej robali"
 date:                   2015-07-18 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 64%
 tags:                   [main, bicycle, no_photos]
 towns:                  [wielkopolskie, lubuskie, opalenica, nowy_tomysl, zbaszyn]
 

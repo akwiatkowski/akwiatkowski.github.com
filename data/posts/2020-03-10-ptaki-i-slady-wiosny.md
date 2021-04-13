@@ -12,6 +12,7 @@ image_filename:         2020_03_10__11_46__3102541.jpg
 # 2020_03_10__11_46__3102541
 # 2020_03_10__11_03__3101647
 # 2020_03_10__11_53__3102922
+image_position:         50% 58%
 tags:                   [photo, birds, wildlife, main]
 towns:                  [wielkopolskie, poznan]
 

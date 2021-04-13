@@ -9,6 +9,7 @@ finished_at:            2017-08-31 12:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 70%
 tags:                   [bicycle, main, best]
 towns:                  [dolnoslaskie, jezow_sudecki, swierzawa, pielgrzymka, wlen, lubomierz, gryfow_slaski]
 lands:                  [gory_kaczawskie]

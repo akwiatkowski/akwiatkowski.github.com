@@ -12,6 +12,7 @@ image_filename:         2019_07_28__16_38_P7280020.jpg
 # 2019_07_28__17_04_DSC08174
 # 2019_07_28__18_12_DSC08195
 # 2019_07_28__16_38_P7280020
+image_position:         50% 60%
 tags:                   [bicycle, main, best]
 towns:                  [kujawsko_pomorskie, wielkopolskie, mogilno, trzemeszno]
 

@@ -13,6 +13,7 @@ image_filename:         2019_08_10__18_11__8100050.jpg
 # 2019_08_10__10_45__8107967
 # 2019_08_10__10_00__8107830
 # 2019_08_10__12_07__8108152
+image_position:         50% 35%
 tags:                   [train, main]
 towns:                  [czechy, czechy_kraj_olomucki, czechy_kraj_morawsko_slaski, opolskie]
 

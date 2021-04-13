@@ -10,6 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         _7290067.jpg
+image_position:         50% 71%
 tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, gniezno]
 

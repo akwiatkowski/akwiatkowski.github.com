@@ -12,6 +12,7 @@ image_filename:         2019_09_07__14_48__9071289.jpg
 # 2019_09_07__14_48__9071289
 # 2019_09_07__14_42__9071267
 # 2019_09_07__11_13_DSC09911
+image_position:         50% 39%
 tags:                   [main, train]
 towns:                  [wielkopolskie, lubuskie, poznan, dopiewo, buk, opalenica, nowy_tomysl, zbaszyn, zbaszynek, babimost, sulechow, czerwiensk, zielona_gora, swidnica_lubuskie, nowogrod_bobrzanski, zary, zagan, malomice, szprotawa, niegoslawice]
 

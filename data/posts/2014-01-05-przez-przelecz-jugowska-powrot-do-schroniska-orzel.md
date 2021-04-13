@@ -6,6 +6,7 @@ date:                   2014-01-05 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, pieszyce, nowa_ruda, walim]
 lands:                  [gory_sowie]

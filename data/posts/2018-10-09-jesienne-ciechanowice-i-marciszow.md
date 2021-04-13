@@ -10,6 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2018_10_09_14_48__A090731.jpg
+image_position:         50% 62%
 tags:                   [hike, photo, main]
 towns:                  [dolnoslaskie, marciszow]
 

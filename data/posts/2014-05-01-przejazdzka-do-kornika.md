@@ -5,6 +5,7 @@ subtitle:               "tylko 93 km"
 date:                   2014-05-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
+image_position:         50% 70%
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, kornik, mosina, lubon]

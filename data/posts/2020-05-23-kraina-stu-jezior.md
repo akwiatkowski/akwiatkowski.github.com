@@ -9,6 +9,7 @@ finished_at:            2020-09-18 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_05_23__14_30__5232977.jpg
+image_position:         50% 38%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, lubuskie, sierakow, miedzychod, przytoczna]
 

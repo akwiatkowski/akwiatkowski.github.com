@@ -8,6 +8,7 @@ date:                   2012-05-01 21:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP7056b.jpg
+image_position:         50% 10%
 categories:             trip
 tags:                   [main, hike, mountains, best]
 towns:                  [malopolskie, uscie_gorlickie]

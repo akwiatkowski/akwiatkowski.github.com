@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_10_05__13_13_DSC00709.jpg
 # 2019_10_05__12_30_DSC00644
 # 2019_10_05__13_13_DSC00709
+image_position:         50% 60%
 tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, opalenica, grodzisk_wielkopolski]
 

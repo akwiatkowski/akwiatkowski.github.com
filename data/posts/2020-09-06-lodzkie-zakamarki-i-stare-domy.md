@@ -10,6 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_09_06__11_00__9069803.jpg
 # 2020_09_06__12_20__9069820
+image_position:         50% 55%
 tags:                   [bicycle, bikepacking, todo]
 towns:                  [lodzkie, sieradz, zdunska_wola, zapolice, sedziejowice, buczek, lask, dobron, dlutow, tuszyn, rzgow, brojce, lodz]
 

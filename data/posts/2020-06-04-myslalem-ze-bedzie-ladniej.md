@@ -9,6 +9,7 @@ finished_at:            2020-06-18 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_06_04__15_36__6045512.jpg
+image_position:         50% 65%
 tags:                   [bicycle, panniers, main]
 towns:                  [kujawsko_pomorskie, torun, lubicz, ciechocin, golub_dobrzyn, radomin, wapielsk, osiek, brodnica]
 

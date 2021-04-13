@@ -9,6 +9,7 @@ finished_at:            2019-01-08 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P8070037.jpg
+image_position:         50% 62%
 tags:                   [bicycle, main]
 towns:                  [podlaskie, sokolka, kuznica, sidra]
 

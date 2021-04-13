@@ -10,6 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P5311348raw1.jpg
+image_position:         50% 70%
 tags:                   [bicycle, panniers, main]
 towns:                  [wielkopolskie, zbaszyn, trzciel, miedzichowo]
 

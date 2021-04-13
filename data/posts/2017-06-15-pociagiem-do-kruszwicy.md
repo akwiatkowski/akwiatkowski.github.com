@@ -8,6 +8,7 @@ date:                   2017-06-15 17:00:00
 finished_at:            2017-10-15 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 66%
 tags:                   [train, main]
 towns:                  [kujawsko_pomorskie, kruszwica, inowroclaw]
 

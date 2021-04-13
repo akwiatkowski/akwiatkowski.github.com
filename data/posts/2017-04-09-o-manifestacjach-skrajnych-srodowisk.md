@@ -7,7 +7,7 @@ finished_at:            2017-04-17 12:00:00
 header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
-tags:                   [opinion]
+tags:                   [opinion, hidden]
 ---
 
 [wtk1]: http://wtkplay.pl/video-id-31898-pokojowa_manifestacja_zamienila_sie_w_zamieszki

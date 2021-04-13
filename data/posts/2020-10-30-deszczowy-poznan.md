@@ -9,6 +9,7 @@ finished_at:            2020-11-11 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_10_30__19_29_DSC04457.jpg
+image_position:         50% 30%
 tags:                   [photo, hike, city, test, main]
 towns:                  [wielkopolskie, poznan]
 

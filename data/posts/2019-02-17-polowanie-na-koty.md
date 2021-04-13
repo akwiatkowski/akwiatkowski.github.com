@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_02_17__13_11__2172722.jpg
 # 2019_02_17__13_17__2172938
 # 2019_02_17__13_11__2172722
+image_position:         50% 25%
 tags:                   [hike, cat, photo, main]
 towns:                  [wielkopolskie, lipno]
 

@@ -9,6 +9,7 @@ finished_at:            2019-11-05 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_08_24__11_51_P8240075.jpg
+image_position:         50% 35%
 tags:                   [bicycle, panniers, main]
 towns:                  [zachodnio_pomorskie, choszczno, suchan, dobrzany, insko]
 lands:                  [inski_park_krajobrazowy]

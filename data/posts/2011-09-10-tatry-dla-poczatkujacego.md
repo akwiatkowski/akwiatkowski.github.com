@@ -6,6 +6,7 @@ desc:                   "Pierwsza dłuższa trasa w wyższych górach - Tatrach.
 keywords:               [tatry zachodnie, chochołowska, trzydniowiański, kończysty, wierch, jesień]
 date:                   2011-09-10 21:00:00
 header_timeline:        true
+image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

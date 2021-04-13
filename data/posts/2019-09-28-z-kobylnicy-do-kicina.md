@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_09_28__17_51__9282006.jpg
 # 2019_09_28__17_51__9282006
 # 2019_09_28__17_47_DSC00315
+image_position:         50% 60%
 tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, swarzedz, czerwonak]
 

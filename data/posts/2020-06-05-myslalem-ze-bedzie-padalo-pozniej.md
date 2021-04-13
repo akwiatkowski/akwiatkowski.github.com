@@ -9,6 +9,7 @@ finished_at:            2020-06-22 13:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_06_05__10_07__6055635.jpg
+image_position:         50% 90%
 tags:                   [bicycle, panniers, main]
 towns:                  [kujawsko_pomorskie, warminsko_mazurskie, brodnica, brzozie, lidzbark]
 

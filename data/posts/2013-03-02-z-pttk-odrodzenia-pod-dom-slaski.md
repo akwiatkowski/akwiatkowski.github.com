@@ -7,6 +7,7 @@ keywords:               [odrodzenie, karkonosze, śnieżka, słoneczna, karpacz]
 date:                   2013-03-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 78%
 tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, podgorzyn, karpacz]
 lands:                  [karkonosze]

@@ -10,6 +10,7 @@ header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP5652raw1.jpg
+image_position:         50% 44%
 tags:                   [photo, city, main, hike, coast]
 towns:                  [pomorskie, gdansk]
 

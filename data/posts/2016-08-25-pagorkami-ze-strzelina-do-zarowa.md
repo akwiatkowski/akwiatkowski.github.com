@@ -5,8 +5,8 @@ subtitle:               "największe podjazdy z sakwami na zakończenie lata, ni
 date:                   2016-08-25 21:00:00
 finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/169702785/q%3D80_m%3D2000/faaf95e71b7b7991e55a2d68eb9f41ab"
 header_timeline:        true
+image_position:         50% 65%
 categories:             trip
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, strzelin, kondratowice, niemcza, lagiewniki, dzierzoniow, marcinowice, zarow]

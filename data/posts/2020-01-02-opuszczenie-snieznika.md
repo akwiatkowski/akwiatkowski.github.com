@@ -9,6 +9,7 @@ date:                   2020-01-02 11:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_01_02__09_19__1024853.jpg
+image_position:         50% 57%
 tags:                   [hike, mountains, main]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 

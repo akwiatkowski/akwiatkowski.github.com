@@ -1,15 +1,15 @@
 ---
 layout:                 post
 title:                  "Dzień zmiany planów"
-subtitle:               "czyli okolice Środy Wielkopolskiej zamiast na zachód od Gółańczy"
-desc:                   ""
-keywords:               []
+subtitle:               "czyli eksploracja okolic Środy Wielkopolskiej zamiast terenów na zachód od Gołańczy"
+desc:                   "Tego dnia miałem ambitny plan przejechać z Gołańczy do Inowrocławia. Jednak gdy poczułem na własnej skórze jak jest chłodno zrewidowałem plan i znacząco skróciłem trasę"
+keywords:               [kórnik, środa wielkopolska, pierzchno]
 date:                   2020-05-16 12:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2021-02-23 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_05_16__09_03__5161084.jpg
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, kornik, kleszczewo, sroda_wielkopolska]
 
 coords:                 [{"route": [], "type": "hike"}]
@@ -29,12 +29,30 @@ pois:
 
 ---
 
+[wiki-golancz]: https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
+[wiki-inowroclaw]: https://pl.wikipedia.org/wiki/Inowroc%C5%82aw
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-jarocin]: https://pl.wikipedia.org/wiki/Jarocin
+[wiki-kornik-stacja]: https://pl.wikipedia.org/wiki/K%C3%B3rnik_(stacja_kolejowa)
+[wiki-wrzesnia]: https://pl.wikipedia.org/wiki/Wrze%C5%9Bnia
+[wiki-runowo]: https://pl.wikipedia.org/wiki/Runowo_(powiat_pozna%C5%84ski)
+[wiki-wielkopolskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_wielkopolskie
+[wiki-pierzchno]: https://pl.wikipedia.org/wiki/Pierzchno_(powiat_pozna%C5%84ski)
+[wiki-kromolice]: https://pl.wikipedia.org/wiki/Kromolice_(powiat_pozna%C5%84ski)
+[wiki-sroda-wielkopolska]: https://pl.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska
+[wiki-bieganowo]: https://pl.wikipedia.org/wiki/Bieganowo_(powiat_%C5%9Bredzki)
+[wiki-romanowo]: https://pl.wikipedia.org/wiki/Romanowo_(powiat_%C5%9Bredzki)
+[wiki-markowice]: https://pl.wikipedia.org/wiki/Markowice_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-plawce]: https://pl.wikipedia.org/wiki/P%C5%82awce
+[wiki-staniszewo]: https://pl.wikipedia.org/wiki/Staniszewo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-podgaj]: https://pl.wikipedia.org/wiki/Podgaj_(przysi%C3%B3%C5%82ek_w_powiecie_%C5%9Bredzkim)
 
 ## Wstęp
 
-Tego dnia planowałem ruszyć pociagiem około 9:30 do [Gołańczy][wiki-golanczy]
-i zgodnie z wiatrem jechać na zachód w stronę [Inowrocławia][wiki-inowroclaw].
-Plany zmieniłem około 30 minut przed wyruszeniem z domu.
+Tego dnia planowałem ruszyć pociągiem do [Gołańczy][wiki-golancz] około godziny 9:30
+i zgodnie z wiatrem jechać na wschód w stronę [Inowrocławia][wiki-inowroclaw].
+Plany zmieniłem około 30 minut przed wyruszeniem z domu. I to była bardzo
+mądra decyzja.
 
 ## Opis trasy
 
@@ -43,34 +61,43 @@ Plany zmieniłem około 30 minut przed wyruszeniem z domu.
 ## Szczegóły
 
 Prognoza pogody nie była zbyt obiecująco. Było chłodno i wietrznie.
-Wiem, że w wakacje będę tęsknił za normalną temperaturą albo chłodniejszą
-gdyż łatwiej ubrać dodatkowe ubranie niż jeździć podczas upału i zastanawiać
-się kiedy będzie udar.
+Wiem, że w wakacje będę tęsknił za normalną (albo trochę chłodniejszą) temperaturą.
+Łatwiej ubrać dodatkowe warstwy ubrania niż jeździć podczas upału i zastanawiać
+się kiedy trafi nas udar.
 
-Patrzyłem na opcję pierwotną. Widziałem, że powrotnym pociągiem wrócę do
+{% photo "2020_05_16__08_48__5161067.jpg","Wyjazd z Pierzchna" %}
+
+Patrzyłem na pierwotny plan. Widziałem, że powrotnym pociągiem wrócę do
 [Poznania][wiki-poznan] dopiero około 19-tej. Było to dla mnie trochę
 zbyt późno.
 
 Zacząłem szukać alternatyw. Zauważyłem połączenie w stronę [Jarocina][wiki-jarocin]
-i po zobaczeniu "dziury" na mapie przejechanych tras postanowiłem wybrać
-stację początkową [Kórnik][wiki-kornik-stacja].
+i po zobaczeniu na mapie przejechanych tras "dziury" postanowiłem wybrać
+[Kórnik][wiki-kornik-stacja] jako stację początkową dzisiejszej trasy.
 
-Planowałem jechać zgodnie z wiatrem na wschód i dotrzeć do [Wrześni][wiki-wrzesnia]
-z której pociąg powrotny ruszał po 13-tej. Przejechać 38km przez 3h jadąc
-z wiatrem nie powinno być żadnym problemem dla mnie.
+{% photo "2020_05_16__08_48__5161069.jpg","Pole rzepaku","tag:timeline" %}
+
+Planowałem jechać zgodnie z kierunkiem wiatru na wschód i dotrzeć do [Wrześni][wiki-wrzesnia]
+z której to pociąg powrotny ruszał po godzinie 13-tej. Przejechać 38km przez 3h jadąc
+z wiatrem nie powinno być problemem dla mnie.
 
 Ruszyłem ścieżką rowerową na północ i po chwili skręciłem na wschód do
-[Runowa][wiki-runowo]. Musiałem się zatrzymać aby zobaczyć mapę na komórce gdyż,
+[Runowa][wiki-runowo]. Musiałem się zatrzymać aby zobaczyć dokładniej mapę na komórce gdyż,
 jak większość, był to przejazd eksploracyjny.
 
-Ścieżka rowerowa była bardzo ładnie położona, daleko od drogi. Niestety trzeba
-uważać na przejazdy rowerowe.
+{% photo "2020_05_16__09_03__5161086.jpg","Kolejne pole rzepaku","tag:timeline" %}
 
-Wioska wyglądała dość normalnie, jak standardowe w południowej częsci
+Ścieżka rowerowa była bardzo ładnie położona - daleko od drogi. Niestety trzeba
+uważać na przejazdy rowerowe na drugą stronę drogi.
+
+Wioska wyglądała dość normalnie, jak standardowe wioski rolnicze w południowej częsci
 województwa [wielkopolskiego][wiki-wielkopolskie].
 
-Chociaż we wsi [Pierzchno][wiki-pierchno] podobały mi się niektóre
-starsze domy.
+Chociaż we wsi [Pierzchno][wiki-pierzchno] podobały mi się niektóre
+starsze domy. Tylko dlaczego nie zrobiłem im zdjęć? Prawdopodobnie nie chciałem się
+zatrzymywać i nagrałem je kamerką.
+
+{% photo "2020_05_16__09_17__5161097.jpg","Pomiędzy Markowicami a Zmysłowem" %}
 
 Dotarłem do [Kromolic][wiki-kromolice] z których mogłem skręcić w prawo i jechać
 zielonym szlakiem rowerowym do [Środy Wielkopolskiej][wiki-sroda-wielkopolska]
@@ -78,29 +105,33 @@ jednak to (w tym momencie) nie było moim celem. Ruszyłem prosto
 w stronę [Bieganowa][wiki-bieganowo]. W tym kierunku również musiałem
 jechać po drodze gruntowej.
 
-Te 3km jazdą po drodze gruntowej zanim dotarłem do [Bieganowa][wiki-bieganowo]
-było ciekawym urozmaiceniem.
+Te 3km jazdy po drodze gruntowej, zanim dotarłem do [Bieganowa][wiki-bieganowo],
+było ciekawym urozmaiceniem dzisiejszej trasy.
 
 Zgodnie z planem powinienem przejechać dalej na wschód drogą gruntową do
 wsi [Pogdaj][wiki-pogdaj] jednak zapomniałem o tym i sobie
 radośnie jechałem po drodze asfaltowej.
 
-Nie chcąc się wracać ruszyłem do [Markowic][wiki-markowice] i tam
-chciałem dotrzeć do wsi [Pławce][wiki-plawce] i jakoś kontynuować jazdę.
+{% photo "2020_05_16__09_20__5161100.jpg","Okolice Markowic","tag:timeline" %}
+
+Nie chcąc się wracać ruszyłem do [Markowic][wiki-markowice].
+Chciałem dotrzeć do wsi [Pławce][wiki-plawce] i jakoś kontynuować dalszą jazdę.
 
 Ponownie musiałem jechać drogą gruntową.
 
 Wieś [Staniszewo][wiki-staniszewo] była bardzo mała. Gdybym napisał
-"trzy domy na krzyż" to bardzo bym się nie pomylił. Przechodziłą tutaj kiedyś
+"trzy domy na krzyż" to bardzo bym się nie pomylił. Przechodziła tutaj kiedyś
 linia wąskotorowa której śladów nie zauważyłem.
 
-Dotarłem do skrzyżowania przy którym zobaczyłem, że do
-[Środy Wielkopolskiej][wiki-sroda-wielkopolska] jest tylko 8km. Szybko zobaczyłem
+Dotarłem do skrzyżowania, przy którym zobaczyłem że do
+[Środy Wielkopolskiej][wiki-sroda-wielkopolska] jest tylko 8km odległości. Szybko zobaczyłem
 o której odjeżdża kolejny pociąg i postanowiłem jechać właśnie tam.
-Akurat to połączenie jest dla mnie łatwiejsze w powrocie.
+Akurat powrót pociągiem z tego [miasta][wiki-sroda-wielkopolska]
+jest dla mnie łatwiejszy.
 
 Jechałem bardzo szybko. Droga ta była średnio ciekawa. Bardzo silny
 wiatr boczny utrudniał stabilną jazdę.
 
-Dotarłem do celu dzisiejszego dnia - do [Środy Wielkopolskiej][wiki-sroda-wielkopolska].
-Jechałem czymś co wyglądało jak wewnętrzna droga przelotowa.
+Dotarłem do nowego celu tego dnia - do [Środy Wielkopolskiej][wiki-sroda-wielkopolska].
+Celu który nie był zaplanowany. Jak sama nazwa wskazuje ten dzień był
+trochę szalony.

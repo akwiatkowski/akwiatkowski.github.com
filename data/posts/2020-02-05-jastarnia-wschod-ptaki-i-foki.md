@@ -9,6 +9,7 @@ finished_at:            2020-02-13 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_02_05__07_33_DSC06692.jpg
+image_position:         50% 85%
 tags:                   [photo, main, best]
 towns:                  [pomorskie, jastarnia, hel]
 

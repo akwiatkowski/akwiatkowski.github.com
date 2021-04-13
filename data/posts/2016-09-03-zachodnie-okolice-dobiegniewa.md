@@ -6,6 +6,7 @@ date:                   2016-09-03 18:00:00
 finished_at:            2016-09-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, hike, best]
 towns:                  [lubuskie, dobiegniew]
 

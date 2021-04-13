@@ -9,6 +9,7 @@ finished_at:            2020-02-11 14:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_07_07__12_43_P7070071.jpg
+image_position:         50% 85%
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, koscian, czempin, krzywin, srem, zaniemysl, sroda_wielkopolska]
 

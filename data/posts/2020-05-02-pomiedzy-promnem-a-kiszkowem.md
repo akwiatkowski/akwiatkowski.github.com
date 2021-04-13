@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_05_02__17_26_DSC07968.jpg
 #2020_05_02__13_21_DSC07800
 #2020_05_02__13_37__5028224
+image_position:         50% 65%
 tags:                   [car, main]
 towns:                  [wielkopolskie, pobiedziska, kiszkowo]
 

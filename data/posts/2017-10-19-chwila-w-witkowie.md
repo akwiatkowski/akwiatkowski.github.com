@@ -8,6 +8,7 @@ date:                   2017-10-19 17:00:00
 finished_at:            2017-11-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 0%
 tags:                   [photo]
 towns:                  [dolnoslaskie]
 

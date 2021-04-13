@@ -9,6 +9,7 @@ finished_at:            2019-01-07 23:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         P8050045.jpg
+image_position:         50% 64%
 tags:                   [bicycle, main, best]
 towns:                  [podlaskie, grodek, michalowo]
 

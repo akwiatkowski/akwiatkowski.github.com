@@ -9,6 +9,7 @@ finished_at:            2019-07-24 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2019_02_24__17_50__2243382.jpg
+image_position:         50% 63%
 tags:                   [hike, photo, city, main]
 towns:                  [pomorskie, gdansk]
 

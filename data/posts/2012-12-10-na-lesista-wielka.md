@@ -7,6 +7,7 @@ keywords:               [góry kamienne, boguszów gorce, grzędy, zima, śnieg,
 date:                   2012-12-10 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 70%
 tags:                   [main, hike, mountains]
 towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]

@@ -9,6 +9,7 @@ date:                   2020-08-19 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_08_19__18_10_DSC02244.jpg
+image_position:         50% 70%
 tags:                   [hike, todo]
 towns:                  [podkarpackie, komancza]
 
