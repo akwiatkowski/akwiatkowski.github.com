@@ -154,3 +154,9 @@
   text-shadow: 1px 1px #555;
   color: #fff;
 }
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
