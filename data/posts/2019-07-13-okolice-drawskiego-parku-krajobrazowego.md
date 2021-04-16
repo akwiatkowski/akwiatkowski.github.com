@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_07_13__14_47_P7130371.jpg
 tags:                   [bicycle, panniers, main, best]
 towns:                  [zachodnio_pomorskie, grzmiaca, barwice, czaplinek, ostrowice, polczyn_zdroj, drawsko_pomorskie, lobez]
+lands:                  [drawski_park_krajobrazowy, pojezierze_drawskie]
 
 coords:                 [{"route": [[53.87384,16.32657], [53.82989,16.30237], [53.81773,16.28108], [53.79969,16.33533], [53.77931,16.33018], [53.74348,16.35627], [53.72114,16.30117], [53.68334,16.28932], [53.67673,16.24795], [53.64978,16.18650], [53.65598,16.15268], [53.64917,16.08453], [53.66585,16.02445], [53.64693,16.01535], [53.64072,16.00505], [53.62505,15.91819], [53.63349,15.90514], [53.61303,15.82858], [53.62189,15.74910], [53.58950,15.73091], [53.63919,15.62911], [53.63818,15.62053]], "type": "bicycle"}]
 coords_file:            "2019-07-13-okolice-drawskiego-parku-krajobrazowego.json"

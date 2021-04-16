@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2019_12_30__16_50_DSC05557.jpg
 tags:                   [hike, photo, photo_of_the_year, main, best]
 towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
+lands:                  [masyw_snieznika]
 
 coords:                 [{"route": [[50.20822,16.83167], [50.20404,16.83845], [50.20728,16.84755], [50.20393,16.85064]], "type": "hike"}]
 distance:               23 # 3 + 5 + 5 + 5 + 5
