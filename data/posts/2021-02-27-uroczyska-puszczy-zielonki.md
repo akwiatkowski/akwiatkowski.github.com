@@ -1,0 +1,39 @@
+---
+layout:                 post
+title:                  "Uroczyska Puszczy Zielonki"
+subtitle:               ""
+desc:                   ""
+keywords:               []
+date:                   2021-02-27 15:00:00
+#finished_at:            2100-02-09 12:00:00
+author:                 "Aleksander Kwiatkowski"
+categories:             trip
+image_filename:         2021_02_27__13_00_DSC07228.jpg
+tags:                   [hike, todo]
+towns:                  []
+
+coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2021-02-27-uroczyska-puszczy-zielonki.json"
+coords_type:            "hike"
+distance:               13
+time_spent:             5
+elevation:              107
+temperature:            5
+
+
+pois:
+#  - lat: 54.45911
+#    lon: 18.56281
+#    name: POI
+#    type: todo / visited
+
+---
+
+
+## Wstęp
+
+## Opis trasy
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4875984802/embed/752f8b3b31b7d43d413564a5cc0406c0fd9a9f40'></iframe>
+
+## Szczegóły
