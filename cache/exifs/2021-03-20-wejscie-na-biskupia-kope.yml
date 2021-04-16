@@ -1,0 +1,836 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+- image_filename: 2021_03_20__12_51__3201705.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26441666666667
+  lon: 17.432069444444444
+  altitude: 725.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 136.53
+  iso: 200
+  width: 5159
+  height: 3851
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:51:28.000000000+01:00
+- image_filename: 2021_03_20__09_48__3201611.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.307138888888886
+  lon: 17.519055555555553
+  altitude: 216.0
+  focal_length: 180.0
+  focal_length_35: 360.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 40.96
+  iso: 200
+  width: 5141
+  height: 3838
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 09:48:31.000000000+01:00
+- image_filename: 2021_03_20__09_55_DSC07444.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.307138888888886
+  lon: 17.519055555555553
+  altitude: 216.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5715
+  height: 3802
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 09:55:24.000000000+01:00
+- image_filename: 2021_03_20__09_49__3201619.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.307138888888886
+  lon: 17.519055555555553
+  altitude: 216.0
+  focal_length: 170.0
+  focal_length_35: 340.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 39.76
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 09:49:43.000000000+01:00
+- image_filename: 2021_03_20__10_55_DSC07482.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.30323611111111
+  lon: 17.496125
+  altitude: 304.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5766
+  height: 3836
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 10:55:26.000000000+01:00
+- image_filename: 2021_03_20__10_54_DSC07474.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.306041666666665
+  lon: 17.50475
+  altitude: 299.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5650
+  height: 3714
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 10:54:42.000000000+01:00
+- image_filename: 2021_03_20__11_49__3201635.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.274791666666665
+  lon: 17.431375000000003
+  altitude: 468.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 186.18
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 11:49:51.000000000+01:00
+- image_filename: 2021_03_20__11_27_DSC07501.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.277875
+  lon: 17.437472222222222
+  altitude: 428.0
+  focal_length: 43.0
+  focal_length_35: 43.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5838
+  height: 3884
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 11:27:36.000000000+01:00
+- image_filename: 2021_03_20__12_01__3201648.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.27177777777778
+  lon: 17.43063888888889
+  altitude: 522.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 24.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 12:01:04.000000000+01:00
+- image_filename: 2021_03_20__12_08__3201657.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.2705
+  lon: 17.429680555555557
+  altitude: 556.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 100.51
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 12:08:44.000000000+01:00
+- image_filename: 2021_03_20__12_25__3201675.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.267944444444446
+  lon: 17.42888888888889
+  altitude: 629.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 14.74
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 12:25:54.000000000+01:00
+- image_filename: 2021_03_20__12_25__3201672.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26793055555555
+  lon: 17.42888888888889
+  altitude: 628.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.45
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 12:25:17.000000000+01:00
+- image_filename: 2021_03_20__12_35__3201685.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.266486111111114
+  lon: 17.429819444444444
+  altitude: 665.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 136.53
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:35:08.000000000+01:00
+- image_filename: 2021_03_20__12_35__3201684.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26651388888889
+  lon: 17.42976388888889
+  altitude: 664.0
+  focal_length: 134.0
+  focal_length_35: 268.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 19.5
+  iso: 200
+  width: 4574
+  height: 3544
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:35:02.000000000+01:00
+- image_filename: 2021_03_20__12_32_DSC07529.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26719444444444
+  lon: 17.429041666666667
+  altitude: 649.0
+  focal_length: 39.0
+  focal_length_35: 39.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 12:32:21.000000000+01:00
+- image_filename: 2021_03_20__12_36__3201691.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26634722222222
+  lon: 17.430222222222223
+  altitude: 669.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 151.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:36:00.000000000+01:00
+- image_filename: 2021_03_20__12_36_DSC07542.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26631944444444
+  lon: 17.430305555555556
+  altitude: 670.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5763
+  height: 3835
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 12:36:29.000000000+01:00
+- image_filename: 2021_03_20__12_50__3201701.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26448611111111
+  lon: 17.43201388888889
+  altitude: 723.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 136.53
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:50:43.000000000+01:00
+- image_filename: 2021_03_20__12_48_DSC07558.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.2645
+  lon: 17.43201388888889
+  altitude: 723.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5927
+  height: 3943
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 12:48:49.000000000+01:00
+- image_filename: 2021_03_20__12_51__3201706.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26441666666667
+  lon: 17.432069444444444
+  altitude: 725.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 151.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:51:34.000000000+01:00
+- image_filename: 2021_03_20__12_52__3201713.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.264375
+  lon: 17.43202777777778
+  altitude: 726.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 151.7
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:52:41.000000000+01:00
+- image_filename: 2021_03_20__12_53__3201715.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26423611111111
+  lon: 17.432000000000002
+  altitude: 730.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 2.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:53:10.000000000+01:00
+- image_filename: 2021_03_20__13_13__3201786.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26311111111111
+  lon: 17.431180555555557
+  altitude: 773.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 151.7
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 13:13:11.000000000+01:00
+- image_filename: 2021_03_20__12_53__3201720.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26423611111111
+  lon: 17.43198611111111
+  altitude: 731.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 136.53
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 12:53:45.000000000+01:00
+- image_filename: 2021_03_20__13_14__3201793.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26306944444445
+  lon: 17.431222222222225
+  altitude: 773.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 195.04
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 13:14:19.000000000+01:00
+- image_filename: 2021_03_20__13_16_DSC07573.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.263
+  lon: 17.431180555555557
+  altitude: 773.0
+  focal_length: 56.0
+  focal_length_35: 56.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5761
+  height: 3833
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 13:16:18.000000000+01:00
+- image_filename: 2021_03_20__13_34_DSC07591.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.25822222222222
+  lon: 17.427972222222223
+  altitude: 866.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 3144
+  height: 4987
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 13:34:16.000000000+01:00
+- image_filename: 2021_03_20__13_23_DSC07581.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26059722222222
+  lon: 17.429069444444444
+  altitude: 803.0
+  focal_length: 34.0
+  focal_length_35: 34.0
+  crop: 1.0
+  aperture: 9.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 13:23:55.000000000+01:00
+- image_filename: 2021_03_20__13_39_DSC07609.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.25669444444444
+  lon: 17.428611111111113
+  altitude: 895.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 13:39:47.000000000+01:00
+- image_filename: 2021_03_20__14_05__3201804.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.258694444444444
+  lon: 17.427736111111113
+  altitude: 852.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.53
+  iso: 200
+  width: 5191
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:05:46.000000000+01:00
+- image_filename: 2021_03_20__14_13__3201819.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26013888888889
+  lon: 17.42863888888889
+  altitude: 810.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 132.12
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:13:39.000000000+01:00
+- image_filename: 2021_03_20__14_09_DSC07621.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.25991666666667
+  lon: 17.428319444444444
+  altitude: 818.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 14:09:09.000000000+01:00
+- image_filename: 2021_03_20__14_09_DSC07627.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.259930555555556
+  lon: 17.428319444444444
+  altitude: 817.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 10.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-03-20 14:09:31.000000000+01:00
+- image_filename: 2021_03_20__14_13__3201820.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26013888888889
+  lon: 17.42863888888889
+  altitude: 810.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:13:41.000000000+01:00
+- image_filename: 2021_03_20__14_15__3201831.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26031944444444
+  lon: 17.428875
+  altitude: 803.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 227.55
+  iso: 200
+  width: 5099
+  height: 3806
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 14:15:49.000000000+01:00
+- image_filename: 2021_03_20__14_18__3201836.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.260736111111115
+  lon: 17.429291666666668
+  altitude: 792.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 10.5
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 14:18:31.000000000+01:00
+- image_filename: 2021_03_20__14_16__3201835.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.260527777777774
+  lon: 17.429083333333335
+  altitude: 797.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 327.67
+  iso: 200
+  width: 5026
+  height: 3710
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 14:16:53.000000000+01:00
+- image_filename: 2021_03_20__14_25__3201865.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26061111111111
+  lon: 17.43101388888889
+  altitude: 765.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 10.56
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:25:03.000000000+01:00
+- image_filename: 2021_03_20__14_32__3201875.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26069444444445
+  lon: 17.431069444444447
+  altitude: 764.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 7.34
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:32:53.000000000+01:00
+- image_filename: 2021_03_20__14_41__3201895.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.260777777777776
+  lon: 17.431097222222224
+  altitude: 770.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 3.35
+  iso: 200
+  width: 4995
+  height: 3729
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:41:16.000000000+01:00
+- image_filename: 2021_03_20__15_00__3201904.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26115277777778
+  lon: 17.43451388888889
+  altitude: 708.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 28.1
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 15:00:46.000000000+01:00
+- image_filename: 2021_03_20__14_57__3201902.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.260930555555554
+  lon: 17.43225
+  altitude: 743.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.08
+  iso: 200
+  width: 3337
+  height: 4897
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 14:57:43.000000000+01:00
+- image_filename: 2021_03_20__15_16__3201940.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26248611111111
+  lon: 17.44188888888889
+  altitude: 612.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.43
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 15:16:01.000000000+01:00
+- image_filename: 2021_03_20__15_27__3201978.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.26448611111111
+  lon: 17.442930555555556
+  altitude: 592.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.0
+  iso: 200
+  width: 3984
+  height: 2716
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 15:27:11.000000000+01:00
+- image_filename: 2021_03_20__16_02__3202025.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.27913888888889
+  lon: 17.44384722222222
+  altitude: 467.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 7.22
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-03-20 16:02:54.000000000+01:00
+- image_filename: 2021_03_20__16_30__3202088.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.279125
+  lon: 17.437555555555555
+  altitude: 430.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 14.02
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 16:30:34.000000000+01:00
+- image_filename: 2021_03_20__18_07__3202089.jpg
+  post_slug: 2021-03-20-wejscie-na-biskupia-kope
+  lat: 50.307472222222216
+  lon: 17.518791666666665
+  altitude: 294.0
+  focal_length: 190.0
+  focal_length_35: 380.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 39.76
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-03-20 18:07:33.000000000+01:00
