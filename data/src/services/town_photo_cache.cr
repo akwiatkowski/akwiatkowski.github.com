@@ -157,16 +157,6 @@ class TownPhotoCache
         a.value <=> b.value
       end
 
-      if DEBUG_FLAG
-        if DEBUG_TOWNS.includes?(town.slug)
-          puts town.slug
-          results.each do |r|
-            puts r.to_s
-          end
-          puts ""
-        end
-      end
-
       if results.size > 0
         return {
           photo_entity:     results.first.photo_entity,

@@ -3,6 +3,8 @@ class BaseView < Tremolite::Views::BaseView
 
   @voivodeship_nav : String?
   @tag_nav : String?
+  @lands_nav : String?
+  @nav_stats : String?
 
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
@@ -114,7 +116,8 @@ class BaseView < Tremolite::Views::BaseView
 
   private def model_array_to_nav(
     model_array : Array,
-    ignore_less_than = 1
+    ignore_less_than = 1,
+    perform_sort = true
   )
     nav_array = Array(NamedTuple(
       name: String,
@@ -133,8 +136,10 @@ class BaseView < Tremolite::Views::BaseView
       end
     end
 
-    nav_array = nav_array.sort do |a, b|
-      b[:count] <=> a[:count]
+    if perform_sort
+      nav_array = nav_array.sort do |a, b|
+        b[:count] <=> a[:count]
+      end
     end
 
     return String.build do |s|
@@ -148,14 +153,29 @@ class BaseView < Tremolite::Views::BaseView
     end
   end
 
+  # cached stats
+  def nav_stats
+    if @nav_stats.nil?
+      self_propelled_posts = @blog.post_collection.posts.select {|post| post.self_propelled? }
+      distance_sum = self_propelled_posts.map{|post| post.distance }.compact.sum.to_i
+      time_length_sum = self_propelled_posts.map{|post| post.time_spent }.compact.sum.to_i
+
+      @nav_stats = "#{distance_sum}km i #{time_length_sum}h"
+    end
+
+    return @nav_stats.not_nil!
+  end
+
   # cached list of voivodeship links for nav
   def voivodeship_nav
     if @voivodeship_nav.nil?
       if @voivodeship_nav.nil?
-        voivodeships = @blog.data_manager.voivodeships.not_nil!
+        voivodeships = @blog.data_manager.voivodeships.not_nil!.select{ |v| v.is_poland? }
+
         @voivodeship_nav = model_array_to_nav(
           model_array: voivodeships,
-          ignore_less_than: 2
+          ignore_less_than: 2,
+          perform_sort: false
         ).as(String)
       end
     end
@@ -167,9 +187,11 @@ class BaseView < Tremolite::Views::BaseView
   def lands_nav
     if @lands_nav.nil?
       lands = @blog.data_manager.lands.not_nil!
+
       @lands_nav = model_array_to_nav(
         model_array: lands,
-        ignore_less_than: 4
+        ignore_less_than: 4,
+        perform_sort: true
       ).as(String)
     end
 
@@ -179,10 +201,12 @@ class BaseView < Tremolite::Views::BaseView
   # cached list of tags links for nav
   def tag_nav
     if @tags_nav.nil?
-      tags = @blog.data_manager.tags.not_nil!
+      tags = @blog.data_manager.tags.not_nil!.select {|tag| tag.is_nav? }
+
       @tags_nav = model_array_to_nav(
         model_array: tags,
-        ignore_less_than: 2
+        ignore_less_than: 2,
+        perform_sort: false
       ).as(String)
     end
 
@@ -244,6 +268,7 @@ class BaseView < Tremolite::Views::BaseView
     h["nav-voivodeships"] = voivodeship_nav
     h["nav-tags"] = tag_nav
     h["nav-lands"] = lands_nav
+    h["nav-stats"] = nav_stats
 
     return load_html("include/nav", h)
   end

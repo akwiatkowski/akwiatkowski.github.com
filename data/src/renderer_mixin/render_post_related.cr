@@ -1,6 +1,7 @@
 require "../views/post_list_view/paginated_list_view"
 require "../views/dynamic_view/mountain_range_planner_view"
 require "../views/post_view/article_view"
+require "../views/dynamic_view/debug_post_view"
 
 module RendererMixin::RenderPostRelated
   def render_fast_only_post_related
@@ -10,6 +11,8 @@ module RendererMixin::RenderPostRelated
     render_all_views_post_related
 
     render_posts_paginated_lists
+
+    render_debug_posts
 
     render_pois
 
@@ -97,6 +100,14 @@ module RendererMixin::RenderPostRelated
       DynamicView::MountainRangePlannerView.new(
         blog: blog,
         url: "/mountain_range_planner"
+      )
+    )
+  end
+
+  def render_debug_posts
+    write_output(
+      DynamicView::DebugPostView.new(
+        blog: blog
       )
     )
   end

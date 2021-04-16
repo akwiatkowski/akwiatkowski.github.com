@@ -10,4 +10,13 @@ class Tremolite::Post
   def content_html_word_count
     self.content_html.scan(/\w+/).size
   end
+
+  def content_html_missing_reference_links
+    self.content_html.scan(/\[\w+]/).size / 2
+  end
+
+  # vimeo players are being deprecated
+  def content_html_contains_vimeo
+    self.content_html.scan(/player\.vimeo/).size
+  end
 end
