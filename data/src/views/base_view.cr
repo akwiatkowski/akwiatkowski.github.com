@@ -4,7 +4,18 @@ class BaseView < Tremolite::Views::BaseView
   @voivodeship_nav : String?
   @tag_nav : String?
   @lands_nav : String?
-  @nav_stats : String?
+  @nav_stats_hash : NamedTuple(
+    bicycle_distance: Int32,
+    bicycle_time_length: Int32,
+    bicycle_count: Int32,
+    hike_distance: Int32,
+    hike_time_length: Int32,
+    hike_count: Int32,
+    train_distance: Int32,
+    train_time_length: Int32,
+    train_count: Int32,
+    self_distance: Int32,
+    self_time_length: Int32)?
 
   def initialize(@blog : Tremolite::Blog, @url : String)
   end
@@ -154,16 +165,50 @@ class BaseView < Tremolite::Views::BaseView
   end
 
   # cached stats
+  def nav_stats!
+    posts = @blog.post_collection.posts
+    self_propelled_posts = posts.select {|post| post.self_propelled? }
+
+    bicycle_posts = self_propelled_posts.select {|post| post.bicycle? }
+    hike_posts = self_propelled_posts.select {|post| post.hike? }
+    train_posts = posts.select {|post| post.train? }
+
+    bicycle_distance = bicycle_posts.map{|post| post.distance }.compact.sum.to_i
+    bicycle_time_length = bicycle_posts.map{|post| post.time_spent }.compact.sum.to_i
+    bicycle_count = bicycle_posts.size
+
+    hike_distance = hike_posts.map{|post| post.distance }.compact.sum.to_i
+    hike_time_length = hike_posts.map{|post| post.time_spent }.compact.sum.to_i
+    hike_count = hike_posts.size
+
+    train_distance = train_posts.map{|post| post.distance }.compact.sum.to_i
+    train_time_length = train_posts.map{|post| post.time_spent }.compact.sum.to_i
+    train_count = train_posts.size
+
+    self_distance_sum = bicycle_distance + hike_distance
+    self_time_length_sum = bicycle_time_length + hike_time_length
+
+    @nav_stats_hash = {
+      bicycle_distance: bicycle_distance,
+      bicycle_time_length: bicycle_time_length,
+      bicycle_count: bicycle_count,
+
+      hike_distance: hike_distance,
+      hike_time_length: hike_time_length,
+      hike_count: hike_count,
+
+      train_distance: train_distance,
+      train_time_length: train_time_length,
+      train_count: train_count,
+
+      self_distance: self_distance_sum,
+      self_time_length: self_time_length_sum,
+    }
+  end
+
   def nav_stats
-    if @nav_stats.nil?
-      self_propelled_posts = @blog.post_collection.posts.select {|post| post.self_propelled? }
-      distance_sum = self_propelled_posts.map{|post| post.distance }.compact.sum.to_i
-      time_length_sum = self_propelled_posts.map{|post| post.time_spent }.compact.sum.to_i
-
-      @nav_stats = "#{distance_sum}km i #{time_length_sum}h"
-    end
-
-    return @nav_stats.not_nil!
+    nav_stats! if @nav_stats_hash.nil?
+    return @nav_stats_hash.not_nil!
   end
 
   # cached list of voivodeship links for nav
@@ -268,7 +313,32 @@ class BaseView < Tremolite::Views::BaseView
     h["nav-voivodeships"] = voivodeship_nav
     h["nav-tags"] = tag_nav
     h["nav-lands"] = lands_nav
-    h["nav-stats"] = nav_stats
+    h["nav-stats-short"] = String.build do |s|
+      s << nav_stats[:self_distance].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1 ")
+      s << " km"
+    end
+    h["nav-stats-bicycle"] = String.build do |s|
+      s << "rowerem "
+      s << nav_stats[:bicycle_distance].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1 ")
+      s << " km, "
+      s << nav_stats[:bicycle_time_length].to_s
+      s << " godzin"
+    end
+    h["nav-stats-hike"] = String.build do |s|
+      s << "pieszo "
+      s << nav_stats[:hike_distance].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1 ")
+      s << " km, "
+      s << nav_stats[:hike_time_length].to_s
+      s << " godzin"
+    end
+    h["nav-stats-train"] = String.build do |s|
+      s << "pociągiem "
+      s << nav_stats[:train_distance].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1 ")
+      s << " km, "
+      s << nav_stats[:train_time_length].to_s
+      s << " godzin"
+    end
+    h["current_year"] = Time.local.year.to_s
 
     return load_html("include/nav", h)
   end
