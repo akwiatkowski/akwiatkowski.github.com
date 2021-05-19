@@ -1,0 +1,761 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+- image_filename: 2021_04_24__12_42_DSC09055.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.54233333333333
+  lon: 16.986486111111113
+  altitude: 100.0
+  focal_length: 72.0
+  focal_length_35: 72.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 5129
+  height: 3127
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 12:42:20.000000000+02:00
+- image_filename: 2021_04_24__13_13_DSC09096.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.620194444444444
+  lon: 17.203902777777778
+  altitude: 88.0
+  focal_length: 50.0
+  focal_length_35: 50.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4278
+  height: 3508
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:13:53.000000000+02:00
+- image_filename: 2021_04_24__12_45_DSC09068.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.563624999999995
+  lon: 16.983597222222222
+  altitude: 111.0
+  focal_length: 72.0
+  focal_length_35: 72.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5719
+  height: 3937
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 12:45:16.000000000+02:00
+- image_filename: 2021_04_24__13_08_DSC09093.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5666
+  height: 3682
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:08:18.000000000+02:00
+- image_filename: 2021_04_24__13_14_DSC09099.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.62048611111111
+  lon: 17.20423611111111
+  altitude: 103.0
+  focal_length: 44.0
+  focal_length_35: 44.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5736
+  height: 3715
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:14:51.000000000+02:00
+- image_filename: 2021_04_24__13_30__4242871.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.615875
+  lon: 17.212777777777777
+  altitude: 102.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 68.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:30:54.000000000+02:00
+- image_filename: 2021_04_24__13_21_DSC09108.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61844444444444
+  lon: 17.207958333333334
+  altitude: 101.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:21:46.000000000+02:00
+- image_filename: 2021_04_24__13_24_DSC09111.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61772222222222
+  lon: 17.209097222222223
+  altitude: 103.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5877
+  height: 3910
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:24:32.000000000+02:00
+- image_filename: 2021_04_24__13_42__4242894.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61501388888889
+  lon: 17.2145
+  altitude: 103.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 8.73
+  iso: 200
+  width: 3310
+  height: 2409
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:42:31.000000000+02:00
+- image_filename: 2021_04_24__13_36__4242879.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.615541666666665
+  lon: 17.21334722222222
+  altitude: 102.0
+  focal_length: 150.0
+  focal_length_35: 300.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 24.52
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:36:08.000000000+02:00
+- image_filename: 2021_04_24__13_45_DSC09114.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61454166666667
+  lon: 17.21547222222222
+  altitude: 103.0
+  focal_length: 38.0
+  focal_length_35: 38.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5694
+  height: 3788
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 13:45:47.000000000+02:00
+- image_filename: 2021_04_24__13_47__4242917.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61425
+  lon: 17.21597222222222
+  altitude: 103.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 13.21
+  iso: 200
+  width: 3754
+  height: 2687
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:47:43.000000000+02:00
+- image_filename: 2021_04_24__13_56__4242950.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61233333333333
+  lon: 17.219402777777777
+  altitude: 99.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 124.12
+  iso: 200
+  width: 5189
+  height: 3874
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:56:09.000000000+02:00
+- image_filename: 2021_04_24__13_59__4242958.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.612125
+  lon: 17.220027777777776
+  altitude: 99.0
+  focal_length: 170.0
+  focal_length_35: 340.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 13:59:05.000000000+02:00
+- image_filename: 2021_04_24__14_03__4242984.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.612069444444444
+  lon: 17.22036111111111
+  altitude: 100.0
+  focal_length: 230.0
+  focal_length_35: 460.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.82
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 14:03:40.000000000+02:00
+- image_filename: 2021_04_24__14_06__4243008.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.611444444444444
+  lon: 17.221958333333333
+  altitude: 99.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 0.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-04-24 14:06:26.000000000+02:00
+- image_filename: 2021_04_24__14_02__4242979.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.612069444444444
+  lon: 17.220180555555554
+  altitude: 99.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.72
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 14:02:22.000000000+02:00
+- image_filename: 2021_04_24__14_08__4243021.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61011111111111
+  lon: 17.222541666666665
+  altitude: 96.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.29
+  iso: 200
+  width: 4630
+  height: 3208
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-04-24 14:08:41.000000000+02:00
+- image_filename: 2021_04_24__14_17__4243052.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.608875000000005
+  lon: 17.222902777777776
+  altitude: 94.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.26
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-04-24 14:17:02.000000000+02:00
+- image_filename: 2021_04_24__14_12_DSC09127.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.60965277777778
+  lon: 17.222749999999998
+  altitude: 94.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 14:12:16.000000000+02:00
+- image_filename: 2021_04_24__14_19__4243069.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.607819444444445
+  lon: 17.223958333333332
+  altitude: 91.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 0.23
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-04-24 14:19:02.000000000+02:00
+- image_filename: 2021_04_24__14_22_DSC09151.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.60723611111111
+  lon: 17.22456944444444
+  altitude: 89.0
+  focal_length: 72.0
+  focal_length_35: 72.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5876
+  height: 3909
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 14:22:18.000000000+02:00
+- image_filename: 2021_04_24__14_26_DSC09160.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.60647222222222
+  lon: 17.22334722222222
+  altitude: 89.0
+  focal_length: 54.0
+  focal_length_35: 54.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 14:26:52.000000000+02:00
+- image_filename: 2021_04_24__14_36_DSC09167.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.603236111111116
+  lon: 17.219875
+  altitude: 88.0
+  focal_length: 31.0
+  focal_length_35: 31.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 14:36:56.000000000+02:00
+- image_filename: 2021_04_24__14_41_DSC09168.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.601486111111114
+  lon: 17.218138888888888
+  altitude: 88.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6018
+  height: 4004
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-04-24 14:41:02.000000000+02:00
+- image_filename: 2021_04_24__14_56__4243084.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.598083333333335
+  lon: 17.21459722222222
+  altitude: 97.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 97.52
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 14:56:32.000000000+02:00
+- image_filename: 2021_04_24__15_14__4243212.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59744444444445
+  lon: 17.209666666666667
+  altitude: 106.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 0.88
+  iso: 500
+  width: 4719
+  height: 3487
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 15:14:52.000000000+02:00
+- image_filename: 2021_04_24__15_15__4243225.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.597277777777784
+  lon: 17.209013888888887
+  altitude: 109.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 0.81
+  iso: 500
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 15:15:44.000000000+02:00
+- image_filename: 2021_04_24__15_15__4243232.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59726388888889
+  lon: 17.208861111111112
+  altitude: 106.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 0.73
+  iso: 500
+  width: 4494
+  height: 3297
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 15:15:56.000000000+02:00
+- image_filename: 2021_04_24__15_20__4243272.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59695833333333
+  lon: 17.206458333333334
+  altitude: 107.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.7
+  iso: 200
+  width: 5147
+  height: 3843
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:20:03.000000000+02:00
+- image_filename: 2021_04_24__15_18__4243268.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59704166666667
+  lon: 17.207166666666666
+  altitude: 108.0
+  focal_length: 120.0
+  focal_length_35: 240.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 14.17
+  iso: 500
+  width: 5050
+  height: 3770
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 15:18:36.000000000+02:00
+- image_filename: 2021_04_24__15_16__4243255.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.597236111111116
+  lon: 17.208277777777777
+  altitude: 108.0
+  focal_length: 300.0
+  focal_length_35: 600.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 1.24
+  iso: 500
+  width: 3117
+  height: 2213
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  time: 2021-04-24 15:16:58.000000000+02:00
+- image_filename: 2021_04_24__15_26__4243295.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59677777777778
+  lon: 17.204430555555554
+  altitude: 108.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.95
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:26:46.000000000+02:00
+- image_filename: 2021_04_24__15_30__4243315.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59681944444445
+  lon: 17.204124999999998
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 11.8
+  iso: 200
+  width: 3112
+  height: 2083
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:30:08.000000000+02:00
+- image_filename: 2021_04_24__15_36__4243327.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59876388888889
+  lon: 17.19990277777778
+  altitude: 105.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 133.2
+  iso: 200
+  width: 4264
+  height: 3139
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:36:09.000000000+02:00
+- image_filename: 2021_04_24__15_36__4243331.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.59915277777778
+  lon: 17.19986111111111
+  altitude: 105.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 19.02
+  iso: 200
+  width: 5142
+  height: 3839
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:36:48.000000000+02:00
+- image_filename: 2021_04_24__16_01__4243368.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61380555555556
+  lon: 17.203444444444443
+  altitude: 94.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.58
+  iso: 200
+  width: 5068
+  height: 3784
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:01:11.000000000+02:00
+- image_filename: 2021_04_24__15_40__4243345.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.60104166666667
+  lon: 17.19977777777778
+  altitude: 104.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 28.2
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 15:40:02.000000000+02:00
+- image_filename: 2021_04_24__16_01__4243370.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.613847222222226
+  lon: 17.203055555555554
+  altitude: 93.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5215
+  height: 3893
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:01:33.000000000+02:00
+- image_filename: 2021_04_24__16_03__4243372.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61416666666667
+  lon: 17.201888888888888
+  altitude: 94.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 53.02
+  iso: 200
+  width: 5110
+  height: 3815
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:03:09.000000000+02:00
+- image_filename: 2021_04_24__16_05__4243376.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61456944444445
+  lon: 17.20070833333333
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 167.18
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:05:11.000000000+02:00
+- image_filename: 2021_04_24__16_10__4243383.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.61513888888889
+  lon: 17.199
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 248.24
+  iso: 200
+  width: 5100
+  height: 3807
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:10:24.000000000+02:00
+- image_filename: 2021_04_24__16_14__4243390.jpg
+  post_slug: 2021-04-24-szukajac-wiosny
+  lat: 52.615027777777776
+  lon: 17.19901388888889
+  altitude: 94.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.09
+  iso: 200
+  width: 3803
+  height: 5094
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-04-24 16:14:07.000000000+02:00

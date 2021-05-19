@@ -1,0 +1,898 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+- image_filename: 2021_05_09__09_21__5093966.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.61055555555556
+  lon: 21.44909722222222
+  altitude: 104.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 9.15
+  iso: 200
+  width: 5133
+  height: 3459
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 09:21:44.000000000+02:00
+- image_filename: 2021_05_09__07_56__5093790.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.25886111111111
+  lon: 20.99113888888889
+  altitude: 109.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.09
+  iso: 200
+  width: 5166
+  height: 3857
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 07:56:41.000000000+02:00
+- image_filename: 2021_05_09__08_06__5093814.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.26818055555555
+  lon: 21.034291666666668
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5240
+  height: 3555
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:06:30.000000000+02:00
+- image_filename: 2021_05_09__08_06__5093809.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.26819444444445
+  lon: 21.03426388888889
+  altitude: 92.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:06:09.000000000+02:00
+- image_filename: 2021_05_09__07_57__5093796.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.258875
+  lon: 20.991069444444445
+  altitude: 109.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 33.99
+  iso: 200
+  width: 5097
+  height: 3805
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 07:57:19.000000000+02:00
+- image_filename: 2021_05_09__08_27__5093867.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.318513888888894
+  lon: 21.17365277777778
+  altitude: 95.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 4.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:27:31.000000000+02:00
+- image_filename: 2021_05_09__08_14__5093836.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.25881944444444
+  lon: 21.112083333333334
+  altitude: 88.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 159.07
+  iso: 200
+  width: 5038
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:14:23.000000000+02:00
+- image_filename: 2021_05_09__08_57__5093906.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.430861111111106
+  lon: 21.43451388888889
+  altitude: 103.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 23.33
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:57:33.000000000+02:00
+- image_filename: 2021_05_09__08_50__5093888.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.42033333333333
+  lon: 21.410013888888887
+  altitude: 104.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 107.79
+  iso: 200
+  width: 5236
+  height: 3909
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:50:40.000000000+02:00
+- image_filename: 2021_05_09__08_57__5093910.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.430902777777774
+  lon: 21.434541666666668
+  altitude: 103.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 89.04
+  iso: 200
+  width: 4622
+  height: 3450
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 08:57:50.000000000+02:00
+- image_filename: 2021_05_09__09_45__5094055.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.840069444444445
+  lon: 21.563625000000002
+  altitude: 109.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 7.79
+  iso: 320
+  width: 5205
+  height: 3886
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 09:45:35.000000000+02:00
+- image_filename: 2021_05_09__09_49__5094116.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.87920833333333
+  lon: 21.579652777777778
+  altitude: 111.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 170.66
+  iso: 320
+  width: 4910
+  height: 3527
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 09:49:17.000000000+02:00
+- image_filename: 2021_05_09__09_57__5094197.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.97566666666667
+  lon: 21.60666666666667
+  altitude: 107.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 3.12
+  iso: 320
+  width: 4976
+  height: 3715
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 09:57:48.000000000+02:00
+- image_filename: 2021_05_09__09_46__5094062.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.84586111111111
+  lon: 21.562430555555558
+  altitude: 110.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 4906
+  height: 3705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 09:46:06.000000000+02:00
+- image_filename: 2021_05_09__10_00__5094235.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.013263888888886
+  lon: 21.600763888888892
+  altitude: 108.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  focus_distance: 24.13
+  iso: 320
+  width: 5093
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:00:58.000000000+02:00
+- image_filename: 2021_05_09__10_10__5094351.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05591666666666
+  lon: 21.616791666666668
+  altitude: 112.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 19.14
+  iso: 320
+  width: 5101
+  height: 3809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:10:23.000000000+02:00
+- image_filename: 2021_05_09__10_14__5094370.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05581944444444
+  lon: 21.61626388888889
+  altitude: 107.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  focus_distance: 1000.0
+  iso: 320
+  width: 5035
+  height: 3759
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:14:09.000000000+02:00
+- image_filename: 2021_05_09__10_15__5094376.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05576388888888
+  lon: 21.61636111111111
+  altitude: 106.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5144
+  height: 3840
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:15:06.000000000+02:00
+- image_filename: 2021_05_09__10_15__5094382.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05576388888888
+  lon: 21.616333333333333
+  altitude: 106.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 53.19
+  iso: 200
+  width: 5150
+  height: 3844
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:15:41.000000000+02:00
+- image_filename: 2021_05_09__10_17__5094388.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05697222222222
+  lon: 21.619777777777777
+  altitude: 106.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 23.71
+  iso: 200
+  width: 5163
+  height: 3854
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:17:49.000000000+02:00
+- image_filename: 2021_05_09__10_19__5094393.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05943055555555
+  lon: 21.63423611111111
+  altitude: 106.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.72
+  iso: 200
+  width: 5134
+  height: 3833
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:19:28.000000000+02:00
+- image_filename: 2021_05_09__10_26__5094412.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.057541666666665
+  lon: 21.73536111111111
+  altitude: 114.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4545
+  height: 3393
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:26:06.000000000+02:00
+- image_filename: 2021_05_09__10_30__5094450.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.05109722222222
+  lon: 21.81876388888889
+  altitude: 116.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 38.64
+  iso: 200
+  width: 5024
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:30:26.000000000+02:00
+- image_filename: 2021_05_09__10_47__5094537.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.044180555555556
+  lon: 22.002416666666665
+  altitude: 129.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 49.35
+  iso: 200
+  width: 4988
+  height: 3615
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:47:45.000000000+02:00
+- image_filename: 2021_05_09__10_48__5094541.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.044263888888885
+  lon: 22.00583333333333
+  altitude: 129.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 119.59
+  iso: 200
+  width: 5174
+  height: 3863
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:48:30.000000000+02:00
+- image_filename: 2021_05_09__10_56__5094573.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.06627777777778
+  lon: 22.012125
+  altitude: 137.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 47.76
+  iso: 200
+  width: 5075
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 10:56:16.000000000+02:00
+- image_filename: 2021_05_09__11_00__5094587.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.07772222222223
+  lon: 22.022027777777776
+  altitude: 140.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 180.04
+  iso: 200
+  width: 5212
+  height: 3891
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:00:18.000000000+02:00
+- image_filename: 2021_05_09__11_14__5094656.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.11475
+  lon: 22.04551388888889
+  altitude: 119.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 15.26
+  iso: 200
+  width: 5137
+  height: 3835
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:14:00.000000000+02:00
+- image_filename: 2021_05_09__11_03__5094605.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.08593055555556
+  lon: 22.026777777777777
+  altitude: 135.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.63
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:03:05.000000000+02:00
+- image_filename: 2021_05_09__11_16__5094667.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.120958333333334
+  lon: 22.044569444444445
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 237.45
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:16:03.000000000+02:00
+- image_filename: 2021_05_09__11_16__5094674.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.12286111111111
+  lon: 22.045222222222225
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 256.0
+  iso: 200
+  width: 4829
+  height: 3625
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:16:43.000000000+02:00
+- image_filename: 2021_05_09__11_17__5094680.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.124944444444445
+  lon: 22.045930555555557
+  altitude: 114.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 38.37
+  iso: 200
+  width: 4268
+  height: 3028
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:17:24.000000000+02:00
+- image_filename: 2021_05_09__11_17__5094682.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.125527777777776
+  lon: 22.046194444444446
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:17:36.000000000+02:00
+- image_filename: 2021_05_09__11_18__5094695.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.127208333333336
+  lon: 22.04740277777778
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:18:14.000000000+02:00
+- image_filename: 2021_05_09__11_17__5094683.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.125569444444444
+  lon: 22.046208333333336
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:17:37.000000000+02:00
+- image_filename: 2021_05_09__11_25__5094715.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.14626388888889
+  lon: 22.04566666666667
+  altitude: 106.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 27.03
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:25:00.000000000+02:00
+- image_filename: 2021_05_09__11_51__5094775.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.17184722222222
+  lon: 22.064347222222224
+  altitude: 101.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 31.33
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:51:31.000000000+02:00
+- image_filename: 2021_05_09__11_46__5094763.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 53.17191666666666
+  lon: 22.06438888888889
+  altitude: 103.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 7.43
+  iso: 200
+  width: 5089
+  height: 3799
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 11:46:16.000000000+02:00
+- image_filename: 2021_05_09__13_38__5094895.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.94788888888888
+  lon: 21.682750000000002
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 13:38:19.000000000+02:00
+- image_filename: 2021_05_09__13_51__5094965.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.86709722222222
+  lon: 21.801083333333334
+  altitude: 128.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 315.08
+  iso: 200
+  width: 5235
+  height: 3908
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 13:51:53.000000000+02:00
+- image_filename: 2021_05_09__14_00__5094988.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.831250000000004
+  lon: 21.87551388888889
+  altitude: 133.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5076
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 14:00:07.000000000+02:00
+- image_filename: 2021_05_09__14_08__5095003.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.82613888888889
+  lon: 21.88711111111111
+  altitude: 131.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.61
+  iso: 200
+  width: 4815
+  height: 3524
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 14:08:31.000000000+02:00
+- image_filename: 2021_05_09__14_09__5095008.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.826013888888895
+  lon: 21.886541666666666
+  altitude: 130.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 21.78
+  iso: 200
+  width: 5205
+  height: 3886
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 14:09:28.000000000+02:00
+- image_filename: 2021_05_09__16_29_DSC00290.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.71838888888889
+  lon: 21.519333333333332
+  altitude: 113.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5324
+  height: 3595
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-09 16:29:32.000000000+02:00
+- image_filename: 2021_05_09__15_56_DSC00241.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.81072222222222
+  lon: 21.569736111111112
+  altitude: 99.0
+  focal_length: 35.0
+  focal_length_35: 35.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5790
+  height: 3852
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-09 15:56:50.000000000+02:00
+- image_filename: 2021_05_09__14_12__5095016.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.82626388888889
+  lon: 21.885708333333334
+  altitude: 131.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 90.51
+  iso: 200
+  width: 5111
+  height: 3765
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 14:12:28.000000000+02:00
+- image_filename: 2021_05_09__17_10_DSC00358.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.42670833333333
+  lon: 21.4115
+  altitude: 107.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5916
+  height: 3936
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-09 17:10:48.000000000+02:00
+- image_filename: 2021_05_09__16_30_DSC00307.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.70876388888889
+  lon: 21.512694444444445
+  altitude: 115.0
+  focal_length: 58.0
+  focal_length_35: 58.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6016
+  height: 4003
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-09 16:30:40.000000000+02:00
+- image_filename: 2021_05_09__17_23__5095101.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.42483333333333
+  lon: 21.194222222222223
+  altitude: 96.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 1000.0
+  iso: 250
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-05-09 17:23:01.000000000+02:00
+- image_filename: 2021_05_09__17_11_DSC00364.jpg
+  post_slug: 2021-05-09-pociagiem-do-lomzy
+  lat: 52.42659722222222
+  lon: 21.40061111111111
+  altitude: 107.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5901
+  height: 3926
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-09 17:11:30.000000000+02:00
