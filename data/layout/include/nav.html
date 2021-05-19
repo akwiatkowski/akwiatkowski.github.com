@@ -36,6 +36,18 @@
         </div>
       </li>
 
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="stats-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{ nav-stats-short }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="stats-dropdown">
+          <span class="dropdown-item">{{ nav-stats-bicycle }}</span>
+          <span class="dropdown-item">{{ nav-stats-hike }}</span>
+          <span class="dropdown-item">{{ nav-stats-train }}</span>
+          <a class="dropdown-item" href="/year/{{ current_year }}">więcej...</a>
+        </div>
+      </li>
+
       <li class="nav-item">
         <a class="nav-link" href="/portfolio">Portfolio</a>
       </li>
@@ -52,12 +64,6 @@
 
       <li class="nav-item">
         <a class="nav-link" href="/more">Więcej</a>
-      </li>
-    </ul>
-
-    <ul class="navbar-nav navbar-center">
-      <li class="nav-item small">
-        {{ nav-stats }}
       </li>
     </ul>
   </div>
