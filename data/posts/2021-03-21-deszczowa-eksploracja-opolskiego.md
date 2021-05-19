@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2021_03_21__11_53__3212182.jpg
 image_position:         50% 80%
 tags:                   [car, todo]
-towns:                  []
+towns:                  [opolskie, prudnik, lubrza, biala, strzeleczki, proszkow, komprachcice, opole]
+lands:                  [nizina_slaska]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-03-21-deszczowa-eksploracja-opolskiego.json"

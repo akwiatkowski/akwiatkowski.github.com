@@ -12,6 +12,7 @@ image_filename:         2021_04_11__14_57__4112770.jpg
 image_position:         50% 70%
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, pobiedziska, kiszkowo, murowana_goslina]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-04-11-koniec-lenistwa.json"

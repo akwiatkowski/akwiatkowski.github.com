@@ -11,6 +11,7 @@ categories:             trip
 #image_filename:         IMGP5706raw1.jpg
 tags:                   [hidden, todo]
 towns:                  [wielkopolskie, szamotuly]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-02-05-nie-warto-bylo.json"

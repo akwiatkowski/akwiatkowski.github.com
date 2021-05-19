@@ -1,26 +1,25 @@
 ---
 layout:                 post
-title:                  "Lekka zamieć w Prudniku"
+title:                  "Okolica Jeziora Żarnickiego"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2021-03-19 18:00:00
+date:                   2021-05-15 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2021_03_19__19_50__3191548.jpg
-image_position:         50% 65%
+image_filename:         2021_05_15__14_19__5155879.jpg
+#image_position:         50% 70%
 tags:                   [hike, todo]
-towns:                  [opolskie, prudnik]
-lands:                  [nizina_slaska]
+towns:                  [kujawsko_pomorskie, janowiec_wielkopolski, znin]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
 #coords_type:            "bicycle"
-distance:               4
-time_spent:             2
-elevation:              42
-temperature:            
+distance:               7
+time_spent:             3
+elevation:              36
+temperature:            19
 
 
 pois:
@@ -35,5 +34,7 @@ pois:
 ## Wstęp
 
 ## Opis trasy
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5304579749/embed/95a3ea85b6d6eb29defc30c0e2a8941c81760e6b'></iframe>
 
 ## Szczegóły

@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2021_01_03__14_14__1037189.jpg
 image_position:         50% 60%
 tags:                   [bird, photo, todo]
-towns:                  []
+towns:                  [inne]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"

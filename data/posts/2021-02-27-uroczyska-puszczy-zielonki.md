@@ -10,7 +10,8 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_02_27__13_00_DSC07228.jpg
 tags:                   [hike, todo]
-towns:                  []
+towns:                  [wielkopolskie, murowana_goslina, czerwonak]
+lands:                  [puszcza_zielonka, pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-02-27-uroczyska-puszczy-zielonki.json"

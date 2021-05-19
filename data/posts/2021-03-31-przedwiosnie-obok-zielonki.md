@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2021_03_31__17_52_P3310023.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  []
+towns:                  [wielkopolskie, pobiedziska]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-03-31-przedwiosnie-obok-zielonki.json"

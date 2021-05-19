@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2021_02_20__11_23__2200581.jpg
 tags:                   [hike, todo]
 towns:                  [dolnoslaskie, karpacz]
+lands:                  [karkonosze]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-02-20-pandemiczna-sniezka.json"

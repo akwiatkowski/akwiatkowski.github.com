@@ -12,6 +12,7 @@ image_filename:         2021_01_16__14_17__1167593.jpg
 image_position:         50% 70%
 tags:                   [hike, main]
 towns:                  [dolnoslaskie, janowice_wielkie]
+lands:                  [gory_kaczawskie, rudawy_janowickie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-01-16-prawdziwa-zima.json"

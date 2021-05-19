@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2021_01_17__16_50_DSC04313_01.jpg
 tags:                   [hike, photo, main, photo_of_the_year]
 towns:                  [dolnoslaskie, ziebice]
+lands:                  [przedgorze_sudeckie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-01-17-szukajac-idealnego-zachodu.json"

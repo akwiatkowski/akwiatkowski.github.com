@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2021_03_19__15_53__3191433.jpg
 image_position:         50% 70%
 tags:                   [car, todo]
-towns:                  [dolnoslaskie, strzelin, przeworno, kamiennik, pakoslawice, nysa, korfantow, prudnik]
+towns:                  [dolnoslaskie, opolskie, strzelin, przeworno, kamiennik, pakoslawice, nysa, korfantow, prudnik]
+lands:                  [przedgorze_sudeckie, nizina_slaska]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-03-19-miedzy-strzelinem-a-nysa.json"
