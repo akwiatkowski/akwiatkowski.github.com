@@ -6,7 +6,7 @@ module GalleryView
       @blog : Tremolite::Blog,
       @by_tag : String | Nil = nil
     )
-      @url = "/gallery/stats"
+      @url = "/debug/tagged_photos"
       @title = "Tagi we wpisach"
       @subtitle = ""
 
@@ -25,6 +25,15 @@ module GalleryView
     def inner_html
       return String.build do |s|
         s << "<table>"
+
+        s << "<tr>"
+        s << "<th>Data</th>"
+        s << "<th>Tytuł</th>"
+        s << "<th>Zdj.</th>"
+        s << "<th>Tytuł</th>"
+        s << "<th>Tytuł</th>"
+        s << "</tr>"
+
         @posts.each do |post|
           published_photos = published_photos_in_post(post)
 
@@ -33,10 +42,28 @@ module GalleryView
           best_size = published_photos.select { |pe| pe.tags.includes?("best") }.size
 
           s << "<tr>"
-          s << "<td>#{post.title}</td>"
-          s << "<td>#{published_size}</td>"
-          s << "<td>#{good_size}</td>"
-          s << "<td>#{best_size}</td>"
+          s << "<td class=\"small\">#{post.date}</td>"
+
+          # no photos
+          klass = "text-danger"
+          # minimum amount of photos
+          klass = "text-warning" if published_size >= 2
+          # good/best photos -> better
+          klass = "text-success" if good_size > 0
+          klass = "text-primary" if best_size > 0
+
+          s << "<td class=\"#{klass}\">"
+
+          s << "#{post.title}"
+          s << "<a href=\"#{post.url}\">"
+          s << "↑"
+          s << "</a>"
+
+          s << "</td>"
+
+          s << "<td>#{published_size > 0 ? published_size : nil}</td>"
+          s << "<td>#{good_size > 0 ? good_size : nil}</td>"
+          s << "<td>#{best_size > 0 ? good_size : nil}</td>"
           s << "</tr>"
         end
         s << "</table>"

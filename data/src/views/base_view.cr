@@ -167,41 +167,41 @@ class BaseView < Tremolite::Views::BaseView
   # cached stats
   def nav_stats!
     posts = @blog.post_collection.posts
-    self_propelled_posts = posts.select {|post| post.self_propelled? }
+    self_propelled_posts = posts.select { |post| post.self_propelled? }
 
-    bicycle_posts = self_propelled_posts.select {|post| post.bicycle? }
-    hike_posts = self_propelled_posts.select {|post| post.hike? }
-    train_posts = posts.select {|post| post.train? }
+    bicycle_posts = self_propelled_posts.select { |post| post.bicycle? }
+    hike_posts = self_propelled_posts.select { |post| post.hike? }
+    train_posts = posts.select { |post| post.train? }
 
-    bicycle_distance = bicycle_posts.map{|post| post.distance }.compact.sum.to_i
-    bicycle_time_length = bicycle_posts.map{|post| post.time_spent }.compact.sum.to_i
+    bicycle_distance = bicycle_posts.map { |post| post.distance }.compact.sum.to_i
+    bicycle_time_length = bicycle_posts.map { |post| post.time_spent }.compact.sum.to_i
     bicycle_count = bicycle_posts.size
 
-    hike_distance = hike_posts.map{|post| post.distance }.compact.sum.to_i
-    hike_time_length = hike_posts.map{|post| post.time_spent }.compact.sum.to_i
+    hike_distance = hike_posts.map { |post| post.distance }.compact.sum.to_i
+    hike_time_length = hike_posts.map { |post| post.time_spent }.compact.sum.to_i
     hike_count = hike_posts.size
 
-    train_distance = train_posts.map{|post| post.distance }.compact.sum.to_i
-    train_time_length = train_posts.map{|post| post.time_spent }.compact.sum.to_i
+    train_distance = train_posts.map { |post| post.distance }.compact.sum.to_i
+    train_time_length = train_posts.map { |post| post.time_spent }.compact.sum.to_i
     train_count = train_posts.size
 
     self_distance_sum = bicycle_distance + hike_distance
     self_time_length_sum = bicycle_time_length + hike_time_length
 
     @nav_stats_hash = {
-      bicycle_distance: bicycle_distance,
+      bicycle_distance:    bicycle_distance,
       bicycle_time_length: bicycle_time_length,
-      bicycle_count: bicycle_count,
+      bicycle_count:       bicycle_count,
 
-      hike_distance: hike_distance,
+      hike_distance:    hike_distance,
       hike_time_length: hike_time_length,
-      hike_count: hike_count,
+      hike_count:       hike_count,
 
-      train_distance: train_distance,
+      train_distance:    train_distance,
       train_time_length: train_time_length,
-      train_count: train_count,
+      train_count:       train_count,
 
-      self_distance: self_distance_sum,
+      self_distance:    self_distance_sum,
       self_time_length: self_time_length_sum,
     }
   end
@@ -215,7 +215,7 @@ class BaseView < Tremolite::Views::BaseView
   def voivodeship_nav
     if @voivodeship_nav.nil?
       if @voivodeship_nav.nil?
-        voivodeships = @blog.data_manager.voivodeships.not_nil!.select{ |v| v.is_poland? }
+        voivodeships = @blog.data_manager.voivodeships.not_nil!.select { |v| v.is_poland? }
 
         @voivodeship_nav = model_array_to_nav(
           model_array: voivodeships,
@@ -246,7 +246,7 @@ class BaseView < Tremolite::Views::BaseView
   # cached list of tags links for nav
   def tag_nav
     if @tags_nav.nil?
-      tags = @blog.data_manager.tags.not_nil!.select {|tag| tag.is_nav? }
+      tags = @blog.data_manager.tags.not_nil!.select { |tag| tag.is_nav? }
 
       @tags_nav = model_array_to_nav(
         model_array: tags,

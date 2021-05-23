@@ -1,6 +1,7 @@
 class Tremolite::Validator
   def custom_validators
     check_missing_towns
+    validate_exif_name_dictionary
   end
 
   def validate_object(object)
@@ -12,6 +13,10 @@ class Tremolite::Validator
     unless File.exists?(data_image_path)
       error_in_object(town, "#{town.name} / #{town.voivodeship} - missing photo")
     end
+  end
+
+  private def validate_exif_name_dictionary
+    ExifEntity.log_not_named
   end
 
   private def check_missing_towns
