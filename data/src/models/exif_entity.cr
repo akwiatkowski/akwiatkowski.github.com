@@ -89,6 +89,7 @@ struct ExifEntity
     "PENTAX K-S2"         => "Pentax K-S2",
     "PENTAX K100D"        => "Pentax K100D",
     "PENTAX K-5"          => "Pentax K-5",
+    "FC1102"              => "DJI Spark",
   }
 
   LENS_NAMES = {
