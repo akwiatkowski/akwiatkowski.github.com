@@ -181,11 +181,11 @@ class Tremolite::Post
   end
 
   def basic_from_headers
-    if @header["distance"]?
+    if @header["distance"]?.to_s.strip != ""
       @distance = @header["distance"].to_s.to_f
     end
 
-    if @header["time_spent"]?
+    if @header["time_spent"]?.to_s.strip != ""
       @time_spent = @header["time_spent"].to_s.to_f
     end
   end

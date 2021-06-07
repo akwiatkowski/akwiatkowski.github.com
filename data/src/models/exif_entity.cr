@@ -133,7 +133,7 @@ struct ExifEntity
     "Sigma 18-200 C"                               => "Sigma 18-200mm C",
     "FE 70-200mm F2.8 GM OSS"                      => "Sony GM 70-200mm f2.8",
     "----"                                         => "Nieznane",
-
+    "Pentax SMC-A 135/2.8"                         => "Pentax A 135mm f2.8",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)
@@ -155,7 +155,7 @@ struct ExifEntity
   end
 
   def lens_name
-    if @lens_name.nil?
+    if @lens_name.to_s == ""
       if self.lens
         unless @@lenses_dictionary.includes?(self.lens.not_nil!)
           @@lenses_dictionary << self.lens.not_nil!
@@ -192,12 +192,24 @@ struct ExifEntity
       return
     end
 
+    # no contact or manual contact lens and 135mm, it's SMC-A 135mm
+    if (self.lens == "K or M Lens" || self.lens == "") && focal_length_int == 135
+      @lens_name = LENS_NAMES["Pentax SMC-A 135/2.8"]
+      return
+    end
+
     # shitty K100D with sigma lens was in most cases old shitty Sigma 18-200
     if self.camera == "PENTAX K100D" && self.lens == "Sigma Lens"
       if focal_length_int >= 18 && focal_length_int <= 200
         @lens_name = LENS_NAMES["Sigma 18-200 old"]
         return
       end
+    end
+
+    # 50mm macro was used heavily with K100D
+    if self.camera == "PENTAX K100D" && focal_length_int == 50
+      @lens_name = LENS_NAMES["smc PENTAX-FA Macro 50mm F2.8"]
+      return
     end
 
     # weird case but K-S2 didn't store lens name
