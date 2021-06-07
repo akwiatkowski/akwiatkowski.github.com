@@ -7,6 +7,7 @@ require "./models/transport_poi_entity"
 require "./models/todo_route_entity"
 require "./models/portfolio_entity"
 
+require "./services/nav_stats_cache"
 require "./services/exif_processor"
 require "./services/preloaded_post_referenced_links"
 
@@ -29,6 +30,9 @@ class Tremolite::DataManager
     @town_photo_cache = TownPhotoCache.new(
       blog: @blog
     )
+    @nav_stats_cache = NavStatsCache.new(
+      blog: @blog
+    )
     @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
       blog: @blog
     )
@@ -40,7 +44,7 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
-  getter :town_photo_cache
+  getter :town_photo_cache, :nav_stats_cache
 
   def exif_db
     return @exif_db.not_nil!

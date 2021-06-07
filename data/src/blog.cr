@@ -102,6 +102,7 @@ class Tremolite::Blog
       post_to_update_photos = all_posts
       post_to_update_exif = all_posts
       exifs_changed = true
+      refresh_nav_stats = true
     else
       tuple = mod_watcher_summary
       post_to_render = tuple[:post_to_render]
@@ -110,6 +111,8 @@ class Tremolite::Blog
       post_to_update_photos = tuple[:post_to_update_photos]
       post_to_update_exif = tuple[:post_to_update_exif]
       exifs_changed ||= tuple[:exifs_changed]
+      # XXX for now do not update nav stats when using mod-watcher
+      refresh_nav_stats = true # TODO change to false
     end
 
     render(
@@ -119,6 +122,7 @@ class Tremolite::Blog
       post_to_update_photos: post_to_update_photos,
       post_to_update_exif: post_to_update_exif,
       exifs_changed: exifs_changed,
+      refresh_nav_stats: refresh_nav_stats
     )
 
     # update sitemap only when full render to not mess
@@ -140,7 +144,8 @@ class Tremolite::Blog
     yamls_changed : Bool,
     post_to_update_photos : Array(Tremolite::Post),
     post_to_update_exif : Array(Tremolite::Post),
-    exifs_changed : Bool
+    exifs_changed : Bool,
+    refresh_nav_stats : Bool,
   )
     # test+dev stuff
     renderer.dev_render
@@ -151,6 +156,12 @@ class Tremolite::Blog
 
     # uses rsync so it's fast
     renderer.copy_assets_and_photos
+
+    # TODO check if posts need to be reloaded here
+    # nav stats require process all posts
+    if refresh_nav_stats
+      data_manager.nav_stats_cache.not_nil!.refresh
+    end
 
     post_to_render_galleries.each do |post|
       Log.debug { "resize_all_images_for_post" }
