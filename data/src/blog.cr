@@ -112,7 +112,8 @@ class Tremolite::Blog
       post_to_update_exif = tuple[:post_to_update_exif]
       exifs_changed ||= tuple[:exifs_changed]
       # XXX for now do not update nav stats when using mod-watcher
-      refresh_nav_stats = true # TODO change to false
+      # XXX this should be false but can be set as true while dev
+      refresh_nav_stats = false
     end
 
     render(
@@ -145,7 +146,7 @@ class Tremolite::Blog
     post_to_update_photos : Array(Tremolite::Post),
     post_to_update_exif : Array(Tremolite::Post),
     exifs_changed : Bool,
-    refresh_nav_stats : Bool,
+    refresh_nav_stats : Bool
   )
     # test+dev stuff
     renderer.dev_render

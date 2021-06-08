@@ -1,6 +1,19 @@
 struct NavStatsCacheObject
   include YAML::Serializable
 
+  struct EntityNavTuple
+    include YAML::Serializable
+
+    @name : String = ""
+    @url : String = ""
+    @count : Int32 = 0
+
+    property :name, :url, :count
+
+    def initialize(@name, @url, @count)
+    end
+  end
+
   @bicycle_distance : Int32 = 0
   @bicycle_time_length : Int32 = 0
   @bicycle_count : Int32 = 0
@@ -14,20 +27,28 @@ struct NavStatsCacheObject
   @self_time_length : Int32 = 0
   @updated_at : Time = Time.local
 
+  @voivodeships_nav : Array(EntityNavTuple) = Array(EntityNavTuple).new
+  @lands_nav : Array(EntityNavTuple) = Array(EntityNavTuple).new
+  @tags_nav : Array(EntityNavTuple) = Array(EntityNavTuple).new
+
   property :bicycle_distance, :bicycle_time_length, :bicycle_count,
-    :hike_distance, :hike_time_length,  :hike_count,
+    :hike_distance, :hike_time_length, :hike_count,
     :train_distance, :train_time_length, :train_count,
     :self_distance, :self_time_length,
-    :updated_at
+    :updated_at,
+    :voivodeships_nav, :lands_nav, :tags_nav
 
   def initialize
+    # @voivodeships_nav = Array(EntityNavTuple).new
+    # @lands_nav = Array(EntityNavTuple).new
+    # @tags_nav = Array(EntityNavTuple).new
   end
 end
 
 class NavStatsCache
   Log = ::Log.for(self)
 
-  getter :cache_file_path
+  getter :cache_file_path, :stats
 
   def initialize(@blog : Tremolite::Blog)
     @cache_path = Tremolite::DataManager::CACHE_PATH.as(String)
@@ -37,8 +58,15 @@ class NavStatsCache
     load_cache
   end
 
+  def posts
+    @blog.post_collection.posts.as(Array(Tremolite::Post))
+  end
+
   def refresh
-    posts = @blog.post_collection.posts
+    refresh_voivodeships_nav
+    refresh_lands_nav
+    refresh_tags_nav
+
     self_propelled_posts = posts.select { |post| post.self_propelled? }
 
     bicycle_posts = self_propelled_posts.select { |post| post.bicycle? }
@@ -62,17 +90,17 @@ class NavStatsCache
 
     @stats.bicycle_distance = bicycle_distance
     @stats.bicycle_time_length = bicycle_time_length
-    @stats.bicycle_count =       bicycle_count
+    @stats.bicycle_count = bicycle_count
 
-    @stats.hike_distance =    hike_distance
+    @stats.hike_distance = hike_distance
     @stats.hike_time_length = hike_time_length
-    @stats.hike_count =       hike_count
+    @stats.hike_count = hike_count
 
-    @stats.train_distance =    train_distance
+    @stats.train_distance = train_distance
     @stats.train_time_length = train_time_length
-    @stats.train_count =       train_count
+    @stats.train_count = train_count
 
-    @stats.self_distance =    self_distance_sum
+    @stats.self_distance = self_distance_sum
     @stats.self_time_length = self_time_length_sum
 
     @stats.updated_at = Time.local
@@ -110,6 +138,64 @@ class NavStatsCache
     h["current_year"] = Time.local.year.to_s
 
     return h
+  end
+
+  private def process_model_array_to_nav(
+    model_array : Array,
+    ignore_less_than = 1,
+    perform_sort = true
+  )
+    nav_array = Array(NavStatsCacheObject::EntityNavTuple).new
+
+    model_array.each do |model|
+      count = posts.select { |post| post.was_in?(model) && post.ready? }.size
+
+      if count >= ignore_less_than
+        nav_array << NavStatsCacheObject::EntityNavTuple.new(
+          name: model.name,
+          url: model.masonry_url,
+          count: count,
+        )
+      end
+    end
+
+    if perform_sort
+      nav_array = nav_array.sort do |a, b|
+        b.count <=> a.count
+      end
+    end
+
+    return nav_array
+  end
+
+  private def refresh_voivodeships_nav
+    voivodeships = @blog.data_manager.voivodeships.not_nil!.select { |v| v.is_poland? }
+
+    @stats.voivodeships_nav = process_model_array_to_nav(
+      model_array: voivodeships,
+      ignore_less_than: 2,
+      perform_sort: false
+    )
+  end
+
+  private def refresh_lands_nav
+    lands = @blog.data_manager.lands.not_nil!
+
+    @stats.lands_nav = process_model_array_to_nav(
+      model_array: lands,
+      ignore_less_than: 4,
+      perform_sort: true
+    )
+  end
+
+  private def refresh_tags_nav
+    tags = @blog.data_manager.tags.not_nil!.select { |tag| tag.is_nav? }
+
+    @stats.tags_nav = process_model_array_to_nav(
+      model_array: tags,
+      ignore_less_than: 2,
+      perform_sort: false
+    )
   end
 
   private def save_cache

@@ -152,53 +152,6 @@ class BaseView < Tremolite::Views::BaseView
     end
   end
 
-  # cached list of voivodeship links for nav
-  def voivodeship_nav
-    if @voivodeship_nav.nil?
-      if @voivodeship_nav.nil?
-        voivodeships = @blog.data_manager.voivodeships.not_nil!.select { |v| v.is_poland? }
-
-        @voivodeship_nav = model_array_to_nav(
-          model_array: voivodeships,
-          ignore_less_than: 2,
-          perform_sort: false
-        ).as(String)
-      end
-    end
-
-    return @voivodeship_nav.not_nil!
-  end
-
-  # cached list of lands links for nav
-  def lands_nav
-    if @lands_nav.nil?
-      lands = @blog.data_manager.lands.not_nil!
-
-      @lands_nav = model_array_to_nav(
-        model_array: lands,
-        ignore_less_than: 4,
-        perform_sort: true
-      ).as(String)
-    end
-
-    return @lands_nav.not_nil!
-  end
-
-  # cached list of tags links for nav
-  def tag_nav
-    if @tags_nav.nil?
-      tags = @blog.data_manager.tags.not_nil!.select { |tag| tag.is_nav? }
-
-      @tags_nav = model_array_to_nav(
-        model_array: tags,
-        ignore_less_than: 2,
-        perform_sort: false
-      ).as(String)
-    end
-
-    return @tags_nav.not_nil!
-  end
-
   def title
     return ""
   end
@@ -251,13 +204,25 @@ class BaseView < Tremolite::Views::BaseView
     return @blog.data_manager.nav_stats_cache.not_nil!
   end
 
+  private def nav_stats_model_array_to_html(array)
+    return String.build do |s|
+      array.each do |ni|
+        h = Hash(String, String).new
+        h["url"] = ni.url
+        h["name"] = "#{ni.name} (#{ni.count})"
+
+        s << load_html("include/category_nav_element", h)
+      end
+    end
+  end
+
   def nav_html
-    h = Hash(String, String).new
+    h = nav_stats_cache.to_hash
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
-    h["nav-voivodeships"] = voivodeship_nav
-    h["nav-tags"] = tag_nav
-    h["nav-lands"] = lands_nav
-    h = h.merge(nav_stats_cache.to_hash)
+
+    h["nav-voivodeships"] = nav_stats_model_array_to_html(nav_stats_cache.stats.voivodeships_nav)
+    h["nav-tags"] = nav_stats_model_array_to_html(nav_stats_cache.stats.tags_nav)
+    h["nav-lands"] = nav_stats_model_array_to_html(nav_stats_cache.stats.lands_nav)
 
     return load_html("include/nav", h)
   end
