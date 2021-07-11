@@ -39,9 +39,6 @@ struct NavStatsCacheObject
     :voivodeships_nav, :lands_nav, :tags_nav
 
   def initialize
-    # @voivodeships_nav = Array(EntityNavTuple).new
-    # @lands_nav = Array(EntityNavTuple).new
-    # @tags_nav = Array(EntityNavTuple).new
   end
 end
 

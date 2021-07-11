@@ -18,7 +18,7 @@ module PostListView
           @posts << post
         end
       end
-      puts "#{@land.name} - #{@posts.size}"
+      Log.debug { "#{@land.name} - #{@posts.size} posts" }
     end
 
     def title

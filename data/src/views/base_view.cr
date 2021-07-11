@@ -57,6 +57,10 @@ class BaseView < Tremolite::Views::BaseView
 
         (href_scan_results + src_scan_results).each do |scan_result|
           web_path = scan_result[1]
+
+          # ignore xml files which are created dynamically
+          next if web_path.includes?(".xml")
+
           public_file_path = File.join([public_path, web_path])
 
           # some included files do not exists
