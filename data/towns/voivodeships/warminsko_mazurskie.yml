@@ -162,3 +162,16 @@
   voivodeship: warminsko_mazurskie
   lat: 53.48508
   lon: 20.09116
+- slug: markusy
+  name: Markusy
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.04784
+  lon: 19.38593
+
+- slug: elblag
+  name: Elbląg
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.15152
+  lon: 19.41512
