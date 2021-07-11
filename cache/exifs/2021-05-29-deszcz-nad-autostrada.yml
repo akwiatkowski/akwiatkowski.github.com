@@ -1,0 +1,224 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+- image_filename: 2021_05_29__19_09_DSC01141.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.614805555555556
+  lon: 18.15009722222222
+  altitude: 133.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:09:52.000000000+02:00
+- image_filename: 2021_05_29__19_13_DSC01159.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.614805555555556
+  lon: 18.15009722222222
+  altitude: 133.0
+  focal_length: 44.0
+  focal_length_35: 44.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:13:09.000000000+02:00
+- image_filename: 2021_05_29__19_14_DSC01162.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.61405555555556
+  lon: 18.1415
+  altitude: 135.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 4797
+  height: 3518
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:14:07.000000000+02:00
+- image_filename: 2021_05_29__19_14_DSC01166.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.61405555555556
+  lon: 18.140055555555556
+  altitude: 134.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5724
+  height: 3808
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:14:14.000000000+02:00
+- image_filename: 2021_05_29__19_44_DSC01249.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.55519444444444
+  lon: 17.737291666666668
+  altitude: 151.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:44:03.000000000+02:00
+- image_filename: 2021_05_29__19_54_DSC01274.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.53443055555555
+  lon: 17.577819444444444
+  altitude: 149.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 5251
+  height: 3457
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:54:14.000000000+02:00
+- image_filename: 2021_05_29__19_43_DSC01243.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.55658333333333
+  lon: 17.750333333333334
+  altitude: 146.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5809
+  height: 3865
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:43:26.000000000+02:00
+- image_filename: 2021_05_29__19_56_DSC01288.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.53034722222222
+  lon: 17.542708333333334
+  altitude: 142.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 5447
+  height: 3797
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 19:56:57.000000000+02:00
+- image_filename: 2021_05_29__20_12_DSC01338.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.368125
+  lon: 17.20422222222222
+  altitude: 127.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5770
+  height: 3907
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 20:12:42.000000000+02:00
+- image_filename: 2021_05_29__20_12_DSC01343.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.36516666666667
+  lon: 17.20075
+  altitude: 130.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 20:12:55.000000000+02:00
+- image_filename: 2021_05_29__20_19_DSC01391.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.337694444444445
+  lon: 17.050708333333333
+  altitude: 108.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5295
+  height: 3637
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 20:19:31.000000000+02:00
+- image_filename: 2021_05_29__20_13_DSC01363.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.358736111111114
+  lon: 17.194875
+  altitude: 129.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 20:13:20.000000000+02:00
+- image_filename: 2021_05_29__20_24_DSC01435.jpg
+  post_slug: 2021-05-29-deszcz-nad-autostrada
+  lat: 52.35359722222223
+  lon: 16.907055555555555
+  altitude: 100.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1250
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-05-29 20:24:24.000000000+02:00
