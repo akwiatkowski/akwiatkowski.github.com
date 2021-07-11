@@ -38,7 +38,7 @@
   visited: 2015-06
   train_time_poznan: 7
   near:
-    - pogorze_kaczawskie
+    - pogorze_sudeckie
     - karkonosze
     - rudawy_janowickie
 
@@ -316,9 +316,8 @@
     - bieszczady
 
 # foothill
-- slug: pogorze_kaczawskie
-  name: Pogórze Kaczawskie
-  header-ext-img: https://drscdn.500px.org/photo/125797681/m%3D2048/3e36c3a9e326f0318ed643f6c069f71a
+- slug: pogorze_sudeckie
+  name: Pogórze Sudeckie
   main: sudety
   country: Polska
   type: foothill
