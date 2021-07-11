@@ -11,7 +11,7 @@ module RendererMixin::RenderPhotoMaps
     render_photo_maps_index
   end
 
-  ## Global
+  # # Global
 
   def render_photo_maps_global
     overall_view = PhotoMapSvgView.new(
@@ -61,7 +61,6 @@ module RendererMixin::RenderPhotoMaps
     write_output(detailed_view)
 
     # XXX: overriden by PhotoMap::Index
-
     # html_view = PhotoMapHtmlView.new(
     #   blog: @blog,
     #   url: "/photo_map",
@@ -79,7 +78,7 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/global/#{slug}.svg"
   end
 
-  ## Posts
+  # # Posts
 
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
@@ -142,7 +141,7 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/for_post/#{post.slug}/big.svg"
   end
 
-  ## Voivodesips
+  # # Voivodesips
 
   def render_photo_maps_voivodeships
     @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
@@ -207,7 +206,7 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/for_voivodeship/#{voivodeship.slug}/small.svg"
   end
 
-  ## PhotoEntity tags, not Post tag
+  # # PhotoEntity tags, not Post tag
 
   # TODO: rural, winter, macro, city, night, bird..need to be tagged
   # TODO convert insect -> macro
@@ -249,7 +248,7 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/for_tag/#{tag}.svg"
   end
 
-  ## Index page
+  # # Index page
 
   def render_photo_maps_index
     html_view = PhotoMap::IndexView.new(
@@ -264,7 +263,7 @@ module RendererMixin::RenderPhotoMaps
     write_output(html_view)
   end
 
-  ## Debug
+  # # Debug
 
   def render_all_photo_maps_debug
     render_photo_maps_debug_post
