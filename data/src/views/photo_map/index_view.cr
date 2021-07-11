@@ -8,6 +8,7 @@ class PhotoMap::IndexView < PageView
     @photomaps_for_voivodeship_big : Hash(String, PhotoMapSvgView),
     @photomaps_for_voivodeship_small : Hash(String, PhotoMapSvgView),
     @photomaps_for_post_big : Hash(Tremolite::Post, PhotoMapSvgView),
+    @photomaps_global : Hash(String, PhotoMapSvgView),
     @subtitle : String = "",
   )
   end
@@ -34,6 +35,7 @@ class PhotoMap::IndexView < PageView
       s << "<a href=\"#{photomap_view_big.url}\">"
       s << "#{post.date} - #{post.title}"
       s << "</a>"
+      s << " (#{photomap_view_big.zoom}x)"
 
       s << "</li>\n"
     end
@@ -82,9 +84,28 @@ class PhotoMap::IndexView < PageView
     s << "</ul>\n"
   end
 
+  private def inner_html_globals(s)
+    # tags
+    s << "<h3>Ogólne:</h3>\n"
+    s << "<ul>\n"
+    @photomaps_global.keys.each do |tag|
+      photomap_view = @photomaps_global[tag]
+      s << "<li>"
+      s << "<a href=\"#{photomap_view.url}\">"
+      s << tag
+      s << "</a>"
+
+      s << " (#{photomap_view.zoom}x)"
+
+      s << "</li>\n"
+    end
+    s << "</ul>\n"
+  end
+
   # w/o header image
   def inner_html
     return String.build do |s|
+      inner_html_globals(s)
       inner_html_tags(s)
       inner_html_voivodeships(s)
       inner_html_posts(s)

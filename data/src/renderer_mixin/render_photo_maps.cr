@@ -11,11 +11,75 @@ module RendererMixin::RenderPhotoMaps
     render_photo_maps_index
   end
 
-  def render_photo_maps_voivodeships
-    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      render_photo_map_for_voivodeship(voivodeship)
-    end
+  ## Global
+
+  def render_photo_maps_global
+    overall_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("overall"),
+      zoom: Map::DEFAULT_OVERALL_ZOOM,
+      quant_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
+    )
+    add_photomap_globals("Ogólne", overall_view)
+    write_output(overall_view)
+
+    coarse_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("coarse"),
+      zoom: Map::DEFAULT_COARSE_ZOOM,
+      quant_size: Map::DEFAULT_COARSE_PHOTO_SIZE,
+    )
+    add_photomap_globals("Z grubsza", coarse_view)
+    write_output(coarse_view)
+
+    small_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("small"),
+      zoom: Map::DEFAULT_SMALL_ZOOM,
+      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
+    )
+    add_photomap_globals("Małe", small_view)
+    write_output(small_view)
+
+    detailed_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("small_detailed"),
+      zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
+      quant_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
+      render_routes: false
+    )
+    add_photomap_globals("Mała i szczegółowa", detailed_view)
+    write_output(detailed_view)
+
+    detailed_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("detailed"),
+      zoom: Map::DEFAULT_DETAILED_ZOOM,
+      quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
+    )
+    add_photomap_globals("Szczegółowe", detailed_view)
+    write_output(detailed_view)
+
+    # XXX: overriden by PhotoMap::Index
+
+    # html_view = PhotoMapHtmlView.new(
+    #   blog: @blog,
+    #   url: "/photo_map",
+    #   svg_url: overall_view.url
+    # )
+    # write_output(html_view)
   end
+
+  private def add_photomap_globals(name, view)
+    @photomaps_global ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_global.not_nil![name] = view
+  end
+
+  private def url_photomap_globals(slug)
+    return "/photo_map/global/#{slug}.svg"
+  end
+
+  ## Posts
 
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
@@ -78,6 +142,14 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/for_post/#{post.slug}/big.svg"
   end
 
+  ## Voivodesips
+
+  def render_photo_maps_voivodeships
+    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      render_photo_map_for_voivodeship(voivodeship)
+    end
+  end
+
   protected def render_photo_map_for_voivodeship(voivodeship : VoivodeshipEntity)
     # select posts in voivodeship
     # and render mini-map (not so mini)
@@ -135,51 +207,25 @@ module RendererMixin::RenderPhotoMaps
     return "/photo_map/for_voivodeship/#{voivodeship.slug}/small.svg"
   end
 
-  # global... lol, only Poland
-  def render_photo_maps_global
-    overall_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_overall.svg",
-      zoom: Map::DEFAULT_OVERALL_ZOOM,
-      quant_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
-    )
-    write_output(overall_view)
+  ## PhotoEntity tags, not Post tag
 
-    small_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_small.svg",
-      zoom: Map::DEFAULT_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
-    )
-    write_output(small_view)
-
-    deailed_view = PhotoMapSvgView.new(
-      blog: @blog,
-      url: "/photo_map/all_detailed.svg",
-      zoom: Map::DEFAULT_DETAILED_ZOOM,
-      quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
-    )
-    write_output(deailed_view)
-
-    html_view = PhotoMapHtmlView.new(
-      blog: @blog,
-      url: "/photo_map",
-      svg_url: overall_view.url
-    )
-    write_output(html_view)
-  end
-
-  ## Tags
+  # TODO: rural, winter, macro, city, night, bird..need to be tagged
+  # TODO convert insect -> macro
+  SELECTED_PHOTO_TAGS = ["rural", "winter", "city", "night", "macro", "portfolio", "cat", "best", "good", "timeline"]
 
   def render_photo_maps_for_tagged_photos
-    @blog.data_manager.tags.not_nil!.each do |tag|
+    # PhotoEntity.tags_dictionary.each do |tag|
+    #   render_photo_maps_for_tag(tag)
+    # end
+
+    SELECTED_PHOTO_TAGS.sort.each do |tag|
       render_photo_maps_for_tag(tag)
     end
   end
 
-  def render_photo_maps_for_tag(tag : TagEntity)
+  def render_photo_maps_for_tag(tag : String)
     photo_entities = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
-      photo_entity.tags.includes?(tag.slug)
+      photo_entity.tags.includes?(tag)
     end
 
     photomap_view = PhotoMapSvgView.new(
@@ -194,13 +240,13 @@ module RendererMixin::RenderPhotoMaps
     write_output(photomap_view)
   end
 
-  private def add_photomap_for_tag(tag : TagEntity, view)
+  private def add_photomap_for_tag(tag : String, view)
     @photomaps_for_tag ||= Hash(String, PhotoMapSvgView).new
-    @photomaps_for_tag.not_nil![tag.name] = view
+    @photomaps_for_tag.not_nil![tag] = view
   end
 
-  private def url_photomap_for_tag(tag : TagEntity)
-    return "/photo_map/for_tag/#{tag.slug}.svg"
+  private def url_photomap_for_tag(tag : String)
+    return "/photo_map/for_tag/#{tag}.svg"
   end
 
   ## Index page
@@ -213,6 +259,7 @@ module RendererMixin::RenderPhotoMaps
       photomaps_for_voivodeship_big: @photomaps_for_voivodeship_big.not_nil!,
       photomaps_for_voivodeship_small: @photomaps_for_voivodeship_small.not_nil!,
       photomaps_for_post_big: @photomaps_for_post_big.not_nil!,
+      photomaps_global: @photomaps_global.not_nil!,
     )
     write_output(html_view)
   end

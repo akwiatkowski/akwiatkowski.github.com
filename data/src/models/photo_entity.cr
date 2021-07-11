@@ -30,6 +30,8 @@ struct PhotoEntity
   @exif : ExifEntity
 
   @tags : Array(String)
+  # all possible tags will be stored here
+  @@tags_dictionary = Array(String).new
 
   FLAG_NOGALLERY   = "nogallery"
   FLAG_NO_TIMELINE = "notimeline"
@@ -169,8 +171,14 @@ struct PhotoEntity
     @param_string.split(/,/).each do |param_split|
       if param_split =~ /tag:(\w+)/
         @tags << $1.to_s
+
+        @@tags_dictionary << $1.to_s unless @@tags_dictionary.includes?($1.to_s)
       end
     end
+  end
+
+  def self.tags_dictionary
+    return @@tags_dictionary
   end
 
   def hash_for_partial(

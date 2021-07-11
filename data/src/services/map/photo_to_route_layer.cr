@@ -402,7 +402,7 @@ class Map::PhotoToRouteLayer
 
     return String.build do |s|
       s << "<svg x='#{corner_photo_x.to_i}' y='#{corner_photo_y.to_i}' width='#{@image_size}' height='#{@image_size}' class='photo-map-photo'>\n"
-      s << "<a href='#{post_url}' target='_blank'>\n"
+      s << "<a href='#{href_url}' target='_blank'>\n"
       s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@image_size}' height='#{@image_size}' />\n"
       s << "</a>\n"
       s << "</svg>\n"
