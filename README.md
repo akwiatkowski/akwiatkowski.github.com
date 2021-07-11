@@ -34,6 +34,10 @@ This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
   * [x] RSS/Atom by tags
   * [ ] Post summary JSON - partially
   * [ ] About: check this http://kolejnapodroz.pl/blogu/
+  * [ ] Clean photo_maps structure
+  * [ ] Move navigation related but processable elements to cache, render only at full render to
+        make post update renders super fast
+  * [ ] Add diff to check what has changed (stream or temp file)     
 
 ## Installation
 
