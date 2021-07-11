@@ -19,6 +19,7 @@ require "./renderer_mixin/render_post_and_photo_related"
 
 require "./views/photo_map_html_view"
 require "./views/photo_map_svg_view"
+require "./views/photo_map/index_view"
 require "./views/land_view"
 require "./views/post_gallery_view"
 require "./views/post_gallery_stats_view"

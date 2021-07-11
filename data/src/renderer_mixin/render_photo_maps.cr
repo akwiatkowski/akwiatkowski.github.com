@@ -1,9 +1,4 @@
 module RendererMixin::RenderPhotoMaps
-  def render_all_photo_maps_debug
-    render_photo_maps_debug_post
-    render_photo_maps_debug_voivodeship
-  end
-
   def render_all_photo_maps
     render_photo_maps_voivodeships
     render_photo_maps_posts
@@ -11,27 +6,9 @@ module RendererMixin::RenderPhotoMaps
     render_photo_maps_global
 
     render_photo_maps_for_tagged_photos
-  end
 
-  def render_photo_maps_debug_post
-    slug = "2020-09-06-lodzkie-zakamarki-i-stare-domy"
-    # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
-    post = @blog.post_collection.posts.not_nil!.select do |post|
-      post.slug == slug
-    end.first
-
-    render_photo_map_for_post(post)
-    puts "SLEEPING"
-    sleep 5
-  end
-
-  def render_photo_maps_debug_voivodeship
-    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
-      next unless voivodeship.slug == "wielkopolskie"
-      render_photo_map_for_voivodeship(voivodeship)
-      puts "SLEEPING"
-      sleep 5
-    end
+    # all rendered photomaps will have url here
+    render_photo_maps_index
   end
 
   def render_photo_maps_voivodeships
@@ -72,7 +49,7 @@ module RendererMixin::RenderPhotoMaps
       if autozoom_value
         post_map_view = PhotoMapSvgView.new(
           blog: @blog,
-          url: "/photo_map/for_post/#{post.slug}.svg",
+          url: url_photomap_for_post_big(post),
           zoom: autozoom_value.not_nil!,
           quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
           post_slugs: [post.slug],
@@ -81,6 +58,7 @@ module RendererMixin::RenderPhotoMaps
           render_photos_out_of_route: true,
           photo_direct_link: true,
         )
+        add_photomap_for_post_big(post, post_map_view)
         write_output(post_map_view)
         Log.debug { "#{post.slug} - render_photo_maps_posts done" }
       else
@@ -89,6 +67,15 @@ module RendererMixin::RenderPhotoMaps
     else
       Log.debug { "#{post.slug} - no coords" }
     end
+  end
+
+  private def add_photomap_for_post_big(post, view)
+    @photomaps_for_post_big ||= Hash(Tremolite::Post, PhotoMapSvgView).new
+    @photomaps_for_post_big.not_nil![post] = view
+  end
+
+  private def url_photomap_for_post_big(post : Tremolite::Post)
+    return "/photo_map/for_post/#{post.slug}/big.svg"
   end
 
   protected def render_photo_map_for_voivodeship(voivodeship : VoivodeshipEntity)
@@ -109,23 +96,43 @@ module RendererMixin::RenderPhotoMaps
 
     voivodeship_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/for_voivodeship/#{voivodeship.slug}.svg",
+      url: url_photomap_for_voivodeship_big(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
       quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
+    add_photomap_for_voivodeship_big(voivodeship, voivodeship_view)
     write_output(voivodeship_view)
 
     voivodeship_small_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/for_voivodeship/#{voivodeship.slug}_small.svg",
+      url: url_photomap_for_voivodeship_small(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
       quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
+    add_photomap_for_voivodeship_small(voivodeship, voivodeship_small_view)
     write_output(voivodeship_small_view)
+  end
+
+  private def add_photomap_for_voivodeship_big(voivodeship, view)
+    @photomaps_for_voivodeship_big ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_voivodeship_big.not_nil![voivodeship.name] = view
+  end
+
+  private def url_photomap_for_voivodeship_big(voivodeship : VoivodeshipEntity)
+    return "/photo_map/for_voivodeship/#{voivodeship.slug}/big.svg"
+  end
+
+  private def add_photomap_for_voivodeship_small(voivodeship, view)
+    @photomaps_for_voivodeship_small ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_voivodeship_small.not_nil![voivodeship.name] = view
+  end
+
+  private def url_photomap_for_voivodeship_small(voivodeship : VoivodeshipEntity)
+    return "/photo_map/for_voivodeship/#{voivodeship.slug}/small.svg"
   end
 
   # global... lol, only Poland
@@ -162,19 +169,79 @@ module RendererMixin::RenderPhotoMaps
     write_output(html_view)
   end
 
+  ## Tags
+
   def render_photo_maps_for_tagged_photos
+    @blog.data_manager.tags.not_nil!.each do |tag|
+      render_photo_maps_for_tag(tag)
+    end
+  end
+
+  def render_photo_maps_for_tag(tag : TagEntity)
     photo_entities = @blog.data_manager.exif_db.all_flatten_photo_entities.select do |photo_entity|
-      photo_entity.tags.includes?("cat")
+      photo_entity.tags.includes?(tag.slug)
     end
 
-    overall_view = PhotoMapSvgView.new(
+    photomap_view = PhotoMapSvgView.new(
       blog: @blog,
-      url: "/photo_map/for_tag/cat.svg",
+      url: url_photomap_for_tag(tag),
       zoom: Map::DEFAULT_TAG_ZOOM,
       quant_size: Map::DEFAULT_TAG_PHOTO_SIZE,
       photo_entities: photo_entities,
       render_routes: false,
     )
-    write_output(overall_view)
+    add_photomap_for_tag(tag, photomap_view)
+    write_output(photomap_view)
+  end
+
+  private def add_photomap_for_tag(tag : TagEntity, view)
+    @photomaps_for_tag ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_tag.not_nil![tag.name] = view
+  end
+
+  private def url_photomap_for_tag(tag : TagEntity)
+    return "/photo_map/for_tag/#{tag.slug}.svg"
+  end
+
+  ## Index page
+
+  def render_photo_maps_index
+    html_view = PhotoMap::IndexView.new(
+      blog: @blog,
+      url: "/photo_map",
+      photomaps_for_tag: @photomaps_for_tag.not_nil!,
+      photomaps_for_voivodeship_big: @photomaps_for_voivodeship_big.not_nil!,
+      photomaps_for_voivodeship_small: @photomaps_for_voivodeship_small.not_nil!,
+      photomaps_for_post_big: @photomaps_for_post_big.not_nil!,
+    )
+    write_output(html_view)
+  end
+
+  ## Debug
+
+  def render_all_photo_maps_debug
+    render_photo_maps_debug_post
+    render_photo_maps_debug_voivodeship
+  end
+
+  def render_photo_maps_debug_post
+    slug = "2020-09-06-lodzkie-zakamarki-i-stare-domy"
+    # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
+    post = @blog.post_collection.posts.not_nil!.select do |post|
+      post.slug == slug
+    end.first
+
+    render_photo_map_for_post(post)
+    puts "SLEEPING"
+    sleep 5
+  end
+
+  def render_photo_maps_debug_voivodeship
+    @blog.data_manager.voivodeships.not_nil!.each do |voivodeship|
+      next unless voivodeship.slug == "wielkopolskie"
+      render_photo_map_for_voivodeship(voivodeship)
+      puts "SLEEPING"
+      sleep 5
+    end
   end
 end
