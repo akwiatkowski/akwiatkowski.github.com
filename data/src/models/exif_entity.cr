@@ -93,7 +93,7 @@ struct ExifEntity
   }
 
   LENS_NAMES = {
-    "FE 85mm F1.8"                                 => "Sony 85 f1.8",
+    "FE 85mm F1.8"                                 => "Sony 85mm f1.8",
     "E 28-75mm F2.8-2.8"                           => "Tamron 28-75mm f2.8",
     "100-400mm F5-6.3 DG DN OS | Contemporary 020" => "Sigma 100-400mm f5-6.3",
     "LUMIX G VARIO 14-140/F3.5-5.6"                => "Lumix 14-140mm",
@@ -134,6 +134,9 @@ struct ExifEntity
     "FE 70-200mm F2.8 GM OSS"                      => "Sony GM 70-200mm f2.8",
     "----"                                         => "Nieznane",
     "Pentax SMC-A 135/2.8"                         => "Pentax A 135mm f2.8",
+    "M.300mm F4.0 + MC-14"                         => "Olympus 300mm f4 + TC 1.4x",
+    "M.300mm F4.0 + MC-20"                         => "Olympus 300mm f4 + TC 2.0x",
+    "OLYMPUS M.300mm F4.0"                         => "Olympus 300mm f4",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)

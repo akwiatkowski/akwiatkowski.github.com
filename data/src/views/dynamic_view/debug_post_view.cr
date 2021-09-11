@@ -17,14 +17,14 @@ module DynamicView
 
     def inner_html
       return String.build do |s|
-        s << "<table class=\"table\">"
+        s << "<table class=\"table\">\n"
 
-        s << "<tr>"
-        s << "<th></th>"
+        s << "<tr>\n"
+        s << "<th></th>\n"
         TABLE_HEADERS.values.each do |header_title|
-          s << "<th>#{header_title}</th>"
+          s << "<th>#{header_title}</th>\n"
         end
-        s << "</tr>"
+        s << "</tr>\n"
 
         # filter by severity of lack of readiness of post
         # and then coeff
@@ -40,8 +40,8 @@ module DynamicView
         end
 
         post_readiness.each_with_index do |tuple, i|
-          s << "<tr class=\"#{tuple[:css]}\">"
-          s << "<td>#{i + 1}</td>"
+          s << "<tr class=\"#{tuple[:css]}\">\n"
+          s << "<td>#{i + 1}</td>\n"
           TABLE_HEADERS.keys.each do |key|
             value = tuple[key]
             button_css = tuple[:css].gsub("text-", "btn-")
@@ -60,11 +60,11 @@ module DynamicView
               value_string = "<a href=\"#{url}\" class=\"#{tuple[:css]}\">#{value_string}</a>"
             end
 
-            s << "<td>#{value_string}</td>"
+            s << "<td>#{value_string}</td>\n"
           end
-          s << "</tr>"
+          s << "</tr>\n"
         end
-        s << "</table>"
+        s << "</table>\n"
       end
     end
 

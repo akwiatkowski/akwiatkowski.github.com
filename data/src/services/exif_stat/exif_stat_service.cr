@@ -14,7 +14,7 @@ class ExifStatService
     180, 250,   # tele 2
     300, 400,   # long tele
     500, 800,   # super tele
-    1000,       # ulra tele
+    1200        # ulra tele
   ]
 
   MIN_FOCAL = NORMALIZATION_INDEXES.min
