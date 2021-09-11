@@ -1,0 +1,261 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+- image_filename: 2021_08_28__21_09__8283351.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59575
+  lon: 19.559625
+  altitude: 103.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5114
+  height: 3818
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 21:09:41.000000000+02:00
+- image_filename: 2021_08_29__09_59_DSC07652.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59781944444445
+  lon: 19.55686111111111
+  altitude: 109.0
+  focal_length: 52.0
+  focal_length_35: 52.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5946
+  height: 3956
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-29 09:59:52.000000000+02:00
+- image_filename: 2021_08_28__19_36__8283327.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.595736111111115
+  lon: 19.55836111111111
+  altitude: 98.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4724
+  height: 3306
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 19:36:04.000000000+02:00
+- image_filename: 2021_08_28__19_38__8283335.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.595666666666666
+  lon: 19.561152777777778
+  altitude: 97.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5150
+  height: 3844
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 19:38:48.000000000+02:00
+- image_filename: 2021_08_29__10_01_DSC07656.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59781944444445
+  lon: 19.55686111111111
+  altitude: 109.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5909
+  height: 3931
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-29 10:01:03.000000000+02:00
+- image_filename: 2021_08_28__18_35_DSC07579.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.562
+  lon: 19.497777777777777
+  altitude: 93.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5867
+  height: 3903
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:35:25.000000000+02:00
+- image_filename: 2021_08_28__18_33_DSC07572.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.561875
+  lon: 19.499319444444446
+  altitude: 93.0
+  focal_length: 100.0
+  focal_length_35: 100.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:33:57.000000000+02:00
+- image_filename: 2021_08_28__21_07__8283348.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.595555555555556
+  lon: 19.561625
+  altitude: 103.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5203
+  height: 3884
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 21:07:05.000000000+02:00
+- image_filename: 2021_08_28__21_06__8283347.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59554166666667
+  lon: 19.56176388888889
+  altitude: 103.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 3.0
+  exposure_string: 3 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5197
+  height: 3880
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 21:06:58.000000000+02:00
+- image_filename: 2021_08_28__18_51_DSC07633.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.561749999999996
+  lon: 19.494416666666666
+  altitude: 100.0
+  focal_length: 132.1
+  focal_length_35: 132.0
+  crop: 0.9992429977289933
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1600
+  width: 3418
+  height: 5528
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:51:49.000000000+02:00
+- image_filename: 2021_08_29__10_04_DSC07659.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59781944444445
+  lon: 19.55686111111111
+  altitude: 109.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5897
+  height: 3923
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-29 10:04:08.000000000+02:00
+- image_filename: 2021_08_28__18_41_DSC07606.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.56172222222222
+  lon: 19.494472222222225
+  altitude: 100.0
+  focal_length: 182.9
+  focal_length_35: 182.0
+  crop: 0.9950792782941498
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 250
+  width: 5014
+  height: 3551
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:41:27.000000000+02:00
+- image_filename: 2021_08_28__19_49__8283339.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1.41
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-08-28 19:49:43.000000000+02:00
+- image_filename: 2021_08_28__18_29_DSC07569.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.561680555555554
+  lon: 19.500777777777778
+  altitude: 95.0
+  focal_length: 146.1
+  focal_length_35: 146.0
+  crop: 0.999315537303217
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:29:32.000000000+02:00
+- image_filename: 2021_08_28__18_35_DSC07581.jpg
+  post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.56202777777777
+  lon: 19.497541666666667
+  altitude: 92.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 320
+  width: 5573
+  height: 3568
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-28 18:35:37.000000000+02:00

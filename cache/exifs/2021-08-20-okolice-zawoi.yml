@@ -1,0 +1,919 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+- image_filename: 2021_08_20__13_51_DSC05947.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68084722222222
+  lon: 19.60516666666667
+  altitude: 481.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5551
+  height: 3693
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:51:17.000000000+02:00
+- image_filename: 2021_08_20__12_32_DSC05908.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 383.4
+  focal_length_35: 383.0
+  crop: 0.9989567031820553
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 3933
+  height: 2984
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 12:32:10.000000000+02:00
+- image_filename: 2021_08_20__12_06__8201702.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.26
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:06:06.000000000+02:00
+- image_filename: 2021_08_20__14_58__8201901.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68447222222222
+  lon: 19.599249999999998
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.26
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:58:30.000000000+02:00
+- image_filename: 2021_08_20__15_13_DSC06062.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.683277777777775
+  lon: 19.60165277777778
+  altitude: 542.0
+  focal_length: 40.0
+  focal_length_35: 40.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 15:13:35.000000000+02:00
+- image_filename: 2021_08_20__19_32__8201963.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.69938888888888
+  lon: 19.560041666666667
+  altitude: 804.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 215.57
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 19:32:37.000000000+02:00
+- image_filename: 2021_08_20__15_39__8201956.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.680125
+  lon: 19.60529166666667
+  altitude: 485.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 15.23
+  iso: 200
+  width: 5190
+  height: 3846
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 15:39:27.000000000+02:00
+- image_filename: 2021_08_20__15_38__8201952.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68031944444444
+  lon: 19.605736111111113
+  altitude: 487.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 7.39
+  iso: 200
+  width: 5083
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 15:38:05.000000000+02:00
+- image_filename: 2021_08_20__14_53__8201857.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68434722222222
+  lon: 19.599208333333333
+  altitude: 600.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.26
+  iso: 800
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:53:21.000000000+02:00
+- image_filename: 2021_08_20__14_55__8201877.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68438888888888
+  lon: 19.599180555555556
+  altitude: 600.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.28
+  iso: 800
+  width: 4973
+  height: 3492
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:55:11.000000000+02:00
+- image_filename: 2021_08_20__11_59__8201646.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.25
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 11:59:07.000000000+02:00
+- image_filename: 2021_08_20__19_37__8201981.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.69938888888888
+  lon: 19.560041666666667
+  altitude: 804.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1.31
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 19:37:13.000000000+02:00
+- image_filename: 2021_08_20__19_37__8201982.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.69938888888888
+  lon: 19.560041666666667
+  altitude: 804.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1.4
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 19:37:21.000000000+02:00
+- image_filename: 2021_08_20__11_57__8201635.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.29
+  iso: 640
+  width: 4847
+  height: 3507
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 11:57:23.000000000+02:00
+- image_filename: 2021_08_20__19_37__8201983.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.69938888888888
+  lon: 19.560041666666667
+  altitude: 804.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 1.42
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 19:37:29.000000000+02:00
+- image_filename: 2021_08_20__14_57__8201896.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.684486111111106
+  lon: 19.599249999999998
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.25
+  iso: 1000
+  width: 4844
+  height: 3527
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:57:58.000000000+02:00
+- image_filename: 2021_08_20__14_58__8201900.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68447222222222
+  lon: 19.599249999999998
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.27
+  iso: 1000
+  width: 5072
+  height: 3779
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:58:18.000000000+02:00
+- image_filename: 2021_08_20__14_31__8201770.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68434722222222
+  lon: 19.599208333333333
+  altitude: 598.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.24
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:31:44.000000000+02:00
+- image_filename: 2021_08_20__15_26__8201921.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68245833333333
+  lon: 19.60415277777778
+  altitude: 503.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1.6
+  iso: 200
+  width: 4449
+  height: 3325
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 15:26:38.000000000+02:00
+- image_filename: 2021_08_20__14_44__8201813.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.684236111111105
+  lon: 19.599166666666665
+  altitude: 598.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.44
+  iso: 320
+  width: 4960
+  height: 3513
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:44:03.000000000+02:00
+- image_filename: 2021_08_20__11_51__8201623.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.32
+  iso: 640
+  width: 4713
+  height: 3435
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 11:51:05.000000000+02:00
+- image_filename: 2021_08_20__11_58__8201641.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.26
+  iso: 640
+  width: 3425
+  height: 4744
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 11:58:02.000000000+02:00
+- image_filename: 2021_08_20__14_28__8201753.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.684374999999996
+  lon: 19.599249999999998
+  altitude: 598.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.28
+  iso: 800
+  width: 4227
+  height: 3053
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:28:51.000000000+02:00
+- image_filename: 2021_08_20__14_52__8201836.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68438888888888
+  lon: 19.599208333333333
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.28
+  iso: 1250
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:52:04.000000000+02:00
+- image_filename: 2021_08_20__19_37__8201984.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.69938888888888
+  lon: 19.560041666666667
+  altitude: 804.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 1.77
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 19:37:38.000000000+02:00
+- image_filename: 2021_08_20__14_32__8201778.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68434722222222
+  lon: 19.599180555555556
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.29
+  iso: 800
+  width: 3952
+  height: 3111
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:32:47.000000000+02:00
+- image_filename: 2021_08_20__12_05__8201697.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.26
+  iso: 800
+  width: 4644
+  height: 3495
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:05:54.000000000+02:00
+- image_filename: 2021_08_20__12_32_DSC05905.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 383.4
+  focal_length_35: 383.0
+  crop: 0.9989567031820553
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 4238
+  height: 3413
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 12:32:04.000000000+02:00
+- image_filename: 2021_08_20__13_53_DSC05972.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68143055555555
+  lon: 19.605694444444445
+  altitude: 483.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:53:33.000000000+02:00
+- image_filename: 2021_08_20__15_29__8201938.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68248611111111
+  lon: 19.604166666666668
+  altitude: 502.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 2.38
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-20 15:29:26.000000000+02:00
+- image_filename: 2021_08_20__14_00_DSC06032.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68241666666666
+  lon: 19.604861111111113
+  altitude: 491.0
+  focal_length: 40.0
+  focal_length_35: 40.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 14:00:13.000000000+02:00
+- image_filename: 2021_08_20__13_56_DSC05982.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68255555555555
+  lon: 19.60513888888889
+  altitude: 489.0
+  focal_length: 161.8
+  focal_length_35: 161.0
+  crop: 0.9950556242274412
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 5330
+  height: 3776
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:56:19.000000000+02:00
+- image_filename: 2021_08_20__13_56_DSC05979.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.682541666666665
+  lon: 19.605180555555556
+  altitude: 489.0
+  focal_length: 233.4
+  focal_length_35: 233.0
+  crop: 0.998286203941731
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:56:12.000000000+02:00
+- image_filename: 2021_08_20__13_52_DSC05965.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68095833333333
+  lon: 19.605555555555558
+  altitude: 481.0
+  focal_length: 169.3
+  focal_length_35: 169.0
+  crop: 0.9982279976373302
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:52:49.000000000+02:00
+- image_filename: 2021_08_20__13_59_DSC06016.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68252777777778
+  lon: 19.605194444444447
+  altitude: 489.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5617
+  height: 3671
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 13:59:17.000000000+02:00
+- image_filename: 2021_08_20__13_58_DSC05998.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68258333333333
+  lon: 19.605208333333334
+  altitude: 490.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:58:12.000000000+02:00
+- image_filename: 2021_08_20__14_05_DSC06044.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.682513888888884
+  lon: 19.60415277777778
+  altitude: 500.0
+  focal_length: 30.0
+  focal_length_35: 30.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 14:05:03.000000000+02:00
+- image_filename: 2021_08_20__12_09__8201729.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.26
+  iso: 800
+  width: 5214
+  height: 3616
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:09:30.000000000+02:00
+- image_filename: 2021_08_20__13_52_DSC05953.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.680902777777774
+  lon: 19.60551388888889
+  altitude: 482.0
+  focal_length: 344.3
+  focal_length_35: 344.0
+  crop: 0.9991286668602962
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  width: 5390
+  height: 3662
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:52:26.000000000+02:00
+- image_filename: 2021_08_20__13_59_DSC06023.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.682541666666665
+  lon: 19.60525
+  altitude: 489.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 13:59:26.000000000+02:00
+- image_filename: 2021_08_20__14_53__8201855.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68434722222222
+  lon: 19.599208333333333
+  altitude: 600.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 800
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:53:17.000000000+02:00
+- image_filename: 2021_08_20__15_16_DSC06065.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68268055555556
+  lon: 19.603
+  altitude: 518.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5691
+  height: 3775
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 15:16:38.000000000+02:00
+- image_filename: 2021_08_20__12_02__8201679.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.27
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:02:23.000000000+02:00
+- image_filename: 2021_08_20__12_01__8201672.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.25
+  iso: 1000
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:01:12.000000000+02:00
+- image_filename: 2021_08_20__12_31_DSC05887.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 400.0
+  focal_length_35: 400.0
+  crop: 1.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 3810
+  height: 2897
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 12:31:05.000000000+02:00
+- image_filename: 2021_08_20__13_50_DSC05943.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68044444444444
+  lon: 19.60477777777778
+  altitude: 480.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 13:50:17.000000000+02:00
+- image_filename: 2021_08_20__11_59__8201651.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.29
+  iso: 1000
+  width: 4787
+  height: 3447
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 11:59:38.000000000+02:00
+- image_filename: 2021_08_20__13_58_DSC05994.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68259722222222
+  lon: 19.605125
+  altitude: 491.0
+  focal_length: 268.3
+  focal_length_35: 268.0
+  crop: 0.9988818486768543
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 640
+  width: 4895
+  height: 3210
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-20 13:58:07.000000000+02:00
+- image_filename: 2021_08_20__12_06__8201707.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68841666666666
+  lon: 19.566069444444445
+  altitude: 640.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.23
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 12:06:22.000000000+02:00
+- image_filename: 2021_08_20__14_58__8201903.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68447222222222
+  lon: 19.599249999999998
+  altitude: 599.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.23
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-20 14:58:36.000000000+02:00
+- image_filename: 2021_08_20__14_00_DSC06037.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.682361111111106
+  lon: 19.604722222222225
+  altitude: 493.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 14:00:27.000000000+02:00
+- image_filename: 2021_08_20__13_59_DSC06026.jpg
+  post_slug: 2021-08-20-okolice-zawoi
+  lat: 49.68252777777778
+  lon: 19.60525
+  altitude: 489.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-20 13:59:31.000000000+02:00

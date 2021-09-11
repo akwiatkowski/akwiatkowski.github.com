@@ -1,16 +1,16 @@
 ---
-bicycle_distance: 12765
-bicycle_time_length: 1271
-bicycle_count: 223
-hike_distance: 2161
-hike_time_length: 914
-hike_count: 199
+bicycle_distance: 13407
+bicycle_time_length: 1333
+bicycle_count: 233
+hike_distance: 2224
+hike_time_length: 939
+hike_count: 206
 train_distance: 5496
 train_time_length: 191
 train_count: 28
-self_distance: 14926
-self_time_length: 2185
-updated_at: 2021-07-11 09:45:11.535123794+02:00
+self_distance: 15631
+self_time_length: 2272
+updated_at: 2021-09-11 11:34:08.619951004+02:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
@@ -23,7 +23,7 @@ voivodeships_nav:
   count: 3
 - name: Lubuskie
   url: /voivodeship/lubuskie/masonry.html
-  count: 25
+  count: 26
 - name: Małopolskie
   url: /voivodeship/malopolskie/masonry.html
   count: 33
@@ -47,7 +47,7 @@ voivodeships_nav:
   count: 10
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 150
+  count: 151
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
   count: 25
@@ -103,7 +103,7 @@ tags_nav:
   count: 97
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 201
+  count: 202
 - name: Pieszo
   url: /tag/hike/masonry.html
   count: 169

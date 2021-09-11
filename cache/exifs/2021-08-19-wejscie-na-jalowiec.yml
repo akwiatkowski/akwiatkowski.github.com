@@ -1,0 +1,752 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+- image_filename: 2021_08_19__12_02_DSC05741.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.661
+  lon: 19.477666666666664
+  altitude: 1105.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 12:02:57.000000000+02:00
+- image_filename: 2021_08_19__11_36__8191425.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66591666666667
+  lon: 19.47123611111111
+  altitude: 954.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 14.1
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:36:11.000000000+02:00
+- image_filename: 2021_08_19__13_39__8191553.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67219444444444
+  lon: 19.517652777777776
+  altitude: 817.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 640
+  width: 3632
+  height: 4763
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:39:14.000000000+02:00
+- image_filename: 2021_08_19__13_15_DSC05794.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.669041666666665
+  lon: 19.51013888888889
+  altitude: 835.0
+  focal_length: 69.0
+  focal_length_35: 69.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5819
+  height: 3871
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 13:15:41.000000000+02:00
+- image_filename: 2021_08_19__10_56__8191380.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.672875
+  lon: 19.48159722222222
+  altitude: 701.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.25
+  exposure_string: 1/4 s
+  focus_distance: 11.48
+  iso: 200
+  width: 5055
+  height: 3774
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:56:09.000000000+02:00
+- image_filename: 2021_08_19__11_16__8191399.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66913888888889
+  lon: 19.47501388888889
+  altitude: 835.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.34
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 11:16:54.000000000+02:00
+- image_filename: 2021_08_19__10_49__8191377.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67488888888889
+  lon: 19.481875
+  altitude: 651.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 61.83
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:49:31.000000000+02:00
+- image_filename: 2021_08_19__12_36__8191461.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66184722222222
+  lon: 19.486541666666668
+  altitude: 1046.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.28
+  iso: 1000
+  width: 3889
+  height: 2852
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 12:36:39.000000000+02:00
+- image_filename: 2021_08_19__14_11__8191598.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.68395833333333
+  lon: 19.51309722222222
+  altitude: 590.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.29
+  iso: 200
+  width: 3399
+  height: 4770
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 14:11:29.000000000+02:00
+- image_filename: 2021_08_19__12_25__8191454.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66123611111111
+  lon: 19.47883333333333
+  altitude: 1097.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.28
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 12:25:42.000000000+02:00
+- image_filename: 2021_08_19__14_04__8191584.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.682027777777776
+  lon: 19.514541666666666
+  altitude: 625.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 14:04:27.000000000+02:00
+- image_filename: 2021_08_19__13_33__8191501.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67225
+  lon: 19.51759722222222
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.28
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:33:43.000000000+02:00
+- image_filename: 2021_08_19__10_41__8191363.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67822222222222
+  lon: 19.48351388888889
+  altitude: 605.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 11.37
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:41:52.000000000+02:00
+- image_filename: 2021_08_19__13_32__8191490.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67222222222222
+  lon: 19.51758333333333
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.25
+  iso: 640
+  width: 4884
+  height: 3730
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:32:22.000000000+02:00
+- image_filename: 2021_08_19__11_48__8191431.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.663555555555554
+  lon: 19.47409722222222
+  altitude: 1051.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 32.97
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:48:30.000000000+02:00
+- image_filename: 2021_08_19__12_47__8191479.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.663805555555555
+  lon: 19.48911111111111
+  altitude: 978.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.28
+  iso: 1600
+  width: 4377
+  height: 3206
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 12:47:33.000000000+02:00
+- image_filename: 2021_08_19__13_35__8191516.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67230555555555
+  lon: 19.51763888888889
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.25
+  iso: 640
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:35:38.000000000+02:00
+- image_filename: 2021_08_19__11_34__8191423.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.666222222222224
+  lon: 19.470652777777776
+  altitude: 944.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.72
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:34:50.000000000+02:00
+- image_filename: 2021_08_19__10_47__8191376.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67572222222222
+  lon: 19.482125
+  altitude: 637.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.5
+  exposure_string: 1/2 s
+  focus_distance: 5.66
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:47:29.000000000+02:00
+- image_filename: 2021_08_19__13_37__8191525.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.672291666666666
+  lon: 19.51758333333333
+  altitude: 817.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.25
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:37:30.000000000+02:00
+- image_filename: 2021_08_19__10_36__8191350.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.680527777777776
+  lon: 19.48363888888889
+  altitude: 590.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 35.15
+  iso: 200
+  width: 5159
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:36:30.000000000+02:00
+- image_filename: 2021_08_19__13_38__8191539.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67223611111111
+  lon: 19.517666666666667
+  altitude: 817.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 0.28
+  iso: 640
+  width: 4703
+  height: 3423
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:38:37.000000000+02:00
+- image_filename: 2021_08_19__12_36__8191465.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66184722222222
+  lon: 19.486527777777777
+  altitude: 1046.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.28
+  iso: 1000
+  width: 3727
+  height: 2976
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 12:36:56.000000000+02:00
+- image_filename: 2021_08_19__11_39__8191427.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.665277777777774
+  lon: 19.47208333333333
+  altitude: 980.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 29.78
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:39:36.000000000+02:00
+- image_filename: 2021_08_19__11_36__8191426.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.665902777777774
+  lon: 19.471305555555553
+  altitude: 956.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 25.09
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:36:19.000000000+02:00
+- image_filename: 2021_08_19__11_06__8191392.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67022222222222
+  lon: 19.47972222222222
+  altitude: 771.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.4
+  iso: 640
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:06:03.000000000+02:00
+- image_filename: 2021_08_19__13_38__8191546.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67220833333333
+  lon: 19.517722222222222
+  altitude: 817.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 640
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:38:57.000000000+02:00
+- image_filename: 2021_08_19__13_36__8191521.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.672291666666666
+  lon: 19.517611111111112
+  altitude: 818.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.26
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:36:04.000000000+02:00
+- image_filename: 2021_08_19__13_14_DSC05792.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.668625
+  lon: 19.508805555555554
+  altitude: 845.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5950
+  height: 3958
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 13:14:19.000000000+02:00
+- image_filename: 2021_08_19__13_23_DSC05812.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.671499999999995
+  lon: 19.515833333333333
+  altitude: 814.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 13:23:25.000000000+02:00
+- image_filename: 2021_08_19__13_36__8191522.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67227777777777
+  lon: 19.517611111111112
+  altitude: 818.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.26
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:36:11.000000000+02:00
+- image_filename: 2021_08_19__13_28__8191484.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67194444444444
+  lon: 19.51684722222222
+  altitude: 815.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 0.63
+  iso: 800
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:28:27.000000000+02:00
+- image_filename: 2021_08_19__12_04_DSC05748.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.66106944444444
+  lon: 19.477638888888887
+  altitude: 1105.0
+  focal_length: 244.5
+  focal_length_35: 244.0
+  crop: 0.9979550102249489
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5733
+  height: 3814
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  time: 2021-08-19 12:04:40.000000000+02:00
+- image_filename: 2021_08_19__11_22__8191419.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.668791666666664
+  lon: 19.471833333333333
+  altitude: 874.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 2.18
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 11:22:57.000000000+02:00
+- image_filename: 2021_08_19__13_19_DSC05805.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.670402777777774
+  lon: 19.513375
+  altitude: 818.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5930
+  height: 3945
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 13:19:28.000000000+02:00
+- image_filename: 2021_08_19__13_19_DSC05804.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.670319444444445
+  lon: 19.513222222222222
+  altitude: 817.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5834
+  height: 3881
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-08-19 13:19:14.000000000+02:00
+- image_filename: 2021_08_19__13_32__8191493.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67220833333333
+  lon: 19.517652777777776
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 0.2
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:32:38.000000000+02:00
+- image_filename: 2021_08_19__13_34__8191507.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67230555555555
+  lon: 19.517611111111112
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 0.28
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:34:21.000000000+02:00
+- image_filename: 2021_08_19__13_35__8191513.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67230555555555
+  lon: 19.51763888888889
+  altitude: 816.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 0.29
+  iso: 640
+  width: 2919
+  height: 4308
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:35:26.000000000+02:00
+- image_filename: 2021_08_19__10_41__8191356.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.678263888888885
+  lon: 19.48351388888889
+  altitude: 605.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 8.55
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-19 10:41:05.000000000+02:00
+- image_filename: 2021_08_19__13_37__8191531.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67227777777777
+  lon: 19.51759722222222
+  altitude: 818.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 0.23
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:37:46.000000000+02:00
+- image_filename: 2021_08_19__13_39__8191552.jpg
+  post_slug: 2021-08-19-wejscie-na-jalowiec
+  lat: 49.67219444444444
+  lon: 19.517666666666667
+  altitude: 817.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.25
+  iso: 640
+  width: 3485
+  height: 4836
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  time: 2021-08-19 13:39:12.000000000+02:00
