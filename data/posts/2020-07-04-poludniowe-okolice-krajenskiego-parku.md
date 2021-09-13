@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_07_04__09_46__7042542.jpg
 tags:                   [bicycle, main, best]
 towns:                  [wielkopolskie, kujawsko_pomorskie, pila, krajenka, kaczory, wysoka, lobzenica, wiecbork, sosno, koronowo, sicienko, bydgoszcz]
+lands:                  [pojezierza_pomorskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-04-poludniowe-okolice-krajenskiego-parku.json"

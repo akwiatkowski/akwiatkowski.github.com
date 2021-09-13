@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_07_21__09_52__7211444.jpg
 tags:                   [bicycle, main]
 towns:                  [wielkopolskie, kujawsko_pomorskie, zlotow, lobzenica, sadki, naklo_nad_notecia, biale_blota, bydgoszcz]
+lands:                  [pojezierza_pomorskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-21-szukajac-zboza-przed-zniwami.json"

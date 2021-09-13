@@ -98,7 +98,7 @@ i dalej do [Dobiegniewa][wiki-dobiegniew].
 Dzień następny
 --------------
 
-{% photo "IMGP5766raw1.jpg","Kot w Urszulance","tag:tag" %}
+{% photo "IMGP5766raw1.jpg","Kot w Urszulance","tag:cat" %}
 
 Tego dnia pogoda była wyraźnie gorsza, prawie pełne zachmurzenie i miejscami
 lekko padał deszcz.

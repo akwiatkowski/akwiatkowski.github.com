@@ -12,6 +12,7 @@ image_filename:         2020_11_20__08_03_DSC07099.jpg
 image_position:         50% 70%
 tags:                   [hike, photo, todo]
 towns:                  [zachodnio_pomorskie, kolobrzeg]
+lands:                  [wybrzeze_slowinskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-22-fale-w-kolobrzegu.json"

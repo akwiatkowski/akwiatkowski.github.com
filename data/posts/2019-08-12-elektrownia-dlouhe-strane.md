@@ -59,13 +59,13 @@ którego zobaczyliśmy [3 dni temu]({% post_url 2019-08-09-wejscie-na-praded %})
 
 Pomimo tej bliskiej odległości w oba te miejsca dojeżdża się całkowicie innymi drogami.
 
-{% photo "2019_08_12__12_16__8121167.jpg","Motyl - górówka boruta","tag:insect" %}
+{% photo "2019_08_12__12_16__8121167.jpg","Motyl - górówka boruta","tag:macro" %}
 
 Musieliśmy minąć chyba aż 7 bardzo ostrych górskich zakrętów aby dostać się do
 [Kouty nad Desnou][wiki-kouty-nad-desnou], do której również można dojechać
 pociągiem.
 
-{% photo "2019_08_12__12_17__8121173.jpg","Motyl - rusałka pokrzywnik","tag:insect" %}
+{% photo "2019_08_12__12_17__8121173.jpg","Motyl - rusałka pokrzywnik","tag:macro" %}
 
 Skorzystaliśmy z kolejki górskiej. Osobiście uważam, że w prawie
 każdej sytuacji lepiej sobie pomóc niż podchodzić przez lasy.

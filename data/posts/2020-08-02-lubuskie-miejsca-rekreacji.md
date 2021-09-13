@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_02__10_27__8027397.jpg
 tags:                   [bicycle, panniers, todo]
 towns:                  [lubuskie, swiebodzin, skape, bytnica]
+lands:                  [pojezierze_lubuskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-08-02-lubuskie-miejsca-rekreacji.json"

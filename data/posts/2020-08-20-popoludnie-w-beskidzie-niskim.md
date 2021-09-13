@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_20__19_27_DSC02819.jpg
 tags:                   [car, main]
 towns:                  [podkarpackie, komancza, bukowsko, zarszyn, rymanow, jasliska]
+lands:                  [beskid_niski]
 
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2020-08-20-popoludnie-w-beskidzie-niskim.json"

@@ -10,7 +10,8 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_10_09__10_05_DSC07989.jpg
 tags:                   [train, todo]
-towns:                  [lodzkie, swietokrzyskie, podkarpackie, lubelskie]
+towns:                  [lodzkie, swietokrzyskie, podkarpackie, lubelskie, koluszki, ujazd, tomaszow_mazowiecki, slawno, opoczno, blaczow, gowarczow, konskie, staporkow, blizyn, skarzyska_kamienna, suchedniow, laczna, zagnask, maslow, miedziana_gora, kielce, sitkowka_nowiny, morawica, kije, chmielnik, gnojno, szydlow, tuczepy, staszow, rytwiany, polaniec, osiek, loniow, tarnobrzeg, nowa_deba, gorzyce, zaleszany, stalowa_wola, nisko, pysznica, ulanow, jarocin_lubelskie, harasiuki, bilgoraj, tereszpol, zwierzyniec, szczebrzeszyn, zamosc]
+lands:                  [mazowsze, wyzyna_lubelska, wyzyna_kielecka]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-09-swietokrzyskie-koleja.json"

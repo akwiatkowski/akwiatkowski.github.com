@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_18__09_18_DSC01242.jpg
 tags:                   [hike, todo]
 towns:                  [podkarpackie, komancza]
+lands:                  [beskid_niski]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-18-deszczowa-rzepedka.json"

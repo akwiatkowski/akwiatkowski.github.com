@@ -12,6 +12,7 @@ image_filename:         2020_08_17__13_55__8177861.jpg
 image_position:         50% 70%
 tags:                   [hike, todo]
 towns:                  [podkarpackie, rymanow]
+lands:                  [beskid_niski, pogorze_beskidzkie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-17-pogarda-dla-przyrody.json"

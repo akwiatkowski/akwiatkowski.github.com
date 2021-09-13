@@ -8,7 +8,7 @@ header_nogallery:       true
 image_position:         50% 80%
 categories:             localhost
 tags:                   [main, localhost, article]
-lands:                  [pogorze_kaczawskie]
+lands:                  [pogorze_sudeckie]
 ---
 
 [wiki-ostrzyca]:              https://pl.wikipedia.org/wiki/Ostrzyca_(Pog%C3%B3rze_Kaczawskie)

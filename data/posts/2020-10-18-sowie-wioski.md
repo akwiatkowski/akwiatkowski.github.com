@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_10_18__13_38_DSC03109.jpg
 tags:                   [hike, todo]
 towns:                  [dolnoslaskie, walim, pieszyce, nowa_ruda]
+lands:                  [gory_sowie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-10-18-sowie-wioski.json"

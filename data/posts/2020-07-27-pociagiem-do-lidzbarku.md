@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_07_27__15_46__7276718.jpg
 tags:                   [train, todo]
 towns:                  [warminsko_mazurskie, wielbark, szczytno, pasym, purda, olsztyn, stawiguda, olsztynek, nidzica, kozlowo, dzialdowo, plosnica, lidzbark]
+lands:                  [pojezierze_mazurskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-27-pociagiem-do-lidzbarku.json"

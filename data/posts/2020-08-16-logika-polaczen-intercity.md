@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_08_16__20_47__8167771.jpg
 tags:                   [hike, todo]
 towns:                  [podkarpackie, rzeszow]
+lands:                  [inne]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-16-logika-polaczen-intercity.json"

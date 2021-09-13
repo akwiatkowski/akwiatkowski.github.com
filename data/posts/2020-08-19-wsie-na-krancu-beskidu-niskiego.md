@@ -12,6 +12,7 @@ image_filename:         2020_08_19__18_10_DSC02244.jpg
 image_position:         50% 70%
 tags:                   [hike, todo]
 towns:                  [podkarpackie, komancza]
+lands:                  [beskid_niski]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-19-wsie-na-krancu-beskidu-niskiego.json"

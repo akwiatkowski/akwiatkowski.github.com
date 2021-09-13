@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_07_27__07_44_DSC09347.jpg
 tags:                   [bus, todo]
 towns:                  [podlaskie, warminsko_mazurskie, suwalki, filipow, przerosl, dubeninki, goldap, banie_mazurskie, budry, wegorzewo, pozedrze, gizycko, ryn, mikolajki, mragowo, piecki, swietajno, szczytno, wielbark]
+lands:                  [pojezierze_mazurskie, nizina_staropruska]
 
 coords:                 [{"route": [], "type": "bus"}]
 coords_file:            "2020-07-27-odciete-stacje-kolejowe.json"

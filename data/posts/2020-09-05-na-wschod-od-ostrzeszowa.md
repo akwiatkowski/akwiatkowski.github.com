@@ -12,6 +12,7 @@ image_filename:         2020_09_05__12_43__9059614.jpg
 tags:                   [bicycle, bikepacking, main]
 towns:                  [wielkopolskie, lodzkie, ostrzeszow, doruchow, wieruszow, galewice, klonowa, braszewice, brzeznio, sieradz]
 # "kepno" barely
+lands:                  [nizina_poludniowowielkopolska]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-09-05-na-wschod-od-ostrzeszowa.json"

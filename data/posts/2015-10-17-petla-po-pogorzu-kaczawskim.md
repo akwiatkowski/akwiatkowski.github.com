@@ -8,7 +8,7 @@ header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, best, photo_of_the_year]
 towns:                  [dolnoslaskie, swierzawa]
-lands:                  [gory_kaczawskie, pogorze_kaczawskie]
+lands:                  [gory_kaczawskie, pogorze_sudeckie]
 
 coords:                 [{"route": [[51.03447,15.86675], [51.04025,15.83114], [51.02627,15.81714], [51.01957,15.80367], [51.01622,15.77792], [51.00197,15.78427], [50.99916,15.77929], [50.98830,15.78685], [50.99100,15.79157], [50.97900,15.81783], [50.97641,15.83465], [50.98695,15.83577], [50.99846,15.85963], [50.99683,15.87980], [51.01336,15.89388], [51.02465,15.88006], [51.02616,15.87139], [51.03550,15.86650]], "type": "hike"}]
 # lets disable this route

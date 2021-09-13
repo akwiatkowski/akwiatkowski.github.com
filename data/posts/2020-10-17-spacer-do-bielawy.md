@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_10_17__11_59_DSC01954.jpg
 tags:                   [hike, todo]
 towns:                  [dolnoslaskie, dzierzoniow, bielawa]
+lands:                  [gory_sowie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-10-17-spacer-do-bielawy.json"

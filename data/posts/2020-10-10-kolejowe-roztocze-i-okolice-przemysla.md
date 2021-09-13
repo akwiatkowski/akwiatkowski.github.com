@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2020_10_10__08_37_DSC09229.jpg
 image_position:         50% 60%
 tags:                   [train, todo]
-towns:                  [lubelskie, podkarpackie]
+towns:                  [lubelskie, podkarpackie, zamosc, szczebrzeszyn, zwierzyniec, krasnobrod, jozefow, susiec, narol, belzec, lubycza_krolewska, horyniec_zdroj, lubaczow, oleszyce, laszki, jaroslaw, radymno, orly, zurawica, przemysl, medyka, przeworsk, lancut, czarna_lancucki, krasne, rzeszow]
+lands:                  [wyzyna_lubelska, roztocze, kotlina_sandomierska]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-10-kolejowe-roztocze-i-okolice-przemysla.json"

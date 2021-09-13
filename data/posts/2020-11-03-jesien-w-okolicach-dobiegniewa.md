@@ -12,6 +12,7 @@ image_filename:         2020_11_03__11_10_DSC05588.jpg
 image_position:         50% 70%
 tags:                   [hike, main]
 towns:                  [zachodnio_pomorskie, lubuskie, bierzwnik, dobiegniew]
+lands:                  [pojezierza_pomorskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-03-jesien-w-okolicach-dobiegniewa.json"

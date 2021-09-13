@@ -12,6 +12,7 @@ image_filename:         2020_11_15__14_54_DSC07081.jpg
 image_position:         50% 80%
 tags:                   [car, todo]
 towns:                  [kujawsko_pomorskie, wielkopolskie, strzelno, orchowo, powidz, witkowo, niechanowo, gniezno, lubowo]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2020-11-15-piekna-wiosna-tej-jesieni.json"

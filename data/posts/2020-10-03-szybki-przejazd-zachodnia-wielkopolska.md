@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_10_03__12_41__A030586.jpg
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, leszno, swieciechowa, wloszakowice, przemet, wolsztyn, siedlec, zbaszyn]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-10-03-szybki-przejazd-zachodnia-wielkopolska.json"

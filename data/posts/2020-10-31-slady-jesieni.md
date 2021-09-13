@@ -12,6 +12,7 @@ image_filename:         2020_10_31__12_18_DSC04684.jpg
 image_position:         50% 70%
 tags:                   [photo, todo]
 towns:                  [wielkopolskie, poznan]
+lands:                  [inne]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"

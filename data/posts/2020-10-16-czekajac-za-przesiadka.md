@@ -12,6 +12,7 @@ image_filename:         2020_10_16__19_01_DSC01230.jpg
 image_position:         50% 74%
 tags:                   [hike, todo]
 towns:                  [dolnoslaskie, jaworzyna_slaska, dzierzoniow]
+lands:                  [inne]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"

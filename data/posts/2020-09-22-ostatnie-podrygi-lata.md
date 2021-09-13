@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_09_22__17_47__9220513.jpg
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, swarzedz, pobiedziska, kiszkowo, skoki]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-09-22-ostatnie-podrygi-lata.json"

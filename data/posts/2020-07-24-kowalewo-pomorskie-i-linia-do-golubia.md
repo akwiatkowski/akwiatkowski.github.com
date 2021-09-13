@@ -44,7 +44,7 @@ a chciałem zrobić jeszcze kilka zdjęć zboża gotowego do żniw.
 
 {% photo "2020_07_24__16_08__7241489.jpg","Tory kolejowe z Kowalewa Pomorskiego w stronę Iławy" %}
 
-Jest to temat do zdjeć który zawsze mnie interesuje. Zawsze
+Jest to temat do zdjęć który zawsze mnie interesuje. Zawsze
 zamierzam poświęcić więcej czasu o tej porze roku
 i nigdy mi to nie wychodzi albo nigdy nie jestem zadowolony ze zdjęć.
 

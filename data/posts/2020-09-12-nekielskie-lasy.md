@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_09_12__13_50_DSC05821.jpg
 tags:                   [hike, todo]
 towns:                  [wielkopolskie, nekla, kostrzyn, pobiedziska, czerniejewo]
+lands:                  [pojezierze_wielkopolskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-09-12-nekielskie-lasy.json"

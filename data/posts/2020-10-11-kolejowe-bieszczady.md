@@ -10,7 +10,8 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_10_11__17_03_DSC01135.jpg
 tags:                   [train, todo]
-towns:                  [podkarpackie, malopolskie]
+towns:                  [podkarpackie, malopolskie, rzeszow, boguchwala, czudec, strzyzow, wisniowa, frysztak, wojaszowka, jedlicze, jaslo, tarnowiec, krosno, miejsce_piastowe, rymanow, besko, zarszyn, sanok, zagorz, lesko, olszanica, zagorz, komancza, skolyszyn, biecz, gorlice, luzna, grybow, bobowa, ciezkowice, gromnik, tuchow, plesna, tarnow]
+lands:                  [bieszczady, kotlina_sandomierska]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-11-kolejowe-bieszczady.json"

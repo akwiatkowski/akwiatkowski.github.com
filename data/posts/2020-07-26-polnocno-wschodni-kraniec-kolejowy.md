@@ -12,6 +12,7 @@ image_filename:         2020_07_26__12_51__7265445.jpg
 image_position:         50% 40%
 tags:                   [train, todo]
 towns:                  [warminsko_mazurskie, podlaskie, olsztyn, purda, pasym, szczytno, swietajno_szczycienski, ruciane_nida, pisz, biala_piska, elk, olecko, wieliczki, raczki, suwalki, szypliszki, punsk]
+lands:                  [pojezierze_mazurskie, pojezierze_litewskie]
 
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-07-26-polnocno-wschodni-kraniec-kolejowy.json"

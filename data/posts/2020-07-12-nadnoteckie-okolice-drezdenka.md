@@ -11,6 +11,7 @@ categories:             trip
 image_filename:         2020_07_11__10_53__7110535.jpg
 tags:                   [bicycle, todo]
 towns:                  [lubuskie, wielkopolskie, zwierzyn, stare_kurowo, drezdenko, drawsko, wielen]
+lands:                  [pojezierza_pomorskie]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-12-nadnoteckie-okolice-drezdenka.json"
