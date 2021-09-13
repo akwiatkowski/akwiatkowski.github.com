@@ -67,7 +67,7 @@ class @BlogMap
     )
     styleLineCycle = new ol.style.Style(
       stroke: new ol.style.Stroke(
-        color: "#0055FF"
+        color: "#0055EF"
         width: strokeWidth
       )
       fill: new ol.style.Fill(color: "rgba(255, 0, 0, 0.2)")
