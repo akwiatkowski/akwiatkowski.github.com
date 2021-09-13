@@ -28,7 +28,7 @@ class Map::Base
     # by default photos are linked to Post not full src of PhotoEntity
     @photo_direct_link : Bool = false,
     # animated, show routed poly line after some seconds
-    @animated : Bool = false,
+    @animated : Bool = false
   )
     Log.info { "Start" }
 

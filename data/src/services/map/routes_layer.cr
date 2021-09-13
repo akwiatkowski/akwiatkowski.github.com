@@ -103,8 +103,6 @@ class Map::RoutesLayer
             # finish poly line here
             s << "'  />\n"
           end
-
-
         end
       end
     end
