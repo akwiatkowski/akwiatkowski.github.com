@@ -109,10 +109,27 @@
   voivodeship: malopolskie
 - slug: zakopane
   name: Zakopane
-  header-ext-img: https://drscdn.500px.org/photo/28834387/m%3D2048/3e3608be6f00568f8573381240916563
   type: town
   voivodeship: malopolskie
 - slug: grybow
   name: Grybów
   type: town
   voivodeship: malopolskie
+- slug: zawoja
+  name: Zawoja
+  type: town
+  voivodeship: malopolskie
+  lat: 49.65921
+  lon: 19.55666
+- slug: stryszawa
+  name: Stryszawa
+  type: town
+  voivodeship: malopolskie
+  lat: 49.71308
+  lon: 19.51993
+- slug: lipnica_wielka
+  name: Lipnica Wielka
+  type: town
+  voivodeship: malopolskie
+  lat: 49.48890
+  lon: 19.62447

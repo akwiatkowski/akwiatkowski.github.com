@@ -168,10 +168,123 @@
   voivodeship: warminsko_mazurskie
   lat: 54.04784
   lon: 19.38593
-
 - slug: elblag
   name: Elbląg
   type: town
   voivodeship: warminsko_mazurskie
   lat: 54.15152
   lon: 19.41512
+- slug: wegorzewo
+  name: Węgorzewo
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.21248
+  lon: 21.73779
+- slug: srokowo
+  name: Srokowo
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.21399
+  lon: 21.52322
+- slug: barciany
+  name: Barciany
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.22001
+  lon: 21.35087
+- slug: sepopol
+  name: Sępopol
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.26535
+  lon: 21.00840
+- slug: bartoszyce
+  name: Bartoszyce
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.25212
+  lon: 20.81443
+- slug: reszel
+  name: Reszel
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.04954
+  lon: 21.14453
+- slug: bisztynek
+  name: Bisztynek
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.08621
+  lon: 20.90232
+- slug: stare_juchy
+  name: Stare Juchy
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.92135
+  lon: 22.17313
+- slug: milki
+  name: Miłki
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.94187
+  lon: 21.87443
+- slug: kisielice
+  name: Kisielice
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.60700
+  lon: 19.26604
+- slug: susz
+  name: Susz
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.71848
+  lon: 19.33694
+- slug: dobre_miasto
+  name: Dobre Miasto
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.98618
+  lon: 20.39651
+- slug: dywity
+  name: Dywity
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.83728
+  lon: 20.47716
+- slug: jeziorany
+  name: Jeziorany
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.97461
+  lon: 20.74650
+- slug: paslek
+  name: Pasłęk
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.06346
+  lon: 19.65610
+- slug: godkowo
+  name: Godkowo
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.07908
+  lon: 19.90450
+- slug: milakowo
+  name: Miłakowo
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.00913
+  lon: 20.07067
+- slug: lubomino
+  name: Lubomino
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.06477
+  lon: 20.23975
+- slug: swiatki
+  name: Świątki
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.92632
+  lon: 20.24284
