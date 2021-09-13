@@ -1,23 +1,24 @@
 ---
 layout:                 post
-title:                  "Zimowe Sikorki"
+title:                  "Hel na spokojnie"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2021-01-03 16:00:00
+date:                   2021-06-30 20:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2021_01_03__14_14__1037189.jpg
-image_position:         50% 60%
-tags:                   [bird, photo, todo]
-towns:                  [wielkopolskie, poznan]
+image_filename:         2021_06_30__17_13__6306746.jpg
+#image_position:         50% 70%
+tags:                   [hike, todo]
+towns:                  [pomorskie, hel]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
-distance:               2
-time_spent:             2
+coords_file:            "2021-06-30-hel-na-spokojnie.json"
+coords_type:            "hike"
+# estimated
+distance:               11
+time_spent:             7
 elevation:              
 temperature:            
 

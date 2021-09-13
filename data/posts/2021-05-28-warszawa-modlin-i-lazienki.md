@@ -1,23 +1,23 @@
 ---
 layout:                 post
-title:                  "Zimowe Sikorki"
+title:                  "Warszawa, Modlin i Łazienki"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2021-01-03 16:00:00
+date:                   2021-05-28 19:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2021_01_03__14_14__1037189.jpg
-image_position:         50% 60%
-tags:                   [bird, photo, todo]
-towns:                  [wielkopolskie, poznan]
+image_filename:         2021_05_26__21_05__5266561.jpg
+#image_position:         50% 70%
+tags:                   [hike, todo]
+towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
 #coords_type:            "bicycle"
-distance:               2
-time_spent:             2
+distance:               
+time_spent:             
 elevation:              
 temperature:            
 

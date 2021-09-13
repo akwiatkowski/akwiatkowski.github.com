@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2021_04_24__15_18__4243268.jpg
 image_position:         50% 54%
 tags:                   [hike, todo]
-towns:                  [wielkopolskie, slawa_wielkopolska]
+towns:                  [wielkopolskie, skoki]
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-04-24-szukajac-wiosny.json"
