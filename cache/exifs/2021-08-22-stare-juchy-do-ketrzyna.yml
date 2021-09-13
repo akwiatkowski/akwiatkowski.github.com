@@ -1,62 +1,6 @@
 ---
-- image_filename: header.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
-- image_filename: 2021_08_22__12_22__8222208.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
-  lat: 53.98073611111111
-  lon: 22.012
-  altitude: 141.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 6.3
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 17.64
-  iso: 200
-  width: 5140
-  height: 3837
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-22 12:22:57.000000000+02:00
-- image_filename: 2021_08_22__11_35__8222129.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
-  lat: 53.93895833333333
-  lon: 22.104083333333335
-  altitude: 144.0
-  focal_length: 100.0
-  focal_length_35: 200.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 119.59
-  iso: 200
-  width: 4768
-  height: 3473
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-22 11:35:28.000000000+02:00
-- image_filename: 2021_08_22__13_47__8222315.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
-  lat: 53.95523611111111
-  lon: 21.79427777777778
-  altitude: 128.0
-  focal_length: 16.0
-  focal_length_35: 32.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.005
-  exposure_string: 1/200 s
-  focus_distance: 1000.0
-  iso: 200
-  width: 4795
-  height: 3540
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-22 13:47:26.000000000+02:00
 - image_filename: 2021_08_22__16_24__8222404.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93505555555555
   lon: 21.659097222222222
   altitude: 136.0
@@ -73,26 +17,8 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-22 16:24:21.000000000+02:00
-- image_filename: 2021_08_22__17_03__8222420.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
-  lat: 53.947763888888886
-  lon: 21.53465277777778
-  altitude: 157.0
-  focal_length: 44.0
-  focal_length_35: 88.0
-  crop: 2.0
-  aperture: 4.0
-  exposure: 0.01
-  exposure_string: 1/100 s
-  focus_distance: 23.75
-  iso: 200
-  width: 5007
-  height: 3738
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkII
-  time: 2021-08-22 17:03:16.000000000+02:00
 - image_filename: 2021_08_22__13_29__8222294.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93570833333333
   lon: 21.849833333333333
   altitude: 131.0
@@ -110,7 +36,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:29:07.000000000+02:00
 - image_filename: 2021_08_22__13_42__8222304.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95201388888889
   lon: 21.79941666666667
   altitude: 128.0
@@ -128,7 +54,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:42:32.000000000+02:00
 - image_filename: 2021_08_22__13_47__8222317.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95536111111112
   lon: 21.794055555555556
   altitude: 128.0
@@ -146,7 +72,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:47:32.000000000+02:00
 - image_filename: 2021_08_22__12_34__8222218.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.96579166666667
   lon: 21.977013888888887
   altitude: 134.0
@@ -164,7 +90,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:34:19.000000000+02:00
 - image_filename: 2021_08_22__15_42__8222336.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.967305555555555
   lon: 21.70186111111111
   altitude: 124.0
@@ -182,7 +108,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:42:37.000000000+02:00
 - image_filename: 2021_08_22__15_23__8222323.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.961444444444446
   lon: 21.738111111111113
   altitude: 118.0
@@ -200,7 +126,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:23:12.000000000+02:00
 - image_filename: 2021_08_22__12_16__8222191.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.983694444444446
   lon: 22.020805555555555
   altitude: 143.0
@@ -218,7 +144,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:16:02.000000000+02:00
 - image_filename: 2021_08_22__11_11__8222085.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.924819444444445
   lon: 22.169541666666667
   altitude: 135.0
@@ -236,7 +162,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:11:09.000000000+02:00
 - image_filename: 2021_08_22__13_09__8222275.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95141666666667
   lon: 21.89988888888889
   altitude: 151.0
@@ -254,7 +180,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:09:40.000000000+02:00
 - image_filename: 2021_08_22__10_48__8222014.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.006194444444446
   lon: 21.895666666666667
   altitude: 140.0
@@ -272,7 +198,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 10:48:23.000000000+02:00
 - image_filename: 2021_08_22__13_02__8222249.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.957486111111116
   lon: 21.91472222222222
   altitude: 152.0
@@ -290,7 +216,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:02:19.000000000+02:00
 - image_filename: 2021_08_22__11_15__8222090.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.923402777777774
   lon: 22.174347222222224
   altitude: 133.0
@@ -308,7 +234,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:15:11.000000000+02:00
 - image_filename: 2021_08_22__11_30__8222104.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93713888888889
   lon: 22.109805555555557
   altitude: 132.0
@@ -325,8 +251,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-22 11:30:32.000000000+02:00
+- image_filename: 2021_08_22__12_22__8222208.jpg
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
+  lat: 53.98073611111111
+  lon: 22.012
+  altitude: 141.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 17.64
+  iso: 200
+  width: 5140
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-22 12:22:57.000000000+02:00
 - image_filename: 2021_08_22__10_52__8222040.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.99856944444444
   lon: 21.942541666666667
   altitude: 137.0
@@ -344,7 +288,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 10:52:28.000000000+02:00
 - image_filename: 2021_08_22__15_44__8222339.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.964666666666666
   lon: 21.700222222222223
   altitude: 123.0
@@ -362,7 +306,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:44:23.000000000+02:00
 - image_filename: 2021_08_22__12_12__8222179.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.98425
   lon: 22.02659722222222
   altitude: 146.0
@@ -380,7 +324,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:12:18.000000000+02:00
 - image_filename: 2021_08_22__16_24__8222403.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93538888888889
   lon: 21.65923611111111
   altitude: 137.0
@@ -398,7 +342,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:24:17.000000000+02:00
 - image_filename: 2021_08_22__15_50__8222344.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.954236111111115
   lon: 21.692430555555557
   altitude: 137.0
@@ -416,7 +360,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:50:03.000000000+02:00
 - image_filename: 2021_08_22__12_57__8222242.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.961708333333334
   lon: 21.92591666666667
   altitude: 140.0
@@ -434,7 +378,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:57:51.000000000+02:00
 - image_filename: 2021_08_22__15_42__8222334.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.96768055555556
   lon: 21.702055555555553
   altitude: 124.0
@@ -452,7 +396,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:42:29.000000000+02:00
 - image_filename: 2021_08_22__16_29__8222406.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.928958333333334
   lon: 21.644930555555554
   altitude: 122.0
@@ -470,7 +414,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:29:01.000000000+02:00
 - image_filename: 2021_08_22__15_54__8222349.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94927777777777
   lon: 21.692569444444445
   altitude: 133.0
@@ -488,7 +432,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:54:36.000000000+02:00
 - image_filename: 2021_08_22__15_52__8222347.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.950625
   lon: 21.697555555555557
   altitude: 129.0
@@ -506,7 +450,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:52:22.000000000+02:00
 - image_filename: 2021_08_22__13_02__8222251.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.9575
   lon: 21.914708333333333
   altitude: 152.0
@@ -524,7 +468,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:02:32.000000000+02:00
 - image_filename: 2021_08_22__13_06__8222258.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95141666666667
   lon: 21.89990277777778
   altitude: 150.0
@@ -541,8 +485,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-22 13:06:39.000000000+02:00
+- image_filename: 2021_08_22__17_03__8222420.jpg
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
+  lat: 53.947763888888886
+  lon: 21.53465277777778
+  altitude: 157.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 23.75
+  iso: 200
+  width: 5007
+  height: 3738
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-22 17:03:16.000000000+02:00
 - image_filename: 2021_08_22__16_11__8222361.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94744444444444
   lon: 21.660777777777778
   altitude: 144.0
@@ -560,7 +522,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:11:10.000000000+02:00
 - image_filename: 2021_08_22__10_56__8222066.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.98511111111111
   lon: 22.016680555555556
   altitude: 139.0
@@ -578,7 +540,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 10:56:23.000000000+02:00
 - image_filename: 2021_08_22__12_12__8222177.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.98425
   lon: 22.02659722222222
   altitude: 146.0
@@ -596,7 +558,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:12:12.000000000+02:00
 - image_filename: 2021_08_22__18_27__8222482.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.08068055555556
   lon: 21.43777777777778
   altitude: 105.0
@@ -614,7 +576,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 18:27:51.000000000+02:00
 - image_filename: 2021_08_22__11_34__8222117.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93893055555555
   lon: 22.104194444444445
   altitude: 144.0
@@ -632,7 +594,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:34:20.000000000+02:00
 - image_filename: 2021_08_22__10_58__8222083.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.97676388888889
   lon: 22.032694444444445
   altitude: 142.0
@@ -650,7 +612,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 10:58:27.000000000+02:00
 - image_filename: 2021_08_22__11_11__8222088.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.924819444444445
   lon: 22.169541666666667
   altitude: 134.0
@@ -668,7 +630,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:11:42.000000000+02:00
 - image_filename: 2021_08_22__15_15__8222320.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94634722222222
   lon: 21.74665277777778
   altitude: 122.0
@@ -686,7 +648,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:15:38.000000000+02:00
 - image_filename: 2021_08_22__11_27__8222096.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93559722222222
   lon: 22.113375
   altitude: 131.0
@@ -704,7 +666,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:27:53.000000000+02:00
 - image_filename: 2021_08_22__16_19__8222390.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94194444444444
   lon: 21.661916666666666
   altitude: 148.0
@@ -722,7 +684,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:19:57.000000000+02:00
 - image_filename: 2021_08_22__12_14__8222180.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.98475
   lon: 22.022916666666667
   altitude: 148.0
@@ -740,7 +702,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:14:16.000000000+02:00
 - image_filename: 2021_08_22__17_59__8222454.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.05972222222222
   lon: 21.397819444444444
   altitude: 98.0
@@ -758,7 +720,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 17:59:12.000000000+02:00
 - image_filename: 2021_08_22__13_44__8222312.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.952125
   lon: 21.799208333333336
   altitude: 129.0
@@ -776,7 +738,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:44:10.000000000+02:00
 - image_filename: 2021_08_22__17_03__8222421.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.947763888888886
   lon: 21.53466666666667
   altitude: 157.0
@@ -794,7 +756,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 17:03:22.000000000+02:00
 - image_filename: 2021_08_22__11_15__8222091.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.92333333333333
   lon: 22.174347222222224
   altitude: 133.0
@@ -812,7 +774,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:15:16.000000000+02:00
 - image_filename: 2021_08_22__09_39__8222007.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.073375000000006
   lon: 21.413555555555554
   altitude: 112.0
@@ -830,7 +792,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 09:39:05.000000000+02:00
 - image_filename: 2021_08_22__13_42__8222300.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.951888888888895
   lon: 21.799625000000002
   altitude: 127.0
@@ -848,7 +810,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:42:05.000000000+02:00
 - image_filename: 2021_08_22__13_43__8222305.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95202777777778
   lon: 21.79954166666667
   altitude: 128.0
@@ -866,7 +828,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:43:33.000000000+02:00
 - image_filename: 2021_08_22__17_42__8222453.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.02404166666667
   lon: 21.444166666666668
   altitude: 118.0
@@ -884,7 +846,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 17:42:37.000000000+02:00
 - image_filename: 2021_08_22__17_28__8222439.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.00326388888889
   lon: 21.478777777777776
   altitude: 116.0
@@ -902,7 +864,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 17:28:44.000000000+02:00
 - image_filename: 2021_08_22__15_57__8222355.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94770833333333
   lon: 21.684319444444444
   altitude: 140.0
@@ -920,7 +882,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:57:33.000000000+02:00
 - image_filename: 2021_08_22__11_33__8222113.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93888888888888
   lon: 22.10429166666667
   altitude: 144.0
@@ -938,7 +900,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:33:44.000000000+02:00
 - image_filename: 2021_08_22__15_42__8222332.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.967930555555554
   lon: 21.702222222222222
   altitude: 124.0
@@ -956,7 +918,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 15:42:20.000000000+02:00
 - image_filename: 2021_08_22__16_11__8222363.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94716666666666
   lon: 21.66073611111111
   altitude: 144.0
@@ -973,8 +935,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-22 16:11:20.000000000+02:00
+- image_filename: 2021_08_22__11_35__8222129.jpg
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
+  lat: 53.93895833333333
+  lon: 22.104083333333335
+  altitude: 144.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 119.59
+  iso: 200
+  width: 4768
+  height: 3473
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-22 11:35:28.000000000+02:00
 - image_filename: 2021_08_22__10_48__8222012.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 54.007847222222225
   lon: 21.89236111111111
   altitude: 139.0
@@ -992,7 +972,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 10:48:09.000000000+02:00
 - image_filename: 2021_08_22__12_57__8222239.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.96197222222222
   lon: 21.926555555555556
   altitude: 140.0
@@ -1010,7 +990,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:57:31.000000000+02:00
 - image_filename: 2021_08_22__16_29__8222407.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.928958333333334
   lon: 21.644916666666667
   altitude: 122.0
@@ -1028,7 +1008,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:29:11.000000000+02:00
 - image_filename: 2021_08_22__11_43__8222138.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95479166666667
   lon: 22.080986111111113
   altitude: 138.0
@@ -1046,7 +1026,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:43:15.000000000+02:00
 - image_filename: 2021_08_22__12_48__8222223.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.96788888888889
   lon: 21.953694444444444
   altitude: 139.0
@@ -1064,7 +1044,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:48:26.000000000+02:00
 - image_filename: 2021_08_22__11_35__8222132.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.939166666666665
   lon: 22.103625
   altitude: 144.0
@@ -1082,7 +1062,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:35:48.000000000+02:00
 - image_filename: 2021_08_22__16_18__8222387.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94195833333333
   lon: 21.661930555555553
   altitude: 148.0
@@ -1100,7 +1080,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 16:18:10.000000000+02:00
 - image_filename: 2021_08_22__11_35__8222126.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.93895833333333
   lon: 22.104097222222222
   altitude: 144.0
@@ -1118,7 +1098,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:35:04.000000000+02:00
 - image_filename: 2021_08_22__13_06__8222259.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95141666666667
   lon: 21.89990277777778
   altitude: 150.0
@@ -1136,7 +1116,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:06:42.000000000+02:00
 - image_filename: 2021_08_22__13_25__8222289.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.94305555555555
   lon: 21.862750000000002
   altitude: 138.0
@@ -1154,7 +1134,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:25:29.000000000+02:00
 - image_filename: 2021_08_22__11_42__8222134.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95479166666667
   lon: 22.080986111111113
   altitude: 138.0
@@ -1172,7 +1152,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 11:42:51.000000000+02:00
 - image_filename: 2021_08_22__17_19__8222432.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.989916666666666
   lon: 21.512375
   altitude: 127.0
@@ -1190,7 +1170,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 17:19:06.000000000+02:00
 - image_filename: 2021_08_22__12_10__8222170.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.98430555555556
   lon: 22.026680555555554
   altitude: 146.0
@@ -1207,8 +1187,26 @@
   lens: OLYMPUS M.12-100mm F4.0
   camera: E-M1MarkII
   time: 2021-08-22 12:10:39.000000000+02:00
+- image_filename: 2021_08_22__13_47__8222315.jpg
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
+  lat: 53.95523611111111
+  lon: 21.79427777777778
+  altitude: 128.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4795
+  height: 3540
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  time: 2021-08-22 13:47:26.000000000+02:00
 - image_filename: 2021_08_22__12_18__8222196.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.980916666666666
   lon: 22.016791666666666
   altitude: 139.0
@@ -1226,7 +1224,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:18:40.000000000+02:00
 - image_filename: 2021_08_22__12_57__8222237.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.96197222222222
   lon: 21.926555555555556
   altitude: 140.0
@@ -1244,7 +1242,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 12:57:27.000000000+02:00
 - image_filename: 2021_08_22__13_46__8222313.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.95541666666667
   lon: 21.793458333333334
   altitude: 128.0
@@ -1262,7 +1260,7 @@
   camera: E-M1MarkII
   time: 2021-08-22 13:46:25.000000000+02:00
 - image_filename: 2021_08_22__11_11__8222087.jpg
-  post_slug: 2021-08-22-stare-juchty-do-ketrzyna
+  post_slug: 2021-08-22-stare-juchy-do-ketrzyna
   lat: 53.924819444444445
   lon: 22.169555555555558
   altitude: 135.0

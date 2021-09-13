@@ -2,15 +2,15 @@
 bicycle_distance: 13407
 bicycle_time_length: 1333
 bicycle_count: 233
-hike_distance: 2224
-hike_time_length: 939
-hike_count: 206
+hike_distance: 2242
+hike_time_length: 948
+hike_count: 208
 train_distance: 5496
 train_time_length: 191
 train_count: 28
-self_distance: 15631
-self_time_length: 2272
-updated_at: 2021-09-11 11:34:08.619951004+02:00
+self_distance: 15649
+self_time_length: 2281
+updated_at: 2021-09-13 13:30:05.464529263+02:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
