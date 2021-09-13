@@ -41,6 +41,18 @@ module RendererMixin::RenderPhotoMaps
     add_photomap_globals("Małe", small_view)
     write_output(small_view)
 
+    # new, animated SVG
+    small_animated_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("small_animated"),
+      zoom: Map::DEFAULT_SMALL_ZOOM,
+      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
+      animated: true,
+      photo_entities: Array(PhotoEntity).new, # TODO animated looks better w/o photos
+    )
+    add_photomap_globals("Animowana", small_animated_view)
+    write_output(small_animated_view)
+
     detailed_view = PhotoMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("small_detailed"),

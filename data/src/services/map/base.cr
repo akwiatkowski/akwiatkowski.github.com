@@ -26,7 +26,9 @@ class Map::Base
     @render_routes : Bool = true,
     @render_photos_out_of_route : Bool = false,
     # by default photos are linked to Post not full src of PhotoEntity
-    @photo_direct_link : Bool = false
+    @photo_direct_link : Bool = false,
+    # animated, show routed poly line after some seconds
+    @animated : Bool = false,
   )
     Log.info { "Start" }
 
@@ -153,6 +155,7 @@ class Map::Base
     @routes_layer = RoutesLayer.new(
       posts: @posts,
       tiles_layer: @tiles_layer,
+      animated: @animated,
     )
 
     if @render_photos_out_of_route

@@ -3,7 +3,8 @@ class Map::RoutesLayer
 
   def initialize(
     @posts : Array(Tremolite::Post),
-    @tiles_layer : TilesLayer
+    @tiles_layer : TilesLayer,
+    @animated : Bool = false
   )
   end
 
@@ -33,9 +34,9 @@ class Map::RoutesLayer
   def convert_route_object_to_array_of_svg_lines(route_object)
     svg_color =
       allowed_types = {
-        "hike"    => "100,250,0",
-        "bicycle" => "0,150,250",
-        "train"   => "200,100,0",
+        "hike"    => "255,100,0",
+        "bicycle" => "0,55,230",
+        "train"   => "80,80,0",
       }
 
     return String.build do |s|
@@ -46,7 +47,23 @@ class Map::RoutesLayer
 
         # render only if there 2 or more
         if geo_coords.size >= 2
-          s << "<polyline class='photo-map-route' fill='none' style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' points='"
+          s << "<polyline class='photo-map-route' fill='none' "
+
+          # animated svg should have not visible poly lines
+          if @animated
+            s << "opacity=\"0\" "
+          end
+
+          # styles
+          if @animated
+            # TODO: temporary same style
+            s << "style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' "
+          else
+            # regular, not so wide line
+            s << "style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' "
+          end
+
+          s << " points='"
 
           # polyline is more optimized solution
           geo_coords.each do |geo_coord|
@@ -62,7 +79,32 @@ class Map::RoutesLayer
 
             s << "#{x.to_i},#{y.to_i} "
           end
-          s << "'  />\n"
+
+          if @animated
+            # finish polyline tag start
+            s << "'>\n"
+
+            @route_number = 0 if @route_number.nil?
+            route_id = "route_#{@route_number}"
+            previous_route_id = "route_#{@route_number.not_nil! - 1}"
+
+            # add animation tag
+            s << "<animate id=\"#{route_id}\" attributeType=\"CSS\" attributeName=\"opacity\" from=\"0\" to=\"1\" dur=\"0.1s\" fill=\"freeze\" "
+            if @route_number.not_nil! > 1
+              s << "begin=\"#{previous_route_id}.end\" "
+            end
+            s << "/>\n"
+
+            @route_number = @route_number.not_nil! + 1
+
+            # finish poly line after animation tag
+            s << "</polyline>\n"
+          else
+            # finish poly line here
+            s << "'  />\n"
+          end
+
+
         end
       end
     end

@@ -17,7 +17,8 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @photo_entities : Array(PhotoEntity)? = nil,
     @render_routes : Bool = true,
     @render_photos_out_of_route : Bool = false,
-    @photo_direct_link : Bool = false
+    @photo_direct_link : Bool = false,
+    @animated : Bool = false,
   )
     @map = Map::Base.new(
       blog: @blog,
@@ -30,6 +31,7 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
       render_routes: @render_routes,
       render_photos_out_of_route: @render_photos_out_of_route,
       photo_direct_link: @photo_direct_link,
+      animated: @animated,
     )
   end
 
