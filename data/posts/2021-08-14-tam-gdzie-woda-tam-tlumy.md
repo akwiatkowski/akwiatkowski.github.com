@@ -8,7 +8,7 @@ date:                   2021-08-14 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2021_08_13__19_06__8130136.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, lipno, smigiel, wloszakowice, wijewo, przemet]

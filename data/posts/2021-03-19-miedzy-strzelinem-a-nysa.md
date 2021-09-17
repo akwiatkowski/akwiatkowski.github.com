@@ -1,16 +1,16 @@
 ---
 layout:                 post
 title:                  "Między Strzelinem a Nysą"
-subtitle:               "w poszukiwaniu pagórków pod Sudetami"
-desc:                   ""
-keywords:               []
+subtitle:               "w poszukiwaniu pagórków pod Sudetami przed kolejnym zamknięciem kraju"
+desc:                   "Obostrzenia zostały na chwilę zluzowane aby każdy mógł pojeździć sobie na nartach. Ludzie ruszyli wszędzie zmęczeni zamknięciem w miastach. Pod koniec okresu odwilży covidowej również postanowiłem ruszyć gdzieś w Polskę."
+keywords:               [wrocław, nysa, prudnik, strzelin, zurzyce, słupice]
 date:                   2021-03-19 15:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2021-09-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_03_19__15_53__3191433.jpg
 image_position:         50% 70%
-tags:                   [car, todo]
+tags:                   [car, main]
 towns:                  [dolnoslaskie, opolskie, strzelin, przeworno, kamiennik, pakoslawice, nysa, korfantow, prudnik]
 lands:                  [przedgorze_sudeckie, nizina_slaska]
 
@@ -56,9 +56,9 @@ To nie wpłynęło na moje plany.
 ## Szczegóły
 
 Zaplanowałem wyjazd w stronę wschodnich [Sudetów][wiki-sudety] aby jednocześnie
-móc skorzystać z prejazdu [Turkola][turkol] na trasie
-[Prudnik][wiki-prudnik]-[Krapkowice][wiki-krapkowice]. Dwa dni przed wyjazdem
-tuż po zamknięciu hoteli okazało się, że przejazd został przesunięty.
+móc skorzystać z przejazdu [Turkola][turkol] na trasie
+[Prudnik][wiki-prudnik]-[Krapkowice][wiki-krapkowice]. Dwa dni przed wyjazdem,
+tuż po zamknięciu hoteli, okazało się, że przejazd pociągiem został przesunięty.
 
 {% photo "2021_03_19__14_44__3191320.jpg","Droga do Jegłowa","tag:timeline" %}
 
@@ -69,7 +69,7 @@ wiosny tylko pośrodku. Oznaczało to, że widoki prawdopodobnie będą mniej ci
 
 Zaplanowałem podjechać pociągiem do [Wrocławia][wiki-wroclaw], wypożyczyć
 samochód i dalej przejechać przez tereny na południowy-wschód od
-[Strzelina][wiki-strzelin]. Patrząc na cieniowaną UMP myślałem, że
+[Strzelina][wiki-strzelin]. Patrząc na cieniowaną mapę UMP myślałem, że
 będą tam ciekawe, pofalowane tereny.
 
 {% photo "2021_03_19__15_11__3191359.jpg","Budynek gospodarczy w Przewornie" %}
@@ -79,7 +79,8 @@ Wiedziałem, że w okolicy [Strzelina][wiki-strzelin] są jakieś pagórki, jedn
 to te tereny są dla mnie nieznane.
 
 Wybrałem drogę w miarę idealną na rower. Chciałem zobaczyć co może się uda
-zobaczyć w tym roku.
+zobaczyć w tym roku. (Nie)stety większość moich wycieczek w 2021 roku
+było zrealizowanych w północnej części Polski.
 
 {% photo "2021_03_19__15_28__3191378.jpg","Pod linią kolejową 313" %}
 
@@ -107,12 +108,15 @@ Pofalowane pola kojarzyły mi się z [Roztoczem][wiki-roztocze].
 {% photo "2021_03_19__15_54__3191444.jpg","Pofalowane pola w okolicy Słupic" %}
 
 Zbliżaliśmy się do [Nysy][wiki-nysa] i oznaczało to, że prawdopodobnie
-nie zobaczymy już tak ciekawych terenów gdyż okolice
-[Nysy][wiki-nysa] są znacznie bardziej płaskie.
+nie zobaczymy już tak ciekawych terenów, gdyż okolice
+[tego miasta][wiki-nysa] są znacznie bardziej płaskie.
 
-Przejechaliśmy obwodnicę tego miasta i kierowaliśmy się do noclegu
+Przejechaliśmy obwodnicę i kierowaliśmy się do noclegu
 pod [Prudnikiem][wiki-prudnik].
 
-Zamykane hotele zamknęły restauracje i dlatego musieliśmy kupić jedzenie
-w [Prudniku][wiki-prudnik] i zjeść w pokoju hotelowym. Przed
-pandemią takie zachowanie byłoby oznaką skąpstwa teraz jest to konieczność.
+Zamykane hotele zamknęły restaurację hotelową i dlatego musieliśmy kupić jedzenie
+w [Prudniku][wiki-prudnik], wrócić i zjeść w pokoju hotelowym. Przed
+pandemią takie zachowanie byłoby oznaką skąpstwa teraz jest to koniecznością.
+
+I tak wyrzuciłem więcej niż kilka stów po to, aby pojechać w "góry" w najgorszym
+możliwym momencie z perspektywy widoków oraz obostrzeń.
