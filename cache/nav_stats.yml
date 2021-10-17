@@ -1,23 +1,23 @@
 ---
-bicycle_distance: 13407
-bicycle_time_length: 1333
-bicycle_count: 233
-hike_distance: 2242
-hike_time_length: 948
-hike_count: 208
+bicycle_distance: 13533
+bicycle_time_length: 1343
+bicycle_count: 236
+hike_distance: 2290
+hike_time_length: 967
+hike_count: 211
 train_distance: 5496
 train_time_length: 191
 train_count: 28
-self_distance: 15649
-self_time_length: 2281
-updated_at: 2021-09-13 13:30:05.464529263+02:00
+self_distance: 15823
+self_time_length: 2310
+updated_at: 2021-10-17 13:37:31.015412927+02:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
-  count: 124
+  count: 125
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 31
+  count: 32
 - name: Łódzkie
   url: /voivodeship/lodzkie/masonry.html
   count: 3
@@ -26,10 +26,10 @@ voivodeships_nav:
   count: 26
 - name: Małopolskie
   url: /voivodeship/malopolskie/masonry.html
-  count: 33
+  count: 34
 - name: Opolskie
   url: /voivodeship/opolskie/masonry.html
-  count: 4
+  count: 5
 - name: Podkarpackie
   url: /voivodeship/podkarpackie/masonry.html
   count: 13
@@ -44,10 +44,10 @@ voivodeships_nav:
   count: 9
 - name: Warmińsko-mazurskie
   url: /voivodeship/warminsko_mazurskie/masonry.html
-  count: 10
+  count: 12
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 151
+  count: 152
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
   count: 25
@@ -103,16 +103,16 @@ tags_nav:
   count: 97
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 202
+  count: 203
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 169
+  count: 170
 - name: Kolejowe
   url: /tag/train/masonry.html
-  count: 18
+  count: 19
 - name: Zdjęcia
   url: /tag/photo/masonry.html
-  count: 93
+  count: 94
 - name: Góry
   url: /tag/mountains/masonry.html
   count: 105
