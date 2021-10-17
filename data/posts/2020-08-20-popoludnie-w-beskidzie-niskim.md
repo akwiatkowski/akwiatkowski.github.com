@@ -39,6 +39,8 @@ pois:
 [wiki-jasliska]: https://pl.wikipedia.org/wiki/Ja%C5%9Bliska
 [wiki-bielcza]: https://pl.wikipedia.org/wiki/Bielcza_(potok)
 [wiki-moszczaniec]: https://pl.wikipedia.org/wiki/Moszczaniec
+[wiki-beskid-niski]: https://pl.wikipedia.org/wiki/Beskid_Niski
+[wiki-bieszczady]: https://pl.wikipedia.org/wiki/Bieszczady
 
 ## Wstęp
 

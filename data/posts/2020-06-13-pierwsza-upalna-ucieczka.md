@@ -48,6 +48,7 @@ pois:
 [wiki-rzecino]: https://pl.wikipedia.org/wiki/Rzecino
 [wiki-liskowo]: https://pl.wikipedia.org/wiki/Liskowo_(powiat_%C5%9Bwidwi%C5%84ski)
 [wiki-rabino]: https://pl.wikipedia.org/wiki/R%C4%85bino
+[wiki-kluczewo]: https://pl.wikipedia.org/wiki/Kluczewo_(wojew%C3%B3dztwo_zachodniopomorskie)
 
 ## Wstęp
 

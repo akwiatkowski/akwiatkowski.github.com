@@ -50,6 +50,7 @@ pois:
 [wiki-sternberk]: https://pl.wikipedia.org/wiki/%C5%A0ternberk
 [wiki-bludow]: https://pl.wikipedia.org/wiki/Bludov_(powiat_%C5%A0umperk)
 [wiki-sobotin]: https://pl.wikipedia.org/wiki/Sobot%C3%ADn
+[wiki-czechy]: https://pl.wikipedia.org/wiki/Czechy
 
 ## Wstęp
 

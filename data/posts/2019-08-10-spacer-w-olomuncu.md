@@ -35,7 +35,6 @@ pois:
 [wiki-katedra]: https://pl.wikipedia.org/wiki/Katedra_%C5%9Bw._Wac%C5%82awa_w_O%C5%82omu%C5%84cu
 [wiki-kolumna]: https://pl.wikipedia.org/wiki/Kolumna_Tr%C3%B3jcy_%C5%9Awi%C4%99tej_w_O%C5%82omu%C5%84cu
 
-
 ## Wstęp
 
 [Ołomuniec][wiki-olomuniec] jest drugim najciekawszym miastem w [Czechach][wiki-czechy]

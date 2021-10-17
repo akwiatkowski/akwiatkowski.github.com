@@ -128,3 +128,73 @@ Po 2km wjechaliśmy w las, a następnie po 4km byliśmy już w [Kisielicach][wik
 To była większa miejscowość i myślałem, że tutaj zrobimy przerwę na jedzenie
 jednak jedyne co Maciej znalazł tutaj to kebab który otworzą
 dopiero po 13-tej. Nie było sensu czekać.
+
+Kolejną większą miejscowością w zaplanowanie trasie był [Susz][wiki-susz] i
+tam chcieliśmy zjeść obiad. Musieliśmy przejechać około 13km.
+
+Powoli zaczął padać deszcz. Schowaliśmy się pod przystankiem autobusowym.
+Dobrze że są wiaty chociaż prawdopodobnie nie obsługują żadnych autobusów.
+
+Jechaliśmy po żółtym szlaku rowerowym.
+
+Niebo się bardzo szybko wypogodziło i krajobraz wyglądał zupełnie
+inaczej. Nie było widać śladów deszczu.
+
+Przejeżdżając obok [Bałoszyc Małych][wiki-baloszyce-male] widziałem
+kolejny przystanek autobysowy. Zastanawiałem się czy ktokolwiek
+z niego korzysta, prawdopodobnie tylko uczniowie.
+
+Dotarliśmy do [Suszu][wiki-susz] przejeżdżając nad linią
+kolejową XXX. Kierowaliśmy się teraz na obiad.
+
+Po dość długiej przerwie jechaliśmy dalej na północny-wschód w kierunku
+do [Jerzwałdu][wiki-jerzwald]. Wjechaliśmy w leśną otulinę
+[Jezioraka][wiki-jeziorak].
+
+Niektóre wioski po drodze były ciekawe ale raczej nie przebijały
+widoków wcześniejszych.
+
+Jazda przez las nie była czymś wyjątkowym. Gdy dotarliśmy do skrzyżowania
+między [Jerzwałdem][wiki-jerzwald] a [Siemianami][wiki-siemianami]
+wiedziałem że ten etap zakończyliśmy.
+
+Zbliżaliśmy się do terenów które odkryłem
+rowerem i
+samochodem.
+
+Musieliśmy objechać północ [Jezioraka][wiki-jeziorak] aby dalej kierować
+się w stronę [Miłomłyna][wiki-milomlyn]. Tereny były mieszane. Z jednej strony
+mi się podobały ale bardziej doceniałem mało popularne okolicy przez które
+wcześniej jechaliśmy.
+
+Dotarliśmy do wsi [Dobrzyki][wiki-dobrzyki] gdzie mapy google radziły
+nam abyśmy zrobili skrót. Musieliśmy po wyjeździe ze wsi skręcić w prawo na
+drogę gruntową. Średnio mi się ona podobała ale na szczęście po przejechaniu
+pewnej odległości była ona co najmniej znośna na mój rower.
+
+Gdy dojechaliśmy do wsi [Polajny][wiki-polajny] sytuacja się trochę
+skomplikowana. Dalsza droga nie była oczywista i ostatecznie musieliśmy
+jechać przez pola kukurydzy.
+
+Klimatyczna okolica była powiązana z gorszą jakością terenu. Na szczęście
+stopniowo zbliżaliśmy się do drogi asfaltowej, po której
+jechałem TODO
+
+Bardzo mi się podobał klimat [Wielowsi][wiki-wielowies]. Zwłaszcza
+małe, trochę stare już ale pasujące, domy z ogrodami
+
+Dotarliśmy do [Miłomłyna][wiki-milomlyn] i chcieliśmy jakoś
+dostać się do [Ostródy][wiki-ostroda]. Jest tutaj ścieżka rowerowa na
+trasie rozebranej linii kolejowej TODO która była najlepszą opcją.
+
+Patrząc dokładniej na przebieg tej linii kolejowej zastanawiam się
+kto np. mógł wsiadać na stacji [Piławki][wiki-pilawki] albo
+[Kliniak][wiki-kliniak], która była położona totalnie w lesie.
+
+Trasa przez las po drodze niezbyt gładkiej bardzo mnie zmęczyła
+i moje ręce.
+
+Dotarliśmy na dworzec w [Ostródzie][wiki-ostroda] jednak w okolicy
+nie było żadnego sklepu a chciałem zakupić jakieś jedzenia na prawie 3 godzinną
+podróż. Podjechaliśmy nad [Jezioro Drwęckie][wiki-jezioro-drweckie]
+gdzie zakupiłem trochę zapasów na podróż o wątpliwej jakości.

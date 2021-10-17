@@ -45,7 +45,7 @@ pois:
 [wiki-markowice]: https://pl.wikipedia.org/wiki/Markowice_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-plawce]: https://pl.wikipedia.org/wiki/P%C5%82awce
 [wiki-staniszewo]: https://pl.wikipedia.org/wiki/Staniszewo_(wojew%C3%B3dztwo_wielkopolskie)
-[wiki-podgaj]: https://pl.wikipedia.org/wiki/Podgaj_(przysi%C3%B3%C5%82ek_w_powiecie_%C5%9Bredzkim)
+[wiki-podgaj]: https://pl.wikipedia.org/wiki/Podgaj_(osada_le%C5%9Bna_w_powiecie_%C5%9Bredzkim)
 
 ## Wstęp
 
@@ -109,7 +109,7 @@ Te 3km jazdy po drodze gruntowej, zanim dotarłem do [Bieganowa][wiki-bieganowo]
 było ciekawym urozmaiceniem dzisiejszej trasy.
 
 Zgodnie z planem powinienem przejechać dalej na wschód drogą gruntową do
-wsi [Pogdaj][wiki-pogdaj] jednak zapomniałem o tym i sobie
+wsi [Podgaj][wiki-podgaj] jednak zapomniałem o tym i sobie
 radośnie jechałem po drodze asfaltowej.
 
 {% photo "2020_05_16__09_20__5161100.jpg","Okolice Markowic","tag:timeline" %}

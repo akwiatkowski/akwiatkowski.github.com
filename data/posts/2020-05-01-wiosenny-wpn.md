@@ -46,6 +46,7 @@ pois:
 [wiki-jezioro-goreckie]: https://pl.wikipedia.org/wiki/Jezioro_G%C3%B3reckie
 [wiki-trzebaw]: https://pl.wikipedia.org/wiki/Trzebaw_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-jaroslawiec]: https://pl.wikipedia.org/wiki/Jaros%C5%82awiec_(powiat_pozna%C5%84ski)
+[wiki-mosina]: https://pl.wikipedia.org/wiki/Mosina
 
 ## Wstęp
 

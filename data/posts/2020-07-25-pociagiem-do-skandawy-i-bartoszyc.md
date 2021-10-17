@@ -30,6 +30,8 @@ pois:
 
 ---
 
+[turkol]: http://www.turkol.pl/
+
 [wiki-torun-miasto]: https://pl.wikipedia.org/wiki/Toru%C5%84_Miasto
 [wiki-olsztyn]: https://pl.wikipedia.org/wiki/Olsztyn
 [wiki-zachodniopomorskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_zachodniopomorskie

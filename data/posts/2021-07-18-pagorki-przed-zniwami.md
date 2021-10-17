@@ -33,8 +33,15 @@ pois:
 
 ## Wstęp
 
+Ostatni miesiąc był dla mnie trudny. Pomimo tego że zawsze chciałem pojeździć dużo
+w okolicy żniw tym razem również się mi nie udało.
+
+Aby wytrzymać jakoś życie w mieście postanowiłem ruszyć gdzieś rowerem sam.
+
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5649609085/embed/561f5a432509bc952bb7d4f08e2d27b1530ed69e'></iframe>
 
 ## Szczegóły
+
+Od [przejazdu Turkolem]({% post_url TODO %}) chciałem 
