@@ -70,16 +70,23 @@ gallery.portfolio.subtitle:
 # TODO
 gallery.good.backgrounds:
 gallery.good.title: Zdjęcia z których jestem zadowolony
-gallery.good.subtitle:
+gallery.good.subtitle: nie najlepsze, ale lepsze niż większość
 
 gallery.best.backgrounds:
 gallery.best.title: Najlepsze zdjęcia
-gallery.best.subtitle:
+gallery.best.subtitle: to czym subiektywnie bym się chwalił
 
 gallery.timeline.backgrounds:
 gallery.timeline.title: Pory roku
-gallery.timeline.subtitle:
+gallery.timeline.subtitle: zdjęcia najlepiej pokazujące jak się zmienia przyroda w zależności od pory roku
 
+gallery.bird.backgrounds:
+gallery.bird.title: Ptaki
+gallery.bird.subtitle: 
+
+gallery.macro.backgrounds:
+gallery.macro.title: Makro
+gallery.macro.subtitle: czyli wszystko co jest małe
 
 # but it shouldn't be used
 portfolio.title: Portfolio
