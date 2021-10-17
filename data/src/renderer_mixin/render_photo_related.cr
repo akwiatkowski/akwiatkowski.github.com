@@ -5,11 +5,11 @@ require "../views/gallery_view/focal_length_index_view"
 require "../views/gallery_view/focal_length_view"
 require "../views/gallery_view/lens_index_view"
 require "../views/gallery_view/lens_view"
-require "../views/gallery_view/tag_stats_view"
 require "../views/gallery_view/tag_view"
 
 require "../views/dynamic_view/portfolio_view"
 require "../views/dynamic_view/exif_stats_view"
+require "../views/dynamic_view/debug_tag_stats_view"
 
 module RendererMixin::RenderPhotoRelated
   # render only when exifs were loaded
@@ -137,7 +137,7 @@ module RendererMixin::RenderPhotoRelated
   end
 
   def render_gallery_stats
-    view = GalleryView::TagStatsView.new(
+    view = DynamicView::DebugTagStatsView.new(
       blog: blog
     )
     write_output(view)

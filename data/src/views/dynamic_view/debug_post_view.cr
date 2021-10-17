@@ -19,7 +19,7 @@ module DynamicView
       return String.build do |s|
         s << "<table class=\"table\">\n"
 
-        s << "<tr>\n"
+        s << "<tr class=\"small\">\n"
         s << "<th></th>\n"
         TABLE_HEADERS.values.each do |header_title|
           s << "<th>#{header_title}</th>\n"
@@ -46,8 +46,15 @@ module DynamicView
             value = tuple[key]
             button_css = tuple[:css].gsub("text-", "btn-")
 
+            # bootstrap icons https://icons.getbootstrap.com
             if value.to_s == true.to_s
-              value_string = "<button type=\"button\" class=\"btn #{button_css}\">&check;</button>"
+              inner_symbol = "&check;"
+              if TABLE_ICONS[key]?
+                # not happy with using class method
+                inner_symbol = Tremolite::Views::BaseView.bootstrap_icon(TABLE_ICONS[key]?.to_s)
+              end
+
+              value_string = "<button type=\"button\" class=\"btn btn-sm #{button_css}\" title=\"#{TABLE_HEADERS[key]}\">#{inner_symbol}</button>\n"
             elsif value.to_s == false.to_s
               value_string = ""
               # blank instead of "&cross;"
@@ -76,6 +83,14 @@ module DynamicView
       has_land:       "Krainy",
       photo_count:    "Zdjęcia",
       coeff:          "Ocena",
+    }
+
+    TABLE_ICONS = {
+      ready: "gift-fill",
+      text_included: "file-earmark-text",
+      all_references: "tags",
+      has_land: "signpost",
+      photo_count: "stack", # not used
     }
 
     def post_readiness_tuple(post)

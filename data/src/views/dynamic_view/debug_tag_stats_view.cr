@@ -1,5 +1,5 @@
-module GalleryView
-  class TagStatsView < WidePageView
+module DynamicView
+  class DebugTagStatsView < WiderPageView
     Log = ::Log.for(self)
 
     def initialize(
@@ -24,15 +24,15 @@ module GalleryView
 
     def inner_html
       return String.build do |s|
-        s << "<table>"
+        s << "<table class=\".table-sm\">\n"
 
-        s << "<tr>"
-        s << "<th>Data</th>"
-        s << "<th>Tytuł</th>"
-        s << "<th>Zdj.</th>"
-        s << "<th>Tytuł</th>"
-        s << "<th>Tytuł</th>"
-        s << "</tr>"
+        s << "<tr>\n"
+        s << "<th>Data</th>\n"
+        s << "<th>Tytuł</th>\n"
+        s << "<th>Zdj.</th>\n"
+        s << "<th>Dobre</th>\n"
+        s << "<th>Najlep.</th>\n"
+        s << "</tr>\n"
 
         @posts.each do |post|
           published_photos = published_photos_in_post(post)
@@ -41,8 +41,8 @@ module GalleryView
           good_size = published_photos.select { |pe| pe.tags.includes?("good") }.size
           best_size = published_photos.select { |pe| pe.tags.includes?("best") }.size
 
-          s << "<tr>"
-          s << "<td class=\"small\">#{post.date}</td>"
+          s << "<tr>\n"
+          s << "<td class=\"small\">#{post.date}</td>\n"
 
           # no photos
           klass = "text-danger"
@@ -59,14 +59,14 @@ module GalleryView
           s << "↑"
           s << "</a>"
 
-          s << "</td>"
+          s << "</td>\n"
 
-          s << "<td>#{published_size > 0 ? published_size : nil}</td>"
-          s << "<td>#{good_size > 0 ? good_size : nil}</td>"
-          s << "<td>#{best_size > 0 ? good_size : nil}</td>"
-          s << "</tr>"
+          s << "<td>#{published_size > 0 ? published_size : nil}</td>\n"
+          s << "<td>#{good_size > 0 ? good_size : nil}</td>\n"
+          s << "<td>#{best_size > 0 ? good_size : nil}</td>\n"
+          s << "</tr>\n"
         end
-        s << "</table>"
+        s << "</table>\n"
       end
     end
 

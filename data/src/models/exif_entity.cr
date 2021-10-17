@@ -102,7 +102,7 @@ struct ExifEntity
     "M.40-150mm F2.8 + MC-14"                      => "Olympus 40-150mm f2.8 + TC 1.4x",
     "M.40-150mm F2.8 + MC-20"                      => "Olympus 40-150mm f2.8 + TC 2.0x",
     "E 20mm F2"                                    => "Tokina 20mm f2",
-    "OLYMPUS M.40-150mm F2.8"                      => "Olympus 40-140mm f2.8",
+    "OLYMPUS M.40-150mm F2.8"                      => "Olympus 40-150mm f2.8",
     "OLYMPUS M.9-18mm F4.0-5.6"                    => "Olympus 9-18mm",
     "OLYMPUS M.60mm F2.8 Macro"                    => "Olympus 60mm Macro",
     "smc PENTAX-DA 16-45mm F4 ED AL"               => "Pentax DA 16-45mm f4",
@@ -144,29 +144,32 @@ struct ExifEntity
   UNKNOWN_LENS = LENS_NAMES["Sigma Lens"]
 
   def camera_name
-    if @camera_name.nil?
+    if @camera_name.to_s == ""
+      @camera_name = self.camera
+
       if self.camera
-        unless @@cameras_dictionary.includes?(self.camera.not_nil!)
+        unless @@cameras_dictionary.includes?(self.camera.not_nil!.strip)
           @@cameras_dictionary << self.camera.not_nil!
         end
-      end
 
-      @camera_name = self.camera
-      @camera_name = NAMES[self.camera].to_s if NAMES[self.camera]?
+        @camera_name = NAMES[self.camera.not_nil!.strip].to_s if NAMES[self.camera.not_nil!.strip]?
+      end
     end
     return @camera_name
   end
 
   def lens_name
     if @lens_name.to_s == ""
+      @lens_name = self.lens
+
       if self.lens
-        unless @@lenses_dictionary.includes?(self.lens.not_nil!)
+        unless @@lenses_dictionary.includes?(self.lens.not_nil!.strip)
           @@lenses_dictionary << self.lens.not_nil!
         end
+
+        @lens_name = NAMES[self.lens.not_nil!.strip].to_s if NAMES[self.lens.not_nil!.strip]?
       end
 
-      @lens_name = self.lens
-      @lens_name = NAMES[self.lens].to_s if NAMES[self.lens]?
       fix_lens_name
     end
 
