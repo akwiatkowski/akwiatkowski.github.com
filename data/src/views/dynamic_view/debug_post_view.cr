@@ -86,11 +86,11 @@ module DynamicView
     }
 
     TABLE_ICONS = {
-      ready: "gift-fill",
-      text_included: "file-earmark-text",
+      ready:          "gift-fill",
+      text_included:  "file-earmark-text",
       all_references: "tags",
-      has_land: "signpost",
-      photo_count: "stack", # not used
+      has_land:       "signpost",
+      photo_count:    "stack", # not used
     }
 
     def post_readiness_tuple(post)

@@ -43,17 +43,17 @@ struct PhotoEntity
   GALLERY_PREFIX      = "gallery"
   MAP_PREFIX          = "gallery_thumb"
 
-  TAG_GOOD = "good"
-  TAG_BEST = "best"
-  TAG_CAT  = "cat"
-  TAG_MACRO = "macro"
-  TAG_BIRD = "bird"
-  TAG_WINTER = "winter"
-  TAG_TIMELINE = "timeline"
+  TAG_GOOD      = "good"
+  TAG_BEST      = "best"
+  TAG_CAT       = "cat"
+  TAG_MACRO     = "macro"
+  TAG_BIRD      = "bird"
+  TAG_WINTER    = "winter"
+  TAG_TIMELINE  = "timeline"
   TAG_TRANSPORT = "transport"
-  TAG_WATER = "water"
-  TAG_SUNRISE = "sunrise"
-  TAG_CITY = "city"
+  TAG_WATER     = "water"
+  TAG_SUNRISE   = "sunrise"
+  TAG_CITY      = "city"
 
   TAG_GALLERIES = [
     TAG_MACRO,
@@ -67,17 +67,17 @@ struct PhotoEntity
 
   # https://fontawesome.com/
   TAG_BOOTSTRAP_ICON = {
-    TAG_GOOD => "check-circle-fill",
-    TAG_BEST => "gem",
-    TAG_CAT => "eye-fill",
-    TAG_MACRO => "droplet",
-    TAG_BIRD => "binoculars",
-    TAG_WINTER => "snow3",
-    TAG_TIMELINE => "calendar-date",
+    TAG_GOOD      => "check-circle-fill",
+    TAG_BEST      => "gem",
+    TAG_CAT       => "eye-fill",
+    TAG_MACRO     => "droplet",
+    TAG_BIRD      => "binoculars",
+    TAG_WINTER    => "snow3",
+    TAG_TIMELINE  => "calendar-date",
     TAG_TRANSPORT => "gear_wide",
-    TAG_WATER => "water",
-    TAG_SUNRISE => "sunrise",
-    TAG_CITY => "shop",
+    TAG_WATER     => "water",
+    TAG_SUNRISE   => "sunrise",
+    TAG_CITY      => "shop",
   }
   # https://icons.getbootstrap.com
   # tree signpost-fill
