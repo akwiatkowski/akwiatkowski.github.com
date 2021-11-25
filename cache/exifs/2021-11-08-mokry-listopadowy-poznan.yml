@@ -1,0 +1,549 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+- image_filename: 2021_11_08__18_19_DSC00234.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38263888888889
+  lon: 16.91701388888889
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 5000
+  width: 4999
+  height: 3534
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:19:30.000000000+01:00
+- image_filename: 2021_11_08__18_19_DSC00222.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38263888888889
+  lon: 16.91701388888889
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 10000
+  width: 5950
+  height: 3872
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:19:02.000000000+01:00
+- image_filename: 2021_11_08__18_23_DSC00253.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38313888888889
+  lon: 16.917347222222222
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1250
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:23:54.000000000+01:00
+- image_filename: 2021_11_08__18_22_DSC00248.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38263888888889
+  lon: 16.91701388888889
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 8000
+  width: 6002
+  height: 3993
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:22:39.000000000+01:00
+- image_filename: 2021_11_08__18_23_DSC00254.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38319444444444
+  lon: 16.917361111111113
+  altitude: 92.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1000
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:23:57.000000000+01:00
+- image_filename: 2021_11_08__18_24_DSC00255.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.383250000000004
+  lon: 16.917361111111113
+  altitude: 93.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 500
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:24:00.000000000+01:00
+- image_filename: 2021_11_08__18_24_DSC00257.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38344444444444
+  lon: 16.917347222222222
+  altitude: 93.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1250
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:24:16.000000000+01:00
+- image_filename: 2021_11_08__18_27_DSC00275.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38448611111111
+  lon: 16.91519444444444
+  altitude: 96.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 5000
+  width: 5958
+  height: 3936
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:27:50.000000000+01:00
+- image_filename: 2021_11_08__18_29_DSC00285.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38473611111111
+  lon: 16.914291666666664
+  altitude: 96.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 6400
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:29:00.000000000+01:00
+- image_filename: 2021_11_08__18_44_DSC00305.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.402763888888884
+  lon: 16.923694444444447
+  altitude: 88.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 2500
+  width: 5986
+  height: 3928
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:44:39.000000000+01:00
+- image_filename: 2021_11_08__18_43_DSC00301.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40248611111111
+  lon: 16.922722222222223
+  altitude: 88.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 10000
+  width: 5986
+  height: 3929
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 18:43:12.000000000+01:00
+- image_filename: 2021_11_08__19_08_DSC00324.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40236111111111
+  lon: 16.93027777777778
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 12800
+  width: 5977
+  height: 4001
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:08:33.000000000+01:00
+- image_filename: 2021_11_08__19_08_DSC00325.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40236111111111
+  lon: 16.930472222222225
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 6400
+  width: 5964
+  height: 3995
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:08:39.000000000+01:00
+- image_filename: 2021_11_08__19_08_DSC00327.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.402375
+  lon: 16.930708333333335
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 12800
+  width: 3901
+  height: 6032
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:08:53.000000000+01:00
+- image_filename: 2021_11_08__19_12_DSC00340.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401694444444445
+  lon: 16.931847222222224
+  altitude: 73.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 8000
+  width: 5954
+  height: 3982
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:12:00.000000000+01:00
+- image_filename: 2021_11_08__19_10_DSC00333.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401916666666665
+  lon: 16.93138888888889
+  altitude: 73.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 12800
+  width: 5989
+  height: 3985
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:10:42.000000000+01:00
+- image_filename: 2021_11_08__19_12_DSC00344.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401513888888886
+  lon: 16.931722222222223
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 16000
+  width: 6009
+  height: 3972
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:12:59.000000000+01:00
+- image_filename: 2021_11_08__19_12_DSC00341.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401666666666664
+  lon: 16.931833333333334
+  altitude: 73.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 10000
+  width: 6014
+  height: 3975
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:12:10.000000000+01:00
+- image_filename: 2021_11_08__19_13_DSC00347.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401375
+  lon: 16.931569444444445
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 12800
+  width: 3872
+  height: 5949
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:13:32.000000000+01:00
+- image_filename: 2021_11_08__19_13_DSC00350.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40120833333333
+  lon: 16.931486111111113
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 12800
+  width: 5942
+  height: 3858
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:13:43.000000000+01:00
+- image_filename: 2021_11_08__19_13_DSC00348.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.401263888888884
+  lon: 16.93151388888889
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 10000
+  width: 5993
+  height: 3984
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:13:40.000000000+01:00
+- image_filename: 2021_11_08__19_14_DSC00354.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40097222222222
+  lon: 16.931319444444444
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 16000
+  width: 5937
+  height: 3855
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:14:32.000000000+01:00
+- image_filename: 2021_11_08__19_17_DSC00371.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.400555555555556
+  lon: 16.930777777777777
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 16000
+  width: 4024
+  height: 6048
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:17:27.000000000+01:00
+- image_filename: 2021_11_08__19_16_DSC00365.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40068055555555
+  lon: 16.93051388888889
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 16000
+  width: 5845
+  height: 3889
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:16:47.000000000+01:00
+- image_filename: 2021_11_08__19_24_DSC00405.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40154166666667
+  lon: 16.934527777777777
+  altitude: 72.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 6400
+  width: 5948
+  height: 3936
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:24:20.000000000+01:00
+- image_filename: 2021_11_08__19_28_DSC00416.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40384722222222
+  lon: 16.934430555555554
+  altitude: 74.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 6400
+  width: 5976
+  height: 3995
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:28:07.000000000+01:00
+- image_filename: 2021_11_08__19_32_DSC00426.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40436111111111
+  lon: 16.935958333333332
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 3200
+  width: 5908
+  height: 3804
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:32:38.000000000+01:00
+- image_filename: 2021_11_08__19_31_DSC00422.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.404333333333334
+  lon: 16.935958333333332
+  altitude: 75.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 10000
+  width: 5922
+  height: 3932
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:31:33.000000000+01:00
+- image_filename: 2021_11_08__19_33_DSC00434.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40425
+  lon: 16.93611111111111
+  altitude: 76.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 6400
+  width: 5994
+  height: 3995
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:33:48.000000000+01:00
+- image_filename: 2021_11_08__19_33_DSC00435.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.40425
+  lon: 16.936138888888888
+  altitude: 76.0
+  focal_length: 85.0
+  focal_length_35: 85.0
+  crop: 1.0
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 1600
+  width: 6012
+  height: 4007
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  time: 2021-11-08 19:33:57.000000000+01:00
+- image_filename: 2021_11_08__20_48__B080042.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38088888888889
+  lon: 16.916430555555554
+  altitude: 87.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5169
+  height: 3817
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-11-08 20:48:26.000000000+01:00
+- image_filename: 2021_11_08__20_51__B080058.jpg
+  post_slug: 2021-11-08-mokry-listopadowy-poznan
+  lat: 52.38088888888889
+  lon: 16.916430555555554
+  altitude: 87.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5140
+  height: 3776
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-11-08 20:51:10.000000000+01:00
