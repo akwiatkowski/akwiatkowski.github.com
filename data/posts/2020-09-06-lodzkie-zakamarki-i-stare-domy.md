@@ -61,3 +61,56 @@ Zbliżając się do [Strońska][wiki-stronsko] teren stawał się bardziej pofal
 Było to związane z bliskością [Warty][wiki-warta]. Same wioski były już
 trochę bardziej klimatyczne jednak daleko im jest do
 [Pomorza][wiki-pomorze].
+
+W [Strońsku][wiki-stronkso] podjechaliśmy za budynek przy drodze. Był
+tam bardzo ładny widok na obniżenie w okolicy [Warty][wiki-warta-rzeka].
+
+Kierowaliśmy się na wschód. Miałem kupiony bilet na pociąg z
+[Tomaszowa Mazowieckiego][wiki-tomaszow-mazowiecki] jednak nie byłem pewien,
+czy uda się nam dojechać.
+
+Zauważyłem na znaku, że jesteśmy oddaleni od [Zduńskiej Woli][wiki-zdunska-wola]
+o 8km.
+
+Jechaliśmy z [Zapolic][wiki-zapolice] do [Ptaszkowic][wiki-ptaszkowice].
+
+Krajobraz był szczerze mówiąc nudny. Jedyne co warto tutaj zobaczyć to
+jakieś stare budynki, których nie jest tak dużo. Bardzo możliwe że to jest
+kwestią bliskości do [Zduńskiej Woli][wiki-zdunska-wola] i
+[Sieradz][wiki-sieradz].
+
+Przejechaliśmy [Marzenin][wiki-marzenin] i wjechaliśmy w
+[Park Krajobrazowy Dolina Grabi][wiki-dolina-grabi].
+
+[Brodnia Wolna][wiki-brodnia-wolna] jest położona obok jakiegoś lotniska.
+Tylko co zauważyłem patrząc na mapę. Samemu trudno mi jest coś napisać
+o tej miejscowości. Wschodnia część była wyraźnie bardziej interesująca
+z większą ilością starszych domów.
+
+Skręciliśmy na północ i jechaliśmy po szlaku rowerowym czerwonym i niebieskim.
+W [Kolonii Ldzań][wiki-kolonia-ldzan] chcieliśmy skręcić na wschód. Inaczej
+nie dało się ominąć.
+
+Mijaliśmy jakieś ośrodki letniskowe. Tylko nie widziałem żadnego
+istotnego jeziora.
+
+Przejazd jest tutaj bardzo wąski. Przepływa rzeka [Grabia][wiki-grabia-rzeka],
+obok jest młyn. To chyba byo najistotniejsze przyrodniczo miejsce tego dnia.
+
+Kres dzisiejszej wycieczki się klarować. Zdecydowaliśmy że dojedziemy do
+[Łodzi][wiki-lodz] i będziemy wracać tym samym bezpośrednim pociągiem.
+
+[Mierzączka Duża][wiki-mierzaczka-duza] była położona jakby z dale
+od wszystkiego. Ruch był spokojniejszy i widziałem tam stosunkowo
+więcej starszych budynków drewnianych.
+
+Dotarliśmy do [Dłutowa][wiki-dlutow]. Całkiem sporej miejscowości mającej
+nadal swój klimat. Byliśmy w odległości 13km od linii kolejowej.
+
+Naszym celem był [Tuszyn][wiki-tuszyn] gdzie planowaliśmy
+zjeść obiad. Po dłuższej przerwie kierowaliśmy się na północ
+do [Łodzi][wiki-lodz].
+
+Przedmieścia [Łodzi][wiki-lodz] zaczęły się od dawna. Przy
+Rondzie Zbigniewa Zakrzewskiego skręciliśmy w prawo i jechaliśmy
+rowerową obwodnicą.
