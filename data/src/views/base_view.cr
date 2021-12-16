@@ -281,6 +281,10 @@ class BaseView < Tremolite::Views::BaseView
 
     return content
   end
+
+  protected def load_js_asset(filename)
+    return "<script src=\"/js/#{filename}\" type=\"text/javascript\"></script>\n"
+  end
 end
 
 # a little dirty hax

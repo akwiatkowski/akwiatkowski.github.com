@@ -10,6 +10,7 @@ require "../views/gallery_view/tag_view"
 require "../views/dynamic_view/portfolio_view"
 require "../views/dynamic_view/exif_stats_view"
 require "../views/dynamic_view/debug_tag_stats_view"
+require "../views/dynamic_view/timeline_photo_view"
 
 module RendererMixin::RenderPhotoRelated
   # render only when exifs were loaded
@@ -138,6 +139,11 @@ module RendererMixin::RenderPhotoRelated
 
   def render_gallery_stats
     view = DynamicView::DebugTagStatsView.new(
+      blog: blog
+    )
+    write_output(view)
+
+    view = DynamicView::TimelinePhotoView.new(
       blog: blog
     )
     write_output(view)
