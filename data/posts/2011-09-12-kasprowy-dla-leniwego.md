@@ -5,7 +5,6 @@ subtitle:               "lub gdy się wcześniej przesadzi z chodzeniem"
 desc:                   "Wjechałem na Kasprowy Wierch jak większość leniwych ludzi gdyż jeszcze miałem problemy z kolanem. Tym razem nieby było prawie bezchmurne i mieliśmy widok na Podhale oraz Pieniny."
 keywords:               [tatry wysokie, kasprowy, świnica]
 date:                   2011-09-12 21:00:00
-header_timeline:        true
 image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -25,6 +24,8 @@ time_spent:             3
 
 [panoramio-tatry]:      http://www.panoramio.com/photo/66997131
 
+{% photo_header "Widok z Kasprowego Wierchu","tag:good,tag:mountains,tag:timeline" %}
+
 Wstęp
 -----
 
@@ -42,7 +43,7 @@ częstotliwość kursowania wyciągu o połowę aby ograniczyć negatywny wpływ
 Chciałem iść w stronę [Świnicy][wiki-swinica], jednak za szybko szlak zaczął robić się
 stromy i musiałem zawrócić. Kolana zaczęły się wyraźnie odzywać.
 
-{% photo "IMGP1224b.jpg","Szlak w stronę Świnicy","tag:good" %}
+{% photo "IMGP1224b.jpg","Szlak w stronę Świnicy","tag:good,tag:mountains" %}
 
 Raczej nie mogę chwalić się jakąkolwiek trasą jaką przeszedłem,
 ale mogę pochwalić się [najlepszą panoramą jaką zrobiłem][panoramio-tatry].
@@ -55,4 +56,4 @@ Aktualizacja: Panoramio zostaje zamknięte przez Google i już moja panorama nie
 Na koniec, widziałem [Trzy Korony][wiki-trzy-korony] - szczyt w Pieninach, odległy
 od nas tylko 36km.
 
-{% photo "IMGP1399b1.jpg","Szlak na Świnicę","tag:good" %}
+{% photo "IMGP1399b1.jpg","Szlak na Świnicę","tag:good,tag:mountains" %}

@@ -5,7 +5,6 @@ subtitle:               "okazały się nie być takie łatwe"
 desc:                   "Pierwsza dłuższa trasa w wyższych górach - Tatrach. Przejście na Trzydniowiański i Kończysty Wierch i... nadwyrężenie kolana. Zapłaciłem bólem za piękne widoki."
 keywords:               [tatry zachodnie, chochołowska, trzydniowiański, kończysty, wierch, jesień]
 date:                   2011-09-10 21:00:00
-header_timeline:        true
 image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -27,6 +26,8 @@ time_spent:             8
 [wiki-konczysty]:       https://pl.wikipedia.org/wiki/Ko%C5%84czysty_Wierch
 [wiki-zakopane]:        https://pl.wikipedia.org/wiki/Zakopane
 
+{% photo_header "Szlak na Trzydniowiański Wierch","tag:good,tag:mountains,tag:timeline" %}
+
 Wstęp
 -----
 
@@ -38,7 +39,7 @@ Szczegóły
 
 <a href="http://mapa-turystyczna.pl/route/z1gy" title="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl"><img alt="Trasa Siwa Polana ↔ Siwa Polana w serwisie mapa-turystyczna.pl" src="http://mapa-turystyczna.pl/images/icon-s.png" /></a>
 
-{% photo "IMGP0331b.jpg","Tatry w Chmurach","tag:good" %}
+{% photo "IMGP0331b.jpg","Tatry w Chmurach","tag:good,tag:mountains" %}
 
 Z Kościeliska dojechaliśmy do centrum [Zakopanego][wiki-zakopane], a następnie do [Kir][wiki-kiry] (nie wiem czy dobrze odmieniam).
 Następnie dojechaliśmy "pociągiem", aby skrócić sobie o 1h trasę i dalej spacer w stronę [Polany Chochołowskiej][wiki-polana-choch]
@@ -73,7 +74,7 @@ Poniżej kilka zdjęć, które nie zmieściły się w krótki opisie powyżej.
 
 Widok na Dolinę Chochołowską z Kończystego Wierchu.
 
-{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu","tag:timeline,tag:good" %}
+{% photo "IMGP0866b.jpg","Widok na Dolinę Chochołowską z Kończystego Wierchu","tag:timeline,tag:good,tag:mountains" %}
 
 Zejście z Trzydniowiańskiego Wierchu przez kosodrzewinę.
 

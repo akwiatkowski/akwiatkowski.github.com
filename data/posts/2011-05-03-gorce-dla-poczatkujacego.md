@@ -25,6 +25,8 @@ pois:
 [wiki-poreba]:          https://pl.wikipedia.org/wiki/Por%C4%99ba_Wielka_(powiat_limanowski)
 [wiki-turbacz]:         https://pl.wikipedia.org/wiki/Turbacz
 
+{% photo_header "Owce w Koninkach","tag:good,tag:animal" %}
+
 Wstęp
 -----
 
@@ -36,32 +38,32 @@ Szczegóły
 To były czasy, kiedy przejazd TLKą i możliwość bezproblemowego oparcia się o ścianę w pociągu była sporym sukcesem.
 Później wprowadzono pełną rezerwacje miejsc i do kolei przyszedł ład, porządek i cywilizacja.
 
-{% photo "IMGP6031b.jpg","Koninki","nogallery" %}
+{% photo "IMGP6031b.jpg","Koninki","tag:spring" %}
 
 Bazę mieliśmy w dolinie, w wiosce [Porębie Wielkiej][wiki-poreba].
 Nie było żadnych planów tras, przez to jak udało nam się rozlokować i wyruszyć była już przynajmniej 16-ta. Udało nam się
 wejść tylko na [Tobołów][wiki-tobolow] bo co chwilę coś ładnego, nowego, i musiałem robić zdjęcia.
 
-{% photo "IMGP6034b.jpg","Dom w Koninkach","tag:good" %}
+{% photo "IMGP6034b.jpg","Dom w Koninkach","tag:good,tag:countryside" %}
 
 Następnego dnia był plan aby wejść na [Turbacz][wiki-turbacz]. Wyszliśmy rano, około 10-tej. Po przejściu 20-30 minut zaczęło padać.
 Już wiem, że warto sprawdzać prognozę pogody wcześniej, oraz warto mieć trochę odpowiedniejsze ubranie.
 
-{% photo "IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej" %}
+{% photo "IMGP6250b.jpg","Domy na zboczach Poręby Wielkiej","tag:countryside" %}
 
 Padało tak cały dzień, dopiero
 wieczorem było można wyjść i pozwiedzać okolice wioski. Udało się nam znaleźć polanę, położoną bardzo blisko, ale
 z której jest widok na całą dolinę.
 
-{% photo "IMGP6504b.jpg","Poręba Górna","tag:timeline,tag:good" %}
+{% photo "IMGP6504b.jpg","Poręba Górna","tag:timeline,tag:good,tag:spring" %}
 
 Następnego dnia musieliśmy (w sumie to nie musieliśmy) wracać już. Poszliśmy przed autobusem ponownie na tą polanę.
 Wszystko było tak soczyście zielone i świeże po wczorajszym deszczowym dniu.
 Dodatkową atrakcją były pasące się owce.
 
-{% photo "IMGP6536b.jpg","Owce wypasane nad Koninkami","tag:good" %}
+{% photo "IMGP6536b.jpg","Owce wypasane nad Koninkami","tag:good,tag:countryside" %}
 
 Jeżeli się nie mylę, to następnego dnia spadł śnieg w tych rejonach. Było to
 trochę zaskakujące.
 
-{% photo "IMGP6579.JPG","Koziołek","tag:good" %}
+{% photo "IMGP6579.JPG","Koziołek","tag:good,tag:animal" %}

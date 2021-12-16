@@ -31,6 +31,8 @@ time_spent:             8
 [wiki-tatry-wysokie]:           https://pl.wikipedia.org/wiki/Tatry_Wysokie
 [wiki-tatry-zachodnie]:         https://pl.wikipedia.org/wiki/Tatry_Zachodnie
 
+{% photo_header "Dolina Pięciu Stawów Polskich","tag:good,tag:mountains,tag:water" %}
+
 Wstęp
 -----
 
@@ -72,11 +74,11 @@ wyglądał aby był suchy.
 Po drodzę po prawej stronie mijaliśmy grań [Wołoszynu][wiki-woloszyn], który jest przedłużeniem szlaku [Orlej Perci][wiki-orla-perc].
 Od tego momentu ilość bodźców wizualnych jakie odbierałem była zbyt dużo. Widoki były zbyt ładne.
 
-{% photo "IMGP1719b.jpg","Widok na Dolinę Roztoki","tag:good" %}
+{% photo "IMGP1719b.jpg","Widok na Dolinę Roztoki","tag:good,tag:mountains" %}
 
 Dowiedziałem się, że na początku XX wieku był szlak tam - kontynuacja [Orlej Perci][wiki-orla-perc].
 
-{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka","tag:timeline,tag:good" %}
+{% photo "IMGP1742b1.jpg","Podczas podejścia w stronę Morskiego Oka","tag:timeline,tag:good,tag:mountains" %}
 
 Na pewno była przerwa w [schronisku][wiki-schron-5stawow], ale już nie pamiętam jak
 długo trwała. Dalej wyruszyliśmy niebieskim szlakiem przez
@@ -101,7 +103,7 @@ i szliśmy w stronę parkingu na [Palenicy Białczańskiej][wiki-palenica-b], gd
 Następnie godzina jazdy powrotnej, dojście do bazy aby zabrać duże plecaki i spacer
 na dworzec.
 
-{% photo "IMGP1775b2.jpg","Morskie Oko z bliska","tag:good" %}
+{% photo "IMGP1775b2.jpg","Morskie Oko z bliska","tag:good,tag:mountains" %}
 
 Udało się nam złapać autobus do Krakowa gdzie mieliśmy prawie 20 minut przerwy do odjazdu pociągu
 do Poznania. Teraz tylko wytrzymać te "kilka" godzin

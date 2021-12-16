@@ -23,6 +23,8 @@ time_spent:             3
 [wiki-kowary]:          https://pl.wikipedia.org/wiki/Kowary
 [wiki-sniezka]:         https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
 
+{% photo_header "Śnieżka","" %}
+
 Wstęp
 -----
 
@@ -46,7 +48,7 @@ i udało się wjechać na [Kopę][wiki-kopa]. Siedzenia są pojedyńcze i wjeżd
 
 Na górze wszystko było ośnieżone po wczorajszej zamieci. Był to dla mnie całkowicie inny świat.
 
-{% photo "IMGP3130b1.jpg","Okolice Kopy w śniegu","tag:good" %}
+{% photo "IMGP3130b1.jpg","Okolice Kopy w śniegu","tag:good,tag:winter" %}
 
 Ruszyliśmy w kierunku [Śnieżki][wiki-sniezka]. Byliśmy jednymi z pierwszych osób na szlaku.
 
@@ -57,11 +59,11 @@ na [Śnieżkę][wiki-sniezka], jednak szlak był mocno oblodzony. Gdzieniegdzie 
 Do tego miałem zamiast sensownych górskich zimowych butów glany. Nie było mi zimno, ale z jakiegoś
 powodu ludzie używają innych butów w tych warunkach. Postanowiliści się wycofać.
 
-{% photo "IMGP3041.JPG","Granica równi pod Śnieżką po czeskiej stronie","tag:good" %}
+{% photo "IMGP3041.JPG","Granica równi pod Śnieżką po czeskiej stronie","tag:good,tag:winter" %}
 
 W tym momencie pokręciliśmy się po tutejszej okolicy, gdyż niebo zrobiło się bardziej przejrzyśte a tereny ładniejsze.
 
-{% photo "IMGP3090.JPG","Kopa","tag:timeline,tag:good" %}
+{% photo "IMGP3090.JPG","Kopa","tag:timeline,tag:good,tag:winter,tag:mountains" %}
 
 Zadziwiało mnie to, że większość ludzi wchodziła na [Śnieżkę][wiki-sniezka] tego dnia.
 Ja uznałem, że wejście nie było bezpieczne, a oni jednak
