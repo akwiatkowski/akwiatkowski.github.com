@@ -21,6 +21,8 @@ time_spent:             2
 [wiki-tatry]:           https://pl.wikipedia.org/wiki/Tatry
 [wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
 
+{% photo_header "Mgły nachodzące na drzewa","tag:mountains" %}
+
 Wstęp
 -----
 

@@ -21,6 +21,8 @@ time_spent:             5
 [wiki-rownica]:               https://pl.wikipedia.org/wiki/R%C3%B3wnica
 [wiki-brenna]:                https://pl.wikipedia.org/wiki/Brenna
 
+{% photo_header "Dom na zboczu","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -45,7 +47,7 @@ oprócz tego że cały świat jest szary, to mieliśmy jeszcze silniejszy wiatr.
 Z okolic [Równicy][wiki-rownica] widzieliśmy [Brennę][wiki-brenna]
 i był to w sumie jedyny widok, jaki mieliśmy okazję zaobserwować w całym wyjeździe.
 
-{% photo "IMGP4771.JPG","Okolice Palenicy","tag:timeline,tag:good" %}
+{% photo "IMGP4771.JPG","Okolice Palenicy","tag:timeline,tag:good,tag:mountains" %}
 
 Drugiego dnia było jeszcze bardziej szaro i smutno, najlepiej przedstawi to poniższe zdjęcie.
 

@@ -8,7 +8,6 @@ date:                   2013-02-07 21:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP7946b.jpg
-header_timeline:        true
 tags:                   [main, hike, mountains, best]
 towns:                  [dolnoslaskie, swieradow_zdroj]
 lands:                  [gory_izerskie]
@@ -24,6 +23,8 @@ time_spent:             7
 [wiki-chatka-gorzystow]:        https://pl.wikipedia.org/wiki/Chatka_G%C3%B3rzyst%C3%B3w
 [wiki-walbrzych]:               https://pl.wikipedia.org/wiki/Wa%C5%82brzych
 [wiki-stog-izerski]:            https://pl.wikipedia.org/wiki/St%C3%B3g_(G%C3%B3ry_Izerskie)
+
+{% photo_header "Góry Izerskie","tag:winter,tag:good,tag:mountains" %}
 
 Wstęp
 -----
@@ -43,7 +44,7 @@ Jak zwykle byłem średnio wyspany po
 nocnej jeździe pociągiem, a czekała mnie jeszcze dzisiejsza trasa.
 Jest to przepis na najlepsze lekarstwo na bezsenność.
 
-{% photo "IMGP7517b.jpg","Góry Sokole","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP7517b.jpg","Góry Sokole","tag:timeline,tag:good,tag:best,tag:mountains" %}
 
 Ciekawe widoki rozpoczęły się już za [Wałbrzychem][wiki-walbrzych] z kulminacją w okolicy [Rudaw Janowickich][wiki-rudawy].
 Pogoda była całkiem przyjemna, cały świat delikatnie ośnieżony.
@@ -72,7 +73,7 @@ I tak kierowaliśmy się już po raczej płaskim terenie do [Chatki Górzystów]
 i śnieg. Po drodzę minęliśmy ludzi, którzy średnio potrafili mówić po polsku, a tym bardziej już teraz nie
 pamiętam czego chcieli, ale chyba być w innym miejscu niż byli.
 
-{% photo "IMGP7930b.jpg","Barwny wieczór w Górach Izerskich" %}
+{% photo "IMGP7930b.jpg","Barwny wieczór w Górach Izerskich","tag:winter" %}
 
 Dopiero wieczorem, gdy już zbliżaliśmy się do schroniska chmury robiły się rzadsze i przedostawało się słońce.
 Wieczorne słońce w zimie w górach to jedna z najpiękniejszych rzeczy.
@@ -82,7 +83,7 @@ Wieczorne słońce w zimie w górach to jedna z najpiękniejszych rzeczy.
 Do schroniska dotarliśmy już w trakcie zmroku. Chmury wszystkie uciekły i widzieliśmy piękny niebieski
 krajobraz.
 
-{% photo "IMGP7967b.jpg","Tuż po zachodzie słońca w Górach Izerskich","tag:good" %}
+{% photo "IMGP7967b.jpg","Tuż po zachodzie słońca w Górach Izerskich","tag:good,tag:winter" %}
 
 [Chatka Górzystów][wiki-chatka-gorzystow] jest specyficznym schroniskiem. Klimatyczne, bez prądu, w zimie przystosowane
 głównie dla narciarzy biegowych. Oprócz jednej rodziny byliśmy tam jedynymi osobami, które dostały się pieszo.

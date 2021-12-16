@@ -24,6 +24,7 @@ time_spent:             7
 [wiki-szklarska]:               https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
 [wiki-kamienczyk]:              https://pl.wikipedia.org/wiki/Schronisko_%E2%80%9EKamie%C5%84czyk%E2%80%9D
 
+{% photo_header "Zimowy las w Górach Izerskich","tag:winter,tag:good" %}
 
 Wstęp
 -----
@@ -43,7 +44,7 @@ Zaczęliśmy około godziny 8 wychodząc ze schroniska. Powinniśmy iść szlaki
 zauważyliśmy szlaku, więc poszliśmy ostatecznie niebieskim. Tam jacyś ludzie kiedyś
 szli i były ślady, wiec pewnie warto nim iść.
 
-{% photo "IMGP8010b.jpg","Pierwszy widok po wyjściu z Chatki Górzystów" %}
+{% photo "IMGP8010b.jpg","Pierwszy widok po wyjściu z Chatki Górzystów","tag:winter,tag:mountains" %}
 
 Okazało się, że to ludzie szli pewnie do schroniska [Orle][wiki-orle], co nie było nam po drodzę.
 
@@ -55,7 +56,7 @@ Jak już idziemy niebieskim, to idźmy, a później jakoś dołączymy do czerwo
 
 Niestety te 2-3km szlaku obok Jagnięcego Potoku było przez las kompletnie nieprzetartym szlakiem.
 
-{% photo "IMGP8066b.jpg","Rzeka Izera","tag:good" %}
+{% photo "IMGP8066b.jpg","Rzeka Izera","tag:good,tag:winter" %}
 
 Co ciekawe, były tam malutkie szczeliny, ale wystarczające aby się w nie władować. Raz się
 przewróciłem i nie miałem dobrze zapiętego plecaka. Teraz wiem, że wstać z plecakiem nie jest łatwe,
@@ -65,13 +66,13 @@ zwłaszcza jeżeli jest się w zapadającym śniegu.
 
 Te 2-3km tak nas zmęczyły, że nie chciało się już próbować wracać na [Główny Szlak Sudecki][wiki-gss].
 
-{% photo "IMGP8126b.jpg","Idąc przez izerski zimowy las (2)" %}
+{% photo "IMGP8126b.jpg","Idąc przez izerski zimowy las (2)","tag:winter" %}
 
 Wyszliśmy na trasy narciarstwa biegowego i grzecznie poboczem kierowaliśmy się do
 [Jakuszyc][wiki-jakuszyce]. Tam zjedliśmy i poczekaliśmy na kolej do [Szklarskiej Poręby][wiki-szklarska].
 Skróciliśmy sobie drogę z 13km do około 6km. Cóż, zima.
 
-{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las (3)","tag:timeline,tag:good" %}
+{% photo "IMGP8140b.jpg","Idąc przez izerski zimowy las (3)","tag:timeline,tag:good,tag:winter" %}
 
 Z centrum [Szklarskiej Poręby][wiki-szklarska] dotarliśmy do schroniska [Kamieńczyk][wiki-kamienczyk]
 idąc głównie przez miasto. Jedynie ostatnie kilkaset metrów jest trochę stromę.
@@ -84,7 +85,7 @@ którzy chcą spać tylko jedną noc. W mieście chyba nikt takich ludzi nie chc
 Wnioski
 -------
 
-Zima nigdy nie jest pewna i nigdy niewiadomo ile czasu zajmie dany szlak. Standardowe mnożenie razy 2
+Zima nigdy nie jest pewna i nigdy nie wiadomo ile czasu zajmie dany szlak. Standardowe mnożenie razy 2
 nie zawsze działa. A jak nie działa, to może być źle. Czas przejścia to jedno, ale jak dane przejście
 męczy to drugie.
 

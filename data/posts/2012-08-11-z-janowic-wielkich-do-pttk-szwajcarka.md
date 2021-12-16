@@ -24,6 +24,8 @@ time_spent:             3
 
 [szwajcarka]:           http://schronisko-szwajcarka.pl/
 
+{% photo_header "Zamek Bolczów","tag:old" %}
+
 Wstęp
 -----
 

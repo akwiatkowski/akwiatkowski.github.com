@@ -33,6 +33,8 @@ time_spent:             7
 [wiki-regietow]: https://pl.wikipedia.org/wiki/Regiet%C3%B3w
 [wiki-rotunda]: https://pl.wikipedia.org/wiki/Rotunda_(g%C3%B3ra)
 
+{% photo_header "Klimkówka","tag:water" %}
+
 ## Wstęp
 
 Po
@@ -45,23 +47,23 @@ byliśmy trochę zmęczeni. Postanowiliśmy ten dzień spędzić spokojniej.
 Rano usłyszałem odgłosy owiec. Sąsiad wypuścił owce pierwszy
 raz w tym roku. Wiele z nich widziało trawę pierwszy raz w swoim życiu.
 
-{% photo "IMGP6603.JPG","Owce w Hańczowej" %}
+{% photo "IMGP6603.JPG","Owce w Hańczowej (1)","tag:animal" %}
 
 Niektóre z nich nawet próbowały pozować.
 
-{% photo "IMGP6705.JPG","Owce w Hańczowej","tag:good" %}
+{% photo "IMGP6705.JPG","Owce w Hańczowej (2)","tag:good,tag:animal" %}
 
 Z [Hańczowej][wiki-hanczowa] podjechaliśmy autobusem do [Klimkówki][wiki-klimkowka-wies]
 gdzie ponad godzinę spacerowaliśmy po plaży [jeziora][wiki-klimkowka] i okolicy.
 
-{% photo "IMGP7063b.jpg","Jezioro Klimkówka" %}
+{% photo "IMGP7063b.jpg","Jezioro Klimkówka","tag:good,tag:water" %}
 
 Zjedliśmy w restauracji obok kapliczki i wróciliśmy autobusem
 do [Hańczowej][wiki-hanczowa].
 Czekając na autobus zaciekawiły mnie plecaki Deutera u spotkanych turystów,
 zwłaszcza jak chodzenie z takim dużym plecakiem może być wygodne.
 
-{% photo "IMGP7273b.jpg","Kot pilnujący owiec","tag:cat,tag:best" %}
+{% photo "IMGP7273b.jpg","Kot pilnujący owiec","tag:cat,tag:best,tag:good" %}
 
 ### Wejście na Rotundę
 
@@ -79,4 +81,4 @@ Przeszukając archiwa znalazłem kilka z nich.
 
 Samo miejsce jest bardzo klimatyczne.
 
-{% photo "IMGP7619b.jpg","Drewniany dom w Regietowie" %}
+{% photo "IMGP7619b.jpg","Drewniany dom w Regietowie","tag:old" %}

@@ -29,6 +29,8 @@ time_spent:             5
 [wiki-pasterka]:        https://pl.wikipedia.org/wiki/Pasterka_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-kowary]:          https://pl.wikipedia.org/wiki/Kowary
 
+{% photo_header "Leszczyniec i okolice","" %}
+
 Wstęp
 -----
 
@@ -47,7 +49,7 @@ Dojechaliśmy rano do [Marciszowa][wiki-marciszow]. Poczekaliśmy chwilę na aut
 
 {% photo "IMGP2211c.jpg","Kaczka w Kamiennej Górze" %}
 
-Tam z kolei mieliśmy trochę czasu na kolejny, więc poszedliśmy coś zjeść do centrum. Wróciliśmy i dalej jechaliśmy
+Tam z kolei mieliśmy trochę czasu na kolejny, więc poszliśmy coś zjeść do centrum. Wróciliśmy i dalej jechaliśmy
 autobusem w stronę [Kowar][wiki-kowary].
 
 {% photo "IMGP2218c.jpg","Droga z Kamiennej Góry w stronę Leszczyńca","tag:timeline" %}
@@ -75,7 +77,7 @@ czarny kot. Schroniska już nie ma, zostało przekształcone teraz w gospodarstw
 
 {% photo "IMGP2364b.jpg","Jesienne okolice Leszczyńca","tag:timeline,tag:good" %}
 
-Szliśmy niebieskiem szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
+Szliśmy niebieskim szlakiem, jednak pod koniec stał się on trochę niewyraźnie opisany i chyba poszliśmy na skróty.
 
 {% photo "IMGP2606c.jpg","Karkonosze widoczne ze Skalnika" %}
 

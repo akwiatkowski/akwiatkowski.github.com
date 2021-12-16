@@ -21,6 +21,8 @@ time_spent:             6
 [wiki-szrenica-schr]:           https://pl.wikipedia.org/wiki/Schronisko_na_Szrenicy
 [wiki-karkonosze]:              https://pl.wikipedia.org/wiki/Karkonosze
 
+{% photo_header "Poranek z Odrodzenia","tag:winter,tag:mountains" %}
+
 Wstęp
 -----
 

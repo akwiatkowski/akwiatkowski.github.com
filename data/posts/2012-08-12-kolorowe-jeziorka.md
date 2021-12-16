@@ -33,6 +33,8 @@ time_spent:             5
 
 [szwajcarka]:           http://schronisko-szwajcarka.pl/
 
+{% photo_header "Jezioro Turkusowe","" %}
+
 Wstęp
 -----
 
@@ -64,7 +66,7 @@ A poniższe zdjęcie pokazuje jak wyglądał las w okolicach schroniska [Szwajca
 Wróciliśmy spać i wstaliśmy po 9-tej. Było już zdecydowanie ładniej, zero śladów wczorajszej pogody -
 dobry słoneczny dzień. Ponownie wyruszyliśmy na [Krzyżną Górę][wiki-krzyzna].
 
-{% photo "IMGP8080b.jpg","Tego dnia Śnieżka była w chmurach" %}
+{% photo "IMGP8080b.jpg","Tego dnia Śnieżka była w chmurach","tag:mountains" %}
 
 Trochę długo zasiedzieliśmy na szczycie [Krzyżnej Góry][wiki-krzyzna] i zauważyliśmy, że mamy półtora godziny do
 odjazdu pociągu.

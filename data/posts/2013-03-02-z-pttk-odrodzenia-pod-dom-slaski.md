@@ -26,6 +26,8 @@ time_spent:             5
 [wiki-dom-slaski]:              https://pl.wikipedia.org/wiki/Schronisko_G%C3%B3rskie_%E2%80%9EDom_%C5%9Al%C4%85ski%E2%80%9D
 [wiki-karpacz]:                 https://pl.wikipedia.org/wiki/Karpacz
 
+{% photo_header "Śnieżka","tag:winter,tag:mountains" %}
+
 Wstęp
 -----
 
@@ -42,11 +44,11 @@ Szczegóły
 
 Wstałem około 6-tej i poszedłem korytarzem w schronisku do okna z którego mogłem zrobić jakieś zdjęcia okolicy o poranku.
 
-{% photo "IMGP9357b.jpg.jpg","Tuż przed wschodem z za okna schroniska",tag:good" %}
+{% photo "IMGP9357b.jpg","Tuż przed wschodem z za okna schroniska",tag:good,tag:sunrise" %}
 
 Gdybym wiedział że będzie taka pogoda, to wziąłbym statyw, wstałbym godzinę wcześniej i wyszedł ze schroniska.
 
-{% photo "IMGP9409b.jpg","Nie wszystkie drzewa były ośnieżone w Karkonoszach" %}
+{% photo "IMGP9409b.jpg","Nie wszystkie drzewa były ośnieżone w Karkonoszach","tag:mountains" %}
 
 Wyruszliśmy na wschód idąc [Głównym Szlakiem Sudeckim][wiki-gss]. Szliśmy cały czas zboczem
 po stronie polskiej.
@@ -60,7 +62,7 @@ Najbardziej stromo było w okolicy [Samotni][wiki-samotnia], czyli obok [Wielkie
 Gdy idzie się granią widok na doliny jest idealny, lecz nie oznacza to, że musi
 być ciekawy.
 
-{% photo "IMGP9605b.jpg","Idąc w stronę Śnieżki" %}
+{% photo "IMGP9605b.jpg","Idąc w stronę Śnieżki","tag:winter" %}
 
 Gdy po lewej widzieliśmy schronisko [Strzecha Akademicka][wiki-strzecha] na wprost górowała [Śnieżka][wiki-sniezka].
 
@@ -71,7 +73,7 @@ Myśleliśmy, aby spróbować wejść na [Śnieżkę][wiki-sniezka]
 przy tak idealnej pogodzie, ale prawdopodobnie byłyby wtedy problemy z powrotem. Dlatego zachowawczo zjechaliśmy
 kolejką do [Karpacza][wiki-karpacz].
 
-{% photo "IMGP9657b.jpg","Spacer po płaskiej części Karkonoszy","tag:good" %}
+{% photo "IMGP9657b.jpg","Spacer po płaskiej części Karkonoszy","tag:good,tag:winter" %}
 
 Wracając autobusem widziałem jak ładnie wyglądają ośnieżone pola.
 Nie wiedziałem wtedy, że będę czekał więcej niż 5 lat na zrobienie takiego zdjęcia.

@@ -26,6 +26,8 @@ time_spent:             5
 [wiki-klimkowka]:               https://pl.wikipedia.org/wiki/Jezioro_Klimkowskie
 [wiki-rotunda]:                 https://pl.wikipedia.org/wiki/Rotunda_(g%C3%B3ra)
 
+{% photo_header "Góry Beskidu Niskiego","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -41,14 +43,14 @@ Szczegóły
 
 W planach była chęć wejścia na [Lackową][wiki-lackowa], jednak niepewność pogody spowodowała że opuściliśmy sobie ten pomysł.
 
-{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej","tag:timeline" %}
+{% photo "IMGP7975.JPG","Zielony Beskid Niski niedaleko Hańczowej","tag:timeline,tag:spring" %}
 
 Wyruszyliśmy do [Hańczowej][wiki-hanczowa] i następnie na zachód [Głównym Szlakiem Beskidzkim][wiki-gsb]
 aż do wsi [Ropki][wiki-ropki], gdzie skręciliśmy w lewo na niebieski szlak.
 Tą drogą kierowaliśmy się już do
 [Wysowej][wiki-wysowa] przez [Hutę Wysowską][wiki-huta-wysowska].
 
-{% photo "IMGP8093b.jpg","Zieleń w pełni","tag:good" %}
+{% photo "IMGP8093b.jpg","Zieleń w pełni","tag:good,tag:countryside,tag:spring" %}
 
 Lekki teren, spokojnie dałoby się tam pojeździć rowerem. Klimatyczne odludne miejsca.
 
@@ -70,4 +72,4 @@ Bonus
 Byliśmy jeszcze powłóczyć się w okolicy [Klimkówki][wiki-klimkowka], na [Rotundzie][wiki-rotunda],
 oraz sąsiedzi mieli bardzo dużo owiec. Tylko to jest za mało na osobny post.
 
-{% photo "IMGP8490b.JPG","Pożegnanie z owcami w Hańczowej" %}
+{% photo "IMGP8490b.JPG","Pożegnanie z owcami w Hańczowej","tag:animal" %}

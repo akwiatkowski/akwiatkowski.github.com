@@ -29,9 +29,9 @@ time_spent:             8
 [wiki-podgorzyn]:       https://pl.wikipedia.org/wiki/Podg%C3%B3rzyn_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-skalny-stol]:     https://pl.wikipedia.org/wiki/Skalny_St%C3%B3%C5%82
 
-
 [jelenia-struga]:       http://www.jeleniastruga.pl/
 
+{% photo_header "Widok z okolic Skalnego Stołu","tag:mountains" %}
 
 Wstęp
 -----
@@ -61,13 +61,13 @@ obok rzeki [Świdnik][wiki-swidnik].
 Doszliśmy do [Przełęczy Kowarskiej][wiki-przel-kowarska], czyli byliśmy już na 727m
 wysokości n.p.m.
 
-{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu","tag:good,tag:best" %}
+{% photo "IMGP2737b.jpg","Bardzo stary i zaniedbany dom w Ogorzelcu","tag:good,tag:best,tag:old" %}
 
 Od tego miejsca szliśmy cały czas żółtym szlakiem pieszym
 w kierunku [Malá Úpa][wiki-mala-upa] lub
 [Przełęczy Okraj][wiki-okraj].
 
-{% photo "IMGP2801c.jpg","Wieś Podgórzyn","tag:timeline" %}
+{% photo "IMGP2801c.jpg","Wieś Podgórzyn","tag:timeline,tag:countryside,tag:mountains" %}
 
 Po drodze z prawej strony mieliśmy bardzo dobry widok na
 [Kotlinę Jeleniogórską][wiki-kotlina-jel], wieś [Podgórzyn][wiki-podgorzyn] oraz [Jelenią Strugę][jelenia-struga].

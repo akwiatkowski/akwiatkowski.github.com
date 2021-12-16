@@ -5,7 +5,6 @@ subtitle:               "przez gęste lasy w stronę Klimkówki"
 desc:                   "Najdłuższą trasę przeszliśmy drugiego dnia idąc zalesionymi górami. Oprócz rozpoczęcia i końca trasy jedynie w okolicy wsi Czarne zeszliśmy z grani w dół."
 keywords:               [wiosna, majówka, zielono, klimkówka, rotunda, hańczowa]
 date:                   2012-04-30 21:00:00
-header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]
@@ -28,6 +27,8 @@ time_spent:             7
 [wiki-gsb]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
 [wiki-flasza]:                  https://pl.wikipedia.org/wiki/Flasza
 [wiki-losie]:                   https://pl.wikipedia.org/wiki/%C5%81osie_(powiat_gorlicki)
+
+{% photo_header "Klimkówka","tag:timeline,tag:mountains,tag:spring" %}
 
 ## Wstęp
 
@@ -53,17 +54,17 @@ to jest ten mniej znany i niższy.
 Szliśmy cały czas przez las, praktycznie zero widoków. Po minięciu [Bordiów Wierch][wiki-bordiow] zeszliśmy obok wsi
 [Czarna][wiki-czarna]. Niewiele tam było ciekawego, ale też widać tutaj klimat [Beskidu Niskiego][wiki-beskid-niski].
 
-{% photo "IMGP6154.JPG","Podejście niebieskim szlakiem w stronę Dzielca","tag:good" %}
+{% photo "IMGP6154.JPG","Podejście niebieskim szlakiem w stronę Dzielca","tag:good,tag:timeline,tag:spring" %}
 
 Następnie podejście na [Suchą Homolę][wiki-sucha-homola] i znowu las. Miejscami był prześwit i widziałem jezioro
 [Klimkówkę][wiki-klimkowka], jednak nie na tyle aby móc zrobić ciekawe zdjęcia.
 
-{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy","tag:timeline,tag:best" %}
+{% photo "IMGP6406b.jpg","Wiosenna drewniana hata niedaleko Flaszy","tag:timeline,tag:best,tag:good,tag:countryside,tag:spring" %}
 
 Pierwszym ciekawym miejscem była polana niedaleko góry [Flasza][wiki-flasza]. Chwilę po tym zaczęliśmy schodzić do wsi
 [Klimkówka][wiki-klimkowka-wies] z którego był widok na jezioro o tej samej nazwie.
 
-{% photo "IMGP6425b.jpg","Docierając do Klimkówki" %}
+{% photo "IMGP6425b.jpg","Docierając do Klimkówki","tag:mountains" %}
 
 Od tego momentu trasa, w mojej ocenie, była naprawdę
 ciekawa. Szkoda że to to były ostatnie 5km - całkiem duże jezioro, góry, zieleń, idealne miejsce tego dnia.

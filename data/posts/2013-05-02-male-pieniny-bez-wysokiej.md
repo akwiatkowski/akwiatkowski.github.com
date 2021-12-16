@@ -23,6 +23,8 @@ time_spent:             6
 [wiki-durbaszka-schron]:        https://pl.wikipedia.org/wiki/Schronisko_pod_Durbaszk%C4%85
 [wiki-jaworki]:                 https://pl.wikipedia.org/wiki/Jaworki
 
+{% photo_header "Deszczowe mgły w Pieninach","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -58,7 +60,7 @@ Kierowaliśmy się na zachód widząc zbliżającą się burzę. Na wysokości [
 w stronę [schroniska][wiki-durbaszka-schron] o takiej samej nazwie. Tam przeczekaliśmy burzę siedząc ponad godzinę
 i patrząc co się dzieje wokół. Zrobiło się dość mgliście.
 
-{% photo "IMGP1268c.jpg","Mgliste Pieniny (1)" %}
+{% photo "IMGP1268c.jpg","Mgliste Pieniny (1)","tag:mountains" %}
 
 Jak deszcz się uspokoił zaczęliśmy schodzić, pomimo tego, że burzę było cały czas było słychać i widac. Nie uciekła
 ona daleko.

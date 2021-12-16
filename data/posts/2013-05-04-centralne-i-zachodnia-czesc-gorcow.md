@@ -25,6 +25,8 @@ time_spent:             11
 [wiki-maciejowa]:       https://pl.wikipedia.org/wiki/Bac%C3%B3wka_PTTK_na_Maciejowej
 [wiki-rabka]:           https://pl.wikipedia.org/wiki/Rabka-Zdr%C3%B3j
 
+{% photo_header "Schronisko na Turbaczu","" %}
+
 Wstęp
 -----
 
@@ -41,12 +43,12 @@ Szczegóły
 Opis będzie bardzo krótki. Nie było żadnych widoków, tylko wilgoć, szaruga, mgła i... totalnie szaro. Przeszliśmy
 [22km][trasa] i zrobiłem jedynie 3 zdjęcia, z których byłbym zadowolony.
 
-{% photo "IMGP1863b.jpg","Mgła w lesie gorczańskim" %}
+{% photo "IMGP1863b.jpg","Mgła w lesie gorczańskim (1)" %}
 
 Jak jest tak brzydko to się tylko idzie i nie zwraca uwagi na nic. Może mając statyw i czas bym coś w lesie zrobił.
 Może.
 
-{% photo "IMGP1876b.jpg","Mgła w lesie gorczańskim" %}
+{% photo "IMGP1876b.jpg","Mgła w lesie gorczańskim (2)","tag:good" %}
 
 Oprócz [schroniska na Turbaczu][wiki-schron-turbacz], którego zdjęcie jest na górze, tylko poniższe zdjęcie
 wrzuciłem na 500px.

@@ -23,6 +23,8 @@ time_spent:             6
 [wiki-pod-labskim]:             https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9EPod_%C5%81abskim_Szczytem%E2%80%9D
 [wiki-szklarska]:               https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
 
+{% photo_header "Schronisko pod Łabskim Szczytem","tag:winter,tag:good" %}
+
 Wstęp
 -----
 
@@ -39,7 +41,7 @@ Szczegóły
 Nie chciało nam się podchodzić na [Szrenicę][wiki-szrenica], dlatego poszliśmy w stronę wyciągu. Tutaj pokręciły się nam
 drogi i nadłożyliśmy trochę trasy. Chyba musieliśmy zejść fragmentem stoku.
 
-{% photo "IMGP8398b.jpg","Górne partie Karkonoszy w chmurach","tag:good,tag:best" %}
+{% photo "IMGP8398b.jpg","Górne partie Karkonoszy w chmurach","tag:good,tag:best,tag:mountains,tag:winter" %}
 
 Ze [Szrenicy][wiki-szrenica] szliśmy dalej [Głównym Szlakiem Sudeckim][wiki-gss] obserwując jak Polska
 wygląda z dołu, a Czechy z porównywalnego poziomu. Wydaję mi się że Polska dostała tylko 1/3 gór, a 2/3
@@ -56,7 +58,7 @@ lenistwo nas zaatakowało.
 Zeszliśmy do schroniska [Pod Łabskim Szczytem][wiki-pod-labskim]. To był chyba najciekawszy fragment
 dnia.
 
-{% photo "IMGP8537b.jpg","Szlak na Szrenicę (2)","tag:good,tag:best" %}
+{% photo "IMGP8537b.jpg","Szlak na Szrenicę (2)","tag:good,tag:best,tag:winter" %}
 
 Na początku śnieg i tylko śnieg, a powoli pojawiały się drzewa. Zdecydowanie widoczny gradient
 zmiany terenu. Do tego bezpośredni widok na [Szklarską Porębe][wiki-szklarska].
@@ -68,7 +70,7 @@ Nie pamiętam co dokładnie robiliśmy, ale zmrok przyszedł w miarę szybko. Ob
 robić się zimno. Agregat był wyłączony i woda w obiegu trochę przymarzła. Niby mniej komfortu,
 ale właśnie przez te braki schroniska mają swój klimat.
 
-{% photo "IMGP8760b.jpg","Ośnieżone drzewo","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP8760b.jpg","Ośnieżone drzewo","tag:timeline,tag:good,tag:best,tag:winter,tag:mountains" %}
 
 Dzień kolejny
 -------------
@@ -76,4 +78,4 @@ Dzień kolejny
 Wstaliśmy dość wcześnie i wyszliśmy chyba około 7. Jeszcze było szaro. Bardzo szybko zeszliśmy do miasta
 coś zjeść i chwilę po tym wracaliśmy do zwykłego szarego życia.
 
-{% photo "IMGP8838b.jpg","Szklarska Poręba nocą","tag:good" %}
+{% photo "IMGP8838b.jpg","Szklarska Poręba nocą","tag:good,tag:night" %}
