@@ -91,7 +91,7 @@ struct ExifEntity
     "PENTAX K100D"        => "Pentax K100D",
     "PENTAX K-5"          => "Pentax K-5",
     "FC1102"              => "DJI Spark",
-    "Redmi Note 3"        => "Xiaomi Redmi Note 3"
+    "Redmi Note 3"        => "Xiaomi Redmi Note 3",
   }
 
   LENS_NAMES = {

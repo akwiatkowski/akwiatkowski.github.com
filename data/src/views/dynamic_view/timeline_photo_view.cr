@@ -71,7 +71,7 @@ module DynamicView
     end
 
     def prepare_data_from_photo_entities(pes)
-      h = Hash(Range(Int32,Int32), Array(PhotoEntity)).new
+      h = Hash(Range(Int32, Int32), Array(PhotoEntity)).new
 
       d = 0
       while d <= 366
@@ -86,6 +86,5 @@ module DynamicView
 
       return h
     end
-
   end
 end
