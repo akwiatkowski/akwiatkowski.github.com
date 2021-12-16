@@ -84,12 +84,14 @@ struct ExifEntity
     "ILCE-7R"             => "Sony A7R",
     "ILCE-7RM3"           => "Sony A7R III",
     "E-M1MarkII"          => "Olympus M1m2",
+    "E-M1MarkIII"         => "Olympus M1m3",
     "E-M10MarkII"         => "Olympus M10m2",
     "Hero3-Black Edition" => "Gopro 3 Black",
     "PENTAX K-S2"         => "Pentax K-S2",
     "PENTAX K100D"        => "Pentax K100D",
     "PENTAX K-5"          => "Pentax K-5",
     "FC1102"              => "DJI Spark",
+    "Redmi Note 3"        => "Xiaomi Redmi Note 3"
   }
 
   LENS_NAMES = {
