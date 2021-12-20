@@ -57,7 +57,7 @@ Po pewnym czasie pojawiły się polany. Według mnie to są najładniejsze teren
 jest mało. Jeszcze wyżej są widoki, ale z tym czasem jest trudno. Polany są zawsze i będąc pośrodku ma się
 widok na doliny i góry, takie dobre urozmaicenie.
 
-{% photo "IMGP5189b.jpg","Widok na okolice Rycerki","tag:timeline,tag:good" %}
+{% photo "IMGP5189b.jpg","Widok na okolice Rycerki","tag:timeline,tag:good,tag:summer" %}
 
 Gdy minęliśmy polany rozpoczęło się konkretniejsze podejście.
 
@@ -77,7 +77,7 @@ nie za dużo i musieliśmy oszczędzać.
 A jak jest ciepło nikt nie lubi jej oszczędzać. Jakiś czas później spotkaliśmy sztucznie ulepszony strumyk i
 skorzystaliśmy z niego. Nikt nie miał sraczki, więc jest dobrze.
 
-{% photo "IMGP5309b.jpg","Idąc zboczem" %}
+{% photo "IMGP5309b.jpg","Idąc zboczem","tag:mountains" %}
 
 Do [Schroniska na Wielkiej Raczy][wiki-schron-racza] dotarliśmy chyba przed 17tą. Jedzenie, a po tym odpoczynek
 i oglądanie zachodu Słońca na wieży obserwacyjnej. Zasnąłem po 20tej tak dobrze, że Krzychu musiał mnie obudzić

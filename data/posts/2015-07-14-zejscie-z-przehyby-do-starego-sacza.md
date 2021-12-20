@@ -4,7 +4,6 @@ title:                  "Zejście z Przehyby do Starego Sącza"
 subtitle:               "mała ścieżka, gęsty las i najlepsze widoki są w dolinie"
 date:                   2015-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, szczawnica, stary_sacz, nowy_sacz]
@@ -20,6 +19,7 @@ time_spent:             6
 [wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
 [wiki-stary-sacz]:      https://pl.wikipedia.org/wiki/Stary_S%C4%85cz
 
+{% photo_header "Schodząc lasem","" %}
 
 Wstęp
 -----
@@ -44,7 +44,7 @@ Szlak ten można podzielić na dwie częśći: las i wioski. W lesie to cały cz
 poprowadzoną zboczami. "Fajnie" musi się tam chodzić w zimie. Przez wioski to, według mnie, najciekawsza
 część trasy. Znacznie ciekawsze widoki.
 
-{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","tag:timeline" %}
+{% photo "IMGP1703raw1.jpg","Widok na Przysietnicę","tag:timeline,tag:countryside,tag:mountains" %}
 
 Gdy wyszliśmy z lasu trasa się mocno wypłaszczyła. Jak mam szukać dziur w całym, to powiedziałbym,
 że za bardzo. Zdziwiłem się widząc pierwszy dom tak blisko "lasu", na takim odludziu.

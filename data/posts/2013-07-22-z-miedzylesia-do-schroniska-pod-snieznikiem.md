@@ -27,6 +27,8 @@ time_spent:             8
 
 [ostoja]:                       https://www.facebook.com/Ostoja-Jod%C5%82%C3%B3w-odpocznij-od-miasta-147756495327199/timeline/
 
+{% photo_header "Okolica Międzylesia","tag:countryside,tag:summer" %}
+
 Wstęp
 -----
 
@@ -68,7 +70,7 @@ Za wsią
 Teraz wchodziliśmy do wioski [Jodłów][wiki-jodlow]. Nadal mijaliśmy domy, pola, ale już góry były bliżej
 i pola nie są takie już płaskie jak wcześniej. Cały czas było ciepło.
 
-{% photo "IMGP6911b.jpg","Mijając Jodłów","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP6911b.jpg","Mijając Jodłów","tag:timeline,tag:good,tag:best,tag:countryside,tag:summer" %}
 
 Poniżej idealna droga na rower. Kiedyś tam jeszcze powrócę.
 

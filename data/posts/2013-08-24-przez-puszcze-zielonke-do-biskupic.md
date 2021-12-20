@@ -29,6 +29,8 @@ time_spent:             3
 [wiki-biskupice]:        https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
 [wiki-puszcza-zielonka]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka
 
+{% photo_header "Podrzędna droga","tag:countryside" %}
+
 Wstęp
 -----
 

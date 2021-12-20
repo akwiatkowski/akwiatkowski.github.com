@@ -4,7 +4,6 @@ title:                  "Obok Jeziora Kierskiego"
 subtitle:               "i wokół Rusałki"
 date:                   2013-09-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/120632521/m%3D2048/d03b9b0e7c7cc39e5bac0725fae5790d"
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan]
@@ -17,6 +16,8 @@ time_spent:             4
 [wiki-rusalka]:         https://pl.wikipedia.org/wiki/Jezioro_Rusa%C5%82ka_(Pozna%C5%84)
 [wiki-strzeszyn]:       https://pl.wikipedia.org/wiki/Jezioro_Strzeszy%C5%84skie
 [wiki-kiekrz]:          https://pl.wikipedia.org/wiki/Jezioro_Kierskie
+
+{% photo_header "Zachód nad Jeziorem Kierskim","tag:sunrise" %}
 
 Opis trasy
 ----------

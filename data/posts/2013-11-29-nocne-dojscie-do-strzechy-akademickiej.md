@@ -23,6 +23,8 @@ time_spent:             2
 [wiki-jelenia]:                 https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 [wiki-strzecha]:                https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9EStrzecha_Akademicka%E2%80%9D
 
+{% photo_header "Śnieżne Karkonosze","tag:winter" %}
+
 Wstęp
 -----
 

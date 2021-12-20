@@ -4,7 +4,6 @@ title:                  "Z Kordowca przez Radziejową do Przehyby"
 subtitle:               "krótka trasa ale słaba pogoda, wilgotno i mgliście"
 date:                   2015-07-13 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/115280885/m%3D2048/6a887062c0757287d1c14a468a40cf79"
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rytro, szczawnica]
@@ -24,6 +23,8 @@ time_spent:             5
 [wiki-wielki-rogacz]:   https://pl.wikipedia.org/wiki/Wielki_Rogacz
 [wiki-obidza]:          https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Obidza
 [wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
+
+{% photo_header "Pochmurny dzień w Beskidzie Sądeckim","" %}
 
 Wstęp
 -----
@@ -58,7 +59,7 @@ Miłym uczuciem było jak przechodziliśmy przez [Wielki Rogacz][wiki-wielki-rog
 i zobaczyłem znak do [Obidzy][wiki-obidza], gdyż byłem już w tym miejscu. Było
 to tylko półtora kilometra obok.
 
-{% photo "IMGP1577raw1.jpg","Mglisty czerwony szlak","tag:timeline" %}
+{% photo "IMGP1577raw1.jpg","Mglisty czerwony szlak","tag:timeline,tag:fog" %}
 
 Powoli byliśmy coraz wyżej, wchodziliśmy w chmury. Las, las i mglisty las. Trudno powiedzieć czy było coś ciekawego. Chyba ostatnim
 miejscem to przełęcz przed [Radziejową][wiki-radziejowa]. Bardzo dużo drzew poległo w tym miejscu, jednak przez chmury i mgłe

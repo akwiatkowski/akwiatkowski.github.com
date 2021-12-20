@@ -4,7 +4,6 @@ title:                  "Na północ wokół Jeleniej Góry"
 subtitle:               "sudeckie wioski, pola i dużo słońca - pogórze"
 date:                   2015-06-05 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, mountains, best]
 towns:                  [dolnoslaskie, szklarska_poreba, stara_kamienica, jezow_sudecki, jelenia_gora]
@@ -47,6 +46,7 @@ time_spent:             7
 [vimeo-6]:                      https://vimeo.com/130620133
 [vimeo-7]:                      https://vimeo.com/130626295
 
+{% photo_header "Widok na Karkonosze","tag:spring,tag:timeline,tag:countryside" %}
 
 Wstęp
 -----
@@ -81,7 +81,7 @@ i zmniejszył moją frustrację.
 Następnie pojechaliśmy bezpośrednio do [Starej Kamienicy][wiki-stara-kamienica] z solidną przerwą na jedzenie.
 Pogoda przekonała Radka że warto kupić 6 litrową butlę wody.
 
-{% photo "IMGP0396raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP0396raw1.jpg","Rzeka Bóbr w okolicy Siedlęcina","tag:timeline,tag:good,tag:best,tag:spring" %}
 
 Po przerwie w Starej Kamienicy wyruszyliśmy dalej w stronę [Barcinka][wiki-barcinek] korzystając z lekkiego
 przyjemnego spadku terenu. Chcieliśmy udać się w centrum [Jeziora Pilchowickiego][wiki-pilchowickie], jednak
@@ -99,7 +99,7 @@ odkryliśmy [miejsce][ump-ploszczynka], z którego jest bardzo ładny widok na c
 Tego dnia udało mi się pobić swój rekord prędkości rowerem - 63.3km/h podczas zjazdu z [Płoszczynki][wiki-ploszczynka] do
 [Płoszczyny][wiki-ploszczyna].
 
-{% photo "IMGP0414raw1.jpg","Między Siedlęcinem a Płoszczynką","tag:timeline" %}
+{% photo "IMGP0414raw1.jpg","Między Siedlęcinem a Płoszczynką","tag:timeline,tag:timeline" %}
 
 Wysoka temperatura oraz zmniejszająca się ilość czasu do odjazdu pociągu powrotnego przekonała
 nas do tego, aby zmienić plany i zjechać do Jeleniej Góry, a nie do [Wojanowa][wiki-wojanow]. Zjechaliśmy

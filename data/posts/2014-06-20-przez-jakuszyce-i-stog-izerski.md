@@ -35,6 +35,7 @@ time_spent:             8
 [vimeo-6]:                https://vimeo.com/102706458
 [vimeo-7]:                https://vimeo.com/102709174
 
+{% photo_header "Stóg Izerski","" %}
 
 Wstęp
 -----

@@ -35,10 +35,10 @@ time_spent:             8
 [vimeo-7]:              https://vimeo.com/130305695
 [vimeo-8]:              https://vimeo.com/130305696
 
+{% photo_header "Wodospad Mumławy","" %}
 
 Wstęp
 -----
-
 
 Jest to mój drugi wyjazd rowerowy w tereny górskie. Pierwszy był również do Szklarskiej
 Poręby i odbył się, można powiedzieć, dokładnie rok temu. Podczas tamtego wyjazdu nie było

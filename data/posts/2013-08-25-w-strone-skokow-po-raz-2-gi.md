@@ -4,7 +4,6 @@ title:                  "W stronę Skoków, po razy 2-gi"
 subtitle:               "powoli lato się kończy"
 date:                   2013-08-25 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/44220844/m%3D2048/145d4a0ad5f785aee5c34e5a76787671"
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]
@@ -15,6 +14,8 @@ coords_type:            "bicycle"
 distance:               54
 time_spent:             5
 ---
+
+{% photo_header "Sierpniowe pole","" %}
 
 Opis trasy
 ----------

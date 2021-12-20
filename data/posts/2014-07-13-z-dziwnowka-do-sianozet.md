@@ -27,7 +27,7 @@ time_spent:             11
 [wiki-kolobrzeg]:        https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
 [wiki-sianozety]:        https://pl.wikipedia.org/wiki/Siano%C5%BC%C4%99ty
 
-{% photo_header "Bałtyckie fale","tag:portfolio,tag:good,tag:best" %}
+{% photo_header "Bałtyckie fale","tag:portfolio,tag:good,tag:best,tag:sunrise,tag:long" %}
 
 Wstęp
 -----

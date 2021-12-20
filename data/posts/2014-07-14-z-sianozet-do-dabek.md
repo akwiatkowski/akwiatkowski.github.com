@@ -4,7 +4,6 @@ title:                  "Z Sianożęt (Ustroni Morskich) do Dąbek"
 subtitle:               "trzeci dzień przejażdzki na wybrzeżu, 61km i 8 godzin an rowerze"
 date:                   2014-07-14 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/81153621/m%3D2048/c1b679ecaf08b6997078590d2498d8c6"
 categories:             trip
 tags:                   [main, bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, ustronie_morskie, bedzino, mielno, sianow, darlowo]
@@ -23,6 +22,8 @@ time_spent:             8
 [wiki-bukowo]:   https://pl.wikipedia.org/wiki/Bukowo_Morskie
 
 [vimeo]:         https://vimeo.com/105007388
+
+{% photo_header "Zachód nad Bałtykiem","" %}
 
 Wstęp
 -----

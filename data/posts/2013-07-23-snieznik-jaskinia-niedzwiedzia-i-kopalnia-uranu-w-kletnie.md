@@ -26,6 +26,8 @@ time_spent:             7
 
 [snieznik-panorama]:            http://www.panoramio.com/photo_explorer#view=photo&position=2190&with_photo_id=94019532&order=date_desc&user=4973339
 
+{% photo_header "Czeska strona Masywu Śnieżnika","tag:mountains" %}
+
 Wstęp
 -----
 

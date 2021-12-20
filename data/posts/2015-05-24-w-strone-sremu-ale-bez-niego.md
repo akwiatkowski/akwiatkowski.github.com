@@ -26,6 +26,8 @@ time_spent:             5
 [wiki-czempin]:                 https://pl.wikipedia.org/wiki/Czempi%C5%84
 [wiki-jaszkowo]:                https://pl.wikipedia.org/wiki/Jaszkowo_(powiat_%C5%9Bremski)
 
+{% photo_header "Rzeka Warta","tag:timeline" %}
+
 Wstęp
 -----
 

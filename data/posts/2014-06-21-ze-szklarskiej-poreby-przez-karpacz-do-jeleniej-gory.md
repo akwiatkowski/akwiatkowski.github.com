@@ -34,6 +34,8 @@ time_spent:             7
 [vimeo-7]:                        https://vimeo.com/102914368
 [vimeo-8]:                        https://vimeo.com/102945365
 
+{% photo_header "Skała w lesie","" %}
+
 Wstęp
 -----
 

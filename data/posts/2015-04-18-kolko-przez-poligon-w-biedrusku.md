@@ -4,7 +4,6 @@ title:                  "Kółko przez poligon w Biedrusku"
 subtitle:               "i Kokoryczkowe Wzgórze"
 date:                   2015-04-18 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/121610327/m%3D2048/06fbfd7a192d453eee6388675c73c225"
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan]

@@ -39,6 +39,7 @@ time_spent:             4
 [wiki-roscinno]:        https://pl.wikipedia.org/wiki/Ro%C5%9Bcinno
 [wiki-skoki]:           https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
 
+{% photo_header "Jezioro Budziszewskie","" %}
 
 Wstęp
 -----

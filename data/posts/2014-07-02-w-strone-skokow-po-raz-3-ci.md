@@ -4,7 +4,6 @@ title:                  "W stronę Skoków, po raz 3-ci"
 subtitle:               "tym razem lato w pełni"
 date:                   2014-07-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, best]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]
@@ -47,6 +46,7 @@ time_spent:             5
 [vimeo-4]:              https://vimeo.com/103631448
 [vimeo-5]:              https://vimeo.com/103631449
 
+{% photo_header "Droga do Mściszewa","tag:good,tag:summer,tag:countryside,tag:timeline" %}
 
 Opis trasy
 ----------
@@ -70,12 +70,12 @@ Jechałem jednocześnie [niebieskim szlakiem nadwarciańskim][wiki-nadwarcianski
 nadwarciańskie wioski: [Promnice][wiki-promnice], [Złotoryjsko][wiki-zlotoryjsko]. Wjeżdzając
 do [Mściszewa][wiki-msciszewo] oddaliłem się od [Warty][wiki-warta].
 
-{% photo "IMGP7591raw1.jpg","Okolice Mściszewa","tag:timeline,tag:good" %}
+{% photo "IMGP7591raw1.jpg","Okolice Mściszewa","tag:timeline,tag:good,tag:summer" %}
 
 [Mściszewo][wiki-msciszewo] jest wioską położoną w dolinie. Wyjeżdzając z niej, czekał mnie chyba
 najmocniejszy podjazd na tej wycieczce.
 
-{% photo "IMGP7598raw1.jpg","Droga z Pacholewa","tag:timeline" %}
+{% photo "IMGP7598raw1.jpg","Droga z Pacholewa","tag:timeline,tag:countryside" %}
 
 Następnie kierowałem sie w stronę [Starczanowa][wiki-starczanowo]. Wioska ta jest położona pośrodku terenów
 leśnych. A na zachód od niej jest rezerwat [Śnieżycowy Jar][wiki-sniezycowy].
@@ -89,14 +89,14 @@ w stronę [Obornik][wiki-oborniki].
 W [Pacholewie][wiki-pacholewo] skręciłem w prawo na wschód. Teraz jechałem w stronę
 [Łoskonia Starego][wiki-loskon] przez [Nieszawkę][wiki-nieszawka].
 
-{% photo "IMGP7626raw1.jpg","Okolice Grzybowa","tag:timeline" %}
+{% photo "IMGP7626raw1.jpg","Okolice Grzybowa","tag:timeline,tag:summer" %}
 
 Wjeżdzając do [Łoskonia Starego][wiki-loskon] po lewej stronie jest staw, który mnie zawsze ciekawił.
 
 Na skrzyżowaniu dróg polnych skręcam w lewo i jadę na północ. Mijam [Budziszewice][wiki-budziszewice]
 oraz [Budziszewko][wiki-budziszewko]. To od tych wiosek ma swoją nazwę [Jezioro Budziszewskie][wiki-jezioro-budz].
 
-{% photo "IMGP7645raw1.jpg","Droga do Grzybowic","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP7645raw1.jpg","Droga do Grzybowic","tag:timeline,tag:good,tag:best,tag:countryside,tag:summer" %}
 
 Wjeżdzam na drogą polną i kieruję się na północ w stronę [Jeziora Budziszewskiego][wiki-jezioro-budz].
 Przejeżdzam przez most i widzę je po prawej stronie, a następnie dalej jadę przez las.

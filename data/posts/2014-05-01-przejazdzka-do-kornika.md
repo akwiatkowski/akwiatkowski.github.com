@@ -4,7 +4,6 @@ title:                  "Przejażdzka do Kórnika"
 subtitle:               "tylko 93 km"
 date:                   2014-05-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 image_position:         50% 70%
 categories:             trip
 tags:                   [main, bicycle]
@@ -30,6 +29,8 @@ time_spent:             9
 [vimeo-1]:               https://vimeo.com/95793927
 [vimeo-2]:               https://vimeo.com/96701936
 
+{% photo_header "Obniżenie w Rogalinie","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -53,7 +54,7 @@ przez [Starołękę][wiki-staroleka] w stronę [Daszewic][wiki-daszewice].
 Dalej jechaliśmy głównie lasami, aż do [Jeziora Skrzyneckiego Dużego][wiki-j-skrzyneckie].
 Przejechaliśmy [Kórnik][wiki-kornik] z przerwą na jedzenie obok [zamku][wiki-kornik-zamek].
 
-{% photo "IMGP5593raw1.jpg","Okolice Radzewic","tag:good" %}
+{% photo "IMGP5593raw1.jpg","Okolice Radzewic","tag:good,tag:countryside" %}
 
 Wracaliśmy w kierunku [Rogalina][wiki-rogalin] i dalej w stronę [Mosiny][wiki-mosina], z
 której już normalnie [Nadwarciańskim Szlakiem Rowerowym][wiki-nadwiarcianski].

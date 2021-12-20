@@ -4,7 +4,6 @@ title:                  "Wieczorna przejażdżka z Poznania do Szamotuł"
 subtitle:               "lekki spad terenu zaowocował dobrą średnią prędkością - rzędu 21 km/h"
 date:                   2014-04-25 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, szamotuly]
@@ -26,6 +25,8 @@ time_spent:             2
 
 [vimeo-1]:                https://vimeo.com/93087936
 [vimeo-2]:                https://vimeo.com/93147135
+
+{% photo_header "Wiosenna droga","tag:timeline,tag:spring" %}
 
 Wstęp
 -----
@@ -50,7 +51,7 @@ Tam są takie klasyczne podmiejskie wioski, które może i są fajne, jednak za 
 razy musiałem przez nie jechać i już mnie one tak nie ruszają. Najciekawszy jest
 most nad drogą [S11][wiki-s11].
 
-{% photo "IMGP5484raw1.jpg","Rzepakowe pole","tag:timeline" %}
+{% photo "IMGP5484raw1.jpg","Rzepakowe pole","tag:timeline,tag:spring" %}
 
 Za [Sobotą][wiki-sobota] wjechałem w las i skręciłem lekko na zachód przez
 [Rostworowo][wiki-rostworowo] i [Żydowo][wiki-zydowo] w stronę [Pamiątkowa][wiki-pamiatkowo].

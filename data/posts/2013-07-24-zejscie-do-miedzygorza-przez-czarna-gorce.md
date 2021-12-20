@@ -30,6 +30,8 @@ time_spent:             5
 [wiki-klodzko-miasto]:          https://pl.wikipedia.org/wiki/K%C5%82odzko_Miasto
 [wiki-klodzko-glowne]:          https://pl.wikipedia.org/wiki/K%C5%82odzko_G%C5%82%C3%B3wne
 
+{% photo_header "Widok z Czarnej Góry","tag:mountains" %}
+
 Wstęp
 -----
 

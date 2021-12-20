@@ -4,8 +4,6 @@ title:                  "Z Międzyzdrojów do Dziwnówka"
 subtitle:               "pierwszy dzień przejażdzki na wybrzeżu"
 date:                   2014-07-12 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/112892627/m%3D2048/04733da45e6245d9d6719da8ecc28318"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, coast, panniers]
 towns:                  [zachodnio_pomorskie, miedzyzdroje, wolin, dziwnow]
@@ -26,6 +24,8 @@ time_spent:             7
 
 [vimeo]:                  https://vimeo.com/103762175
 
+{% photo_header "Droga do Dziwnowa","tag:timeline,tag:summer" %}
+
 Wstęp
 -----
 
@@ -45,7 +45,7 @@ Szczegóły
 Jechaliśmy pociągiem do [Międzyzdroi][wiki-miedzyzdroje] około 6 rano, a na miejscu wysiedliśmy
 (po przepakowaniu się) około 12-tej. Touring na 100% - razem z namiotami. Tylko kuchenki by brakowało.
 
-{% photo "IMGP7879raw1.jpg","Okolica stacji Słonice","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP7879raw1.jpg","Okolica stacji Słonice","tag:timeline,tag:good,tag:best,tag:summer" %}
 
 Pojechaliśmy do centrum coś zjeść, a następnie na wschód. Lizneliśmy
 [Wolimski Park Narodowy][wiki-park-wolimski]. Przyznam, że szlak ten mnie nie zachwycił.
@@ -66,4 +66,4 @@ Nocleg mieliśmy na polu namiotowym w [Dziwnówki][wiki-dziwnowek]. Nie było ta
 ale mieli bardzo dobre łazienki. Podobało mi się gdy w nocy wiał silny wiatr, który
 wszystko zagłuszał. Reszta wniosków będzie opisana ostatniego dnia.
 
-{% photo "IMGP7970raw1.jpg","Okolice Międzywodzia","tag:good" %}
+{% photo "IMGP7970raw1.jpg","Okolice Międzywodzia","tag:good,tag:water" %}

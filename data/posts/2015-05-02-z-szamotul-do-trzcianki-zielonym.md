@@ -4,7 +4,6 @@ title:                  "Z Szamotuł do Trzcianki"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, best]
 towns:                  [wielkopolskie, szamotuly, czarnkow, trzcianka]
@@ -55,6 +54,8 @@ time_spent:             5
 [vimeo-8]:                      https://vimeo.com/126955487
 [vimeo-9]:                      https://vimeo.com/127342600
 
+{% photo_header "Wiosenna droga","tag:good,tag:timeline,tag:spring" %}
+
 Wstęp
 -----
 
@@ -81,7 +82,7 @@ minąłem gospodarstwo agroturystyczne. Następnie krótka, mało ciekawa trasa 
 w [Jaryszewie][wiki-jaryszewo]. Widać że to miejsce jest trochę daleko od cywilizacji. Z północy graniczy ona z
 rzeką [Wartą][wiki-warta].
 
-{% photo "IMGP9765raw1.jpg","Osada Piotrkówko przy lesie" %}
+{% photo "IMGP9765raw1.jpg","Osada Piotrkówko przy lesie","tag:countryside" %}
 
 Kolejna wioska, [Brączewo][wiki-braczewo], niewiele się różni od poprzedniej. Wyjeżdzając z niej jedzie się po moście,
 położonym nad nieistniejącą już linią kolejową [Oborniki][wiki-oborniki] - [Wronki][wiki-wronki],
@@ -101,14 +102,14 @@ W poprzednim roku [przejeżdzałem](/trip/2014/04/28/nadwarcianskim-szlakiem-row
 z Obornik
 do Wronek przez tą miejscowośc, tym razem skręciłem na północ kierując się przez [Puszczę Notecką][wiki-puszcza-notecka].
 
-{% photo "IMGP9795raw1.jpg","Okolica Jędrzejewa","tag:timeline,tag:good" %}
+{% photo "IMGP9795raw1.jpg","Okolica Jędrzejewa","tag:timeline,tag:good,tag:spring" %}
 
 [Puszcza Notecka][wiki-puszcza-notecka] z perspektywy przejazdu rowerem jest raczej nudna - asfalt i około 7km prosto przez
 lasy. Jak się jedzie to również nie słyszy się ptaków i ogólnie samej przyrody tylko słyszy
 się szum powietrza. Po wyjechaniu z puszczy przejechałem przez wieś
 [Tarnówko][wiki-tarnowko]. Ponownie, kolejna w miarę duża wieś po drodzę.
 
-{% photo "IMGP9798raw1.jpg","Wiosenna droga","tag:timeline,tag:good" %}
+{% photo "IMGP9798raw1.jpg","Wiosenna droga","tag:timeline,tag:good,tag:spring" %}
 
 Wyjeżdzajac z [Młynkowa][wiki-mlynkowo] do [Jędrzejewa][wiki-jedrzejewo] zaczęło trochę wiać. Ostudziło to moje myśli aby
 przedłużyć trasę dalej do [Piły][wiki-pila], a nawet zastanawiałęm się gdzie jest najbliższy dworzec kolejowy. Na szczęście było to tymczasowe.

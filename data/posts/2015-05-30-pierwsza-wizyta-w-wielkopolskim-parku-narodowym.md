@@ -4,7 +4,6 @@ title:                  "Pierwsza wizyta w Wielkopolskim Parku Narodowym"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, mosina, poznan]
@@ -26,6 +25,8 @@ time_spent:             4
 [wiki-lodz]:             https://pl.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_(wie%C5%9B_w_powiecie_pozna%C5%84skim)
 
 
+{% photo_header "Droga w stronę parku narodowego","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -43,7 +44,7 @@ Szczegóły
 Jechaliśmy przez [Luboń][wiki-lubon] i [Wiry][wiki-wiry] aż do żółtego szlaku rowerowego
 w [parku][wiki-wpn]. Całkiem ciekawe były te tereny, zwłaszcza wioski i pola.
 
-{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach","tag:good" %}
+{% photo "IMGP0187raw1.jpg","Piaszczysta droga w Wirach","tag:good,tag:countryside" %}
 
 Gdy już byliśmy w [parku][wiki-wpn] zrobiło się trochę nudniej, gdyż jechaliśmy przez
 prawie 5km prostą drogą. Wyglądało to jak zwykły przejazd przez las. Ciekawie wyglądało

@@ -23,6 +23,7 @@ time_spent:             6
 [wiki-msciszewo]:           https://pl.wikipedia.org/wiki/M%C5%9Bciszewo
 [wiki-biedrusko]:           https://pl.wikipedia.org/wiki/Biedrusko
 
+{% photo_header "Niebieski szlak rowerowy","tag:timeline" %}
 
 Wstęp
 -----
@@ -51,7 +52,7 @@ tak mało istotną drogę oświetlili w ten sposób.
 Następnie zjechaliśmy do [Śnieżycowego Jaru][wiki-sniezycowy-jar]. Akurat
 udało nam się trafić na czas kwitnięcia tych roślinek. Ludzi było tam całkiem sporo.
 
-{% photo "IMGP4084raw1.jpg","Śnieżycowy Jar z bliska","tag:good" %}
+{% photo "IMGP4084raw1.jpg","Śnieżycowy Jar z bliska","tag:good,tag:macro" %}
 
 Ruszyliśmy dalej w stronę [Mściszewa][wiki-msciszewo] i dalej na południe znaną
 trasą. W [Biedrusku][wiki-biedrusko] podjechaliśmy do sklepu i po tym dalszy powrót do

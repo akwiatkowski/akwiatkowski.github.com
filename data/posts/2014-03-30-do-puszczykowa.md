@@ -4,8 +4,6 @@ title:                  "Do Puszczykowa"
 subtitle:               "wczesną wiosną"
 date:                   2014-03-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/66460665/m%3D2048/437e124cb2020b650169994666660233"
-header_timeline:        true
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan]
@@ -20,6 +18,8 @@ time_spent:             6
 
 Wstęp
 -----
+
+{% photo_header "Warta","tag:timeline" %}
 
 W skrócie przejechałem się do [Puszczykowa][wiki-puszczykowo]
 [Nadwarciańskim Szlakiem Rowerowym][wiki-nadwiarcianski] i wróciłem do domu.

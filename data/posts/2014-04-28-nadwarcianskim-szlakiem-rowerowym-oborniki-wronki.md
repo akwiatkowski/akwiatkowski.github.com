@@ -24,6 +24,8 @@ time_spent:             3
 [wiki-wronki]:          https://pl.wikipedia.org/wiki/Wronki
 [wiki-puszcza-notecka]: https://pl.wikipedia.org/wiki/Puszcza_Notecka
 
+{% photo_header "Wiosenne drzewa","tag:timeline,tag:spring" %}
+
 Wstęp
 -----
 

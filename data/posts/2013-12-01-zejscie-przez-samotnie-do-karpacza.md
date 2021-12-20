@@ -27,6 +27,8 @@ time_spent:             4
 [wiki-karpniki]:                https://pl.wikipedia.org/wiki/Karpniki
 [wiki-leszczyniec]:             https://pl.wikipedia.org/wiki/Leszczyniec_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
+{% photo_header "Morena Małego Stawu","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -58,7 +60,7 @@ Zrobiłem kilka zdjęć, jednak wiem że nie udało mi się pokazać (i chyba si
 jakie to jest duże. Na pewno trzeba tu wrócić, tylko tym razem jak będzie zielono.
 Zauważyłem że w [Karkonoszach][wiki-karkonosze] na pieszo wycieczki byłem tylko w zimie.
 
-{% photo "IMGP1457raw1.jpg","Mały Staw obok Samotni","tag:good" %}
+{% photo "IMGP1457raw1.jpg","Mały Staw obok Samotni","tag:good,tag:mountains" %}
 
 Dalsza część wycieczki była mniej interesująca. Schodziliśmy sobie po
 dość lekkim szlaku. Po drodzę minęliśmy [Świątynie Wang][wiki-wang] i już koniec

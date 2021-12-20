@@ -4,7 +4,6 @@ title:                  "Ze Szklarskiej Poręby do Janowic Wielkich"
 subtitle:               "przez dwa pasma górskie"
 date:                   2015-06-06 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 image_position:         50% 70%
 categories:             trip
 tags:                   [main, bicycle, mountains, best]
@@ -49,6 +48,7 @@ time_spent:             8
 [vimeo-8]:                      https://vimeo.com/131361751
 [vimeo-9]:                      https://vimeo.com/131361750
 
+{% photo_header "Okolica schroniska Szwajcarka","tag:timeline,tag:spring" %}
 
 Wstęp
 -----

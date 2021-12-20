@@ -23,6 +23,8 @@ time_spent:             4
 [wiki-oborniki]:         https://pl.wikipedia.org/wiki/Oborniki
 [wiki-morasko]:          https://pl.wikipedia.org/wiki/Morasko
 
+{% photo_header "Powrót w trakcie deszczu","" %}
+
 Wstęp
 -----
 

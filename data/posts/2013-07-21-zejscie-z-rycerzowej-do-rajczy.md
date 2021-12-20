@@ -23,6 +23,8 @@ time_spent:             6
 [wiki-mlada-hora]:              https://pl.wikipedia.org/wiki/Mlada_Hora
 [wiki-rajcza]:                  https://pl.wikipedia.org/wiki/Rajcza
 
+{% photo_header "Opuszczenie Beskidu Żywieckiego","tag:mountains" %}
+
 Wstęp
 -----
 

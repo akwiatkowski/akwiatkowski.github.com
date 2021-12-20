@@ -21,6 +21,8 @@ coords_type:            "hike"
 [wiki-bledne-skaly]:            https://pl.wikipedia.org/wiki/B%C5%82%C4%99dne_Ska%C5%82y
 [wiki-kudowa]:                  https://pl.wikipedia.org/wiki/Kudowa-Zdr%C3%B3j
 
+{% photo_header "Mgła przed wschodem Słońca","tag:fog,tag:mountains" %}
+
 Wstęp
 -----
 
@@ -38,26 +40,24 @@ Było spokojniej, gdyż nie było żadnego festiwalu obok. Patrzyłem na niepoko
 prognozę pogody przed zaśnięciem. Nie mogłem uwierzyć, że teraz widzę gwiazdy, a
 następnego dnia będzie mokro i mgliście.
 
-{% photo "header.jpg","Niebieski wschód","tag:good,tag:best" %}
-
 Obudziliśmy się przed 5 rano z planem wyjścia na [Szczeliniec][wiki-szczeliniec]
 aby zrobić zdjęcia wschodu słońca. Dobrze że ten cel nie mieliśmy wypisany na czole
 w tym momencie bo by było wstyd.
 
-{% photo "IMGP0716raw1.jpg","Jeden z wielu zakrętów" %}
+{% photo "IMGP0716raw1.jpg","Jeden z wielu zakrętów","tag:autumn,tag:fog" %}
 
 Na szczęście nawet gdy pogoda jest zła, zdarza się coś dobrego z niej wyciągnąć. Przykładem jest
 główne zdjęcie, które tutaj poniżej ponownie umieszczę.
 
 Nie jestem w stanie zrozumieć dlaczego ludziom podoba się tak bardzo poniższe zdjęcie.
 
-{% photo "IMGP0707raw1.jpg","Jesienna droga","tag:timeline,tag:good" %}
+{% photo "IMGP0707raw1.jpg","Jesienna droga","tag:timeline,tag:good,tag:autumn,tag:fog" %}
 
 Później wyruszyliśmy w stronę [Błędnych Skał][wiki-bledne-skaly], jednak wiedząc
 jak jest tam ciasno opuściłem grupę i przeszedłem się drogą w stronę
 [Kudowy Zdrój][wiki-kudowa].
 
-{% photo "IMGP1197raw1b.jpg","Okolice Radkowa","tag:good" %}
+{% photo "IMGP1197raw1b.jpg","Okolice Radkowa","tag:good,tag:countryside" %}
 
 Wschód słońca dnia następnego był lepszy, jednak nie był tak dobry jak to było
 rok temu.

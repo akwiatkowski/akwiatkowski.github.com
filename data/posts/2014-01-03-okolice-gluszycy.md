@@ -26,6 +26,8 @@ time_spent:             3
 [wiki-przejscie-gr]:    https://pl.wikipedia.org/wiki/Przej%C5%9Bcie_graniczne_G%C5%82uszyca_G%C3%B3rna-Janovi%C4%8Dky
 [zamecek]:              http://www.penzionzamecek.com/en/
 
+{% photo_header "Pola w okolicy Głuszycy","tag:countryside" %}
+
 Wstęp
 -----
 
@@ -57,7 +59,7 @@ granicy czeskiej. Tam pieszo przeszliśmy przez granicę do osady
 [Janovičky][wiki-janovicky]. Do 2007 roku było tutaj [przejście graniczne][wiki-przejscie-gr].
 Obiadokolacje zjedliśmy w [Zámeček][zamecek].
 
-{% photo "IMGP2546b1.jpg","Widok na Głuszycę" %}
+{% photo "IMGP2546b1.jpg","Widok na Głuszycę","tag:countryside" %}
 
 Później znowu powrót przez las do samochodu, i powrót do noclegu.
 

@@ -4,7 +4,6 @@ title:                  "Z Muszyny na Halę Łabowską"
 subtitle:               "trochę małego miasta, łąk i dużo lasu gdzie nic nie widać"
 date:                   2015-07-11 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, muszyna, krynica_zdroj, piwniczna_zdroj]
@@ -25,6 +24,8 @@ time_spent:             8
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej
 [wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
 
+{% photo_header "Sądeckie pagórki","tag:timeline,tag:mountains,tag:countryside,tag:summer" %}
+
 Wstęp
 -----
 
@@ -43,13 +44,13 @@ Wyrusziliśmy pociągiem przed 20-tą w Poznaniu, niecałe dwie godziny późnie
 Na szczęście za Tarnowem teren zaczął robić się bardziej wypukły i zaczęło pojawiaś się słońce, dzięki
 czemu z pociągu widoki były całkiem interesujące.
 
-{% photo "IMGP1089raw1.jpg","Rzeka Poprad","tag:good" %}
+{% photo "IMGP1089raw1.jpg","Rzeka Poprad","tag:good,tag:mountains" %}
 
 Pierwszy dzień był zaplanowany jako jatrudniejszy, mapowe 6h chodzenia. Wysiedliśmy w [Muszynie][wiki-muszyna] i kierowaliśmy się
 w stronę wsi [Złockie][wiki-zlockie] zielonym szlakiem. Ciekawoską były zbudowane z kwiatów "pomniki" zwierząt na
 ulicy Zazamcze.
 
-{% photo "IMGP1135raw1.jpg","Okolice wsi Złockie","tag:timeline,tag:good" %}
+{% photo "IMGP1135raw1.jpg","Okolice wsi Złockie","tag:timeline,tag:good,tag:mountains,tag:summer" %}
 
 Niedaleko [cerkwi w Złockie][wiki-zlockie-cerkiew] zielony szlak pieszy prowadził po najlepszych miejscach widokowych, moim zdaniem.
 Pagórki i polany są najciekawszymi krajobrazami w tamtych rejonach.
@@ -69,7 +70,7 @@ po drugiej stronie Polski, to nie jest to co najbardziej mnie interesuje.
 Jednocześnie nie jestem zwolennikiem wycinania
 aby zrobić specjalnie miejsca widokowe. W zimie pewnie jest tam bardzo ładnie.
 
-{% photo "IMGP1201raw1.jpg","Widok na Tatry" %}
+{% photo "IMGP1201raw1.jpg","Widok na Tatry","tag:mountains" %}
 
 Około 17-tej godziny dotarliśmy do schroniska. Okazało się że prąd jest tylko wieczorami, oraz jest w nim bardzo
 dobry widok na wschód Słońca.

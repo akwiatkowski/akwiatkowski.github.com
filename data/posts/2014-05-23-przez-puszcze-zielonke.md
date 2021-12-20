@@ -4,7 +4,6 @@ title:                  "Przez Puszczę Zielonkę"
 subtitle:               "piękna wiosna i piaski"
 date:                   2014-05-23 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, no_photos]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki]
@@ -29,6 +28,8 @@ time_spent:             4
 
 [j-karolewskie]:           http://www.gmina-skoki.pl/mieszkancy/jeziora-mieszkancy/2386-jez-czarne-karolewskie/
 
+
+{% photo_header "Wiosenne Radojewo","tag:timeline,tag:spring" %}
 
 Wstęp
 -----

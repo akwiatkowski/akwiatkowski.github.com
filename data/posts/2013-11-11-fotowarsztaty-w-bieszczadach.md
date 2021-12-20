@@ -20,6 +20,8 @@ coords_type:            "car"
 
 [mini-cerkwie]:         http://www.twojebieszczady.net/warto/cke.php
 
+{% photo_header "Mgła w Bieszczadach","tag:fog" %}
+
 Wstęp
 -----
 
@@ -32,7 +34,7 @@ Szczegóły
 Dzień wcześniej przed naszym przyjazdem ponoć było widać gwiazdy na niebie.
 Jak my dojechaliśmy to zdecydowanie już nic nie było widać.
 
-{% photo "IMGP0003raw1.jpg","Dojazd pociągiem do Krakowa","tag:good" %}
+{% photo "IMGP0003raw1.jpg","Dojazd pociągiem do Krakowa","tag:good,tag:sunrise" %}
 
 Ponownie miałem okazję przypomnieć sobie jak to jest zasypiać w środku dnia. Było to jadąc z Krakowa
 samochodem. Podobało mi się, że za [Duklą][wiki-dukla] teren robił się już ciekawszy - bardziej pofalowany, dzikszy.
@@ -45,7 +47,7 @@ Najciekawszym dniem miał być drugi, kiedy planowany był zachód słońca na [
 
 Przy tak słabej pogodzie koncentrowaliśmy się na robieniu zdjęć cerkwiom.
 
-{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia","tag:good" %}
+{% photo "IMGP0124raw1.jpg","Cerkiew we wsi Równia","tag:good,tag:old" %}
 
 Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie widzą w tym zdjęciu.
 
@@ -53,11 +55,11 @@ Widok zapiera dech w piersi. Do dnia dzisiejszego zastanawiam się co ludzie wid
 
 Czasami ciekawe rzeczy można znaleźć bliżej, tam gdzie się ich nie szuka, tak jak małe kropelki.
 
-{% photo "IMGP0546raw1.jpg","Kropelki","tag:good" %}
+{% photo "IMGP0546raw1.jpg","Kropelki","tag:good,tag:macro" %}
 
 A tak wyglądały okolice szlaku dojściowego na [połoninę][wiki-carynska].
 
-{% photo "IMGP0422raw3.jpg","Mglisty las","tag:good" %}
+{% photo "IMGP0422raw3.jpg","Mglisty las","tag:good,tag:fog" %}
 
 Pogoda niedopisała, jednak jeżdząc obwodnicą bieszczadzką mogłem poczuć klimat tych miejsc.
 Kiedyś powrócę, ale na razie nie miałem na to jeszcze czasu.

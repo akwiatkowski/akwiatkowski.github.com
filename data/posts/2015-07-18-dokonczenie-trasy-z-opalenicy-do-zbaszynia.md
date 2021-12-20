@@ -43,6 +43,8 @@ time_spent:             7
 [vimeo4]:               https://vimeo.com/134061947
 [vimeo5]:               https://vimeo.com/134089401
 
+{% photo_header "Jezioro Błędno","" %}
+
 Wstęp
 -----
 

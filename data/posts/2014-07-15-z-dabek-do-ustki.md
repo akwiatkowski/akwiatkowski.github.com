@@ -28,6 +28,8 @@ time_spent:             7
 [wiki-kolobrzeg]:       https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
 [wiki-203]:             https://pl.wikipedia.org/wiki/Droga_wojewódzka_nr_203
 
+{% photo_header "Port w Ustce","" %}
+
 Wstęp
 -----
 
@@ -45,7 +47,7 @@ Szczegóły
 Główną różnicą była dobra pogoda. Niebo chyba było bezchmurne, co za tym idzie
 było bardzo ciepło.
 
-{% photo "IMGP8230raw1.jpg","Wiatraki obok Darłówka" %}
+{% photo "IMGP8230raw1.jpg","Wiatraki obok Darłówka","tag:countryside" %}
 
 Kolejną rzeczą to rozładowała mi się kamerka i nie mogłem nic nagrać, chociaż
 filmik z tego dnia byłby najciekawszy.
@@ -61,7 +63,7 @@ Z [Darłowa][wiki-darlowo] jechaliśmy drogą równoległą do aleji Jana Pawła
 Całkiem fajna trasa - pola i wiatraki. Wyjechaliśmy tą drogą na plażę i tam
 "przeczekaliśmy".
 
-{% photo "IMGP8264raw1.jpg","Okolica Łącko-Korlino","tag:timeline" %}
+{% photo "IMGP8264raw1.jpg","Okolica Łącko-Korlino","tag:timeline,tag:countryside" %}
 
 Przez rozdzielenie całej grupy nie mogliśmy się później znaleźć. My czekaliśmy
 godzinę i co najmniej kilka telefonów "gdzie jesteście". Zdecydowaliśmy wszyscy, że
@@ -72,7 +74,7 @@ również w planach.
 Zaczęliśmy jechać na wschód w kierunku [Ustki][wiki-ustka]. Teraz na mapie widzę,
 że w linii prostej były to 32km.
 
-{% photo "IMGP8280raw1.jpg","Droga do wsi Zaleskie","tag:timeline" %}
+{% photo "IMGP8280raw1.jpg","Droga do wsi Zaleskie","tag:timeline,tag:summer,tag:countryside" %}
 
 Początkowo jechaliśmy po lekko terenowym szlaku, na szczęście piasków nie było za dużo.
 W [Jarosławcu][wiki-jaroslawiec] skręciliśmy w stronę [Jezierzan][wiki-jezierzany]

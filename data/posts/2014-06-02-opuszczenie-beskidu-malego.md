@@ -4,7 +4,6 @@ title:                  "Opuszczenie Beskidu Małego"
 subtitle:               "zejście do Inwałdu prawie o wschodzie słońca"
 date:                   2014-06-02 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains, best]
 towns:                  [slaskie, andrychow, lekawica]
@@ -24,6 +23,8 @@ time_spent:             5
 [wiki-zagornik]:                https://pl.wikipedia.org/wiki/Zag%C3%B3rnik_(wojew%C3%B3dztwo_ma%C5%82opolskie)
 [wiki-inwald]:                  https://pl.wikipedia.org/wiki/Inwa%C5%82d
 [wiki-beskid-makowski]:         https://pl.wikipedia.org/wiki/Beskid_Makowski
+
+{% photo_header "Tunel w lesie","" %}
 
 Wstęp
 -----
@@ -55,7 +56,7 @@ Udało nam się to w południowej części wsi [Rzyki][wiki-rzyki].
 Nie pamiętam o której godzinie, ale na pewno to było dość
 wcześnie w niedzielę, więc całkiem duży fart.
 
-{% photo "IMGP6854raw1.jpg","Okilica wsi Rzyki","tag:timeline" %}
+{% photo "IMGP6878raw1.jpg","Okilica wsi Rzyki","tag:timeline" %}
 
 W centrum [Rzyków][wiki-rzyki] miał się rozpocząć czarny szlak i chyba się rozpoczął.
 Problemem było przejście
@@ -69,7 +70,7 @@ Miłe było zejście do [Zagórnika][wiki-zagornik]. Zawsze lubiłem polany, wzn
 i wysoką trawę. Tutaj zaczęła ona mnie delikatnie irytować, ale przemilczałem to,
 gdyż rzadko się chodzi po takich terenach.
 
-{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","tag:timeline" %}
+{% photo "IMGP6890raw1.jpg","Idąc do wsi Zagórnik","tag:timeline,tag:countryside" %}
 
 W [Zagórniku][wiki-zagornik] kupiliśmy za dużo picia (soki, jogurty, ...) i
 na przystanku to "obalaliśmy".
@@ -87,7 +88,7 @@ W [Inwałdzie][wiki-inwald] szlak również był ciekawy, zwłaszcza taki mały 
 Na stację dotarliśmy ze spokojem i mogliśmy poleżeć na peronie czekając na
 pociąg.
 
-{% photo "IMGP6927raw2.jpg","Wkraczając do Inwałdu" %}
+{% photo "IMGP6927raw2.jpg","Wkraczając do Inwałdu","tag:countryside" %}
 
 Wnioski
 -------

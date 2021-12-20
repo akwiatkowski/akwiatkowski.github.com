@@ -25,6 +25,8 @@ coords_type:            "hike"
 
 [fotowarsztaty]:                http://fotowarsztaty.com/tematy/item/4-sudeckie-fotowarsztaty-na-koncu-swiata
 
+{% photo_header "Błędne Skały","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -34,7 +36,7 @@ Były to moje pierwsze [fotowarsztaty][fotowarsztaty]. Głównie wybrałem się 
 Szczegóły
 ---------
 
-{% photo "IMGP9108b.jpg","Kościół w Kłodzku","tag:good" %}
+{% photo "IMGP9108b.jpg","Kościół w Kłodzku","tag:good,tag:city" %}
 
 [Pasterka][wiki-pasterka] okazała się miejscowością faktycznie na końcu świata. W niektórych
 miejscach jest zasięg. Rzadko gdzie w środku budynków takie miejsca są.
@@ -46,7 +48,7 @@ dolnych salach powodowało, że co chwilę zasypiałem. Delikatnie mówiąc tego
 problemu z zaśnięciem. Pełen 5-osobowy pokój to również nie był problem. Wydaję mi się, że im gorsze
 warunki, tym jest fajniej.
 
-{% photo "IMGP9167raw2.jpg","Schronisko Pasterka","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP9167raw2.jpg","Schronisko Pasterka","tag:timeline,tag:good,tag:best,tag:autumn,tag:mountains" %}
 
 W sobotę pobudka około 5-tej rano i wyjście na wschód słońca na [Szczeliniec Wielki][wiki-szczeliniec].
 Prawie się wyspałem.
@@ -61,7 +63,7 @@ ciasno i klaustrofobicznie. Wiele osób to lubi, ale takie coś nie jest dla mni
 Tak wyglądały oba Szczelińce ([Wielki][wiki-szczeliniec] i [Mały][wiki-szczeliniec-maly]) widziane z trasy powrotnej
 do [Pasterki][wiki-pasterka].
 
-{% photo "IMGP9347raw1.jpg","Schronisko Pasterka tuż po wschodzie","tag:good" %}
+{% photo "IMGP9347raw1.jpg","Schronisko Pasterka tuż po wschodzie","tag:good,tag:autumn,tag:mountains" %}
 
 Starałem się nie zapominać o rzeczach małych.
 

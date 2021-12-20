@@ -26,6 +26,8 @@ time_spent:             7
 
 [cyrla]:                https://sites.google.com/site/chatacyrla/
 
+{% photo_header "Wioski w okolicy Rytra","tag:timeline,tag:countryside,tag:summer" %}
+
 Wstęp
 -----
 
@@ -47,7 +49,7 @@ Z jednej z tych polan widać ładnie [okolice Nowego Sącza][pano-nowy-sacz], a 
 Schodziliśmy cały czas czerwonym szlakiem GSB. Po drodzę odwiedziliśmy [Chatę Cyrla][cyrla], która bardzo pozytywnie zaskoczyła
 nas wyglądem, stanem, jedzeniem jak i jego ceną. Zdecydowanie warto odwiedzić to miejsce.
 
-{% photo "IMGP1262raw1.jpg","Widok na Tatry","tag:timeline" %}
+{% photo "IMGP1262raw1.jpg","Widok na Tatry","tag:timeline,tag:mountains" %}
 
 Dalej szlak robił się bardziej interesujący, w sensie wąski. Robiło się coraz cieplej i po dotarciu do drogi asfaltowej
  w [Rytrze][wiki-rytro]
@@ -66,11 +68,11 @@ Podejście nie było trudne, ale byliśmy zmęczeni zejściem oraz wysoką tempe
 widoki z całego wyjazdu. Górki i pagórki, wioski, domy, drogi. Wiem że wyżej takie widoki będą tylko w miejscach niezalesionych.
 Tutaj było ich znacznie więcej.
 
-{% photo "IMGP1381raw1.jpg","Pole na zachód od Rytra","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP1381raw1.jpg","Pole na zachód od Rytra","tag:timeline,tag:good,tag:best,tag:summer" %}
 
 Szlak w stronę Kordowca miał w sobie nie tylko widoki, było też trochę tunelów przez las lub inne krzaczory.
 
-{% photo "IMGP1393raw2.jpg","Szlak w stronę Kordowca","tag:good" %}
+{% photo "IMGP1393raw2.jpg","Szlak w stronę Kordowca","tag:good,tag:countryside" %}
 
 Gdy dotarliśmy do Kordowca, dowiedzieliśmy się że to takie małe schronisko, oraz nie ma tam jedzenia. Bo po
 co zapytać się podczas rezerwacji. Rozpoczęła się analiza ile mamy jedzenia, i wyszło że powinno jakoś wystarczyć.
@@ -84,11 +86,11 @@ To był najciekawszy dzień pod względem pogody i widoków. Dlatego warto by by
 umieścić więcej zdjęć. Wszystkie te zdjęcia były wykonane na szlaku czerwonym
 między [Rytrem][wiki-rytro] a Kordowcem.
 
-{% photo "IMGP1399raw1.jpg","Okolica Roztoki Ryterskiej","tag:timeline,tag:good" %}
+{% photo "IMGP1399raw1.jpg","Okolica Roztoki Ryterskiej","tag:timeline,tag:good,tag:mountains" %}
 
 Okolica Roztoki Ryterskiej
 
-{% photo "IMGP1404raw1.jpg","Ścieżka wokół zieleni","tag:good" %}
+{% photo "IMGP1404raw1.jpg","Ścieżka wokół zieleni","tag:good,tak:countryside" %}
 
 Ścieżka wokół zieleni
 
@@ -100,6 +102,6 @@ Widok na Rytro
 
 Domy na zboczach
 
-{% photo "IMGP1448raw1.jpg","Wyżyny Rytra","tag:timeline" %}
+{% photo "IMGP1448raw1.jpg","Wyżyny Rytra","tag:timeline,tag:countryside" %}
 
 Wyżyny Rytra

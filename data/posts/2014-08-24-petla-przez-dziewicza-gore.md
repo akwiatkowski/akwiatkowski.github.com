@@ -4,8 +4,6 @@ title:                  "Pętla przez Dziewiczą Górę"
 subtitle:               "oraz poligon w Biedrusku"
 date:                   2014-08-24 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/72769829/m%3D2048/4b485a721e98ab52687a2ac696ce2f20"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, czerwonak]
@@ -25,6 +23,7 @@ time_spent:             4
 [wiki-czerwonak]:                https://pl.wikipedia.org/wiki/Czerwonak_(powiat_pozna%C5%84ski)
 [wiki-poznan]:                   https://pl.wikipedia.org/wiki/Pozna%C5%84
 
+{% photo_header "Okolice Annowa","tag:timeline" %}
 
 Wstęp
 -----

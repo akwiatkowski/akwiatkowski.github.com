@@ -29,6 +29,8 @@ time_spent:             8
 [wiki-sniezka]:         https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
 [wiki-kamionki]:        https://pl.wikipedia.org/wiki/Kamionki_(Pieszyce)
 
+{% photo_header "Widok z Wielkiej Sowy","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -47,7 +49,7 @@ czy była to zwykła droga gruntowa. Naszym celem było dojście do czerwonego s
 będącego [Głównym Szlakiem Sudeckim][wiki-gss], który krzyżował się przy
 [Rozdrożu pod Moszną][wiki-rozdroze].
 
-{% photo "IMGP2597b1.jpg","Jeden z ostatnich domów na ulicy Gdańskiej" %}
+{% photo "IMGP2597b1.jpg","Jeden z ostatnich domów na ulicy Gdańskiej","tag:old" %}
 
 Dopiero od tego momentu rozpoczęły się najciekawsze widoki - wioski i pagórki w
 okolicy [Rzeczki Górnej][wiki-rzeczka-gorna].
@@ -72,12 +74,12 @@ Dalsze podejście to był głównie spacer w lesie. Pojawiło się trochę stare
 w okolicach [Wielkiej Sowy][wiki-wielka-sowa]. Weszliśmy na wieżę, w której był
 całkiem ładny widok na okolicę.
 
-{% photo "IMGP2708raw1.jpg","Okolica Schroniska Orzeł","tag:good" %}
+{% photo "IMGP2708raw1.jpg","Okolica Schroniska Orzeł","tag:good,tag:mountains" %}
 
 Tam właśnie zrobiłem główne zdjęcie tego posta -
 widok na [Śnieżkę][wiki-sniezka]. Odległość w linii prostej - około 53km.
 
-{% photo "IMGP2862raw1.jpg","Widok na Ślężę","tag:good" %}
+{% photo "IMGP2862raw1.jpg","Widok na Ślężę","tag:good,tag:mountains" %}
 
 Zejście do [Kamionek][wiki-kamionki] było już mniej interesujące jeżeli chodzi o
 widoki. Był to styczeń, więc zeszliśmy prawie przed zmrokiem. Po drodzę
@@ -93,4 +95,4 @@ minęliśmy tylko dwa ciekawe miejsce:
 Po rozpakowaniu się wyskoczyliśmy "na miasto". Każdemu polecam spróbować spokój,
 jaki jest po sezonie w sudeckich wioskach.
 
-{% photo "IMGP2941raw1.jpg","Dom w Kamionkach" %}
+{% photo "IMGP2941raw1.jpg","Dom w Kamionkach","tag:old" %}

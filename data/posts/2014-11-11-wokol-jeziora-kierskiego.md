@@ -4,8 +4,6 @@ title:                  "Wokół Jeziora Kierskiego"
 subtitle:               "byłoby więcej, gdyby było ciepło"
 date:                   2014-11-11 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/102131315/m%3D2048/a96e08a573ff076ca33c94024b97ac4b"
-header_timeline:        true
 categories:             trip
 tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, rokietnica, tarnowo_podgorne]
@@ -17,6 +15,8 @@ time_spent:             3
 
 [wiki-jezioro-kierskie]:    https://pl.wikipedia.org/wiki/Jezioro_Kierskie
 [wiki-lusowo]: https://pl.wikipedia.org/wiki/Lusowo_(wojew%C3%B3dztwo_wielkopolskie)
+
+{% photo_header "Jesienna droga","tag:timeline" %}
 
 Wstęp
 -----

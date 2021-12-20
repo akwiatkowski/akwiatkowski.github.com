@@ -4,7 +4,6 @@ title:                  "Centralna część Beskidu Małego"
 subtitle:               "niskie górki, trochę widoków, ciekawy staw"
 date:                   2014-06-01 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/72685025/m%3D2048/41c522ea6a5935c3c32bcad562a133c2"
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [slaskie, czernichow, porabka, andrychow, lekawica]
@@ -29,6 +28,8 @@ time_spent:             8
 [wiki-chatka]:                  https://pl.wikipedia.org/wiki/Chatka_na_Potr%C3%B3jnej
 [wiki-chatka-pod]:              https://pl.wikipedia.org/wiki/Chatka_pod_Potr%C3%B3jn%C4%85
 
+{% photo_header "Jezioro Międzybrodzkie","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -46,7 +47,7 @@ Drugiego dnia powitała nas znacznie lepsza pogoda. Wyruszyliśmy w kierunku
 północnym, gdyż musieliśmy dostać się na drugą stronę
 [Jeziora Międzybrodzkiego][wiki-jezioro-miedzy] przez [zaporę][wiki-zapora-porabka].
 
-{% photo "IMGP6602raw1.jpg","Jezioro Międzybrodzkie" %}
+{% photo "IMGP6602raw1.jpg","Jezioro Międzybrodzkie","tag:mountains" %}
 
 [Zapora Porąbka][wiki-zapora-porabka] jest jedną z trzech elektrowni w rejonie rzeki
 [Soła][wiki-sola].
@@ -67,7 +68,7 @@ Szliśmy cały czas czerwonym szlakiem dalej. Przebiega on na południe od
 zbiornika [elektrowni][wiki-zar-elektrownia]. Sam zbiornik jest chyba najciekawszym
 elementem trasy. Jest on też dobrym punktem widokowym.
 
-{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie","tag:timeline" %}
+{% photo "IMGP6691raw1.jpg","Widok na Międzybrodzie","tag:timeline,tag:mountains" %}
 
 Dalsza część trasy była, w mojej ocenie, mało interesująca. Na szczęście ma to
 również swoje plusy - nie było ciasno, nie było mocnego podejścia. Przeszliśmy

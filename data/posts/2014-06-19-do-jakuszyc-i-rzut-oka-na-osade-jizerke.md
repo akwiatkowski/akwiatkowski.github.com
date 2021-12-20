@@ -4,7 +4,6 @@ title:                  "Do Jakuszyc i rzut oka na osadę Jizerkę"
 subtitle:               "pierwszy raz rowerem w górach"
 date:                   2014-06-19 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/133471253/m%3D2048/9915b70e044776f3ad9a4b62188e73a9"
 categories:             trip
 tags:                   [main, bicycle, mountains, best, no_photos]
 towns:                  [dolnoslaskie, szklarska_poreba]
@@ -30,6 +29,8 @@ time_spent:             5
 [wiki-czechy]:           https://pl.wikipedia.org/wiki/Czechy
 [wiki-jizerka]:          https://pl.wikipedia.org/wiki/Jizerka
 [wiki-szklarska]:        https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
+
+{% photo_header "Budynek w Jizerce","" %}
 
 Wstęp
 -----
@@ -63,7 +64,7 @@ i kamieniach. ([filmik][vimeo-4])
 pogoda się trochę już popsuła - zamiast słońca pojawiło się pełne zachmurzenie.
 [Powróciliśmy][vimeo-6] do [Jakuszyc][wiki-jakuszyce].
 
-{% photo "IMGP7341raw1.jpg","Widok na Sokolik" %}
+{% photo "IMGP7341raw1.jpg","Widok na Sokolik","tag:mountains" %}
 
 Zjazd do [Szklarskiej Poręby][wiki-szklarska] był najfajniejszą aktywnością
 tego dnia.

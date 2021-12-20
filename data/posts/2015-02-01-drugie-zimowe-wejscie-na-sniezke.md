@@ -27,6 +27,8 @@ time_spent:             7
 [wiki-strzecha]:            https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9EStrzecha_Akademicka%E2%80%9D
 [wiki-dom-slaski]:          https://pl.wikipedia.org/wiki/Schronisko_G%C3%B3rskie_%E2%80%9EDom_%C5%9Al%C4%85ski%E2%80%9D
 
+{% photo_header "Popołudnie przy Śnieżce","tag:mountains,tag:winter" %}
+
 Wstęp
 -----
 
@@ -40,7 +42,7 @@ To był krótki weekendowy wyjazd do [Szklarskiej Poręby][wiki-szklarska]. Mia�
 trochę nart i trochę chodzenia. Przyjechaliśmy wieczorem dwa dni wcześniej, z tym że
 ja przyjechałem pociągiem.
 
-{% photo "IMGP8232raw1.jpg","Szklarska Poręba w śniegu" %}
+{% photo "IMGP8232raw1.jpg","Szklarska Poręba w śniegu","tag:night" %}
 
 Dzień przed wejściem na [Śnieżkę][wiki-sniezka] dyskutowaliśmy co robimy. Ja
 wolałem narty i ostatecznie poszedłem sam pozjeżdzać. Całkiem mi się to udało,
@@ -60,7 +62,7 @@ Szliśmy żółtym szlakiem do [Strzechy Akademickiej][wiki-strzecha] obserwują
 pogłębiającą się zimę na drzewach. W podejściach raczej nie ma nic dynamicznego.
 Zmiana ta była delikatnie stopniowana.
 
-{% photo "IMGP8364raw2.jpg","Zimowe okolice Strzechy Akademickiej" %}
+{% photo "IMGP8364raw2.jpg","Zimowe okolice Strzechy Akademickiej","tag:winter" %}
 
 Następnie śniadanie w [schronisku][wiki-strzecha]. Wyszliśmy
 ze [schroniska][wiki-strzecha]
@@ -75,9 +77,9 @@ zaczęło robić się ciekawiej. Chmury poruszały się bardzo szybko i tuż prz
 mieliśmy szczęście mieć bardzo dobrą widoczność. Rozpoczęło się ponad półgodzinne
 okno z bardzo dobrą widocznością i niebieskim niebem.
 
-{% photo "IMGP8597raw1.jpg","Zbocze Śnieżki" %}
+{% photo "IMGP8597raw1.jpg","Zbocze Śnieżki","tag:winter,tag:mountains" %}
 
 Nie wchodziliśmy do [Domu Śląskiego][wiki-dom-slaski]. Postanowiliśmy że zejdziemy/zjedziemy
 do [Karpacza][wiki-karpacz] i tam coś zjemy. Ja z Krzychem zjechaliśmy wyciągiem.
 
-{% photo "IMGP8733raw1.jpg","Nadciągająca mgła","tag:good,tag:best" %}
+{% photo "IMGP8733raw1.jpg","Nadciągająca mgła","tag:good,tag:best,tag:winter" %}

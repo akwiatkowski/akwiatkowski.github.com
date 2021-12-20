@@ -24,6 +24,8 @@ time_spent:             7
 
 [trasa]:                        http://mapa-turystyczna.pl/route/zkb2
 
+{% photo_header "Lasy Beskidu Żywieckiego","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -48,14 +50,14 @@ Po pewnym czasie weszliśmy w las i tak szliśmy prawie aż do [Przełęczy Prze
 był czas na jakieś solidne jedzenie. Trochę musieliśmy się cofnąć, aby dostać się do czerwonego
 szlaku do [Rycerzowej][wiki-rycerzowa].
 
-{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek","tag:good" %}
+{% photo "IMGP5738b.jpg","Okolice Przełęczy Przegibek","tag:good,tag:countryside" %}
 
 Znowu szliśmy przez las i chyba nic ciekawego tam nie było. Dopiero gdy schodziliśmy z
 [Rycerzowej Wielkiej][wiki-rycerzowa] ukazał się nam najlepszy widok tego dnia - okolica schroniska.
 
-{% photo "IMGP5882b.jpg","Rycerzowa","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP5882b.jpg","Schronisko Rycerzowa","tag:timeline,tag:good,tag:best,tag:mountains,tag:summer" %}
 
 Główną atrakcją był baca i stado owiec, które kręciło się wokół schroniska. Mniejsza atrakcja była dla
 mieszkajacych w namiotach, gdyż owce je trochę taranowały.
 
-{% photo "IMGP6048b.jpg","Owca w okolicy Rycerzowej","tag:good" %}
+{% photo "IMGP6048b.jpg","Owca w okolicy Rycerzowej","tag:good,tag:animal" %}

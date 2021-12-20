@@ -4,7 +4,6 @@ title:                  "W stronę Skoków, po raz 5-ty"
 subtitle:               "tym razem późną wiosną"
 date:                   2015-05-22 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, murowana_goslina, skoki, wagrowiec]
@@ -27,6 +26,8 @@ time_spent:             4
 
 [wiki-lechlin]:        https://pl.wikipedia.org/wiki/Lechlin
 
+{% photo_header "Pole żepaku","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -42,7 +43,7 @@ Opis trasy
 Szczegóły
 ---------
 
-{% photo "IMGP0018raw1.jpg","Pola niedaleko Starczanowa","tag:timeline,tag:good" %}
+{% photo "IMGP0018raw1.jpg","Pola niedaleko Starczanowa","tag:timeline,tag:good,tag:spring" %}
 
 Opis trasy jest identyczny prawie jak podczas [trzeciego](/trip/2014/07/02/w-strone-skokow-po-raz-3-ci/)
 przejazdu.
@@ -56,12 +57,12 @@ Nowe są tylko filmiki. Na pierwszym jest kilka fragmentów nagrane aparatem.
 Wywalam filmiki. Nie są one na tyle ciekawe i robię je
 głównie dla siebie.
 
-{% photo "IMGP0066raw1.jpg","Okolice Pacholewa","tag:timeline,tag:good" %}
+{% photo "IMGP0066raw1.jpg","Okolice Pacholewa","tag:timeline,tag:good,tag:spring" %}
 
 Po usunięciu filmików muszę cos tu dodać. Będą to zdjęcia do których muszę dorzucić
 trochę tekstu.
 
-{% photo "IMGP0080raw1.jpg","Jezioro Budziszewskie","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP0080raw1.jpg","Jezioro Budziszewskie","tag:timeline,tag:good,tag:best,tag:water" %}
 
 Patrzę na te zdjęcia i porównuję do nieba. Zastanawiam się czy
 obiektyw Pentax DA-15/4 z filtrem polaryzacyjnym jest tak rewelacyjny,
@@ -69,4 +70,4 @@ czy to faktycznie niebo jest mniej niebieskie.
 
 Za [Lechlinem][wiki-lechlin] jechałem w takim "tunelu", jak widać poniżej.
 
-{% photo "IMGP0117raw1.jpg","Tunel drzewny","tag:timeline,tag:good,tag:best" %}
+{% photo "IMGP0117raw1.jpg","Tunel drzewny","tag:timeline,tag:good,tag:best,tag:spring" %}
