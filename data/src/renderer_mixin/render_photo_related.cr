@@ -65,7 +65,9 @@ module RendererMixin::RenderPhotoRelated
         blog: blog,
         lens: lens,
         tags: ["good", "best"],
-        include_headers: true
+        include_headers: true,
+        # some cameras has very small amount of photos
+        fill_until: FILL_UNTIL
       )
       write_output(view)
 
@@ -79,6 +81,11 @@ module RendererMixin::RenderPhotoRelated
     write_output(index_view)
   end
 
+  # fill camera/lens gallery to have at least
+  FILL_UNTIL = 80
+  # for focal lenght galleries we do not need that much
+  FILL_UNTIL_FOCAL = 40
+
   def render_camera_galleries
     camera_renderers = Array(GalleryView::CameraView).new
 
@@ -90,7 +97,7 @@ module RendererMixin::RenderPhotoRelated
         tags: ["good", "best"],
         include_headers: true,
         # some cameras has very small amount of photos
-        fill_until: 50
+        fill_until: FILL_UNTIL
       )
       write_output(view)
 
@@ -133,7 +140,9 @@ module RendererMixin::RenderPhotoRelated
         focal_from: focal[0].to_f,
         focal_to: focal[1].to_f,
         tags: ["good", "best"],
-        include_headers: true
+        include_headers: true,
+        # some cameras has very small amount of photos
+        fill_until: FILL_UNTIL_FOCAL
       )
       write_output(view)
 
