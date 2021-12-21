@@ -17,6 +17,15 @@
   left: 8px;
 }
 
+.gallery-image .gallery-photo-time {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  color: #fff;
+  font-size: 12px;
+  text-shadow: 1px 1px #000;
+}
+
 .gallery-image-img {
   border: 1px white;
 }

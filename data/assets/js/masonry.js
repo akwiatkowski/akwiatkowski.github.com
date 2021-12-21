@@ -86,11 +86,9 @@ function galleryMasonry() {
     url = obj.data("postUrl")
     lat = obj.data("lat")
     lon = obj.data("lon")
+    time = obj.data("time")
 
-    urlHtml = "<a class=\"gallery-desc-link\" href=\"" + url + "\">wpis</a>"
-
-    console.log(obj)
-    console.log(lat)
+    urlHtml = "<a class=\"gallery-desc-link\" href=\"" + url + "\">" + time +"</a>"
 
     if (lat) {
       urlHtml += " - "
@@ -99,6 +97,8 @@ function galleryMasonry() {
 
     $(".lg-sub-html").append(" - " + urlHtml)
   });
+
+  // it's enabled by default
   $(".gallery-zoom").hide();
   $(".gallery-book").hide();
 

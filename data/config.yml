@@ -82,11 +82,27 @@ gallery.timeline.subtitle: zdjęcia najlepiej pokazujące jak się zmienia przyr
 
 gallery.bird.backgrounds:
 gallery.bird.title: Ptaki
-gallery.bird.subtitle: 
+gallery.bird.subtitle:
 
 gallery.macro.backgrounds:
 gallery.macro.title: Makro
 gallery.macro.subtitle: czyli wszystko co jest małe
+
+gallery.mountains.backgrounds:
+gallery.mountains.title: Góry
+gallery.mountains.subtitle: ale nie pagórki
+
+gallery.winter.backgrounds:
+gallery.winter.title: Zima
+gallery.winter.subtitle:
+
+gallery.sunrise.backgrounds:
+gallery.sunrise.title: Wschody i zachody
+gallery.sunrise.subtitle: najlepsze warunki do zdjęć krajobrazu
+
+gallery.spring.backgrounds:
+gallery.spring.title: Wiosna
+gallery.spring.subtitle:
 
 # but it shouldn't be used
 portfolio.title: Portfolio

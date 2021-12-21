@@ -5,7 +5,7 @@
   data-lat="{{ img.lat }}"
   data-lon="{{ img.lon }}"
   data-altitude="{{ img.altitude }}"
-  data-time="{{ img.time }}"
+  data-time="{{ img.time_display }}"
   id="{{ img.full_image_sanitized }}"
 >
   <img
@@ -17,7 +17,12 @@
   <a href="{{ img.url }}" target="_blank" class="gallery-zoom">
     <img src="/img/gallery-zoom.png" alt="{{ post.title }}" />
   </a>
+
   <a href="{{ post.url }}" target="_blank" class="gallery-book">
     <img src="/img/gallery-book.png" alt="{{ post.title }}" />
+  </a>
+
+  <a href="{{ post.url }}" target="_blank" class="gallery-photo-time">
+    {{ img.time_display }}
   </a>
 </div>
