@@ -13,24 +13,46 @@ module GalleryView
     end
 
     # all but only published
-    private def all_photo_entities : Array(PhotoEntity)
-      return all_photo_entities = posts.map { |p|
+    private def all_published_photo_entities : Array(PhotoEntity)
+      return all_published_photo_entities = posts.map { |p|
         p.published_photo_entities
       }.flatten
     end
 
     private def photo_entities_with_tags(
-      tags : Array(String),
-      include_headers : Bool = false
+      all_photos : Array(PhotoEntity) = all_published_photo_entities,
+      tags : Array(String) = Array(String).new,
+      include_headers : Bool = false,
+      fill_until : Int32 = 0
     )
-      photo_entities = all_photo_entities.select { |p|
+      preselected_photos = all_photos.select do |p|
+        # filter by tag
         if include_headers == false
           (p.tags & @tags).size > 0
         else
           # header photo should be good enough
           p.is_header || (p.tags & @tags).size > 0
         end
-      }
+      end
+
+      # fill additional photos when there are no good enough good,best photos
+      if preselected_photos.size < fill_until
+        puts "** fill_until #{fill_until}"
+        puts "** preselected_photos #{preselected_photos.size}"
+
+        # take not included photos, sorted by using super-algorithm
+        sorted_photos = (all_photos - preselected_photos).sort do |pa, pb|
+          pa.factor_for_gallery_fill <=> pb.factor_for_gallery_fill
+        end
+
+        # populate additional
+        preselected_photos += sorted_photos[0...(fill_until - preselected_photos.size)]
+
+        # sort
+        preselected_photos = preselected_photos.sort
+      end
+
+      return preselected_photos
     end
 
     def image_url
@@ -59,13 +81,29 @@ module GalleryView
       return @photo_entities.first
     end
 
+    # photos will be rendered not within `container` class
+    def page_article_html
+      return String.build do |s|
+        s << photos_html
+        s << bottom_html
+        s << js_gallery_html
+      end
+    end
+
+    # in post gallery there are added buttons to next,prev post
+    def bottom_html
+      return ""
+    end
+
     def inner_html
       return photos
     end
 
-    def photos
+    def photos_html
       return String.build do |s|
-        s << "<div class=\"gallery-container\">\n"
+        # noticed that `d-inline-flex` remove center align
+        # `lg-enabled` enable light gallery for all
+        s << "<div class=\"gallery-container flex-wrap lg-enabled\">\n"
 
         @photo_entities.reverse.each do |photo_entity|
           s << load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
@@ -75,21 +113,13 @@ module GalleryView
       end
     end
 
-    # an example of code, can be out of date
-    # def initialize(
-    #   @blog : Tremolite::Blog,
-    #   @lens : String,
-    #   @tags : Array(String) = Array(String).new,
-    #   @include_headers : Bool = false
-    # )
-    #
-    #   @photo_entities = photo_entities_with_tags(@tags, @include_headers).select do |p|
-    #     p.exif.lens_name == @lens
-    #   end.as(Array(PhotoEntity))
-    #
-    #   @title = @lens
-    #   @lens_sanitized = @lens.gsub(/\s/, "_").downcase.as(String)
-    #   @url = "/gallery/lens/#{@lens_sanitized}"
-    # end
+    def js_gallery_html
+      return "
+        <script type=\"text/javascript\">
+          $(document).ready(function () {
+            galleryMasonry();
+          });
+        </script>"
+    end
   end
 end

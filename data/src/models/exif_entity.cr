@@ -69,6 +69,7 @@ struct ExifEntity
     data["img.lon"] = lon.to_s
     data["img.altitude"] = altitude.to_s
     data["img.time"] = time.to_s
+    data["img.time_display"] = time ? time.not_nil!.to_s("%Y-%m-%d %H:%M:%S") : ""
     data
   end
 

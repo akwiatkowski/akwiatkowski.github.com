@@ -11,7 +11,10 @@ module GalleryView
       @tags : Array(String) = Array(String).new,
       @include_headers : Bool = false
     )
-      @photo_entities = photo_entities_with_tags(@tags, @include_headers).select { |p|
+      @photo_entities = photo_entities_with_tags(
+        tags: @tags,
+        include_headers: @include_headers
+      ).select { |p|
         p.exif.lens_name == @lens
       }.as(Array(PhotoEntity))
 

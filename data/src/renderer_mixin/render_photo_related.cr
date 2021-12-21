@@ -61,6 +61,14 @@ module RendererMixin::RenderPhotoRelated
       )
       write_output(view)
 
+      view = GalleryView::LensView.new(
+        blog: blog,
+        lens: lens,
+        tags: ["good", "best"],
+        include_headers: true
+      )
+      write_output(view)
+
       lens_renderers << view
     end
 
@@ -74,13 +82,15 @@ module RendererMixin::RenderPhotoRelated
   def render_camera_galleries
     camera_renderers = Array(GalleryView::CameraView).new
 
-    # only for predefined lenses
+    # only for predefined cameras
     ExifEntity::CAMERA_NAMES.values.each do |camera|
       view = GalleryView::CameraView.new(
         blog: blog,
         camera: camera,
         tags: ["good", "best"],
-        include_headers: true
+        include_headers: true,
+        # some cameras has very small amount of photos
+        fill_until: 50
       )
       write_output(view)
 

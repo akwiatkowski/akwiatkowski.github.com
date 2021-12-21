@@ -54,15 +54,22 @@ struct PhotoEntity
   TAG_WATER     = "water"
   TAG_SUNRISE   = "sunrise"
   TAG_CITY      = "city"
+  TAG_PORTFOLIO = "portfolio"
+  TAG_MOUNTAINS = "mountains"
+  TAG_SPRING    = "spring"
 
   TAG_GALLERIES = [
     TAG_MACRO,
     TAG_CAT,
-    "portfolio",
+    TAG_PORTFOLIO,
     TAG_GOOD,
     TAG_BEST,
     TAG_TIMELINE,
     TAG_BIRD,
+    TAG_WINTER,
+    TAG_MOUNTAINS,
+    TAG_SUNRISE,
+    TAG_SPRING,
   ].sort
 
   # https://fontawesome.com/
@@ -241,6 +248,21 @@ struct PhotoEntity
     else
       return self.image_filename <=> other.image_filename
     end
+  end
+
+  def exif_time
+    self.exif.time.not_nil!
+  end
+
+  # when there is not enough camera/lens/tag photos to populate gallery
+  # we can use photos from other tags
+  #
+  # here we compare number or tags and when it was taken
+  def factor_for_gallery_fill
+    years = (Time.local - exif_time).days / 365
+    tags_size = tags.size
+
+    return tags_size.to_f / (1.0 + years.to_f)
   end
 
   private def generate_full_image_src
