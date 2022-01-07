@@ -43,7 +43,7 @@ samochodem. Po prostu pokręciliśmy się trochę po okolicy.
 
 ## Szczegóły
 
-{% photo "2021_08_20__11_59__8201651.jpg","Zielony konik polny","tag:macro" %}
+{% photo "2021_08_20__11_59__8201651.jpg","Zielony konik polny","tag:macro,tag:good,tag:best" %}
 
 Od [poprzednich]({% post_url 2020-08-20-wejscie-na-tokarnie %}) wakacji w górach zacząłem robić
 zdjęcia owadom. Najbardziej mi się podobają [koniki polne][wiki-konik-polny],
@@ -92,7 +92,7 @@ postanowiłem ruszyć na polanę i tam znowu polować za owadami.
 
 Zastanawia mnie czy kolory koników polnych coś oznaczają, czy to są inne gatunki.
 
-{% photo "2021_08_20__14_58__8201901.jpg","Większy owad z rodziny prostoskrzydłych","tag:macro" %}
+{% photo "2021_08_20__14_58__8201901.jpg","Większy owad z rodziny prostoskrzydłych","tag:macro,tag:good" %}
 
 Wracając, ponownie spotkaliśmy bardzo towarzyskiego kota. Postanowiłem poświęcić
 trochę czasu z nim.
