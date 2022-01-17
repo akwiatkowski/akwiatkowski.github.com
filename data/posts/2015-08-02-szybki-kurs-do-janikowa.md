@@ -27,6 +27,8 @@ time_spent:             1
 [wiki-trlag]:             https://pl.wikipedia.org/wiki/Trl%C4%85g
 [wiki-jezioro-pakoskie]:  https://pl.wikipedia.org/wiki/Jeziora_Pakoskie
 
+{% photo_header "Grobla na Noteci Zachodniej","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -45,13 +47,13 @@ Początkowo jechałem w stronę [Rzadkwina][wiki-rzadkwin] gdzie przejechałem p
 [Noteć][wiki-notec] i jechałem na północ przez [Strzelce][wiki-strzelce]. Powoli robiło
 się bardzo ciepło, ja również jechałem bardzo szybko.
 
-{% photo "IMGP2491raw1.jpg","Noteć Zachodnia / Jezioro Pakoskie" %}
+{% photo "IMGP2491raw1.jpg","Noteć Zachodnia / Jezioro Pakoskie","tag:water" %}
 
 Pod względem trasy mało jest do opowiedzenia. Wystarczyło jechać dalej przez
 [Trląg][wiki-trlag], skręcić na wschód mijając [Jezioro Pakoskie][wiki-jezioro-pakoskie]
 i już jest [Janikowo][wiki-janikowo].
 
-{% photo "IMGP2617raw1.jpg","Okolice Jankowa Dolnego","tag:timeline" %}
+{% photo "IMGP2617raw1.jpg","Okolice Jankowa Dolnego","tag:timeline,tag:countryside" %}
 
 Trasę tą znam dobrze z perspektywy jazdy samochodem, gdyż jest to jeden z dojazdów
 do [Janikowa][wiki-janikowo].

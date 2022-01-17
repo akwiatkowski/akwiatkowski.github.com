@@ -4,8 +4,6 @@ title:                  "Z Cieszyno do Szczecinka"
 subtitle:               "przejazd przez Drawski Park Krajobrazowy"
 date:                   2015-08-23 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/119360673/m%3D2048/3819bf91cd8dfc406ffe4d5628a0010b"
-header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, zlocieniec, ostrowice, polczyn_zdroj, czaplinek, borne_sulinowo, szczecinek]
@@ -51,6 +49,8 @@ time_spent:             8
 [vimeo6]:               https://vimeo.com/137783300
 [vimeo7]:               https://vimeo.com/137978961
 
+{% photo_header "Z Czaplinka do Czarne Małe","tag:timeline,tag:countryside,tag:summer" %}
+
 Wstęp
 -----
 
@@ -80,7 +80,7 @@ Z [Kluczewa][wiki-kluczewo] zjechałem do drogi [163][wiki-163] w stronę [Stare
 trasy jadąc drogą polną w okolicy [Prosinka][wiki-prosinko], bo nie lubię jeździć po głównych drogach.
 [Filmik][vimeo3] przedstawia przejazd tym fragmentem.
 
-{% photo "IMGP3006raw1.jpg","Za Nowym Worowem","tag:timeline" %}
+{% photo "IMGP3006raw1.jpg","Za Nowym Worowem","tag:timeline,tag:good,tag:summer" %}
 
 Wyruszyłem ze [Starego Drawska][wiki-stare-drawsko] i znowu musiałem jechać główną drogą.
 Aż do wyjazdu z [Czaplinka][wiki-czaplinek]
@@ -105,7 +105,7 @@ Dojechałem do stacji kolejowej [Czarne Małe][wiki-czarne-male]. Jeździ tam [p
 
 Lubię takie dziwne połączenia kolejowe i na pewno kiedyś się tą linią przejadę.
 
-{% photo "IMGP3073raw1.jpg","Zielone okolice wokół stacji kolejowej Czarne Małe","tag:timeline" %}
+{% photo "IMGP3073raw1.jpg","Zielone okolice wokół stacji kolejowej Czarne Małe","tag:timeline,tag:summer" %}
 
 Dalej [jechałem][vimeo5] na wschód, w stronę [Łubowa][wiki-lubowo]. Wioska, która ma szczęście posiadać połączenie kolejowe.
 Z niej [wyruszyłem][vimeo6] zielonym szlakiem w stronę [Liszkowa][wiki-liszkowo] i [Bornego Sulinowo][wiki-borne-sulinowo].
@@ -119,8 +119,7 @@ tam droga. Ja bym tego drogą nie nazwał. Jechałem przez las, w pewnym miejscu
 prosto, tylko że nie było drogi. Pojechałem dalej. Z jednej strony szlak, z drugiej jakaś dziwna
 żółta kropka na drzewie. Wybrałem tą żółtą kropkę bo tak mój zmysł nawigacji podpowiadał i to była dobra decyzja.
 
-{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino","tag:timeline" %}
-
+{% photo "IMGP3095raw1.jpg","Między Przyjezierzem a Jelenino","tag:timeline,tag:countryside" %}
 
 Wjechałem w wieś [Jelonek][wiki-jelonek]. Trochę musiałem jechać wzdłuż drogi 20-tki, na szczęście wzdłuż niej
 był dobry chodnik.
@@ -136,5 +135,5 @@ Wnioski
 
 Samotne krótkie wycieczki rowerowe nie są niczym strasznym. Otworzyło to wiele opcji na przyszły rok.
 
-Ostatnio też zauważyłem, że znacznie bardziej wolę coś dłuższego, gdzie jeszcze nie byłem, niż jeżdzenie po okolicy.
+Ostatnio też zauważyłem, że znacznie bardziej wolę coś dłuższego, gdzie jeszcze nie byłem, niż jeżdżenie po okolicy.
 Okolice zbyt szybko się poznaje.

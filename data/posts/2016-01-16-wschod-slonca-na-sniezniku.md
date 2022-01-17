@@ -19,6 +19,8 @@ time_spent:             8
 
 [wiki-schronisko]:       https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_%C5%9Anie%C5%BCniku%E2%80%9D
 
+{% photo_header "Zimowy las","tag:winter,tag:forest,tag:mountains" %}
+
 Wstęp
 -----
 
@@ -37,13 +39,13 @@ Wstaliśmy po 4-tej i przed 5-tą już wyruszyliśmy na wschód słońca. Wyszli
 pomimo tego, że prognoza pogody była mało obiecująca, delikatnie mówiąc. Większość
 musiała wracać w niedzielę bardzo wcześnie (a dokładniej - wszyscy oprócz mnie).
 
-{% photo "IMGP7469raw1.jpg","Światło czołówki" %}
+{% photo "IMGP7469raw1.jpg","Światło czołówki","tag:night" %}
 
 Trasy opisywać nie będę, bo był tylko śnieg i drzewa. Z czasem było tylko więcej śniegu.
 Było to ogromnie monotonne i przydałoby się trochę słońca, które dałoby jakieś
 barwy.
 
-{% photo "IMGP7603raw1.jpg","Głodne zwierzaki" %}
+{% photo "IMGP7603raw1.jpg","Głodne zwierzaki","tag:wildlife" %}
 
 Z ciekawszych momentów dnia była wizyta trzech zwierzaków, które spotkaliśmy obok
 [schroniska][wiki-schronisko].

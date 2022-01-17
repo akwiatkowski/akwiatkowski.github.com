@@ -5,7 +5,6 @@ subtitle:               "długi podjazd, dobry zjazd oraz fajne wioski na koniec
 date:                   2016-05-02 19:00:00
 finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/152229851/q%3D80_m%3D2000/d91e640d51cb32fc6d0bf4f1ffa458ec"
 categories:             trip
 tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, kudowa_zdroj, szczytna, radkow]
@@ -44,6 +43,8 @@ pois:
 [wiki-chocieszow]:            https://pl.wikipedia.org/wiki/Chociesz%C3%B3w
 [wiki-niwa]:                  https://pl.wikipedia.org/wiki/Niwa_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-roszyce]:               https://pl.wikipedia.org/wiki/Roszyce
+
+{% photo_header "Górska droga","tag:mountains" %}
 
 Wstęp
 -----
@@ -123,7 +124,7 @@ skrzyżowanie z którego jest bardzo ładny widok na okolicę. Widać było z ni
 [Szczeliniec Wielki][wiki-szczeliniec-wielki]. To ciekawe uczucie gdy jest on
 "tak daleko", a było się tam niedawno, jakby przed chwilą.
 
-{% photo "IMGP9975raw1.jpg","Niedaleko Niwy","tag:timeline" %}
+{% photo "IMGP9975raw1.jpg","Niedaleko Niwy","tag:timeline,tag:countryside" %}
 
 Powrót skróciliśmy drogą asfaltową a później gruntową przez pole. Wjechaliśmy
 w sam środek [Roszyc][wiki-roszyce].

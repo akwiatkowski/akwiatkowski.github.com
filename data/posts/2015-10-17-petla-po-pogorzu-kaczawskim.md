@@ -27,6 +27,8 @@ time_spent:             9
 [wiki-swierzawa]:               https://pl.wikipedia.org/wiki/%C5%9Awierzawa
 [wiki-pogorze]:                 https://pl.wikipedia.org/wiki/Pog%C3%B3rze_Kaczawskie
 
+{% photo_header "Szlak w stronę Leśniaka / Okole","tag:autumn,tag:mountains,tag:forest" %}
+
 Wstęp
 -----
 
@@ -61,7 +63,7 @@ intuicyjnie, dlatego się trochę pokręciliśmy.
 
 Przez te tereny biegnie nieczynna trasa kolejowa.
 
-{% photo "IMGP4933raw1.jpg","Bardzo stary sklep w Sokołowcu" %}
+{% photo "IMGP4933raw1.jpg","Bardzo stary sklep w Sokołowcu","tag:ruin" %}
 
 Ruszyliśmy lekkim podejściem na zachód w stronę [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Szliśmy przez lekko
 pofalowane pola. Bym powiedział że miejscami zbyt lekko, ale w zimie może to być istotna zaleta.
@@ -72,29 +74,29 @@ Dotarliśmy do [Sokołowca Dolnego][wiki-sokolowiec-dolny]. Jesienią sudeckie w
 robią się jeszcze bardziej "sudeckie", czyli smutniejsze, bardziej szarse. Bieda, opuszczone domy, gdzieniegdzie
 mniej biedy. W lecie jak jest ciepło na pewno będzie tam radośniej.
 
-{% photo "IMGP5102raw1.jpg","Stary dom w Rząśniku" %}
+{% photo "IMGP5102raw1.jpg","Stary dom w Rząśniku","tag:ruin" %}
 
 Szliśmy cały czas asfaltem w kierunku [Rząśnika][wiki-rzasnik] z lekkim podeściem. Dalej trochę żółtym szlakiem,
 a po chwili zgubiliśmy go i znalazłem gdzie jest niebieski. Chwila przerwy na picie i rozpoczęło się
 podejście. Niby strome, ale szybko je pokonaliśmy. Pogoda zaczęła się "psuć", pojawiała się mgła.
 Nie można powiedzieć że było to złe, gdyż las we mgle jest okazja na dobre zdjęcia, a bez mgły robi się nudniejszy.
 
-{% photo "IMGP5132raw1-1.jpg","Trzy drzewa","tag:timeline" %}
+{% photo "IMGP5132raw1-1.jpg","Trzy drzewa","tag:timeline,tag:autumn" %}
 
 Szliśmy przez las we mgle. Niby las to las, ale było widać jak on się zmienia. Zmieniały się rodzaje drzew,
 ilość i kolor liści jakie leżały (w końcu to jesień), oraz ilość i rodzaj trawy.
 
-{% photo "IMGP5168raw1.jpg","Droga w stronę Chrośnicy" %}
+{% photo "IMGP5168raw1.jpg","Droga w stronę Chrośnicy","tag:countryside,tag:ruin" %}
 
 Widoku z [Okole][wiki-okole] nie mieliśmy w ogóle. Chwilka przerwy i idziemy dalej.
 
-{% photo "IMGP5324raw1.jpg","Wycięte drzewa w Górach Kaczawskich" %}
+{% photo "IMGP5324raw1.jpg","Wycięte drzewa w Górach Kaczawskich","tag:forest" %}
 
 Po dotarciu do drogi asfaltowej, którą już wracaliśmy i schodziliśmy, miałem na GPS około 18km trasy.
 Droga którą schodziliśmy jest idealna jest na rower. Bez wysiłku pokonałbym większość pozostałej trasy. Jak widzę
 na mapie wszystko było z górki.
 
-{% photo "IMGP5401raw2.jpg","Mgła w lesie" %}
+{% photo "IMGP5401raw2.jpg","Mgła w lesie","tag:forest,tag:autumn" %}
 
 W [Lubiechowej][wiki-lubiechowa] wybraliśmy dłuższą trasę, która prowadziła do centrum
 [Świerzawy][wiki-swierzawa] ufajac, że po drodzę będziemy mijać jakieś miejsca gdzie można zjeść

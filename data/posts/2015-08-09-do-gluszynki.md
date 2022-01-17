@@ -4,7 +4,6 @@ title:                  "Do Głuszynki"
 subtitle:               "dzikimi terenami Poznania"
 date:                   2015-08-09 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/28744393/m%3D2048/8a95b0b5cec67fec50454980f44e880e"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan]
@@ -24,6 +23,8 @@ time_spent:             3
 [ztm]:                  http://www.ztm.poznan.pl/
 
 [gluszyna-schron]:      http://www.schronisko.poznan.pl/?id=1
+
+{% photo_header "Okolice Głuszynki","tag:timeline" %}
 
 Wstęp
 -----

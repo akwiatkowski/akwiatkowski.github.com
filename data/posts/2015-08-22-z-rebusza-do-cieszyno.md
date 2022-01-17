@@ -6,7 +6,6 @@ desc:                   "Moja pierwsza samotna dwudniowa wycieczka rowerowa. Prz
 keywords:               [drawski, wioska, lato, pojezierze, pagórki, wycieczka]
 date:                   2015-08-22 21:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/119359347/m%3D2048/eed2a19dfc0ee97970331df738431a5c"
 categories:             trip
 tags:                   [main, bicycle, panniers, best]
 towns:                  [zachodnio_pomorskie, bierzwnik, choszczno, drawno, kalisz_pomorski, drawsko_pomorskie, miroslawiec, zlocieniec, ostrowice]
@@ -47,6 +46,8 @@ time_spent:             10
 [vimeo6]:               https://vimeo.com/137237581
 [vimeo8]:               https://vimeo.com/137251918
 
+{% photo_header "Wjazd do Pławna","tag:timeline,tag:countryside" %}
+
 Wstęp
 -----
 
@@ -79,7 +80,7 @@ Po drodze minąłem jezioro Kosino i dojechałem do wsi [Pławno][wiki-plawno].
 Co ciekawe, tam chyba każda wioska ma swoją [kolonię][wiki-kolonia]. Co chwilę
 widziałem znak dojazdu do jakieś kolonii.
 
-{% photo "IMGP2776raw1.jpg","Złote pola o poranku" %}
+{% photo "IMGP2776raw1.jpg","Złote pola o poranku","tag:timeline" %}
 
 Wyjeżdzając z [Pławna][wiki-plawno] zauważyłem pierwsze oznaki tego, że teren nie będzie absolutnie płaski. Z jednej strony
 to była to dobra informacja, z drugiej strony nigdy nie jeździłem z sakwami po pagórkach.
@@ -89,7 +90,7 @@ to była to dobra informacja, z drugiej strony nigdy nie jeździłem z sakwami p
 Przejechałem przez [Zieleniewo][wiki-zieleniewo] w kierunku [Brzezin][wiki-brzeziny]. Trochę jechałem przez las, więc była
 przerwa od widoków. Na pocieszenie w lesie jest trochę lepsze powietrze.
 
-{% photo "IMGP2790raw1.jpg","Wjazd do lasu za Zieleniewem","tag:timeline" %}
+{% photo "IMGP2790raw1.jpg","Wjazd do lasu za Zieleniewem","tag:timeline,tag:summer" %}
 
 Następnie skierowałem się drogą polną w kierunku
 [Drawna][wiki-drawno]. Po drodzę minąłem szyny niedziałającej już [linii kolejowej][wiki-drawno-kolej].
@@ -110,14 +111,14 @@ która przez kilkadziesiąt metrów była idealnym szlakiem dla mnie. Wokół po
 więcej piasku. Dojechałem ostatecznie przez las i tym razem przejechałem przez tory, które są jeszcze używane. Przejeżdza tam
 [szynobus z Piły do Szczecina][wiki-kalisz-pom-tor].
 
-{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "tag:timeline" %}
+{% photo "IMGP2827raw1.jpg","Zielony szlak rowerowy obok miejscowości Giżyno", "tag:timeline,tag:good,tag:countryside" %}
 
 Z [Kalisza Pomorskiego][wiki-kalisz-pomorski] wyruszyłem w kierunku [Wierzchowa Pomorskiego][wiki-wierzchowo]. Przez ten dłuższy
 czas niewiele rzeczy się odznaczało, jednak tereny były według mnie ładne. Jednym z ciekawszych fragmentów to
 wyraźne zafałdowanie terenu między [Pepłówkiem][wiki-peplowek] a [Starą Studnicą][wiki-stara-studnica]. Widać to
 pod koniec [filmiku][vimeo4].
 
-{% photo "IMGP2836raw1.jpg","Stara Sienica" %}
+{% photo "IMGP2836raw1.jpg","Stara Sienica","tag:countryside" %}
 
 Drugim to solidny zjazd za
 [Starą Studnicą][wiki-stara-studnica] w stronę doliny rzeki Studzienica przedstawiony na filmiku poniżej.
@@ -130,7 +131,7 @@ przez [Osiek Drawski][wiki-osiek], w którym zdziwiło mnie to, że fragment dro
 Zrobiłem sobie kilkunastuminutową przerwę we wiacie przystanku autobusowego na wzgórzu obok wsi. Trochę pagórków po drodzę i
 wjechałem do [Złocieńca][wiki-zlocieniec].
 
-{% photo "IMGP2854raw1.jpg","Stary sklep w Cieszyno" %}
+{% photo "IMGP2854raw1.jpg","Stary sklep w Cieszyno","tag:ruin" %}
 
 Kierowałem się do miejscowości [Cieszyno][wiki-cieszyno]. Zdziwiłem się, że jezioro jest tak blisko, i że jest całkiem solidna
 plaża tam. Zostawiłem sakwy i pojechałem pokręcić się po okolicy. Miałem 88km na liczniku i chciałem pobić mój dotychczasowy
@@ -143,24 +144,14 @@ przydałyby się większe pagórki. Jechałem bez sakw, więc było fajniej i dy
 do [Stare Worowo][wiki-stare-worowo], gdzie był otwarty sklep. Drugi najbliższy jest w [Cieszyno][wiki-cieszyno]. Następnie
 [wróciłem][vimeo8] szlakiem rowerowym utworzonym po rozebraniu [torów][wiki-drawno-kolej].
 
-{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","tag:timeline" %}
+{% photo "IMGP2857raw1.jpg","Szlak rowerowy na wschód od jeziora Siecino","tag:timeline,tag:summer,tag:countryside" %}
 
 Dzień zakończyłem mając 103km, nie licząc 8km dojazdu do PKP w Poznaniu. Całkiem dobrze jak na sakwy i małe pagórki.
 
-{% photo "IMGP2901raw1.jpg","Jeziora Siecino" %}
+{% photo "IMGP2901raw1.jpg","Jeziora Siecino","tag:water" %}
 
 
 Ostatnią godzinę dnia spędziłem leżąc na plaży i czekając na zachód słońca. Gdybym miał
 statyw mógłbym lepsze zdjęcia zrobić.
 
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/160644845/m%3D900/06468d4ac4bad5b48bae70903e10eaf6' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/160644845/lake-in-cieszyno-by-aleksander-kwiatkowski' alt='Lake in Cieszyno by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
-
-{% photo "IMGP2956raw1.jpg","Zachód Słońca nad Jeziorem Siecino" %}
+{% photo "IMGP2956raw1.jpg","Zachód Słońca nad Jeziorem Siecino","tag:good,tag:water,tag:sunrise" %}

@@ -5,7 +5,6 @@ subtitle:               "ogromn zieleni, spokojne wioski a na koniec dolina Note
 date:                   2016-05-21 19:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/154844299/q%3D80_m%3D2000/49042827933a0fcdb5f8b96759015cac"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
@@ -54,6 +53,7 @@ pois:
 
 [alpakoland]:            http://alpakoland.pl/pl/index
 
+{% photo_header "Pole rzepaku","tag:timeline,tag:countryside" %}
 
 Wstęp
 -----
@@ -97,7 +97,7 @@ Następnie kierowałem się do [Margonina][wiki-margonin] przez [Dziewoklucz][wi
 Filmik poniższy powinien najlepiej pokazywać jak wyglądają te tereny. Brak pasów na drodzę
 jest idealnym dowodem, jak jest tam spokojnie.
 
-{% photo "IMGP0415raw1.jpg","Wyjeżdzając z Kamienicy" %}
+{% photo "IMGP0415raw1.jpg","Wyjeżdżając z Kamienicy" %}
 
 Wokół tej drogi było więcej lasów niż pól, jak to było widoczne wcześniej, a jadąc
 minąłem ["Alpakoland"][alpakoland] - jest to coś pomiędzy agroturystyką a hodowlą alpak.
@@ -119,7 +119,7 @@ uwagi temu miast. Jechałem na północ drogą przecinającą
 [Noteć][wiki-notec]. Zaciekawił mnie samotny dom położony w pobliżu mostu nad
 rzeką. Sam most i widok z niego był również bardzo ciekawy.
 
-{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży","tag:timeline" %}
+{% photo "IMGP0430raw1.jpg","Droga z Konstantynowa do Chodzieży","tag:timeline,tag:spring" %}
 
 Na wysokości wsi [Krzewiny][wiki-krzewina] zaciekawiła mnie ścieżka polna
 w kierunku wschodnim, gdyż pole było wybitnie pofalowane. Zastanawiałem się

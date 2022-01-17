@@ -5,7 +5,6 @@ subtitle:               "przez Wartę, wokół Żerkowa"
 date:                   2016-04-24 17:00:00
 finished_at:            2016-06-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/150775779/q%3D80_m%3D2000/a3ab571b89f7c52829e5f2ca21fd7b96"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
@@ -41,6 +40,8 @@ time_spent:             4
 [wiki-ruiny-radlin]:     https://pl.wikipedia.org/wiki/Ruiny_pa%C5%82acu_Opali%C5%84skich_w_Radlinie
 [wiki-stegosz]:          https://pl.wikipedia.org/wiki/St%C4%99gosz
 [wiki-annapol]:          https://pl.wikipedia.org/wiki/Annapol_(powiat_jaroci%C5%84ski)
+
+{% photo_header "Wieś Bieździadów","tag:spring,tag:timeline" %}
 
 Wstęp
 -----
@@ -132,7 +133,7 @@ W [Bieździadowie][wiki-biezdziadow] zrobiłem przerwę obok stawu. Jest to bard
 oznacza że jest wyjątkowo spokojna. Chwilowe słońce w pełni, kwitnące drzewa oraz
 soczysta zieleń trawy powodowała, że zapominałem o wcześniejszych trudach.
 
-{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa","tag:timeline" %}
+{% photo "IMGP9450raw1.jpg","Droga do Bieździadowa","tag:timeline,tag:spring" %}
 
 Nie chciałem jechać do centrum [Żerkowa][wiki-zerkow], dlatego skróciłem na południe
 w stronę miejscowości [Chrzan][wiki-chrzan]. Chwilę musiałem jechać ulicą

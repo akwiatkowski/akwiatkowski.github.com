@@ -40,6 +40,8 @@ time_spent:             6
 [vimeo-7]:                      https://vimeo.com/album/3497859/video/134785986
 
 
+{% photo_header "Stary dom w Wilkowie","tag:ruin" %}
+
 Wstęp
 -----
 
@@ -54,13 +56,13 @@ Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu 
 Było bardzo ciepło i wilgotno, pojawiły się szare chmury.
 Zaskoczyła nas burza w momencie gdy jedliśmy siedząc pod parasolami.
 
-{% photo "IMGP2006raw2.jpg","Okolica Kościanu","tag:timeline" %}
+{% photo "IMGP2006raw2.jpg","Okolica Kościanu","tag:timeline,tag:countryside" %}
 
 Na szczeście nie trwała ona długo i między 13-tą a 14-tą wyruszyliśmy w stronę [zamku][wiki-zmigrod-zamek], gdzie znowu
 nas spotkała burza. To był dobry test wodoodporności sakw. Zamek oprócz wieży to ruiny, ale można powiedzieć, że
 w dobrym stanie.
 
-{% photo "IMGP2065raw1.jpg","Ruiny pałacu w Żmigrodzie" %}
+{% photo "IMGP2065raw1.jpg","Ruiny pałacu w Żmigrodzie","tag:ruin" %}
 
 Następnie pojechaliśmy do [Radziądza][wiki-radziadz] zostawić sakwy i wyruszyć dalej z mniejszym obciążeniem. Niestety
 udało nam się wyruszyć dopiero około 16-tej. Wcześniej rozważałem długą trasę na południe przez [Trzebnicę][wiki-trzebnica],
@@ -80,7 +82,7 @@ najlepiej ogrom ich ilości.
 Ruszyłem dalej w stronę [Olszy][wiki-olsza] przez [Wilkowo][wiki-wilkowo]. Ta ostatnia wieś ma bardzo duży starych,
 opuszczonych domów. Jest dziko, ale bardzo ładnie.
 
-{% photo "IMGP2113raw1.jpg","Dom z kotkiem w Olszy" %}
+{% photo "IMGP2113raw1.jpg","Dom z kotkiem w Olszy","tag:countryside" %}
 
 Od [Grabówki][wiki-grabowka] aż za [Rudę Sułowską][wiki-ruda-sulowska] do drogi 439 ([Radziądz][wiki-radziadz]-[Sułów][wiki-sulow])
 prowadził najbardziej "wodnisty" (bardzo dużo stawów obok) szlak tego dnia.
@@ -92,14 +94,14 @@ Dalej pojechałem mniej ciekawym szlakiem przez las w kierunku zapory na [Barycz
 niedawno. I dalej przez las w kierunki wsi [Osiek][wiki-osiek]. Po drodzę minąłem [Książęcą Wieś][wiki-ksiazeca-wies].
 Wieś podobnie zapuszczona jak [Wilkowo][wiki-wilkowo].
 
-{% photo "IMGP2139raw1.jpg","Las niedaleko Rudy Żmigrodzkiej","tag:timeline" %}
+{% photo "IMGP2139raw1.jpg","Las niedaleko Rudy Żmigrodzkiej","tag:timeline,tag:summer" %}
 
 Gdy dojechałem do głównego skrzyżowania we wsi [Osiek][wiki-osiek] zobaczyłem, że chmury stają się być podejrzane.
 Od tego momentu starałem się w miarę szybko jechać do [Radziądza][wiki-radziadz]. Mniej już zwracałem uwagę na
 to co mijałem.
 Powoli zaczęło padać, oraz słyszałem grzmoty w oddali. Ostatnie 3km trasy przejechałem w solidnym deszczu.
 
-{% photo "IMGP2145raw1.jpg","Dom w Książęcej Wsi" %}
+{% photo "IMGP2145raw1.jpg","Dom w Książęcej Wsi","tag:ruin" %}
 
 Po powrocie czułem że to była walka z czasem, ucieczka od ogromnej ulewy, jednak po 15 minutach nie było śladu deszczu.
 Nawet zrobiło się w miarę słonecznie i ładnie.

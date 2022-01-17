@@ -40,6 +40,7 @@ time_spent:             7
 [vimeo-3]:                      https://vimeo.com/134878409
 [vimeo-4]:                      https://vimeo.com/135268126
 
+{% photo_header "Okolica torów kolejowych","tag:countryside" %}
 
 Wstęp
 -----
@@ -65,13 +66,13 @@ Dalej pojechaliśmy już główną drogą, aby jak najszybciej dostać się do [
 Mieszkańcy mówili że nic takiego tutaj nie ma, ale okazało się że jedna jest - na ulicy Leśnej.
 Miałem pewne wrażenie opuszczenia tych terenów przez turystykę.
 
-{% photo "IMGP2218raw1.jpg","Dom w Sułowie" %}
+{% photo "IMGP2218raw1.jpg","Dom w Sułowie","tag:city,tag:town" %}
 
 Ruszyliśmy przez las aby dostać się do szlaku dawnej kolei wąskotorowej od wsi [Pracze][wiki-pracze]. Od tego miejsca aż po
 [Milicz][wiki-milicz] była to najlepsza część trasy.
 Idealna, spokojna trasa rowerowa po drodze asfaltowej przez pola.
 
-{% photo "IMGP2236raw1.jpg","Budynki gospodarcze wsi Pracze" %}
+{% photo "IMGP2236raw1.jpg","Budynki gospodarcze wsi Pracze","tag:countryside" %}
 
 W związku z tym że mieliśmy trochę czasu, a ja chciałem trochę kilometrów dorobić, to pojechałem z [Milicza][wiki-milicz]
 na małą przejażdżkę. Pojechałem tam gdzie jest dużo stawów na mapie,
@@ -91,7 +92,7 @@ szlakiem pieszym. Jak dojechałem do mostu kolejowego trochę zgłupiałem co ro
 przejechałem przez most i pod koniec mam do wyboru zejście w lewo lub w prawo.
 Gdy wybiorę w lewo nic nie widzę co jest dalej, gdy w prawo jest jakaś droga tam.
 
-{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","tag:timeline" %}
+{% photo "IMGP2362raw1.jpg","Okolica Cząszczewa","tag:timeline,tag:countryside" %}
 
 Przechodzę przez tory i znoszę rower z sakwami po schodach. Okazuje się, że ludzie się tam kręcą i dowiaduję
 się że dojadę do dworca.

@@ -44,6 +44,8 @@ time_spent:             5
 [nsr-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2054857&type=relation&map=13!52.6859!16.2531
 [ssj-mapa]:                    http://cycling.waymarkedtrails.org/#route?id=2772128&type=relation&map=10!52.593!16.6072
 
+{% photo_header "Wieś Lubowo","tag:countryside" %}
+
 Wstęp
 -----
 

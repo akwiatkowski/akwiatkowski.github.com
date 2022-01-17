@@ -5,7 +5,6 @@ subtitle:               "dojechałem prawie do Gorzowa, bardzo ciepły dzień"
 date:                   2016-05-10 17:00:00
 finished_at:            2016-06-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/153190063/q%3D80_m%3D2000/224d7e8f364e742095bea1269bdb4a8a"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, lubuskie, krzyz_wielkopolski, drezdenko, stare_kurowo, strzelce_krajenskie, zwierzyn_lubuskie, santok]
@@ -50,6 +49,7 @@ pois:
 [wiki-gorki-noteckie]:   https://pl.wikipedia.org/wiki/Górki_Noteckie
 [wiki-plomykowo]:        https://pl.wikipedia.org/wiki/Płomykowo
 
+{% photo_header "Most nad Notecią" %}
 
 Wstęp
 -----

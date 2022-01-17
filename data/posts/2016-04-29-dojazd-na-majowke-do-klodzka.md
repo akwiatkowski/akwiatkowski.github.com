@@ -5,7 +5,6 @@ subtitle:               "niespodziewanie dobra pogoda, lekkie górki i sudecki k
 date:                   2016-04-29 18:00:00
 finished_at:            2016-05-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/152227501/q%3D80_m%3D2000/e5818de7f8598a7adc53d04222d20740"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, panniers]
@@ -31,6 +30,7 @@ time_spent:             2
 [wiki-roszyce]:            https://pl.wikipedia.org/wiki/Roszyce
 [wiki-bierkowice]:         https://pl.wikipedia.org/wiki/Bierkowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
+{% photo_header "Widok na Gołogłowy","tag:spring,tag:timeline,tag:countryside,tag:mountains" %}
 
 Wstęp
 -----
@@ -60,7 +60,7 @@ osobowe są znacznie rzadziej wykorzystywane. To jest w sumie sensowne - większ
 ludzi jedzie z daleka na kilka dni wolnego i woli dojechać szybko jednym
 pociągiem do celu.
 
-{% photo "IMGP9651raw1.jpg","Wieś Starczów","time" %}
+{% photo "IMGP9651raw1.jpg","Wieś Starczów","tag:timeline,tag:countryside" %}
 
 Swoją trasę rozpocząłem w [Ławicy][wiki-lawica]. Od razu poczułem, że jest to
 inny teren niż ten po jakim normalnie jeżdzę.
@@ -75,7 +75,7 @@ Skręciłem na południe przez [Piszkowice][wiki-piszkowice]. Od tego momentu za
 się podjazd. W [Ruszowicach][wiki-ruszowice] skręciłem jadąc prawie bezpośrednio
 do [Roszyc][wiki-roszyce].
 
-{% photo "IMGP9678raw1.jpg","Pola Kotliny Kłodzkiej","tag:timeline" %}
+{% photo "IMGP9678raw1.jpg","Pola Kotliny Kłodzkiej","tag:timeline,tag:good,tag:spring,tag:mountains" %}
 
 Dojazd był demonstracją tego, co mnie czeka przez najbliższe dni: pofalowany teren,
 podjazdy, rzeki, wioski, górki na horyzoncie. Wszystko było inne

@@ -48,10 +48,12 @@ time_spent:             6
 [vimeo3]:               https://vimeo.com/138473676
 [vimeo4]:               https://vimeo.com/139141065
 
+{% photo_header "Jezioro Lednickie" %}
+
 Wstęp
 -----
 
-Zostałem namówiony na małą przejażdzkę. Wiedziałem, że będzie ciepło, ale nie myślałem że już od godziny 11-tej
+Zostałem namówiony na małą przejażdżkę. Wiedziałem, że będzie ciepło, ale nie myślałem że już od godziny 11-tej
 będzie źle.
 
 Opis trasy
@@ -97,7 +99,7 @@ Minęliśmy [Bliżyce][wiki-blizyce], a w [Glinnie][wiki-glinno] już jechaliśm
 drogą asfaltową do Skoków. Za [Antoniewem Górnym][wiki-antoniewo]
 był drugi fajny zjazd.
 
-{% photo "IMGP3211raw1.jpg","Stawy niedaleko Rybna Wielkiego / Kizkowa" %}
+{% photo "IMGP3211raw1.jpg","Stawy niedaleko Rybna Wielkiego / Kiszkowa","tag:summer" %}
 
 Ze [Skoków][wiki-skoki] kierowaliśmy się do [Rościnna][wiki-roscinno] - małej wioski w kierunku [Rogoźna][wiki-rogozno].
 Było już tak ciepło, że mógłbym już zakończyć dzień. Chcieliśmy jednak spróbować wykąpać się

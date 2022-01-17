@@ -4,7 +4,6 @@ title:                  "Przejście do Rdzawki"
 subtitle:               "ładne polanki, nie za długa trasa, jednak było zimniej niż dzień wcześniej"
 date:                   2016-01-01 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/135034595/m%3D2048/92f3adfbd746da32aa9443b60dcbd98a"
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
@@ -33,6 +32,8 @@ time_spent:             5
 [wiki-rdzawka-kosciol]: https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Awi%C4%99tego_Krzy%C5%BCa_na_Obidowej_w_Chab%C3%B3wce
 [wiki-poreba-gorna]:    https://pl.wikipedia.org/wiki/Por%C4%99ba_Wielka_(powiat_limanowski)
 
+{% photo_header "Wioska w dolinie","tag:mountains" %}
+
 Wstęp
 -----
 
@@ -51,18 +52,18 @@ Szczegóły
 Wyruszyliśmy dość późno, bo około 12-tej. Musieliśmy przenieść rzeczy do innego
 pokoju, a wcześniej wstać po Sylwestrze.
 
-{% photo "IMGP7175raw1.jpg","Ponice" %}
+{% photo "IMGP7175raw1.jpg","Ponice","tag:timeline,tag:mountains" %}
 
 Ruszyliśmy na wschód od [schroniska][wiki-maciejowa], ze sto metrów, a później
 zielonym szlakiem na południe. Jednocześnie z zielonym przebiega tam żółty szlak rowerowy,
 jednak chyba nie rzuciłbym się na niego rowerem.
 
-{% photo "IMGP7208raw1.jpg","Kryształki lodu" %}
+{% photo "IMGP7208raw1.jpg","Kryształki lodu","tag:macro" %}
 
 Zeszliśmy do [Ponic][wiki-ponice], takiej małej wsi pośrodku gór. Chociaż bardziej
 to były duże pagórki.
 
-{% photo "IMGP7252raw1.jpg","Idąc do Rdzawki","tag:timeline" %}
+{% photo "IMGP7252raw1.jpg","Idąc do Rdzawki","tag:timeline,tag:mountains" %}
 
 Następnie kolejne podejście na wzgórze nad [Rdzawką][wiki-rdzawka]. Mieliśmy
 tam zobaczyć [kościół][wiki-rdzawka-kosciol], jednak robiło się zimniej niż

@@ -4,7 +4,6 @@ title:                  "Początek Sylwestra w Maciejowej"
 subtitle:               "dojazd do Rabki koleją przez Beskid Makowski i podejście do schroniska"
 date:                   2015-12-30 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/134966611/m%3D2048/c9bf3a2f10eb9b591a0b5ed15e53494b"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike, mountains]
@@ -25,6 +24,8 @@ time_spent:             2
 [wiki-sucha-beskidzka]: https://pl.wikipedia.org/wiki/Sucha_Beskidzka
 [wiki-gsb]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
 
+{% photo_header "Szlak w kierunku Maciejowej","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -44,7 +45,7 @@ Do [Krakowa][wiki-krakow] dojechaliśmy pociągiem [IC][wiki-pkp-ic] całkiem sz
 Powoli w Polsce postępuje cywilizacja transportu kolejowego. W [Krakowie][wiki-krakow]
 przesiadka na pociąg do [Rabki][wiki-rabka].
 
-{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój","tag:timeline" %}
+{% photo "IMGP6627raw1.jpg","Widok na zejście do Rabki Zdrój","tag:timeline,tag:mountains" %}
 
 Dopiero teraz zauważyłem że normalna trasa jest przez [Suchą Beskidzą][wiki-sucha-beskidzka].
 Myślałem, że jest jakieś bardziej bezpośrednie połączenie, ale innych torów tam nie ma.
@@ -55,10 +56,10 @@ W [Rabce][wiki-rabka] zrobiliśmy małe zapasy w sklepie i rozpoczęliśmy podej
 [czerwonym szlakiem][wiki-gsb] w stronę [schroniska][wiki-maciejowa].
 Powoli robiło się już ciemno i ostatnie 10-15 minut doszliśmy na czołówce.
 
-{% photo "IMGP6664raw1.jpg","Rabka nocą" %}
+{% photo "IMGP6664raw1.jpg","Rabka nocą","tag:mountains" %}
 
 Wieczorem wyszedłem ze statywem porobić trochę nocnych zdjęć, gdyż widoczność była
 bardzo dobra. Gdyby był lekki wiatr to mogła by być idealna, ale to byłby problem
 z ewentualną stabilnością statywu.
 
-{% photo "IMGP6685raw1.jpg","Luboń Wielki" %}
+{% photo "IMGP6685raw1.jpg","Luboń Wielki","tag:city,tag:town,tag:night" %}

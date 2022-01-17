@@ -5,7 +5,6 @@ subtitle:               "długi podjazd, dobry zjazd oraz wioski na koniec"
 date:                   2016-05-08 17:00:00
 finished_at:            2016-06-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/153295727/q%3D80_m%3D2000/420a9e584e02488cc5d6f8945d527686"
 header_timeline:        true
 categories:             trip
 tags:                   [main, hike]
@@ -38,6 +37,8 @@ pois:
 [wiki-jeziory]:             https://pl.wikipedia.org/wiki/Jeziory_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-mosina]:              https://pl.wikipedia.org/wiki/Mosina
 
+{% photo_header "Nieużywane tory kolejowe" %}
+
 Wstęp
 -----
 
@@ -65,7 +66,7 @@ Dotarliśmy do drogi asfaltowej wokół [Trzebawia][wiki-trzebaw]. Tam szliśmy
 obok stawu z którego było słychać ogrom dźwięków żab. Wioska za to była całkiem spokojna,
 więc zwierzęta korzystają z tego faktu.
 
-{% photo "IMGP0168raw1.jpg","Aleja drzew","tag:timeline" %}
+{% photo "IMGP0168raw1.jpg","Aleja drzew","tag:timeline,tag:good,tag:spring" %}
 
 Następnie dotarliśmy do [Jezior][wiki-jeziory], gdzie dalej poruszaliśmy się
 czerwonym szlakiem obok jeziora. Byłem zaskoczony ile ludzi tam się poruszało,

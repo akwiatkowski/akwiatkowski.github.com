@@ -47,6 +47,7 @@ time_spent:             8
 [wiki-ciensisko]:          https://pl.wikipedia.org/wiki/Ciencisko
 [wiki-bronislaw]:          https://pl.wikipedia.org/wiki/Bronis%C5%82aw_(powiat_mogile%C5%84ski)
 
+{% photo_header "Dom w Niezgodzie","tag:countryside" %}
 
 Wstęp
 -----
@@ -70,7 +71,7 @@ Wyruszyłem na północ przejeżdżając przez tereny wiejskie i leśne.
 Niewiele o nich mogę napisać, nie były zbyt ciekawe, ale raczej spokojne i przyjemne
 do jazdy.
 
-{% photo "IMGP2410raw1.jpg","Droga do Polanowa","tag:timeline" %}
+{% photo "IMGP2410raw1.jpg","Droga do Polanowa","tag:timeline,tag:countryside" %}
 
 W [Niezgodzie][wiki-niezgoda] zrobiłem najlepsze zdjęcie - pomalowanej na biało
 starej stodoły. Zdjęcie te jest głównym zdjęciem tego wpisu.
@@ -96,7 +97,7 @@ jednak przy tej pogodzie było tam sporo piasku. Dość szybko uciekłem i jecha
 już asfaltem w stronę [Anastazewa][wiki-anastazewo] czując, że jadę przez
 spory las.
 
-{% photo "IMGP2424raw1.jpg","Szlak rowerowy z Suszewa w stronę Mleczy/Gaju" %}
+{% photo "IMGP2424raw1.jpg","Szlak rowerowy z Suszewa w stronę Mleczy/Gaju","tag:timeline" %}
 
 Następnie jechałem niebieskim szlakiem rowerowym przez [Osówiec][wiki-osowiec].
 Całkiem fajne dość dzikie tereny, zwłaszcza [Mlecze][wiki-mlecze]. Czułem że opuszczam
@@ -104,13 +105,13 @@ województwo [wielkopolskie][wiki-wielkopolskie].
 
 Do [Przyjezierza][wiki-przyjezierze] wjechałemo-6] przez las.
 
-{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","tag:timeline" %}
+{% photo "IMGP2445raw1.jpg","Droga w stronę Wysokiego Mostu","tag:timeline,tag:countryside" %}
 
 Przejechałem [Przyjezierze][wiki-przyjezierze] i kierowałem sie w stronę [Strzelna][wiki-strzelno].
 Mijałem wsie ([Ostrowo][wiki-ostrowo] i [Cieńcisko][wiki-ciensisko]),
 które znałem całkiem dobrze.
 
-{% photo "IMGP2482raw1.jpg","Pola po żniwach","tag:timeline" %}
+{% photo "IMGP2482raw1.jpg","Pola po żniwach","tag:timeline,tag:countryside" %}
 
 Mając trochę czasu przejechałem się do [Bronisławia][wiki-bronislaw] przez małe
 kujawskie wioski.

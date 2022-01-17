@@ -5,7 +5,6 @@ subtitle:               "żerkowskie pagórki, nadwarciańskie lasy w bardzo cie
 date:                   2016-05-22 15:00:00
 finished_at:            2016-06-22 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/155113805/q%3D80_m%3D2000/3d4ecd49ef994bd82c611e92c1bdf709"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
@@ -22,12 +21,9 @@ pois:
   lat: 52.08287
   lon: 17.60691
 
-
-
-
-
-
 ---
+
+{% photo_header "Widok na miejscowość Ląd","tag:timeline,tag:countryside,tag:spring" %}
 
 Wstęp
 -----
@@ -97,7 +93,7 @@ najlepszy czas mają za sobą.
 Przejechaliśmy mostem w stronę [Rudy Komorskiej][wiki-ruda-komorska] - kolejna
 wioska w podobnym klimacie.
 
-{% photo "IMGP0458raw1.jpg","Ruiny jakiegoś budynku w miejscowości Wrąbczynkowskie Holendry" %}
+{% photo "IMGP0458raw1.jpg","Ruiny jakiegoś budynku w miejscowości Wrąbczynkowskie Holendry","tag:ruin" %}
 
 W okolicy [Pyzdr][wiki-pyzdry] nie jechaliśmy trasą nad [Wartą][wiki-warta], gdyż
 obawialiśmy się piasków. Jazda w takim żarze po plaży to ogromne wyzwanie. Z Tego

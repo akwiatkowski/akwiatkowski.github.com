@@ -4,7 +4,6 @@ title:                  "Noworoczne opuszczenie Gorców"
 subtitle:               "zejście czarnym szlakiem"
 date:                   2016-01-02 20:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/135676235/m%3D2048/3a0012bddd40baf38c5ca657e200284d"
 categories:             trip
 tags:                   [main, hike, mountains]
 towns:                  [malopolskie, rabka]
@@ -24,6 +23,8 @@ time_spent:             2
 [wiki-gsb]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Beskidzki
 [wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
 [wiki-poreba-gorna]:    https://pl.wikipedia.org/wiki/Por%C4%99ba_Wielka_(powiat_limanowski)
+
+{% photo_header "Widok na Babią Górę","tag:mountains" %}
 
 Wstęp
 -----

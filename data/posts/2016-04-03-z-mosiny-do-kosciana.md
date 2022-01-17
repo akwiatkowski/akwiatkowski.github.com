@@ -35,7 +35,7 @@ time_spent:             5
 [wiki-przysieka-polska]:     https://pl.wikipedia.org/wiki/Przysieka_Polska
 [wiki-gniewowo]:             https://pl.wikipedia.org/wiki/Gniewowo_(wojew%C3%B3dztwo_wielkopolskie)
 
-
+{% photo_header "Paw w Gniewowie","tag:wildlife" %}
 
 Wstęp
 -----

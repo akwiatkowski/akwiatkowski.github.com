@@ -42,6 +42,8 @@ time_spent:             4
 
 [mpk-58]:                  http://www.mpk.poznan.pl/component/transport/58/
 
+{% photo_header "Kwitnące drzewa","tag:spring" %}
+
 Wstęp
 -----
 

@@ -50,6 +50,8 @@ pois:
 [wiki-klodzko]:                      https://pl.wikipedia.org/wiki/Kłodzko
 [wiki-ziebice]:                      https://pl.wikipedia.org/wiki/Ziębice
 
+{% photo_header "Pole rzepaku","tag:spring,tag:timeline" %}
+
 Wstęp
 -----
 
@@ -72,7 +74,7 @@ dalej ruszyliśmy na północ w kierunku [Srebrnej Góry][wiki-srebrna-gora].
 Podjazdy czekaly nas już trochę większe, a wioski mniejsze i zabudowy rzadsze.
 Cywilizacji było jakby trochę mniej, co jest w sumie oczywiste.
 
-{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie","tag:timeline" %}
+{% photo "IMGP9733raw1.jpg","Między Łączną a Wojborzem tereny były dość dzikie","tag:timeline,tag:spring,tag:mountains" %}
 
 Przez prawię połowę drogi do [Srebrnej Góry][wiki-srebrna-gora] jechaliśmy wokół
 pól, bardzo mi się podobało wzgórze obok miejscowości [Huberek][wiki-huberek].
@@ -85,7 +87,7 @@ przełęcz obok góry [Wilczak][wiki-gora-wilczak], za którą rozpoczął się 
 Pierwszy fajny zjazd tego dnia. Niestety nie można było szaleć do woli, gdyż
 droga była daleka do bycia idealną.
 
-{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry","tag:timeline" %}
+{% photo "IMGP9752raw1.jpg","Widok ze Srebrnej Góry","tag:timeline,tag:mountains" %}
 
 Zjechaliśmy przy wylocie ze [Żdanowa][wiki-zdanow] i chcieliśmy podjechać do
 [Srebrnej Góry][wiki-srebrna-gora] teraz. W tym momencie nie wiedziałem, że
@@ -98,12 +100,11 @@ Odwiedziłem twierdzę południową - [Fort Ostróg][wiki-fort-ostrog], z które
 Chciałem wrócić drogą asfaltową, jednak Krzychu szybko mnie przekonał aby przejechać
 przez wiadukty. Ja sam w sumie też chciałem, ale obawiałem się jaki to będzie teren.
 
-{% photo "IMGP9777raw1.jpg","Srebrna Góra z dołu" %}
-
+{% photo "IMGP9777raw1.jpg","Srebrna Góra z dołu","tag:spring" %}
 
 Okazało się, że jest to najlepsza górska trasa terenowa jaką jechałem. Kamieni
-jest mało a korzenii prawie w ogóle tam nie ma. Stromość jest idealna dla mnie, a widoki
-rewelacyjne. Raz jedzie się w wąwozie, a raz przejeżdza przez wiadukt. Wiadukty te
+jest mało a korzeni prawie w ogóle tam nie ma. Stromość jest idealna dla mnie, a widoki
+rewelacyjne. Raz jedzie się w wąwozie, a raz przejeżdża przez wiadukt. Wiadukty te
 mają wysokość 24 i 27 metrów. Patrząc na mapie to jechaliśmy ścieżką dydaktyczną
 ["Zębatą"][wiki-kolej-zebata].
 
@@ -136,14 +137,6 @@ mniej niż 40km zrobionej trasy. Z tego powodu ruszyliśmy bardzo szybko.
 Ruszyliśmy na wschód i lekko na północ w stronę [Sieroszowa][wiki-sieroszow], gdzie
 skręciliśmy na północ. Droga do [Baldwinowic][wiki-baldwinowice] bardzo mi się podobała. Jechaliśmy w
 obniżeniu mając po obu stronach pola, wokół kwitnął rzepak.
-
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/176807465/m%3D900/e5e892f036bc508b637b647222776e9f' alt='Between Sieroszów and Baldwinowice by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/176807465/between-sierosz%C3%B3w-and-baldwinowice-by-aleksander-kwiatkowski' alt='Between Sieroszów and Baldwinowice by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 Ogólnie dzikość wiosek i pagórkowatość to to co najbardziej lubię i w tym miejscu
 mogłem tego doświadczyć. Planuję przejechać te okolice ponownie ale tym razem przed żniwami.

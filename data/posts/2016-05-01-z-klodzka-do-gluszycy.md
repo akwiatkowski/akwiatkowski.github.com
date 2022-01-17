@@ -5,7 +5,6 @@ subtitle:               "jadąc przez wioski i góry, wokół torów"
 date:                   2016-05-01 19:00:00
 finished_at:            2016-06-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/152229321/q%3D80_m%3D2000/c590c87f2a2d9d078829c94d6a1a861c"
 categories:             trip
 tags:                   [main, bicycle, mountains]
 towns:                  [dolnoslaskie, klodzko, radkow, nowa_ruda, gluszyca]
@@ -47,6 +46,7 @@ pois:
 [wiki-gluszyca-pkp]:           https://pl.wikipedia.org/wiki/G%C5%82uszyca_(stacja_kolejowa)
 [wiki-bierkowice]:             https://pl.wikipedia.org/wiki/Bierkowice_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
+{% photo_header "Góry widziane ze Ścinawy Górnej","tag:spring,tag:timeline,tag:mountains" %}
 
 Wstęp
 -----
@@ -92,7 +92,7 @@ już przez wioski. Wioski te były również bardzo spokojne, ale jakoś w inny 
 Patrząc na mapę teraz to widzę, że przejeżdzaliśmy wokół, albo przez,
 [Wzgórza Włodzickich][wiki-wzgorza-wlodzickie].
 
-{% photo "IMGP9860raw1.jpg","Okolice Ścinawki Średniej","tag:timeline" %}
+{% photo "IMGP9860raw1.jpg","Okolice Ścinawki Średniej","tag:timeline,tag:good,tag:spring,tag:mountains" %}
 
 Gdzieś po drodzę spotkaliśmy stado owiec, które nawet zablokowały nam drogę i
 musieliśmy przeczekać aż sobie przejdą.

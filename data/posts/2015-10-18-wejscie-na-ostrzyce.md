@@ -20,6 +20,7 @@ time_spent:             5
 [wiki-proboszczow]:      https://pl.wikipedia.org/wiki/Proboszcz%C3%B3w
 [wiki-ostrzyca]:         https://pl.wikipedia.org/wiki/Ostrzyca_(Pog%C3%B3rze_Kaczawskie)
 
+{% photo_header "Widok z Ostrzycy","tag:autumn,tag:mountains,tag:countryside" %}
 
 Wstęp
 -----
@@ -39,17 +40,17 @@ Najpierw poszliśmy wejść na [Wielisławkę][wiki-organy], które mieliśmy ca
 Podejście było dość mocne, wszędzie bardzo dużo liści, tylko kolory były trochę wczesne -
 bardziej zielone niż czerwone.
 
-{% photo "IMGP5673raw1-1.jpg","Pies na Ostrzycy" %}
+{% photo "IMGP5673raw1-1.jpg","Pies na Ostrzycy","tag:dog" %}
 
 Na górze okazało się, że tylko z jednego miejsca jest dobry widok. Reszta jest zasłonięta przez drzewa.
 
-{% photo "IMGP5734raw1.jpg","Widok z Ostrzycy" %}
+{% photo "IMGP5734raw1.jpg","Widok z Ostrzycy (1)","tag:mountains" %}
 
 Później pojechaliśmy do [Proboszczowa][wiki-proboszczow], gdzie ruszyliśmy żółtym szlakiem
 na [Ostrzycę][wiki-ostrzyca]. Mieliśmy małe przygody z niedopalonymi ogniskami w lesie,
 które nas opóźniły o około godzinę.
 
-{% photo "IMGP5777raw1.jpg","Widok z Ostrzycy" %}
+{% photo "IMGP5777raw1.jpg","Widok z Ostrzycy (2)","tag:autumn" %}
 
 Podchodząc na [Ostrzycę][wiki-ostrzyca] musieliśmy uważać na śliskie schody.
 Na górze czekał dla nas, i nie tylko bo nie byliśmy tam sami, najlepsze widoki tego

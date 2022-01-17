@@ -36,6 +36,8 @@ time_spent:             8
 [wiki-bystrzyckie]:             https://pl.wikipedia.org/wiki/G%C3%B3ry_Bystrzyckie_(Sudety)
 [wiki-orlickie]:                https://pl.wikipedia.org/wiki/G%C3%B3ry_Orlickie
 
+{% photo_header "Okolice Międzylesia","tag:winter,tag:countryside" %}
+
 Wstęp
 -----
 
@@ -58,12 +60,12 @@ na dwór porobić trochę zdjęć o poranku. Gdzieś około 8-ej musiałem wróc
 
 Tam się rozdzieliliśmy i rozpocząłem samotne zwiedzanie okolic.
 
-{% photo "IMGP7899raw1.jpg","Poranne mgły" %}
+{% photo "IMGP7899raw1.jpg","Poranne mgły","tag:good" %}
 
 Mój spacer rozpocząłem obok Biedronki w [Międzylesiu][wiki-miedzylesie]. Musiałem
 chwilę poczekać, bo w niedziele otwierają ją o 9-tej.
 
-{% photo "IMGP7967raw8.jpg","Powrót do Międzylesia" %}
+{% photo "IMGP7967raw8.jpg","Powrót do Międzylesia","tag:mountains,tag:winter,tag:good" %}
 
 Gdy już kupiłem jedzenie i zjadłem coś ciepłego (pizzerki) ruszyłem w drogę
 niebieskim szlakiem pieszym. Szybko skręciłem na północ w stronę [Nagodzic][wiki-nagodzice],
@@ -81,14 +83,14 @@ Chwilę później musiałem iść drogą asfaltową. Na papierowej mapie była j
 ale na GPS jej nie widziałem. Nie chciałem wylądować u kogoś na terenie prywatnym
 przypadkiem, oraz powoli zacząłem zastanawiać się "gdzie tu jest jakieś ludzkie WC".
 
-{% photo "IMGP8051raw8.jpg","Stary dom w Gajniku" %}
+{% photo "IMGP8051raw8.jpg","Stary dom w Gajniku","tag:ruin" %}
 
 W [Roztokach][wiki-roztoki] dowiedziałem się w sklepie, że jest w [Międzylesiu][wiki-miedzylesie].
 Fajnie, z tamtąd przyszedłem. Chwila na analizę: trasa, pociągi, pogoda. Wyszło na to,
 że w [Międzylesiu][wiki-miedzylesie] można coś zjeść, wartość iść pieszo, oraz
 tam będzie najlepsza pogoda za 3 godziny.
 
-{% photo "IMGP8072raw8.jpg","Półtora drzewa" %}
+{% photo "IMGP8072raw8.jpg","Półtora drzewa","tag:good" %}
 
 Ruszyłem na wschód w kierunku wsi [Gajnik][wiki-gajnik] niebieskim szlakiem rowerowym.
 Zaciekawiło mnie, że w każdej tej wsi jest przystanek autobusowy. Oczywiście w niedziele
@@ -99,12 +101,12 @@ Zaciekawiło mnie, że w każdej tej wsi jest przystanek autobusowy. Oczywiście
 Gdy doszedłem do [Goworowa][wiki-goworow] pogoda powoli zaczęła się poprawiać. Ruszyłem
 drogą do [Międzylesia][wiki-miedzylesie] i w ciągu pół godziny chmur już prawie nie było.
 
-{% photo "IMGP8235raw1.jpg","Widok na Masyw Śnieżnika" %}
+{% photo "IMGP8235raw1.jpg","Widok na Masyw Śnieżnika","tag:winter,tag:mountains" %}
 
 Zastanawiałem się, którym pociągiem będę wracać i planowałem jak najlepiej wykorzystać
 czas.
 
-{% photo "IMGP8335raw1.jpg","Trzecie powrót do Międzylesia" %}
+{% photo "IMGP8335raw1.jpg","Trzeci powrót do Międzylesia","tag:sunrise,tag:winter" %}
 
 Dotarłem do [zamku][wiki-zamek-miedzylesie] gdzie zjadłem coś ciepłego i po tym
 ruszyłym niebieskim szlakiem pieszym. Pamiętałem, że jest on położony przez lekkie
@@ -113,7 +115,7 @@ wzgórze nad [Międzylesiem][wiki-miedzylesie]. Prawie idealne miejsce na zdjęc
 Wyruszyłem powoli robiąc dość dużo zdjęć, korzystając z pogody i powoli zachodzącego
 słońca. W [Szklarni][wiki-szklarnia] zacząłem wracać tą samą trasą.
 
-{% photo "IMGP8390raw1.jpg","Ostatnie promienie słoneczne" %}
+{% photo "IMGP8390raw1.jpg","Ostatnie promienie słoneczne","tag:good,tag:winter,tag:sunrise" %}
 
 Niestety pojawiła się duża chmura, która blokowała przez pewien czas światło.
 Zrozumiałem również, że południowe [Góry Bystrzyckie][wiki-bystrzyckie] i

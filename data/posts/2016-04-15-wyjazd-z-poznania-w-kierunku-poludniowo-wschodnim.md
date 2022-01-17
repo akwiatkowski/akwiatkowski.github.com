@@ -5,7 +5,6 @@ subtitle:               "nie udało się dojechać ani do Kórnika, ani do Środ
 date:                   2016-04-15 13:00:00
 finished_at:            2016-04-19 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/149930057/q%3D80_m%3D2000/02947906efa7be5804909a200beb18e3"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, poznan, kleszczewo, kornik]
@@ -27,6 +26,8 @@ time_spent:             3
 [wiki-malta]:            https://pl.wikipedia.org/wiki/Jezioro_Malta%C5%84skie
 [wiki-tulce]:            https://pl.wikipedia.org/wiki/Tulce
 [wiki-gadki]:            https://pl.wikipedia.org/wiki/G%C4%85dki
+
+{% photo_header "Wyjazd z Tulców","tag:countryside" %}
 
 Wstęp
 -----

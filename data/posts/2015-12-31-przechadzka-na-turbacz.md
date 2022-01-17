@@ -28,6 +28,7 @@ time_spent:             7
 [wiki-turbacz]:         https://pl.wikipedia.org/wiki/Turbacz
 [wiki-tatry]:           https://pl.wikipedia.org/wiki/Tatry
 
+{% photo_header "Sylwestrowe ognie","tag:night" %}
 
 Wstęp
 -----
@@ -53,7 +54,7 @@ Sceneria te sama, oraz jeszcze uczę się używać Sigmy 150-500mm.
 Wyruszyliśmy dość późno, ale "po śniadaniu". Prawie od razu spotkaliśmy gromadę
 owiec, która poruszała się w kierunku [schroniska][wiki-maciejowa].
 
-{% photo "IMGP6836raw1.jpg","Długie cienie w dolinie" %}
+{% photo "IMGP6836raw1.jpg","Długie cienie w dolinie","tag:mountains" %}
 
 Droga była mocno zmarznięta, a wszystkie kałuże były tak zamarznięte, że trudno
 było złamać lód. Z drugiej strony dobra pogoda, wyż i soczyście niebieskie niebo
@@ -72,16 +73,7 @@ powrót do [bazy][wiki-maciejowa]. Tłumów dużych nie było, wydaję mi się, 
 Zastanawiam się, jak zimno było rowerzystom, którzy przyjechali na
 [Turbacz][wiki-turbacz] tego dnia.
 
-{% photo "IMGP7048raw1.jpg","Babia Góra","tag:timeline" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/140613147/m%3D900/fea86be28dd81642846429e9449ce517' alt='Babia Góra and return from Turbacz by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/140613147/babia-g%C3%B3ra-and-return-from-turbacz-by-aleksander-kwiatkowski' alt='Babia Góra and return from Turbacz by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP7048raw1.jpg","Widok na Babią Górę","tag:timeline,tag:mountains" %}
 
 Końcówkę trasy przeszliśmy po zmroku. Chyba z ponad 30 minut szliśmy na czołówce. Byliśmy
 wyraźnie zmęczeni, a przecież jeszcze impreza sylwestrowa się szykowała.

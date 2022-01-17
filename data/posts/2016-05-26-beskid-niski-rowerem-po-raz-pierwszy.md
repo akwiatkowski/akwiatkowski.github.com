@@ -46,6 +46,9 @@ pois:
 [wiki-rozstajne]:                 https://pl.wikipedia.org/wiki/Rozstajne
 [wiki-grab]:                      https://pl.wikipedia.org/wiki/Grab_(wojew%C3%B3dztwo_podkarpackie)  
 
+{% photo_header "Zapomniana wieś","tag:timeline,tag:spring" %}
+
+
 Wstęp
 -----
 
@@ -53,13 +56,13 @@ Pierwszy raz w [Beskidzie Niskim][wiki-beskid-niski] byłem w 2012 roku. Trochę
 od tego momentu minęło. W międzyczasie planowałem dłuższą wycieczkę z sakwami po tym
 paśmie. Niestety się nie udało.
 
-{% photo "IMGP0536raw1.jpg","Idealne rowerowe górki niedaleko Tarnowa" %}
+{% photo "IMGP0536raw1.jpg","Idealne rowerowe górki niedaleko Tarnowa","tag:mountains" %}
 
 Planowaliśmy w okolice Bożego Ciała wyruszyć na pętle wokół Tatr, jednak niepewna
 pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górskie pasmo
 Polski.
 
-{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline" %}
+{% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline,tag:mountains,tag:countryside,tag:spring" %}
 
 
 Opis trasy
@@ -85,7 +88,7 @@ a rzeka w tym miejscu jest raczej szeroka. Udało mi się przejechać, jednak bu
 miałem solidnie przemoczone (co nie jest jakimś wielkim wyczynem).
 Było ciepło, więc to mi nie przeszkadzało.
 
-{% photo "IMGP0606raw1.jpg","Niebieska kapliczka" %}
+{% photo "IMGP0606raw1.jpg","Niebieska kapliczka","tag:countryside" %}
 
 Jechałem dalej lekkim podjazdem. Mijałem łąki po drodzę, później jakieś zabudowania.
 Było to raczej kilka domów, które na mapach nazywane jest
@@ -102,7 +105,7 @@ pierwszeństwo. Podjechaliśmy pod [Wisłokę][wiki-wisloka], gdyż chciałem po
 reszcie przejazd przez rzekę. Dopiero w tym momencie zauważyłem most wiszący obok,
 którym mógłbym przeprowadzić rower.
 
-{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","tag:timeline" %}
+{% photo "IMGP0621raw1.jpg","Niedostępne miejsce","tag:timeline,tag:countryside" %}
 
 Krzychu miał jedną przygodę z rzeką, a Ewa miała aż dwie. Szczegółów tutaj nie będę
 opisywał.
@@ -110,7 +113,7 @@ opisywał.
 Jechaliśmy dalej na wschód w stronę [Polan][wiki-polany] mijając chyba dwa drewniane
 mosty i beskidzkie polany, wioski i kościoły. Minęliśmy również krowy i owce.
 
-{% photo "IMGP0649raw1.jpg","Klasyczna zielona polana" %}
+{% photo "IMGP0649raw1.jpg","Klasyczna zielona polana","tag:spring" %}
 
 Dojechaliśmy do schroniska [Hajstra][schronisko-hajstra].
 Problematyczne było dostanie się za dolinę [Ciechanii][wiki-ciechania], gdyż
@@ -122,7 +125,7 @@ Większość zjazdu było przez las.
 Niestety podczas ostatniej części zjazdu kropla błota spadła na kamerkę, co
 jest widoczne cały czas na filmie.
 
-{% photo "IMGP0662raw1.jpg","Zielony Beskid Niski","tag:timeline" %}
+{% photo "IMGP0662raw1.jpg","Zielony Beskid Niski","tag:timeline,tag:spring" %}
 
 Zrobiliśmy przerwę przy sklepie. Widzieliśmy w pewnym momencie jak drogą
 prowadzone jest małe stado krów. Zaczęliśmy wracać przez [Grab][wiki-grab]
@@ -130,4 +133,4 @@ i [Rozstajne][wiki-rozstajne]. Miałem wrażenie, że był to lekki zjazd gdyż
 łatwo było osiągać prędkość 30km/h.
 
 Co chwilę przy drodzę widzieliśmy
-tabliczki "Zwolnij, Ryś", czasem to byl niedźwiedź albo wilk.
+tabliczki "Zwolnij, Ryś", czasem to był niedźwiedź albo wilk.

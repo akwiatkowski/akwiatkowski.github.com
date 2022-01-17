@@ -25,6 +25,8 @@ time_spent:             4
 [wiki-szlak-kosciolow]: https://pl.wikipedia.org/wiki/Szlak_ko%C5%9Bcio%C5%82%C3%B3w_drewnianych_wok%C3%B3%C5%82_Puszczy_Zielonka
 [wiki-antoniewo]:       https://pl.wikipedia.org/wiki/Antoniewo_(osada_w_powiecie_w%C4%85growieckim)
 
+{% photo_header "Rzeka Dzwonówka" %}
+
 Wstęp
 -----
 
@@ -46,7 +48,7 @@ na lewą stronę drogi i za około pół kilometra szliśmy drogą gruntową. Na
 mapie jest to ulica Włókna, a według [wikipedii][wiki-potrzanowo] Włókna to
 folwark częsci [Potrzanowa][wiki-potrzanowo].
 
-{% photo "IMGP9231raw1.jpg","Droga gruntowa ze Sławy Wielkopolskiej","tag:timeline" %}
+{% photo "IMGP9231raw1.jpg","Droga gruntowa ze Sławy Wielkopolskiej","tag:timeline,tag:spring" %}
 
 Po prawej minęliśmy Jezioro Lisówka, a po lewej Jezioro Włókieńskie. Domki
 rekreacyjne są tam chyba przy każdym jeziorze. Ich ilość pokazuje, że
@@ -72,19 +74,19 @@ Jezioro Maciejak jest jednym z największych, widoczne bezpośrednio z ulicy
 Poznańskiej - głównej drogi przelotowej przez [Skoki][wiki-skoki].
 Zauważyliśmy, że byłoby to dobre miejsce na robienie zdjęć porannej mgły jesienią.
 
-{% photo "IMGP9278raw1.jpg","Jezioro Maciejak" %}
+{% photo "IMGP9278raw1.jpg","Jezioro Maciejak","tag:water" %}
 
 Przechodziliśmy przed rzeczką dopływającą do [Małej Wełny][wiki-mala-welna].
 Wysokie zbocze rzeki z jednej strony było bardzo interesujące.
 
-{% photo "IMGP9284raw1.jpg","Droga w kierunku Łoskonia Starego","tag:timeline" %}
+{% photo "IMGP9284raw1.jpg","Droga w kierunku Łoskonia Starego","tag:timeline,tag:good" %}
 
 Ruszyliśmy dalej w stronę [Skoków][wiki-skoki] kierując się do centrum,
 jednak szybko zboczyliśmy i szliśmy wokół [Małej Wełny][wiki-mala-welna]. Po
 chwili wydeptany szlak się skończył i musieliśmy skrócić przez podmokłą polanę.
 Przeszliśmy przez tory i skręciliśmy na południę.
 
-{% photo "IMGP9295raw1.jpg","Mała Wełna" %}
+{% photo "IMGP9295raw1.jpg","Mała Wełna / Dzwonówka" %}
 
 Dotarliśmy do [czarnego szlaku rowerowego][wiki-szlak-kosciolow] i szliśmy
 na wschód. Była to druga najładniejsza atrakcja dzisiejszego dnia. Po

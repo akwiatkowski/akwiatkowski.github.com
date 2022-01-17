@@ -18,6 +18,8 @@ time_spent:             12
 [wiki-duszniki]:          https://pl.wikipedia.org/wiki/Duszniki-Zdr%C3%B3j
 [wiki-klodzko]:           https://pl.wikipedia.org/wiki/K%C5%82odzko
 
+{% photo_header "Biały Zieleniec","tag:winter,tag:mountains" %}
+
 Wstęp
 -----
 
@@ -35,8 +37,6 @@ Wjeżdzaliśmy w trakcie zimy.
 [Zieleniec][wiki-zieleniec] okazał być się naprawdę solidną, jak na polskie warunki, miejscowością
 narciarską. Ogromny wybór tras i wyciągów, jak i odpowiedni chłodny klimat.
 
-{% photo "IMGP8422raw1.jpg","Śnieżny Zieleniec" %}
-
 Tam jest tylko pięć rodzajów obiektów:
 
 * noclegi
@@ -45,7 +45,7 @@ Tam jest tylko pięć rodzajów obiektów:
 * restauracje
 * wyciągi
 
-{% photo "IMGP8448raw1.jpg","Zieleniec popołudniem" %}
+{% photo "IMGP8448raw1.jpg","Zieleniec popołudniem","tag:winter" %}
 
 Widziałem dwa albo trzy sklepy, żadnej biedronki ani żabki. Sklepy tylko lokalne.
 
@@ -54,13 +54,13 @@ Widziałem dwa albo trzy sklepy, żadnej biedronki ani żabki. Sklepy tylko loka
 Dwa dni później zjechaliśmy autobusem do [Dusznik Zdrój][wiki-duszniki]. Po tym
 jak spadł solidny deszcz znacząco pogorszyły się warunki narciarskie.
 
-{% photo "IMGP8469raw1.jpg","Smutne domy w Dusznikach Zdrój" %}
+{% photo "IMGP8469raw1.jpg","Smutne domy w Dusznikach Zdrój","tag:ruin,tag:city,tag:town" %}
 
 Trochę pochodziliśmy po mieście, jednak zauważam, że skoro zimy nie ma dobrej to
 pozostaje czekać na wiosnę. Gdy się zazieleni będzie ładniej. Teraz
 było tak szaro o smutno.
 
-{% photo "IMGP8470raw1.jpg","Uliczka w Dusznikach Zdrój" %}
+{% photo "IMGP8470raw1.jpg","Uliczka w Dusznikach Zdrój","tag:ruin,tag:city,tag:town" %}
 
 Wracaliśmy pociągiem z [Dusznik][wiki-duszniki] przez [Kłodzko][wiki-klodzko] do
 Poznania.
