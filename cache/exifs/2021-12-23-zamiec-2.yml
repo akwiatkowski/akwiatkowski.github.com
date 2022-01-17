@@ -1,0 +1,631 @@
+---
+- image_filename: 2021_12_23__23_14_PC232538.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 5.24
+  iso: 640
+  width: 8153
+  height: 6063
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:14:14.000000000+01:00
+- image_filename: 2021_12_23__23_29_PC232552.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1.67
+  iso: 640
+  width: 6660
+  height: 5113
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:29:26.000000000+01:00
+- image_filename: 2021_12_24__00_41__C240529.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5115
+  height: 3806
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:41:05.000000000+01:00
+- image_filename: 2021_12_23__23_23_PC232544.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1000.0
+  iso: 640
+  width: 4689
+  height: 3852
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:23:10.000000000+01:00
+- image_filename: 2021_12_23__23_59__C230476.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5113
+  height: 3859
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:59:37.000000000+01:00
+- image_filename: 2021_12_24__00_05__C240484.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5228
+  height: 3895
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:05:39.000000000+01:00
+- image_filename: 2021_12_24__00_08__C240492.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 2000
+  width: 5197
+  height: 3880
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:08:45.000000000+01:00
+- image_filename: 2021_12_24__00_18__C240503.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5110
+  height: 3899
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:18:31.000000000+01:00
+- image_filename: 2021_12_23__23_56__C230471.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1600
+  width: 3775
+  height: 5227
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:56:08.000000000+01:00
+- image_filename: 2021_12_24__00_29__C240517.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5101
+  height: 3870
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:29:14.000000000+01:00
+- image_filename: 2021_12_24__00_06__C240487.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5100
+  height: 3804
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:06:27.000000000+01:00
+- image_filename: 2021_12_24__00_48__C240543.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5094
+  height: 3893
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:48:40.000000000+01:00
+- image_filename: 2021_12_24__00_00__C240478.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 4941
+  height: 3673
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24
+- image_filename: 2021_12_23__23_51__C230463.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 3778
+  height: 5203
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:51:03.000000000+01:00
+- image_filename: 2021_12_24__00_07__C240489.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5086
+  height: 3740
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:07:56.000000000+01:00
+- image_filename: 2021_12_23__23_52__C230467.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 1600
+  width: 5153
+  height: 3894
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:52:11.000000000+01:00
+- image_filename: 2021_12_24__00_52__C240547.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 4989
+  height: 3851
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:52:58.000000000+01:00
+- image_filename: 2021_12_23__23_27_PC232549.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 3.52
+  iso: 640
+  width: 7430
+  height: 6115
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:27:41.000000000+01:00
+- image_filename: 2021_12_23__23_55__C230469.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 2000
+  width: 5099
+  height: 3802
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:55:19.000000000+01:00
+- image_filename: 2021_12_24__00_03__C240481.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 2500
+  width: 5164
+  height: 3855
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:03:15.000000000+01:00
+- image_filename: 2021_12_23__23_14_PC232538_01.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 5.24
+  iso: 640
+  width: 8153
+  height: 6063
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:14:14.000000000+01:00
+- image_filename: 2021_12_24__00_08__C240494.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1600
+  width: 5046
+  height: 3858
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:08:59.000000000+01:00
+- image_filename: 2021_12_24__00_44__C240532.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5107
+  height: 3807
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:44:15.000000000+01:00
+- image_filename: 2021_12_23__22_53_PC232515.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 2.21
+  iso: 640
+  width: 5910
+  height: 5538
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 22:53:58.000000000+01:00
+- image_filename: 2021_12_23__22_36_PC232501.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38166666666667
+  lon: 16.915666666666667
+  altitude: 167.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4693
+  height: 3635
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 22:36:43.000000000+01:00
+- image_filename: 2021_12_23__22_39_PC232505.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.383069444444445
+  lon: 16.91701388888889
+  altitude: 89.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.2
+  exposure_string: 1/5 s
+  focus_distance: 24.64
+  iso: 640
+  width: 4036
+  height: 2973
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 22:39:54.000000000+01:00
+- image_filename: 2021_12_23__23_24_PC232546.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  focus_distance: 7.44
+  iso: 640
+  width: 7605
+  height: 6089
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:24:12.000000000+01:00
+- image_filename: 2021_12_23__23_51__C230466.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 2000
+  width: 5088
+  height: 3760
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:51:58.000000000+01:00
+- image_filename: 2021_12_24__00_47__C240538.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5099
+  height: 3869
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:47:27.000000000+01:00
+- image_filename: 2021_12_23__23_02_PC232524.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 12.8
+  iso: 640
+  width: 6051
+  height: 4775
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:02:24.000000000+01:00
+- image_filename: 2021_12_24__00_32__C240521.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5023
+  height: 3773
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-24 00:32:41.000000000+01:00
+- image_filename: 2021_12_23__23_43__C230460.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 1250
+  width: 5166
+  height: 3879
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  time: 2021-12-23 23:43:50.000000000+01:00
+- image_filename: 2021_12_23__23_52_PC232564.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 1.2
+  exposure: 0.1
+  exposure_string: 1/10 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7997
+  height: 6090
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:52:20.000000000+01:00
+- image_filename: 2021_12_23__23_10_PC232533.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 3.76
+  iso: 640
+  width: 6560
+  height: 5340
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 23:10:21.000000000+01:00
+- image_filename: 2021_12_23__22_50_PC232508.jpg
+  post_slug: 2021-12-23-zamiec-2
+  lat: 52.38655555555555
+  lon: 16.9165
+  altitude: 92.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1.29
+  iso: 640
+  width: 5004
+  height: 3763
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkIII
+  time: 2021-12-23 22:50:56.000000000+01:00

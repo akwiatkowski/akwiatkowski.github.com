@@ -1,0 +1,219 @@
+---
+- image_filename: header.jpg
+  post_slug: 2021-12-19-szare-owinska
+- image_filename: 2021_12_19__13_12_PC192281.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.50988888888889
+  lon: 16.97608333333333
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  focus_distance: 4.66
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:12:43.000000000+01:00
+- image_filename: 2021_12_19__13_11_PC192278.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.509861111111114
+  lon: 16.97611111111111
+  altitude: 70.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 5.19
+  iso: 200
+  width: 8192
+  height: 6126
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:11:42.000000000+01:00
+- image_filename: 2021_12_19__13_19_PC192288.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.511125
+  lon: 16.97761111111111
+  altitude: 72.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 3.81
+  iso: 200
+  width: 7252
+  height: 5534
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:19:44.000000000+01:00
+- image_filename: 2021_12_19__12_26_PC192238.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51170833333333
+  lon: 16.986666666666668
+  altitude: 70.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 17.66
+  iso: 200
+  width: 5150
+  height: 3793
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 12:26:26.000000000+01:00
+- image_filename: 2021_12_19__12_31_PC192242.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.512541666666664
+  lon: 16.981749999999998
+  altitude: 70.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 27.53
+  iso: 200
+  width: 5218
+  height: 3888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 12:31:53.000000000+01:00
+- image_filename: 2021_12_19__12_52_PC192257.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51361111111111
+  lon: 16.97373611111111
+  altitude: 67.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 17.07
+  iso: 200
+  width: 8077
+  height: 5964
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 12:52:16.000000000+01:00
+- image_filename: 2021_12_19__13_24_PC192291.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.509875
+  lon: 16.98184722222222
+  altitude: 79.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  focus_distance: 17.52
+  iso: 200
+  width: 7955
+  height: 5838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:24:27.000000000+01:00
+- image_filename: 2021_12_19__13_00_PC192270.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51018055555556
+  lon: 16.97213888888889
+  altitude: 62.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5172
+  height: 3861
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:00:52.000000000+01:00
+- image_filename: 2021_12_19__13_00_PC192269.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51038888888889
+  lon: 16.97209722222222
+  altitude: 63.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 5.24
+  iso: 200
+  width: 4223
+  height: 3614
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 13:00:23.000000000+01:00
+- image_filename: 2021_12_19__14_17_PC192300.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.511652777777776
+  lon: 16.987166666666667
+  altitude: 77.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 2.16
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 14:17:26.000000000+01:00
+- image_filename: 2021_12_19__12_35_PC192245.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51306944444445
+  lon: 16.979208333333332
+  altitude: 65.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 4.11
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 12:35:08.000000000+01:00
+- image_filename: 2021_12_19__12_45_PC192250.jpg
+  post_slug: 2021-12-19-szare-owinska
+  lat: 52.51451388888889
+  lon: 16.97584722222222
+  altitude: 65.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 3.27
+  iso: 200
+  width: 8034
+  height: 6120
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2021-12-19 12:45:47.000000000+01:00
