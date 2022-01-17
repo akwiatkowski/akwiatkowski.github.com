@@ -21,7 +21,7 @@ class Tremolite::Views::BaseView
     end
 
     # new, with string params
-    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\"/)
+    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\"\s*,\s*\"([^\"]+)\"\s*,\s*\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_photo(
         post: post,
@@ -32,7 +32,7 @@ class Tremolite::Views::BaseView
     end
 
     # new, w/o string params
-    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]+)\"/)
+    result = command.scan(/#{PHOTO_COMMAND}\s+\"([^\"]+)\"\s*,\s*\"([^\"]+)\"/)
     if result.size > 0 && post
       return post_photo(
         post: post,
@@ -44,7 +44,7 @@ class Tremolite::Views::BaseView
 
     # header photo command - add title, tags
     # used for creating portfolio page
-    result = command.scan(/#{HEADER_PHOTO_COMMAND}\s+\"([^\"]+)\",\"([^\"]*)\"/)
+    result = command.scan(/#{HEADER_PHOTO_COMMAND}\s+\"([^\"]+)\"\s*,\s*\"([^\"]*)\"/)
     if result.size > 0 && post
       return header_post_photo_attrs(
         post: post,

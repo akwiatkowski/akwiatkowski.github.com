@@ -70,6 +70,7 @@ struct PhotoEntity
     TAG_MOUNTAINS,
     TAG_SUNRISE,
     TAG_SPRING,
+    TAG_CITY,
   ].sort
 
   # https://fontawesome.com/

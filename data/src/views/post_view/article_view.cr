@@ -37,7 +37,7 @@ module PostView
     end
 
     # only Post view can process more complicated to allow
-    # use custom header image (from different post/article) 
+    # use custom header image (from different post/article)
     def image_url
       return @post.head_photo_entity.not_nil!.full_image_src
     end
