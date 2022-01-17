@@ -98,6 +98,7 @@ struct ExifEntity
   LENS_NAMES = {
     "FE 85mm F1.8"                                 => "Sony 85mm f1.8",
     "E 28-75mm F2.8-2.8"                           => "Tamron 28-75mm f2.8",
+    "E 70-180mm F2.8 A056"                         => "Tamron 70-180mm f2.8",
     "100-400mm F5-6.3 DG DN OS | Contemporary 020" => "Sigma 100-400mm f5-6.3",
     "LUMIX G VARIO 14-140/F3.5-5.6"                => "Lumix 14-140mm",
     "OLYMPUS M.12-100mm F4.0"                      => "Olympus 12-100mm f4",

@@ -6,6 +6,8 @@ class Tremolite::Post
   @detailed_routes : Array(PostRouteObject)?
   @routes_coord_range : CoordRange?
   @routes_coord_range_set : Bool?
+  @image_other_post_slug : String?
+  @head_photo_entity : PhotoEntity?
 
   def custom_initialize
     header_image_defaults
@@ -224,11 +226,26 @@ class Tremolite::Post
     @header_timeline = false
     # some new posts have phtos taken by M43/Olympus camera
     @image_format = DEFAULT_IMAGE_FORMAT
+    # 'end of year' posts can use header from other post
+    @image_other_post_slug = nil
 
     # most photos don't look good being centered
     # you can specify background position css style to fix it
     # https://www.w3schools.com/cssref/pr_background-position.asp
     @image_position = ""
+  end
+
+  # most of the time header photo is taken from same post
+  def header_post_photo_post
+    if @image_other_post_slug.nil?
+      return self
+    else
+      # find post using slug and
+      other_posts = @blog.post_collection.posts.select do |other_post|
+        other_post.slug == @image_other_post_slug.not_nil!
+      end
+      return other_posts.first.not_nil!
+    end
   end
 
   def header_post_photo_from_headers
@@ -238,6 +255,10 @@ class Tremolite::Post
       @image_filename = @image_filename.not_nil!.gsub(/\.jpg/, "") + ".jpg"
     else
       @image_filename = "header.jpg"
+    end
+
+    if @header["image_other_post_slug"]?
+      @image_other_post_slug = @header["image_other_post_slug"].to_s
     end
 
     # background image css position
@@ -261,7 +282,7 @@ class Tremolite::Post
       desc: @title,
       is_gallery: gallery?,
       is_timeline: @header_timeline.not_nil!,
-      post: self,
+      post: header_post_photo_post,
       param_string: "",
       is_header: true
     )

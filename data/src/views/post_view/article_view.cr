@@ -36,8 +36,10 @@ module PostView
       return load_html("post/header", data)
     end
 
+    # only Post view can process more complicated to allow
+    # use custom header image (from different post/article) 
     def image_url
-      @post.image_url
+      return @post.head_photo_entity.not_nil!.full_image_src
     end
 
     def post_article_html
