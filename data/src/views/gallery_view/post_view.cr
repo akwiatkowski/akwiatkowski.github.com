@@ -11,6 +11,7 @@ module GalleryView
       @title = @post.title.as(String)
       @subtitle = @post.subtitle.as(String)
       @url = @post.url.as(String) + GALLERY_URL_SUFFIX
+      @reverse = false
     end
 
     def page_desc

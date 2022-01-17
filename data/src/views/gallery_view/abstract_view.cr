@@ -4,6 +4,8 @@ module GalleryView
   class AbstractView < WiderPageView
     Log = ::Log.for(self)
 
+    @reverse : Bool?
+
     private def data_manager : Tremolite::DataManager
       return @blog.data_manager.not_nil!
     end
@@ -105,7 +107,9 @@ module GalleryView
         # `lg-enabled` enable light gallery for all
         s << "<div class=\"gallery-container flex-wrap lg-enabled\">\n"
 
-        @photo_entities.reverse.each do |photo_entity|
+        pes = @photo_entities
+        pes = pes.reverse if @reverse
+        pes.reverse.each do |photo_entity|
           s << load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
         end
 

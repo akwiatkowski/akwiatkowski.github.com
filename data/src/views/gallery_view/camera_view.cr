@@ -21,8 +21,8 @@ module GalleryView
 
       @title = @camera
       @camera_sanitized = @camera.gsub(/\s/, "_").downcase.as(String)
-
       @url = "/gallery/camera/#{@camera_sanitized}"
+      @reverse = true
     end
   end
 end

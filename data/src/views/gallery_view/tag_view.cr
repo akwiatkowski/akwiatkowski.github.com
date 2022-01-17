@@ -10,6 +10,7 @@ module GalleryView
       @photo_entities = photo_entities_with_tags(tags: @tags).as(Array(PhotoEntity))
       @title = data_manager["gallery.#{@tag}.title"].as(String)
       @url = "/gallery/#{@tag}"
+      @reverse = true
     end
   end
 end
