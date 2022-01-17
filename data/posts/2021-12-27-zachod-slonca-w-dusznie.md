@@ -3,7 +3,7 @@ layout:                 post
 title:                  "Zachód słońca w Dusznie"
 subtitle:               "dzięki frontowi atmosferycznemu Polska dostała białe święta i prawdziwą zimę, to był ostatni dzień zimna"
 desc:                   "Na taką pogodę jaka była w Święta w 2021 czekałem od dawna. Niestety ten czas to moment spędzania czasu z rodziną dlatego nie mogłem wyruszyć w teren. Mając jeszcze dzień wolnego w poniedziałek ruszyłem na spacer na znany punkt widokowy."
-keywords:               []
+keywords:               [wydartowo, zima, zachód słońca, punkt widokowy duszno, duszno]
 date:                   2021-12-27 18:00:00
 finished_at:            2022-01-05 19:00:00
 author:                 "Aleksander Kwiatkowski"
