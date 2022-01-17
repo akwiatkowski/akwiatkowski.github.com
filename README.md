@@ -1,3 +1,4 @@
+
 # odkrywajac_polske
 
 This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
@@ -37,7 +38,11 @@ This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
   * [ ] Clean photo_maps structure
   * [ ] Move navigation related but processable elements to cache, render only at full render to
         make post update renders super fast
-  * [ ] Add diff to check what has changed (stream or temp file)     
+  * [ ] Add diff to check what has changed (stream or temp file)
+  * [ ] `nogallery` should be removed and also regular full-gallery
+  * [ ] Fix duplicated photos: header and regular filename
+  * [ ] Gallery rendered - browser like
+  * [ ] Move `header_timeline` markdown flag for photo timeline to tags by using `photo_header`
 
 ## Installation
 
