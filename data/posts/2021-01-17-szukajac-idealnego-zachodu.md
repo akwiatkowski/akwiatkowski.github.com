@@ -49,7 +49,7 @@ W moim przypadku też trochę było kombinacji aby wszystko było bezpieczne i z
 z prawem. Tak jak przyroda nie jest wystarczająco wymagająca tak człowiek
 musi jeszcze sobie utrudniać.
 
-{% photo "2021_01_17__12_40_DSC03243.jpg","Zimowe Sokoliki z pociągu" %}
+{% photo "2021_01_17__12_40_DSC03243.jpg","Zimowe Sokoliki z pociągu","tag:winter" %}
 
 ## Opis trasy
 
@@ -66,7 +66,7 @@ Niestety przewrotna pogoda zmusiła nas do zmiany planów. I tak musiałem z
 [Jeleniej Góry][wiki-jelenia-gora] *przedostać się* w miejsce, gdzie będzie
 większa szansa na bezchmurne niebo.
 
-{% photo "2021_01_17__15_45_DSC03987.jpg","Okolica Białego Kościoła" %}
+{% photo "2021_01_17__15_45_DSC03987.jpg","Okolica Białego Kościoła","tag:winter" %}
 
 Szukałem takiego miejsca wzdłuż [linii kolejowej 276][wiki-linia-276] gdzie ciekawe
 ukształtowanie terenu byłoby w bliskiej odległości od stacji kolejowej.
@@ -93,7 +93,7 @@ Trochę się tego obawiałem ale po poprzednim dniu byłem spokojny. Wiedziałem
 Zbliżaliśmy się do wsi [Lipa][wiki-lipa]. Krajobraz był pofalowany jednak
 nie wiem czy wystarczająco do tego co chciałem osiągnąć.
 
-{% photo "2021_01_17__16_36_DSC04246.jpg","Zimowy zachód (1)" %}
+{% photo "2021_01_17__16_36_DSC04246.jpg","Zimowy zachód (1)","tag:winter" %}
 
 Brakowało jakiegoś charakterystycznego punktu, najlepiej jakieś wieży widokowej
 z której miałbym lepszy widok.
@@ -103,7 +103,7 @@ z której miałbym lepszy widok.
 Pierwszym "miejscem widokowym" była górka przed [wsią][wiki-lipa].
 Kolejnym punktem była ścieżka na południe.
 
-{% photo "2021_01_17__16_50_DSC04313_01.jpg","Zimowy spokój","tag:good,tag:best" %}
+{% photo "2021_01_17__16_50_DSC04313_01.jpg","Zimowy spokój","tag:good,tag:best,tag:winter,tag:sunrise" %}
 
 Był tam jakiś szlak pieszy ale nie zapamiętałem jego koloru. Chyba nie jest
 on tak istotny.
@@ -129,7 +129,7 @@ kraniec. Wyglądało to ciekawie, jednak trudno było mi zrobić odpowiednie
 zdjęcie. Okazuje się, że nawet 400mm to za mała ogniskowa
 jeżeli chce się zrobić zdjęcie fragmentu krajobrazu.
 
-{% photo "2021_01_17__17_45__1177812.jpg","W stronę centrum Ziębic" %}
+{% photo "2021_01_17__17_45__1177812.jpg","W stronę centrum Ziębic","tag:city" %}
 
 Zostało nam ponad godzina do odjazdu pociągu powrotnego. Ruszyliśmy
 w stronę stacji.
@@ -140,7 +140,7 @@ Nie chcąc czekać na stacji znalazłem restauracje w centrum. Dokładnie tą
 samą, która uratowała mnie od głodu
 [w lipcu 2018]({% post_url 2018-07-08-wschodnie-przedgorze-sudeckie %}).
 
-{% photo "2021_01_17__17_53__1177830.jpg","Rynek w Ziębicach" %}
+{% photo "2021_01_17__17_53__1177830.jpg","Rynek w Ziębicach","tag:city" %}
 
 Planowałem kiedyś odwiedzić [Ziębice][wiki-ziebice] podczas
 *prawdziwej zimy*. Może to nie był najlepszy dzień ale chyba

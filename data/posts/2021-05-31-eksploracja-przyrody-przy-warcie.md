@@ -81,7 +81,7 @@ Następnym razem, gdy tu przyjadę, to wysiądę w [Chociczy][wiki-chocicza] gdy
 sam osobiście nie bardzo lubię przechodzić przez mosty, nie wiedząc czy jest to
 w pełni legalne.
 
-{% photo "2021_05_31__17_32__5318045.jpg","Rzeka Warta" %}
+{% photo "2021_05_31__17_32__5318045.jpg","Rzeka Warta","tag:good" %}
 
 Zatrzymaliśmy się w jednym miejscu słuchając [trzciniaka][wiki-trzciniak].
 

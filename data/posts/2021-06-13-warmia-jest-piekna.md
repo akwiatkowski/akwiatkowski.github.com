@@ -141,7 +141,7 @@ Gdy wjeżdżałem na otwartą przestrzeń czułem silny wiatr w kierunku połudn
 We wsi [Frączki][wiki-fraczki] miałem wrażenie jakby czas się tutaj zatrzymał
 i żyło się wyraźnie wolniej.
 
-{% photo "2021_06_13__12_01__6132615.jpg","Kolory wiosny","tag:timeline" %}
+{% photo "2021_06_13__12_01__6132615.jpg","Kolory wiosny","tag:timeline,tag:good" %}
 
 Spodobał mi się przystanek autobusowy we wsi [Derc][wiki-derc]. Szlak rowerowy
 zielony kierował drogą gruntową przez [Lekity][wiki-lekity], jednak ja
@@ -163,7 +163,7 @@ wybierać drogi wojewódzkiej.
 Miałem sporo opcji do wyboru na bezpieczne zboczenie z trasy i jazdę po spokojniejszych
 drogach.
 
-{% photo "2021_06_13__12_11__6132629.jpg","Rodzina łabędzi","tag:wildlife" %}
+{% photo "2021_06_13__12_11__6132629.jpg","Rodzina łabędzi","tag:wildlife,tag:bird" %}
 
 Przejechałem przez rozebrany przejazd torów kolejowych [linii 224][wiki-linia-224] z
 [Czerwonki][wiki-czerwonka] do [Kornieva][wiki-kornievo]

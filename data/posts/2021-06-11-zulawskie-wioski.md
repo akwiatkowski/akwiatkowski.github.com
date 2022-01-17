@@ -95,7 +95,7 @@ Pociąg nie nadrobił opóźnienia. W [Tczewie][wiki-tczew] zdążyłem na poci�
 osobowy przez jego opóźnienie. Może też bym zdążył bez opóźnienia ale nie
 jest to pewne. Pociąg osobowy był znacznie fajniejszy dla rowerów.
 
-{% photo "2021_06_11__19_56__6111481.jpg","Stary dom" %}
+{% photo "2021_06_11__19_56__6111481.jpg","Stary dom","tag:old" %}
 
 Podobał mi się widok na wschodni brzeg [Wisły][wiki-rzeka-wisla].
 W [Malborku][wiki-malbork] dołączyły dwie osoby do mnie. Mogłem jechać
@@ -144,13 +144,13 @@ ciekawym rezerwatem.
 Dotarłem do miasta. Podjechałem na dworzec kolejowy aby odebrać Aleksa i
 ruszyliśmy w stronę noclegu.
 
-{% photo "2021_06_11__20_59__6111577.jpg","Rzeka Tina" %}
+{% photo "2021_06_11__20_59__6111577.jpg","Rzeka Tina","tag:good" %}
 
 ### Noc w Elblągu
 
 Nasz nocleg był oddalony 2-3km od centrum dlatego zamówiliśmy taksówkę.
 
-{% photo "2021_06_11__22_31__6110004.jpg","Centrum Elbląga" %}
+{% photo "2021_06_11__22_31__6110004.jpg","Centrum Elbląga","tag:night,tag:city" %}
 
 Szukaliśmy miejsca aby zjeść i zobaczyć co jest ciekawego w centrum.
 Sam zamówiłem trochę więcej jedzenia bo nigdy nie wiadomo co kolejny dzień przyniesie.

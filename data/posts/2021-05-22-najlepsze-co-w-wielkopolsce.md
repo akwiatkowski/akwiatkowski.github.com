@@ -165,7 +165,7 @@ czasu aby poszukać plaży.
 
 {% photo "2021_05_22__16_33__5226255.jpg","Widok z wieży widokowej w Świechocinie","tag:good" %}
 
-{% photo "2021_05_22__16_34__5226267.jpg","Widok na wieś Świechocin" %}
+{% photo "2021_05_22__16_34__5226267.jpg","Widok na wieś Świechocin","tag:countryside" %}
 
 Zrobiliśmy krótką przerwę przy sklepie. To był drugi sklep odwiedzony tego dnia.
 Przekonał mnie napis "hot-dogi" na szyldzie ale okazało się, że jest on
@@ -276,7 +276,7 @@ Normalnie byśmy dalej jechali przez [Chrzypsko Wielkie][wiki-chrzypsko-wielkie]
 ale chciałem jechać najszybszą drogą do [Wronek][wiki-wronki],
 zwłaszcza gdy była ona inna niż jak do tej pory jechałem.
 
-{% photo "2021_05_22__18_43__5226452.jpg","Idealny kolor zboża","tag:timeline" %}
+{% photo "2021_05_22__18_43__5226452.jpg","Idealny kolor zboża","tag:timeline,tag:good" %}
 
 Wjechaliśmy do [Jabłonowa][wiki-jablonowo] i ta miejscowość mi się
 bardzo podobała, miała swój klimat.

@@ -79,7 +79,7 @@ podczas zamieci, tylko że trudno teraz taką zamieć zobaczyć.
 Trzeba czekać za kolejnymi ekstremalnymi warunkami pogodowymi, które kiedyś
 nastąpią i wtedy być gotowym aby wykorzystać okazję.
 
-{% photo "2021_01_16__11_57_DSC02824.jpg","Okolice Boguszowa-Gorce" %}
+{% photo "2021_01_16__11_57_DSC02824.jpg","Okolice Boguszowa-Gorce","tag:winter" %}
 
 Wysiedliśmy w [Janowicach Wielkich][wiki-janowice-wielkie]. Śnieg padał solidnie.
 
@@ -113,11 +113,11 @@ pałac, a następnie wkroczyliśmy na ścieżkę gruntową.
 Wszystko było zasypane śniegiem. Ta okolica wyglądała tak jak zawsze powinna
 wyglądać w czasie kalendarzowej zimy.
 
-{% photo "2021_01_16__13_13_DSC03000.jpg","Śnieżny krajobraz" %}
+{% photo "2021_01_16__13_13_DSC03000.jpg","Śnieżny krajobraz","tag:winter" %}
 
 Krajobraz był mało urozmaicony ale jak odmienny od tego, co na ogół się widzi.
 
-{% photo "2021_01_16__13_53__1167538.jpg","Na skraju zimowego lasu" %}
+{% photo "2021_01_16__13_53__1167538.jpg","Na skraju zimowego lasu","tag:winter" %}
 
 Kierowaliśmy się w stronę [Trzcińska][wiki-trzcinsko] widząc po lewej
 [Sokoliki][wiki-gory-sokole] schowane za padającym śniegiem.
@@ -136,7 +136,7 @@ Zacząłem szukać odpowiedniego miejsce. Jak się okazało (po fakcie)
 szybko poruszający się pociąg zabiera ze sobą ogromne ilości śniegu
 i nie da się zrobić zdjęcia "od tyłu" gdyż pociągu wtedy już nie widać.
 
-{% photo "2021_01_16__15_23_DSC03129.jpg","Prawie udane zdjęcie pociągu" %}
+{% photo "2021_01_16__15_23_DSC03129.jpg","Prawie udane zdjęcie pociągu","tag:train" %}
 
 Natomiast aby zrobić zdjęcie "z przodu" trzeba mieć lepsze miejsce - gdzieś
 gdzie jest mniej słupów, albo być bliżej. Ja się obawiałem zbliżać.
@@ -147,7 +147,7 @@ Uderzenie śniegiem było odczuwalne ale też było miłym doświadczeniem.
 Kierowaliśmy się do przystanku kolejowego przechodząc przez
 całe [Trzcińsko][wiki-trzcinsko].
 
-{% photo "2021_01_16__15_35_DSC03174.jpg","Napotkany rudzik" %}
+{% photo "2021_01_16__15_35_DSC03174.jpg","Napotkany rudzik","tag:bird" %}
 
 Zobaczyłem [rudzika][wiki-rudzik] tuż przed tym jak się poślizgnąłem
 na oblodzonej drodze.

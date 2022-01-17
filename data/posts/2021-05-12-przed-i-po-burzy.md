@@ -70,7 +70,7 @@ zamiast patrzyć na ekran to patrzyć na drzewa, zieleń.
 
 Usłyszałem grzmoty i delikatnie zaczęło padać. Burza na szczęście przeszła obok.
 
-{% photo "2021_05_12__19_36__5125636-hdr.jpg","Zalew Kowalski z Jerzykowa","tag:good" %}
+{% photo "2021_05_12__19_36__5125636-hdr.jpg","Zalew Kowalski z Jerzykowa","tag:good,tag:water" %}
 
 Miałem przy sobie miernik pola elektromagnetycznego
 i sprawdzałem jakie jest ono w okolicy słupów. Pod słupem wysokiego napięcia
@@ -79,7 +79,7 @@ napięcia dochodziło do ok 400V/m.
 
 Wartości szybko się zmniejszały. Wystarczyły dwa kroki i wartość spadała prawie o połowę.
 
-{% photo "2021_05_12__19_40__5125668.jpg","Zachód słońca w Jerzykowie" %}
+{% photo "2021_05_12__19_40__5125668.jpg","Zachód słońca w Jerzykowie","tag:water,tag:sunrise" %}
 
 Pojechaliśmy w stronę wsi [Kołata][wiki-kolata] zobaczyć miejsca, gdzie jeszcze nie byłem.
 Przy wykopanym stawie nagrałem dźwięki żab, chociaż mogę się mylić i ten dziwny dźwięk
