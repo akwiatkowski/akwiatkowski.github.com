@@ -337,6 +337,8 @@ class ExifStat::ExifLensCoverage
 
   def photo_kit_coverage_data
     total_count = @stats_struct.count
+    total_count = 1 if total_count == 0
+
     # calculate lens usefulness stats
     ls_calculated = LENSES_ARRAY.map do |lens_hash|
       lens_count = @stats_struct.count_between_focal35(

@@ -47,7 +47,7 @@ module GalleryView
         s << "<ul>\n"
         @camera_renderers_with_content.each do |renderer|
           s << "<li>"
-          s << "<a href=\"#{renderer.url}\">#{renderer.title}</a> - #{renderer.photo_entities_count}"
+          s << "<a href=\"#{renderer.url}\">#{renderer.title}</a> - #{renderer.photo_entities_count} zdjęć"
           s << "</li>\n"
         end
         s << "</ul>\n"

@@ -25,7 +25,8 @@ module GalleryView
       all_photos : Array(PhotoEntity) = all_published_photo_entities,
       tags : Array(String) = Array(String).new,
       include_headers : Bool = false,
-      fill_until : Int32 = 0
+      fill_until : Int32 = 0,
+      limit : Int32? = nil
     )
       preselected_photos = all_photos.select do |p|
         # filter by tag
@@ -39,9 +40,6 @@ module GalleryView
 
       # fill additional photos when there are no good enough good,best photos
       if preselected_photos.size < fill_until
-        puts "** fill_until #{fill_until}"
-        puts "** preselected_photos #{preselected_photos.size}"
-
         # take not included photos, sorted by using super-algorithm
         sorted_photos = (all_photos - preselected_photos).sort do |pa, pb|
           pa.factor_for_gallery_fill <=> pb.factor_for_gallery_fill
@@ -54,7 +52,11 @@ module GalleryView
         preselected_photos = preselected_photos.sort
       end
 
-      return preselected_photos
+      if limit
+        return preselected_photos[0..limit.not_nil!]
+      else
+        return preselected_photos
+      end
     end
 
     def image_url
@@ -108,8 +110,8 @@ module GalleryView
         s << "<div class=\"gallery-container flex-wrap lg-enabled\">\n"
 
         pes = @photo_entities
-        pes = pes.reverse if @reverse
-        pes.reverse.each do |photo_entity|
+        pes = pes.reverse if @reverse == true
+        pes.each do |photo_entity|
           s << load_html("gallery/gallery_post_image", photo_entity.hash_for_partial)
         end
 
