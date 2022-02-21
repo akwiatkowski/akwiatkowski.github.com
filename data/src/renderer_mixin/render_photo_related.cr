@@ -63,7 +63,7 @@ module RendererMixin::RenderPhotoRelated
 
     index_view = GalleryView::TagIndexView.new(
       blog: blog,
-      tag_renderers: tag_renderers
+      renderers: tag_renderers
     )
     write_output(index_view)
 
@@ -90,7 +90,7 @@ module RendererMixin::RenderPhotoRelated
 
     index_view = GalleryView::LensIndexView.new(
       blog: blog,
-      lens_renderers: lens_renderers
+      renderers: lens_renderers
     )
     write_output(index_view)
   end
@@ -122,7 +122,7 @@ module RendererMixin::RenderPhotoRelated
 
     index_view = GalleryView::CameraIndexView.new(
       blog: blog,
-      camera_renderers: camera_renderers
+      renderers: camera_renderers
     )
     write_output(index_view)
   end
