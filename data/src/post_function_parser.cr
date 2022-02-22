@@ -177,14 +177,7 @@ class Tremolite::Views::BaseView
     )
 
     if exif
-      exif_string = String.build do |s|
-        s << "#{exif.camera_name}, " if exif.camera_name.to_s.strip != ""
-        s << "#{exif.lens_name}, " if exif.lens_name.to_s.strip != ""
-        s << "#{exif.focal_length.not_nil!.to_i}mm " if exif.focal_length.to_s.strip != ""
-        s << "f#{exif.aperture} " if exif.aperture.to_s.strip != "" && exif.aperture.not_nil!.to_f > 0.1
-        s << "#{exif.exposure_string} " if exif.exposure_string.to_s.strip != ""
-        s << "ISO#{exif.iso} " if exif.iso.to_s.strip != ""
-      end
+      exif_string = exif.not_nil!.exif_string
     else
       exif_string = ""
     end

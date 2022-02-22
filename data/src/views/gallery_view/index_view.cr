@@ -14,8 +14,7 @@ module GalleryView
       @url = "/gallery"
     end
 
-    # main params of this page
-    def title
+    def subtitle
       @blog.data_manager.not_nil!["gallery.subtitle"]
     end
 
