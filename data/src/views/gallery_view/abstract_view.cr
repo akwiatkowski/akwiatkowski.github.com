@@ -81,8 +81,13 @@ module GalleryView
       return @photo_entities.size
     end
 
-    def latest_photo_entity
-      return @photo_entities.first
+    def latest_photo_entity_for_header
+      horizontal_pes = @photo_entities.select { |pe| pe.exif.is_horizontal? }
+      if horizontal_pes.size > 0
+        return horizontal_pes.first
+      else
+        return @photo_entities.first
+      end
     end
 
     # photos will be rendered not within `container` class

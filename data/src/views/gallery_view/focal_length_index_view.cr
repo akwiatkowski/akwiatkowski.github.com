@@ -20,12 +20,12 @@ module GalleryView
       end.sum
 
       # TODO this can crash if there is 0 photos
-      latest_photo_entity = @filtered_renderers.sort do |a, b|
-        a.latest_photo_entity.time <=> b.latest_photo_entity.time
-      end.last.latest_photo_entity
+      latest_photo_entity_for_header = @filtered_renderers.sort do |a, b|
+        a.latest_photo_entity_for_header.time <=> b.latest_photo_entity_for_header.time
+      end.last.latest_photo_entity_for_header
 
       # TODO move to config file
-      @image_url = latest_photo_entity.full_image_src.as(String)
+      @image_url = latest_photo_entity_for_header.full_image_src.as(String)
       @subtitle = "#{count_sum} zdjęć"
       @title = "Ogniskowe"
 
