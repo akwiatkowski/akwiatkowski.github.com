@@ -27,7 +27,7 @@ module GalleryView
       # TODO move to config file
       @image_url = latest_photo_entity.full_image_src.as(String)
       @subtitle = "#{count_sum} zdjęć"
-      @title = "Naświetlenie"
+      @title = "Czasy naświetlenia"
 
       @url = "/gallery/exposure/"
     end

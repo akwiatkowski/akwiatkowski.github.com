@@ -2,8 +2,6 @@ require "../page_view"
 
 module GalleryView
   class AbstractIndexView < PageView
-    Log = ::Log.for(self)
-
     getter :image_url, :title, :subtitle, :year, :url, :renderers, :filtered_renderers
 
     def inner_html

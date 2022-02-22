@@ -21,15 +21,19 @@ module RendererMixin::RenderPhotoRelated
   # render only when exifs were loaded
   def render_all_photo_related
     tag_gallery_index_view = render_tag_galleries
-
-    render_lens_galleries
-    render_camera_galleries
-    render_focal_length_galleries
-    render_iso_galleries
-    render_exposure_galleries
+    lens_gallery_index_view = render_lens_galleries
+    camera_gallery_index_view = render_camera_galleries
+    focal_length_gallery_index_view = render_focal_length_galleries
+    iso_gallery_index_view = render_iso_galleries
+    exposure_gallery_index_view = render_exposure_galleries
 
     render_gallery_index(
-      tag_gallery_index_view: tag_gallery_index_view
+      tag_gallery_index_view: tag_gallery_index_view,
+      lens_gallery_index_view: lens_gallery_index_view,
+      camera_gallery_index_view: camera_gallery_index_view,
+      focal_length_gallery_index_view: focal_length_gallery_index_view,
+      iso_gallery_index_view: iso_gallery_index_view,
+      exposure_gallery_index_view: exposure_gallery_index_view,
     )
 
     render_gallery_stats # TODO check what it is
@@ -43,7 +47,12 @@ module RendererMixin::RenderPhotoRelated
     write_output(
       GalleryView::IndexView.new(
         blog: blog,
-        tag_gallery_index_view: args[:tag_gallery_index_view]
+        tag_gallery_index_view: args[:tag_gallery_index_view],
+        lens_gallery_index_view: args[:lens_gallery_index_view],
+        camera_gallery_index_view: args[:camera_gallery_index_view],
+        focal_length_gallery_index_view: args[:focal_length_gallery_index_view],
+        iso_gallery_index_view: args[:iso_gallery_index_view],
+        exposure_gallery_index_view: args[:exposure_gallery_index_view],
       )
     )
   end
@@ -93,6 +102,8 @@ module RendererMixin::RenderPhotoRelated
       renderers: lens_renderers
     )
     write_output(index_view)
+
+    return index_view
   end
 
   # fill camera/lens gallery to have at least
@@ -125,6 +136,8 @@ module RendererMixin::RenderPhotoRelated
       renderers: camera_renderers
     )
     write_output(index_view)
+
+    return index_view
   end
 
   def render_focal_length_galleries
@@ -170,6 +183,8 @@ module RendererMixin::RenderPhotoRelated
       renderers: renderers
     )
     write_output(index_view)
+
+    return index_view
   end
 
   def render_iso_galleries
@@ -204,6 +219,8 @@ module RendererMixin::RenderPhotoRelated
       renderers: renderers
     )
     write_output(index_view)
+
+    return index_view
   end
 
   def render_exposure_galleries
@@ -240,6 +257,8 @@ module RendererMixin::RenderPhotoRelated
       renderers: renderers
     )
     write_output(index_view)
+
+    return index_view
   end
 
   def render_gallery_stats
