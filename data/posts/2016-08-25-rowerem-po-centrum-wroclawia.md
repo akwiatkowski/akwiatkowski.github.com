@@ -6,7 +6,7 @@ date:                   2016-08-25 13:00:00
 finished_at:            2016-09-02 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_position:         50% 80%
+image_position:         50% 85%
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, wroclaw]
 
@@ -31,6 +31,8 @@ pois:
 [wiki-polit-wrocl]: https://pl.wikipedia.org/wiki/Politechnika_Wroc%C5%82awska
 [wiki-wyspa-piasek]: https://pl.wikipedia.org/wiki/Wyspa_Piasek_we_Wroc%C5%82awiu
 [wiki-wypska-slodowa]: https://pl.wikipedia.org/wiki/Wyspa_S%C5%82odowa
+
+{% photo_header "Most z kłódkami","tag:city" %}
 
 Wstęp
 -----
@@ -79,7 +81,7 @@ Michał zaproponował abyśmy pojeździli po centrum [Wrocławia][wiki-wroclaw].
 Ja osobiście nigdy nie byłem dalej niż okolica dworca dlatego uznałęm, że to
 może być dobrym pomysłem.
 
-{% photo "IMGP4942raw1.jpg","Okolicę katedtry" %}
+{% photo "IMGP4942raw1.jpg","Okolicę katedtry we Wrocławiu","tag:city" %}
 
 
 Przejechaliśmy przez:

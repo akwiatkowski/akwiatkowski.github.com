@@ -5,7 +5,6 @@ subtitle:               "Jezioro Wolsztyńskie i Berzyńskie, oraz obok rzeki Do
 date:                   2016-06-11 20:00:00
 finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/158416825/q%3D80_m%3D2000/206b49cfa7126755b5546fc3c02a16c0"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle]
@@ -29,6 +28,8 @@ time_spent:             3
 [wiki-bagno-chorzeminskie]: https://pl.wikipedia.org/wiki/Rezerwat_przyrody_Bagno_Chorzemi%C5%84skie
 [wiki-jez-berzynskie]: https://pl.wikipedia.org/wiki/Jezioro_Berzy%C5%84skie
 [wiki-berzyna]: https://pl.wikipedia.org/wiki/Berzyna
+
+{% photo_header "Jezioro Berzyńskie","tag:spring,tag:water" %}
 
 Wstęp
 -----
@@ -75,7 +76,7 @@ przejechałem przez tory tej linii kolejowej niedaleko Leśnych Domków obok
 Wracaliśmy już do [Wolsztyna][wiki-wolsztyn] jadąc drogą 32. Na szczęście po
 lewej stronie była droga pieszo-rowerowa.
 
-{% photo "IMGP1413raw1.jpg","Pola na północny-zachód od Wolsztyna" %}
+{% photo "IMGP1413raw1.jpg","Pola na północny-zachód od Wolsztyna","tag:timeline" %}
 
 Mieliśmy jeszcze trochę czasu i postanowiliśmy objechać
 [Jezioro Berzyńskie][wiki-jez-berzynskie]. Jezioro to jest idealne

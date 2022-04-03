@@ -5,7 +5,6 @@ subtitle:               "ale nikt nie mówił o błocie, niedokładnościach na 
 date:                   2016-08-20 21:00:00
 finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/169017253/q%3D80_m%3D2000/c8674dece586aa81e8e6250ffaf782bd"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [pomorskie, zachodnio_pomorskie, miastko, polanow, malechowo, sianow, mielno]
@@ -26,6 +25,8 @@ pois:
     name: Drąga z Kręgu do Sianowa.
 
 ---
+
+{% photo_header "Nad morzem, tuż przed deszczem","tag:water" %}
 
 [ump]: http://mapa.ump.waw.pl/ump-www/
 
@@ -80,7 +81,7 @@ lub tramwaj na torach niż zwykły pociąg.
 Jechał on przez ciekawy tereny. Ogrom lasów oraz rozpoczynające się pagórki. Ciekawe
 było umieszczenie linii telefonicznych obok torów.
 
-{% photo "IMGP4669raw1.jpg","Stacja kolejowa Kawcze" %}
+{% photo "IMGP4669raw1.jpg","Stacja kolejowa Kawcze","tag:rural" %}
 
 Wysiedliśmy we wsi [Kawcze][wiki-kawcze]. Uderzył mnie od razu zapach lasu.
 Możliwe że w okolicy był jakiś tartak.
@@ -88,7 +89,7 @@ Możliwe że w okolicy był jakiś tartak.
 Przez [Świerzno][wiki-swierzno] ruszyliśmy na zachód w stronę
 [Nowego Żeliborza][wiki-nowy-zeliborz].
 
-{% photo "IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza","tag:timeline" %}
+{% photo "IMGP4671raw1.jpg","Droga niedaleko Starego Żeliborza","tag:timeline,tag:summer,tag:road" %}
 
 W tamtej okolicy sytuacja zaczęła się komplikować. O tyle jak do tej pory jechaliśmy
 drogą o prawie zerowym ruchu, z gęsto posadzonymi drzewami na poboczu, tak teraz
@@ -104,7 +105,7 @@ Patrząc teraz na nagrane filmiki te tereny mogą być fajne jak jest odpowiedni
 oraz jak wcześniej była odpowiednia pogoda - nie padało,
 a dodatkowo nie ma się konkretnej długiej trasy do zrobienia.
 
-{% photo "IMGP4679raw1.jpg","Tutaj kończyła się droga" %}
+{% photo "IMGP4679raw1.jpg","Tutaj kończyła się droga","tag:rural" %}
 
 Przejechaliśmy drogą przez jedno gospodarstwo. Trudno ocenić czy jest to droga
 prywatna, czy tutaj jest tak dziko że nikomu nie przeszkadza jak się ma publiczną drogę
@@ -115,7 +116,7 @@ Jechaliśmy na północ obok Baraniej Góry (217 m n.p.m). Tam już asfaltu nie 
 była ziemia mniej lub bardziej ubita. Wokół sporo odpadów po wywożeniu drzewa
 oraz lekki spad powodował, że nie był to całkowicie niewinny zjazd.
 
-{% photo "IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki","tag:timeline" %}
+{% photo "IMGP4685raw1.jpg","Niedaleko rzeki Pustynki - widok na górki","tag:timeline,tag:summer" %}
 
 Wyjechaliśmy na polankę obok rzeki Pustynki, na horyzoncie widzieliśmy
 górki: Przelęki i Dziewcza Góra.
@@ -133,7 +134,7 @@ ale droga na północ jest poprowadzona przez krótki tunelik.
 Ruszyliśmy w stronę [Warblewa][wiki-warblewo] gdzie dołączyliśmy do szlaku rowerowego
 mając nadzieję, że to poprawi jakość naszej drogi.
 
-{% photo "IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte","tag:timeline" %}
+{% photo "IMGP4691raw1.jpg","Nie wszystkie drogi są równe - niektóre są zarośnięte","tag:timeline,tag:road" %}
 
 Przed Jeziorem Trzcińskim był lekki zjazd, niestety tutaj ziemia była
 najbardziej mokra. Opony zbierały glebę co znacząco zmniejszało zdolność do
@@ -164,7 +165,7 @@ na zboczu niewielkich górek.
 Teraz rozpoczęła
 się jazda przez wioski drogami o znikomym ruchu samochodowym.
 
-{% photo "IMGP4714raw1.jpg","Drzewa wokół drogi","tag:timeline" %}
+{% photo "IMGP4714raw1.jpg","Drzewa wokół drogi","tag:timeline,tag:summer,tag:road" %}
 
 Przed miejscowością [Laski][wiki-laski] gęste drzewa blokowały większość
 śłońca. Patrząc na mapę widzę, że kiedyś była tutaj linia kolejowa,
@@ -185,7 +186,7 @@ dzień jest drugim dniem z dobrą pogodą w tym miesiącu.
 Dalej jechaliśmy przez [Suchą Koszalińską][wiki-sucha-koszalinska] i
 [Osieki][wiki-osieki].
 
-{% photo "IMGP4733raw1.jpg","Jest woda (Morze Bałtyckie)" %}
+{% photo "IMGP4733raw1.jpg","Jest woda (Morze Bałtyckie)","tag:water" %}
 
 Poszliśmy na nadmorską plażę trochę na zachód od [Łazów][wiki-lazy].
 Tam mieliśmy z 30 minut na odpoczynek gdyż po tym czasie z zachodu

@@ -42,6 +42,8 @@ pois:
 [wiki-kaczyna]: https://pl.wikipedia.org/wiki/Kaczyna_(wojew%C3%B3dztwo_wielkopolskie)
 [wiki-pobiedziska-letniska]: https://pl.wikipedia.org/wiki/Pobiedziska_Letnisko
 
+{% photo_header "Jezioro Dębiniec w Promnie","" %}
+
 Wstęp
 -----
 

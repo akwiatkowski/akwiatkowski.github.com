@@ -5,8 +5,7 @@ subtitle:               "czyli spacerek z Wojanowa do Trzcińska"
 date:                   2016-10-26 11:00:00
 finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/179850687/q%3D80_m%3D2000/ca08afce204a325664e62f4ab92e19eb"
-header_timeline:        true
+image_position:         50% 65%
 categories:             trip
 tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, myslakowice, janowice_wielkie]
@@ -29,6 +28,8 @@ pois:
 [wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
 [wiki-bobrow]: https://pl.wikipedia.org/wiki/Bobr%C3%B3w_(powiat_jeleniog%C3%B3rski)
 
+{% photo_header "Podsudeckie krowy","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -49,13 +50,13 @@ Trzy dni wcześniej wedłu prognozy pogody tego dnia powinno obudzić mnie
 słońce. Niestety z dnia na dzień pogoda była aktualizowana i o słońcu mogłem
 zapomnieć. Z tego powodu nie spieszyłem się aby wstawać rano na wschód słońca.
 
-{% photo "IMGP8757raw1.jpg","Rzeka Bóbr","tag:timeline" %}
+{% photo "IMGP8757raw1.jpg","Rzeka Bóbr","tag:timeline,tag:autumn" %}
 
 Wyruszyłem chwilę po 9-tej i spacerkiem ruszyłem przez leniwe sudeckie
 wioski - chociaż przeszedłem tylko przez
 [Wojanów][wiki-wojanow], [Bobrów][wiki-bobrow] i [Trzcińsko][wiki-trzcinsko].
 
-{% photo "IMGP8761raw1.jpg","Jesienna droga do Trzcińska" %}
+{% photo "IMGP8761raw1.jpg","Jesienna droga do Trzcińska","tag:autumn,tag:timeline" %}
 
 Po drodzę zrobiłem kilka zdjęć, które postaram się tutaj wrzucić i zaktualizować
 opis tego dnia.

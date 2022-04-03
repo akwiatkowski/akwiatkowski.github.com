@@ -25,6 +25,8 @@ time_spent:             6
 [hotel]: http://www.herbariumhotel.pl/
 [grod-piasta]: http://grodpiasta.pl/
 
+{% photo_header "Teren hotelu w Chomiąży Szlacheckiej","" %}
+
 Wstęp
 -----
 

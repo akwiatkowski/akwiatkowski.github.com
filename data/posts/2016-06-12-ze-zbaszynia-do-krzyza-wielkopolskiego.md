@@ -6,7 +6,7 @@ date:                   2016-06-12 20:00:00
 finished_at:            2016-07-11 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_position:         50% 65%
+image_position:         50% 75%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, lubuskie, zbaszyn, trzciel, miedzichowo, pszczew, miedzychod, drezdenko, krzyz_wielkopolski]
 
@@ -48,6 +48,8 @@ pois:
 [wiki-krzyz]: https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
 [wiki-sierakow]: https://pl.wikipedia.org/wiki/Sieraków
 
+{% photo_header "W Puszczy Noteckiej","" %}
+
 Wstęp
 -----
 
@@ -84,8 +86,7 @@ obawą na chmury.
 
 W [Trzcielu][wiki-trzciel] podobały mi się stare domy w okolicach rynku.
 
-{% photo "IMGP1434raw1.jpg","Centrum miejscowości Trzciel" %}
-
+{% photo "IMGP1434raw1.jpg","Centrum Trzciela","tag:rural" %}
 
 Jechaliśmy dalej na północ niebieskim szlakiem rowerowym. Po lewej stronie minęliśmy
 stary żydowski cmentarz. To że był on żydowski wiemy z tabliczki.
@@ -102,7 +103,7 @@ bardzo dużo ładnych starych domów.
 Ciekawostką tej trasy była naprzemienna zmiana województw. Raz byliśmy w
 [wielkopolskim][wiki-wielkopolska], raz w [lubuskiem][wiki-lubuskie].
 
-{% photo "IMGP1443raw1.jpg","Opuszczony sklep niedaleko plaży" %}
+{% photo "IMGP1443raw1.jpg","Opuszczony sklep niedaleko plaży","tag:rural,tag:ruin" %}
 
 Czekała na nas kilkokilometrowa droga przez las. Na szczęście nie jechaliśmy
 w czasie upałów i piasek nie był takim problemem.
@@ -110,16 +111,14 @@ w czasie upałów i piasek nie był takim problemem.
 Kierowaliśmy się przez [Silną][wiki-silna] do [Pszczewa][wiki-pszczew] znowu jadąc
 przez głęboki las. Na szczęście tym razem był dobry asfalt.
 
-{% photo "IMGP1448raw1.jpg","Wrób przy Jeziorze Cegielnia obok Pszczewa" %}
-
+{% photo "IMGP1448raw1.jpg","Wróbel przy Jeziorze Cegielnia obok Pszczewa" %}
 
 W [Pszczewie][wiki-pszczew] zjechaliśmy w okolice jeziora Kochle i po chwili
 opuściliśmy tą miejscowość jadąc w stronę [Stoków][wiki-stoki]. Są one całkiem
 klimatyczną wioską. Jeżeli się nie mylę to jechaliśmy szlakiem rowerowym
 [R1][wiki-r1].
 
-{% photo "IMGP1449raw1.jpg","Jezioro Cegielnia obok Pszczewa" %}
-
+{% photo "IMGP1449raw1.jpg","Jezioro Cegielnia obok Pszczewa","tag:water" %}
 
 Gdy minęliśmy ostatnie zabudowania przywitała nas już droga gruntowa. Wydaję mi
 się, że ta droga robi się często piaszczysta. Już my mieliśmy czasami problem
@@ -128,7 +127,7 @@ aby jechać. Wokół drogi są lekko pofalowane pola.
 Mieliśmy lekki podjazd, ktory nie był problemem, a lekką pracą w celu otrzymania
 późniejszej nagrody. Nagrodą tą był fajny terenowy zjazd do [Dormowa][wiki-dormowo].
 
-{% photo "IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem","tag:timeline" %}
+{% photo "IMGP1453raw2.jpg","Pofalowane pola między Stokami a Dormowem","tag:timeline,tag:summer" %}
 
 Dojechaliśmy po pewnym czasie do lepszej drogi i kierowaliśmy się
 na północ w stronę [Międzychodu][wiki-miedzychod].

@@ -5,7 +5,6 @@ subtitle:               "wejście na wschód słońca i późniejsze włóczenie
 date:                   2016-12-29 17:00:00
 finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/190327035/q%3D80_m%3D2000/f96b1840189f36a1e0162fbf51ee0bb0"
 categories:             trip
 tags:                   [main, photo, hike, mountains, best]
 towns:                  [dolnoslaskie, kowary]
@@ -32,6 +31,8 @@ pois:
 [wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
 [wiki-karpacz]: https://pl.wikipedia.org/wiki/Karpacz
 
+{% photo_header "Wschód Słońca przy Małej Upie","tag:sunrise,tag:mountains,tag:good,tag:best" %}
+
 Wstęp
 -----
 
@@ -55,24 +56,22 @@ wysokości horyzontu) aby wykorzystać światła uliczne w dolinach.
 Okazało się, że już po podejściu 700 metrów od schroniska mieliśmy
 ciekawe widoki.
 
-{% photo "IMGP0708raw1.jpg","Tuż przed wschodem słońca","tag:timeline" %}
+{% photo "IMGP0708raw1.jpg","Tuż przed wschodem słońca","tag:mountains,tag:sunrise" %}
 
 O godzinie 7:56 Słońce zaczęło pojawiać się na horyzoncie.
 
-{% photo "IMGP0732raw1.jpg","Pierwsze promienie słońca" %}
+{% photo "IMGP0732raw1.jpg","Pierwsze promienie słońca","tag:sunrise,tag:mountains,tag:good" %}
 
 Bardzo szybko Słońce zaczęło malować wszystko w na kolor czerwono. Drzewa były ośnieżone
 przez wiatr wiejący dzień wcześniej. W okolicy jest sztucznie naśnieżany stok narciarski
 i bardzo możliwe, że trochę tego śniegu teraz było na drzewach.
 
-{% photo "IMGP0741raw1.jpg","Pełnia wschodu" %}
+{% photo "IMGP0741raw1.jpg","Pełnia wschodu","tag:sunrise,tag:forest,tag:good,tag:winter" %}
 
 Szliśmy dalej na [Skalny Stół][wiki-skalny-stol]. Słońce powoli zmieniało
 swoją barwę z koloru czerwonego w stronę pomarańczowego i żółtego.
 
-{% photo "IMGP0749raw1.jpg","Oświetlone drzewo" %}
-
-
+{% photo "IMGP0749raw1.jpg","Oświetlone drzewo","tag:sunrise,tag:good" %}
 
 Gdy dotarliśmy do [Skalnego Stołu][wiki-skalny-stol] mieliśmy
 idealny widok na okolicę [Jeleniej Góry][wiki-jelenia-gora] oraz
@@ -85,8 +84,7 @@ sam w sobie mnie nie szokował.
 Najbardziej podobały mi się mgiełki w dolinach które, jak się okaże, dzień
 później będą znacznie ciekawsze.
 
-{% photo "IMGP0772raw1.jpg","Śnieżnie" %}
-
+{% photo "IMGP0772raw1.jpg","Śnieżne pokrycie","tag:winter" %}
 
 Musieliśmy wracać na śniadanie do [schroniska][wiki-schronisko-okraj].
 Podczas podejścia na szlaku leżał, można powiedzieć, bardziej świeży śnieg.
@@ -97,8 +95,7 @@ straszne. Zejście niestety było już bardziej problematyczne od momentu
 gdy już faktycznie musieliśmy schodzić (zejście).
 Raczki by się nam wtedy bardzo przydały.
 
-{% photo "IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu","tag:timeline" %}
-
+{% photo "IMGP0782raw1.jpg","Góry Sokole ze Skalnego Stołu","tag:mountains,tag:good" %}
 
 Będąc tam "na górze" żałowałem że nie miałem mojej Sigmy 150-500. Dzięki
 niej uzyskałbym ciekawsze zdjęcia w dolinach. Nie miałem jej bo ten obiektyw
@@ -121,6 +118,6 @@ darmowy (dla korzystających z wyciągów) skibus co 16 minut.
 Przechodziliśmy obok ciekawych domków, tak jak w reszcie tej czeskiej
 miejscowości. Tutaj również droga chyba nie była odśnieżana.
 
-{% photo "IMGP0889raw1.jpg","Okolica koscioła w Małej Upie" %}
+{% photo "IMGP0889raw1.jpg","Okolica kościoła w Małej Upie","tag:rural" %}
 
 Zaciekawił mnie budynek starej szkoły. Teraz chyba jest tam jakiś nocleg.

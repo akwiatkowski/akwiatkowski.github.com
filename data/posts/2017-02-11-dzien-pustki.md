@@ -31,6 +31,8 @@ time_spent:             3
 [wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/Park_Jana_Pawła_II_w_Poznaniu
 [wiki-lucni-bouda]: https://pl.wikipedia.org/wiki/Luční_bouda
 
+{% photo_header "Okolica czeskiego schroniska","" %}
+
 Wstęp i szczegóły
 -----------------
 

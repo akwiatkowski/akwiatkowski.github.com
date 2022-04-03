@@ -5,7 +5,6 @@ subtitle:               "wjazd gondolą, do Chatki Górzystów i pierwszy single
 date:                   2016-08-08 20:00:00
 finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/167328031/q%3D80_m%3D2000/6a49b4365f8f63b54ff7588f816d16ff"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk]
@@ -21,6 +20,9 @@ time_spent:             5
 pois:
 
 ---
+
+
+{% photo_header "Zachód w Świeradowiu Zdrój","" %}
 
 [wiki-swieradow]: https://pl.wikipedia.org/wiki/%C5%9Awierad%C3%B3w-Zdr%C3%B3j
 [wiki-chatka-gorzystow]: https://pl.wikipedia.org/wiki/Chatka_G%C3%B3rzyst%C3%B3w
@@ -72,7 +74,7 @@ oraz musiałem się przyzwyczaić do prędkości. Zjazd "na szczęście" skończ
 dość szybko i jechaliśmy po dobrej drodze polnej. Nie było żadnych przepaści obok
 gdyż [Góry Izerskie][wiki-gory-izerskie] są na ogół dość spokojne.
 
-{% photo "IMGP4140raw1.jpg","Zachodnie okolice Świeradowa Zdroju" %}
+{% photo "IMGP4140raw1.jpg","Zachodnie okolice Świeradowa Zdroju","tag:mountains" %}
 
 Okazało się że można już zamawiać jedzenie w [schronisku][wiki-chatka-gorzystow]
 gdy się w nim nie nocuje, dlatego zamówiliśmy legendarne naleśniki z jagodami.
@@ -86,12 +88,12 @@ Teraz kierowaliśmy się na północ do drogi zjazdowej do [Świeradowa][wiki-sw
 Wydaje mi się, że z roku na rok droga ta jest w gorszym stanie, co jest w sumie
 normalne gdyż chyba się jej nie remontuje często (tak mi się wydaje, mogę się mylić).
 
-{% photo "IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej","tag:timeline" %}
+{% photo "IMGP4154raw1.jpg","Drzewo na Polanie Izerskiej","tag:timeline,tag:summer" %}
 
 Zjazd trudno mi opisać. Był fajny i każdemu polecam, ale wiedząc co mnie czeka
 nie przeżyłem wyraźnego zaskoczenia.
 
-{% photo "IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów","tag:timeline" %}
+{% photo "IMGP4155raw1.jpg","Ostatni rzut oka na okolice Chatki Górzystów","tag:timeline,tag:summer" %}
 
 Do centrum [miasta][wiki-swieradow] dojechaliśmy drogą 358.
 Chcieliśmy jeszcze spróbować pobliski singletrak. Niestety dla nas musieliśmy

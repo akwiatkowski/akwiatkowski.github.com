@@ -23,6 +23,8 @@ pois:
 
 ---
 
+{% photo_header "Delikatne fale na morzu","tag:sunrise,tag:water" %}
+
 [wiki-morze-baltyckie]: https://pl.wikipedia.org/wiki/Morze_Ba%C5%82tyckie
 [wiki-swinoujscie]: https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
 
@@ -33,7 +35,7 @@ Wyjazd nad [Morze Bałtyckie][wiki-morze-baltyckie] planowałem wcześniej i
 [prawie udało się to zrealizować]({% post_url 2016-08-20-mialy-byc-pagorki-a-pozniej-morze %}).
 Teraz akurat miało być spokojniej - bez pośpiechu.
 
-{% photo "IMGP6154raw1.jpg","Zachód słońca w Świnoujściu" %}
+{% photo "IMGP6154raw1.jpg","Zachód słońca w Świnoujściu","tag:sunrise" %}
 
 Pierwszego wieczoru wyszedłem ze statywem na plażę próbując swoich sił
 robiąc zdjęcia morza. Powtórzyłem to również rano - wstałem o 5:30.
@@ -45,7 +47,7 @@ nie chciało, bo co nowego zobaczę?, ale wstałem wcześniej bo o 5:00.
 Zdjęcia
 -------
 
-{% photo "IMGP6532raw1.jpg","Plaża w Świnoujściu" %}
+{% photo "IMGP6532raw1.jpg","Plaża w Świnoujściu","tag:sunrise" %}
 
 Już w tym momencie robiło się zbyt jasno w miejscu gdzie pojawi się Słońce.
 
@@ -54,17 +56,17 @@ Już w tym momencie robiło się zbyt jasno w miejscu gdzie pojawi się Słońce
 Przydałby mi się filtr szary oraz musiałbym pomyśleć nad lepszym pierwszym planem.
 Bardziej agresywnie uderzająca woda mogła by dać lepsze efekty.
 
-{% photo "IMGP6825raw1.jpg","Wiatrak w Świnoujściu" %}
+{% photo "IMGP6825raw1.jpg","Wiatrak w Świnoujściu","tag:good,tag:best,tag:sunrise,tag:water" %}
 
 Tutaj jest przykład balansu bieli, który idzie w stronę fioletu.
 Kamienny pierwszy plan jest, ale mógłby być znacznie ciekawszy.
 
-{% photo "IMGP6842raw3.jpg","Widok na port" %}
+{% photo "IMGP6842raw3.jpg","Widok na port","tag:water" %}
 
 Pomimo ptaków na pierwszym planie coś temu zdjęciu brakuje. Może powinienem mieć
 coś z większą ogniskową i przyciąć aby widoczny był wiatrak z dwoma ptakami pod nim.
 
-{% photo "IMGP6857raw1.jpg","Wiatrak w Świnoujściu" %}
+{% photo "IMGP6857raw1.jpg","Wiatrak w Świnoujściu","tag:good,tag:best,tag:water" %}
 
 
 Wnioski

@@ -5,7 +5,7 @@ subtitle:               "przez zaporę w Pilchowicach i kończąć susząc się 
 date:                   2016-08-09 20:00:00
 finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/167328339/q%3D80_m%3D2000/4f9ef6d324335f21679a46dd4fd4530e"
+image_position:         50% 10%
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [dolnoslaskie, swieradow_zdroj, mirsk, stara_kamienica, lubomierz, wlen, jezow_sudecki, jelenia_gora]
@@ -47,6 +47,8 @@ pois:
 [wiki-sudety]: https://pl.wikipedia.org/wiki/Sudety
 
 [gra-porownanie]: http://kotaku.com/the-real-world-reflected-in-the-vanishing-of-ethan-cart-1642886209
+
+{% photo_header "Most w Pilchowicach","" %}
 
 Wstęp
 -----

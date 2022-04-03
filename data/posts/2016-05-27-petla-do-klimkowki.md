@@ -56,6 +56,8 @@ pois:
 [wiki-wolowiec]:                  https://pl.wikipedia.org/wiki/Wo%C5%82owiec_(wojew%C3%B3dztwo_ma%C5%82opolskie)
 [wiki-swiatkowa-wielka]:          https://pl.wikipedia.org/wiki/%C5%9Awi%C4%85tkowa_Wielka
 
+{% photo_header "Jezioro Klimkówka","tag:water" %}
+
 Wstęp
 -----
 
@@ -87,7 +89,7 @@ przejazd, przejście w butach, przejście gołymi stopami, a nawet budowa wysepe
 z kamieni aby przejść suchymi butami. Ja nie pamiętam teraz co wybierałem, ale buty
 miałem i tak mokre.
 
-{% photo "IMGP0698raw1.jpg","Drzwi w Nieznajowej" %}
+{% photo "IMGP0698raw1.jpg","Drzwi w Nieznajowej","tag:countryside,tag:spring,tag:timeline" %}
 
 Bardzo podobał mi się ten szlak, ta bliskość rzeki, która sprawiała, że jest
 tutaj trochę inaczej. Może było bardziej dziko niż zwykle jest.

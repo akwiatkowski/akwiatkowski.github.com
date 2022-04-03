@@ -32,6 +32,7 @@ time_spent:             2
 [jakdojade]: http://poznan.jakdojade.pl
 [mosina-komunikacja]: http://www.zukmosina.pl/dzial-transportu-osobowego/rozklad-jazdy/
 
+{% photo_header "Oszroniona droga z Stęszewa","tag:countryside,tag:winter,tag:good,tag:best" %}
 
 Wstęp
 -----
@@ -61,17 +62,17 @@ Widząc ptaki spróbowałem poruszać się wolniej i zrobić im zdjęcie. Pomimo
 tego, że są to zwykłe wróble interesująco sobie siedziały. W tym momencie
 brakowało mi Sigmy 150-500.
 
-{% photo "IMGP2246raw1.jpg","Wróbel" %}
+{% photo "IMGP2246raw1.jpg","Wróbel","tag:winter" %}
 
 Po prawej stronie mijałem [Jezioro Witobelskie][wiki-jez-witobelskie] i
 zrobiłem zdjęcie zabudowaniom wsi [Witobel][wiki-witobel], która jest po
 drugiej stronie.
 
-{% photo "IMGP2265raw1.jpg","Jezioro Witobelskie" %}
+{% photo "IMGP2265raw1.jpg","Jezioro Witobelskie","tag:winter" %}
 
 Najbardziej spodobał mi się widok drogi wokół której były oszadzone krzaki.
 
-{% photo "IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa","tag:timeline" %}
+{% photo "IMGP2277raw1.jpg","Ulica Mosińska ze Stęszewa","tag:good,tag:best,tag:winter" %}
 
 Dotarłem do [Łodzi][wiki-lodz] niebieskim szlakiem pieszym
 mijając po lewej stawek obok ulicy Trzebawskiej.

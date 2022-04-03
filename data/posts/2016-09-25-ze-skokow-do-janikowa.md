@@ -56,7 +56,9 @@ pois:
 [wiki-rzecz]: https://pl.wikipedia.org/wiki/Recz_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-chomiaza-szlachecka]: https://pl.wikipedia.org/wiki/Chomi%C4%85%C5%BCa_Szlachecka
 [maraton-lopuchowo]: http://gpmtb.pl/mtb/Lopuchowo
-[grood-piasta]: http://martina.nazwa.pl/grod_piasta/
+[grod-piasta]: http://martina.nazwa.pl/grod_piasta/
+
+{% photo_header "Jezioro Łopienno Południowe","tag:timeline,tag:countryside" %}
 
 Wstęp
 -----
@@ -108,8 +110,7 @@ Patrząc na nagrane filmiki mam wrażenie, że na żywo trasa mi się bardziej p
 Na pewno ładniejsza by była gdybym jechał przed żniwami, kiedy pola są
 bardziej kolorowe.
 
-{% photo "IMGP6980raw1.jpg","Stary dom przy drodze" %}
-
+{% photo "IMGP6980raw1.jpg","Stary dom przy drodze","tag:rural" %}
 
 Przejechałem przez [Pląskowo][wiki-plaskowo] - bardzo krótką wioskę.
 Na mapie wychodzą z niej 3 drogi polne, które mogą być ciekawe do przejechania
@@ -123,21 +124,17 @@ prawie wszędzie.
 
 {% photo "IMGP6986raw1.jpg","Gdzieniegdzie można znaleźć brukowane drogi" %}
 
-
 Przejechałem przez główną ulicę w [Łopiennie][wiki-lopienno], która
 po obu stronach była mocno zabudowana, a następnie
 skręciłem na wschód przejeżdzając pomiędzy
 jeziorami.
-
-<!-- video 1 -->
 
 Jadąc na wschód przejechałem przez stary przejazd kolejowy. Był on gdzieś
 w połowie między [Łopienną][wiki-lopienno] a [Gączem][wiki-gacz], przez
 tą drugą miejscowość
 przejechałem chwilę później.
 
-{% photo "IMGP7004raw1.jpg","Wjeżdzając do Rzymu" %}
-
+{% photo "IMGP7004raw1.jpg","Wjeżdżając do Rzymu" %}
 
 [Miniszewo][wiki-miniszewo] było krótką wioską, jeszcze dzikszą. Czułem jak
 stopniowo zmieniał sie charakter tych miejscowości.
@@ -159,17 +156,15 @@ jednak w zamian dostałem trochę asfaltowanego pobocza.
 
 W miejscowości [Grochowicka Szlacheckie][wiki-grochowicka-szlacheckie] skręciłem
 z tej trochę ruchliwej drogi i teraz zaczęła się bardziej terenowa jazda
-po drodzę gruntowej do [Szelejewa][wiki-szelejewo].
+po drodze gruntowej do [Szelejewa][wiki-szelejewo].
 
-{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa","tag:timeline" %}
+{% photo "IMGP7019raw1.jpg","Droga gruntowa niedaleko Szelejewa","tag:timeline,tag:road" %}
 
 Wcześniej stwierdziłem, że o tej porze ruch wszędzie będzie znikomy, jednak w
 okolicy dróg krajowych tak nie było i mnie to nie dziwiło.
 
 W [Szelejewie][wiki-szelejewo] po prawej widziałem 3 bloki mieszkalne, co jest dosyć
-ciekawe, gdyż sama wioska wyglądałą na dość małą.
-
-<!-- video 2 -->
+ciekawe, gdyż sama wioska wyglądała na dość małą.
 
 Jechałem skrótem do [Oćwieki][wiki-ocwieka] drogą gruntową przez pola.
 Sama wioska położona jest nad Jeziorem Oćwieckim i wyjechając z niej
@@ -182,11 +177,10 @@ byłoby przesadą.
 
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/184830155' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
 
-
 Po jakimś czasie zobaczyłem tablicę [Chomiąży Szlacheckiej][wiki-chomiaza-szlachecka].
 Widziałem obok informacje o Grodzie Piasta po lewej stronie, jednak nie miałem czasu
 i nie chciało mi się tego teraz sprawdzać. Jak się później okazało, jest to
-raczej [komercyjne miejsce][grood-piasta].
+raczej [komercyjne miejsce][grod-piasta].
 
 {% photo "IMGP7020raw1.jpg","Jezioro Oćwieckie" %}
 
@@ -208,5 +202,3 @@ przejechać przez las i od tego miejsca prostą drogą jechałem do
 
 Z [Broniewic][wiki-broniewice] do [Janikowa][wiki-janikowo] dojechałem już
 bezpośrednio znając tą drogę.
-
-<!-- video 3 -->

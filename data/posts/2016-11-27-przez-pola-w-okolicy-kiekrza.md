@@ -5,7 +5,6 @@ subtitle:               "na spotkanie z ciepłym jesiennym gradem"
 date:                   2016-11-27 15:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/185489845/q%3D80_m%3D2000/8a49e25e4be269f01fcf1a231e0ebf6c"
 header_timeline:        true
 categories:             trip
 tags:                   [hike]
@@ -33,6 +32,8 @@ pois:
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 [wiki-strzeszyn]: https://pl.wikipedia.org/wiki/Strzeszyn_(Pozna%C5%84)
 
+{% photo_header "Droga przez pole w okolicy Kiekrza","tag:timeline" %}
+
 Wstęp
 -----
 
@@ -59,7 +60,6 @@ rowerowym.
 
 {% photo "IMGP0051raw1.jpg","Jezioro Kierskie Duże" %}
 
-
 Po dotarciu do skrzyżowania, gdzie na północ można jechać dalej w stronę
 [Pamiątkowa][wiki-pamiatkowo] tak jak to [kiedyś]({% post_url 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul %})
 jechałem.
@@ -71,14 +71,13 @@ do szlaku rowerowego. Wiedzie ona przez okoliczne pola.
 Pomimo jesiennej aury miejscami krajobraz był wiosenny, co widać na głównym
 zdjęciu tego wpisu.
 
-{% photo "IMGP0103raw1.jpg","Krople na liściu" %}
+{% photo "IMGP0103raw1.jpg","Krople na liściu","tag:macro" %}
 
 Jako ciekawostkę - odległość między stacją kolejową w [Kiekrzu][wiki-kiekrz]
 a w [Złotnikach][wiki-zlotniki] to tylko 4km w linii prostej (do 6km po drodze
 gruntowej).
 
-{% photo "IMGP0172raw1.jpg","Chmura gradowa" %}
-
+{% photo "IMGP0172raw1.jpg","Chmura gradowa","tag:weather" %}
 
 Gdy dotarliśmy do ulicy Słonecznej zaczęliśmy kierować się na południe.
 Nad pobliskim poligonem pojawiły się chmury które kierowały się do Poznania.

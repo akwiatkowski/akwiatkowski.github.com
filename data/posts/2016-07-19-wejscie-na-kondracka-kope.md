@@ -5,7 +5,7 @@ subtitle:               "jak spacer przez mleko"
 date:                   2016-07-19 18:00:00
 finished_at:            2016-07-28 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/164958819/q%3D80_m%3D2000/8e2ebdff84017c72cc5353842f977361"
+image_position:         50% 70%
 categories:             trip
 tags:                   [main, hike]
 towns:                  [malopolskie, zakopane]
@@ -31,6 +31,8 @@ pois:
 
 [pentax-macro]: http://www.pentaxforums.com/lensreviews/SMC-Pentax-FA-50mm-F2.8-Macro-Lens.html
 [kolatowki]: http://www.kalatowki.pl/
+
+{% photo_header "Hala Kondratowa","tag:mountains,tag:fog" %}
 
 Wstęp
 -----
@@ -64,7 +66,7 @@ Próbowałem myśleć pozytywnie, że przynajmniej zdjęcia w mgle są interesuj
 albo że uda mi się zrobić jakieś fajne zdjęcia mokrej przyrody. Niestety nie
 wziąłem mojego ulubionego [szkła][pentax-macro] do macro.
 
-{% photo "IMGP2419raw1.jpg","Na Hali Kondratowej'" %}
+{% photo "IMGP2419raw1.jpg","Na Hali Kondratowej" %}
 
 Rozpoczęło się kamieniaste podejście w kierunku [Kondrackiej Przełęczy][wiki-kondracka-przelecz].
 Po drodzę zrobiłem trochę zdjęć strumyczka ucząć się, że tryb preselekcji czasu
@@ -78,18 +80,8 @@ Na [przełęczy][wiki-kondracka-przelecz] było już "solidne mleko" i trochę w
 jeszcze podejść wyżej.
 
 {% photo "IMGP2511raw1.jpg","Kropelki deszczu" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/165213721/m%3D900/3cea99cb0baef264da64d938de74d76d' alt='A lot of bubbles on green by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/165213721/a-lot-of-bubbles-on-green-by-aleksander-kwiatkowski' alt='A lot of bubbles on green by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
-Zastanawiałem się dlaczego są umieszczone siatki na ziemii wokół szlaku.
-
+Zastanawiałem się dlaczego są umieszczone siatki na ziemi wokół szlaku.
 
 Na [Kondrackiej Kopie][wiki-kondracka-kopa] była widoczność na kilkanaście metrów
 oraz solidny wiatr. Nie było sensu iść dalej w stronę [Ciemniaka][wiki-ciemniak] dlatego
@@ -102,7 +94,7 @@ Dopiero będąc poniżej chmur pojawił się dobry widok na dolinę
 wokół [schroniska][wiki-schr-hala]. Od tego momentu trochę zwolniłem, aby móc
 zrobić więcej zdjęć.
 
-{% photo "IMGP2563raw1.jpg","Schodząc, opuszczając chmury","tag:timeline" %}
+{% photo "IMGP2563raw1.jpg","Schodząc, opuszczając chmury","tag:timeline,tag:mountains" %}
 
 Tym razem zrobiliśmy sobie dłuższą przerwę w [schroniska][wiki-schr-hala].
 W międzyczasie raz solidniej padało.
@@ -112,4 +104,4 @@ W międzyczasie raz solidniej padało.
 Około 16-tej wróciliśmy do [Kolatówki][kolatowki] przygotowując się mentalnie na zmianę
 noclegu dnia następnego.
 
-{% photo "IMGP2704raw1.jpg","Wyciąg na Kasprowy Wierch we mgle" %}
+{% photo "IMGP2704raw1.jpg","Wyciąg na Kasprowy Wierch we mgle","tag:fog,tag:good,tag:mountains" %}

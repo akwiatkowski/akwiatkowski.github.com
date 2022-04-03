@@ -22,6 +22,8 @@ time_spent:             2
 [wiki-warta]: https://pl.wikipedia.org/wiki/Warta
 [wiki-radojewo]: https://pl.wikipedia.org/wiki/Radojewo
 
+{% photo_header "Oszronione Radojewo","tag:countryside,tag:winter,tag:good" %}
+
 Wstęp
 -----
 
@@ -44,17 +46,17 @@ Raczej nie ma sensu opisywać trasy.
 Tak wyglądała rzeka [Warta][wiki-warta]. Rzadko się widzi jak kry po niej płyną, a
 tego dnia było ich całkiem sporo.
 
-{% photo "IMGP2114raw1.jpg","Rzeka Warta z okolic Radojewa" %}
+{% photo "IMGP2114raw1.jpg","Rzeka Warta z okolic Radojewa","tag:winter" %}
 
 Ścieżka obok [Warty][wiki-warta]. Jest tam sporo wydeptanych ścieżek gdyż jest to
 mały lasek komunalny.
 
-{% photo "IMGP2149raw1.jpg","Ścieżka obok Warty" %}
+{% photo "IMGP2149raw1.jpg","Ścieżka obok Warty","tag:winter,tag:good" %}
 
 Polana ta w sumie niczym specjalnym się nie wyróżnia,
 
-{% photo "IMGP2191raw1.jpg","Polana niedaleku lasy obok Radojewa","tag:timeline" %}
+{% photo "IMGP2191raw1.jpg","Polana niedaleko lasy obok Radojewa","tag:good,tag:winter" %}
 
 Najłatwiej dostać się w te miejsce idąc z pętli Boranta drogą gruntową.
 
-{% photo "IMGP2223raw1.jpg","Towarowa obwodnica Poznania w okolicy Radojewa" %}
+{% photo "IMGP2223raw1.jpg","Towarowa obwodnica Poznania w okolicy Radojewa","tag:winter" %}

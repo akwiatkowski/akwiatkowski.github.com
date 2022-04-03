@@ -5,7 +5,6 @@ subtitle:               "mała walka ze słońcem"
 date:                   2016-08-26 18:00:00
 finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/169703051/q%3D80_m%3D2000/4233fcf477e4c38a3b75c9c4419f8348"
 categories:             trip
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, zarow, mietkow, kostomloty, sroda_slaska, miekinia, brzeg_dolny, oborniki_slaskie, wolow, prusice, zmigrod]
@@ -40,6 +39,8 @@ pois:
 [wiki-odra]: https://pl.wikipedia.org/wiki/Odra
 [wiki-gorowo]: https://pl.wikipedia.org/wiki/G%C3%B3rowo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 
+{% photo_header "Most nad Odrą w stronę Brzegu Dolnego","tag:road" %}
+
 Wstęp
 -----
 
@@ -64,8 +65,7 @@ Musieliśmy oddać klucze od noclegu wiec jechaliśmy na wschód. Przy okazji
 było to w tym samym kierunku co [Zalew Mietkowski][wiki-zalew-mietkowski].
 Na mapie ten zbiornik wygląda bardzo okazale.
 
-{% photo "IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach","tag:timeline" %}
-
+{% photo "IMGP5103raw1.jpg","Klimatyczne skrzyżowanie w Siedlimowicach","tag:timeline,tag:countryside" %}
 
 Do [zalewu][wiki-zalew-mietkowski] dojechaliśmy przez [Siedlimowice][wiki-siedlimowice].
 Większość trasy to była spokojna droga wokół pól. Przez pewien czas to
@@ -74,8 +74,7 @@ był nasz standardowy krajobraz, dlatego dokładniejsze opisy będę pomijał.
 Ranek był odpowiednio chłodny, jednak czuliśmy że tego dnia będzie wyraźnie
 cieplej niż dzień wcześniej.
 
-{% photo "IMGP5108raw1.jpg","Zalew Mietkowski" %}
-
+{% photo "IMGP5108raw1.jpg","Zalew Mietkowski","tag:water" %}
 
 Ruszyliśmy na północ i przejechaliśmy przez [Imbramowice][wiki-imbramowice],
 które są odgraniczone linią kolejową przez którą jeździ pociąg
@@ -93,7 +92,6 @@ cieniu mi pomogła na szczęście.
 
 {% photo "IMGP5117raw1.jpg","Pomnik w Bogdanowie" %}
 
-
 Chcieliśmy pojechać czerwonym szlakiem rowerowym, ale okazał się on zbyt zarośnięty.
 Nie ma co zużywać siły na jazdę w terenie w taki dzień.
 
@@ -107,7 +105,7 @@ szlakiem rowerowym na most do [Brzegu Dolnego][wiki-brzeg-dolny].
 Miejscowość ta określała przejazd istotnego fragmentu trasy. Wokół
 niej jest sporo szlaków rowerowych nad [Odrą][wiki-odra].
 
-{% photo "IMGP5135raw1.jpg","Brzeg Dolny" %}
+{% photo "IMGP5135raw1.jpg","Brzeg Dolny","tag:rural" %}
 
 W [Brzegu Dolnym][wiki-brzeg-dolny] obok jakiegoś marketu zrobiliśmy
 dłuższą przerwę na obiad. Słońce wyraźnie źle na mnie działało tego dnia i

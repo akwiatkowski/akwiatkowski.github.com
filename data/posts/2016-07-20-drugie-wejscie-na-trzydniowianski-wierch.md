@@ -33,6 +33,8 @@ pois:
 [wiki-jarzabcza-dolina]: https://pl.wikipedia.org/wiki/Dolina_Jarz%C4%85bcza
 [wiki-konczysty-wierch]: https://pl.wikipedia.org/wiki/Ko%C5%84czysty_Wierch
 
+{% photo_header "Kończysty Wierch","tag:mountains,tag:good,tag:best" %}
+
 Wstęp
 -----
 
@@ -97,42 +99,24 @@ się rozrosła przez te 5 lat, jak byłem tutaj
 Wszystko teraz było takie soczyste zielone. Niby to oczywiste, ale mnie to
 zdziwiło również.
 
-{% photo "IMGP2849raw1.jpg","Trawa na szczycie" %}
+{% photo "IMGP2849raw1.jpg","Trawa na szczycie","tag:mountains,tag:summer,tag:good" %}
 
 Nie potrafię opisywać widoków, dlatego to co widzilieśmy na górzę przedstawię
 jako zdjęcia. Dodam je niebawem tutaj.
 
-{% photo "IMGP2880raw1.jpg","Widok na Podhale" %}
+{% photo "IMGP2880raw1.jpg","Widok na Podhale","tag:mountains" %}
 
 Schodziliśmy czerwonym szlakiem do [Jarząbczej Doliny][wiki-jarzabcza-dolina].
 Jest on znacznie ładniejszy i łatwiejszy, niż
 ten którym wchodziliśmy.
 
-{% photo "IMGP3040raw1.jpg","Strumień w Dolinie Chochołowskiej" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/165346943/m%3D900/8af6d4e896cee67a1125976b6ed716fe' alt='Stream in Chochołowska Valley by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/165346943/stream-in-chocho%C5%82owska-valley-by-aleksander-kwiatkowski' alt='Stream in Chochołowska Valley by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP3020raw1.jpg","Strumień w Dolinie Chochołowskiej (1)" %}
 
 Mijaliśmy kilka razy strumyk na szlaku i tam ponownie próbowałem odpowiednio
 uchwycić płynącą wodę. Przez to trochę zostawałem w tyle. Zdenerwowanie innych
 przeminie, ale zdjecia pozostaną.
 
-{% photo "IMGP3020raw1.jpg","Strumień w Dolinie Chochołowskiej (trochę wyżej)" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/165348185/m%3D900/4cdcdee8a7992caf2bcbb70360532fc3' alt='Wet rocks by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/165348185/wet-rocks-by-aleksander-kwiatkowski' alt='Wet rocks by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP3040raw1.jpg","Strumień w Dolinie Chochołowskiej (2)","tag:water" %}
 
 Powoli robiło się już ciemniej i chłodniej. Jakby podczas jednej godziny
 temperatura spadłą o kilka stopni.
@@ -142,33 +126,36 @@ zadowolony. Wiedziałem że jutro będzie ciekawsza i trudniejsza trasa.
 Pisząc to teraz uważam, że tego dnia byłem zmęczony bardziej niż dnia następnego.
 A może odwrotnie to było.
 
-{% photo "IMGP2759raw1.jpg","To czego nie lubię w Tatrach" %}
+{% photo "IMGP2759raw1.jpg","To czego nie lubię w Tatrach - tłumy" %}
 
 Na koniec wrzucam zdjęcie czego nie lubię w górach - tłumów.
 
 ## Dodatkowe zdjęcia
 
+Trudno mi było napisać więcej a jednak chciałbym umieścić jeszcze
+jakieś zdjęcia.
+
 {% photo "IMGP2818raw1-1.jpg","Podczas podejścia na Trzydniowiański Wierch" %}
 
 Podczas podejścia na Trzydniowiański Wierch.
 
-{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska","tag:timeline" %}
+{% photo "IMGP2900raw1.jpg","Szlak zejściowy do schroniska","tag:timeline,tag:mountains,tag:good" %}
 
 Szlak zejściowy do schroniska. Schodzić będziemy dopiero za chwilę.
 
-{% photo "IMGP2924raw1.jpg","Dolina Chochołowska" %}
+{% photo "IMGP2924raw1.jpg","Dolina Chochołowska","tag:good,tag:mountains" %}
 
 Dolina Chochołowska. Tam wcześniej szliśmy do schroniska.
 
-{% photo "IMGP2913raw3.jpg","Szlak na Kończysty Wierch" %}
+{% photo "IMGP2913raw3.jpg","Szlak na Kończysty Wierch","tag:good,tag:mountains,tag:summer" %}
 
 Szlak na [Kończysty Wierch][wiki-konczysty-wierch], do którego obawiałem się iść.
 
-{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska","tag:timeline" %}
+{% photo "IMGP2958raw1.jpg","Szlak zejściowy do schroniska","tag:timeline,tag:good,tag:mountains" %}
 
-A to zdjęcie wykonałem aparatem z poziomu jakiegoś małego zwierza.
+Powyższe zdjęcie wykonałem aparatem z poziomu jakiegoś małego zwierzaka.
 
-{% photo "IMGP3058raw1.jpg","Biały strumień (to nie jest oficjalna nazwa)" %}
+{% photo "IMGP3058raw1.jpg","Biały strumień (to nie jest oficjalna nazwa)","tag:good,tag:water" %}
 
-Trochę zbyt jasna woda jest na tym zdjęciu. Nie miałem czasu na eksperymenty w
-tym momencie i nie miałem statywa ze sobą.
+Na tym zdjęciu jest trochę zbyt jasna. Nie miałem czasu na eksperymenty w
+tym momencie i nie miałem statywu ze sobą.

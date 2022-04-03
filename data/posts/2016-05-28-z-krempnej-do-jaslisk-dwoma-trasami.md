@@ -50,6 +50,8 @@ pois:
 [wiki-daliowa]:             https://pl.wikipedia.org/wiki/Daliowa
 [wiki-krempna]:             https://pl.wikipedia.org/wiki/Krempna
 
+{% photo_header "Góry Beskidu Nuskiego","tag:spring,tag:timeline,tag:mountains" %}
+
 Wstęp
 -----
 
@@ -69,7 +71,7 @@ dnia na wschód przez [Polany][wiki-polany]. Tym
 razem nie jechaliśmy do [Huty Polańskiej][wiki-huta-polanska] a w kierunku
 [Olchowca][wiki-olchowiec].
 
-{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","tag:timeline" %}
+{% photo "IMGP0837raw1.jpg","Droga Polany-Olchowiec","tag:timeline,tag:spring,tag:countryside" %}
 
 Trasa do [Jaślisk][wiki-jasliska] jest dosyć prosta, tylko że my nie chcieliśmy
 wracać tą samą drogą. Z tego powodu były dwa "odbicia". Pierwsze
@@ -104,7 +106,7 @@ dla tego pasma krajobrazy.
 Po krótkiej przerwie na pierwszy obiad ruszyliśmy dalej - na północ. Musieliśmy
 przejechać przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska].
 
-{% photo "IMGP0868raw1.jpg","Widok z góry Kamińska" %}
+{% photo "IMGP0868raw1.jpg","Widok z góry Kamińska","tag:mountains,tag:timeline" %}
 
 Jechaliśmy drogą [19][wiki-droga-19]. Jest to droga krajowa, jednak w tych okolicach
 oraz w sobotę ruch nie jest tak straszny, jak to bywa na innych drogach krajowych.
@@ -115,13 +117,13 @@ przez [Zawadkę Rymanowską][wiki-zawadka-rymanowska]. Minęliśmy most na
 rzecze [Jasiołka][wiki-jasiolka]. Bardzo podobają mi się te drewniane mosty
 w tych stronach.
 
-{% photo "IMGP0875raw1.jpg","Centrum Jaślisk" %}
+{% photo "IMGP0875raw1.jpg","Centrum Jaślisk (1)","tag:rural" %}
 
 Było ciepło i parno, a na horyzoncie robiło się szaro. Zaczęliśmy podjazd, a
 raczej podejście, na Kamińską - górę o wysokości 639m. Podejście było całkiem
 stromę a już słyszeliśmy głosy burzy.
 
-{% photo "IMGP0876raw1.jpg","Centrum Jaślisk" %}
+{% photo "IMGP0876raw1.jpg","Centrum Jaślisk (2)","tag:rural" %}
 
 Gdy dotarliśmy na górę już zaczynało padać. Szybko ruszyliśmy w stronę przełęczy
 obok wioski [Szklary][wiki-szklary]. Jazda po trawiastym zboczu podczas silnego
@@ -129,7 +131,7 @@ deszczu z gradem nie była najprzyjemniejsza. Rano sprawdzałem pogodę i wynika
 z niej, że nie miało padać. Tam chyba wszystko jest mocno zróżnicowane lokalnie -
 może padać, a może nie padać, wszystko zależy gdzie się chmury zakręcą.
 
-{% photo "IMGP0878raw1.jpg","Nieużywany budynek w Jaśliskach" %}
+{% photo "IMGP0878raw1.jpg","Nieużywany budynek w Jaśliskach","tag:ruin" %}
 
 Zjechaliśmy pod przystanek autobusowy i tam przeczekaliśmy kilka minut aż burza
 minie. Jechaliśmy dalej do [Daliowej][wiki-daliowa], a następnie 2km i już
@@ -141,7 +143,7 @@ do granicy. Niestety domy blokowały większość widoku, a nie miałem czasu (t
 nie chciało mi się). Caciekawiła mnie dolina od strony góry [Kamień][wiki-kamien]
 i wydaję mi się że gdy będę tutaj następnym razem to pojadę tą trasą.
 
-{% photo "IMGP0890raw1.jpg","Droga z Mszany","tag:timeline" %}
+{% photo "IMGP0890raw1.jpg","Droga z Mszany","tag:timeline,tag:spring" %}
 
 Po chwili rozpoczęliśmy trasę powrotną. Tym razem już mieliśmy jechać tylko
 asfaltem. Najpierw zjazd z centrum wsi, później drogą do [Tylawy][wiki-tylawa]

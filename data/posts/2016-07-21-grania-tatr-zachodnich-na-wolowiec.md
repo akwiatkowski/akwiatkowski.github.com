@@ -42,6 +42,8 @@ pois:
 [wiki-jarzabczy]: https://pl.wikipedia.org/wiki/Jarz%C4%85bczy_Wierch
 [wiki-jamnickie-stawy]: https://pl.wikipedia.org/wiki/Jamnickie_Stawy
 
+{% photo_header "Grań Tatr Zachodnich","tag:mountains,tag:good,tag:best,tag:summer" %}
+
 Wstęp
 -----
 
@@ -63,13 +65,13 @@ tłum ludzi jeszcze nie dotarł do schroniska.
 Ruszyliśmy żółtym szlakiem w stronę [Bobrowieckiej Przełęczy][wiki-bobrowiecka].
 Szliśmy przez niezbyt gęsty las iglasty.
 
-{% photo "IMGP3106raw1.jpg","Okolica Grzesia","tag:timeline" %}
+{% photo "IMGP3106raw1.jpg","Okolica Grzesia","tag:timeline,tag:mountains" %}
 
 W połowie drogi do [Grzesia][wiki-grzes] już się pojawiały widoki okolicy, a gdy
 dotarliśmy już na szczyt mieliśmy idealny widok wokoło. Tak zielono i tak ładnie
 że trudno mogłem to przetwarzać.
 
-{% photo "IMGP3151raw1.jpg","Górskie warstwy" %}
+{% photo "IMGP3151raw1.jpg","Górskie warstwy","tag:good,tag:mountains" %}
 
 Dużym zaskoczeniem była słowacka część [Tatr Zachodnich][wiki-tatry-zachodnie],
 głównie [Salatyny][wiki-salatyny], których wcześniej nie widziałem.
@@ -84,7 +86,7 @@ na [Wołowiec][wiki-wolowiec] przez [Rakoń][wiki-rakon].
 Dopiero później patrząc na [Wołowiec][wiki-wolowiec] pomyślałem, że jest on duży
 i trochę będzie stromo pod koniec. Jak się później okazało to nie było tak źle.
 
-{% photo "IMGP3186raw1.jpg","Polana Chochołowska" %}
+{% photo "IMGP3186raw1.jpg","Polana Chochołowska","tag:good,tag:mountains" %}
 
 Nie będę opisywał jak wyglądał szlak, opiszę tylko to co mnie zaciekawiło
 najbardziej po drodzę:
@@ -97,7 +99,7 @@ najbardziej po drodzę:
 * stromość [Rohacza Ostrego][wiki-rohacz-ostry].
 * ludzie jako kropki w oddali
 
-{% photo "IMGP3236raw1.jpg","Rohacz, szlak na Wołowiec i zejściowy zielony" %}
+{% photo "IMGP3236raw1.jpg","Rohacz, szlak na Wołowiec i zejściowy zielony","tag:mountains" %}
 
 Za [Wołowcem][wiki-wolowiec] poszliśmy trochę w stronę [Jarząbczego Wierchu][wiki-jarzabczy],
 jednak dla mnie było tam za bardzo ekspozycyjnie. Nie miałem ubezpieczenia na Słowacji
@@ -105,26 +107,26 @@ i bardziej bałem się kosztów akcji, niż że coś istotnego może mi się sta
 Wiedziałem że stromość uniemożliwiłaby mi doczołganie się na górę, jakby coś się
 stało. Miejscami szlak był węższy niż pół metra, a obok był stromy zjazd w dół.
 
-{% photo "IMGP3300raw1.jpg","Słowackie stawy" %}
+{% photo "IMGP3300raw1.jpg","Słowackie stawy","tag:mountains" %}
 
 Jednak widoki nie ustępowały. W tamtej okolicy były
 z kolei [Jamnickie Stawy][wiki-jamnickie-stawy]. Jakoś Słowacja ma więcej szczęścia
 do stawów w tych rejonach.
 
-{% photo "IMGP3348raw1.jpg","Szlak na Rohacz" %}
+{% photo "IMGP3348raw1.jpg","Szlak na Rohacz","tag:mountains" %}
 
 W momencie podjęcia decyzji do powrotu w stronę [Wołowca][wiki-wolowiec] zobaczyłem
 i się przeraziłem ile trzeba będzie wrócić. O dziwo jednak szybciej podchodziłem, niż
 wcześniej schodziłem. Świadomość bezpiecznego miejsca dawała mi siły i podczas
 podejścia nie ma takiej ekspozycji.
 
-{% photo "IMGP3442raw2.jpg","Słowackie stawy" %}
+{% photo "IMGP3442raw2.jpg","Słowackie stawy","tag:good,tag:mountains" %}
 
 W miarę sprawnie zaczęliśmy schodzić z [Wołowca][wiki-wolowiec], a następnie
 zielonym szlakiem w kierunku [schroniska][wiki-schr-chocholowska]. Po drodzę
 widzieliśmy kozicę, która raczej niespecjalnie się nami przejmowała, oraz
 śpiącą mysz na szlaku. Mysz ta wyglądała jak futrzata kulka.
 
-{% photo "IMGP3491raw1.jpg","Owce przy schronisku" %}
+{% photo "IMGP3491raw1.jpg","Owce przy schronisku","tag:animal" %}
 
 Zdecydowanie byłem zadowolony z tego dnia.

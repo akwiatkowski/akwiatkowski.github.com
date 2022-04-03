@@ -25,6 +25,8 @@ time_spent:             7
 
 [restauracja-lomnica]: http://www.palac-lomnica.pl/pl/restauracja_stara_stajnia
 
+{% photo_header "Wojanów na tle Rudaw Janowickich","tag:rural,tag:winter,tag:mountains,tag:good" %}
+
 Wstęp
 -----
 
@@ -45,7 +47,7 @@ pociąg Kamieńczyk. Jest on bardzo atrakcyjną ofertą - koszt poniżej 40zł, 
 dobry komfort, można dojechać bezpośrednio aż do [Szklarskiej Poręby][wiki-szklarska].
 
 <!-- IMGP1249raw1.jpg -->
-{% photo "IMGP1255raw1.jpg","kościół Matki Boskiej Częstochowskiej w Trzcińsku" %}
+{% photo "IMGP1255raw1.jpg","kościół Matki Boskiej Częstochowskiej w Trzcińsku","tag:rural" %}
 
 Miałem mały spacerek przede mną do [Wojanowa][wiki-wojanow]. Trasa odwrotna
 jak [ostatniego dnia podczas jesiennej wizyty]({% post_url 2016-10-26-opuszczajac-jesienne-rudawy-janowickie %}).
@@ -53,7 +55,7 @@ jak [ostatniego dnia podczas jesiennej wizyty]({% post_url 2016-10-26-opuszczaja
 Ziemia była prawie całkowicie pokryta śniegiem tak na kilka centrymetrów.
 Była zima, ale wydaję mi się że poszukuję zimy totalnej, prawie bajkowej.
 
-{% photo "IMGP1265raw1.jpg","Kryształki śnieżno-lodowe" %}
+{% photo "IMGP1265raw1.jpg","Kryształki śnieżno-lodowe","tag:macro" %}
 
 Zostawiłem niepotrzebne rzeczy w bazie i wyruszyłem do [Łomnicy][wiki-lomnica].
 Chciałem zobaczyć polecaną [restaurację][restauracja-lomnica].
@@ -79,11 +81,11 @@ góry nie będą tak przeszkadzać.
 Szedłem przez pola robiąc zdjęcia sarnom w oddali. Zwierzaki te są bardzo czujne
 i nawet 500mm ogniskowa Sigmy nie była dla nich wystarczająca.
 
-{% photo "IMGP1472raw1.jpg","Zostałem zauważony przez sarnę","tag:timeline" %}
+{% photo "IMGP1472raw1.jpg","Zostałem zauważony przez sarnę","tag:timeline,tag:best,tag:good,tag:winter,tag:mountains" %}
 
 Idąc na południe zrobiłem trochę zdjęć w "niebieskiej godzinie".
 
-{% photo "IMGP1538raw1.jpg","Góry Sokole po zmroku" %}
+{% photo "IMGP1538raw1.jpg","Góry Sokole po zmroku","tag:winter,tag:night,tag:mountains,tag:good,tag:best" %}
 
 Dotarłem do drobi między [Bobrowem][wiki-bobrow] a [Wojanowem][wiki-wojanow].
 Zobaczyłem na GPSie że do [restauracji][restauracja-lomnica] mam 2km pieszo.

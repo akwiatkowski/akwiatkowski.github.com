@@ -5,7 +5,6 @@ subtitle:               "wybierając kolejną możliwą dróżkę"
 date:                   2016-12-31 17:00:00
 finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/191104655/q%3D80_m%3D2000/61a9620c2506c0d9da6c8770605736c0"
 categories:             trip
 tags:                   [hike, mountains]
 towns:                  [dolnoslaskie, kowary]
@@ -19,6 +18,8 @@ time_spent:             7
 
 [wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
 [wiki-lysocina]: https://pl.wikipedia.org/wiki/%C5%81ysocina
+
+{% photo_header "Zabudowania Małej Upy","tag:rural" %}
 
 Wstęp
 -----

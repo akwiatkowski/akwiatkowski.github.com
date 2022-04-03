@@ -53,6 +53,7 @@ time_spent:             7
 [mzk15]: http://www.mzk.jgora.pl/pl/linia/15
 [mzk19]: http://www.mzk.jgora.pl/pl/linia/19
 
+{% photo_header "Zima z Sokolika","tag:countryside,tag:winter,tag:mountains,tag:good,tag:best,tag:sunrise" %}
 
 Wstęp
 -----
@@ -84,7 +85,7 @@ wynosiła -20&deg;C. Zakup kurtki puchowej był dobrą decyzją. Chciałem ją m
 na przyszłe fotowarsztaty w [Karkonoszach][wiki-karkonosze] bo nigdy niewiadomo
 jak będzie ciepło rano na [Śnieżce][wiki-sniezka].
 
-{% photo "IMGP1635raw1.jpg","Śnieżka podczas silnego wiatru widziana z Sokolika" %}
+{% photo "IMGP1635raw1.jpg","Śnieżka podczas silnego wiatru widziana z Sokolika","tag:sunrise,tag:mountains" %}
 
 W trybie ograniczenia myślenia ruszyłem szlakiem zielonym na wschód. Śniegu było trochę
 więcej niż chodząc wczoraj po polach. Na szczęście nic nie było oblodzone i nie
@@ -95,7 +96,7 @@ jak wiatr. Wiało bardzo mocno. Kijki musiałem przyczepić o konstrukcje tarasu
 Wypiłem jeden kubek herbaty bez zostawiania kubka bo bym sie go pozbył w ten sposób.
 Bałem się nawet zostawiać statyw bez nadzoru.
 
-{% photo "IMGP1666raw1.jpg","Widok na Janowice Wielkie po prawej oraz Radomierz po lewej na horyzoncie" %}
+{% photo "IMGP1666raw1.jpg","Widok na Janowice Wielkie po prawej oraz Radomierz po lewej na horyzoncie","tag:sunrise,tag:mountains,tag:good" %}
 
 Była 7:30 czyli około 25 minut przed wschodem. W takiej sytuacji należałoby wyciągnąć
 statyw, podłączyć Sigmę 150-500mm i korzystać z idealnej widoczności robić
@@ -104,7 +105,7 @@ Sama zmiana obiektywu musiała być przeprowadzona w plecaku a zdjęcia mogłem 
 tylko jak akurat w danej sekundzie wiatr był słabszy.
 Teleobiektyw się raczej nie spisał w tych warunkach.
 
-{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","tag:timeline" %}
+{% photo "IMGP1677raw2.jpg","Widok na Radomierz z Sokolika","tag:good,tag:best,tag:countryside:tag:sunrise,tag:winter" %}
 
 Przez wszelakie drgania miałem problem z ustawianiem ostrości przez LiveView.
 
@@ -112,14 +113,12 @@ Było też dość chłodno, delikatnie mówiąc. Zacząłem myśleć aby już te
 abym mógł zejść z tego strasznego miejsca. Kurtka puchowa pomogła, pozwoliła mi
 przetrwać, ale to nie była komfortowa sytuacja.
 
-
 Pierwsze oznaki wschodu Słońca widziałem na wschodnim zboczu [Śnieżki][wiki-sniezka].
 Chciałem zrobić zdjęcie ale miałem problem z ostrzeniem i drganiami. Silnie wiejący
 wiatr na [Śnieżce][wiki-sniezka] transportował śnieg co było widoczne jak małe
 lokalne chmurki. Zdjęcie zrobiłem, ale jest prawie poprawne.
 
-{% photo "IMGP1732raw1.jpg","Widok na Trzcińsko z Sokolika" %}
-
+{% photo "IMGP1732raw1.jpg","Widok na Trzcińsko z Sokolika","tag:winter" %}
 
 Następnie Słońce oświetlało okolicę [Maciejowej][wiki-maciejowa] i [Komarno][wiki-komarno].
 To będą dobre miejsca na zdjęcia w dolinie w przyszłości.
@@ -131,8 +130,6 @@ a większość jest mało ciekawa. Miałem znacznie większe oczekiwania.
 Udało mi się uwiecznić trochę czerwonych pól i "podkręcić" czerwień balansem bieli.
 Niestety w fotografii wszyscy trochę oszukują.
 
-
-
 Większość zdjęć robiłem Sigmą 18-200. Przy tym wietrze żonglowanie obiektywami
 odpadało a wspomniany obiektyw dawał sensowną dużą ogniskową a jednocześnie nie
 wpadał w drgania jak Sigma 150-500. Winietował dość okrutnie bo wszystko jest
@@ -143,7 +140,7 @@ Może powinienem wziąć Limiteda 70mm. Szkło te byłoby bardzo jasne, z dobrą
 roździelczością i mało podatne na dragnia gdyż jest bardzo malutkie.
 Jak znam życie to gdy je wezmę to się tak nie przyda.
 
-{% photo "IMGP1727raw1.jpg","Widok na Karkonosze z Sokolika" %}
+{% photo "IMGP1727raw1.jpg","Widok na Karkonosze z Sokolika","tag:winter,tag:mountains" %}
 
 Zastanawiałem się czy Pentax 16-85 by mi się spodobał i jak bardzo byłby przydatny.
 Nie mam tego obiektywu, ale jestem zaintrygowany nim jako uniwersalne szkło o
@@ -162,13 +159,12 @@ zółtym szlakiem do [Karpnik][wiki-karpniki] po wspomnianej przerwie w schronis
 
 {% photo "IMGP1785raw2.jpg","Słoneczny poranek podczas schodzenia żółtym szlakiem do Karpnik" %}
 
-
 Miałem kilka opcji w głowie. Sprawdzając rozkład [komunikacji miejskiej][kom-jelenia]
 [Jeleniej Góry][wiki-jelenia-gora] zobaczyłem, że niedługo będzie jechał autobus
 linii 11 do pętli w [Gruszkowie][wiki-gruszkow]. Miałem trochę czasu więc
 pospacerowałem do [Strużnicy][wiki-struznica].
 
-{% photo "IMGP1791raw2.jpg","Karkonosze w chmurach - widok z Karpnik" %}
+{% photo "IMGP1791raw2.jpg","Karkonosze w chmurach - widok z Karpnik","tag:rural,tag:winter" %}
 
 Wsiadłem w autobus linii 11 i przejechałem nim tylko dwa przystanki. Byłem
 pod wrażeniem przez jakie tereny jeżdzą autobusy miejskie i każdemu polecam przejazd

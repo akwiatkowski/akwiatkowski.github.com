@@ -22,6 +22,8 @@ time_spent:             2
 [wiki-lugowina]: https://pl.wikipedia.org/wiki/%C5%81ugowina_(potok)
 [wiki-ksieze-male]: https://pl.wikipedia.org/wiki/Ksi%C4%99%C5%BCe_Ma%C5%82e
 
+{% photo_header "Pętla tramwajowa Leśnica we Wrocławiu","tag:city" %}
+
 Wstęp
 -----
 

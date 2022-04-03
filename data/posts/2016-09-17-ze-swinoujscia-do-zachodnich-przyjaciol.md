@@ -5,7 +5,6 @@ subtitle:               "ład i porządek, ogrom ludzi i tak jakoś nieswojo"
 date:                   2016-09-17 20:00:00
 finished_at:            2016-09-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/173701521/q%3D80_m%3D2000/7d28a87f42da5ce0a62e372839e9aa5d"
 categories:             trip
 tags:                   [main, bicycle]
 towns:                  [zachodnio_pomorskie, swinoujscie]
@@ -35,6 +34,8 @@ pois:
 [wiki-bansin]: https://pl.wikipedia.org/wiki/Bansin
 [wiki-zirchow]: https://pl.wikipedia.org/wiki/Zirchow
 [wiki-kamminke]: https://pl.wikipedia.org/wiki/Kamminke
+
+{% photo_header "Małe niemieckie molo","" %}
 
 Wstęp
 -----
@@ -83,7 +84,7 @@ co nie mogłem się rozpędzić.
 Po niemieckiej stronie szlak jest bardzo dobrej jakości. Jechaliśmy przez las
 a po pewnym czasie wkroczyliśmy do [Ahlbeck][wiki-ahlbeck].
 
-{% photo "IMGP6438raw1.jpg","Jestem pod wrażeniem utrzymania budynków w Ahlbeck i okilicach" %}
+{% photo "IMGP6438raw1.jpg","Jestem pod wrażeniem utrzymania budynków w Ahlbeck i okilicach","tag:rural" %}
 
 Od tego momentu przez kolejne 5km jechaliśmy przez bardzo zadbane niemieckie miejscowości,
 aż do [Bansin][wiki-bansin]. Trudno mi opisywać je szerzej niż tylko to, że były
@@ -94,7 +95,6 @@ Chcieliśmy wejść na punkt widokowy Langer Berg, jednak ostatecznie nie chcia�
 wchodzić na teren prywatny.
 
 {% photo "IMGP6456raw1.jpg","Drewniane falochrony" %}
-
 
 Zrobiliśmy przerwę na bułkę z rybą i ruszyliśmy na południę. Czułem jakby to był już
 powrót i dzień miał się kończyć jednak, jak się później okazało, jeszcze nie było
@@ -114,9 +114,7 @@ Wyruszyliśmy dalej na południe wracając do Polski przez [Reetzow][wiki-reetzo
 Dopiero Ulrichshorst było miejscowością, która w pełni mi się podobała. To była
 klasyczna mała niemiecka wioska. Sporo domów było pokrytych strzechą i oferowało noclegi.
 
-
 <div class="vimeo"><iframe src='http://player.vimeo.com/video/184303445' width="600" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe></div>
-
 
 Zadecydowaliśmy że wjedziemy do [Kamminke][wiki-kamminke]
 przez [Zirchow][wiki-zirchow]
@@ -125,13 +123,13 @@ przy [Zalewie Szczecińskim][wiki-zalew-szczecinki].
 W [Zirchow][wiki-zirchow] skręciliśmy w prawo na wschód. Mieliśmy bardzo
 fajny zjazd, ale musieliśmy trochę przejechać główną drogą.
 
-{% photo "IMGP6506raw1.jpg","Kamminke - wioska tuż przy granicy z Polską" %}
+{% photo "IMGP6506raw1.jpg","Kamminke - wioska tuż przy granicy z Polską","tag:rural" %}
 
 Powoli robiło się późno. Na szczęście odkryłem przejściu pieszo-rowerowym
 granicznym, dzięki któremu przez Forst wjechaliśmy w południowo-zachodnie
 [Świnoujście][wiki-swinoujscie].
 
-{% photo "IMGP6513raw1.jpg","Zalew Szczeciński" %}
+{% photo "IMGP6513raw1.jpg","Zalew Szczeciński","tag:water" %}
 
 Sprawnie jechaliśmy gdyż tego dnia krótka i długa koszulka to było za mało
 aby zachować komfort termiczny.

@@ -6,7 +6,7 @@ date:                   2016-12-26 15:00:00
 finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_position:         50% 30%
+image_position:         50% 20%
 tags:                   [relax]
 towns:                  [kujawsko_pomorskie, mogilno, strzelno]
 
@@ -29,6 +29,8 @@ time_spent:             2
 [wiki-procyn]: https://pl.wikipedia.org/wiki/Procy%C5%84
 [wiki-czerniak]: https://pl.wikipedia.org/wiki/Czerniak_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-kunowo]: https://pl.wikipedia.org/wiki/Kunowo_(wojew%C3%B3dztwo_kujawsko-pomorskie)
+
+{% photo_header "Most kolejowy na linii Mogilno-Orchowo","tag:timeline" %}
 
 Wstęp
 -----
@@ -54,12 +56,10 @@ dużo błota.
 
 {% photo "IMGP0624raw1.jpg","Pofalowane okolice wsi Kątno","tag:timeline" %}
 
-
-
 Pojechaliśmy dalej do [Kamionka][wiki-kamionek] obok której jest całkiem
 duże jezioro. Płynie przez nie [Noteć][wiki-notec].
 
-{% photo "IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka" %}
+{% photo "IMGP0647raw2.jpg","Droga z Kamionek do Ostrówka","tag:countryside" %}
 
 Później zobaczyliśmy przypalone ruiny stacji w [Procyniu][wiki-procyn].
 

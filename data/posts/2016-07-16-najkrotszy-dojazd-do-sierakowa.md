@@ -5,8 +5,8 @@ subtitle:               "jadąc koleją do Mokrza aby dostać się do Sierakowa 
 date:                   2016-07-16 12:00:00
 finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/163437443/q%3D80_m%3D2000/790beb90af9a6fde691dfffd30790117"
 categories:             trip
+image_position:         50% 92%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, wronki, sierakow, chrzypsko_wielkie]
 
@@ -28,7 +28,6 @@ pois:
     lat: 52.69819
     lon: 16.35833
 
-
 ---
 
 [event]: https://www.facebook.com/events/1022297097848300/
@@ -43,6 +42,8 @@ pois:
 [wiki-wronki]: https://pl.wikipedia.org/wiki/Wronki
 [wiki-szlak-stu]: https://pl.wikipedia.org/wiki/Szlak_Stu_Jezior
 [wiki-stare-miasto]: https://pl.wikipedia.org/wiki/Stare_Miasto_(powiat_szamotulski)
+
+{% photo_header "Kościół w Sierakowie","" %}
 
 Wstęp
 -----
@@ -67,7 +68,7 @@ Dojechałem pociągiem do [Mokrza][wiki-mokrz] - mała osada w
 [Puszczy Noteckiej][wiki-puszcza-notecka]. Stacja jest malutka, trochę pocieszna,
 bo taka sama postawiona pośrodku wielkiego lasu. Zielono jest tam z każdej strony.
 
-{% photo "IMGP2201raw1.jpg","Początek wsi Chojno","tag:timeline" %}
+{% photo "IMGP2201raw1.jpg","Początek wsi Chojno","tag:timeline,tag:summer,tag:countryside" %}
 
 Ruszyłem niebieskim szlakiem rowerowym na południe do drogi 150. Okazało się, że
 droga jest w dobrej jakości i jechało się przyjemnie.
@@ -84,7 +85,7 @@ Eskimosi mają wiele określeń na śnieg, tak Polacy powinni mieć wiele okreś
 na wioski, gdyż jedna wioska może bardzo różnić się od innej wioski.
 Widziałem tam nawet jakąś agroturystykę.
 
-{% photo "IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno","tag:timeline" %}
+{% photo "IMGP2212raw2.jpg","Niebieskim szlakiem rowerowym przez Chojno","tag:timeline,tag:summer" %}
 
 Wyjeżdzając z [Chojna][wiki-chojno] zaczęły się pola i rzadko położone
 gospodarstwa rolne.
@@ -98,7 +99,7 @@ Wyjeżdzając przejechałem pod torami kolejowymi. Szkoda że nie są one teraz
 używane ponieważ trasa jest bardzo ładna, do tego [Sieraków][wiki-sierakow] jest
 istotną miejscowością wypoczynkową w okolicy [Poznania][wiki-poznan].
 
-{% photo "IMGP2227raw2.jpg","Warta płynąca przez Sieraków" %}
+{% photo "IMGP2227raw2.jpg","Warta płynąca przez Sieraków","tag:rural" %}
 
 Od tego momentu rozpoczął się szybki i sprawny powrót. Celem były [Wronki][wiki-wronki].
 Jechałem głównie [Szlakiem Stu Jezior][wiki-szlak-stu].

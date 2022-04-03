@@ -19,6 +19,8 @@ pois:
 
 ---
 
+{% photo_header "Park dębiński","" %}
+
 Wstęp
 -----
 
@@ -40,7 +42,7 @@ bardziej zasłoniętym drzewami.
 
 Znaleźć można tam czasem drzewo przewrócone do wody.
 
-{% photo "IMGP7540raw1.jpg","Łabędź" %}
+{% photo "IMGP7540raw1.jpg","Łabędź","tag:bird,tag:good" %}
 
 Mam skłonność do ciasnego kadrowania - lubię wyciągać jak najwięcej detali ze sceny.
 Początkowo kadrowałem również z odbiciem, ale gdy łabędź zaczął trzepotać

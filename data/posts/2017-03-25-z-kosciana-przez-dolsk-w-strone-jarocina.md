@@ -49,6 +49,7 @@ pois:
 [wiki-warta]: https://pl.wikipedia.org/wiki/Warta
 [wiki-solec-wielkopolski]: https://pl.wikipedia.org/wiki/Solec_Wielkopolski
 
+{% photo_header "Most obok Solca Wielkopolskiego","" %}
 
 Wstęp
 -----
@@ -107,7 +108,7 @@ tej niedogodności zdecydowanie polecam to miejsce.
 Później tego dnia jechaliśmy podobnym szlakiem
 obok [Książa Wielkopolskiego][wiki-ksiaz-wielkopolski].
 
-{% photo "IMGP3256raw1.jpg","Wjeżdzając do Łagowa" %}
+{% photo "IMGP3256raw1.jpg","Wjeżdżając do Łagowa" %}
 
 Ruszyliśmy na wschód. Do [Dolska][wiki-dolsk] już mieliśmy w miarę blisko. Jechaliśmy
 teraz przez las, ale jechało się całkiem przyjemnie.
@@ -156,7 +157,7 @@ Bardzo szybko przejechaliśmy przez tą miejscowość i skręciliśmy na półno
 Leśną. Dojechaliśmy do wsi [Rogusko][wiki-rogusko] nie wiedząc o tym, że
 jest to osobna miejscowość. To jest kilka domów niedaleko rzeki [Warty][wiki-warta].
 
-{% photo "IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy" %}
+{% photo "IMGP3296raw1.jpg","Wieś Rogusko i wał przeciwpowodziowy","tag:timeline" %}
 
 Sam dojazd z [Chociczy][wiki-chocicza] nie był łatwo. Jechaliśmy
 tym razem pod wiatr i tylko las oraz

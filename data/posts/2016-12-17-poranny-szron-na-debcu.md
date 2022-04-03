@@ -5,7 +5,6 @@ subtitle:               "nieliczny dzień z dobrą pogodą"
 date:                   2016-12-17 15:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/188719943/q%3D80_m%3D2000/45a40318ced5efebd53e99b31c3d35f1"
 header_timeline:        true
 categories:             trip
 tags:                   [photo]
@@ -16,8 +15,11 @@ distance:               4
 time_spent:             2
 
 ---
+
 [wiki-radojewo]: https://pl.wikipedia.org/wiki/Radojewo
 [wiki-warta]: https://pl.wikipedia.org/wiki/Warta
+
+{% photo_header "Zamarznięty park na Dębcu","" %}
 
 Wstęp
 -----
@@ -33,7 +35,7 @@ Ustawiłem budzik na 6-tą rano i obudziłem się dopiero po kilku minutach budz
 Zjadłem coś lekkiego i zrobiłem kanapkę. Teraz dochodzę do wniosku że nie jest głupie
 zabieranie termosu.
 
-{% photo "IMGP0272raw1.jpg","Most na Łęgach Dębińskich" %}
+{% photo "IMGP0272raw1.jpg","Most na Łęgach Dębińskich","tag:winter" %}
 
 Wyruszyłym jeszcze w nocy na przystanek autobusowy. Początkowo chciałem pojechać
 nad [Wartę][wiki-warta] w okolicy [Radojewa][wiki-radojewo]. Opóźnienie autobusu
@@ -51,7 +53,7 @@ ciekawą zatoczkę.
 Ze zdjęć jestem zadowolony średnio. Wiem że nie zrobiłem żadnego rewelacyjnego
 zgodnie z tym "co ludzie lubią".
 
-{% photo "IMGP0330raw1.jpg","Poranek na Łęgach Dębińskich" %}
+{% photo "IMGP0330raw1.jpg","Poranek na Łęgach Dębińskich","tag:sunrise,tag:winter" %}
 
 Zastanawiałem się czy może lepiej by było jakbym
 pojechał nad [Wartę][wiki-warta]. Tam słońce by miało większy wpływ na krajobraz,

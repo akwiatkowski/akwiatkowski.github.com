@@ -45,6 +45,8 @@ pois:
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 [wiki-karkonosze]: https://pl.wikipedia.org/wiki/Karkonosze
 
+{% photo_header "Widok Śnieżki z Sokolika","tag:mountains,tag:good" %}
+
 Wstęp
 -----
 
@@ -91,22 +93,13 @@ Jest to jedna stacja "odległości".
 Mój pociąg się spóźnił ale i tak byłem przed czasem odjazdu tego powrotnego,
 tylko że go nie było na dworcu. Pewnie jakiś kolejny pociąg widmo.
 
-{% photo "IMGP8187raw1.jpg","Jesień była już w pełni","tag:timeline" %}
+{% photo "IMGP8187raw1.jpg","Jesień była już w pełni","tag:timeline,tag:autumn,tag:road" %}
 
 Mogłem poczekać godzinę i ruszyć kolejnym pociągiem, albo mogłem się przejść.
 Wybrałem to drugie. Opuściłem [Jelenią Górę][wiki-jelenia-gora]
 idąc na wschód.
 
-{% photo "IMGP8192raw1.jpg","Pałac w Bobrowie" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/183595381/m%3D900/92af72f282ae35b592ab4d3feb4d1031' alt='Castle Boberstein by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/183595381/castle-boberstein-by-aleksander-kwiatkowski' alt='Castle Boberstein by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP8192raw1.jpg","Pałac w Bobrowie","tag:autumn" %}
 
 Minąłem malutkie lotnisko (kod METAR to EPJG) i dalej poruszałem się
 wzdłuż torów. Tory rozwidlały się. W lewo była główna kolejowa arteria, a na
@@ -116,13 +109,11 @@ jest plan reaktywacji połączenia
 kolejowe, jednak jeszcze żadne konkretne kroki nie zostały postawione.
 Linia jest utrzymywana przez miłośników drezyn.
 
-{% photo "IMGP8195raw1.jpg","Karkonosze były wtedy w chmurach" %}
+{% photo "IMGP8195raw1.jpg","Karkonosze były wtedy w chmurach","tag:mountains" %}
 
 Przeszedłem przez rzekę [Bóbr][wiki-bobr] w [Łomnicy][wiki-lomnica]
 i ruszyłem do [Wojanowa][wiki-wojanow]. Tam zostawiłem większość swoich rzeczy
 w bazie i ruszyłem na spacerek.
-
-
 
 Zawsze będąc na wycieczce mam zaplanowane trasy do przejścia lub przejechania,
 tutaj nic takiego nie miałem. Nie było określonych miejsc, przez które mam
@@ -130,42 +121,33 @@ przejść, były określone zdjęcia jakie chciałbym zrobić
 i warunki w jakich chciałbym się znaleźć. Te rzeczy nie są deterministyczne.
 
 {% photo "IMGP8199raw1.jpg","Jesienne Rudawy Janowickie","tag:timeline" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/180310375/m%3D900/c4d6cbb5649be2048a22552362fadf06' alt='Rudawy Janowickie by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/180310375/rudawy-janowickie-by-aleksander-kwiatkowski' alt='Rudawy Janowickie by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
 Ruszyłem zielony szlakiem pieszym z [Wojanowa][wiki-wojanow] na wschód
 w stronę [Sokolika][wiki-sokolik]. Zaskoczył mnie las pełen kolorów.
 
-{% photo "IMGP8214raw1.jpg","Idąc przez las" %}
+{% photo "IMGP8214raw1.jpg","Idąc przez las","tag:forest" %}
 
 Będąc kiedyś w [Rudawach Janowickich][wiki-rudawy-janowickie] udało mi się
 wejść na [Krzyżną Górę][wiki-krzyzna-gora], ale nigdy nie byłem na
 [Sokoliku][wiki-sokolik]. To był dobry moment aby to zmienić.
 
-{% photo "IMGP8232raw1.jpg","Wyróźniające się drzewo na polanie" %}
+{% photo "IMGP8232raw1.jpg","Wyróżniające się drzewo na polanie","tag:autumn" %}
 
 Ostatni fragment podejścia to był trawers, po którym czekało jeszcze
 wejście na punkt widokowy no schodach. Pomimo tego, że ta góra jest niższa o 12 metrów,
 widok jest chyba ciekawszy niż z [Krzyżnej Góry][wiki-krzyzna-gora] na której
 (jeżeli się nie mylę) jest blokowany drzewami ze wschodniej strony.
 
-{% photo "IMGP8273raw1.jpg","Wchodząc na Sokolik","tag:timeline" %}
+{% photo "IMGP8273raw1.jpg","Wchodząc na Sokolik","tag:timeline,tag:autumn" %}
 
 Następnie odwiedziłem [schronisko][wiki-szwajcarka]
 aby coś zjeść i ruszyłem żółtym szlakiem do
 [Karpnik][wiki-karpniki]. Gdzieś w oddali ulicy Janowickiej chyba
 widziałem wilka.
 
-{% photo "IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach" %}
+{% photo "IMGP8413raw1.jpg","Opuszczony sklep w Karpnikach","tag:rurar" %}
 
-Wracałem ulicą Stawową. Powoli robiło się ciemno. W bazie byłem przed godziną
+Wracałem ulicą Stawową. Powoli robiło się ciemno. W noclegu byłem przed godziną
 19-tą. Czołówka zdecydowanie się przydała.
 
 Zdjęcia
@@ -173,22 +155,12 @@ Zdjęcia
 
 Idąc na [Sokolik][wiki-sokolik] można natrafić miejscami na całkiem spore głazy.
 
-{% photo "IMGP8265raw1.jpg","Głazy w Rudawach Janowickich" %}
-
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/182430933/m%3D900/c24e303942efa961ff5f9cccbd4a78f4' alt='Trzcińsko and Wojanów from Sokolik by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/182430933/trzci%C5%84sko-and-wojan%C3%B3w-from-sokolik-by-aleksander-kwiatkowski' alt='Trzcińsko and Wojanów from Sokolik by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP8265raw1.jpg","Głazy w Rudawach Janowickich","tag:good" %}
 
 Po lewej stronie na dole widać rzekę [Bóbr][wiki-bobr]. Wokół tej rzeki jest
 między innymi [Wojanów][wiki-wojanow] i [Trzcińsko][wiki-trzcinsko].
 
-{% photo "IMGP8339raw1.jpg","Widok z Sokolika" %}
+{% photo "IMGP8339raw1.jpg","Widok z Sokolika","tag:countryside,tag:timeline,tag:good,tag:best" %}
 
 Gdzieś obok drogi stał samotny dom w budowie. Zrobiłem jemu zdjęcie.
 

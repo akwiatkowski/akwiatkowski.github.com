@@ -16,6 +16,8 @@ time_spent:             2
 
 ---
 
+{% photo_header "Centrum Poznania","tag:city" %}
+
 Wstęp
 -----
 

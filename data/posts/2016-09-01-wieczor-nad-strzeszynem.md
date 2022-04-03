@@ -5,7 +5,6 @@ subtitle:               "ćwiczenie robienia zdjęć zachodów Słońca"
 date:                   2016-09-01 21:00:00
 finished_at:            2016-09-08 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/171156045/q%3D80_m%3D2000/690440e63f2fdce7cc9a8c8eaa3097ac"
 categories:             trip
 tags:                   [main, photo]
 towns:                  [wielkopolskie, poznan]
@@ -19,6 +18,8 @@ pois:
 
 
 ---
+
+{% photo_header "Zachód nad Strzeszynem","tag:water,tag:sunrise" %}
 
 [wiki-strzeszyn]: https://pl.wikipedia.org/wiki/Jezioro_Strzeszy%C5%84skie
 
@@ -57,13 +58,11 @@ Poszedłem trochę dalej od plaży i tam znalazłem zacumowane łódki. Następn
 razem warto by było tutaj robić zdjęcia później - jak już Słońce będzie
 bardziej czerwone.
 
-{% photo "IMGP5426raw1","Łódka na Strzeszynie" %}
+{% photo "IMGP5426raw1","Łódka na Strzeszynie","tag:good" %}
 
 Tuż przed tym jak Słońce miało się schować za widocznym horyzontem.
-
-{% photo "IMGP5448raw1","Tuż przed zachodem słońca" %}
 
 A to gdy już się schowało. Muszę popracować nad szukaniem czegoś ciekawego
 na pierwszy plan.
 
-{% photo "IMGP5478raw1","Po zachodzie słońca" %}
+{% photo "IMGP5478raw1","Po zachodzie słońca","tag:water,tag:sunrise" %}

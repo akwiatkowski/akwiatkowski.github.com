@@ -57,6 +57,7 @@ pois:
 [wiki-grodzisk-wielkopolski]: https://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski
 [wiki-przemecki-park]: https://pl.wikipedia.org/wiki/Przem%C4%99cki_Park_Krajobrazowy
 
+{% photo_header "Jezioro Krzycko","tag:water" %}
 
 Wstęp
 -----
@@ -107,7 +108,7 @@ jazda wprost przez las.
 Wjechaliśmy na leśną ścieżkę rowerową przez
 [Przemęcki Park Krajobrazowy][wiki-przemecki-park].
 
-{% photo "IMGP3336raw1.jpg","Wczesna wiosna w Przmęckim Parku Krajobrazowym" %}
+{% photo "IMGP3336raw1.jpg","Wczesna wiosna w Przmęckim Parku Krajobrazowym","tag:forest,tag:timeline" %}
 
 Jechaliśmy po szlaku rowerowym w formie prostokątu, który jest przecięty
 drogami przy których są jakieś atrakcje związane biologią. Trudno mi to
@@ -155,7 +156,7 @@ Tutaj ponownie musieliśmy wybrać jak jechać. Czy dalej na zachód asfaltem
 do [Mochów][wiki-mochy], czy bardziej terenowo. Wybraliśmy to drugie i obok
 stacji kolejowej ruszyliśmy na północ przez [Solec Nowy][wiki-solec-nowy].
 
-{% photo "IMGP3367raw1.jpg","Południowy kanal Odry","tag:timeline" %}
+{% photo "IMGP3367raw1.jpg","Południowy kanał Odry","tag:timeline" %}
 
 Dojechaliśmy do [Solca][wiki-solec]. Te tereny kojarzyły mi się z
 [okolicami Noteci]({% post_url 2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem %}).
@@ -174,7 +175,7 @@ Natomiast [Gościeszyn][wiki-goscieszyn] jest bardzo ciekawą miejscowością.
 Wieś ta była posiadłością szlachecką i wszystko należało do jednego
 podmiotu. W wyniku czego cała miejscowość to, można powiedzieć, pałac i jego okolica.
 
-{% photo "IMGP3377raw1.jpg","Pałac w Gościeszynie" %}
+{% photo "IMGP3377raw1.jpg","Pałac w Gościeszynie","tag:rural" %}
 
 Następnie przejechaliśmy przez wieś [Łąkie][wiki-lakie], głównym powodem była
 nazwa. Na chwilę skoczyliśmy do [Terespolu][wiki-terespol] obok Północnego Kanału

@@ -39,6 +39,8 @@ pois:
 
 [turkol]: http://www.turkol.pl/
 
+{% photo_header "Staw Osiek","tag:water" %}
+
 Wstęp
 -----
 
@@ -46,7 +48,7 @@ Tego dnia miałem zaplanowaną jazdę pociągiem [TurKol.pl][turkol] do [Ustki][
 Niestety z powodu problemów z przewoźnikiem przejazd ten został przesunięty
 na dwa tygodnie później.
 
-{% photo "IMGP5893raw1.jpg","Opuszczone sklepy w Dobiegniewie" %}
+{% photo "IMGP5893raw1.jpg","Opuszczone sklepy w Dobiegniewie","tag:ruin,tag:rural" %}
 
 Wybraliśmy [Dobiegniew][wiki-dobiegniew] gdyż: ma sporo jezior w okolicy oraz jest do
 niego dobry dojazd.
@@ -83,12 +85,12 @@ Poszliśmy przez las na zachód do [Osieczka][wiki-osieczek], które okazało si
 osadą z tylko jednym budynkiem gospodarczym i ruinami obok. Pomimo tego, a
 raczej głównie z tego powodu, była to bardzo ładna okolica.
 
-{% photo "IMGP5642raw1.jpg","Okolice ruin starej stodoły w Osieku" %}
+{% photo "IMGP5642raw1.jpg","Okolice ruin starej stodoły w Osieku","tag:good" %}
 
 Ciekawiło mnie "co jest tam za wzgórzem", ale niestety nie było na to czasu.
 Wrócę tutaj rowerem i zobaczę więcej następnym razem.
 
-{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","tag:timeline" %}
+{% photo "IMGP5665raw1.jpg","Droga na północ do lasu","tag:timeline,tag:good,tag:best,tag:summer,tag:countryside" %}
 
 Wróciliśmy drogą "główną", która nawet nie była asfaltowa, do [Osieka][wiki-osiek]
 i dalej do [Dobiegniewa][wiki-dobiegniew].
@@ -98,12 +100,12 @@ i dalej do [Dobiegniewa][wiki-dobiegniew].
 Dzień następny
 --------------
 
-{% photo "IMGP5766raw1.jpg","Kot w Urszulance","tag:cat" %}
+{% photo "IMGP5766raw1.jpg","Kot w Urszulance","tag:cat,tag:good" %}
 
 Tego dnia pogoda była wyraźnie gorsza, prawie pełne zachmurzenie i miejscami
 lekko padał deszcz.
 
-{% photo "IMGP5788raw1.jpg","Jezioro Wielgie nocą","tag:night" %}
+{% photo "IMGP5788raw1.jpg","Jezioro Wielgie nocą","tag:night,tag:water" %}
 
 Poszliśmy zobaczyć okolicę Jeziora Wielgie i później ulicą Mięrzęcińską
 do Jeziora Rolewica. Jest tam droga polna którą można dostać się do

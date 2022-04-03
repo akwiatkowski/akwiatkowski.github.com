@@ -5,7 +5,7 @@ subtitle:               "pierwsza wycieczka z TurKol.pl"
 date:                   2016-08-06 20:00:00
 finished_at:            2016-08-23 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/166693909/q%3D80_m%3D2000/9340e4a63640d49b4304052304dc8023"
+image_position:         50% 80%
 categories:             trip
 tags:                   [main, train]
 towns:                  [wielkopolskie, poznan, czerwonak, murowana_goslina, skoki, wagrowiec, rogozno, ryczywol, polajewo, lubasz, czarnkow]
@@ -40,6 +40,7 @@ pois:
 
 [turkol]: http://www.turkol.pl/
 
+{% photo_header "Czekając na powrót z Czarnkowa","tag:train" %}
 
 Wstęp
 -----
@@ -104,23 +105,14 @@ Jak mam być szczery to linia kolejowa między [Sierakowem][wiki-sierakow]
 a [Szamotułami][wiki-szamotuly] jest ciekawsza pod względem infrastruktury,
 jednak nie można jej przejechać.
 
-{% photo "IMGP3826raw1.jpg","Patrząc w stronę Wielenia ze Szwajcarii Czarnkowskiej" %}
+{% photo "IMGP3826raw1.jpg","Patrząc w stronę Wielenia ze Szwajcarii Czarnkowskiej","tag:summer" %}
 
 Najciekawszym przystankiem na robienie zdjęć była Szwajcaria Czarnkowska.
 Zdziwiłęm się jak wysokie są tam górki. Gdybym wiedział co mnie czeka to ubrałbym
 lepsze buty, gdyż wejście i zejście po mokrej ziemii było bardzo trudne.
 Schodziłem prawie na czworakach a do tego zaczęło padać.
 
-{% photo "IMGP3875raw1.jpg","Pociąg wjeżdza do Czarnkowa" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/167926685/m%3D900/c494d5a9530f401b1e9c9430028703c0' alt='Pianówka near Czarnków with special train by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/167926685/pian%C3%B3wka-near-czarnk%C3%B3w-with-special-train-by-aleksander-kwiatkowski' alt='Pianówka near Czarnków with special train by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP3875raw1.jpg","Pociąg wjeżdża do Czarnkowa","tag:countryside" %}
 
 Następnie dojechaliśmy na dworzec w [Czarnkowie][wiki-czarnkow] i udaliśmy się
 na punkt widokowy z którego idealnie było widać okolice [Noteci][wiki-notec].
@@ -129,7 +121,7 @@ dowiedziałem się historii mostu nad rzeką. Osobiście uważam, że coś brako
 Może wolałbym aby statek popłynął dalej na północ płynąć równolegle wokół
 wiosek albo może woda nie jest tym co mnie najbardziej interesuje.
 
-{% photo "IMGP3885raw1.jpg","Czarnków" %}
+{% photo "IMGP3885raw1.jpg","Czarnków","tag:rural,tag:good" %}
 
 Wróciliśmy na dworzec i wsiadliśmy do pociągu. Gdyby się nam tego nie udało
 powrót byłby znacznie utrudniony.
@@ -140,13 +132,13 @@ Ruszyliśmy pociągiem do stacji [Bzowo-Goraj][wiki-bzowo-goraj], gdzie pociąg
 musiał zmienić kierunek jazdy. Patrząc na mapę widać, że dalej tory
 biegły do stacji w [Drawskim Młynie][wiki-drawski-mlyn] obok [Krzyża][wiki-krzyz].
 
-{% photo "IMGP3955raw1.jpg","Wagon pasażerski" %}
+{% photo "IMGP3955raw1.jpg","Wagon pasażerski","tag:good" %}
 
 Pogoda zaczęła się poprawiać i teraz prawie cały czas obserwowałem z okna okolicę.
 Pociąg poruszał się około 30km/h. Przy dobrej pogodzie te tereny są znacznie
 ładniejsze.
 
-{% photo "IMGP3976raw1.jpg","Okolice Lubasza","tag:timeline" %}
+{% photo "IMGP3976raw1.jpg","Okolice Lubasza","tag:timeline,tag:summer" %}
 
 Gdy minęliśmy [Rogoźno][wiki-rogozno] pojawiło się sporo chmur i w połowie
 drogi do [Wągrowca][wiki-wagrowiec] rozpoczęła się dość solidna burza.

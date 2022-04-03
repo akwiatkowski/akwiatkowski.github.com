@@ -35,6 +35,7 @@ pois:
 [wiki-wolinski-park]: https://pl.wikipedia.org/wiki/Woli%C5%84ski_Park_Narodowy
 [wiki-jezioro-turkusowe]: https://pl.wikipedia.org/wiki/Jezioro_Turkusowe
 
+{% photo_header "Jezioro Turkusowe","tag:water" %}
 
 Wstęp
 -----
@@ -81,8 +82,7 @@ Przejechaliśmy po wale przeciwpowodziowym wokół którego było trochę wędka
 Zjechaliśmy z niego i wybraliśmy czerwony szlak pieszy zamiast niebieskiego
 rowerowego. Jakoś był on bliżej i wyglądało, że będzie ciekawszy.
 
-{% photo "IMGP6716raw1.jpg","Czasem widać ślady 'niemieckości' w tych terenach" %}
-
+{% photo "IMGP6716raw1.jpg","Czasem widać ślady 'niemieckości' w tych terenach","tag:ruin" %}
 
 Wjechaliśmy w [Woliński Park Narodowy][wiki-wolinski-park] i przedzieraliśmy
 się przez małą puszczę złożoną głównie z paproci. Ścieżka była przez prawie cały
@@ -95,7 +95,7 @@ już trochę szybciej. Po 3km byliśmy już w południowej części
 [Międzyzdrojów][wiki-miedzyzdroje] obok [Zalesia][wiki-zalesie].
 Zaskoczyły mnie różnice wysokości na wschód od [Międzyzdroi][wiki-miedzyzdroje].
 
-{% photo "IMGP6762raw1.jpg","Opuszczony dom w miejscowości Wicko" %}
+{% photo "IMGP6762raw1.jpg","Opuszczony dom w miejscowości Wicko","tag:ruin" %}
 
 Teraz jechaliśny na południe. Celem było [Jezioro Turkusowe][wiki-jezioro-turkusowe].
 Początkowo tego dnia chciałem nawet dojechać
@@ -125,7 +125,7 @@ przejechać przez [Międzyzdroje][wiki-miedzyzdroje] i wrócić szlakiem [R10][w
 do [Świnoujścia][wiki-swinoujscie].
 Dojechaliśmy do drogi krajowej 3-ki, jednak nie chcieliśmy jechać jej poboczem.
 
-{% photo "IMGP6785raw1.jpg","Trasa do Międzyzdroi" %}
+{% photo "IMGP6785raw1.jpg","Trasa do Międzyzdrojów","tag:forest" %}
 
 Czekała nas teraz droga gruntowa, która jak się okazało była przyjemniejsza
 w jeździe niż jazda po kamieniach po szlaku rowerowym. Tak to tu jest, że szlak

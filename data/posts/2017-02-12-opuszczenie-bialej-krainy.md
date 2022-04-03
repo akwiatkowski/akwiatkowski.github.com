@@ -34,6 +34,8 @@ time_spent:             5
 [wiki-zielona-gora]: https://pl.wikipedia.org/wiki/Zielona_G%C3%B3ra
 [wiki-stara-kamienica]: https://pl.wikipedia.org/wiki/Stara_Kamienica
 
+{% photo_header "Wracając do Karpacza","tag:winter" %}
+
 Wstęp
 -----
 
@@ -61,12 +63,12 @@ zdjęć wschodu Słońca. Niestety ponownie się nie udało.
 {% photo "IMGP2776raw1.jpg","Schodząc ze Śnieżki do Domu Śląskiego" %}
 
 Podczas schodzenia ze [Śnieżki][wiki-sniezka]
-miałem wrażenie że robi się jakaś poświata. Jakby z jednej strony
+miałem wrażenie, że robi się jakaś poświata. Jakby z jednej strony
 chmury były bardziej pomarańczowe, a z drugiej bardziej niebieskie.
 A może to przez chodzenie przez ostatnie cztery dni w śniegu i mgle
 miałem przewidzenia.
 
-{% photo "IMGP2782raw1.jpg","Delikatna poświata" %}
+{% photo "IMGP2782raw1.jpg","Delikatna poświata","tag:winter,tag:mountains" %}
 
 Powoli zaczęło się przejaśniać w stronę Czech. Niestety nie mogłem dłużej
 pozostać, musiałem wracać do cywilizacji.
@@ -77,7 +79,7 @@ poluje od chyba trzech lat.
 Schodząc czarnym szlakiem z [Kopy][wiki-kopa] do [Karpacza][wiki-karpacz]
 niebo powoli się przejaśniało.
 
-{% photo "IMGP2814raw1.jpg","Ostatnie chwile we mgle" %}
+{% photo "IMGP2814raw1.jpg","Ostatnie chwile we mgle","tag:winter" %}
 
 Zabrałem się z dwoma uczestnikami warsztatów do [Zielonej Góry][wiki-zielona-gora].
 

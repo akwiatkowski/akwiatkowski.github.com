@@ -6,6 +6,7 @@ date:                   2016-11-25 12:00:00
 finished_at:            2016-12-20 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 35%
 tags:                   [main, photo]
 towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [], "type": "hike"}]
@@ -53,20 +54,20 @@ Przeszedłem się moją standardową trasą przez trzy mosty robiąc zdjęcia.
 Zdjęcia
 -------
 
-{% photo "IMGP9912raw2.jpg","Późna jesień na Łęgach Dębińskich" %}
+{% photo "IMGP9912raw2.jpg","Późna jesień na Łęgach Dębińskich","tag:good,tag:autumn,tag:fog" %}
 
 Pomarańczowa barwa jest zdecydowanie oszustwem. Była to normalna mgła i
 wszystko było białe, jednak wolałem ocieplić scenę aby dodać klimatu.
 
-{% photo "IMGP9973raw1.jpg","Łęgi Dębińskie" %}
+{% photo "IMGP9973raw1.jpg","Łęgi Dębińskie","tag:autumn,tag:fog" %}
 
 Zatoczka na Łęgach Dębińskich. Wokół spadły już chyba wszystkie liście.
 
-{% photo "IMGP9927raw1.jpg","Łęgi Dębińskie - staw najbliżej ulicy" %}
+{% photo "IMGP9927raw1.jpg","Łęgi Dębińskie - staw najbliżej ulicy","tag:autumn,tag:fog" %}
 
 Jest to moje ulubione miejsce. Staw ten jest bardzo rozciągnięty. Można spokojnie chodzić
 wokół niego.
 
-{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy","tag:timeline" %}
+{% photo "IMGP9984raw1.jpg","Łęgi Dębińskie - niebieski szlak rowerowy","tag:timeline,tag:autumn,tag:fog" %}
 
 Główna ścieżka przechodząca przez Łęgi - niebieski (Nadwarciański) szlak rowerowy.

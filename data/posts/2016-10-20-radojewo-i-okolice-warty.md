@@ -24,6 +24,8 @@ pois:
 
 ---
 
+{% photo_header "Nudny dzień w Radojewie","" %}
+
 Wstęp i opis
 ------------
 

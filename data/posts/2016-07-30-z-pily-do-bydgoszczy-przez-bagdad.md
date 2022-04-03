@@ -6,7 +6,7 @@ date:                   2016-07-30 16:00:00
 finished_at:            2016-08-21 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_position:         50% 70%
+image_position:         50% 80%
 tags:                   [main, bicycle]
 towns:                  [wielkopolskie, kujawsko_pomorskie, pila, kaczory, miasteczko_krajenskie, bialosliwie, wyrzysk, lobzenica, mrocza, sicienko, bydgoszcz]
 
@@ -64,6 +64,8 @@ pois:
 [wiki-bydgoszcz-glowna]: https://pl.wikipedia.org/wiki/Bydgoszcz_G%C5%82%C3%B3wna
 [wiki-linia-18]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_18
 [wiki-miasteczko-krajenskie]: https://pl.wikipedia.org/wiki/Miasteczko_Kraje%C5%84skie
+
+{% photo_header "Wieś Orle","tag:summer,tag:rural" %}
 
 Wstęp
 -----
@@ -157,8 +159,7 @@ Jechaliśmy na północ. Musieliśmy minąć [S10][wiki-s10] i to trochę
 potrwało gdyż tam ruch rzadko zamiera. Wcześniej przejechaliśmy przez rzekę
 [Orla][wiki-rzeka-orla].
 
-{% photo "IMGP3649raw1.jpg","Snopki na polu","tag:timeline" %}
-
+{% photo "IMGP3649raw1.jpg","Snopki na polu","tag:timeline,tag:summer,tag:countryside" %}
 
 Wjechaliśmy do [Bagdadu][wiki-bagdad]. Wioska o ciekawej nazwie rozpoczynała
 innych charakter miejscowości. Od tego momentu były już zdecydowanie
@@ -166,15 +167,6 @@ bardziej rolnicze. Sam przejazd przez [Bagdad][wiki-bagdad] trwał bardzo krótk
 było tam chyba nie więcej niż pięć domów. Mała wioska, duże pola.
 
 {% photo "IMGP3653raw1.jpg","Na północ od Badgadu" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/165636075/m%3D900/3a2f8f88aec8ac16dc7a09af968f96ac' alt='Between Glesno and Liszkowo by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/165636075/between-glesno-and-liszkowo-by-aleksander-kwiatkowski' alt='Between Glesno and Liszkowo by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
 Przejechaliśmy przez [Gleśno][wiki-glesno], [Auguścin][wiki-auguscin] i
 kierowaliśmy się do [Liszkowa][wiki-liszkowo]. Wjechaliśmy w malutki lasek
@@ -187,7 +179,7 @@ nie jestem w stanie napisać nic charakterystycznego. Przed [Witosławem][wiki-w
 przejechaliśmy przez stary przejazd kolejowy. Patrząc teraz na mapę ciekawi
 mnie droga do [Dźwierszna][wiki-dzwierszno].
 
-{% photo "IMGP3656raw1.jpg","Wioska Orle" %}
+{% photo "IMGP3656raw1.jpg","Wioska Orle","tag:rural" %}
 
 Zatrzymalismy się we wiosce Orle na małe zakupy. Całkiem klimatyczna
 miejscowość. Wyjeżdzając z niej ponownie jechaliśmy pomiędzy polami.
@@ -204,7 +196,7 @@ Dojechaliśmy do rzeki Krówka i okazało się, że przebudowują tam most. Prze
 rowery jednocześnie trochę brudząc swoje buty i opony. Głupio by było jechać
 objazdem dla samochodów.
 
-{% photo "IMGP3663raw1.jpg","Okolice Dziewianowa","tag:timeline" %}
+{% photo "IMGP3663raw1.jpg","Okolice Dziewianowa","tag:timeline,tag:summer" %}
 
 Dojechaliśmy do skrzyżowania obok Jeziora Wierzchucińskiego Dużego, gdzie
 skręciliśmy w kierunku [Bydgoszczy][wiki-bydgoszcz]. Około 400 metrów

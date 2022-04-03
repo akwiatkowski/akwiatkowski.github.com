@@ -5,7 +5,6 @@ subtitle:               "spacer z Przełęczy Kowarskiej i przywitanie lekko obl
 date:                   2016-12-28 17:00:00
 finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/191102529/q%3D80_m%3D2000/ab49bb8cb37510f931da133b75ffa9c6"
 header_timeline:        true
 categories:             trip
 tags:                   [hike, mountains]
@@ -28,6 +27,8 @@ time_spent:             3
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
 [wiki-kowary]: https://pl.wikipedia.org/wiki/Kowary
 [wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
+
+{% photo_header "Widok na Kowary","tag:timeline,tag:mountains,tag:good" %}
 
 Wstęp
 -----
@@ -59,7 +60,7 @@ niebieskiego. Punkt ten położony
 jest na wysokości 726m n.p.m, czyli całkiem wysoko. Oddziela on
 [Karkonosze][wiki-karkonosze] z [Rudawami Janowickimi][wiki-rudawy].
 
-{% photo "IMGP0670raw1.jpg","Wieś Podgórze" %}
+{% photo "IMGP0670raw1.jpg","Wieś Podgórze","tag:mountains" %}
 
 Przez chwilę widzieliśmy po prawej okolice [Jeleniej Góry][wiki-jelenia-gora]
 oraz [Kowar][wiki-kowary], a później rozpoczął się las.
@@ -67,7 +68,7 @@ oraz [Kowar][wiki-kowary], a później rozpoczął się las.
 Tego dnia wiatr wiał całkiem wyraźnie. Trasa była miejscami oblodzona ale nie było
 strasznie. Była to zapowiedź tego, co nas czeka w następnych dniach.
 
-{% photo "IMGP0683raw1.jpg","Idąc przez las" %}
+{% photo "IMGP0683raw1.jpg","Idąc przez las","tag:good,tag:forest" %}
 
 Trasa nie była dalej zbyt ciekawa. Wokół nas była prawie-zima i prawie-zimowy
 las. Chłodno, ale tego śniego nie było za dużo. Miałem nadzieję że będzie bardziej
@@ -76,7 +77,7 @@ biało. [Karkonosze][wiki-karkonosze] bardzo dobrze kojarzę w zimie.
 Ostatnia część podejścia była wzdłuż drogi asfaltowej. Nic ciekawego
 do opisywania.
 
-{% photo "IMGP0695raw1.jpg","Malá Úpa" %}
+{% photo "IMGP0695raw1.jpg","Malá Úpa","tag:rural" %}
 
 Po zostawieniu rzeczy poszliśmy rozejrzeć się do [Malej Úpy][wiki-mala-upa].
 Przypomniałem sobie gdy byłem

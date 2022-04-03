@@ -67,7 +67,7 @@ pois:
 [wiki-jarocin]: https://pl.wikipedia.org/wiki/Jarocin
 [wiki-gebarzewo]: https://pl.wikipedia.org/wiki/G%C4%99barzewo_(wojew%C3%B3dztwo_wielkopolskie)
 
-
+{% photo_header "Przejazd pociągiem do Szubina","tag:train" %}
 
 Wstęp
 -----
@@ -81,8 +81,6 @@ najbardziej mnie zaciekawił pociąg Pałuki/Skansen. Miał on przejechać przez
 miejscowości między [Bydgoszczą][wiki-bydgoszcz] a
 [Gnieznem][wiki-gniezno].
 
-
-
 Szczegóły
 ---------
 
@@ -91,7 +89,7 @@ mając trochę czasu poszukałem czegoś do zjedzenia na ulicy Dworcowej.
 Znalazłem bar mleczny. One w praktyce wcale nie są takie tanie, chyba że się
 wybiera tylko zupę.
 
-{% photo "IMGP3400raw1.jpg","Parowóz wjeżdzający do Bydgoszczy" %}
+{% photo "IMGP3400raw1.jpg","Parowóz wjeżdzający do Bydgoszczy","tag:train" %}
 
 Około 11:40 przyjechał pociąg parowy, którym ruszyłem w stronę [Szubina][wiki-szubin].
 
@@ -113,7 +111,7 @@ remontował), ale nie jest w ruinie. Jest, można powiedzieć, pasujący do otoc
 
 Kwitnące drzewko obok dodawało mu uroku.
 
-{% photo "IMGP3512raw1.jpg","Szubin, niedaleko rynku" %}
+{% photo "IMGP3512raw1.jpg","Szubin, niedaleko rynku","tag:rural" %}
 
 Nie padał deszcz ale pogoda według mnie nie dopisywała. Było pochmurno oraz wiał
 dość mocny wiatr.
@@ -162,7 +160,7 @@ Nie zauważyłem kiedy minęliśmy [Noteć][wiki-notec] i kierowaliśmy się na 
 Niedaleko wsi [Paterek][wiki-paterek] widziałem zakład remontu pojazdów
 szynowych, którego lata świetności już zdecydowanie minęły.
 
-{% photo "IMGP3761raw1.jpg","Tory z Kcynii w kierunku północnym" %}
+{% photo "IMGP3761raw1.jpg","Tory z Kcyni w kierunku północnym" %}
 
 Chwilę później wjechaliśmy w las. Patrząc teraz na mapę zaciekawiło mnie
 wzniesienie niedaleko [Dębogóry][wiki-debogora]. Kolejny argument aby
@@ -206,7 +204,7 @@ zielone pola. Zachodzące powoli Słońce dodawało barw. Bardzo chętnie bym
 pojeździł po tych terenach tego dnia, ale po otwarciu okna pociągu czułem
 jaki jest wiatr i szybko mi mijała ta chęć.
 
-{% photo "IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina" %}
+{% photo "IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina","tag:spring" %}
 
 Za [Janowcem Wielkopolskim][wiki-janowiec-wielkopolski] jeszcze chwilę
 obserwowałem widoki przez okno. Były one ładne, jednak bardzo podobne

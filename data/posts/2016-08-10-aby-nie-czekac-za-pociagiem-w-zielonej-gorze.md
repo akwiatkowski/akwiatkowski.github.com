@@ -5,7 +5,6 @@ subtitle:               "przez małe wioski pośrodku lasu"
 date:                   2016-08-10 19:00:00
 finished_at:            2016-09-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/167328713/q%3D80_m%3D2000/cfb5e1e491cf2d8a1c549b41b40b1920"
 categories:             trip
 tags:                   [main, bicycle, panniers]
 towns:                  [lubuskie, swidnica_lubuskie, zielona_gora]
@@ -24,6 +23,8 @@ pois:
 
 
 ---
+
+{% photo_header "Droga do Gryfowa Śląskiego","" %}
 
 [wiki-zielona-gora]: https://pl.wikipedia.org/wiki/Zielona_G%C3%B3ra
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84

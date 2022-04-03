@@ -14,6 +14,8 @@ time_spent:             2
 
 ---
 
+{% photo_header "Jezioro Strzeszyńskie","" %}
+
 Wstęp
 -----
 

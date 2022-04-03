@@ -5,7 +5,6 @@ subtitle:               "moje trzecie wejście na Śnieżkę, znowu zimowe, tym 
 date:                   2016-12-30 18:00:00
 finished_at:            2017-01-03 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/191104991/q%3D80_m%3D2000/e0390d85b98a39b27524fea964dbd434"
 categories:             trip
 tags:                   [photo, hike, mountains, main]
 towns:                  [dolnoslaskie, kowary, karpacz]
@@ -27,6 +26,8 @@ time_spent:             7
 [wiki-schronisko-okraj]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_Prze%C5%82%C4%99czy_Okraj%E2%80%9D
 [wiki-karpacz]: https://pl.wikipedia.org/wiki/Karpacz
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
+
+{% photo_header "Podejście na Śnieżkę","tag:mountains" %}
 
 Wstęp
 -----
@@ -50,7 +51,7 @@ Tym razem ja sam poszedłem na wschód Słońca. Przez Słońce świecące cały
 dzień drzewa pozbyły się swojego białego ośnieżenia. Jako solidna nagroda pocieszenia
 w dolinach zaczęły pojawiać się mgły, a w dalszych terenach również chmury.
 
-{% photo "IMGP0922raw1.jpg","Jelenia Góra nad ranem" %}
+{% photo "IMGP0922raw1.jpg","Jelenia Góra nad ranem","tag:sunrise,tag:mountains,tag:good,tag:best" %}
 
 
 Po doświadczeniach
@@ -60,8 +61,7 @@ raczki założyłem prawie od razu na szlaku.
 Z punktu widzenia fotografii tego dnia widoki były ciekawsze. Ponownie
 brakowało mi Sigmy 150-500 do robienia zdjęć wiosek w oddali.
 
-{% photo "IMGP0995raw1.jpg","Oświetlone mgły inwersji w dolinach" %}
-
+{% photo "IMGP0995raw1.jpg","Oświetlone mgły inwersji w dolinach","tag:sunrise,tag:mountains,tag:good,tag:best" %}
 
 Tym razem nie musiałem iść do [Skalnego Stołu][wiki-skalny-stol].
 Poznałem [wczoraj]({% post_url 2016-12-29-skalny-stol-i-kosciol-w-mala-upa %})
@@ -93,14 +93,13 @@ mieliśmy widok na [Śnieżkę][wiki-sniezka], Czechy,
 
 Podobały mi się znacznie gęstsze chmury po stronie czeskiej.
 
-
 Na [Śnieżce][wiki-sniezka] schronisko było zamknięte. Było bardzo dużo ludzi,
 większość bez raczków i nie wyobrażam sobie jak będą oni później schodzili.
 Ludzie robią pewne rzeczy nie wiedząc, że coś jest niemożliwe. Tak samo
 jest z wchodzeniem na oblodzoną [Śnieźkę][wiki-sniezka] bez raczków (lub raków).
 Nie wiedzą że się nie da i to robią. Ja wiem i nie wejdę.
 
-{% photo "IMGP1048raw1.jpg","Obserwatorium na Śnieżce" %}
+{% photo "IMGP1048raw1.jpg","Obserwatorium na Śnieżce","tag:good" %}
 
 Decyzję o schodzeniu podjeliśmy bardzo szybko. Jedyny czeski bufet był przepełniony
 i nie czułbym się dobrze w takim tłumie. Ponownie zrobiliśmy
@@ -108,24 +107,19 @@ przerwę w [Jelence][wiki-schronisko-jelenka].
 
 {% photo "IMGP1054raw1.jpg","Karpacz, Miłków i okolice","tag:timeline" %}
 
-
 Dalej schodziliśmy szlakiem żółtym. Tak jak czerwony i ten był dość nudnym
 szlakiem przez las. No może czerwony był ciekawszy gdyż czasem był jakiś
 widok z za drzew, a żółty to głównie droga dostawcza do schroniska.
 
-{% photo "IMGP1068raw1.jpg","Czeska część Karkonoszy" %}
-
+{% photo "IMGP1068raw1.jpg","Czeska część Karkonoszy","tag:mountains" %}
 
 Pod koniec popsuł mi się drugi raczek i je zdjąłem aby mnie nie denerwowały.
 Musiałem wtedy chodzić ostrożniej.
 
-
-
 Zeszliśmy do [Małej Upy][wiki-mala-upa] aby kupić zapasy i wróciliśmy
 do [schroniska][wiki-schronisko-okraj].
 
-{% photo "IMGP1065raw1.jpg","Mała Upa na tle okolic Lubawki" %}
-
+{% photo "IMGP1065raw1.jpg","Mała Upa na tle okolic Lubawki","tag:mountains" %}
 
 Tego dnia dwa razy wyraźnie czuliśmy paloną trawę. Tak blisko a zupełnie inne
 prawo obowiązuje.

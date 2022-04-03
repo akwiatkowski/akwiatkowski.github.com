@@ -23,9 +23,6 @@ pois:
 
 ---
 
-Wstęp
------
-
 [wiki-przywodzie]: https://pl.wikipedia.org/wiki/Przywodzie_(gmina_Przelewice)
 [wiki-pomietow]: https://pl.wikipedia.org/wiki/Pomiet%C3%B3w
 [wiki-stargard]: https://pl.wikipedia.org/wiki/Stargard
@@ -62,6 +59,11 @@ Wstęp
 
 [ump]: http://mapa.ump.waw.pl/ump-www/
 [agrofirma]: http://www.agrofirmawitkowo.pl/
+
+{% photo_header "Pole, niebo i chmury","tag:summer,tag:timeline,tag:countryside" %}
+
+Wstęp
+-----
 
 Pagórkowatych terenów w okolicy [Poznania][wiki-poznan] szukałem od dawna. Zauważyłem,
 że najwięcej ich jest w paśmie [Pojezierza Pomorskiego][wiki-pojezierze-pomorskie]. Analizując dalej
@@ -119,7 +121,7 @@ duży blok na końcu wsi. Blok ten nie pasował do małej wioski.
 Przejechaliśmy przez [Sokólsko][wiki-sokolsko]. Tam z kolei było dość dużo
 starych domów. Według wikipedii wioski te były do 1945 roku miały [połączenie][wiki-pol-kolej] kolejowe.
 
-{% photo "IMGP1997raw1.jpg","Stare budynki w Żabicko" %}
+{% photo "IMGP1997raw1.jpg","Stare budynki w Żabicko","tag:rural" %}
 
 Bardzo szybko przejechaliśmy przez [Żabisko][wiki-zabicko]. Jest to mała wioska,
 za którą kończy się województwo [lubuskie][wiki-lubuskie] a zaczyna
@@ -143,7 +145,7 @@ widać, że kiedyś było tutaj połączenie kolejowe. Gdyby ono istniało dalej
 bym miał znacznie łatwiejszy dojazd do bardzo ciekawych terenów, które są
 w okolicy.
 
-{% photo "IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne","tag:timeline" %}
+{% photo "IMGP2035raw1.jpg","Tutaj nie jechaliśmy, ale tereny są całkiem fajne","tag:timeline,tag:countryside,tag:summer" %}
 
 Wyjeżdzając z [Pełczyc][wiki-pelczyce] na zachód dojechaliśmy do rozdroża.
 Na prawo przez [Jagów][wiki-jagow], a na lewo [Chrapowo][wiki-chrapowo].
@@ -158,7 +160,7 @@ aby zrobić zdjęcie, jednak sam zjazd mnie przekonał, abym tego nie robił.
 Tutaj były najciekawsze tereny podczas tego wyjazdu, zdecydowanie tu kiedyś
 powrócę.
 
-{% photo "IMGP2066raw2.jpg","Idealna droga na rower","tag:timeline" %}
+{% photo "IMGP2066raw2.jpg","Idealna droga na rower","tag:timeline,tag:countryside" %}
 
 Czekał na nas teraz dojazd do [Laskówka][wiki-laskowko]. Sama droga aż do
 [Wołdowa][wiki-woldowo] była bardzo ładna. W okolicy płynie rzeka
@@ -170,7 +172,7 @@ mnie przystanek autobusowy na skrzyżowaniu dróg między [Gardźcem][wiki-gardz
 [Wołdowem][wiki-woldowo] i [Warszynem][wiki-warszyn]. Do każdej z tych miejscowości
 był on oddalony całkiem sporo - od 1 do 3km.
 
-{% photo "IMGP2155raw1.jpg","Widok na wieś Wołdowa" %}
+{% photo "IMGP2155raw1.jpg","Widok na wieś Wołdowa","tag:countryside" %}
 
 Dojechaliśmy do ważniejszej drogi wiedząc, że na dziś już raczej kończymy
 przygodę z pagórkami. Minęliśmy rzekę [Płonie][wiki-rzeka-plonia] i wjeżdzaliśmy

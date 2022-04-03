@@ -42,6 +42,7 @@ pois:
 [wiki-lubcz-maly]: https://pl.wikipedia.org/wiki/Lubcz_Ma%C5%82y
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 
+{% photo_header "Idealna droga na rower obok wsi Kłoda","tag:road" %}
 
 Wstęp
 -----
@@ -66,14 +67,12 @@ teraz wiedziałem, że nie mogę nie wykorzystać tego dnia.
 Czekały na mnie dwie godziny jazdy w pociągu. W [Pile][wiki-pila] wysiadłem
 około 10:30.
 
-
-
 Pierwsze co mnie rzuciło w oczy, to była informacja strażnika, że z rowerem nie można wejść
 na dworzec. Rozumiem że miałbym przypiąć i pójść kupić bilet? Nie ma takiej opcji.
 Następnym razem albo ponownie udam głupiego i wejdę z rowerem, albo kupię w pociągu
 dopłacając. Tym małym akcentem [Piła][wiki-pila] dostała minusa w moich oczach.
 
-{% photo "IMGP5908raw1.jpg","Pomalowany przystanek autobusowy w Kotuniu" %}
+{% photo "IMGP5908raw1.jpg","Pomalowany przystanek autobusowy w Kotuniu","tag:rural" %}
 
 Wyruszyłem jadąc na zachód w kierunku do [Krzyża][wiki-krzyz]. Początkowo jechałem
 spokojną drogą przez las przejeżdzając przez dwie pary torów kolejowych.
@@ -91,7 +90,6 @@ sypialnia [Piły][wiki-pila] gdyż widziałem tam sporo nowych domów.
 
 {% photo "IMGP5910raw1.jpg","Trasa przez większość czasu to jazda przez las" %}
 
-
 Jechałem dalej w stronę [Łomnicy][wiki-lomnica]. Znowu miałem obok siebie lasy.
 
 Obok skrzyżowania do [Stobna][wiki-stobno] gdzie sąsiaduje linia kolejowa,
@@ -101,7 +99,7 @@ minąłem jakieś stawy. Sądzę że były to stawy hodowlane.
 Wyjeżdzając z [Kępy][wiki-kepa] była najciekawsza część trasy - zjazd
 w dolinę rzeki Łomnica. Z około 100m do 70m n.p.m.
 
-{% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy","tag:timeline" %}
+{% photo "IMGP5923raw1.jpg","Dolina Łomnicy, najciekawsze tereny tej trasy","tag:timeline,tag:summer" %}
 
 W [Łomnicy][wiki-lomnica] skręciłem na zachód. Oczywiście cały czas jechałem
 tym samym szlakiem - [R1][wiki-r1]. Podobały mi się domy po obu stronach drogi,

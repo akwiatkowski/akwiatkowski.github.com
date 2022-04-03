@@ -33,6 +33,8 @@ time_spent:             6
 [wiki-samotnia]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_„Samotnia”
 [wiki-legi-debinskie]: https://pl.wikipedia.org/wiki/Park_Jana_Pawła_II_w_Poznaniu
 
+{% photo_header "Ośnieżone drzewa","tag:winter" %}
+
 Wstęp
 -----
 
@@ -71,12 +73,12 @@ Przez całą drogę bardzo mocno wiało. Drobinki lodu uderzały mnie w twarz.
 
 Wróciliśmy tą samą drogą do [Domu Śląskiego][wiki-dom-slaski].
 
-{% photo "IMGP2633raw1.jpg","Okolice Strzechy Akademickiej","tag:timeline" %}
+{% photo "IMGP2633raw1.jpg","Okolice Strzechy Akademickiej","tag:winter" %}
 
 Mój pokój był na południowo-wschodnim rogu [schroniska][wiki-dom-slaski].
 Od południa bardzo mocno wiał wiatr. W nocy było mi zimno, ale nie pomyślałem
 aby ubrać polar. Przez zimno miałem problemy ze spaniem.
 
-{% photo "IMGP2664raw2.jpg","Wracając do Domu Śląskiego" %}
+{% photo "IMGP2664raw2.jpg","Wracając do Domu Śląskiego","tag:winter,tag:good" %}
 
 W tej sytuacji otwarcie okna aby przewietrzyć nabiera zupełnie innego znaczenia.

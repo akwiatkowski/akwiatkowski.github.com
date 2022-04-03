@@ -5,7 +5,6 @@ subtitle:               "sudeckie rejony mają swój klimat również gdy jest s
 date:                   2016-08-10 15:00:00
 finished_at:            2016-09-07 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/167328521/q%3D80_m%3D2000/2450cb024d985e0f4f52a3ca374a441e"
 header_timeline:        true
 categories:             trip
 tags:                   [main, bicycle, panniers]
@@ -34,6 +33,8 @@ pois:
 
 
 ---
+
+{% photo_header "Droga przez Letnicę","tag:timeline" %}
 
 [wiki-orlowice]: https://pl.wikipedia.org/wiki/Or%C5%82owice
 [wiki-krobica]: https://pl.wikipedia.org/wiki/Krobica

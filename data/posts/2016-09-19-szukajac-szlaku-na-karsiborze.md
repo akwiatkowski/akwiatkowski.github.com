@@ -29,6 +29,7 @@ pois:
 [wiki-raf]:https://pl.wikipedia.org/wiki/Pomnik_lotnik%C3%B3w_RAF_w_%C5%9Awinouj%C5%9Bciu
 [wiki-karsibor]: https://pl.wikipedia.org/wiki/Karsib%C3%B3r_(%C5%9Awinouj%C5%9Bcie)
 
+{% photo_header "Most na terenie Karsiboru","" %}
 
 Wstęp
 -----
@@ -57,7 +58,7 @@ Ruszyliśmy żółtym szlakiem rowerowym. Na mapie on bardzo ładnie okrążał
 cały [Karsibór][wiki-karsibór-wyspa]. W teorii było to idealne. Praktyka okazała
 się być trochę bardziej skomplikowana.
 
-{% photo "IMGP6935raw1.jpg","Basen U-Bootów" %}
+{% photo "IMGP6935raw1.jpg","Basen U-Bootów","tag:water" %}
 
 Zgodnie ze szlakiem wjechaliśmy w las, gdzie zobaczyliśmy
 [pomnik lotników RAF][wiki-raf]. I dalej, oczywiście zgodnie ze szlakiem,
@@ -68,7 +69,7 @@ wróciliśmy do głównej drogi w [Karsiborze][wiki-karsibor].
 Wjechaliśmy w Ostoję Ptaków Karsiborska Kępa, gdzie była remontowana
 wieża obserwacyjna. Tam zrobiliśmy chwilę przerwy.
 
-{% photo "IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach" %}
+{% photo "IMGP6964raw1.jpg","Kolejny opuszczony dom w tych stronach","tag:rural" %}
 
 Wróciliśmy aby kontynuować jazdę szlakiem, jednak nie znaleźliśmy nic co by wyglądało
 na sensowną drogą. Tam gdzie mógł być szlak umieszczono ostrzeżenie o terenie prywatnym.

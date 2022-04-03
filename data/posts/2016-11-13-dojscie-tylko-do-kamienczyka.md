@@ -5,7 +5,6 @@ subtitle:               "wyciąg w serwisie a chciałem dostać się na Szrenic�
 date:                   2016-11-13 18:00:00
 finished_at:            2016-11-17 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/183241207/q%3D80_m%3D2000/736bf2de38bd0ddec97f0958722c4947"
 categories:             trip
 tags:                   [main, hike, photo]
 towns:                  [dolnoslaskie, szklarska_poreba]
@@ -32,6 +31,7 @@ pois:
 [wiki-szrenica]: https://pl.wikipedia.org/wiki/Szrenica
 [wiki-kamienczyk]: https://pl.wikipedia.org/wiki/Schronisko_%E2%80%9EKamie%C5%84czyk%E2%80%9D
 
+{% photo_header "Szklarska Poręba w budowie","tag:city" %}
 
 Wstęp
 -----
@@ -61,13 +61,10 @@ Po niecałej godzinie jazdy w wagonie restauracyjnym coś zaczęło się palić.
 lekko szczypać w oczy obsługa już poprosiła o zmianę miejsca. Nie było
 otwartego ognia i nie wiadomo, co się paliło.
 
-
-
 Na wysokości [Wałbrzycha][wiki-walbrzych] pobliskie górki
 bardzo ładnie przechodziły gradientem ośnieżenia.
 
-{% photo "IMGP8986raw1.jpg","Wodospad Kamieńczyk" %}
-
+{% photo "IMGP8986raw1.jpg","Wodospad Kamieńczyk (1)","tag:winter" %}
 
 Po dotarciu do stacji [Szklarska Poręba Górna][wiki-szklarska-gorna]
 miałem problem z wyjściem z
@@ -79,8 +76,7 @@ blokując wejście.
 Dzisiaj była niedziela i trochę ludzi poruszało się po mieście. Większość to
 były zwykłe osoby, którzy przyjechali odpocząć i pojeść, a nie się zmęczyć.
 
-{% photo "IMGP8993raw1.jpg","Wodospad Kamieńczyk" %}
-
+{% photo "IMGP8993raw1.jpg","Wodospad Kamieńczyk (2) - lód" %}
 
 Zostawiłem moje rzeczy w bazie i ruszyłem aby zobaczyć trasę dojściową
 na [Szrenicę][wiki-szrenica]. Po drodze zauważyłem, że wyciągi mają
@@ -88,17 +84,14 @@ przerwę serwisową. Cały listopad i początek grudnia (albo do 2-go, albo do 7
 to brak dostepnych wyciągów. Przyznam, że planowałem ich użycie
 podczas tego wyjazdu.
 
-
-
 Skoro wyciągów nie ma to pomyślałem, że przejdę się do [Kamieńczyka][wiki-kamienczyk]
 i może trochę dalej - aby mieć rozpoznanie trasy przed dniem
 [jutrzejszym]({% post_url 2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy %}).
 
 {% photo "IMGP9011raw1.jpg","Rzeka Kamieńczyk" %}
 
-
 Gdy
-[robiliśmy fragment Głownego Szlaku Sudeckiego]({% post_url 2013-02-09-okolice-szrenicy-i-labskiego-szczytu %})
+[robiliśmy fragment Głównego Szlaku Sudeckiego]({% post_url 2013-02-09-okolice-szrenicy-i-labskiego-szczytu %})
 ze [Świeradowa Zdroju][wiki-swieradow] nie miałem okazji przejść z
 [Kamieńczyka][wiki-kamienczyk] do [Szrenicy][wiki-szrenica].
 Tamtego dnia wjechaliśmy wyciągiem. Chciałem przejść ten fragment podczas

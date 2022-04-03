@@ -6,6 +6,7 @@ date:                   2016-11-14 20:00:00
 finished_at:            2016-11-29 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
+image_position:         50% 65%
 tags:                   [main, hike, photo, photo_of_the_year, best]
 towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze]
@@ -45,13 +46,12 @@ pois:
 [wiki-laba]: https://pl.wikipedia.org/wiki/%C5%81aba
 [wiki-morze-polnocne]: https://pl.wikipedia.org/wiki/Morze_P%C3%B3%C5%82nocne
 
-
 [slawek-podgorny]: https://www.facebook.com/Slawek.Podgorny/?fref=ts
 [sunrise]: http://waypoint-manager.herokuapp.com/areas/17/waypoints/369/sunrise_sunset
 [sniezka-kamerki]: http://kamery.humlnet.cz/pl/kamery/
 [tpe]: http://photoephemeris.com/
 
-
+{% photo_header "Zachód Słońca w Karkonoszach","tag:good,tag:best,tag:mountains,tag:winter,tag:sunrise" %}
 
 Wstęp
 -----
@@ -89,16 +89,8 @@ dziwnie przesuwać. Co 15 minut musiałem jeden ponownie zakładać
 aby był on użyteczny.
 Wtedy pojawiły mi się pierwsze myśli że mogłem teraz sobie wygodnie spać.
 
-{% photo "IMGP9032raw1.jpg","Schronisko na Hali Szrenickiej","tag:timeline" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/183436333/m%3D900/dc43a132c73ddefae327aab5abcc7982' alt='End of night at Hala Szreniczna by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/183436333/end-of-night-at-hala-szreniczna-by-aleksander-kwiatkowski' alt='End of night at Hala Szreniczna by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP9032raw1.jpg","Schronisko na Hali Szrenickiej","tag:timeline,tag:winter,tag:mountains" %}
+
 Nie lubię podejść, nie lubię schodzić, to czy ja lubię góry? Zacząłem się
 zastanawiać. Następnym razem przyjadę dopiero jak wyciąg będzie sprawny,
 tak postanowiłem.
@@ -111,13 +103,13 @@ miejsce. GPS szacował że będzie to 6:30 i nie licząc na przerw na zdjęcia
 w okolicy [Schroniska na Hali Szreniczkiej][wiki-szrenica-hala-schr] wyrobiłem
 się na "wschód", który miał być chwilę po 7-ej.
 
-{% photo "IMGP9086raw1.jpg","Schronisko na Szrenicy" %}
+{% photo "IMGP9086raw1.jpg","Schronisko na Szrenicy","tag:winter" %}
 
 Próbowałem zrobić kilka zdjęć z [Superksiężycem][wiki-superksiezyc],
 ale średnio jestem z nich zadowolony. Znowu jestem średnio zadowolony.
 Chociaż jak patrzę teraz to z jednego jestem zadowolony. Nie jest tak źle.
 
-{% photo "IMGP9107raw1.jpg","Ośnieżone drzewa w okolicy schroniska" %}
+{% photo "IMGP9107raw1.jpg","Ośnieżone drzewa w okolicy schroniska","tag:good,tag:winter" %}
 
 Księżyc nie był moim celem oraz miałem problemy z dobrym ostrzeniem
 zooma (Sigma 17-50) na nieskończonośc w tym świetle. W nocy każde zdjęcie
@@ -132,15 +124,14 @@ byłbym mniej zmęczony (również mentalnie) bo wiedziałbym, że swoją bazę 
 Mógłbym później wstać, lepiej zwiedzić okolicę i wybrać odpowiednie miejsca
 dzień wcześniej.
 
-{% photo "IMGP9110raw1.jpg","Czeska strona Karkonoszy w idealnym momencie na zdjęcia" %}
-
+{% photo "IMGP9110raw1.jpg","Czeska strona Karkonoszy w idealnym momencie na zdjęcia","tag:sunrize,tag:winter,tag:mountains" %}
 
 Teraz myślenie było takie nagłe i prowizoryczne niż przemyślane.
 Wschód słońca to mniej niż 20 minut światła o czerwonym kolorze,
 gdzie z minuty na minutę wszystko się
 zmienia. Warto być na to przygotowanym.
 
-{% photo "IMGP9114raw1.jpg","Widok na stronę polską w kierunku Rudaw Janowickich" %}
+{% photo "IMGP9114raw1.jpg","Widok na stronę polską w kierunku Rudaw Janowickich","tag:sunrise,tag:mountains" %}
 
 Zastanawiałem się dlaczego poświata jest bardziej na południe, niż na wschodzie.
 Sprawdziłem kierunek wschodu słońca na [TPE][tpe] i byłem na niego przygotowany,
@@ -153,7 +144,7 @@ Teraz wiem że powinienem być na wyraźnie najwyższym
 miejscu w okolicy. Niby to jest oczywiste, ale dopiero na żywo człowiek sobie
 to uzmysłowi.
 
-{% photo "IMGP9143raw1.jpg","Zaczęły pojawiać się poranne mgły w dolinach","tag:timeline" %}
+{% photo "IMGP9143raw1.jpg","Zaczęły pojawiać się poranne mgły w dolinach","tag:timeline,tag:good,tag:best," %}
 
 Ruszyłem dalej czerwonym szlakiem aby podejść najwyżej jak mogę, jednak w połowie
 drogi dalsze północne partie gór oraz samo
@@ -165,14 +156,14 @@ już były oświetlane. Słońce było jasno-żółto. Oznaczało to moje spóź
 Wróciłem do schroniska się najeść. Dzień wcześniej nie mogłem kupić pieczywa
 w sklepie i dlatego nie zrobiłem sobie kanapek. Miałem tylko batony.
 
-{% photo "IMGP9169raw1.jpg","Powoli Słońce oświetlało zbocza" %}
+{% photo "IMGP9169raw1.jpg","Powoli Słońce oświetlało zbocza","tag:good,tag:best,tag:winter" %}
 
 Mój telefon ze 100% baterii rano rozładował się do 43%. Jak się później okazało,
 on się nie rozładował, tylko jak bateria jest zimna wskaźnik jej naładowania
 jest zaniżony. Nie powinno się ładować zimnej baterii gdyż
 można ją wtedy przeładować.
 
-{% photo "IMGP9289raw1.jpg","Niektóre drzewa były ciekawiej ośnieżone niż inne" %}
+{% photo "IMGP9289raw1.jpg","Niektóre drzewa były ciekawiej ośnieżone niż inne","tag:winter" %}
 
 W [schronisku][wiki-szrenica-schr] porozmawiałem z [Sławkiem Podgórnym][slawek-podgorny],
 który polował na zdjęcia superksiężyca. Jest to pierwszy fotograf którego spotkałem
@@ -185,37 +176,25 @@ Ruszyłem na wschód w stronę [Śnieżnych Kotłów][wiki-sniezne-kotly].
 W ich okolicy byłem [już kiedyś]({% post_url 2013-03-01-ze-szrenicy-do-pttk-odrodzenie %})
 tylko że tego dnia była okrutna mgła i wiatr i nic nie widziałem.
 
-{% photo "IMGP9394raw1.jpg","Gdy wyszedłem pojawiło się trochę chmur" %}
-
+{% photo "IMGP9394raw1.jpg","Gdy wyszedłem pojawiło się trochę chmur","tag:winter,tag:mountains" %}
 
 Nie spieszyłem się. Planowałem być w okolicach [Szrenicy][wiki-szrenica]
 na zachód słońca około godziny 16-tej. Do [Śnieżnych Kotłów][wiki-sniezne-kotly]
 dotarłem około 14:15.
 
-{% photo "IMGP9451raw1.jpg","Chmury te dodawały uroku okolicy" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/183375437/m%3D900/07a7dd24cd6af1db545fe80470916b20' alt='Winter in Karkonosze near Łabski Szczyt by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/183375437/winter-in-karkonosze-near-%C5%81abski-szczyt-by-aleksander-kwiatkowski' alt='Winter in Karkonosze near Łabski Szczyt by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
+{% photo "IMGP9451raw1.jpg","Chmury te dodawały uroku okolicy","tag:good,tag:winter" %}
 
 Na wysokości zimowego szlaku do [Schroniska pod Łabskim Szczytem][wiki-labski-schr]
 skręciłem na południe do Czech. Przeszedłem niewielką odległośc.
 Mam wrażenie, że większość Czechów porusza się na nartach biegowych.
 
-{% photo "IMGP9479raw1.jpg","Nadajnik przy Śnieżnych Kotłach" %}
-
+{% photo "IMGP9479raw1.jpg","Nadajnik przy Śnieżnych Kotłach","tag:good,tag:mountains" %}
 
 Patrząc na mapę teraz zrozumiałem do jak ważnego miejsca doszedłem -
 do źródła rzeki [Łaby][wiki-laba]. Jest to największa rzeka w Czechach, która płynąc
 również przez Niemcy dopływa do [Morza Północnego][wiki-morze-polnocne].
 
-{% photo "IMGP9481raw1.jpg","Śnieżne Kotły" %}
-
+{% photo "IMGP9481raw1.jpg","Śnieżne Kotły","tag:good,tag:mountains,tag:winter" %}
 
 W tamtej okolicy telefon mi się całkowicie rozładował, a przynajmniej
 wskaźnik naładowania baterii osiągnął 0% i system operacyjny telefonu
@@ -224,7 +203,7 @@ Zrobiłem przerwę i położyłem laptopa na plecaku aż telefon nie naładował
 kilku procent. Wyłączyłem go i schowałem do kieszeni polaru, gdzie będzie miał trochę cieplej
 i jednocześnie będzie bezpieczny.
 
-{% photo "IMGP9498raw1.jpg","Światła i cienie" %}
+{% photo "IMGP9498raw1.jpg","Światła i cienie","tag:good,tag:winter" %}
 
 Ruszyłem powoli widząc zmieniającą się barwę słońca.
 
@@ -232,8 +211,7 @@ Na wysokości [Szrenicy][wiki-szrenica] słońce już było pomarańczowe.
 Kosodrzewina i drzewa utrudniały padanie promieni na płaski śnieg. Kolorowe najbardziej było
 niebo a śnieg w cieniu był lekko niebieski.
 
-{% photo "IMGP9585raw1.jpg","Klasyczne ośnieżone drzewko" %}
-
+{% photo "IMGP9585raw1.jpg","Klasyczne ośnieżone drzewko","tag:best,tag:good,tag:winter" %}
 
 Bardzo chciałem zrobić pewne zdjęcia. Teraz wiem, że je będę mógł zrobić
 dopiero gdy spadnie więcej śniegu i w dolinach pofalowane pola będą również białe.
@@ -245,14 +223,13 @@ Byłem już sporo godzin na nogach a jeszcze miałem zejście do
 czasie niebieskiej godziny,
 byłem umysłowo zmęczony mając na uwadzę trasę powrotną.
 
-{% photo "IMGP9664raw2.jpg","I ogniste góry" %}
-
+{% photo "IMGP9664raw2.jpg","I ogniste góry","tag:best,tag:good,tag:mountains,tag:sunrise" %}
 
 Na [Hali Szreniczkiej][wiki-szrenica-hala] schowałem aparat i założyłem raczki.
 Rozpocząłem schodzenie, które poszło mi wyraźnie sprawniej i szybciej niż
 wchodzenie. Nie mam w planie powtarzania tej trasy przez pewien czas.
 
-{% photo "IMGP9687raw1.jpg","Czerwień zachodzącego Słońca" %}
+{% photo "IMGP9687raw1.jpg","Czerwień zachodzącego Słońca","tag:good,tag:mountains,tag:sunrise" %}
 
 Zostawiłem plecak w bazie i wyruszyłem do centrum na zakupy i jedzenie. Miasto
 było wyraźnie opuszczone. Restauracje, które miały być otwarte do 22, były
@@ -260,7 +237,7 @@ zamknięte. Może kilka osób widziałem na ulicy. Nie dziwię się, jest środe
 po długim, niepodległościowym, weekendzie, wyciąg nie działa,
 nie ma tu co robić.
 
-{% photo "IMGP9706raw1.jpg","Schronisko na Hali Szreniczkiej tym razem po zachodzie Słońca" %}
+{% photo "IMGP9706raw1.jpg","Schronisko na Hali Szreniczkiej tym razem po zachodzie Słońca","tag:good,tag:mountains,tag:sunrise" %}
 
 
 Powrót dnia następnego
@@ -276,8 +253,7 @@ Było trochę delikatnych mgiełek w dolinach, były one na ogół zbyt słabe a
 przedmiotem zdjęcia, ale zbyt silne aby nie wpływały na widoczność. Trawy były miejscami
 ładnie oszronione.
 
-{% photo "IMGP9713raw1.jpg","Niebieska godzina w Karkonoszach, koniec zdjęć tego dnia i również koniec wyjazdu" %}
-
+{% photo "IMGP9713raw1.jpg","Niebieska godzina w Karkonoszach, koniec zdjęć tego dnia i również koniec wyjazdu","tag:good,tag:mountains,tag:sunrise" %}
 
 Przydałby się kolejny wyż i słoneczne dni. Wtedy mogło by być idealnie.
 

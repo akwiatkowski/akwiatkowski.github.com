@@ -6,7 +6,7 @@ date:                   2016-08-25 21:00:00
 finished_at:            2016-09-06 12:00:00
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
-image_position:         50% 65%
+image_position:         50% 75%
 categories:             trip
 tags:                   [main, bicycle, panniers]
 towns:                  [dolnoslaskie, strzelin, kondratowice, niemcza, lagiewniki, dzierzoniow, marcinowice, zarow]
@@ -55,6 +55,8 @@ pois:
 [wiki-zarow]: https://pl.wikipedia.org/wiki/%C5%BBar%C3%B3w
 [wiki-gosciecice]: https://pl.wikipedia.org/wiki/Go%C5%9Bci%C4%99cice
 [wiki-sleza]: https://pl.wikipedia.org/wiki/%C5%9Al%C4%99%C5%BCa
+
+{% photo_header "Pola po żniwach","tag:timeline" %}
 
 Wstęp
 -----
@@ -148,7 +150,7 @@ Wokół były pola, pagórki i czasem lasy. Przejechaliśmy przez [Kowalskie][wi
 [Żelowice][wiki-zelowice], [Strachów][wiki-strachow], Piotrówek
 i [Wojsławice][wiki-wojslawice] jadąc do [Niemczy][wiki-niemcza].
 
-{% photo "IMGP4972raw1.jpg","Rynek w Niemczy" %}
+{% photo "IMGP4972raw1.jpg","Rynek w Niemczy","tag:rural" %}
 
 W [Wojsławicach][wiki-wojslawice] obok [Niemczy][wiki-niemcza]
 jest [arbotreum][wiki-arbotreum-wojslawice].
@@ -181,7 +183,7 @@ Po lewej stronie mijaliśmy już zaorane pole w kształcie małej górki.
 Do [Kołaczowa][wiki-kolaczow] dojechaliśmy drogą 384 przez [Dębową Górę][wiki-debowa-gora].
 Śłońce już zmieniało swoją barwę i widać było że zbliża się powoli zachód.
 
-{% photo "IMGP5001raw1.jpg","Widok na Ślężę","tag:timeline" %}
+{% photo "IMGP5001raw1.jpg","Widok na Ślężę","tag:timeline,tag:summer" %}
 
 Jechaliśmy teraz przez [Stoszów][wiki-stoszow] a w [Kucharach][wiki-kuchary]
 skręciliśmy na zachód.
@@ -193,8 +195,7 @@ droga była ciekawsza.
 Minęliśmy kilka małych pagórków z których mieliśmy bardzo ładny widok na okolicę.
 Towarzyszył nam widok na [Ślężę][wiki-sleza].
 
-{% photo "IMGP5017raw1.jpg","Między miejscowościami Jaźwina a Kiełczyn" %}
-
+{% photo "IMGP5017raw1.jpg","Między miejscowościami Jaźwina a Kiełczyn","tag:summer" %}
 
 Za [Mysłakowem][wiki-myslakow] przez większość czasu jechaliśmy pod słońce.
 Nie wiem czy to kwestia mojego zmęczenia,
@@ -221,4 +222,4 @@ Jako klient chciałbym konkretne warunki za które mógłbym zapłacić i to ró
 więcej niż 40zł. Z tego powodu nie zaznaczyłem
 tego miejsca na swojej liście polecanych noclegów.
 
-{% photo "IMGP5055raw1.jpg","Ruiny w Pankowie" %}
+{% photo "IMGP5055raw1.jpg","Ruiny w Pankowie","tag:ruin" %}

@@ -5,7 +5,6 @@ subtitle:               "jezioro Czorsztyn i idealny widok na Tatry"
 date:                   2016-07-22 18:00:00
 finished_at:            2016-08-28 12:00:00
 author:                 "Aleksander Kwiatkowski"
-header-ext-img:         "https://drscdn.500px.org/photo/164959623/q%3D80_m%3D2000/1588e418c8871127b24670bd2633e501"
 categories:             trip
 tags:                   [main, hike]
 towns:                  [malopolskie, czorsztyn]
@@ -33,6 +32,8 @@ pois:
 [wiki-gorce]: https://pl.wikipedia.org/wiki/Gorce
 [wiki-jezioro-czorsztynskie]: https://pl.wikipedia.org/wiki/Jezioro_Czorszty%C5%84skie
 
+{% photo_header "Jezioro Czorsztyńskie","tag:water" %}
+
 Wstęp
 -----
 
@@ -57,19 +58,19 @@ tego dnia akurat rowerów nie używaliśmy. Jest tam i spokojna wioska, bardzo w
 się drogi, pola, widok na [Jezioro Czorsztyńskie][wiki-jezioro-czorsztynskie] oraz...
 widok na [Tatry][wiki-tatry].
 
-{% photo "IMGP3530raw1.jpg","Jezioro Czorsztyńskie" %}
+{% photo "IMGP3530raw1.jpg","Jezioro Czorsztyńskie","tag:timeline,tag:summer" %}
 
 Będąc w większości miejsc w tej okolicy
 ma się idealny widok na góry.
 Jest to nawet lepsze niż w [Gorcach][wiki-gorce], gdzie jest kilka punktów widokowych,
 bo tutaj wszystko jest jednym wielkim punktem widokowym.
 
-{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry","tag:timeline" %}
+{% photo "IMGP3557raw1.jpg","Widok z Maniowy na Tatry","tag:timeline,tag:good,tag:summer,tag:countryside" %}
 
 [Maniowy][wiki-maniowy] jest wioską położoną bardzo ciekawie wokół pagórków.
 
-{% photo "IMGP3571raw1.jpg","Widok z Maniowy na Pieniny (wschód)" %}
+{% photo "IMGP3571raw1.jpg","Widok z Maniowy na Pieniny (wschód)","tag:mountains,tag:summer,tag:rural" %}
 
 Słońce powoli zmieniało swoją barwę pozostawiając bardziej wyraźne cienie.
 
-{% photo "IMGP3575raw1.jpg","Uliczka we wsi Maniowy" %}
+{% photo "IMGP3575raw1.jpg","Uliczka we wsi Maniowy","tag:rural" %}

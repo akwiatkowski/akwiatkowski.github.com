@@ -21,13 +21,15 @@ pois:
 
 ---
 
+{% photo_header "Poranek nad Wartą","" %}
+
 Wstęp
 -----
 
 Jesień w tym roku przywitała nas mocnym zachmurzeniem i deszczem. Praktycznie
 prawie cały tydzień jest bez słońca.
 
-{% photo "IMGP7699raw1.jpg","Kropelki, rozmycie" %}
+{% photo "IMGP7699raw1.jpg","Kropelki, rozmycie","tag:good,tag:macro" %}
 
 Pewnego razu prognoza pogody była obiecująca.
 Miało być wyraźne obniżenie temperatury - prawie do zera, oraz dzień miał być
@@ -43,7 +45,7 @@ na pytanie "kiedy pojawiają się poranne mgły". Może taka już natura pogody,
 Zdjęcia
 -------
 
-{% photo "IMGP7704raw1.jpg","Rozmycie o poranku" %}
+{% photo "IMGP7704raw1.jpg","Rozmycie o poranku (1)","tag:good,tag:macro" %}
 
 Posiadam jedno manualne bardzo stare szkło o jasności f/1.2. Takie wartości
 przesłony nadają się tylko do zabawy z rozmyciem. Najlepsze rezultaty są gdy
@@ -53,12 +55,12 @@ tego efektu.
 
 Wydaję mi się, że szkło f/1.4 dałoby też dobre rezultaty.
 
-{% photo "IMGP7708raw2.jpg","Rozmycie o poranku" %}
+{% photo "IMGP7708raw2.jpg","Rozmycie o poranku (2)" %}
 
 Trochę przesadnie zacząłem ostatnio używać filtr szary, chociaż nie czuję się źle z tego
 powodu. Przydałby się jakiś mocniejszy filtr na "dzień", pewnie 200-tka.
 
-{% photo "IMGP7711raw1.jpg","Rozmycie o poranku" %}
+{% photo "IMGP7711raw1.jpg","Rozmycie o poranku (3)" %}
 
 Jestem zadowolony z tego kadrowania pomimo tego, że nie uważam aby to zdjęcie
 było wybitne.

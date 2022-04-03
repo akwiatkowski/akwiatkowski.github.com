@@ -39,6 +39,8 @@ pois:
 [wiki-szwajcarka]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ESzwajcarka%E2%80%9D
 [wiki-karpniki]: https://pl.wikipedia.org/wiki/Karpniki
 
+{% photo_header "Mgliste wejście na Sokolik","tag:mountains,tag:forest,tag:fog,tag:autumn,tag:best,tag:good" %}
+
 Wstęp
 -----
 
@@ -88,7 +90,7 @@ trochę wyżej. W tym momencie musiałbym przejść około
 400 metrów w poziomie i 50-80 metrów
 w pionie. Mgła zaczęła się pojawiać na wysokości około 500m n.p.m.
 
-{% photo "IMGP8531raw2.jpg","Mgła pojawiła się pod Sokolikiem","tag:timeline" %}
+{% photo "IMGP8531raw2.jpg","Mgła pojawiła się pod Sokolikiem","tag:timeline,tag:fog,tag:autumn,tag:forest" %}
 
 Wyjąłem statyw i założyłem stałoogniskową 15mm robiąc zdjęcia prawie do oporu.
 Byłem bardzo szczęśliwy gdyż udało mi się być we właściwym miejscu o właściwym
@@ -101,7 +103,7 @@ i następnie zszedłem żółtym szlakiem do [Karpnik][wiki-karpniki].
 
 Tym razem poszedłem ulicą Turystyczną cały czas robiąc zdjęcia.
 
-{% photo "IMGP8635raw1.jpg","Idąc do schroniska Szwajcarka" %}
+{% photo "IMGP8635raw1.jpg","Idąc do schroniska Szwajcarka","tag:good,tag:fog" %}
 
 Dotarłem do [Zamku w Karpnikach][wiki-zamek-karpniki] bardzo ładnie umieszczonego
 wokół stawów. Chwilę tam posiedziałem robiąc kilka zdjęć stawów. Bateria w
@@ -130,7 +132,7 @@ Zdjęcia
 Często sam nie wiem czy zdjęcie które zrobiłem, jest dobre. Nie wiem czy ono jest
 dobre, ale dla mnie jest ciekawe.
 
-{% photo "IMGP8562raw1.jpg","Blask" %}
+{% photo "IMGP8562raw1.jpg","Blask","tag:good,tag:best,tag:forest" %}
 
 Gdy w lesie jest przerzedzenie może tam docierać więcej światła. Gdy połączy się
 takie miejsce z mgłą można zrobić zdjęcie "blasku"
@@ -146,15 +148,6 @@ W niektórych miejscach spadało bardzo dużo liści. W innych jeszcze nie spad�
 albo nie miały z czego spaść.
 
 {% photo "IMGP8614raw1.jpg","Pod jesiennym drzewem" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/180894849/m%3D900/7912beb4e56f4d4373ee7a6f671cb46f' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/180894849/under-autumn-tree-by-aleksander-kwiatkowski' alt='Under autumn tree by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
 To zdjęcie podobało się ludziom bardziej. Prawdopodobnie przez umieszczenie
 (jeszcze) kolorowego drzewa.
@@ -164,6 +157,6 @@ To zdjęcie podobało się ludziom bardziej. Prawdopodobnie przez umieszczenie
 Zacząłem schodzić w dół czerwonym szlakiem. Szlak ten miejscami bardzo ostro
 zakręca, trawersuje.
 
-{% photo "IMGP8716raw1.jpg","Budynek między Krogulcem a Karpnikami" %}
+{% photo "IMGP8716raw1.jpg","Budynek między Krogulcem a Karpnikami","tag:rural" %}
 
 Idąc do [zamku w Karpnikach][wiki-zamek-karpniki] minąłem taki chyba opuszczony budynek.
