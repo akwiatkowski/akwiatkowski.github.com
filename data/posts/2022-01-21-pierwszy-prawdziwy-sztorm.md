@@ -5,7 +5,7 @@ subtitle:               "czyli 4m fale we Władysławowie"
 desc:                   "Na prawdziwy szorm polowałem od dawna. Akurat teraz udało mi się pojechać i zrobić zdjęcia bardzo dużych fal."
 keywords:               [sztorm, gdynia, władysławowo, 4m fale]
 date:                   2022-01-21 14:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2022-04-03 17:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2022_01_21__08_25_P1212922.jpg
@@ -42,7 +42,7 @@ pois:
 [wiki-gdansk]: https://pl.wikipedia.org/wiki/Gda%C5%84sk
 [wiki-zatoka-pucka]: https://pl.wikipedia.org/wiki/Zatoka_Pucka
 
-{% photo_header "Droga ze wsi Słup w okolicy rzeki Osa","tag:summer,tag:timeline,tag:countryside" %}
+{% photo_header "Sztorm we Władysławowie","tag:water,tag:weather,tag:good" %}
 
 ## Wstęp
 
