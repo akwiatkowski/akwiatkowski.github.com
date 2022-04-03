@@ -70,7 +70,19 @@ struct ExifEntity
     data["img.altitude"] = altitude.to_s
     data["img.time"] = time.to_s
     data["img.time_display"] = time ? time.not_nil!.to_s("%Y-%m-%d %H:%M:%S") : ""
+    data["img.exif_string"] = exif_string
     data
+  end
+
+  def exif_string
+    return String.build do |s|
+      s << "#{camera_name}, " if camera_name.to_s.strip != ""
+      s << "#{lens_name}, " if lens_name.to_s.strip != ""
+      s << "#{focal_length.not_nil!.to_i}mm " if focal_length.to_s.strip != ""
+      s << "f#{aperture} " if aperture.to_s.strip != "" && aperture.not_nil!.to_f > 0.1
+      s << "#{exposure_string} " if exposure_string.to_s.strip != ""
+      s << "ISO#{iso} " if iso.to_s.strip != ""
+    end
   end
 
   def is_horizontal?

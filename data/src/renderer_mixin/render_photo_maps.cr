@@ -53,15 +53,15 @@ module RendererMixin::RenderPhotoMaps
     add_photomap_globals("Animowana", small_animated_view)
     write_output(small_animated_view)
 
-    detailed_view = PhotoMapSvgView.new(
+    small_detailed_view = PhotoMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("small_detailed"),
       zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
       quant_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
       render_routes: false
     )
-    add_photomap_globals("Mała i szczegółowa", detailed_view)
-    write_output(detailed_view)
+    add_photomap_globals("Mała i szczegółowa", small_detailed_view)
+    write_output(small_detailed_view)
 
     detailed_view = PhotoMapSvgView.new(
       blog: @blog,
@@ -71,6 +71,19 @@ module RendererMixin::RenderPhotoMaps
     )
     add_photomap_globals("Szczegółowe", detailed_view)
     write_output(detailed_view)
+
+    # circle dots
+    dots_view = PhotoMapSvgView.new(
+      blog: @blog,
+      url: url_photomap_globals("dots"),
+      zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
+      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE, # not used here
+      dot_radius: Map::DEFAULT_DOT_RADIUS,
+      render_photo_dots: true,
+      render_routes: false,
+    )
+    add_photomap_globals("Kółko-zdjęcia", dots_view)
+    write_output(dots_view)
 
     # XXX: overriden by PhotoMap::Index
     # html_view = PhotoMapHtmlView.new(

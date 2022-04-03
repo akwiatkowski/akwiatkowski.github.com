@@ -2,6 +2,7 @@ require "./const"
 require "./tiles_layer"
 require "./routes_layer"
 require "./photo_layer"
+require "./photo_dots_layer"
 require "./photo_to_route_layer"
 
 class Map::Base
@@ -13,6 +14,8 @@ class Map::Base
     zoom = DEFAULT_ZOOM,
     @post_slugs : Array(String) = Array(String).new,
     @quant_size = DEFAULT_PHOTO_SIZE,
+    # only for dot photo map - size of colored dot
+    @dot_radius = DEFAULT_DOT_RADIUS,
     # filter only photos in rectangle
     @coord_range : CoordRange? = nil,
     # enforce to render all routes points on map
@@ -24,7 +27,10 @@ class Map::Base
     @photo_entities : Array(PhotoEntity)? = nil,
     # selective rendering
     @render_routes : Bool = true,
+    # toggle to render photos not as grid but pointed to route
     @render_photos_out_of_route : Bool = false,
+    # toggle to render photos as dots on map
+    @render_photo_dots : Bool = false,
     # by default photos are linked to Post not full src of PhotoEntity
     @photo_direct_link : Bool = false,
     # animated, show routed poly line after some seconds
@@ -159,6 +165,7 @@ class Map::Base
     )
 
     if @render_photos_out_of_route
+      # for post photo map we render photo assigned to route
       @photo_layer = PhotoToRouteLayer.new(
         photos: @photos,
         posts: @posts,
@@ -166,7 +173,16 @@ class Map::Base
         image_size: @quant_size,
         photo_direct_link: @photo_direct_link,
       )
+    elsif @render_photo_dots
+      # detailed map with dots as photos
+      @photo_layer = PhotoDotsLayer.new(
+        photos: @photos,
+        tiles_layer: @tiles_layer,
+        photo_direct_link: @photo_direct_link,
+        dot_radius: @dot_radius,
+      )
     else
+      # else, render photo grid
       @photo_layer = PhotoLayer.new(
         photos: @photos,
         tiles_layer: @tiles_layer,
@@ -176,19 +192,15 @@ class Map::Base
   end
 
   def to_svg
-    svg_content = String.build do |s|
-      s << @tiles_layer.render_svg
-      s << @photo_layer.render_svg
-      s << @routes_layer.render_svg if @render_routes
-      Log.debug { "svg content done" }
-    end
-
     return String.build do |s|
       s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' "
       s << "viewBox='#{@tiles_layer.cropped_x} #{@tiles_layer.cropped_y} #{@tiles_layer.cropped_width} #{@tiles_layer.cropped_height}' "
-      s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' >\n"
-      # first we need render all to know about padding
-      s << svg_content
+      s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' >\n"
+
+      s << @tiles_layer.render_svg
+      s << @photo_layer.render_svg
+      s << @routes_layer.render_svg if @render_routes
+
       s << "</svg>\n"
       Log.debug { "svg done" }
     end
