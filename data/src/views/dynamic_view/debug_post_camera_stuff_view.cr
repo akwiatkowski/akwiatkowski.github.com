@@ -98,7 +98,7 @@ module DynamicView
     end
 
     TABLE_HEADERS = {
-      title_short:              "Tytuł",
+      title_short:        "Tytuł",
       photo_count_string: "Ilosć zdj.",
       main_camera:        "Gł. aparat",
       main_lens:          "Gł. obiektyw",
@@ -151,7 +151,7 @@ module DynamicView
       return {
         post:               post,
         title:              post.title,
-        title_short:              post.title[0..20],
+        title_short:        post.title[0..20],
         photo_count:        published_photos.size,
         photo_count_string: "#{main_lens_count} / #{published_photos.size}",
         main_camera:        main_camera,
@@ -185,17 +185,17 @@ module DynamicView
     end
 
     def short_name(name)
-      name.gsub("Sigma 100-400mm f5-6.3", "Sigma 100-400mm").
-        gsub(" + TC 1.4x", "+1.4x").
-        gsub(" + TC 2.0x", "+2.0x").
-        gsub("Olympus", "Ol").
-        gsub("Pentax Limited", "Ptx L").
-        gsub("Pentax", "Ptx").
-        gsub("Macro", "m.").
-        gsub("Sigma", "Sig").
-        gsub("Sony", "Sny").
-        gsub("Tamron", "Tamr").
-        gsub("Tokina", "Tkina")
+      name.gsub("Sigma 100-400mm f5-6.3", "Sigma 100-400mm")
+        .gsub(" + TC 1.4x", "+1.4x")
+        .gsub(" + TC 2.0x", "+2.0x")
+        .gsub("Olympus", "Ol")
+        .gsub("Pentax Limited", "Ptx L")
+        .gsub("Pentax", "Ptx")
+        .gsub("Macro", "m.")
+        .gsub("Sigma", "Sig")
+        .gsub("Sony", "Sny")
+        .gsub("Tamron", "Tamr")
+        .gsub("Tokina", "Tkina")
     end
 
     private def generate_image_url
