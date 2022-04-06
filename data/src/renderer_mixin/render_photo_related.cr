@@ -15,6 +15,7 @@ require "../views/gallery_view/index_view"
 require "../views/dynamic_view/portfolio_view"
 require "../views/dynamic_view/exif_stats_view"
 require "../views/dynamic_view/debug_tag_stats_view"
+require "../views/dynamic_view/debug_post_camera_stuff_view"
 require "../views/dynamic_view/timeline_photo_view"
 
 module RendererMixin::RenderPhotoRelated
@@ -41,6 +42,7 @@ module RendererMixin::RenderPhotoRelated
     render_portfolio
 
     render_exif_stats
+    render_debug_post_camera_stuff
   end
 
   def render_gallery_index(**args)
@@ -296,5 +298,10 @@ module RendererMixin::RenderPhotoRelated
       )
       write_output(view_by_tag)
     end
+  end
+
+  def render_debug_post_camera_stuff
+    view = DynamicView::DebugPostCameraStuffView.new(blog: blog)
+    write_output(view)
   end
 end
