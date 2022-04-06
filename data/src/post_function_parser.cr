@@ -244,6 +244,11 @@ class Tremolite::Views::BaseView
   end
 
   def image_size(url)
-    File.size(File.join([public_path, url]))
+    path = File.join([public_path, url])
+    if File.exists?(path)
+      return File.size(path)
+    else
+      return 0
+    end
   end
 end
