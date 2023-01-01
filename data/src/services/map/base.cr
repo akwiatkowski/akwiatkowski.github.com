@@ -34,7 +34,13 @@ class Map::Base
     # by default photos are linked to Post not full src of PhotoEntity
     @photo_direct_link : Bool = false,
     # animated, show routed poly line after some seconds
-    @animated : Bool = false
+    @animated : Bool = false,
+    # only Poland and area
+    # don't include other countries into photomaps
+    # if true set default @coord_range if not set
+    #
+    # enable for maps which loads all photos
+    @limit_to_poland : Bool = true
   )
     Log.info { "Start" }
 
@@ -59,6 +65,12 @@ class Map::Base
     photos_w_coords = all_photos.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
+
+    # small fix to ignore photos from Switzerland because
+    # it will enlarge map too much
+    if @coord_range.nil? && @limit_to_poland == true
+      @coord_range = CoordRange.poland_area
+    end
 
     # select only photos which are within @coord_range
     if @coord_range
