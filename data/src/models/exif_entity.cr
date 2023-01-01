@@ -153,6 +153,9 @@ struct ExifEntity
     "M.300mm F4.0 + MC-14"                         => "Olympus 300mm f4 + TC 1.4x",
     "M.300mm F4.0 + MC-20"                         => "Olympus 300mm f4 + TC 2.0x",
     "OLYMPUS M.300mm F4.0"                         => "Olympus 300mm f4",
+    "OLYMPUS M.100-400mm F5.0-6.3"                 => "Olympus 100-400mm f5-6.3",
+    "OLYMPUS M.7-14mm F2.8"                        => "Olympus 7-14mm f2.8",
+    "OLYMPUS M.8-25mm F4.0"                        => "Olympus 8-25mm f4",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)
