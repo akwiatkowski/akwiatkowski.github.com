@@ -17,9 +17,9 @@ module DynamicView
 
     def inner_html
       return String.build do |s|
-        s << "<table class=\"table\">\n"
+        s << "<table class=\"table small\">\n"
 
-        s << "<tr class=\"small\">\n"
+        s << "<tr class=\"\">\n"
         s << "<th></th>\n"
         TABLE_HEADERS.values.each do |header_title|
           s << "<th>#{header_title}</th>\n"
@@ -67,7 +67,13 @@ module DynamicView
               value_string = "<a href=\"#{url}\" class=\"#{tuple[:css]}\">#{value_string}</a>"
             end
 
-            s << "<td>#{value_string}</td>\n"
+            if key == :title
+              klass_name = "truncate"
+            else
+              klass_name = ""
+            end
+
+            s << "<td class=\"#{klass_name}\">#{value_string}</td>\n"
           end
           s << "</tr>\n"
         end
@@ -77,11 +83,12 @@ module DynamicView
 
     TABLE_HEADERS = {
       title:          "Tytuł",
-      ready:          "Ukończony",
-      text_included:  "Tekst",
-      all_references: "Referencje",
+      ready:          "Done",
+      text_included:  "Txt",
+      all_references: "Ref",
+      route:          "Trasa",
       has_land:       "Krainy",
-      photo_count:    "Zdjęcia",
+      photo_count:    "Zdj",
       coeff:          "Ocena",
     }
 
@@ -91,6 +98,7 @@ module DynamicView
       all_references: "tags",
       has_land:       "signpost",
       photo_count:    "stack", # not used
+      route:          "signpost",
     }
 
     def post_readiness_tuple(post)
@@ -147,10 +155,11 @@ module DynamicView
         all_references:           post.content_html_missing_reference_links == 0,
         contains_vimeo:           post.content_html_contains_vimeo > 0,
         ready:                    post.ready?,
-        title:                    post.title,
+        title:                    "#{post.date}: #{post.title}",
         photo_count:              post.published_photo_entities.size,
         word_count:               post.content_html_word_count,
         missing_references_count: post.content_html_missing_reference_links,
+        route:                    post.has_detailed_route? || false,
         lands_count:              lands_count,
         has_land:                 lands_count > 0,
         coeff:                    i.to_i,

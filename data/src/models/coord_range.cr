@@ -52,6 +52,16 @@ struct CoordRange
     @lon_to_set = true
   end
 
+  def self.poland_area
+    # a bit bigger but it's ok
+    return new(
+      lon_from: 14.0,
+      lat_from: 48.5,
+      lon_to: 24.0,
+      lat_to: 54.9,
+    )
+  end
+
   def +(coord_range : CoordRange)
     self.enlarge!(
       [coord_range.lat_from, coord_range.lat_to].min,

@@ -127,8 +127,13 @@ class Tremolite::Post
     end
   end
 
+  def has_detailed_route?
+    return true if @coords_file && @coords_type
+    return false
+  end
+
   def detailed_routes : Array(PostRouteObject)
-    if @coords_file && @coords_type
+    if has_detailed_route?
       # detailed route file is specified
       if @detailed_routes.nil?
         # load it when not loaded yet
