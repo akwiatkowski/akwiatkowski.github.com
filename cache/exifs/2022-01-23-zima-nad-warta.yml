@@ -1,0 +1,669 @@
+---
+- image_filename: header.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+- image_filename: 2022_01_22__13_48_P1222684.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.10245833333334
+  lon: 17.33075
+  altitude: 70.0
+  focal_length: 420.0
+  focal_length_35: 840.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 39.99
+  iso: 200
+  width: 2733
+  height: 2089
+  lens: M.300mm F4.0 + MC-14
+  camera: E-M1MarkIII
+  time: 2022-01-22 13:48:18.000000000+01:00
+- image_filename: 2022_01_22__15_31_P1222863.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09690277777778
+  lon: 17.34322222222222
+  altitude: 67.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.03
+  iso: 200
+  width: 8045
+  height: 6016
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:31:32.000000000+01:00
+- image_filename: 2022_01_22__15_55_P1222907.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.102402777777776
+  lon: 17.331055555555555
+  altitude: 66.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7874
+  height: 5888
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:55:09.000000000+01:00
+- image_filename: 2022_01_22__15_30_P1222860.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.096875000000004
+  lon: 17.34323611111111
+  altitude: 67.0
+  focal_length: 25.0
+  focal_length_35: 50.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.3
+  iso: 200
+  width: 8082
+  height: 5984
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:30:07.000000000+01:00
+- image_filename: 2022_01_22__14_53_P1222801.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09309722222223
+  lon: 17.343305555555553
+  altitude: 65.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 64.5
+  iso: 200
+  width: 8122
+  height: 6028
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:53:35.000000000+01:00
+- image_filename: 2022_01_22__15_21_P1222846.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09459722222223
+  lon: 17.349138888888888
+  altitude: 67.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8167
+  height: 6089
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:21:06.000000000+01:00
+- image_filename: 2022_01_22__15_34_P1222869.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09729166666667
+  lon: 17.342402777777778
+  altitude: 68.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 9.81
+  iso: 200
+  width: 8053
+  height: 5928
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:34:06.000000000+01:00
+- image_filename: 2022_01_22__15_04_P1222824.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.091861111111115
+  lon: 17.348902777777777
+  altitude: 64.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.95
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:04:19.000000000+01:00
+- image_filename: 2022_01_22__14_17_P1222739.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.098847222222226
+  lon: 17.335416666666667
+  altitude: 64.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 32.9
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:17:32.000000000+01:00
+- image_filename: 2022_01_22__15_28_P1222856.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09663888888889
+  lon: 17.343833333333333
+  altitude: 67.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.81
+  iso: 200
+  width: 7929
+  height: 5755
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:28:25.000000000+01:00
+- image_filename: 2022_01_22__14_11_P1222723.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09963888888889
+  lon: 17.334194444444442
+  altitude: 63.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 28.4
+  iso: 200
+  width: 5183
+  height: 3869
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:11:07.000000000+01:00
+- image_filename: 2022_01_22__14_22_P1222753.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.097944444444444
+  lon: 17.335930555555553
+  altitude: 64.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.48
+  iso: 200
+  width: 8192
+  height: 6126
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:22:37.000000000+01:00
+- image_filename: 2022_01_22__15_06_P1222829.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.091972222222225
+  lon: 17.34973611111111
+  altitude: 65.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 38.92
+  iso: 200
+  width: 7980
+  height: 5830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:06:24.000000000+01:00
+- image_filename: 2022_01_22__13_56_P1222697.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.100861111111115
+  lon: 17.333055555555557
+  altitude: 65.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.26
+  iso: 200
+  width: 8175
+  height: 6113
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 13:56:42.000000000+01:00
+- image_filename: 2022_01_22__14_35_P1222778.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.094722222222224
+  lon: 17.334805555555555
+  altitude: 64.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 7.62
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:35:34.000000000+01:00
+- image_filename: 2022_01_22__14_39_P1222783.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.094319444444444
+  lon: 17.335944444444443
+  altitude: 63.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 3.27
+  iso: 200
+  width: 8101
+  height: 5996
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:39:53.000000000+01:00
+- image_filename: 2022_01_22__13_35_P1222643.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.104416666666665
+  lon: 17.326430555555554
+  altitude: 71.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.12
+  iso: 200
+  width: 6791
+  height: 6016
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 13:35:31.000000000+01:00
+- image_filename: 2022_01_22__14_11_P1222725.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.099694444444445
+  lon: 17.33436111111111
+  altitude: 65.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.11
+  iso: 200
+  width: 8196
+  height: 6129
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:11:58.000000000+01:00
+- image_filename: 2022_01_22__14_17_P1222740.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.098847222222226
+  lon: 17.335416666666667
+  altitude: 64.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 42.67
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:17:34.000000000+01:00
+- image_filename: 2022_01_22__14_31_P1222771.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.095888888888894
+  lon: 17.3345
+  altitude: 64.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 4.16
+  iso: 200
+  width: 8084
+  height: 5986
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:31:15.000000000+01:00
+- image_filename: 2022_01_22__15_11_P1222836.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09366666666667
+  lon: 17.352486111111112
+  altitude: 64.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.31
+  iso: 200
+  width: 8068
+  height: 6033
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:11:04.000000000+01:00
+- image_filename: 2022_01_22__14_09_P1222720.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09963888888889
+  lon: 17.334194444444442
+  altitude: 63.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 11.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 6.53
+  iso: 100
+  width: 5122
+  height: 3824
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:09:43.000000000+01:00
+- image_filename: 2022_01_22__14_42_P1222786.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09401388888889
+  lon: 17.337319444444443
+  altitude: 65.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:42:44.000000000+01:00
+- image_filename: 2022_01_22__15_32_P1222864.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09691666666667
+  lon: 17.34322222222222
+  altitude: 67.0
+  focal_length: 50.0
+  focal_length_35: 100.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.26
+  iso: 200
+  width: 8096
+  height: 5994
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:32:00.000000000+01:00
+- image_filename: 2022_01_22__16_24_P1222944.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.10951388888889
+  lon: 17.319805555555554
+  altitude: 66.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 2.1
+  iso: 200
+  width: 8133
+  height: 6052
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 16:24:46.000000000+01:00
+- image_filename: 2022_01_22__15_35_P1222873.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09751388888889
+  lon: 17.341902777777776
+  altitude: 68.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 21.82
+  iso: 200
+  width: 8041
+  height: 5918
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:35:38.000000000+01:00
+- image_filename: 2022_01_22__14_27_P1222764.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.096375
+  lon: 17.334805555555555
+  altitude: 65.0
+  focal_length: 23.0
+  focal_length_35: 46.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 3.53
+  iso: 200
+  width: 8146
+  height: 6078
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:27:46.000000000+01:00
+- image_filename: 2022_01_22__14_18_P1222745.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.098847222222226
+  lon: 17.335583333333332
+  altitude: 63.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 14.77
+  iso: 200
+  width: 5199
+  height: 3882
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:18:27.000000000+01:00
+- image_filename: 2022_01_22__13_26_P1222635.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.109319444444445
+  lon: 17.321305555555554
+  altitude: 55.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 15.23
+  iso: 200
+  width: 8012
+  height: 5871
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 13:26:22.000000000+01:00
+- image_filename: 2022_01_22__14_37_P1222781.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09447222222222
+  lon: 17.33536111111111
+  altitude: 63.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 4.43
+  iso: 200
+  width: 8104
+  height: 6007
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:37:02.000000000+01:00
+- image_filename: 2022_01_22__13_58_P1222700.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.100430555555555
+  lon: 17.33361111111111
+  altitude: 65.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 25.72
+  iso: 200
+  width: 7659
+  height: 5707
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 13:58:23.000000000+01:00
+- image_filename: 2022_01_22__14_24_P1222755.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.096986111111114
+  lon: 17.335430555555554
+  altitude: 65.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 18.61
+  iso: 200
+  width: 8169
+  height: 6109
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 14:24:47.000000000+01:00
+- image_filename: 2022_01_22__15_26_P1222853.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09609722222223
+  lon: 17.34508333333333
+  altitude: 67.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  focus_distance: 59.58
+  iso: 200
+  width: 8086
+  height: 5977
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:26:29.000000000+01:00
+- image_filename: 2022_01_22__16_00_P1222917.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.10213888888889
+  lon: 17.328430555555556
+  altitude: 65.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 16.09
+  iso: 200
+  width: 8152
+  height: 6070
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 16:00:12.000000000+01:00
+- image_filename: 2022_01_22__15_29_P1222859.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.096875000000004
+  lon: 17.343277777777775
+  altitude: 67.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.74
+  iso: 200
+  width: 7966
+  height: 5808
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:29:42.000000000+01:00
+- image_filename: 2022_01_22__15_19_P1222844.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09438888888889
+  lon: 17.350013888888892
+  altitude: 67.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.47
+  iso: 200
+  width: 7994
+  height: 5856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:19:45.000000000+01:00
+- image_filename: 2022_01_22__15_00_P1222818.jpg
+  post_slug: 2022-01-23-zima-nad-warta
+  lat: 52.09251388888889
+  lon: 17.34651388888889
+  altitude: 64.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 75.85
+  iso: 200
+  width: 6010
+  height: 8107
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-01-22 15:00:28.000000000+01:00

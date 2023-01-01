@@ -1,0 +1,183 @@
+---
+- image_filename: header.jpg
+  post_slug: 2022-06-24-przed-upalem
+- image_filename: 2022_06_24__06_54_P6242328.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.53788888888889
+  lon: 17.362847222222225
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 24.13
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 06:54:43.000000000+02:00
+- image_filename: 2022_06_24__07_09_P6242362.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.539138888888886
+  lon: 17.342930555555554
+  altitude: 118.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 2.04
+  iso: 200
+  width: 8037
+  height: 5907
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:09:55.000000000+02:00
+- image_filename: 2022_06_24__07_13_P6242363.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.538125
+  lon: 17.333499999999997
+  altitude: 119.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.29
+  iso: 200
+  width: 5137
+  height: 3769
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:13:12.000000000+02:00
+- image_filename: 2022_06_24__07_26_P6242372.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.52184722222222
+  lon: 17.28840277777778
+  altitude: 122.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 3.97
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:26:59.000000000+02:00
+- image_filename: 2022_06_24__07_02_P6242349.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.54705555555555
+  lon: 17.353361111111113
+  altitude: 115.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 27.4
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:02:26.000000000+02:00
+- image_filename: 2022_06_24__07_55_P6242386.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.500277777777775
+  lon: 17.20301388888889
+  altitude: 103.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 71.86
+  iso: 200
+  width: 8160
+  height: 6076
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:55:30.000000000+02:00
+- image_filename: 2022_06_24__07_30_P6242381.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.52180555555555
+  lon: 17.277444444444445
+  altitude: 120.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 244.54
+  iso: 200
+  width: 8152
+  height: 6093
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:30:27.000000000+02:00
+- image_filename: 2022_06_24__06_44_P6242326.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.51343055555556
+  lon: 17.365680555555556
+  altitude: 116.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8194
+  height: 6127
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 06:44:53.000000000+02:00
+- image_filename: 2022_06_24__07_01_P6242345.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.54705555555555
+  lon: 17.353347222222222
+  altitude: 115.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7716
+  height: 6106
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 07:01:48.000000000+02:00
+- image_filename: 2022_06_24__06_58_P6242340.jpg
+  post_slug: 2022-06-24-przed-upalem
+  lat: 52.54197222222222
+  lon: 17.359583333333333
+  altitude: 113.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 25.28
+  iso: 200
+  width: 4724
+  height: 3556
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-06-24 06:58:12.000000000+02:00

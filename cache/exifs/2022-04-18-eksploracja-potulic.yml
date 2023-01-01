@@ -1,0 +1,35 @@
+---
+- image_filename: 2022_04_18__12_34_DSC07007.jpg
+  post_slug: 2022-04-18-eksploracja-potulic
+  lat: 52.80490277777778
+  lon: 17.036805555555556
+  altitude: 118.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6004
+  height: 3959
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-04-18 12:34:39.000000000+02:00
+- image_filename: 2022_04_18__05_25_DSC06630.jpg
+  post_slug: 2022-04-18-eksploracja-potulic
+  lat: 52.809486111111106
+  lon: 17.216124999999998
+  altitude: 0.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-04-18 05:25:20.000000000+02:00
