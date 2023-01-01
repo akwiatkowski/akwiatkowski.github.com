@@ -21,7 +21,7 @@ class PhotoMapSvgView < Tremolite::Views::AbstractView
     @render_photo_dots : Bool = false,
     @photo_direct_link : Bool = false,
     @animated : Bool = false,
-    @limit_to_poland : Bool = true,
+    @limit_to_poland : Bool = true
   )
     @map = Map::Base.new(
       blog: @blog,
