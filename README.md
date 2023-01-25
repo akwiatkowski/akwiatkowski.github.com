@@ -43,6 +43,7 @@ This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
   * [ ] Fix duplicated photos: header and regular filename
   * [ ] Gallery rendered - browser like
   * [ ] Move `header_timeline` markdown flag for photo timeline to tags by using `photo_header`
+  * [ ] Add `horizontal?` to exif and filter only horizontal photos for gallery header
 
 ## Installation
 
