@@ -1,0 +1,325 @@
+---
+- image_filename: header.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+- image_filename: 2023_01_16__15_16_DJI_0311.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 330.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 4032
+  height: 3024
+  camera: FC3582
+  time: 2023-01-16 15:16:02.000000000+01:00
+- image_filename: 2023_01_16__15_16_DJI_0313.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 330.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7634
+  height: 5816
+  camera: FC3582
+  time: 2023-01-16 15:16:20.000000000+01:00
+- image_filename: 2023_01_16__15_17_DJI_0315.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 331.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:17:18.000000000+01:00
+- image_filename: 2023_01_16__15_18_DJI_0318.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 328.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:18:33.000000000+01:00
+- image_filename: 2023_01_16__15_19_DJI_0321.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 348.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:19:40.000000000+01:00
+- image_filename: 2023_01_16__15_19_DJI_0322.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 348.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8049
+  height: 6029
+  camera: FC3582
+  time: 2023-01-16 15:19:52.000000000+01:00
+- image_filename: 2023_01_16__15_21_DJI_0325.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 348.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:21:45.000000000+01:00
+- image_filename: 2023_01_16__15_26_DJI_0340.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 342.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:26:13.000000000+01:00
+- image_filename: 2023_01_16__15_24_DJI_0336.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:24:54.000000000+01:00
+- image_filename: 2023_01_16__15_25_DJI_0337.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:25:02.000000000+01:00
+- image_filename: 2023_01_16__15_23_DJI_0330.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:23:24.000000000+01:00
+- image_filename: 2023_01_16__15_23_DJI_0331.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 7872
+  height: 5378
+  camera: FC3582
+  time: 2023-01-16 15:23:33.000000000+01:00
+- image_filename: 2023_01_16__15_25_DJI_0339.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 160
+  width: 7812
+  height: 5815
+  camera: FC3582
+  time: 2023-01-16 15:25:58.000000000+01:00
+- image_filename: 2023_01_16__15_24_DJI_0335.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 8011
+  height: 5977
+  camera: FC3582
+  time: 2023-01-16 15:24:40.000000000+01:00
+- image_filename: 2023_01_16__15_24_DJI_0333.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 344.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8064
+  height: 5900
+  camera: FC3582
+  time: 2023-01-16 15:24:12.000000000+01:00
+- image_filename: 2023_01_16__15_27_DJI_0345.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 340.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:27:32.000000000+01:00
+- image_filename: 2023_01_16__15_27_DJI_0344.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 340.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:27:23.000000000+01:00
+- image_filename: 2023_01_16__15_27_DJI_0346.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 339.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 120
+  width: 8034
+  height: 6015
+  camera: FC3582
+  time: 2023-01-16 15:27:49.000000000+01:00
+- image_filename: 2023_01_16__15_29_DJI_0349.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 383.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:29:29.000000000+01:00
+- image_filename: 2023_01_16__15_29_DJI_0350_01.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 383.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:29:39.000000000+01:00
+- image_filename: 2023_01_16__15_47_DJI_0357_01.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 285.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:47:06.000000000+01:00
+- image_filename: 2023_01_16__15_29_DJI_0351.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 382.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-16 15:29:50.000000000+01:00
+- image_filename: 2023_01_16__15_46_DJI_0356.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  altitude: 285.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7984
+  height: 5941
+  camera: FC3582
+  time: 2023-01-16 15:46:54.000000000+01:00

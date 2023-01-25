@@ -1,0 +1,393 @@
+---
+- image_filename: 2023_01_08__12_38_DJI_0169.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 188.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:38:56.000000000+01:00
+- image_filename: 2023_01_08__11_55_DJI_0124.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 151.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:55:11.000000000+01:00
+- image_filename: 2023_01_08__12_12_DJI_0145.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 209.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:12:24.000000000+01:00
+- image_filename: 2023_01_08__12_37_DJI_0165.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 188.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:37:38.000000000+01:00
+- image_filename: 2023_01_08__12_13_DJI_0149.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 209.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:13:41.000000000+01:00
+- image_filename: 2023_01_08__12_52_DJI_0191.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 175.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:52:16.000000000+01:00
+- image_filename: 2023_01_08__11_56_DJI_0127.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 186.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:56:38.000000000+01:00
+- image_filename: 2023_01_08__12_37_DJI_0163.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 174.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:37:15.000000000+01:00
+- image_filename: 2023_01_08__12_41_DJI_0178.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 147.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:41:31.000000000+01:00
+- image_filename: 2023_01_08__13_44_DJI_0241.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 188.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 150
+  width: 7372
+  height: 5570
+  camera: FC3582
+  time: 2023-01-08 13:44:13.000000000+01:00
+- image_filename: 2023_01_08__13_27_DJI_0218.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 118.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:27:30.000000000+01:00
+- image_filename: 2023_01_08__11_46_DJI_0120.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 168.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:46:55.000000000+01:00
+- image_filename: 2023_01_08__12_51_DJI_0186.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 175.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:51:06.000000000+01:00
+- image_filename: 2023_01_08__11_57_DJI_0130.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 200.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:57:12.000000000+01:00
+- image_filename: 2023_01_08__12_39_DJI_0171.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 188.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:39:19.000000000+01:00
+- image_filename: 2023_01_08__12_00_DJI_0138.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 200.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:00:26.000000000+01:00
+- image_filename: 2023_01_08__13_21_DJI_0210.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 204.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:21:30.000000000+01:00
+- image_filename: 2023_01_08__12_15_DJI_0154.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 172.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 110
+  width: 8005
+  height: 5967
+  camera: FC3582
+  time: 2023-01-08 12:15:43.000000000+01:00
+- image_filename: 2023_01_08__12_13_DJI_0148.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 209.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:13:29.000000000+01:00
+- image_filename: 2023_01_08__13_40_DJI_0231.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 144.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:40:11.000000000+01:00
+- image_filename: 2023_01_08__13_19_DJI_0203.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 157.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:19:11.000000000+01:00
+- image_filename: 2023_01_08__11_58_DJI_0135.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 199.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:58:47.000000000+01:00
+- image_filename: 2023_01_08__13_20_DJI_0208.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 201.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:20:44.000000000+01:00
+- image_filename: 2023_01_08__13_22_DJI_0212.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 204.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 13:22:03.000000000+01:00
+- image_filename: 2023_01_08__12_37_DJI_0164.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 188.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:37:30.000000000+01:00
+- image_filename: 2023_01_08__11_59_DJI_0136.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 199.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:59:06.000000000+01:00
+- image_filename: 2023_01_08__12_14_DJI_0152.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 152.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 12:14:44.000000000+01:00
+- image_filename: 2023_01_08__11_43_DJI_0113.jpg
+  post_slug: 2023-01-08-swiatniki-obok-warty
+  altitude: 145.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-01-08 11:43:18.000000000+01:00

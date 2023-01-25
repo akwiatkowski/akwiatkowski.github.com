@@ -1,0 +1,39 @@
+---
+- image_filename: header.jpg
+  post_slug: 2022-12-04-jak-robic-timelapse
+- image_filename: 2022_11_19__14_08_PB191316.jpg
+  post_slug: 2022-12-04-jak-robic-timelapse
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  focus_distance: 5.09
+  iso: 200
+  width: 5230
+  height: 3900
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 14:08:49.000000000+01:00
+- image_filename: 2022_11_19__14_46_PB191343.jpg
+  post_slug: 2022-12-04-jak-robic-timelapse
+  lat: 52.48538888888889
+  lon: 17.208458333333333
+  altitude: 0.0
+  focal_length: 75.0
+  focal_length_35: 150.0
+  crop: 2.0
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 6.49
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.75mm F1.8
+  camera: E-M1MarkIII
+  time: 2022-11-19 14:46:53.000000000+01:00

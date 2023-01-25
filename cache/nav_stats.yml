@@ -1,26 +1,26 @@
 ---
-bicycle_distance: 13551
-bicycle_time_length: 1346
-bicycle_count: 237
-hike_distance: 2370
-hike_time_length: 996
-hike_count: 219
-train_distance: 5496
-train_time_length: 191
-train_count: 28
-self_distance: 15921
-self_time_length: 2342
-updated_at: 2022-01-17 17:12:41.118374502+01:00
+bicycle_distance: 14629
+bicycle_time_length: 1472
+bicycle_count: 264
+hike_distance: 2471
+hike_time_length: 1039
+hike_count: 230
+train_distance: 5803
+train_time_length: 198
+train_count: 29
+self_distance: 17100
+self_time_length: 2511
+updated_at: 2023-01-25 14:48:02.217265373+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
-  count: 125
+  count: 127
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 33
+  count: 39
 - name: Łódzkie
   url: /voivodeship/lodzkie/masonry.html
-  count: 3
+  count: 4
 - name: Lubuskie
   url: /voivodeship/lubuskie/masonry.html
   count: 26
@@ -38,19 +38,19 @@ voivodeships_nav:
   count: 12
 - name: Pomorskie
   url: /voivodeship/pomorskie/masonry.html
-  count: 42
+  count: 43
 - name: Śląskie
   url: /voivodeship/slaskie/masonry.html
   count: 9
 - name: Warmińsko-mazurskie
   url: /voivodeship/warminsko_mazurskie/masonry.html
-  count: 12
+  count: 14
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 154
+  count: 158
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
-  count: 25
+  count: 27
 lands_nav:
 - name: Karkonosze
   url: /land/karkonosze/masonry.html
@@ -100,19 +100,19 @@ lands_nav:
 tags_nav:
 - name: Najlepsze
   url: /tag/best/masonry.html
-  count: 99
+  count: 103
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 208
+  count: 217
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 171
+  count: 174
 - name: Kolejowe
   url: /tag/train/masonry.html
   count: 19
 - name: Zdjęcia
   url: /tag/photo/masonry.html
-  count: 95
+  count: 98
 - name: Góry
   url: /tag/mountains/masonry.html
   count: 105
@@ -121,4 +121,4 @@ tags_nav:
   count: 11
 - name: Bikepacking
   url: /tag/bikepacking/masonry.html
-  count: 3
+  count: 4
