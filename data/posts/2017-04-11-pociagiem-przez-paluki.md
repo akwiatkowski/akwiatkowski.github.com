@@ -204,7 +204,7 @@ zielone pola. Zachodzące powoli Słońce dodawało barw. Bardzo chętnie bym
 pojeździł po tych terenach tego dnia, ale po otwarciu okna pociągu czułem
 jaki jest wiatr i szybko mi mijała ta chęć.
 
-{% photo "IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina","tag:spring" %}
+{% photo "IMGP3898raw1.jpg","Chwila wiosny niedaleko Komasina","tag:timeline,tag:spring" %}
 
 Za [Janowcem Wielkopolskim][wiki-janowiec-wielkopolski] jeszcze chwilę
 obserwowałem widoki przez okno. Były one ładne, jednak bardzo podobne

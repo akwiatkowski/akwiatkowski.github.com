@@ -58,6 +58,8 @@ pois:
 [wiki-czerniak]: https://pl.wikipedia.org/wiki/Czerniak_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 [wiki-kwieciszewo]: https://pl.wikipedia.org/wiki/Kwieciszewo
 
+{% photo_header "Most kolejowy na trasie z Mogilna do Strzelna","" %}
+
 Wstęp
 -----
 
@@ -107,7 +109,7 @@ Jadąc na północ dotarliśmy do [Wymysłowa Szlacheckiego][wiki-wymyslowo-szla
 gdzie kończy się droga i zaczyna las. Nie pamiętam czy jest tam jakaś droga
 przez las, którą można spokojnie jechać rowerem.
 
-{% photo "IMGP4301raw1.jpg","Jezioro Palędzie" %}
+{% photo "IMGP4301raw1.jpg","Jezioro Palędzie","tag:timeline" %}
 
 Wróciliśmy i jechaliśmy dalej do [Palędzia Kościelnego][wiki-paledzie-koscielne].
 Jest tam bardzo fajna górka z której jest widok na
@@ -118,7 +120,7 @@ miejscowości [Drewno][wiki-drewno] dlatego zaproponowałem abyśmy się tam uda
 Jest tam ciekawy zjazd w stronę Jeziora Drewienko (a raczej jego okolic),
 który kończy się w miejscowości [Belki][wiki-belki].
 
-{% photo "IMGP4333raw1.jpg","Jezioro Wieniec","tag:timeline" %}
+{% photo "IMGP4333raw1.jpg","Jezioro Wieniec","tag:timeline,tag:good" %}
 
 Wracając pojechaliśmy przez [Wieniec][wiki-wieniec] w stronę [Mogilna][wiki-mogilno].
 Raczej niewiele ciekawego było na trasie. Już taka nieduża miejscowość jak
@@ -135,7 +137,7 @@ Zatrzymaliśmy się na skrzyżowaniu w [Kunowie][wiki-kunowo] i prosto poszliśm
 w kierunku Jeziora Pakoskiego, chociaż może ono mieć w tym miejscu inną nazwę
 gdyż jezioro jest bardzo długie - około 20km długości.
 
-{% photo "IMGP4382raw1.jpg","Jaszczurka na moście kolejowym" %}
+{% photo "IMGP4382raw1.jpg","Jaszczurka na moście kolejowym","tag:macro" %}
 
 Najpierw poszedłem na wysokości torów i dotarłem na most. Ma on sporo dziur
 i nie był projektowany z myślą aby ludzie po nim chodzili, dlatego zachowałem
