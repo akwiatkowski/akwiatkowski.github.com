@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2022_03_05__14_55_P3054116.jpg
 image_position:         50% 70%
-tags:                   [car, hike, main]
+tags:                   [car, main]
 towns:                  [wielkopolskie, kujawsko_pomorskie, wagrowiec, golancz, wyrzysk, lobzenica, mrocza, sadki, naklo_nad_notecia, szubin, znin, rogowo_zninski, mieleszyn, gniezno]
 
 coords:                 [{"route": [], "type": "hike"}]

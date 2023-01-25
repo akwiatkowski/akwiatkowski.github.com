@@ -10,7 +10,7 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_07_18__16_52__7180460.jpg
 image_position:         50% 46%
-tags:                   [bicycle, main]
+tags:                   [bicycle, best, main]
 towns:                  [kujawsko_pomorskie, jezewo, dragacz, grudziadz, gruta, swiecie_nad_osa, jablonowo_pomorskie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
@@ -53,6 +53,8 @@ pois:
 [wiki-jablonowo]: https://pl.wikipedia.org/wiki/Jab%C5%82onowo_(powiat_mi%C4%99dzychodzki)
 [wiki-kitnowka]: https://pl.wikipedia.org/wiki/Kitn%C3%B3wko
 [wiki-nowy-mlyn]: https://pl.wikipedia.org/wiki/Nowy_M%C5%82yn_(powiat_wolszty%C5%84ski)
+
+{% photo_header "Droga ze wsi Słup w okolicy rzeki Osa","tag:summer,tag:timeline,tag:countryside" %}
 
 ## Wstęp
 

@@ -23,10 +23,10 @@ temperature:            24
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
-#    type: todo / visited
+  - lat: 52.45744
+    lon: 17.24834
+    name: Najpiękniejsze okolice Pobiedzisk - pofalowane pola przed doliną Cybiny
+    type: visited
 
 ---
 
@@ -38,3 +38,22 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5575722671/embed/944c92bc3b4cfd19270e95b145305b9c33139557'></iframe>
 
 ## Szczegóły
+
+TODO dlaczego krótka wycieczka, brak czasu
+
+Ruszyliśmy ulicą Kaczyńską jadąc w stronę [Kaczyny][wiki-kaczyna]. Tego
+dnia niebyło było pochmurne ale z ten ładniejszy sposób.
+
+Droga stała się gruntową ale jeszcze jakoś mogłem jechać na moim gravelu.
+
+W samej [osadzie][wiki-kaczyna] trasa się trochę komplikowała. Jest tutaj jakieś
+prywatne gospodarstwo jednak nie widząc żadnych tabliczek przejechaliśmy tak aby
+dostać się do czarnego szlaku rowerowego.
+
+Wyjechaliśmy na drogę gruntową do [Promna][wiki-promno]. Wydaje mi się,
+że to miejsce to najciekawsza okolica [Pobiedzisk][wiki-pobiedzisk]. Planowałem tutaj
+przyjechać na zachód słońca ale nigdy mi się nie udało.
+
+Jechaliśmy w stronę [Biskupic][wiki-biskupice] tak aby dostać się do [Jerzykowa][wiki-jerzykowo]
+przez [Borowo-Młyn][wiki-borowo-mlyn] a następnie do [Biskupic][wiki-biskupice]
+z których wróciliśmy pociągiem.

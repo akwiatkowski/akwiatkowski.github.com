@@ -4,7 +4,7 @@ title:                  "Co jest ciekawego w lesie?"
 subtitle:               "spacer przez wschodnią część Puszczy Noteckiej, ścieżka"
 desc:                   ""
 keywords:               []
-date:                   2022-12-12 17:00:00
+date:                   2022-01-10 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

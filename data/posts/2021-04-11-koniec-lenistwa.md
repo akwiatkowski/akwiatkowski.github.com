@@ -39,3 +39,51 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5109327760/embed/1ab8d92710a0bb3eb3274fd36081ed70703f9558'></iframe>
 
 ## Szczegóły
+
+Dojechaliśmy pociągiem do przystanku [Pobiedziska Letnisko][wiki-pobiedziska-letnisko].
+Chciałem Maciejowi pokazać przejście przez "tamę bobrową" (nie jest chyba bobrowa
+ale wygląda trochę podobnie) przez rzekę [Główną][wiki-rzeka-glowna].
+
+Wystarczyło przejechać kilkaset metrów aby wjechać w las i tam wspomniana
+"tama" była stosunkowo blisko.
+
+W mojej ocenie jest to najciekawszy element dzisiejszej wycieczki a jednocześnie
+największa trudność.
+
+Niemrawie pojawiała się w lesie trawa. Sam las jest w mojej ocenie bardzo ładny.
+Widać, że nie jest on za bardzo zarządzany. Bardzo bym chciał aby było tak
+dłużej.
+
+Kierowaliśmy się do [Gorzkiego Pola][wiki-gorzkie-polo].
+
+Dotarliśmy do ulicy Morwowej, a dokładniej do skrzyżowania dróg gruntowych,
+którą można dojechać do [Jerzyna][wiki-jerzyn].
+
+Skręciliśmy na północ kierując się w stronę [Wronczyna][wiki-wronczyn]. Tam
+Maciej i ja postanowiliśmy zrobić szybszą pętlę.
+
+Przejechaliśmy połtora kilometra i skręciliśmy w stronę [Bednar][wiki-bednaty].
+
+Chcieliśmy objechać wokół lotniska. TODO Stęszewko
+
+Gdy dojechaliśmy do [Turostówka][wiki-turostowko] byliśmy już w połowie
+szybkie pętli. Pomimo przedwiosennej pory roku ta wieś mi się podobała.
+
+W [Krześlicach][wiki-krzeslice] podobały mi się niskie budynki mieszkalne z cegły.
+
+Wróciliśmy do [Wronczyna][wiki-wronczyn] i teraz grupą kierowaliśmy się w stronę
+[Murowanej Gośliny][wiki-murowana-goslina].
+
+Przejechaliśmy 5km do [Tuczna][wiki-tuczno] po drodze asfaltowej przez las.
+Jest to jedna z przelotówek przez [Puszczę Zielonkę][wiki-puszcza-zielonka].
+Samo [Tuczno][wiki-tuczno] jest bardzo popularną miejscowością
+dla rowerzystów, którzy lubią popularne ścieżki. W ciepły weekend robią
+się tutaj tłumy.
+
+Do [Pławna][wiki-plawno] było kolejne 5km drogi. Droga przez las, aczkolwiek
+bardzo ruchliwa rowerowo.
+
+Nie chcąc jechać popularną drogą asfaltową do [Murowanej Gośliny][wiki-murowana-goslina]
+podjechaliśmy do [Boduszewa][wiki-boduszewo].
+
+O tej porze krajobraz pól był wysoce monotonny.

@@ -14,6 +14,8 @@ towns:                  [dolnoslaskie, bystrzyca_klodzka]
 lands:                  [gory_bystrzyckie]
 
 coords:                 [{"route": [[50.28395,16.64764], [50.29952,16.65416], [50.28685,16.60386], [50.26425,16.59322], [50.24011,16.62772], [50.23912,16.63682]], "type": "hike"}]
+coords_file:            "2018-11-04-wioski-na-zachod-od-bystrzycy.json"
+coords_type:            "hike"
 distance:               18 # 22 + 2
 time_spent:             9 # 10 + 1
 elevation:              408 # 408

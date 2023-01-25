@@ -14,8 +14,8 @@ tags:                   [hike, todo]
 towns:                  [kujawsko_pomorskie, janowiec_wielkopolski, znin]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2021-05-15-okolica-jeziora-zarnickiego.json"
+coords_type:            "hike"
 distance:               7
 time_spent:             3
 elevation:              36

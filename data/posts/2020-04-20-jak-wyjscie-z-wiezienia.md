@@ -33,6 +33,9 @@ pois:
 
 ## Wstęp
 
+Polski rząd próbował różnych metod aby walczyć z pandemią. Jednym z nich było
+zamknięcie
+
 ## Opis trasy
 
 ## Szczegóły

@@ -56,6 +56,8 @@ pois:
 [wiki-ludowice]: https://pl.wikipedia.org/wiki/Ludowice
 [wiki-zielen]: https://pl.wikipedia.org/wiki/Ziele%C5%84_(wojew%C3%B3dztwo_kujawsko-pomorskie)
 
+{% photo_header "W czasie żniw","tag:summer,tag:timeline,tag:countryside" %}
+
 ## Wstęp
 
 Po tak dobrych doświadczeniach
