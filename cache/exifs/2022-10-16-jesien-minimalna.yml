@@ -1,0 +1,1480 @@
+---
+- image_filename: header.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+- image_filename: 2022_10_16__12_34_DSC02683.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87452777777778
+  lon: 15.959916666666667
+  altitude: 432.0
+  focal_length: 131.0
+  focal_length_35: 131.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:34:55.000000000+02:00
+- image_filename: 2022_10_16__09_49_DSC02528.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.81381944444444
+  lon: 16.06865277777778
+  altitude: 465.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:49:20.000000000+02:00
+- image_filename: 2022_10_16__09_35_DSC02330.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.750861111111114
+  lon: 16.20047222222222
+  altitude: 581.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5601
+  height: 3764
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:35:52.000000000+02:00
+- image_filename: 2022_10_16__11_43_PA160933.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86684722222222
+  lon: 15.996902777777777
+  altitude: 418.0
+  focal_length: 17.0
+  focal_length_35: 34.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:43:32.000000000+02:00
+- image_filename: 2022_10_16__14_24_PA161042.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.875750000000004
+  lon: 15.939180555555556
+  altitude: 481.0
+  focal_length: 34.0
+  focal_length_35: 68.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.03
+  iso: 200
+  width: 7988
+  height: 5521
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:24:26.000000000+02:00
+- image_filename: 2022_10_16__14_55_DSC02780.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.872166666666665
+  lon: 15.940472222222223
+  altitude: 461.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 14:55:08.000000000+02:00
+- image_filename: 2022_10_16__11_21_PA160903.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86848611111111
+  lon: 16.01072222222222
+  altitude: 434.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.71
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:21:21.000000000+02:00
+- image_filename: 2022_10_16__10_54_PA160864.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86786111111111
+  lon: 16.023138888888887
+  altitude: 453.0
+  focal_length: 70.0
+  focal_length_35: 140.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 21.47
+  iso: 200
+  width: 8138
+  height: 6047
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:54:42.000000000+02:00
+- image_filename: 2022_10_16__09_16_DSC02258.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.761722222222225
+  lon: 16.265194444444443
+  altitude: 574.0
+  focal_length: 93.0
+  focal_length_35: 93.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 6036
+  height: 4006
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:16:10.000000000+02:00
+- image_filename: 2022_10_16__12_56_DSC02715.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87663888888889
+  lon: 15.949152777777778
+  altitude: 495.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5950
+  height: 3818
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:56:03.000000000+02:00
+- image_filename: 2022_10_16__10_44_PA160843.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86552777777778
+  lon: 16.023527777777776
+  altitude: 442.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 64.75
+  iso: 200
+  width: 8139
+  height: 6071
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:44:32.000000000+02:00
+- image_filename: 2022_10_16__12_52_DSC02691.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87625
+  lon: 15.951416666666667
+  altitude: 482.0
+  focal_length: 78.0
+  focal_length_35: 78.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:52:37.000000000+02:00
+- image_filename: 2022_10_16__10_59_PA160872.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86694444444444
+  lon: 16.021291666666666
+  altitude: 448.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 60.24
+  iso: 200
+  width: 8126
+  height: 6086
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:59:02.000000000+02:00
+- image_filename: 2022_10_16__14_25_PA161045.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87526388888889
+  lon: 15.939472222222223
+  altitude: 479.0
+  focal_length: 44.0
+  focal_length_35: 88.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 34.56
+  iso: 200
+  width: 8126
+  height: 6074
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:25:51.000000000+02:00
+- image_filename: 2022_10_16__11_21_PA160904.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86848611111111
+  lon: 16.01072222222222
+  altitude: 434.0
+  focal_length: 80.0
+  focal_length_35: 160.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 27.72
+  iso: 200
+  width: 5015
+  height: 3546
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:21:22.000000000+02:00
+- image_filename: 2022_10_16__11_50_PA160941.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86533333333333
+  lon: 15.991444444444443
+  altitude: 410.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.86
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:50:06.000000000+02:00
+- image_filename: 2022_10_16__09_21_DSC02289.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.761722222222225
+  lon: 16.265194444444443
+  altitude: 574.0
+  focal_length: 91.0
+  focal_length_35: 91.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:21:13.000000000+02:00
+- image_filename: 2022_10_16__12_52_DSC02695.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87629166666667
+  lon: 15.951180555555554
+  altitude: 484.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 5987
+  height: 3932
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:52:56.000000000+02:00
+- image_filename: 2022_10_16__15_06_PA161082.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87411111111111
+  lon: 15.93398611111111
+  altitude: 439.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 15:06:34.000000000+02:00
+- image_filename: 2022_10_16__09_45_DSC02487.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.813624999999995
+  lon: 16.069388888888888
+  altitude: 478.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:45:55.000000000+02:00
+- image_filename: 2022_10_16__09_59_DSC02555.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.84733333333334
+  lon: 16.04704166666667
+  altitude: 377.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5702
+  height: 3684
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:59:06.000000000+02:00
+- image_filename: 2022_10_16__14_46_PA161071.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.870125
+  lon: 15.941611111111111
+  altitude: 484.0
+  focal_length: 86.0
+  focal_length_35: 172.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 39.67
+  iso: 200
+  width: 6132
+  height: 8200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:46:59.000000000+02:00
+- image_filename: 2022_10_16__10_20_DSC02630.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85927777777778
+  lon: 16.017902777777778
+  altitude: 406.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 125
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 10:20:52.000000000+02:00
+- image_filename: 2022_10_16__10_51_PA160857.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.867958333333334
+  lon: 16.024958333333334
+  altitude: 453.0
+  focal_length: 16.0
+  focal_length_35: 32.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 8003
+  height: 5856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:51:41.000000000+02:00
+- image_filename: 2022_10_16__09_45_DSC02465.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.81359722222222
+  lon: 16.06947222222222
+  altitude: 494.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:45:29.000000000+02:00
+- image_filename: 2022_10_16__10_13_DSC02601.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85725
+  lon: 16.015416666666667
+  altitude: 406.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5947
+  height: 3902
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 10:13:17.000000000+02:00
+- image_filename: 2022_10_16__14_57_DSC02805.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87301388888889
+  lon: 15.937875
+  altitude: 456.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 14:57:56.000000000+02:00
+- image_filename: 2022_10_16__09_37_DSC02360.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.758805555555554
+  lon: 16.175430555555558
+  altitude: 570.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:37:19.000000000+02:00
+- image_filename: 2022_10_16__14_06_PA161020.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87838888888889
+  lon: 15.936805555555555
+  altitude: 477.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 2.18
+  iso: 200
+  width: 8140
+  height: 6064
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:06:49.000000000+02:00
+- image_filename: 2022_10_16__10_09_PA160810.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85534722222222
+  lon: 16.01488888888889
+  altitude: 392.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.64
+  iso: 200
+  width: 7990
+  height: 5858
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:09:05.000000000+02:00
+- image_filename: 2022_10_16__10_50_PA160855.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.867875
+  lon: 16.02548611111111
+  altitude: 454.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 5834
+  height: 7986
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:50:48.000000000+02:00
+- image_filename: 2022_10_16__09_16_DSC02272.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.761722222222225
+  lon: 16.265194444444443
+  altitude: 574.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 320
+  width: 5908
+  height: 3808
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:16:34.000000000+02:00
+- image_filename: 2022_10_16__11_09_PA160890.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86763888888889
+  lon: 16.014916666666668
+  altitude: 438.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 59.58
+  iso: 200
+  width: 8147
+  height: 6079
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:09:31.000000000+02:00
+- image_filename: 2022_10_16__12_55_DSC02711.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87668055555556
+  lon: 15.949333333333334
+  altitude: 495.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5904
+  height: 3836
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:55:22.000000000+02:00
+- image_filename: 2022_10_16__11_56_PA160947.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86461111111111
+  lon: 15.985569444444444
+  altitude: 429.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 4.57
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:56:13.000000000+02:00
+- image_filename: 2022_10_16__14_44_PA161066.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86984722222222
+  lon: 15.94213888888889
+  altitude: 485.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 13.6
+  iso: 200
+  width: 8087
+  height: 6021
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:44:34.000000000+02:00
+- image_filename: 2022_10_16__09_32_DSC02323.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.74636111111111
+  lon: 16.21297222222222
+  altitude: 542.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 5606
+  height: 3598
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:32:47.000000000+02:00
+- image_filename: 2022_10_16__10_38_PA160833.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86336111111111
+  lon: 16.023763888888887
+  altitude: 427.0
+  focal_length: 60.0
+  focal_length_35: 120.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 0.29
+  iso: 200
+  width: 5013
+  height: 3440
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:38:21.000000000+02:00
+- image_filename: 2022_10_16__16_26_PA161105.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.878416666666666
+  lon: 15.918624999999999
+  altitude: 405.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  focus_distance: 18.99
+  iso: 200
+  width: 8083
+  height: 5978
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 16:26:03.000000000+02:00
+- image_filename: 2022_10_16__10_49_PA160852.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86736111111111
+  lon: 16.025319444444442
+  altitude: 455.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 6.91
+  iso: 200
+  width: 8117
+  height: 6049
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:49:32.000000000+02:00
+- image_filename: 2022_10_16__11_34_PA160922.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86654166666667
+  lon: 16.005027777777777
+  altitude: 432.0
+  focal_length: 66.0
+  focal_length_35: 132.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 23.43
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:34:26.000000000+02:00
+- image_filename: 2022_10_16__12_25_PA160979.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87329166666667
+  lon: 15.965013888888889
+  altitude: 416.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.125
+  exposure_string: 1/8 s
+  focus_distance: 1.96
+  iso: 200
+  width: 8128
+  height: 6036
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:25:11.000000000+02:00
+- image_filename: 2022_10_16__14_26_PA161047.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.874972222222226
+  lon: 15.939569444444444
+  altitude: 477.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 11.43
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:26:48.000000000+02:00
+- image_filename: 2022_10_16__11_12_PA160893.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86751388888889
+  lon: 16.012569444444445
+  altitude: 439.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 22.88
+  iso: 200
+  width: 7973
+  height: 5819
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:12:19.000000000+02:00
+- image_filename: 2022_10_16__12_52_DSC02694.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87627777777778
+  lon: 15.95125
+  altitude: 483.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 3859
+  height: 5941
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:52:52.000000000+02:00
+- image_filename: 2022_10_16__12_03_PA160958.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86686111111111
+  lon: 15.9805
+  altitude: 412.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 6.24
+  iso: 200
+  width: 7428
+  height: 5669
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:03:16.000000000+02:00
+- image_filename: 2022_10_16__12_58_DSC02739.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.877027777777776
+  lon: 15.94811111111111
+  altitude: 500.0
+  focal_length: 77.0
+  focal_length_35: 77.0
+  crop: 1.0
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:58:58.000000000+02:00
+- image_filename: 2022_10_16__12_57_DSC02727.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.876777777777775
+  lon: 15.94875
+  altitude: 497.0
+  focal_length: 102.0
+  focal_length_35: 102.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5912
+  height: 3818
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:57:35.000000000+02:00
+- image_filename: 2022_10_16__14_47_PA161073.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87013888888889
+  lon: 15.941555555555556
+  altitude: 484.0
+  focal_length: 54.0
+  focal_length_35: 108.0
+  crop: 2.0
+  aperture: 10.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 21.06
+  iso: 200
+  width: 8168
+  height: 6088
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:47:29.000000000+02:00
+- image_filename: 2022_10_16__12_02_PA160957.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86669444444445
+  lon: 15.98038888888889
+  altitude: 413.0
+  focal_length: 35.0
+  focal_length_35: 70.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 101.76
+  iso: 200
+  width: 8103
+  height: 6025
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:02:40.000000000+02:00
+- image_filename: 2022_10_16__14_04_PA161017.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87826388888889
+  lon: 15.938430555555556
+  altitude: 484.0
+  focal_length: 47.0
+  focal_length_35: 94.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 29.15
+  iso: 200
+  width: 8130
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:04:33.000000000+02:00
+- image_filename: 2022_10_16__15_17_PA161093.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87601388888889
+  lon: 15.924388888888888
+  altitude: 410.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 4.16
+  iso: 200
+  width: 6512
+  height: 5058
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 15:17:55.000000000+02:00
+- image_filename: 2022_10_16__10_08_PA160808.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.855361111111115
+  lon: 16.014930555555555
+  altitude: 389.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 3.61
+  iso: 200
+  width: 8101
+  height: 5999
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:08:15.000000000+02:00
+- image_filename: 2022_10_16__11_15_PA160896.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86873611111111
+  lon: 16.011458333333334
+  altitude: 431.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 3.12
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:15:11.000000000+02:00
+- image_filename: 2022_10_16__14_16_PA161034.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.876625
+  lon: 15.938625
+  altitude: 480.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.87
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:16:23.000000000+02:00
+- image_filename: 2022_10_16__13_06_DSC02745.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.877541666666666
+  lon: 15.942708333333334
+  altitude: 512.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5130
+  height: 2711
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 13:06:48.000000000+02:00
+- image_filename: 2022_10_16__12_30_DSC02671.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87283333333333
+  lon: 15.961777777777778
+  altitude: 429.0
+  focal_length: 172.0
+  focal_length_35: 172.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:30:57.000000000+02:00
+- image_filename: 2022_10_16__12_56_DSC02724.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.876625
+  lon: 15.949152777777778
+  altitude: 496.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:56:45.000000000+02:00
+- image_filename: 2022_10_16__14_27_PA161049.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87498611111111
+  lon: 15.93961111111111
+  altitude: 476.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.78
+  iso: 200
+  width: 8137
+  height: 6046
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:27:39.000000000+02:00
+- image_filename: 2022_10_16__15_15_PA161091.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87591666666667
+  lon: 15.926597222222222
+  altitude: 416.0
+  focal_length: 15.0
+  focal_length_35: 30.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.05
+  exposure_string: 1/20 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7810
+  height: 6038
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 15:15:52.000000000+02:00
+- image_filename: 2022_10_16__12_54_DSC02706.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87659722222222
+  lon: 15.949805555555557
+  altitude: 493.0
+  focal_length: 76.0
+  focal_length_35: 76.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 3773
+  height: 5905
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:54:43.000000000+02:00
+- image_filename: 2022_10_16__09_46_DSC02514.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.81381944444444
+  lon: 16.06865277777778
+  altitude: 465.0
+  focal_length: 125.0
+  focal_length_35: 125.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:46:30.000000000+02:00
+- image_filename: 2022_10_16__12_57_DSC02729.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87679166666667
+  lon: 15.948694444444445
+  altitude: 498.0
+  focal_length: 74.0
+  focal_length_35: 74.0
+  crop: 1.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:57:43.000000000+02:00
+- image_filename: 2022_10_16__14_51_DSC02762.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.870916666666666
+  lon: 15.941
+  altitude: 477.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 125
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 14:51:00.000000000+02:00
+- image_filename: 2022_10_16__12_45_PA160990.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.875416666666666
+  lon: 15.955930555555556
+  altitude: 466.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 49.79
+  iso: 200
+  width: 8132
+  height: 6062
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:45:03.000000000+02:00
+- image_filename: 2022_10_16__10_04_PA160805.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85176388888889
+  lon: 16.022652777777775
+  altitude: 376.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 54.25
+  iso: 200
+  width: 8154
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:04:05.000000000+02:00
+- image_filename: 2022_10_16__12_48_PA160997.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.875597222222225
+  lon: 15.955180555555556
+  altitude: 468.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 71.86
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:48:12.000000000+02:00
+- image_filename: 2022_10_16__12_32_DSC02678.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87379166666667
+  lon: 15.960722222222222
+  altitude: 432.0
+  focal_length: 93.0
+  focal_length_35: 93.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:32:41.000000000+02:00
+- image_filename: 2022_10_16__12_47_PA160996.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87561111111111
+  lon: 15.955194444444444
+  altitude: 468.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.71
+  iso: 200
+  width: 8124
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:47:45.000000000+02:00
+- image_filename: 2022_10_16__11_59_PA160953.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86584722222222
+  lon: 15.983166666666667
+  altitude: 419.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 7.45
+  iso: 200
+  width: 8094
+  height: 5988
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:59:36.000000000+02:00
+- image_filename: 2022_10_16__11_02_PA160877.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.867777777777775
+  lon: 16.019430555555555
+  altitude: 443.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 55.17
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:02:20.000000000+02:00
+- image_filename: 2022_10_16__10_49_PA160853.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86759722222222
+  lon: 16.025458333333333
+  altitude: 454.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 22.88
+  iso: 200
+  width: 8064
+  height: 5947
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:49:55.000000000+02:00
+- image_filename: 2022_10_16__11_33_PA160920.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.86658333333334
+  lon: 16.005319444444446
+  altitude: 433.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 68.26
+  iso: 200
+  width: 8122
+  height: 6053
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 11:33:47.000000000+02:00
+- image_filename: 2022_10_16__09_57_DSC02540.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85125
+  lon: 16.008055555555554
+  altitude: 509.0
+  focal_length: 110.0
+  focal_length_35: 110.0
+  crop: 1.0
+  aperture: 5.0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 09:57:11.000000000+02:00
+- image_filename: 2022_10_16__10_14_PA160811.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.857597222222225
+  lon: 16.01575
+  altitude: 408.0
+  focal_length: 61.0
+  focal_length_35: 122.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 16.7
+  iso: 200
+  width: 8140
+  height: 6061
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 10:14:39.000000000+02:00
+- image_filename: 2022_10_16__14_49_DSC02754.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87070833333333
+  lon: 15.940958333333334
+  altitude: 481.0
+  focal_length: 121.0
+  focal_length_35: 121.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 1000
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 14:49:23.000000000+02:00
+- image_filename: 2022_10_16__12_46_PA160993.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87551388888889
+  lon: 15.955555555555556
+  altitude: 467.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 17.17
+  iso: 200
+  width: 8159
+  height: 6018
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:46:35.000000000+02:00
+- image_filename: 2022_10_16__10_03_DSC02572.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85151388888889
+  lon: 16.023027777777777
+  altitude: 377.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 6027
+  height: 3995
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 10:03:41.000000000+02:00
+- image_filename: 2022_10_16__10_20_DSC02629.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.85927777777778
+  lon: 16.017916666666665
+  altitude: 406.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 10:20:44.000000000+02:00
+- image_filename: 2022_10_16__15_24_PA161097.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.874430555555556
+  lon: 15.920083333333332
+  altitude: 410.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 2.98
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 15:24:19.000000000+02:00
+- image_filename: 2022_10_16__12_42_PA160984.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.875347222222224
+  lon: 15.957194444444443
+  altitude: 458.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 5.08
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:42:00.000000000+02:00
+- image_filename: 2022_10_16__12_59_DSC02740.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.87705555555556
+  lon: 15.948083333333333
+  altitude: 501.0
+  focal_length: 70.0
+  focal_length_35: 70.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2022-10-16 12:59:01.000000000+02:00
+- image_filename: 2022_10_16__14_05_PA161018.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.878416666666666
+  lon: 15.937472222222222
+  altitude: 480.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 19.85
+  iso: 200
+  width: 8084
+  height: 5975
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 14:05:41.000000000+02:00
+- image_filename: 2022_10_16__12_15_PA160973.jpg
+  post_slug: 2022-10-16-jesien-minimalna
+  lat: 50.872458333333334
+  lon: 15.973930555555556
+  altitude: 411.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 8.57
+  iso: 200
+  width: 7489
+  height: 5802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2022-10-16 12:15:10.000000000+02:00

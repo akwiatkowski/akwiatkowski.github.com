@@ -1,0 +1,899 @@
+---
+- image_filename: header.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+- image_filename: 2023_02_05__13_01_DJI_0318.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 21.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:01:32.000000000+01:00
+- image_filename: 2023_02_05__13_01_DJI_0319.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 21.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:01:47.000000000+01:00
+- image_filename: 2023_02_05__13_01_DJI_0316.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 22.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:01:12.000000000+01:00
+- image_filename: 2023_02_05__13_03_DJI_0323.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 20.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:03:27.000000000+01:00
+- image_filename: 2023_02_05__13_07_DJI_0334.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 12.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:07:27.000000000+01:00
+- image_filename: 2023_02_05__13_09_DJI_0338.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 27.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:09:15.000000000+01:00
+- image_filename: 2023_02_05__13_10_DJI_0340.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 18.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:10:01.000000000+01:00
+- image_filename: 2023_02_05__13_15_DJI_0351.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 17.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:15:10.000000000+01:00
+- image_filename: 2023_02_05__13_15_DJI_0353.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 16.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:15:33.000000000+01:00
+- image_filename: 2023_02_05__13_16_DJI_0356.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 16.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:16:04.000000000+01:00
+- image_filename: 2023_02_05__13_20_DJI_0361.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 7.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:20:46.000000000+01:00
+- image_filename: 2023_02_05__13_24_DJI_0371.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 7.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:24:00.000000000+01:00
+- image_filename: 2023_02_05__13_23_DJI_0368.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 7.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:23:32.000000000+01:00
+- image_filename: 2023_02_05__13_24_DJI_0374.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:24:37.000000000+01:00
+- image_filename: 2023_02_05__13_24_DJI_0373.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:24:24.000000000+01:00
+- image_filename: 2023_02_05__13_24_DJI_0375.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:24:45.000000000+01:00
+- image_filename: 2023_02_05__13_26_DJI_0382.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 8026
+  height: 5996
+  camera: FC3582
+  time: 2023-02-05 13:26:16.000000000+01:00
+- image_filename: 2023_02_05__13_26_DJI_0380.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 120
+  width: 7766
+  height: 5845
+  camera: FC3582
+  time: 2023-02-05 13:26:00.000000000+01:00
+- image_filename: 2023_02_05__13_27_DJI_0389.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 3.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:27:57.000000000+01:00
+- image_filename: 2023_02_05__13_30_DJI_0395.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 11.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 13:30:05.000000000+01:00
+- image_filename: 2023_02_05__15_24_DJI_0403.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 59.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:24:31.000000000+01:00
+- image_filename: 2023_02_05__15_24_DJI_0402.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 59.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 200
+  width: 7947
+  height: 5789
+  camera: FC3582
+  time: 2023-02-05 15:24:19.000000000+01:00
+- image_filename: 2023_02_05__15_24_DJI_0404.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 59.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 8020
+  height: 6001
+  camera: FC3582
+  time: 2023-02-05 15:24:41.000000000+01:00
+- image_filename: 2023_02_05__15_25_DJI_0406.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 14.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:25:30.000000000+01:00
+- image_filename: 2023_02_05__15_25_DJI_0407.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 14.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:25:39.000000000+01:00
+- image_filename: 2023_02_05__15_27_DJI_0415.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:27:53.000000000+01:00
+- image_filename: 2023_02_05__15_28_DJI_0418.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 140
+  width: 8064
+  height: 5894
+  camera: FC3582
+  time: 2023-02-05 15:28:36.000000000+01:00
+- image_filename: 2023_02_05__15_27_DJI_0414.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:27:43.000000000+01:00
+- image_filename: 2023_02_05__15_27_DJI_0413.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 150
+  width: 8036
+  height: 6012
+  camera: FC3582
+  time: 2023-02-05 15:27:32.000000000+01:00
+- image_filename: 2023_02_05__15_28_DJI_0416_01.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 140
+  width: 7909
+  height: 5706
+  camera: FC3582
+  time: 2023-02-05 15:28:04.000000000+01:00
+- image_filename: 2023_02_05__15_31_DJI_0424.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 5.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:31:06.000000000+01:00
+- image_filename: 2023_02_05__15_26_DJI_0411.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 4.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 140
+  width: 8031
+  height: 6005
+  camera: FC3582
+  time: 2023-02-05 15:26:52.000000000+01:00
+- image_filename: 2023_02_05__15_26_DJI_0409.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 15.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  width: 8017
+  height: 5987
+  camera: FC3582
+  time: 2023-02-05 15:26:27.000000000+01:00
+- image_filename: 2023_02_05__15_31_DJI_0425.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:31:19.000000000+01:00
+- image_filename: 2023_02_05__15_34_DJI_0435.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8057
+  height: 6040
+  camera: FC3582
+  time: 2023-02-05 15:34:15.000000000+01:00
+- image_filename: 2023_02_05__15_31_DJI_0427.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 7.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 8064
+  height: 5670
+  camera: FC3582
+  time: 2023-02-05 15:31:36.000000000+01:00
+- image_filename: 2023_02_05__15_35_DJI_0439.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:35:28.000000000+01:00
+- image_filename: 2023_02_05__15_34_DJI_0437.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:34:34.000000000+01:00
+- image_filename: 2023_02_05__15_36_DJI_0442.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 7.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8053
+  height: 6035
+  camera: FC3582
+  time: 2023-02-05 15:36:25.000000000+01:00
+- image_filename: 2023_02_05__15_39_DJI_0450.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:39:05.000000000+01:00
+- image_filename: 2023_02_05__15_37_DJI_0446.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 7780
+  height: 5604
+  camera: FC3582
+  time: 2023-02-05 15:37:33.000000000+01:00
+- image_filename: 2023_02_05__15_38_DJI_0448.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 150
+  width: 7916
+  height: 5802
+  camera: FC3582
+  time: 2023-02-05 15:38:14.000000000+01:00
+- image_filename: 2023_02_05__15_39_DJI_0451.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:39:15.000000000+01:00
+- image_filename: 2023_02_05__15_41_DJI_0459_01.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 24.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7892
+  height: 5602
+  camera: FC3582
+  time: 2023-02-05 15:41:51.000000000+01:00
+- image_filename: 2023_02_05__15_39_DJI_0452.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 6.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 15:39:24.000000000+01:00
+- image_filename: 2023_02_05__16_05_DJI_0467.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 39.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:05:02.000000000+01:00
+- image_filename: 2023_02_05__16_04_DJI_0466.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 38.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:04:52.000000000+01:00
+- image_filename: 2023_02_05__16_07_DJI_0475.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 29.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7934
+  height: 5915
+  camera: FC3582
+  time: 2023-02-05 16:07:08.000000000+01:00
+- image_filename: 2023_02_05__16_05_DJI_0470.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 39.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:05:31.000000000+01:00
+- image_filename: 2023_02_05__16_06_DJI_0472.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 29.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:06:18.000000000+01:00
+- image_filename: 2023_02_05__16_07_DJI_0478.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 29.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:07:35.000000000+01:00
+- image_filename: 2023_02_05__16_08_DJI_0480.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:08:20.000000000+01:00
+- image_filename: 2023_02_05__16_08_DJI_0481.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 5811
+  camera: FC3582
+  time: 2023-02-05 16:08:30.000000000+01:00
+- image_filename: 2023_02_05__16_08_DJI_0482_01.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 140
+  width: 7913
+  height: 5921
+  camera: FC3582
+  time: 2023-02-05 16:08:40.000000000+01:00
+- image_filename: 2023_02_05__16_09_DJI_0485_01.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 130
+  width: 8003
+  height: 5967
+  camera: FC3582
+  time: 2023-02-05 16:09:37.000000000+01:00
+- image_filename: 2023_02_05__16_11_DJI_0493.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 32.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:11:40.000000000+01:00
+- image_filename: 2023_02_05__16_10_DJI_0488.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:10:04.000000000+01:00
+- image_filename: 2023_02_05__16_09_DJI_0486_01.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 7787
+  height: 5658
+  camera: FC3582
+  time: 2023-02-05 16:09:45.000000000+01:00
+- image_filename: 2023_02_05__16_15_DJI_0503.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 30.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:15:37.000000000+01:00
+- image_filename: 2023_02_05__16_15_DJI_0502.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 29.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:15:27.000000000+01:00
+- image_filename: 2023_02_05__16_15_DJI_0501.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 29.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8011
+  height: 5977
+  camera: FC3582
+  time: 2023-02-05 16:15:19.000000000+01:00
+- image_filename: 2023_02_05__16_17_DJI_0510.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 34.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:17:53.000000000+01:00
+- image_filename: 2023_02_05__16_16_DJI_0505.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 33.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 160
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:16:26.000000000+01:00
+- image_filename: 2023_02_05__16_18_DJI_0513.jpg
+  post_slug: 2023-02-05-niespodziewana-zima
+  altitude: 34.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-02-05 16:18:43.000000000+01:00

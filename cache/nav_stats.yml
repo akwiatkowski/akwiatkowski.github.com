@@ -1,16 +1,16 @@
 ---
-bicycle_distance: 14629
-bicycle_time_length: 1472
-bicycle_count: 264
-hike_distance: 2471
-hike_time_length: 1039
-hike_count: 230
+bicycle_distance: 14631
+bicycle_time_length: 1473
+bicycle_count: 266
+hike_distance: 2476
+hike_time_length: 1041
+hike_count: 232
 train_distance: 5803
 train_time_length: 198
 train_count: 29
-self_distance: 17100
-self_time_length: 2511
-updated_at: 2023-01-25 14:48:02.217265373+01:00
+self_distance: 17107
+self_time_length: 2514
+updated_at: 2023-02-21 14:40:45.791089775+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
@@ -23,7 +23,7 @@ voivodeships_nav:
   count: 4
 - name: Lubuskie
   url: /voivodeship/lubuskie/masonry.html
-  count: 26
+  count: 30
 - name: Małopolskie
   url: /voivodeship/malopolskie/masonry.html
   count: 34
@@ -47,7 +47,7 @@ voivodeships_nav:
   count: 14
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 158
+  count: 160
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
   count: 27
@@ -82,6 +82,9 @@ lands_nav:
 - name: Kotlina Kłodzka
   url: /land/kotlina_klodzka/masonry.html
   count: 7
+- name: Pojezierza Pomorskie
+  url: /land/pojezierza_pomorskie/masonry.html
+  count: 6
 - name: Góry Sowie
   url: /land/gory_sowie/masonry.html
   count: 5
@@ -103,10 +106,10 @@ tags_nav:
   count: 103
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 217
+  count: 220
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 174
+  count: 175
 - name: Kolejowe
   url: /tag/train/masonry.html
   count: 19
@@ -118,7 +121,7 @@ tags_nav:
   count: 105
 - name: Zdjęcie roku
   url: /tag/photo_of_the_year/masonry.html
-  count: 11
+  count: 12
 - name: Bikepacking
   url: /tag/bikepacking/masonry.html
   count: 4

@@ -1,0 +1,275 @@
+---
+- image_filename: header.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+- image_filename: 2022_10_31__20_03_DSC03204.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81436111111111
+  lon: 17.20725
+  altitude: 125.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1600
+  width: 5958
+  height: 3887
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:03:06.000000000+01:00
+- image_filename: 2022_10_31__20_32_DSC03355.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.80761111111111
+  lon: 17.217208333333332
+  altitude: 118.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 12800
+  width: 5946
+  height: 3866
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:32:26.000000000+01:00
+- image_filename: 2022_10_31__20_11_DSC03248.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81315277777777
+  lon: 17.20876388888889
+  altitude: 119.0
+  focal_length: 37.0
+  focal_length_35: 37.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 8000
+  width: 5981
+  height: 3961
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:11:27.000000000+01:00
+- image_filename: 2022_10_31__20_13_DSC03264.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.812194444444444
+  lon: 17.208055555555553
+  altitude: 118.0
+  focal_length: 55.0
+  focal_length_35: 55.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 12800
+  width: 5981
+  height: 3920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:13:36.000000000+01:00
+- image_filename: 2022_10_31__20_31_DSC03343.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.808
+  lon: 17.216347222222222
+  altitude: 115.0
+  focal_length: 41.0
+  focal_length_35: 41.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 16000
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:31:31.000000000+01:00
+- image_filename: 2022_10_31__19_53_DSC03152.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81576388888889
+  lon: 17.20288888888889
+  altitude: 115.0
+  focal_length: 32.0
+  focal_length_35: 32.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 10000
+  width: 5779
+  height: 3913
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 19:53:00.000000000+01:00
+- image_filename: 2022_10_31__20_17_DSC03285.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81095833333333
+  lon: 17.209805555555555
+  altitude: 123.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 10000
+  width: 3977
+  height: 6027
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:17:21.000000000+01:00
+- image_filename: 2022_10_31__20_11_DSC03253.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81295833333333
+  lon: 17.20836111111111
+  altitude: 114.0
+  focal_length: 32.0
+  focal_length_35: 32.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 10000
+  width: 5754
+  height: 3905
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:11:48.000000000+01:00
+- image_filename: 2022_10_31__20_31_DSC03351.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.80790277777778
+  lon: 17.216541666666664
+  altitude: 114.0
+  focal_length: 67.0
+  focal_length_35: 67.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 2500
+  width: 4007
+  height: 6034
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:31:57.000000000+01:00
+- image_filename: 2022_10_31__20_23_DSC03303.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.80979166666666
+  lon: 17.210902777777775
+  altitude: 110.0
+  focal_length: 41.0
+  focal_length_35: 41.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 16000
+  width: 5758
+  height: 3798
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:23:46.000000000+01:00
+- image_filename: 2022_10_31__19_52_DSC03148.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81576388888889
+  lon: 17.203152777777778
+  altitude: 111.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 16000
+  width: 5999
+  height: 3953
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 19:52:03.000000000+01:00
+- image_filename: 2022_10_31__20_10_DSC03238.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.813944444444445
+  lon: 17.210180555555556
+  altitude: 119.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 12800
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:10:00.000000000+01:00
+- image_filename: 2022_10_31__20_20_DSC03293.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.810138888888886
+  lon: 17.208541666666665
+  altitude: 105.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1600
+  width: 5712
+  height: 3565
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:20:20.000000000+01:00
+- image_filename: 2022_10_31__18_55_DSC03089.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81576388888889
+  lon: 17.203152777777778
+  altitude: 111.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 16000
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 18:55:54.000000000+01:00
+- image_filename: 2022_10_31__19_52_DSC03149.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.81576388888889
+  lon: 17.203152777777778
+  altitude: 111.0
+  focal_length: 48.0
+  focal_length_35: 48.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 16000
+  width: 6046
+  height: 4022
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 19:52:08.000000000+01:00
+- image_filename: 2022_10_31__20_33_DSC03360.jpg
+  post_slug: 2022-10-31-mgla-w-wagrowcu
+  lat: 52.80773611111111
+  lon: 17.21836111111111
+  altitude: 119.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 6400
+  width: 4024
+  height: 6048
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2022-10-31 20:33:42.000000000+01:00
