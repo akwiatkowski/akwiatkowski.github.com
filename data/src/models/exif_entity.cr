@@ -1,3 +1,5 @@
+require "json"
+
 struct ExifEntity
   include YAML::Serializable
   include JSON::Serializable
@@ -105,7 +107,7 @@ struct ExifEntity
     "PENTAX K-5"          => "Pentax K-5",
     "FC1102"              => "DJI Spark",
     "Redmi Note 3"        => "Xiaomi Redmi Note 3",
-    "FC3582"              => "DJI Mini 3 Pro"
+    "FC3582"              => "DJI Mini 3 Pro",
   }
 
   LENS_NAMES = {

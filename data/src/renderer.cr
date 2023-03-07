@@ -100,7 +100,7 @@ class Tremolite::Renderer
 
   # TODO add because it's probably missing
   private def copy_post_photos
-    command = "rsync -av #{blog.data_path}/images/ #{blog.public_path}/images/"
+    command = "rsync --mkpath -av #{blog.data_path}/images/ #{blog.public_path}/images/"
     `#{command}`
   end
 end

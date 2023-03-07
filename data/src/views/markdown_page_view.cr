@@ -12,7 +12,8 @@ class MarkdownPageView < PageView
     @subtitle : String
   )
     @data_path = @blog.data_path.as(String)
-    @path = File.join([@data_path, "pages", "#{file}.md"])
+    @pages_path = @blog.pages_path.as(String)
+    @path = File.join([@pages_path, "#{file}.md"])
   end
 
   getter :image_url, :title, :subtitle

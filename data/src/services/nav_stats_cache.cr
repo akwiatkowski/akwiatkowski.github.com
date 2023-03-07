@@ -47,8 +47,10 @@ class NavStatsCache
 
   getter :cache_file_path, :stats
 
-  def initialize(@blog : Tremolite::Blog)
-    @cache_path = Tremolite::DataManager::CACHE_PATH.as(String)
+  def initialize(
+    @blog : Tremolite::Blog
+  )
+    @cache_path = @blog.cache_path.as(String)
     @cache_file_path = File.join([@cache_path, "nav_stats.yml"])
 
     @stats = NavStatsCacheObject.new
@@ -197,6 +199,8 @@ class NavStatsCache
 
   private def save_cache
     Log.debug { "save_cache" }
+
+    Dir.mkdir_p(@cache_path)
 
     File.open(cache_file_path, "w") do |f|
       @stats.to_yaml(f)

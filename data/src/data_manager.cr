@@ -14,8 +14,6 @@ require "./services/preloaded_post_referenced_links"
 require "./data_manager/exif_db"
 
 class Tremolite::DataManager
-  CACHE_PATH = "cache"
-
   def custom_initialize
     @towns = Array(TownEntity).new
     @town_slugs = Array(String).new
@@ -69,7 +67,7 @@ class Tremolite::DataManager
   def load_portfolio
     Log.debug { "loading portfolio" }
 
-    f = File.join([@data_path, "portfolio.yml"])
+    f = File.join([@config_path, "portfolio.yml"])
     YAML.parse(File.read(f)).as_a.each do |portfolio|
       o = PortfolioEntity.new(portfolio)
       @portfolios.not_nil! << o
@@ -79,7 +77,7 @@ class Tremolite::DataManager
   def load_towns
     Log.debug { "loading towns" }
 
-    Dir[File.join([@data_path, "towns", "**", "*"])].each do |f|
+    Dir[File.join([@config_path, "towns", "**", "*"])].each do |f|
       if File.file?(f)
         load_town_yaml(f)
       end
@@ -89,7 +87,7 @@ class Tremolite::DataManager
   def load_tags
     Log.debug { "loading tags" }
 
-    f = File.join([@data_path, "tags.yml"])
+    f = File.join([@config_path, "tags.yml"])
     YAML.parse(File.read(f)).as_a.each do |tag|
       o = TagEntity.new(tag)
       @tags.not_nil! << o
@@ -99,7 +97,7 @@ class Tremolite::DataManager
   def load_land_types
     Log.debug { "loading land types" }
 
-    f = File.join([@data_path, "land_types.yml"])
+    f = File.join([@config_path, "land_types.yml"])
     YAML.parse(File.read(f)).as_a.each do |land_type|
       o = LandTypeEntity.new(land_type)
       @land_types.not_nil! << o
@@ -109,7 +107,7 @@ class Tremolite::DataManager
   def load_lands
     Log.debug { "loading lands" }
 
-    f = File.join([@data_path, "lands.yml"])
+    f = File.join([@config_path, "lands.yml"])
     YAML.parse(File.read(f)).as_a.each do |land|
       o = LandEntity.new(land)
       @lands.not_nil! << o
@@ -119,7 +117,7 @@ class Tremolite::DataManager
   def load_transport_pois
     Log.debug { "loading transport pois" }
 
-    f = File.join([@data_path, "transport_pois.yml"])
+    f = File.join([@config_path, "transport_pois.yml"])
     YAML.parse(File.read(f)).as_a.each do |transport_poi|
       o = TransportPoiEntity.new(transport_poi)
       @transport_pois.not_nil! << o
@@ -134,7 +132,7 @@ class Tremolite::DataManager
   def load_todo_routes
     Log.debug { "loading todo routes" }
 
-    f = File.join([@data_path, "todo_routes.yml"])
+    f = File.join([@config_path, "todo_routes.yml"])
     YAML.parse(File.read(f)).as_a.each do |tag|
       o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!)
       @todo_routes.not_nil! << o

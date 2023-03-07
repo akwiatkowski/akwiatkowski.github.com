@@ -1,0 +1,19 @@
+---
+bicycle_distance: 69
+bicycle_time_length: 8
+bicycle_count: 1
+hike_distance: 15
+hike_time_length: 7
+hike_count: 1
+train_distance: 0
+train_time_length: 0
+train_count: 0
+self_distance: 84
+self_time_length: 15
+updated_at: 2023-03-07 13:45:52.734624085+01:00
+voivodeships_nav: []
+lands_nav: []
+tags_nav:
+- name: Najlepsze
+  url: /tag/best/masonry.html
+  count: 2

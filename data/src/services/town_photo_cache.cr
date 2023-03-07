@@ -54,7 +54,7 @@ class TownPhotoCache
   alias TownPhotoCacheStructure = Hash(String, TownPhotoCacheData)
 
   def initialize(@blog : Tremolite::Blog)
-    @cache_path = Tremolite::DataManager::CACHE_PATH
+    @cache_path = @blog.cache_path.as(String)
     @cache_file_path = File.join([@cache_path, "town_photos.yml"])
     @cache = TownPhotoCacheStructure.new
     load_cache

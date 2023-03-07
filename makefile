@@ -1,23 +1,68 @@
-watch:
-	bash watch.sh
+# aliases
+all_compile: dev_compile_release dev_compile compile_release compile
 
-watch_dev:
-	bash watch_dev.sh
+# dev env
+dev_serve:
+	cd env/dev/public && serve -p 5001
 
-watch_compiled:
-	bash watch_compiled.sh
+dev_render_release:
+	crystal env/dev/src/run_local_full.cr
 
-watch_coffee:
-	coffee -bcw data/assets/js/*.coffee
+# release is executed once to refresh all parts of website
+# local means using local version of `tremolite` shard
+dev_compile_release:
+	crystal build env/dev/src/run_local_full.cr -o env/dev/blog_release --release
 
-upload:
-	bash release_ovh.sh
+dev_run_compiled_release:
+	env/dev/blog_release
 
-run:
-	crystal src/odkrywajac_polske.cr
+dev_compile:
+	crystal build env/dev/src/run_local.cr -o env/dev/blog --release
 
+dev_run_compiled:
+	env/dev/blog
+
+# full env
 serve:
-	cd public && serve -p 5001
+	cd env/full/public && serve -p 5001
+
+render_release:
+	crystal env/full/src/run_local_full.cr
+
+compile_release:
+	crystal build env/full/src/run_local_full.cr -o env/full/blog_release --release
+
+run_compiled_release:
+	env/full/blog_release
 
 compile:
-	crystal build src/odkrywajac_polske.cr -o blog --release
+	crystal build env/full/src/run_local.cr -o env/full/blog --release
+
+run_compiled:
+	env/full/blog
+
+# old stuff
+# watch:
+# 	bash watch.sh
+#
+# watch_dev:
+# 	bash watch_dev.sh
+#
+# watch_compiled:
+# 	bash watch_compiled.sh
+#
+# watch_coffee:
+# 	coffee -bcw data/assets/js/*.coffee
+#
+# upload:
+# 	bash release_ovh.sh
+#
+# run:
+# 	crystal src/odkrywajac_polske.cr
+#
+# serve:
+# 	cd public && serve -p 5001
+#
+#
+# compile:
+# 	crystal build src/odkrywajac_polske.cr -o blog --release

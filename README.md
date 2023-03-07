@@ -44,6 +44,29 @@ This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
   * [ ] Gallery rendered - browser like
   * [ ] Move `header_timeline` markdown flag for photo timeline to tags by using `photo_header`
   * [ ] Add `horizontal?` to exif and filter only horizontal photos for gallery header
+  * [ ] Cache quantified areas of coords and links used in post. Post which have more
+        percentage of similar coords and links are most similar
+  * [ ] profiler - which part take time
+  * [ ] "test env" - test various feature (processing) on limited version of webpage
+  * [ ] graph which lenses I use (limit to few)
+  * [ ] generate route map internally, remove strava integration
+
+### Separate full version from minimal dev version
+
+* cache - TODO: separate and move into data
+* data
+  * assets - static stuff used in all versions
+  * drafts - TODO: move outside of full version
+  * images - TODO: separate
+  * layout - used to create html output for all versions
+  * pages - text only pages converted to html
+  * posts - TODO: separate
+  * routes - TODO: separate
+  * src - used for both, move somewhere else
+  * towns - move to place with yaml configs
+  * *.yml - move as above
+* public - TODO: separate, keep in mind to update upload scripts  
+
 
 ## Installation
 

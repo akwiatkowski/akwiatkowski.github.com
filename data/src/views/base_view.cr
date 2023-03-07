@@ -62,7 +62,6 @@ class BaseView < Tremolite::Views::BaseView
           next if web_path.includes?(".xml")
 
           public_file_path = File.join([public_path, web_path])
-
           # some included files do not exists
           if File.exists?(public_file_path)
             fi = File.info(public_file_path)

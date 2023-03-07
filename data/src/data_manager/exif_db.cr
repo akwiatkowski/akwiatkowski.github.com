@@ -6,7 +6,7 @@ class ExifDb
   def initialize(
     @blog : Tremolite::Blog
   )
-    @cache_path = Tremolite::DataManager::CACHE_PATH
+    @cache_path = @blog.cache_path.as(String)
 
     # Post#slug
     # all exifs will be stored within PhotoEntity
@@ -130,6 +130,7 @@ class ExifDb
     # not need to overwrite if no exif data was added
     return unless dirty
 
+    create_path_if_needed
     File.open(exif_db_file_path(post_slug), "w") do |f|
       @exif_entities[post_slug].to_yaml(f)
     end
@@ -141,6 +142,7 @@ class ExifDb
     # do nothing if already initialized
     return if @exif_entities[post_slug]?
 
+    create_path_if_needed
     path = exif_db_file_path(post_slug)
     if File.exists?(path)
       Log.debug { "loading exif for #{post_slug}" }
@@ -152,6 +154,10 @@ class ExifDb
       # because even if it's empty it need to be saved
       @exif_entities_dirty[post_slug] = true
     end
+  end
+
+  def create_path_if_needed
+    Dir.mkdir_p(exif_db_file_parent_path)
   end
 
   def exif_db_file_parent_path

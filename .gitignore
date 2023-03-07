@@ -4,8 +4,22 @@
 /bin/
 /.shards/
 
-/data/images/**/*
-/public/**/*
+# dev env
+/env/dev/data/images/**/*
+/env/dev/public/**/*
+/env/dev/cache/mod_watcher.yml
+/env/dev/blog_release
+/env/dev/blog
+
+# full env
+/env/full/data/images/**/*
+/env/full/public/**/*
+/env/full/cache/mod_watcher.yml
+/env/full/blog_release
+/env/full/blog
+
+/drafts/
+
 # don't want to create tmp file for this
 # but this will be changed a lot
 /cache/mod_watcher.yml
