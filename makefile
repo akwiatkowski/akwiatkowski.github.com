@@ -16,11 +16,19 @@ dev_compile_release:
 dev_run_compiled_release:
 	env/dev/blog_release
 
+dev_compile_and_run: dev_clean_compiled dev_compile dev_run_compiled
+
 dev_compile:
 	crystal build env/dev/src/run_local.cr -o env/dev/blog --release
 
 dev_run_compiled:
-	env/dev/blog
+	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/dev/blog
+
+dev_clean_compiled:
+	rm env/dev/blog
+
+dev_watch_smart:
+	bash env/dev/watch_smart.sh
 
 # full env
 serve:
@@ -39,7 +47,10 @@ compile:
 	crystal build env/full/src/run_local.cr -o env/full/blog --release
 
 run_compiled:
-	env/full/blog
+	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/full/blog
+
+watch_smart:
+	bash env/full/watch_smart.sh
 
 # old stuff
 # watch:
