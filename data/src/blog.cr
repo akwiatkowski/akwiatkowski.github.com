@@ -6,6 +6,7 @@ require "./post_function_parser"
 require "./validator"
 require "./mod_watcher"
 require "./services/town_photo_cache"
+require "./services/post_coord_quant_cache"
 
 class Tremolite::Blog
   def mod_watcher_summary
@@ -213,6 +214,10 @@ class Tremolite::Blog
 
       # recalculate towns photo for closest photo
       data_manager.town_photo_cache.not_nil!.refresh
+
+      # exif data is also used for calculating post coord cache
+      # it will be used for creating map of similar posts
+      data_manager.post_coord_quant_cache.not_nil!.refresh
 
       renderer.render_all_photo_related
       renderer.render_all_photo_maps

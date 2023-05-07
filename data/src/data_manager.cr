@@ -28,6 +28,9 @@ class Tremolite::DataManager
     @town_photo_cache = TownPhotoCache.new(
       blog: @blog
     )
+    @post_coord_quant_cache = PostCoordQuantCache.new(
+      blog: @blog
+    )
     @nav_stats_cache = NavStatsCache.new(
       blog: @blog
     )
@@ -42,7 +45,7 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
-  getter :town_photo_cache, :nav_stats_cache
+  getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache
 
   def exif_db
     return @exif_db.not_nil!

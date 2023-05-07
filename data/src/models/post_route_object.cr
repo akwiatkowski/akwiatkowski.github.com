@@ -1,4 +1,5 @@
 require "./coord_range"
+require "./coord_set"
 
 alias SingleRouteObject = Array(Array(Float64))
 
