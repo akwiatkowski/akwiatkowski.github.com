@@ -1,0 +1,605 @@
+---
+- image_filename: header.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+- image_filename: 2023_04_22__19_29_DJI_0533.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:26.000000000+02:00
+- image_filename: 2023_04_22__19_30_DJI_0539.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:30:46.000000000+02:00
+- image_filename: 2023_04_22__19_25_DJI_0520.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:25:23.000000000+02:00
+- image_filename: 2023_04_22__19_36_DJI_0554.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 94.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:36:45.000000000+02:00
+- image_filename: 2023_04_22__19_24_DJI_0518.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 130
+  width: 8046
+  height: 5909
+  camera: FC3582
+  time: 2023-04-22 19:24:55.000000000+02:00
+- image_filename: 2023_04_22__19_29_DJI_0532.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:16.000000000+02:00
+- image_filename: 2023_04_22__19_43_DJI_0573.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:43:07.000000000+02:00
+- image_filename: 2023_04_22__19_27_DJI_0528.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:27:49.000000000+02:00
+- image_filename: 2023_04_22__19_13_DJI_0496.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 185.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 110
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-04-22 19:13:05.000000000+02:00
+- image_filename: 2023_04_22__19_22_DJI_0512.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 192.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:22:59.000000000+02:00
+- image_filename: 2023_04_22__19_29_DJI_0531.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:08.000000000+02:00
+- image_filename: 2023_04_22__19_44_DJI_0577.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:44:13.000000000+02:00
+- image_filename: 2023_04_22__19_25_DJI_0521.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005555555555555556
+  exposure_string: 1/180 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:25:38.000000000+02:00
+- image_filename: 2023_04_22__19_42_DJI_0569.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:42:01.000000000+02:00
+- image_filename: 2023_04_22__19_27_DJI_0526.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7984
+  height: 5941
+  camera: FC3582
+  time: 2023-04-22 19:27:28.000000000+02:00
+- image_filename: 2023_04_22__19_40_DJI_0566.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:40:30.000000000+02:00
+- image_filename: 2023_04_22__19_31_DJI_0542.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:31:59.000000000+02:00
+- image_filename: 2023_04_22__19_46_DJI_0583.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:46:10.000000000+02:00
+- image_filename: 2023_04_22__19_13_DJI_0497.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 185.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-04-22 19:13:14.000000000+02:00
+- image_filename: 2023_04_22__20_01_DJI_0609.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 103.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 20:01:53.000000000+02:00
+- image_filename: 2023_04_22__20_00_DJI_0606.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 102.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008333333333333333
+  exposure_string: 1/120 s
+  iso: 100
+  width: 4032
+  height: 3024
+  camera: FC3582
+  time: 2023-04-22 20:00:22.000000000+02:00
+- image_filename: 2023_04_22__19_32_DJI_0544.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:32:22.000000000+02:00
+- image_filename: 2023_04_22__19_33_DJI_0548.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 125.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:33:28.000000000+02:00
+- image_filename: 2023_04_22__19_29_DJI_0535.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:44.000000000+02:00
+- image_filename: 2023_04_22__19_33_DJI_0550.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 125.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:33:47.000000000+02:00
+- image_filename: 2023_04_22__19_27_DJI_0527.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:27:39.000000000+02:00
+- image_filename: 2023_04_22__19_30_DJI_0538.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:30:37.000000000+02:00
+- image_filename: 2023_04_22__19_46_DJI_0582.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:46:00.000000000+02:00
+- image_filename: 2023_04_22__19_21_DJI_0507.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 192.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:21:34.000000000+02:00
+- image_filename: 2023_04_22__19_42_DJI_0572.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:42:57.000000000+02:00
+- image_filename: 2023_04_22__19_23_DJI_0513.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:23:09.000000000+02:00
+- image_filename: 2023_04_22__19_29_DJI_0536.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 160
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:54.000000000+02:00
+- image_filename: 2023_04_22__19_36_DJI_0553.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 89.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:36:31.000000000+02:00
+- image_filename: 2023_04_22__19_22_DJI_0510.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 192.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:22:09.000000000+02:00
+- image_filename: 2023_04_22__19_48_DJI_0591.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 190.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:48:59.000000000+02:00
+- image_filename: 2023_04_22__19_10_DJI_0487.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 187.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 160
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:10:04.000000000+02:00
+- image_filename: 2023_04_22__19_22_DJI_0509.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 192.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.011111111111111112
+  exposure_string: 1/90 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:22:01.000000000+02:00
+- image_filename: 2023_04_22__19_11_DJI_0492.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 185.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:11:45.000000000+02:00
+- image_filename: 2023_04_22__19_29_DJI_0534.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:29:37.000000000+02:00
+- image_filename: 2023_04_22__19_11_DJI_0490.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 186.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 110
+  width: 7929
+  height: 5747
+  camera: FC3582
+  time: 2023-04-22 19:11:24.000000000+02:00
+- image_filename: 2023_04_22__19_09_DJI_0485.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 188.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:09:38.000000000+02:00
+- image_filename: 2023_04_22__19_39_DJI_0561.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7776
+  height: 5787
+  camera: FC3582
+  time: 2023-04-22 19:39:26.000000000+02:00
+- image_filename: 2023_04_22__19_32_DJI_0543.jpg
+  post_slug: 2023-04-22-zachod-nad-warta
+  altitude: 191.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-22 19:32:06.000000000+02:00

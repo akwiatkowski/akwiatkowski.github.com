@@ -1,0 +1,831 @@
+---
+- image_filename: header.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+- image_filename: 2023_04_30__18_00_DJI_0714.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 161.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:00:32.000000000+02:00
+- image_filename: 2023_04_30__18_08_DJI_0746.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:08:07.000000000+02:00
+- image_filename: 2023_04_30__18_05_DJI_0733.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:05:19.000000000+02:00
+- image_filename: 2023_04_30__13_56_P4300313.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.495333333333335
+  lon: 17.101666666666667
+  altitude: 95.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5213
+  height: 3877
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 13:56:31.000000000+02:00
+- image_filename: 2023_04_30__16_07_P4300320.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445763888888884
+  lon: 17.27622222222222
+  altitude: 77.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:07:13.000000000+02:00
+- image_filename: 2023_04_30__15_57_P4300318.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.447222222222216
+  lon: 17.264277777777778
+  altitude: 79.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 15:57:54.000000000+02:00
+- image_filename: 2023_04_30__15_07_DJI_0685.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7878
+  height: 5912
+  camera: FC3582
+  time: 2023-04-30 15:07:57.000000000+02:00
+- image_filename: 2023_04_30__14_26_DJI_0637.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:26:42.000000000+02:00
+- image_filename: 2023_04_30__16_13_P4300328.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445375
+  lon: 17.27798611111111
+  altitude: 86.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8130
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:13:53.000000000+02:00
+- image_filename: 2023_04_30__16_11_P4300325.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445097222222216
+  lon: 17.277388888888886
+  altitude: 79.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 8127
+  height: 6085
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:11:30.000000000+02:00
+- image_filename: 2023_04_30__14_48_DJI_0655.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 107.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:48:16.000000000+02:00
+- image_filename: 2023_04_30__16_07_P4300321.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445763888888884
+  lon: 17.27623611111111
+  altitude: 77.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 8137
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:07:43.000000000+02:00
+- image_filename: 2023_04_30__14_26_DJI_0638.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:26:52.000000000+02:00
+- image_filename: 2023_04_30__14_50_DJI_0661.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 107.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:50:03.000000000+02:00
+- image_filename: 2023_04_30__16_08_P4300322.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445763888888884
+  lon: 17.27623611111111
+  altitude: 77.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:08:06.000000000+02:00
+- image_filename: 2023_04_30__14_48_DJI_0654.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 107.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:48:06.000000000+02:00
+- image_filename: 2023_04_30__18_03_DJI_0725.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:03:19.000000000+02:00
+- image_filename: 2023_04_30__18_01_DJI_0720.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:01:56.000000000+02:00
+- image_filename: 2023_04_30__16_41_DJI_0700.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:41:21.000000000+02:00
+- image_filename: 2023_04_30__15_04_DJI_0674.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 93.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:04:05.000000000+02:00
+- image_filename: 2023_04_30__16_43_DJI_0708.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 98.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:43:41.000000000+02:00
+- image_filename: 2023_04_30__14_47_DJI_0653.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 106.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:47:55.000000000+02:00
+- image_filename: 2023_04_30__16_39_DJI_0697.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 150.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:39:38.000000000+02:00
+- image_filename: 2023_04_30__16_43_DJI_0707.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 97.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:43:30.000000000+02:00
+- image_filename: 2023_04_30__18_03_DJI_0728.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:03:48.000000000+02:00
+- image_filename: 2023_04_30__18_00_DJI_0716.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 161.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:00:57.000000000+02:00
+- image_filename: 2023_04_30__16_41_DJI_0702.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 150.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:41:44.000000000+02:00
+- image_filename: 2023_04_30__18_00_DJI_0715.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 161.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:00:46.000000000+02:00
+- image_filename: 2023_04_30__14_25_DJI_0632.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 81.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:25:20.000000000+02:00
+- image_filename: 2023_04_30__15_03_DJI_0671.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 61.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:03:17.000000000+02:00
+- image_filename: 2023_04_30__14_27_DJI_0640.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:27:10.000000000+02:00
+- image_filename: 2023_04_30__15_02_DJI_0667.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 52.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:02:05.000000000+02:00
+- image_filename: 2023_04_30__16_42_DJI_0705.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:42:38.000000000+02:00
+- image_filename: 2023_04_30__15_05_DJI_0679.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 94.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:05:13.000000000+02:00
+- image_filename: 2023_04_30__14_46_DJI_0648.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 91.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:46:39.000000000+02:00
+- image_filename: 2023_04_30__18_02_DJI_0723.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:02:27.000000000+02:00
+- image_filename: 2023_04_30__16_41_DJI_0701.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:41:33.000000000+02:00
+- image_filename: 2023_04_30__15_06_DJI_0681.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:06:21.000000000+02:00
+- image_filename: 2023_04_30__16_38_DJI_0692.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:38:23.000000000+02:00
+- image_filename: 2023_04_30__18_01_DJI_0717.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 161.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:01:10.000000000+02:00
+- image_filename: 2023_04_30__18_07_DJI_0745.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8056
+  height: 6037
+  camera: FC3582
+  time: 2023-04-30 18:07:59.000000000+02:00
+- image_filename: 2023_04_30__16_13_P4300327.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445375
+  lon: 17.27798611111111
+  altitude: 86.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8131
+  height: 6073
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:13:26.000000000+02:00
+- image_filename: 2023_04_30__16_39_DJI_0695.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:39:19.000000000+02:00
+- image_filename: 2023_04_30__16_38_DJI_0691.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-04-30 16:38:07.000000000+02:00
+- image_filename: 2023_04_30__17_59_DJI_0711.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 161.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 17:59:34.000000000+02:00
+- image_filename: 2023_04_30__16_37_DJI_0688.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:37:32.000000000+02:00
+- image_filename: 2023_04_30__18_06_DJI_0739.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 159.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 140
+  width: 8027
+  height: 5999
+  camera: FC3582
+  time: 2023-04-30 18:06:43.000000000+02:00
+- image_filename: 2023_04_30__15_04_DJI_0677.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 94.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:04:57.000000000+02:00
+- image_filename: 2023_04_30__14_47_DJI_0651.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 106.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:47:35.000000000+02:00
+- image_filename: 2023_04_30__15_58_P4300319.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.44720833333333
+  lon: 17.264277777777778
+  altitude: 79.0
+  focal_length: 24.0
+  focal_length_35: 48.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 8128
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 15:58:17.000000000+02:00
+- image_filename: 2023_04_30__18_05_DJI_0736.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 159.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8019
+  height: 5990
+  camera: FC3582
+  time: 2023-04-30 18:05:45.000000000+02:00
+- image_filename: 2023_04_30__16_41_DJI_0699.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 149.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 16:41:10.000000000+02:00
+- image_filename: 2023_04_30__16_11_P4300324.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  lat: 52.445097222222216
+  lon: 17.277388888888886
+  altitude: 79.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-04-30 16:11:04.000000000+02:00
+- image_filename: 2023_04_30__14_25_DJI_0633.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 81.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:25:31.000000000+02:00
+- image_filename: 2023_04_30__15_07_DJI_0684.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 113.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 15:07:46.000000000+02:00
+- image_filename: 2023_04_30__18_03_DJI_0727.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 160.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 18:03:37.000000000+02:00
+- image_filename: 2023_04_30__14_50_DJI_0663.jpg
+  post_slug: 2023-04-30-jak-to-z-ta-wiosna
+  altitude: 107.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-04-30 14:50:24.000000000+02:00

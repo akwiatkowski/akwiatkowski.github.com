@@ -1,0 +1,841 @@
+---
+- image_filename: 2023_03_03__17_15_DJI_0737.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 160.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:15:11.000000000+01:00
+- image_filename: 2023_03_03__17_05_DJI_0704.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 169.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:05:40.000000000+01:00
+- image_filename: 2023_03_04__13_16_DJI_0839.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 185.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 7991
+  height: 5957
+  camera: FC3582
+  time: 2023-03-04 13:16:31.000000000+01:00
+- image_filename: 2023_03_04__13_11_DJI_0820.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 210.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:11:16.000000000+01:00
+- image_filename: 2023_03_04__13_11_DJI_0823.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 210.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:11:56.000000000+01:00
+- image_filename: 2023_03_04__13_10_DJI_0818.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 217.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 8040
+  height: 6016
+  camera: FC3582
+  time: 2023-03-04 13:10:40.000000000+01:00
+- image_filename: 2023_03_03__17_11_DJI_0720.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.005555555555555556
+  exposure_string: 1/180 s
+  iso: 150
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:11:20.000000000+01:00
+- image_filename: 2023_03_03__17_37_DJI_0757.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 179.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 170
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:37:22.000000000+01:00
+- image_filename: 2023_03_04__13_12_DJI_0825.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 184.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 140
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:12:46.000000000+01:00
+- image_filename: 2023_03_03__17_03_DJI_0694.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 172.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8057
+  height: 6038
+  camera: FC3582
+  time: 2023-03-03 17:03:15.000000000+01:00
+- image_filename: 2023_03_03__17_12_DJI_0729.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 162.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:12:52.000000000+01:00
+- image_filename: 2023_03_03__17_00_DJI_0686.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 119.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8035
+  height: 6010
+  camera: FC3582
+  time: 2023-03-03 17:00:31.000000000+01:00
+- image_filename: 2023_03_03__17_45_DJI_0782.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 172.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 8064
+  height: 5719
+  camera: FC3582
+  time: 2023-03-03 17:45:02.000000000+01:00
+- image_filename: 2023_03_03__17_05_DJI_0702.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 169.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:05:19.000000000+01:00
+- image_filename: 2023_03_04__13_13_DJI_0828.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 184.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 160
+  width: 8064
+  height: 5776
+  camera: FC3582
+  time: 2023-03-04 13:13:18.000000000+01:00
+- image_filename: 2023_03_03__17_40_DJI_0768.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 177.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:40:20.000000000+01:00
+- image_filename: 2023_03_03__17_14_DJI_0734.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 162.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 7967
+  height: 5966
+  camera: FC3582
+  time: 2023-03-03 17:14:43.000000000+01:00
+- image_filename: 2023_03_04__13_19_DJI_0843.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 173.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:19:05.000000000+01:00
+- image_filename: 2023_03_04__12_34_DJI_0807.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 188.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 12:34:45.000000000+01:00
+- image_filename: 2023_03_04__13_19_DJI_0844.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 174.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 8033
+  height: 6007
+  camera: FC3582
+  time: 2023-03-04 13:19:15.000000000+01:00
+- image_filename: 2023_03_03__17_10_DJI_0716.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:10:37.000000000+01:00
+- image_filename: 2023_03_03__17_38_DJI_0762.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 179.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-03-03 17:38:08.000000000+01:00
+- image_filename: 2023_03_04__12_34_DJI_0804.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 184.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 12:34:11.000000000+01:00
+- image_filename: 2023_03_04__13_16_DJI_0840.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 185.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 7867
+  height: 5923
+  camera: FC3582
+  time: 2023-03-04 13:16:41.000000000+01:00
+- image_filename: 2023_03_04__13_08_DJI_0811.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 218.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:08:17.000000000+01:00
+- image_filename: 2023_03_04__15_16_DJI_0848.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 207.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 7872
+  height: 5826
+  camera: FC3582
+  time: 2023-03-04 15:16:47.000000000+01:00
+- image_filename: 2023_03_04__13_15_DJI_0837.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 181.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 7968
+  height: 5926
+  camera: FC3582
+  time: 2023-03-04 13:15:21.000000000+01:00
+- image_filename: 2023_03_04__12_29_DJI_0788.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 199.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 12:29:07.000000000+01:00
+- image_filename: 2023_03_04__12_31_DJI_0798.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 224.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 12:31:26.000000000+01:00
+- image_filename: 2023_03_04__12_28_DJI_0787.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 199.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 200
+  width: 7533
+  height: 5773
+  camera: FC3582
+  time: 2023-03-04 12:28:56.000000000+01:00
+- image_filename: 2023_03_03__17_03_DJI_0696.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 172.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:03:40.000000000+01:00
+- image_filename: 2023_03_04__13_09_DJI_0814.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 219.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8039
+  height: 6015
+  camera: FC3582
+  time: 2023-03-04 13:09:28.000000000+01:00
+- image_filename: 2023_03_03__17_11_DJI_0721.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 163.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 140
+  width: 7781
+  height: 5183
+  camera: FC3582
+  time: 2023-03-03 17:11:33.000000000+01:00
+- image_filename: 2023_03_04__13_09_DJI_0815.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 219.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:09:37.000000000+01:00
+- image_filename: 2023_03_03__17_01_DJI_0689.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 144.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7992
+  height: 5954
+  camera: FC3582
+  time: 2023-03-03 17:01:22.000000000+01:00
+- image_filename: 2023_03_03__17_07_DJI_0711.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:07:28.000000000+01:00
+- image_filename: 2023_03_03__17_40_DJI_0771.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 175.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7656
+  height: 5510
+  camera: FC3582
+  time: 2023-03-03 17:40:49.000000000+01:00
+- image_filename: 2023_03_03__17_17_DJI_0746.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 156.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7436
+  height: 5522
+  camera: FC3582
+  time: 2023-03-03 17:17:46.000000000+01:00
+- image_filename: 2023_03_03__17_12_DJI_0725.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 162.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8062
+  height: 6046
+  camera: FC3582
+  time: 2023-03-03 17:12:13.000000000+01:00
+- image_filename: 2023_03_03__17_04_DJI_0699.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 171.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:04:43.000000000+01:00
+- image_filename: 2023_03_03__17_35_DJI_0751.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 180.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:35:38.000000000+01:00
+- image_filename: 2023_03_04__15_20_DJI_0856.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 219.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 15:20:16.000000000+01:00
+- image_filename: 2023_03_03__17_11_DJI_0723.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 162.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:11:54.000000000+01:00
+- image_filename: 2023_03_04__13_11_DJI_0822.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 210.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:11:38.000000000+01:00
+- image_filename: 2023_03_03__17_11_DJI_0719.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8020
+  height: 6001
+  camera: FC3582
+  time: 2023-03-03 17:11:08.000000000+01:00
+- image_filename: 2023_03_04__15_21_DJI_0858.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 218.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2023-03-04 15:21:16.000000000+01:00
+- image_filename: 2023_03_03__17_40_DJI_0769.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 176.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 8036
+  height: 6011
+  camera: FC3582
+  time: 2023-03-03 17:40:29.000000000+01:00
+- image_filename: 2023_03_04__13_08_DJI_0810.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 218.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 7804
+  height: 5690
+  camera: FC3582
+  time: 2023-03-04 13:08:08.000000000+01:00
+- image_filename: 2023_03_03__17_42_DJI_0773.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 174.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:42:12.000000000+01:00
+- image_filename: 2023_03_04__15_18_DJI_0851.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 207.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 130
+  width: 8023
+  height: 5993
+  camera: FC3582
+  time: 2023-03-04 15:18:23.000000000+01:00
+- image_filename: 2023_03_04__13_15_DJI_0835.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 182.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:15:01.000000000+01:00
+- image_filename: 2023_03_03__17_07_DJI_0710.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:07:20.000000000+01:00
+- image_filename: 2023_03_04__12_30_DJI_0791.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 199.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 12:30:10.000000000+01:00
+- image_filename: 2023_03_04__12_30_DJI_0793.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 199.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 140
+  width: 7681
+  height: 5539
+  camera: FC3582
+  time: 2023-03-04 12:30:29.000000000+01:00
+- image_filename: 2023_03_03__17_04_DJI_0700.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 171.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8045
+  height: 6023
+  camera: FC3582
+  time: 2023-03-03 17:04:52.000000000+01:00
+- image_filename: 2023_03_04__13_12_DJI_0826.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 184.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-04 13:12:56.000000000+01:00
+- image_filename: 2023_03_03__17_01_DJI_0691.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 143.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8038
+  height: 6014
+  camera: FC3582
+  time: 2023-03-03 17:01:43.000000000+01:00
+- image_filename: 2023_03_03__17_09_DJI_0713.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 164.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  time: 2023-03-03 17:09:02.000000000+01:00
+- image_filename: 2023_03_03__17_15_DJI_0736.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 160.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:15:03.000000000+01:00
+- image_filename: 2023_03_03__17_12_DJI_0724.jpg
+  post_slug: 2023-03-05-kraina-jezior
+  altitude: 162.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-03-03 17:12:05.000000000+01:00
