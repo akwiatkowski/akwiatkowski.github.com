@@ -2,7 +2,7 @@
 # blog rendering
 while :
 do
-  inotify_output=`inotifywait -e close_write,moved_to,create -r data/ /home/olek/projects/self/crystal/tremolite/src/ data/src/ --exclude public/`
+  inotify_output=`inotifywait -e close_write,moved_to,create -r data/ /home/olek/projects/self/crystal/tremolite/src/ data/src/ env/dev/data/ --exclude public/`
   # assing vars
   read -r path action file <<< "$inotify_output"
 
@@ -11,7 +11,7 @@ do
   if [ ${file: -3} == ".cr" ]
   then
     make dev_clean_compiled
-    make dev_compile
+    make dev_compile_fast
     echo "compiled"
   else
     echo "running"

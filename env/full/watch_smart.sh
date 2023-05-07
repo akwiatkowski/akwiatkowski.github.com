@@ -2,7 +2,7 @@
 # blog rendering
 while :
 do
-  inotify_output=`inotifywait -e close_write,moved_to,create -r env/full/ /home/olek/projects/self/crystal/tremolite/src/ data/src/ --exclude env/full/public/`
+  inotify_output=`inotifywait -e close_write,moved_to,create -r env/full/data /home/olek/projects/self/crystal/tremolite/src/ data/src/ --exclude env/full/public/`
   # assing vars
   read -r path action file <<< "$inotify_output"
 

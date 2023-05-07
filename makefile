@@ -21,6 +21,9 @@ dev_compile_and_run: dev_clean_compiled dev_compile dev_run_compiled
 dev_compile:
 	crystal build env/dev/src/run_local.cr -o env/dev/blog --release
 
+dev_compile_fast:
+	crystal build env/dev/src/run_local.cr -o env/dev/blog
+
 dev_run_compiled:
 	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" env/dev/blog
 
@@ -33,6 +36,11 @@ dev_watch_smart:
 # full env
 serve:
 	cd env/full/public && serve -p 5001
+
+release: run_compiled_release
+
+release_ovh:
+	cd env/full && ./release_ovh.sh
 
 render_release:
 	crystal env/full/src/run_local_full.cr
