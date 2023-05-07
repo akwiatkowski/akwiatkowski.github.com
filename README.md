@@ -31,6 +31,7 @@ This is my [non-technical blog](http://odkrywajacpolske.pl) converted from
 
 
 2. [ ] TODO
+  * [x] Separate environment for developing new features
   * [ ] Town statistics
   * [x] RSS/Atom by tags
   * [ ] Post summary JSON - partially
