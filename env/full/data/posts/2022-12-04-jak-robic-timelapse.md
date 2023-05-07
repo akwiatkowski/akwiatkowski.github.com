@@ -40,13 +40,48 @@ Podsumowując: **Gopro ma znacznie lepszą jakość obrazu niż Brinno.**
 
 ### Gopro
 
+Zakupiłem 33Ah akumulator LIFEPO4 (a później 60Ah gdy ceny spadły). Początkowo
+plan wykorzystania był "różny" jednak jako etap pośredni pojawił
+się pomysł wykorzystania Gopro 6 do nagrywania timelapse'ów.
+
+Przygotowałem odpowiednie miejsce na zewnątrz do montażu kamerki i przeprowadziłem
+lekkie testy.
+
+TODO: filmik wrzucić tutaj
+
+Kupiłem gniazdo zapalniczki z wyjściem USB i zmontowałem duży "powerbank".
+Według moich obliczeń akumulator LIFEPO4 10Ah powinien wystarczać na 2 dni, a 33Ah
+na prawie tydzień. Przyjąłem stały pobór prądu 0.1A, który zauważyłem sprawdzając
+ile pobiera podłączona kamerka. Jest to możliwe, że większośc tej energii
+idzie na podładowywanie akumulatorka w Gopro. Nie zauważyłem wzrostu zużycia
+energii podczas wykonywania zdjęcia.
+
+Planuję na początku kwietnia zainstalowanie "powerbank'u" i instalacja
+kamerki na południowy-zachód ustawiając dość krótki interwal (2-4s). **Jedno zdjęcie
+zajmuje ok 2.5MB** co oznacza, że **robiąc zdjęcie co 2s będę potrzebował 100GB
+dziennie**. Jest to sporo dlatego bezpieczną wartością będzie przyjęcie interwału
+4s.
+
+2023-04-02 - zainstalowałem 33Ah "powerbank" i ustawiłem interwał 10s. Ustawiłem
+płaskie kolory, automatyczną ekspozycje, ISO 100-1600 i stały balans bieli.
+Zobaczymy co z tego wyjdzie.
+
+2023-04-04 - ok 17:20, przyszedłęm sprawdzić jak działa. Akumulator ma 13V i gopro
+zrobiło 69GB zdjęć. Zauważyłem, że zdjęcia są zbyt mocno doświetlone i muszę zmienić
+jasność. Trochę nie rozumiem tego jak kamerka dopasowuje się do jasności. Możliwe
+że "protune" jakoś inaczej te zdjęcia zapisuje.
+
+2023-04-12 - ok 15-tej przyszedłem zabrać akumulator i kamerkę z kartą. Nic nie wybuchło.
+Kamerka była wyłączona ale cały czas była podtrzymywana. Na akumulatorze było 12.1V
+czyli ok 10% pojemności. Na karcie SD zostało prawie 30GB wolnego. Nie wiem dlaczego
+kamerka przestała robić zdjęcia. Możliwe, że jest jakaś określona ilość zdjęć jaką jest
+w stanie zrobić albo się zawiesiła.
+
 ### Normalny aparat
 
 #### Pentax K5
 
-
-
-Okazało się, że Pentax K5 idealnie współpracowuje z
+Okazało się, że Pentax K5 idealnie współpracowuje z GNU/linuksem.
 
 #### Olympus M1m2
 
@@ -112,6 +147,14 @@ gphoto2 --camera "Sony Alpha-A7 III (PC Control)" --capture-image-and-download
 
 Również działa. Na "szczęście" nie na tyle lepiej, że myślałbym o umieszczeniu
 tego aparatu do robienia zdjęć do timelapse'a.
+
+### Raspberry Pi
+
+2023-03-14 dowiedziałem się, że są ciekawe kamery do Raspberry Pi. Jakość
+nie jest wyjątkowa, obiektyw szerokokątny 6mm jest dość słaby ale obiektywy tele
+ponoć są stosunkowo dobre. Zaletą jest bardzo łatwa integracja gdyż zdjęcia
+robi się wprost z konsoli linuksowej. Do tego koniecznie potrzebowałbym jakąś
+szczelną obudowę a jeszcze jej nie znalazłem.
 
 ### Fotopułapka Suntek HC-900LTE
 
@@ -242,7 +285,22 @@ mniej wpłynęły na akumulator.
 
 * 2023-01-20 16:26 - instalacja
 * 2023-02-03 9:00 - podmiana akumulatora na 10Ah. Napięcie na 7Ah wynosiło 10.5V
-  więc już trochę przesadziłem.
+  co oznacza naładowanie z 5-8% - więc już trochę przesadziłem z rozładowaniem.
 * 2023-02-19 13:00 - wymieniłem akumulator na zapasowy 10Ah. Napięcie na 10Ah wynosiło 13.05V
   co oznacza, że niby zostało ok 50% energii
 * planowany czas następnej wymiany to 20 dni od 2023-02-19 czyli 2023-03-12
+* 2023-03-14 3:40 - pojawiła się informacja o nie 100% naładowaniu baterii. Oznacza to
+  bardzo mocne rozładowanie akumulatora LIFEPO4.
+* 2023-03-14 4:37 - otrzymałem mailem ostatnie zdjęcie z kamerki
+* 2023-03-14 9:26 - ostatnie zdjęcie jakie zostało zapisane na karcie. Jest to
+  ciekawe, że pomimo zaprzestania wysyłania zdjęć mailem,
+  kamerka jeszcze chwilę pracowała.
+* 2023-03-14 15:00 - instalacja naładowanego akumulatora 10Ah (możliwe, że nie 100%)
+* planowany czas następnej wymiany to za 19 dni, czyli 2 kwietnia. Przeniosłem
+  16GB zdjęć zostawiając czystą kartę pamięci.
+* 2023-04-02 15:00 - instalacja naładowanego akumulatora 10Ah. Przeniosłem około 4870
+  zdjęć. Akumulator został wyładowany do 12.94V co oznacza że
+  **zostało ok. 30% energii**
+* 2023-04-26 14:50 - otrzymałem ostatnie zdjęcie mailem. Przewidywałem wyładowanie
+  baterii około 21 dni, czyli 2023-04-23 ale bateria wytrzymała dłużej gdyż
+  mniej używała 
