@@ -38,3 +38,35 @@ pois:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5934068728/embed/18aa593a329fe2c7960e41c40d6c4b1f698f602c'></iframe>
 
 ## Szczegóły
+
+Planowałem z Łukaszme pojeździć od jakiegoś czasu. Akurat tego dnia
+mogłem trochę wcześniej skończy pracę. Podjechaliśmy pociągiem
+do [Pobiedziska][wiki-pobiedzisk] i zgodnie z wiatrem jechaliśmy w stronę
+północy.
+
+Powrót był zaplanowany z okolic [Wągrowca][wiki-wagrowiec] bo tylko taki nam
+pasował.
+
+Pierwszym celem było [Kłecko][wiki-klecko] gdyż jest tam
+restauracja i byłby to dobry punkt na przerwę obiadową. Natomiast
+jak tam dojechać to nie było określone.
+
+Mieliśmy sporo opcji jak jechać przez wioski.
+
+We wrześniu krajobraz rolniczy nie jest już taki ładny. Pola wyglądają
+na suche.
+
+TODO okolica Sławna
+
+[Kamionek][wiki-kamionek] bardzo klimatyczną wioską ale [Zakrzewo][wiki-zakrzewo]
+jeszcze lepsze. Była tutaj gorzelnia.
+
+Obok jest pałac ale to czy jest on czynny to bardziej skomplikowany temat.
+
+Po dłuższym obiedzie jechaliśmy z [Kłecka][wiki-klecko] na północ.
+W [Polskiej Wsi][wiki-polska-wies] wybraliśmy drogę poboczną aby nie jechać
+razem z ciężarówkami.
+
+Zbyt daleko odchodziliśmy od powrotnej linii kolejowej dlatego postanowiliśmy skręcić
+na zachód i dojechać do [Jaroszewa Drugiego][wiki-jaroszewo-drugie].
+Tam skręciliśmy w prawo i jechaliśmy do [Mieściska][wiki-miescisko].
