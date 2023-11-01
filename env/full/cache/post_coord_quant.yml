@@ -3779,6 +3779,21 @@
       common_size: 1
       not_common_size: 5
       days_diff: 3555
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3582
+    2023-05-28-cieply-poranek:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3583
+    2023-07-07-przed-fala-upalow:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 3623
   quants:
   - lat: 52.4
     lon: 17.0
@@ -4389,6 +4404,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 3535
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3542
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3562
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3563
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3603
   quants:
   - lat: 52.4
     lon: 17.0
@@ -4990,6 +5025,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 3534
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3561
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3562
+    2023-07-07-przed-fala-upalow:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3602
   quants:
   - lat: 52.4
     lon: 17.0
@@ -5378,6 +5428,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3523
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3551
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -5710,6 +5765,21 @@
       common_size: 1
       not_common_size: 5
       days_diff: 3520
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3527
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3547
+    2023-07-07-przed-fala-upalow:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 3588
   quants:
   - lat: 52.4
     lon: 17.2
@@ -6075,6 +6145,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 3489
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3517
   quants:
   - lat: 52.4
     lon: 17.0
@@ -7670,6 +7745,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3079
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3345
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3386
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -8092,6 +8177,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 3317
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3345
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -8451,6 +8541,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 3310
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3338
   quants:
   - lat: 52.4
     lon: 17.0
@@ -8871,6 +8966,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3291
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3319
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -9430,6 +9530,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3285
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3313
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -9706,6 +9811,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3024
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3290
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3331
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -11031,6 +11146,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 3223
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3250
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3251
+    2023-07-07-przed-fala-upalow:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3291
   quants:
   - lat: 52.4
     lon: 17.0
@@ -11717,6 +11847,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3170
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3198
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -12228,6 +12363,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 3163
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3191
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -12663,6 +12803,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3091
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3119
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -13547,6 +13692,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2964
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2991
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2992
+    2023-07-07-przed-fala-upalow:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3032
   quants:
   - lat: 52.4
     lon: 17.0
@@ -14055,6 +14215,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2933
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2961
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -14624,6 +14789,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2899
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2927
+    2023-07-07-przed-fala-upalow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2967
   quants:
   - lat: 52.4
     lon: 17.0
@@ -15060,6 +15235,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2897
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2925
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -16285,6 +16465,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2863
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2891
   quants:
   - lat: 52.2
     lon: 16.4
@@ -16541,6 +16726,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 2176
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2924
   quants:
   - lat: 52.2
     lon: 15.8
@@ -16782,6 +16972,16 @@
       common_size: 2
       not_common_size: 5
       days_diff: 2820
+    2023-05-28-cieply-poranek:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2862
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2863
   quants:
   - lat: 51.4
     lon: 17.0
@@ -17383,6 +17583,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2820
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2848
   quants:
   - lat: 52.4
     lon: 17.0
@@ -17892,6 +18097,16 @@
       common_size: 3
       not_common_size: 3
       days_diff: 2558
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2824
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 2865
   quants:
   - lat: 52.4
     lon: 17.4
@@ -18828,6 +19043,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 1874
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2663
   quants:
   - lat: 52.600002
     lon: 16.2
@@ -19206,6 +19426,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2571
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2598
   quants:
   - lat: 52.2
     lon: 17.0
@@ -19403,6 +19628,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2329
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2595
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2636
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -19848,6 +20083,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2563
+    2023-05-28-cieply-poranek:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 2590
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2591
   quants:
   - lat: 52.2
     lon: 17.0
@@ -19926,6 +20171,16 @@
       common_size: 2
       not_common_size: 2
       days_diff: 2548
+    2023-05-28-cieply-poranek:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2589
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2590
   quants:
   - lat: 52.0
     lon: 17.4
@@ -20656,6 +20911,11 @@
       common_size: 2
       not_common_size: 2
       days_diff: 2536
+    2023-07-07-przed-fala-upalow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2602
   quants:
   - lat: 52.8
     lon: 17.2
@@ -20717,6 +20977,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2520
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2562
   quants:
   - lat: 52.0
     lon: 17.4
@@ -21078,6 +21343,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2225
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2594
   quants:
   - lat: 52.2
     lon: 15.8
@@ -21250,6 +21520,11 @@
       common_size: 4
       not_common_size: 1
       days_diff: 1771
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2561
   quants:
   - lat: 52.600002
     lon: 16.0
@@ -22106,6 +22381,21 @@
       common_size: 1
       not_common_size: 8
       days_diff: 2457
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2484
+    2023-05-28-cieply-poranek:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2485
+    2023-07-07-przed-fala-upalow:
+      common_factor: 22
+      common_size: 2
+      not_common_size: 7
+      days_diff: 2525
   quants:
   - lat: 52.4
     lon: 17.0
@@ -23245,6 +23535,16 @@
       common_size: 2
       not_common_size: 5
       days_diff: 2168
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2434
+    2023-07-07-przed-fala-upalow:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2475
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -23615,6 +23915,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2393
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2421
   quants:
   - lat: 52.4
     lon: 17.0
@@ -23970,6 +24275,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2389
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2417
   quants:
   - lat: 52.4
     lon: 17.0
@@ -24325,6 +24635,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2383
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2410
   quants:
   - lat: 52.4
     lon: 17.0
@@ -25606,6 +25921,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2347
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2374
   quants:
   - lat: 52.4
     lon: 17.0
@@ -26091,6 +26411,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2335
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2363
   quants:
   - lat: 52.4
     lon: 17.0
@@ -26446,6 +26771,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2325
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2352
   quants:
   - lat: 52.4
     lon: 17.0
@@ -28408,6 +28738,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2293
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2320
   quants:
   - lat: 52.4
     lon: 17.0
@@ -28892,6 +29227,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2281
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2309
   quants:
   - lat: 52.4
     lon: 17.0
@@ -30329,6 +30669,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 2247
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2254
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2274
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2275
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2315
   quants:
   - lat: 52.4
     lon: 17.0
@@ -30441,6 +30801,16 @@
       common_size: 2
       not_common_size: 4
       days_diff: 2212
+    2023-05-28-cieply-poranek:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2254
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2255
   quants:
   - lat: 52.0
     lon: 16.6
@@ -31123,6 +31493,26 @@
       common_size: 2
       not_common_size: 10
       days_diff: 2209
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2216
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2236
+    2023-05-28-cieply-poranek:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2237
+    2023-07-07-przed-fala-upalow:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2277
   quants:
   - lat: 52.4
     lon: 17.0
@@ -32504,6 +32894,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1931
+    2023-07-07-przed-fala-upalow:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2245
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -34442,6 +34837,21 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2111
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2138
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2139
+    2023-07-07-przed-fala-upalow:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2179
   quants:
   - lat: 52.4
     lon: 17.0
@@ -35398,6 +35808,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2059
+    2023-05-28-cieply-poranek:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2100
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2101
   quants:
   - lat: 52.2
     lon: 17.2
@@ -35925,6 +36345,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2049
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2076
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -37417,6 +37842,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2003
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2030
   quants:
   - lat: 52.4
     lon: 16.6
@@ -37691,6 +38121,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1762
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2028
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2069
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -38175,6 +38615,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1977
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2004
   quants:
   - lat: 52.4
     lon: 17.0
@@ -39657,6 +40102,21 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1876
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1902
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1903
+    2023-07-07-przed-fala-upalow:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1944
   quants:
   - lat: 52.4
     lon: 17.0
@@ -40016,6 +40476,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1866
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1894
   quants:
   - lat: 52.4
     lon: 17.0
@@ -40185,6 +40650,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 1564
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1934
   quants:
   - lat: 52.2
     lon: 15.8
@@ -40523,6 +40993,21 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1849
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1856
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1875
+    2023-07-07-przed-fala-upalow:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1917
   quants:
   - lat: 52.4
     lon: 17.2
@@ -41302,6 +41787,26 @@
       common_size: 2
       not_common_size: 15
       days_diff: 1839
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 16
+      days_diff: 1846
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 16
+      days_diff: 1866
+    2023-05-28-cieply-poranek:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 16
+      days_diff: 1867
+    2023-07-07-przed-fala-upalow:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 16
+      days_diff: 1907
   quants:
   - lat: 52.4
     lon: 17.0
@@ -42252,6 +42757,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1791
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1833
   quants:
   - lat: 51.8
     lon: 16.6
@@ -42327,6 +42837,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1507
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1877
   quants:
   - lat: 52.2
     lon: 15.8
@@ -42479,6 +42994,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 1505
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1875
   quants:
   - lat: 52.4
     lon: 15.6
@@ -42518,6 +43038,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1504
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1873
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -43759,6 +44284,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 1362
+    2023-07-07-przed-fala-upalow:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1781
   quants:
   - lat: 52.8
     lon: 17.2
@@ -44273,6 +44803,16 @@
       common_size: 1
       not_common_size: 38
       days_diff: 1706
+    2023-05-28-cieply-poranek:
+      common_factor: 5
+      common_size: 2
+      not_common_size: 37
+      days_diff: 1734
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 2
+      common_size: 1
+      not_common_size: 38
+      days_diff: 1734
   quants:
   - lat: 50.600002
     lon: 17.800001
@@ -44829,6 +45369,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1701
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1707
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1727
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1728
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1768
   quants:
   - lat: 52.4
     lon: 17.0
@@ -45062,6 +45622,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 1653
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 1695
   quants:
   - lat: 51.4
     lon: 18.0
@@ -46041,6 +46606,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1652
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1659
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1678
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1720
   quants:
   - lat: 52.4
     lon: 17.2
@@ -48821,6 +49401,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1498
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1525
   quants:
   - lat: 52.4
     lon: 17.0
@@ -49226,6 +49811,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1491
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1518
   quants:
   - lat: 52.4
     lon: 17.0
@@ -49821,6 +50411,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1485
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1512
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1512
+    2023-07-07-przed-fala-upalow:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1553
   quants:
   - lat: 52.4
     lon: 17.0
@@ -50054,6 +50659,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1484
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1490
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1510
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1551
   quants:
   - lat: 52.4
     lon: 17.2
@@ -50476,6 +51096,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1472
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1500
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -50915,6 +51540,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1469
+    2023-05-28-cieply-poranek:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1496
   quants:
   - lat: 52.2
     lon: 16.4
@@ -51025,6 +51655,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1451
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 1493
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1494
   quants:
   - lat: 52.2
     lon: 17.0
@@ -52301,6 +52941,26 @@
       common_size: 2
       not_common_size: 4
       days_diff: 1442
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1449
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1469
+    2023-05-28-cieply-poranek:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1469
+    2023-07-07-przed-fala-upalow:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1510
   quants:
   - lat: 52.4
     lon: 17.0
@@ -52392,6 +53052,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 0
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1509
   quants:
   - lat: 52.600002
     lon: 15.2
@@ -52671,6 +53336,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1415
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1421
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1441
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1482
   quants:
   - lat: 52.4
     lon: 17.2
@@ -53351,6 +54031,11 @@
       common_size: 2
       not_common_size: 16
       days_diff: 1411
+    2023-05-28-cieply-poranek:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 1437
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -53644,6 +54329,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1143
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1420
   quants:
   - lat: 52.0
     lon: 16.800001
@@ -54175,6 +54865,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1362
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1369
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1389
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1430
   quants:
   - lat: 52.4
     lon: 17.2
@@ -54946,6 +55651,16 @@
       common_size: 1
       not_common_size: 15
       days_diff: 1330
+    2023-05-28-cieply-poranek:
+      common_factor: 6
+      common_size: 1
+      not_common_size: 15
+      days_diff: 1358
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 6
+      common_size: 1
+      not_common_size: 15
+      days_diff: 1412
   quants:
   - lat: 51.600002
     lon: 15.2
@@ -55331,6 +56046,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1309
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1337
   quants:
   - lat: 52.4
     lon: 17.0
@@ -57023,6 +57743,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 489
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1238
   quants:
   - lat: 52.2
     lon: 15.8
@@ -57227,6 +57952,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 896
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1161
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1203
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -57272,6 +58007,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 34
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1155
   quants:
   - lat: 52.2
     lon: 17.0
@@ -57627,6 +58367,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1104
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1132
   quants:
   - lat: 52.4
     lon: 17.0
@@ -57997,6 +58742,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1101
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1129
   quants:
   - lat: 52.2
     lon: 17.0
@@ -58354,6 +59104,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1099
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1127
   quants:
   - lat: 52.4
     lon: 17.0
@@ -58709,6 +59464,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1099
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1126
   quants:
   - lat: 52.4
     lon: 17.0
@@ -59139,6 +59899,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1093
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1121
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -59455,6 +60220,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1093
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1100
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1119
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1161
   quants:
   - lat: 52.4
     lon: 17.2
@@ -59942,6 +60722,16 @@
       common_size: 1
       not_common_size: 8
       days_diff: 1087
+    2023-05-28-cieply-poranek:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 1114
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 1169
   quants:
   - lat: 52.2
     lon: 15.8
@@ -60004,6 +60794,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 421
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1107
   quants:
   - lat: 52.2
     lon: 17.2
@@ -60065,6 +60860,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 365
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1155
   quants:
   - lat: 52.600002
     lon: 16.0
@@ -60099,6 +60899,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 365
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1155
   quants:
   - lat: 52.600002
     lon: 16.0
@@ -60134,6 +60939,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 364
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1154
   quants:
   - lat: 52.600002
     lon: 15.8
@@ -60206,6 +61016,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 596
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1153
   quants:
   - lat: 52.600002
     lon: 16.0
@@ -60512,6 +61327,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1063
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1070
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1090
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1131
   quants:
   - lat: 52.4
     lon: 17.2
@@ -60891,6 +61721,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 382
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1067
   quants:
   - lat: 52.2
     lon: 17.2
@@ -61159,6 +61994,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 547
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1104
   quants:
   - lat: 52.8
     lon: 15.6
@@ -62444,6 +63284,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 949
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 956
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 976
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1017
   quants:
   - lat: 52.4
     lon: 17.2
@@ -62646,6 +63501,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 689
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1021
   quants:
   - lat: 51.8
     lon: 16.4
@@ -63437,6 +64297,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 911
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 939
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -63794,6 +64659,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 911
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 938
   quants:
   - lat: 52.4
     lon: 17.0
@@ -63989,6 +64859,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 671
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 936
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 978
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -64824,6 +65704,26 @@
       common_size: 2
       not_common_size: 8
       days_diff: 896
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 903
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 922
+    2023-05-28-cieply-poranek:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 923
+    2023-07-07-przed-fala-upalow:
+      common_factor: 20
+      common_size: 2
+      not_common_size: 8
+      days_diff: 964
   quants:
   - lat: 52.4
     lon: 17.0
@@ -66344,6 +67244,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 760
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 767
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 787
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 828
   quants:
   - lat: 52.4
     lon: 17.2
@@ -66731,6 +67646,21 @@
       common_size: 1
       not_common_size: 2
       days_diff: 749
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 755
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 775
+    2023-07-07-przed-fala-upalow:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 816
   quants:
   - lat: 52.4
     lon: 17.2
@@ -66930,6 +67860,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 499
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 765
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 806
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -67020,6 +67960,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 378
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 797
   quants:
   - lat: 52.8
     lon: 17.2
@@ -67540,6 +68485,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 719
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 726
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 746
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 747
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 787
   quants:
   - lat: 52.4
     lon: 17.0
@@ -68051,6 +69016,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 717
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 724
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 744
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 785
   quants:
   - lat: 52.4
     lon: 17.2
@@ -68208,6 +69188,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 420
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 789
   quants:
   - lat: 52.2
     lon: 15.8
@@ -68843,6 +69828,21 @@
       common_size: 1
       not_common_size: 5
       days_diff: 699
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 726
+    2023-05-28-cieply-poranek:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 727
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 767
   quants:
   - lat: 52.4
     lon: 17.0
@@ -68923,6 +69923,16 @@
       common_size: 2
       not_common_size: 0
       days_diff: 684
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 726
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 727
   quants:
   - lat: 52.0
     lon: 17.4
@@ -69593,6 +70603,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 664
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 671
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 691
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 732
   quants:
   - lat: 52.4
     lon: 17.2
@@ -69728,6 +70753,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 643
+    2023-05-28-cieply-poranek:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 685
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 686
   quants:
   - lat: 52.2
     lon: 17.2
@@ -71252,6 +72287,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 601
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 608
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 628
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 669
   quants:
   - lat: 52.4
     lon: 17.2
@@ -71619,6 +72669,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 597
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 604
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 624
+    2023-07-07-przed-fala-upalow:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 665
   quants:
   - lat: 52.4
     lon: 17.2
@@ -71897,6 +72962,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 356
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 622
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 663
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -72209,6 +73284,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 595
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 602
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 621
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 663
   quants:
   - lat: 52.4
     lon: 17.2
@@ -72468,6 +73558,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 581
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 588
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 607
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 649
   quants:
   - lat: 52.4
     lon: 17.2
@@ -72853,6 +73958,21 @@
       common_size: 1
       not_common_size: 2
       days_diff: 575
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 582
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 601
+    2023-07-07-przed-fala-upalow:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 643
   quants:
   - lat: 52.4
     lon: 17.2
@@ -73290,6 +74410,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 568
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 596
   quants:
   - lat: 52.4
     lon: 17.0
@@ -73885,6 +75010,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 557
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 564
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 584
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 625
   quants:
   - lat: 52.4
     lon: 17.2
@@ -74188,6 +75328,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 535
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 542
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 562
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 603
   quants:
   - lat: 52.4
     lon: 17.2
@@ -74458,6 +75613,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 271
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 537
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 578
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -74776,6 +75941,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 504
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 510
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 530
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 571
   quants:
   - lat: 52.4
     lon: 17.2
@@ -74828,6 +76008,16 @@
       common_size: 1
       not_common_size: 0
       days_diff: 490
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 531
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 532
   quants:
   - lat: 52.2
     lon: 17.4
@@ -75353,6 +76543,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 492
+    2023-05-28-cieply-poranek:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 520
   quants:
   - lat: 52.4
     lon: 17.0
@@ -75443,6 +76638,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 140
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 559
   quants:
   - lat: 52.8
     lon: 17.2
@@ -75626,6 +76826,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 249
+    2023-07-07-przed-fala-upalow:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 556
   quants:
   - lat: 52.4
     lon: 17.4
@@ -76148,6 +77353,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 448
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 455
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 475
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 516
   quants:
   - lat: 52.4
     lon: 17.2
@@ -76445,6 +77665,11 @@
       common_size: 1
       not_common_size: 8
       days_diff: 421
+    2023-07-07-przed-fala-upalow:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 487
   quants:
   - lat: 52.600002
     lon: 17.6
@@ -76774,6 +77999,21 @@
       common_size: 1
       not_common_size: 1
       days_diff: 413
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 419
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 439
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 480
   quants:
   - lat: 52.4
     lon: 17.2
@@ -77067,6 +78307,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 21
+    2023-07-07-przed-fala-upalow:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 439
   quants:
   - lat: 52.8
     lon: 17.0
@@ -77609,6 +78854,16 @@
       common_size: 2
       not_common_size: 2
       days_diff: 119
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 384
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 426
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -77830,6 +79085,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 104
+    2023-07-07-przed-fala-upalow:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 418
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -78539,6 +79799,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 320
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 327
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 347
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 348
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 388
   quants:
   - lat: 52.4
     lon: 17.0
@@ -78741,6 +80021,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 317
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 324
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 344
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 385
   quants:
   - lat: 52.4
     lon: 17.2
@@ -79154,6 +80449,21 @@
       common_size: 1
       not_common_size: 3
       days_diff: 310
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 317
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 337
+    2023-07-07-przed-fala-upalow:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 378
   quants:
   - lat: 52.4
     lon: 17.2
@@ -79284,6 +80594,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -79341,6 +80656,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.6
@@ -79823,6 +81143,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 281
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 288
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 308
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 309
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 349
   quants:
   - lat: 52.4
     lon: 17.0
@@ -80453,6 +81793,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 249
+    2023-05-28-cieply-poranek:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 277
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -80612,6 +81957,11 @@
       common_size: 2
       not_common_size: 2
       days_diff: 7
+    2023-07-07-przed-fala-upalow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 314
   quants:
   - lat: 52.4
     lon: 17.4
@@ -80888,6 +82238,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 5
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 271
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 312
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -81455,6 +82815,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 239
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 246
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 265
+    2023-05-28-cieply-poranek:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 266
+    2023-07-07-przed-fala-upalow:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 307
   quants:
   - lat: 52.4
     lon: 17.0
@@ -81958,6 +83338,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 162
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 168
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 188
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 189
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 229
   quants:
   - lat: 52.4
     lon: 17.0
@@ -82771,6 +84171,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 43
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 49
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 69
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 70
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 110
   quants:
   - lat: 52.4
     lon: 17.0
@@ -82849,6 +84269,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 490
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 41
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 42
   quants:
   - lat: 52.0
     lon: 17.4
@@ -83334,6 +84764,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 43
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 6
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 26
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 27
+    2023-07-07-przed-fala-upalow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 67
   quants:
   - lat: 52.4
     lon: 17.0
@@ -83406,3 +84856,1575 @@
     lon: 17.0
   - lat: 53.4
     lon: 17.2
+2023-05-07-miedzy-tucznem-a-jerzykowem:
+  related_posts:
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3542
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3527
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2254
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2216
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1856
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1846
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1707
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1659
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1490
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1449
+    2019-06-15-okolice-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1421
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1369
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1100
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1070
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 956
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 903
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 767
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 755
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 726
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 724
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 671
+    2021-08-29-petla-po-polsce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 615
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 608
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 604
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 602
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 588
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 582
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 564
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 542
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 510
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 455
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 419
+    2022-06-13-szukajac-makow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 327
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 324
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 317
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 288
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 246
+    2022-11-19-atak-zimy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 168
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 49
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 6
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 19
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 61
+  quants:
+  - lat: 52.4
+    lon: 17.2
+2023-05-27-piaszczysta-puszcza-zielonka:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3582
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 3562
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3561
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3547
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3345
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3290
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3250
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2991
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2824
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2595
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2484
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2434
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2274
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2236
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2138
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2028
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1902
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1875
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1866
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1727
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1678
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1512
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1510
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1469
+    2019-06-15-okolice-promna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1441
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1389
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1161
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1119
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1090
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 976
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 936
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 922
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 787
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 775
+    2021-04-24-szukajac-wiosny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 765
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 746
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 744
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 726
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 691
+    2021-08-29-petla-po-polsce:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 635
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 628
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 624
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 622
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 621
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 607
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 601
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 584
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 562
+    2021-12-05-zamiec:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 537
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 530
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 475
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 439
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 384
+    2022-06-13-szukajac-makow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 347
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 344
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 337
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 308
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 271
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 265
+    2022-11-19-atak-zimy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 188
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 69
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 26
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 19
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 41
+  quants:
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.2
+2023-05-28-cieply-poranek:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3583
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3563
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3562
+    2013-09-05-obok-jeziora-kierskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3551
+    2013-10-09-obok-malty-do-swarzedza:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3517
+    2014-03-30-do-puszczykowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3345
+    2014-04-06-przejazdzka-na-dziewicza-gore:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3338
+    2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3319
+    2014-05-01-przejazdzka-do-kornika:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3313
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3251
+    2014-08-24-petla-przez-dziewicza-gore:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3198
+    2014-08-31-powrot-z-rogozna-do-poznania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3191
+    2014-11-11-wokol-jeziora-kierskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3119
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2992
+    2015-04-18-kolko-przez-poligon-w-biedrusku:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2961
+    2015-05-22-w-strone-skokow-po-raz-5:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2927
+    2015-05-24-w-strone-sremu-ale-bez-niego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2925
+    2015-06-27-zachod-od-poznania-do-opalenicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2891
+    2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2862
+    2015-08-09-do-gluszynki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2848
+    2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2598
+    2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 2590
+    2016-04-24-walka-z-wiatrem-w-okolicy-jarocina:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2589
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2485
+    2016-10-10-poszukiwanie-jesieni-na-legach-debinskich:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2421
+    2016-10-14-poranek-nad-warta:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2417
+    2016-10-20-radojewo-i-okolice-warty:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2410
+    2016-11-25-mgliste-legi-debinskie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2374
+    2016-12-06-lekko-mglisty-rynek-poznania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2363
+    2016-12-17-poranny-szron-na-debcu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2352
+    2017-01-18-biale-radojewo:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2320
+    2017-01-29-zimowa-okolica-rzeki-gluszynki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2309
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2275
+    2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2254
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2237
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2139
+    2017-08-26-z-gniezna-do-srody-wielkopolskiej:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2100
+    2017-09-19-krotka-ucieczka-w-strone-obornik:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2076
+    2017-11-04-poludniowo-zachodnia-sypialnia-poznania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2030
+    2017-11-30-szare-legi-debinskie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2004
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1903
+    2018-03-21-prawie-wiosna-w-radojewie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1894
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1867
+    2018-08-27-dwa-dni-nostalgii-kolejowej:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1734
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1728
+    2019-03-24-krotki-spacer-w-gluszynie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1525
+    2019-03-31-kokoryczkowe-wzgorze:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1518
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1512
+    2019-04-18-ucieczka-do-wpn:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1500
+    2019-04-22-kolejny-dojazd-do-opalenicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1496
+    2019-04-25-okolice-kornika-wiosna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1493
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1469
+    2019-06-20-parowozem-przez-pile-do-stargardu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1437
+    2019-07-07-wyjatkowo-zimny-weekend-tego-lata:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1420
+    2019-09-07-kolejowa-okolica-zagania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1358
+    2019-09-28-z-kobylnicy-do-kicina:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1337
+    2020-03-28-tlumy-przy-warcie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1155
+    2020-04-20-jak-wyjscie-z-wiezienia:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1132
+    2020-04-23-wiosenna-gluszyna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1129
+    2020-04-25-okolica-wierzonki-rowerem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1127
+    2020-04-26-nadwarcianskie-lasy-radojewa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1126
+    2020-05-01-wiosenny-wpn:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1121
+    2020-05-08-setka-w-czasie-zarazy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1114
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1107
+    2020-06-24-susza-i-deszcz:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1067
+    2020-10-30-deszczowy-poznan:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 939
+    2020-10-31-slady-jesieni:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 938
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 923
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 747
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 727
+    2021-05-31-eksploracja-przyrody-przy-warcie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 726
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 685
+    2021-08-29-petla-po-polsce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 636
+    2021-10-08-stabilizacja-olympusa-300mm:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 596
+    2021-12-13-resztka-zimy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 531
+    2021-12-23-zamiec-2:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 520
+    2022-06-13-szukajac-makow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 348
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 309
+    2022-08-23-wzdluz-warty:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 277
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 266
+    2022-11-19-atak-zimy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 189
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 70
+    2023-04-16-podejrzane-chmury:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 41
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 27
+    2023-05-28-warta-zachod-slonca-dron:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 0
+  quants:
+  - lat: 52.2
+    lon: 17.0
+  - lat: 52.2
+    lon: 17.2
+  - lat: 52.2
+    lon: 17.4
+  - lat: 52.4
+    lon: 17.0
+2023-05-28-warta-zachod-slonca-dron:
+  related_posts:
+    2015-07-26-do-milicza-trasa-dawnej-kolei-waskotorowej:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2863
+    2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2591
+    2016-04-24-walka-z-wiatrem-w-okolicy-jarocina:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2590
+    2016-05-22-z-jarocina-do-slupcy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2562
+    2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2255
+    2017-08-26-z-gniezna-do-srody-wielkopolskiej:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2101
+    2018-05-21-z-jarocina-przez-krobie-do-rydzyny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1833
+    2018-08-27-dwa-dni-nostalgii-kolejowej:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1734
+    2018-10-06-zakonczenie-sezonu-rowerowego-w-2018:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1695
+    2019-04-25-okolice-kornika-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1494
+    2021-05-31-eksploracja-przyrody-przy-warcie:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 727
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 686
+    2021-12-13-resztka-zimy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 532
+    2023-04-16-podejrzane-chmury:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 42
+    2023-05-28-cieply-poranek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 0
+  quants:
+  - lat: 52.0
+    lon: 17.4
+  - lat: 52.2
+    lon: 17.4
+2023-06-25-szukajac-pofalowanych-pol:
+  related_posts: {}
+  quants: []
+2023-07-07-przed-fala-upalow:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3623
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3603
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3602
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3588
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3386
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3331
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3291
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3032
+    2015-05-22-w-strone-skokow-po-raz-5:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2967
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 2865
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2636
+    2016-05-21-z-przysieczyna-obok-wagrowca-do-pily:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2602
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2525
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2475
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2315
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2277
+    2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2245
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2179
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2069
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1944
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1917
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1907
+    2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1781
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1768
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1720
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1553
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1551
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1510
+    2019-06-15-okolice-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1482
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1430
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1203
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1161
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1131
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1017
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 978
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 964
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 828
+    2021-04-11-koniec-lenistwa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 816
+    2021-04-24-szukajac-wiosny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 806
+    2021-05-01-zimna-majowka:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 797
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 787
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 785
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 767
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 732
+    2021-08-29-petla-po-polsce:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 676
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 669
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 665
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 663
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 663
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 649
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 643
+    2021-10-20-jesien-awaryjna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 625
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 603
+    2021-12-05-zamiec:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 578
+    2021-12-12-zimowa-mgla:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 571
+    2021-12-25-wschod-w-lososincu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 559
+    2021-12-27-zachod-slonca-w-dusznie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 556
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 516
+    2022-03-06-eksploracja-polnocno-wschodniej-wielkopolski:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 487
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 480
+    2022-04-23-notec-i-polnocna-wielkopolska:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 439
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 426
+    2022-05-14-okolice-welny-z-wiatrem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 418
+    2022-06-13-szukajac-makow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 388
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 385
+    2022-06-24-przed-upalem:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 378
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 349
+    2022-08-27-goracy-poranek-obok-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 314
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 312
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 307
+    2022-11-19-atak-zimy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 229
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 110
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 67
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 61
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 41
+  quants:
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.4
+  - lat: 52.8
+    lon: 17.2
+2023-07-21-jak-sie-dostac-do-miedzychodu:
+  related_posts:
+    2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2924
+    2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2663
+    2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2594
+    2016-07-16-najkrotszy-dojazd-do-sierakowa:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2561
+    2018-04-04-pierwszy-dzien-lata-tej-wiosny:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1934
+    2018-05-31-dojazd-do-trzciela:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1877
+    2018-06-02-w-strone-miedzyrzecza:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1875
+    2018-06-03-lubuskie-pagorki-do-sieniawy:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1873
+    2019-06-02-przez-trzy-rzeki:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1509
+    2019-09-07-kolejowa-okolica-zagania:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1412
+    2020-02-29-podmokle-tereny-wielkopolski:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1238
+    2020-05-08-setka-w-czasie-zarazy:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1169
+    2020-05-22-dojazd-do-sierakowa-przez-puszcze:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1155
+    2020-05-22-polnocno-zachodnie-okolice-sierakowa:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1155
+    2020-05-23-kraina-stu-jezior:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1154
+    2020-05-24-puszcza-notecka-i-mialy:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1153
+    2020-07-12-puszcza-i-laka-notecka:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1104
+    2020-10-03-szybki-przejazd-zachodnia-wielkopolska:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1021
+    2021-05-22-najlepsze-co-w-wielkopolsce:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 789
+    2022-07-16-okolice-miedzyrzecza-przed-zniwami:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 369
+    2022-07-17-motyle-przy-obrze:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 369
+  quants:
+  - lat: 52.2
+    lon: 15.8
+  - lat: 52.4
+    lon: 15.6
+  - lat: 52.600002
+    lon: 15.6
+  - lat: 52.600002
+    lon: 15.8
+  - lat: 52.600002
+    lon: 16.0
+  - lat: 52.8
+    lon: 16.2
+2023-08-05-jedna-z-ladniejszych-wiosek:
+  related_posts: {}
+  quants: []

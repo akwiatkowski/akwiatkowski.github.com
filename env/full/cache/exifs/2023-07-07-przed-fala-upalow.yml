@@ -1,0 +1,479 @@
+---
+- image_filename: header.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+- image_filename: 2023_07_07__12_09_P7070128.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67472222222222
+  lon: 17.329722222222223
+  altitude: 111.0
+  focal_length: 31.0
+  focal_length_35: 62.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8185
+  height: 6113
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:09:55.000000000+02:00
+- image_filename: 2023_07_07__12_01_P7070116.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67833333333333
+  lon: 17.320555555555554
+  altitude: 108.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8074
+  height: 5960
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:01:05.000000000+02:00
+- image_filename: 2023_07_07__11_36_P7070102.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.280277777777776
+  altitude: 97.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7891
+  height: 5772
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:36:53.000000000+02:00
+- image_filename: 2023_07_07__12_09_P7070127.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67472222222222
+  lon: 17.329722222222223
+  altitude: 111.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8074
+  height: 5960
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:09:33.000000000+02:00
+- image_filename: 2023_07_07__14_32_P7070150.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.530277777777776
+  lon: 17.32
+  altitude: 116.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8177
+  height: 6103
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 14:32:34.000000000+02:00
+- image_filename: 2023_07_07__12_10_P7070129.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67472222222222
+  lon: 17.329722222222223
+  altitude: 111.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7965
+  height: 5812
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:10:18.000000000+02:00
+- image_filename: 2023_07_07__11_30_P7070098.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.70777777777778
+  lon: 17.266944444444444
+  altitude: 94.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8071
+  height: 5982
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:30:04.000000000+02:00
+- image_filename: 2023_07_07__11_47_P7070108.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.689166666666665
+  lon: 17.308333333333334
+  altitude: 106.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8090
+  height: 5980
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:47:50.000000000+02:00
+- image_filename: 2023_07_07__12_04_P7070118.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.675
+  lon: 17.326666666666668
+  altitude: 107.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8085
+  height: 5980
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:04:47.000000000+02:00
+- image_filename: 2023_07_07__11_48_P7070110.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.689166666666665
+  lon: 17.308333333333334
+  altitude: 105.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8185
+  height: 6113
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:48:41.000000000+02:00
+- image_filename: 2023_07_07__11_18_P7070092.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.233055555555556
+  altitude: 106.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8140
+  height: 6057
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:18:18.000000000+02:00
+- image_filename: 2023_07_07__11_20_P7070097.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.233055555555556
+  altitude: 105.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8160
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:20:21.000000000+02:00
+- image_filename: 2023_07_07__11_37_P7070104.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.280277777777776
+  altitude: 97.0
+  focal_length: 29.0
+  focal_length_35: 58.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8135
+  height: 6070
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:37:47.000000000+02:00
+- image_filename: 2023_07_07__11_19_P7070095.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.233055555555556
+  altitude: 106.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8042
+  height: 5941
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:19:27.000000000+02:00
+- image_filename: 2023_07_07__11_12_P7070089.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.70111111111111
+  lon: 17.218888888888888
+  altitude: 104.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 8075
+  height: 5967
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:12:00.000000000+02:00
+- image_filename: 2023_07_07__11_36_P7070101.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.702222222222225
+  lon: 17.280277777777776
+  altitude: 97.0
+  focal_length: 21.0
+  focal_length_35: 42.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8092
+  height: 5981
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:36:31.000000000+02:00
+- image_filename: 2023_07_07__11_11_P7070087.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.70111111111111
+  lon: 17.218888888888888
+  altitude: 104.0
+  focal_length: 41.0
+  focal_length_35: 82.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8161
+  height: 6100
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:11:12.000000000+02:00
+- image_filename: 2023_07_07__11_43_P7070106.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.693888888888885
+  lon: 17.298611111111114
+  altitude: 102.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8067
+  height: 5952
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:43:36.000000000+02:00
+- image_filename: 2023_07_07__12_22_P7070138.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.66833333333333
+  lon: 17.370833333333334
+  altitude: 115.0
+  focal_length: 20.0
+  focal_length_35: 40.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8060
+  height: 5943
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:22:50.000000000+02:00
+- image_filename: 2023_07_07__12_07_P7070125.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.675
+  lon: 17.326944444444443
+  altitude: 107.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8025
+  height: 5891
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:07:40.000000000+02:00
+- image_filename: 2023_07_07__12_12_P7070132.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67472222222222
+  lon: 17.334999999999997
+  altitude: 110.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8086
+  height: 5977
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:12:39.000000000+02:00
+- image_filename: 2023_07_07__12_10_P7070131.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67472222222222
+  lon: 17.329722222222223
+  altitude: 111.0
+  focal_length: 57.0
+  focal_length_35: 114.0
+  crop: 2.0
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 7996
+  height: 5871
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:10:52.000000000+02:00
+- image_filename: 2023_07_07__12_05_P7070119.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.675
+  lon: 17.326666666666668
+  altitude: 107.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8142
+  height: 6058
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:05:12.000000000+02:00
+- image_filename: 2023_07_07__11_33_P7070100.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.70277777777778
+  lon: 17.279166666666665
+  altitude: 94.0
+  focal_length: 18.0
+  focal_length_35: 36.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8158
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 11:33:44.000000000+02:00
+- image_filename: 2023_07_07__14_20_P7070147.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.54666666666667
+  lon: 17.353333333333335
+  altitude: 116.0
+  focal_length: 100.0
+  focal_length_35: 200.0
+  crop: 2.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4565
+  height: 3289
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 14:20:16.000000000+02:00
+- image_filename: 2023_07_07__14_14_P7070146.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.553888888888885
+  lon: 17.366666666666667
+  altitude: 115.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 7997
+  height: 5873
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 14:14:14.000000000+02:00
+- image_filename: 2023_07_07__12_13_P7070134.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.67444444444444
+  lon: 17.334999999999997
+  altitude: 110.0
+  focal_length: 12.0
+  focal_length_35: 24.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8160
+  height: 6080
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 12:13:25.000000000+02:00
+- image_filename: 2023_07_07__14_13_P7070143.jpg
+  post_slug: 2023-07-07-przed-fala-upalow
+  lat: 52.553888888888885
+  lon: 17.366666666666667
+  altitude: 115.0
+  focal_length: 28.0
+  focal_length_35: 56.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8096
+  height: 5990
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-07-07 14:13:10.000000000+02:00
