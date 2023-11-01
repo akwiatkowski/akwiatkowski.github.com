@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2022_05_16__12_47_P5166553.jpg
 #image_position:         50% 70%
 tags:                   [bus, main]
-towns:                  [szwajcaria]
+towns:                  [szwajcaria, niemcy]
 
 coords:                 [{"route": [], "type": "hike"}]
 distance:               
