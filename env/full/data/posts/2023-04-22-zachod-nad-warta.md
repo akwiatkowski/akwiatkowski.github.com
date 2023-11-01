@@ -1,23 +1,25 @@
 ---
 layout:                 post
-title:                  "Kraina (dużej ilości) jezior"
+title:                  "Zachód nad Wartą"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2023-03-05 17:00:00
+date:                   2023-04-22 21:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2023_03_03__17_15_DJI_0737.jpg
+image_filename:         2023_04_22__19_21_DJI_0507.jpg
 #image_position:         50% 70%
-tags:                   [chillout, todo]
+tags:                   [air, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
+#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
+#coords_type:            "bicycle"
+distance:               2
+time_spent:             2
 elevation:              
-temperature:            2
+temperature:            
 
 
 pois:

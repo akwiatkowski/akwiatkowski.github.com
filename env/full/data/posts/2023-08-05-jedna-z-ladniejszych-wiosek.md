@@ -1,23 +1,25 @@
 ---
 layout:                 post
-title:                  "Kraina (dużej ilości) jezior"
+title:                  "Wartosław - jedna z ładniejszych wiosek"
 subtitle:               ""
 desc:                   ""
 keywords:               []
-date:                   2023-03-05 17:00:00
+date:                   2023-08-05 16:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-image_filename:         2023_03_03__17_15_DJI_0737.jpg
+image_filename:         2023_08_04__20_04_DJI_0822.jpg
 #image_position:         50% 70%
-tags:                   [chillout, todo]
+tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
-temperature:            2
+#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
+#coords_type:            "bicycle"
+distance:               4
+time_spent:             2
+elevation:              42
+temperature:            
 
 
 pois:
