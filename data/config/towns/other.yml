@@ -21,3 +21,18 @@
   country: Czechy
   lat: 50.07896
   lon: 14.43433
+
+- slug: szwajcaria
+  name: Szwajcaria
+  type: country
+  country: Szwajcaria
+
+- slug: niemcy
+  name: Niemcy
+  type: country
+  country: Niemcy
+
+- slug: wlochy
+  name: Włochy
+  type: country
+  country: Włochy
