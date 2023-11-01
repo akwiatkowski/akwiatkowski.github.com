@@ -108,6 +108,7 @@ struct ExifEntity
     "FC1102"              => "DJI Spark",
     "Redmi Note 3"        => "Xiaomi Redmi Note 3",
     "FC3582"              => "DJI Mini 3 Pro",
+    "OM-1"                => "OM System OM-1",
   }
 
   LENS_NAMES = {
