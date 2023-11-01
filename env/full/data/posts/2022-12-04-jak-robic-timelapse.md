@@ -38,7 +38,7 @@ nie powala patrząc na koszt.
 
 Podsumowując: **Gopro ma znacznie lepszą jakość obrazu niż Brinno.**
 
-### Gopro
+### Gopro 6
 
 Zakupiłem 33Ah akumulator LIFEPO4 (a później 60Ah gdy ceny spadły). Początkowo
 plan wykorzystania był "różny" jednak jako etap pośredni pojawił
@@ -76,6 +76,19 @@ Kamerka była wyłączona ale cały czas była podtrzymywana. Na akumulatorze by
 czyli ok 10% pojemności. Na karcie SD zostało prawie 30GB wolnego. Nie wiem dlaczego
 kamerka przestała robić zdjęcia. Możliwe, że jest jakaś określona ilość zdjęć jaką jest
 w stanie zrobić albo się zawiesiła.
+
+Byłem kilka razy i nie ma sensu opowiadać o każdej sytuacji. Kamerka po pewnym czasie
+(1-3 dni) się wyłączała bez powodu. Możliwe, że przyczyną była temperatura.
+
+Po zmianie interwału na 20s nie było problemu z duplikacją zdjęć jednak kamerka
+się częściej zawieszała.
+
+Ustawiłem nagrywanie timelapse w formie filmiku z interwałem 2s. Rezultat był ciekawy.
+Kamerka nagrała 3 filmiki 4GB. Niestety w nocy przy tym interwale nic nie widać.
+
+#### DJI Action 3
+
+Przetestowałem również kamerkę od DJI.
 
 ### Normalny aparat
 
@@ -303,4 +316,12 @@ mniej wpłynęły na akumulator.
   **zostało ok. 30% energii**
 * 2023-04-26 14:50 - otrzymałem ostatnie zdjęcie mailem. Przewidywałem wyładowanie
   baterii około 21 dni, czyli 2023-04-23 ale bateria wytrzymała dłużej gdyż
-  mniej używała 
+  mniej używała
+* 2023-05-11 19:00 - akurat miałem okazję podjechać ze sprzętem i zabrałem naładowany
+  akumulator. Używany miał 13.14V czyli **zostało ok 60% energii**. Do tego czasu zrobił
+  ok 3500 zdjęć - 12GB.
+* 2023-05- ?? - skrzynka pocztową którą używałem do podsyłania zdjęć postanowiła
+  się zablokować bo jednocześnie wysyłałem zdjęcia przez SMTP przez
+  internet mobilny Orange i odbierałem przez POP3 w internecie stacjonarnym w innym
+  miejscu. Zmiana konfiguracji karty przekonała mnie do zmiany również akumulatora.
+  Aktualny miał 13.14V czyli **zostało ok 60% energii**
