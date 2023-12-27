@@ -10,14 +10,14 @@ train_time_length: 198
 train_count: 29
 self_distance: 17616
 self_time_length: 2570
-updated_at: 2023-10-16 23:05:05.110063573+02:00
+updated_at: 2023-12-27 15:31:55.836736536+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
   count: 127
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 39
+  count: 40
 - name: Łódzkie
   url: /voivodeship/lodzkie/masonry.html
   count: 4
@@ -47,7 +47,7 @@ voivodeships_nav:
   count: 14
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 165
+  count: 167
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
   count: 27
@@ -103,10 +103,10 @@ lands_nav:
 tags_nav:
 - name: Najlepsze
   url: /tag/best/masonry.html
-  count: 105
+  count: 106
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 223
+  count: 225
 - name: Pieszo
   url: /tag/hike/masonry.html
   count: 175

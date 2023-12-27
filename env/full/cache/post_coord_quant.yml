@@ -9092,6 +9092,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 2581
+    2022-10-30-jesien-rowerowa:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3106
   quants:
   - lat: 52.600002
     lon: 16.4
@@ -16450,6 +16455,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2624
+    2022-10-30-jesien-rowerowa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2681
     2022-11-19-atak-zimy:
       common_factor: 20
       common_size: 1
@@ -16726,6 +16736,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 2176
+    2022-10-30-jesien-rowerowa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2660
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 20
       common_size: 1
@@ -19043,6 +19058,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 1874
+    2022-10-30-jesien-rowerowa:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 2399
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 20
       common_size: 1
@@ -21520,6 +21540,11 @@
       common_size: 4
       not_common_size: 1
       days_diff: 1771
+    2022-10-30-jesien-rowerowa:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 2297
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 40
       common_size: 2
@@ -22366,6 +22391,11 @@
       common_size: 2
       not_common_size: 7
       days_diff: 2218
+    2022-10-30-jesien-rowerowa:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2275
     2022-11-19-atak-zimy:
       common_factor: 11
       common_size: 1
@@ -30911,6 +30941,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 1611
+    2022-10-30-jesien-rowerowa:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2037
   quants:
   - lat: 51.8
     lon: 16.4
@@ -32984,6 +33019,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1510
+    2022-10-30-jesien-rowerowa:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 1994
   quants:
   - lat: 52.4
     lon: 16.2
@@ -35561,6 +35601,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1482
+    2022-10-30-jesien-rowerowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1908
   quants:
   - lat: 52.0
     lon: 16.6
@@ -40651,9 +40696,9 @@
       not_common_size: 3
       days_diff: 1564
     2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 40
-      common_size: 2
-      not_common_size: 3
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
       days_diff: 1934
   quants:
   - lat: 52.2
@@ -41087,6 +41132,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1181
+    2022-10-30-jesien-rowerowa:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 1665
   quants:
   - lat: 52.4
     lon: 16.2
@@ -42995,9 +43045,9 @@
       not_common_size: 1
       days_diff: 1505
     2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 66
-      common_size: 2
-      not_common_size: 1
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 1875
   quants:
   - lat: 52.4
@@ -43038,11 +43088,6 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1504
-    2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
-      days_diff: 1873
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -43712,9 +43757,9 @@
       not_common_size: 14
       days_diff: 732
     2020-07-26-polnocno-wschodni-kraniec-kolejowy:
-      common_factor: 36
-      common_size: 7
-      not_common_size: 12
+      common_factor: 42
+      common_size: 8
+      not_common_size: 11
       days_diff: 733
     2020-07-27-odciete-stacje-kolejowe:
       common_factor: 15
@@ -49456,6 +49501,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 426
+    2022-10-30-jesien-rowerowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1309
   quants:
   - lat: 52.4
     lon: 16.4
@@ -51525,6 +51575,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1230
+    2022-10-30-jesien-rowerowa:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1287
     2022-11-19-atak-zimy:
       common_factor: 16
       common_size: 1
@@ -55636,6 +55691,11 @@
       common_size: 1
       not_common_size: 15
       days_diff: 1091
+    2022-10-30-jesien-rowerowa:
+      common_factor: 12
+      common_size: 2
+      not_common_size: 14
+      days_diff: 1148
     2022-11-19-atak-zimy:
       common_factor: 6
       common_size: 1
@@ -56121,6 +56181,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 637
+    2022-10-30-jesien-rowerowa:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1121
   quants:
   - lat: 52.2
     lon: 16.4
@@ -56859,6 +56924,11 @@
       common_size: 2
       not_common_size: 0
       days_diff: 552
+    2022-10-30-jesien-rowerowa:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1077
   quants:
   - lat: 52.600002
     lon: 16.2
@@ -57743,6 +57813,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 489
+    2022-10-30-jesien-rowerowa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 973
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 25
       common_size: 1
@@ -60707,6 +60782,11 @@
       common_size: 1
       not_common_size: 8
       days_diff: 847
+    2022-10-30-jesien-rowerowa:
+      common_factor: 22
+      common_size: 2
+      not_common_size: 7
+      days_diff: 904
     2022-11-19-atak-zimy:
       common_factor: 11
       common_size: 1
@@ -60860,6 +60940,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 365
+    2022-10-30-jesien-rowerowa:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 891
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 66
       common_size: 2
@@ -61123,6 +61208,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 357
+    2022-10-30-jesien-rowerowa:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 883
   quants:
   - lat: 52.4
     lon: 16.4
@@ -62278,24 +62368,24 @@
 2020-07-26-polnocno-wschodni-kraniec-kolejowy:
   related_posts:
     2018-07-23-parowozem-do-suwalk:
-      common_factor: 41
-      common_size: 7
+      common_factor: 44
+      common_size: 8
       not_common_size: 10
       days_diff: 733
     2020-07-27-odciete-stacje-kolejowe:
-      common_factor: 17
+      common_factor: 16
       common_size: 3
-      not_common_size: 14
+      not_common_size: 15
       days_diff: 0
     2020-07-27-pociagiem-do-lidzbarku:
-      common_factor: 23
+      common_factor: 22
       common_size: 4
-      not_common_size: 13
+      not_common_size: 14
       days_diff: 1
     2021-08-29-petla-po-polsce:
       common_factor: 11
       common_size: 2
-      not_common_size: 15
+      not_common_size: 16
       days_diff: 399
   quants:
   - lat: 53.600002
@@ -62321,6 +62411,8 @@
   - lat: 53.8
     lon: 22.2
   - lat: 53.8
+    lon: 22.4
+  - lat: 54.0
     lon: 22.4
   - lat: 54.0
     lon: 22.6
@@ -69188,6 +69280,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 420
+    2022-10-30-jesien-rowerowa:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 525
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 25
       common_size: 2
@@ -70395,6 +70492,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 416
+    2022-10-30-jesien-rowerowa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 484
   quants:
   - lat: 52.2
     lon: 16.2
@@ -80594,11 +80696,6 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
-    2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
-      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -80656,11 +80753,6 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
-    2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
-      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.6
@@ -82853,8 +82945,123 @@
   related_posts: {}
   quants: []
 2022-10-30-jesien-rowerowa:
-  related_posts: {}
-  quants: []
+  related_posts:
+    2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3106
+    2015-06-27-zachod-od-poznania-do-opalenicy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2681
+    2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2660
+    2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 2399
+    2016-07-16-najkrotszy-dojazd-do-sierakowa:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 2297
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2275
+    2017-04-01-z-leszna-przez-przemecki-park-krajobrazowy-do-opalenicy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2037
+    2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 1994
+    2017-08-08-z-kosciana-do-opalenicy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1908
+    2018-04-08-na-polnoc-do-chrzypska-wielkiego:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 1665
+    2019-03-30-okolice-opalenicy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1309
+    2019-04-22-kolejny-dojazd-do-opalenicy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1287
+    2019-09-07-kolejowa-okolica-zagania:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1148
+    2019-10-05-przez-mokry-las:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1121
+    2019-11-17-drezyna-do-chrzypska-wielkiego:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1077
+    2020-02-29-podmokle-tereny-wielkopolski:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 973
+    2020-05-08-setka-w-czasie-zarazy:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 904
+    2020-05-22-dojazd-do-sierakowa-przez-puszcze:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 891
+    2020-05-30-wioski-na-zachod-od-poznania:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 883
+    2021-05-22-najlepsze-co-w-wielkopolsce:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 525
+    2021-07-03-z-nowego-tomysla-do-czempinia:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 484
+  quants:
+  - lat: 52.4
+    lon: 16.2
+  - lat: 52.4
+    lon: 16.4
+  - lat: 52.600002
+    lon: 16.2
+  - lat: 52.600002
+    lon: 16.4
+  - lat: 52.8
+    lon: 16.4
 2022-10-31-mgla-w-wagrowcu:
   related_posts: {}
   quants: []
@@ -86308,115 +86515,98 @@
 2023-07-21-jak-sie-dostac-do-miedzychodu:
   related_posts:
     2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 2924
     2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 2663
     2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 2594
     2016-07-16-najkrotszy-dojazd-do-sierakowa:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 2561
     2018-04-04-pierwszy-dzien-lata-tej-wiosny:
-      common_factor: 33
-      common_size: 2
+      common_factor: 20
+      common_size: 1
       not_common_size: 4
       days_diff: 1934
     2018-05-31-dojazd-do-trzciela:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1877
     2018-06-02-w-strone-miedzyrzecza:
-      common_factor: 33
-      common_size: 2
+      common_factor: 20
+      common_size: 1
       not_common_size: 4
       days_diff: 1875
-    2018-06-03-lubuskie-pagorki-do-sieniawy:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 1873
     2019-06-02-przez-trzy-rzeki:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1509
     2019-09-07-kolejowa-okolica-zagania:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1412
     2020-02-29-podmokle-tereny-wielkopolski:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1238
     2020-05-08-setka-w-czasie-zarazy:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1169
     2020-05-22-dojazd-do-sierakowa-przez-puszcze:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 1155
     2020-05-22-polnocno-zachodnie-okolice-sierakowa:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1155
     2020-05-23-kraina-stu-jezior:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 1154
     2020-05-24-puszcza-notecka-i-mialy:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 1153
     2020-07-12-puszcza-i-laka-notecka:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1104
     2020-10-03-szybki-przejazd-zachodnia-wielkopolska:
-      common_factor: 16
+      common_factor: 20
       common_size: 1
-      not_common_size: 5
+      not_common_size: 4
       days_diff: 1021
     2021-05-22-najlepsze-co-w-wielkopolsce:
-      common_factor: 33
+      common_factor: 40
       common_size: 2
-      not_common_size: 4
+      not_common_size: 3
       days_diff: 789
-    2022-07-16-okolice-miedzyrzecza-przed-zniwami:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 369
-    2022-07-17-motyle-przy-obrze:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 369
   quants:
   - lat: 52.2
     lon: 15.8
-  - lat: 52.4
-    lon: 15.6
   - lat: 52.600002
     lon: 15.6
   - lat: 52.600002
