@@ -32,6 +32,25 @@ pois:
 ---
 
 [wiki-rezerwat-zgierzynieckim]: https://pl.wikipedia.org/wiki/Rezerwat_na_Jeziorze_Zgierzynieckim_im._Boles%C5%82awa_Papi
+[wiki-opalenica]: https://pl.wikipedia.org/wiki/Opalenica
+[wiki-wronki]: https://pl.wikipedia.org/wiki/Wronki
+[wiki-jastrzebniki]: https://pl.wikipedia.org/wiki/Jastrz%C4%99bniki_(osada_le%C5%9Bna_w_powiecie_nowotomyskim)
+[wiki-leczyce]: https://pl.wikipedia.org/wiki/%C5%81%C4%99czyce_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-wasowo]: https://pl.wikipedia.org/wiki/W%C4%85sowo
+[wiki-kuslin]: https://pl.wikipedia.org/wiki/Ku%C5%9Blin
+[wiki-rudniki]: https://pl.wikipedia.org/wiki/Rudniki_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-gluponie]: https://pl.wikipedia.org/wiki/G%C5%82uponie
+[wiki-chraplewo]: https://pl.wikipedia.org/wiki/Chraplewo_(wie%C5%9B_w_powiecie_nowotomyskim)
+[wiki-lwowek]: https://pl.wikipedia.org/wiki/Lw%C3%B3wek
+[wiki-brody]: https://pl.wikipedia.org/wiki/Brody_(powiat_nowotomyski)
+[wiki-pniewy]: https://pl.wikipedia.org/wiki/Pniewy
+[wiki-turowo]: https://pl.wikipedia.org/wiki/Turowo_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-zgierzynka]: https://pl.wikipedia.org/wiki/Zgierzynka
+[wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
+[wiki-bialokoszyce]: https://pl.wikipedia.org/wiki/Bia%C5%82okoszyce
+[wiki-nojewo]: https://pl.wikipedia.org/wiki/Nojewo
+[wiki-orle-wielkie]: https://pl.wikipedia.org/wiki/Orle_Wielkie
+[wiki-gluchowo]: https://pl.wikipedia.org/wiki/G%C5%82uchowo_(powiat_szamotulski)
 
 ## Wstęp
 
@@ -59,7 +78,7 @@ Ruch w [Opalenicy][wiki-opalenica] był niewielki. Niebo było częściowo zachm
 
 {% photo "2022_10_30__11_31_PA301160.jpg","Okolice Dąbrowy Nowej" %}
 
-Okolica [Łęczycy][wiki-leczyca] była, szczerze mówiąc, raczej nudna. To było
+Okolica [Łęczyc][wiki-leczyce] była, szczerze mówiąc, raczej nudna. To było
 połączenie krajobrazu podmiejskiego i rolniczego z minimalnym miejscem na dziką
 przyrodę. Dotarłem do centrum tej wsi, które było w odległości 5km
 od [Opalenicy][wiki-opalenica].
