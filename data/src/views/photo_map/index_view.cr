@@ -31,12 +31,17 @@ class PhotoMap::IndexView < PageView
     s << "<ul>\n"
     @photomaps_for_post_big.keys.sort.reverse.each do |post|
       photomap_view_big = @photomaps_for_post_big[post]
+      photomap_view_small = @photomaps_for_post_small[post]
 
       s << "<li>"
       s << "<a href=\"#{photomap_view_big.url}\">"
-      s << "#{post.date} - #{post.title}"
+      s << "#{post.date} - #{post.title} #{photomap_view_big.zoom}x"
+      s << "</a>, "
+
+      s << "<a href=\"#{photomap_view_small.url}\">"
+      s << "#{photomap_view_small.zoom}x"
       s << "</a>"
-      s << " (#{photomap_view_big.zoom}x)"
+      s << " "
 
       s << "</li>\n"
     end

@@ -114,50 +114,6 @@ module RendererMixin::RenderPhotoMaps
     end
   end
 
-  protected def render_big_photo_map_for_post(post : Tremolite::Post)
-    # TODO refactor post coords into something not ugly
-
-    if post.detailed_routes.not_nil![0].route.size > 0
-      Log.debug { "render_photo_maps_posts #{post.slug}" }
-
-      # sometime I take photos from train and we want to have detailed
-      # route map (big zoom) so we must remove photos taken from non route
-      # places
-      coord_range = PostRouteObject.array_to_coord_range(
-        array: post.detailed_routes.not_nil!,
-      )
-      # only_types: ["hike", "bicycle", "train", "car", "air"]
-      # lets accept all types for now
-
-      autozoom_value = Map::TilesLayer.ideal_zoom(
-        coord_range: coord_range.not_nil!,
-        min_diagonal: 800,
-        max_diagonal: 4200,
-      )
-
-      if autozoom_value
-        post_map_view = PhotoMapSvgView.new(
-          blog: @blog,
-          url: url_photomap_for_post_big(post),
-          zoom: autozoom_value.not_nil!,
-          # quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-          post_slugs: [post.slug],
-          coord_range: coord_range,
-          do_not_crop_routes: true,
-          render_photos_out_of_route: true,
-          photo_direct_link: true,
-        )
-        add_photomap_for_post_big(post, post_map_view)
-        write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts done" }
-      else
-        Log.warn { "#{post.slug} - autozoom_value could not calculate" }
-      end
-    else
-      Log.debug { "#{post.slug} - no coords" }
-    end
-  end
-
   # to get rid of strava maps
   # strava is ok but I don't like how it's being rendered
   protected def render_small_photo_map_for_post(post : Tremolite::Post)
@@ -177,8 +133,9 @@ module RendererMixin::RenderPhotoMaps
 
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
-        min_diagonal: 300,
-        max_diagonal: 1500,
+        min_diagonal: 400,
+        max_diagonal: 1600,
+        biggest: false
       )
 
       if autozoom_value
@@ -195,9 +152,9 @@ module RendererMixin::RenderPhotoMaps
         )
         add_photomap_for_post_small(post, post_map_view)
         write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts SMALL done" }
+        Log.debug { "#{post.slug} - render_photo_maps_posts SMALL done zoom=#{autozoom_value}" }
       else
-        Log.warn { "#{post.slug} - autozoom_value could not calculate for SMALL" }
+        Log.error { "#{post.slug} - autozoom_value could not calculate for SMALL" }
       end
     else
       Log.debug { "#{post.slug} - no coords" }
