@@ -1,0 +1,12 @@
+require "./html_view"
+require "./index_view"
+
+require "./abstract_svg_view"
+require "./global_animated_routes_map_svg_view"
+require "./global_grid_and_routes_map_svg_view"
+require "./global_grid_map_svg_view"
+require "./global_dots_map_svg_view"
+require "./multiple_posts_grid_and_routes_map_svg_view"
+require "./multiple_photo_entities_grid_map_svg_view"
+require "./post_big_map_svg_view"
+require "./post_route_map_svg_view"

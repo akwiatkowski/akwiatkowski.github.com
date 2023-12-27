@@ -8,7 +8,7 @@ class Map::TilesLayer
     @lon_min : Float64,
     @lon_max : Float64,
     @zoom = DEFAULT_ZOOM,
-    @type = MapType::Ump
+    @type = Map::MapTile::Ump
   )
     # convert extreme geo coords to tile number (tile url coords)
     x_tile1, y_tile1 = tile_numbers_from_geo_coords(@lat_min, @lon_min).as(Tuple(Int32, Int32))
@@ -36,10 +36,10 @@ class Map::TilesLayer
 
     # padding viewBox calculation
     # when adding every object it will be stored
-    @x_min = @map_width
-    @x_max = 0
-    @y_min = @map_height
-    @y_max = 0
+    @x_min = 0
+    @x_max = @map_width
+    @y_min = 0
+    @y_max = @map_height
 
     @map_lat1, @map_lon2 = geo_coords_from_tile_number(@x_tile1, @y_tile1).as(Tuple(Float64, Float64))
     @map_lat2, @map_lon1 = geo_coords_from_tile_number(@x_tile2, @y_tile2).as(Tuple(Float64, Float64))
@@ -56,44 +56,14 @@ class Map::TilesLayer
 
   getter :x_min, :y_min, :x_max, :y_max
 
-  CROP_PADDING = 50
+  ###
 
-  def mark_top_left_corner(x, y)
-    @x_min = x if @x_min > x
-    @y_min = y if @y_min > y
+  def map_lat_center
+    (@map_lat1 + @map_lat2) / 2.0
   end
 
-  def mark_bottom_right_corner(x, y)
-    @x_max = x if @x_max < x
-    @y_max = y if @y_max < y
-  end
-
-  def cropped_width
-    r = @x_max - self.cropped_x + CROP_PADDING
-    max = @map_width - self.cropped_x
-
-    return max if r > max
-    return r
-  end
-
-  def cropped_x
-    r = self.x_min - CROP_PADDING
-    return 0 if r < 0
-    return r
-  end
-
-  def cropped_height
-    r = @y_max - self.cropped_y + CROP_PADDING
-    max = @map_height - self.cropped_y
-
-    return max if r > max
-    return r
-  end
-
-  def cropped_y
-    r = self.y_min - CROP_PADDING
-    return 0 if r < 0
-    return r
+  def map_lon_center
+    (@map_lon1 + @map_lon2) / 2.0
   end
 
   def diagonal

@@ -2,9 +2,35 @@ module Map
   class DataError < Exception
   end
 
-  enum MapType
+  enum MapTile
     Ump
     Osm
+  end
+
+  enum MapType
+    # render just tiles
+    Blank
+    # divide map and try to find photo for every cell
+    PhotoGrid
+    # just render every photo as dot/small circle
+    PhotoDots
+    # draw route and add assigned photos located outside of route polyline
+    PhotosAssignedToRoute
+  end
+
+  enum MapRoutesType
+    # display all routes in 0 time
+    Static
+    # display next routes poly line after some seconds after previous one
+    Animated
+  end
+
+  enum MapPhotoLinkTo
+    # when you click on photo it points to just JPG file
+    # TODO: in future maybe some kind of photo page + details
+    LinkToPhoto
+    # when you click on photo it points to post page
+    LinkToPost
   end
 
   TILE_WIDTH         = 256

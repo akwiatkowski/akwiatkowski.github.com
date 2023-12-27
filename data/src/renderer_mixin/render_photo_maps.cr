@@ -14,88 +14,76 @@ module RendererMixin::RenderPhotoMaps
   # # Global
 
   def render_photo_maps_global
-    overall_view = PhotoMapSvgView.new(
+    overall_view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("overall"),
       zoom: Map::DEFAULT_OVERALL_ZOOM,
-      quant_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_OVERALL_PHOTO_SIZE,
     )
     add_photomap_globals("Ogólne", overall_view)
     write_output(overall_view)
 
-    coarse_view = PhotoMapSvgView.new(
+    coarse_view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("coarse"),
       zoom: Map::DEFAULT_COARSE_ZOOM,
-      quant_size: Map::DEFAULT_COARSE_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_COARSE_PHOTO_SIZE,
     )
     add_photomap_globals("Z grubsza", coarse_view)
     write_output(coarse_view)
 
-    small_view = PhotoMapSvgView.new(
+    small_view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("small"),
       zoom: Map::DEFAULT_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
     )
     add_photomap_globals("Małe", small_view)
     write_output(small_view)
 
     # new, animated SVG
-    small_animated_view = PhotoMapSvgView.new(
+    small_animated_view = PhotoMap::GlobalAnimatedRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("small_animated"),
-      zoom: Map::DEFAULT_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE,
-      animated: true,
-      photo_entities: Array(PhotoEntity).new, # TODO animated looks better w/o photos
+      zoom: Map::DEFAULT_SMALL_ZOOM
     )
     add_photomap_globals("Animowana", small_animated_view)
     write_output(small_animated_view)
 
-    small_detailed_view = PhotoMapSvgView.new(
+    small_detailed_view = PhotoMap::GlobalGridMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("small_detailed"),
       zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
-      render_routes: false
+      photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE,
     )
+
     add_photomap_globals("Mała i szczegółowa", small_detailed_view)
     write_output(small_detailed_view)
 
-    detailed_view = PhotoMapSvgView.new(
+    detailed_view = PhotoMap::GlobalGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("detailed"),
       zoom: Map::DEFAULT_DETAILED_ZOOM,
-      quant_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
     )
     add_photomap_globals("Szczegółowe", detailed_view)
     write_output(detailed_view)
 
     # circle dots
-    dots_view = PhotoMapSvgView.new(
+    dots_view = PhotoMap::GlobalDotsMapSvgView.new(
       blog: @blog,
       url: url_photomap_globals("dots"),
-      zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM,
-      quant_size: Map::DEFAULT_SMALL_PHOTO_SIZE, # not used here
+      zoom: Map::DEFAULT_COARSE_ZOOM,
+      photo_size: Map::DEFAULT_DETAILED_PHOTO_SIZE,
       dot_radius: Map::DEFAULT_DOT_RADIUS,
-      render_photo_dots: true,
-      render_routes: false,
     )
     add_photomap_globals("Kółko-zdjęcia", dots_view)
     write_output(dots_view)
-
-    # XXX: overriden by PhotoMap::Index
-    # html_view = PhotoMapHtmlView.new(
-    #   blog: @blog,
-    #   url: "/photo_map",
-    #   svg_url: overall_view.url
-    # )
-    # write_output(html_view)
   end
 
   private def add_photomap_globals(name, view)
-    @photomaps_global ||= Hash(String, PhotoMapSvgView).new
+    # TODO: add abstract class for SVG views
+    @photomaps_global ||= Hash(String, PhotoMap::AbstractSvgView).new
     @photomaps_global.not_nil![name] = view
   end
 
@@ -122,40 +110,15 @@ module RendererMixin::RenderPhotoMaps
     if post.detailed_routes.not_nil![0].route.size > 0
       Log.debug { "render_photo_maps_posts #{post.slug}" }
 
-      # sometime I take photos from train and we want to have detailed
-      # route map (big zoom) so we must remove photos taken from non route
-      # places
-      coord_range = PostRouteObject.array_to_coord_range(
-        array: post.detailed_routes.not_nil!,
-      )
-      # only_types: ["hike", "bicycle", "train", "car", "air"]
-      # lets accept all types for now
-
-      autozoom_value = Map::TilesLayer.ideal_zoom(
-        coord_range: coord_range.not_nil!,
-        min_diagonal: 400,
-        max_diagonal: 1600,
-        biggest: false
+      post_map_view = PhotoMap::PostRouteMapSvgView.new(
+        blog: @blog,
+        post: post,
+        url: url_photomap_for_post_small(post),
       )
 
-      if autozoom_value
-        post_map_view = PhotoMapSvgView.new(
-          blog: @blog,
-          url: url_photomap_for_post_small(post),
-          zoom: autozoom_value.not_nil!,
-          quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-          post_slugs: [post.slug],
-          coord_range: coord_range,
-          do_not_crop_routes: true,
-          render_photo_dots: true,
-          photo_direct_link: true,
-        )
-        add_photomap_for_post_small(post, post_map_view)
-        write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts SMALL done zoom=#{autozoom_value}" }
-      else
-        Log.error { "#{post.slug} - autozoom_value could not calculate for SMALL" }
-      end
+      add_photomap_for_post_small(post, post_map_view)
+      write_output(post_map_view)
+      Log.debug { "#{post.slug} - render_photo_maps_posts SMALL done" }
     else
       Log.debug { "#{post.slug} - no coords" }
     end
@@ -167,51 +130,27 @@ module RendererMixin::RenderPhotoMaps
     if post.detailed_routes.not_nil![0].route.size > 0
       Log.debug { "render_photo_maps_posts #{post.slug}" }
 
-      # sometime I take photos from train and we want to have detailed
-      # route map (big zoom) so we must remove photos taken from non route
-      # places
-      coord_range = PostRouteObject.array_to_coord_range(
-        array: post.detailed_routes.not_nil!,
-      )
-      # only_types: ["hike", "bicycle", "train", "car", "air"]
-      # lets accept all types for now
-
-      autozoom_value = Map::TilesLayer.ideal_zoom(
-        coord_range: coord_range.not_nil!,
-        min_diagonal: 800,
-        max_diagonal: 4200,
+      post_map_view = PhotoMap::PostBigMapSvgView.new(
+        blog: @blog,
+        post: post,
+        url: url_photomap_for_post_big(post),
       )
 
-      if autozoom_value
-        post_map_view = PhotoMapSvgView.new(
-          blog: @blog,
-          url: url_photomap_for_post_big(post),
-          zoom: autozoom_value.not_nil!,
-          quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
-          post_slugs: [post.slug],
-          coord_range: coord_range,
-          do_not_crop_routes: true,
-          render_photos_out_of_route: true,
-          photo_direct_link: true,
-        )
-        add_photomap_for_post_big(post, post_map_view)
-        write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts BIG done" }
-      else
-        Log.warn { "#{post.slug} - autozoom_value could not calculate for BIG" }
-      end
+      add_photomap_for_post_big(post, post_map_view)
+      write_output(post_map_view)
+      Log.debug { "#{post.slug} - render_photo_maps_posts BIG done" }
     else
       Log.debug { "#{post.slug} - no coords" }
     end
   end
 
   private def add_photomap_for_post_big(post, view)
-    @photomaps_for_post_big ||= Hash(Tremolite::Post, PhotoMapSvgView).new
+    @photomaps_for_post_big ||= Hash(Tremolite::Post, PhotoMap::PostBigMapSvgView).new
     @photomaps_for_post_big.not_nil![post] = view
   end
 
   private def add_photomap_for_post_small(post, view)
-    @photomaps_for_post_small ||= Hash(Tremolite::Post, PhotoMapSvgView).new
+    @photomaps_for_post_small ||= Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView).new
     @photomaps_for_post_small.not_nil![post] = view
   end
 
@@ -247,22 +186,22 @@ module RendererMixin::RenderPhotoMaps
       post.slug
     end
 
-    voivodeship_view = PhotoMapSvgView.new(
+    voivodeship_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_for_voivodeship_big(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
-      quant_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
     add_photomap_for_voivodeship_big(voivodeship, voivodeship_view)
     write_output(voivodeship_view)
 
-    voivodeship_small_view = PhotoMapSvgView.new(
+    voivodeship_small_view = PhotoMap::MultiplePostsGridAndRoutesMapSvgView.new(
       blog: @blog,
       url: url_photomap_for_voivodeship_small(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
-      quant_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
       coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
@@ -271,7 +210,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def add_photomap_for_voivodeship_big(voivodeship, view)
-    @photomaps_for_voivodeship_big ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_voivodeship_big ||= Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
     @photomaps_for_voivodeship_big.not_nil![voivodeship.name] = view
   end
 
@@ -280,7 +219,7 @@ module RendererMixin::RenderPhotoMaps
   end
 
   private def add_photomap_for_voivodeship_small(voivodeship, view)
-    @photomaps_for_voivodeship_small ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_voivodeship_small ||= Hash(String, PhotoMap::MultiplePostsGridAndRoutesMapSvgView).new
     @photomaps_for_voivodeship_small.not_nil![voivodeship.name] = view
   end
 
@@ -309,20 +248,19 @@ module RendererMixin::RenderPhotoMaps
       photo_entity.tags.includes?(tag)
     end
 
-    photomap_view = PhotoMapSvgView.new(
+    photomap_view = PhotoMap::MultiplePhotoEntitiesGridMapSvgView.new(
       blog: @blog,
       url: url_photomap_for_tag(tag),
       zoom: Map::DEFAULT_TAG_ZOOM,
-      quant_size: Map::DEFAULT_TAG_PHOTO_SIZE,
+      photo_size: Map::DEFAULT_TAG_PHOTO_SIZE,
       photo_entities: photo_entities,
-      render_routes: false,
     )
     add_photomap_for_tag(tag, photomap_view)
     write_output(photomap_view)
   end
 
   private def add_photomap_for_tag(tag : String, view)
-    @photomaps_for_tag ||= Hash(String, PhotoMapSvgView).new
+    @photomaps_for_tag ||= Hash(String, PhotoMap::MultiplePhotoEntitiesGridMapSvgView).new
     @photomaps_for_tag.not_nil![tag] = view
   end
 
@@ -354,13 +292,13 @@ module RendererMixin::RenderPhotoMaps
   end
 
   def render_photo_maps_debug_post
-    slug = "2020-09-06-lodzkie-zakamarki-i-stare-domy"
-    # slug = "2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki"
+    slug = "2021-07-18-pagorki-przed-zniwami"
     post = @blog.post_collection.posts.not_nil!.select do |post|
       post.slug == slug
     end.first
 
     render_big_photo_map_for_post(post)
+    render_small_photo_map_for_post(post)
     puts "SLEEPING"
     sleep 5
   end

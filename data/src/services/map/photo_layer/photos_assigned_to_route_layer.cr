@@ -1,3 +1,5 @@
+# render post photos assigned to route
+
 struct Map::MapCoordRange
   getter :x_from, :y_from, :x_to, :y_to
 
@@ -51,7 +53,7 @@ struct Map::PhotoToRoutePosition
   end
 end
 
-class Map::PhotoToRouteLayer
+class Map::PhotoLayer::PhotosAssignedToRouteLayer
   Log = ::Log.for(self)
 
   BLOCKED_ROUTE_PADDING          = 20
@@ -66,10 +68,11 @@ class Map::PhotoToRouteLayer
 
   def initialize(
     photos : Array(PhotoEntity),
+    @crop : Map::Crop,
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
     @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-    @photo_direct_link : Bool = false
+    @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -186,8 +189,12 @@ class Map::PhotoToRouteLayer
 
       degree = find_route_bearing_for_point(lat, lon)
 
-      distance_to_last_photo = Math.sqrt((@last_photo_point_x - point_x) ** 2 + (@last_photo_point_y - point_y) ** 2).to_i
-      distance_longer = distance_to_last_photo > CLOSEST_PHOTO_POINT
+      if (@last_photo_point_x - point_x).abs + (@last_photo_point_y - point_y).abs > CLOSEST_PHOTO_POINT
+        distance_to_last_photo = CLOSEST_PHOTO_POINT
+      else
+        distance_to_last_photo = Math.sqrt((@last_photo_point_x - point_x) ** 2 + (@last_photo_point_y - point_y) ** 2).to_i
+        # distance_longer = distance_to_last_photo > CLOSEST_PHOTO_POINT
+      end
 
       spot_for_photo = find_photo_spot_for_point(point_x, point_y, degree)
 
@@ -391,14 +398,18 @@ class Map::PhotoToRouteLayer
     corner_photo_x = photo_position.corner_photo_x
     corner_photo_y = photo_position.corner_photo_y
 
-    # for cropping
-    @tiles_layer.mark_top_left_corner(corner_photo_x.to_i, corner_photo_y.to_i)
-    @tiles_layer.mark_bottom_right_corner(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size)
+    @crop.mark_point(corner_photo_x.to_i, corner_photo_y.to_i)
+    @crop.mark_point(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size)
     # no need to add route point for cropping
 
     # for single post maps render link to image full size not post
-    href_url = post_url
-    href_url = photo_url if @photo_direct_link
+
+    href_url = case @photo_link_to
+               when Map::MapPhotoLinkTo::LinkToPhoto
+                 photo_url
+               when Map::MapPhotoLinkTo::LinkToPost
+                 post_url
+               end
 
     return String.build do |s|
       s << "<svg x='#{corner_photo_x.to_i}' y='#{corner_photo_y.to_i}' width='#{@image_size}' height='#{@image_size}' class='photo-map-photo'>\n"

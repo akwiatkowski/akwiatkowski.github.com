@@ -1,6 +1,6 @@
-require "../services/map/base"
+require "../../services/map/base"
 
-class PhotoMapHtmlView < WidePageView
+class PhotoMap::HtmlView < WidePageView
   Log = ::Log.for(self)
 
   def initialize(

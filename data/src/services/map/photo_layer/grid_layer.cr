@@ -3,13 +3,14 @@ alias PhotoMapSet = NamedTuple(
   pixel_y: Int32,
   photo: PhotoEntity)
 
-class Map::PhotoLayer
+class Map::PhotoLayer::GridLayer
   Log = ::Log.for(self)
 
   def initialize(
     @photos : Array(PhotoEntity),
+    @crop : Map::Crop,
     @tiles_layer : TilesLayer,
-    @quant_size = DEFAULTH_PHOTO_SIZE.as(Int32)
+    @photo_size = DEFAULTH_PHOTO_SIZE.as(Int32)
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -48,9 +49,9 @@ class Map::PhotoLayer
         )
 
         # remember to increment
-        y += @quant_size
+        y += @photo_size
       end
-      x += @quant_size
+      x += @photo_size
     end
 
     Log.debug { "selected total #{@photo_map_sets.size} photos" }
@@ -61,7 +62,7 @@ class Map::PhotoLayer
     y : Int32
   )
     lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
-    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @quant_size, y + @quant_size)
+    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @photo_size, y + @photo_size)
 
     selected_photos = select_photos_for_area(
       lat_min: lat2, # Y/lat axis is reversed
@@ -135,14 +136,13 @@ class Map::PhotoLayer
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]
 
-    # for cropping
-    @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
-    @tiles_layer.mark_bottom_right_corner(x.to_i + @quant_size, y.to_i + @quant_size)
+    @crop.mark_point(x.to_i, y.to_i)
+    @crop.mark_point(x.to_i + @photo_size, y.to_i + @photo_size)
 
     return String.build do |s|
-      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@quant_size}' height='#{@quant_size}' class='photo-map-photo'>\n"
+      s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@photo_size}' height='#{@photo_size}' class='photo-map-photo'>\n"
       s << "<a href='#{post_url}' target='_blank'>\n"
-      s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@quant_size}' height='#{@quant_size}' />\n"
+      s << "<image href='#{url}' preserveAspectRatio='xMidYMid slice' width='#{@photo_size}' height='#{@photo_size}' />\n"
       s << "</a>\n"
       s << "</svg>\n"
     end

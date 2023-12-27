@@ -1,64 +1,71 @@
 require "./const"
 require "./tiles_layer"
 require "./routes_layer"
-require "./photo_layer"
-require "./photo_dots_layer"
-require "./photo_to_route_layer"
+require "./crop"
+
+require "./photo_layer/all"
 
 class Map::Base
   Log = ::Log.for(self)
 
   def initialize(
     @blog : Tremolite::Blog,
-    @tile = MapType::Ump,
-    zoom = DEFAULT_ZOOM,
+    @tile = Map::MapTile::Ump,
+    @type = MapType::Blank,
+    @zoom = DEFAULT_ZOOM,
+
     @post_slugs : Array(String) = Array(String).new,
-    @quant_size = DEFAULT_PHOTO_SIZE,
+
+    @photo_size = Map::DEFAULT_PHOTO_SIZE,
+    @photo_entities : Array(PhotoEntity) = Array(PhotoEntity),
+
+    # selective rendering
+    @render_routes : Bool = true,
+
+    @routes_type : Map::MapRoutesType = Map::MapRoutesType::Static,
+
+    # by default photos are linked to Post not full src of PhotoEntity
+    @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
+
+    # TODO: check how it works
+    @todo_do_not_crop_routes : Bool = false,
+
     # only for dot photo map - size of colored dot
     @dot_radius = DEFAULT_DOT_RADIUS,
     # filter only photos in rectangle
     @coord_range : CoordRange? = nil,
     # enforce to render all routes points on map
     # by changing extreme coords
-    @do_not_crop_routes : Bool = false,
+
     # try to select best zoom
     @autozoom : Bool = false,
     # if we need to show only selected photos
-    @photo_entities : Array(PhotoEntity)? = nil,
-    # selective rendering
-    @render_routes : Bool = true,
-    # toggle to render photos not as grid but pointed to route
-    @render_photos_out_of_route : Bool = false,
-    # toggle to render photos as dots on map
-    @render_photo_dots : Bool = false,
-    # by default photos are linked to Post not full src of PhotoEntity
-    @photo_direct_link : Bool = false,
-    # animated, show routed poly line after some seconds
-    @animated : Bool = false,
+
     # only Poland and area
     # don't include other countries into photomaps
     # if true set default @coord_range if not set
     #
     # enable for maps which loads all photos
-    @limit_to_poland : Bool = true
+    @only_in_poland : Bool = true,
+
+    # it's possible to override dimension. ex: small post map
+    @custom_width : Int32 | Nil = nil,
+    @custom_height : Int32 | Nil = nil
   )
-    Log.info { "Start zoom=#{zoom},post_slugs.size=#{@post_slugs.size},photo_entities.size=#{@photo_entities.nil? ? nil : @photo_entities.not_nil!.size}" }
+    Log.info { "Start zoom=#{@zoom},post_slugs.size=#{@post_slugs.size},photo_entities.size=#{@photo_entities.nil? ? nil : @photo_entities.not_nil!.size}" }
+
+    # only used for calculating how map should be cropped
+    @crop = Crop.new
 
     @internal_coord_range = CoordRange.new
 
-    # ## PHOTOS
-
-    if @photo_entities
-      all_photos = @photo_entities.not_nil!
-    else
-      all_photos = @blog.data_manager.exif_db.all_flatten_photo_entities
-    end
-
     # if list of post slugs were provided select only for this posts
     if @post_slugs.size > 0
-      all_photos = all_photos.select do |photo_entity|
+      all_photos = @photo_entities.select do |photo_entity|
         @post_slugs.includes?(photo_entity.post_slug)
       end
+    else
+      all_photos = @photo_entities
     end
 
     # select only with geo coords
@@ -68,7 +75,7 @@ class Map::Base
 
     # small fix to ignore photos from Switzerland because
     # it will enlarge map too much
-    if @coord_range.nil? && @limit_to_poland == true
+    if @coord_range.nil? && @only_in_poland == true
       @coord_range = CoordRange.poland_area
     end
 
@@ -136,7 +143,7 @@ class Map::Base
         # soon after start riding) we need to enlarge coord range to make
         # all route point visible on map
 
-        if !@internal_coord_range.valid? || @do_not_crop_routes
+        if !@internal_coord_range.valid? || @todo_do_not_crop_routes
           @internal_coord_range.enlarge!(routes_coord_range)
           Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
         end
@@ -167,52 +174,108 @@ class Map::Base
       lat_max: @internal_coord_range.lat_to,
       lon_min: @internal_coord_range.lon_from,
       lon_max: @internal_coord_range.lon_to,
-      zoom: zoom,
+      zoom: @zoom,
     )
 
     @routes_layer = RoutesLayer.new(
       posts: @posts,
+      crop: @crop,
       tiles_layer: @tiles_layer,
-      animated: @animated,
+      type: @routes_type,
     )
 
-    # TODO: change from boolean to some kind of type or strategy
-    if @render_photos_out_of_route
-      # for post photo map we render photo assigned to route
-      @photo_layer = PhotoToRouteLayer.new(
+    case @type
+    when MapType::PhotoGrid
+      # divide map by grid cell and add photo
+      @photo_layer = PhotoLayer::GridLayer.new(
         photos: @photos,
-        posts: @posts,
+        crop: @crop,
         tiles_layer: @tiles_layer,
-        image_size: @quant_size,
-        photo_direct_link: @photo_direct_link,
+        photo_size: @photo_size
       )
-    elsif @render_photo_dots
-      # detailed map with dots as photos
-      @photo_layer = PhotoDotsLayer.new(
+    when MapType::PhotoDots
+      # just render every photo as dot/small circle
+      @photo_layer = PhotoLayer::DotsLayer.new(
         photos: @photos,
+        crop: @crop,
         tiles_layer: @tiles_layer,
-        photo_direct_link: @photo_direct_link,
+        photo_link_to: @photo_link_to,
         dot_radius: @dot_radius,
       )
-    else
-      # else, render photo grid
-      @photo_layer = PhotoLayer.new(
+    when Map::MapType::PhotosAssignedToRoute
+      # draw route and add assigned photos located outside of route polyline
+      @photo_layer = PhotoLayer::PhotosAssignedToRouteLayer.new(
         photos: @photos,
+        crop: @crop,
+        posts: @posts,
         tiles_layer: @tiles_layer,
-        quant_size: @quant_size
+        image_size: @photo_size,
+        photo_link_to: @photo_link_to,
       )
+    else # ex: MapType::Blank
+      # do nothing here
+      @photo_layer = PhotoLayer::BlankLayer.new
     end
   end
 
-  def to_svg
-    return String.build do |s|
-      s << "<svg height='#{@tiles_layer.map_height}' width='#{@tiles_layer.map_width}' "
-      s << "viewBox='#{@tiles_layer.cropped_x} #{@tiles_layer.cropped_y} #{@tiles_layer.cropped_width} #{@tiles_layer.cropped_height}' "
-      s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' >\n"
+  def licence_text
+    x = 5
+    y = 20
 
+    lat = @tiles_layer.map_lat_center
+    lon = @tiles_layer.map_lon_center
+
+    # sorry guys for not adding credits before
+    # you know, a lot of work :)
+    if @tile == Map::MapTile::Ump
+      return String.build do |s|
+        s << "\n"
+        s << "<svg id='photo-map-licence'>\n"
+        s << "<a href='https://mapa.ump.waw.pl/ump-www/?zoom=#{@zoom}&amp;lat=#{lat}&amp;lon=#{lon}' target='_blank'>\n"
+        s << "<text x='#{x}' y='#{y}' font-size='smaller'>źródło: UMP</text>\n"
+        s << "</a>\n"
+        s << "</svg>\n"
+      end
+    end
+
+    return String.new
+  end
+
+  def to_svg
+    # run here to calculate all points for padding
+    inner_svg = String.build do |s|
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
       s << @routes_layer.render_svg if @render_routes
+
+    end
+
+    return String.build do |s|
+      cropped_width = @crop.cropped_width(@tiles_layer.map_width)
+      cropped_height = @crop.cropped_height(@tiles_layer.map_height)
+      crop_x = @crop.crop_x
+      crop_y = @crop.crop_y
+
+      width = cropped_width
+      width = @custom_width.not_nil! if @custom_width
+      height = cropped_height
+      height = @custom_height.not_nil! if @custom_height
+
+      # wrapper for autoscalling
+      s << "<svg preserveAspectRatio='xMinYMin meet' viewBox='0 0 #{width} #{height}' "
+      s << "xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>\n"
+
+      # map
+      s << "<svg width='#{width}' height='#{height}' "
+      s << "viewBox='#{crop_x} #{crop_y} #{cropped_width} #{cropped_height}' "
+      s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' >\n"
+
+      s << inner_svg
+
+      s << "</svg>\n"
+
+      # licence stuff is kind of separated
+      s << licence_text
 
       s << "</svg>\n"
       Log.debug { "svg done" }

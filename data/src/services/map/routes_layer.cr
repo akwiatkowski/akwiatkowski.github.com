@@ -3,8 +3,9 @@ class Map::RoutesLayer
 
   def initialize(
     @posts : Array(Tremolite::Post),
+    @crop : Map::Crop,
     @tiles_layer : TilesLayer,
-    @animated : Bool = false
+    @type : Map::MapRoutesType = Map::MapRoutesType::Static
   )
   end
 
@@ -31,6 +32,10 @@ class Map::RoutesLayer
     end
   end
 
+  def animated?
+    @type == Map::MapRoutesType::Animated
+  end
+
   def convert_route_object_to_array_of_svg_lines(route_object)
     svg_color =
       allowed_types = {
@@ -50,12 +55,12 @@ class Map::RoutesLayer
           s << "<polyline class='photo-map-route' fill='none' "
 
           # animated svg should have not visible poly lines
-          if @animated
+          if animated?
             s << "opacity=\"0\" "
           end
 
           # styles
-          if @animated
+          if animated?
             # TODO: temporary same style
             s << "style='stroke:rgb(#{color_svg_for_route_object});stroke-width:2' "
           else
@@ -73,14 +78,13 @@ class Map::RoutesLayer
               lon_deg: lon
             ).as(Tuple(Int32, Int32))
 
-            # for cropping
-            @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
-            @tiles_layer.mark_bottom_right_corner(x.to_i, y.to_i)
+            @crop.mark_point(x.to_i, y.to_i)
+            @crop.mark_point(x.to_i, y.to_i)
 
             s << "#{x.to_i},#{y.to_i} "
           end
 
-          if @animated
+          if animated?
             # finish polyline tag start
             s << "'>\n"
 

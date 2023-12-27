@@ -17,7 +17,7 @@ class Map::Downloader
     @lon_from : Float64,
     @lon_to : Float64,
     @zoom = DEFAULT_ZOOM,
-    @type = MapType::Ump,
+    @type = Map::MapTile::Ump,
     @show_command = false
   )
     x_from_float, y_from_float = TilesLayer.tile_coords_from_geo_coords(@lat_from, @lon_from, @zoom)
@@ -66,7 +66,7 @@ class Map::Downloader
   end
 
   def ump?
-    @type == MapType::Ump
+    @type == Map::MapTile::Ump
   end
 
   def download(x, y)

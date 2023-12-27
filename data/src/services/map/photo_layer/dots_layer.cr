@@ -1,10 +1,11 @@
-class Map::PhotoDotsLayer
+class Map::PhotoLayer::DotsLayer
   Log = ::Log.for(self)
 
   def initialize(
-    photos,
+    photos : Array(PhotoEntity),
+    @crop : Map::Crop,
     @tiles_layer : TilesLayer,
-    @photo_direct_link : Bool = false,
+    @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
     @dot_radius : Int32 = 5
   )
     @map_height = @tiles_layer.map_height.as(Int32)
@@ -37,39 +38,6 @@ class Map::PhotoDotsLayer
       end
 
       s << "</g>\n"
-    end
-  end
-
-  def select_photos_for_quant_and_add_to_list(
-    x : Int32,
-    y : Int32
-  )
-    lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
-    lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @quant_size, y + @quant_size)
-
-    selected_photos = select_photos_for_area(
-      lat_min: lat2, # Y/lat axis is reversed
-      lat_max: lat1,
-      lon_min: lon1,
-      lon_max: lon2,
-    )
-
-    # no photos, move along
-    if selected_photos.size > 0
-      Log.debug { "#{selected_photos.size} selected_photos x: #{x} y: #{y}" }
-
-      # having array of photos take the best one
-      # TODO: we need some logic to select which photos are better
-      # even if they are not post published
-      selected_photo = select_suitable_photo(selected_photos)
-
-      if selected_photo
-        @photo_map_sets << PhotoMapSet.new(
-          pixel_x: x,
-          pixel_y: y,
-          photo: selected_photo.not_nil!
-        )
-      end
     end
   end
 
@@ -156,9 +124,7 @@ class Map::PhotoDotsLayer
       lon_deg: photo_entity.exif.not_nil!.lon.not_nil!
     ).as(Tuple(Int32, Int32))
 
-    # for cropping
-    @tiles_layer.mark_top_left_corner(x.to_i, y.to_i)
-    @tiles_layer.mark_bottom_right_corner(x.to_i, y.to_i)
+    @crop.mark_point(x.to_i, y.to_i)
 
     return String.build do |s|
       s << "<a href='#{photo_url}' target='_blank'>\n"
