@@ -177,8 +177,8 @@ module RendererMixin::RenderPhotoMaps
 
       autozoom_value = Map::TilesLayer.ideal_zoom(
         coord_range: coord_range.not_nil!,
-        min_diagonal: 600,
-        max_diagonal: 2400,
+        min_diagonal: 300,
+        max_diagonal: 1500,
       )
 
       if autozoom_value
