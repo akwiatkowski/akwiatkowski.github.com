@@ -42,7 +42,7 @@ class Map::Base
     # enable for maps which loads all photos
     @limit_to_poland : Bool = true
   )
-    Log.info { "Start" }
+    Log.info { "Start zoom=#{zoom},post_slugs.size=#{@post_slugs.size},photo_entities.size=#{@photo_entities.nil? ? nil : @photo_entities.not_nil!.size}" }
 
     @internal_coord_range = CoordRange.new
 
@@ -176,6 +176,7 @@ class Map::Base
       animated: @animated,
     )
 
+    # TODO: change from boolean to some kind of type or strategy
     if @render_photos_out_of_route
       # for post photo map we render photo assigned to route
       @photo_layer = PhotoToRouteLayer.new(

@@ -108,12 +108,103 @@ module RendererMixin::RenderPhotoMaps
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
       if post.self_propelled? && post.detailed_routes && post.detailed_routes.not_nil!.size > 0
-        render_photo_map_for_post(post)
+        render_big_photo_map_for_post(post)
+        render_small_photo_map_for_post(post)
       end
     end
   end
 
-  protected def render_photo_map_for_post(post : Tremolite::Post)
+  protected def render_big_photo_map_for_post(post : Tremolite::Post)
+    # TODO refactor post coords into something not ugly
+
+    if post.detailed_routes.not_nil![0].route.size > 0
+      Log.debug { "render_photo_maps_posts #{post.slug}" }
+
+      # sometime I take photos from train and we want to have detailed
+      # route map (big zoom) so we must remove photos taken from non route
+      # places
+      coord_range = PostRouteObject.array_to_coord_range(
+        array: post.detailed_routes.not_nil!,
+      )
+      # only_types: ["hike", "bicycle", "train", "car", "air"]
+      # lets accept all types for now
+
+      autozoom_value = Map::TilesLayer.ideal_zoom(
+        coord_range: coord_range.not_nil!,
+        min_diagonal: 800,
+        max_diagonal: 4200,
+      )
+
+      if autozoom_value
+        post_map_view = PhotoMapSvgView.new(
+          blog: @blog,
+          url: url_photomap_for_post_big(post),
+          zoom: autozoom_value.not_nil!,
+          # quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+          post_slugs: [post.slug],
+          coord_range: coord_range,
+          do_not_crop_routes: true,
+          render_photos_out_of_route: true,
+          photo_direct_link: true,
+        )
+        add_photomap_for_post_big(post, post_map_view)
+        write_output(post_map_view)
+        Log.debug { "#{post.slug} - render_photo_maps_posts done" }
+      else
+        Log.warn { "#{post.slug} - autozoom_value could not calculate" }
+      end
+    else
+      Log.debug { "#{post.slug} - no coords" }
+    end
+  end
+
+  # to get rid of strava maps
+  # strava is ok but I don't like how it's being rendered
+  protected def render_small_photo_map_for_post(post : Tremolite::Post)
+    # TODO refactor post coords into something not ugly
+
+    if post.detailed_routes.not_nil![0].route.size > 0
+      Log.debug { "render_photo_maps_posts #{post.slug}" }
+
+      # sometime I take photos from train and we want to have detailed
+      # route map (big zoom) so we must remove photos taken from non route
+      # places
+      coord_range = PostRouteObject.array_to_coord_range(
+        array: post.detailed_routes.not_nil!,
+      )
+      # only_types: ["hike", "bicycle", "train", "car", "air"]
+      # lets accept all types for now
+
+      autozoom_value = Map::TilesLayer.ideal_zoom(
+        coord_range: coord_range.not_nil!,
+        min_diagonal: 600,
+        max_diagonal: 2400,
+      )
+
+      if autozoom_value
+        post_map_view = PhotoMapSvgView.new(
+          blog: @blog,
+          url: url_photomap_for_post_small(post),
+          zoom: autozoom_value.not_nil!,
+          quant_size: Map::DEFAULT_POST_PHOTO_SIZE,
+          post_slugs: [post.slug],
+          coord_range: coord_range,
+          do_not_crop_routes: true,
+          render_photo_dots: true,
+          photo_direct_link: true,
+        )
+        add_photomap_for_post_small(post, post_map_view)
+        write_output(post_map_view)
+        Log.debug { "#{post.slug} - render_photo_maps_posts SMALL done" }
+      else
+        Log.warn { "#{post.slug} - autozoom_value could not calculate for SMALL" }
+      end
+    else
+      Log.debug { "#{post.slug} - no coords" }
+    end
+  end
+
+  protected def render_big_photo_map_for_post(post : Tremolite::Post)
     # TODO refactor post coords into something not ugly
 
     if post.detailed_routes.not_nil![0].route.size > 0
@@ -148,9 +239,9 @@ module RendererMixin::RenderPhotoMaps
         )
         add_photomap_for_post_big(post, post_map_view)
         write_output(post_map_view)
-        Log.debug { "#{post.slug} - render_photo_maps_posts done" }
+        Log.debug { "#{post.slug} - render_photo_maps_posts BIG done" }
       else
-        Log.warn { "#{post.slug} - autozoom_value could not calculate" }
+        Log.warn { "#{post.slug} - autozoom_value could not calculate for BIG" }
       end
     else
       Log.debug { "#{post.slug} - no coords" }
@@ -162,8 +253,17 @@ module RendererMixin::RenderPhotoMaps
     @photomaps_for_post_big.not_nil![post] = view
   end
 
+  private def add_photomap_for_post_small(post, view)
+    @photomaps_for_post_small ||= Hash(Tremolite::Post, PhotoMapSvgView).new
+    @photomaps_for_post_small.not_nil![post] = view
+  end
+
   private def url_photomap_for_post_big(post : Tremolite::Post)
     return "/photo_map/for_post/#{post.slug}/big.svg"
+  end
+
+  private def url_photomap_for_post_small(post : Tremolite::Post)
+    return "/photo_map/for_post/#{post.slug}/small.svg"
   end
 
   # # Voivodesips
@@ -283,6 +383,7 @@ module RendererMixin::RenderPhotoMaps
       photomaps_for_voivodeship_big: @photomaps_for_voivodeship_big.not_nil!,
       photomaps_for_voivodeship_small: @photomaps_for_voivodeship_small.not_nil!,
       photomaps_for_post_big: @photomaps_for_post_big.not_nil!,
+      photomaps_for_post_small: @photomaps_for_post_small.not_nil!,
       photomaps_global: @photomaps_global.not_nil!,
     )
     write_output(html_view)
@@ -302,7 +403,7 @@ module RendererMixin::RenderPhotoMaps
       post.slug == slug
     end.first
 
-    render_photo_map_for_post(post)
+    render_big_photo_map_for_post(post)
     puts "SLEEPING"
     sleep 5
   end

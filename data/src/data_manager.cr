@@ -12,6 +12,7 @@ require "./services/exif_processor"
 require "./services/preloaded_post_referenced_links"
 
 require "./data_manager/exif_db"
+require "./data_manager/photo_map_dictionary"
 
 class Tremolite::DataManager
   def custom_initialize
@@ -40,12 +41,16 @@ class Tremolite::DataManager
     @exif_db = ExifDb.new(
       blog: @blog
     )
+    @photo_map_dictionary = PhotoMapDictionary.new(
+      public_path: @blog.public_path
+    )
   end
 
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
   getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache
+  getter :photo_map_dictionary
 
   def exif_db
     return @exif_db.not_nil!

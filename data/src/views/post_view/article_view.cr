@@ -202,6 +202,19 @@ module PostView
         data["todo"] = load_html("post/todo")
       end
 
+      # small photo_map for post
+      path_for_svg = @blog.data_manager.photo_map_dictionary.not_nil!.get_small_photo_map_for_post(@post)
+      if path_for_svg
+        data["svg_map"] = load_html(
+          "post/svg_map",
+          {
+            "svg_path" => path_for_svg,
+          }
+        )
+      else
+        data["svg_map"] = ""
+      end
+
       return load_html("post/article", data)
     end
 

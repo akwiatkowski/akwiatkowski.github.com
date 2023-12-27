@@ -8,6 +8,7 @@ class PhotoMap::IndexView < PageView
     @photomaps_for_voivodeship_big : Hash(String, PhotoMapSvgView),
     @photomaps_for_voivodeship_small : Hash(String, PhotoMapSvgView),
     @photomaps_for_post_big : Hash(Tremolite::Post, PhotoMapSvgView),
+    @photomaps_for_post_small : Hash(Tremolite::Post, PhotoMapSvgView),
     @photomaps_global : Hash(String, PhotoMapSvgView),
     @subtitle : String = ""
   )
