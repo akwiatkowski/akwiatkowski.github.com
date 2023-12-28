@@ -78,8 +78,7 @@ class Map::RoutesLayer
               lon_deg: lon
             ).as(Tuple(Int32, Int32))
 
-            @crop.mark_point(x.to_i, y.to_i)
-            @crop.mark_point(x.to_i, y.to_i)
+            @crop.mark_point(x.to_i, y.to_i, :route)
 
             s << "#{x.to_i},#{y.to_i} "
           end

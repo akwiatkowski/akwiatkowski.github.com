@@ -136,8 +136,8 @@ class Map::PhotoLayer::GridLayer
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]
 
-    @crop.mark_point(x.to_i, y.to_i)
-    @crop.mark_point(x.to_i + @photo_size, y.to_i + @photo_size)
+    @crop.mark_point(x.to_i, y.to_i, :grid_photo_map_set1)
+    @crop.mark_point(x.to_i + @photo_size, y.to_i + @photo_size, :grid_photo_map_set1)
 
     return String.build do |s|
       s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@photo_size}' height='#{@photo_size}' class='photo-map-photo'>\n"

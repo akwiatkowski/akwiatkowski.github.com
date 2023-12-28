@@ -124,7 +124,7 @@ class Map::PhotoLayer::DotsLayer
       lon_deg: photo_entity.exif.not_nil!.lon.not_nil!
     ).as(Tuple(Int32, Int32))
 
-    @crop.mark_point(x.to_i, y.to_i)
+    @crop.mark_point(x.to_i, y.to_i, :dots_photo_entity)
 
     return String.build do |s|
       s << "<a href='#{photo_url}' target='_blank'>\n"

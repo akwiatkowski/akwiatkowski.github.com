@@ -398,8 +398,8 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     corner_photo_x = photo_position.corner_photo_x
     corner_photo_y = photo_position.corner_photo_y
 
-    @crop.mark_point(corner_photo_x.to_i, corner_photo_y.to_i)
-    @crop.mark_point(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size)
+    @crop.mark_point(corner_photo_x.to_i, corner_photo_y.to_i, :assigned_photo_position1)
+    @crop.mark_point(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size, :assigned_photo_position2)
     # no need to add route point for cropping
 
     # for single post maps render link to image full size not post

@@ -247,7 +247,6 @@ class Map::Base
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
       s << @routes_layer.render_svg if @render_routes
-
     end
 
     return String.build do |s|
@@ -261,12 +260,23 @@ class Map::Base
       height = cropped_height
       height = @custom_height.not_nil! if @custom_height
 
+      # found that I had to calculate new heigh using aspect ratio
+      # `height` is probably not used here
+      aspect_ratio = @tiles_layer.map_width.to_f / @tiles_layer.map_height.to_f
+      new_height = (width.to_f / aspect_ratio).to_i
+
+      # debug snippet
+      s << "<!--\n"
+      s << @crop.debug_hash(@tiles_layer.map_width, @tiles_layer.map_height).to_yaml.gsub("---", "")
+      s << "tiles: width=#{@tiles_layer.map_width}, height=#{@tiles_layer.map_height}\n"
+      s << "\n-->\n"
+
       # wrapper for autoscalling
-      s << "<svg preserveAspectRatio='xMinYMin meet' viewBox='0 0 #{width} #{height}' "
+      s << "<svg preserveAspectRatio='xMinYMin meet' viewBox='0 0 #{width} #{new_height}' "
       s << "xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>\n"
 
       # map
-      s << "<svg width='#{width}' height='#{height}' "
+      s << "<svg width='#{width}' height='#{new_height}' "
       s << "viewBox='#{crop_x} #{crop_y} #{cropped_width} #{cropped_height}' "
       s << "class='photo-map-tiles' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' >\n"
 
