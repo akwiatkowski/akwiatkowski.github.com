@@ -49,7 +49,22 @@
   - lat: 51.0
     lon: 15.8
 2021-09-26-rowerem-wokol-jeziora-kowalskiego:
-  related_posts: {}
+  related_posts:
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 588
+  quants:
+  - lat: 52.4
+    lon: 17.2
+2023-05-07-miedzy-tucznem-a-jerzykowem:
+  related_posts:
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 588
   quants:
   - lat: 52.4
     lon: 17.2
