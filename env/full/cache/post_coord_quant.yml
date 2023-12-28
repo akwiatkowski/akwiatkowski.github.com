@@ -40696,9 +40696,9 @@
       not_common_size: 3
       days_diff: 1564
     2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 20
-      common_size: 1
-      not_common_size: 4
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 1934
   quants:
   - lat: 52.2
@@ -43045,9 +43045,9 @@
       not_common_size: 1
       days_diff: 1505
     2023-07-21-jak-sie-dostac-do-miedzychodu:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
       days_diff: 1875
   quants:
   - lat: 52.4
@@ -43088,6 +43088,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1504
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1873
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -80696,6 +80701,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.400001
@@ -80753,6 +80763,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 0
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 369
   quants:
   - lat: 52.4
     lon: 15.6
@@ -86515,98 +86530,115 @@
 2023-07-21-jak-sie-dostac-do-miedzychodu:
   related_posts:
     2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 2924
     2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 2663
     2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 2594
     2016-07-16-najkrotszy-dojazd-do-sierakowa:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 2561
     2018-04-04-pierwszy-dzien-lata-tej-wiosny:
-      common_factor: 20
-      common_size: 1
+      common_factor: 33
+      common_size: 2
       not_common_size: 4
       days_diff: 1934
     2018-05-31-dojazd-do-trzciela:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1877
     2018-06-02-w-strone-miedzyrzecza:
-      common_factor: 20
-      common_size: 1
+      common_factor: 33
+      common_size: 2
       not_common_size: 4
       days_diff: 1875
-    2019-06-02-przez-trzy-rzeki:
-      common_factor: 20
+    2018-06-03-lubuskie-pagorki-do-sieniawy:
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
+      days_diff: 1873
+    2019-06-02-przez-trzy-rzeki:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
       days_diff: 1509
     2019-09-07-kolejowa-okolica-zagania:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1412
     2020-02-29-podmokle-tereny-wielkopolski:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1238
     2020-05-08-setka-w-czasie-zarazy:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1169
     2020-05-22-dojazd-do-sierakowa-przez-puszcze:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 1155
     2020-05-22-polnocno-zachodnie-okolice-sierakowa:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1155
     2020-05-23-kraina-stu-jezior:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 1154
     2020-05-24-puszcza-notecka-i-mialy:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 1153
     2020-07-12-puszcza-i-laka-notecka:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1104
     2020-10-03-szybki-przejazd-zachodnia-wielkopolska:
-      common_factor: 20
+      common_factor: 16
       common_size: 1
-      not_common_size: 4
+      not_common_size: 5
       days_diff: 1021
     2021-05-22-najlepsze-co-w-wielkopolsce:
-      common_factor: 40
+      common_factor: 33
       common_size: 2
-      not_common_size: 3
+      not_common_size: 4
       days_diff: 789
+    2022-07-16-okolice-miedzyrzecza-przed-zniwami:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 369
+    2022-07-17-motyle-przy-obrze:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 369
   quants:
   - lat: 52.2
     lon: 15.8
+  - lat: 52.4
+    lon: 15.6
   - lat: 52.600002
     lon: 15.6
   - lat: 52.600002

@@ -1,25 +1,24 @@
 ---
-- image_filename: header.jpg
+- image_filename: 2023_05_01__13_20_DJI_0806.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-- image_filename: 2023_05_01__10_21_P5010329.jpg
-  post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.05211111111111
-  lon: 16.87911111111111
-  altitude: 155.0
-  focal_length: 38.0
-  focal_length_35: 76.0
-  crop: 2.0
-  aperture: 7.1
-  exposure: 0.004
-  exposure_string: 1/250 s
-  iso: 200
-  width: 8037
-  height: 5912
-  lens: OLYMPUS M.12-100mm F4.0
-  camera: E-M1MarkIII
-  time: 2023-05-01 10:21:53.000000000+02:00
+  lat: 53.21666666666667
+  lon: 17.0
+  altitude: 143.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-05-01 13:20:03.000000000+02:00
 - image_filename: 2023_05_01__13_14_DJI_0786.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 133.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -34,8 +33,8 @@
   time: 2023-05-01 13:14:39.000000000+02:00
 - image_filename: 2023_05_01__14_04_P5010352.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.33072222222223
-  lon: 17.086652777777775
+  lat: 53.33083333333334
+  lon: 17.086666666666666
   altitude: 238.0
   focal_length: 100.0
   focal_length_35: 200.0
@@ -51,6 +50,8 @@
   time: 2023-05-01 14:04:32.000000000+02:00
 - image_filename: 2023_05_01__13_45_DJI_0819.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 140.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -65,6 +66,8 @@
   time: 2023-05-01 13:45:56.000000000+02:00
 - image_filename: 2023_05_01__13_54_DJI_0853.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 163.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -79,8 +82,8 @@
   time: 2023-05-01 13:54:03.000000000+02:00
 - image_filename: 2023_05_01__12_28_P5010341.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.219097222222224
-  lon: 16.997666666666667
+  lat: 53.219166666666666
+  lon: 16.997777777777777
   altitude: 213.0
   focal_length: 100.0
   focal_length_35: 200.0
@@ -97,7 +100,7 @@
 - image_filename: 2023_05_01__12_01_P5010335.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
   lat: 53.19777777777777
-  lon: 16.97709722222222
+  lon: 16.97722222222222
   altitude: 210.0
   focal_length: 100.0
   focal_length_35: 200.0
@@ -113,6 +116,8 @@
   time: 2023-05-01 12:01:35.000000000+02:00
 - image_filename: 2023_05_01__13_48_DJI_0828.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 140.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -127,8 +132,8 @@
   time: 2023-05-01 13:48:18.000000000+02:00
 - image_filename: 2023_05_01__12_29_P5010344.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.219097222222224
-  lon: 16.99765277777778
+  lat: 53.219166666666666
+  lon: 16.997777777777777
   altitude: 213.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -144,6 +149,8 @@
   time: 2023-05-01 12:29:08.000000000+02:00
 - image_filename: 2023_05_01__12_48_DJI_0770.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 130.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -158,8 +165,8 @@
   time: 2023-05-01 12:48:43.000000000+02:00
 - image_filename: 2023_05_01__10_22_P5010330.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.052125
-  lon: 16.87913888888889
+  lat: 53.05222222222222
+  lon: 16.879166666666666
   altitude: 154.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -175,6 +182,8 @@
   time: 2023-05-01 10:22:15.000000000+02:00
 - image_filename: 2023_05_01__12_50_DJI_0775.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 167.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -189,8 +198,8 @@
   time: 2023-05-01 12:50:23.000000000+02:00
 - image_filename: 2023_05_01__12_11_P5010339.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.212833333333336
-  lon: 16.995250000000002
+  lat: 53.21277777777778
+  lon: 16.99527777777778
   altitude: 205.0
   focal_length: 34.0
   focal_length_35: 68.0
@@ -206,6 +215,8 @@
   time: 2023-05-01 12:11:06.000000000+02:00
 - image_filename: 2023_05_01__13_15_DJI_0791.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -220,6 +231,8 @@
   time: 2023-05-01 13:15:36.000000000+02:00
 - image_filename: 2023_05_01__13_15_DJI_0789.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -234,6 +247,8 @@
   time: 2023-05-01 13:15:11.000000000+02:00
 - image_filename: 2023_05_01__13_50_DJI_0837.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 175.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -248,6 +263,8 @@
   time: 2023-05-01 13:50:16.000000000+02:00
 - image_filename: 2023_05_01__13_18_DJI_0803.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -262,8 +279,8 @@
   time: 2023-05-01 13:18:55.000000000+02:00
 - image_filename: 2023_05_01__13_32_P5010350.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.26211111111111
-  lon: 17.11404166666667
+  lat: 53.26222222222222
+  lon: 17.11416666666667
   altitude: 223.0
   focal_length: 34.0
   focal_length_35: 68.0
@@ -279,6 +296,8 @@
   time: 2023-05-01 13:32:04.000000000+02:00
 - image_filename: 2023_05_01__13_47_DJI_0825.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 140.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -294,7 +313,7 @@
 - image_filename: 2023_05_01__16_19_P5010353.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
   lat: 53.405277777777776
-  lon: 16.862958333333335
+  lon: 16.863055555555558
   altitude: 229.0
   focal_length: 24.0
   focal_length_35: 48.0
@@ -310,6 +329,8 @@
   time: 2023-05-01 16:19:15.000000000+02:00
 - image_filename: 2023_05_01__12_51_DJI_0778.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 166.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -324,6 +345,8 @@
   time: 2023-05-01 12:51:14.000000000+02:00
 - image_filename: 2023_05_01__13_51_DJI_0842.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 175.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -338,8 +361,8 @@
   time: 2023-05-01 13:51:12.000000000+02:00
 - image_filename: 2023_05_01__12_32_P5010347.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.221069444444446
-  lon: 17.001236111111112
+  lat: 53.221111111111114
+  lon: 17.00111111111111
   altitude: 218.0
   focal_length: 23.0
   focal_length_35: 46.0
@@ -355,6 +378,8 @@
   time: 2023-05-01 12:32:54.000000000+02:00
 - image_filename: 2023_05_01__12_47_DJI_0765.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 115.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -369,6 +394,8 @@
   time: 2023-05-01 12:47:28.000000000+02:00
 - image_filename: 2023_05_01__11_58_DJI_0752.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.11666666666667
+  lon: 16.9
   altitude: 124.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -383,6 +410,8 @@
   time: 2023-05-01 11:58:24.000000000+02:00
 - image_filename: 2023_05_01__13_48_DJI_0827.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 140.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -398,7 +427,7 @@
 - image_filename: 2023_05_01__12_01_P5010334.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
   lat: 53.19777777777777
-  lon: 16.977041666666665
+  lon: 16.97694444444444
   altitude: 209.0
   focal_length: 44.0
   focal_length_35: 88.0
@@ -414,8 +443,8 @@
   time: 2023-05-01 12:01:13.000000000+02:00
 - image_filename: 2023_05_01__12_42_P5010349.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.23386111111111
-  lon: 17.006958333333333
+  lat: 53.23388888888889
+  lon: 17.006944444444443
   altitude: 213.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -431,6 +460,8 @@
   time: 2023-05-01 12:42:03.000000000+02:00
 - image_filename: 2023_05_01__13_46_DJI_0820.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 140.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -445,6 +476,8 @@
   time: 2023-05-01 13:46:08.000000000+02:00
 - image_filename: 2023_05_01__13_20_DJI_0809.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -459,8 +492,8 @@
   time: 2023-05-01 13:20:30.000000000+02:00
 - image_filename: 2023_05_01__10_23_P5010332.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.052125
-  lon: 16.87913888888889
+  lat: 53.05222222222222
+  lon: 16.879166666666666
   altitude: 154.0
   focal_length: 38.0
   focal_length_35: 76.0
@@ -476,6 +509,8 @@
   time: 2023-05-01 10:23:11.000000000+02:00
 - image_filename: 2023_05_01__13_45_DJI_0816.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 84.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -490,6 +525,8 @@
   time: 2023-05-01 13:45:02.000000000+02:00
 - image_filename: 2023_05_01__11_59_DJI_0754.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.11666666666667
+  lon: 16.9
   altitude: 124.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -504,6 +541,8 @@
   time: 2023-05-01 11:59:02.000000000+02:00
 - image_filename: 2023_05_01__11_57_DJI_0750.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.11666666666667
+  lon: 16.9
   altitude: 124.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -518,6 +557,8 @@
   time: 2023-05-01 11:57:57.000000000+02:00
 - image_filename: 2023_05_01__13_54_DJI_0856.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 163.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -533,7 +574,7 @@
 - image_filename: 2023_05_01__12_00_P5010333.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
   lat: 53.19777777777777
-  lon: 16.977041666666665
+  lon: 16.97694444444444
   altitude: 210.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -549,8 +590,8 @@
   time: 2023-05-01 12:00:50.000000000+02:00
 - image_filename: 2023_05_01__12_32_P5010346.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.22102777777778
-  lon: 17.001208333333334
+  lat: 53.221111111111114
+  lon: 17.00111111111111
   altitude: 218.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -567,7 +608,7 @@
 - image_filename: 2023_05_01__16_19_P5010354.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
   lat: 53.405277777777776
-  lon: 16.862958333333335
+  lon: 16.863055555555558
   altitude: 229.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -583,6 +624,8 @@
   time: 2023-05-01 16:19:38.000000000+02:00
 - image_filename: 2023_05_01__12_46_DJI_0761.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 114.7
   focal_length: 6.7
   focal_length_35: 24.0
@@ -597,6 +640,8 @@
   time: 2023-05-01 12:46:30.000000000+02:00
 - image_filename: 2023_05_01__13_20_DJI_0808.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -611,6 +656,8 @@
   time: 2023-05-01 13:20:22.000000000+02:00
 - image_filename: 2023_05_01__13_18_DJI_0802.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -625,6 +672,8 @@
   time: 2023-05-01 13:18:45.000000000+02:00
 - image_filename: 2023_05_01__12_51_DJI_0777.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 167.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -639,6 +688,8 @@
   time: 2023-05-01 12:51:05.000000000+02:00
 - image_filename: 2023_05_01__13_15_DJI_0788.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -651,22 +702,10 @@
   height: 7561
   camera: FC3582
   time: 2023-05-01 13:15:05.000000000+02:00
-- image_filename: 2023_05_01__13_20_DJI_0806.jpg
-  post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  altitude: 143.6
-  focal_length: 6.7
-  focal_length_35: 24.0
-  crop: 3.582089552238806
-  aperture: 1.7
-  exposure: 0.00125
-  exposure_string: 1/800 s
-  iso: 100
-  width: 8064
-  height: 6048
-  camera: FC3582
-  time: 2023-05-01 13:20:03.000000000+02:00
 - image_filename: 2023_05_01__13_21_DJI_0811.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 142.9
   focal_length: 6.7
   focal_length_35: 24.0
@@ -681,6 +720,8 @@
   time: 2023-05-01 13:21:07.000000000+02:00
 - image_filename: 2023_05_01__12_52_DJI_0780.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 91.5
   focal_length: 6.7
   focal_length_35: 24.0
@@ -695,6 +736,8 @@
   time: 2023-05-01 12:52:41.000000000+02:00
 - image_filename: 2023_05_01__13_51_DJI_0844.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.016666666666666
   altitude: 175.3
   focal_length: 6.7
   focal_length_35: 24.0
@@ -709,6 +752,8 @@
   time: 2023-05-01 13:51:30.000000000+02:00
 - image_filename: 2023_05_01__13_16_DJI_0794.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.0
   focal_length: 6.7
   focal_length_35: 24.0
@@ -723,6 +768,8 @@
   time: 2023-05-01 13:16:50.000000000+02:00
 - image_filename: 2023_05_01__12_00_DJI_0758.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.11666666666667
+  lon: 16.9
   altitude: 145.4
   focal_length: 6.7
   focal_length_35: 24.0
@@ -737,6 +784,8 @@
   time: 2023-05-01 12:00:06.000000000+02:00
 - image_filename: 2023_05_01__12_49_DJI_0772.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 167.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -751,6 +800,8 @@
   time: 2023-05-01 12:49:52.000000000+02:00
 - image_filename: 2023_05_01__13_17_DJI_0797.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -765,6 +816,8 @@
   time: 2023-05-01 13:17:42.000000000+02:00
 - image_filename: 2023_05_01__12_53_DJI_0783.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.2
+  lon: 16.966666666666665
   altitude: 91.8
   focal_length: 6.7
   focal_length_35: 24.0
@@ -779,6 +832,8 @@
   time: 2023-05-01 12:53:09.000000000+02:00
 - image_filename: 2023_05_01__13_16_DJI_0793.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.21666666666667
+  lon: 17.0
   altitude: 143.1
   focal_length: 6.7
   focal_length_35: 24.0
@@ -793,8 +848,8 @@
   time: 2023-05-01 13:16:42.000000000+02:00
 - image_filename: 2023_05_01__12_10_P5010338.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.212833333333336
-  lon: 16.995250000000002
+  lat: 53.21277777777778
+  lon: 16.99527777777778
   altitude: 205.0
   focal_length: 12.0
   focal_length_35: 24.0
@@ -810,8 +865,8 @@
   time: 2023-05-01 12:10:41.000000000+02:00
 - image_filename: 2023_05_01__12_28_P5010343.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
-  lat: 53.219097222222224
-  lon: 16.997666666666667
+  lat: 53.219166666666666
+  lon: 16.997777777777777
   altitude: 213.0
   focal_length: 100.0
   focal_length_35: 200.0
@@ -827,6 +882,8 @@
   time: 2023-05-01 12:28:53.000000000+02:00
 - image_filename: 2023_05_01__13_53_DJI_0851.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 163.2
   focal_length: 6.7
   focal_length_35: 24.0
@@ -841,6 +898,8 @@
   time: 2023-05-01 13:53:44.000000000+02:00
 - image_filename: 2023_05_01__13_46_DJI_0822.jpg
   post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.233333333333334
+  lon: 17.0
   altitude: 140.6
   focal_length: 6.7
   focal_length_35: 24.0
@@ -853,3 +912,20 @@
   height: 6048
   camera: FC3582
   time: 2023-05-01 13:46:33.000000000+02:00
+- image_filename: 2023_05_01__10_21_P5010329.jpg
+  post_slug: 2023-05-01-majowki-w-tym-roku-nie-ma
+  lat: 53.05222222222222
+  lon: 16.879166666666666
+  altitude: 155.0
+  focal_length: 38.0
+  focal_length_35: 76.0
+  crop: 2.0
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8037
+  height: 5912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  time: 2023-05-01 10:21:53.000000000+02:00
