@@ -20,8 +20,9 @@ module PostListView
     end
 
     def image_url
-      if @posts.size > 0
-        return @posts.select { |p| p.ready? }.first.image_url
+      ready_posts = @posts.select { |p| p.ready? }
+      if ready_posts.size > 0
+        return ready_posts.first.image_url
       end
 
       return @voivodeship.image_url

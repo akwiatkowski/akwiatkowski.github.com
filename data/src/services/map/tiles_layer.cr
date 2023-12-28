@@ -124,6 +124,25 @@ class Map::TilesLayer
       return zoom if diagonal >= min_diagonal && diagonal <= max_diagonal
     end
 
+    # failsafe
+    lowest_zoom = h.keys.min
+    highest_zoom = h.keys.max
+
+    lowest_diagonal = h[lowest_zoom]
+    highest_diagonal = h[highest_zoom]
+
+    puts "highest_diagonal=#{highest_diagonal}, min_diagonal=#{min_diagonal}"
+    puts "lowest_diagonal=#{lowest_diagonal}, max_diagonal=#{max_diagonal}"
+
+    # return highest zoom because even highest zoom is not big
+    # enough for small post (strava-like) photo map
+    return highest_zoom if highest_diagonal <= min_diagonal
+
+    # return lowest zoom because even lowest zoom is too big
+    # for small post (strava-like) photo map
+    return lowest_zoom if lowest_diagonal >= max_diagonal
+
+    # that shouldn't hapen
     return nil
   end
 

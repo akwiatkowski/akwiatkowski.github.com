@@ -50,7 +50,7 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
     return Map::TilesLayer.ideal_zoom(
       coord_range: coord_range.not_nil!,
       min_diagonal: 400,
-      max_diagonal: 4200,
+      max_diagonal: 3500,
     ) || Map::DEFAULT_ZOOM
   end
 

@@ -54,7 +54,7 @@ class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView
     # TODO: add dimensions and sort otder (in some cases it's better to have smaller map)
     return Map::TilesLayer.ideal_zoom(
       coord_range: coord_range.not_nil!,
-      min_diagonal: 400,
+      min_diagonal: 700,
       max_diagonal: 1600,
       biggest: false
     ) || Map::DEFAULT_ZOOM
