@@ -1,16 +1,16 @@
 ---
-bicycle_distance: 139
-bicycle_time_length: 14
-bicycle_count: 2
+bicycle_distance: 165
+bicycle_time_length: 17
+bicycle_count: 3
 hike_distance: 15
 hike_time_length: 7
 hike_count: 1
 train_distance: 0
 train_time_length: 0
 train_count: 0
-self_distance: 154
-self_time_length: 21
-updated_at: 2023-12-28 16:24:22.608848089+01:00
+self_distance: 180
+self_time_length: 24
+updated_at: 2023-12-28 23:20:57.075375282+01:00
 voivodeships_nav:
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
