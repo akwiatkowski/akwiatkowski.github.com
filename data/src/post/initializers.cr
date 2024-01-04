@@ -9,6 +9,8 @@ class Tremolite::Post
   @image_other_post_slug : String?
   @head_photo_entity : PhotoEntity?
 
+  @default_suggested_map_zooms = Array(Int32).new
+
   def custom_initialize
     header_image_defaults
 
@@ -34,6 +36,7 @@ class Tremolite::Post
     seo_from_headers
     finished_at_from_headers
     header_post_photo_from_headers
+    photo_map_data_from_headers
   end
 
   # TODO this will require a lot of operations
@@ -121,6 +124,10 @@ class Tremolite::Post
 
     if @header["coords_file"]?
       @coords_file = @header["coords_file"].to_s
+
+      unless File.exists?(route_path)
+        raise RuntimeError.new("file #{route_path} not exists")
+      end
     end
     if @header["coords_type"]?
       @coords_type = @header["coords_type"].to_s
@@ -132,17 +139,21 @@ class Tremolite::Post
     return false
   end
 
+  def route_path
+    return File.join(
+      [
+        @blog.routes_path,
+        @coords_file,
+      ]
+    )
+  end
+
   def detailed_routes : Array(PostRouteObject)
     if has_detailed_route?
       # detailed route file is specified
       if @detailed_routes.nil?
         # load it when not loaded yet
-        file_path = File.join(
-          [
-            @blog.routes_path,
-            @coords_file,
-          ]
-        )
+        file_path = route_path
 
         routes_array = Array(SingleRouteObject).from_json(File.open(file_path))
 
@@ -294,6 +305,15 @@ class Tremolite::Post
 
     if @header["image_format"]? && @header["image_format"]?.to_s == IMAGE_FORMAT_M43.to_s
       @image_format = IMAGE_FORMAT_M43
+    end
+  end
+
+  def photo_map_data_from_headers
+    if @header["map_zooms"]?
+      string = @header["map_zooms"].to_s
+      string = "[#{string}]" if string[0] != '['
+
+      @default_suggested_map_zooms = Array(Int32).from_json(string)
     end
   end
 end

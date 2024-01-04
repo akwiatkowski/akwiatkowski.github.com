@@ -21,14 +21,14 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
       # just for this kind of map
       post_slugs: [@post.slug],
       type: Map::MapType::PhotosAssignedToRoute,
-      only_in_poland: true,
-      photo_entities: photo_entities,
-      render_routes: true,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
-      routes_type: Map::MapRoutesType::Static,
-      coord_range: coord_range,
+      coord_crop_type: Map::CoordCropType::RouteCrop,
 
-      todo_do_not_crop_routes: true
+      photo_entities: photo_entities,
+
+      routes_type: Map::MapRoutesType::Static,
+      # TODO: unify autozoom
+      # coord_range: coord_range,
     )
   end
 

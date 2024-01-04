@@ -3,7 +3,7 @@ class Map::RoutesLayer
 
   def initialize(
     @posts : Array(Tremolite::Post),
-    @crop : Map::Crop,
+    @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
     @type : Map::MapRoutesType = Map::MapRoutesType::Static
   )
@@ -78,7 +78,7 @@ class Map::RoutesLayer
               lon_deg: lon
             ).as(Tuple(Int32, Int32))
 
-            @crop.mark_point(x.to_i, y.to_i, :route)
+            @raster_crop.route(x.to_i, y.to_i)
 
             s << "#{x.to_i},#{y.to_i} "
           end

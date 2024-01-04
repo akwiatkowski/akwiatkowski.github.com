@@ -18,13 +18,12 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
       tile: @tile,
       zoom: @zoom,
       post_slugs: @post_slugs,
-      coord_range: @coord_range,
+      # TODO: how to pass voivodeship
+      # coord_range: @coord_range,
 
       # just for this kind of map
       type: Map::MapType::PhotoGrid,
-      only_in_poland: true,
       photo_entities: photo_entities,
-      render_routes: true,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPost,
       routes_type: Map::MapRoutesType::Static,
     )

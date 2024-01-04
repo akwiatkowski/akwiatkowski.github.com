@@ -17,6 +17,7 @@ class Tremolite::Post
   getter :image_filename, :header_nogallery, :image_position
   getter :finished_at
   getter :head_photo_entity
+  getter :default_suggested_map_zooms
 
   # getter :voivodeships
   def voivodeships
@@ -115,5 +116,14 @@ class Tremolite::Post
   # fix hyphen breaking
   def title
     @title.to_s.gsub("-", "&#x2011;")
+  end
+
+  def default_map_zoom
+    possible_default_zooms = (self.default_suggested_map_zooms & Map::VALID_ZOOMS)
+    if possible_default_zooms.size > 0
+      return possible_default_zooms.first
+    else
+      return nil
+    end
   end
 end

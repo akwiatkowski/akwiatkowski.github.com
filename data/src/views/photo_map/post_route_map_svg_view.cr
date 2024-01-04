@@ -14,26 +14,21 @@ class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView
     @tile : Map::MapTile = Map::MapTile::Ump
     # TODO: suggested dimension here
   )
-    @zoom = autozoom
+    @zoom = default_or_autozoom
 
-    @map = Map::Base.new(
-      blog: @blog,
-      photo_size: Map::DEFAULT_PHOTO_SIZE,
-      tile: @tile,
-      zoom: @zoom,
+    @map = Map::Main.new(
+      posts: [@post],
+      photos: photo_entities,
 
-      # just for this kind of map
-      post_slugs: [@post.slug],
       type: Map::MapType::PhotoDots,
-      only_in_poland: true,
-      photo_entities: photo_entities,
-      render_routes: true,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
-      routes_type: Map::MapRoutesType::Static,
-      coord_range: coord_range,
-      custom_width: POST_ROUTE_SVG_WIDTH,
+      coord_crop_type: Map::CoordCropType::RouteCrop,
 
-      todo_do_not_crop_routes: true
+      routes_type: Map::MapRoutesType::Static,
+      # coord_range: coord_range,
+
+      zoom: @zoom,
+      custom_width: POST_ROUTE_SVG_WIDTH,
     )
   end
 
@@ -48,6 +43,15 @@ class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView
     PostRouteObject.array_to_coord_range(
       array: @post.detailed_routes.not_nil!,
     )
+  end
+
+  # zoom set in markdown has highest priority
+  def default_or_autozoom
+    if @post.default_map_zoom
+      return @post.default_map_zoom.not_nil!
+    else
+      autozoom
+    end
   end
 
   def autozoom

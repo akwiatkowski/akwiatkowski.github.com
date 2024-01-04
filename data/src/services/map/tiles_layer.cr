@@ -104,6 +104,64 @@ class Map::TilesLayer
     return x, y
   end
 
+  def self.ideal_zoom_for_photo_distance(
+    coord_range : CoordRange,
+    distance : Int32
+  )
+    possible_zooms = distance_to_zoom_for_coord_range(coord_range)
+
+    distance_processed_zooms = Hash(Int32, Float64).new
+    possible_zooms.map do |zoom, zoom_distance_tuple|
+      # when selecting for distance we calculate on lower dimension
+      zoom_distance = [zoom_distance_tuple[:x], zoom_distance_tuple[:y]].min
+
+      distance_processed_zooms[zoom.to_i] = (((distance / zoom_distance) + (zoom_distance / distance)) / 2.0).to_f
+    end
+
+    closest_zoom = distance_processed_zooms.keys.sort do |a, b|
+      distance_processed_zooms[a] <=> distance_processed_zooms[b]
+    end.first
+
+    return {
+      zoom:                     closest_zoom.to_i32,
+      distance_processed_zooms: distance_processed_zooms,
+      possible_zooms:           possible_zooms,
+    }
+  end
+
+  def self.distance_to_zoom_for_coord_range(coord_range : CoordRange)
+    result = Hash(Int32, NamedTuple(x: Int32, y: Int32, diagonal: Int32)).new
+
+    VALID_ZOOMS.each do |zoom|
+      tile_from_x, time_from_y = tile_coords_from_geo_coords(
+        lat_deg: coord_range.lat_from,
+        lon_deg: coord_range.lon_from,
+        zoom: zoom
+      )
+
+      tile_to_x, time_to_y = tile_coords_from_geo_coords(
+        lat_deg: coord_range.lat_to,
+        lon_deg: coord_range.lon_to,
+        zoom: zoom
+      )
+
+      distance_x = (tile_from_x - tile_to_x).abs * TILE_WIDTH.to_f
+      distance_y = (time_from_y - time_to_y).abs * TILE_WIDTH.to_f
+      distance_diagonal = Math.sqrt(
+        (distance_x.to_f ** 2.0) +
+        (distance_y.to_f ** 2.0)
+      )
+
+      result[zoom.to_i] = {
+        x:        distance_x.to_i,
+        y:        distance_y.to_i,
+        diagonal: distance_diagonal.to_i,
+      }
+    end
+    return result
+  end
+
+  # TODO: old
   def self.ideal_zoom(
     coord_range : CoordRange,
     min_diagonal : Int32 = 300,
@@ -131,9 +189,6 @@ class Map::TilesLayer
     lowest_diagonal = h[lowest_zoom]
     highest_diagonal = h[highest_zoom]
 
-    puts "highest_diagonal=#{highest_diagonal}, min_diagonal=#{min_diagonal}"
-    puts "lowest_diagonal=#{lowest_diagonal}, max_diagonal=#{max_diagonal}"
-
     # return highest zoom because even highest zoom is not big
     # enough for small post (strava-like) photo map
     return highest_zoom if highest_diagonal <= min_diagonal
@@ -146,6 +201,7 @@ class Map::TilesLayer
     return nil
   end
 
+  # TODO: old
   def self.diagonal_for_zoom(coord_range : CoordRange)
     VALID_ZOOMS.map do |zoom|
       tile_from_x, time_from_y = tile_coords_from_geo_coords(

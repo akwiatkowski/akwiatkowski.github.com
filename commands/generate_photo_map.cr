@@ -31,7 +31,8 @@ class Commands::GeneratePhotoMap
   def generate_map_for_post(post)
     map = Map::Main.new(
       posts: [post],
-      photos: Array(PhotoEntity).new
+      photos: Array(PhotoEntity).new,
+      autozoom_width: 700,
       # photo_size: Map::DEFAULT_PHOTO_SIZE,
       # tile: @tile,
       # zoom: @zoom,
@@ -39,15 +40,11 @@ class Commands::GeneratePhotoMap
       # # just for this kind of map
       # post_slugs: [@post.slug],
       # type: Map::MapType::PhotoDots,
-      # only_in_poland: true,
       # photo_entities: photo_entities,
-      # render_routes: true,
       # photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
       # routes_type: Map::MapRoutesType::Static,
       # coord_range: coord_range,
       # custom_width: POST_ROUTE_SVG_WIDTH,
-      #
-      # todo_do_not_crop_routes: true
     )
     svg = map.to_svg
 
@@ -63,10 +60,27 @@ class Commands::GeneratePhotoMap
   end
 
   def posts
-    # return [@blog.post_collection.posts.select { |post| post.bicycle? }.last].as(Array(Tremolite::Post))
-    return @blog.post_collection.posts.select { |post| post.bicycle? }.as(Array(Tremolite::Post))
+    return @blog.post_collection.posts.select { |post| post.bicycle? || post.hike? }.as(Array(Tremolite::Post))
+  end
+
+  def posts_for_slug(slug)
+    return @blog.post_collection.posts.select { |post| post.slug == slug }.as(Array(Tremolite::Post))
+  end
+
+  def make_it_so
+    posts.each do |post|
+      generate_map_for_post(post)
+    end
+  end
+
+  def only_for(slug)
+    posts_for_slug(slug).each do |post|
+      generate_map_for_post(post)
+    end
   end
 end
 
 command = Commands::GeneratePhotoMap.new
 command.make_it_so
+
+command.only_for("2013-08-25-w-strone-skokow-po-raz-2-gi")

@@ -19,6 +19,8 @@ module Map
   end
 
   enum MapRoutesType
+    # not render routes
+    None
     # display all routes in 0 time
     Static
     # display next routes poly line after some seconds after previous one
@@ -31,6 +33,17 @@ module Map
     LinkToPhoto
     # when you click on photo it points to post page
     LinkToPost
+  end
+
+  # when preparing range of map we need to decide if routes will be used
+  # or photos or both, or maybe constant range
+  enum CoordCropType
+    # static
+    WholePoland
+    # dynamic
+    PhotoCrop
+    RouteCrop
+    PhotoAndRouteCrop
   end
 
   TILE_WIDTH         = 256

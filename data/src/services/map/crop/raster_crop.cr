@@ -1,14 +1,46 @@
-class Map::Crop
-  CROP_PADDING = 50
+class Map::Crop::RasterCrop
+  CROP_PADDING = 30
 
-  def initialize
+  def initialize(@type : Map::CoordCropType)
     @x_points = Array(Int32).new
     @y_points = Array(Int32).new
   end
 
-  def mark_point(x, y, debug_name)
+  def mark_point!(x, y)
     @x_points << x
     @y_points << y
+  end
+
+  def photo(x, y)
+    if photo_can_enlarge?
+      mark_point!(x, y)
+    end
+  end
+
+  def assigned_photo_photo(x1, y1, x2, y2)
+    if photo_can_enlarge?
+      mark_point!(x1, y2)
+      mark_point!(x2, y2)
+    end
+  end
+
+  def photo_dot(x, y)
+    if photo_can_enlarge?
+      mark_point!(x, y)
+    end
+  end
+
+  def square_photo(x, y, size)
+    if photo_can_enlarge?
+      mark_point!(x, y)
+      mark_point!(x + size, y + size)
+    end
+  end
+
+  def route(x, y)
+    if route_can_enlarge?
+      mark_point!(x, y)
+    end
   end
 
   # w/o padding
@@ -113,5 +145,13 @@ class Map::Crop
         cropped_height: cropped_height(map_height),
       },
     }
+  end
+
+  def photo_can_enlarge?
+    @type == CoordCropType::PhotoCrop || @type == CoordCropType::PhotoAndRouteCrop
+  end
+
+  def route_can_enlarge?
+    @type == CoordCropType::RouteCrop || @type == CoordCropType::PhotoAndRouteCrop
   end
 end

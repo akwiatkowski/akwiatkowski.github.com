@@ -1,13 +1,11 @@
-require "logger"
+require "log"
 
 require "./const"
 require "./tiles_layer"
 
 class Map::Downloader
-  Log = ::Log.for(self)
-
   DEFAULT_ZOOM = 10
-  PUBLIC_PATH  = "public/tiles"
+  PUBLIC_PATH  = "env/full/public/tiles"
   # download addition border tile
   BORDER_TILE = 2
 
@@ -18,7 +16,8 @@ class Map::Downloader
     @lon_to : Float64,
     @zoom = DEFAULT_ZOOM,
     @type = Map::MapTile::Ump,
-    @show_command = false
+    @show_command = false,
+    @overwrite = false
   )
     x_from_float, y_from_float = TilesLayer.tile_coords_from_geo_coords(@lat_from, @lon_from, @zoom)
     x_to_float, y_to_float = TilesLayer.tile_coords_from_geo_coords(@lat_to, @lon_to, @zoom)
@@ -70,10 +69,25 @@ class Map::Downloader
   end
 
   def download(x, y)
-    command = generate_command(x, y)
+    if already_exists(x, y)
+      if @overwrite
+        return download!(x, y)
+      else
+        return not_download(x, y)
+      end
+    else
+      return download!(x, y)
+    end
+  end
 
+  def download!(x, y)
+    command = generate_command(x, y)
     puts command if @show_command
     `#{command}`
+  end
+
+  def not_download(x, y)
+    puts "#{@x_from}->#{@x_to} at #{x}, #{@y_from}->#{@y_to} at #{y} already downloaded"
   end
 
   def generate_url(x, y)
@@ -93,6 +107,11 @@ class Map::Downloader
         x,
       ]
     )
+  end
+
+  def already_exists(x, y)
+    puts generate_path(x, y)
+    File.exists?(generate_path(x, y))
   end
 
   def generate_path(x, y)

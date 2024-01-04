@@ -68,7 +68,7 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
 
   def initialize(
     photos : Array(PhotoEntity),
-    @crop : Map::Crop,
+    @raster_crop : Map::Crop::RasterCrop,
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
     @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
@@ -297,7 +297,9 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
 
   private def filter_photos(photos)
     array = Array(PhotoEntity).new
-    photos.sort do |a, b|
+    photos.select do |photo|
+      next false if photo.exif.not_nil!.lat.nil? || photo.exif.not_nil!.lon.nil?
+    end.sort do |a, b|
       # sort by taken at
       a.exif.time.not_nil! <=> b.exif.time.not_nil!
     end.each do |photo|
@@ -398,8 +400,12 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     corner_photo_x = photo_position.corner_photo_x
     corner_photo_y = photo_position.corner_photo_y
 
-    @crop.mark_point(corner_photo_x.to_i, corner_photo_y.to_i, :assigned_photo_position1)
-    @crop.mark_point(corner_photo_x.to_i + @image_size, corner_photo_y.to_i + @image_size, :assigned_photo_position2)
+    @raster_crop.assigned_photo_photo(
+      x1: corner_photo_x.to_i,
+      y1: corner_photo_y.to_i,
+      x2: corner_photo_x.to_i + @image_size,
+      y2: corner_photo_y.to_i + @image_size
+    )
     # no need to add route point for cropping
 
     # for single post maps render link to image full size not post

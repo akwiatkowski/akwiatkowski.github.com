@@ -19,11 +19,9 @@ class PhotoMap::GlobalDotsMapSvgView < PhotoMap::AbstractSvgView
 
       # just for this kind of map
       type: Map::MapType::PhotoDots,
-      only_in_poland: true,
       photo_entities: photo_entities,
-      render_routes: false,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
-      routes_type: Map::MapRoutesType::Static,
+      routes_type: Map::MapRoutesType::None,
     )
   end
 

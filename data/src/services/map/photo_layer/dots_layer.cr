@@ -3,7 +3,7 @@ class Map::PhotoLayer::DotsLayer
 
   def initialize(
     photos : Array(PhotoEntity),
-    @crop : Map::Crop,
+    @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
     @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
     @dot_radius : Int32 = 5
@@ -28,6 +28,8 @@ class Map::PhotoLayer::DotsLayer
       half_size = thumb_size / 2
 
       @photos.each_with_index do |photo_entity, i|
+        next false if photo_entity.exif.not_nil!.lat.nil? || photo_entity.exif.not_nil!.lon.nil?
+
         s << photo_entity_to_svg_image(
           photo_entity: photo_entity,
           i: i,
@@ -124,7 +126,7 @@ class Map::PhotoLayer::DotsLayer
       lon_deg: photo_entity.exif.not_nil!.lon.not_nil!
     ).as(Tuple(Int32, Int32))
 
-    @crop.mark_point(x.to_i, y.to_i, :dots_photo_entity)
+    @raster_crop.photo_dot(x.to_i, y.to_i)
 
     return String.build do |s|
       s << "<a href='#{photo_url}' target='_blank'>\n"

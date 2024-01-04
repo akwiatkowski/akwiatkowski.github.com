@@ -76,6 +76,16 @@ struct CoordRange
     return self
   end
 
+  # common area
+  def &(coord_range : CoordRange)
+    self.class.common(self, coord_range)
+  end
+
+  # because I have only map in Poland
+  def limit_to_poland
+    return (self & self.class.poland_area)
+  end
+
   def valid?
     @lat_from_set && @lat_to_set && @lon_from_set && @lon_to_set
   end
@@ -112,6 +122,16 @@ struct CoordRange
 
   def enlarge!(coord_range)
     return self + coord_range
+  end
+
+  def self.common(coord_range1, coord_range2)
+    return new(
+      lat_from: [coord_range1.lat_from, coord_range2.lat_from].max,
+      lat_to: [coord_range1.lat_to, coord_range2.lat_to].min,
+
+      lon_from: [coord_range1.lon_from, coord_range2.lon_from].max,
+      lon_to: [coord_range1.lon_to, coord_range2.lon_to].min
+    )
   end
 
   def to_s

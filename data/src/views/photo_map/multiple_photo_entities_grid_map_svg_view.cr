@@ -19,10 +19,9 @@ class PhotoMap::MultiplePhotoEntitiesGridMapSvgView < PhotoMap::AbstractSvgView
 
       # just for this kind of map
       type: Map::MapType::PhotoGrid,
-      only_in_poland: true,
       photo_entities: @photo_entities,
-      render_routes: false,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPhoto,
+      routes_type: Map::MapRoutesType::None,
     )
   end
 

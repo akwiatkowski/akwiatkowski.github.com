@@ -4,12 +4,6 @@ require "../../models/photo_entity"
 require "../../models/coord_range"
 
 require "./main"
-require "./const"
-require "./tiles_layer"
-require "./routes_layer"
-require "./crop"
-
-require "./photo_layer/all"
 
 class Map::Base
   Log = ::Log.for(self)
@@ -33,33 +27,19 @@ class Map::Base
     # by default photos are linked to Post not full src of PhotoEntity
     @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
 
-    # TODO: check how it works
-    @todo_do_not_crop_routes : Bool = false,
+    @coord_crop_type : Map::CoordCropType = Map::CoordCropType::PhotoAndRouteCrop,
 
     # only for dot photo map - size of colored dot
     @dot_radius = DEFAULT_DOT_RADIUS,
-    # filter only photos in rectangle
-    @coord_range : CoordRange? = nil,
-    # enforce to render all routes points on map
-    # by changing extreme coords
 
     # try to select best zoom
     @autozoom : Bool = false,
     # if we need to show only selected photos
 
-    # only Poland and area
-    # don't include other countries into photomaps
-    # if true set default @coord_range if not set
-    #
-    # enable for maps which loads all photos
-    @only_in_poland : Bool = true,
-
     # it's possible to override dimension. ex: small post map
     @custom_width : Int32 | Nil = nil,
     @custom_height : Int32 | Nil = nil
   )
-    @internal_coord_range = CoordRange.new
-
     # if list of post slugs were provided select only for this posts
     if @post_slugs.size > 0
       all_photos = @photo_entities.select do |photo_entity|
@@ -74,21 +54,16 @@ class Map::Base
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
 
-    # small fix to ignore photos from Switzerland because
-    # it will enlarge map too much
-    if @coord_range.nil? && @only_in_poland == true
-      @coord_range = CoordRange.poland_area
-    end
-
-    # select only photos which are within @coord_range
-    if @coord_range
-      photos_w_coords = photos_w_coords.select do |photo_entity|
-        @coord_range.not_nil!.is_within?(
-          lat: photo_entity.exif.not_nil!.lat.not_nil!,
-          lon: photo_entity.exif.not_nil!.lon.not_nil!,
-        )
-      end
-    end
+    # TODO: do we need it?
+    # # select only photos which are within @coord_range
+    # if @coord_range
+    #   photos_w_coords = photos_w_coords.select do |photo_entity|
+    #     @coord_range.not_nil!.is_within?(
+    #       lat: photo_entity.exif.not_nil!.lat.not_nil!,
+    #       lon: photo_entity.exif.not_nil!.lon.not_nil!,
+    #     )
+    #   end
+    # end
 
     @photos = photos_w_coords.as(Array(PhotoEntity))
 
@@ -97,15 +72,15 @@ class Map::Base
     # ## END OF PHOTOS FILTER
 
     # set geo range using photos
-    if @photos.size > 0
-      @photos.each do |photo|
-        lat = photo.exif.not_nil!.lat.not_nil!
-        lon = photo.exif.not_nil!.lon.not_nil!
-        @internal_coord_range.enlarge!(lat, lon)
-      end
-
-      Log.debug { "area from photos #{@internal_coord_range.to_s}" }
-    end
+    # if @photos.size > 0
+    #   @photos.each do |photo|
+    #     lat = photo.exif.not_nil!.lat.not_nil!
+    #     lon = photo.exif.not_nil!.lon.not_nil!
+    #     @internal_coord_range.enlarge!(lat, lon)
+    #   end
+    #
+    #   Log.debug { "area from photos #{@internal_coord_range.to_s}" }
+    # end
 
     # ## POSTS (for routes)
 
@@ -129,36 +104,36 @@ class Map::Base
     end.as(Array(Tremolite::Post))
 
     # enlarge coord range
-    if @posts.size > 0
-      array = @posts.map { |post| post.detailed_routes }.flatten.compact
-      array = [array] if array.is_a?(PostRouteObject)
-      routes_coord_range = PostRouteObject.array_to_coord_range(
-        array: array
-      )
-
-      if routes_coord_range
-        Log.debug { "routes_coord_range #{routes_coord_range}" }
-
-        routes_coord_range = routes_coord_range.not_nil!
-        # when we don't have photos near edges of route (I haven't took photo
-        # soon after start riding) we need to enlarge coord range to make
-        # all route point visible on map
-
-        if !@internal_coord_range.valid? || @todo_do_not_crop_routes
-          @internal_coord_range.enlarge!(routes_coord_range)
-          Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
-        end
-      end
-    end
+    # if @posts.size > 0
+    #   array = @posts.map { |post| post.detailed_routes }.flatten.compact
+    #   array = [array] if array.is_a?(PostRouteObject)
+    #   routes_coord_range = PostRouteObject.array_to_coord_range(
+    #     array: array
+    #   )
+    #
+    #   if routes_coord_range
+    #     Log.debug { "routes_coord_range #{routes_coord_range}" }
+    #
+    #     routes_coord_range = routes_coord_range.not_nil!
+    #     # when we don't have photos near edges of route (I haven't took photo
+    #     # soon after start riding) we need to enlarge coord range to make
+    #     # all route point visible on map
+    #
+    #     if !@internal_coord_range.valid? || @todo_do_not_crop_routes
+    #       @internal_coord_range.enlarge!(routes_coord_range)
+    #       Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
+    #     end
+    #   end
+    # end
 
     # ## END OF POSTS
 
-    if @coord_range
-      @internal_coord_range = @coord_range.not_nil!
-      Log.debug { "coord_range was provided" }
-    end
-
-    Log.debug { "area #{@internal_coord_range.to_s}" }
+    # if @coord_range
+    #   @internal_coord_range = @coord_range.not_nil!
+    #   Log.debug { "coord_range was provided" }
+    # end
+    #
+    # Log.debug { "area #{@internal_coord_range.to_s}" }
 
     # only towns with coords
     @towns = @blog.data_manager.not_nil!.towns.not_nil!.select do |town|
@@ -182,9 +157,9 @@ class Map::Base
       routes_type: @routes_type,
 
       photo_link_to: @photo_link_to,
+      coord_crop_type: @coord_crop_type,
 
       dot_radius: @dot_radius,
-      coord_range: @coord_range,
 
       custom_width: @custom_width,
       custom_height: @custom_height,

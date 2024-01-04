@@ -3,10 +3,12 @@ require "yaml"
 require "../../models/photo_entity"
 require "../../models/coord_range"
 
+require "./crop/raster_crop"
+require "./crop/coord_crop"
+
 require "./const"
 require "./tiles_layer"
 require "./routes_layer"
-require "./crop"
 
 require "./photo_layer/all"
 
@@ -19,8 +21,6 @@ class Map::Main
     @tile = Map::MapTile::Ump,
     @type = MapType::Blank,
     @zoom = DEFAULT_ZOOM,
-
-    @post_slugs : Array(String) = Array(String).new,
 
     @photo_size = Map::DEFAULT_PHOTO_SIZE,
     @photos : Array(PhotoEntity) = Array(PhotoEntity),
@@ -35,52 +35,31 @@ class Map::Main
 
     # only for dot photo map - size of colored dot
     @dot_radius = DEFAULT_DOT_RADIUS,
-    # filter only photos in rectangle
-    @coord_range : CoordRange? = nil,
-    # enforce to render all routes points on map
-    # by changing extreme coords
 
-    # try to select best zoom
-    @autozoom : Bool = false,
-    # if we need to show only selected photos
-
-    # only Poland and area
-    # don't include other countries into photomaps
-    # if true set default @coord_range if not set
-    #
-    # enable for maps which loads all photos
-    @only_in_poland : Bool = true,
+    @coord_crop_type : Map::CoordCropType = Map::CoordCropType::PhotoAndRouteCrop,
 
     # it's possible to override dimension. ex: small post map
     @custom_width : Int32 | Nil = nil,
-    @custom_height : Int32 | Nil = nil
+    @custom_height : Int32 | Nil = nil,
+
+    # new approach to autozoom
+    @autozoom_width : Int32? = nil,
+    @autozoom_height : Int32? = nil
   )
-    Log.info { "Start zoom=#{@zoom},post_slugs.size=#{@post_slugs.size},photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}" }
+    Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
+    # just to make sure log info is rendered
+    sleep 0.00001
 
-    # only used for calculating how map should be cropped
-    @crop = Crop.new
-
-    @internal_coord_range = CoordRange.new
-
-    # if list of post slugs were provided select only for this posts
-    if @post_slugs.size > 0
-      all_photos = @photos.select do |photo_entity|
-        @post_slugs.includes?(photo_entity.post_slug)
-      end
-    else
-      all_photos = @photos
-    end
+    # only used for calculating how output map should be cropped
+    @raster_crop = Crop::RasterCrop.new(type: @coord_crop_type)
+    # only used for calculating what part of map is important
+    # ex: crop for only route
+    @coord_crop = Crop::CoordCrop.new(type: @coord_crop_type)
 
     # select only with geo coords
-    photos_w_coords = all_photos.select do |photo_entity|
+    photos_w_coords = @photos.select do |photo_entity|
       photo_entity.exif.not_nil!.lat != nil && photo_entity.exif.not_nil!.lon != nil
     end.as(Array(PhotoEntity))
-
-    # small fix to ignore photos from Switzerland because
-    # it will enlarge map too much
-    if @coord_range.nil? && @only_in_poland == true
-      @coord_range = CoordRange.poland_area
-    end
 
     Log.debug { "selected #{@photos.size} photos with lat/lon" }
 
@@ -89,51 +68,80 @@ class Map::Main
     # set geo range using photos
     if @photos.size > 0
       @photos.each do |photo|
+        next if photo.exif.not_nil!.lat.nil? || photo.exif.not_nil!.lon.nil?
+
         lat = photo.exif.not_nil!.lat.not_nil!
         lon = photo.exif.not_nil!.lon.not_nil!
-        @internal_coord_range.enlarge!(lat, lon)
+        @coord_crop.photo(lat, lon)
       end
 
-      Log.debug { "area from photos #{@internal_coord_range.to_s}" }
+      Log.debug { "area from photos #{@coord_crop.coord_range.to_s}" }
     end
 
     # enlarge coord range
     if @posts.size > 0
-      array = @posts.map { |post| post.detailed_routes }.flatten.compact
-      array = [array] if array.is_a?(PostRouteObject)
-      routes_coord_range = PostRouteObject.array_to_coord_range(
-        array: array
-      )
+      route_objects = @posts.map { |post| post.detailed_routes }.flatten.compact
+      route_objects = [route_objects] if route_objects.is_a?(PostRouteObject)
 
-      if routes_coord_range
-        Log.debug { "routes_coord_range #{routes_coord_range}" }
+      # TODO: add a way to truncate routes which utilize multiple voivodeships
 
-        routes_coord_range = routes_coord_range.not_nil!
-        # when we don't have photos near edges of route (I haven't took photo
-        # soon after start riding) we need to enlarge coord range to make
-        # all route point visible on map
-
-        # TODO: check this flag
-        if !@internal_coord_range.valid? # || @todo_do_not_crop_routes
-          @internal_coord_range.enlarge!(routes_coord_range)
-          Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
+      route_objects.each do |route_object|
+        route_object.route.each do |coord|
+          lat = coord[0]
+          lon = coord[1]
+          @coord_crop.route(lat, lon)
         end
       end
+
+      # routes_coord_range = PostRouteObject.array_to_coord_range(
+      #   array: array
+      # )
+      #
+      # if routes_coord_range
+      #   Log.debug { "routes_coord_range #{routes_coord_range}" }
+      #
+      #   routes_coord_range = routes_coord_range.not_nil!
+      #   # when we don't have photos near edges of route (I haven't took photo
+      #   # soon after start riding) we need to enlarge coord range to make
+      #   # all route point visible on map
+      #
+      #   # TODO: check this flag
+      #   if !@internal_coord_range.valid? # || @todo_do_not_crop_routes
+      #     @internal_coord_range.enlarge!(routes_coord_range)
+      #     Log.debug { "area from routes_coord_range #{@internal_coord_range.to_s}" }
+      #   end
+      # end
+    end
+
+    # # new calculation of autozoom
+
+    @debug_distance_processed_zooms = Hash(Int32, Float64).new
+    @debug_possible_zooms = Hash(Int32, NamedTuple(x: Int32, y: Int32, diagonal: Int32)).new
+
+    if @autozoom_width
+      autozoom_data = TilesLayer.ideal_zoom_for_photo_distance(
+        coord_range: @coord_crop.coord_range,
+        distance: @autozoom_width.not_nil!
+      )
+
+      @zoom = autozoom_data[:zoom].not_nil!
+      @debug_distance_processed_zooms = autozoom_data[:distance_processed_zooms]
+      @debug_possible_zooms = autozoom_data[:possible_zooms]
     end
 
     # ## END OF POSTS
 
     @tiles_layer = TilesLayer.new(
-      lat_min: @internal_coord_range.lat_from,
-      lat_max: @internal_coord_range.lat_to,
-      lon_min: @internal_coord_range.lon_from,
-      lon_max: @internal_coord_range.lon_to,
+      lat_min: @coord_crop.coord_range.lat_from,
+      lat_max: @coord_crop.coord_range.lat_to,
+      lon_min: @coord_crop.coord_range.lon_from,
+      lon_max: @coord_crop.coord_range.lon_to,
       zoom: @zoom,
     )
 
     @routes_layer = RoutesLayer.new(
       posts: @posts,
-      crop: @crop,
+      raster_crop: @raster_crop,
       tiles_layer: @tiles_layer,
       type: @routes_type,
     )
@@ -143,7 +151,7 @@ class Map::Main
       # divide map by grid cell and add photo
       @photo_layer = PhotoLayer::GridLayer.new(
         photos: @photos,
-        crop: @crop,
+        raster_crop: @raster_crop,
         tiles_layer: @tiles_layer,
         photo_size: @photo_size
       )
@@ -151,7 +159,7 @@ class Map::Main
       # just render every photo as dot/small circle
       @photo_layer = PhotoLayer::DotsLayer.new(
         photos: @photos,
-        crop: @crop,
+        raster_crop: @raster_crop,
         tiles_layer: @tiles_layer,
         photo_link_to: @photo_link_to,
         dot_radius: @dot_radius,
@@ -160,7 +168,7 @@ class Map::Main
       # draw route and add assigned photos located outside of route polyline
       @photo_layer = PhotoLayer::PhotosAssignedToRouteLayer.new(
         photos: @photos,
-        crop: @crop,
+        raster_crop: @raster_crop,
         posts: @posts,
         tiles_layer: @tiles_layer,
         image_size: @photo_size,
@@ -186,7 +194,7 @@ class Map::Main
         s << "\n"
         s << "<svg id='photo-map-licence'>\n"
         s << "<a href='https://mapa.ump.waw.pl/ump-www/?zoom=#{@zoom}&amp;lat=#{lat}&amp;lon=#{lon}' target='_blank'>\n"
-        s << "<text x='#{x}' y='#{y}' font-size='smaller'>źródło: UMP</text>\n"
+        s << "<text x='#{x}' y='#{y}' font-size='smaller'>mapa z UMP-pcPL</text>\n"
         s << "</a>\n"
         s << "</svg>\n"
       end
@@ -200,14 +208,14 @@ class Map::Main
     inner_svg = String.build do |s|
       s << @tiles_layer.render_svg
       s << @photo_layer.render_svg
-      s << @routes_layer.render_svg if @render_routes
+      s << @routes_layer.render_svg if render_routes?
     end
 
     return String.build do |s|
-      cropped_width = @crop.cropped_width(@tiles_layer.map_width)
-      cropped_height = @crop.cropped_height(@tiles_layer.map_height)
-      crop_x = @crop.crop_x
-      crop_y = @crop.crop_y
+      cropped_width = @raster_crop.cropped_width(@tiles_layer.map_width)
+      cropped_height = @raster_crop.cropped_height(@tiles_layer.map_height)
+      crop_x = @raster_crop.crop_x
+      crop_y = @raster_crop.crop_y
 
       width = cropped_width
       width = @custom_width.not_nil! if @custom_width
@@ -221,12 +229,13 @@ class Map::Main
 
       # debug snippet
       s << "<!--\n"
-      s << @crop.debug_hash(@tiles_layer.map_width, @tiles_layer.map_height).to_yaml.gsub("---", "")
+      s << @raster_crop.debug_hash(@tiles_layer.map_width, @tiles_layer.map_height).to_yaml.gsub("---", "")
       s << "\n"
 
       s << "tiles: width=#{@tiles_layer.map_width}, height=#{@tiles_layer.map_height}\n\n"
       s << "zoom: #{@zoom}\n\n"
-      s << "internal_coord_range: #{@internal_coord_range}\n\n"
+      s << "distance_processed_zooms: #{@debug_distance_processed_zooms.to_yaml.gsub("---", "")}\n\n"
+      s << "possible_zooms: #{@debug_possible_zooms.to_yaml.gsub("---", "")}\n\n"
 
       s << "-->\n"
 
@@ -249,5 +258,9 @@ class Map::Main
       s << "</svg>\n"
       Log.debug { "svg done" }
     end
+  end
+
+  def render_routes?
+    return @routes_type == MapRoutesType::Static || @routes_type == MapRoutesType::Animated
   end
 end

@@ -16,9 +16,7 @@ class PhotoMap::GlobalAnimatedRoutesMapSvgView < PhotoMap::AbstractSvgView
 
       # just for this kind of map
       type: Map::MapType::Blank,
-      only_in_poland: true,
       photo_entities: Array(PhotoEntity).new, # no photos for animated
-      render_routes: true,
       photo_link_to: Map::MapPhotoLinkTo::LinkToPost,
       routes_type: Map::MapRoutesType::Animated,
       photo_size: Map::DEFAULT_PHOTO_SIZE,

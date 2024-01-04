@@ -8,7 +8,7 @@ class Map::PhotoLayer::GridLayer
 
   def initialize(
     @photos : Array(PhotoEntity),
-    @crop : Map::Crop,
+    @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
     @photo_size = DEFAULTH_PHOTO_SIZE.as(Int32)
   )
@@ -99,6 +99,8 @@ class Map::PhotoLayer::GridLayer
     lon_max : Float64
   )
     @photos.select do |photo|
+      next false if photo.exif.not_nil!.lat.nil? || photo.exif.not_nil!.lon.nil?
+
       photo_lat = photo.exif.not_nil!.lat.not_nil!
       photo_lon = photo.exif.not_nil!.lon.not_nil!
 
@@ -136,8 +138,7 @@ class Map::PhotoLayer::GridLayer
     x = photo_map_set[:pixel_x]
     y = photo_map_set[:pixel_y]
 
-    @crop.mark_point(x.to_i, y.to_i, :grid_photo_map_set1)
-    @crop.mark_point(x.to_i + @photo_size, y.to_i + @photo_size, :grid_photo_map_set1)
+    @raster_crop.square_photo(x: x.to_i, y: y.to_i, size: @photo_size)
 
     return String.build do |s|
       s << "<svg x='#{x.to_i}' y='#{y.to_i}' width='#{@photo_size}' height='#{@photo_size}' class='photo-map-photo'>\n"
