@@ -12,6 +12,9 @@ towns:                  [dolnoslaskie, szklarska_poreba, podgorzyn]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.79134,15.51325], [50.77956,15.53544], [50.77742,15.55724], [50.77671,15.60179], [50.76520,15.62239], [50.76314,15.63985]], "type": "hike"}]
+coords_file:            "2013-03-01-ze-szrenicy-do-pttk-odrodzenie.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             6
 ---

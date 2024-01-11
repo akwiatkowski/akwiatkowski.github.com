@@ -12,6 +12,9 @@ towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
 coords:                 [{"route": [[49.45526,21.16250], [49.47344,21.15932], [49.46915,21.14722], [49.50695,21.09246], [49.52261,21.10422], [49.54434,21.06319], [49.56065,21.08379], [49.56416,21.09461], [49.57134,21.09049]], "type": "hike"}, {"route": [[49.47260,21.15988], [49.50121,21.14005], [49.50895,21.12941], [49.52177,21.13842], [49.53186,21.10658], [49.55307,21.07336], [49.56415,21.06675], [49.57668,21.06873], [49.57145,21.09044]], "type": "bus"}]
+coords_file:            "2012-04-30-wyzynami-od-hanczowej-do-losie.json"
+coords_type:            "hike"
+map_zooms:              12
 distance:               16
 time_spent:             7
 ---
@@ -34,9 +37,11 @@ time_spent:             7
 
 Drugi dzień w [Beskidzie Niskim][wiki-beskid-niski]. Tym razem liniowa trasa w kierunku północnym.
 
+<!--
 ## Opis trasy
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091757/embed/f86fff37ff126099a177838f616b88b9fd6df18e'></iframe>
+-->
 
 ## Szczegóły
 

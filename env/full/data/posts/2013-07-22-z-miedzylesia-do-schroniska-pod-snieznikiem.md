@@ -13,6 +13,9 @@ towns:                  [dolnoslaskie, miedzylesie, bystrzyca_klodzka, stronie_s
 lands:                  [masyw_snieznika]
 
 coords:                 [{"route": [[50.14357,16.65502], [50.14610,16.66557], [50.15127,16.66866], [50.15083,16.69827], [50.15512,16.70669], [50.14995,16.72368], [50.17282,16.77381], [50.17925,16.79252], [50.19695,16.81423], [50.19574,16.82179], [50.20162,16.83354], [50.20827,16.83234]], "type": "hike"}]
+coords_file:            "2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem.json"
+coords_type:            "hike"
+map_zooms:              12
 distance:               21
 time_spent:             8
 ---

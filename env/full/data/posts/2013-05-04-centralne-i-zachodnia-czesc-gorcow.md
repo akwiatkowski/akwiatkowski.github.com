@@ -13,6 +13,9 @@ towns:                  [malopolskie, nowy_targ, niedzwiedz, rabka]
 lands:                  [gorce]
 
 coords:                 [{"route": [[49.49463,20.21403], [49.49876,20.19506], [49.51252,20.16365], [49.51698,20.14991], [49.53966,20.14974], [49.54417,20.11017], [49.56004,20.06897], [49.55982,20.04031], [49.57735,20.02503], [49.58614,19.99748]], "type": "hike"}]
+coords_file:            "2013-05-04-centralne-i-zachodnia-czesc-gorcow.json"
+coords_type:            "hike"
+map_zooms:              12
 distance:               24
 time_spent:             11
 ---

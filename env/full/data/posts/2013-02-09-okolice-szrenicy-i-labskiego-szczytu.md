@@ -13,6 +13,9 @@ towns:                  [dolnoslaskie, szklarska_poreba]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.83242,15.51870], [50.82504,15.50712], [50.81870,15.51763], [50.79500,15.51463], [50.78746,15.51342], [50.77926,15.53531], [50.78805,15.53686], [50.79174,15.52587], [50.81040,15.53145], [50.81683,15.52621], [50.82334,15.52729]], "type": "hike"}]
+coords_file:            "2013-02-09-okolice-szrenicy-i-labskiego-szczytu.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               11
 time_spent:             6
 ---

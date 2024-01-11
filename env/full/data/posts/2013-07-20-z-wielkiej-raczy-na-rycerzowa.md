@@ -14,6 +14,9 @@ towns:                  [slaskie, rajcza]
 lands:                  [beskid_zywiecki]
 
 coords:                 [{"route": [[49.41206,18.96905], [49.39999,18.97455], [49.39580,19.02167], [49.40167,19.04622], [49.41904,19.04759], [49.41379,19.06991], [49.41825,19.07308], [49.41580,19.09222], [49.41948,19.09729]], "type": "hike"}]
+coords_file:            "2013-07-20-z-wielkiej-raczy-na-rycerzowa.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               16
 time_spent:             7
 ---

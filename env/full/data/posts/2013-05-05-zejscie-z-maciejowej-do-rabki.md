@@ -12,6 +12,9 @@ towns:                  [malopolskie, rabka]
 lands:                  [gorce]
 
 coords:                 [{"route": [[49.58598,19.99756], [49.58976,19.98898], [49.59799,19.98649], [49.60300,19.96598], [49.60951,19.95267]], "type": "hike"}]
+coords_file:            "2013-05-05-zejscie-z-maciejowej-do-rabki.json"
+coords_type:            "hike"
+map_zooms:              [16, 14]
 distance:               7
 time_spent:             2
 ---

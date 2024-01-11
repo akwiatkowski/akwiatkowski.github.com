@@ -15,6 +15,7 @@ towns:                  [malopolskie, uscie_gorlickie]
 lands:                  [beskid_niski]
 
 coords:                 [{"route": [[49.55163,21.07420], [49.55403,21.08012], [49.55002,21.08467]], "type": "hike"}, {"route": [[49.47913,21.21745], [49.46876,21.21874], [49.47389,21.23590]], "type": "hike"}]
+map_zooms:              12
 distance:               16
 time_spent:             7
 ---

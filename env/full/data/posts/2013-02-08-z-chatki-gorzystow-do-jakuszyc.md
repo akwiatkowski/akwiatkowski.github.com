@@ -13,6 +13,9 @@ towns:                  [dolnoslaskie, swieradow_zdroj, szklarska_poreba]
 lands:                  [gory_izerskie]
 
 coords:                 [{"route": [[50.85396,15.35867], [50.84580,15.36713], [50.85000,15.38652], [50.84375,15.39906], [50.83578,15.41588], [50.81992,15.43880]], "type": "hike"}, {"route": [[50.81718,15.43235], [50.83165,15.43647], [50.82916,15.48651], [50.82661,15.49793], [50.83485,15.50059], [50.83268,15.51870]], "type": "train"}, {"route": [[50.83252,15.51861], [50.82501,15.50720], [50.81409,15.49621]], "type": "hike"}]
+coords_file:            "2013-02-08-z-chatki-gorzystow-do-jakuszyc.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               13
 time_spent:             7
 ---

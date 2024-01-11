@@ -13,6 +13,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [[50.77392,15.73864], [50.76925,15.72860], [50.76075,15.72217], [50.76165,15.71144], [50.75087,15.70839]], "type": "hike"}]
 coords_file:            "2013-11-29-nocne-dojscie-do-strzechy-akademickiej.json"
 coords_type:            "hike"
+map_zooms:              [16, 14]
 distance:               5
 time_spent:             2
 ---

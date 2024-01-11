@@ -13,6 +13,9 @@ towns:                  [dolnoslaskie, boguszow_gorce, czarny_bor, mieroszow]
 lands:                  [gory_kamienne]
 
 coords:                 [{"route": [[50.76105,16.16990], [50.74517,16.16728], [50.73827,16.14261], [50.72007,16.15801], [50.70213,16.17827], [50.70221,16.19265], [50.69091,16.19874], [50.68917,16.20719]], "type": "hike"}]
+coords_file:            "2012-12-10-na-lesista-wielka.json"
+coords_type:            "hike"
+map_zooms:              12
 distance:               17
 time_spent:             8
 ---

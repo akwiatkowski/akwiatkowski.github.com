@@ -12,6 +12,7 @@ lands:                  [bieszczady]
 coords:                 [{"route": [[49.14201,22.54845], [49.15167,22.55103], [49.15773,22.54596], [49.15757,22.55206]], "type": "hike"}, {"route": [[49.31687,22.72390], [49.29314,22.73463]], "type": "bus"}]
 coords_file:            "2013-11-11-fotowarsztaty-w-bieszczadach.json"
 coords_type:            "car"
+map_zooms:              [16, 14]
 ---
 
 [wiki-bieszczady]:      https://pl.wikipedia.org/wiki/Bieszczady

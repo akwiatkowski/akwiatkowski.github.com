@@ -12,6 +12,9 @@ towns:                  [slaskie, ustron]
 lands:                  [beskid_slaski]
 
 coords:                 [{"route": [[49.69669,18.83018], [49.69153,18.83769], [49.70008,18.86207], [49.69658,18.87889], [49.72089,18.86404], [49.71801,18.84559], [49.69742,18.83443]], "type": "hike"}, {"route": [[49.79264,18.78941], [49.76482,18.77361], [49.74474,18.74666], [49.74125,18.74846], [49.72810,18.80623], [49.71762,18.82013], [49.69669,18.83018]], "type": "train"}]
+coords_file:            "2012-04-15-orlowa-i-rownica-w-beskidzie-slaskim.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               14
 time_spent:             5
 ---
@@ -29,10 +32,12 @@ Wstęp
 Pierwszy dzień krótkiej wycieczki w [Beskid Śląski][wiki-beskid-slaski]. Tego dnia jeszcze nie było tak szaro, dlatego postanowiliśmy
 pozwiedzać trochę okolicy.
 
+<!--
 Opis trasy
 ----------
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091224/embed/8fc719f1c22503f4d44a716ee2180234a3138cfe'></iframe>
+-->
 
 Szczegóły
 ---------
