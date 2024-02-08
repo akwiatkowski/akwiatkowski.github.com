@@ -224,12 +224,20 @@ class Map::Main
 
       # found that I had to calculate new heigh using aspect ratio
       # `height` is probably not used here
-      aspect_ratio = @tiles_layer.map_width.to_f / @tiles_layer.map_height.to_f
+
+      # results is not as I intended
+      # found after debuging, 0 margin, ...
+      # aspect_ratio = @tiles_layer.map_width.to_f / @tiles_layer.map_height.to_f
+      # new_height = (width.to_f / aspect_ratio).to_i
+
+      aspect_ratio = cropped_width.to_f / cropped_height.to_f
       new_height = (width.to_f / aspect_ratio).to_i
 
       # debug snippet
       s << "<!--\n"
       s << @raster_crop.debug_hash(@tiles_layer.map_width, @tiles_layer.map_height).to_yaml.gsub("---", "")
+      s << "- tiles -\n"
+      s << @tiles_layer.debug_hash.to_yaml.gsub("---", "")
       s << "\n"
 
       s << "tiles: width=#{@tiles_layer.map_width}, height=#{@tiles_layer.map_height}\n\n"

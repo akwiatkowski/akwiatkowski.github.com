@@ -28,8 +28,8 @@ class Map::TilesLayer
     @x_tile2 += 1
     @y_tile2 += 1
 
-    @x_tile_size = (@x_tile2 - @x_tile1).as(Int32)
-    @y_tile_size = (@y_tile2 - @y_tile1).as(Int32)
+    @x_tile_size = (@x_tile2 - @x_tile1 + 1).as(Int32)
+    @y_tile_size = (@y_tile2 - @y_tile1 + 1).as(Int32)
 
     @map_height = (TILE_WIDTH * @y_tile_size).as(Int32)
     @map_width = (TILE_WIDTH * @x_tile_size).as(Int32)
@@ -239,6 +239,31 @@ class Map::TilesLayer
     tile_y = @y_tile1.to_f + (pixel_y.to_f / TILE_WIDTH.to_f)
 
     return geo_coords_from_tile_number(tile_x, tile_y, @zoom)
+  end
+
+  def debug_hash
+    return {
+      x_tile1: @x_tile1,
+      x_tile2: @x_tile2,
+      y_tile1: @y_tile1,
+      y_tile2: @y_tile2,
+
+      x_tile_size: @x_tile_size,
+      y_tile_size: @y_tile_size,
+
+      map_height: @map_height,
+      map_width: @map_width,
+
+      x_min: @x_min,
+      x_max: @x_max,
+      y_min: @y_min,
+      y_max: @y_max,
+
+      map_lat1: @map_lat1,
+      map_lon2: @map_lon2,
+      map_lat2: @map_lat2,
+      map_lon1: @map_lon1,
+    }
   end
 
   def render_svg

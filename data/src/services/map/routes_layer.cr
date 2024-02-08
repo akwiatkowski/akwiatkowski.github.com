@@ -40,8 +40,11 @@ class Map::RoutesLayer
     svg_color =
       allowed_types = {
         "hike"    => "255,100,0",
-        "bicycle" => "0,55,230",
-        "train"   => "80,80,0",
+        "bicycle" => "0,70,240",
+        "train"   => "100,50,180",
+        "bus"     => "50,0,120",
+        "car"     => "120,0,50",
+        "air"     => "20,80,200",
       }
 
     return String.build do |s|

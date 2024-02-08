@@ -308,6 +308,10 @@ class Tremolite::Post
     end
   end
 
+  def specified_suggested_photo_map_zoom?
+    return photo_map_data_from_headers && photo_map_data_from_headers.not_nil!.size > 0
+  end
+
   def photo_map_data_from_headers
     if @header["map_zooms"]?
       string = @header["map_zooms"].to_s

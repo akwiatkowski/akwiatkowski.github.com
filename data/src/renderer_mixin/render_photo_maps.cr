@@ -95,7 +95,9 @@ module RendererMixin::RenderPhotoMaps
 
   def render_photo_maps_posts
     @blog.post_collection.posts.not_nil!.each do |post|
-      if post.self_propelled? && post.detailed_routes && post.detailed_routes.not_nil!.size > 0
+      # removed `post.self_propelled?` because event train/car
+      # trips should have rendered map
+      if post.detailed_routes && post.detailed_routes.not_nil!.size > 0
         render_big_photo_map_for_post(post)
         render_small_photo_map_for_post(post)
       end

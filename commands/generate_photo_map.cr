@@ -67,12 +67,6 @@ class Commands::GeneratePhotoMap
     return @blog.post_collection.posts.select { |post| post.slug == slug }.as(Array(Tremolite::Post))
   end
 
-  def make_it_so
-    posts.each do |post|
-      generate_map_for_post(post)
-    end
-  end
-
   def only_for(slug)
     posts_for_slug(slug).each do |post|
       generate_map_for_post(post)

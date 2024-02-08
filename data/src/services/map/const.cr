@@ -77,6 +77,6 @@ module Map
   DEFAULT_TAG_ZOOM       =  8
   DEFAULT_TAG_PHOTO_SIZE = 80
 
-  VALID_ZOOMS             = [8, 9, 10, 12, 14]
+  VALID_ZOOMS             = [6, 7, 8, 9, 10, 11, 12, 13, 14, 16]
   DEFAULT_POST_PHOTO_SIZE = 120
 end
