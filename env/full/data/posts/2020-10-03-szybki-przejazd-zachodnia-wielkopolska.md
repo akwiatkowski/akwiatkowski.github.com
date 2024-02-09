@@ -16,6 +16,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-10-03-szybki-przejazd-zachodnia-wielkopolska.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               92
 time_spent:             6
 elevation:              239

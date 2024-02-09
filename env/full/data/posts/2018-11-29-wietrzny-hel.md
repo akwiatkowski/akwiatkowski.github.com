@@ -15,6 +15,10 @@ towns:                  [pomorskie, hel]
 
 temperature:            
 
+coords_file:            "2018-11-29-wietrzny-hel.json"
+coords_type:            "hike"
+map_zooms:              14
+
 ---
 
 [fokarium]: http://www.fokarium.com/

@@ -9,7 +9,7 @@ date:                   2021-02-06 15:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 #image_filename:         IMGP5706raw1.jpg
-tags:                   [hidden, todo]
+tags:                   [hike, todo]
 towns:                  [wielkopolskie, szamotuly]
 lands:                  [pojezierze_wielkopolskie]
 

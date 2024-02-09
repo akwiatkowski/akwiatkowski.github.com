@@ -16,6 +16,7 @@ lands:                  [pojezierze_lubuskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-08-02-lubuskie-miejsca-rekreacji.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               58
 time_spent:             7
 elevation:              340

@@ -16,6 +16,7 @@ towns:                  [ketrzyn, korsze, bartoszyce, gorowo_ilawieckie, lidzbar
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2021-08-25-blisko-granicy-z-rosja.json"
 coords_type:            "car"
+map_zooms:              10
 distance:               170
 time_spent:             4
 elevation:              600

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, poznan, swarzedz]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-10-ucieczka-do-kobylnicy.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               23
 time_spent:             2
 elevation:              128

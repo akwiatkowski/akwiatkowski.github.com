@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, trzemeszno, gniezno]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-02-13-wokol-jeziora-wierzbiczanskiego.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               16
 time_spent:             6
 elevation:              127

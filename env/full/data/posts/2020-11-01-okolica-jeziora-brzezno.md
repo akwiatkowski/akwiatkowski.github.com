@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, skoki]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-01-okolica-jeziora-brzezno.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              

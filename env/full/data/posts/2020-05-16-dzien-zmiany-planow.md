@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, kornik, kleszczewo, sroda_wielkopolska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-16-dzien-zmiany-planow.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               28
 time_spent:             2
 elevation:              64

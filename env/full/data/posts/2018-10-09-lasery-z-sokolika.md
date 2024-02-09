@@ -12,6 +12,9 @@ image_filename:         08_03__A090596.jpg
 tags:                   [hike, photo, main]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 
+coords_file:            "2018-10-09-lasery-z-sokolika.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               8
 time_spent:             4
 elevation:              311

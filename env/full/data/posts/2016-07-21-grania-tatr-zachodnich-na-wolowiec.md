@@ -14,6 +14,7 @@ lands:                  [tatry]
 coords:                 [{"route": [[49.23586,19.78975], [49.24124,19.77817], [49.23642,19.76658], [49.23026,19.76933], [49.22336,19.76761], [49.21619,19.75868], [49.20733,19.76332], [49.20576,19.77207], [49.20727,19.76298], [49.21142,19.76023], [49.21529,19.77310], [49.22291,19.78306], [49.23351,19.78581], [49.23597,19.78933]], "type": "hike"}]
 coords_file:            "2016-07-21-grania-tatr-zachodnich-na-wolowiec.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               14
 time_spent:             9
 
@@ -23,7 +24,7 @@ pois:
     lon: 19.76670
     name: Już od wysokości Grzesia idealnie widać słowackie Tatry Zachodnie.
   - lat: 49.20678
-    lon:  19.76597  
+    lon:  19.76597
     name: Za Wołowcem robi się znacznie stromiej i szlak jest trudniejszy.
 
 ---

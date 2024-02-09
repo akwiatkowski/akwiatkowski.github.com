@@ -8,14 +8,14 @@ date:                   2023-04-21 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2023_04_21__16_23_DJI_0456.jpg
 #image_position:         50% 70%
-tags:                   [hidden, todo]
+tags:                   [bicycle, todo]
 towns:                  []
 
-coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords:                 [{"route": [], "type": "bicycle"}]
+coords_file:            "2023-04-21-testujac-rower-i-drona.json"
+coords_type:            "bicycle"
 distance:               
 time_spent:             
 elevation:              

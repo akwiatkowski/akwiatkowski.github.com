@@ -13,6 +13,7 @@ towns:                  [wielkopolskie, wronki, sierakow, chrzypsko_wielkie]
 coords:                 [{"route": [[52.74161,16.27705], [52.72186,16.28426], [52.71603,16.25602], [52.71187,16.24770], [52.71068,16.23594], [52.69877,16.21156], [52.69018,16.19792], [52.68425,16.13766], [52.68316,16.12067], [52.67629,16.10299], [52.66484,16.09827], [52.65797,16.08230], [52.65104,16.08067], [52.64672,16.08522], [52.65552,16.11157], [52.65365,16.11320], [52.63985,16.17809], [52.63084,16.21749], [52.62693,16.21920], [52.63136,16.25508], [52.62568,16.25791], [52.64412,16.29319], [52.66578,16.30898], [52.67161,16.30246], [52.69122,16.33319], [52.69721,16.35730], [52.71016,16.37378], [52.70522,16.38520]], "type": "bicycle"}]
 coords_file:            "2016-07-16-najkrotszy-dojazd-do-sierakowa.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               50
 time_spent:             3
 
@@ -20,10 +21,10 @@ time_spent:             3
 pois:
   - name: W Chojnie jest sporo agroturystyk.
     lat: 52.70043
-    lon: 16.21714    
+    lon: 16.21714
   - name: Tutaj są ścieżki polne, którymi prawdopodobnie można dostać się do jeziora.
     lat: 52.62537
-    lon: 16.25800    
+    lon: 16.25800
   - name: Zjazd do Wronek. Dobry widok na Wartę oraz most kolejowy na niej.
     lat: 52.69819
     lon: 16.35833

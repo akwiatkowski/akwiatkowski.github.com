@@ -14,8 +14,9 @@ tags:                   [chillout, todo]
 towns:                  [ilawa]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2021-08-28-przerwa-w-ilawie.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             
 elevation:              

@@ -12,6 +12,7 @@ tags:                   [photo, workshop, mountains]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.73932,15.72902], [50.73413,15.69718], [50.72745,15.69293]], "type": "hike"}]
+map_zooms:              14
 distance:               8
 time_spent:             3
 

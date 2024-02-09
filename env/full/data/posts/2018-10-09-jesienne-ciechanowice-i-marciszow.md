@@ -17,6 +17,7 @@ towns:                  [dolnoslaskie, marciszow]
 coords:                 [{"route": [[50.86660,15.98046], [50.85923,15.97711], [50.85013,15.98973], [50.85414,16.00338], [50.85191,16.01007], [50.85544,16.01531]], "type": "hike"}]
 coords_file:            "2018-10-09-jesienne-ciechanowice-i-marciszow.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             2
 elevation:              74

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, murowana_goslina]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-07-szary-listopad.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              31

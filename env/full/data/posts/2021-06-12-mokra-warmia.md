@@ -16,6 +16,7 @@ towns:                  [elblag, paslek, godkowo, milakowo, lubomino, swiatki, d
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-06-12-mokra-warmia.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               77
 time_spent:             10
 elevation:              493

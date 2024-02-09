@@ -16,6 +16,7 @@ lands:                  [beskid_niski]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-18-deszczowa-rzepedka.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               13
 time_spent:             4
 elevation:              321

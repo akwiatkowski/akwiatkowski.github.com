@@ -16,6 +16,7 @@ towns:                  [pomorskie, pelplin]
 coords:                 [{"route": [[53.87525,18.67790], [53.88167,18.70648]], "type": "hike"}]
 coords_file:            "2018-09-06-pagorki-pod-pelplinem.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             2
 elevation:              39

@@ -14,6 +14,9 @@ tags:                   [photo, main]
 towns:                  [zachodnio_pomorskie, kolobrzeg]
 
 coords:                 [{"route": [[54.18066,15.59194], [54.18812,15.59186], [54.18671,15.57306], [54.18716,15.55362], [54.18493,15.55418]], "type": "hike"}]
+coords_file:            "2018-06-14-zachod-w-kolobrzegu.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               10
 time_spent:             6
 elevation:              0

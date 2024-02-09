@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-04-23-wiosenna-gluszyna.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               4
 time_spent:             2
 elevation:              42

@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [[52.4985,16.9462], [52.4953,16.9574]], "type": "hike"}]
 coords_file:            "2019-03-31-kokoryczkowe-wzgorze.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              0

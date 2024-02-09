@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-22-pole-podczas-zachodu.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               43 # 7 + 36
 time_spent:             4 # 2 + 2
 elevation:              268 # 76 + 192

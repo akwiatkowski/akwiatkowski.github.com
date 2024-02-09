@@ -13,8 +13,9 @@ towns:                  [kujawsko_pomorskie, mogilno, strzelno]
 coords:                 [{"route": [[52.62588,18.16675], [52.60483,18.11525], [52.59378,18.07268], [52.60077,18.02633], [52.57772,17.99148], [52.55706,17.99251], [52.58450,17.99268], [52.60984,17.94238], [52.62151,17.97534], [52.61942,18.03903], [52.62984,18.12074], [52.62661,18.16846]], "type": "car"}]
 coords_file:            "2016-12-26-kujawskie-okolice-noteci.json"
 coords_type:            "car"
-distance:               4
-time_spent:             2
+map_zooms:              12
+distance:
+time_spent:             
 
 ---
 

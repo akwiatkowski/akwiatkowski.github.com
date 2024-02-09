@@ -17,6 +17,7 @@ lands:                  [pojezierze_mazurskie, pojezierze_litewskie]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-07-26-polnocno-wschodni-kraniec-kolejowy.json"
 coords_type:            "train"
+map_zooms:              8
 distance:               279
 time_spent:             7
 elevation:              

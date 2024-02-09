@@ -16,6 +16,7 @@ towns:                  [warminsko_mazurskie, lidzbark, rybno, lubawa, dabrowno,
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-06-mialo-by-ladnie-i-bylo.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               98 # 75 + 23
 time_spent:             10 # 7 + 3
 elevation:              678 # 517 + 161

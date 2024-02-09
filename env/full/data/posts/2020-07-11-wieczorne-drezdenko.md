@@ -16,6 +16,7 @@ towns:                  [lubuskie, drezdenko]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-11-wieczorne-drezdenko.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             1
 elevation:              4

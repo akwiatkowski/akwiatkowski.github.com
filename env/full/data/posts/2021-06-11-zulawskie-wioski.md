@@ -17,6 +17,7 @@ towns:                  [pomorskie, warminsko_mazurskie, stare_pole, markusy, el
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-06-11-zulawskie-wioski.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               37
 time_spent:             3
 elevation:              59

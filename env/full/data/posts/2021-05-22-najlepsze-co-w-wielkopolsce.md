@@ -18,6 +18,7 @@ towns:                  [lubuskie, wielkopolskie, zbaszyn, trzciel, pszczew, mie
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-05-22-najlepsze-co-w-wielkopolsce.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               90
 time_spent:             5
 elevation:              523

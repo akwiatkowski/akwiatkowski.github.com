@@ -16,6 +16,7 @@ lands:                  [beskid_niski]
 coords:                 [{"route": [[49.52163,21.47302], [49.53695,21.46401], [49.55310,21.48470], [49.56290,21.46332], [49.56519,21.46281], [49.57944,21.47139], [49.58016,21.49920], [49.56880,21.51920], [49.55684,21.52478], [49.55761,21.53577], [49.54447,21.55199], [49.52810,21.55516], [49.51929,21.54323], [49.50469,21.53637]], "type": "bicycle"}]
 coords_file:            "2017-07-27-na-polnoc-od-krepnej.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               35
 time_spent:             6
 elevation:              426
@@ -23,12 +24,12 @@ elevation:              426
 pois:
   - lat: 49.54895
     lon: 21.47681
-    name: Widok na okolicę Desznicy - przykład piękna Beskidu Niskiego  
+    name: Widok na okolicę Desznicy - przykład piękna Beskidu Niskiego
   - lat: 49.56583
     lon: 21.47084
     name: Pagórki między wsiami Jaworze a Skalnik
   - lat: 49.57959
-    lon: 21.49887  
+    lon: 21.49887
     name: Wiszący linowy most z drewnianymi deskami nad Wisłoką. Polecam przejść każdemu.
 
 ---

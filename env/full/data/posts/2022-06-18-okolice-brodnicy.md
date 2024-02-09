@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, warminsko_mazurskie, bobrowo, zbicz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-06-18-okolice-brodnicy.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               71 # 58 + 13  
 time_spent:             6 # 5 + 1
 elevation:              511 # 436 + 75

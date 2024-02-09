@@ -13,7 +13,9 @@ tags:                   [hike, photo, cats, main]
 towns:                  [dolnoslaskie, bystrzyca_klodzka]
 lands:                  [gory_bystrzyckie]
 
+# TODO: disable photomap when only coords, but some first posts should have it
 coords:                 [{"route": [[50.30031,16.65431], [50.29591,16.65117], [50.29758,16.64673]], "type": "hike"}]
+map_zooms:              14
 distance:               3 # 22 + 2
 time_spent:             2 # 10 + 1
 elevation:              0 # 408

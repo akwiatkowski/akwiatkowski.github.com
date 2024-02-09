@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, swarzedz, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2023-04-30-jak-to-z-ta-wiosna.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               35
 time_spent:             4
 elevation:              230

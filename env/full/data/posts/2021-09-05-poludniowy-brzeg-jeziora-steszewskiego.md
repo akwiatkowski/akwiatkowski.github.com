@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-09-05-poludniowy-brzeg-jeziora-steszewskiego.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               11
 time_spent:             3
 elevation:              24

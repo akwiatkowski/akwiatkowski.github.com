@@ -17,6 +17,7 @@ lands:                  [gory_kaczawskie, rudawy_janowickie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-01-16-prawdziwa-zima.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               8
 time_spent:             4
 elevation:              77

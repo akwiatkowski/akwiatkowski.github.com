@@ -15,7 +15,7 @@ lands:                  [gory_kamienne]
 coords:                 [{"route": [[50.68911,16.20685], [50.68520,16.23346], [50.68696,16.23981], [50.69577,16.25208], [50.69430,16.26178], [50.68685,16.26689], [50.68487,16.27818], [50.68702,16.23981]], "type": "hike"}]
 coords_file:            "2012-12-11-bukowiec-i-andrzejowka.json"
 coords_type:            "hike"
-map_zooms:              [16, 14]
+map_zooms:              13
 distance:               12
 time_spent:             6
 ---

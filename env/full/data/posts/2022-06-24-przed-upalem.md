@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, biskupice]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-06-24-przed-upalem.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               24
 time_spent:             3
 elevation:              66

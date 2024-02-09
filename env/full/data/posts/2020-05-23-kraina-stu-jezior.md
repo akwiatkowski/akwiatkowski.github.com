@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, lubuskie, sierakow, miedzychod, przytocz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-05-23-kraina-stu-jezior.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               65
 time_spent:             7
 elevation:              357

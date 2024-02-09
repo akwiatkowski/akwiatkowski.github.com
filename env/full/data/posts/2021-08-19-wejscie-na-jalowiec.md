@@ -16,6 +16,7 @@ towns:                  [malopolskie, stryszawa]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-08-19-wejscie-na-jalowiec.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             4
 elevation:              600

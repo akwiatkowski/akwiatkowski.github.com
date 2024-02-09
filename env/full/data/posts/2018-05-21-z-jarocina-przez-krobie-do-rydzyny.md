@@ -20,6 +20,7 @@ towns:                  [wielkopolskie, jarocin, jaraczewo, kozmin_wielkopolski,
 coords:                 [{"route": [[51.97205,17.49473], [51.93259,17.39825], [51.90676,17.37096], [51.86989,17.37130], [51.84826,17.35465], [51.82142,17.26453], [51.80136,17.17218], [51.78215,17.14814], [51.78990,17.08497], [51.79213,17.01459], [51.77376,16.98318], [51.74751,16.88069], [51.76845,16.76723], [51.77970,16.67092], [51.77110,16.64500]], "type": "bicycle"}]
 coords_file:            "2018-05-21-z-jarocina-przez-krobie-do-rydzyny.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               78
 time_spent:             4
 elevation:              143

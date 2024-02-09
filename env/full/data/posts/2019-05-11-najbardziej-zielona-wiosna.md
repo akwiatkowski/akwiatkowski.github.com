@@ -13,6 +13,9 @@ tags:                   [hike, main]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 
 coords:                 [{"route": [[50.87819,15.91874], [50.87787,15.90999], [50.87499,15.88492], [50.86692,15.86827], [50.85208,15.86947]], "type": "hike"}]
+coords_file:            "2019-05-11-najbardziej-zielona-wiosna.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               11
 time_spent:             4
 elevation:              311

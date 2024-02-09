@@ -14,8 +14,9 @@ tags:                   [photo, hike, todo]
 towns:                  [wielkopolskie, wagrowiec]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "hike"
+coords_file:            "2022-10-31-mgla-w-wagrowcu.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             1
 elevation:              3

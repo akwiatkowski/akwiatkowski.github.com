@@ -14,9 +14,13 @@ tags:                   [hike, photo, city, main]
 towns:                  [pomorskie, gdansk]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               4
-time_spent:             2
-elevation:              42
+# https://www.strava.com/activities/10544011337
+coords_file:            "2019-02-24-gdansk-po-zmroku.json"
+coords_type:            "hike"
+map_zooms:              14
+distance:               9
+time_spent:             6
+elevation:              35
 temperature:            
 
 

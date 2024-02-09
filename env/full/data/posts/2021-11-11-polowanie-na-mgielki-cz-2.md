@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-11-11-polowanie-na-mgielki-cz-2.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             2
 elevation:              

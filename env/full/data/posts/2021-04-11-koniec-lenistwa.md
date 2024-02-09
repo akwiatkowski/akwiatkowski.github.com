@@ -17,6 +17,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-04-11-koniec-lenistwa.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               46
 time_spent:             4
 elevation:              183

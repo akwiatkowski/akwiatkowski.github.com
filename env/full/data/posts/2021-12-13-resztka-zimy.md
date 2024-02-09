@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, krzykosy]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-12-13-resztka-zimy.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              42

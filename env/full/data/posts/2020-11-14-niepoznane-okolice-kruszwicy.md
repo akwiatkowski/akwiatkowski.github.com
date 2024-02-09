@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, wielkopolskie, strzelno, kruszwica,
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2020-11-14-niepoznane-okolice-kruszwicy.json"
 coords_type:            "car"
+map_zooms:              11
 distance:               120
 time_spent:             5
 elevation:              

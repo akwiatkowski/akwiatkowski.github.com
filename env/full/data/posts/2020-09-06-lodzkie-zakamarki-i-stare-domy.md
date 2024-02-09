@@ -18,6 +18,7 @@ lands:                  [nizina_poludniowowielkopolska, mazowsze]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-09-06-lodzkie-zakamarki-i-stare-domy.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               101
 time_spent:             8
 elevation:              445

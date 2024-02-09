@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-09-03-lednogora-i-okolice.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               60
 time_spent:             4
 elevation:              271

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-10-20-jesien-awaryjna.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               18
 time_spent:             3
 elevation:              99

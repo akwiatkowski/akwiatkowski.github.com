@@ -14,8 +14,9 @@ tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2023-02-05-jezioro-tomickie.json"
-#coords_type:            "hike"
+coords_file:            "2023-02-04-jezioro-tomickie.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              12

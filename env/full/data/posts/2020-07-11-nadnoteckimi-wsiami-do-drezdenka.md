@@ -16,6 +16,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-11-nadnoteckimi-wsiami-do-drezdenka.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               37
 time_spent:             5
 elevation:              73

@@ -16,6 +16,7 @@ lands:                  [bieszczady, kotlina_sandomierska]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-11-kolejowe-bieszczady.json"
 coords_type:            "train"
+map_zooms:              9
 distance:               4
 time_spent:             2
 elevation:              42

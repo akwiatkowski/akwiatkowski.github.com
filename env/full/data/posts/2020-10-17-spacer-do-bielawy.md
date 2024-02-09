@@ -16,6 +16,7 @@ lands:                  [gory_sowie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-10-17-spacer-do-bielawy.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               13 # todo add evening
 time_spent:             6
 elevation:              153

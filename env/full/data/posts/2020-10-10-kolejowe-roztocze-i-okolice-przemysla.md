@@ -17,6 +17,7 @@ lands:                  [wyzyna_lubelska, roztocze, kotlina_sandomierska]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-10-kolejowe-roztocze-i-okolice-przemysla.json"
 coords_type:            "train"
+map_zooms:              9
 distance:               4
 time_spent:             2
 elevation:              42

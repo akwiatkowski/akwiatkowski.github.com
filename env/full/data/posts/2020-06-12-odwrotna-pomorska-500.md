@@ -15,6 +15,7 @@ towns:                  [zachodnio_pomorskie, miastko, bialy_bor, bobolice, szcz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-12-odwrotna-pomorska-500.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               112
 time_spent:             11
 elevation:              736

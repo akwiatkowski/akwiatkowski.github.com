@@ -13,6 +13,9 @@ tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot]
 
 coords:                 [{"route": [[54.45882,18.55501], [54.45905,18.56263], [54.45278,18.56608], [54.44759,18.57106], [54.44544,18.57046]], "type": "hike"}]
+coords_file:            "2018-02-02-plaza-w-sopocie-noca.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             4
 elevation:              72

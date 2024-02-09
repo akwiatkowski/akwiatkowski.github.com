@@ -12,6 +12,9 @@ tags:                   [hike, photo, main, coast]
 towns:                  [pomorskie, gdansk]
 
 coords:                 [{"route": [[54.33483,18.93433], [54.35559,18.94463], [54.35669,18.94111]], "type": "hike"}]
+coords_file:            "2018-01-07-mewia-lacha.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               7
 time_spent:             3
 elevation:              39

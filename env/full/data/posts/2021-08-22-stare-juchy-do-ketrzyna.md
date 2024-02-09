@@ -16,6 +16,7 @@ towns:                  [stare_juchy, wydminy, milki, gizycko, ryn, ketrzyn]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-08-22-stare-juchy-do-ketrzyna.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               89
 time_spent:             8
 elevation:              456

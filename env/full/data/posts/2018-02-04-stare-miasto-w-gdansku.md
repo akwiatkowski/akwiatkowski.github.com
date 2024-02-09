@@ -15,6 +15,9 @@ tags:                   [photo, city, main, hike, coast]
 towns:                  [pomorskie, gdansk]
 
 coords:                 [{"route": [[54.35548,18.64475], [54.35063,18.65234], [54.35388,18.66011], [54.34766,18.65702], [54.35181,18.64582], [54.35748,18.64011], [54.35558,18.64470]], "type": "hike"}]
+coords_file:            "2018-02-04-stare-miasto-w-gdansku.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             6
 elevation:              90

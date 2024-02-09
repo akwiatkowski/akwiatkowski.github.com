@@ -14,6 +14,7 @@ tags:                   [photo, main]
 towns:                  [dolnoslaskie, kamienna_gora]
 
 coords:                 [{"route": [[50.83276,15.93398], [50.82888,15.93862], [50.82568,15.94162]], "type": "hike"}]
+map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              89

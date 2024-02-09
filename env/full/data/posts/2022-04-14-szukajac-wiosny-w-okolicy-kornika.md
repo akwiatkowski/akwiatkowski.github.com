@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, kornik, zaniemysl, sroda_wielkopolska]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-04-14-szukajac-wiosny-w-okolicy-kornika.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               31
 time_spent:             3
 elevation:              102

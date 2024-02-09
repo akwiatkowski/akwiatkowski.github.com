@@ -13,6 +13,9 @@ tags:                   [photo, main, coast]
 towns:                  [pomorskie, hel]
 
 coords:                 [{"route": [[54.61108,18.80169], [54.60911,18.79718], [54.60467,18.80190]], "type": "hike"}]
+coords_file:            "2018-02-03-fokarium-na-helu.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               8
 time_spent:             4
 

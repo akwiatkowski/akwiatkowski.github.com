@@ -17,6 +17,7 @@ towns:                  [czechy, czechy_kraj_olomucki]
 coords:                 [{"route": [[50.07029,17.24091], [50.07734,17.21963], [50.08340,17.22169], [50.08395,17.23370]], "type": "hike"}]
 coords_file:            "2019-08-09-wejscie-na-praded.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               9
 time_spent:             2
 elevation:              215

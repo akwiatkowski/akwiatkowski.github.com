@@ -13,6 +13,9 @@ tags:                   [hike, main]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.30714,16.98322], [52.30019,16.97635], [52.30562,16.96764], [52.30759,16.97257], [52.31147,16.97416]], "type": "hike"}]
+coords_file:            "2017-01-29-zimowa-okolica-rzeki-gluszynki.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               5
 time_spent:             2
 

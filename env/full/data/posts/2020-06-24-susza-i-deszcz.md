@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, kornik, sroda_wielkopolska]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-24-susza-i-deszcz.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               14
 time_spent:             2
 elevation:              27

@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, lubuskie, choszczno, krzecin, strz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-05-01-szybko-do-dobiegniewa.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               51
 time_spent:             7
 elevation:              270

@@ -13,9 +13,12 @@ towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [[50.88369,15.87089], [50.87551,15.86901], [50.86717,15.87115], [50.86890,15.86523]], "type": "hike"}]
+coords_file:            "2017-10-20-delikatne-mgly-z-sokolika.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               8
 time_spent:             4
-elevation:              311  
+elevation:              311
 
 pois:
 

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, krzykosy, nowe_miasto_nad_warta]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-05-31-eksploracja-przyrody-przy-warcie.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               8
 time_spent:             3
 elevation:              38

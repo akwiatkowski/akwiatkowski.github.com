@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, czerwonak]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-12-19-szare-owinska.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               6
 time_spent:             2
 elevation:              33

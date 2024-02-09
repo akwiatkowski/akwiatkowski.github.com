@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, warminsko_mazurskie, jablonowo_pomo
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-07-31-trzy-razy-wystarczy.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               111
 time_spent:             9
 elevation:              687

@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-08-01-przygoda-z-elektrykiem.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               16
 time_spent:             5
 elevation:              427

@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-08-27-goracy-poranek-obok-gniezna.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               48
 time_spent:             4
 elevation:              182

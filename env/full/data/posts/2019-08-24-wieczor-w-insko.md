@@ -13,6 +13,9 @@ tags:                   [hike, main]
 towns:                  [zachodnio_pomorskie, insko]
 
 coords:                 [{"route": [[53.44647,15.56123], [53.43604,15.54973]], "type": "hike"}]
+coords_file:            "2019-08-24-wieczor-w-insko.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               5
 time_spent:             3
 elevation:              

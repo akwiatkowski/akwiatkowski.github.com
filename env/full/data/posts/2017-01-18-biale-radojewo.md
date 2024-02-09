@@ -13,6 +13,9 @@ tags:                   [photo, hike]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.45412,16.95325], [52.45458,16.96286], [52.45454,16.96896], [52.45623,16.97664]], "type": "hike"}]
+coords_file:            "2017-01-18-biale-radojewo.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               5
 time_spent:             2
 

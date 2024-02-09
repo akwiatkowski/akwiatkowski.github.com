@@ -16,6 +16,7 @@ lands:                  [inne]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-16-logika-polaczen-intercity.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               5
 time_spent:             3
 elevation:              

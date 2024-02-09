@@ -17,6 +17,7 @@ lands:                  [nizina_poludniowowielkopolska]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-09-05-na-wschod-od-ostrzeszowa.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               77
 time_spent:             6
 elevation:              222

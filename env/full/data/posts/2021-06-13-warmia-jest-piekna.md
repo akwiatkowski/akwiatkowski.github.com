@@ -17,6 +17,7 @@ towns:                  [dobre_miasto, dywity, jeziorany, kolno, bisztynek]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-06-13-warmia-jest-piekna.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               55
 time_spent:             4
 elevation:              343

@@ -12,11 +12,12 @@ lands:                  [wybrzeze_trzebiatowskie]
 coords:                 [{"route": [[53.92476,14.45505], [53.93289,14.48303], [53.93198,14.53744], [53.96522,14.61658], [53.95896,14.65246], [53.99086,14.68730], [53.99954,14.67735], [54.03464,14.80644]], "type": "bicycle"}]
 coords_file:            "2014-07-12-z-miedzyzdrojow-do-dziwnowka.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               40
 time_spent:             7
 ---
 
-[wiki-miedzyzdroje]:      https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje   
+[wiki-miedzyzdroje]:      https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje
 [wiki-park-wolimski]:     https://pl.wikipedia.org/wiki/Woli%C5%84ski_Park_Narodowy
 [wiki-kolczewo]:          https://pl.wikipedia.org/wiki/Ko%C5%82czewo
 [wiki-j-koprowo]:         https://pl.wikipedia.org/wiki/Koprowo

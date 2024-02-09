@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, janowiec_wielkopolski, znin]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-15-okolica-jeziora-zarnickiego.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               7
 time_spent:             3
 elevation:              36

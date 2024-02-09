@@ -14,7 +14,7 @@ lands:                  [pieniny]
 coords:                 [{"route": [[49.40602,20.54727], [49.38449,20.55692], [49.38189,20.55216], [49.38720,20.53589], [49.40373,20.54469], [49.40681,20.54031], [49.40795,20.54272]], "type": "hike"}]
 coords_file:            "2013-05-02-male-pieniny-bez-wysokiej.json"
 coords_type:            "hike"
-map_zooms:              [16, 14]
+map_zooms:              14
 distance:               13
 time_spent:             6
 ---

@@ -18,6 +18,7 @@ towns:                  [wielkopolskie, wronki, chrzypsko_wielkie, pniewy, duszn
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-30-wioski-na-zachod-od-poznania.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               58
 time_spent:             4
 elevation:              124

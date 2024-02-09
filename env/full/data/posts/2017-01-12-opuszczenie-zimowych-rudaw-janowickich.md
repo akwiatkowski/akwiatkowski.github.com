@@ -11,6 +11,9 @@ towns:                  [dolnoslaskie, myslakowice]
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2017-01-12-opuszczenie-zimowych-rudaw-janowickich.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               3
 time_spent:             2
 

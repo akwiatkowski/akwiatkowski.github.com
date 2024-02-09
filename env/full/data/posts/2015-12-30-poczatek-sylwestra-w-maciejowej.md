@@ -13,6 +13,7 @@ lands:                  [gorce]
 coords:                 [{"route": [[49.61017,19.95244], [49.60691,19.96695], [49.60305,19.96600], [49.59911,19.97973], [49.59524,19.98991], [49.58947,19.98873], [49.58268,20.00529], [49.58294,20.00810]], "type": "hike"}]
 coords_file:            "2015-12-30-poczatek-sylwestra-w-maciejowej.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             2
 ---

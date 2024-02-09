@@ -15,6 +15,9 @@ tags:                   [hike, photo, main]
 towns:                  [dolnoslaskie, myslakowice]
 
 coords:                 [{"route": [[50.87635,15.80734], [50.86903,15.81678], [50.86887,15.82734], [50.87640,15.81446], [50.87635,15.80648]], "type": "hike"}]
+coords_file:            "2018-10-08-wieczor-w-wojanowie.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               5
 time_spent:             2
 elevation:              23

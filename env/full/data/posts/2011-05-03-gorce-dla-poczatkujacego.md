@@ -12,7 +12,7 @@ tags:                   [main, hike, mountains]
 towns:                  [malopolskie, niedzwiedz]
 lands:                  [gorce]
 coords:                 [{"route": [[49.60748,20.06279], [49.59268,20.08082], [49.58561,20.07807], [49.57938,20.06863]], "type": "hike"}, {"route": [[49.60784,20.06275], [49.59724,20.06090], [49.59816,20.07326]], "type": "hike"}]
-map_zooms:              [16, 14]
+map_zooms:              14
 distance:               12
 time_spent:             5
 

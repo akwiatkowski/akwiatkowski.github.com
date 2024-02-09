@@ -16,6 +16,7 @@ towns:                  [poznan]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-04-20-jak-wyjscie-z-wiezienia.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42

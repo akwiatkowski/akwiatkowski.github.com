@@ -15,6 +15,7 @@ lands:                  [gory_kaczawskie]
 coords:                 [{"route": [[50.95475,15.81372], [50.96270,15.82925], [50.96767,15.82719], [50.97994,15.78780], [50.99280,15.76960], [50.99858,15.75003], [50.98982,15.73390], [50.97902,15.72222], [50.96788,15.72832], [50.95675,15.75784], [50.94810,15.77716], [50.94128,15.79552], [50.94983,15.80754], [50.95491,15.81243]], "type": "bicycle"}]
 coords_file:            "2017-05-03-przyjemny-zjazd-przez-chrosnice.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               22
 time_spent:             2
 
@@ -24,7 +25,7 @@ pois:
     name: Bardzo przyjemny zjazd od przełęczy pod Łysą Górą aż do Czernicy. 300m w dół na odległości 12km.
   - lat: 51.14236
     lon: 15.97319
-    name: Stacja kolejowa w Kozowie (Złotoryja-Legnica). Ciekawe pola są w jej okolicy.  
+    name: Stacja kolejowa w Kozowie (Złotoryja-Legnica). Ciekawe pola są w jej okolicy.
   - lat: 51.51285
     lon: 16.20983
     name: Żelazny Most - zbiornik odpadów związanych z wydobyciem miedzi. Niedaleko Rudny.

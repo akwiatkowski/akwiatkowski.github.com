@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, choszczno]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-05-03-opuszczenie-majowki-do-choszczna.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               14
 time_spent:             1
 elevation:              46

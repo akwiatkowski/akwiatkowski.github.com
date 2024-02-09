@@ -11,6 +11,9 @@ towns:                  [dolnoslaskie, janowice_wielkie, myslakowice, jelenia_go
 lands:                  [rudawy_janowickie]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2017-01-10-zimowe-okolice-wojanowa.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               20
 time_spent:             7
 

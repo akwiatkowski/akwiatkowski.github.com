@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, poznan, lubon, komorniki, dopiewo, stesz
 coords:                 [{"route": [[52.34591,16.87825], [52.33752,16.79825], [52.32514,16.78143], [52.33490,16.71689], [52.31927,16.67620], [52.32189,16.63466], [52.33112,16.62899], [52.31203,16.59003], [52.28673,16.55467], [52.29019,16.48531], [52.27034,16.48480], [52.29082,16.40171], [52.31003,16.40377]], "type": "bicycle"}]
 coords_file:            "2019-04-22-kolejny-dojazd-do-opalenicy.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               54
 time_spent:             4
 elevation:              132

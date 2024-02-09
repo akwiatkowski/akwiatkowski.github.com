@@ -8,14 +8,14 @@ date:                   2023-06-22 18:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2023_06_22__15_51_P6223179.jpg
 #image_position:         50% 70%
-tags:                   [hidden, todo]
+tags:                   [bicycle, todo]
 towns:                  [wielkopolskie]
 
-coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords:                 [{"route": [], "type": "bicycle"}]
+coords_file:            "2023-06-22-powrot-do-jezdzenia.json"
+coords_type:            "bicycle"
 distance:               13
 time_spent:             1
 elevation:              65

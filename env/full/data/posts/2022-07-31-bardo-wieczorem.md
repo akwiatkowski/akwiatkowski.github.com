@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-07-31-bardo-wieczorem.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              84

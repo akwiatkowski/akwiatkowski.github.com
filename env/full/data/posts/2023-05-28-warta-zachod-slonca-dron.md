@@ -16,6 +16,7 @@ towns:                  [wielkopolskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2023-05-28-warta-zachod-slonca-dron.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               5
 time_spent:             3
 elevation:              13

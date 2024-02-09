@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, skoki]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-12-25-wschod-w-lososincu.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               8
 time_spent:             3
 elevation:              18

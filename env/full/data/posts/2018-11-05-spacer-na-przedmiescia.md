@@ -16,6 +16,7 @@ lands:                  [gory_bystrzyckie]
 coords:                 [{"route": [[50.29629,16.65083], [50.28445,16.64823]], "type": "hike"}]
 coords_file:            "2018-11-05-spacer-na-przedmiescia.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               2
 time_spent:             1
 

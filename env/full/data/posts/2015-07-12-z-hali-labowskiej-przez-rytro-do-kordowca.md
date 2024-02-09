@@ -12,6 +12,7 @@ lands:                  [beskid_sadecki]
 coords:                 [{"route": [[49.47275,20.81081], [49.48454,20.79553], [49.48081,20.75759], [49.49382,20.72644], [49.49087,20.70983], [49.48365,20.70275], [49.48607,20.68404], [49.48150,20.66576], [49.46064,20.66704]], "type": "hike"}]
 coords_file:            "2015-07-12-z-hali-labowskiej-przez-rytro-do-kordowca.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               18
 time_spent:             7
 ---

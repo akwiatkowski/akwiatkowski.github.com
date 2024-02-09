@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, wagrowiec]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-01-zimna-majowka.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             1
 elevation:              25

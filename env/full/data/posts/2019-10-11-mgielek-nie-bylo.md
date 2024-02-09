@@ -13,6 +13,9 @@ tags:                   [hike, photo, mountains, main]
 towns:                  [dolnoslaskie, janowice_wielkie, myslakowice]
 
 coords:                 [{"route": [[50.88348,15.87067], [50.86837,15.87290], [50.86691,15.86818]], "type": "hike"}]
+coords_file:            "2019-10-11-mgielek-nie-bylo.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              42

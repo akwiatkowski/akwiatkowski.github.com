@@ -16,6 +16,8 @@ lands:                  [bieszczady]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-20-wejscie-na-tokarnie.json"
 coords_type:            "hike"
+# TODO: add big margin to small maps?
+map_zooms:              14
 distance:               6
 time_spent:             4
 elevation:              279

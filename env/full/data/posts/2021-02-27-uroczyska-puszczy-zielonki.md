@@ -16,6 +16,7 @@ lands:                  [puszcza_zielonka, pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-02-27-uroczyska-puszczy-zielonki.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               13
 time_spent:             5
 elevation:              107

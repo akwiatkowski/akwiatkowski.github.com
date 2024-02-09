@@ -13,9 +13,10 @@ image_filename:         2021_06_03__12_54__6039569.jpg
 tags:                   [train, todo]
 towns:                  [lodzkie, kutno, strzelce, gostynin, lack, nowy_duniow, plock, stara_biala, bielsk, gozdowo, sierpc, szczutowo, rogowo_rypinski, rypin, osiek, brodnica, bobrowo, zbiczno, jablonowo_pomorskie, swiecie_nad_osa, gruta, grudziadz, dragacz, jezewo, drzycim, lniano, cekcyn]
 
-coords:                 [{"route": [], "type": "hike"}]
+coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2021-06-03-pociagiem-z-kutna-do-wierzchucina.json"
 coords_type:            "train"
+map_zooms:              8
 distance:               
 time_spent:             
 elevation:              
@@ -34,7 +35,5 @@ pois:
 ## Wstęp
 
 ## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5419945397/embed/7ae9374cbd50c1a0dc1709a382889f73e1a21803'></iframe>
 
 ## Szczegóły

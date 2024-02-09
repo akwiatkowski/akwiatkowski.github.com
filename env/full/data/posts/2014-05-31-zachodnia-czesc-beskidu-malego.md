@@ -12,6 +12,7 @@ lands:                  [beskid_maly]
 coords:                 [{"route": [[49.79170,19.06827], [49.79503,19.07308], [49.77995,19.10930], [49.76798,19.16664], [49.78528,19.19453], [49.78899,19.19359]], "type": "hike"}]
 coords_file:            "2014-05-31-zachodnia-czesc-beskidu-malego.json"
 coords_type:            "hike"
+map_zooms:              12
 distance:               15
 time_spent:             6
 ---

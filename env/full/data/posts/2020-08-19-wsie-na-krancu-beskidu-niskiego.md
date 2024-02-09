@@ -17,6 +17,7 @@ lands:                  [beskid_niski]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-19-wsie-na-krancu-beskidu-niskiego.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               10 # 5 + 5
 time_spent:             4 # 2 + 2
 elevation:              118 # 74 + 44

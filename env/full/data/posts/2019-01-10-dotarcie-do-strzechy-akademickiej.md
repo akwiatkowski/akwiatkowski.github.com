@@ -16,6 +16,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [[50.77817,15.72587], [50.76503,15.70476], [50.75075,15.70845]], "type": "hike"}]
 coords_file:            "2019-01-10-dotarcie-do-strzechy-akademickiej.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             3
 elevation:              428

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska, swarzedz, poznan]
 coords:                 [{"route": [[52.46683,17.16964], [52.47624,17.18586], [52.48581,17.13608], [52.49610,17.12526], [52.49746,17.10715], [52.48832,17.09179], [52.47410,17.09917], [52.44476,17.07608], [52.42985,17.07282]], "type": "bicycle"}]
 coords_file:            "2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               37
 time_spent:             4
 elevation:              169

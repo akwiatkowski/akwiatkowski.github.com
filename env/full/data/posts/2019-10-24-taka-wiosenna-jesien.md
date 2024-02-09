@@ -19,6 +19,7 @@ lands:                  [masyw_snieznika]
 coords:                 [{"route": [[50.24065,16.62905], [50.23902,16.63622], [50.24547,16.64952], [50.23553,16.66682], [50.24788,16.69458], [50.23534,16.72042], [50.23158,16.75020], [50.22708,16.76943]], "type": "hike"}]
 coords_file:            "2019-10-24-taka-wiosenna-jesien.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               22 # 16 + 6
 time_spent:             7 # 5 + 2
 elevation:              498 # 397 + 101

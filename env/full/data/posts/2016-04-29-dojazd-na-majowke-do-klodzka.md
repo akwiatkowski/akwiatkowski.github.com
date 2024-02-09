@@ -14,6 +14,7 @@ lands:                  [kotlina_klodzka]
 coords:                 [{"route": [[50.47701,16.67010], [50.48045,16.66417], [50.46652,16.64229], [50.46778,16.62117], [50.47477,16.59881], [50.46368,16.57238], [50.45707,16.58577], [50.44680,16.58027]], "type": "bicycle"}, {"route": [[50.44680,16.58027], [50.45811,16.57212], [50.46248,16.58036]], "type": "bicycle"}]
 coords_file:            "2016-04-29-dojazd-na-majowke-do-klodzka.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               20
 time_spent:             2
 

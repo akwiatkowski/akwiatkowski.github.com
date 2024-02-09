@@ -15,9 +15,10 @@ lands:                  [rudawy_janowickie]
 coords:                 [{"route": [[50.88369,15.87089], [50.87551,15.86901], [50.86717,15.87115], [50.86890,15.86523]], "type": "hike"}]
 coords_file:            "2017-10-19-jesienny-poranek-na-sokoliku.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               8
 time_spent:             4
-elevation:              317  
+elevation:              317
 
 
 pois:
@@ -103,7 +104,7 @@ mógł wyglądać zupełnie inaczej.
 {% photo "IMGP1624raw2.jpg","Wierzchołki drzew" %}
 
 Wiele zdjęć można opisać jako połączenie mgieł i lasu, jednak samo zdjęcie to chyba
-więcej niż tysiące słów a ja nie jestem zbyt dobry w opisywaniu.  
+więcej niż tysiące słów a ja nie jestem zbyt dobry w opisywaniu.
 
 {% photo "IMGP1636raw1.jpg","Granica lasu" %}
 

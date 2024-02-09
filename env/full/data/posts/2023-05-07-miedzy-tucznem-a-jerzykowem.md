@@ -16,6 +16,7 @@ towns:                  [wielkopolskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2023-05-07-miedzy-tucznem-a-jerzykowem.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              11

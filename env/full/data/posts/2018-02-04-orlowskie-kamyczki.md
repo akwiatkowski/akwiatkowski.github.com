@@ -14,6 +14,9 @@ tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot, gdynia]
 
 coords:                 [{"route": [[54.45899,18.56261], [54.46186,18.56007], [54.46635,18.56222]], "type": "hike"}]
+coords_file:            "2018-02-04-orlowskie-kamyczki.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              73

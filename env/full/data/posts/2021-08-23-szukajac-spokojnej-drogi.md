@@ -16,6 +16,7 @@ towns:                  [ketrzyn, reszel, kolno, bisztynek]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-08-23-szukajac-spokojnej-drogi.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               50
 time_spent:             5
 elevation:              398

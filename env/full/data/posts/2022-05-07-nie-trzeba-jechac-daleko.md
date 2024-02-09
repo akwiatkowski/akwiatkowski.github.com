@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, skoki, klecko, mieleszyn, gniezno]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-05-07-nie-trzeba-jechac-daleko.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               54
 time_spent:             5
 elevation:              246

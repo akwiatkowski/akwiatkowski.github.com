@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, jablonowo_pomorskie, swiecie_nad_os
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-07-24-w-trakcie-zniw.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               70
 time_spent:             6
 elevation:              421

@@ -14,6 +14,9 @@ tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2022-11-01-las-niedaleko-lopuchowa.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              

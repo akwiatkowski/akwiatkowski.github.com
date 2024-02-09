@@ -16,6 +16,7 @@ towns:                  [warminsko_mazurskie, wegorzewo, srokowo]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-08-27-wokol-jeziora-rydzowka.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               28
 time_spent:             4
 elevation:              232

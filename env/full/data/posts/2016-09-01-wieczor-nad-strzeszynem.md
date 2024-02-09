@@ -10,6 +10,7 @@ tags:                   [main, photo]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.46617,16.82573], [52.46353,16.82502], [52.46019,16.82644]], "type": "hike"}]
+map_zooms:              14
 distance:               3
 time_spent:             3
 

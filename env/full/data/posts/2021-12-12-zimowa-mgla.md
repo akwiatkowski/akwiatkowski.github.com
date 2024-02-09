@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-12-12-zimowa-mgla.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             3
 elevation:              42

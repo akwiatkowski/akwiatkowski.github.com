@@ -14,6 +14,7 @@ tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot, gdynia]
 
 coords:                 [{"route": [[54.45910,18.56255], [54.48047,18.56435]], "type": "hike"}]
+map_zooms:              14
 distance:               4
 time_spent:             3
 

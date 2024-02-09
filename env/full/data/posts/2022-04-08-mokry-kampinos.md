@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-04-08-mokry-kampinos.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             3
 elevation:              11

@@ -18,6 +18,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-10-10-dolina-rzeki-trojanki.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             4
 elevation:              38

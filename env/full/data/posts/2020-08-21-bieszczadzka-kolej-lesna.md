@@ -16,6 +16,7 @@ lands:                  [bieszczady]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-08-21-bieszczadzka-kolej-lesna.json"
 coords_type:            "train"
+map_zooms:              14
 distance:               20
 time_spent:             3
 elevation:              144

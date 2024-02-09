@@ -16,6 +16,7 @@ towns:                  [mazowieckie, podlaskie, warszawa, jablonna, legionowo, 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-09-pociagiem-do-lomzy.json"
 coords_type:            "train"
+map_zooms:              10
 distance:               505
 time_spent:             11
 elevation:              

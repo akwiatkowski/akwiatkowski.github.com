@@ -16,6 +16,7 @@ lands:                  [bieszczady]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-21-jeziora-duszatynskie.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               16
 time_spent:             5
 elevation:              276

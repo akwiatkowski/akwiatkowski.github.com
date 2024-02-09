@@ -16,6 +16,7 @@ lands:                  [gory_sowie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-10-18-sowie-wioski.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               15
 time_spent:             6
 elevation:              333

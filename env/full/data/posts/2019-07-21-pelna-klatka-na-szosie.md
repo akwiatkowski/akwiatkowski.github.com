@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, steszew, buk]
 coords:                 [{"route": [[52.24412,16.61503], [52.28473,16.61777], [52.31181,16.62661], [52.32897,16.62249], [52.33988,16.61382], [52.35545,16.57795], [52.35534,16.57177]], "type": "bicycle"}]
 coords_file:            "2019-07-21-pelna-klatka-na-szosie.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               20
 time_spent:             3
 elevation:              93

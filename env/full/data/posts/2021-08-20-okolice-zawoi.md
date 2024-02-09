@@ -15,6 +15,9 @@ towns:                  [malopolskie, zawoja, stryszawa]
 lands:                  [beskid_makowski]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2021-08-20-okolice-zawoi.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               
 time_spent:             
 elevation:              

@@ -16,6 +16,7 @@ towns:                  [dolnoslaskie, jelenia_gora, czarny_bor]
 coords:                 [{"route": [[50.80343,16.12706], [50.79765,16.11762], [50.79939,16.11402]], "type": "hike"}]
 coords_file:            "2018-01-20-trudno-trafic-na-zimowy-zachod-slonca.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               11
 time_spent:             5
 elevation:              0

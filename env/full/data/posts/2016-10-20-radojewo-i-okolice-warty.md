@@ -13,6 +13,7 @@ towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2016-10-20-radojewo-i-okolice-warty.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               3
 time_spent:             1
 
@@ -35,4 +36,4 @@ Niestety się spóźniłem, nie wziąłem butów terenowych i musiałem wcześni
 Największą zaletą jest jednak odkrycie skrótu nad wartę, dzięki czemu mam
 tylko 1.2km z przystanku autobusowego.
 
-Zdjęć nie będzie, nie są aż tak ciekawe.  
+Zdjęć nie będzie, nie są aż tak ciekawe.

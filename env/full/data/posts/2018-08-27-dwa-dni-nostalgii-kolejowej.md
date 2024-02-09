@@ -15,6 +15,7 @@ towns:                  [dolnoslaskie, opolskie, slaskie, lodzkie, wielkopolskie
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2018-08-27-dwa-dni-nostalgii-kolejowej.json"
 coords_type:            "train"
+map_zooms:              8
 distance:               726 # 334 + 392
 time_spent:             22 # 9 + 13
 elevation:              0

@@ -14,6 +14,7 @@ towns:                  [dolnoslaskie, radkow]
 coords:                 [{"route": [[50.50391,16.40077], [50.49266,16.36300], [50.48797,16.35322], [50.49523,16.34068], [50.49447,16.32549]], "type": "hike"}]
 coords_file:            "2017-12-29-dotarcie-do-pasterki.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               8
 time_spent:             3
 elevation:              407

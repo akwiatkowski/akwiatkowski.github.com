@@ -16,6 +16,7 @@ towns:                  [warminsko_mazurskie, wegorzewo]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-08-26-krotki-spacer-w-stawkach.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              14

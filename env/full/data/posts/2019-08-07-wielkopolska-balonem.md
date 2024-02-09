@@ -18,6 +18,7 @@ towns:                  [wielkopolskie, swarzedz, kostrzyn]
 coords:                 [{"route": [[52.38462,17.11352], [52.40829,17.26647]], "type": "air"}]
 coords_file:            "2019-08-07-wielkopolska-balonem.json"
 coords_type:            "air"
+map_zooms:              13
 distance:               13
 time_spent:             2
 elevation:              1270

@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, kostrzyn, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-31-nieprzyjazne-okolice-kostrzyna.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               16
 time_spent:             5
 elevation:              124

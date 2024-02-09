@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, torun, lubicz, ciechocin, golub_dob
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-04-myslalem-ze-bedzie-ladniej.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               82
 time_spent:             8
 elevation:              446

@@ -17,6 +17,7 @@ lands:                  [wybrzeze_slowinskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-22-fale-w-kolobrzegu.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               14 # 10 + 4
 time_spent:             8 # 5 + 3
 elevation:              11 # 11 + 0

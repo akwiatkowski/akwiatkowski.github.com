@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, wielkopolskie, szczecinek, okonek]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-04-poludniowe-okolice-szczecinka.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               28
 time_spent:             3
 elevation:              105

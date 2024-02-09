@@ -14,6 +14,9 @@ tags:                   [bird, photo, hike, main]
 towns:                  [lubuskie, slonsk]
 
 coords:                 [{"route": [[52.58432,14.77423], [52.58005,14.74711]], "type": "hike"}, {"route": [[52.57587,14.81131], [52.56982,14.80427], [52.56335,14.80522]], "type": "hike"}]
+coords_file:            "2018-09-22-proba-obserwacji-ptakow-przy-rzece-postomia.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               16 # 4 + 6 + 6
 time_spent:             8 # 3 + 2 + 3
 elevation:              57 # 25 + 11 + 21

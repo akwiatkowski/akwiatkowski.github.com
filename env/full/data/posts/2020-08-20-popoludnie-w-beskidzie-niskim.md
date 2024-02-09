@@ -16,7 +16,7 @@ lands:                  [beskid_niski]
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2020-08-20-popoludnie-w-beskidzie-niskim.json"
 coords_type:            "car"
-
+map_zooms:              11
 # most car, some relax, 1-2km hike
 time_spent:             6
 elevation:              

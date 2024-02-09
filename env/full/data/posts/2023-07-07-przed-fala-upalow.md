@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-07-07-przed-fala-upalow.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               49
 time_spent:             4
 elevation:              194

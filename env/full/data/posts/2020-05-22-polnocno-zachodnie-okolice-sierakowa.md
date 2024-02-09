@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, sierakow]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-22-polnocno-zachodnie-okolice-sierakowa.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               19
 time_spent:             4
 elevation:              117

@@ -14,6 +14,9 @@ tags:                   [photo, main, coast]
 towns:                  [pomorskie, sopot]
 
 coords:                 [{"route": [[54.45081,18.56780], [54.45907,18.56235]], "type": "hike"}]
+coords_file:            "2018-02-05-wschod-slonca-w-sopocie.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42

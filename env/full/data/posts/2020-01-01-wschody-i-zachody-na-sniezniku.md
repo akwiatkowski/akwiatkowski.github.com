@@ -14,6 +14,9 @@ towns:                  [dolnoslaskie, bystrzyca_klodzka, stronie_slaskie]
 lands:                  [masyw_snieznika]
 
 coords:                 [{"route": [[50.20822,16.83167], [50.20404,16.83845], [50.20728,16.84755], [50.20393,16.85064]], "type": "hike"}]
+coords_file:            "2020-01-01-wschody-i-zachody-na-sniezniku.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               23 # 3 + 5 + 5 + 5 + 5
 time_spent:             13 # 3 + 3 + 2 + 2 + 3
 elevation:              1009 # 206 + 214 + 214 + 110 + 265

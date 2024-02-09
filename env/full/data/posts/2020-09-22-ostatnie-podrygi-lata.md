@@ -16,6 +16,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-09-22-ostatnie-podrygi-lata.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               40
 time_spent:             3
 elevation:              168

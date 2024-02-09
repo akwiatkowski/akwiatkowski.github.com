@@ -15,6 +15,7 @@ lands:                  [wielkopolski_park_narodowy]
 coords:                 [{"route": [[52.29662,16.76808], [52.29095,16.78254], [52.29339,16.78769], [52.29946,16.77216], [52.29778,16.77147], [52.29660,16.76778]], "type": "hike"}]
 coords_file:            "2017-05-22-wieczor-w-rosnowku.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               5
 time_spent:             2
 

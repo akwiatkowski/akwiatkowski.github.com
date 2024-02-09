@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, kujawsko_pomorskie, trzemeszno, mogilno]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-12-27-zachod-slonca-w-dusznie.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               10
 time_spent:             4
 elevation:              83

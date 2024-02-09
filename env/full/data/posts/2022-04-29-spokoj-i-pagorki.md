@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, krzecin, choszczno, recz]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-04-29-spokoj-i-pagorki.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               48
 time_spent:             8
 elevation:              385

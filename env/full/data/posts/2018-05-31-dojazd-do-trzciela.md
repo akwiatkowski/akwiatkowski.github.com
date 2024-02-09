@@ -17,6 +17,7 @@ towns:                  [wielkopolskie, zbaszyn, trzciel, miedzichowo]
 coords:                 [{"route": [[52.25982,15.89578], [52.27907,15.88299], [52.30732,15.86810], [52.32957,15.87239], [52.36499,15.87406], [52.36970,15.88694], [52.36624,15.89200]], "type": "bicycle"}]
 coords_file:            "2018-05-31-dojazd-do-trzciela.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               15
 time_spent:             3
 elevation:              60

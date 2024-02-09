@@ -13,6 +13,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [[50.83266,15.51860], [50.82517,15.52529], [50.81864,15.51744], [50.81739,15.50310], [50.81872,15.50238], [50.81398,15.49624]], "type": "hike"}]
 coords_file:            "2016-11-13-dojscie-tylko-do-kamienczyka.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             4
 

@@ -16,6 +16,7 @@ towns:                  [lodzkie, lodz, ksawerow, pabianice]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2019-07-03-lodz-i-linia-tramwajowa-41.json"
 coords_type:            "train"
+map_zooms:              13
 time_spent:             4
 
 

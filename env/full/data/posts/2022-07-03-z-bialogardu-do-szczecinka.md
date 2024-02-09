@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, bialogard, swieszyno, manowo, bobo
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-03-z-bialogardu-do-szczecinka.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               101
 time_spent:             11
 elevation:              525

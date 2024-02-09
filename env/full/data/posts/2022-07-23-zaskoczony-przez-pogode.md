@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, jablonowo_pomorskie, bobrowo, ksiaz
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-23-zaskoczony-przez-pogode.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               32
 time_spent:             3
 elevation:              200

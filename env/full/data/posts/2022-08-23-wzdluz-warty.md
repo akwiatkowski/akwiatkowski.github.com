@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-08-23-wzdluz-warty.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               18
 time_spent:             3
 elevation:              42

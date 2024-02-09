@@ -11,6 +11,7 @@ towns:                  [dolnoslaskie, kowary]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.74440,15.82009], [50.73869,15.81885], [50.73389,15.81039], [50.72924,15.80735]], "type": "hike"}]
+map_zooms:              14
 distance:               18
 time_spent:             7
 

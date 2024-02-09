@@ -16,6 +16,7 @@ lands:                  [przedgorze_sudeckie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-01-17-szukajac-idealnego-zachodu.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             3
 elevation:              70

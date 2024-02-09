@@ -17,6 +17,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-12-nadnoteckie-okolice-drezdenka.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               36
 time_spent:             5
 elevation:              73

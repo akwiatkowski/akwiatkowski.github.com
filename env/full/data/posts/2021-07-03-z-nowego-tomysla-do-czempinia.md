@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, nowy_tomysl, grodzisk_wielkopolski, gran
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-07-03-z-nowego-tomysla-do-czempinia.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               60
 time_spent:             4
 elevation:              119

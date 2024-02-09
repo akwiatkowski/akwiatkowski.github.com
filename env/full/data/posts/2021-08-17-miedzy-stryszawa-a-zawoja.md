@@ -16,6 +16,7 @@ towns:                  [malopolskie, stryszawa, zawoja]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-08-17-miedzy-stryszawa-a-zawoja.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             3
 elevation:              247

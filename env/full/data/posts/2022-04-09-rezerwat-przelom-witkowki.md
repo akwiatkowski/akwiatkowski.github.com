@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-04-09-rezerwat-przelom-witkowki.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               11
 time_spent:             4
 elevation:              83

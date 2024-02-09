@@ -13,6 +13,7 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, murowana_goslina]
 
 coords:                 [{"route": [[52.57513,17.01532], [52.58608,16.99317], [52.58937,17.00150], [52.58489,17.01806], [52.57492,17.01514]], "type": "hike"}]
+map_zooms:              14
 distance:               7
 time_spent:             3
 elevation:              0

@@ -14,6 +14,7 @@ tags:                   [photo, main, coast, best]
 towns:                  [pomorskie, gdynia]
 
 coords:                 [{"route": [[54.47932,18.56418], [54.48124,18.56530]], "type": "hike"}]
+map_zooms:              16
 distance:               2
 time_spent:             3
 

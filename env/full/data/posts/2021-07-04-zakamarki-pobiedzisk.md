@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-07-04-zakamarki-pobiedzisk.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               20
 time_spent:             4
 elevation:              107

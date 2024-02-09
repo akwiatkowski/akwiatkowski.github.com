@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-05-01-majowki-w-tym-roku-nie-ma.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               73
 time_spent:             7
 elevation:              336

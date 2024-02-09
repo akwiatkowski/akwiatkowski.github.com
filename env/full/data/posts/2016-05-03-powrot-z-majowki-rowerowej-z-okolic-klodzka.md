@@ -14,6 +14,7 @@ lands:                  [kotlina_klodzka]
 
 coords_file:            "2016-05-03-powrot-z-majowki-rowerowej-z-okolic-klodzka.json"
 coords_type:            "bicycle"
+map_zooms:              14
 ---
 
 Wstęp

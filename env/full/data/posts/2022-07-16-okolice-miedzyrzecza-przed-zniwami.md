@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-16-okolice-miedzyrzecza-przed-zniwami.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               52
 time_spent:             8
 elevation:              375
@@ -83,4 +84,4 @@ nudne, jednak tutaj w połączeniu z bocznym światłem było dość ładnie.
 [Kęszyce Leśna][wiki-keszyca-lesna] jest bardzo ciekawą miejscowością.
 Była tu kiedyś jednostka wojskowa a teraz mamy odosobnione osiedla.
 
-TODO plaża, sklep, późno, zjazd z Kęszycy 
+TODO plaża, sklep, późno, zjazd z Kęszycy

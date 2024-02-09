@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-17-motyle-przy-obrze.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               23
 time_spent:             5
 elevation:              86

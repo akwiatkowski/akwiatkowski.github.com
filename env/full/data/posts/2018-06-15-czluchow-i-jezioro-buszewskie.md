@@ -15,6 +15,7 @@ towns:                  [pomorskie, czluchow]
 coords:                 [{"route": [[53.65808,17.37109], [53.66418,17.36044], [53.66510,17.33341], [53.66337,17.32731]], "type": "hike"}]
 coords_file:            "2018-06-15-czluchow-i-jezioro-buszewskie.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               8
 time_spent:             4
 elevation:              50

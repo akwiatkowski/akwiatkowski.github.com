@@ -13,8 +13,9 @@ tags:                   [hike, relax, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2020-05-10-okolice-wiatrowa.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              42

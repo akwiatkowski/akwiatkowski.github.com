@@ -16,9 +16,13 @@ tags:                   [hike, photo, wildlife, main]
 towns:                  [pomorskie, gdansk, gdynia]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               4
-time_spent:             2
-elevation:              42
+# https://www.strava.com/activities/10544022173
+coords_file:            "2019-02-23-pierwsze-dzikie-foki.json"
+coords_type:            "hike"
+map_zooms:              14
+distance:               8
+time_spent:             3
+elevation:              29
 temperature:            
 
 ---

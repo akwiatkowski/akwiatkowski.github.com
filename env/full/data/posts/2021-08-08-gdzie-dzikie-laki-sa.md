@@ -14,8 +14,9 @@ tags:                   [hike, photo, todo]
 towns:                  [wielkopolskie, krzykosy, nowe_miasto_nad_warta]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2021-08-08-gdzie-dzikie-laki-sa.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             3
 elevation:              9

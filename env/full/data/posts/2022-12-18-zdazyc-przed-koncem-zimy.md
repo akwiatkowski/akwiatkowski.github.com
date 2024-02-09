@@ -18,6 +18,7 @@ towns:                  [dolnoslaskie, jelenia_gora, janowice_wielkie, marciszow
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-12-18-zdazyc-przed-koncem-zimy.json"
 coords_type:            "hike"
+map_zooms:              13 # TODO: separate into 2 posts
 distance:               15 # 12 + 3
 time_spent:             7 # 5 + 2
 elevation:              212 # 188 + 24

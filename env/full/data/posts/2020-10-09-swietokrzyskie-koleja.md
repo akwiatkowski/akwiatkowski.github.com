@@ -16,6 +16,7 @@ lands:                  [mazowsze, wyzyna_lubelska, wyzyna_kielecka]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-10-09-swietokrzyskie-koleja.json"
 coords_type:            "train"
+map_zooms:              8
 distance:               4
 time_spent:             2
 elevation:              42

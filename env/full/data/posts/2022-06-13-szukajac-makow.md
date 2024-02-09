@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-06-13-szukajac-makow.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               23
 time_spent:             2
 elevation:              120

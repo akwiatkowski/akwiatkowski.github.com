@@ -16,6 +16,7 @@ towns:                  [lubuskie, wielkopolskie, dobiegniew, drezdenko, krzyz_w
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-01-10-co-jest-ciekawego-w-lesie.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               18
 time_spent:             5
 elevation:              105

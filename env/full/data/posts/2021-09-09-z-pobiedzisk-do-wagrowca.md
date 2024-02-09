@@ -16,6 +16,7 @@ towns:                  [pobiedziska, kiszkowo, klecko, miescisko, wagrowiec]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-09-09-z-pobiedzisk-do-wagrowca.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               64
 time_spent:             6
 elevation:              175

@@ -13,6 +13,7 @@ towns:                  [dolnoslaskie, wroclaw]
 coords:                 [{"route": [[51.09988,17.03603], [51.10772,17.03869], [51.10715,17.04401], [51.10971,17.05350], [51.11214,17.04963], [51.11378,17.05019], [51.11491,17.04092], [51.10777,17.03856], [51.09974,17.03594]], "type": "bicycle"}]
 coords_file:            "2016-08-25-rowerem-po-centrum-wroclawia.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               10
 time_spent:             1
 

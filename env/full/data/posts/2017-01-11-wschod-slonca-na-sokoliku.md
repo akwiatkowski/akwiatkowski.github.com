@@ -16,6 +16,7 @@ lands:                  [rudawy_janowickie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2017-01-11-wschod-slonca-na-sokoliku.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             7
 

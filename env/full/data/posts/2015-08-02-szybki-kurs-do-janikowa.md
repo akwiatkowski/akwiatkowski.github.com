@@ -13,6 +13,7 @@ towns:                  [kujawsko_pomorskie, strzelno, mogilno, janikowo]
 coords:                 [{"route": [[52.62802,18.17139], [52.66385,18.12469], [52.66343,18.10444], [52.73417,18.09002], [52.74996,18.11714]], "type": "bicycle"}]
 coords_file:            "2015-08-02-szybki-kurs-do-janikowa.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               18
 time_spent:             1
 ---

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, dolnoslaskie, zmigrod, winsko, scinawa, 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-06-05-tutaj-nie-ma-nic.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               103
 time_spent:             9
 elevation:              438

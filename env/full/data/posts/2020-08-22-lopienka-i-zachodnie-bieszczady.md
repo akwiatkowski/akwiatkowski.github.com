@@ -17,7 +17,7 @@ lands:                  [bieszczady]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-22-lopienka-i-zachodnie-bieszczady.json"
 coords_type:            "hike"
-
+map_zooms:              16
 # car part ignored
 distance:               6
 time_spent:             3

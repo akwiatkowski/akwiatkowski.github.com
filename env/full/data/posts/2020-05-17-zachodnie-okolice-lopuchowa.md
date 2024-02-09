@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-17-zachodnie-okolice-lopuchowa.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               14
 time_spent:             6
 elevation:              78

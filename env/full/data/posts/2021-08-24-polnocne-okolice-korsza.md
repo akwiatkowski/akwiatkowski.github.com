@@ -16,6 +16,7 @@ towns:                  [ketrzyn, barciany, korsze, sepopol, bartoszyce]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-08-24-polnocne-okolice-korsza.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               53
 time_spent:             4
 elevation:              215

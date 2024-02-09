@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-08-02-arboretum-wojslawice.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               7
 time_spent:             4
 elevation:              137

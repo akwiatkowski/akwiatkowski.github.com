@@ -16,6 +16,7 @@ towns:                  [podlaskie, tykocin]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2018-08-11-co-mozna-robic-w-tykocinie-gdy-pada-deszcz.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               14
 time_spent:             7
 elevation:              37

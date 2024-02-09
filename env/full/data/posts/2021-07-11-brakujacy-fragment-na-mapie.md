@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, sroda_wielkopolska, dominowo, kostrzyn]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-07-11-brakujacy-fragment-na-mapie.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               25
 time_spent:             2
 elevation:              103

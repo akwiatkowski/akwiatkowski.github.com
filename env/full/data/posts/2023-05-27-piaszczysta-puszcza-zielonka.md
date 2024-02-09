@@ -16,6 +16,7 @@ towns:                  [wielkopolskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-05-27-piaszczysta-puszcza-zielonka.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               38
 time_spent:             4
 elevation:              212

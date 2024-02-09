@@ -16,6 +16,7 @@ towns:                  [pomorskie, koscierzyna, stezyca, somonino]
 coords:                 [{"route": [[54.23436,18.13110], [54.22758,18.13539], [54.21454,18.11196], [54.23381,18.08355], [54.23526,18.10638], [54.23852,18.11067], [54.23426,18.12878]], "type": "hike"}]
 coords_file:            "2018-04-15-petla-przez-wiezyce.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               13
 time_spent:             6
 elevation:              282

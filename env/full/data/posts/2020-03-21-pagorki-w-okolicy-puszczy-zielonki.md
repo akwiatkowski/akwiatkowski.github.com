@@ -15,6 +15,7 @@ towns:                  []
 coords:                 [{"route": [[52.55423,17.24099], [52.56362,17.22648], [52.56654,17.24588], [52.55908,17.25901], [52.55402,17.24081]], "type": "hike"}]
 coords_file:            "2020-03-21-pagorki-w-okolicy-puszczy-zielonki.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             3
 elevation:              33

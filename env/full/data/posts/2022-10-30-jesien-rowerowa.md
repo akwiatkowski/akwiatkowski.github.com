@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, opalenica, kuslin, lwowek, pniewy, chrzy
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-10-30-jesien-rowerowa.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               62
 time_spent:             4
 elevation:              226

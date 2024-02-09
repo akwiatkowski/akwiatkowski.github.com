@@ -15,6 +15,8 @@ towns:                  [wielkopolskie, sierakow, wronki, wielen]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-05-24-puszcza-notecka-i-mialy.json"
 coords_type:            "bicycle"
+# TODO: think about splitting map
+map_zooms:              12
 distance:               27 # 21 + 6
 time_spent:             3 # 2 + 1
 elevation:              83 # 62 + 21

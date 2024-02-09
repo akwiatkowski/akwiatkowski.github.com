@@ -13,6 +13,9 @@ tags:                   [hike, main]
 towns:                  [dolnoslaskie, walbrzych, szczawno_zdroj]
 
 coords:                 [{"route": [[50.78483,16.28433], [50.79655,16.26613], [50.80053,16.25068]], "type": "hike"}]
+coords_file:            "2020-01-17-dotarcie-do-szczawna-zdroj.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             2
 elevation:              149

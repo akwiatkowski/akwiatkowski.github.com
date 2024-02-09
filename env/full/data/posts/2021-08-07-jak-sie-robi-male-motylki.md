@@ -14,8 +14,9 @@ tags:                   [photo, todo]
 towns:                  [wielkopolskie, wagrowiec]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2021-08-07-jak-sie-robi-male-motylki.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               6
 time_spent:             3
 elevation:              12

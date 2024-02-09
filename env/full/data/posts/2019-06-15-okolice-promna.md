@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [[52.47151,17.21349], [52.45514,17.20208], [52.46084,17.20388], [52.46665,17.22971], [52.47166,17.21384]], "type": "hike"}]
 coords_file:            "2019-06-15-okolice-promna.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               7
 time_spent:             2
 elevation:              69

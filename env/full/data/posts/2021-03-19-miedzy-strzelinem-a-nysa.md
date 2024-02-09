@@ -17,6 +17,7 @@ lands:                  [przedgorze_sudeckie, nizina_slaska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-03-19-miedzy-strzelinem-a-nysa.json"
 coords_type:            "car"
+map_zooms:              10
 distance:               137
 time_spent:             5
 elevation:              

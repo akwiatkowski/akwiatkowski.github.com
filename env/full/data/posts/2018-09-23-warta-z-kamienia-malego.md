@@ -14,6 +14,9 @@ tags:                   [hike, photo, main]
 towns:                  [lubuskie, witnica, slonsk]
 
 coords:                 [{"route": [[52.64358,14.78084], [52.60982,14.80934]], "type": "hike"}]
+coords_file:            "2018-09-23-warta-z-kamienia-malego.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             3
 elevation:              34

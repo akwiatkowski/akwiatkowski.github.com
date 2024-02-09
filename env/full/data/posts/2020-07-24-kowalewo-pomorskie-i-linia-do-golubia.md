@@ -15,6 +15,7 @@ towns:                  [kujawsko_pomorskie, kowalewo_pomorskie, torun]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-24-kowalewo-pomorskie-i-linia-do-golubia.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              

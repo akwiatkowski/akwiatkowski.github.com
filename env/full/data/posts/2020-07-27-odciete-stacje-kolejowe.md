@@ -16,6 +16,7 @@ lands:                  [pojezierze_mazurskie, nizina_staropruska]
 coords:                 [{"route": [], "type": "bus"}]
 coords_file:            "2020-07-27-odciete-stacje-kolejowe.json"
 coords_type:            "bus"
+map_zooms:              9
 distance:               304 # 159 + 145
 time_spent:             9 # 6 + 3
 elevation:              

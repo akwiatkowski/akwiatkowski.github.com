@@ -14,6 +14,9 @@ towns:                  [dolnoslaskie, radkow, kudowa_zdroj]
 lands:                  [gory_stolowe]
 
 coords:                 [{"route": [[50.48939,16.32832], [50.48300,16.32652], [50.47535,16.33785], [50.46290,16.34918], [50.46153,16.34189]], "type": "hike"}]
+coords_file:            "2018-01-02-jak-wydostac-sie-z-gor-stolowych.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              189

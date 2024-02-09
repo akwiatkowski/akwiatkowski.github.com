@@ -17,6 +17,7 @@ lands:                  [pojezierze_lubuskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-08-01-suche-okolice-lagowa.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               49
 time_spent:             8
 elevation:              314

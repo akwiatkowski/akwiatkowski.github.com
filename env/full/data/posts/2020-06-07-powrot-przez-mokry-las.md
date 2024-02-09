@@ -15,6 +15,7 @@ towns:                  [warminsko_mazurskie, ostroda]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-07-powrot-przez-mokry-las.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               11
 time_spent:             1
 elevation:              104

@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, lubuskie, zbaszyn, zbaszynek, trzciel, m
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-05-08-setka-w-czasie-zarazy.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               109
 time_spent:             8
 elevation:              110

@@ -14,6 +14,7 @@ tags:                   [photo, main, best]
 towns:                  [pomorskie, jastarnia, hel]
 
 coords:                 [{"route": [[54.70111,18.67764], [54.69392,18.67309]], "type": "hike"}]
+# TODO: use GPX, decide which part to render
 distance:               4
 time_spent:             2
 elevation:              42

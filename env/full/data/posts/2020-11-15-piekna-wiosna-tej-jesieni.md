@@ -17,6 +17,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2020-11-15-piekna-wiosna-tej-jesieni.json"
 coords_type:            "car"
+map_zooms:              9
 distance:               100
 time_spent:             2
 elevation:              

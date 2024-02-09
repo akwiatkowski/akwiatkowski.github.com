@@ -13,6 +13,9 @@ tags:                   [hike, photo, main, coast]
 towns:                  [pomorskie, gdynia]
 
 coords:                 [{"route": [[54.55060,18.55458], [54.55126,18.55930], [54.55903,18.55301], [54.55894,18.54568]], "type": "hike"}]
+coords_file:            "2018-03-04-oksywie-i-srodmiescie-gdyni.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               4
 time_spent:             3
 

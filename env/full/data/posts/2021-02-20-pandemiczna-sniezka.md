@@ -16,6 +16,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-02-20-pandemiczna-sniezka.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               11 # 6 + 5
 time_spent:             5 # 3 + 2
 elevation:              396 # 264 + 132

@@ -16,6 +16,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-04-poludniowe-okolice-krajenskiego-parku.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               126
 time_spent:             11
 elevation:              711

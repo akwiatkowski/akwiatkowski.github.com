@@ -20,6 +20,7 @@ towns:                  [dolnoslaskie, stronie_slaskie, bystrzyca_klodzka]
 coords:                 [{"route": [[50.24439,16.85304], [50.20810,16.83236], [50.20403,16.83922]], "type": "hike"}]
 coords_file:            "2018-12-30-warstwy-zimy-pod-snieznikiem.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               15
 time_spent:             7
 elevation:              761

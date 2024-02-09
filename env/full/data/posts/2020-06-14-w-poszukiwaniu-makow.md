@@ -15,6 +15,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-06-14-w-poszukiwaniu-makow.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               10
 time_spent:             4
 elevation:              22

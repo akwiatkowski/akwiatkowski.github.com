@@ -14,6 +14,7 @@ towns:                  [dolnoslaskie, jelenia_gora, jezow_sudecki, wlen, lwowek
 coords:                 [{"route": [[50.90227,15.75492], [50.96826,15.65450], [50.97885,15.64403], [51.01202,15.67183], [51.04517,15.67321], [51.09759,15.63991], [51.12722,15.55528], [51.12054,15.53691], [51.18052,15.39700], [51.25417,15.39357], [51.29037,15.22397], [51.24687,15.04991], [51.17675,15.01763], [51.14263,15.02004], [51.09586,15.09883], [51.04786,15.01471], [51.05984,14.98553], [51.04225,14.95635], [50.98944,14.93009], [50.94945,14.89404], [50.92738,14.93129]], "type": "train"}]
 coords_file:            "2017-05-02-pociagiem-pierscien-i-granica.json"
 coords_type:            "train"
+map_zooms:              10
 distance:               255
 time_spent:             12
 
@@ -79,7 +80,7 @@ wyremontowana. Z roku na rok prędkość była obniżana do poziomu 10km/h
 pod koniec 2016 roku gdy przejeżdzał pociąg "Ostatni Leniwiec".
 
 Jestem jednak dobrej myśli. Województwo dolnośląskie jest chyba
-najbardziej pro-kolejowym województwem.  
+najbardziej pro-kolejowym województwem.
 
 {% photo "IMGP5606raw1.jpg","Przejazd przez most" %}
 

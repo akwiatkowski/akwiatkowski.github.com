@@ -15,7 +15,7 @@ lands:                  [masyw_snieznika]
 coords:                 [{"route": [[50.20816,16.83277], [50.21552,16.83552], [50.24786,16.81406], [50.25181,16.80479], [50.24434,16.78325], [50.22837,16.76514]], "type": "hike"}]
 coords_file:            "2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore.json"
 coords_type:            "hike"
-map_zooms:              14
+map_zooms:              13
 distance:               14
 time_spent:             5
 ---

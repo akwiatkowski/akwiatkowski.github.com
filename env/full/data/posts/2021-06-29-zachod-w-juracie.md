@@ -16,6 +16,7 @@ towns:                  [pomorskie, jurata]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-06-29-zachod-w-juracie.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             3
 elevation:              13

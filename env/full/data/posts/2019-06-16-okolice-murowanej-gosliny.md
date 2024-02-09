@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, murowana_goslina]
 coords:                 [{"route": [[52.57823,17.01828], [52.57255,17.04257], [52.58762,17.06591], [52.59075,17.05390], [52.58141,17.02025]], "type": "hike"}]
 coords_file:            "2019-06-16-okolice-murowanej-gosliny.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               11
 time_spent:             4
 elevation:              38

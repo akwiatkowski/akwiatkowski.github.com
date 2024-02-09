@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-09-26-rowerem-wokol-jeziora-kowalskiego.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               26
 time_spent:             3
 elevation:              110

@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, jezewo, dragacz, grudziadz, gruta, 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-07-18-pagorki-przed-zniwami.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               69
 time_spent:             8
 elevation:              424

@@ -16,6 +16,7 @@ towns:                  [malopolskie, zawoja, lipnica_wielka]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-08-18-wejscie-na-babia-gore.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               16
 time_spent:             8
 elevation:              750

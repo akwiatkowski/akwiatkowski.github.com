@@ -17,6 +17,7 @@ coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-06-30-hel-na-spokojnie.json"
 coords_type:            "hike"
 # estimated
+map_zooms:              16
 distance:               11
 time_spent:             7
 elevation:              

@@ -15,6 +15,9 @@ towns:                  [zachodnio_pomorskie, choszczno, suchan, dobrzany, insko
 lands:                  [inski_park_krajobrazowy]
 
 coords:                 [{"route": [[53.16490,15.40433], [53.17406,15.41669], [53.18970,15.39592], [53.25106,15.38442], [53.27621,15.36090], [53.30812,15.36931], [53.34780,15.39506], [53.35764,15.42940], [53.37413,15.43472], [53.39276,15.47798], [53.38836,15.49411], [53.40627,15.55093], [53.41906,15.56501], [53.42203,15.55557], [53.43584,15.54870], [53.44667,15.56140]], "type": "bicycle"}]
+coords_file:            "2019-08-24-dojazd-w-inski-park-krajobrazowy.json"
+coords_type:            "bicycle"
+map_zooms:              11
 distance:               46
 time_spent:             6
 elevation:              298

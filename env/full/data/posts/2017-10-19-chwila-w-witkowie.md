@@ -13,6 +13,9 @@ tags:                   [photo]
 towns:                  [dolnoslaskie]
 
 coords:                 [{"route": [[50.79517,16.12804], [50.79241,16.12418]], "type": "hike"}]
+coords_file:            "2017-10-19-chwila-w-witkowie.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               1
 time_spent:             1
 elevation:              36

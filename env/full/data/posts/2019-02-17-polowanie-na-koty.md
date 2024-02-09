@@ -18,6 +18,7 @@ towns:                  [wielkopolskie, lipno]
 coords:                 [{"route": [[51.91765,16.56975], [51.92385,16.59618], [51.95512,16.58906], [51.95443,16.57704]], "type": "hike"}]
 coords_file:            "2019-02-17-polowanie-na-koty.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               7
 time_spent:             3
 elevation:              4

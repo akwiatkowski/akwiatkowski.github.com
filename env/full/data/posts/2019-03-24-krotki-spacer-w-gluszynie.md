@@ -17,6 +17,7 @@ towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2019-03-24-krotki-spacer-w-gluszynie.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              0

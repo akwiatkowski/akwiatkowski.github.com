@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, opalenica]
 coords:                 [{"route": [[52.3103,16.4022], [52.3259,16.4004], [52.3252,16.4114], [52.3407,16.4064], [52.3482,16.4534], [52.3270,16.4665]], "type": "hike"}]
 coords_file:            "2019-03-30-okolice-opalenicy.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             4
 elevation:              16

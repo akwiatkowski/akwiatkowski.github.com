@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-08-28-brzezno-wioska-kotow.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               16
 time_spent:             4
 elevation:              100

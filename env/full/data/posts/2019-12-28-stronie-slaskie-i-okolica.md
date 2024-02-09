@@ -16,6 +16,7 @@ towns:                  [dolnoslaskie, stronie_slaskie]
 coords:                 [{"route": [[50.29740,16.87356], [50.26888,16.88094], [50.26317,16.87613], [50.25011,16.85055], [50.20849,16.83193]], "type": "hike"}]
 coords_file:            "2019-12-28-stronie-slaskie-i-okolica.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               19 # 5 + 14
 time_spent:             10 # 3 + 7
 elevation:              820 # 51 + 769

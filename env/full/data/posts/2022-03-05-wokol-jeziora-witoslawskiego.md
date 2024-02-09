@@ -17,6 +17,7 @@ towns:                  [kujawsko_pomorskie, mrocza]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-03-06-wokol-jeziora-witoslawskiego.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             4
 elevation:              75

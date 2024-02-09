@@ -16,6 +16,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [[50.75075,15.70845], [50.74106,15.70660], [50.73927,15.72913], [50.73593,15.74012]], "type": "hike"}]
 coords_file:            "2019-01-11-pierwszy-wschod-na-sniezce.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               12
 time_spent:             8
 elevation:              478

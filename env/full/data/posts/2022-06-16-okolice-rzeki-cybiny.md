@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-06-16-okolice-rzeki-cybiny.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               22
 time_spent:             4
 elevation:              108

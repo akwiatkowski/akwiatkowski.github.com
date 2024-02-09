@@ -13,6 +13,9 @@ tags:                   [hike, main]
 towns:                  [dolnoslaskie, lubawka]
 
 coords:                 [{"route": [[50.71455,15.93753], [50.70298,15.92483], [50.71146,15.95315], [50.72591,15.94989], [50.72243,15.93796], [50.71368,15.93796]], "type": "hike"}]
+coords_file:            "2020-01-19-wokol-zbiornika-bukowka.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               10
 time_spent:             3
 elevation:              99

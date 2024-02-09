@@ -17,6 +17,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-03-31-przedwiosnie-obok-zielonki.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               27
 time_spent:             2
 elevation:              140

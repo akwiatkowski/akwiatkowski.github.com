@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, wronki, sierakow]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-05-22-dojazd-do-sierakowa-przez-puszcze.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               23
 time_spent:             2
 elevation:              42

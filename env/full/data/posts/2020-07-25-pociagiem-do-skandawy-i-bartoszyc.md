@@ -16,6 +16,7 @@ lands:                  [pojezierze_mazurskie]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2020-07-25-pociagiem-do-skandawy-i-bartoszyc.json"
 coords_type:            "train"
+map_zooms:              8
 distance:               449
 time_spent:             14
 elevation:              

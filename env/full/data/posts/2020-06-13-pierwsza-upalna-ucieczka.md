@@ -15,6 +15,7 @@ towns:                  [zachodnio_pomorskie, barwice, polczyn_zdroj, rabino]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-13-pierwsza-upalna-ucieczka.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               47
 time_spent:             4
 elevation:              325

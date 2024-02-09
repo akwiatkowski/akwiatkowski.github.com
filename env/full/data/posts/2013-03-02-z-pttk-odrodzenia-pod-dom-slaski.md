@@ -15,7 +15,7 @@ lands:                  [karkonosze]
 coords:                 [{"route": [[50.76273,15.63848], [50.76059,15.65569], [50.75953,15.68328], [50.75299,15.69453], [50.74289,15.69788], [50.73935,15.72903]], "type": "hike"}]
 coords_file:            "2013-03-02-z-pttk-odrodzenia-pod-dom-slaski.json"
 coords_type:            "hike"
-map_zooms:              [16, 14]
+map_zooms:              13
 distance:               8
 time_spent:             5
 ---

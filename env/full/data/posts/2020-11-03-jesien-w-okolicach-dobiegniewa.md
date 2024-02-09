@@ -17,6 +17,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-11-03-jesien-w-okolicach-dobiegniewa.json"
 coords_type:            "hike"
+map_zooms:              12
 distance:               17
 time_spent:             6
 elevation:              66

@@ -13,6 +13,8 @@ towns:                  [wielkopolskie, steszew, mosina]
 coords:                 [{"route": [[52.27920,16.70861], [52.27862,16.72298], [52.27978,16.72521], [52.28277,16.72586], [52.27996,16.73208], [52.28109,16.73594], [52.28424,16.73612], [52.28450,16.75393], [52.28658,16.75749], [52.27925,16.76358], [52.27631,16.76010], [52.27242,16.76375], [52.27576,16.77654], [52.27027,16.79954], [52.26867,16.80341], [52.26581,16.80010], [52.25753,16.80684], [52.25493,16.80650], [52.24952,16.81495], [52.24970,16.81778], [52.24744,16.82538], [52.25070,16.82559], [52.25343,16.83113], [52.24560,16.84353], [52.24542,16.84958], [52.24111,16.85212]], "type": "hike"}]
 coords_file:            "2016-05-08-pieszo-przez-wielkopolski-park-narodowy.json"
 coords_type:            "hike"
+map_zooms:              12
+# TODO: check "photo_header" function is working ok
 distance:               16
 time_spent:             5
 
@@ -21,7 +23,7 @@ pois:
     lon: 16.73613
     name: Rezerwat Bagno Dębienko i Suche Zbocze, trochę na wschód tereny podmokłe
   - lat: 52.26198
-    lon: 16.80209  
+    lon: 16.80209
     name: Obok Jeziora Góreckiego. W weekend jest tam dużo ludzi
   - lat: 52.24982
     lon: 16.81689

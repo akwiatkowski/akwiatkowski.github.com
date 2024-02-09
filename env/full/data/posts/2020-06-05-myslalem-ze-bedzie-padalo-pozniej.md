@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, warminsko_mazurskie, brodnica, brzo
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-06-05-myslalem-ze-bedzie-padalo-pozniej.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               59 # 47 + 12
 time_spent:             7 # 5 + 2
 elevation:              427 # 371 + 56

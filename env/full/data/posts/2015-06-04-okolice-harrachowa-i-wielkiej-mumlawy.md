@@ -12,6 +12,7 @@ lands:                  [karkonosze, gory_izerskie]
 coords:                 [{"route": [[50.82035,15.51900], [50.82767,15.50330], [50.83109,15.44038], [50.81699,15.43266], [50.78358,15.42382], [50.77071,15.44193], [50.76588,15.50561], [50.80376,15.44596], [50.80728,15.42605]], "type": "bicycle"}]
 coords_file:            "2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               60
 time_spent:             8
 ---

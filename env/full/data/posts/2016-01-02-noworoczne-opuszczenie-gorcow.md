@@ -12,6 +12,7 @@ lands:                  [gorce]
 coords:                 [{"route": [[49.58269,20.00533], [49.58769,19.99465], [49.59439,19.99973], [49.59614,19.99883], [49.59776,19.99634], [49.60311,19.99445], [49.60567,19.97701], [49.60794,19.97197], [49.61088,19.96235]], "type": "hike"}]
 coords_file:            "2016-01-02-noworoczne-opuszczenie-gorcow.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               6
 time_spent:             2
 ---

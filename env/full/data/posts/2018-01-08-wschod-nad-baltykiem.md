@@ -13,6 +13,9 @@ tags:                   [photo, main, photo_of_the_year, coast]
 towns:                  [pomorskie, gdynia]
 
 coords:                 [{"route": [[54.48197,18.56517], [54.47857,18.56380]], "type": "hike"}]
+coords_file:            "2018-01-08-wschod-nad-baltykiem.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               2
 time_spent:             1
 elevation:              0

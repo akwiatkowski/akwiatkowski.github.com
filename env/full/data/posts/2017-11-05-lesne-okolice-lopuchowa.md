@@ -15,9 +15,10 @@ towns:                  [wielkopolskie, skoki, murowana_goslina]
 coords:                 [{"route": [[52.61890,17.10985], [52.61009,17.11972], [52.61374,17.13140], [52.59216,17.13886], [52.58480,17.13517], [52.57359,17.10710], [52.58063,17.10256], [52.58381,17.07964], [52.59054,17.08977], [52.61264,17.09208]], "type": "hike"}]
 coords_file:            "2017-11-05-lesne-okolice-lopuchowa.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               20
 time_spent:             5
-elevation:              208  
+elevation:              208
 pois:
 
 

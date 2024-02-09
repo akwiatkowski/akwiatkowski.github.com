@@ -16,6 +16,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-21-szukajac-zboza-przed-zniwami.json"
 coords_type:            "bicycle"
+map_zooms:              10
 distance:               82
 time_spent:             5
 elevation:              293

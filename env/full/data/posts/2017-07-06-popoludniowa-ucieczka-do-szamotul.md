@@ -12,6 +12,9 @@ tags:                   [bicycle]
 towns:                  [wielkopolskie, poznan, suchy_las, rokietnica, kazmierz, szamotuly]
 
 coords:                 [{"route": [[52.47562,16.78925], [52.51304,16.73209], [52.51815,16.70994], [52.51053,16.66582], [52.51983,16.66273], [52.51251,16.58738], [52.53852,16.58017], [52.58110,16.60918], [52.60289,16.58617]], "type": "bicycle"}]
+coords_file:            "2017-07-06-popoludniowa-ucieczka-do-szamotul.json"
+coords_type:            "bicycle"
+map_zooms:              11
 distance:               44
 time_spent:             3
 

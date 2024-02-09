@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, choszczno, bierzwnik]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-04-30-kocie-lby-i-piaski.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               28
 time_spent:             5
 elevation:              159

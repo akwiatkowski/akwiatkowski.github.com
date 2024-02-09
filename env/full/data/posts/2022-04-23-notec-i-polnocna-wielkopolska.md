@@ -16,6 +16,7 @@ towns:                  [kujawsko_pomorskie, wielkopolskie, sadki, kcynia, golan
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-04-23-notec-i-polnocna-wielkopolska.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               67
 time_spent:             7
 elevation:              261

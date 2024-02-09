@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-02-05-wzgorza-pobiedzisk.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             4
 elevation:              54

@@ -12,11 +12,13 @@ image_filename:         2019_02_23__06_32__2230197_02.jpg
 tags:                   [photo, main, best]
 towns:                  [pomorskie, sopot]
 
+coords_file:            "2019-02-24-dwa-wschody-w-sopocie.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               8 # 4
 time_spent:             4 # 2
 elevation:              70 # 34
 temperature:            2 # 0, 4
-
 
 pois:
 #  - lat: 54.45911

@@ -14,6 +14,7 @@ towns:                  [wielkopolskie, pobiedziska]
 
 coords:                 [{"route": [[52.47447,17.23996], [52.48621,17.25632], [52.49632,17.24464], [52.50627,17.20705], [52.51359,17.18662], [52.51868,17.17598], [52.51729,17.15452], [52.51917,17.14607], [52.51581,17.13667]], "type": "hike"}]
 coords_file:            "2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego.json"
+map_zooms:              13
 coords_type:            "hike"
 distance:               20 # 8 + 12
 time_spent:             9 # 3 + 6

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, kujawsko_pomorskie, kolo, osiek_malo, so
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-10-03-juz-sie-mi-nie-chcialo.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               77
 time_spent:             5
 elevation:              276

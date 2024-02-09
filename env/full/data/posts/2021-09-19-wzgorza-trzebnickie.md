@@ -16,6 +16,7 @@ towns:                  [dolnoslaskie, wroclaw, trzebnica, oborniki_slaskie,]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-09-19-wzgorza-trzebnickie.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               29 # 4 + 8 + 17
 time_spent:             11 # 2 + 2 + 7
 elevation:              250 # 6 + 106 + 238

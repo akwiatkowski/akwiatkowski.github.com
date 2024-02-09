@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, chrzypsko_wielkie, pniewy]
 coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2019-11-17-drezyna-do-chrzypska-wielkiego.json"
 coords_type:            "train"
+map_zooms:              14
 distance:               16
 time_spent:             4
 elevation:              

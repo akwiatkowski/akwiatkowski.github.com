@@ -13,6 +13,9 @@ tags:                   [photo, workshop, mountains, main]
 towns:                  [dolnoslaskie, karpacz]
 
 coords:                 [{"route": [[50.74722,15.72756], [50.74043,15.72456], [50.73593,15.74009]], "type": "hike"}]
+coords_file:            "2017-02-09-przywitanie-z-karkonoszami.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             5
 

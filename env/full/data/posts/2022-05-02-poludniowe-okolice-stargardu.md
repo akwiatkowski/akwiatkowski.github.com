@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, kobylanka, stargard, warnice, doli
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-05-02-poludniowe-okolice-stargardu.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               35 # no base-train station distance included
 time_spent:             4
 elevation:              85

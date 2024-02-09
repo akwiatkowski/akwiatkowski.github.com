@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-10-09-okolice-jeziora-folusz.json"
 coords_type:            "hike"
+map_zooms:              13
 distance:               10
 time_spent:             4
 elevation:              51

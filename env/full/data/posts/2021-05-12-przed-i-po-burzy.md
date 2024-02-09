@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-12-przed-i-po-burzy.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               10
 time_spent:             3
 elevation:              42

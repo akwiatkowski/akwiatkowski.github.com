@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2022-08-20-okolice-starego-bukowca.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               10
 time_spent:             4
 elevation:              61

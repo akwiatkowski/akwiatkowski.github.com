@@ -19,6 +19,7 @@ towns:                  [wielkopolskie, poznan, mosina, puszczykowo, steszew, ko
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-05-01-wiosenny-wpn.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               47
 time_spent:             4
 elevation:              202

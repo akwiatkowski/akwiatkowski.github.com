@@ -16,6 +16,7 @@ lands:                  [pojezierze_wielkopolskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-09-12-nekielskie-lasy.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               18 # 15 + 3
 time_spent:             7 # 5 + 2
 elevation:              69 # 49 + 20

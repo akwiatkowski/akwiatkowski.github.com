@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-10-02-nie-ten-rower-co-trzeba.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               23
 time_spent:             2
 elevation:              121

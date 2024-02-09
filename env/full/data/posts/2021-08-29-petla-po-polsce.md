@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, dolnoslaskie, opolskie, malopolskie, maz
 coords:                 [{"route": [], "type": "car"}]
 coords_file:            "2021-08-29-petla-po-polsce.json"
 coords_type:            "car"
+map_zooms:              7
 distance:               1607 # 440 + 685 + 199 + 283
 time_spent:             30 # 8 + 13 + 4 + 5
 elevation:              

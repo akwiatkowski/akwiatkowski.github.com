@@ -14,8 +14,9 @@ tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2022-10-16-jesien-minimalna.json"
+coords_type:            "hike"
+map_zooms:              13
 distance:               14
 time_spent:             6
 elevation:              251

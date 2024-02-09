@@ -14,6 +14,9 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, murowana_goslina]
 
 coords:                 [{"route": [[52.60777,17.01648], [52.59662,17.02583], [52.59370,17.04463]], "type": "hike"}]
+coords_file:            "2019-03-17-trojanowo-przed-wiosna.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42

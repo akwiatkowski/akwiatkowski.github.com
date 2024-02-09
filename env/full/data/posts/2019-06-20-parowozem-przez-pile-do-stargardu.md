@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, poznan, suchy_las, oborniki, rogozno, bu
 coords:                 [{"route": [[53.14255,16.74413], [53.27743,16.46226], [53.22588,16.32253], [53.30596,15.76154], [53.35148,15.12914], [53.32606,15.03988]], "type": "train"}]
 coords_file:            "2019-06-20-parowozem-przez-pile-do-stargardu.json"
 coords_type:            "train"
+map_zooms:              9
 distance:               261
 time_spent:             8
 elevation:              576

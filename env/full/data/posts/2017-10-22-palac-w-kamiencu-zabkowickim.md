@@ -13,9 +13,12 @@ towns:                  [dolnoslaskie, kamieniec_zabkowicki]
 lands:                  [gory_bardzkie, gory_zlote]
 
 coords:                 [{"route": [[50.53620,16.89697], [50.52447,16.87749], [50.52000,16.87934]], "type": "hike"}]
+coords_file:            "2017-10-22-palac-w-kamiencu-zabkowickim.json"
+coords_type:            "hike"
+map_zooms:              14
 distance:               9
 time_spent:             5
-elevation:              100  
+elevation:              100
 pois:
 
 

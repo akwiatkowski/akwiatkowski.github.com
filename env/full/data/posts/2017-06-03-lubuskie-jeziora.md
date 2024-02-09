@@ -15,6 +15,7 @@ towns:                  [lubuskie, sulechow, skape, lubrza, lagow, swiebodzin]
 coords:                 [{"route": [[52.09229,15.61899], [52.09682,15.57977], [52.10589,15.53350], [52.12192,15.51333], [52.15226,15.45849], [52.17027,15.45497], [52.18590,15.45917], [52.20557,15.43677], [52.21294,15.40029], [52.20978,15.37884], [52.21415,15.36828], [52.22845,15.36648], [52.23371,15.37918], [52.23055,15.34571], [52.23334,15.30270], [52.26066,15.26417], [52.27133,15.25636], [52.28545,15.26245], [52.29249,15.24854], [52.30493,15.25395], [52.33457,15.28717], [52.33321,15.29687], [52.35072,15.31009], [52.34579,15.32279], [52.35481,15.36802], [52.33908,15.36279], [52.33415,15.35309], [52.31149,15.34931], [52.29338,15.36605], [52.31007,15.42596], [52.29884,15.43119], [52.29191,15.43875], [52.29921,15.44724], [52.28052,15.49024], [52.25510,15.53093], [52.24480,15.53779], [52.24511,15.54028]], "type": "bicycle"}]
 coords_file:            "2017-06-03-lubuskie-jeziora.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               93
 time_spent:             7
 
@@ -143,7 +144,7 @@ na horyzoncie wyłaniały się powoli jakieś górki. Jak się okazało patrząc
 później na mapę górka obok Czernichowa ma około 170 metrów n.p.m., czyli
 jest 70 metrów wyżej niż droga po której jechaliśmy.
 
-{% photo "IMGP7015raw1.jpg","Jezioro Łagowskie" %}  
+{% photo "IMGP7015raw1.jpg","Jezioro Łagowskie" %}
 
 Wjechaliśmy w las zbliżając się do [Łagowa][wiki-lagow]. Czekał na nas najpierw
 podjazd, z jednej strony lekki ale nasza prędkość wyraźnie się zmniejszyła
@@ -163,7 +164,7 @@ przez górę Bukowiec. Okazało się, że Bukowiec to wzniesienie o wysokości
 około 230 metrów n.p.m. Nie byłem pewien tej drugiej opcji, bo przez poligon
 jechać nie chciałem.
 
-{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa","tag:timeline" %}  
+{% photo "IMGP7022raw1.jpg","Jadąc przez pola na północ od Łagowa","tag:timeline" %}
 
 Pojechaliśmy w stronę Bukowca. Rozpoczął się lekki podjazd i droga brukowa. Miałem już
 dość dzisiejszego dnia takiej nawierzchni. Po prawej stronie
@@ -180,7 +181,7 @@ tak jak ostatecznie pojechaliśmy - czyli w stronę [Sieniawy][wiki-sieniawa].
 Byśmy jechali około 10km po asfalcie zamiast 7km po bruku. Oczywiste jest
 to co się da przejechać szybciej.
 
-{% photo "IMGP7032raw1.jpg","Tory kolejowe z Sieniawy" %}  
+{% photo "IMGP7032raw1.jpg","Tory kolejowe z Sieniawy" %}
 
 W [Sieniawie][wiki-sieniawa] widziałem tory kolejowe. Są one używane do
 tylko jakieś kopalni.

@@ -16,6 +16,7 @@ lands:                  [pojezierze_mazurskie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-07-27-pociagiem-do-lidzbarku.json"
 coords_type:            "train"
+map_zooms:              10
 distance:               198
 time_spent:             6
 elevation:              

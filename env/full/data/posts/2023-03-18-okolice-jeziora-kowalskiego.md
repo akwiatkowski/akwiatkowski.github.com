@@ -16,6 +16,7 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2023-03-18-okolice-jeziora-kowalskiego.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               42
 time_spent:             5
 elevation:              229

@@ -15,6 +15,7 @@ towns:                  [lubuskie, lubniewice]
 coords:                 [{"route": [[52.51030,15.23331], [52.50905,15.24009], [52.51531,15.24859], [52.51709,15.24636]], "type": "hike"}]
 coords_file:            "2019-06-01-male-labedzie-w-lubniewicach.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               11
 time_spent:             4
 elevation:              39

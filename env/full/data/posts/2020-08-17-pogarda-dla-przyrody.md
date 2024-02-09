@@ -17,6 +17,7 @@ lands:                  [beskid_niski, pogorze_beskidzkie]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-17-pogarda-dla-przyrody.json"
 coords_type:            "hike"
+map_zooms:              16
 distance:               4
 time_spent:             6
 elevation:              

@@ -15,9 +15,10 @@ lands:                  [gory_kaczawskie]
 coords:                 [{"route": [[50.93329,15.68567], [50.93513,15.68490], [50.94511,15.69546], [50.95168,15.68353], [50.96454,15.67627], [50.96630,15.67331], [50.96568,15.65752], [50.96854,15.65421]], "type": "hike"}]
 coords_file:            "2017-10-17-jesienne-pilchowice.json"
 coords_type:            "hike"
+map_zooms:              14
 distance:               15
 time_spent:             5
-elevation:              216  
+elevation:              216
 
 pois:
 

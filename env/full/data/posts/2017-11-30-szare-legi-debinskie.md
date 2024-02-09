@@ -12,6 +12,7 @@ tags:                   [photo, main]
 towns:                  [wielkopolskie, poznan]
 
 coords:                 [{"route": [[52.36963,16.91838], [52.36382,16.91374]], "type": "hike"}]
+# TODO: add way to disable
 distance:               2
 time_spent:             1
 

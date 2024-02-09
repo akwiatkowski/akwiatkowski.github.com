@@ -14,8 +14,9 @@ tags:                   [bicycle, todo]
 towns:                  [wielkopolskie, skoki, kiszkowo, lubowo]
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2023-06-25-szukajac-pofalowanych-pol.json"
+coords_type:            "bicycle"
+map_zooms:              12
 distance:               37
 time_spent:             3
 elevation:              149

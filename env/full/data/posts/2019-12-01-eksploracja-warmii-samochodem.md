@@ -14,8 +14,9 @@ towns:                  [kujawsko_pomorskie, warminsko_mazurskie, wielka_nieszaw
 
 coords:                 [{"route": [], "type": "car"}]
 # 37kB json is quite big
-#coords_file:            "2019-12-01-eksploracja-warmii-samochodem.json"
-#coords_type:            "car"
+coords_file:            "2019-12-01-eksploracja-warmii-samochodem.json"
+coords_type:            "car"
+map_zooms:              8
 distance:               806 # 315 + 161 + 330
 time_spent:             22 # 7 + 7 + 8
 elevation:              

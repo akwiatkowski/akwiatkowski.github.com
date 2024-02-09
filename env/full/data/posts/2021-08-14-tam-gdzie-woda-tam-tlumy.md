@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, lipno, smigiel, wloszakowice, wijewo, pr
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-08-14-tam-gdzie-woda-tam-tlumy.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               83 # 17 + 37 + 29
 time_spent:             10 # 2 + 4 + 4
 elevation:              296 # 49 + 123 + 124

@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, kujawsko_pomorskie, skoki, miescisko, ja
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-05-14-okolice-welny-z-wiatrem.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               70
 time_spent:             5
 elevation:              322

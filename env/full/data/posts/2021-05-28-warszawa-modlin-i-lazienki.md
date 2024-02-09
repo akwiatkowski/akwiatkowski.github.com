@@ -14,8 +14,9 @@ tags:                   [hike, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-#coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
-#coords_type:            "bicycle"
+coords_file:            "2021-05-28-warszawa-modlin-i-lazienki.json"
+coords_type:            "bicycle"
+map_zooms:              16
 distance:               
 time_spent:             
 elevation:              

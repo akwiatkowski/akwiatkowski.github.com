@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, murowana_goslina, oborniki, rogozno, ryc
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego.json"
 coords_type:            "bicycle"
+map_zooms:              12
 distance:               46 # 42 + 4
 time_spent:             3 # 3
 elevation:              163 # 154 + 9

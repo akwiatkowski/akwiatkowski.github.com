@@ -16,6 +16,7 @@ towns:                  [wielkopolskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-05-28-cieply-poranek.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               55
 time_spent:             4
 elevation:              161

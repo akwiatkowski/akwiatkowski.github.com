@@ -16,6 +16,7 @@ lands:                  [beskid_niski]
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2020-08-21-mgly-nad-rzepedzia.json"
 coords_type:            "hike"
+# TODO: maybe I should disable map here or add big margin
 distance:               1
 time_spent:             2
 elevation:              20

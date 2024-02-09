@@ -15,6 +15,7 @@ towns:                  [wielkopolskie, skoki, rogozno, murowana_goslina]
 coords:                 [{"route": [[52.67130,17.16058], [52.71406,17.09415], [52.69414,17.07063], [52.67072,17.06153], [52.66947,17.02754], [52.64094,17.03527], [52.63375,17.10685], [52.61291,17.09312]], "type": "bicycle"}]
 coords_file:            "2019-04-06-zachodnie-okolice-skokow.json"
 coords_type:            "bicycle"
+map_zooms:              13
 distance:               35
 time_spent:             5
 elevation:              166

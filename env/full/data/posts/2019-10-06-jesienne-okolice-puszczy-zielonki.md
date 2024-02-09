@@ -16,6 +16,9 @@ tags:                   [hike, photo, main]
 towns:                  [wielkopolskie, murowana_goslina, czerwonak]
 
 coords:                 [{"route": [], "type": "hike"}]
+coords_file:            "2019-10-06-jesienne-okolice-puszczy-zielonki.json"
+coords_type:            "hike"
+map_zooms:              16
 distance:               6 # 3 + 3
 time_spent:             3 # 2 + 1
 elevation:              48 # 20 + 28

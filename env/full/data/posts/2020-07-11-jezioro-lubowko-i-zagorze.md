@@ -16,6 +16,7 @@ lands:                  [pojezierza_pomorskie]
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2020-07-11-jezioro-lubowko-i-zagorze.json"
 coords_type:            "bicycle"
+map_zooms:              14
 distance:               17
 time_spent:             2
 elevation:              152

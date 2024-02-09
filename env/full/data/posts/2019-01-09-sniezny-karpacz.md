@@ -15,6 +15,7 @@ towns:                  [dolnoslaskie, jelenia_gora, karpacz]
 lands:                  [karkonosze]
 
 coords:                 [{"route": [[50.77559,15.75896], [50.77377,15.73875], [50.77554,15.72694], [50.77828,15.72591]], "type": "hike"}]
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42

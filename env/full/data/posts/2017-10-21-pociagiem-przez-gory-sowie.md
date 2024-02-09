@@ -16,6 +16,7 @@ lands:                  [gory_sowie]
 coords:                 [{"route": [[50.74318,16.28306], [50.71069,16.34451], [50.63476,16.42416], [50.57767,16.50570], [50.54463,16.47652], [50.45138,16.65659]], "type": "train"}]
 coords_file:            "2017-10-21-pociagiem-przez-gory-sowie.json"
 coords_type:            "train"
+map_zooms:              11
 distance:               52
 time_spent:             2
 

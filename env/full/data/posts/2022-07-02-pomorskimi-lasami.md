@@ -16,6 +16,7 @@ towns:                  [zachodnio_pomorskie, ploty, resko, swidwin, slawoborze,
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-07-02-pomorskimi-lasami.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               80
 time_spent:             10
 elevation:              283

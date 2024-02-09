@@ -16,6 +16,7 @@ towns:                  [wielkopolskie, koscian, czempin, krzywin, srem, zaniemy
 coords:                 [{"route": [[52.10980,16.70081], [52.10315,16.72724], [52.07847,16.72570], [52.08470,16.77805], [52.04407,16.87006], [52.08143,16.89598], [52.09103,17.01786], [52.10727,17.04567], [52.11264,17.11691], [52.15553,17.16000], [52.19837,17.19038], [52.21625,17.21974], [52.21236,17.27587], [52.21636,17.27930]], "type": "bicycle"}]
 coords_file:            "2019-07-07-wyjatkowo-zimny-weekend-tego-lata.json"
 coords_type:            "bicycle"
+map_zooms:              11
 distance:               64
 time_spent:             8
 elevation:              195
