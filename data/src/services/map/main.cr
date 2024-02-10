@@ -44,7 +44,11 @@ class Map::Main
 
     # new approach to autozoom
     @autozoom_width : Int32? = nil,
-    @autozoom_height : Int32? = nil
+    @autozoom_height : Int32? = nil,
+
+    # if set use this value and ignore all calculations
+    # used for voivodeship where coords are fixed
+    @fixed_coord_range : CoordRange? = nil
   )
     Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
     # just to make sure log info is rendered
@@ -54,7 +58,10 @@ class Map::Main
     @raster_crop = Crop::RasterCrop.new(type: @coord_crop_type)
     # only used for calculating what part of map is important
     # ex: crop for only route
-    @coord_crop = Crop::CoordCrop.new(type: @coord_crop_type)
+    @coord_crop = Crop::CoordCrop.new(
+      type: @coord_crop_type,
+      fixed_coord_range: @fixed_coord_range
+    )
 
     # select only with geo coords
     photos_w_coords = @photos.select do |photo_entity|

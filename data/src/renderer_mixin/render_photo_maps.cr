@@ -193,7 +193,7 @@ module RendererMixin::RenderPhotoMaps
       url: url_photomap_for_voivodeship_big(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_ZOOM,
       photo_size: Map::DEFAULT_VOIVODESHIP_PHOTO_SIZE,
-      coord_range: voivodeship_coord_range,
+      fixed_coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
     add_photomap_for_voivodeship_big(voivodeship, voivodeship_view)
@@ -204,7 +204,7 @@ module RendererMixin::RenderPhotoMaps
       url: url_photomap_for_voivodeship_small(voivodeship),
       zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
       photo_size: Map::DEFAULT_VOIVODESHIP_SMALL_PHOTO_SIZE,
-      coord_range: voivodeship_coord_range,
+      fixed_coord_range: voivodeship_coord_range,
       post_slugs: post_slugs,
     )
     add_photomap_for_voivodeship_small(voivodeship, voivodeship_small_view)

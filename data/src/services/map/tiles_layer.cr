@@ -252,7 +252,7 @@ class Map::TilesLayer
       y_tile_size: @y_tile_size,
 
       map_height: @map_height,
-      map_width: @map_width,
+      map_width:  @map_width,
 
       x_min: @x_min,
       x_max: @x_max,

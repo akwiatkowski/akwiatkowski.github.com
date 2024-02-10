@@ -38,7 +38,11 @@ class Map::Base
 
     # it's possible to override dimension. ex: small post map
     @custom_width : Int32 | Nil = nil,
-    @custom_height : Int32 | Nil = nil
+    @custom_height : Int32 | Nil = nil,
+
+    # if set use this value and ignore all calculations
+    # used for voivodeship where coords are fixed
+    @fixed_coord_range : CoordRange? = nil
   )
     # if list of post slugs were provided select only for this posts
     if @post_slugs.size > 0
@@ -163,6 +167,8 @@ class Map::Base
 
       custom_width: @custom_width,
       custom_height: @custom_height,
+
+      fixed_coord_range: @fixed_coord_range,
     )
   end
 

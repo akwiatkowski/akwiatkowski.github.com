@@ -1,10 +1,16 @@
 class Map::Crop::CoordCrop
-  def initialize(@type : Map::CoordCropType)
+  def initialize(@type : Map::CoordCropType, @fixed_coord_range : CoordRange?)
     @coord_range = CoordRange.new
   end
 
   def coord_range
-    @coord_range.limit_to_poland
+    if @fixed_coord_range
+      # more important than @coord_range which can be changed
+      # by adding route element or photo
+      @fixed_coord_range.not_nil!.limit_to_poland
+    else
+      @coord_range.limit_to_poland
+    end
   end
 
   # TODO: write method which will crop depending on type

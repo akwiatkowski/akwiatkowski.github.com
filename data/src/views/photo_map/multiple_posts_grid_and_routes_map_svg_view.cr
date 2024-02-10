@@ -8,9 +8,9 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
     @photo_size : Int32,
     @url : String,
     @post_slugs : Array(String),
-    @coord_range : CoordRange,
     @tile : Map::MapTile = Map::MapTile::Ump,
-    @zoom : Int32 = Map::DEFAULT_ZOOM
+    @zoom : Int32 = Map::DEFAULT_ZOOM,
+    @fixed_coord_range : CoordRange? = nil
   )
     @map = Map::Base.new(
       blog: @blog,
@@ -18,8 +18,7 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
       tile: @tile,
       zoom: @zoom,
       post_slugs: @post_slugs,
-      # TODO: how to pass voivodeship
-      # coord_range: @coord_range,
+      fixed_coord_range: @fixed_coord_range,
 
       # just for this kind of map
       type: Map::MapType::PhotoGrid,
