@@ -18,6 +18,9 @@
 /env/full/blog_release
 /env/full/blog
 
+# credentials
+env/full/upload_tiles.sh
+
 /drafts/
 
 # don't want to create tmp file for this
