@@ -57,10 +57,6 @@ Wiele razy pisałem o tym, że poluję na pewnego rodzaju zdjęcie zimowe. Aby z
 to zdjęcie musi spełnić się kilka warunków. Głównym warunkiem jest odpowiednia
 pogoda i zapowiadało się, że właśnie ta niedziela może być odpowiednim dniem.
 
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8295069980"></div><script src="https://strava-embeds.com/embed.js"></script>
-
 ## Szczegóły
 
 {% photo "2022_12_17__20_17_PC172359.jpg","Ośnieżona ul. 1 maja w Jeleniej Górze","tag:city,tag:night" %}

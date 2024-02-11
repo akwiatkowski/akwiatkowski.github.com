@@ -28,13 +28,10 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 9028940467
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9028940467"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
