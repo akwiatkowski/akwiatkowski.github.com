@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               12
 time_spent:             6
+
+strava: 333301390
 ---
 
 [wiki-kamienne]:        https://pl.wikipedia.org/wiki/G%C3%B3ry_Kamienne
@@ -34,11 +36,6 @@ Wstęp
 
 Zakończenie wizyty w [Górach Kamiennych][wiki-kamienne] i jednocześnie poznanie co
 zima robi z małymi górami na własnej skórze.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333301390/embed/c04e7b1d0a865739b1e97c86169729c5d1b98bda'></iframe>
 
 Szczegóły
 ---------

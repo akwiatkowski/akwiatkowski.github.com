@@ -18,8 +18,8 @@ coords_file:            "2022-04-10-pociagiem-do-ciechocinka.json"
 coords_type:            "train"
 distance:               307
 time_spent:             7
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -32,7 +32,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1646764223
 ---
 
 [wiki-przechlewo]: https://pl.wikipedia.org/wiki/Przechlewo
@@ -36,10 +37,6 @@ pois:
 
 Następnego dnia miałem przejazd do [Przechlewa][wiki-przechlewo]. Nie było wolnych hoteli
 w [Chojnicach][wiki-chojnice] dlatego wybrałem nocleg w [Człuchowie][wiki-czluchow].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1646764223/embed/8eef37eef56fad4f5c9257df1c4fe1602e8a3c5c'></iframe>
 
 ## Szczegóły
 

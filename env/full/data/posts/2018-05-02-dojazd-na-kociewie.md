@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1545283677
 ---
 
 [wiki-linia-218]: https://pl.wikipedia.org/wiki/Linia_kolejowa_My%C5%9Blice_%E2%80%93_Szlachta
@@ -52,10 +53,6 @@ pois:
 Tego dnia Maciej musiał już wracać do domu. Postanowiliśmy go odprowadzić i dalej jechać
 w tym samym kierunku - czyli w okolicy linii kolejowej w kierunku do
 [Tczewa][wiki-tczew].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1545283677/embed/c4924e233c2d5d7e6c6438ea22692c218ef60924'></iframe>
 
 ## Szczegóły
 

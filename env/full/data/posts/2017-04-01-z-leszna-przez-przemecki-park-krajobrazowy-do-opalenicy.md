@@ -26,6 +26,7 @@ pois:
     lon: 16.20096
     name: Gościeszyn - wioska po starej posiadłości szlacheckiej
 
+strava: 923598002
 ---
 
 [wiki-leszno]: https://pl.wikipedia.org/wiki/Leszno
@@ -67,11 +68,6 @@ Tego dnia miałem czas na dłuższą trasę. Miałem spore braki w terenach
 na południowy-zachód od Poznania a ciekawił mnie
 [Przemęcki Park Krajobrazowy][wiki-przemecki-park]. Wybór, jak to czasami bywa,
 był prosty.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/923598002/embed/1503b9d4026bc987fef3bde4a7a9d74b1c6d651d'></iframe>
 
 Szczegóły
 ---------

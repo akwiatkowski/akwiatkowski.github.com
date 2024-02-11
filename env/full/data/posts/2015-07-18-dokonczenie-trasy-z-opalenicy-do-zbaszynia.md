@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               64
 time_spent:             7
+strava: 348754063
 ---
 
 [wiki-opalenica]:               https://pl.wikipedia.org/wiki/Opalenica
@@ -54,8 +55,6 @@ Jest to dokończenie trasy [Poznań - Opalenica]({% post_url 2015-06-27-zachod-o
 
 Szczegóły
 ---------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/348754063/embed/a41a7b13f32dbe875d55e72101226fc8e43a26a8'></iframe>
 
 Dojechaliśmy pociągiem TLK do [Opalenicy][wiki-opalenica] około 9-tej. Następnie kierowaliśmy się czerwonym szlakiem rowerowym
 na zachód.

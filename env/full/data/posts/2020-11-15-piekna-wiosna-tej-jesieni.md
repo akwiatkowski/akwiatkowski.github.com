@@ -20,7 +20,7 @@ coords_type:            "car"
 map_zooms:              9
 distance:               100
 time_spent:             2
-elevation:              
+elevation:
 temperature:            12
 
 
@@ -34,7 +34,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2419741447
+
 ---
 
 [wiki-rzepin]: https://pl.wikipedia.org/wiki/Rzepin
@@ -57,10 +59,6 @@ pois:
 Już wcześniej planowałem pojechać pociągiem do [Rzepina][wiki-rzepin] a następnie kierować
 się rowerem w stronę [Skwierzyny][wiki-skwierzyna] albo [Międzyrzecza][wiki-miedzyrzecz].
 Jednak okazja na to pojawiła się dopiero teraz.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2419741447/embed/89ebd640634d900823177043dad1735e88233caa'></iframe>
 
 ## Szczegóły
 

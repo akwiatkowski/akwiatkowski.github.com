@@ -23,6 +23,8 @@ pois:
     name: Zjazd z widokiem na Zieloną Górą z wioski Letnica w kierunku Buchałowa.
 
 
+strava: 671669007
+
 ---
 
 {% photo_header "Droga do Gryfowa Śląskiego","" %}
@@ -47,11 +49,6 @@ Przeanalizowałem gdzie mógłbym wysiąść. Myślałem o [Nowogrodzie Bobrzań
 tylko że wtedy musiałbym jechać około 30km. A co jakbym złapał gumę i spóźniłbym się na
 pociąg? Wersją lżejszą było wysiąść na stacji w [Koźli][wiki-kozla] i tam miałem nieco
 poniżej 20km oraz pewniejszą i spokojniejszą trasę do przebycia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/671669007/embed/239797b88ecd7843eea797980fde44e9c9890dbc'></iframe>
 
 Szczegóły
 ---------

@@ -33,6 +33,7 @@ pois:
     lon: 17.38856
     name: Punkt widokowy w Grabownicy
 
+strava: 953297598
 ---
 
 [wiki-dolina-baryczy]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
@@ -60,11 +61,6 @@ podzielić na eksplorację części wschodnie i zachodniej tego rejonu.
 
 Część wschodnia to głównie okolice [Milicza][wiki-milicz] i to był to nasz cel
 tego dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/953297598/embed/8f28fd04ac1a08898de92e8bb9828231e351e826'></iframe>
 
 Szczegóły
 ---------

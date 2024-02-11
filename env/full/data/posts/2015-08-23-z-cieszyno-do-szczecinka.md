@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               73
 time_spent:             8
+strava: 375949214
 ---
 
 [wiki-rebusz]:          https://pl.wikipedia.org/wiki/R%C4%99busz
@@ -56,11 +57,6 @@ Wstęp
 -----
 
 Drugi dzień mojej przejażdzki po [Drawskim Parku Krajobrazowym][wiki-dpk].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/375949214/embed/5589bc0885eaf1d199fed79d9531aedcbfd77195'></iframe>
 
 Szczegóły
 ---------

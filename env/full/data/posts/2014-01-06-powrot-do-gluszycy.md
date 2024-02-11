@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               9
 time_spent:             3
+strava: 334940493
 ---
 
 [wiki-gss]:             https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
@@ -29,11 +30,6 @@ Musieliśmy dostać się do miejsca, gdzie zaparkowaliśmy samochód. Jednocześ
 fajnie by było dotrzeć tam inną drogą.
 
 Szczegóły
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334940493/embed/921f22bc06ce3b221774a94fa6908030eafbe1e5'></iframe>
-
-Opis trasy
 ----------
 
 Ruszyliśmy podobnie jak drugiego dnia, tylko odwrotnie. Nie poszliśmy szlakiem

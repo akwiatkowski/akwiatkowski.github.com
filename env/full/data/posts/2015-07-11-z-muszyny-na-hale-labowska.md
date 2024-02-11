@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               22
 time_spent:             8
+strava: 346183284
 ---
 
 [wiki-muszyna]:         https://pl.wikipedia.org/wiki/Muszyna
@@ -34,8 +35,6 @@ Pierwszy dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadec
 
 Szczegóły
 ---------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346183284/embed/926ca2b771ca87dbd178ef7f3944c436c43ab6c9'></iframe>
 
 Wyrusziliśmy pociągiem przed 20-tą w Poznaniu, niecałe dwie godziny później przesiadka w Kutnie i 10 godzin w pociągu do
 [Muszyny][wiki-muszyna]. Odzwyczaiłem się i tyle godzin w pociągu spędzać nie było to dla mnie łatwe.

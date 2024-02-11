@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2630778777
+
 ---
 
 [wiki-olomuniec]: https://pl.wikipedia.org/wiki/O%C5%82omuniec
@@ -42,10 +44,6 @@ pois:
 po [Pradze][wiki-praga] jeżeli chodzi o zabytki (tak gdzieś słyszałem, mogę się mylić).
 Zabytki nie są dla mnie istotne ale skoro jesteśmy w tej miejscowości i mamy
 trochę czasu to warto się rozejrzeć i ocenić z własnej perspektywy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2630778777/embed/2c05c58c07e218e294e6b56c63c85d47fd068bae'></iframe>
 
 ## Szczegóły
 

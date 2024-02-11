@@ -20,7 +20,7 @@ map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              42
-temperature:            
+temperature:
 
 
 pois:
@@ -41,8 +41,6 @@ o tyle przyjście zimy jest zjawiskiem rzadkim.
 I tak akurat zima przyszła ponownie, tym razem z szansą na ujemne temperatury
 i niebo z małą ilością chmur. Ja niestety miałem wtedy inne plany i
 oczywiście byłem, delikatnie mówiąc, niezadowolony.
-
-## Opis trasy
 
 ## Szczegóły
 

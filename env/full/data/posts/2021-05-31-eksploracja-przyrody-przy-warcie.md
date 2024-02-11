@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5390541506
+
 ---
 
 [lista-wazek]: https://wazki.pl/lista_wazek_zdjecia.html
@@ -51,10 +53,6 @@ Przypomniał mi się most nad rzeką [Wartą][wiki-warta] w okolicy
 wczesną wiosną 2017 roku.
 
 {% photo "2021_05_31__17_03__5317986.jpg","Kot zmęczony życiem","tag:cat" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5390541506/embed/3b1396268e96c4aa3596ed8346a2937823429176'></iframe>
 
 ## Szczegóły
 

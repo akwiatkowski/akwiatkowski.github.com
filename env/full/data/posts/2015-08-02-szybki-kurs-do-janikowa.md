@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               18
 time_spent:             1
+strava: 359583873
 ---
 
 [vimeo]:                 https://vimeo.com/136709850
@@ -35,11 +36,6 @@ Wstęp
 
 Musiałem wrócić do [Poznania][wiki-poznan] dlatego wyruszyłem do [Janikowa][wiki-janikowo]
 na dworzec kolejowy.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/359583873/embed/b1e72b19e86511a10c29ac8e4b0ac502008edd81'></iframe>
 
 Szczegóły
 ---------

@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3855292401
+
 ---
 
 [wiki-lubuskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_lubuskie
@@ -54,10 +56,6 @@ województwo [lubuskie][wiki-lubuskie], a dokładniej miejsca do których dojazd
 koleją jest bardzo prosty.
 
 {% photo "2020_08_01__08_40__8016735.jpg","Jezus nad Świebodzinem" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3855292401/embed/eff14ba3403952c4fe275f69af9596c64b39852a'></iframe>
 
 ## Szczegóły
 

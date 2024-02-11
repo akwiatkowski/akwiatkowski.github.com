@@ -23,6 +23,7 @@ elevation:              589
 
 pois:
 
+strava: 1133658050
 ---
 
 [wiki-drawsko-pomorskie]: https://pl.wikipedia.org/wiki/Drawsko_Pomorskie
@@ -62,11 +63,6 @@ przez te dwa dni.
 Nie mieliśmy czasu aby zorganizować nocleg dlatego zakładaliśmy ewentualność powrotu
 tego samego dnia. Z tego powodu wziąłem tylko jedną sakwę ze sobą i spakowałem się
 minimalnie.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1133658050/embed/5b7709b6099e830edafd8f5390a4b7d1046b44dc'></iframe>
 
 Szczegóły
 ---------

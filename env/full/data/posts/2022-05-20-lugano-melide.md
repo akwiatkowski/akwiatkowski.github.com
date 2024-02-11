@@ -14,10 +14,10 @@ tags:                   [bus, main]
 towns:                  [szwajcaria, wlochy]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -25,6 +25,9 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava:
+  Campedello: https://www.strava.com/activities/7188356830
 
 ---
 

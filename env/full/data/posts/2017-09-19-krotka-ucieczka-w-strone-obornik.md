@@ -27,7 +27,7 @@ pois:
     lon: 16.76550
     name: Widok na jeziora niedaleko Objezierza
 
-
+strava: 1179175484
 ---
 
 
@@ -49,11 +49,6 @@ Wstęp
 
 Wrześniowa pogoda bardzo zniechęcała mnie do jeżdzenia. Od kilku dni wyjątkowo
 była ona na tyle dobra, że trudno nie było sobie zrobić chwily przerwy w środku dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1179175484/embed/0e24c183987c1cf44cb33be6066a782504bc2578'></iframe>
 
 Szczegóły
 ---------

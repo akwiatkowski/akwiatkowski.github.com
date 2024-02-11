@@ -22,6 +22,8 @@ pois:
     lon: 14.12282
     name: Punkt widokowy na okoliczne jeziora obok Neu Sallenthin.
 
+strava: 716965794
+
 ---
 
 [wiki-ahlbeck]: https://pl.wikipedia.org/wiki/Ahlbeck_(Heringsdorf)
@@ -45,15 +47,8 @@ Już wcześniej słyszałem wiele dobrego o szlaku rowerowym do [Niemiec][wiki-n
 Będąc w [Świnoujściu][wiki-swinoujscie] kierunek na zachód był prawie oczywisty.
 Z tego powodu pierwszego dnia wyruszyliśmy przekonać się jak tam jest.
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/716965794/embed/f786bf86908a11bcc7974b2971674c43c8c084b6'></iframe>
-
 Szczegóły
 ---------
-
-
 
 Ruszyliśmy ulicą Uzdrowiskową kierując się na zachód. Jest to w pewnym sensie
 główna ulica w tym mieście, jest blisko morza i większość gastronomii tam

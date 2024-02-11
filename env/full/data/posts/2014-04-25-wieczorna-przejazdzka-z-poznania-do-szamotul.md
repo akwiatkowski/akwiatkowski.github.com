@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               35
 time_spent:             2
+strava: 137161588
 ---
 
 [wiki-sobota]:            https://pl.wikipedia.org/wiki/Sobota_(wojew%C3%B3dztwo_wielkopolskie)
@@ -36,11 +37,6 @@ Wstęp
 
 To akurat był impuls - miałem chwilę, utworzyłem trasę na szybko, a ciekawiło mnie
 jak wygląda szlak za [Sobotą][wiki-sobota].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137161588/embed/f46bb80dc0e4f504d2388a13d8df188a6137f261'></iframe>
 
 Szczegóły
 ---------

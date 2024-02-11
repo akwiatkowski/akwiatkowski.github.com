@@ -14,13 +14,19 @@ tags:                   [bus, main]
 towns:                  [szwajcaria]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
+
+strava:
+  Zurych: https://www.strava.com/activities/7188284674
+  Bern: https://www.strava.com/activities/7188295505
+  Interlaken (wczesne): https://www.strava.com/activities/7185640037
+  Interlaken (wieczór): https://www.strava.com/activities/7188297669
 
 ---
 

@@ -15,6 +15,7 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               23
 time_spent:             8
+strava: 277384572
 ---
 
 [wiki-beskid-maly]:             https://pl.wikipedia.org/wiki/Beskid_Ma%C5%82y
@@ -35,11 +36,6 @@ Wstęp
 -----
 
 Kontynuacja pierwszej wizyty w [Beskidzie Małym][wiki-beskid-maly].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/277384572/embed/39bc191ee02ccf30349618078e3e93bcd67ffb3a'></iframe>
 
 Szczegóły
 ---------

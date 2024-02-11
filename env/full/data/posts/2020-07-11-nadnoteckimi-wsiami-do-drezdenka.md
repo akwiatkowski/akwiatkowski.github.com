@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3753177090
+
 ---
 
 [wiki-linia-410]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_410
@@ -50,10 +52,6 @@ Było to związane z dobrym połączeniem kolejowym, dostępnym noclegiem oraz (
 bardzo ciekawymi terenami, które chciałem jeszcze raz zobaczyć.
 
 {% photo "2020_07_11__09_54__7110292.jpg","Zabytkowy most nad Notecią" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3753177090/embed/17f2af1b1e7704fef6217101d9f82cbd78d0a0a1'></iframe>
 
 ## Szczegóły
 

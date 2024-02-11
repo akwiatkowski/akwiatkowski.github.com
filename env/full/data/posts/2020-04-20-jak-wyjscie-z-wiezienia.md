@@ -20,7 +20,7 @@ map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42
-temperature:            
+temperature:
 
 
 pois:
@@ -36,7 +36,5 @@ pois:
 
 Polski rząd próbował różnych metod aby walczyć z pandemią. Jednym z nich było
 zamknięcie
-
-## Opis trasy
 
 ## Szczegóły

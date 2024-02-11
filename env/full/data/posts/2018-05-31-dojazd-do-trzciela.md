@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1616515059
 ---
 
 [wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
@@ -46,10 +47,6 @@ stopniowo narastające upały. Podczas Bożego Ciała upały również miały ni
 
 Ciekawiły mnie okolice [Międzyrzecza][wiki-miedzyrzecz] a dojazd pociągiem
 do [Zbąszynia][wiki-zbaszyn] jest bardzo sprawny.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1616515059/embed/768b0850ed4ced59fde0740c1b19c40c84af7d95'></iframe>
 
 ## Szczegóły
 

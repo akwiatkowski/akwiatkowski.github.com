@@ -17,6 +17,4 @@ towns:                  []
 
 ## Wstęp
 
-## Opis trasy
-
 ## Szczegóły

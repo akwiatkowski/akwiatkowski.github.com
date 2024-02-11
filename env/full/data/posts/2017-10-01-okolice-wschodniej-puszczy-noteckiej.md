@@ -21,7 +21,7 @@ elevation:              152
 
 pois:
 
-
+strava: 1210392971
 ---
 
 [wiki-oborniki]: https://pl.wikipedia.org/wiki/Oborniki
@@ -48,11 +48,6 @@ Wrześniowa pogoda nie sprzyjała jeżdzeniu rowerem. Pod koniec września pojaw
 kilka dobrych dni, które chciałem wykorzystać. Jak na złość nie miałem wtedy czasu.
 Dopiero tego dnia zarezerwowałem czas na jeżdzenie, jednak przeziębienie zmusiło
 mnie aby ograniczyć tą trasę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1210392971/embed/3ba7b4f856b3b60f45c37802811a2010fd18bced'></iframe>
 
 Szczegóły
 ---------

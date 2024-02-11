@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6436561512
+
 ---
 
 {% photo_header "Zima w Dusznie","tag:sunrise,tag:winter,tag:best,tag:good" %}
@@ -49,10 +51,6 @@ Utrudniło mi to idealne wykorzystanie takiej okazji, jednak mając jeszcze woln
 w poniedziałek postanowiłem wyruszyć na spacer.
 
 {% photo "2021_12_27__12_29_DSC04141.jpg","Okolice Imielenka","tag:winter" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6436561512/embed/4f74dc6dd04f8846f2075280591a86173c34deef'></iframe>
 
 ## Szczegóły
 

@@ -29,6 +29,8 @@ pois:
     name: Mała wieża obserwacyjny niedaleko Rąbinia/Turewa/Rogaczewa Wielkiego
     type: visited
 
+strava: 2512897565
+
 ---
 
 [wiki-czempin]: https://pl.wikipedia.org/wiki/Czempi%C5%84
@@ -58,10 +60,6 @@ pois:
 
 Miałem do zaplanowania na ten dzień spokojną, nie za długą trasę rowerową.
 Ostatecznie wyszło trochę inaczej i do przejechania mieliśmy więcej kilometrów.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2512897565/embed/2e61bf77790bf7a344bca92cc057172771ad5752'></iframe>
 
 ## Szczegóły
 

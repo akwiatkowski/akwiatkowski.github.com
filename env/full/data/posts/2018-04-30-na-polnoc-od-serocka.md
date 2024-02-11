@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1541085954
 ---
 
 [wiki-linia-240]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_240
@@ -70,10 +71,6 @@ W poniedziałek 30 kwietnia mieliśmy dość sensowne połączenie w stronę
 [Bydgoszczy][wiki-bydgoszcz], z którego warto było skorzystać.
 Postanowiliśmy pojechać pociągiem do [Serocka][wiki-serock] a następnie
 wracać rowerami do bazy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1541085954/embed/3e2fa32a021ef6250dbacb5918292dbae3018f68'></iframe>
 
 ## Szczegóły
 

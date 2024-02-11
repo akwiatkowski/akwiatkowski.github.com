@@ -24,6 +24,8 @@ temperature:            27
 
 pois:
 
+strava:
+  - https://www.strava.com/activities/7520475571
 
 ---
 
@@ -51,10 +53,6 @@ aby wykorzystać go lepiej. Jak to zwykle bywa pojawiły się problemy.
 Zmieniając pracę nie bardzo mogłem wziąć długi urlop, a przez upały i susze
 środowisko było znacznie bardziej suche. Trudniej było wbić się w odpowiednie
 warunki pogodowe.
-
-## Opis trasy
-
-<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7520475571'></div><script src='https://strava-embeds.com/embed.js'></script>
 
 ## Szczegóły
 

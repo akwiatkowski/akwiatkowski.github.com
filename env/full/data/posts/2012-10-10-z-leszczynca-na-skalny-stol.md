@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               20
 time_spent:             8
+
+strava: 333290902
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
@@ -40,11 +42,6 @@ Wstęp
 -----
 
 Ten dzień połączył południowe [Rudawy Janowickie][wiki-rudawy] ze wschodnimi [Karkonoszami][wiki-karkonosze].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333290902/embed/705cde020870b54f9849d8d87b297b5bfa55627b'></iframe>
 
 Szczegóły
 ---------

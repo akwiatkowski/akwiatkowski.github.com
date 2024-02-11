@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               18
 time_spent:             7
+
+strava: 334988270
 ---
 
 [wiki-masyw-snieznika]:         https://pl.wikipedia.org/wiki/Masyw_%C5%9Anie%C5%BCnika
@@ -35,11 +37,6 @@ Wstęp
 -----
 
 W tym dniu chodziliśmy sobie spokojnie po "okolicy" [schroniska][wiki-schronisko]
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334988270/embed/50e8120a12039e866c3b813bcfad74997766c53b'></iframe>
 
 Szczegóły
 ---------

@@ -25,6 +25,8 @@ pois:
     lon: 16.60843
     name: Drąga z Kręgu do Sianowa.
 
+strava: 683662202
+
 ---
 
 {% photo_header "Nad morzem, tuż przed deszczem","tag:water" %}
@@ -62,11 +64,6 @@ Wstęp
 Trasę zaplanowaliśmy korzystając z mapy [UMP][ump]. Wybraliśmy drogi o bardzo małym ruchu
 ograniczając jazdę po drogach gruntowych. Miały być pagórki i dość dobra pogoda bez deszczu.
 Trochę się przeliczyliśmy z drogami oraz z pogodą.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/683662202/embed/4962ecc2df4e2bbfceadbfe671023b8f1340457a'></iframe>
 
 Szczegóły
 ---------

@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               10
 time_spent:             5
+
+strava: 167091753
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -35,11 +37,6 @@ Wstęp
 -----
 
 Przedostatni dzień w [Beskidzie Niskim][wiki-beskid-niski], ale ostatni dzień chodzenia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091753/embed/9db8353c65fb6e436ffbcb44b5dc432ecc1b9622'></iframe>
 
 Szczegóły
 ---------

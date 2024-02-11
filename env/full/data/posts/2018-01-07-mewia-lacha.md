@@ -22,6 +22,7 @@ elevation:              39
 
 pois:
 
+strava: 1354679321
 ---
 
 [prom-wisla]: http://www.promswibno.pl/
@@ -52,11 +53,6 @@ Przez dłuższy czas nie było obiecującej pogody. Interesująca pogoda pojawi�
 tuż przed świętami.
 
 Dopiero teraz pojawiły się dwa dni, podczas których niebo powinno być bezchmurne.
-
-Opis trasy
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1354679321/embed/666582385d1e4a7ca4fece374746a673f172a269'></iframe>
 
 Szczegóły
 ---------

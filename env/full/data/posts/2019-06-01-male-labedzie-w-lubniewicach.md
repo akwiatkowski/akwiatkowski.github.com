@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2419751154
+
 ---
 
 [gaaay]: https://www.youtube.com/watch?v=ajaZ5fHn1Vs
@@ -38,10 +40,6 @@ pois:
 Po wypakowaniu się ruszyliśmy zobaczyć [miasto][wiki-lubniewice]. Okazało się,
 że para łabędzi wybrała jako swój dom okolice naszego noclegu. Będą
 one istotną częścią tego wpisu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2419751154/embed/561112aca6a5f30ae0c9918459a2fd7605e8b1fe'></iframe>
 
 ## Szczegóły
 

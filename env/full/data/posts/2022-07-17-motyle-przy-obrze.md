@@ -29,6 +29,10 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+
+strava:
+  - https://www.strava.com/activities/7485116159
+
 ---
 
 
@@ -36,10 +40,6 @@ pois:
 
 Tego dnia opuszczaliśmy nocleg i obmyśliłem krótszą wycieczkę aby zobaczyć
 okolicę rzeki [Obry][wiki-obra-rzeka].
-
-## Opis trasy
-
-https://www.strava.com/activities/7485116159/analysis
 
 ## Szczegóły
 

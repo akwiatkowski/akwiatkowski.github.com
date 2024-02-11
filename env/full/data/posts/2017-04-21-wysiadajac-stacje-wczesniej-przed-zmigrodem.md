@@ -20,6 +20,7 @@ time_spent:             4
 
 pois:
 
+strava: 951614570
 ---
 
 [wiki-dolina-baryczy]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
@@ -43,11 +44,6 @@ Wstęp
 
 Jest to pierwszy dzień krótkiego wyjazdu w [Dolinę Baryczy][wiki-dolina-baryczy].
 Celem było lekkie zwiedzenie okolicy i obserwacja ptaków.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/951614570/embed/975f630fc7c9c0831030d160ecfba90f129b4286'></iframe>
 
 Szczegóły
 ---------

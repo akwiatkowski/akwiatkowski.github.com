@@ -23,6 +23,7 @@ elevation:              258
 
 pois:
 
+strava: 1120403006
 ---
 
 [wiki-ostrowo]: https://pl.wikipedia.org/wiki/Ostrowo_(wie%C5%9B_w_powiecie_mogile%C5%84skim)
@@ -43,11 +44,6 @@ pois:
 
 Wstęp
 -----
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1120403006/embed/cb1b919945b2454ef643620f876f15f0c4d7574c'></iframe>
 
 Szczegóły
 ---------

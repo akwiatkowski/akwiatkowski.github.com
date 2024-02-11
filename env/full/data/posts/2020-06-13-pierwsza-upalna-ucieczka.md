@@ -28,6 +28,8 @@ pois:
     name: Bardzo ładnie położona wieś Parchlino
     type: visited
 
+strava: 3607353238
+
 ---
 
 [wiki-swidwin]: https://pl.wikipedia.org/wiki/%C5%9Awidwin
@@ -57,10 +59,6 @@ Wiedziałem, że tego dnia będzie cieplej niż dzień wcześniej. Musieliśmy
 jakoś wydostać się z tych przepięknych terenów. Początkowo planowałem
 dostać się do stacji kolejowej w [Świdwinie][wiki-swidwin] jednak, jak to
 zwykle bywa, realizacja różni się od planu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3607353238/embed/b140f936f3a1026a805155035a0ce0dc65b16b15'></iframe>
 
 ## Szczegóły
 

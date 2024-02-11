@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               22
 time_spent:             7
+strava: 462835186
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity
@@ -37,11 +38,6 @@ Wstęp
 Prognoza pogody pokazywała mocne opady śniegu dnia następnego, dlatego korzystając
 z dobrej widoczności wyruszyliśmy na najwyższą górę [Gorców][wiki-gorce] -
 [Turbacz][wiki-turbacz].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/462835186/embed/f4b38304b7831d6680383dcaf737a20e04c33f87'></iframe>
 
 Szczegóły
 ---------

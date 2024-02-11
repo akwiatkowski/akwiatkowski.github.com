@@ -19,13 +19,15 @@ map_zooms:              16
 distance:               4
 time_spent:             2
 elevation:              42
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2790197426
 
 ---
 
@@ -45,10 +47,6 @@ pois:
 
 Kolejny raz będąc w [Jeleniej Górze][wiki-jelenia-gora] nie mogłem nie wybrać się na punkt
 widokowy na [Sokoliku][wiki-sokolik]. W końcu jest to moja nowa jesienna tradycja.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2790197426/embed/9e972971a28d6cfee67031917ce1fe0256c6857e'></iframe>
 
 ## Szczegóły
 

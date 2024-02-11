@@ -28,6 +28,8 @@ pois:
     lon: 15.49510
     name: Rezerwat Źródliskowe Zbocza oraz Iński Park Krajobrazowy
 
+strava: 2532548766
+
 ---
 
 [wiki-inski-park]: https://pl.wikipedia.org/wiki/I%C5%84ski_Park_Krajobrazowy
@@ -55,10 +57,6 @@ pois:
 
 Trasa tego dnia była obiektem zażartej dyskusji. Michał wolał jechać dobrymi
 drogami asfaltowymi, ja raczej przez spokojne klimatyczne miejscowości.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2532548766/embed/91b9230cc86ec4633598f09268fa64023af89d11'></iframe>
 
 ## Szczegóły
 

@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               11
 time_spent:             6
+
+strava: 333310185
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
@@ -32,11 +34,6 @@ Wstęp
 -----
 
 Kontynuacja [Głównego Szlaku Sudeckiego][wiki-gss], z której nie ma czym się chwalić.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333310185/embed/67bd1cb59abbfc530bf8bc877d2c4ca46388e1aa'></iframe>
 
 Szczegóły
 ---------

@@ -20,7 +20,7 @@ map_zooms:              11
 distance:               98 # 75 + 23
 time_spent:             10 # 7 + 3
 elevation:              678 # 517 + 161
-temperature:            
+temperature:
 
 
 pois:
@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3573880630
 
 ---
 
@@ -74,10 +76,6 @@ pois:
 Tego dnia powinniśmy zgodnie z wiatrem jechać na północ gdzieś w okolice
 [Ostródy][wiki-ostroda]. Gdybyśmy chcieli szybko wracać to byłaby idealna opcja
 jednak w planie mieliśmy jeszcze jeden krótki dzień.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3573880630/embed/ebcc9a2f60ab9c441486c6392702b20c60f0d3b5'></iframe>
 
 ## Szczegóły
 

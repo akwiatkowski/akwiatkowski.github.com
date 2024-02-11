@@ -22,7 +22,7 @@ elevation:              210
 
 pois:
 
-
+strava: 1100922367
 ---
 
 [wiki-beskid-niski]: https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -38,14 +38,8 @@ Wstęp
 Pogoda się popsuła podczas drugiego dnia wyjazdu w [Beskid Niski][wiki-beskid-niski].
 Nie przeszkodziło to nam w wyjściu i przejechaniu chociaż krótkiej trasy.
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1100922367/embed/18a76aac9114c211210746b9381199c58d211949'></iframe>
-
 Szczegóły
 ---------
-
 
 Rano podjechaliśmy do [Wysowej Zdrój][wiki-wysowa] zobaczyć park zdrojowy.
 Przed powrotem udaliśmy się do [restauracji Gościnna Chata][goscinna-chata].

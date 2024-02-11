@@ -29,7 +29,7 @@ pois:
     lon: 16.81689
     name: Jezioro Kociołek i opuszczona ostatnia stacja kolei. Spore różnice wysokości.
 
-
+strava: 571687820
 ---
 
 [wiki-bagno-debienko]:      https://pl.wikipedia.org/wiki/Obszar_ochrony_%C5%9Bcis%C5%82ej_Bagno_D%C4%99bienko
@@ -48,11 +48,6 @@ Wstęp
 przejechałem przez [Wielkopolski Park Narodowy][wiki-wpn].
 Następnym razem chciałem móc dokładniej zwiedzić te tereny - zrobić to pieszo,
 oczywiście wybierając inną trasę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/571687820/embed/282faae63392e937183f47de1ccb250a0bb5b2bf'></iframe>
 
 Szczegóły
 ---------

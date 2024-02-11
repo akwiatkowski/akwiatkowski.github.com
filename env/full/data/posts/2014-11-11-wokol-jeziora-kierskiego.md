@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               45
 time_spent:             3
+strava: 218101239
 ---
 
 [wiki-jezioro-kierskie]:    https://pl.wikipedia.org/wiki/Jezioro_Kierskie
@@ -26,11 +27,6 @@ Wstęp
 
 Miałem wolny dzień i nie było aż tak zimno, więc przejechałem sobie wokół
 [Jeziora Kierskiego][wiki-jezioro-kierskie].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/218101239/embed/3b532a6e6709ae8b2d4ef5ecbd12850047629bf3'></iframe>
 
 Szczegóły
 ---------

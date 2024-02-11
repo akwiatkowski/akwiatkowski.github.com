@@ -29,6 +29,8 @@ pois:
     name: Okolice Zagórza w Puszczy Noteckiej
     type: visited
 
+strava: 3753188720
+
 ---
 
 [wiki-jezioro-lubowko]: https://pl.wikipedia.org/wiki/Rezerwat_przyrody_Jezioro_%C5%81ub%C3%B3wko
@@ -41,11 +43,6 @@ pois:
 Chciałem zostawić sakwy i jeszcze chwilę pojechać. Na północ jest
 [Rezerwat Jezioro Łubówko][wiki-jezioro-lubowko],
 ciekawie ukształtowany teren i [Zagórze][wiki-zagorze].
-
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="3753188720"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

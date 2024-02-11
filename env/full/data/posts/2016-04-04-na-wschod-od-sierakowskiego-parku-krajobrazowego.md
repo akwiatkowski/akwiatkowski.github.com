@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               60
 time_spent:             5
+strava: 535690866
 
 ---
 
@@ -58,11 +59,6 @@ jednak prognoza pogoda była zbyt obiecująca aby nie wykorzystać takiego dnia.
 Chciałem zobaczyć jak wyglądają tereny na zachód od [Wronek][wiki-wronki] i jednocześnie
 sprawdzić czy spokojnie mogę jeździć z małym laptopem, który znacząco może mi ułatwić
 kryzysowe sytuacje w pracy.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/535690866/embed/3c303f4deab7b5575cbbeba9a939dcb4d2657e07'></iframe>
 
 Szczegóły
 ---------

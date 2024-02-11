@@ -28,6 +28,9 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava:
+  - 1760986423
+  - 1760995354
 ---
 
 [wiki-osowiec]: https://pl.wikipedia.org/wiki/Osowiec-Twierdza
@@ -43,14 +46,6 @@ pois:
 Tego dnia planowałem ruszyć w stronę [Osowca][wiki-osowiec] a później podjechać
 do [Grajewa][wiki-grajewo], a może nawet do [Ełku][wiki-elk].
 Plany pokazało słabość w zdolności do oceny swoich możliwości.
-
-## Opis trasy
-
-<!--
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1760986423/embed/1b23a9911b302e01d5d1d1c9dbc5a17cdebb8f1c'></iframe>
--->
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1760995354/embed/ec78cd2092b70204f0b90771b8039fa817268239'></iframe>
 
 ## Szczegóły
 

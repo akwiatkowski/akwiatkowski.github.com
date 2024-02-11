@@ -17,16 +17,11 @@ temperature:            -13
 
 
 pois:
-#  - lat: 54.45911
-#    lon: 18.56281
-#    name: POI
-#    type: todo / visited
+
 
 ---
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

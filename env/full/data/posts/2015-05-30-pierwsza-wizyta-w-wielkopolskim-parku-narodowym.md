@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               40
 time_spent:             4
+strava: 315561021
 ---
 
 [vimeo-1]:               https://vimeo.com/129466705
@@ -35,11 +36,6 @@ Wstęp
 
 Bardzo mało terenów na południu Poznania udało mi się zobaczyć, jak również nigdy nie miałem
 okazji być w [Wielkopolskim Parku Narodowym][wiki-wpn].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/315561021/embed/46c460737d1c756a05f2acf8f3a4d81b4025fbf6'></iframe>
 
 Szczegóły
 ---------

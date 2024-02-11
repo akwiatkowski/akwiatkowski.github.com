@@ -21,7 +21,7 @@ time_spent:             5
 elevation:              100
 pois:
 
-
+strava: 1247411452
 ---
 
 [wiki-kamieniec-zabkowicki]: https://pl.wikipedia.org/wiki/Kamieniec_Z%C4%85bkowicki
@@ -47,11 +47,6 @@ pojawił się spontanicznie gdy
 Zamiast iść pieszo wzdłuż linii kolejowej i wrócić pociągiem postanowiliśmy, że
 warto by było zobaczyć [pałac][wiki-zabkowice-palac], który tak dobrze widać
 jadąc pociagiem.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1247411452/embed/92553093a09d32a358bab70537d9fe8b404488ce'></iframe>
 
 Szczegóły
 ---------

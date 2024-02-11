@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1447582801
 ---
 
 [sciezka-rowerowa]: http://www.gloswielkopolski.pl/artykul/3728048,wybuduja-sciezke-rowerowa-z-radojewa-do-biedruska,id,t.html
@@ -46,10 +47,6 @@ pois:
 W zimie nie jeżdzę rowerem. Nie lubię jeździć gdy jest szaro i zimno. Czułem
 się trochę "zastany" dlatego wiedziałem, że do nowego sezonu rowerowego
 będę musiał się przygotować stopniowo (lecz szybko).
-
-## Opis trasy
-
-{% strava_iframe "1447582801","a9a8eabcc58a0745e155869745a86433bfa8b5d6" %}
 
 ## Szczegóły
 

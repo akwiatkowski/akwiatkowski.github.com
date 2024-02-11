@@ -30,6 +30,11 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+
+strava:
+  - https://www.strava.com/activities/8043109869
+
+
 ---
 
 [wiki-rezerwat-zgierzynieckim]: https://pl.wikipedia.org/wiki/Rezerwat_na_Jeziorze_Zgierzynieckim_im._Boles%C5%82awa_Papi
@@ -57,12 +62,6 @@ pois:
 
 Dlaczego pojechałem? Bo była stosunkowa dobra pogoda i chciałem zobaczyć trochę jesieni.
 I sprawdzić czy rower jest dobrym środkiem transportu na jesienne zwiedzanie.
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8043109869"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-<!-- https://www.strava.com/activities/8043109869 -->
 
 ## Szczegóły
 

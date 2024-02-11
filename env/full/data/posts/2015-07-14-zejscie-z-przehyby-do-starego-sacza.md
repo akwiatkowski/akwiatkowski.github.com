@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               16
 time_spent:             6
+strava: 346184527
 ---
 
 [wiki-beskid-sadecki]:  https://pl.wikipedia.org/wiki/Beskid_S%C4%85decki
@@ -26,11 +27,6 @@ Wstęp
 -----
 
 Czwarty, ostatni dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346184527/embed/9b8ce85b229577b31db2218c131458877c535e47'></iframe>
 
 Szczegóły
 ---------

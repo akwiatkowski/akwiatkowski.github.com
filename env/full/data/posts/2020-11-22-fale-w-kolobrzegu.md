@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4400855544
+
 ---
 
 
@@ -37,9 +39,5 @@ pois:
 
 To był zaplanowany już trochę wcześniej spokojny wyjazd do [Kołobrzegu][wiki-kolobrzeg].
 Sądziłem, że przez te kilka dni powinna trafić się odpowiednia pogoda.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4400855544/embed/7c1ad223f227ee528f3e1d47f99eca5260bd280d'></iframe>
 
 ## Szczegóły

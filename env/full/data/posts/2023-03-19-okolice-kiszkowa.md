@@ -14,10 +14,10 @@ tags:                   [air, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
+distance:
 time_spent:             3
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -27,7 +27,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

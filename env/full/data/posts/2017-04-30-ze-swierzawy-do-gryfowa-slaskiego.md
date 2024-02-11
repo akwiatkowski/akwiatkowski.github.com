@@ -32,7 +32,7 @@ pois:
     lon: 15.61583
     name: Ciekawe skrzyżowanie bezkolizyjne między Golejowem a Marczowem
 
-
+strava: 964997664
 ---
 
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
@@ -77,11 +77,6 @@ Zorganizowanie majówki było znacznie trudniejsze w tym roku. Musiałem być
 [przejechać pociągiem TurKolu]({% post_url 2017-05-02-pociagiem-pierscien-i-granica %}).
 Miałem również trochę problemów z określeniem listy uczestników gdyż prognoza pogody
 nie była zbyt optymistyczna.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/964997664/embed/1ba703295a129f8a3405a0564c0f0d301c368a5d'></iframe>
 
 Dojazd
 -----

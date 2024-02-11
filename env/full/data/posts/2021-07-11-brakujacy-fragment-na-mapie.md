@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5611983963
+
 ---
 
 
@@ -37,10 +39,6 @@ pois:
 Jakoś nigdy nie było mi po drodze w okolicy [Poznania][wiki-poznan]
 na wschód (kierunek [Swarzędz][wiki-swarzedz] i [Września][wiki-wrzesnia]).
 Dlatego mając taką dziurę na mapie postanowiłem się tam wybrać.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5611983963/embed/237d299da9da67013fa383b66412d7c5db5a3ba8'></iframe>
 
 ## Szczegóły
 

@@ -20,7 +20,7 @@ time_spent:             2
 
 pois:
 
-
+strava: 1090067631
 ---
 
 [wiki-murowana-goslina]: https://pl.wikipedia.org/wiki/Murowana_Go%C5%9Blina
@@ -41,11 +41,6 @@ na etapie sprawdzania czy nowe siodełko jest dla mnie wystarczająco dobre.
 
 Postanowiłem tym razem ruszyć w stronę [Murowanej Gośliny][wiki-murowana-goslina]
 a dalej "to się zobaczy".
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1090067631/embed/8e64107f57ad6da61e2e2fa58bd2ed8fb30b5347'></iframe>
 
 Szczegóły
 ---------

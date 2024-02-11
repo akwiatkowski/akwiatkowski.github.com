@@ -34,6 +34,8 @@ pois:
     lon: 17.85953
     name: Ciekawa terenowa trasa pieszo-rowerowa, zjazd z Wieńca
 
+strava: 2571394574
+
 ---
 
 [wiki-jezioro-paledzie]: https://pl.wikipedia.org/wiki/Jezioro_Pal%C4%99dzie
@@ -60,10 +62,6 @@ pois:
 Chciałem zobaczyć rowerem jakieś ciekawe okolice z dużą ilością jezior.
 Te kryteria nie są niczym oryginalnym ale istniejące zawsze ograniczenia
 powodują, że wybór nie ma prostego wyboru.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2571394574/embed/692ab4e1492f61a1bfe50d9e3aef41bab9fdb972'></iframe>
 
 ## Szczegóły
 

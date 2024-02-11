@@ -17,6 +17,8 @@ map_zooms:              14
 distance:               3
 time_spent:             2
 
+strava: 833063516
+
 ---
 
 [wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
@@ -40,11 +42,6 @@ Wstęp
 
 Miałem nie tworzyć tego wpisu, ale zrobiłem jedno ładne zdjęcie i chciałem mieć miejsce
 na moje przemyślenia podczas jazdy pociągiem.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/833063516/embed/6504da43b37caabf7da054062bfef720b8dc866b'></iframe>
 
 Szczegóły
 ---------

@@ -17,6 +17,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               74
 time_spent:             8
+strava: 561236172
 
 pois:
   - lat: 50.56939
@@ -58,11 +59,6 @@ Wstęp
 
 Pogoda tego dnia miała pozostać idealna, dlatego przekonałem aby wykonać
 najdłuższą trasę przez [Przedgórze Sudeckie][wiki-przedgorze-sudeckie].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/561236172/embed/a008523ee5405e4f75e74ecb43bc425e70771487'></iframe>
 
 Szczegóły
 ---------

@@ -26,6 +26,7 @@ pois:
     lat: 49.44728
     lon: 20.27584
 
+strava: 650903338
 
 ---
 [wiki-tatry]: https://pl.wikipedia.org/wiki/Tatry
@@ -40,11 +41,6 @@ Wstęp
 
 Cztery dni w górach są dla mnie wystarczające, jednak głupia wracać w piątek już.
 Z tego powodu załatwiliśmy jeszcze jeden nocleg w "okolicy" do [Tatr][wiki-tatry].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650903338/embed/ece651f58c89ac3a61cb94dfd6461ebf7053f2ce'></iframe>
 
 Szczegóły
 ---------

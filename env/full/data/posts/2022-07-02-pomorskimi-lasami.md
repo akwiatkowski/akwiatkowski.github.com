@@ -24,6 +24,8 @@ temperature:            25
 
 pois:
 
+strava:
+  - https://www.strava.com/activities/7414190147
 
 ---
 
@@ -64,10 +66,6 @@ bardzo ładne miejsca albo zaryzykować i poszukać czegoś nowego.
 
 Patrząc na mapę nie myślałem, że odkryję coś lepszego. Jak się później okazało -
 trochę miałem racje.
-
-## Opis trasy
-
-<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7414190147'></div><script src='https://strava-embeds.com/embed.js'></script>
 
 ## Szczegóły
 

@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5044674984
+
 ---
 
 
@@ -42,10 +44,6 @@ jest jeszcze chłodna. Dni idealnych na rower nie ma dużo.
 
 Pojawiło się kilka cieplejszych dni. Planowałem w środę skończyć pracę wcześniej
 i ruszyć rowerem ale niestety musiałem uczestniczyć w spotkaniu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5044674984/embed/407f0822c75c60b5366b8008ecf90b1ff6e9b0c1'></iframe>
 
 ## Szczegóły
 

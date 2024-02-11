@@ -19,13 +19,15 @@ map_zooms:              14
 distance:               18
 time_spent:             11
 elevation:              541
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2619513274
 
 ---
 
@@ -43,10 +45,6 @@ Prognoza pogody była obiecująca tego dnia dlatego zaplanowaliśmy klasyczną p
 "górską". Miałem nadzieje, że wracając z południowej części
 [Jesionika][wiki-jesionik], będę mógł zrobić zdjęcia jakimś kotom albo klimatycznym
 wiejskim domom.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2619513274/embed/b6df9e4025180008ba8139ff303fb3c69b3dc090'></iframe>
 
 ## Szczegóły
 

@@ -28,6 +28,7 @@ pois:
     lon: 21.31674
     name: Jasionka - jedna z wielu wiosek na końcu świata
 
+strava: 1102666247
 ---
 
 [wiki-krempna]: https://pl.wikipedia.org/wiki/Krempna
@@ -53,11 +54,6 @@ Wstęp
 Przyszedł czas na pierwszą zmianę bazy. Musieliśmy udać się teraz do
 [Krempnej][wiki-krempna]. Miejscowość ta została wybrana na drugą bazę,
 gdyż jest to dobry punkt aby zobaczyć środkową część [Beskidu Niskiego][wiki-beskid-niski].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1102666247/embed/4d3f6abf4f587143aa84a0e232f35e2156014991'></iframe>
 
 Szczegóły
 ---------

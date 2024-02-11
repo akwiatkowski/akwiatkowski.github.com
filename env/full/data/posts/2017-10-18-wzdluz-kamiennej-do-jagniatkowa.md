@@ -25,6 +25,7 @@ pois:
     lon: 15.55247
     name: Jest kilka ciekawych punktów gdzie rzeka Kamienna jest bardziej rwącą
 
+strava: 1238738088
 ---
 
 [wiki-sokolik]: https://pl.wikipedia.org/wiki/Sokolik
@@ -51,11 +52,6 @@ i trochę się zmęczyłem
 Postanowiłem spać dalej gdy zobaczyłem, że jutro też będzie dobra pogoda.
 Gdy się obudziłem wybrałem [Wodospad Szklarka][wiki-wodospad-szklarki] jako
 cel na dzisiaj.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1238738088/embed/cd9ab69be83dde98f33cb1fe79bbac860db6699a'></iframe>
 
 Szczegóły
 ---------

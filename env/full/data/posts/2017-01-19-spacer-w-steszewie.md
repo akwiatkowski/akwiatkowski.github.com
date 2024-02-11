@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               7
 time_spent:             2
 
+strava: 837596171
 ---
 
 [wiki-witobel]: https://pl.wikipedia.org/wiki/Witobel
@@ -48,11 +49,6 @@ wczorajszego.
 
 Lenistwo i brak czasu przekonało mnie do lekkiej zmiany planów. Na szczęście
 udało się wybyć za miasto.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/837596171/embed/39577f4f5fcc4bf5c5eebcb6ecb21031a3617f11'></iframe>
 
 Szczegóły
 ---------

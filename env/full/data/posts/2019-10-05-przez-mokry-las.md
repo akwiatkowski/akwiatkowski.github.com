@@ -30,6 +30,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2768781597
+
 ---
 
 [wiki-porazyn-stacja]: https://pl.wikipedia.org/wiki/Pora%C5%BCyn_(przystanek_kolejowy)
@@ -47,10 +49,6 @@ pieszą już kiedyś. Tego dnia chciałem popróbować robić zdjęcia w lesie p
 deszczu korzystając rozmycia, jakie daje aparat pełnoklatkowy i jasny obiektyw.
 
 {% photo "2019_10_05__11_53_DSC00578.jpg","Betonowy słupek" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2768781597/embed/90ded9e0095d5eea3c91ae770e8471813cac8524'></iframe>
 
 ## Szczegóły
 

@@ -22,7 +22,7 @@ elevation:              190
 
 pois:
 
-
+strava: 1200070658
 ---
 
 [wiki-boszkowo]: https://pl.wikipedia.org/wiki/Boszkowo
@@ -47,11 +47,6 @@ Szukałem dobrego miejsca aby móc zrobić zdjęcia podczas zachodzącego
 lub wschodzącego Słońca. Wybraliśmy [Przemęcki Park Krajobrazowy][wiki-przemecki-park]
 a dokładniej [Boszkowo][wiki-boszkowo] jako najbardziej popularną
 miejscowość i bliskość jezior.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1200070658/embed/0e82931e7b3e4d7027254241b022099d068d9740'></iframe>
 
 Szczegóły
 ---------

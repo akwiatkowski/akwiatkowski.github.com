@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2438214494
+
 ---
 
 [wiki-tczew]: https://pl.wikipedia.org/wiki/Tczew
@@ -75,10 +77,6 @@ to zrobić tylko na weekend.
 
 Ostatecznie udało się ustalić punkt spotkania w [Kolbudach][wiki-kolbudy]
 i ruszyłem w tym kierunku z Maciejem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2438214494/embed/db12bf3581fe87e3e6ac62b119fa2c41396477df'></iframe>
 
 ## Szczegóły
 

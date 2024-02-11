@@ -22,6 +22,8 @@ time_spent:             2
 elevation:              31
 temperature:            11
 
+strava: 4307067309
+
 ---
 
 
@@ -42,10 +44,6 @@ Chcąc chociaż trochę wykorzystać tą porę roku ruszyliśmy w okolicę
 [Głębocka][wiki-glebocko] obok [Łopuchowa][wiki-lopuchowo] na krótki spacer.
 
 {% photo "2020_11_07__15_35_DSC06148.jpg","Jesienny las w Głębocku","tag:timeline" %}
-
-# Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4307067309/embed/86d01d5c2ce69363f7478099c67bc9b2fd1e48af'></iframe>
 
 ## Szczegóły
 

@@ -22,7 +22,7 @@ elevation:              36
 
 pois:
 
-
+strava: 1238740531
 ---
 
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
@@ -38,11 +38,6 @@ oświetlonych ciepłym światłem zachodzącego (lub wschodzącego) Słońca.
 Będąc kilka dni w [Jeleniej Górze][wiki-jelenia-gora] pojawił się pomysł
 aby zobaczyć z bliska jak wyglądają potencjalnie dobre do tego tereny.
 Jedną z takich opcji są okolice [Witkowa][wiki-witkow].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1238740531/embed/aa2d2cf9f69f59a378c79e8038bd5ca5b02a7277'></iframe>
 
 Szczegóły
 ---------

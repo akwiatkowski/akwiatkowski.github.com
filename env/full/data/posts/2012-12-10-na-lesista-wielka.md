@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               17
 time_spent:             8
+
+strava: 333296249
 ---
 
 [wiki-boguszow-gorce]:  https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce
@@ -33,11 +35,6 @@ Wstęp
 -----
 
 Można powiedzieć, że jest to pierwsza pełnoprawna zimowa wycieczka w góry.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333296249/embed/917f5ab5a90edd62794b8bf919fa5bce4c5e634e'></iframe>
 
 Szczegóły
 ---------

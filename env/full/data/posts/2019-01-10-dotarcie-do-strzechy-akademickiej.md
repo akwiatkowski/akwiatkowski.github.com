@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2077527950
 ---
 
 [wiki-strzecha-akademicka]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9EStrzecha_Akademicka%E2%80%9D
@@ -39,10 +40,6 @@ pois:
 
 Fotowarsztaty miały być prowadzone w [Strzesze Akademickiej][wiki-strzecha-akademicka].
 Tego dnia musieliśmy się tam jakoś dostać.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2077527950/embed/2d9c3a6e2a71931af9d7b6e53bf4c1c34297ce15'></iframe>
 
 ## Szczegóły
 

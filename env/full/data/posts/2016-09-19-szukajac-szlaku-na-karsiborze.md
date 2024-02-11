@@ -22,6 +22,7 @@ pois:
     lon: 14.32182
     name: Ostoja ptaków Karsiborska Kępa
 
+strava: 718549438
 
 ---
 
@@ -41,11 +42,6 @@ a nie chcieliśmy szybko wracać do domu.
 Pojechaliśmy już na [zachód]({% post_url 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol %})
 i [wschód]({% post_url 2016-09-18-petla-przez-wolinski-park-narodowy %}).
 Na północ jest morze, więc zostało nam do wyboru tylko kierunek na południe.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/718549438/embed/e586202b6fc28af739ee6d9d9e1e182bc62a9fe0'></iframe>
 
 Szczegóły
 ---------

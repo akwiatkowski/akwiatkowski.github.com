@@ -25,6 +25,7 @@ pois:
     lon: 15.79394
     name: Widok na Karkonosze w Łomnicy niedaleko Wojanowa
 
+strava: 966518117
 ---
 
 [wiki-dziwiszow]: https://pl.wikipedia.org/wiki/Dziwisz%C3%B3w
@@ -59,11 +60,6 @@ Wstęp
 
 Tego dnia mieliśmy "załatwioną" lokalną osobę. Tomek mial nam pokazać najciekawsze
 miejsca "Doliny Pałaców i Ogrodów".
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/966518117/embed/6ad9926939ba16ca79df47388eacc0c80fac81b9'></iframe>
 
 Szczegóły
 ---------

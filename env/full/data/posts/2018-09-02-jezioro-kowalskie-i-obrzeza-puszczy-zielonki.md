@@ -27,6 +27,7 @@ pois:
     lon: 17.18560
     name: Okolice Jeziora Kowalskiego niedaleko Biskupic
 
+strava: 1814828186
 ---
 
 [wiki-biskupice]: https://pl.wikipedia.org/wiki/Biskupice_(powiat_pozna%C5%84ski)
@@ -44,10 +45,6 @@ Jesień zaczęła się już zbliżać jako efekt wakacyjnej suszy. Chciałem wyk
 to, że jest jeszcze dobra pogoda.
 Nie chciałem daleko jechać pociągiem. Preferowałem użyć go tylko
 w jedną stronę.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1814828186/embed/95308c6bf1c0af8a169d5b517cc45658cf303bed'></iframe>
 
 ## Szczegóły
 

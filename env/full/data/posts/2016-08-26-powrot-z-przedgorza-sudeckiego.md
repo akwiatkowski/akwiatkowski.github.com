@@ -22,6 +22,8 @@ pois:
     lon: 16.55068
     name: Droga do Siedlimowic z widokiem na Sudety.
 
+strava: 689915384
+
 ---
 
 [wiki-zmigrod]: https://pl.wikipedia.org/wiki/%C5%BBmigr%C3%B3d
@@ -53,11 +55,6 @@ pagórkowate i kierowaliśmy się na północ. Im bliżej do domu tym lepiej.
 
 Takim sensownym końcem trasy miał być [Żmigród][wiki-zmigrod]. Oczywiście było
 dużo opcji na skrócenie trasy z dowolnego powodu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/689915384/embed/d6cdcfcbdd79de4734db104e7d365aeee34f1a45'></iframe>
 
 Szczegóły
 ---------

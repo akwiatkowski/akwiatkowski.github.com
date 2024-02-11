@@ -26,6 +26,7 @@ pois:
     lon: 18.35646
     name: Klimatyczna wieś Karczyn niedaleko magristrali węglowej
 
+strava: 1582819269
 ---
 
 [wiki-torun]: https://pl.wikipedia.org/wiki/Toru%C5%84
@@ -57,10 +58,6 @@ pois:
 Pomimo tego, że połączenie kolejowe do [Torunia][wiki-torun] jest
 dosyć dobre i niedrogie, nigdy nie jeździłem rowerem po tych terenach.
 Również nie zapuszczałem się rowerem na wschód od [Strzelna][wiki-strzelno].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1582819269/embed/8db85be70ccb7aba6fb6be480d7845cab0dfcc8c'></iframe>
 
 ## Szczegóły
 

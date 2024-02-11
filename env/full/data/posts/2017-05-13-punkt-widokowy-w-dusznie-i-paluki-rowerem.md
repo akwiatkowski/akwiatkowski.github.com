@@ -24,6 +24,7 @@ pois:
     lon: 17.84245
     name: Miejscami bardzo fajne zjazdy między Józefowem w stronę Niestronno
 
+strava: 984580096
 ---
 
 [wiki-paluki]: https://pl.wikipedia.org/wiki/Pa%C5%82uki
@@ -61,11 +62,6 @@ Prognoza pogoda na ten weekend była obiecująca. Przewidywany był stały wiatr
 wschodu. Wpadł do mojej głowy pomysł aby ponownie
 odwiedzić [Pałuki][wiki-paluki]. Tym razem mógłbym zobaczyć jak te tereny wyglądają wiosną
 i przy okazji pojeździć po małych górkach.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/984580096/embed/22dfa2e9c72aee48d61cce19040c7cc704a729ee'></iframe>
 
 Szczegóły
 ---------

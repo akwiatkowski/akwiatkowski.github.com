@@ -31,6 +31,8 @@ pois:
     lon: 21.45278
     name: Ożenna - jedna z wielu wiosek na końcu świata
 
+strava: 592039122
+
 ---
 
 [schronisko-hajstra]:             http://hutapolanska.krak.pl/
@@ -64,12 +66,6 @@ pogoda sprawiła, że udało mi się przekonać aby odwiedzić najdziksze górsk
 Polski.
 
 {% photo "IMGP0596raw1.jpg","Okolica Nowego Żmigrodu","tag:timeline,tag:mountains,tag:countryside,tag:spring" %}
-
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/592039122/embed/a001e88b174a51ae1642f357224caf603c8e2fd0'></iframe>
 
 Szczegóły
 ---------

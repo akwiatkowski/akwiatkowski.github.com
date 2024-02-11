@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               8
 time_spent:             5
+
+strava: 333328954
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
@@ -36,11 +38,6 @@ Wstęp
 
 Jak to często bywa w górach, jeżeli danego dnia pogoda jest zła, to następnego może być też zła, lub dobra.
 Tym razem była aż za dobra.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333328954/embed/76cbf04df89183391aa2848beab7b611587aa782'></iframe>
 
 Szczegóły
 ---------

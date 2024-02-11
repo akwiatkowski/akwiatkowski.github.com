@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               52
 time_spent:             8
+strava: 320388250
 ---
 
 [route]:                        https://www.strava.com/activities/320388250
@@ -57,10 +58,8 @@ Wstęp
 Tą trasą chciałem jednocześnie umożliwić części osób wspólny dojazd w stronę [Karpacza][wiki-karpacz], a reszcie
 pokazać [Rudawy Janowickie][wiki-rudawy-janowickie]. Pasmo, które w mojej ocenie, jest bardzo niedocenione.
 
-Opis trasy
+Szczegóły
 ----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/320388250/embed/85131bbd48bf725d42dadea7445ed94ac9400f84'></iframe>
 
 Trasę zaczęliśmy Drogą pod reglami (nie jestem pewien czy ta trasa się tak nazywa) jadąc utwardczonym terenem
 w stronę [Przesieki][wiki-przesieka]. Ostatni fragment (zjazd do Przesieki) miał w sobie tak dziwnie zbudowane

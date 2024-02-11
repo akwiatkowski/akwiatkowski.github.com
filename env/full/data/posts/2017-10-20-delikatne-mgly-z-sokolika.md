@@ -22,7 +22,7 @@ elevation:              311
 
 pois:
 
-
+strava: 1238742327
 ---
 
 [darek-zygala]: https://www.facebook.com/zygaladariusz/
@@ -45,11 +45,6 @@ Wstęp
 
 Na wschód Słońca na [Sokoliku][wiki-sokolik] ruszyłem dzień wcześniej. Czując niedosyt
 brakiem widocznego Słońca chciałem powtórzyć krótką wycieczkę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1238742327/embed/5b4d9e2b24b4b5a5ea213e3fef1b12e0586f2469'></iframe>
 
 Szczegóły
 ---------

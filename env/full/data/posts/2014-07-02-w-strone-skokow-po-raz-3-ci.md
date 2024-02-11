@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               63
 time_spent:             5
+strava: 160945973
 ---
 
 [wiki-morasko]:         https://pl.wikipedia.org/wiki/Morasko
@@ -49,10 +50,8 @@ time_spent:             5
 
 {% photo_header "Droga do Mściszewa","tag:good,tag:summer,tag:countryside,tag:timeline" %}
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/160945973/embed/81bc1b78b54c8a1e8a4e723a21d86df43002bc4a'></iframe>
+Wstęp
+-----
 
 Opis analogiczny do [pierwszego](/trip/2013/08/04/w-strone-skokow-po-raz-1-szy/) przejazdu,
 który przekopiowałem tutaj i dorzuciłem filmiki. Zrobiłem to tak, gdyż opis jest prawie identyczny,

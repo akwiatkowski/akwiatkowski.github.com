@@ -23,7 +23,7 @@ elevation:              317
 
 pois:
 
-
+strava: 1238739560
 ---
 
 [darek-zygala]: https://www.facebook.com/zygaladariusz/
@@ -39,11 +39,6 @@ Wstęp
 Dzień wcześniej wolałem się wyspać zamiast wstawać rano i iść
 na [Sokolik][wiki-sokolik] dlatego dzisiaj już nie miałem wytłumaczenia i
 musiałem tam się udać.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1238739560/embed/33d32a662755b2e49f70f69e8a05cbbda2fd76cd'></iframe>
 
 Szczegóły
 ---------

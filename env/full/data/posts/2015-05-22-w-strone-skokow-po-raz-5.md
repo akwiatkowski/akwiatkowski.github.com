@@ -14,10 +14,11 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               58
 time_spent:             4
+strava: 309559947
 ---
 
 [vimeo-dslr]:          https://vimeo.com/128642299
-[vimeo-1]:             https://vimeo.com/128729512  
+[vimeo-1]:             https://vimeo.com/128729512
 [vimeo-2]:             https://vimeo.com/128740318
 [vimeo-3]:             https://vimeo.com/128823587
 [vimeo-4]:             https://vimeo.com/128928585
@@ -35,11 +36,6 @@ Wstęp
 Trasa przez Biedrusko w stronę Skoków jest dla mnie wzorcowa. Mało samochodów, duże urozmaicenie tereniu.
 
 {% photo "IMGP9970raw1.jpg","Okolice osady Złotoryjsko","tag:good" %}
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/309559947/embed/b10da920ac1fe7c98e876f0b354c1facee465651'></iframe>
 
 Szczegóły
 ---------

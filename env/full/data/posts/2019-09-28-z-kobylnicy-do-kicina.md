@@ -22,13 +22,15 @@ map_zooms:              14
 distance:               7
 time_spent:             2
 elevation:              59
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2748977539
 
 ---
 
@@ -44,10 +46,6 @@ rowerem we wrześniu.
 Prawdopodobnie były 2 główne powody tego: pogoda i praca.
 
 Postanowiłem pospacerować sobie popołudniem w okolicy [Poznania][wiki-poznan].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2748977539/embed/cc6990eb7252ef68c930a43a4dd63fe726c5bbd1'></iframe>
 
 ## Szczegóły
 

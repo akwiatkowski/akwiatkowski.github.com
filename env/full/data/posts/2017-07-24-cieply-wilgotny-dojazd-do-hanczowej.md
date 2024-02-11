@@ -23,7 +23,7 @@ elevation:              634
 
 pois:
 
-
+strava: 1099221706
 ---
 
 [wiki-beskid-niski]: https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -51,11 +51,6 @@ okolice.
 
 Spora odległość od Poznania wymaga zaplanowania dłuższej wycieczki aby wyjazd
 miał sens. Dopiero teraz udało się to zrealizować.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1099221706/embed/565429c30341e475655349d2e37039f0613abc26'></iframe>
 
 Szczegóły
 ---------

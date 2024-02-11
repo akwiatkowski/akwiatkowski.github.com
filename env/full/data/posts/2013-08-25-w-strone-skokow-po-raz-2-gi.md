@@ -14,14 +14,14 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               54
 time_spent:             5
+
+strava: 137173043
 ---
 
 {% photo_header "Sierpniowe pole","" %}
 
 Opis trasy
 ----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137173043/embed/fcc3babfed09b87f2bcd0bc3df1be33422865c35'></iframe>
 
 Opis analogiczny do [pierwszego](/trip/2013/08/04/w-strone-skokow-po-raz-1-szy/) przejazdu.
 

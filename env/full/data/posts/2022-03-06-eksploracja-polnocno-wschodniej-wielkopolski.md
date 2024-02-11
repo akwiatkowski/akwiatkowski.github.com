@@ -14,10 +14,10 @@ tags:                   [car, main]
 towns:                  [wielkopolskie, kujawsko_pomorskie, wagrowiec, golancz, wyrzysk, lobzenica, mrocza, sadki, naklo_nad_notecia, szubin, znin, rogowo_zninski, mieleszyn, gniezno]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:            
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -25,6 +25,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 6784444026
 
 ---
 
@@ -48,10 +50,6 @@ pois:
 
 Oprócz [spaceru]({% post_url 2022-03-05-wokol-jeziora-witoslawskiego %})
 podczas tego weekendu zobaczyliśmy jeszcze kilka innych miejsc.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6784444026/embed/a3edab5fb32f01e03ad6446412d2a0cd59a70330'></iframe>
 
 ## Szczegóły
 

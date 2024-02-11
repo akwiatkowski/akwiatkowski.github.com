@@ -26,6 +26,7 @@ pois:
     lon: 16.74219
     name: Okolice Świerczyny są stosunkowo bardziej urozmaicone
 
+strava: 1470831144
 ---
 
 [wiki-nowy-debiec]: https://pl.wikipedia.org/wiki/Nowy_D%C4%99biec
@@ -58,10 +59,6 @@ pois:
 Już zacząłem tęsknić za dłuższymi jazdami rowerem i "zaliczaniem" nowych gmin.
 Chciałem z Maciejem przetestować jego rower szosowy na dłuższej trasie, jak się
 będzie on nadawał na rekreacyjną jazdę "przez wioski".
-
-## Opis trasy
-
-{% strava_iframe "1470831144","2baa7e592f9210dffc73daec2024a8478ed38aca" %}
 
 ## Szczegóły
 

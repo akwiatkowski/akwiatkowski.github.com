@@ -21,7 +21,7 @@ time_spent:             6
 
 pois:
 
-
+strava: 1054016312
 ---
 
 [wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
@@ -60,11 +60,6 @@ mnie interesować tereny
 położone na północ. W ten weekend postanowiliśmy odwiedzić
 [Krajeński Park Krajobrazowy][wiki-krajenski-park] aby się przekonać czy
 to zainteresowanie było słuszne.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1054016312/embed/a89c43098c3bfdb6397bbae9a8f10062c3ffa289'></iframe>
 
 Szczegóły
 ---------

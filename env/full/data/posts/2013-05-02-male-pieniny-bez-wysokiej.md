@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               13
 time_spent:             6
+
+strava: 333334890
 ---
 
 [wiki-pieniny]:                 https://pl.wikipedia.org/wiki/Pieniny
@@ -33,11 +35,6 @@ Wstęp
 
 Klasycznym elementem [Pienin][wiki-pieniny] jest [Wąwóz Homole][wiki-homole] oraz [Wysoka][wiki-wysoka].
 Celem tego dnia było zaliczenie obu tych miejsc.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333334890/embed/a6a0974095770341bb3534529f0fdaf38abcdbd6'></iframe>
 
 Szczegóły
 ---------

@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6141137978
+
 ---
 
 
@@ -48,7 +50,5 @@ spowodowały, że plan rowerowy nie mógł zostać zrealizowany.
 Byłem bardzo zły na siebie. Ruszyłem rowerem (i pociągiem)
 w stronę [Biskupic][wiki-biskupice] aby chociaż trochę poczuć tej
 jesieni i nie być w mieście.
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6141137978/embed/06e59ac6d6fdec49c5b2d6fce34bd5fd420b0eb8'></iframe>
 
 ## Szczegóły

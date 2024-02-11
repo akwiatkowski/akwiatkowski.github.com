@@ -22,6 +22,8 @@ pois:
   lat: 52.08287
   lon: 17.60691
 
+strava: 584342247
+
 ---
 
 {% photo_header "Widok na miejscowość Ląd","tag:timeline,tag:countryside,tag:spring" %}
@@ -49,11 +51,6 @@ w jednym miejscu mocno wpłynął na zmianę planów.
 Chiałem spróbować jeszcze raz zobaczyć te tereny, sprawdzić czy faktycznie
 tam są te wspomniane pagórki. Tym razem bogatszy o doświadczenia ominąłem
 przeprawy promowe.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/584342247/embed/8fb09f8d6d427a58f189b24c1712132c7f6ea3bd'></iframe>
 
 Szczegóły
 ---------

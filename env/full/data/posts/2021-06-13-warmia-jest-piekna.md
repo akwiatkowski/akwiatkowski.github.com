@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5465973786
+
 ---
 
 [photocoder]: https://photocoder.pl
@@ -63,10 +65,6 @@ W zaplanowany od dawna weekend pogoda trafiła się średnia. W niedzielę musie
 wrócić do jakieś stacji kolejowej. Dla mnie to był bardzo ważny dzień.
 
 {% photo "2021_06_13__10_10__6132441.jpg","Stary dom w Dobrym Mieście" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5465973786/embed/70d877666e37b81ff2de6d011df5612f0f30d284'></iframe>
 
 ## Szczegóły
 

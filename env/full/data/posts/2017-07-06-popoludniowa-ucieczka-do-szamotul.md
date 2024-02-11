@@ -23,6 +23,7 @@ pois:
     lon: 16.58034
     name: Okolice Zalewu Rydzyny. Trochę terenów podmokłych, wody i obniżenie terenu.
 
+strava: 1070736870
 ---
 
 [wiki-linia-363]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_363
@@ -42,11 +43,6 @@ Wstęp
 
 Nie planowałem opisywać tej trasy. Po prostu chcieliśmy sobie po południu
 wyjechać rowerami z [Poznania][wiki-poznan].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1070736870/embed/aecb00ff78f1f9f9a11a2d4fa050097b5bf402e7'></iframe>
 
 Szczegóły
 ---------

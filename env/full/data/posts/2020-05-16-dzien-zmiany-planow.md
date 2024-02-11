@@ -28,6 +28,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3458788003
+
 ---
 
 [wiki-golancz]: https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
@@ -54,10 +56,6 @@ Tego dnia planowałem ruszyć pociągiem do [Gołańczy][wiki-golancz] około go
 i zgodnie z wiatrem jechać na wschód w stronę [Inowrocławia][wiki-inowroclaw].
 Plany zmieniłem około 30 minut przed wyruszeniem z domu. I to była bardzo
 mądra decyzja.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3458788003/embed/7f2b1296adad28bd5a7b7125c257755bbb572015'></iframe>
 
 ## Szczegóły
 

@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1747516486
 ---
 
 [wiki-mazury]: https://pl.wikipedia.org/wiki/Mazury
@@ -55,11 +56,6 @@ Tym razem chciałem ograniczyć moje planowanie i tylko nadzorować. Moje doświ
 z "Polską klasy B" mam prawie zerowe dlatego pomysł, aby zanurzyć się
 [Podlasiu][wiki-podlasie], w rejonie, który jest istotą tej nieznanej "klasie B",
 był ciekawy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1747516486/embed/35e8143dc32d10528b18290422e86f920ada3168'></iframe>
-
 
 ## Szczegóły
 

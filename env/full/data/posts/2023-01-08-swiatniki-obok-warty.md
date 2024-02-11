@@ -19,7 +19,7 @@ coords:                 [{"route": [], "type": "hike"}]
 distance:               4
 time_spent:             2
 elevation:              42
-temperature:            
+temperature:
 
 
 pois:
@@ -32,7 +32,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

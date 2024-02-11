@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               15
 time_spent:             6
+
+strava: 334997630
 ---
 
 
@@ -32,11 +34,6 @@ Wstęp
 -----
 
 Ostatni dzień w [Beskidzie Żywieckim][wiki-beskid-zywiecki] i jednocześnie powrót i początek upałów.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334997630/embed/316183325b5100bc0d61915b9a91de6de3e0cef6'></iframe>
 
 Szczegóły
 ---------

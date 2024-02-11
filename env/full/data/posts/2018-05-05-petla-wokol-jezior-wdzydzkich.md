@@ -30,6 +30,7 @@ pois:
     lon: 17.87366
     name: Bardzo amatorskie przejście przez strumyk (albo 2.8km na południe)
 
+strava: 1551769462
 ---
 
 [wiki-linia-215]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_215
@@ -62,10 +63,6 @@ pois:
 [Wdzydze][wiki-wdzydze] było jednym z dwoch najważniejszych celów tej majówki.
 Pierwszym były okolice [Swornychgaci][wiki-swornegacie],
 które [odwiedziliśmy wcześniej]({% post_url 2018-04-29-swornegacie-i-zaborski-park-krajobrazowy %}).
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1551769462/embed/6cfb89a0f71cba6c21038876422897d7eef193d4'></iframe>
 
 ## Szczegóły
 

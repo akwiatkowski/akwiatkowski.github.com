@@ -28,10 +28,11 @@ pois:
     name: Może być tutaj wiele klimatycznych wiosek
     type: large_area
   - lat: 53.35402
-    lon: 23.56420  
+    lon: 23.56420
     name: Widok na Starą Kamionkę i dolinę rzeki Kamionka
     type: scenic
 
+strava: 1754470627
 ---
 
 [silvarium1]: http://atrakcjepodlasia.pl/atrakcje-turystyczne/silvarium-park-lesny-w-poczopku/
@@ -59,10 +60,6 @@ pois:
 
 Tego dnia musieliśmy dostać się do [Sokółki][wiki-sokolka] gdzie mieliśmy kolejny
 nocleg. Po drodze chcieliśmy zobaczyć [Silwarium][silvarium2].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1754470627/embed/928fb5fb09489bcf3b526b2589559ea1e7986b35'></iframe>
 
 ## Szczegóły
 

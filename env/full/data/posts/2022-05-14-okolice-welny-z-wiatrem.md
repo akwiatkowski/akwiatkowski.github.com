@@ -30,6 +30,9 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/7141846544
+
 ---
 
 [wiki-jezioro-wienieckie]: https://pl.wikipedia.org/wiki/Jezioro_Wienieckie
@@ -68,10 +71,6 @@ odpowiednia pogoda, połączenia kolejowe i ciekawość związana z częściowo
 już znanym terenem.
 
 {% photo "2022_05_14__12_06_P5145580.jpg","Okolica stacji Roszkowo Wągrowieckie" %}
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7141846544"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

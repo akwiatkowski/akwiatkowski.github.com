@@ -31,6 +31,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5340421449
+
 ---
 
 [turkol]: http://www.turkol.pl/
@@ -66,10 +68,6 @@ Niestety prognoza pogody była, delikatnie mówiąc, mało optymistyczna. Plan
 przejazdu przez [województwo opolskie][wiki-opolskie] został przesunięty.
 Maciej mógł jechać tylko w sobotę dlatego postanowiliśmy spróbować zrobić
 coś po tym jak przejdzie fala opadów.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5340421449/embed/c2bfc0b485f857ae0b72f4dbf6b107477a5124cd'></iframe>
 
 ## Szczegóły
 

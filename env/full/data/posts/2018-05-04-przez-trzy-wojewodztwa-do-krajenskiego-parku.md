@@ -28,10 +28,11 @@ pois:
     name: Szeroka okolica Tucholki może być ciekawym miejscem do dokładnej eksploracji
     type: todo
   - lat: 53.56771
-    lon: 17.57801  
+    lon: 17.57801
     name: Góry Obkaskie, możliwy ciekawy szlak rowerowy
     type: todo
 
+strava: 1549491018
 ---
 
 [wiki-ludwichowo]: https://pl.wikipedia.org/wiki/Ludwichowo_(gmina_K%C4%99sowo)
@@ -66,10 +67,6 @@ pois:
 [Krajeński Park Krajobrazowy][wiki-krajenski-park] zawsze wspominam bardzo
 dobrze. Dlatego jedną z tras, które chciałem przejechać podczas tej majówki, była
 związana z tym regionem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1549491018/embed/05a6274fd3c78fb8181299e3eca6692724569535'></iframe>
 
 ## Szczegóły
 

@@ -23,13 +23,11 @@ elevation:              42
 temperature:            -1
 
 
+strava: 6386206265
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6386206265/embed/8ddc44f7567801c217f061b3ff07ce53c7497bc8'></iframe>
 
 ## Szczegóły

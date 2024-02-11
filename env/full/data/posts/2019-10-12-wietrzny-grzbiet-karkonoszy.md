@@ -20,13 +20,15 @@ map_zooms:              14
 distance:               22
 time_spent:             9
 elevation:              985
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2790204928
 
 ---
 
@@ -44,10 +46,6 @@ pois:
 Jednym z celów tego wyjazdu był spacer grzbietem [Karkonoszy][wiki-karkonosze]
 gdyż po odwiedzeniu [Rudaw Janowickich][wiki-rudawy-janowickie]
 przyszedł czas ruszyć w [Karkonosze][wiki-karkonosze] dla urozmaicenia.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2790204928/embed/fb859581261119333ffe03c4e625c3d5705f7980'></iframe>
 
 ## Szczegóły
 

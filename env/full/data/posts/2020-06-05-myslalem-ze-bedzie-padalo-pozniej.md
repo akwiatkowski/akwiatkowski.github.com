@@ -20,7 +20,7 @@ map_zooms:              11
 distance:               59 # 47 + 12
 time_spent:             7 # 5 + 2
 elevation:              427 # 371 + 56
-temperature:            
+temperature:
 
 
 pois:
@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3569160562
 
 ---
 
@@ -54,10 +56,6 @@ z której przystanku w niedzielę będziemy wracać.
 Patrząc na prognozę pogody i zmieniający się kierunek wiatru, dla nas najważniejsze było
 aby tego dnia dojechać maksymalnie na wschód. Jednocześnie nie mogliśmy jechać cały
 dzień gdyż tego dnia prognozowane były silne opady deszczu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3569160562/embed/a17a0788293a2c400a32367877300b8920c4d614'></iframe>
 
 ## Szczegóły
 

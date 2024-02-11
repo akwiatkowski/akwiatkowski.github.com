@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3795162985
+
 ---
 
 [wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
@@ -66,10 +68,6 @@ Jednym z tych momentów jest tuż przed żniwami.
 Planowałem wyjechać w jakieś fajne miejsce i spędzić trochę czasu na eksploracje
 i robienie zdjęć. Jak to na ogół bywa - nie udało się. Chcąc wykorzystać
 ostatnie momenty przed żniwami wybrałem się na rower.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3795162985/embed/d54c23c72cd266eb96ecefae772d38b3e37e3567'></iframe>
 
 ## Szczegóły
 

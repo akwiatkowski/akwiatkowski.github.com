@@ -31,6 +31,7 @@ pois:
     lon: 16.80003
     name: Pagórkowate tereny i przejazd pod torami kolejowymi niedaleko Piły
 
+strava: 583258728
 
 ---
 
@@ -64,11 +65,6 @@ do [Wągrowca][wiki-wagrowiec], jednak zawsze zabrakło czasu do odjazdu pociąg
 powrotnego.
 
 Teraz chciałem dokończyć ten krótki fragment, jak również dojechać dalej na północ.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/583258728/embed/cb43359cc0e0cf82f98fca70bf734e95283f851e'></iframe>
 
 Szczegóły
 ---------

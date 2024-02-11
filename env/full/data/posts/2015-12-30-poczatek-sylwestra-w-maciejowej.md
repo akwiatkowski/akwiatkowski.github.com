@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               6
 time_spent:             2
+strava: 462834644
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity
@@ -33,11 +34,6 @@ Wstęp
 Chęc spędzenia Sylwestra w schronisku w górach pojawiła się już wcześniej.
 Gdzieś w październiku dowiedziałem się, że [Maciejowa][wiki-maciejowa] organizuje Sylwester,
 a miałem dobre wspomnienia o tym miejscu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/462834644/embed/77a5c5332bd6c043c1f82b4084113dfa6bb50252'></iframe>
 
 Szczegóły
 ---------

@@ -21,6 +21,7 @@ time_spent:             8
 
 pois:
 
+strava: 999287140
 ---
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -63,11 +64,6 @@ Wstęp
 To miał być długi przejazd a wyszedł jeszcze dłuższy niż planowaliśmy.
 Chciałem jak najwięcej ciekawych terenów zobaczyć a ostatecznie zaliczyłem
 sporo gmin.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/999287140/embed/3cc5b1d68460d298352fe58e27e2cfb0fa0a8cc6'></iframe>
 
 Szczegóły
 ---------

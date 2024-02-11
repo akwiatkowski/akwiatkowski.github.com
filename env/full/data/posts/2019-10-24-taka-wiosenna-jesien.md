@@ -31,6 +31,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2817453220
+
 ---
 
 [wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
@@ -57,10 +59,6 @@ Chciałem jeszcze raz pojechać w góry. Złapać albo mgiełki albo naprawdę
 złote drzewa, przejść się przez zapomniane sudecki wioski.
 Pamiętam jak [rok temu]({% post_url 2018-11-04-wioski-na-zachod-od-bystrzycy %})
 udało mi się zobaczyć kilka ciekawych miejsc i teraz chciałem to powtórzyć.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2817453220/embed/35168a1162356c8b2f5f99bde073ffc4e53edce8'></iframe>
 
 ## Szczegóły
 

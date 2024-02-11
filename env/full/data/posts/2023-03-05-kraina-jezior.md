@@ -14,9 +14,9 @@ tags:                   [chillout, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
+distance:
+time_spent:
+elevation:
 temperature:            2
 
 
@@ -30,7 +30,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

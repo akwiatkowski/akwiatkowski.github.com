@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               16
 time_spent:             7
+
+strava: 167091757
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -36,12 +38,6 @@ time_spent:             7
 ## Wstęp
 
 Drugi dzień w [Beskidzie Niskim][wiki-beskid-niski]. Tym razem liniowa trasa w kierunku północnym.
-
-<!--
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091757/embed/f86fff37ff126099a177838f616b88b9fd6df18e'></iframe>
--->
 
 ## Szczegóły
 

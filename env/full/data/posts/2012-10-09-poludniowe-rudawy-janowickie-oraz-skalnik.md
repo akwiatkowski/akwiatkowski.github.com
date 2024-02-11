@@ -17,12 +17,14 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               12
 time_spent:             5
+
+strava: 333290287
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
 [wiki-367]:             https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_367
 [wiki-marciszow]:       https://pl.wikipedia.org/wiki/Trzci%C5%84sko
-[wiki-kamienna_gora]:   https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra  
+[wiki-kamienna_gora]:   https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra
 [wiki-leszczyniec]:     https://pl.wikipedia.org/wiki/Leszczyniec_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
 [wiki-krzyzna]:         https://pl.wikipedia.org/wiki/Krzy%C5%BCna_G%C3%B3ra
 [wiki-skalnik]:         https://pl.wikipedia.org/wiki/Skalnik_(Rudawy_Janowickie)
@@ -39,11 +41,6 @@ Wstęp
 
 Dwa miesiace temu byłem pierwszy raz w [Rudawach Janowickich][wiki-rudawy], ale nie udało się zobaczyć części
 południowej. Teraz naprawiłem swój błąd.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333290287/embed/759872385928bc1bf0b8123c01ee7bf551313129'></iframe>
 
 Szczegóły
 ---------

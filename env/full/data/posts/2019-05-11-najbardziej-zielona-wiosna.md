@@ -19,13 +19,15 @@ map_zooms:              14
 distance:               11
 time_spent:             4
 elevation:              311
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2368863066
 
 ---
 
@@ -54,10 +56,6 @@ pois:
 Zaplanowaliśmy krótki wyjazd w okolice [Jeleniej Góry][wiki-jelenia-gora]
 znacznie wcześniej. Niestety pogody nie da się zaplanować i przyjechaliśmy
 w "porze deszczowej" tego roku.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2368863066/embed/d6e93d7acdf63434a4f73a55975d1f03c6280a13'></iframe>
 
 ## Szczegóły
 

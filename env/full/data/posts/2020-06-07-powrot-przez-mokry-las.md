@@ -19,7 +19,7 @@ map_zooms:              14
 distance:               11
 time_spent:             1
 elevation:              104
-temperature:            
+temperature:
 
 
 pois:
@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3578726161
 
 ---
 
@@ -40,10 +42,6 @@ pois:
 Jest to ostatni dzień z mojej "długiej" wycieczki rowerowej. Zaplanowała
 była bardzo krótka trasa dojazdowa do stacji kolejowej, z której
 wracaliśmy pociągiem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3578726161/embed/110d1ed1bb8117851ee6402a404cfaf943f71546'></iframe>
 
 ## Szczegóły
 

@@ -22,7 +22,7 @@ time_spent:             5
 
 pois:
 
-
+strava: 1087444780
 ---
 
 [wiki-kamienieckie-jezioro]: https://pl.wikipedia.org/wiki/Jezioro_Kamienieckie_(Pojezierze_Gnie%C5%BAnie%C5%84skie)
@@ -53,11 +53,6 @@ Wstęp
 Chciałem ponownie dojechać do [Jeziora Kamienieckiego][wiki-kamienieckie-jezioro]
 i zobaczyć jak wygląda ono z południowej strony. Jednocześnie chciałem przejechać
 przez okolice [Trzemeszna][wiki-trzemeszno].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1087444780/embed/2ee93b6f1b6b0f0383f2ed5933520ad44c7170b9'></iframe>
 
 Szczegóły
 ---------

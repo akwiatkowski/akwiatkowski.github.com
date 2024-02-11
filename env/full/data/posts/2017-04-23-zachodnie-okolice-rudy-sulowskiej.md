@@ -30,6 +30,7 @@ pois:
     lon: 17.16872
     name: Na północ od Sułowa są ciekawe wioski
 
+strava: 954904200
 ---
 
 [wiki-dolina-baryczy]: https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
@@ -49,11 +50,6 @@ Wstęp
 
 Dzień wcześniej zwiedziliśmy wschodnie okolice [Doliny Baryczy][wiki-dolina-baryczy]
 dlatego zostały nam do odwiedzin jeszcze zachodnie.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/954904200/embed/675ca658031612d2d3c30ccf7855d0004fbb2ca1'></iframe>
 
 Szczegóły
 ---------

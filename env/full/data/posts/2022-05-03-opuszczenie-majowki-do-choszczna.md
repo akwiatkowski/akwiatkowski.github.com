@@ -29,13 +29,12 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/7080320800
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/7080320800/embed/ffa9c1ea47ea1c9100e4e72fe94caa5f1b088546'></iframe>
 
 ## Szczegóły

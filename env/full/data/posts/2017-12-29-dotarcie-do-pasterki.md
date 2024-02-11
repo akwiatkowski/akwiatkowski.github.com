@@ -22,6 +22,7 @@ elevation:              407
 
 pois:
 
+strava: 1338129841
 ---
 
 [wiki-posna]: https://pl.wikipedia.org/wiki/Posna
@@ -45,11 +46,6 @@ Grudzień (listopad również) jest miesiącem odpoczynku od wycieczek za wyjąt
 Od jakiegoś czasu (dokładnie już dwa razy) spędzam go w schroniskach górskich.
 Tym razem postanowiliśmy spędzić go w [Pasterce][wiki-pasterka-schronisko]
 w [Górach Stołowych][wiki-gory-stolowe].
-
-Opis trasy
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1338129841/embed/592384a4d41d3e0148b3c6e2259690bc28b15466'></iframe>
 
 Szczegóły
 ---------

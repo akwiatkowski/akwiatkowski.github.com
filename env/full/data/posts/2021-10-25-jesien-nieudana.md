@@ -29,14 +29,12 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6174235392
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6174235392/embed/d20535dce3d98bae63c236ae869a7effad6ed07f'></iframe>
 
 ## Szczegóły
 

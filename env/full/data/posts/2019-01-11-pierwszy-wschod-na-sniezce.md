@@ -22,6 +22,7 @@ time_spent:             8
 elevation:              478
 temperature:            -12
 
+strava: 2077524690
 ---
 
 [wiki-jelenia-gora]: https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
@@ -48,10 +49,6 @@ zimy nie było w górach. Nie mogłem zrobić zdjęcia, które tak chciałem i p
 Od tego momentu, co jakiś czas udawało mi się zbliżyć ale nigdy nie udało mi się
 osiągnąć celu. Tego dnia również mi się nie udało, ale byłem najbliżej celu jak nigdy
 dotąd.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2077524690/embed/dbfb1224fad65711b18b50a440b1cccd64743015'></iframe>
 
 ## Szczegóły
 

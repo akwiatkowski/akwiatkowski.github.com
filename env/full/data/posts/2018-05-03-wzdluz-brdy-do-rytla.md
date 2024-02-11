@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1547186582
 ---
 
 [wiki-legbad]: https://pl.wikipedia.org/wiki/Legb%C4%85d
@@ -48,10 +49,6 @@ pois:
 
 Prognoza pogody na ten dzień nie była obiecująca. Rano padało i dlatego musieliśmy
 wymyśleć krótką, popołudniową trasę - bo odpoczynek nie wchodzi w grę.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1547186582/embed/56e93a545e1ea5c9840209904e8434ab64a9b9d9'></iframe>
 
 ## Szczegóły
 

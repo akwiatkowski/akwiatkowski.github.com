@@ -23,6 +23,7 @@ elevation:              189
 
 pois:
 
+strava: 1338144158
 ---
 
 [wiki-machov]: https://pl.wikipedia.org/wiki/Machov
@@ -41,11 +42,6 @@ Mieliśmy jakieś plany, pomysły na szlaki do przejścia. Chciałem dostać si�
 czeskiego [Machova][wiki-machov] jednak błoto na szlaku (o którym się dowiedzieliśmy
 od innych) przekonało nas,
 że nie jest to najlepszy pomysł.
-
-Opis trasy
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1338144158/embed/a67b0b28c7389345aae09a21e82fd17df2fb4c68'></iframe>
 
 Szczegóły
 ---------

@@ -21,6 +21,7 @@ time_spent:             7
 
 pois:
 
+strava: 670153809
 
 ---
 
@@ -57,15 +58,8 @@ Wstęp
 Tego dnia pogoda nie zapowiadała się zbyt dobrze, jednak mając cały dzień nie mogłem
 siedzieć w domu.
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/670153809/embed/ddb245c843f794494af6b4d32a32c738e5fc427e'></iframe>
-
 Szczegóły
 ---------
-
-
 
 Naszą bazę mieliśmy na wysokości około 550m n.p.m., dzięki czemu początkowa
 część naszej trasy to był całkiem fajny zjazd do miejscowości poniżej

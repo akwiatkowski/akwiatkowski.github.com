@@ -16,6 +16,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               11
 time_spent:             6
+
+strava: 334968071
 ---
 
 [post-wczesniejszy]:            /trip/2011/12/31/zimowa-sniezka/
@@ -38,11 +40,6 @@ Wstęp
 
 Nie przypuszczałem, że tego dnia zrobię swoje najlepsze zdjęcie. Nie przypuszczałem również, że zrobię je w tak
 nieprzyjaznej pogodzie.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334968071/embed/34e651418339d572833921993c62e343b84966f7'></iframe>
 
 Szczegóły
 ---------

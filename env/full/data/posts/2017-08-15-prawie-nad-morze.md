@@ -28,6 +28,7 @@ pois:
     lon: 16.06924
     name: Zjazd na do Połczyna Zdrój od strony południowej
 
+strava: 1135266054
 ---
 
 [wiki-drawski-park]: https://pl.wikipedia.org/wiki/Drawski_Park_Krajobrazowy
@@ -59,11 +60,6 @@ Tego dnia chcieliśmy zobaczyć jak najwięcej z pagórkowatych terenów
 [Drawskiego Parku Krajobrazowego][wiki-drawski-park], dostać się
 na sensowny powrót do [Poznania][wiki-poznan] i jednocześnie być w kilku
 nowych gminach.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1135266054/embed/9923aca2fa397cbfe62b0ff814e9f50b57eaf346'></iframe>
 
 Szczegóły
 ---------

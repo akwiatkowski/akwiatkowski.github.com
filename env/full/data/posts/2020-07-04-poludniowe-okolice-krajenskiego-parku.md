@@ -29,6 +29,8 @@ pois:
     name: Okolica Ostrówka, bardzo klimatyczna. Była tutaj linia kolejowa 240.
     type: visited
 
+strava: 3713644245
+
 ---
 
 [wiki-jezioro-slawianowskie]: https://pl.wikipedia.org/wiki/Jezioro_S%C5%82awianowskie_Wielkie
@@ -71,10 +73,6 @@ część Polski to idealne miejsca na rowerową eksplorację.
 Czas jest największym problemem. Nie zawsze mam weekend aby jechać gdzieś
 dalej dlatego staram się maksymalnie wykorzystać jeden pełny dzień gdy się
 pojawi.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3713644245/embed/af0e31833cdddc43d13822b5aecc0d30248e532c'></iframe>
 
 ## Szczegóły
 

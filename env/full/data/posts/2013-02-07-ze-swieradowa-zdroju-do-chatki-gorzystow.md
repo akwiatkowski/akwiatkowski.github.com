@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               12
 time_spent:             7
+
+strava: 333303039
 ---
 
 [wiki-jelenia]:                 https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
@@ -33,11 +35,6 @@ Wstęp
 -----
 
 Była to pierwszy wycieczka z Krzychem i jednocześnie próba przejścia liniowo pewnej trasy, przez więcej niż 2 dni.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333303039/embed/44f23f51c4e674f1278f14e123faeb63489a2609'></iframe>
 
 Szczegóły
 ---------

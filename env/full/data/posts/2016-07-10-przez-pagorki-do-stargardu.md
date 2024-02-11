@@ -22,6 +22,8 @@ pois:
     lat: 53.06777
     lon: 15.21273
 
+strava: 636662566
+
 ---
 
 [wiki-przywodzie]: https://pl.wikipedia.org/wiki/Przywodzie_(gmina_Przelewice)
@@ -77,11 +79,6 @@ Podczas tego weekendu pogoda w sobotę była daleka do odpowiedniej, ale
 niedziela zapowiadała się znacznie lepsza. Wybraliśmy się zobaczyć tą
 trasę. Nie wiedziałem co tam będzie, nie widziałem na mapie [UMP][ump]
 szlaków rowerowych, więc była to w pewnym sensie niewiadoma.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/636662566/embed/045f75184048e32f4e884070572ba7b69267020c'></iframe>
 
 Szczegóły
 ---------

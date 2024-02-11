@@ -27,6 +27,7 @@ pois:
     lon: 21.92034
     name: Okolica wioski Moszczaniec, bardzo dużo ładnych pagórków dalej na wschód
 
+strava: 1107123694
 ---
 
 [wiki-wola-wyzna]: https://pl.wikipedia.org/wiki/Wola_Wy%C5%BCna
@@ -53,11 +54,6 @@ Wstęp
 w [Beskidzie Niskim][wiki-beskid-niski] w jakiej byłem. Oczywiste jest to,
 że ciekawiło mnie co jest tam dalej na wschód. Ten dzień jest małą odpowiedzią
 na to pytanie a jednocześnie zadaje kilka kolejnych pytań.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1107123694/embed/241f8a27ec7bfe081a024ef67eba2b0c7d57b40c'></iframe>
 
 Szczegóły
 ---------

@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               20
 time_spent:             8
+strava: 334946565
 ---
 
 [wiki-gory-sowie]:      https://pl.wikipedia.org/wiki/G%C3%B3ry_Sowie
@@ -36,11 +37,6 @@ Wstęp
 -----
 
 Można powiedzieć, że jest to pierwszy dzień w [Górach Sowich][wiki-gory-sowie].
-
-Szczegóły
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334946565/embed/9db9e54ef77e3946e81fce6b110d85368994f3e1'></iframe>
 
 Opis trasy
 ----------

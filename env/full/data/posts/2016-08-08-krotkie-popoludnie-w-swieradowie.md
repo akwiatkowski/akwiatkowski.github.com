@@ -20,6 +20,8 @@ time_spent:             5
 
 pois:
 
+strava: 669331466
+
 ---
 
 
@@ -40,11 +42,6 @@ jak to jest "jeździć po górach".
 
 Ja niestety nie mogłem pojechać na cały tydzień - mogłem tylko na trzy dni, w tym
 ostatni dzień jako powrotny.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/669331466/embed/3643f249fa5d39433083a28ca79dbe60a4c56f6f'></iframe>
 
 Szczegóły
 ---------

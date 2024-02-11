@@ -27,6 +27,7 @@ pois:
     lon: 18.43152
     name: Jest wiele ciekawych miejsc na rower w okolicy Piesienicy
 
+strava: 1554212365
 ---
 
 [wiki-tczew]: https://pl.wikipedia.org/wiki/Tczew
@@ -51,10 +52,6 @@ pois:
 To był ostatni dzień majówki. Wracaliśmy do domu w poniedziałek rano i po
 wczorajszej 100km trasie chcieliśmy coś krótkiego, spokojnego
 ale i jednocześnie nadal ciekawego.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1554212365/embed/074d31a1055f4fb6aec073b81e02edaa24a9dc97'></iframe>
 
 ## Szczegóły
 

@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               26
 time_spent:             3
+strava: 365285496
 ---
 
 [wiki-kornik]:          https://pl.wikipedia.org/wiki/K%C3%B3rnik
@@ -34,11 +35,6 @@ Wstęp
 
 Bardzo krótka trasa do jednego z najdzikszych miejsc Poznania, gdzie
 można dojechać komunikacją miejską.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/365285496/embed/a924735eb92e660866fc989a8e5f3e699ddc5932'></iframe>
 
 Szczegóły
 ---------

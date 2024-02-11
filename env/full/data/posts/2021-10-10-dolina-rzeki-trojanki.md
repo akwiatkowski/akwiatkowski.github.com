@@ -31,13 +31,11 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6099334878
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6099334878/embed/53421cea055b189d43f251a6f7f0152d6f5b3edc'></iframe>
 
 ## Szczegóły

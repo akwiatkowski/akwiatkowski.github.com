@@ -31,6 +31,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4021067262
+
 ---
 
 [wiki-sieradz]: https://pl.wikipedia.org/wiki/Sieradz
@@ -54,10 +56,6 @@ pois:
 [wiki-tuszyn]: https://pl.wikipedia.org/wiki/Tuszyn
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4021067262/embed/590e2417595019b46602533dffd30fb42ad5a970'></iframe>
 
 ## Szczegóły
 

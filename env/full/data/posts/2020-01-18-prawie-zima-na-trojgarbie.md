@@ -28,6 +28,8 @@ pois:
     name: Miejsce parkingowe przy najkrótszej drodze na Trójgarb
     type: visited
 
+strava: 3027708652
+
 ---
 
 {% photo_header "Zima w lesie","tag:portfolio,tag:good,tag:best" %}
@@ -55,10 +57,6 @@ zmodyfikować plan. Wydawało mi się, że lepszą opcją byłoby przejść
 przez [Trójgarb][wiki-trojgarb], gdzie w 2018 postawiono dużą wieżę widokową.
 
 {% photo "2020_01_18__10_43_DSC05872.jpg","Stary dom w Szczawnie Zdrój" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3027708652/embed/79cf274fe5c61f16ff2e36f1413a86dce6880ba5'></iframe>
 
 ## Szczegóły
 

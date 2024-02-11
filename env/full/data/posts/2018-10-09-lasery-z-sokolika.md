@@ -25,6 +25,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1899722489
 ---
 
 [meteo]: http://www.meteo.pl/
@@ -50,10 +51,6 @@ udało mi się zrobić zdjęcia "laserów".
 Prognozy pogody były różne. Mgiełki w dolinach były możliwe ale nie były pewne.
 Wybór [Sokolika][wiki-sokolik] jako miejsca do zdjęć był dla mnie oczywisty.
 Nawet jeżeli nie będzie mgieł to przetestowałbym robienie zdjęć przed wschodem słońca.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1899722489/embed/83afab9b1699d1baafb4b9c2c18ae3f4c53abfb5'></iframe>
 
 ## Szczegóły
 

@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1627858312
 ---
 
 [wiki-olsztyn]: https://pl.wikipedia.org/wiki/Olsztyn
@@ -69,10 +70,6 @@ pois:
 Jakoś w tym roku pomimo dobrej pogody nie miałem zbyt dużo wolnych weekendów,
 na dłuższe wypady rowerowe. Dopiero teraz udało mi się mieć czas na wyjazd.
 Pogoda była dobra, może nawet "za dobra". Było bardzo ciepło.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1627858312/embed/d577dfe5a36f1438ece81fbb1dc34d6414d488d0'></iframe>
 
 ## Szczegóły
 

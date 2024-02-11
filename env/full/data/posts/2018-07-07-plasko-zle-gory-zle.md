@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1687021949
 ---
 
 [wiki-zabkowice-zamek]: https://pl.wikipedia.org/wiki/Zamek_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich
@@ -75,10 +76,6 @@ Maciej i Michał woleli coś bardziej pagórkowatego.
 Patrząc na prognozę pogody, zwłaszcza kierunek wiatru, zaproponowałem
 jazdę z [Jaworzyny Śląskiej][wiki-jaworzyna-slaska] w
 kierunku południowo-wschodnim.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1687021949/embed/0a59ad3610840db56c1278c53af208e5aef8dc51'></iframe>
 
 ## Szczegóły
 

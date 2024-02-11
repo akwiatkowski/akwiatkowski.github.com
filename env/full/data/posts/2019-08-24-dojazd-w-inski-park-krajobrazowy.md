@@ -29,6 +29,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2651055585
+
 ---
 
 [wiki-choszczno]: https://pl.wikipedia.org/wiki/Choszczno
@@ -51,9 +53,9 @@ pois:
 
 ## Wstęp
 
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2651055585/embed/7752564ad6bb199313e023b9aee20f392a10b3be'></iframe>
+[Ińsko][wiki-insko] trochę mnie ciekawiło jako miejscowość w sercu (jedynego
+z wielu) regionu na Pomorzu. Teraz udało się zobaczyć okolicę podczas
+krótkiej weekendowej wycieczki.
 
 ## Szczegóły
 

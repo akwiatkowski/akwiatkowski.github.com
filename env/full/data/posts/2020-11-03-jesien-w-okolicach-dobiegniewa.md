@@ -30,6 +30,8 @@ pois:
     name: Tunel drzew który pięknie wygląda jesienią
     type: visited
 
+strava: 4296592953
+
 ---
 
 [wiki-szypa-jezioro]: https://pl.wikipedia.org/wiki/Jeziorko_(Pojezierze_Dobiegniewskie)
@@ -53,10 +55,6 @@ pois:
 
 Co roku jesienią jeżdżę w góry. Z oczywistych powodów ten rok jest wyjątkowy
 (a mam wrażenie, że kolejne lata będą jeszcze bardziej wyjątkowe).
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4296592953/embed/d87f5b49ad8376d0f75a72066dcbd3e603700533'></iframe>
 
 ### Dlaczego tutaj? Czyli wpływ epidemii
 

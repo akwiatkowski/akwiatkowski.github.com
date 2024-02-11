@@ -29,6 +29,8 @@ pois:
     name: Okolica Szamosia obok Świecia nad Osą jest ciekawym miejscem do dokładniejszej eksploracji
     type: todo
 
+strava: 5716897856
+
 ---
 
 [wiki-szczecinek]: https://pl.wikipedia.org/wiki/Szczecinek
@@ -74,10 +76,6 @@ pois:
 Tego dnia początkowo chciałem pojechać do [Szczecinka][wiki-szczecinek] i
 jechać w stronę [Tucholi][wiki-tuchola]. Niestety powrót z tej miejscowości byłby
 trudny dlatego musiałem wybrać inne dostępne opcje.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5716897856/embed/3b30d12a91da96c0bb50b64f1bd78703c16730fb'></iframe>
 
 ## Szczegóły
 

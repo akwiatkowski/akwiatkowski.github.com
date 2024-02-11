@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2299944518
+
 ---
 
 [wiki-wiry]: https://pl.wikipedia.org/wiki/Wiry_(wie%C5%9B_w_wojew%C3%B3dztwie_wielkopolskim)
@@ -42,10 +44,6 @@ Miasto zaczyna mnie męczyć. Zwłaszcza gdy robi się ciepło, wokół mnie jes
 zamiast przyrody i widzę jak ludzie jej nie szanują.
 
 Musiałem tego dnia gdzieś pojechać rowerem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2299944518/embed/ad5aa5d5a12b0ba16f89c7db9a9abf18490a39bd'></iframe>
 
 ## Szczegóły
 

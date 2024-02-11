@@ -28,12 +28,13 @@ pois:
     lon: 19.53393
     name: Bardzo pofalowany żółty szlak rowerowy do Witoszewa
   - lat: 53.89625
-    lon: 19.46243  
+    lon: 19.46243
     name: Okolica Lubiechowa jest ładnie pofalowana
   - lat: 53.97010
-    lon: 19.20602  
+    lon: 19.20602
     name: Okolice Bukowca obok Malborka to idealne tereny na rower i zdjęcia (pagórki, pola)
 
+strava: 1630090754
 ---
 
 [wiki-milomlyn-linia]: https://pl.wikipedia.org/wiki/Linia_kolejowa_Mi%C5%82om%C5%82yn_%E2%80%93_Mor%C4%85g
@@ -70,10 +71,6 @@ pois:
 [wiki-linia-218]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_218
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1630090754/embed/f010c96bfbe6c48924f95274c4f060d9ec2ad2d9'></iframe>
 
 ## Szczegóły
 

@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               17
 time_spent:             7
+
+strava: 167090796
 ---
 
 [wiki-worek]:                   https://pl.wikipedia.org/wiki/Grupa_Wielkiej_Raczy
@@ -35,11 +37,6 @@ Wstęp
 Pierwsza wizyta w [Beskidzie Żywieckim][wiki-beskid-zywiecki], w [Worku Raczańskim][wiki-worek].
 
 Po słabej pogodzie na majówce, ten wypad miał mieć znacznie lepszą pogodę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167090796/embed/8572319f4b87e285df898c7566288d51c287386c'></iframe>
 
 Szczegóły
 ---------

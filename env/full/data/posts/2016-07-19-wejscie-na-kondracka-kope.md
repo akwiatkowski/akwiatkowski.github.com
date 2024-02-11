@@ -21,6 +21,7 @@ time_spent:             5
 
 pois:
 
+strava: 650898085
 
 ---
 
@@ -42,11 +43,6 @@ Jak już jesteśmy na miejscu wypadałoby gdzieś pójść, a nie siedzieć. Sen
 wyborem był albo zatłoczony [Giewont][wiki-giewont] albo [Kondracka Kopa][wiki-kondracka-kopa].
 
 To drugie ciekawsze, inne, nowsze i mniej popularne. Dlatego było u nas znacznie wyżej na liście.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650898085/embed/c1353b98fd1178fb44a133882bce4849846f12d8'></iframe>
 
 Szczegóły
 ---------

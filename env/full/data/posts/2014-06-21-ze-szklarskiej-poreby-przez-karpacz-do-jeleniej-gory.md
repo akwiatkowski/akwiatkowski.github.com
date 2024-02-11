@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               57
 time_spent:             7
+strava: 156740137
 ---
 
 [wiki-pod-reglami]:               https://pl.wikipedia.org/wiki/Droga_pod_Reglami_(Karkonosze)
@@ -42,11 +43,6 @@ Wstęp
 
 Był to ostatni dzień jazdy na tej wycieczce. Tym razem spróbowaliśmy liniową trasę
 z powrotem koleją.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/156740137/embed/a8b1e73b29d1ac370b63eff55118dd21d54fff61'></iframe>
 
 Szczegóły
 ---------

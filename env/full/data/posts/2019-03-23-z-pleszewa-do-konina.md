@@ -27,6 +27,7 @@ pois:
     lon: 17.91488
     name: Bardzo spokojna okolica na rower, najlepiej nie szosowy
 
+strava: 2234480813
 ---
 
 [wiki-kowalew]: https://pl.wikipedia.org/wiki/Kowalew_(powiat_pleszewski)
@@ -61,10 +62,6 @@ plan pierwszej, dłuższej jazdy rowerem.
 Chciałem "zaliczyć" nowe gminy również. Początkowo myślałem o trasie około 80km
 [Rawicz][wiki-rawicz]-[Ostrów Wielkopolski][wiki-ostrow-wielkopolski], jednak
 ostatecznie wybrałem alternatywę [Pleszew][wiki-pleszew]-[Konin][wiki-konin].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2234480813/embed/a9beb710f778b012f6658ae7d4fc41f06288bfb3'></iframe>
 
 ## Szczegóły
 

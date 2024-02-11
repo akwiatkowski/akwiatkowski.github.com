@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               14
 time_spent:             5
+
+strava: 334987411
 ---
 
 [wiki-masyw-snieznika]:         https://pl.wikipedia.org/wiki/Masyw_%C5%9Anie%C5%BCnika
@@ -39,11 +41,6 @@ Wstęp
 -----
 
 Trasa ta opisuje zejście ze [schroniska][wiki-schronisko] i powrót do cywilizacji.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334987411/embed/816f4500ab3eec472512f5bd452b87163800c19e'></iframe>
 
 Szczególy
 ---------

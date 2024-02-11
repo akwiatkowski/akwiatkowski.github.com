@@ -16,10 +16,10 @@ towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
 #coords_type:            "bicycle"
-distance:               
+distance:
 time_spent:             2
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -32,7 +32,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

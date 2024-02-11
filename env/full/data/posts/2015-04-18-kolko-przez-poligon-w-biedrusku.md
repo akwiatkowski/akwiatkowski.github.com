@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               31
 time_spent:             3
+strava: 288546971
 ---
 
 
@@ -21,8 +22,3 @@ Wstęp
 -----
 
 Trasa na spokojny początek wiosny. Kilometrów nie zrobiliśmy dużo, a robiło się trochę chłodno.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/288546971/embed/20090cef3e8bf131c0ac33794fbb2d8a6c531e16'></iframe>

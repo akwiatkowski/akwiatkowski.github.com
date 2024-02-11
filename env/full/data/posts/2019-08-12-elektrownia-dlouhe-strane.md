@@ -20,13 +20,15 @@ map_zooms:              14
 distance:               8
 time_spent:             3
 elevation:              253
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2630846437
 
 ---
 
@@ -46,10 +48,6 @@ pois:
 
 Ostatnim punktem tej niekrótkiej wycieczki zagranicznej było zobaczenie okolicy elektrowni
 szczytowo-pompowej [Dlouhe Strane][wiki-dlouhe-strane-elektrownia].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2630846437/embed/14686b9e77e7b256dc85a86cfbfc1acbe01468fc'></iframe>
 
 ## Szczegóły
 

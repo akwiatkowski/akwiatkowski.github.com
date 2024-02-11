@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               5
 time_spent:             2
 
+strava: 837601397
 ---
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -35,11 +36,6 @@ Przyczyną była mgła i niska temperatura. Gdy zobaczyłem szadź na drzewach
 nie mogłem tej okazji opuścić.
 Wybrałem się do [Radojewa][wiki-radojewo] - północnej części
 [Poznania][wiki-poznan] ograniczonej przez Wartę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/837601397/embed/38d4991d6f6d2b795a26d92ab7150cd16ce9265d'></iframe>
 
 Szczegóły
 ---------

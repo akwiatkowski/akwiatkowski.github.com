@@ -21,6 +21,7 @@ time_spent:             6
 
 pois:
 
+strava: 1062687715
 ---
 
 [wiki-rawicz]: https://pl.wikipedia.org/wiki/Rawicz
@@ -54,11 +55,6 @@ Głównym przeznaczeniem mają być szybkie i dłuższe trasy jednodniowe głów
 po asfalcie (ale nie tylko).
 
 To była pierwsza dłuższa trasa jaką zrobiłem na tym rowerze.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1062687715/embed/c0b3f32c580b9bbd64e0ae1d69684ae0bf98c419'></iframe>
 
 Szczegóły
 ---------

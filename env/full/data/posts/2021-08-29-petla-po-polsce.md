@@ -19,8 +19,8 @@ coords_type:            "car"
 map_zooms:              7
 distance:               1607 # 440 + 685 + 199 + 283
 time_spent:             30 # 8 + 13 + 4 + 5
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -33,8 +33,6 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły
 

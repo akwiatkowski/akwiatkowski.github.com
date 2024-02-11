@@ -21,7 +21,7 @@ time_spent:             7
 
 pois:
 
-
+strava: 1019314157
 ---
 
 [wiki-lagow]: https://pl.wikipedia.org/wiki/%C5%81ag%C3%B3w_(powiat_%C5%9Bwiebodzi%C5%84ski)
@@ -51,11 +51,6 @@ Wstęp
 Słyszałem kiedyś wiele dobrego o okolicy [Łagowa][wiki-lagow]. Wiedząc o
 dobrym połączeniu kolejowym do [Sulechowa][wiki-sulechow] postanowiliśmy
 pojechać rowerem w te strony zobaczyć na ile są ciekawe.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1019314157/embed/a4c180c2f8c172dad40957616cb9832270c7d858'></iframe>
 
 Szczegóły
 ---------

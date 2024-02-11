@@ -15,10 +15,11 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               81
 time_spent:             11
+strava: 166527367
 ---
 
 [vimeo-1]:               https://vimeo.com/103796121
-[vimeo-2]:               https://vimeo.com/103808770  
+[vimeo-2]:               https://vimeo.com/103808770
 
 
 [kolej]:                 http://www.kolej.rewal.pl/index.php?option=com_content&view=article&id=37&Itemid=192
@@ -35,11 +36,6 @@ Wstęp
 
 Był to drugi dzień wyprawy rowerowej po Wybrzeżu, jednocześnie najdłuższy gdyż
 zrobiliśmy 80km.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/166527367/embed/0590408a1d27d5651bb635ea0c9377af765038c9'></iframe>
 
 Szczegóły
 ---------

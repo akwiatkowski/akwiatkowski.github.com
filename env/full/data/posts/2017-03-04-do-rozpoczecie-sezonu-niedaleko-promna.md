@@ -25,6 +25,7 @@ pois:
     lon: 17.11194
     name: Fajny zjazd w Katarzynce
 
+strava: 887321219
 ---
 
 [wiki-jezioro-debiniec]: https://pl.wikipedia.org/wiki/Rezerwat_przyrody_Jezioro_D%C4%99biniec
@@ -51,11 +52,6 @@ Wstęp
 Przypadkiem w sobotę okazało się, że będzie bardzo ciepło. Miałem kilka
 godzin wolnego więc chciałem ponownie zainaugurować sezon rowerowy. Tym razem
 tak mocniej.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/887321219/embed/fab84f0ee36d0ae409cf327a80a57092055cfb7d'></iframe>
 
 Szczegóły
 ---------

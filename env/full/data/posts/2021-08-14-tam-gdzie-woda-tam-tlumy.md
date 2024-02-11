@@ -29,19 +29,15 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - 5797497004
+  - 5797506859
+  - 5797518043
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5797497004/embed/7939af7d5bb4b02b21c5bb274813450b4dca4ff5'></iframe>
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5797506859/embed/da33fb78c8c415c6d9fe2afeecfb0964f23b42f4'></iframe>
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5797518043/embed/c3eb5b9f80ac9272614d834411b62249da2bdb73'></iframe>
-
 
 ## Szczegóły
 

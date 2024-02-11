@@ -25,7 +25,7 @@ map_zooms:              13
 distance:               11
 time_spent:             5
 elevation:              46
-temperature:            
+temperature:
 
 
 pois:
@@ -33,6 +33,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2273033006
 ---
 
 [wiki-pobiedziska]: https://pl.wikipedia.org/wiki/Pobiedziska
@@ -54,10 +55,6 @@ Bardzo dobra pogoda jednak motywowała aby nie siedzieć w domu. Szukałem
 ciekawego miejsca na spacer. Spacerując mogę robić więcej zdjęć.
 
 Wybrałem tym razem południowo-wschodnią okolicę [Pobiedzisk][wiki-pobiedziska].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2273033006/embed/91739dd31165bbf721ad1c3848da08807e0f4638'></iframe>
 
 ## Szczegóły
 

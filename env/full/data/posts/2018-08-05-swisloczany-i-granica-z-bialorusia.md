@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1751568230
 ---
 
 [wiki-bialorus]: https://pl.wikipedia.org/wiki/Bia%C5%82oru%C5%9B
@@ -53,8 +54,6 @@ pois:
 
 Tego dnia nie mieliśmy konkretnych planów. Mnie ciekawiły wioski przy granicy
 z [Białorusią][wiki-bialorus] dlatego postanowiliśmy tam pojechać.
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1751568230/embed/2695c317a912b6f0957a406ed25c75a6a51c893f'></iframe>
 
 ## Szczegóły
 

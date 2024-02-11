@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               12
 time_spent:             6
+
+strava: 333324704
 ---
 
 [wiki-gss]:                     https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Szlak_Sudecki
@@ -31,12 +33,6 @@ Wstęp
 
 Ponowna wizyta w [Karkonoszach][wiki-karkonosze], tym razem więcej szcześcia z
 realizacją [Głównego Szlaku Sudeckiego][wiki-gss], ale zero szczęścia z pogodą.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333324704/embed/930e6c8a8dc045691f3901222df50b492ed4bdf3'></iframe>
-
 
 Szczegóły
 ---------

@@ -19,8 +19,8 @@ coords_file:            "2021-03-21-deszczowa-eksploracja-opolskiego.json"
 coords_type:            "car"
 distance:               81
 time_spent:             6
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

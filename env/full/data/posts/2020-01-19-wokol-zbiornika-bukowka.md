@@ -28,6 +28,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3027717478
+
 ---
 [wiki-lubawka]: https://pl.wikipedia.org/wiki/Lubawka
 [wiki-przelecz-okraj]: https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Okraj
@@ -46,10 +48,6 @@ pois:
 
 Tego dnia chcieliśmy się szybko spakować i ruszyć samochodem aby zobaczyć
 okolice [Lubawki][wiki-lubawka], a głównie [Jezioro Bukowskie][wiki-jezioro-bukowskie].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3027717478/embed/7c2cb0d08a0e851de6e66a2ff111b84320497873'></iframe>
 
 ## Szczegóły
 

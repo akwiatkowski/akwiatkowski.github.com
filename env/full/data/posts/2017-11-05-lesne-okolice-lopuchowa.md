@@ -21,7 +21,7 @@ time_spent:             5
 elevation:              208
 pois:
 
-
+strava: 1262935380
 ---
 
 [wiki-dzwonowka]: https://pl.wikipedia.org/wiki/Dzwon%C3%B3wka
@@ -46,11 +46,6 @@ W ten weekend była zapowiadana wyjątkowo dobra pogoda.
 [Wczoraj]({% post_url 2017-11-04-poludniowo-zachodnia-sypialnia-poznania %})
 jeździłem rowerem dlatego dzisiaj wolałem przejść się pieszo aby móc zrobić
 więcej ciekawych zdjęć.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1262935380/embed/795653c2ab7d10d7d21f6c7b671703e2b1b237c1'></iframe>
 
 Szczegóły
 ---------

@@ -23,6 +23,8 @@ pois:
     lon: 14.43846
     name: Punkt widokowy na Turkusowe Jezioro
 
+strava: 716967188
+
 ---
 
 [wiki-swinoujscie]: https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
@@ -44,11 +46,6 @@ Wstęp
 [Dzień wcześniej]({% post_url 2016-09-17-ze-swinoujscia-do-zachodnich-przyjaciol %})
 byliśmy na zachód od [Świnoujścia][wiki-swinoujscie], to teraz najlepiej pojechać
 by było w drugą stronę - na wschód.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/716967188/embed/e744e5d41ca98a5f8f746b2e2ad27ebc23e0ed07'></iframe>
 
 Szczegóły
 ---------

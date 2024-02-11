@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1763101981
+
 ---
 
 [wiki-carska-droga]: https://pl.wikipedia.org/wiki/Carska_Droga
@@ -51,10 +53,6 @@ pois:
 Plan na ten dzień został ustalony wcześniej - przejechać [Carską Drogą][wiki-carska-droga]
 do [Tykocina][wiki-tykocin]. Niestety, była prognoza silnego wiatru w kierunku przeciwnym.
 Byśmy musieli jechać 30km pod wiatr, bez żadnego sklepu. Z tego powodu zaplanowałem alternatywę.
-
-## Opis trasę
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1763101981/embed/0a88248655f8fa565d8900508a5871909bc9ef9e'></iframe>
 
 ## Szczegóły
 

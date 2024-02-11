@@ -26,6 +26,7 @@ pois:
     lon: 16.54395
     name: Granówko - wieś ze starymi budynkami z czerwonej cegły i zapomnianym pałacem
 
+strava: 1123815897
 ---
 
 [wiki-koscian]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcian
@@ -48,11 +49,6 @@ Nie udało się w weekend pojeździć razem z Maciejem. Tego dnia miał być
 stabilny wiatr w kierunku północno-zachodnim co nie jest częstym zjawiskiem.
 Na ogół wiatr wieje w kierunku wschodnim. Chcieliśmy wykorzystać dobrą
 pogodę aby odwiedzić jakieś nowe miejsca.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1123815897/embed/0f776cbf67c2debfa322d2571c6cfe53c1c52546'></iframe>
 
 Szczegóły
 ---------

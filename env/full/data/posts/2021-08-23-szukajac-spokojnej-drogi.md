@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5840506787
+
 ---
 
 {% photo_header "Widok na Reszel","tag:summer,tag:countryside" %}
@@ -61,10 +63,6 @@ do której dojechałem [rowerem 2 miesiące temu]({% post_url 2021-06-13-warmia-
 {% photo "2021_08_23__12_54__8232500.jpg","Widok na Kętrzyn" %}
 
 Możliwość "dorysowania" na mapie gdzie byłem jest dla mnie bardzo istotnym argumentem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5840506787/embed/4eed75f6c1915f8a9f694b765aacd20cd77d9013'></iframe>
 
 ## Szczegóły
 

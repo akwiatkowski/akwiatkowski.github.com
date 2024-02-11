@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2474094833
+
 ---
 
 [wiki-wielkopolskie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_wielkopolskie
@@ -60,10 +62,6 @@ pois:
 Południowa część województwa [wielkopolskiego][wiki-wielkopolskie] jest dla mnie
 mniej ciekawa niż jego północna część. Zostało jednak trochę gmin do "zaliczenia"
 oraz wiatr pasował do przejechania tej trasy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2474094833/embed/92886e9f9927e53344a069fedce575a83b04de3c'></iframe>
 
 ## Szczegóły
 

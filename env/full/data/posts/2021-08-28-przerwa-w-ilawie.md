@@ -18,9 +18,9 @@ coords_file:            "2021-08-28-przerwa-w-ilawie.json"
 coords_type:            "hike"
 map_zooms:              16
 distance:               2
-time_spent:             
-elevation:              
-temperature:            
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

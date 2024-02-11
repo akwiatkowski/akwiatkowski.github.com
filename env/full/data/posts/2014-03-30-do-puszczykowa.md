@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               55
 time_spent:             6
+strava: 137170442
 ---
 
 [wiki-nadwiarcianski]:      https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy
@@ -31,8 +32,3 @@ W skrócie przejechałem się do [Puszczykowa][wiki-puszczykowo]
 
 Więcej napiszę może w późniejszych wpisach. Te tereny to taki poznański standard
 rowerowy.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137170442/embed/b4744bbaed98b590e2c8bd28b9a7db974e76220d'></iframe>

@@ -24,6 +24,7 @@ elevation:              189
 
 pois:
 
+strava: 1340308893
 ---
 
 [wiki-machov]: https://pl.wikipedia.org/wiki/Machov
@@ -41,11 +42,6 @@ Wstęp
 
 Tak jak niełatwo było się [dostać do Pasterki]({% post_url 2017-12-29-dotarcie-do-pasterki %})
 tak również niełatwo się z niej wydostać.
-
-Opis trasy
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1340308893/embed/4e8ab7cf0caf0a623a7ed674f930ee8cbea98250'></iframe>
 
 Szczegóły
 ---------

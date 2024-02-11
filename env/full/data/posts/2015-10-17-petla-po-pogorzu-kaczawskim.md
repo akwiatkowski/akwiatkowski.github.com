@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               30
 time_spent:             9
+strava: 418795820
 ---
 
 [wiki-sedziszowa]:              https://pl.wikipedia.org/wiki/S%C4%99dziszowa_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -36,11 +37,6 @@ spodobała, dlatego chciałem zobaczyć jak wyglądają te tereny jesienią.
 
 Zaplanowaliśmy trasę - pętle po [Pogórzu Kaczawskim][wiki-pogorze]. Na mapie nie wyglądała ona na tak
 odleglą, jak się później okazało.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/418795820/embed/ad2de8d1a9ada01e4239c016a6653ef0de0ce237'></iframe>
 
 Szczegóły
 ---------

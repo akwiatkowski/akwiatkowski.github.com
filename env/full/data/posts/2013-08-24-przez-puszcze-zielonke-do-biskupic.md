@@ -18,6 +18,8 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               38
 time_spent:             3
+
+strava: 137188530
 ---
 
 [wiki-szlak-kosc]:       https://pl.wikipedia.org/wiki/Szlak_ko%C5%9Bcio%C5%82%C3%B3w_drewnianych_wok%C3%B3%C5%82_Puszczy_Zielonka
@@ -37,11 +39,8 @@ Wstęp
 
 Pierwsza przejażdzka przez [Puszczę Zielonkę][wiki-puszcza-zielonka].
 
-
-Opis trasy
+Szczegóły
 ----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137188530/embed/0bf41ac8fb78d5ac54ad4bd8ecc927a6c1446868'></iframe>
 
 Do [Biedruska][wiki-biedrusko] dojechałem [Nadwarciańskim szlakiem rowerowym][wiki-nadwarcianski].
 Następnie kierowałem się na zachód

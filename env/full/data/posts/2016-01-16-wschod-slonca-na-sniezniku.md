@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               20
 time_spent:             8
+strava: 472921031
 ---
 
 [wiki-schronisko]:       https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_%C5%9Anie%C5%BCniku%E2%80%9D
@@ -27,11 +28,6 @@ Wstęp
 
 Ten dzień miał być najważniejszym dniem wyjazdu, jednak przez pogodę nie jestem
 w stanie go tak nazwać.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/472921031/embed/2903f0ce8713b2ae4a3d5b837cc6093b018095a3'></iframe>
 
 Szczegóły
 ---------

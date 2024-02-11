@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3505300658
+
 ---
 
 [wiki-sierakow]: https://pl.wikipedia.org/wiki/Sieraków
@@ -40,10 +42,6 @@ pois:
 
 Mając jeszcze kilka godzin postanowiliśmy zwiedzić nieznane
 okolice [Sierakowa][wiki-sierakow].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3505300658/embed/5910ade25a1b2f66a841e299810b7273c2738ab3'></iframe>
 
 ## Szczegóły
 

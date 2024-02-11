@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               13
 time_spent:             5
+strava: 346184297
 ---
 
 [wiki-kordowiec]:       https://pl.wikipedia.org/wiki/Kordowiec
@@ -31,11 +32,6 @@ Wstęp
 -----
 
 Trzeci dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346184297/embed/a6f71a71335448ea71f3e7cbc4502063b9366f13'></iframe>
 
 Szczegóły
 ---------

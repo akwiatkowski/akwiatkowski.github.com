@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1704685001
 ---
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -58,10 +59,6 @@ pois:
 Nie pamiętam już dokładnie wszystkich impulsów związanych z wyborem miejsca tej wycieczki.
 Na pewno jednym z czynników była niewielka odległość od [Poznania][wiki-poznan] oraz
 bliskość dużych obszarów zielonych - [Puszczy Noteckiej][wiki-puszcza-notecka].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1704685001/embed/5d0f3090a3da2698dd6f0f6fd10f3729695a9f00'></iframe>
 
 ## Szczegóły
 

@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               60
 time_spent:             8
+strava: 318213614
 ---
 
 [route]:                https://www.strava.com/activities/318213614
@@ -48,11 +49,8 @@ tak słonecznie.
 Podczas tego wyjazdu chciałem zrobić bardziej liniowe trasy, dzięki czemu mógłbym zobaczyć znacznie więcej
 okolicy. Pierwsza trasa była wyjątkiem.
 
-
 Opis trasy
 ----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/318213614/embed/bc2dd545b1e7f3976ef0b6d1b1cfef1e9d8574f5'></iframe>
 
 Większość trasy to asfalt. Chyba jedynie podjazd do [Jakuszyc][wiki-jakuszyce] ścieżką rowerową jest po utwardzonym terenie. Widoki,
 jak na trasę górską przystało, są tylko w górnych partiach. Reszta to lasy mocno ograniczające widoczność.

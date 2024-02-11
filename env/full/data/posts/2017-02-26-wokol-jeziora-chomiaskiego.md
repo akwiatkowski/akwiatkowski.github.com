@@ -18,6 +18,7 @@ map_zooms:              14
 distance:               16
 time_spent:             6
 
+strava: 889628563
 ---
 
 [wiki-jezioro-chomiaskie]: https://pl.wikipedia.org/wiki/Jezioro_Chomi%C4%85skie
@@ -33,11 +34,6 @@ Wstęp
 
 W ten weekend nastawiliśmy się na odpoczynek w okolicach bardzo spokojnej wioski położonej
 przy [Jeziorze Chomiąskim][wiki-jezioro-chomiaskie].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/889628563/embed/35c15dc0ce7aa92ee32eb72e731496218b589cd4'></iframe>
 
 Szczegóły
 ---------

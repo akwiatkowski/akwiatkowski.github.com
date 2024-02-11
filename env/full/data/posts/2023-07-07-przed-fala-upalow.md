@@ -29,17 +29,15 @@ pois:
 #    name: POI
 #    type: todo / visited
 
----
+strava:
+  - https://www.strava.com/activities/9405964054
 
+---
 
 ## Wstęp
 
 Prognoza pogody przewidywała około tygodniową falę upałów. Ciepłe powietrze
 nadciągało z Afryki. Dlatego chciałem skorzystać z tego dnia i wziąłem wolne.
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9405964054"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2077529595
 ---
 
 [wiki-pielgrzymy]: https://pl.wikipedia.org/wiki/Pielgrzymy
@@ -40,11 +41,6 @@ pois:
 
 Tego dnia wstaliśmy nie tak wcześnie ale mając na uwadze, że i tak pogoda będzie
 niezbyt ciekawa, to przesuneliśmy godzinę wyjścia.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2077529595/embed/653cfebc0f29c56ad34a587e86f992e5d7984eb7'></iframe>
-
 
 ## Szczegóły
 

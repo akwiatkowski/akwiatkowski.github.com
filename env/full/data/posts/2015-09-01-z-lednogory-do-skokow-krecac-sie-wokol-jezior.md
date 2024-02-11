@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               65
 time_spent:             6
+strava: 382481493
 ---
 
 [wiki-legnogora]:       https://pl.wikipedia.org/wiki/Lednog%C3%B3ra
@@ -56,12 +57,6 @@ Wstęp
 
 Zostałem namówiony na małą przejażdżkę. Wiedziałem, że będzie ciepło, ale nie myślałem że już od godziny 11-tej
 będzie źle.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/382481493/embed/9ed4e0502b7de60a29d4e67edd20618df86f1eb3'></iframe>
-
 
 Szczegóły
 ---------

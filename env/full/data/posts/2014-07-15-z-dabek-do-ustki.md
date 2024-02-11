@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               57
 time_spent:             7
+strava: 166527622
 ---
 
 [wiki-darlowo-zamek]:   https://pl.wikipedia.org/wiki/Zamek_Ksi%C4%85%C5%BC%C4%85t_Pomorskich_w_Dar%C5%82owie
@@ -36,11 +37,6 @@ Wstęp
 
 Był to ostatni dzień wyprawy po Wybrzeżu i poniżej napiszę dlaczego był on
 znacznie inny od poprzednich.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/166527622/embed/3d97f43e1236e73d21f690c3f1ff8bc49e4607ff'></iframe>
 
 Szczegóły
 ---------

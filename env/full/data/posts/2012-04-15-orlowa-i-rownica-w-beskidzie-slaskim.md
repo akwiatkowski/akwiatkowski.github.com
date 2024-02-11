@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               14
 time_spent:             5
+
+strava: 167091224
 ---
 
 [wiki-beskid-slaski]:         https://pl.wikipedia.org/wiki/Beskid_%C5%9Al%C4%85ski
@@ -31,13 +33,6 @@ Wstęp
 
 Pierwszy dzień krótkiej wycieczki w [Beskid Śląski][wiki-beskid-slaski]. Tego dnia jeszcze nie było tak szaro, dlatego postanowiliśmy
 pozwiedzać trochę okolicy.
-
-<!--
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091224/embed/8fc719f1c22503f4d44a716ee2180234a3138cfe'></iframe>
--->
 
 Szczegóły
 ---------

@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               21
 time_spent:             8
+
+strava: 334994788
 ---
 
 [wiki-sudety-wschodnie]:        https://pl.wikipedia.org/wiki/Sudety_Wschodnie
@@ -37,11 +39,6 @@ Wstęp
 
 Był to pierwszy kontakt z [Masywem Śnieżnika][wiki-masyw-snieznika], a jednocześnie możliwość poznania jak wyglądają
 [Sudety Wschodnie][wiki-sudety-wschodnie].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334994788/embed/1cef2a78abf67778bc5ca3925930c65e2157624b'></iframe>
 
 Szczegóły
 ---------

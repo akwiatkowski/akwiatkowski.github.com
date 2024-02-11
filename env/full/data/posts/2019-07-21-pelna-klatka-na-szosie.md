@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2551378807
+
 ---
 
 [wiki-jezioro-strykowskie]: https://pl.wikipedia.org/wiki/Jezioro_Strykowskie
@@ -42,10 +44,6 @@ pois:
 
 Pojawił się pomysł aby gdzieś pojechać. Niestety pojawił się późno, a
 sam nie miałem dużej motywacji.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2551378807/embed/0fb0c67285898faac11dc622347062f206bdcfe8'></iframe>
 
 ## Szczegóły
 

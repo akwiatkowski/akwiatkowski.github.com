@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5862884626
+
 ---
 
 [wiki-banie-mazurskie]: https://pl.wikipedia.org/wiki/Banie_Mazurskie
@@ -48,10 +50,6 @@ pois:
 ## Wstęp
 
 To był trochę szalony dzień zmiany planów. Wszystko opisałem chronologicznie poniżej.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5862884626/embed/d405c430d622b6467cc509c0eb58dea112eb3f0c'></iframe>
 
 ## Szczegóły
 

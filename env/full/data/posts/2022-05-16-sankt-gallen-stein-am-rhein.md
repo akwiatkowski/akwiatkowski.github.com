@@ -14,10 +14,10 @@ tags:                   [bus, main]
 towns:                  [szwajcaria, niemcy]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -25,6 +25,11 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava:
+  St Gallen: https://www.strava.com/activities/7188407327
+  Stein am Rhein: https://www.strava.com/activities/7188397137
+  Donaueschingen-Aufen: https://www.strava.com/activities/7188388698
 
 ---
 
@@ -88,8 +93,6 @@ Na wycieczkę zabrałem: dwa body Olympusa (M1m3 i M1m2), rewelacyjny 12-100/4,
 
 ### Sankt Gallen
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7188407327"></div><script src="https://strava-embeds.com/embed.js"></script>
-
 Chwilę po godzinie 8-ej wysiedliśmy i ruszyliśmy do centrum [Sankt Gallen][wiki-sankt-gallen].
 
 {% photo "2022_05_16__08_19_P5166029.jpg","Zaskoczyła mnie ilość rowerzystów" %}
@@ -131,8 +134,6 @@ Ta druga miejscowość wygląda bardzo obiecująco na zdjęciach.
 {% photo "2022_05_16__11_13_P5166380.jpg","Okolica Herdern" %}
 
 ### Stein am Rhein
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7188397137"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Zbliżaliśmy się powoli do [Stein am Rhein][wiki-Stein-am-Rhein] wjeżdżając
 najpierw do [Eschenz][wiki-Eschenz] przez które przechodzi
@@ -197,8 +198,6 @@ jest bardzo ciekawa. Warto zwrócić uwagę na konieczne zmiany wysokości i
 pętle.
 
 ### Wieczór w Aufen
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7188388698"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Po dotarciu do noclegu, rozpakowaniu się, najedzeniu, umyciu, niekoniecznie w
 tej kolejności, postanowiliśmy zobaczyć okolicę.

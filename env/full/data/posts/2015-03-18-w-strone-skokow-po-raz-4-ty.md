@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               51
 time_spent:             3
+strava: 270397327
 ---
 
 [vimeo-1]:             https://vimeo.com/122583905
@@ -24,11 +25,6 @@ time_spent:             3
 [vimeo-6]:             https://vimeo.com/123150675
 
 {% photo_header "Jezioro Budziszewskie","tag:timeline" %}
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/270397327/embed/5580a9b1e8bfe68bc4828ac8dada047e6e3f5024'></iframe>
 
 Szczegóły
 ---------

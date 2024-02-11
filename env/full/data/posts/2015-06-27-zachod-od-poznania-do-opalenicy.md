@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               64
 time_spent:             5
+strava: 334055350
 ---
 
 [route]:                        https://www.strava.com/activities/334055350
@@ -62,13 +63,6 @@ jak jechałem początkiem tej trasy w listopadzie i było trochę szaro i nudno.
 
 Teraz nie ma jesieni, wiec jest szansa że będzie bardziej zielono niż szaro. Zielono
 było, tylko nie nazwałbym pogody idealną tego dnia.
-
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334055350/embed/db852ecb5532e9006827d9c9f4e0bd64ee0783c7'></iframe>
-
 
 Szczegóły
 ---------

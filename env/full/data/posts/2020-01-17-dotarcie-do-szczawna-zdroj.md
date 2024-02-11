@@ -19,7 +19,7 @@ map_zooms:              14
 distance:               6
 time_spent:             2
 elevation:              149
-temperature:            1          
+temperature:            1
 
 
 pois:
@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3027703073
 
 ---
 
@@ -60,10 +62,6 @@ Ostatecznie wybrałem właśnie [Wałbrzych][wiki-walbrzych]. Szukałem ekonomic
 noclegu i znalazłem ciekawą opcję w [Szczawnie Zdrój][wiki-szczawno-zdroj].
 Ze stacji [Wałbrzych Miasto][wiki-walbrzych-miasto] do wybranego noclegu jest około 4km
 odległości.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3027703073/embed/111725e2a023429551c8644194d5161a0f331c3d'></iframe>
 
 ## Szczegóły
 

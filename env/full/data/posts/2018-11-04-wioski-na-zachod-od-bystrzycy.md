@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1947862425
 ---
 
 [wiki-wyszki]: https://pl.wikipedia.org/wiki/Wyszki_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -44,10 +45,6 @@ długi będzie to wpis postanowiłem go podzielić.
 Tutaj przedstawię główną trasę, na której przeszedłem z
 [Bystrzycy Kłodzkiej][wiki-bystrzyca-klodzka] do
 [Długopola Zdrój][wiki-dlugopole-zdroj].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1947862425/embed/e74591bd4f0af6e4a3b7de8cbde8a5ac87b8c8e2'></iframe>
 
 ## Szczegóły
 

@@ -28,6 +28,8 @@ pois:
     lon: 19.89913
     name: Ciekawią mnie tereny w okolicy Glaznotów, jest tam sporo szlaków rowerowych
 
+strava: 2337172919
+
 ---
 
 [wiki-ostroda]: https://pl.wikipedia.org/wiki/Ostr%C3%B3da
@@ -46,10 +48,6 @@ pois:
 
 Ostatecznie na tym wypadzie zapłaciliśmy za pokój na 2 dni i tego dnia musieliśmy się wyprowadzić.
 Pogoda wyraźnie się pogorszyła jednak chcieliśmy chociaż chwilę jeszcze pojeździć.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2337172919/embed/caf938130fabeb9e63f0e3edf44e4998ab68332a'></iframe>
 
 ## Szczegóły
 

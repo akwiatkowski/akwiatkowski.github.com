@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3855323721
+
 ---
 
 
@@ -38,10 +40,6 @@ Nie miałem konkretnych planów na ten dzień. Chciałem pojechać nad jakąś
 plażę w okolicy i tam rozdzielić się abym ja mógł skoczyć gdzieś dalej.
 
 Fajnie też byłoby zaliczyć kolejną gminę.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3855323721/embed/1311421e7f0f75f886ae5b1a2c98b1e573128d31'></iframe>
 
 ## Szczegóły
 

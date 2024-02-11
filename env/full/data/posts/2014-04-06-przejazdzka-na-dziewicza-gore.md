@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               66
 time_spent:             7
+strava: 137169869
 ---
 
 [wiki-puszcza-zielonka]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka
@@ -31,11 +32,6 @@ Wstęp
 
 Przejechałem przez [Maltę][wiki-malta] okrążając [Jezioro Swarzędzkie][wiki-jezioro-swarzedz]
 i robiąc pętle przez [Dziewiczą Górę][wiki-dziewicza-gora] w [Puszczy Zielonce][wiki-puszcza-zielonka].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137169869/embed/18ced69af2d3a51dae2c918e9e345c91e6b163c6'></iframe>
 
 Szczegóły
 ---------

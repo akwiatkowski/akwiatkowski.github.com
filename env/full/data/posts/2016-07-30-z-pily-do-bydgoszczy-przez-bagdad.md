@@ -29,6 +29,8 @@ pois:
     lat: 53.24201
     lon: 17.46868
 
+strava: 658669451
+
 ---
 
 [wiki-pila]: https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
@@ -75,11 +77,6 @@ Będąc w [Pile][wiki-pila] zauważyłem, że istnieje dobre połączenie kolejo
 [Bydgoszczy][wiki-bydgoszcz]. Jest to kolejna ciekawa linia, gdyż nie biegnie ona
 przez duże miejscowości. Ważną zaletą istnienia linii kolejowej jest to, że
 zawsze w razie problemu można wrócić pociągiem.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/658669451/embed/87136fe2c01d9be4a92136acd7c664e6f436711f'></iframe>
 
 Szczegóły
 ---------

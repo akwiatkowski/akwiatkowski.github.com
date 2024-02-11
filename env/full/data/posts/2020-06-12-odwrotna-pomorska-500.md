@@ -28,6 +28,8 @@ pois:
     name: Między Iwinem a Wierzchowem jest ciekawych miejsc na rower
     type: visited
 
+strava: 3604382369
+
 ---
 
 [wiki-grudziadz]: https://pl.wikipedia.org/wiki/Grudzi%C4%85dz
@@ -72,10 +74,6 @@ wyszło jednak lepiej skorzystać niż siedzieć w domu.
 Postanowiłem spróbować i zrealizować ten wyjazd na lekko. Czyli wziąć
 mojego szoso-przełajo-gravela (muszę wymyśleć krótką nazwą) Sensa Trentino CXD
 i spakować się bez sakw.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3604382369/embed/98acbd7b242e4433555092acd4310fedeb88c30b'></iframe>
 
 ## Szczegóły
 

@@ -16,6 +16,7 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               15
 time_spent:             4
+strava: 549026211
 
 ---
 
@@ -35,11 +36,6 @@ Pogoda nie była wystarczająco dobra na rower, ale nie była wystarczająco zł
 aby siedzieć w domu.
 
 Chcieliśmy zobaczyć jak wyglądają jeziora i rzeki w okolicy [Skoków][wiki-skoki].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/549026211/embed/3e2b3519b873666504b1d06afa6c2c763ff53568'></iframe>
 
 Szczegóły
 ---------

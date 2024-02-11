@@ -28,6 +28,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3505334479
+
 ---
 
 [wiki-niedziolka]: https://pl.wikipedia.org/wiki/Niedzi%C3%B3%C5%82ka
@@ -46,10 +48,6 @@ na rowerową majówkę i dopiero teraz spróbowałem zrealizować pierwszy wyjaz
 z noclegiem. Wybrałem okolice [Sierakowa][wiki-sierakow], które są z jednej strony
 trudno dostępne (dojazd pociągiem) a z drugiej strony nie są specjalnie
 daleko od [Poznania][wiki-poznan].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3505334479/embed/da063b3ccc25f890d1721aa75d7df084a0972101'></iframe>
 
 ## Szczegóły
 

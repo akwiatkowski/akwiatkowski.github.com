@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               35
 time_spent:             3
+strava: 546021292
 
 ---
 
@@ -38,11 +39,6 @@ dobrej pogody chciałem wykorzystać na małą jazdę.
 
 Chciałem zobaczyć jak wygląda szlak rowerowy do [Środy Wielkopolskiej][wiki-sroda].
 Szlak ten to [Transwielkopolska Trasa Rowerowa][wiki-ttr].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/546021292/embed/115a598c5b1d72bc04ab26c09f68358445b47a9d'></iframe>
 
 Szczegóły
 ---------

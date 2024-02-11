@@ -16,6 +16,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               5
 time_spent:             2
+
+strava: 334969133
 ---
 
 [wiki-karpacz]:                 https://pl.wikipedia.org/wiki/Karpacz
@@ -30,11 +32,6 @@ Wstęp
 -----
 
 Cały wyjazd jest odpowiedzią na pytanie "a może by wejść na [Śnieżkę][wiki-sniezka]?".
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334969133/embed/341ce6a97225b88d2fa4c2bc36399cd63c98615b'></iframe>
 
 Szczegóły
 ---------

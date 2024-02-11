@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               78
 time_spent:             8
+strava: 359582810
 ---
 
 [vimeo-1]:               https://vimeo.com/135293381
@@ -56,11 +57,6 @@ Wstęp
 Jeden z kolegów od dawna chciał pojeździć po [Powidzkim Parku Krajobrazowym][wiki-powidzki-park],
 jednak nie udało się tego zrealizować. Zapowiadała się ciepła pogoda i ja spróbowałem samemu
 odwiedzić te tereny.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/359582810/embed/3537dc4e559003b3c45cfcf364eb07e265f36133'></iframe>
 
 Szczegóły
 ---------

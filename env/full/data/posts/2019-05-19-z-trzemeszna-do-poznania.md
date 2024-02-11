@@ -27,8 +27,10 @@ pois:
     lon: 17.67648
     name: "Tunel z drzew między Mikołajewicami a Arcugowem"
   - lat: 52.44600
-    lon: 17.23214  
+    lon: 17.23214
     name: "Idealna droga na rower z widokiem na doline Cybiny"
+
+strava: 2379962170
 
 ---
 
@@ -62,10 +64,6 @@ Wyjazd do [Trzemeszna][wiki-trzemeszno] był podyktowany wyłącznie ograniczeni
 czasu dojazdu pociągiem oraz chęcią przejechania przez (w miarę) ciekawe tereny.
 A przynajmniej tereny "bliżej przyrody" niż wioski, które są na południu
 [Wielkopolski][wiki-wielkopolska] gdyż one mają bardziej charakter rolniczy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2379962170/embed/999bf81a0064b7e83c6f63ec184c5fa8d852c21b'></iframe>
 
 ## Szczegóły
 

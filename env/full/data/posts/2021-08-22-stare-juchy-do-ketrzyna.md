@@ -29,6 +29,8 @@ pois:
     name: Bardzo ładna droga na rower MTB pomiędzy wsiami Monetki a Starą Rudówką
     type: visited
 
+strava: 5836295164
+
 ---
 
 
@@ -38,10 +40,6 @@ Na dłuższy wakacyjny wypad udało mi się zabrać rower. Miał mi on pomóc zw
 [Mazur][wiki-mazury]. To był bardzo dobry pomysł. Początkowo miałem problem się
 spakować ale wystarczyło trochę przeorganizować bagaże i zdjąć przednie koło a
 rower się zmieścił do pożyczonego Volvo.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5836295164/embed/dc0fc86aa45cfe480b14d6be53e5bfa23612b53e'></iframe>
 
 ## Szczegóły
 

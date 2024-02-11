@@ -22,7 +22,7 @@ time_spent:             5
 
 pois:
 
-
+strava: 1030259980
 ---
 
 [wiki-gdansk]: https://pl.wikipedia.org/wiki/Gda%C5%84sk
@@ -53,11 +53,6 @@ nie była zaplanowana.
 Nawet pod koniec
 [dnia poprzedniego]({% post_url 2017-06-09-podmiejskie-kaszuby %})
 nie miałem pewności czy nie będę się ewakuował z powodu braku noclegu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1030259980/embed/e1b76a5d16aab3d89371bc637e0c49ff291d91a3'></iframe>
 
 Szczegóły
 ---------

@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3505359602
+
 ---
 
 [wiki-linia-363]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_363
@@ -57,10 +59,6 @@ pois:
 Tereny na zachód od [Sierakowa][wiki-sierakow] są dla mnie dość trudno dostępne.
 Nie ma sensownego połączenia kolejowego niestety a zawsze mnie ciekawiły.
 Tym razem była szansa je chociaż pobieżnie zobaczyć.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3505359602/embed/96611eade2df8b683f9b92b70538a645d168a595'></iframe>
 
 ## Szczegóły
 

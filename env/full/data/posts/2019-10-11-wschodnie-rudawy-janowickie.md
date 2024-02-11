@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2790200205
+
 ---
 
 {% photo_header "Droga przez Rudawy Janowickie","tag:good" %}
@@ -58,10 +60,6 @@ połączeniem kolejowym.
 
 Tego dnia chciałem z [Jeleniej Góry][wiki-jelenia-gora] dostać się pociągiem do
 [Kamiennej Góry][wiki-kamienna-gora] i tam ruszyć w trasę kierując się na północ.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2790200205/embed/93ace6a6b4db8f418b9210a4946c2cbfaac1beec'></iframe>
 
 ## Szczegóły
 

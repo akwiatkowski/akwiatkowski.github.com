@@ -22,6 +22,7 @@ elevation:              168
 
 pois:
 
+strava: 1152579329
 ---
 
 [wiki-linia-353]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_353
@@ -47,11 +48,6 @@ Wstęp
 Od jakiegoś czasu walczę z siodełkiem w rowerze szosowym i potrzebowałem okazji na
 ponowną próbę przetestowania kolejnego modelu. Nie miałem niestety dużo czasu
 dlatego musieliśmy trasę rozpocząć wcześnie rano.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1152579329/embed/c4a88877b05f272248fbebd56f50f72dafab2bbd'></iframe>
 
 Szczegóły
 ---------

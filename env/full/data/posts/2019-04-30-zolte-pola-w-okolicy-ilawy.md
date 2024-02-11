@@ -27,6 +27,8 @@ pois:
     lon: 19.28932
     name: Podmokłe tereny w okolicu Sumówka
 
+strava: 2331285904
+
 ---
 
 [wiki-ilawa]: https://pl.wikipedia.org/wiki/I%C5%82awa
@@ -70,10 +72,6 @@ pomocne bo ja preferuję trasy liniowe.
 Spodobały mi się również
 szeroko pojęte [Mazury][wiki-mazury] (oraz [Warmia][wiki-warmia]). Oraz
 nigdy tam nie byłem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2331285904/embed/0377a28c4143bb490af073bd42fdeccaf998c0e2'></iframe>
 
 ## Szczegóły
 

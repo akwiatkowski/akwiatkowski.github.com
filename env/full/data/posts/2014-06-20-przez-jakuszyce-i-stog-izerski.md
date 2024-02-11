@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               58
 time_spent:             8
+strava: 156739466
 ---
 
 [wiki-izerskie]:          https://pl.wikipedia.org/wiki/G%C3%B3ry_Izerskie
@@ -43,11 +44,6 @@ Wstęp
 
 Dzień wcześniej już się rozgrzaliśmy, więc teraz wypadałoby zrobić coś większego.
 Chcieliśmy przejechać przez całe [Góry Izerskie][wiki-izerskie]
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/156739466/embed/b35780a02314979b2f4300f541374e7ec5cd8adc'></iframe>
 
 Szczegóły
 ---------

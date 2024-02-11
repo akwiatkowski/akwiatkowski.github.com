@@ -28,6 +28,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3419087338
+
 ---
 
 [wiki-koronawirus]: https://pl.wikipedia.org/wiki/SARS-CoV-2
@@ -57,10 +59,6 @@ pois:
 
 Przez [koronawirusa][wiki-koronawirus] wiele się zmieniło. Jednym z tych rzeczy było
 utrudnienie korzystania z komunikacji kolejowej.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3419087338/embed/6305108d2b7720294b1bf5bb4c14029afdcea943'></iframe>
 
 ## Szczegóły
 

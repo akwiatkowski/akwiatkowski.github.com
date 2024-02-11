@@ -25,6 +25,8 @@ pois:
   lat: 52.62451
   lon: 15.85801
 
+strava: 607399894
+
 ---
 
 [gaz]:     http://zielonagora.pgnig.pl/documents/29748/961630/KRNiGZ+Lubiat%C3%B3w.pdf/98483698-42c1-4b87-a0b8-1ee3d563d60a
@@ -60,11 +62,6 @@ mapie trasa ta wyglądała dość samotnie i dlatego chciałem połączyć z oko
 
 Byłaby to długa trasa przecinająca [Puszczę Notecką][wiki-puszcza-notecka]. Chciałem
 przez nią w miarę szerokim miejscu przejechać z ciekawości.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/607399894/embed/4cf7b7a642a429319cf1281c21a20ce5ec26133a'></iframe>
 
 Szczegóły
 ---------

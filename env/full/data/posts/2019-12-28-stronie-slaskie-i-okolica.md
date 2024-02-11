@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2977921635
+
 ---
 
 [wiki-snieznik-schronisko]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_%E2%80%9ENa_%C5%9Anie%C5%BCniku%E2%80%9D
@@ -50,10 +52,6 @@ Jedną z dostępnych opcji było [Schronisko na Śnieżniku][wiki-snieznik-schro
 i była to ciekawa opcja. Schronisko to położone jest wysoko więc miałbym większą
 szansę na śnieżny krajobraz. Będąc tam aż 4 dni miałbym dużo okazji na wejście
 na szczyt na wschód lub zachód słońca.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2977921635/embed/cd34a44a84a825cf8ad66d3ec5f731483782308e'></iframe>
 
 ## Szczegóły
 

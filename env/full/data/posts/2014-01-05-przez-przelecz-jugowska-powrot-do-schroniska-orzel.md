@@ -17,6 +17,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               14
 time_spent:             6
+strava: 334943396
 ---
 
 [wiki-gory-sowie]:      https://pl.wikipedia.org/wiki/G%C3%B3ry_Sowie
@@ -36,11 +37,6 @@ Wstęp
 
 W tym momencie zaczęliśmy powoli wracać do centrum [Gór Sowich][wiki-gory-sowie],
 aby później robiąc pętle wrócić do miejsca, w którym zostawiliśmy samochód.
-
-Szczegóły
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334943396/embed/cf325ffed7433212d0754f36ddfe904aa6df011b'></iframe>
 
 Opis trasy
 ----------

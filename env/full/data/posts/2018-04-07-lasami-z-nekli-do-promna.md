@@ -26,6 +26,7 @@ pois:
     lon: 17.36921
     name: Ciekawe jeziora pomiędzy Neklą a Pobiedziskami
 
+strava: 1495016626
 ---
 
 [wiki-starczanowo]: https://pl.wikipedia.org/wiki/Starczanowo_(powiat_wrzesi%C5%84ski)
@@ -54,10 +55,6 @@ pois:
 Początkowo planowaliśmy jechać do [Ostrowa Wielkopolskiego][wiki-ostrow-wielkopolski]
 a następnie na północ do [Jarocina][wiki-jarocin]. Niestety za późno dostałem informacje
 i zabrakło mi 3 minut aby dostać się na pociąg.
-
-## Opis trasy
-
-{% strava_iframe "1495016626","da7872246ea46b439faacadd25ae9e2cd0f53579" %}
 
 ## Szczegóły
 

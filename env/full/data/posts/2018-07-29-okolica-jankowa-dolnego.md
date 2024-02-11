@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1749866828
 ---
 
 [wiki-jankowo-dolne]: https://pl.wikipedia.org/wiki/Jankowo_Dolne
@@ -40,10 +41,6 @@ pois:
 Wiele razy przejeżdżałem pociągiem przez [Jankowo Dolne][wiki-jankowo-dolne].
 Postanowiłem tego dnia pojechać tam i przejść się. Chciałem sprawdzić, czy
 naprawdę jest to tak ładna okolica, jak to widzę z okna pociągu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1749866828/embed/ab8d70444cf54fb1e6173d6f5b3943945e6e5779'></iframe>
 
 ## Szczegóły
 

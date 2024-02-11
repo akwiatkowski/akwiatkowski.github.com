@@ -19,7 +19,7 @@ map_zooms:              14
 distance:               11
 time_spent:             4
 elevation:              38
-temperature:            
+temperature:
 
 
 pois:
@@ -27,6 +27,8 @@ pois:
     lon: 17.05654
     name: Droga, pagórki niedaleko Przebędewa
     type: visited
+
+strava: 2493374905
 
 ---
 
@@ -43,10 +45,6 @@ pois:
 Tym razem wybraliśmy zwiedzanie okolic [Murowanej Gośliny][wiki-murowana-goslina]
 lecz tym razem wybraliśmy tereny na wschód, odwrotnie niż
 [rok temu]({% post_url 2018-07-01-spacer-po-murowanej-goslinie %}).
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2493374905/embed/2d4be855197601a319d4192187fea0bd4883bd73'></iframe>
 
 ## Szczegóły
 

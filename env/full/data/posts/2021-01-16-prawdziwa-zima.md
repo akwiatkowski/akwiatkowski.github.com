@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4642900720
+
 ---
 
 [wiki-koronawirus]: https://pl.wikipedia.org/wiki/SARS-CoV-2
@@ -57,10 +59,6 @@ i restauracje są zamknięte.
 Wszystko stało się bardziej skomplikowane i trudniejsze,
 ale i tak nie mogłem nie wykorzystać nadarzającej się sytuacji bo nie wiem
 czy za rok zima powróci.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4642900720/embed/17b660b91ec9ed0f027e79ac9ea97560299381c3'></iframe>
 
 ## Szczegóły
 

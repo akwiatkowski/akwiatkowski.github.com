@@ -18,6 +18,7 @@ map_zooms:              14
 distance:               9
 time_spent:             5
 
+strava: 869991389
 ---
 
 [fotowarsztaty]: studiohustawka.pl/warsztaty-i-sesje/plener-fotograficzny-karkonosze-2017
@@ -44,11 +45,6 @@ Warsztaty skończyły się bardzo wcześnie tego dnia, bo już uczestnicy o
 godzinie 9-tej
 wyruszali ze [schroniska][wiki-dom-slaski]. Ja wyruszyłem z grupą trochę przed
 10-tą.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/869991389/embed/3d312be8f3eff339946ee7dfe70ee5e924ebd346'></iframe>
 
 Szczegóły
 ---------

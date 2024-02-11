@@ -16,8 +16,8 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 distance:               3
 time_spent:             2
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -27,7 +27,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

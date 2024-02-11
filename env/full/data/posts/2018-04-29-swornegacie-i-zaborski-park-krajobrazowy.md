@@ -21,7 +21,7 @@ distance:               72
 time_spent:             7
 elevation:              452
 
-
+strava: 1539419947
 ---
 
 [wiki-linia-215]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_215
@@ -53,10 +53,6 @@ Na pierwszą całodniową trasę tej długiej majówki wybrałem okolice [Sworny
 Jest to jedno z popularniejszych miejscowości, chociaż nie przypuszczałem, że
 spotkamy aż tylu rowerzystów. Można powiedzieć że przez dwie godziny spotkaliśmy
 więcej niż przez resztę wyjazdu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1539419947/embed/f52b137347f590caaefef2e3ba8c8eb1970092fc'></iframe>
 
 ## Szczegóły
 

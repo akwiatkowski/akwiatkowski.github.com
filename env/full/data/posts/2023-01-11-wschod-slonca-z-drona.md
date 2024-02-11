@@ -14,9 +14,9 @@ tags:                   [air, todo]
 towns:                  [kujawsko_pomorskie, strzelno]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
+distance:
 time_spent:             1
-elevation:              
+elevation:
 temperature:            5
 
 
@@ -30,7 +30,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

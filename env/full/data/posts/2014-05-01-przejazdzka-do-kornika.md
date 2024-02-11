@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               93
 time_spent:             9
+strava: 137168469
 ---
 
 [wiki-kornik]:           https://pl.wikipedia.org/wiki/K%C3%B3rnik
@@ -39,11 +40,6 @@ Wstęp
 
 W zamierzeniu to miała być łatwa i prosta wycieczka do [Kórnika][wiki-kornik] i
 raczej taka była, chociaż ostatecznie trasa wyszła całkiem spora.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137168469/embed/c8845a53bcf71822d374f4f23cdfe2f1e20fd5ca'></iframe>
 
 Szczegóły
 ---------

@@ -20,7 +20,7 @@ time_spent:             4
 elevation:              193
 pois:
 
-
+strava: 1260829237
 ---
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -36,11 +36,6 @@ Wstęp
 -----
 
 Jest to trzecie i ostatnie zakończenie sezonu rowerowego w 2017 roku.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1260829237/embed/94cf3e3c5b0d1212738a0e2c73adb8eafcf0111f'></iframe>
 
 Szczegóły
 ---------

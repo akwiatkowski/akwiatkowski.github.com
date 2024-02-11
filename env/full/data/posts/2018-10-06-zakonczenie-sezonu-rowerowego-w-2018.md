@@ -27,15 +27,16 @@ pois:
     lon: 17.97038
     name: Wzniesienie między Mikstatem a Kotłowem z widokiem na wschód
   - lat: 51.76949
-    lon: 17.61384  
+    lon: 17.61384
     name: Dość spory las który mnie ciekawi, ale w którym może nic ciekawego nie być
   - lat: 51.88590
-    lon: 17.64354  
+    lon: 17.64354
     name: Jest chyba jakieś wzniesienie w Lutynii obok Kotlina. Wola Książeca - widok na południe
   - lat: 52.00389
     lon: 17.44973
     name: Dobre miejsce na robienie zdjęć pociągom
 
+strava: 1887803121
 ---
 
 [wiki-kepno]: https://pl.wikipedia.org/wiki/K%C4%99pno
@@ -73,10 +74,6 @@ pois:
 Pogoda pod koniec tego sezonu była bardzo nieprzewidywalna. Mieliśmy problem
 pojeździć w trójkę (ja z Michałem i Maciejem). Udało nam się znaleźć jeden dzień z
 odpowiednią pogodą właśnie dzisiaj.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1887803121/embed/f58524591f2d2b50ca1551b912c0ec50db35ffa3'></iframe>
 
 ## Szczegóły
 

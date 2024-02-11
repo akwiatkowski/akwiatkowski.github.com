@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6436566525
+
 ---
 
 
@@ -36,9 +38,5 @@ pois:
 
 Będąc akurat w [Wągrowcu][wiki-wagrowiec] i widząc, że następne dni będą
 bardzo chłodne i pogodne, postanowiłem ruszyć na mały spacer.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6436566525/embed/2fa651fce881f27556c75649d74255ed30a4d756'></iframe>
 
 ## Szczegóły

@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               12
 time_spent:             5
+
+strava: 167091755
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
@@ -43,11 +45,6 @@ Wstęp
 
 Drugi dzień wizyty w [Rudawach Janowickich][wiki-rudawy]. Tytuł jest o [Kolorowych Jeziorkach][wiki-kolorowe],
 jednak tego dnia było więcej ciekawych rzeczy, niż tylko same jeziorka.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091755/embed/342c80e847776830ad3a2fdecbf3dea88cd8b292'></iframe>
 
 Obok Szwajcarki
 ---------------

@@ -24,7 +24,7 @@ pois:
     lon: 16.76256
     name: Przy Jeziorze Dymaczewskim jest dobre miejsca na ćwiczenie technicznej jazdy w terenie
 
-
+strava: 1021090480
 ---
 
 [wiki-mosina]: https://pl.wikipedia.org/wiki/Mosina
@@ -45,11 +45,6 @@ Wstęp
 Celem tego dnia była jakaś spokojna trasa rowerowa z dojazdem pociągiem. Nie mieliśmy
 zbyt dużo czasu dlatego wybraliśmy okolicę [Mosiny][wiki-mosina] gdyż mogliśmy przejechać
 przez tereny [wielkopolskiego Parku Narodowego][wiki-wpn].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1021090480/embed/4b709c59272c9682f6a4daf6549ac320173a4354'></iframe>
 
 Szczegóły
 ---------

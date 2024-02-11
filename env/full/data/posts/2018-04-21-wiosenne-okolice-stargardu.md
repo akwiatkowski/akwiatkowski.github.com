@@ -29,6 +29,7 @@ pois:
     lon: 15.58311
     name: Ciekawe podmokłe tereny w lesie 1.5km od stacji Rębusz
 
+strava: 1523155492
 ---
 
 [wiki-linia-202]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_202
@@ -68,10 +69,6 @@ pois:
 
 Nie ma specjalnej przyczyna do przejechania tej trasy. Po prostu była dobra pogoda,
 a do [Stargardu][wiki-stargard] jest stosunkowo dobry dojazd pociągiem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1523155492/embed/b10e3c59c0176dd95a012d095eadf268d7c11bc9'></iframe>
 
 ## Szczegóły
 

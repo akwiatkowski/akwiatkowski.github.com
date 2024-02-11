@@ -15,6 +15,7 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               15
 time_spent:             6
+strava: 334939191
 ---
 
 [wiki-beskid-maly]:                   https://pl.wikipedia.org/wiki/Beskid_Ma%C5%82y
@@ -34,13 +35,7 @@ Wstęp
 -----
 
 [Beskid Mały][wiki-beskid-maly] był pewnego rodzaju kolejną dziurą na
- mapie gdzie byłem. Teraz przyszedł czas aby odkryć to miejsce.
-
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334939191/embed/a81fb718c39f9b270b54a74adf737ae2e625246d'></iframe>
+mapie gdzie byłem. Teraz przyszedł czas aby odkryć to miejsce.
 
 Szczegóły
 ---------

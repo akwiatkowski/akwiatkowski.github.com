@@ -21,16 +21,14 @@ map_zooms:              16
 distance:               9
 time_spent:             2
 elevation:              215
-temperature:            
-
-
-
-
+temperature:
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2630749977
 
 ---
 
@@ -59,10 +57,6 @@ inne kraje.
 W te wakacje wybrałem czeskie góry - [Jesioniki][wiki-jesioniki], aby porównać
 je z polskimi [Sudetami][wiki-sudety]. Sam nie wiedziałem jeszcze co zobaczę i
 byłem trochę sceptyczny.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2630749977/embed/c52d126ab5d917c071a9e602ee1bb0abefed6b50'></iframe>
 
 ## Szczegóły
 

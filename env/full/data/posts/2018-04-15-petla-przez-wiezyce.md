@@ -27,6 +27,7 @@ pois:
     lon: 18.68668
     name: Rozebrana linia kolejowa ze Smętowa Granicznego do Kwidzynia
 
+strava: 1513296692
 ---
 
 [wiki-koscierzyna]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna
@@ -53,10 +54,6 @@ pociągiem z [Kościerzyny][wiki-koscierzyna] przez
 
 Najsensowniejsze było dojechać wcześniej aby móc pozwiedzać okolicę
 i ostatniego dnia wrócić tym pociągiem do [Poznania][wiki-poznan].
-
-## Opis trasy
-
-{% strava_iframe "1513296692","6401e9d21e2d7e4afbf13077e26f6256a7445650" %}
 
 ## Szczegóły
 

@@ -19,13 +19,15 @@ map_zooms:              14
 distance:               7
 time_spent:             2
 elevation:              69
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2453912087
 
 ---
 
@@ -45,10 +47,6 @@ Częściej zabierałem aparat i ruszałem robić zdjęcia.
 Jednym z takich pobliskich miejsc, które wybrałem na taką
 wycieczkę pieszo-fotograficzną była okolica [Promna-Stacji][wiki-promno-stacja].
 Jest tam [Rezerwat Dębiniec][wiki-rezerwat-debiniec] który chciałem zobaczyć ponownie.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2453912087/embed/255bfd1618505e60b029ebb65ad46e5a116ec874'></iframe>
 
 ## Szczegóły
 

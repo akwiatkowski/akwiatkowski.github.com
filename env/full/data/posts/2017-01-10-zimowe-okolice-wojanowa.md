@@ -17,6 +17,8 @@ map_zooms:              14
 distance:               20
 time_spent:             7
 
+strava: 833066115
+
 ---
 
 [wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
@@ -36,11 +38,6 @@ Wstęp
 Tuż po [Sylwestrze]({% post_url 2016-12-29-skalny-stol-i-kosciol-w-mala-upa %})
 przyszła zima do Polski. Oczekiwałem wtedy odpowiedniej pogoda na kolejny
 krótki fotograficzny wyjazd.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/833066115/embed/e25472903091c7ea2c499e442e560ad7398454d1'></iframe>
 
 Szczegóły
 ---------

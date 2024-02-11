@@ -22,7 +22,7 @@ map_zooms:              14
 distance:               7
 time_spent:             3
 elevation:              4
-temperature:            
+temperature:
 
 
 pois:
@@ -30,6 +30,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2156749896
 ---
 
 [wiki-sopot]: https://pl.wikipedia.org/wiki/Sopot
@@ -59,10 +60,6 @@ wyruszyć nigdzie dalej (przykładowo do [Sopotu][wiki-sopot])
 
 Tak się złożyło, również z pogodą, że miałem tylko niedzielę wolną i tylko południowa
 część [Polski][wiki-polska] była w obszarze bezchmurnym.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2156749896/embed/41b4739698b81ce1b78ff719580b60bedc108073'></iframe>
 
 ## Szczegóły
 

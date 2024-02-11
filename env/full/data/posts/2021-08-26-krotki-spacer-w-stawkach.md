@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5862896457
+
 ---
 
 [wiki-wegorzewo]: https://pl.wikipedia.org/wiki/W%C4%99gorzewo_(powiat_gnie%C5%BAnie%C5%84ski)
@@ -40,10 +42,6 @@ Tego dnia zmieniałem miejsce noclegowe. Pogoda się wyraźnie pogorszyła i
 trudno było pogodzić pracę z pogodą i chęcią odkrycia czegoś nowego.
 
 {% photo "2021_08_26__19_05_DSC07182.jpg","Droga pośrodku drzew" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5862896457/embed/04c533a8a6e92c965e82aaa46a414915ae72e822'></iframe>
 
 ## Szczegóły
 

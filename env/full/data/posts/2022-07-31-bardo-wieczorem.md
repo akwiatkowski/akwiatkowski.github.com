@@ -29,6 +29,10 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/7725134520
+
+
 ---
 
 
@@ -37,10 +41,6 @@ pois:
 Miałem zaplanowany spokojny wyjazd "w góry" z noclegiem w [Bardo][wiki-bardo].
 Jechaliśmy tutaj samochodem i do noclegu dotarliśmy nie za wcześniej. Postanowiłem
 wieczorem ruszyć "na miasto" na krótki spacer.
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7725134520"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

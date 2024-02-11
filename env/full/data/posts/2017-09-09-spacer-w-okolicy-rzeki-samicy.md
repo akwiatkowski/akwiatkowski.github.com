@@ -21,6 +21,7 @@ elevation:              250
 
 pois:
 
+strava: 1179175484
 ---
 
 [wiki-steszew]: https://pl.wikipedia.org/wiki/St%C4%99szew
@@ -35,11 +36,6 @@ Wstęp
 W [Stęszewie][wiki-steszew] byłem już kilka razy. Nigdy jednak nie zwiedzałem terenów
 na północ (z małym [wyjątkiem]({% post_url 2015-06-27-zachod-od-poznania-do-opalenicy %}))
 a na mapie widać, że mogą tam być ciekawe tereny.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1179175484/embed/0e24c183987c1cf44cb33be6066a782504bc2578'></iframe>
 
 Szczegóły
 ---------

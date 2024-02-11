@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               61
 time_spent:             8
+strava: 166527501
 ---
 
 [wiki-mielno]:   https://pl.wikipedia.org/wiki/Mielno
@@ -30,11 +31,6 @@ Wstęp
 -----
 
 Trzeci dzień wyprawy po Wybrzeżu Polski. Ostatni dzień gorszej pogody.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/166527501/embed/4c8d71cbd067048608a5dd88c789925ba1ade3cb'></iframe>
 
 Szczegóły
 ---------

@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5465945569
+
 ---
 
 [turkol]: http://www.turkol.pl/
@@ -67,10 +69,6 @@ Nie mogłem zaplanować długiej trasy i musiałem uwzględnić dłuższą przer
 gdzieś po drodzę.
 
 {% photo "2021_06_12__10_03__6121626.jpg","Plecaki przy noclegu" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5465945569/embed/24d6169178f6a4671d0903d2352acb34f79eee72'></iframe>
 
 ## Szczegóły
 

@@ -32,6 +32,7 @@ pois:
     lon: 15.28898
     name: Restauracja Słoneczna (dobre obiady i tanio)
 
+strava: 671669877
 
 ---
 
@@ -83,11 +84,6 @@ do jakieś stacji kolejowej i powrót do Poznania.
 Początkowo planowałem aby dojechać do [Bolesławca][wiki-boleslawiec] albo do
 [Węglińca][wiki-wegliniec]. Nie udało mi się dojechać tak daleko, ale jestem
 raczej zadowolony z tego co przejechałem tego dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/671669877/embed/6c3366c41ab327b2f38a540cbc28e8bf1b9f442e'></iframe>
 
 Szczegóły
 ---------

@@ -15,6 +15,8 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               46
 time_spent:             6
+
+strava: 137188547
 ---
 
 [wiki-nadwiarcianski]:      https://pl.wikipedia.org/wiki/Nadwarcia%C5%84ski_Szlak_Rowerowy
@@ -33,11 +35,6 @@ Wstęp
 
 Chyba był to pierwszy przejazd rowerem w tym roku. Chciałem dokończyć szlak [Nadwarciański][wiki-nadwiarcianski]
 z [Obornik][wiki-oborniki] do [Poznania][wiki-poznan].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137188547/embed/d3897d8b3efa0b17470a3b9ac8ba485a099d665b'></iframe>
 
 Szczegóły
 ---------

@@ -29,6 +29,10 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/9333570022
+  - https://www.strava.com/activities/9333569749
+
 ---
 
 
@@ -36,10 +40,6 @@ pois:
 
 W niedzielę zaplanowałem wyjazd rowerem. Pogoda była dość ciepła dlatego
 wolałem ruszyć po południu.
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9333570022"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

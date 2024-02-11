@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2419747194
+
 ---
 
 [wiki-linia-403]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_430
@@ -55,10 +57,6 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2419747194/embed/0cb2f87d09d629cc25e8ff1fbf59fae661b23b6f'></iframe>
 
 ## Szczegóły
 

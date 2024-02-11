@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               55
 time_spent:             7
+strava: 318922776
 ---
 
 [route]:                        https://www.strava.com/activities/318922776
@@ -57,10 +58,8 @@ za jednym zamachem zobaczyć jak najwięcej. Pierwszym celem była [Stara Kamien
 Początkowo wahałem się, czy dalej warto jechać w stronę [Gryfowa Śląskiego][wiki-gryfow-slaski] czy
 w stronę [Jeziora Pilchowickiego][wiki-pilchowickie]. Dzień przed wyjazdem wybrałem tą drugą wersje.
 
-Opis trasy
+Szczegóły
 ----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/318922776/embed/144e3bb623ea434a0808698e7405d5f87ca26c1f'></iframe>
 
 Początkiem trasy był zjazd ze Szklarskiej Poręby Górnej prawie aż do [Piechowic][wiki-piechowice].
 Niektóre części szlaku obok stacji Szklarskiej Poręby Dolnej były dla mnie zbyt strome aby można

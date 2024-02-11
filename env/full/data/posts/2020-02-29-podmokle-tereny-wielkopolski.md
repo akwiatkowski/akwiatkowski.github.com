@@ -29,6 +29,11 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  Rezerwat Wyspa na Jeziorze Chobienickim: 3149845225
+  Wokół Jeziora Linie Duże: 3149850396
+  Rezerwat przyrody im. Bolesława Papi na Jeziorze Zgierzynieckim: 3149854695
+
 ---
 
 [wiki-rezerw-chobienickim]: https://pl.wikipedia.org/wiki/Rezerwat_przyrody_Wyspa_na_Jeziorze_Chobienickim
@@ -57,8 +62,6 @@ tym razem dojazd samochodem był znacznie krótszy aby mieć więcej czasu na
 zwiedzanie piesze.
 
 ### Rezerwat Wyspa na Jeziorze Chobienickim
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3149845225/embed/29cccdb4057b5328905019e34e3f9b0107098279'></iframe>
 
 Pierwszym celem był [Rezerwat wyspa na Jeziorze Chobienickim][wiki-rezerw-chobienickim].
 
@@ -121,8 +124,6 @@ Zrobiłem kilka zdjęć koncentrując się głównie na przewróconym drzewie.
 
 ### Wokół Jeziora Linie Duże
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3149850396/embed/d2a19faa2552202bcdf25a3675e8a20816da47ff'></iframe>
-
 [wiki-liny]: https://pl.wikipedia.org/wiki/Liny
 
 Kolejnym celem były okolice kolonii [Liny][wiki-liny] obok której są dwa jeziora
@@ -180,8 +181,6 @@ naświetlania. Wtedy miałem przy sobie statyw.
 {% photo "2020_02_29__18_19_DSC07100.jpg","Pomost po zachodzie" %}
 
 ### Rezerwat przyrody im. Bolesława Papi na Jeziorze Zgierzynieckim
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3149854695/embed/5cf211ed9ceb50ae71bb334f0c0bfeeb6607f09a'></iframe>
 
 Przed spakowanie się poszedłem jeszcze robić zdjęcia okolicy
 jeziora.

@@ -34,6 +34,8 @@ pois:
     type: visited
 
 
+strava: 5419945397
+
 ---
 
 {% photo_header "Widok na Żelazny Most obok Rudnej","tag:spring,tag:timeline" %}
@@ -80,10 +82,6 @@ pois:
 Na przejechanie tej trasy zmotywowały mnie nowe gminy oraz okolica
 miejscowości [Rudna][wiki-rudna]. Jest tam obiekt o nazwie [Żelazny Most][wiki-zelazny-most]
 który, gdy pierwszy raz zobaczyłem, mocno mnie zaskoczył.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5419945397/embed/7ae9374cbd50c1a0dc1709a382889f73e1a21803'></iframe>
 
 ## Szczegóły
 

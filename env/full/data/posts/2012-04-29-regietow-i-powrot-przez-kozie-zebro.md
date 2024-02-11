@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               20
 time_spent:             7
+
+strava: 167091764
 ---
 
 [wiki-beskid-niski]:            https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -42,13 +44,6 @@ Jest to pierwsza trasa zrobione na mojej pierwszej wizycie w [Beskidzie Niskim][
 paśmie górskim, które okaże się być inne niż wszystkie.
 
 {% photo "IMGP5507b.jpg","Jezioro Czchowskie" %}
-
-<!--
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091764/embed/cb9c8464c58b09b40619f4d23631a67f7d0e7b8f'></iframe>
--->
 
 Szczegóły
 ---------

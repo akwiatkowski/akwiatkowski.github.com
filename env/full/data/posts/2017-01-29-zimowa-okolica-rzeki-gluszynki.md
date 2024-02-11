@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               5
 time_spent:             2
 
+strava: 849290563
 ---
 
 [wiki-gluszynka]: https://pl.wikipedia.org/wiki/G%C5%82uszynka_(rzeka)
@@ -32,11 +33,6 @@ Oprócz zimna tego dnia była w miarę ładna pogoda. Szukając dobrego i nie
 dalekiego miejsca do spaceru wybraliśmy okolice rzeki [Głuszynki][wiki-gluszynka].
 
 Jest do niej dobry dojazdu autobusem 58 oraz nigdy tam nie byłem zimą.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/849290563/embed/5cc9c451ae21409fd45f804f7e3d4fa6835f402f'></iframe>
 
 Szczegóły
 ---------

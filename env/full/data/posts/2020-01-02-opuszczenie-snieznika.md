@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2986750662
+
 ---
 
 [wiki-pasterka]: https://pl.wikipedia.org/wiki/Pasterka_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -38,10 +40,6 @@ pois:
 
 Każda wycieczka się kiedyś kończy i tak teraz po Sylwestrze musieliśmy wrócić do
 cywilizacji.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2986750662/embed/db5ee5e20969ebb922b7fcc24ccbf28ce7bf97e7'></iframe>
 
 ## Szczegóły
 

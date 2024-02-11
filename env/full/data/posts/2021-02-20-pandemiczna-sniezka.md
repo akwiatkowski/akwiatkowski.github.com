@@ -22,20 +22,19 @@ time_spent:             5 # 3 + 2
 elevation:              396 # 264 + 132
 temperature:            0
 
-# https://www.strava.com/activities/4875994862
-# https://www.strava.com/activities/4875990776
-
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/4875994862
+  - https://www.strava.com/activities/4875990776
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

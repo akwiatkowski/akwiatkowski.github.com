@@ -32,6 +32,7 @@ pois:
     lon: 21.49887
     name: Wiszący linowy most z drewnianymi deskami nad Wisłoką. Polecam przejść każdemu.
 
+strava: 1104024533
 ---
 
 [wiki-krempna]: https://pl.wikipedia.org/wiki/Krempna
@@ -53,11 +54,6 @@ przejechać się rowerem po nich.
 
 W związku z tym, że południowe okolice [Krempnej][wiki-krempna] już przejechałem
 rowerem postanowiłem, że warto by było zobaczyć co jest na północy.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1104024533/embed/b3918948ba7caf2191d4a4aced08d9361ffc9f8e'></iframe>
 
 Szczegóły
 ---------

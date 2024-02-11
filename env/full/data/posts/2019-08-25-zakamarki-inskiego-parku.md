@@ -28,9 +28,11 @@ pois:
     name: Okolica Jeziora Dłusko (Ińsko) to bardzo dzikie tereny dobre na piesze wycieczki
     type: visited
   - lat: 53.49737
-    lon: 15.48474  
+    lon: 15.48474
     name: Pagórki na północ od wsi Dłusko
     type: visited
+
+strava: 2651061531
 
 ---
 
@@ -50,10 +52,6 @@ pois:
 
 Byliśmy juz w [Ińskim Parku Krajobrazowym][wiki-inski-park] więc teraz pozostało
 tylko jego zwiedzanie i powrót do cywilizacji.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2651061531/embed/28edc62f34e678aef8545bb7465da654b58c2eed'></iframe>
 
 ## Szczegóły
 

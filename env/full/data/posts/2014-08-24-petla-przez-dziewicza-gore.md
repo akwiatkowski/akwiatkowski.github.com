@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               45
 time_spent:             4
+strava: 184718842
 ---
 
 [wiki-morasko]:                  https://pl.wikipedia.org/wiki/Morasko
@@ -32,11 +33,6 @@ Wstęp
 -----
 
 Tą trasę zrobiłem bo akurat z kolega który się nudził.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/184718842/embed/3f397c7c3567a473d9ed4dd9959e6ce44e2cc219'></iframe>
 
 Szczegóły
 ---------

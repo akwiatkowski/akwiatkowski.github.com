@@ -20,7 +20,7 @@ map_zooms:              10
 distance:               82
 time_spent:             8
 elevation:              446
-temperature:            
+temperature:
 
 
 pois:
@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3564523263
 
 ---
 
@@ -67,10 +69,6 @@ oraz inne mniej popularne i mniej znane regiony.
 {% photo "2020_06_04__11_12__6045366.jpg","Widok na Wisłę w Toruniu" %}
 
 Oczywiście się nie udało tego dokonać, jednak udało się zrobić coś innego.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3564523263/embed/bbeb891a3f9a4ef3ae7f34e76423cf60ba925200'></iframe>
 
 ## Szczegóły
 

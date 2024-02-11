@@ -24,6 +24,7 @@ elevation:              277
 
 pois:
 
+strava: 1338142223
 ---
 
 [oskar-jaskiewicz]: http://www.oskarjaskiewicz.pl/
@@ -41,11 +42,6 @@ Wstęp
 Zgodnie z prognozą pogodą najlepsza pogoda na tym wyjeździe miała być w sobotę.
 Z tego powodu chciałem wstać wcześniej i udać się na
 [Szczeliniec Wielki][wiki-szczeliniec-wielki] na wschód słońca.
-
-Opis trasy
----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1338142223/embed/d9c9e9ae81eead5886558265404493593b814c2e'></iframe>
 
 Szczegóły
 ---------
@@ -110,8 +106,8 @@ Do [Pasterki][wiki-pasterka-schronisko] wracaliśmy zielonym szlakiem
 pieszo-rowerowym. Tego dnia teren był delikatnie przysypany śniegiem oraz
 otaczały nas chmury.
 
-{% photo "IMGP4096raw1cropped.jpg","Serce pozostawione w Pasterce" %}  
+{% photo "IMGP4096raw1cropped.jpg","Serce pozostawione w Pasterce" %}
 
 Przy [schronisku][wiki-pasterka-schronisko] karmiły się trawą dwa koniki.
 
-{% photo "IMGP4092raw1.jpg","Konie przy Pasterce" %}  
+{% photo "IMGP4092raw1.jpg","Konie przy Pasterce" %}

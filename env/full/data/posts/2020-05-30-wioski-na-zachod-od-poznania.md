@@ -31,6 +31,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3535931451
+
 ---
 
 
@@ -40,10 +42,6 @@ W ten weekend chciałem pojechać "trochę mocniej". Początkowo planowałem
 ruszyć do [Lipki][wiki-lipka], gdyż bardzo mi się podoba
 [Krajeński Park Krajobrazowy][wiki-krajenski-park] jednak nie chcąc
 jechać samemu dość mocno zmodyfikowałem plan.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3535931451/embed/44c6a9e642ae52a1bc60605a3045af4c5a61d4e3'></iframe>
 
 ## Szczegóły
 

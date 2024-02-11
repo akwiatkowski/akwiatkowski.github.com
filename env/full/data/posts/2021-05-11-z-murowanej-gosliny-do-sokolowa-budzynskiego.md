@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5280739667
+
 ---
 
 
@@ -37,10 +39,6 @@ pois:
 Późna wiosna była już w pełni. Starając się maksymalnie wykorzystywać dobrą pogodę
 skończyłem pracę tego dnia wcześniej ruszając na eksploracja północnych okolic
 [Poznania][wiki-poznan].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5280739667/embed/733b5e055ac5242425d76565123b47aacfbee956'></iframe>
 
 ## Szczegóły
 

@@ -46,6 +46,7 @@ pois:
 [wiki-zalno]: https://pl.wikipedia.org/wiki/Żalno
 
 [wiki-linia-413]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_413
+
 ## Wstęp
 
 Byłem już na kilku wydarzeniach [Turkola][turkol], które są skierowane

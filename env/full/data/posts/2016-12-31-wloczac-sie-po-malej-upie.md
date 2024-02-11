@@ -15,6 +15,8 @@ map_zooms:              14
 distance:               18
 time_spent:             7
 
+strava: 818482777
+
 ---
 
 [wiki-mala-upa]: https://pl.wikipedia.org/wiki/Mal%C3%A1_%C3%9Apa
@@ -27,11 +29,6 @@ Wstęp
 
 W Sylwestra planowaliśmy zrobić raczej spokojną trasę. Chcieliśmy mieć siły
 na później oraz obiad był zaplanowany wcześniej.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/818482777/embed/88445ae49f28c419b8b732a3d6c962afee438ae3'></iframe>
 
 Szczegóły
 ---------

@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               53
 time_spent:             6
+strava: 354707728
 ---
 
 [wiki-dolina-baryczy]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
@@ -50,8 +51,6 @@ Pierwsza wizyta w [Dolinie Baryczy][wiki-dolina-baryczy], w której miało być 
 
 Szczegóły
 ---------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/354707728/embed/e49f55ab099fe2169f4a35e945423b55e4431413'></iframe>
 
 Dojechaliśmy pociągiem do [Żmigrodu][wiki-zmigrod]. Udaliśmy się do sklepu po zapasy i później zjeść coś ciepłego.
 Było bardzo ciepło i wilgotno, pojawiły się szare chmury.

@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               43
 time_spent:             5
+strava: 534931512
 
 ---
 
@@ -46,11 +47,6 @@ W związku z tym że się zaczęło robić ładnie, zielono, to chciałem rozpoc
 ułatwiając sobie wcześniej ustalony cel - abym nie musiał jechać z samego [Poznania][wiki-poznan]
 do [Jeleniej Góry][wiki-jelenia-gora].
 Planowałem tego dnia dojechać do [Leszna][wiki-leszno], co by skróciło planowaną trasę do około 160km.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/534931512/embed/fd591558c824f6404df076e85b491cdd2d069f1a'></iframe>
 
 Szczegóły
 ---------
@@ -96,15 +92,6 @@ na południe przez [Witkówki][wiki-witkowki] aż do miejscowości [Racot][wiki-
 przez którą przepływa Racocki Rów. Podobały mi się tory na zachód w tej miejscowości.
 
 {% photo "IMGP9088raw1.jpg","Zarośnięta linia kolejowa Kościan-Gostyń" %}
-<!--
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/148162379/m%3D900/cf40e1a1136a6d6ea99760e750803ed3' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/148162379/old-railroad-tracks-by-aleksander-kwiatkowski' alt='Old railroad tracks by Aleksander Kwiatkowski on 500px.com'></a>
-</div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
--->
 
 Dalej ruszyliśmy do [Gryżyny][wiki-gryzyna], a dalej wokół jeziora [Wonieść][wiki-jezioro-woniesc].
 Bardzo fajny, długi, ale lekki zjazd, oraz jezioro po lewej stronie - to były jedne z ciekawszych

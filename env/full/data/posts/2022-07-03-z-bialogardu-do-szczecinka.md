@@ -29,6 +29,9 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/7414195192
+
 ---
 
 [koszalin-waskotorowka]: http://waskotorowka.koszalin.pl/rozklad-jazdy/#przed_i_po
@@ -60,10 +63,6 @@ co będzie celem ale po przeanalizowaniu potencjalnych noclegów
 założyliśmy, że [Szczecinek][wiki-szczecinek] będzie dobrą opcją.
 
 {% photo "2022_07_03__08_22_P7033056.jpg","Przynoclegowy kot","tag:cat" %}
-
-## Opis trasy
-
-<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7414195192'></div><script src='https://strava-embeds.com/embed.js'></script>
 
 ## Szczegóły
 

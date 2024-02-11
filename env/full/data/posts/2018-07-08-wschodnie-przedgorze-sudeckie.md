@@ -27,6 +27,7 @@ pois:
     lon: 17.07892
     name: Okolica Osiny Wielkiej to dużo ciekawych pofalowanych terenów
 
+strava: 1691275598
 ---
 
 [wiki-nysa]: https://pl.wikipedia.org/wiki/Nysa
@@ -74,10 +75,6 @@ pois:
 Tego dnia wiedzieliśmy, że pojedziemy gdzieś w stronę [Nysy][wiki-nysa].
 Nie wiedzieliśmy jeszcze jaką trasą. Mieliśmy dużo czasu oraz
 pogoda nie była tak upalna jak dzień wcześniej.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1691275598/embed/081fd33f7f8cf06c05e0928573c15f6f0faca871'></iframe>
 
 ## Szczegóły
 

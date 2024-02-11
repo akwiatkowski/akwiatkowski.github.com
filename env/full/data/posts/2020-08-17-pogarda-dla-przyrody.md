@@ -20,7 +20,7 @@ coords_type:            "hike"
 map_zooms:              16
 distance:               4
 time_spent:             6
-elevation:              
+elevation:
 temperature:            24
 
 
@@ -30,13 +30,11 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3966854601
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3966854601/embed/6d43b32003dab486f89da42387502a23ebf503b4'></iframe>
 
 ## Szczegóły

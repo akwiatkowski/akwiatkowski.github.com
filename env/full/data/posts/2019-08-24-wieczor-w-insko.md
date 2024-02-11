@@ -18,14 +18,16 @@ coords_type:            "hike"
 map_zooms:              16
 distance:               5
 time_spent:             3
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2652907925
 
 ---
 
@@ -40,10 +42,6 @@ Jak to zwykle bywa na krótkich dwudniowych wycieczkach rowerowym, staram
 się pozwiedzać okolicę miejsca, w którym się zatrzymałem i nocuję.
 
 {% photo "2019_08_24__17_31_P8240260.jpg","Klimatyczny ośrodek wczasowy nad jeziorem w Ińsku" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2652907925/embed/251cc0851d5f6d5cf5856d34d4a3fe486d158525'></iframe>
 
 ## Szczegóły
 

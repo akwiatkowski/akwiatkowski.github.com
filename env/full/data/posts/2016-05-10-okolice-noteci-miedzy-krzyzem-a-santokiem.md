@@ -30,6 +30,8 @@ pois:
   lat: 52.74528
   lon: 15.38932
 
+strava: 571678602
+
 ---
 
 [wiki-linia-430]:        https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_430
@@ -60,11 +62,6 @@ przejechać podobną trasę, jednak nie miałem ochoty tego dnia jechać dwie go
 pociągiem do [Choszczna][wiki-choszczno], dlatego postanowiłem
 pojechać do [Krzyża][wiki-krzyz] i jechać na zachód mając w zapasie powrotne
 połączenie kolejowe w pobliżu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/571678602/embed/03e7c76c509834a8b847e95e6e5bb16d8aaa1519'></iframe>
 
 Szczegóły
 ---------

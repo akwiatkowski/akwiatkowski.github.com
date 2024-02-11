@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               36
 time_spent:             3
+strava: 137173048
 ---
 
 [vimeo-1]:              https://vimeo.com/93241843
@@ -34,11 +35,6 @@ Wstęp
 
 Ciekawiło mnie jak wygląda przedłużenie trasy [nadwarciańskiej][wiki-nadwarcianski] oraz
 pogoda była idealna na szukanie wiosny. Wydaję mi się, że udało mi się ją znaleźć tego dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137173048/embed/25203e7ce74daa7a4c06e8a65b3dbcccd59b6528'></iframe>
 
 Szczegóły
 ---------

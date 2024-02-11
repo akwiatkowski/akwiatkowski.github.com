@@ -25,6 +25,8 @@ pois:
     lon: 16.54357
     name: Ciekawie pofalowany teren przy opuszczaniu Niwy. Sporob fajnych dróg gruntowych.
 
+strava: 563089957
+
 ---
 
 [wiki-droga-387]:             https://pl.wikipedia.org/wiki/Droga_wojew%C3%B3dzka_nr_387
@@ -56,11 +58,6 @@ Były dwa główne powody, dla których wybraliśmy tą trasę:
 * Przemek chciał przejechać [Drogą Stu Zakrętów][wiki-droga-387]
 
 Dla mnie najlepszym powodem było "a czemu by nie?".
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/563089957/embed/2c9c744f482d9c1ca6db9cdc012e11df45a3febc'></iframe>
 
 Szczegóły
 ---------

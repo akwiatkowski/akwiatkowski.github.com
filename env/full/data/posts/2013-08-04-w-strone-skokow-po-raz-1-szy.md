@@ -17,6 +17,8 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               56
 time_spent:             4
+
+strava: 137166601
 ---
 
 [wiki-morasko]:         https://pl.wikipedia.org/wiki/Morasko
@@ -49,11 +51,6 @@ Wstęp
 
 Jest to moja pierwsza dłuższa przejażdzka rowerem, który kupiłem kilka miesięcy temu.
 Trasa została zaproponowana mi na forum i chciałem ją tego dnia spróbować.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137166601/embed/d2a892926e7215b43fb6860501b836e973d262f7'></iframe>
 
 Szczegóły
 ---------

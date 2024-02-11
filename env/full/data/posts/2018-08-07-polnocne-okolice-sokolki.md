@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1756400647
 ---
 
 [wiki-kuznica-bialostocka]: https://pl.wikipedia.org/wiki/Ku%C5%BAnica_Bia%C5%82ostocka_(stacja_kolejowa)
@@ -64,10 +65,6 @@ i są w niej jakieś muzea. Ja postanowiłem pojechać najpierw na wschód, wzd�
 kolejowej do [Kuźnicy Białostockiej][wiki-kuznica-bialostocka], a później
 gdzieś na północ. Plany miałem ambitne bo rozważałem dojechać do
 [Dąbrowy Białostockiej][wiki-dabrowa-bialostocka].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1756400647/embed/4303c3690e4e23ce17ee6b64f414c89fa8eed184'></iframe>
 
 ## Szczegóły
 

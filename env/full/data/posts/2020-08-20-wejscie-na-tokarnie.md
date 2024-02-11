@@ -30,14 +30,12 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3966990688
+
 ---
 
 [wiki-tokarnia]: https://pl.wikipedia.org/wiki/Tokarnia_(Beskid_Niski)
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3966990688/embed/02770e54660796e108b000bafe180cd9d5e8ee0c'></iframe>
 
 ## Szczegóły

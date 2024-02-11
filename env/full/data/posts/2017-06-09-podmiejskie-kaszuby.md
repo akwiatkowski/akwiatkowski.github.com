@@ -29,6 +29,7 @@ pois:
     lon: 18.68676
     name: Bardzo pofalowany teren w okolicy Morzeszczyna
 
+strava: 1030210573
 ---
 
 [stary-wentyl]: https://www.facebook.com/starywentyl/
@@ -79,11 +80,6 @@ Ten wyjazd
 również nie był pewny z powodu nieprzewidywalnej pogody dzień później.
 Na szczęście prognoza pogody się poprawiła a [Michał][stary-wentyl] ma dar
 przekonywania.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1030210573/embed/dff617d3117b29358a5cd5b54ce849c7c406f94e'></iframe>
 
 Szczegóły
 ---------

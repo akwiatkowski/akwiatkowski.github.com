@@ -21,6 +21,7 @@ time_spent:             2
 
 pois:
 
+strava: 1006516022
 ---
 
 [wiki-trzebaw]: https://pl.wikipedia.org/wiki/Trzebaw_(wojew%C3%B3dztwo_wielkopolskie)
@@ -39,11 +40,6 @@ Ja natomiast poświęcam więcej czasu na jeżdzenie rowerem.
 Nie znalazłem jeszcze idealnego jeziora do zdjęć zachodzącego Słońca. Miałem
 kilka potencjalnych opcji w okolicy i tego wieczoru postanowiłem, że
 sprawdzę jedną z nich.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1006516022/embed/6fd556c391b3e0a10914db96fb615f1970a9e63a'></iframe>
 
 Szczegóły
 ---------

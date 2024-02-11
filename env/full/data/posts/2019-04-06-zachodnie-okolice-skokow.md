@@ -28,6 +28,7 @@ pois:
     name: Bardzo ładna polana pomiędzy lasem w Budziszewicach
     type: visited
 
+strava: 2269901861
 ---
 
 [wiki-skoki]: https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
@@ -48,10 +49,6 @@ pois:
 
 Tego dnia chciałe wyruszyć na eksploracje północnej okolicy [Poznania][wiki-poznan].
 Nie miałem konkretnego celu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2269901861/embed/bd5fe118945cf74925a5a6688c876746b103b57b'></iframe>
 
 ## Szczegóły
 

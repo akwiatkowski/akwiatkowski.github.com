@@ -15,6 +15,7 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               6
 time_spent:             2
+strava: 462835981
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity
@@ -33,11 +34,6 @@ Wstęp
 Tego dnia w planie było zejście do [Poręby Górnej][wiki-poreba-gorna], jednak
 problemy z wodą w [schronisku][wiki-maciejowa] zmusiły nas do wcześniejszego
 powrotu do domu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/462835981/embed/071099b35184c756c7a92087761dc5f24641f33f'></iframe>
 
 Szczegóły
 ---------

@@ -19,8 +19,8 @@ coords_type:            "hike"
 map_zooms:              16
 distance:               5
 time_spent:             3
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava: 3966845425
 
 ---
 
@@ -37,10 +39,6 @@ pois:
 W tym roku na wakacje chciałem wybrać się w obszar między [Beskidem Niskim][wiki-beskid-niski]
 a [Bieszczadami][wiki-bieszczady]. Wybraliśmy nocleg w okolicy [Rzepedzi][wiki-rzepedz]
 i tak jak rok temu wypożyczyłem samochód.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3966845425/embed/0a18dde1604c7a505b3a33bff8733e59ea5d2883'></iframe>
 
 ## Szczegóły
 

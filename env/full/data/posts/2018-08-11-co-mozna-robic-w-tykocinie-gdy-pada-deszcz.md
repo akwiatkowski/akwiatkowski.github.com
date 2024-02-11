@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1767937186
 ---
 
 [wiki-tykocin]: https://pl.wikipedia.org/wiki/Tykocin
@@ -43,10 +44,6 @@ pois:
 
 Deszcz na tym wyjeździe był i szczęściem i pechem. Pogoda zmieniła się dzień
 wcześniej a tego dnia był zapowiadany ciągły deszcz. Było to dość sporym zaskoczeniem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1767937186/embed/2487667a9f0eaa5a4e76d667e8038d2d23bf7361'></iframe>
 
 ## Szczegóły
 

@@ -30,6 +30,7 @@ pois:
     desc: Prawdopodobnie szlak bywa zalewany na wiosnę
     type: interesting
 
+strava: 1758477822
 ---
 
 [wiki-goniadz]: https://pl.wikipedia.org/wiki/Goni%C4%85dz
@@ -68,10 +69,6 @@ Patrząc na możliwe opcje, zauważyłem czerwony szlak rowerowy na północ od
 [Sokółki][wiki-sokolka]. Wystarczyłoby trochę
 podjechać pociągiem i możnaby jechać wzdłuż rzeki [Biebrzy][wiki-biebrza].
 To mogłoby być lepszem pomysłem i tak zdecydowaliśmy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1758477822/embed/5617e407fd9ac51f98ccc9c2376f4823cbcbdb84'></iframe>
 
 ## Szczegóły
 

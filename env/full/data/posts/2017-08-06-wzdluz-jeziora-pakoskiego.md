@@ -24,6 +24,7 @@ pois:
     lon: 18.08989
     name: Okolice Łącka na północ od Pakości - rzeka, las i jezioro
 
+strava: 1120406019
 ---
 
 [wiki-janikowo]: https://pl.wikipedia.org/wiki/Janikowo
@@ -46,11 +47,6 @@ Wstęp
 Ten krótki przejazd jest rozszerzeniem znanej
 [trasy]({% post_url 2015-08-02-szybki-kurs-do-janikowa %})
 do [Janikowa][wiki-janikowo]. Tym razem chciałem pojechać trochę dalej.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1120406019/embed/69306a93d35e1c62fb0370c8522a20b4f565c0a6'></iframe>
 
 Szczegóły
 ---------

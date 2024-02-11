@@ -15,6 +15,7 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               13
 time_spent:             5
+strava: 462835649
 ---
 
 [wiki-pkp-ic]:          https://pl.wikipedia.org/wiki/PKP_Intercity#InterCity
@@ -41,11 +42,6 @@ Wstęp
 Oprócz przechadzki na [Turbacz][wiki-turbacz] miałem w planie jeszcze dwie trasy.
 Chciałem zejść do [Poręby Górnej][wiki-poreba-gorna] oraz jakąś pętlę na południe.
 Chatkowy z [Maciejowej][wiki-maciejowa] polecił mi trasę na południe.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/462835649/embed/464e4a39d25676048ab6a6c4114a52c0cb98d833'></iframe>
 
 Szczegóły
 ---------

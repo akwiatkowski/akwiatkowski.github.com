@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5845974718
+
 ---
 
 {% photo_header "Staw w Drogoszach","" %}
@@ -70,10 +72,6 @@ pois:
 Zwiedziłem tereny na południe od noclegu w niedzielę. Wczoraj na południowy-zachód.
 Dzisiaj mogłem wybrać się na północny-wschód, jednak za dwa dni będę jechał w tamtym
 kierunku dlatego wolałem wybrać ten jeden kierunek, który został.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5845974718/embed/5c837b6f75a50e059e81416f89084a9a4894181b'></iframe>
 
 ## Szczegóły
 

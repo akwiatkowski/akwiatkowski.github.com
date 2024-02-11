@@ -26,6 +26,7 @@ pois:
     lon: 16.96355
     name: Między Bieżyniem a Łagowem. Ciekawy szlak przez pola, miejscami jest mokro.
 
+strava: 913965919
 ---
 
 [wiki-koscian]: https://pl.wikipedia.org/wiki/Ko%C5%9Bcian
@@ -54,12 +55,6 @@ pois:
 
 Wstęp
 -----
-
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/913965919/embed/15d9a2bffe235db77b074c6f9923523d24a517c2'></iframe>
 
 Szczegóły
 ---------

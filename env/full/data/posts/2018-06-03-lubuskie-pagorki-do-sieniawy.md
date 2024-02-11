@@ -29,6 +29,7 @@ pois:
     lon: 15.42479
     name: Okolica linii kolejowej Toporów-Międzyrzecz jest bardzo ładna
 
+strava: 1616531295
 ---
 
 [wiki-r1]: https://pl.wikipedia.org/wiki/Szlak_rowerowy_R1
@@ -65,10 +66,6 @@ pois:
 Kierunek eksploracji na zachód był prawie oczywistym wyborem. Nie wiedzieliśmy tylko jak
 daleko powinniśmy pojechać. Sam nie przypuszczałem nawet, że uda się nam dostać
 do [Sieniawy][wiki-sieniawa].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1616531295/embed/e91400d61f4ed477d3cdcc71da16b4cb96da5d96'></iframe>
 
 ## Szczegóły
 

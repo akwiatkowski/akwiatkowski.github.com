@@ -32,6 +32,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3381102602
+
 ---
 
 [wiki-kornik]: https://pl.wikipedia.org/wiki/K%C3%B3rnik
@@ -56,10 +58,6 @@ lekki wiatrem wrócić rowerem do [Poznania][wiki-poznan]. Powinno to wyjść ok
 50km jazdy.
 
 {% photo "2020_05_01__15_54_DSC07718.jpg","Obniżenie terenu w Czapurach" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3381102602/embed/521bb240abafcd4d4f0a88b8f6275649deb01687'></iframe>
 
 ## Szczegóły
 

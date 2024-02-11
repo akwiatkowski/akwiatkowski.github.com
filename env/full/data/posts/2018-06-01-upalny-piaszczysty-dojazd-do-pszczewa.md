@@ -29,6 +29,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1616519069
 ---
 
 [wiki-trzciel]: https://pl.wikipedia.org/wiki/Trzciel
@@ -50,10 +51,6 @@ Mieliśmy jeden pełny dzień w [Trzcielu][wiki-trzciel] na nie za długoą wyci
 Domyślnym celem był [Pszczew][wiki-pszczew] odległy o 20km na północ.
 Przyjechaliśmy z południa, na wschód jest gorsza sieć dróg do jazdy rowerem
 a na zachód pojedziemy następnego dnia. Wybór był oczywisty.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1616519069/embed/605920f29317cb62f01d06c80d4db2a5758c79ab'></iframe>
 
 ## Szczegóły
 

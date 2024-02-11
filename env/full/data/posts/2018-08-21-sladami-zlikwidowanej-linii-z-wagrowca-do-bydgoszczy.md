@@ -26,9 +26,10 @@ pois:
     lon: 17.32867
     name: Na północ od Gołańczy jest kilka ciekawych pagórków. Okolica wsi Dobieszewko jest ciekawa.
   - lat: 52.93388
-    lon: 17.78417  
+    lon: 17.78417
     name: W okolicy Chomętowa jest ciekawe ukształtowanie terenu
 
+strava: 1787349208
 ---
 
 [wiki-chometowo-kosciol]: https://pl.wikipedia.org/wiki/Parafia_%C5%9Awi%C4%99tych_Aposto%C5%82%C3%B3w_Piotra_i_Paw%C5%82a_w_Chom%C4%99towie
@@ -80,10 +81,6 @@ Zmieniłem ten plan aby uwzględnić zaliczenie jak najwięcej nowych gmin.
 Najlepiej byłoby rozpocząć w okolicach [Wągrowca][wiki-wagrowiec].
 [Gołańcz][wiki-golancz] była jeszcze lepszą opcją, jednak niestety dojeżdża tam znacznie
 mniej pociągów, zwłaszcza rano.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1787349208/embed/e36a02efbc87dc6e292239d412e5e1e05be53934'></iframe>
 
 ## Szczegóły
 

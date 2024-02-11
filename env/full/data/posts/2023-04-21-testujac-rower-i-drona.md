@@ -16,10 +16,10 @@ towns:                  []
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-04-21-testujac-rower-i-drona.json"
 coords_type:            "bicycle"
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -32,7 +32,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

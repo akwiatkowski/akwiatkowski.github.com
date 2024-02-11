@@ -18,8 +18,8 @@ coords:                 [{"route": [], "type": "hike"}]
 #coords_type:            "bicycle"
 distance:               2
 time_spent:             2
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -28,7 +28,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

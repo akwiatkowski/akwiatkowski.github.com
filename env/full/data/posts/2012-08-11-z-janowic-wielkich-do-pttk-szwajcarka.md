@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               8
 time_spent:             3
+
+strava: 167091762
 ---
 
 [wiki-rudawy]:          https://pl.wikipedia.org/wiki/Rudawy_Janowickie
@@ -33,11 +35,6 @@ Wstęp
 -----
 
 Jest to pierwsza bliska styczność z [Rudawami Janowickimi][wiki-rudawy].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/167091762/embed/2fc07a8a832e752f64acbe3881a9cedb0c456366'></iframe>
 
 Szczegóły
 ---------

@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               57
 time_spent:             5
+strava: 310999387
 ---
 
 [vimeo-1]:                   https://vimeo.com/129367038
@@ -37,11 +38,6 @@ Wstęp
 Bardzo mało terenów na południu od [Poznania][wiki-poznan] udało mi się zobaczyć do tej pory.
 Jakiś czas temu kolega mi
 powiedział że trasa w stronę [Śremu][wiki-srem] jest bardzo ładna. Chciałem sam móc to ocenić.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/310999387/embed/b414c49f8356ad87bcb87a825a4e8ce2a82f2984'></iframe>
 
 Szczegóły
 ---------

@@ -15,12 +15,12 @@ towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2021-05-28-warszawa-modlin-i-lazienki.json"
-coords_type:            "bicycle"
+coords_type:            "hike"
 map_zooms:              16
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

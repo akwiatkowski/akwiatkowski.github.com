@@ -22,6 +22,7 @@ time_spent:             3
 elevation:              42
 temperature:            25
 
+strava: 5285839685
 
 ---
 
@@ -34,10 +35,6 @@ temperature:            25
 
 Kolejny raz chciałem eksplorować okolicę [Pobiedzisk][wiki-pobiedziska]
 bez (prawie) konkretnego celu.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5285839685/embed/8c1ea4f44455605dfabbaeef1bc4f2ce3082856b'></iframe>
 
 ## Szczegóły
 

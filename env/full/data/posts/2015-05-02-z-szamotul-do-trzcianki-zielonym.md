@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               72
 time_spent:             5
+strava: 296768033
 ---
 
 [wiki-puszcza-notecka]:         https://pl.wikipedia.org/wiki/Puszcza_Notecka
@@ -62,11 +63,6 @@ Wstęp
 
 W zamierzeniu miała to być pierwsza trasa, w której bym przejechał przez [Puszczę Notecką][wiki-puszcza-notecka] i
 rozszerzył swoją "strefę eksploracji rowerowej" bardziej na północ.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/296768033/embed/ea331c325326e0f22dea4df45730b0b85b87829f'></iframe>
 
 Szczegóły
 ---------

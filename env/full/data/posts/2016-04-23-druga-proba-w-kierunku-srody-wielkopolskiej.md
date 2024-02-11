@@ -17,6 +17,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               60
 time_spent:             4
+strava: 554365446
 
 ---
 
@@ -51,11 +52,6 @@ Wstęp
 Umówiłem się z kolegą na sobotę aby pojeździć. Preferował on południowe-wschodnie
 tereny Poznania, gdyż tam mieszka. Wybraliśmy kierunek - [Kórnik][wiki-kornik], a
 reszta była uzależniona od pogody.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/554365446/embed/74d4b2e5a3d800ece0649789968fe26f4766bcb4'></iframe>
 
 Szczegóły
 ---------

@@ -14,6 +14,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               54
 time_spent:             4
+strava: 144710693
 ---
 
 [wiki-dzwonowo-lesne]:     https://pl.wikipedia.org/wiki/Dzwonowo_Le%C5%9Bne
@@ -39,11 +40,6 @@ Wstęp
 
 Piątek oraz dobra pogoda skusiły mnie, aby sobie pojeździć. Wybrałem okolicę
 [Puszczy Zielonki][wiki-puszcza-zielonka].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/144710693/embed/16a33eb0221f598f28e9189e25b1caad1cf4422a'></iframe>
 
 Szczegóły
 ---------

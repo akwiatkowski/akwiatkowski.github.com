@@ -29,6 +29,9 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava:
+  - https://www.strava.com/activities/9494643179/
+
 ---
 
 [wiki-skwierzyna]: https://pl.wikipedia.org/wiki/Skwierzyna
@@ -58,10 +61,6 @@ przekładałem dwa razy a ostatecznie, nie jestem w pełni z niego zadowolony.
 
 A dla własnego zdrowia muszę co jakiś czas wybyć, poobcować z przyrodą i
 zmienić towarzystwo. Często "ja sam" to wystarczające towarzystwo dla mnie.
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9494643179"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

@@ -25,6 +25,7 @@ pois:
     lon: 21.62702
     name: Bardzo dobry punkt widokowy jak i zjazd do wsi Mszana
 
+strava: 1105793226
 ---
 
 [muzeum-zyndranowa]: http://www.zyndranowa.org/
@@ -48,11 +49,6 @@ Czekał na nas ponowna zmiana noclegu. Tym razem znałem trasę po której jecha
 dlatego czułem się spokojniej.
 
 {% photo "IMGP9579raw1.jpg","Drugi poranek nad zalewem w Krempnej" %}
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1105793226/embed/10d8b37e7a6a2f24061ee7cc8d8b43092626b260'></iframe>
 
 Szczegóły
 ---------

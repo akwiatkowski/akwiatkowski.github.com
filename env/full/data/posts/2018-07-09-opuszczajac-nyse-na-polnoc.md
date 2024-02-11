@@ -26,6 +26,7 @@ pois:
     lon: 17.18126
     name: Między Ziębicami a Nysa powinno być dużo ciekawych terenów do jeżdżenia rowerem
 
+strava: 1691277777
 ---
 
 [wiki-nysa]: https://pl.wikipedia.org/wiki/Nysa
@@ -49,10 +50,6 @@ Tego dnia kończyliśmy wycieczkę i wracaliśmy do domu.
 Nie chcieliśmy jechać pociągiem z samej [Nysy][wiki-nysa], a woleliśmy spróbować
 ruszyć rowerami i zobaczyć jak daleko dojedziemy.
 Plany mieliśmy bardzo ambitne.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1691277777/embed/a4b67ec2bfb13a058bc8982ce768f1dea3bbbdb4'></iframe>
 
 ## Szczegóły
 

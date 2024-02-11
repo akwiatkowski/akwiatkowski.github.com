@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 7072152290
+
 ---
 
 
@@ -36,10 +38,6 @@ pois:
 
 Na tą majówkę chciałem wybrać coś z północnej Polski. Coś z łatwym dojazdem
 z [Poznania][wiki-poznan], noclegiem blisko stacji kolejowej i ładnymi terenami w okolicy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/7072152290/embed/52164e1b8b93a97ff85e99e3e6741c1b70871970'></iframe>
 
 ## Szczegóły
 

@@ -32,6 +32,8 @@ pois:
     lon: 21.80198
     name: Kościół w Jaśliskach oraz bardziej ciekawy szlak zielony na południe.
 
+strava: 592043342
+
 ---
 
 [wiki-beskid-niski]:        https://pl.wikipedia.org/wiki/Beskid_Niski
@@ -58,11 +60,6 @@ Wstęp
 
 To był ostatni dzień w [Beskidzie Niskim][wiki-beskid-niski] i jedyny jaki pozostał nam kierunek
 do naszych eksploracji to wschód. Celem tego dnia były [Jaśliska][wiki-jasliska].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/592043342/embed/be4c960a5b8df6e2dbe76acee152516164af937c'></iframe>
 
 Szczegóły
 ---------

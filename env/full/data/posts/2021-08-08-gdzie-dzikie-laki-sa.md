@@ -20,7 +20,7 @@ map_zooms:              14
 distance:               6
 time_spent:             3
 elevation:              9
-temperature:            24         
+temperature:            24
 
 
 pois:
@@ -29,13 +29,11 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5769574970
+
 ---
 
 
 ## Wstęp
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5769574970/embed/1ac0aa0289e8483680d57699d366af1d9871c5cd'></iframe>
 
 ## Szczegóły

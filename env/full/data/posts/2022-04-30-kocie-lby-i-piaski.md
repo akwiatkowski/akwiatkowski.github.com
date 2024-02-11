@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 7072165480
+
 ---
 
 
@@ -37,10 +39,6 @@ pois:
 Tego dnia pogoda nie była tak idealna jak dzień wcześniej. Zaplanowałem znacznie
 spokojniejszą i krótszą trasę. Jednak jak się okazało później, piaski
 spowodowały, że nie była taka łatwa.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/7072165480/embed/272ea1a7f792e3dfc0a0758f161a601530ee57e9'></iframe>
 
 ## Szczegóły
 

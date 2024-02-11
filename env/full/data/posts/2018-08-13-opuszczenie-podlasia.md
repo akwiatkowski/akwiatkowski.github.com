@@ -28,6 +28,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1769995500
 ---
 
 [wiki-podlasie]: https://pl.wikipedia.org/wiki/Podlasie
@@ -52,10 +53,6 @@ To był ostatni dzień bardzo długiej wycieczki po [Podlasiu][wiki-podlasie].
 Tego dnia musieliśmy dojechać do jakieś stacji kolejowe, z której pociąg
 jechałby w stronę [Warszawy][wiki-warszawa]. Decyzja padła na
 [Łapy][wiki-lapy] gdyż zatrzymują się ta pociągi Intercity.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1769995500/embed/7210fa429c68e7b413cb1d1123a09456a3121157'></iframe>
 
 ## Szczegóły
 

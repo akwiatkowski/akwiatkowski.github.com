@@ -23,7 +23,7 @@ elevation:              267
 
 pois:
 
-
+strava: 1247403306
 ---
 
 [wiki-bardo]: https://pl.wikipedia.org/wiki/Bardo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -40,11 +40,6 @@ z jakiegoś popularnego punktu widokowego.
 Okoliczne góry mnie ciekawiły, bardzo słabo je znam.
 Tego dnia chciałem zaspokoić swoją ciekawość mając na uwadze, że nie zrobię
 zbyt długiej trasy, gdyż pogoda jest niepewna.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1247403306/embed/c1dc4544a02868a93afd6ae95aaf2305f3a5e4d5'></iframe>
 
 Szczegóły
 ---------

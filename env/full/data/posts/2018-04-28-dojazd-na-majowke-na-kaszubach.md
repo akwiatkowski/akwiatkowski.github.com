@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1537374206
 ---
 
 [wiki-nawalnica]: https://pl.wikipedia.org/wiki/Nawa%C5%82nice_w_Polsce_(2017)
@@ -54,10 +55,6 @@ Wybrałem [Kaszuby][wiki-kaszuby] gdyż od dawna mnie one ciekawiły. Jako bazę
 wybrać miejsce w okolicy [Czerska][wiki-czersk] i [Chojnic][wiki-chojnice] aby
 móc uwzględnić dużo opcji kolejowych. W zasięgu były przynajmniej 3
 parki narodowe/krajobrazowe.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1537374206/embed/7ec5df8f23b81f05988f0287254e2af053d4392b'></iframe>
 
 ## Szczegóły
 

@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1498358790
 ---
 
 [wiki-brody]: https://pl.wikipedia.org/wiki/Brody_(powiat_nowotomyski)
@@ -68,10 +69,6 @@ W 2017 roku z Michałem [jechałem]({% post_url 2017-05-14-z-nowego-tomysla-prze
 w stronę okolic [Sierakowa][wiki-sierakow] zaczynając z [Nowego Tomyśla][wiki-nowy-tomysl].
 Nie chciałem powtarzać trasy ale wiedziałem, że te okolicy zawsze są dobrym
 wyborem.
-
-## Opis trasy
-
-{% strava_iframe "1498358790","ba41862f0391844a4824cce0c653eff9a44473a2" %}
 
 ## Szczegóły
 

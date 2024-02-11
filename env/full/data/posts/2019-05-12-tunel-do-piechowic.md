@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2368867701
+
 ---
 
 [wiki-michalowice]: https://pl.wikipedia.org/wiki/Micha%C5%82owice_(Piechowice)
@@ -47,10 +49,6 @@ część dnia.
 Z tego powodu wymyśliłem dość krótką trasę pieszą. Postanowiłem pojechać autobusem
 [komunikacji miejskiej][mzk-jelenia] do [Michałowic][wiki-michalowice]
 i dalej zejść do [Piechowic][wiki-piechowice].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2368867701/embed/1cda00185c486fb177f3c18ddeb7534a8667b578'></iframe>
 
 ## Szczegóły
 

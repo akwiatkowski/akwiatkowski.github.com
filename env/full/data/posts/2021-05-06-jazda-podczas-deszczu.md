@@ -16,7 +16,7 @@ towns:                  [wielkopolskie, pobiedziska]
 coords:                 [{"route": [], "type": "hike"}]
 distance:               6
 time_spent:             1
-elevation:              
+elevation:
 temperature:            7
 weather:                rain
 
@@ -35,9 +35,6 @@ pois:
 Pogoda w kwietniu i na początku maja (majówka) nie przekonywałą do jazdy
 rowerem. Potrzebując trochę ucieczki od miasta postanowiłem, że
 po pracy sobie pojeżdzę.
-
-## Opis trasy
-
 ## Szczegóły
 
 Pierwszy pomysł pojawił się 2-3 tygodnie wcześniej. Chciałem raz w niedzielę

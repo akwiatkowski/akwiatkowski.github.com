@@ -17,6 +17,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               57
 time_spent:             4
+strava: 555486685
 
 ---
 
@@ -54,11 +55,6 @@ i wiał dość silny wiatr.
 Planów mam dużo, tak i jednym z nich jest dojazd rowerem do [Jarocina][wiki-jarocin]. W związku z tym,
 że dojazd w te rejony pociągiem jest dość łatwy i szybki, postanowiłem wybrać kontynuowanie terenów
 na południowy-wschód od Poznania.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/555486685/embed/828b63c3a6f3a577dedac8bb3826833f2bc9834f'></iframe>
 
 Szczegóły
 ---------

@@ -20,6 +20,7 @@ time_spent:             1
 
 pois:
 
+strava: 688891299
 
 ---
 
@@ -44,11 +45,6 @@ Chciałem zrobić małą przerwę z jeżdzeniem rowerem aby psychicznie odpoczą
 Michał mnie przekonywał aby gdzieś pojechać z noclegiem.
 
 Trasę określaliśmy dzień wcześniej, a nocleg załatwiłem po 20-tej tego samego dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/688891299/embed/28dfaf7e6bd347ebc16e3dfbb657e6b891689ea6'></iframe>
 
 Szczegóły
 ---------

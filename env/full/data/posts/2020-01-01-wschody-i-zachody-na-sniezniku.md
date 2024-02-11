@@ -28,6 +28,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2986745583
+
 ---
 
 {% photo_header "Zachód słońca na Śnieżniku","tag:good,tag:best" %}
@@ -47,10 +49,6 @@ pois:
 
 Wybór miejsca na Sylwester był trochę związany z tym, jakie zdjęcia chciałem
 zrobić. I tak będąc tutaj nie mogłem nie chodzić na wschody i zachody słońca.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2986745583/embed/6b89038085b4da18199fa41ccf5740a27a3abdf9'></iframe>
 
 ## Szczegóły
 

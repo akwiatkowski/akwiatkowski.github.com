@@ -26,6 +26,7 @@ pois:
     lon: 15.87373
     name: Cały Trzeciel to dobre miejsce do zdjęć
 
+strava: 1616517215
 ---
 
 [wiki-linia-373]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_373
@@ -36,11 +37,6 @@ pois:
 
 Po południu postanowiliśmy ruszyć do centrum tej miejscowości.
 Chcieliśmy znaleźć jakiś sklep albo restauracje i się nie nudzić wieczorem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1616517215/embed/a48645dd4bf4440d15338f13d512ddfd8ccd0caa'></iframe>
-
 
 ## Szczegóły
 

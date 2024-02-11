@@ -28,6 +28,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 3236463396
+
 ---
 
 
@@ -38,10 +40,6 @@ się coraz silniejsze. Chcąc znaleźć dzikie miejsce wybrałem okolicę
 [Warty][wiki-warta] na południe od [Rogalinka][wiki-rogalinek].
 
 {% photo "2020_03_28__14_00_DSC07311.jpg","Las, miejsce zakazane" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3236463396/embed/87704989e4d24db6aab584bd1eedd92a45828232'></iframe>
 
 ## Szczegóły
 

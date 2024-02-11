@@ -20,6 +20,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               16
 time_spent:             7
+
+strava: 333330532
 ---
 
 [wiki-rozdziela]:       https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Rozdziela
@@ -42,11 +44,6 @@ Wstęp
 
 Zaplanowanie majówki nie było łatwe. Koniec końców wyszło że 2 dni na [Pieniny][wiki-pieniny] i 3 dni na [Gorce][wiki-gorce],
 które są niedaleko.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333330532/embed/12daa171f09ead7fb1b4e5d11409b724c3bfe78e'></iframe>
 
 Szczegóły
 ---------

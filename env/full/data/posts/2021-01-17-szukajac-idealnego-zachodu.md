@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4642938750
+
 ---
 
 [wiki-marciszow]: https://pl.wikipedia.org/wiki/Marcisz%C3%B3w
@@ -51,10 +53,6 @@ z prawem. Tak jak przyroda nie jest wystarczająco wymagająca tak człowiek
 musi jeszcze sobie utrudniać.
 
 {% photo "2021_01_17__12_40_DSC03243.jpg","Zimowe Sokoliki z pociągu","tag:winter" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4642938750/embed/14099be26f93967e9afd78d173f885f8bd7c64c9'></iframe>
 
 ## Szczegóły
 

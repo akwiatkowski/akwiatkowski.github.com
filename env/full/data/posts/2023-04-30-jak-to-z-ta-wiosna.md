@@ -29,6 +29,11 @@ pois:
     name: Okolica doliny rzeki Cybiny
     type: visited
 
+
+strava:
+  - https://www.strava.com/activities/8986053839
+
+
 ---
 
 [wiki-kobylnica]: https://pl.wikipedia.org/wiki/Kobylnica_(wojew%C3%B3dztwo_wielkopolskie)
@@ -52,10 +57,6 @@ Przygotowując się na pierwszą "normalną" wycieczkę rowerową wybrałem się
 w znane okolice - aby sprawdzić czy wszystko w rowerze dobrze działa.
 
 {% photo "2023_04_30__14_47_DJI_0651.jpg","Droga między Wierzonką a Karłowicami" %}
-
-## Opis trasy
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8986053839"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ## Szczegóły
 

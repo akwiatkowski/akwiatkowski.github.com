@@ -16,10 +16,10 @@ towns:                  [szwajcaria]
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
 #coords_type:            "bicycle"
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -27,6 +27,12 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+strava:
+  Bellinzona (zamki i miasto): https://www.strava.com/activities/7188317272
+  Locarno (rynek i wybrzeże): nil
+  Ascona (wybrzeże i uluczki): https://www.strava.com/activities/7188328138
+  Cittiglio (2 wieczór): https://www.strava.com/activities/7188333084
 
 ---
 

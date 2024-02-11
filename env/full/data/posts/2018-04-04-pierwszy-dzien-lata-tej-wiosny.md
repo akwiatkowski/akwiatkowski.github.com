@@ -26,6 +26,7 @@ pois:
     lon: 15.53169
     name: Ciekawe stawy na zachód od Międzyrzecza
 
+strava: 1488853236
 ---
 
 [wiki-zielona-gora]: https://pl.wikipedia.org/wiki/Zielona_G%C3%B3ra
@@ -70,10 +71,6 @@ pois:
 Pogoda w tym roku jest bardzo przewrotna. Wiosna się spóźniała i już miałem dość
 tej szarości. Postanowiłem w tym roku lepiej korzystać z pogody, dlatego w
 weekend popracowałem dodatkowo aby móc zrobić przerwę w środku tygodnia.
-
-## Opis trasy
-
-{% strava_iframe "1488853236","8fadbca74c06f474619b58d937e7f420b04f0801" %}
 
 ## Szczegóły
 

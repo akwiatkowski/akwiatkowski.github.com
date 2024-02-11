@@ -30,6 +30,7 @@ pois:
     lon: 16.15051
     name: Między Lutomiem a Lutomkiem. Stosunkowo mocny zjazd i widok na pagórki okolic Sierakowa.
 
+strava: 986169246
 ---
 
 [wiki-nowy-tomysl]: https://pl.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl
@@ -61,11 +62,6 @@ Z tego powodu miałem mniejszą ochotę na jazdę w niedzielę, chciałem odpocz
 
 Trasę wymyśliłem wieczorem uwzględniając pogodę, aby wiatr nam nie utrudniał jazdy.
 Nie przewidywałem że te tereny tak bardzo mi się spodobają.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/986169246/embed/780accd59b7557925aaa88bd9bd8eeffcab50f2f'></iframe>
 
 Szczegóły
 ---------

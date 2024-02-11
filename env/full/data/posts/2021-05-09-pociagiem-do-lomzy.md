@@ -19,7 +19,7 @@ coords_type:            "train"
 map_zooms:              10
 distance:               505
 time_spent:             11
-elevation:              
+elevation:
 temperature:            20
 
 
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

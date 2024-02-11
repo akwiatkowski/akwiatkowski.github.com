@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2310846086
+
 ---
 
 [wiki-swierczewo]: https://pl.wikipedia.org/wiki/%C5%9Awierczewo_(Pozna%C5%84)
@@ -55,10 +57,6 @@ pois:
 Michał chciał ze mną pojeździć rowerem. Nie byliśmy zgodni odnośnie
 wykorzystania pociągu, jednak zgodziłem się wyjechać za [miasto][wiki-poznan]
 rowerem a tylko pociągiem wracać. Wybraliśmy kierunek zachodni.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2310846086/embed/f268d4cfb8a0b68c4f9fef97467f41ab2749c812'></iframe>
 
 ## Szczegóły
 

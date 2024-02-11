@@ -17,6 +17,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               7
 time_spent:             2
+
+strava: 333342219
 ---
 
 [wiki-luban]:           https://pl.wikipedia.org/wiki/Luba%C5%84_(Gorce)
@@ -31,11 +33,6 @@ Wstęp
 
 Tak jak to pisałem wcześniej, jeżeli pogoda jest zła, to następnego dnia będzie dobra (albo nadal zła). I tak tutaj mocno się
 to spełniło. W sensie - była dobra.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333342219/embed/18b7187cb7cafb040a7adce4b4e1653b16c21aff'></iframe>
 
 Szczegóły
 ---------

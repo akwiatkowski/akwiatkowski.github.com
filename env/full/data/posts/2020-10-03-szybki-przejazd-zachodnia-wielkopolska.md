@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4146356965
+
 ---
 
 
@@ -36,10 +38,6 @@ pois:
 
 Osobiście preferuje wycieczki rowerowe do momentu końca żniw. Przyroda i pola
 wtedy są dla mnie najciekawsze. Jednak to nie oznacza, że chowam rower.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4146356965/embed/80df28a1ee80673e911ac95c41eab20b382139d1'></iframe>
 
 ## Szczegóły
 
@@ -85,7 +83,7 @@ wrażenie suchych. Z drugiej strony kwitł na innych rzepak.
 {% photo "2020_10_03__12_49__A030597.jpg","Jezioro Wielkie" %}
 
 Przejechaliśmy przez [Krzycko Wielkie][wiki-krzycko-wielkie] jadąc
-do [Bukowca Górnego][wiki-bukowiec-gorny].  
+do [Bukowca Górnego][wiki-bukowiec-gorny].
 
 {% photo "2020_10_03__12_52__A030604.jpg","Zbliżając się do Boszkowa" %}
 

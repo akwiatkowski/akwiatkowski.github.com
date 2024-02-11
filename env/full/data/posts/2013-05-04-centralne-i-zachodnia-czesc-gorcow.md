@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               24
 time_spent:             11
+
+strava: 333339296
 ---
 
 [trasa]:                http://mapa-turystyczna.pl/route/zwiw
@@ -34,11 +36,6 @@ Wstęp
 -----
 
 Trasa ta jest połączeniem najciekawszego szlaku w [Gorcach][wiki-gorce] z prawie najgorszą możliwą pogodą.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333339296/embed/0725129c2dd8540610ec643da53f1095b45c65df'></iframe>
 
 Szczegóły
 ---------

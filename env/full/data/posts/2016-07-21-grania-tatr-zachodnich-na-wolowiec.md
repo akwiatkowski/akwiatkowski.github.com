@@ -27,6 +27,8 @@ pois:
     lon:  19.76597
     name: Za Wołowcem robi się znacznie stromiej i szlak jest trudniejszy.
 
+strava: 650900897
+
 ---
 
 [wiki-bobrowiecka]: https://pl.wikipedia.org/wiki/Bobrowiecka_Prze%C5%82%C4%99cz
@@ -49,11 +51,6 @@ Wstęp
 -----
 
 Tego dnia czekała na nas idealna pogoda, nawet aż za dobra. Celem był [Wołowiec][wiki-wolowiec].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650900897/embed/c2bb6b3585eefd03f36827f61422aed2674ccdcb'></iframe>
 
 Szczegóły
 ---------

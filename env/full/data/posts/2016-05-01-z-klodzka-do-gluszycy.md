@@ -25,6 +25,8 @@ pois:
     lon: 16.44469
     name: Droga ta nie jest bardzo ciekawa, ale czuć na niej odległość i dzikość.
 
+strava: 562219977
+
 ---
 
 [wiki-wzgorza-scinawskie]:     https://pl.wikipedia.org/wiki/Wzg%C3%B3rza_%C5%9Acinawskie
@@ -57,11 +59,6 @@ aby przez nie nie przejechać.
 
 Jest to kolejna trasa liniowa z powrotem koleją, tym razem w kierunku północno-zachodnim.
 Powrót pociągiem, który startuje z [Wałbrzycha][wiki-walbrzych].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/562219977/embed/af70520b2fa9e51691407d23a5e52467196784c1'></iframe>
 
 Szczegóły
 ---------

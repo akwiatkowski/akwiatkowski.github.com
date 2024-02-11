@@ -27,6 +27,7 @@ pois:
     lon: 18.00920
     name: Wieś Kątno i obniżenie wokół (malutkiej) Noteci.
 
+strava: 1008278085
 ---
 
 [wiki-jezioro-powidzkie]: https://pl.wikipedia.org/wiki/Jezioro_Powidzkie
@@ -71,11 +72,6 @@ Wpis o tym piszę prawie tydzień później, gdzie już się przygotowuję do ko
 W tym momencie czeka na poprawienie 13 wpisów. Pogoda jest zbyt dobra.
 
 Wpis kończę prawie 5 miesięcy później w październiku. Trochę mi głupio przez to opóźnienie.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1008278085/embed/efeb28473dc3ae3256e13fdf6abf300f88225abc'></iframe>
 
 Szczegóły
 ---------

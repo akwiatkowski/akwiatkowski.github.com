@@ -29,6 +29,8 @@ pois:
     lon: 21.36304
     name: Przedostanie się z Wołowca do Świątkowej Wielkiej nie zapomnę do końca życia.
 
+strava: 592041535
+
 ---
 [chatka-w-nieznajowej]:           http://www.nieznajowa.obozy.pl/
 
@@ -65,11 +67,6 @@ Wstęp
 Bardzo chciałem zobaczyć ponownie [Klimkówkę][wiki-klimkowka-jezioro]. Wiedziałem że dzisiejsza
 trasa będzie długa, dlatego wyruszyliśmy chwilę po 9-tej, jednak nie myślałem
 że będzie ona tak długa czasowo.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/592041535/embed/888ffc1861b1763e1a2b2ee5d4af9ff8bb68e6e4'></iframe>
 
 Szczegóły
 ---------

@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               13
 time_spent:             7
+
+strava: 333308093
 ---
 
 [wiki-chatka-gorzystow]:        https://pl.wikipedia.org/wiki/Chatka_G%C3%B3rzyst%C3%B3w
@@ -34,11 +36,6 @@ Wstęp
 
 Początkowy plan to było jak najsensowniej wrócić z [Chatki Górzystów][wiki-chatka-gorzystow] na
 [Główny Szlak Sudecki][wiki-gss]. Okazało się, że plany się rozbiegły z rzeczywistością.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333308093/embed/6dd615a3145db877530ec0e2bc4016f28bcaa97e'></iframe>
 
 Szczegóły
 ---------

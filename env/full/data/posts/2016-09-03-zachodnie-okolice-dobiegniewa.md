@@ -29,6 +29,8 @@ pois:
     lon: 15.69199
     name: Osieczek - mała osada chyba z tylko jednym gospodarstwem. Ciekawe drogi gruntowe na północ i zachód.
 
+strava: 702412717
+
 ---
 
 [wiki-dobiegniew]: https://pl.wikipedia.org/wiki/Dobiegniew
@@ -53,11 +55,6 @@ na dwa tygodnie później.
 
 Wybraliśmy [Dobiegniew][wiki-dobiegniew] gdyż: ma sporo jezior w okolicy oraz jest do
 niego dobry dojazd.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/702412717/embed/82b2ef03ef1d97f6abb422e6daa9590729be5c17'></iframe>
 
 Szczegóły
 ---------

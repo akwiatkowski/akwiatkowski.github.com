@@ -17,6 +17,7 @@ coords_type:            "hike"
 map_zooms:              13
 distance:               25
 time_spent:             8
+strava: 472914887
 ---
 
 [wiki-korona]:                  https://pl.wikipedia.org/wiki/Korona_G%C3%B3r_Polski
@@ -44,11 +45,6 @@ Wstęp
 
 Ostatecznie zadecydowałem, że dojadę ze wszystkimi do [Międzylesia][wiki-miedzylesie],
 a po tym się trochę powłóczę po okolicy.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/472914887/embed/752aeca9ed960253f146480e44ff0db3a7bfe090'></iframe>
 
 Szczegóły
 ---------

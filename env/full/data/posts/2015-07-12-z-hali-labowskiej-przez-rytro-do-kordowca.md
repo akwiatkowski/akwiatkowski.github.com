@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               18
 time_spent:             7
+strava: 346183870
 ---
 
 [wiki-labowska]:        https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_%C5%81abowskiej
@@ -33,11 +34,6 @@ Wstęp
 -----
 
 Drugi dzień małej wycieczki przez cały [Beskid Sądecki][wiki-beskid-sadecki]. Spore zejście i nowe podejście.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/346183870/embed/51fc7d270ff506cf683c46b1ec87d68348785916'></iframe>
 
 Szczegóły
 ---------

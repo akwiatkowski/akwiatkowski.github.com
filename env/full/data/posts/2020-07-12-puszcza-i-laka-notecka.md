@@ -30,6 +30,8 @@ pois:
     name: Prawdziwa łąka między Piłką a Marylinem
     type: visited
 
+strava: 3753201219
+
 ---
 
 [motyle]: https://www.medianauka.pl/rusalkowate
@@ -54,10 +56,6 @@ pois:
 
 Z [Drezdenka][wiki-drezdenko] można wrócić pociągiem do [Poznania][wiki-poznan]
 jednak mając prawie całą niedzielę lepiej jeszcze trochę sobie pojeździć.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3753201219/embed/6012744ff7b2c8affe6627939091ec29051a26de'></iframe>
 
 ## Szczegóły
 

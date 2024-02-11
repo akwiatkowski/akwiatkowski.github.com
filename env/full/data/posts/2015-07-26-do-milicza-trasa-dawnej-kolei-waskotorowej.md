@@ -16,6 +16,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               50
 time_spent:             7
+strava: 354708275
 ---
 
 [wiki-dolina-baryczy]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Dolina_Baryczy
@@ -52,8 +53,6 @@ pociągi do Poznania w tygodniu!
 
 Szczegóły
 ---------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/354708275/embed/0d907e24326f9bdec8ec53c84a1c88e2de3f390b'></iframe>
 
 Zgodnie z tym że większość osób od nas dzień wcześniej wracała inaczej niż ja, oraz ja mało co zwracałem na widoki (spieszyłem się
 gdyż padało), postanowiliśmy pojechać przez [Rudę Żmigrodzką][wiki-ruda-zmigrodzka]. Dalej jechaliśmy drogą polną

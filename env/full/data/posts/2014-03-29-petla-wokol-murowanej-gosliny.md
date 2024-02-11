@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               75
 time_spent:             6
+strava: 137169014
 ---
 
 [wiki-puszcza-zielonka]:          https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Puszcza_Zielonka
@@ -33,11 +34,6 @@ Wstęp
 
 Ta jazda to była próba pokazania mi [Puszczy Zielonki][wiki-puszcza-zielonka]
 w skrócie, ale trochę dokładniej niż kiedyś jechałem.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137169014/embed/e80e803b236dfbbaf24d5f416353691d0a00bf60'></iframe>
 
 Szczegóły
 ---------

@@ -27,6 +27,8 @@ pois:
     lon: 16.80173
     name: Fajna droga gruntowa do Ligoty Wielkiej. Wokół bardzo pofalowane pola, trochę drzew i miejscami dobre widoki.
 
+strava: 688885800
+
 ---
 
 [wiki-wroclaw]: https://pl.wikipedia.org/wiki/Wroc%C5%82aw
@@ -75,15 +77,8 @@ zachowując jednocześnie nie za duży koszt tej realizacji.
 Dojazd w [Kaszuby][wiki-kaszuby]
 byłby znacznie trudniejszy, je również rozważaliśmy.
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/688885800/embed/39561237ec386b7ec48e447d25faf365108757c9'></iframe>
-
 Szczegóły
 ---------
-
-
 
 Z pociągu w [Strzelinie][wiki-strzelin] wysiedliśmy około 12:30.
 Początkowo trochę czułem się zagubiony

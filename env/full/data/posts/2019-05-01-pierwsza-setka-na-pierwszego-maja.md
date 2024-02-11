@@ -20,7 +20,7 @@ map_zooms:              11
 distance:               100
 time_spent:             11
 elevation:              634
-temperature:            
+temperature:
 
 
 pois:
@@ -28,8 +28,10 @@ pois:
     lon: 19.07073
     name: Wsie takie jak Otoczyn są bardzo dobrymi miejscami na rower
   - lat: 53.46216
-    lon: 19.09897  
+    lon: 19.09897
     name: Okolice Świecia nad Osą są bardzo ciekawe ukształtowa
+
+strava: 2334248820
 
 ---
 
@@ -91,10 +93,6 @@ Patrząc na połączenia kolejowe nie wyglądało to dobrze. Większość to by�
 pendolino (IC Premium), które kosztuje 70zł + opłata za rower. Jedyne połączenia osobowe
 było o 5:56 albo około 9:30. Chcieliśmy tego dnia wcześnie ruszyć
 dlatego musieliśmy wybrać to wcześniejsze.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2334248820/embed/82ad16ab8745159eaa0c2b80dd711c558c9ceb87'></iframe>
 
 ## Szczegóły
 

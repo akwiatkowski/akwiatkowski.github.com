@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1749830654
 ---
 
 [festiwal]: http://www.kruszyniany.pl/news6.html
@@ -60,10 +61,6 @@ Jednym z celów tego wyjazdu było zobaczenie [Festiwalu Kuchni Tatarskiej][fest
 w [Kruszynianach][wiki-kruszyniany].
 Dlatego tego dnia musieliśmy zmienić bazę jadąc do [Grzybowców][wiki-grzybowce],
 a później dostać się (i wrócić) do [Kruszynian][wiki-kruszyniany].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1749830654/embed/8706930001d5bf2cc7a8925b92a10f3f6737e5ce'></iframe>
 
 ## Szczegóły
 

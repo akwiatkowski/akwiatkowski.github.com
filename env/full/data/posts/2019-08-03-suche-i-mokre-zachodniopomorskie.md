@@ -19,13 +19,15 @@ map_zooms:              11
 distance:               102
 time_spent:             9
 elevation:              440
-temperature:            
+temperature:
 
 
 pois:
 #  - lat: 54.45911
 #    lon: 18.56281
 #    name: POI
+
+strava: 2588009990
 
 ---
 
@@ -72,10 +74,6 @@ Tak jak zawsze tak i na ten dzień
 miałem kilka pomysłów na trasę. Pamiętając jak
 pozytywnie oceniłem [okolice Barlinka]({% post_url 2016-07-10-przez-pagorki-do-stargardu %})
 3 lata temu postanowiliśmy ponownie pojechać w te okolice.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2588009990/embed/920b6b1b3beb3ab7207a20683e9571b7b98310fc'></iframe>
 
 ## Szczegóły
 

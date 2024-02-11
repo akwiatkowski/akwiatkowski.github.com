@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6784444026
+
 ---
 
 [wiki-wagrowiec]: https://pl.wikipedia.org/wiki/W%C4%85growiec
@@ -54,10 +56,6 @@ Północne tereny [wielkopolskiego][wiki-wielkopolskie] są znacznie
 ciekawsze niż tereny południowe. Niestety razem z tą zaletą jest wada - znacznie
 bardziej utrudniony dojazd. Postanowiłem podczas tego weekendu zobaczyć co jest tutaj
 ciekawego.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6784444026/embed/a3edab5fb32f01e03ad6446412d2a0cd59a70330'></iframe>
 
 ## Szczegóły
 

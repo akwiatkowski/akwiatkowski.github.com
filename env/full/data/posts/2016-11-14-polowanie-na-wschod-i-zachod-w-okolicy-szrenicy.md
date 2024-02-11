@@ -27,6 +27,8 @@ pois:
     lat: 50.77571
     lon: 15.53615
 
+strava: 776266088
+
 ---
 
 [wiki-szklarska]: https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
@@ -63,11 +65,6 @@ oświetlonych czerwonym i pomarańczowym słońcem o poranku.
 Nigdy sam nie wstałem o 4 rano i nie szedłem przez las sam
 w nocy przez tak długi czas. To miało być też pewnego rodzaju sprawdzeniem
 siebie i poszerzeniem horyzontów do czego jestem zdolny.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/776266088/embed/69c5ce4bf6089ca5b77f8e5cdb04d46b362145c5'></iframe>
 
 Szczegóły
 ---------

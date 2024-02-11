@@ -20,7 +20,7 @@ map_zooms:              14
 distance:               20
 time_spent:             3
 elevation:              144
-temperature:            
+temperature:
 
 
 pois:
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

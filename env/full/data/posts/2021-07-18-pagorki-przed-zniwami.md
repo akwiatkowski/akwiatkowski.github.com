@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5649609085
+
 ---
 
 [wiki-grudziadz]: https://pl.wikipedia.org/wiki/Grudzi%C4%85dz
@@ -65,10 +67,6 @@ przed żniwami, w tym roku znowu się mi nie udało.
 {% photo "2021_07_18__11_18__7189980.jpg","Rząd domów w Laskowicach Pomorskich" %}
 
 Aby wytrzymać jakoś życie w mieście postanowiłem ruszyć gdzieś rowerem sam.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5649609085/embed/561f5a432509bc952bb7d4f08e2d27b1530ed69e'></iframe>
 
 ## Szczegóły
 

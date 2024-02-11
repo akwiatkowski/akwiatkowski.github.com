@@ -20,8 +20,8 @@ coords_type:            "hike"
 map_zooms:              16
 distance:               11
 time_spent:             7
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -34,7 +34,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

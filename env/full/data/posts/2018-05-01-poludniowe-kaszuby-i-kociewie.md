@@ -33,6 +33,7 @@ pois:
     lon: 18.57304
     name: Rościszewo-Kobierzyn, możliwe że ciekawe okolice rzeki Styny
 
+strava: 1543834219
 ---
 
 [wiki-gdansk]: https://pl.wikipedia.org/wiki/Gda%C5%84sk
@@ -77,10 +78,6 @@ gdy się zmęczymy.
 
 Optymistycznym celem tego dnia miał być [Tczew][wiki-tczew], chociaż nie myślałem
 że uda się tam dojechać.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1543834219/embed/8b32bfb609c6bcb69c16a8307d10796140e539e4'></iframe>
 
 ## Szczegóły
 

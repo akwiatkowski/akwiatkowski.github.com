@@ -24,6 +24,8 @@ pois:
     lat: 49.44424
     lon: 20.32914
 
+strava: 650905209
+
 ---
 
 [wiki-kluszkowce]: https://pl.wikipedia.org/wiki/Kluszkowce
@@ -45,11 +47,6 @@ Wstęp
 Mieliśmy cały dzień i chcieliśmy zrobić coś innego, niż robiliśmy przez prawie cały tydzień.
 Znalazłem wypożyczalnię rowerów w [Kluszkowcach][wiki-kluszkowce] i to był nasz cel
 na ten dzień.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650905209/embed/9b3479b18e786aedb496ad82bef21557ae4a4b38'></iframe>
 
 Szczegóły
 ---------

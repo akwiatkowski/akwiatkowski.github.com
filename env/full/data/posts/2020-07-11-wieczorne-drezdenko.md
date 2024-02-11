@@ -24,6 +24,8 @@ temperature:            19
 
 pois:
 
+strava: 3753197208
+
 ---
 
 [wiki-notec]: https://pl.wikipedia.org/wiki/Note%C4%87
@@ -33,10 +35,6 @@ pois:
 W przypadku weekendowych wyjazdów sobotnie wieczorne piesze zwiedzanie okolicy
 noclegu to standard. Preferuje noclegi w miejscowościach w miarę spokojnych,
 gdzie "globalizacja" nie dociera najszybciej.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3753197208/embed/38c1443549a3c71d3f36408878c0c3da303efbda'></iframe>
 
 ## Szczegóły
 

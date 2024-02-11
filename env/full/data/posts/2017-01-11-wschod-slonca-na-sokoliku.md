@@ -20,6 +20,8 @@ map_zooms:              14
 distance:               12
 time_spent:             7
 
+strava: 833408153
+
 ---
 
 [wiki-trzcinsko]: https://pl.wikipedia.org/wiki/Trzci%C5%84sko
@@ -62,15 +64,9 @@ Wstęp
 To miał być bardzo ważny dzień dla moich zdjęć. Tylko gdyby wszystko szło łatwo
 byłoby zbyt nudno, a przynajmniej tak sobie tłumaczę trudności :)
 
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/833408153/embed/aa907aad26d84e919b96e6147980cd2ae5e83481'></iframe>
 
 Szczegóły
 ---------
-
-
 
 Poniżej jest złączona panorama z 14 wykoanych zdjęć.
 

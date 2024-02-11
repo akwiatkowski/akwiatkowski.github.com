@@ -22,6 +22,8 @@ pois:
     lon: 15.81762
     name: Jedno z dobrych miejsc na wschód słońca w zimie. Słońce wschod z kierunku na Lubawkę.
 
+strava: 818477613
+
 ---
 
 [wiki-skalny-stol]: https://pl.wikipedia.org/wiki/Skalny_St%C3%B3%C5%82
@@ -39,11 +41,6 @@ Wstęp
 
 Tego dnia chciałem wstać wcześniej aby pójść na punkt widokowy w stronę
 [Skalnego Stołu][wiki-skalny-stol].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/818477613/embed/f844c26de74daa4efe301d404383efa739dced23'></iframe>
 
 Szczegóły
 ---------

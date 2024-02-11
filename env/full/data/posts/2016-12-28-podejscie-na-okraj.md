@@ -18,6 +18,8 @@ map_zooms:              14
 distance:               7
 time_spent:             3
 
+strava: 818475281
+
 ---
 
 [wiki-maciejowa]: https://pl.wikipedia.org/wiki/Bac%C3%B3wka_PTTK_na_Maciejowej
@@ -36,11 +38,6 @@ Wstęp
 
 Koniec roku, czyli okolice Sylwestra, postanowiłem spędzić również w schronisku
 górskim, ale tym razem innym niż [Maciejowa][wiki-maciejowa] [rok temu]({% post_url 2015-12-30-poczatek-sylwestra-w-maciejowej %}).
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/818475281/embed/dfdb09fe7f35a6bdf9e68b1bc8d21311055c8d17'></iframe>
 
 Szczegóły
 ---------

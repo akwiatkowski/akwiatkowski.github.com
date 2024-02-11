@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              11
 distance:               40
 time_spent:             7
+strava: 166526559
 ---
 
 [wiki-miedzyzdroje]:      https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje
@@ -32,11 +33,6 @@ Wstęp
 
 Jest to moja pierwsza wycieczka rowerowa z sakwami. Wybrzeże jest jednym z najpopularniejszych
 miejsc takich wycieczek w Polsce.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/166526559/embed/5bdf5c531edce616597f62d05769a66d50e4ed87'></iframe>
 
 Szczegóły
 ---------

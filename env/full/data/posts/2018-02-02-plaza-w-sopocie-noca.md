@@ -23,6 +23,7 @@ elevation:              72
 
 pois:
 
+strava: 1394347845
 ---
 
 [wiki-kamienny-potok]: https://pl.wikipedia.org/wiki/Kamienny_Potok_(Sopot)
@@ -44,10 +45,6 @@ do tego jest [Morze Bałtyckie][wiki-morze-baltyckie], a podczas zimy
 najlepszym miejscem na robienie takich zdjęć są okolice [Trójmiasta][wiki-trojmiasta]
 (przynajmniej takie na ten moment mam przypuszczenie, kwestia kątu padania
 światła słonecznego).
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1394347845/embed/0ccc3487c3802625cc1eb0cb878edb6debe057be'></iframe>
 
 ## Szczegóły
 

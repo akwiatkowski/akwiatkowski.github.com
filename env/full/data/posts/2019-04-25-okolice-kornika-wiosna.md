@@ -27,6 +27,8 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 2318407446
+
 ---
 
 
@@ -53,10 +55,6 @@ Pogoda stawała się niepewna. W sobotę (tego dnia był czwartek) prognozowane 
 znaczne ochłodzenie oraz opady. Z tego powodu planowałem przejechać jakąś trasę
 na północ przez [Murowaną Goślinę][wiki-murowana-goslina] w
 stronę do [Chodzieży][wiki-chodziez].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2318407446/embed/d0dc3e38a6771bceb3449d930844ce832a1f0ce8'></iframe>
 
 ## Szczegóły
 

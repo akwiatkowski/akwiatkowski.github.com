@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               52
 time_spent:             4
+strava: 188135206
 ---
 
 [face-stanica]:          https://www.facebook.com/stanicazlotkowo/
@@ -31,11 +32,6 @@ Wstęp
 
 Ta trasa to również była odpowiedź na pytanie "gdzie by tu sobie pojeździć".
 Zawsze sprawdzałem pogodę, ale tego dnia powiedziałem sobie "po co, skoro jest ciepło".
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/188135206/embed/4f3742461221a346aa63dc1c14569c20b09dbe7d'></iframe>
 
 Szczegóły
 ---------

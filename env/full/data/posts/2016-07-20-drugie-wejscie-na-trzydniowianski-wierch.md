@@ -24,6 +24,8 @@ pois:
     lon: 19.79927
     name: Pierwsze przejście przez strumień podczas zejścia z Trzydniowiańskiego Wierchu.
 
+strava: 650899714
+
 ---
 
 [wiki-schr-chocholowska]: https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Polanie_Chocho%C5%82owskiej
@@ -45,11 +47,6 @@ docelowego.
 
 Przyznam szczerze, że nie chciało mi się iść z pełnym plecakiem "przez góry",
 ani przez zabłocony szlak pod reglami.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/650899714/embed/26e69c64876b0a83087dcaadd752afb74e159ca5'></iframe>
 
 Szczegóły
 ---------

@@ -12,6 +12,8 @@ coords:                 [{"route": [[52.42361,16.88828], [52.42461,16.87867], [5
 map_zooms:              12
 distance:               42
 time_spent:             4
+
+strava: 137188534
 ---
 
 [wiki-rusalka]:         https://pl.wikipedia.org/wiki/Jezioro_Rusa%C5%82ka_(Pozna%C5%84)
@@ -19,11 +21,6 @@ time_spent:             4
 [wiki-kiekrz]:          https://pl.wikipedia.org/wiki/Jezioro_Kierskie
 
 {% photo_header "Zachód nad Jeziorem Kierskim","tag:sunrise" %}
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137188534/embed/de18686d7c10d9d3866da7de8e2003fba93cec78'></iframe>
 
 Szczegóły
 ---------

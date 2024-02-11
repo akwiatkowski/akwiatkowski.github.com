@@ -17,6 +17,7 @@ coords_type:            "bicycle"
 map_zooms:              13
 distance:               20
 time_spent:             2
+strava: 560110711
 
 ---
 
@@ -42,11 +43,6 @@ oraz problemy logistyczne - jak przetransportować wszystkich rowery. Planowali�
 
 Ostatecznie zaproponowałem okolice [Kłodzka][wiki-klodzko], gdyż nigdy nie byliśmy
 tam w maju, ani nie byliśmy na rowerach, oraz mam tam akceptowalny dojazd pociągiem.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/560110711/embed/ef09fee7726fbe5d0dca08904274cc23ca24231e'></iframe>
 
 Szczegóły
 ---------

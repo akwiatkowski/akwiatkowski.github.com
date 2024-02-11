@@ -61,7 +61,6 @@ mając w pamięci jak dobre efekty przyniósł
 [wyjazd na Pogórze Kaczawskie]({% post_url 2015-10-17-petla-po-pogorzu-kaczawskim %})
 rok temu.
 
-
 Wybrałem [Rudawy Janowickie][wiki-rudawy-janowickie] gdyż:
 jest w miarę dobry dojazd, tereny są
 dość łatwe, nie są zbyt wysokie dlatego powinno być dużo lasów liściastych.

@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 6818486490
+
 ---
 
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
@@ -45,10 +47,6 @@ i wilgocią, oraz jeżdżąc rowerem chce być blisko przyrody. Gdy robi się
 zielono wszystko się zmienia i jazda jest przyjemniejsza.
 
 {% photo "2022_03_13__13_35_P3135263.jpg","Podmokłe tereny","tag:timeline" %}
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/6818486490/embed/95f45d0867811ca745dce392d60777ac9531af0f'></iframe>
 
 ## Szczegóły
 

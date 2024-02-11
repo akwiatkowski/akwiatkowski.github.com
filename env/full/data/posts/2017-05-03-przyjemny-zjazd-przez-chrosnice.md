@@ -30,7 +30,7 @@ pois:
     lon: 16.20983
     name: Żelazny Most - zbiornik odpadów związanych z wydobyciem miedzi. Niedaleko Rudny.
 
-
+strava: 968774736
 ---
 
 [wiki-chrosnica]: https://pl.wikipedia.org/wiki/Chro%C5%9Bnica_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
@@ -55,11 +55,6 @@ Byliśmy zmęczeni i wiedzieliśmy że i tak mamy mało czasu.
 
 Po przebudzeniu wróciło nam trochę siły na tyle, że chcieliśmy wykorzystać ostatnie
 2-3 godziny aby przejechać krótką trasę.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/968774736/embed/68d3a11f6df827df4074c0acedc98428a3232d8a'></iframe>
 
 Szczegóły
 ---------

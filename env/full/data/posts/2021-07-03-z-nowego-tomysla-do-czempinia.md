@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5567734593
+
 ---
 
 
@@ -37,10 +39,6 @@ pois:
 Ostatnimi czasy nie było dużo okazji na jazdę rowerem. Postanowiłem
 z Michałem i Maciejem podjechać do [Nowego Tomyśla][wiki-nowy-tomysl]
 i dalej jechać gdzieś na wschód.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5567734593/embed/231e7985d967b841c292259684db79b4b6225567'></iframe>
 
 ## Szczegóły
 

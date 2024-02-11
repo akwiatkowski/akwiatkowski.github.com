@@ -15,6 +15,8 @@ coords_type:            "hike"
 map_zooms:              14
 distance:               9
 time_spent:             4
+
+strava: 334966829
 ---
 
 [wiki-karpacz]:                 https://pl.wikipedia.org/wiki/Karpacz
@@ -36,11 +38,6 @@ Wstęp
 Dzień wcześniej pogoda była dość kiepska, a teraz przyszedł czas na opuszczenie
 [Karkonoszy][wiki-karkonosze]. Oczywiście pogoda w związku z tym musiała się
 wyraźnie poprawić.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/334966829/embed/e697dd31d891b2a3c738b43e26a4d5c7809df42e'></iframe>
 
 Szczegóły
 ---------

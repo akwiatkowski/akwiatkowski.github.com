@@ -28,6 +28,8 @@ pois:
     lon: 17.35292
     name: Droga między wsiami Modrzejewo a Tągowie w okolicy Jeziora Chotkowskiego. Bardzo możliwy solidny zjazd
 
+strava: 2438224062
+
 ---
 
 [wiki-miastko]: https://pl.wikipedia.org/wiki/Miastko
@@ -50,11 +52,6 @@ pois:
 [bytowskie-drezyny]: https://www.facebook.com/BytowskieDrezyny/
 
 ## Wstęp
-
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2438224062/embed/e61533dd7b649cb6afa8076651421cd3f79e4787'></iframe>
 
 ## Szczegóły
 
@@ -127,12 +124,12 @@ Przez [Tągowie][wiki-tagowie] przejechaliśmy drogą poboczną. Ta decyzja nie
 była racjonalna ale Krzychu sobie wybrał tą drogę. Mi to nie przeszkadzało
 ale oni mieli znacznie węższe opony.
 
-{% photo "2019_06_09__10_13_P6090508.jpg","Droga w okolicy Tągowie","tag:timeline,tag:good" %}  
+{% photo "2019_06_09__10_13_P6090508.jpg","Droga w okolicy Tągowie","tag:timeline,tag:good" %}
 
 Patrząc teraz na mapę to zaciekawiła mnie droga do [Modrzejewa][wiki-modrzejewo].
 W okolicy Jeziora Chotkowskiego byłby na niej dość mocny zjazd i podjazd.
 
-{% photo "2019_06_09__10_32_P6090535.jpg","Okolica miejscowości Tuchomie","tag:timeline" %}  
+{% photo "2019_06_09__10_32_P6090535.jpg","Okolica miejscowości Tuchomie","tag:timeline" %}
 
 Zjechaliśmy do [Tuchomii][wiki-tuchomie] przez którą przeływa rzeka
 [Kamienica][wiki-kamienica-rzeka]. Szukaliśmy czynnego sklepu i

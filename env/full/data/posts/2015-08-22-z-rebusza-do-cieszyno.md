@@ -17,6 +17,7 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               110
 time_spent:             10
+strava: 375948441
 ---
 
 [wiki-rebusz]:          https://pl.wikipedia.org/wiki/R%C4%99busz
@@ -57,11 +58,6 @@ jak również, że da się samemu zrobić również dłuższe trasy.
 
 Początkowo planowałem jechać do [Kołobrzegu][wiki-kolobrzeg], jednak wracanie 5h pociągiem mi się nie uśmiechało,
 a tereny [Drawskiego Parku Krajobrazowego][wiki-dpk] były warte do zobaczenia samemu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/375948441/embed/a56fb2a7de45ee65ce47b7f44d0d51c8405156fe'></iframe>
 
 Szczegóły
 ---------

@@ -21,6 +21,7 @@ time_spent:             4
 elevation:              242
 temperature:            11
 
+strava: 3351620625
 
 ---
 
@@ -38,10 +39,6 @@ temperature:            11
 Tego dnia pogoda nie była na tyle słoneczna i rano było dość chłodno
 dlatego nie ruszyłem z Maciejem od rana rowerem. W południe jednak postanowiliśmy
 wyruszyć rowerami w okolicę [Puszczy Zielonki][wiki-puszcza-zielonka].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3351620625/embed/8f5252092673e2a36704e259e26ef9d45ef3557d'></iframe>
 
 ## Szczegóły
 

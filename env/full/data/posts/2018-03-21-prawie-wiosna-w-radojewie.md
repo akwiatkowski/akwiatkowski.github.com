@@ -26,6 +26,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1463946627
 ---
 
 [wiki-warta]: https://pl.wikipedia.org/wiki/Warta
@@ -35,10 +36,6 @@ pois:
 Miałem niedosyt fotograficzny. Dawno nie wykorzystywałem mojego obiektywu macro
 SMC-FA 50/2.8. Przy okazji przypomniałem sobie o obiektywie 55/1.2, którym można uzyskać
 ciekawe efekty łącząc promienie słoneczne i kropelki wody.
-
-## Opis trasy
-
-{% strava_iframe "1463946627","7f55250edb0c4c7a3f4d5816a47e16f88be1cd76" %}
 
 ## Szczegóły
 

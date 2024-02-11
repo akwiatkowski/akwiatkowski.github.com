@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4015114569
+
 ---
 
 [wiki-lodzkie]: https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%82%C3%B3dzkie
@@ -58,10 +60,6 @@ wycieczce kupiłem większą, bardzo dobrą torbę podsiodłową. Niestety nie m
 realnej okazji aby ją przetestować od razu. Dopiero po
 wakacjach ruszyłem z Maciejem na weekendową wycieczkę w
 stronę [województwa łódzkiego][wiki-lodzkie].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4015114569/embed/5f9fedeff87ada4ec96f9e440027bd761a9f8296'></iframe>
 
 ## Szczegóły
 

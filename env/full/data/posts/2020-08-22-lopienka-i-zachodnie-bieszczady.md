@@ -36,6 +36,4 @@ pois:
 
 ## Wstęp
 
-## Opis trasy
-
 ## Szczegóły

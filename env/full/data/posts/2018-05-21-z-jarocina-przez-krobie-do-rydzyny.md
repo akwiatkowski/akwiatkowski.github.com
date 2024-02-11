@@ -31,6 +31,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1586575303
 ---
 
 [wiki-kruszwica]: https://pl.wikipedia.org/wiki/Kruszwica
@@ -65,10 +66,6 @@ majówkowych tras. Miałem również sporo innych rzeczy do zrobienia. Pojawiło
 kilka sytuacji (nieudany wyjazd do
 [Kłodzka][wiki-klodzko], stabilny pomocny wiatr),
 które ostatecznie doprowadziły do zaplanowania tej trasy.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1586575303/embed/8efa3a5ad36246e9e97b71b1693f3f216dd67219'></iframe>
 
 ## Szczegóły
 

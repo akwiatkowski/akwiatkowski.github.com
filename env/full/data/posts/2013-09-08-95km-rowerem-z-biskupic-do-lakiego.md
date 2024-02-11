@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              10
 distance:               103
 time_spent:             8
+strava: 137173051
 ---
 
 [wiki-promno-park]:                     https://pl.wikipedia.org/wiki/Park_Krajobrazowy_Promno
@@ -43,11 +44,6 @@ Wstęp
 -----
 
 Sprawdzenie długiej trasy z Poznania w moje rodzinne strony planowałem od dłuższego czasu.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/137173051/embed/0010e16016e12f7c106b323900e9a533f70400a8'></iframe>
 
 Szczegóły
 ---------

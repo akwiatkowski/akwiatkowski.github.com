@@ -29,6 +29,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 4097394575
+
 ---
 
 
@@ -37,10 +39,6 @@ pois:
 Świat po pandemii, praca w innej technologii w pracy, oraz życie w betonowej
 dżungli mnie frustruje. Z tego powodu postanowiłem skończyć wcześniej
 i wyruszyć na małą eksplorację rowerem.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4097394575/embed/8eae5e3c11e441835fc920cc347829f907b3d6a9'></iframe>
 
 ## Szczegóły
 

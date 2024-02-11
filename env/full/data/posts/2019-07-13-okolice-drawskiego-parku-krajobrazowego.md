@@ -31,6 +31,8 @@ pois:
     lon: 16.15085
     name: Okolice Śmidzięcino interesowały mnie już wcześniej. Na północ jest Rezerwat Dolina Pięciu Jezior
 
+strava: 2532519208
+
 ---
 
 [wiki-linina-410]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_410
@@ -71,10 +73,6 @@ chciałem jechać na [Mazury][wiki-mazury] jednak dojazd nie jest tam zbyt łatw
 
 Ostatecznie ze mną mógł jechać tylko Michał, dlatego zgodnie z jego pomysłem
 wybraliśmy [zachodniopomorskie][wiki-zachodniopomorskie].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2532519208/embed/3be7e377b14df7ae6fb1c51a790c964905a5480d'></iframe>
 
 ## Szczegóły
 

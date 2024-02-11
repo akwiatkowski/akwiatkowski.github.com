@@ -30,6 +30,8 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+strava: 5465963297
+
 ---
 
 [wiki-warmia]: https://pl.wikipedia.org/wiki/Warmia
@@ -51,10 +53,6 @@ Tak to jest, że najładniejsze tereny są najdalej od domu.
 [Warmie][wiki-warmia] odkryłem 3 lata temu kiedy pierwszy raz jechałem
 rowerem z [Olsztyna][wiki-olsztyn]. Tym razem chciałem przejechać tereny bliżej
 północnej granicy Polski.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5465963297/embed/ebc31502a808a34601ab081e2d3ba1cfaa7bd158'></iframe>
 
 ## Szczegóły
 

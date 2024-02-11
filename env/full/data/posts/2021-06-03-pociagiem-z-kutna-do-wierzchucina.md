@@ -17,10 +17,10 @@ coords:                 [{"route": [], "type": "train"}]
 coords_file:            "2021-06-03-pociagiem-z-kutna-do-wierzchucina.json"
 coords_type:            "train"
 map_zooms:              8
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -33,7 +33,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

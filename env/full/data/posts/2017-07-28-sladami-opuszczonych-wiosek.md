@@ -25,6 +25,7 @@ pois:
     lon: 21.78111
     name: Cmentarz we wsi Czeremcha
 
+strava: 1105801669
 ---
 
 [wiki-jasliska]: https://pl.wikipedia.org/wiki/Ja%C5%9Bliska
@@ -54,11 +55,6 @@ i zaproponowałem abyśmy tam pojechali.
 Nie zakładaliśmy jak daleko podjedziemy
 gdyż tą samą drogą będziemy musieli się wracać.
 Również nie chcieliśmy się spieszyć.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1105801669/embed/3498393c2ade1098331fc0121b2fe6c956b51669'></iframe>
 
 Szczegóły
 ---------

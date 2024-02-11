@@ -16,7 +16,7 @@ towns:                  [wielkopolskie, poznan]
 coords:                 [{"route": [], "type": "hike"}]
 distance:               2
 time_spent:             2
-elevation:              
+elevation:
 temperature:            -1
 
 
@@ -30,7 +30,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

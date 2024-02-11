@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               10
 time_spent:             6
 
+strava: 869986239
 ---
 
 [fotowarsztaty]: studiohustawka.pl/warsztaty-i-sesje/plener-fotograficzny-karkonosze-2017
@@ -41,11 +42,6 @@ Wstęp
 
 Budząc się drugiego dnia nie miałem już nadziei na dobrą pogodę, ale to nie
 przeszkodziło nam aby wstać rano aby wejść na [Śnieżkę][wiki-sniezka].
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/869986239/embed/ddf8dd5a9a44352b03aa8a88227fc419b5214048'></iframe>
 
 Szczegóły
 ---------

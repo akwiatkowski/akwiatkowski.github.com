@@ -30,6 +30,7 @@ pois:
     lon: 17.84410
     name: Zachodnie okolice Tucholi są bardzo ładne - sporo pól uprawnych i górek
 
+strava: 1054030390
 ---
 
 [wiki-krajenski-park]: https://pl.wikipedia.org/wiki/Kraje%C5%84ski_Park_Krajobrazowy
@@ -65,11 +66,6 @@ niepewna, dlatego postanowiliśmy wybrać prawie najprostszą wersje trasy.
 Była to wersja prawie najprostsza gdyż zawsze mogliśmy jechać na północ do
 miejscowości [Lipka][wiki-lipka], do której mieliśmy około 20 km.
 Tylko to by było zbyt proste.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1054030390/embed/b5a0c9f065979f863b20b0b0c5b6587aba30d56f'></iframe>
 
 Szczegóły
 ---------

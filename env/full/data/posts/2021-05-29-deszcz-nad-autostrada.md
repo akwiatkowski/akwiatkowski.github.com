@@ -14,10 +14,10 @@ tags:                   [car, todo]
 towns:                  []
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
-time_spent:             
-elevation:              
-temperature:            
+distance:
+time_spent:
+elevation:
+temperature:
 
 
 pois:
@@ -34,7 +34,5 @@ pois:
 Ten wpis jest bardzo mało istotny. Muszę stworzyć miejsce do umieszczania zdjęć
 bez żadnych konkretnych wpisów, chociaż z drugiej strony warto zostawić sobie
 miejsce na chociaż dwa zdania.
-
-## Opis trasy
 
 ## Szczegóły

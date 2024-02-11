@@ -29,6 +29,8 @@ pois:
     lat: 52.69819
     lon: 16.35833
 
+strava: 642594997
+
 ---
 
 [event]: https://www.facebook.com/events/1022297097848300/
@@ -56,11 +58,6 @@ w Tatry]({% post_url 2016-07-18-dotarcie-do-zakopanego %}).
 Była to połowa lipca - tuż przed zbiorami, jednocześnie pogoda była całkiem obiecująca
 dlatego musiałem wykorzystać ten czas. Wiedziałem że w tamtej okolicy będzie dużo pól, trochę
 jezior i po [wcześniejszym przejeździe][trip] wiedziałem, że jest tam ładnie.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/642594997/embed/a0fbdac8d6b0b2045eaf87a11bc91c89566d656e'></iframe>
 
 Szczegóły
 ---------

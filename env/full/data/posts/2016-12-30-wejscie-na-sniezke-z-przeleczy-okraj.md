@@ -17,6 +17,8 @@ map_zooms:              13
 distance:               18
 time_spent:             7
 
+strava: 818479353
+
 ---
 
 [wiki-sniezka]: https://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCka
@@ -37,11 +39,6 @@ Nie mieliśmy żadnych konkretnych celów na tym wyjeździe oprócz
 jednego - wejście na [Śnieżkę][wiki-sniezka]. Ten dzień był najlepszy do realizacji
 tego planu -
 nie był to Sylwester oraz mieliśmy czas odpocząć po dojeździe.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/818479353/embed/a1e209fb62674d68085f00bed34e1c419df7cb74'></iframe>
 
 Szczegóły
 ---------

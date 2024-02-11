@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1767934537
 ---
 
 [wiki-narwianski-park]: https://pl.wikipedia.org/wiki/Narwia%C5%84ski_Park_Narodowy
@@ -49,10 +50,6 @@ pois:
 Tego dnia chcieliśmy przejechać rowerem pętle po
 [Narwiańskim Parku Narodowym][wiki-narwianski-park]. Trasę zaplanowaliśmy, można
 powiedzieć, idealną. Głównym punktem miała być znana kładka w [Waniewie][wiki-waniewo].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1767934537/embed/04a8408b5a8f757d19dc25b1fefad6374e752116'></iframe>
 
 ## Szczegóły
 

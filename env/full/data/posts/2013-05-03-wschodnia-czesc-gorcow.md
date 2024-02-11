@@ -18,6 +18,8 @@ coords_type:            "hike"
 map_zooms:              12
 distance:               22
 time_spent:             9
+
+strava: 333336213
 ---
 
 [wiki-gorce]:           https://pl.wikipedia.org/wiki/Gorce
@@ -37,11 +39,6 @@ Wstęp
 
 Poranek był ładny, ale było czuć wilgoś w powietrzu, a my chcieliśmy przejść prawie połowę [Gorców][wiki-gorce] idąc
 [Głównym Szlakiem Beskidzkim][wiki-gsb]. Nic złego nie może się wydarzyć.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/333336213/embed/18cae72b13e9a3da160961026cda68ef2108c313'></iframe>
 
 Szczegóły
 ---------

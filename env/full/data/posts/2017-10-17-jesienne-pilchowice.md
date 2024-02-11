@@ -22,7 +22,7 @@ elevation:              216
 
 pois:
 
-
+strava: 1238736789
 ---
 
 [wiki-siedlecin-wieza]: https://pl.wikipedia.org/wiki/Wie%C5%BCa_ksi%C4%85%C5%BC%C4%99ca_w_Siedl%C4%99cinie
@@ -47,12 +47,6 @@ pogody i barwy liści. Porównywałem jak to było rok temu oraz pytałem się
 
 Zrobiłem sobie z listę miejsc i jednym z nich była
 [zapora w Pilchowicach][wiki-pilchowice-zapora]. Wybrałem ją pierwszego dnia.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1238736789/embed/3b6211ba7dd347b94eaf0303025fdd21add6c8d3'></iframe>
-
 
 Szczegóły
 ---------

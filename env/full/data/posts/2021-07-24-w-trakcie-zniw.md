@@ -30,6 +30,8 @@ pois:
     name: Prawdopodobnie jest tutaj wiadukt kolejowy nad Osą
     type: todo
 
+strava: 5680381158
+
 ---
 
 
@@ -72,10 +74,6 @@ Oczywiście nie chciałem jechać tą samą trasą. Wolałem teraz kierować si�
 docelowo do [Torunia][wiki-torun].
 Wziąłem inny rower (szosa) i inny aparat fotograficzny
 (pełnoklatkowe Sony zamiast Olympusa).
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5680381158/embed/11fb3d1f7d60193dbdfcf9ed9e15e6181e7100f9'></iframe>
 
 ## Szczegóły
 

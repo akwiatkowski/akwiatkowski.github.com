@@ -15,6 +15,7 @@ coords_type:            "bicycle"
 map_zooms:              12
 distance:               41
 time_spent:             5
+strava: 156737946
 ---
 
 [vimeo-1]:               https://vimeo.com/98874567
@@ -38,11 +39,6 @@ Wstęp
 
 Do noclegu w [Szlarskiej Porębie][wiki-szklarska] dojechaliśmy trochę po południu.
 Rozpakowaliśmy, wzieliśmy rowery i pojechaliśmy na pierwszą jazdę rowerem w górach.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/156737946/embed/4f38a02515b970b4b2dfa5902380a13bf07ea138'></iframe>
 
 Szczegóły
 ---------

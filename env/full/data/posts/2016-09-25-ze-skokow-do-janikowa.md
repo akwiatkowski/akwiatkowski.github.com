@@ -27,6 +27,8 @@ pois:
     lon: 17.83281
     name: Okolica jeziora Oćwieckiego i Chomląskiego może być ciekawym miejscem.
 
+strava: 724713750
+
 ---
 [wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
 [wiki-skoki]: https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
@@ -70,11 +72,6 @@ zrobiłem. Oczywiście zrobiłbym to inną trasą.
 
 Wakacje się skończyły i już za kilka dni będzie październik. Pojawił się
 jeden wolny weekend z dobrą pogodą i było jasne, co powinienem tego dnia zrobić.
-
-Opis trasy
-----------
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/724713750/embed/c0f3b7d44f28589d26f17fc8f574c788068d19ee'></iframe>
 
 Szczegóły
 ---------

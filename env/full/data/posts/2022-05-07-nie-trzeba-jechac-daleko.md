@@ -29,6 +29,9 @@ pois:
     name: Okolica Wełny w pobliżu Jankowa Dolnego jest bardzo ciekawie ukształowana
     type: visited
 
+strava:
+  - https://www.strava.com/activities/7103117830
+
 ---
 
 [wiki-linia-281]: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_281
@@ -56,10 +59,6 @@ pois:
 Całą wycieczkę można określić jako eksploracja terenów na wschód od
 [Skoków][wiki-skoki], która zaszła dość daleko - bo jakoś trzeba wrócić
 pociągiem do [Poznania][wiki-poznan].
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/7103117830/embed/34df36093ba1eaac9bef5dc40610387cc9ffdc47'></iframe>
 
 ## Szczegóły
 

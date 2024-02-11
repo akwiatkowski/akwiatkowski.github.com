@@ -29,18 +29,16 @@ pois:
 #    name: POI
 #    type: todo / visited
 
+stava: 5934068728
+
 ---
 
 
 ## Wstęp
 
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5934068728/embed/18aa593a329fe2c7960e41c40d6c4b1f698f602c'></iframe>
-
 ## Szczegóły
 
-Planowałem z Łukaszme pojeździć od jakiegoś czasu. Akurat tego dnia
+Planowałem z Łukaszem pojeździć od jakiegoś czasu. Akurat tego dnia
 mogłem trochę wcześniej skończy pracę. Podjechaliśmy pociągiem
 do [Pobiedziska][wiki-pobiedzisk] i zgodnie z wiatrem jechaliśmy w stronę
 północy.

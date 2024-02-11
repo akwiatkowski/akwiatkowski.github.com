@@ -16,10 +16,10 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"
 #coords_type:            "bicycle"
-distance:               
-time_spent:             
+distance:
+time_spent:
 elevation:              1
-temperature:            
+temperature:
 
 
 pois:
@@ -32,7 +32,5 @@ pois:
 
 
 ## Wstęp
-
-## Opis trasy
 
 ## Szczegóły

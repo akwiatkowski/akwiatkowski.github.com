@@ -27,6 +27,7 @@ pois:
 #    lon: 18.56281
 #    name: POI
 
+strava: 1947862425
 ---
 
 [wiki-boguszow-gorce]: https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce
@@ -48,10 +49,6 @@ Ja planów nie miałem. Na szybko pojawił się pomysł robienia zdjęć
 w lasach w okolicy [Szklarskiej Poręby][wiki-szklarska-poreba].
 Miałem ruszyć w piątek, jednak musiałem trochę rzeczy zrobić i wyjazd opóźnił się
 o dzień.
-
-## Opis trasy
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1947862425/embed/e74591bd4f0af6e4a3b7de8cbde8a5ac87b8c8e2'></iframe>
 
 ## Szczegóły
 
