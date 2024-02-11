@@ -2,16 +2,19 @@
 bicycle_distance: 165
 bicycle_time_length: 17
 bicycle_count: 3
-hike_distance: 15
-hike_time_length: 7
-hike_count: 1
+hike_distance: 17
+hike_time_length: 8
+hike_count: 2
 train_distance: 0
 train_time_length: 0
 train_count: 0
-self_distance: 180
-self_time_length: 24
-updated_at: 2023-12-29 00:32:31.861065512+01:00
+self_distance: 182
+self_time_length: 25
+updated_at: 2024-02-08 17:33:29.301397417+01:00
 voivodeships_nav:
+- name: Dolnośląskie
+  url: /voivodeship/dolnoslaskie/masonry.html
+  count: 2
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
   count: 2
@@ -22,4 +25,7 @@ tags_nav:
   count: 2
 - name: Rower
   url: /tag/bicycle/masonry.html
+  count: 2
+- name: Pieszo
+  url: /tag/hike/masonry.html
   count: 2
