@@ -9,6 +9,8 @@ class Tremolite::Post
   @image_other_post_slug : String?
   @head_photo_entity : PhotoEntity?
 
+  @temperature : Int32?
+
   @default_suggested_map_zooms = Array(Int32).new
 
   def custom_initialize
@@ -171,16 +173,15 @@ class Tremolite::Post
     end
   end
 
-  # XXX too much work and small profit
-  # def routes_coord_range : CoordRange?
-  #   unless @routes_coord_range_set
-  #     @routes_coord_range = PostRouteObject.array_to_coord_range(
-  #       array: detailed_routes
-  #     )
-  #     @routes_coord_range_set = true
-  #   end
-  #   return @routes_coord_range
-  # end
+  def routes_coord_range : CoordRange?
+    unless @routes_coord_range_set
+      @routes_coord_range = PostRouteObject.array_to_coord_range(
+        array: detailed_routes
+      )
+      @routes_coord_range_set = true
+    end
+    return @routes_coord_range
+  end
 
   def published_photos_entities_initialize
     @published_photo_entities = Array(PhotoEntity).new
@@ -205,6 +206,10 @@ class Tremolite::Post
 
     if @header["time_spent"]?.to_s.strip != ""
       @time_spent = @header["time_spent"].to_s.to_f
+    end
+
+    if @header["temperature"]?.to_s.strip != ""
+      @temperature = @header["temperature"].to_s.to_i
     end
   end
 

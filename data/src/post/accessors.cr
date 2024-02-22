@@ -13,7 +13,7 @@ class Tremolite::Post
 
   getter :tags, :towns, :lands, :pois
   getter :desc, :keywords
-  getter :distance, :time_spent
+  getter :distance, :time_spent, :temperature
   getter :image_filename, :header_nogallery, :image_position
   getter :finished_at
   getter :head_photo_entity

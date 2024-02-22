@@ -89,11 +89,19 @@ class PhotoMap::IndexView < PageView
     # tags
     s << "<h3>Tagi:</h3>\n"
     s << "<ul>\n"
-    @photomaps_for_tag.keys.each do |tag|
-      photomap_view = @photomaps_for_tag[tag]
+    @photomaps_for_tag.keys.each do |tag_slug|
+      tag_name = @blog.data_manager.not_nil!["gallery.#{tag_slug}.title"]?
+
+      if tag_name.nil?
+        Log.error { "photo tag '#{tag_slug}' missing from config.yml" }
+        next
+      end
+
+      photomap_view = @photomaps_for_tag[tag_slug]
+
       s << "<li>"
       s << "<a href=\"#{photomap_view.url}\">"
-      s << tag
+      s << tag_name.to_s
       s << "</a>"
       s << "</li>\n"
     end

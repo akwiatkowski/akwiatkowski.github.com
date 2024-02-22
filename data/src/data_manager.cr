@@ -10,6 +10,7 @@ require "./models/portfolio_entity"
 require "./services/nav_stats_cache"
 require "./services/exif_processor"
 require "./services/preloaded_post_referenced_links"
+require "./services/photo_coord_quant_cache"
 
 require "./data_manager/exif_db"
 require "./data_manager/photo_map_dictionary"
@@ -32,6 +33,9 @@ class Tremolite::DataManager
     @post_coord_quant_cache = PostCoordQuantCache.new(
       blog: @blog
     )
+    @photo_coord_quant_cache = PhotoCoordQuantCache.new(
+      blog: @blog
+    )
     @nav_stats_cache = NavStatsCache.new(
       blog: @blog
     )
@@ -49,7 +53,7 @@ class Tremolite::DataManager
   getter :tags
   getter :towns, :town_slugs, :voivodeships
   getter :land_types, :lands, :todo_routes, :transport_pois, :post_image_entities, :portfolios
-  getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache
+  getter :town_photo_cache, :nav_stats_cache, :post_coord_quant_cache, :photo_coord_quant_cache
   getter :photo_map_dictionary
 
   def exif_db
@@ -145,6 +149,14 @@ class Tremolite::DataManager
       o = TodoRouteEntity.new(y: tag, transport_pois: @transport_pois.not_nil!)
       @todo_routes.not_nil! << o
     end
+  end
+
+  def tag_by_slug(slug : String)
+    selected_tags = @tags.not_nil!.select do |tag|
+      tag.slug == slug
+    end
+
+    return selected_tags[0]?
   end
 
   private def load_town_yaml(f)

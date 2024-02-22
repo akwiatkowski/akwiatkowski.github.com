@@ -205,10 +205,37 @@ module PostView
       # small photo_map for post
       path_for_svg = @blog.data_manager.photo_map_dictionary.not_nil!.get_small_photo_map_for_post(@post)
       if path_for_svg
+        zoom = @post.default_map_zoom || 11
+        coord_range = @post.routes_coord_range.not_nil!
+        center = coord_range.center
+
+        ump_map_link = "https://mapa.ump.waw.pl/ump-www/?zoom=#{zoom}&lat=#{center[:lat]}&lon=#{center[:lon]}"
+        osm_map_link = "https://www.openstreetmap.org/#map=#{zoom}/#{center[:lat]}/#{center[:lon]}"
+        google_map_link = "https://www.google.pl/maps/@#{center[:lat]},#{center[:lon]},#{zoom}z"
+        mapy_cz_link = "https://en.mapy.cz/zakladni?x=#{center[:lon]}&y=#{center[:lat]}&z=#{zoom}"
+        distance = (@post.distance || "--").to_s
+
+        route_info = String.build do |s|
+          if @post.distance
+            s << "#{@post.distance.not_nil!.to_i} km | "
+          end
+          if @post.time_spent
+            s << "#{@post.time_spent.not_nil!.to_i} h | "
+          end
+          if @post.temperature
+            s << "#{@post.temperature.not_nil!.to_i} &deg;C | "
+          end
+        end
+
         data["svg_map"] = load_html(
           "post/svg_map",
           {
-            "svg_path" => path_for_svg,
+            "svg_path"        => path_for_svg,
+            "ump_map_link"    => ump_map_link,
+            "osm_map_link"    => osm_map_link,
+            "google_map_link" => google_map_link,
+            "mapy_cz_link"    => mapy_cz_link,
+            "route_info"      => route_info,
           }
         )
       else

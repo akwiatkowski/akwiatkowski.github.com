@@ -178,4 +178,11 @@ struct CoordRange
 
     return true
   end
+
+  def center
+    return {
+      lat: (@lat_from + @lat_to) / 2.0,
+      lon: (@lon_from + @lon_to) / 2.0,
+    }
+  end
 end

@@ -251,6 +251,14 @@ struct PhotoEntity
     end
   end
 
+  def accurate_time
+    if self.exif
+      return exif_time
+    else
+      return time
+    end
+  end
+
   def exif_time
     self.exif.time.not_nil!
   end
