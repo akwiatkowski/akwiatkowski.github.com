@@ -9,7 +9,8 @@ module GalleryView
       @camera_gallery_index_view : CameraIndexView,
       @focal_length_gallery_index_view : FocalLengthIndexView,
       @iso_gallery_index_view : IsoIndexView,
-      @exposure_gallery_index_view : ExposureIndexView
+      @exposure_gallery_index_view : ExposureIndexView,
+      @quant_coord_index_view : QuantCoordIndexView
     )
       @url = "/gallery"
     end
@@ -37,6 +38,7 @@ module GalleryView
         s << content_for_index_renderer(@focal_length_gallery_index_view)
         s << content_for_index_renderer(@iso_gallery_index_view)
         s << content_for_index_renderer(@exposure_gallery_index_view)
+        s << content_additional
         s << "</ul>\n"
       end
     end
@@ -62,6 +64,18 @@ module GalleryView
           s << "</li>\n"
         end
         s << "</ul>\n"
+
+        s << "</li>\n"
+      end
+    end
+
+    def content_additional
+      return String.build do |s|
+        s << "<li>\n"
+
+        s << "<a href=\"#{@quant_coord_index_view.url}\">"
+        s << @quant_coord_index_view.title
+        s << "</a>"
 
         s << "</li>\n"
       end

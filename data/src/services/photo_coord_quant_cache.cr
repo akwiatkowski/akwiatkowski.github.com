@@ -1,9 +1,9 @@
 class PhotoCoordQuantCache
   Log = ::Log.for(self)
 
-  QUANT = 0.05
+  QUANT = 0.2
 
-  getter :cache_file_path
+  getter :cache_file_path, :cache
 
   alias PhotoCoordCacheKey = NamedTuple(
     lat: Float32,
@@ -74,7 +74,15 @@ class PhotoCoordQuantCache
   end
 
   def get(lat : Float32, lon : Float32)
-    return @cache[key(lat: lat, lon: lon)]?
+    return @cache[{lat: lat, lon: lon}]?
+  end
+
+  def get(photo_entity : PhotoEntity)
+    key = convert_photo_entity_to_key(photo_entity)
+    return get(
+      lat: key[:lat],
+      lon: key[:lon]
+    )
   end
 
   private def exif_db

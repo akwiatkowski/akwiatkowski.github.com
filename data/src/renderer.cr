@@ -43,12 +43,6 @@ class Tremolite::Renderer
   include RendererMixin::RenderPostRelated
   include RendererMixin::RenderPostRelated
 
-  # TODO: move somewhere else where
-  def refresh_photo_quant_cache
-    photo_coord_quant_cache = blog.data_manager.photo_coord_quant_cache.not_nil!
-    photo_coord_quant_cache.refresh
-  end
-
   def dev_render
     # do nothing
   end

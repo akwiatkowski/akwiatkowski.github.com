@@ -332,3 +332,38 @@
   padding: 6% 0 0 0;
   color: #fff;
 }
+
+.coord-photo-table {
+  padding: 0 0 0 0 !important;
+}
+
+.coord-photo-table td {
+  padding: 0 0 0 0 !important;
+}
+
+.coord-photo-cell {
+  width: 32px;
+  min-width: 32px;
+  max-width: 32px;
+
+  height: 32px;
+  min-height: 32px;
+  max-height: 32px;
+  
+  border: 1px gray solid;
+}
+
+.coord-photo-cell-blank-link {
+  width: 32px;
+  height: 32px;
+}
+
+.coord-photo-cell-disabled {
+  background-color: #ccc;
+  color: black;
+}
+
+.coord-photo-cell-enabled {
+  background-color: #444;
+  color: white;
+}

@@ -153,6 +153,7 @@ class Tremolite::Views::BaseView
       is_timeline: photo.is_timeline,
       exif: photo.exif,
       additional_links: tag_galleries_link,
+      photo_entity: photo
     )
   end
 
@@ -165,7 +166,8 @@ class Tremolite::Views::BaseView
     is_gallery : Bool,
     is_timeline : Bool,
     exif : (ExifEntity | Nil),
-    additional_links : String?
+    additional_links : String? = nil,
+    photo_entity : PhotoEntity? = nil
   )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
@@ -196,6 +198,8 @@ class Tremolite::Views::BaseView
       "img.time"             => "",
       "img.exif_string"      => exif_string,
       "img.additional_links" => additional_links.to_s,
+
+      "img.coord_link" => link_to_gallery_coord_for_photo(photo_entity),
     }
 
     if exif
@@ -203,6 +207,24 @@ class Tremolite::Views::BaseView
     end
 
     return load_html("post/post_image_partial", data)
+  end
+
+  def link_to_gallery_coord_for_photo(photo_entity, min_count = 2)
+    return String.build do |s|
+      next if photo_entity.nil?
+      next if photo_entity.exif.lat.nil?
+      next if photo_entity.exif.lon.nil?
+
+      data_manager = @blog.data_manager.not_nil!
+      photo_coord_quant_cache = data_manager.photo_coord_quant_cache.not_nil!
+      array = photo_coord_quant_cache.get(photo_entity.not_nil!)
+
+      if array && array.not_nil!.size > min_count
+        key = photo_coord_quant_cache.convert_photo_entity_to_key(photo_entity.not_nil!)
+        link = "/gallery/coord/#{key[:lat]},#{key[:lon]}"
+        s << " <a href=\"#{link}\" target=\"_blank\">okolica</a>\n"
+      end
+    end
   end
 
   def strava_iframe(activity_id : String, token : String)

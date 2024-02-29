@@ -10,6 +10,8 @@ require "../views/gallery_view/lens_index_view"
 require "../views/gallery_view/lens_view"
 require "../views/gallery_view/tag_view"
 require "../views/gallery_view/tag_index_view"
+require "../views/gallery_view/quant_coord_view"
+require "../views/gallery_view/quant_coord_index_view"
 require "../views/gallery_view/index_view"
 
 require "../views/dynamic_view/portfolio_view"
@@ -27,6 +29,7 @@ module RendererMixin::RenderPhotoRelated
     focal_length_gallery_index_view = render_focal_length_galleries
     iso_gallery_index_view = render_iso_galleries
     exposure_gallery_index_view = render_exposure_galleries
+    quant_coord_index_view = render_photo_coord_quant
 
     render_gallery_index(
       tag_gallery_index_view: tag_gallery_index_view,
@@ -35,13 +38,14 @@ module RendererMixin::RenderPhotoRelated
       focal_length_gallery_index_view: focal_length_gallery_index_view,
       iso_gallery_index_view: iso_gallery_index_view,
       exposure_gallery_index_view: exposure_gallery_index_view,
+      quant_coord_index_view: quant_coord_index_view
     )
 
     render_gallery_stats # TODO check what it is
 
     render_portfolio
-
     render_exif_stats
+
     render_debug_post_camera_stuff
   end
 
@@ -55,6 +59,7 @@ module RendererMixin::RenderPhotoRelated
         focal_length_gallery_index_view: args[:focal_length_gallery_index_view],
         iso_gallery_index_view: args[:iso_gallery_index_view],
         exposure_gallery_index_view: args[:exposure_gallery_index_view],
+        quant_coord_index_view: args[:quant_coord_index_view],
       )
     )
   end
@@ -298,6 +303,38 @@ module RendererMixin::RenderPhotoRelated
       )
       write_output(view_by_tag)
     end
+  end
+
+  def render_photo_coord_quant
+    photo_coord_quant_cache = blog.data_manager.photo_coord_quant_cache.not_nil!
+    photo_coord_quant_cache.refresh
+
+    # now when we have data we can render
+
+    quant_renderers = HashQuantCoordViews.new
+
+    photo_coord_quant_cache.cache.keys.each do |key|
+      coord_photos = photo_coord_quant_cache.cache[key]
+      next if coord_photos.size == 0
+
+      view_by_coord = GalleryView::QuantCoordView.new(
+        blog: @blog,
+        key: key,
+        quant_photos: coord_photos
+      )
+      write_output(view_by_coord)
+
+      quant_renderers[key[:lat]] ||= Hash(Float32, GalleryView::QuantCoordView).new
+      quant_renderers[key[:lat]][key[:lon]] = view_by_coord
+    end
+
+    index_view = GalleryView::QuantCoordIndexView.new(
+      blog: blog,
+      renderers: quant_renderers
+    )
+    write_output(index_view)
+
+    return index_view
   end
 
   def render_debug_post_camera_stuff

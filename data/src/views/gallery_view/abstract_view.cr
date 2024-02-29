@@ -1,4 +1,5 @@
 require "../wider_page_view"
+require "../widest_page_view"
 
 module GalleryView
   class AbstractView < WiderPageView

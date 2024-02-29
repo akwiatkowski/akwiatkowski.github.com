@@ -131,7 +131,6 @@ class Tremolite::Blog
     # with google stuff
     if force_full_render
       renderer.render_sitemap
-      renderer.refresh_photo_quant_cache
     end
 
     validator.run
