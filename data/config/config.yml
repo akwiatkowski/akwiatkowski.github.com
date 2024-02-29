@@ -108,6 +108,14 @@ gallery.city.backgrounds:
 gallery.city.title: Miasto
 gallery.city.subtitle:
 
+gallery.rural.backgrounds:
+gallery.rural.title: Wieś
+gallery.rural.subtitle: wszystko to co ani nie jest miastem, ani nie jest czystą przyrodą
+
+gallery.night.backgrounds:
+gallery.night.title: Noc
+gallery.night.subtitle: zdjęcia zrobione przy trochę ciemniejszych warunkach oświetleniowych
+
 # but it shouldn't be used
 portfolio.title: Portfolio
 
