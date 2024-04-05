@@ -7,8 +7,9 @@
 }
 #map-container {
   position: absolute;
-  top: 80px;
-  padding: 20px;
+  /* top: 0px; */
+  /* 0 above makes map overlap header */
+  padding: 0px;
   background-color: #fff;
 }
 .intro-header-fixed {
@@ -349,7 +350,7 @@
   height: 32px;
   min-height: 32px;
   max-height: 32px;
-  
+
   border: 1px gray solid;
 }
 

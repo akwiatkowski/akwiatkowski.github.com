@@ -11,20 +11,22 @@ class @BlogMap
         @startMap()
 
   initializeLayout: () ->
-    clientHeight = document.body.clientHeight
-    containerWidth = $(".container").width()
-    topPosition = $("#map-container").position().top
+    # https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
 
-    mapHeight = clientHeight - topPosition - 200
-    if mapHeight < 300
-      mapHeight = 300
+    mapDom = document.getElementById("map-container")
+    mapBoundaries = mapDom.getBoundingClientRect()
+    mapHeight = window.innerHeight - mapBoundaries.top
+    mapWidth = window.innerWidth - mapBoundaries.left
 
-    $('.intro-header').height( clientHeight )
-    $("#map-container").width( containerWidth )
+    console.log("map width = " + mapWidth + " height = " + mapHeight)
+
+    $("#map-container").height( mapHeight )
+    $("#map-container").width( mapWidth )
 
     $("#content").height( mapHeight )
-    $("#content").width( containerWidth )
+    $("#content").width( mapWidth )
 
+    $("footer").hide()
 
   startMap: () ->
     strokeWidth = 3
