@@ -5,7 +5,7 @@ subtitle:               "a jednocześnie mój pierwszy udział w wydarzeniu orga
 desc:                   "Jak do tej pory byłem na kilku wydarzeniach Turkolu i sam przejechałem na kilku liniach dla samego przejazdu. Decyzję o uczestnictwie podjąłem dość impulsywnie, z ciekawości. W tym wpisie umieściłem kilka zdjęć. Prawdopodobnie będą to ostatnie zdjęcia z pociągiem w tych stronach."
 keywords:               [chojnice, przytoń, przechlewo, pociąg, przejazd]
 date:                   2018-06-16 17:00:00
-finished_at:            2100-06-28 16:00:00
+finished_at:            2018-06-28 16:00:00
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

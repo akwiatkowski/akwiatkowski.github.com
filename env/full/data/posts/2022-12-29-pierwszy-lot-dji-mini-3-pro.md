@@ -10,14 +10,14 @@ author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2022_12_29__15_00_DJI_0016.jpg.jpg
 #image_position:         50% 70%
-tags:                   [air, todo]
+tags:                   [air, main]
 towns:                  [wielkopolskie, pobiedziska]
 
 coords:                 [{"route": [], "type": "hike"}]
-distance:               
+distance:
 time_spent:             1
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 pois:
 

@@ -191,35 +191,3 @@ koników polnych.
 
 Dotarliśmy do [Toporowa][wiki-toporow] z którego mieliśmy wrócić do
 [Świebodzina][wiki-swiebodzin].
-
-### Wieczorem po mieście
-
-{% photo "2020_08_01__19_57__8017192.jpg","Ciekawy budynek w centrum Świebodzina" %}
-
-Jak to zwykle bywa po zjedzeniu postanowiliśmy pozwiedzać centrum
-[tego miasta][wiki-swiebodzin].
-
-{% photo "2020_08_01__19_59__8017198.jpg","Rynek" %}
-
-Podobały mi się kwiaty przy latarniach ulicznych.
-
-{% photo "2020_08_01__20_10__8017231.jpg","Ulica z kwiatami" %}
-
-Lubię szukać stare budynki, które posiadają swój klimat.
-
-{% photo "2020_08_01__20_29__8017273.jpg","Stary budynek mieszkalny" %}
-
-Słońce powoli chowało się za horyzont i miasto zyskiwało inne barwy.
-
-{% photo "2020_08_01__20_32__8017279.jpg","Kościół św. Michała Archanioła" %}
-
-Spodobał mi się ten sklep. Jakby zatrzymał się w innej epoce.
-
-{% photo "2020_08_01__20_33__8017282.jpg","Sklep muzyczny" %}
-
-Spotkaliśmy kota i nie mogłem nie zrobić mu zdjęcia, chociaż ostatecznie nie
-jestem zadowolony ze zrobionych zdjęć.
-
-{% photo "2020_08_01__20_55__8017330.jpg","Kot w Świebodzinie","tag:cat" %}
-
-Tak właśnie jest ze zwierzakami - nie jesteśmy w stanie ich kontrolować.

@@ -1,14 +1,14 @@
 ---
 layout:                 post
 title:                  "Nie warto było"
-subtitle:               "raz na jakiś czas lepiej po prostu siedzieć w domu i odpocząć"
+subtitle:               "raz na jakiś czas lepiej po prostu siedzieć w domu i odpocząć zamiast nadinterpretować prognozy pogody"
 desc:                   ""
 keywords:               []
 date:                   2021-02-06 15:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
-#image_filename:         IMGP5706raw1.jpg
+image_filename:         2021_02_06__15_04_DSC05529.jpg
 tags:                   [hike, todo]
 towns:                  [wielkopolskie, szamotuly]
 lands:                  [pojezierze_wielkopolskie]

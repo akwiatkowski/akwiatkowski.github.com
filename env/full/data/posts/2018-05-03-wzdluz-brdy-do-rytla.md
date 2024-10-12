@@ -5,7 +5,7 @@ subtitle:               "krótsza wycieczka przez chyba najbardziej zniszczone h
 desc:                   "Poranek był deszczowy tego dnia. Postanowiliśmy zaplanować krótszą trasę aby się nie nudzić. Oprócz standardowych lasów widzieliśmy efekty huraganu z poprzedniego roku i Kanał Brdy."
 keywords:               [rzepiczna, barłogi, brda, legbąd, rzeka, fojutowo, huragan 2017, rytel]
 date:                   2018-05-03 16:00:00
-finished_at:            2100-09-27 12:00:00
+finished_at:            2019-01-01 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8574raw1.jpg

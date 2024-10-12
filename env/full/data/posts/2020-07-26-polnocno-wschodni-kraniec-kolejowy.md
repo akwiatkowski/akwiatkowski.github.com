@@ -2,15 +2,15 @@
 layout:                 post
 title:                  "Północno-wschodni kraniec kolejowy Polski"
 subtitle:               "czyli okolice Suwałk, które bardzo chciałbym zwiedzić rowerem"
-desc:                   ""
-keywords:               []
+desc:                   "Pojawiła się ciekawa oferta Turkolu która umożliwiłaby zobaczyć miejsca, do których nie udało mi się dojechać rowerem. Zobaczyłem i teraz tym bardziej chce rowerem tam pojechać."
+keywords:               [turkol, suwałki]
 date:                   2020-07-26 14:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2024-10-10 19:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_07_26__12_51__7265445.jpg
 image_position:         50% 40%
-tags:                   [train, todo]
+tags:                   [train, best]
 towns:                  [warminsko_mazurskie, podlaskie, olsztyn, purda, pasym, szczytno, swietajno_szczycienski, ruciane_nida, pisz, biala_piska, elk, olecko, wieliczki, raczki, suwalki, szypliszki, punsk]
 lands:                  [pojezierze_mazurskie, pojezierze_litewskie]
 
@@ -33,6 +33,22 @@ pois:
 ---
 
 <!-- https://turkol.pl/index.php?option=com_content&view=article&id=306 -->
+
+[wiki-elk]: https://pl.wikipedia.org/wiki/E%C5%82k
+[wiki-gizycko]: https://pl.wikipedia.org/wiki/Gi%C5%BCycko
+[wiki-olsztyn]: https://pl.wikipedia.org/wiki/Olsztyn
+[wiki-pisz]: https://pl.wikipedia.org/wiki/Pisz
+[wiki-mazury]: https://pl.wikipedia.org/wiki/Mazury
+[wiki-olecko]: https://pl.wikipedia.org/wiki/Olecko
+[wiki-suwalki]: https://pl.wikipedia.org/wiki/Suwa%C5%82ki
+[wiki-litwa]: https://pl.wikipedia.org/wiki/Litwa
+[wiki-wilno]: https://pl.wikipedia.org/wiki/Wilno
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-trakiszki]: https://pl.wikipedia.org/wiki/Trakiszki
+[wiki-budzisko]: https://pl.wikipedia.org/wiki/Budzisko_(powiat_suwalski)
+[wiki-rosja]: https://pl.wikipedia.org/wiki/Rosja
+[wiki-kaletniki]: https://pl.wikipedia.org/wiki/Kaletnik_(wojew%C3%B3dztwo_podlaskie)
+
 
 ## Wstęp
 
@@ -83,12 +99,13 @@ a następnie [Suwałki][wiki-suwalki].
 
 {% photo "2020_07_26__09_12__7264258.jpg","Lekkie pagórki obok Bajtkowa" %}
 
-Trasa była dla mnie znana gdyż [dwa lata temu]({% post_url 2018-07-23-parowozem-do-suwalk %})
+Trasa była dla mnie znana gdyż
+[dwa lata temu jechałem też pociągiem]({% post_url 2018-07-23-parowozem-do-suwalk %})
 dlatego mój opis teraz będzie znacznie bardziej ograniczony.
 
 {% photo "2020_07_26__09_37__7264315.jpg","Rzeka Ełk" %}
 
-W [Olecku][wiki-olecku] widzieliśmy transport czołgów. Nikt wtedy nie myślał
+W [Olecku][wiki-olecko] widzieliśmy transport czołgów. Nikt wtedy nie myślał
 o tym, że Rosja będzie w stanie zrobić coś tak głupiego i zaatakować
 Ukrainę.
 
@@ -99,12 +116,13 @@ Klimat tych terenów jest znacznie bardziej dziki od okolicy [Pisza][wiki-pisz].
 {% photo "2020_07_26__10_39__7264468.jpg","Idealna droga na gravel" %}
 
 Podobały mi się dzikie łąki i gruntowe drogi, po których bardzo chciałbym
-pojeździć, a które łączą jedną zapomniana wieś z innę.
+pojeździć, a które łączą jedną zapomniana wieś z inną.
 
 {% photo "2020_07_26__10_56__7264715.jpg","Alternatywna trasa kolejowa do Suwałk" %}
 
-Zbliżając się do [Suwałk][wiki-suwalki] zrobiłem sobie przerwę od zdjęć
-gdyż ten teren znałem a większe miasto przekształcało okolicę.
+Zbliżając się do [Suwałk][wiki-suwalki] zrobiłem sobie przerwę od zdjęć.
+Ten teren znałem a większe [miasto][wiki-suwalki] przekształcało okolicę
+w mniej ciekawą.
 
 {% photo "2020_07_26__10_56__7264735.jpg","Kajakarze na rzece Rospuda" %}
 
@@ -115,7 +133,7 @@ tak szybko zacząłem poświęcać maksymalną uwagę.
 {% photo "2020_07_26__12_01__7264968.jpg","Droga do Okuniowca" %}
 
 W tym momencie przejeżdża tam tylko jeden (!) pociąg IC który jedzie
-do [Wilna][wiki-wilno]. To, że jest top jeden i nie ma pociagów regionalnych
+do [Wilna][wiki-wilno]. To, że jest to jeden i nie ma pociagów regionalnych
 jest turystycznie błędem. Może w wakacje tych połączeń będzie więcej.
 
 {% photo "2020_07_26__12_06__7265033.jpg","Okolica Gielniewa" %}
@@ -128,12 +146,13 @@ patrząc na mapę ciekawsze pagórki były 15km na północny-zachód.
 
 Bardzo mi sie podobały te okolicy. Szkoda że dojazd do [Suwałk][wiki-suwalki]
 jest tak trudny z [Poznania][wiki-poznan]. Najkrótszy bezpośredni pociąg
-jedzie 8 godzin i kończy bieg przd 21:30.
+jedzie 8 godzin i kończy bieg przed 21:30.
 
 {% photo "2020_07_26__12_19__7265269.jpg","Idealna droga na rower" %}
 
 Wydaje mi się, że jeszcze o 21:30 można by dostać się do noclegu w jakimś
-hotelu aby mieć pełnie sił następnego dnia.
+hotelu aby mieć pełnie sił następnego dnia. Tylko co by było gdyby
+pociąg się spóźnił? A o to nietrudno.
 
 {% photo "2020_07_26__12_20__7265298.jpg","Tak wygląda droga wojewódzka łącząca Wiżajny z Sejnami" %}
 
@@ -142,7 +161,7 @@ Dotarliśmy do celu - do [Trakiszek][wiki-trakiszki].
 {% photo "2020_07_26__12_34__7265387.jpg","Gdzie kończą się Trakiszki" %}
 
 Mieliśmy tam kilkanaście minut na zwiedzenie okolicy. Chciałbym móc
-tutaj być i spędzić trochę więcej czasu.
+tutaj dojechać i spędzić trochę więcej czasu.
 
 {% photo "2020_07_26__12_36__7265391.jpg","Gdzie kończą się Trakiszki" %}
 
@@ -153,8 +172,8 @@ przy granicy z [Litwą][wiki-litwa] a nie [Rosją][wiki-rosja].
 {% photo "2020_07_26__12_40__7265410.jpg","Stary budynek dworca w Trakiszkach" %}
 
 Rozpoczęliśmy powrót. Próbowałem teraz robić zdjęcia z drugiej strony pociagu
-i udało mi się zrobić jakieś interesujące zdjęcia. To nie są wyjątkowe
-dziełą sztuki ale archiwizują to co widzę w tym miejscu.
+i udało mi się coś zrobić. To nie są wyjątkowe
+dzieła sztuki ale archiwizują to co widzę w tym miejscu wartościowego.
 
 {% photo "2020_07_26__12_51__7265445.jpg","Okolica Jeziora Sejwy","tag:good" %}
 

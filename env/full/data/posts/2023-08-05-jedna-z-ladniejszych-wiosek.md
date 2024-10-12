@@ -16,11 +16,11 @@ towns:                  []
 coords:                 [{"route": [], "type": "hike"}]
 coords_file:            "2023-08-05-jedna-z-ladniejszych-wiosek.json"
 coords_type:            "hike"
-map_zooms:              16
+map_zooms:              14
 distance:               4
 time_spent:             2
 elevation:              42
-temperature:            
+temperature:
 
 
 pois:
@@ -28,6 +28,11 @@ pois:
 #    lon: 18.56281
 #    name: POI
 #    type: todo / visited
+
+# https://www.strava.com/activities/9586668940
+# https://www.strava.com/activities/9585786574
+# https://www.strava.com/activities/9584979746
+# https://www.strava.com/activities/9582976311
 
 ---
 

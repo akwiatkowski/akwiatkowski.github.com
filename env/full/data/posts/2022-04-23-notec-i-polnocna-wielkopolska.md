@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2022_04_23__13_04_P4231940.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  [kujawsko_pomorskie, wielkopolskie, sadki, kcynia, golancz, wagrowiec, budzyn, rogozna]
+towns:                  [kujawsko_pomorskie, wielkopolskie, sadki, kcynia, golancz, wagrowiec, budzyn, rogozno]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-04-23-notec-i-polnocna-wielkopolska.json"

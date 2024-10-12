@@ -2,15 +2,15 @@
 layout:                 post
 title:                  "Przedwiośnie obok Puszczy Zielonki"
 subtitle:               "czyli spokojna eksploracja po pracy"
-desc:                   ""
-keywords:               []
+desc:                   "Krótka wycieczka rowerowa w okolicy Pobiedzisk."
+keywords:               [pobiedziska, jezioro kowalskie, biskupice]
 date:                   2021-03-31 09:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2024-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_03_31__17_52_P3310023.jpg
 #image_position:         50% 70%
-tags:                   [bicycle, todo]
+tags:                   [bicycle, main]
 towns:                  [wielkopolskie, pobiedziska]
 lands:                  [pojezierze_wielkopolskie]
 
@@ -34,16 +34,28 @@ strava: 5044674984
 
 ---
 
+[wiki-promno-stacja]: https://pl.wikipedia.org/wiki/Promno-Stacja
+[wiki-jezioro-wronczynskie]: https://pl.wikipedia.org/wiki/Jezioro_Wronczy%C5%84skie_Ma%C5%82e
+[wiki-zlotniczki]: https://pl.wikipedia.org/wiki/Z%C5%82otniczki_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-jerzyn]: https://pl.wikipedia.org/wiki/Jerzyn
+[wiki-kolatka]: https://pl.wikipedia.org/wiki/Ko%C5%82atka_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-kowalskie]: https://pl.wikipedia.org/wiki/Kowalskie_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-jezioro-kowalskie]: https://pl.wikipedia.org/wiki/Jezioro_Kowalskie
+[wiki-gorzkie-pole]: https://pl.wikipedia.org/wiki/Gorzkie_Pole
+[wiki-pobiedzisko-letnisko]: https://pl.wikipedia.org/wiki/Pobiedziska_Letnisko
+[wiki-rzeka-glowna]: https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wna_(rzeka)
+
 
 ## Wstęp
 
-Pogoda jest... skomplikowana. Powoli powinna pojawić się wiosna ale temperatura`
-jest jeszcze chłodna. Dni idealnych na rower nie ma dużo.
+Pogoda jest... skomplikowana. Powoli powinna pojawiać się wiosna ale temperatura
+była jeszcze chłodna. Dni idealnych na rower nie było dużo.
 
 {% photo "2021_03_31__16_55_P3310003.jpg","Lasy w okolicy Gorzkiego Pola" %}
 
 Pojawiło się kilka cieplejszych dni. Planowałem w środę skończyć pracę wcześniej
-i ruszyć rowerem ale niestety musiałem uczestniczyć w spotkaniu.
+i ruszyć rowerem. Niestety musiałem uczestniczyć w spotkaniu i mój
+przejazd rozpoczął się później, niż planowałem.
 
 ## Szczegóły
 
@@ -54,11 +66,11 @@ kończyłem swój udział w spotkaniu.
 
 Po chwili ruszyłem na północ. Nie miałem konkretnego planu. Chciałem sobie tylko
 spokojnie pozwiedzać i odetchnąć od miasta. Coraz bardziej zauważam,
-że jest to mi potrzebne.
+że jest to mi potrzebne regularnie.
 
 {% photo "2021_03_31__17_37_P3310012.jpg","Pola w okolicy wsi Kołata","tag:timeline" %}
 
-Podjechałem na chwilę nad [Jezioro Wrończyńskie Wielkie][wiki-jezioro-wronczynskie].
+Podjechałem na chwilę nad [Jezioro Wrończyńskie][wiki-jezioro-wronczynskie].
 Jest tam miejsce do przenoszenia kajaków.
 
 {% photo "2021_03_31__17_37_P3310014.jpg","Przystanek autobusowy w Kołacie" %}
@@ -66,13 +78,13 @@ Jest tam miejsce do przenoszenia kajaków.
 Następnie stosunkowo szybko przejechałem do [Złotniczek][wiki-zlotniczki]
 i wracałem przez [Jerzyn][wiki-jerzyn]. Znam te tereny i wolałem
 sobie spokojnie, acz szybko, przejechać niż się zatrzymywać aby zrobić zdjęcia.
-Może gdyby już się wiosna pojawiła to by było inaczej.
+Może gdy już się wiosna pojawi to będzie inaczej.
 
 {% photo "2021_03_31__17_42_P3310022.jpg","Wieś Kołatka" %}
 
 Pojechałem w stronę [Kołatki][wiki-kolatka] gdyż ciekawiła mnie
 okolica przepływającego strumienia. Według mapy powinna być podmokła ale ja
-tego sam nie zauważyłem na żywo.
+tego sam nie zauważyłem na własne oczy.
 
 Dotarłem do wsi [Kowalskie][wiki-kowalskie]. Jest tam sklep z którego
 lubię korzystać podczas przejazdów rowerowych.
@@ -88,5 +100,6 @@ dojazd do stacji [Pobiedzisko Letnisko][wiki-pobiedzisko-letnisko].
 
 {% photo "2021_03_31__18_13_P3310038.jpg","Niby-bobrza tama" %}
 
-Okazało się że, że jest tam bardzo ładne ułożenie terenu, a przejście
-przez rzekę [Główna][wiki-rzeka-glowna] nie jest takie łatwe.
+Okazało się że, że jest tam bardzo ciekawe ułożenie terenu, a przejście
+przez rzekę [Główna][wiki-rzeka-glowna] nie jest takie łatwe. Mając rower jakoś
+się go weźmie w ręce ale przejść z przyczepką albo wózkiem byłoby niełatwe.

@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2021_10_03__12_34__A032053.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  [wielkopolskie, kujawsko_pomorskie, kolo, osiek_malo, sompolno, wierzbinek, piotrkow_kujawski, skulsk, wilczyn, jeziora_wielkie, strzelno]
+towns:                  [wielkopolskie, kujawsko_pomorskie, kolo, osiek_maly, sompolno, wierzbinek, piotrkow_kujawski, skulsk, wilczyn, jeziora_wielkie, strzelno]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2021-10-03-juz-sie-mi-nie-chcialo.json"

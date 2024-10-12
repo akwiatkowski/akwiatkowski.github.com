@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2022_06_24__06_54_P6242328.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  [wielkopolskie, biskupice]
+towns:                  [wielkopolskie, pobiedziska]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2022-06-24-przed-upalem.json"
