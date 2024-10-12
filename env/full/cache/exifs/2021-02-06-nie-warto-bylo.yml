@@ -1,3 +1,108 @@
 ---
 - image_filename: header.jpg
   post_slug: 2021-02-06-nie-warto-bylo
+- image_filename: 2021_02_06__15_04_DSC05529.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.58638888888889
+  lon: 16.630555555555556
+  altitude: 66.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 3.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-02-06 15:04:03.000000000+01:00
+- image_filename: 2021_02_06__15_13__2068408.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.58861111111111
+  lon: 16.628055555555555
+  altitude: 67.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.76
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-02-06 15:13:21.000000000+01:00
+- image_filename: 2021_02_06__14_54_DSC05516.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.583333333333336
+  lon: 16.626944444444444
+  altitude: 63.0
+  focal_length: 75.0
+  focal_length_35: 75.0
+  crop: 1.0
+  aperture: 8.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4062
+  height: 2741
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-02-06 14:54:08.000000000+01:00
+- image_filename: 2021_02_06__16_33__2068431.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.605555555555554
+  lon: 16.584166666666665
+  altitude: 58.0
+  focal_length: 14.0
+  focal_length_35: 28.0
+  crop: 2.0
+  aperture: 8.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 4878
+  height: 3642
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-02-06 16:33:56.000000000+01:00
+- image_filename: 2021_02_06__15_13__2068409.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.58861111111111
+  lon: 16.62777777777778
+  altitude: 67.0
+  focal_length: 8.0
+  focal_length_35: 16.0
+  crop: 2.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 4.05
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  time: 2021-02-06 15:13:27.000000000+01:00
+- image_filename: 2021_02_06__15_00_DSC05523.jpg
+  post_slug: 2021-02-06-nie-warto-bylo
+  lat: 52.58555555555556
+  lon: 16.630833333333335
+  altitude: 63.0
+  focal_length: 28.0
+  focal_length_35: 28.0
+  crop: 1.0
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5621
+  height: 3701
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  time: 2021-02-06 15:00:55.000000000+01:00

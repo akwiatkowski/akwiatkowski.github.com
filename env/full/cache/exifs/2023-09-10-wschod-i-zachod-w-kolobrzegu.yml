@@ -1,0 +1,646 @@
+---
+- image_filename: 2023_09_08__18_29_P9080248.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 58.51
+  iso: 200
+  width: 5091
+  height: 3751
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:29:30.000000000+02:00
+- image_filename: 2022_07_31__18_45_P7310479.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+- image_filename: 2023_09_08__18_15_P9080205.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 47.0
+  aperture: 14.0
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 13.33
+  iso: 200
+  width: 5135
+  height: 3813
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:15:37.000000000+02:00
+- image_filename: 2023_09_07__16_05_DJI_0011.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.65
+  lon: 16.183333333333334
+  altitude: 139.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-07 16:05:02.000000000+02:00
+- image_filename: 2023_09_09__13_25_DSC07914.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21527777777778
+  lon: 15.744166666666667
+  altitude: 4.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2023-09-09 13:25:51.000000000+02:00
+- image_filename: 2023_09_10__06_02_DJI_0056.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 2.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 180
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:02:44.000000000+02:00
+- image_filename: 2023_09_08__18_25_DSC07730.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5956
+  height: 3881
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2023-09-08 18:25:28.000000000+02:00
+- image_filename: 2023_09_08__18_21_P9080219.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 100.0
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 60.24
+  iso: 200
+  width: 5178
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:21:55.000000000+02:00
+- image_filename: 2023_09_09__19_12_DJI_0029.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 16.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 19:12:37.000000000+02:00
+- image_filename: 2023_09_09__18_24_P9090360.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21222222222222
+  lon: 15.748888888888889
+  altitude: 6.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 57.08
+  iso: 200
+  width: 8067
+  height: 5996
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-09 18:24:40.000000000+02:00
+- image_filename: 2023_09_08__09_03_P9080139.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.190555555555555
+  lon: 15.608611111111111
+  altitude: 0.0
+  focal_length: 100.0
+  aperture: 13.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 76.92
+  iso: 200
+  width: 5161
+  height: 3850
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 09:03:33.000000000+02:00
+- image_filename: 2023_09_07__16_02_DJI_0002.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.65
+  lon: 16.166666666666668
+  altitude: 132.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-07 16:02:03.000000000+02:00
+- image_filename: 2023_09_09__19_18_DJI_0038.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 29.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 19:18:58.000000000+02:00
+- image_filename: 2023_09_09__14_04_DSC07967.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.206944444444446
+  lon: 15.749722222222221
+  altitude: 13.0
+  focal_length: 180.0
+  focal_length_35: 180.0
+  crop: 1.0
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5807
+  height: 3780
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  time: 2023-09-09 14:04:05.000000000+02:00
+- image_filename: 2023_09_08__18_24_P9080231.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 100.0
+  aperture: 9.0
+  exposure: 3.0
+  exposure_string: 1.3 s
+  focus_distance: 64.75
+  iso: 200
+  width: 5133
+  height: 3811
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:24:39.000000000+02:00
+- image_filename: 2023_09_09__15_03_DJI_0019.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.2
+  lon: 15.75
+  altitude: 14.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8017
+  height: 5986
+  camera: FC3582
+  time: 2023-09-09 15:03:45.000000000+02:00
+- image_filename: 2023_09_10__05_37_P9100382.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19138888888889
+  lon: 15.608611111111111
+  altitude: 0.0
+  focal_length: 100.0
+  aperture: 14.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 82.33
+  iso: 200
+  width: 5177
+  height: 3871
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-10 05:37:32.000000000+02:00
+- image_filename: 2023_09_10__06_04_DJI_0063.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.6
+  altitude: 19.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:04:22.000000000+02:00
+- image_filename: 2023_09_09__15_04_DJI_0022.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.2
+  lon: 15.75
+  altitude: 9.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 15:04:11.000000000+02:00
+- image_filename: 2023_09_10__06_29_DJI_0090.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 1.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:29:36.000000000+02:00
+- image_filename: 2023_09_07__16_02_DJI_0006.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.666666666666664
+  lon: 16.166666666666668
+  altitude: 133.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-07 16:02:59.000000000+02:00
+- image_filename: 2023_09_10__05_14_P9100374.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191111111111105
+  lon: 15.608611111111111
+  altitude: 4294967296.0
+  focal_length: 100.0
+  aperture: 5.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 51.36
+  iso: 200
+  width: 5185
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-10 05:14:14.000000000+02:00
+- image_filename: 2023_09_09__19_11_DJI_0026.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 24.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 19:11:55.000000000+02:00
+- image_filename: 2023_09_10__05_12_P9100370.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191111111111105
+  lon: 15.608611111111111
+  altitude: 4294967296.0
+  focal_length: 31.0
+  aperture: 4.0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  focus_distance: 12.29
+  iso: 200
+  width: 8075
+  height: 6011
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-10 05:12:00.000000000+02:00
+- image_filename: 2023_09_10__06_05_DJI_0068.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.6
+  altitude: 18.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 410
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:05:44.000000000+02:00
+- image_filename: 2023_09_08__18_16_P9080209.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 48.04
+  iso: 200
+  width: 5182
+  height: 3880
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:16:31.000000000+02:00
+- image_filename: 2023_09_10__06_32_DJI_0101.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 3.9
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:32:57.000000000+02:00
+- image_filename: 2023_09_08__18_26_P9080238.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.189722222222215
+  lon: 15.608333333333333
+  altitude: 4.0
+  focal_length: 92.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 91.53
+  iso: 200
+  width: 5196
+  height: 3896
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 18:26:23.000000000+02:00
+- image_filename: 2023_09_09__19_12_DJI_0030.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 16.8
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 19:12:48.000000000+02:00
+- image_filename: 2023_09_10__06_07_DJI_0076.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 10.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 260
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:07:37.000000000+02:00
+- image_filename: 2023_09_09__18_24_P9090361.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21222222222222
+  lon: 15.748888888888889
+  altitude: 6.0
+  focal_length: 92.0
+  aperture: 11.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 26.77
+  iso: 200
+  width: 5177
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-09 18:24:59.000000000+02:00
+- image_filename: 2023_09_09__18_27_P9090365.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21222222222222
+  lon: 15.748888888888889
+  altitude: 6.0
+  focal_length: 100.0
+  aperture: 9.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 42.22
+  iso: 200
+  width: 5024
+  height: 3656
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-09 18:27:30.000000000+02:00
+- image_filename: 2023_09_10__06_02_DJI_0055.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 2.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:02:35.000000000+02:00
+- image_filename: 2023_09_10__06_04_DJI_0062.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.6
+  altitude: 19.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 170
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:04:11.000000000+02:00
+- image_filename: 2023_09_08__09_01_P9080133.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.190555555555555
+  lon: 15.608611111111111
+  altitude: 0.0
+  focal_length: 100.0
+  aperture: 16.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 56.11
+  iso: 200
+  width: 5119
+  height: 3790
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-08 09:01:21.000000000+02:00
+- image_filename: 2023_09_10__06_02_DJI_0057.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 2.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 190
+  width: 8016
+  height: 5989
+  camera: FC3582
+  time: 2023-09-10 06:02:53.000000000+02:00
+- image_filename: 2023_09_10__06_04_DJI_0065.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.6
+  altitude: 19.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 290
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-10 06:04:47.000000000+02:00
+- image_filename: 2023_09_09__19_19_DJI_0039.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 29.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2023-09-09 19:19:15.000000000+02:00
+- image_filename: 2023_09_10__05_12_P9100372.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191111111111105
+  lon: 15.608611111111111
+  altitude: 4294967296.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 2.0
+  exposure_string: 2 s
+  focus_distance: 124.12
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2023-09-10 05:12:33.000000000+02:00
+- image_filename: 2023_09_09__19_21_DJI_0044.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18333333333333
+  lon: 15.616666666666667
+  altitude: 28.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2023-09-09 19:21:07.000000000+02:00
+- image_filename: 2023_09_09__15_03_DJI_0020.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.2
+  lon: 15.75
+  altitude: 8.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  time: 2023-09-09 15:03:56.000000000+02:00

@@ -1605,6 +1605,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2958
+    2021-10-25-jesien-nieudana:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3240
     2022-01-30-szklarska-wieczorami:
       common_factor: 50
       common_size: 1
@@ -3673,6 +3678,26 @@
       common_size: 2
       not_common_size: 4
       days_diff: 3623
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3817
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 3863
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3996
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 4017
   quants:
   - lat: 52.4
     lon: 17.0
@@ -4343,6 +4368,31 @@
       common_size: 2
       not_common_size: 2
       days_diff: 3603
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3706
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3797
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 3843
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3976
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3997
   quants:
   - lat: 52.4
     lon: 17.0
@@ -5014,6 +5064,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 3602
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3796
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3842
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3975
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3996
   quants:
   - lat: 52.4
     lon: 17.0
@@ -5397,6 +5467,26 @@
       common_size: 2
       not_common_size: 4
       days_diff: 3588
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3691
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 4
+      not_common_size: 2
+      days_diff: 3828
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 3961
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 3982
   quants:
   - lat: 52.4
     lon: 17.2
@@ -6973,6 +7063,16 @@
       common_size: 1
       not_common_size: 2
       days_diff: 3391
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3600
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3646
   quants:
   - lat: 52.4
     lon: 17.0
@@ -7572,6 +7672,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 3386
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3580
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 3626
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3759
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3780
   quants:
   - lat: 52.4
     lon: 17.0
@@ -8026,6 +8146,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 3370
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3625
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -8425,6 +8550,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 3363
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3618
   quants:
   - lat: 52.4
     lon: 17.0
@@ -8875,6 +9005,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3344
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3599
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -9011,6 +9146,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 3106
+    2023-03-05-kraina-jezior:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3232
   quants:
   - lat: 52.600002
     lon: 16.4
@@ -9484,6 +9624,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3338
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3593
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -10085,6 +10230,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 3331
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3525
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 3571
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3704
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3725
   quants:
   - lat: 52.4
     lon: 17.0
@@ -10354,9 +10519,9 @@
       not_common_size: 3
       days_diff: 2403
     2021-10-25-jesien-nieudana:
-      common_factor: 25
-      common_size: 1
-      not_common_size: 3
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
       days_diff: 2684
     2022-01-30-szklarska-wieczorami:
       common_factor: 75
@@ -11492,6 +11657,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 3291
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3485
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3531
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3664
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3685
   quants:
   - lat: 52.4
     lon: 17.0
@@ -11571,9 +11756,9 @@
       not_common_size: 5
       days_diff: 2738
     2022-04-29-spokoj-i-pagorki:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
       days_diff: 2847
     2022-05-01-szybko-do-dobiegniewa:
       common_factor: 16
@@ -12193,6 +12378,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 3223
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3432
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3478
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -12734,6 +12929,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 3216
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3425
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3471
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -13199,6 +13404,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 3144
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3399
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -14160,6 +14370,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 3032
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3226
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 3272
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3405
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3426
   quants:
   - lat: 52.4
     lon: 17.0
@@ -14688,6 +14918,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2986
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3195
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3241
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -15322,6 +15562,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2967
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3161
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3207
   quants:
   - lat: 52.4
     lon: 17.0
@@ -15793,6 +16043,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2950
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3205
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -16249,6 +16504,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2944
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3199
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -16560,6 +16820,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2752
+    2024-04-21-siedlecin-i-okolice:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3242
   quants:
   - lat: 50.8
     lon: 15.400001
@@ -17355,6 +17620,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2916
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3171
   quants:
   - lat: 52.2
     lon: 16.4
@@ -17704,6 +17974,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2506
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3180
   quants:
   - lat: 51.4
     lon: 17.0
@@ -18125,6 +18400,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2581
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 3135
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -18528,6 +18808,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2873
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3128
   quants:
   - lat: 52.4
     lon: 17.0
@@ -19090,15 +19375,35 @@
       not_common_size: 5
       days_diff: 2824
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
       days_diff: 2853
     2023-07-07-przed-fala-upalow:
       common_factor: 50
       common_size: 3
       not_common_size: 3
       days_diff: 2865
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 3059
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 3105
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 3238
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 3259
   quants:
   - lat: 52.4
     lon: 17.4
@@ -19770,6 +20075,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2333
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2927
   quants:
   - lat: 52.0
     lon: 16.6
@@ -19874,6 +20184,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 2399
+    2023-03-05-kraina-jezior:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2525
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 40
       common_size: 2
@@ -20307,6 +20622,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2624
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2879
   quants:
   - lat: 52.2
     lon: 17.0
@@ -20524,6 +20844,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2636
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2876
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3009
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3030
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -21024,6 +21359,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2616
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2871
   quants:
   - lat: 52.2
     lon: 17.0
@@ -21208,6 +21548,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1784
+    2024-01-09-nadeszla-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2811
   quants:
   - lat: 50.4
     lon: 16.6
@@ -21322,6 +21667,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2283
+    2024-01-09-nadeszla-zima:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2809
   quants:
   - lat: 50.4
     lon: 16.6
@@ -21713,6 +22063,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2071
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2180
   quants:
   - lat: 52.8
     lon: 15.400001
@@ -22298,6 +22653,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2037
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2147
     2022-07-17-motyle-przy-obrze:
       common_factor: 16
       common_size: 1
@@ -22490,6 +22850,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 2297
+    2023-03-05-kraina-jezior:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2423
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 60
       common_size: 3
@@ -22692,6 +23057,11 @@
       common_size: 3
       not_common_size: 5
       days_diff: 2466
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2834
   quants:
   - lat: 53.0
     lon: 16.800001
@@ -23431,6 +23801,26 @@
       common_size: 2
       not_common_size: 7
       days_diff: 2525
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2719
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 22
+      common_size: 2
+      not_common_size: 7
+      days_diff: 2765
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2898
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 2919
   quants:
   - lat: 52.4
     lon: 17.0
@@ -23621,6 +24011,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2321
+    2024-04-21-siedlecin-i-okolice:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2811
   quants:
   - lat: 51.0
     lon: 15.400001
@@ -24165,6 +24560,11 @@
       common_size: 2
       not_common_size: 6
       days_diff: 1948
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2057
     2022-10-30-jesien-rowerowa:
       common_factor: 12
       common_size: 1
@@ -24622,6 +25022,21 @@
       common_size: 2
       not_common_size: 5
       days_diff: 2475
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2716
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2848
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2869
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -25032,6 +25447,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2446
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2701
   quants:
   - lat: 52.4
     lon: 17.0
@@ -25427,6 +25847,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2442
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2697
   quants:
   - lat: 52.4
     lon: 17.0
@@ -25822,6 +26247,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2436
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2691
   quants:
   - lat: 52.4
     lon: 17.0
@@ -27195,6 +27625,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2400
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2655
   quants:
   - lat: 52.4
     lon: 17.0
@@ -27715,6 +28150,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2388
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2643
   quants:
   - lat: 52.4
     lon: 17.0
@@ -28110,6 +28550,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2378
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2633
   quants:
   - lat: 52.4
     lon: 17.0
@@ -30122,6 +30567,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2346
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2601
   quants:
   - lat: 52.4
     lon: 17.0
@@ -30641,6 +31091,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2334
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2589
   quants:
   - lat: 52.4
     lon: 17.0
@@ -32143,6 +32598,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2315
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2418
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2555
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2688
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2709
   quants:
   - lat: 52.4
     lon: 17.0
@@ -32280,6 +32755,11 @@
       common_size: 2
       not_common_size: 4
       days_diff: 2255
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2571
   quants:
   - lat: 52.0
     lon: 16.6
@@ -32390,6 +32870,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2037
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2564
   quants:
   - lat: 51.8
     lon: 16.4
@@ -33030,11 +33515,41 @@
       common_size: 2
       not_common_size: 10
       days_diff: 2262
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2265
     2023-07-07-przed-fala-upalow:
       common_factor: 8
       common_size: 1
       not_common_size: 11
       days_diff: 2277
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2380
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 41
+      common_size: 5
+      not_common_size: 7
+      days_diff: 2517
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2578
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 16
+      common_size: 2
+      not_common_size: 10
+      days_diff: 2650
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 16
+      common_size: 2
+      not_common_size: 10
+      days_diff: 2671
   quants:
   - lat: 52.4
     lon: 17.0
@@ -33202,6 +33717,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1958
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2513
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -33519,6 +34039,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2057
+    2024-04-21-siedlecin-i-okolice:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2547
   quants:
   - lat: 51.0
     lon: 15.400001
@@ -34169,6 +34694,11 @@
       common_size: 2
       not_common_size: 10
       days_diff: 2055
+    2024-04-21-siedlecin-i-okolice:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 2545
   quants:
   - lat: 50.8
     lon: 15.6
@@ -34508,6 +35038,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2245
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2485
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -34603,6 +35138,11 @@
       common_size: 4
       not_common_size: 0
       days_diff: 1994
+    2023-03-05-kraina-jezior:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2120
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 25
       common_size: 1
@@ -35268,6 +35808,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 2137
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2505
   quants:
   - lat: 53.2
     lon: 17.0
@@ -35306,6 +35851,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1105
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2504
   quants:
   - lat: 53.4
     lon: 17.6
@@ -35835,6 +36385,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2176
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2431
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -36001,6 +36556,11 @@
       common_size: 1
       not_common_size: 17
       days_diff: 1869
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 2490
   quants:
   - lat: 53.600002
     lon: 17.6
@@ -36190,6 +36750,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1867
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2421
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -36791,6 +37356,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2179
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2373
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2419
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2552
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2573
   quants:
   - lat: 52.4
     lon: 17.0
@@ -37268,6 +37853,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1847
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2402
   quants:
   - lat: 52.4
     lon: 17.800001
@@ -37532,6 +38122,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1908
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2435
   quants:
   - lat: 52.0
     lon: 16.6
@@ -37814,6 +38409,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2101
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2381
   quants:
   - lat: 52.2
     lon: 17.2
@@ -38371,6 +38971,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2102
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2357
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -38601,6 +39206,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1887
+    2024-04-21-siedlecin-i-okolice:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2377
   quants:
   - lat: 51.0
     lon: 15.6
@@ -38983,6 +39593,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1185
+    2021-10-25-jesien-nieudana:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1467
     2022-01-30-szklarska-wieczorami:
       common_factor: 100
       common_size: 1
@@ -39343,6 +39958,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1183
+    2021-10-25-jesien-nieudana:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1465
     2022-01-30-szklarska-wieczorami:
       common_factor: 20
       common_size: 1
@@ -39878,6 +40498,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 2056
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2311
   quants:
   - lat: 52.4
     lon: 16.6
@@ -40177,6 +40802,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2069
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2263
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2309
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2442
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2463
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -40695,6 +41340,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 2030
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2285
   quants:
   - lat: 52.4
     lon: 17.0
@@ -41050,6 +41700,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1092
+    2021-10-25-jesien-nieudana:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1374
     2022-01-30-szklarska-wieczorami:
       common_factor: 100
       common_size: 1
@@ -42212,6 +42867,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1944
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2137
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2184
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2317
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2337
   quants:
   - lat: 52.4
     lon: 17.0
@@ -42611,6 +43286,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1919
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2174
   quants:
   - lat: 52.4
     lon: 17.0
@@ -42681,6 +43361,11 @@
       common_size: 3
       not_common_size: 1
       days_diff: 1253
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2206
   quants:
   - lat: 51.600002
     lon: 16.800001
@@ -43159,15 +43844,35 @@
       not_common_size: 2
       days_diff: 1902
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
       days_diff: 1905
     2023-07-07-przed-fala-upalow:
       common_factor: 66
       common_size: 2
       not_common_size: 1
       days_diff: 1917
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2019
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 2157
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 2290
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 2310
   quants:
   - lat: 52.4
     lon: 17.2
@@ -43287,6 +43992,11 @@
       common_size: 5
       not_common_size: 0
       days_diff: 1665
+    2023-03-05-kraina-jezior:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1791
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 20
       common_size: 1
@@ -44059,11 +44769,41 @@
       common_size: 2
       not_common_size: 16
       days_diff: 1892
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 1895
     2023-07-07-przed-fala-upalow:
       common_factor: 5
       common_size: 1
       not_common_size: 17
       days_diff: 1907
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 2010
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 22
+      common_size: 4
+      not_common_size: 14
+      days_diff: 2147
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 11
+      common_size: 2
+      not_common_size: 16
+      days_diff: 2208
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 11
+      common_size: 2
+      not_common_size: 16
+      days_diff: 2280
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 11
+      common_size: 2
+      not_common_size: 16
+      days_diff: 2301
   quants:
   - lat: 52.4
     lon: 17.0
@@ -44243,6 +44983,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1131
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2196
   quants:
   - lat: 53.600002
     lon: 17.800001
@@ -44309,6 +45054,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 48
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2196
   quants:
   - lat: 53.600002
     lon: 17.6
@@ -44686,6 +45436,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 1823
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 42
+      common_size: 3
+      not_common_size: 4
+      days_diff: 2191
   quants:
   - lat: 53.4
     lon: 17.2
@@ -45046,6 +45801,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1833
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2149
   quants:
   - lat: 51.8
     lon: 16.6
@@ -45487,6 +46247,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 0
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2148
   quants:
   - lat: 53.600002
     lon: 17.4
@@ -45517,6 +46282,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 0
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2148
   quants:
   - lat: 53.600002
     lon: 17.4
@@ -45703,6 +46473,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1583
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2025
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -45859,6 +46634,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1484
+    2024-01-09-nadeszla-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2010
   quants:
   - lat: 50.4
     lon: 17.2
@@ -46203,6 +46983,11 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1489
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2043
   quants:
   - lat: 52.600002
     lon: 17.6
@@ -47194,6 +47979,11 @@
       common_size: 1
       not_common_size: 43
       days_diff: 1759
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 2
+      common_size: 1
+      not_common_size: 43
+      days_diff: 2014
   quants:
   - lat: 50.600002
     lon: 17.800001
@@ -47825,6 +48615,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1768
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1871
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2009
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2141
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2162
   quants:
   - lat: 52.4
     lon: 17.0
@@ -49112,6 +49922,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1720
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1822
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1960
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2093
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2113
   quants:
   - lat: 52.4
     lon: 17.2
@@ -49626,6 +50456,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 768
+    2021-10-25-jesien-nieudana:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1050
     2022-01-30-szklarska-wieczorami:
       common_factor: 66
       common_size: 2
@@ -51024,6 +51859,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 924
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1877
   quants:
   - lat: 52.0
     lon: 16.6
@@ -51474,6 +52314,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1324
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1766
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -51902,6 +52747,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1551
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1806
   quants:
   - lat: 52.4
     lon: 17.0
@@ -52357,6 +53207,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1544
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1799
   quants:
   - lat: 52.4
     lon: 17.0
@@ -53022,6 +53877,26 @@
       common_size: 2
       not_common_size: 3
       days_diff: 1553
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1746
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1793
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1926
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1947
   quants:
   - lat: 52.4
     lon: 17.0
@@ -53285,11 +54160,36 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1537
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1540
     2023-07-07-przed-fala-upalow:
       common_factor: 50
       common_size: 1
       not_common_size: 1
       days_diff: 1551
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1654
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1792
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1924
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1945
   quants:
   - lat: 52.4
     lon: 17.2
@@ -53742,6 +54642,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 1525
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1780
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -54226,6 +55131,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 1522
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1777
   quants:
   - lat: 52.2
     lon: 16.4
@@ -54954,9 +55864,9 @@
       not_common_size: 2
       days_diff: 651
     2021-10-25-jesien-nieudana:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
       days_diff: 898
     2022-01-30-szklarska-wieczorami:
       common_factor: 66
@@ -55727,11 +56637,36 @@
       common_size: 2
       not_common_size: 4
       days_diff: 1495
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1498
     2023-07-07-przed-fala-upalow:
       common_factor: 16
       common_size: 1
       not_common_size: 5
       days_diff: 1510
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1612
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 83
+      common_size: 5
+      not_common_size: 1
+      days_diff: 1750
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1883
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1904
   quants:
   - lat: 52.4
     lon: 17.0
@@ -56142,6 +57077,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1482
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1585
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1723
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1855
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1876
   quants:
   - lat: 52.4
     lon: 17.2
@@ -56322,6 +57277,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1233
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1675
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -56867,6 +57827,11 @@
       common_size: 1
       not_common_size: 17
       days_diff: 1463
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 1718
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -57170,6 +58135,11 @@
       common_size: 2
       not_common_size: 4
       days_diff: 1420
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 1737
   quants:
   - lat: 52.0
     lon: 16.800001
@@ -57455,6 +58425,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1125
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1679
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -57746,6 +58721,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1430
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1533
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1670
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1803
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1824
   quants:
   - lat: 52.4
     lon: 17.2
@@ -58566,6 +59561,11 @@
       common_size: 1
       not_common_size: 16
       days_diff: 1412
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 16
+      days_diff: 1638
   quants:
   - lat: 51.600002
     lon: 15.2
@@ -58993,6 +59993,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1362
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1617
   quants:
   - lat: 52.4
     lon: 17.0
@@ -59557,6 +60562,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1355
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1563
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1610
   quants:
   - lat: 52.4
     lon: 17.0
@@ -60138,6 +61153,11 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1077
+    2023-03-05-kraina-jezior:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1203
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 50
       common_size: 1
@@ -60926,15 +61946,35 @@
       not_common_size: 30
       days_diff: 1299
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 3
-      common_size: 1
-      not_common_size: 31
+      common_factor: 6
+      common_size: 2
+      not_common_size: 30
       days_diff: 1302
     2023-07-07-przed-fala-upalow:
       common_factor: 6
       common_size: 2
       not_common_size: 30
       days_diff: 1313
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 3
+      common_size: 1
+      not_common_size: 31
+      days_diff: 1416
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 18
+      common_size: 6
+      not_common_size: 26
+      days_diff: 1554
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 9
+      common_size: 3
+      not_common_size: 29
+      days_diff: 1686
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 9
+      common_size: 3
+      not_common_size: 29
+      days_diff: 1707
   quants:
   - lat: 52.4
     lon: 17.0
@@ -61197,6 +62237,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 364
+    2021-10-25-jesien-nieudana:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 647
     2022-01-30-szklarska-wieczorami:
       common_factor: 100
       common_size: 1
@@ -61252,6 +62297,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 364
+    2021-10-25-jesien-nieudana:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 646
     2022-01-30-szklarska-wieczorami:
       common_factor: 100
       common_size: 1
@@ -61656,6 +62706,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 982
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1424
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -61776,6 +62831,11 @@
       common_size: 2
       not_common_size: 2
       days_diff: 973
+    2023-03-05-kraina-jezior:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1099
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 25
       common_size: 1
@@ -62005,6 +63065,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1203
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1443
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1576
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1596
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -62465,6 +63540,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1157
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1412
   quants:
   - lat: 52.4
     lon: 17.0
@@ -62880,6 +63960,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1154
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1409
   quants:
   - lat: 52.2
     lon: 17.0
@@ -63277,6 +64362,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1152
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1407
   quants:
   - lat: 52.4
     lon: 17.0
@@ -63672,6 +64762,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1152
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1407
   quants:
   - lat: 52.4
     lon: 17.0
@@ -64137,6 +65232,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 1146
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1401
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -64498,6 +65598,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1161
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1263
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1401
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1534
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1554
   quants:
   - lat: 52.4
     lon: 17.2
@@ -65030,6 +66150,11 @@
       common_size: 1
       not_common_size: 8
       days_diff: 1169
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 1395
   quants:
   - lat: 52.2
     lon: 15.8
@@ -65501,6 +66626,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1147
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1249
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1387
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1520
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1541
   quants:
   - lat: 52.2
     lon: 17.2
@@ -65798,6 +66943,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1145
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1339
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1385
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1518
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1539
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -65863,6 +67028,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 891
+    2023-03-05-kraina-jezior:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1017
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 100
       common_size: 3
@@ -65907,6 +67077,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 365
+    2023-03-05-kraina-jezior:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1016
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 100
       common_size: 1
@@ -65947,6 +67122,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 364
+    2023-03-05-kraina-jezior:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1016
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 100
       common_size: 2
@@ -65994,6 +67174,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 363
+    2023-03-05-kraina-jezior:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1015
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 100
       common_size: 2
@@ -66114,6 +67299,11 @@
       common_size: 3
       not_common_size: 0
       days_diff: 883
+    2023-03-05-kraina-jezior:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1009
   quants:
   - lat: 52.4
     lon: 16.4
@@ -66353,6 +67543,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1131
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1234
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1371
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1504
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1525
   quants:
   - lat: 52.4
     lon: 17.2
@@ -66678,6 +67888,11 @@
       common_size: 2
       not_common_size: 3
       days_diff: 576
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 685
     2022-05-01-szybko-do-dobiegniewa:
       common_factor: 20
       common_size: 1
@@ -66896,6 +68111,11 @@
       common_size: 3
       not_common_size: 6
       days_diff: 1030
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 1398
   quants:
   - lat: 53.2
     lon: 16.800001
@@ -67084,6 +68304,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 547
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 656
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 25
       common_size: 1
@@ -67155,6 +68380,11 @@
       common_size: 3
       not_common_size: 4
       days_diff: 1014
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 1382
   quants:
   - lat: 53.2
     lon: 17.2
@@ -68093,6 +69323,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 951
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1016
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1268
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1401
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1421
   quants:
   - lat: 52.4
     lon: 17.4
@@ -68448,6 +69698,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 1017
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1120
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1257
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1390
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1411
   quants:
   - lat: 52.4
     lon: 17.2
@@ -68650,6 +69920,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 1021
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1283
   quants:
   - lat: 51.8
     lon: 16.4
@@ -69463,6 +70738,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 964
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1219
   quants:
   - lat: 52.4
     lon: 16.800001
@@ -69860,6 +71140,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 964
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1219
   quants:
   - lat: 52.4
     lon: 17.0
@@ -70075,6 +71360,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 978
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1218
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1351
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1371
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -70307,6 +71607,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 723
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1165
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -71071,15 +72376,35 @@
       not_common_size: 8
       days_diff: 949
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 10
-      common_size: 1
-      not_common_size: 9
+      common_factor: 20
+      common_size: 2
+      not_common_size: 8
       days_diff: 952
     2023-07-07-przed-fala-upalow:
       common_factor: 20
       common_size: 2
       not_common_size: 8
       days_diff: 964
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
+      days_diff: 1066
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 60
+      common_size: 6
+      not_common_size: 4
+      days_diff: 1204
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 30
+      common_size: 3
+      not_common_size: 7
+      days_diff: 1337
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 30
+      common_size: 3
+      not_common_size: 7
+      days_diff: 1357
   quants:
   - lat: 52.4
     lon: 17.0
@@ -71427,9 +72752,9 @@
       not_common_size: 4
       days_diff: 225
     2021-10-25-jesien-nieudana:
-      common_factor: 20
-      common_size: 1
-      not_common_size: 4
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 282
     2022-01-30-szklarska-wieczorami:
       common_factor: 40
@@ -71769,6 +73094,11 @@
       common_size: 3
       not_common_size: 2
       days_diff: 699
+    2024-01-09-nadeszla-zima:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1086
   quants:
   - lat: 50.600002
     lon: 17.0
@@ -72172,6 +73502,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 611
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1053
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -72672,6 +74007,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 828
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 931
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1068
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1201
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1222
   quants:
   - lat: 52.4
     lon: 17.2
@@ -73109,6 +74464,31 @@
       common_size: 2
       not_common_size: 1
       days_diff: 816
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 919
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1010
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1057
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1189
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1210
   quants:
   - lat: 52.4
     lon: 17.2
@@ -73328,6 +74708,21 @@
       common_size: 1
       not_common_size: 0
       days_diff: 806
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1047
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1179
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1200
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -74023,6 +75418,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 787
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 890
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1027
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1160
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1181
   quants:
   - lat: 52.4
     lon: 17.0
@@ -74240,6 +75655,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 538
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 980
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -74599,6 +76019,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 785
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 888
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1025
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1158
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1179
   quants:
   - lat: 52.4
     lon: 17.2
@@ -74766,6 +76206,11 @@
       common_size: 3
       not_common_size: 5
       days_diff: 525
+    2023-03-05-kraina-jezior:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 651
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 37
       common_size: 3
@@ -75480,6 +76925,26 @@
       common_size: 3
       not_common_size: 3
       days_diff: 767
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 961
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 4
+      not_common_size: 2
+      days_diff: 1007
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1140
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 1161
   quants:
   - lat: 52.4
     lon: 17.0
@@ -76288,6 +77753,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 732
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 835
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 972
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1105
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1126
   quants:
   - lat: 52.4
     lon: 17.2
@@ -76463,6 +77948,26 @@
       common_size: 1
       not_common_size: 2
       days_diff: 686
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 714
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 965
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1098
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1119
   quants:
   - lat: 52.2
     lon: 17.2
@@ -76981,6 +78486,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 15
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 968
   quants:
   - lat: 52.0
     lon: 16.2
@@ -77755,11 +79265,36 @@
       common_size: 2
       not_common_size: 96
       days_diff: 661
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 2
+      common_size: 2
+      not_common_size: 96
+      days_diff: 665
     2023-07-07-przed-fala-upalow:
       common_factor: 2
       common_size: 2
       not_common_size: 96
       days_diff: 676
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 6
+      common_size: 6
+      not_common_size: 92
+      days_diff: 916
+    2024-04-09-poranna-eksploracja-leszna:
+      common_factor: 2
+      common_size: 2
+      not_common_size: 96
+      days_diff: 953
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 3
+      common_size: 3
+      not_common_size: 95
+      days_diff: 1049
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 3
+      common_size: 3
+      not_common_size: 95
+      days_diff: 1070
   quants:
   - lat: 49.600002
     lon: 19.6
@@ -78309,6 +79844,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 669
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 772
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 909
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1042
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1063
   quants:
   - lat: 52.4
     lon: 17.2
@@ -78736,6 +80291,26 @@
       common_size: 4
       not_common_size: 1
       days_diff: 665
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 768
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 905
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 1038
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
+      days_diff: 1059
   quants:
   - lat: 52.4
     lon: 17.2
@@ -79039,6 +80614,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 663
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 857
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 903
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1036
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1057
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -79396,6 +80991,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 663
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 765
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 903
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1036
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1056
   quants:
   - lat: 52.4
     lon: 17.2
@@ -79690,6 +81305,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 649
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 751
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 889
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1022
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1042
   quants:
   - lat: 52.4
     lon: 17.2
@@ -80125,6 +81760,31 @@
       common_size: 2
       not_common_size: 1
       days_diff: 643
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 745
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 836
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 883
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1016
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1036
   quants:
   - lat: 52.4
     lon: 17.2
@@ -80612,6 +82272,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 621
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 876
   quants:
   - lat: 52.4
     lon: 17.0
@@ -80727,6 +82392,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 322
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 876
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -80909,6 +82579,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 386
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 828
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -81267,6 +82942,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 625
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 727
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 865
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 998
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 1019
   quants:
   - lat: 52.4
     lon: 17.2
@@ -81275,103 +82970,140 @@
 2021-10-25-jesien-nieudana:
   related_posts:
     2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 3361
     2012-08-12-kolorowe-jeziorka:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 3360
     2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 3302
     2012-10-10-z-leszczynca-na-skalny-stol:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 3301
-    2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow:
-      common_factor: 100
+    2012-12-10-na-lesista-wielka:
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
+      days_diff: 3240
+    2013-02-07-ze-swieradowa-zdroju-do-chatki-gorzystow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
       days_diff: 3181
     2013-12-01-zejscie-przez-samotnie-do-karpacza:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 2884
     2014-06-19-do-jakuszyc-i-rzut-oka-na-osade-jizerke:
       common_factor: 100
-      common_size: 1
+      common_size: 2
       not_common_size: 0
       days_diff: 2684
     2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 2332
     2016-10-26-opuszczajac-jesienne-rudawy-janowickie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 1825
-    2018-10-09-jesienne-ciechanowice-i-marciszow:
-      common_factor: 100
+    2017-10-19-chwila-w-witkowie:
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
+      days_diff: 1467
+    2017-10-21-pociagiem-przez-gory-sowie:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1465
+    2018-01-20-trudno-trafic-na-zimowy-zachod-slonca:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1374
+    2018-10-09-jesienne-ciechanowice-i-marciszow:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
       days_diff: 1112
     2018-10-10-przelecz-redzinska:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 1111
+    2018-12-09-kiedy-nie-jechac-w-gory:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1050
     2019-05-11-najbardziej-zielona-wiosna:
       common_factor: 100
-      common_size: 1
+      common_size: 2
       not_common_size: 0
       days_diff: 898
     2019-10-11-wschodnie-rudawy-janowickie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 744
-    2020-01-19-wokol-zbiornika-bukowka:
-      common_factor: 100
+    2020-01-17-dotarcie-do-szczawna-zdroj:
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
+      days_diff: 647
+    2020-01-18-prawie-zima-na-trojgarbie:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 646
+    2020-01-19-wokol-zbiornika-bukowka:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
       days_diff: 645
     2021-01-16-prawdziwa-zima:
       common_factor: 100
-      common_size: 1
+      common_size: 2
       not_common_size: 0
       days_diff: 282
     2021-01-17-szukajac-idealnego-zachodu:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 280
     2022-01-30-szklarska-wieczorami:
       common_factor: 100
-      common_size: 1
+      common_size: 2
       not_common_size: 0
       days_diff: 97
     2022-10-16-jesien-minimalna:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 356
     2022-12-18-zdazyc-przed-koncem-zimy:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 419
   quants:
   - lat: 50.8
     lon: 16.0
+  - lat: 50.8
+    lon: 16.2
 2021-11-07-szara-koncowka-jesieni:
   related_posts: {}
   quants: []
@@ -81610,6 +83342,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 603
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 705
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 843
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 976
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 997
   quants:
   - lat: 52.4
     lon: 17.2
@@ -81905,6 +83657,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 578
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 772
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 818
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 951
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 972
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -82268,6 +84040,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 571
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 674
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 812
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 944
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 965
   quants:
   - lat: 52.4
     lon: 17.2
@@ -82530,6 +84322,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 316
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 758
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -82925,6 +84722,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 545
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 800
   quants:
   - lat: 52.4
     lon: 17.0
@@ -83229,15 +85031,30 @@
       not_common_size: 4
       days_diff: 479
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 20
-      common_size: 1
-      not_common_size: 4
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 545
     2023-07-07-przed-fala-upalow:
       common_factor: 20
       common_size: 1
       not_common_size: 4
       days_diff: 556
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 796
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 929
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 950
   quants:
   - lat: 52.4
     lon: 17.4
@@ -83297,6 +85114,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 433
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 109
     2022-05-01-szybko-do-dobiegniewa:
       common_factor: 33
       common_size: 1
@@ -83636,9 +85458,9 @@
       not_common_size: 2
       days_diff: 378
     2021-10-25-jesien-nieudana:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
       days_diff: 97
     2022-10-16-jesien-minimalna:
       common_factor: 33
@@ -83889,6 +85711,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 516
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 619
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 756
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 889
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 910
   quants:
   - lat: 52.4
     lon: 17.2
@@ -83974,6 +85816,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 194
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 749
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -84216,6 +86063,11 @@
       common_size: 1
       not_common_size: 8
       days_diff: 487
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 727
   quants:
   - lat: 52.600002
     lon: 17.6
@@ -84590,6 +86442,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 480
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 583
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 721
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 853
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 874
   quants:
   - lat: 52.4
     lon: 17.2
@@ -85196,6 +87068,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 433
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 688
   quants:
   - lat: 52.2
     lon: 17.0
@@ -85459,56 +87336,88 @@
 2022-04-29-spokoj-i-pagorki:
   related_posts:
     2014-07-12-z-miedzyzdrojow-do-dziwnowka:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 2847
     2015-08-22-z-rebusza-do-cieszyno:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
-      days_diff: 2441
-    2016-07-10-przez-pagorki-do-stargardu:
-      common_factor: 50
-      common_size: 1
       not_common_size: 1
+      days_diff: 2441
+    2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2180
+    2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2147
+    2016-07-10-przez-pagorki-do-stargardu:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 2119
     2016-09-03-zachodnie-okolice-dobiegniewa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 2064
-    2018-04-21-wiosenne-okolice-stargardu:
-      common_factor: 50
+    2016-09-10-z-pily-do-krzyza:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 2057
+    2018-04-21-wiosenne-okolice-stargardu:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 1469
     2019-06-20-parowozem-przez-pile-do-stargardu:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1044
+    2020-06-13-pierwsza-upalna-ucieczka:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 685
+    2020-07-12-puszcza-i-laka-notecka:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 656
     2020-11-03-jesien-w-okolicach-dobiegniewa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 542
-    2022-04-30-kocie-lby-i-piaski:
-      common_factor: 50
+    2022-01-10-co-jest-ciekawego-w-lesie:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 109
+    2022-04-30-kocie-lby-i-piaski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 0
     2022-05-01-szybko-do-dobiegniewa:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 1
     2022-05-03-opuszczenie-majowki-do-choszczna:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3
   quants:
+  - lat: 52.8
+    lon: 16.0
   - lat: 53.0
     lon: 15.6
   - lat: 53.2
@@ -86012,6 +87921,21 @@
       common_size: 2
       not_common_size: 2
       days_diff: 426
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 666
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 799
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 819
   quants:
   - lat: 52.600002
     lon: 17.2
@@ -86258,6 +88182,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 418
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 658
   quants:
   - lat: 52.600002
     lon: 17.800001
@@ -87032,6 +88961,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 388
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 491
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 628
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 761
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 782
   quants:
   - lat: 52.4
     lon: 17.0
@@ -87269,6 +89218,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 385
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 488
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 625
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 758
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 779
   quants:
   - lat: 52.4
     lon: 17.2
@@ -87723,15 +89692,35 @@
       not_common_size: 3
       days_diff: 363
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 50
-      common_size: 2
-      not_common_size: 2
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
       days_diff: 366
     2023-07-07-przed-fala-upalow:
       common_factor: 75
       common_size: 3
       not_common_size: 1
       days_diff: 378
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 480
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 618
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 751
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 772
   quants:
   - lat: 52.4
     lon: 17.2
@@ -88476,6 +90465,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 349
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 452
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 589
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 722
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 743
   quants:
   - lat: 52.4
     lon: 17.0
@@ -89126,6 +91135,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 302
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 557
   quants:
   - lat: 52.2
     lon: 16.800001
@@ -89296,15 +91310,30 @@
       not_common_size: 3
       days_diff: 237
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 25
-      common_size: 1
-      not_common_size: 3
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
       days_diff: 302
     2023-07-07-przed-fala-upalow:
       common_factor: 25
       common_size: 1
       not_common_size: 3
       days_diff: 314
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 554
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 687
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 708
   quants:
   - lat: 52.4
     lon: 17.4
@@ -89606,6 +91635,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 312
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 506
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 552
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 685
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 706
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -90229,15 +92278,35 @@
       not_common_size: 3
       days_diff: 292
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 40
-      common_size: 2
-      not_common_size: 3
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
       days_diff: 295
     2023-07-07-przed-fala-upalow:
       common_factor: 60
       common_size: 3
       not_common_size: 2
       days_diff: 307
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 409
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 5
+      not_common_size: 0
+      days_diff: 547
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 680
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 700
   quants:
   - lat: 52.4
     lon: 17.0
@@ -90558,6 +92627,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 484
+    2023-03-05-kraina-jezior:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 126
     2023-07-21-jak-sie-dostac-do-miedzychodu:
       common_factor: 20
       common_size: 1
@@ -90861,6 +92935,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 64
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 441
   quants:
   - lat: 52.600002
     lon: 17.0
@@ -91406,6 +93485,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 229
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 332
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 470
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 602
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 623
   quants:
   - lat: 52.4
     lon: 17.0
@@ -91779,8 +93878,87 @@
   related_posts: {}
   quants: []
 2023-03-05-kraina-jezior:
-  related_posts: {}
-  quants: []
+  related_posts:
+    2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3232
+    2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2525
+    2016-07-16-najkrotszy-dojazd-do-sierakowa:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 2423
+    2017-05-14-z-nowego-tomysla-przez-okolice-sierakowa-do-wronek:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2120
+    2018-04-08-na-polnoc-do-chrzypska-wielkiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1791
+    2019-11-17-drezyna-do-chrzypska-wielkiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1203
+    2020-02-29-podmokle-tereny-wielkopolski:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1099
+    2020-05-22-dojazd-do-sierakowa-przez-puszcze:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1017
+    2020-05-22-polnocno-zachodnie-okolice-sierakowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1016
+    2020-05-23-kraina-stu-jezior:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1016
+    2020-05-24-puszcza-notecka-i-mialy:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1015
+    2020-05-30-wioski-na-zachod-od-poznania:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1009
+    2021-05-22-najlepsze-co-w-wielkopolsce:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 651
+    2022-10-30-jesien-rowerowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 126
+    2023-07-21-jak-sie-dostac-do-miedzychodu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 138
+  quants:
+  - lat: 52.600002
+    lon: 16.0
+  - lat: 52.600002
+    lon: 16.4
 2023-03-10-zachod-w-wagrowcu:
   related_posts: {}
   quants: []
@@ -92326,6 +94504,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 110
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 213
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 351
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 483
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 504
   quants:
   - lat: 52.4
     lon: 17.0
@@ -92979,6 +95177,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 67
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 170
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 308
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 440
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 461
   quants:
   - lat: 52.4
     lon: 17.0
@@ -93036,6 +95254,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 421
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 367
   quants:
   - lat: 53.0
     lon: 16.800001
@@ -93283,6 +95506,26 @@
       common_size: 1
       not_common_size: 0
       days_diff: 61
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 163
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 301
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 434
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 454
   quants:
   - lat: 52.4
     lon: 17.2
@@ -93638,6 +95881,26 @@
       common_size: 2
       not_common_size: 0
       days_diff: 41
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 143
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 281
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 414
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 435
   quants:
   - lat: 52.4
     lon: 17.2
@@ -94125,6 +96388,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 25
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 280
   quants:
   - lat: 52.2
     lon: 17.0
@@ -94234,246 +96502,298 @@
 2023-06-25-szukajac-pofalowanych-pol:
   related_posts:
     2013-08-04-w-strone-skokow-po-raz-1-szy:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3611
     2013-08-24-przez-puszcze-zielonke-do-biskupic:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3591
     2013-08-25-w-strone-skokow-po-raz-2-gi:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3590
     2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3576
     2014-03-29-petla-wokol-murowanej-gosliny:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3374
     2014-05-23-przez-puszcze-zielonke:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3319
     2014-07-02-w-strone-skokow-po-raz-3-ci:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3279
     2015-03-18-w-strone-skokow-po-raz-4-ty:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 3020
     2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
       common_factor: 100
-      common_size: 2
+      common_size: 3
       not_common_size: 0
       days_diff: 2853
     2016-04-17-wloczac-sie-wokol-skokow:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 2625
     2016-08-06-przejazd-pociagiem-do-czarnkowa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 2513
     2016-09-25-ze-skokow-do-janikowa:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
-      days_diff: 2464
-    2017-07-18-krotka-ucieczka-do-lopuchowa:
-      common_factor: 50
-      common_size: 1
       not_common_size: 1
+      days_diff: 2464
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2265
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 2167
     2017-11-05-lesne-okolice-lopuchowa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 2057
     2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1932
     2018-04-07-lasami-z-nekli-do-promna:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 1905
-    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
-      common_factor: 50
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 1895
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 1708
     2019-04-06-zachodnie-okolice-skokow:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1541
-    2019-12-01-eksploracja-warmii-samochodem:
-      common_factor: 50
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 33
       common_size: 1
+      not_common_size: 2
+      days_diff: 1540
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1498
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 1302
     2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1191
     2020-05-02-pomiedzy-promnem-a-kiszkowem:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1149
     2020-05-17-zachodnie-okolice-lopuchowa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1133
-    2020-09-22-ostatnie-podrygi-lata:
-      common_factor: 50
+    2020-09-12-nekielskie-lasy:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 1016
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 1006
     2020-11-01-okolica-jeziora-brzezno:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 966
     2020-11-15-piekna-wiosna-tej-jesieni:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 952
     2021-03-31-przedwiosnie-obok-zielonki:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 816
     2021-04-11-koniec-lenistwa:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 805
     2021-04-24-szukajac-wiosny:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 795
     2021-05-12-przed-i-po-burzy:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 773
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 756
-    2021-08-29-petla-po-polsce:
-      common_factor: 50
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 33
       common_size: 1
+      not_common_size: 2
+      days_diff: 714
+    2021-08-29-petla-po-polsce:
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 665
     2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 657
     2021-09-09-z-pobiedzisk-do-wagrowca:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 653
     2021-09-11-rezerwat-jezioro-czarne:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 651
     2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 651
     2021-10-02-nie-ten-rower-co-trzeba:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 631
     2021-10-20-jesien-awaryjna:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 613
     2021-12-05-zamiec:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 567
     2021-12-12-zimowa-mgla:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 560
     2021-12-27-zachod-slonca-w-dusznie:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 545
     2022-03-13-rowerowe-rozpoczecie-sezonu:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 469
     2022-05-07-nie-trzeba-jechac-daleko:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 414
     2022-06-24-przed-upalem:
       common_factor: 100
-      common_size: 2
+      common_size: 3
       not_common_size: 0
       days_diff: 366
     2022-08-27-goracy-poranek-obok-gniezna:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 302
     2022-08-28-brzezno-wioska-kotow:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 301
     2022-09-03-lednogora-i-okolice:
       common_factor: 100
-      common_size: 2
+      common_size: 3
       not_common_size: 0
       days_diff: 295
-    2023-05-27-piaszczysta-puszcza-zielonka:
-      common_factor: 50
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 65
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 29
     2023-07-07-przed-fala-upalow:
-      common_factor: 100
+      common_factor: 66
       common_size: 2
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 11
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 251
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 384
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
+      days_diff: 405
   quants:
+  - lat: 52.4
+    lon: 17.4
   - lat: 52.600002
     lon: 17.2
   - lat: 52.600002
@@ -94900,6 +97220,26 @@
       common_size: 2
       not_common_size: 2
       days_diff: 11
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 102
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 240
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 373
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 393
   quants:
   - lat: 52.4
     lon: 17.2
@@ -95036,6 +97376,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 264
+    2023-03-05-kraina-jezior:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 138
     2023-08-05-jedna-z-ladniejszych-wiosek:
       common_factor: 14
       common_size: 1
@@ -95633,6 +97978,26 @@
       common_size: 1
       not_common_size: 1
       days_diff: 14
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 117
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 255
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 387
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 408
   quants:
   - lat: 52.4
     lon: 17.0
@@ -95890,11 +98255,36 @@
       common_size: 1
       not_common_size: 1
       days_diff: 62
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 65
     2023-07-07-przed-fala-upalow:
       common_factor: 50
       common_size: 1
       not_common_size: 1
       days_diff: 77
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 179
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 317
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 450
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 470
   quants:
   - lat: 52.4
     lon: 17.2
@@ -95940,3 +98330,2204 @@
   quants:
   - lat: 52.600002
     lon: 16.6
+2024-01-09-nadeszla-zima:
+  related_posts:
+    2016-04-29-dojazd-na-majowke-do-klodzka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2811
+    2016-04-30-przez-srebrna-gore-do-henrykowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2809
+    2018-07-08-wschodnie-przedgorze-sudeckie:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2010
+    2021-01-17-szukajac-idealnego-zachodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1086
+  quants:
+  - lat: 50.600002
+    lon: 17.0
+2024-01-17-jeszcze-lepsza-zima:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3817
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3797
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3796
+    2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3600
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3580
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3525
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3485
+    2014-08-24-petla-przez-dziewicza-gore:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3432
+    2014-08-31-powrot-z-rogozna-do-poznania:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3425
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3226
+    2015-04-18-kolko-przez-poligon-w-biedrusku:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3195
+    2015-05-22-w-strone-skokow-po-raz-5:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3161
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3059
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2719
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2373
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2263
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2137
+    2018-07-01-spacer-po-murowanej-goslinie:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2025
+    2019-03-17-trojanowo-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1766
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1746
+    2019-06-16-okolice-murowanej-gosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1675
+    2019-10-06-jesienne-okolice-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1563
+    2020-02-22-wyjatkowa-zima-w-sniezycowym-jarze:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1424
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1339
+    2020-11-07-szary-listopad:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1165
+    2021-02-27-uroczyska-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1053
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1010
+    2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 980
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 961
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 857
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 836
+    2021-10-10-dolina-rzeki-trojanki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 828
+    2021-12-05-zamiec:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 772
+    2021-12-19-szare-owinska:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 758
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 506
+    2022-11-01-las-niedaleko-lopuchowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 441
+  quants:
+  - lat: 52.600002
+    lon: 17.0
+2024-05-03-dawno-nie-bylo-tak-ciezko:
+  related_posts:
+    2016-07-30-z-pily-do-bydgoszczy-przez-bagdad:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2834
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2578
+    2017-06-24-pochmurny-krajenski-park-krajobrazowy:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2505
+    2017-06-25-dojazd-do-tucholi:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2504
+    2017-07-08-pomorska-petla-kolejowa:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2490
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2208
+    2018-04-28-dojazd-na-majowke-na-kaszubach:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2196
+    2018-04-29-swornegacie-i-zaborski-park-krajobrazowy:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2196
+    2018-05-04-przez-trzy-wojewodztwa-do-krajenskiego-parku:
+      common_factor: 42
+      common_size: 3
+      not_common_size: 4
+      days_diff: 2191
+    2018-06-15-czluchow-i-jezioro-buszewskie:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2148
+    2018-06-16-prawdopodobnie-ostatni-pociag-do-przechlewa:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 2148
+    2020-07-04-poludniowe-okolice-krajenskiego-parku:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 1398
+    2020-07-21-szukajac-zboza-przed-zniwami:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 1382
+    2023-05-01-majowki-w-tym-roku-nie-ma:
+      common_factor: 28
+      common_size: 2
+      not_common_size: 5
+      days_diff: 367
+  quants:
+  - lat: 53.2
+    lon: 18.0
+  - lat: 53.4
+    lon: 16.800001
+  - lat: 53.4
+    lon: 17.0
+  - lat: 53.600002
+    lon: 17.2
+  - lat: 53.600002
+    lon: 17.4
+  - lat: 53.600002
+    lon: 17.6
+  - lat: 53.600002
+    lon: 17.800001
+2024-07-14-lekko-wokol-pobiedzisk:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3996
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3976
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3975
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3961
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3759
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3704
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3664
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3405
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 3238
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3009
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2898
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2848
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2688
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2650
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2552
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2442
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2317
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 2290
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2280
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2141
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2093
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1926
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1924
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1883
+    2019-06-15-okolice-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1855
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1803
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1686
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1576
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1534
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1520
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1518
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1504
+    2020-09-12-nekielskie-lasy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1401
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1390
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1351
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1337
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1201
+    2021-04-11-koniec-lenistwa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1189
+    2021-04-24-szukajac-wiosny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1179
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1160
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1158
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1140
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1105
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1098
+    2021-08-29-petla-po-polsce:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1049
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1042
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1038
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1036
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1036
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1022
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1016
+    2021-10-20-jesien-awaryjna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 998
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 976
+    2021-12-05-zamiec:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 951
+    2021-12-12-zimowa-mgla:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 944
+    2021-12-27-zachod-slonca-w-dusznie:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 929
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 889
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 853
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 799
+    2022-06-13-szukajac-makow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 761
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 758
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 751
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 722
+    2022-08-27-goracy-poranek-obok-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 687
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 685
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 680
+    2022-11-19-atak-zimy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 602
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 483
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 450
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 440
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 434
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 414
+    2023-06-22-powrot-do-jezdzenia:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 387
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 384
+    2023-07-07-przed-fala-upalow:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 373
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 270
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 132
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 20
+  quants:
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.4
+    lon: 17.4
+  - lat: 52.600002
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.4
+2023-10-18-mgielki-w-pobiedziskach:
+  related_posts:
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3706
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3691
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2418
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2380
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2019
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2010
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1871
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1822
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1654
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1612
+    2019-06-15-okolice-promna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1585
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1533
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1416
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1263
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1249
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1234
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1120
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1066
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 931
+    2021-04-11-koniec-lenistwa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 919
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 890
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 888
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 835
+    2021-08-29-petla-po-polsce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 779
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 772
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 768
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 765
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 751
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 745
+    2021-10-20-jesien-awaryjna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 727
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 705
+    2021-12-12-zimowa-mgla:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 674
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 619
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 583
+    2022-06-13-szukajac-makow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 491
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 488
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 480
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 452
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 409
+    2022-11-19-atak-zimy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 332
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 213
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 179
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 170
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 163
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 143
+    2023-06-22-powrot-do-jezdzenia:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 117
+    2023-07-07-przed-fala-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 102
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 137
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 270
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 291
+  quants:
+  - lat: 52.4
+    lon: 17.2
+2023-11-11-kolata-z-drona:
+  related_posts: {}
+  quants: []
+2023-12-03-zimowe-jeziora-wagrowca:
+  related_posts: {}
+  quants: []
+2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3863
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 3843
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3842
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 3828
+    2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3646
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3626
+    2014-03-30-do-puszczykowa:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3625
+    2014-04-06-przejazdzka-na-dziewicza-gore:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3618
+    2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3599
+    2014-05-01-przejazdzka-do-kornika:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3593
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3571
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3531
+    2014-08-24-petla-przez-dziewicza-gore:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3478
+    2014-08-31-powrot-z-rogozna-do-poznania:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3471
+    2014-11-11-wokol-jeziora-kierskiego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3399
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 3272
+    2015-04-18-kolko-przez-poligon-w-biedrusku:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3241
+    2015-05-22-w-strone-skokow-po-raz-5:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3207
+    2015-05-24-w-strone-sremu-ale-bez-niego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3205
+    2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3199
+    2015-06-27-zachod-od-poznania-do-opalenicy:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3171
+    2015-08-02-szybki-kurs-do-janikowa:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3135
+    2015-08-09-do-gluszynki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 3128
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 3105
+    2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2879
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2876
+    2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2871
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2765
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2716
+    2016-10-10-poszukiwanie-jesieni-na-legach-debinskich:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2701
+    2016-10-14-poranek-nad-warta:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2697
+    2016-10-20-radojewo-i-okolice-warty:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2691
+    2016-11-25-mgliste-legi-debinskie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2655
+    2016-12-06-lekko-mglisty-rynek-poznania:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2643
+    2016-12-17-poranny-szron-na-debcu:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2633
+    2017-01-18-biale-radojewo:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2601
+    2017-01-29-zimowa-okolica-rzeki-gluszynki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2589
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2555
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 62
+      common_size: 5
+      not_common_size: 3
+      days_diff: 2517
+    2017-04-16-paluckie-pagorki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2513
+    2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2485
+    2017-07-06-popoludniowa-ucieczka-do-szamotul:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2431
+    2017-07-16-okolice-jeziora-kamienieckiego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2421
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2419
+    2017-08-05-petla-przez-skorzecin:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2402
+    2017-08-26-z-gniezna-do-srody-wielkopolskiej:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2381
+    2017-09-19-krotka-ucieczka-w-strone-obornik:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2357
+    2017-11-04-poludniowo-zachodnia-sypialnia-poznania:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2311
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2309
+    2017-11-30-szare-legi-debinskie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2285
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2184
+    2018-03-21-prawie-wiosna-w-radojewie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2174
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 2157
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 2147
+    2018-07-29-okolica-jankowa-dolnego:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2043
+    2018-08-27-dwa-dni-nostalgii-kolejowej:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 2014
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 2009
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1960
+    2019-03-24-krotki-spacer-w-gluszynie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1806
+    2019-03-31-kokoryczkowe-wzgorze:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1799
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1793
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1792
+    2019-04-18-ucieczka-do-wpn:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1780
+    2019-04-22-kolejny-dojazd-do-opalenicy:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1777
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 62
+      common_size: 5
+      not_common_size: 3
+      days_diff: 1750
+    2019-06-15-okolice-promna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1723
+    2019-06-20-parowozem-przez-pile-do-stargardu:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1718
+    2019-07-28-eksploracja-jezior-mogilna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1679
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1670
+    2019-09-07-kolejowa-okolica-zagania:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1638
+    2019-09-28-z-kobylnicy-do-kicina:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1617
+    2019-10-06-jesienne-okolice-puszczy-zielonki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1610
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 75
+      common_size: 6
+      not_common_size: 2
+      days_diff: 1554
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1443
+    2020-04-20-jak-wyjscie-z-wiezienia:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1412
+    2020-04-23-wiosenna-gluszyna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1409
+    2020-04-25-okolica-wierzonki-rowerem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1407
+    2020-04-26-nadwarcianskie-lasy-radojewa:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1407
+    2020-05-01-wiosenny-wpn:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1401
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1401
+    2020-05-08-setka-w-czasie-zarazy:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1395
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1387
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1385
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1371
+    2020-09-12-nekielskie-lasy:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1268
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1257
+    2020-10-30-deszczowy-poznan:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1219
+    2020-10-31-slady-jesieni:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1219
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1218
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 75
+      common_size: 6
+      not_common_size: 2
+      days_diff: 1204
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1068
+    2021-04-11-koniec-lenistwa:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1057
+    2021-04-24-szukajac-wiosny:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 1047
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1027
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 1025
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 1007
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 972
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 965
+    2021-08-29-petla-po-polsce:
+      common_factor: 75
+      common_size: 6
+      not_common_size: 2
+      days_diff: 916
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 909
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 905
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 903
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 903
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 889
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 883
+    2021-10-08-stabilizacja-olympusa-300mm:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 876
+    2021-10-09-okolice-jeziora-folusz:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 876
+    2021-10-20-jesien-awaryjna:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 865
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 843
+    2021-12-05-zamiec:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 818
+    2021-12-12-zimowa-mgla:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 812
+    2021-12-23-zamiec-2:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 800
+    2021-12-27-zachod-slonca-w-dusznie:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 796
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 756
+    2022-02-13-wokol-jeziora-wierzbiczanskiego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 749
+    2022-03-06-eksploracja-polnocno-wschodniej-wielkopolski:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 727
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 721
+    2022-04-14-szukajac-wiosny-w-okolicy-kornika:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 688
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 666
+    2022-05-14-okolice-welny-z-wiatrem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 658
+    2022-06-13-szukajac-makow:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 628
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 625
+    2022-06-24-przed-upalem:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 618
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 589
+    2022-08-23-wzdluz-warty:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 557
+    2022-08-27-goracy-poranek-obok-gniezna:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 554
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 552
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 62
+      common_size: 5
+      not_common_size: 3
+      days_diff: 547
+    2022-11-19-atak-zimy:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 470
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 351
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 317
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 308
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 301
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 281
+    2023-05-28-cieply-poranek:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 280
+    2023-06-22-powrot-do-jezdzenia:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 255
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 251
+    2023-07-07-przed-fala-upalow:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
+      days_diff: 240
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 137
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 132
+    2024-08-04-zablokowany-przez-rosliny:
+      common_factor: 50
+      common_size: 4
+      not_common_size: 4
+      days_diff: 153
+  quants:
+  - lat: 52.4
+    lon: 17.0
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.4
+    lon: 17.4
+  - lat: 52.4
+    lon: 17.6
+  - lat: 52.600002
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.4
+  - lat: 52.600002
+    lon: 17.6
+  - lat: 52.600002
+    lon: 17.800001
+2024-04-07-dron-pod-wagrowcem:
+  related_posts: {}
+  quants: []
+2024-04-09-poranna-eksploracja-leszna:
+  related_posts:
+    2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 3180
+    2016-04-03-z-mosiny-do-kosciana:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2927
+    2017-03-25-z-kosciana-przez-dolsk-w-strone-jarocina:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2571
+    2017-04-01-z-leszna-przez-przemecki-park-krajobrazowy-do-opalenicy:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2564
+    2017-08-08-z-kosciana-do-opalenicy:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2435
+    2018-03-25-z-bojanowa-do-kosciana:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2206
+    2018-05-21-z-jarocina-przez-krobie-do-rydzyny:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2149
+    2019-02-17-polowanie-na-koty:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1877
+    2019-07-07-wyjatkowo-zimny-weekend-tego-lata:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1737
+    2020-10-03-szybki-przejazd-zachodnia-wielkopolska:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1283
+    2021-08-14-tam-gdzie-woda-tam-tlumy:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 968
+    2021-08-29-petla-po-polsce:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 953
+  quants:
+  - lat: 51.8
+    lon: 16.6
+  - lat: 52.0
+    lon: 16.6
+  - lat: 52.0
+    lon: 16.800001
+2024-04-21-siedlecin-i-okolice:
+  related_posts:
+    2015-06-05-wokol-jeleniej-gory:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3242
+    2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2811
+    2017-04-30-ze-swierzawy-do-gryfowa-slaskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2547
+    2017-05-02-pociagiem-pierscien-i-granica:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2545
+    2017-10-17-jesienne-pilchowice:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2377
+  quants:
+  - lat: 51.0
+    lon: 15.6
+2024-07-06-jezioro-debiniec:
+  related_posts: {}
+  quants: []
+2024-07-10-burzowe-chmury-i-pole-rzepaku:
+  related_posts: {}
+  quants: []
+2024-08-04-zablokowany-przez-rosliny:
+  related_posts:
+    2013-08-04-w-strone-skokow-po-raz-1-szy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 4017
+    2013-08-24-przez-puszcze-zielonke-do-biskupic:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3997
+    2013-08-25-w-strone-skokow-po-raz-2-gi:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3996
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 3982
+    2014-03-29-petla-wokol-murowanej-gosliny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3780
+    2014-05-23-przez-puszcze-zielonke:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3725
+    2014-07-02-w-strone-skokow-po-raz-3-ci:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3685
+    2015-03-18-w-strone-skokow-po-raz-4-ty:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3426
+    2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 3259
+    2016-04-17-wloczac-sie-wokol-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3030
+    2016-08-06-przejazd-pociagiem-do-czarnkowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2919
+    2016-09-25-ze-skokow-do-janikowa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2869
+    2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2709
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2671
+    2017-07-18-krotka-ucieczka-do-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2573
+    2017-11-05-lesne-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2463
+    2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2337
+    2018-04-07-lasami-z-nekli-do-promna:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 2310
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2301
+    2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 2162
+    2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 2113
+    2019-04-06-zachodnie-okolice-skokow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1947
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1945
+    2019-05-19-z-trzemeszna-do-poznania:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1904
+    2019-06-15-okolice-promna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1876
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1824
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1707
+    2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1596
+    2020-05-02-pomiedzy-promnem-a-kiszkowem:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1554
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1541
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1539
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1525
+    2020-09-12-nekielskie-lasy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1421
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1411
+    2020-11-01-okolica-jeziora-brzezno:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1371
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1357
+    2021-03-31-przedwiosnie-obok-zielonki:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1222
+    2021-04-11-koniec-lenistwa:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1210
+    2021-04-24-szukajac-wiosny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1200
+    2021-05-10-ucieczka-do-kobylnicy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1181
+    2021-05-12-przed-i-po-burzy:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1179
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1161
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1126
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1119
+    2021-08-29-petla-po-polsce:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1070
+    2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1063
+    2021-09-09-z-pobiedzisk-do-wagrowca:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 1059
+    2021-09-11-rezerwat-jezioro-czarne:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1057
+    2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1056
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 1042
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1036
+    2021-10-20-jesien-awaryjna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1019
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 997
+    2021-12-05-zamiec:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 972
+    2021-12-12-zimowa-mgla:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 965
+    2021-12-27-zachod-slonca-w-dusznie:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 950
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 910
+    2022-03-13-rowerowe-rozpoczecie-sezonu:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 874
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 819
+    2022-06-13-szukajac-makow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 782
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 779
+    2022-06-24-przed-upalem:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 772
+    2022-07-22-pole-podczas-zachodu:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 743
+    2022-08-27-goracy-poranek-obok-gniezna:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 708
+    2022-08-28-brzezno-wioska-kotow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 706
+    2022-09-03-lednogora-i-okolice:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 700
+    2022-11-19-atak-zimy:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 623
+    2023-03-18-okolice-jeziora-kowalskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 504
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 470
+    2023-04-30-jak-to-z-ta-wiosna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 461
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 454
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 435
+    2023-06-22-powrot-do-jezdzenia:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 408
+    2023-06-25-szukajac-pofalowanych-pol:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 405
+    2023-07-07-przed-fala-upalow:
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 393
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 291
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 153
+    2024-07-14-lekko-wokol-pobiedzisk:
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
+      days_diff: 20
+  quants:
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.4
+    lon: 17.4
+  - lat: 52.600002
+    lon: 17.2
+  - lat: 52.600002
+    lon: 17.4
+2023-08-26-studzieniec:
+  related_posts: {}
+  quants: []
+2023-09-10-wschod-i-zachod-w-kolobrzegu:
+  related_posts: {}
+  quants: []
+2020-08-01-wieczor-w-swiebodzinie:
+  related_posts: {}
+  quants: []

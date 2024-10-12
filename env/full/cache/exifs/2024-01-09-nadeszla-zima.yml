@@ -1,0 +1,833 @@
+---
+- image_filename: 2024_01_09__15_31_DJI_0861.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 200.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:31:24.000000000+01:00
+- image_filename: 2024_01_09__15_25_DJI_0833.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 141.3
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 7988
+  height: 5947
+  camera: FC3582
+  time: 2024-01-09 15:25:07.000000000+01:00
+- image_filename: 2024_01_09__15_27_DJI_0844.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 200.6
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:27:49.000000000+01:00
+- image_filename: 2024_01_09__15_36_DJI_0879.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 201.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:36:06.000000000+01:00
+- image_filename: 2024_01_09__15_32_DJI_0866.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 199.7
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:32:36.000000000+01:00
+- image_filename: 2024_01_09__15_30_DJI_0854.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 199.1
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 200
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:30:01.000000000+01:00
+- image_filename: 2024_01_09__15_37_DJI_0884.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 109.4
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 160
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:37:25.000000000+01:00
+- image_filename: 2024_01_09__15_26_DJI_0840.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 184.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:26:39.000000000+01:00
+- image_filename: 2024_01_09__15_31_DJI_0859.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 200.2
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  time: 2024-01-09 15:31:06.000000000+01:00
+- image_filename: 2024_01_09__15_29_DJI_0852.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 199.0
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:29:43.000000000+01:00
+- image_filename: 2024_01_09__15_35_DJI_0876.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.583333333333336
+  lon: 17.066666666666666
+  altitude: 199.5
+  focal_length: 6.7
+  focal_length_35: 24.0
+  crop: 3.582089552238806
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  time: 2024-01-09 15:35:14.000000000+01:00
+- image_filename: 2024_01_09__13_51_P1090135.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.605000000000004
+  lon: 17.038333333333334
+  altitude: 204.0
+  focal_length: 25.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 4.84
+  iso: 200
+  width: 7691
+  height: 5206
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 13:51:22.000000000+01:00
+- image_filename: 2024_01_09__13_56_P1090138.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60388888888889
+  lon: 17.040277777777778
+  altitude: 207.0
+  focal_length: 16.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1000.0
+  iso: 200
+  width: 7948
+  height: 5443
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 13:56:02.000000000+01:00
+- image_filename: 2024_01_09__13_56_P1090139.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60333333333333
+  lon: 17.040555555555557
+  altitude: 207.0
+  focal_length: 23.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 2.86
+  iso: 200
+  width: 8021
+  height: 6062
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 13:56:51.000000000+01:00
+- image_filename: 2024_01_09__13_59_P1090141.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60194444444445
+  lon: 17.040833333333335
+  altitude: 208.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.47
+  iso: 200
+  width: 6795
+  height: 4874
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 13:59:21.000000000+01:00
+- image_filename: 2024_01_09__13_57_P1090140.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60305555555556
+  lon: 17.041111111111114
+  altitude: 207.0
+  focal_length: 12.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.65
+  iso: 200
+  width: 7680
+  height: 5661
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 13:57:32.000000000+01:00
+- image_filename: 2024_01_09__14_01_P1090146.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60111111111111
+  lon: 17.04138888888889
+  altitude: 213.0
+  focal_length: 12.0
+  aperture: 8.0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  focus_distance: 1.59
+  iso: 200
+  width: 7636
+  height: 5980
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:01:35.000000000+01:00
+- image_filename: 2024_01_09__14_00_P1090143.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60166666666667
+  lon: 17.041111111111114
+  altitude: 211.0
+  focal_length: 12.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.48
+  iso: 200
+  width: 7695
+  height: 6084
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:00:40.000000000+01:00
+- image_filename: 2024_01_09__14_06_P1090150.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.59916666666667
+  lon: 17.039444444444445
+  altitude: 215.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.53
+  iso: 200
+  width: 6938
+  height: 5921
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:06:03.000000000+01:00
+- image_filename: 2024_01_09__14_02_P1090147.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.600833333333334
+  lon: 17.04138888888889
+  altitude: 215.0
+  focal_length: 21.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.59
+  iso: 200
+  width: 5961
+  height: 7770
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:02:13.000000000+01:00
+- image_filename: 2024_01_09__14_14_P1090154.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.59305555555556
+  lon: 17.036944444444448
+  altitude: 223.0
+  focal_length: 92.0
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 38.46
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:14:27.000000000+01:00
+- image_filename: 2024_01_09__14_09_P1090151.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.59638888888889
+  lon: 17.036944444444448
+  altitude: 218.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.48
+  iso: 200
+  width: 7137
+  height: 5572
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:09:47.000000000+01:00
+- image_filename: 2024_01_09__14_35_P1090158.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.591944444444444
+  lon: 17.039166666666667
+  altitude: 224.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.75
+  iso: 200
+  width: 8012
+  height: 5919
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:35:11.000000000+01:00
+- image_filename: 2024_01_09__14_37_P1090161.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.590833333333336
+  lon: 17.040833333333335
+  altitude: 223.0
+  focal_length: 12.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.67
+  iso: 200
+  width: 8012
+  height: 5919
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:37:34.000000000+01:00
+- image_filename: 2024_01_09__14_40_P1090163.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58916666666667
+  lon: 17.042222222222225
+  altitude: 223.0
+  focal_length: 31.0
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 7.51
+  iso: 200
+  width: 7947
+  height: 5829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:40:58.000000000+01:00
+- image_filename: 2024_01_09__14_40_P1090162.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.589444444444446
+  lon: 17.041944444444447
+  altitude: 222.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.73
+  iso: 200
+  width: 7879
+  height: 5743
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:40:13.000000000+01:00
+- image_filename: 2024_01_09__14_50_P1090173.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.586111111111116
+  lon: 17.05138888888889
+  altitude: 235.0
+  focal_length: 23.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 2.52
+  iso: 200
+  width: 8005
+  height: 5910
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:50:55.000000000+01:00
+- image_filename: 2024_01_09__14_43_P1090166.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58888888888889
+  lon: 17.044444444444448
+  altitude: 225.0
+  focal_length: 66.0
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 17.05
+  iso: 200
+  width: 7874
+  height: 5723
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:43:09.000000000+01:00
+- image_filename: 2024_01_09__14_47_P1090171.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58777777777778
+  lon: 17.047777777777778
+  altitude: 227.0
+  focal_length: 34.0
+  aperture: 5.0
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 6.96
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 14:47:03.000000000+01:00
+- image_filename: 2024_01_09__15_05_P1090180.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58555555555556
+  lon: 17.052777777777777
+  altitude: 243.0
+  focal_length: 61.0
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  focus_distance: 14.78
+  iso: 200
+  width: 8012
+  height: 5919
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:05:35.000000000+01:00
+- image_filename: 2024_01_09__15_07_P1090183.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58527777777778
+  lon: 17.05388888888889
+  altitude: 246.0
+  focal_length: 18.0
+  aperture: 5.0
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.91
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:07:12.000000000+01:00
+- image_filename: 2024_01_09__15_08_P1090184.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.584722222222226
+  lon: 17.054722222222225
+  altitude: 249.0
+  focal_length: 34.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 8.02
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:08:39.000000000+01:00
+- image_filename: 2024_01_09__15_09_P1090186.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58416666666667
+  lon: 17.05527777777778
+  altitude: 249.0
+  focal_length: 80.0
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  focus_distance: 29.1
+  iso: 200
+  width: 8012
+  height: 5919
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:09:26.000000000+01:00
+- image_filename: 2024_01_09__15_11_P1090192.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58388888888889
+  lon: 17.05611111111111
+  altitude: 249.0
+  focal_length: 100.0
+  aperture: 8.0
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  focus_distance: 64.75
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:11:42.000000000+01:00
+- image_filename: 2024_01_09__15_12_P1090194.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58388888888889
+  lon: 17.05638888888889
+  altitude: 249.0
+  focal_length: 31.0
+  aperture: 9.0
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  focus_distance: 6.77
+  iso: 200
+  width: 7503
+  height: 5444
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:12:23.000000000+01:00
+- image_filename: 2024_01_09__15_11_P1090193.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58388888888889
+  lon: 17.05611111111111
+  altitude: 249.0
+  focal_length: 23.0
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  focus_distance: 3.04
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:11:57.000000000+01:00
+- image_filename: 2024_01_09__15_12_P1090195.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58361111111111
+  lon: 17.056944444444444
+  altitude: 250.0
+  focal_length: 12.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 1.17
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:12:59.000000000+01:00
+- image_filename: 2024_01_09__15_14_P1090198.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58305555555556
+  lon: 17.0575
+  altitude: 251.0
+  focal_length: 38.0
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 10.98
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:14:00.000000000+01:00
+- image_filename: 2024_01_09__15_14_P1090201.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58305555555556
+  lon: 17.05777777777778
+  altitude: 252.0
+  focal_length: 57.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 12.26
+  iso: 200
+  width: 8003
+  height: 5846
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:14:46.000000000+01:00
+- image_filename: 2024_01_09__15_39_P1090208.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58166666666667
+  lon: 17.060000000000002
+  altitude: 250.0
+  focal_length: 8.0
+  aperture: 5.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 1.35
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  time: 2024-01-09 15:39:08.000000000+01:00
+- image_filename: 2024_01_09__15_41_P1090216.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58222222222223
+  lon: 17.059166666666666
+  altitude: 249.0
+  focal_length: 18.0
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 0.23
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  time: 2024-01-09 15:41:11.000000000+01:00
+- image_filename: 2024_01_09__15_44_P1090220.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58305555555556
+  lon: 17.05777777777778
+  altitude: 248.0
+  focal_length: 12.0
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 1.79
+  iso: 200
+  width: 8012
+  height: 5919
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:44:17.000000000+01:00
+- image_filename: 2024_01_09__15_44_P1090222.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58305555555556
+  lon: 17.05777777777778
+  altitude: 248.0
+  focal_length: 41.0
+  aperture: 4.0
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  focus_distance: 8.31
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:44:45.000000000+01:00
+- image_filename: 2024_01_09__15_46_P1090225.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58361111111111
+  lon: 17.05638888888889
+  altitude: 245.0
+  focal_length: 34.0
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  focus_distance: 12.9
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:46:31.000000000+01:00
+- image_filename: 2024_01_09__15_46_P1090226.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58388888888889
+  lon: 17.05611111111111
+  altitude: 245.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 49.49
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:46:42.000000000+01:00
+- image_filename: 2024_01_09__15_48_P1090230.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58444444444444
+  lon: 17.055
+  altitude: 244.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.005
+  exposure_string: 1/200 s
+  focus_distance: 59.15
+  iso: 200
+  width: 7709
+  height: 5662
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:48:39.000000000+01:00
+- image_filename: 2024_01_09__15_54_P1090241.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58638888888889
+  lon: 17.050833333333333
+  altitude: 230.0
+  focal_length: 100.0
+  aperture: 4.0
+  exposure: 0.04
+  exposure_string: 1/25 s
+  focus_distance: 59.15
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:54:09.000000000+01:00
+- image_filename: 2024_01_09__15_55_P1090242.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58694444444445
+  lon: 17.049444444444447
+  altitude: 226.0
+  focal_length: 75.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.11
+  iso: 1000
+  width: 4432
+  height: 2636
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:55:31.000000000+01:00
+- image_filename: 2024_01_09__15_56_P1090243.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.58722222222222
+  lon: 17.04888888888889
+  altitude: 225.0
+  focal_length: 75.0
+  aperture: 4.0
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  focus_distance: 1.12
+  iso: 1000
+  width: 4285
+  height: 2550
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  time: 2024-01-09 15:56:15.000000000+01:00
+- image_filename: 2024_01_09__17_15_P1090245.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.602222222222224
+  lon: 17.040277777777778
+  altitude: 214.0
+  focal_length: 8.0
+  aperture: 2.8
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 4.78
+  iso: 200
+  width: 6989
+  height: 5444
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  time: 2024-01-09 17:15:53.000000000+01:00
+- image_filename: 2024_01_09__17_32_P1090260.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.608333333333334
+  lon: 17.03388888888889
+  altitude: 203.0
+  focal_length: 8.0
+  aperture: 2.8
+  exposure: 4.0
+  exposure_string: 0.4 s
+  focus_distance: 1.49
+  iso: 200
+  width: 4988
+  height: 3843
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  time: 2024-01-09 17:32:02.000000000+01:00
+- image_filename: 2024_01_09__17_17_P1090246.jpg
+  post_slug: 2024-01-09-nadeszla-zima
+  lat: 50.60138888888889
+  lon: 17.040555555555557
+  altitude: 212.0
+  focal_length: 8.0
+  aperture: 2.8
+  exposure: 1.0
+  exposure_string: 1 s
+  focus_distance: 1.38
+  iso: 200
+  width: 4224
+  height: 3213
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  time: 2024-01-09 17:17:32.000000000+01:00

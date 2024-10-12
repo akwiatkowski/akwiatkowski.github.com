@@ -1,29 +1,29 @@
 ---
-bicycle_distance: 15040
-bicycle_time_length: 1509
-bicycle_count: 276
-hike_distance: 2519
-hike_time_length: 1062
-hike_count: 238
+bicycle_distance: 15201
+bicycle_time_length: 1525
+bicycle_count: 282
+hike_distance: 2543
+hike_time_length: 1127
+hike_count: 242
 train_distance: 5803
 train_time_length: 198
 train_count: 29
-self_distance: 17559
-self_time_length: 2571
-updated_at: 2024-02-10 13:54:38.712213915+01:00
+self_distance: 17744
+self_time_length: 2652
+updated_at: 2024-10-10 18:26:24.274089141+02:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
-  count: 127
+  count: 131
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 41
+  count: 42
 - name: Łódzkie
   url: /voivodeship/lodzkie/masonry.html
   count: 4
 - name: Lubuskie
   url: /voivodeship/lubuskie/masonry.html
-  count: 31
+  count: 35
 - name: Małopolskie
   url: /voivodeship/malopolskie/masonry.html
   count: 34
@@ -32,25 +32,25 @@ voivodeships_nav:
   count: 5
 - name: Podkarpackie
   url: /voivodeship/podkarpackie/masonry.html
-  count: 13
+  count: 14
 - name: Podlaskie
   url: /voivodeship/podlaskie/masonry.html
-  count: 12
+  count: 13
 - name: Pomorskie
   url: /voivodeship/pomorskie/masonry.html
-  count: 43
+  count: 44
 - name: Śląskie
   url: /voivodeship/slaskie/masonry.html
   count: 9
 - name: Warmińsko-mazurskie
   url: /voivodeship/warminsko_mazurskie/masonry.html
-  count: 15
+  count: 16
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 165
+  count: 177
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
-  count: 27
+  count: 28
 lands_nav:
 - name: Karkonosze
   url: /land/karkonosze/masonry.html
@@ -103,25 +103,25 @@ lands_nav:
 tags_nav:
 - name: Najlepsze
   url: /tag/best/masonry.html
-  count: 107
+  count: 110
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 224
+  count: 235
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 175
+  count: 181
 - name: Kolejowe
   url: /tag/train/masonry.html
-  count: 19
+  count: 20
 - name: Zdjęcia
   url: /tag/photo/masonry.html
-  count: 98
+  count: 103
 - name: Góry
   url: /tag/mountains/masonry.html
   count: 105
 - name: Zdjęcie roku
   url: /tag/photo_of_the_year/masonry.html
-  count: 12
+  count: 13
 - name: Bikepacking
   url: /tag/bikepacking/masonry.html
   count: 4
