@@ -3,7 +3,7 @@ all_compile: dev_compile_release dev_compile compile_release compile
 
 # dev env
 dev_serve:
-	cd env/dev/public && serve -p 5001
+	cd env/dev/public && npx serve -p 5001
 
 dev_render_release:
 	crystal env/dev/src/run_local_full.cr
@@ -35,7 +35,7 @@ dev_watch_smart:
 
 # full env
 serve:
-	cd env/full/public && serve -p 5001
+	cd env/full/public && npx serve -p 5001
 
 release: run_compiled_release
 
@@ -60,6 +60,10 @@ run_compiled:
 watch_smart:
 	bash env/full/watch_smart.sh
 
+watch_coffee:
+	coffee -bcw data/assets/js/*.coffee
+	
+	
 # old stuff
 # watch:
 # 	bash watch.sh
@@ -70,8 +74,6 @@ watch_smart:
 # watch_compiled:
 # 	bash watch_compiled.sh
 #
-# watch_coffee:
-# 	coffee -bcw data/assets/js/*.coffee
 #
 # upload:
 # 	bash release_ovh.sh
