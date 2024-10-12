@@ -1,0 +1,13 @@
+---
+- slug: radzymin
+  name: Radzymin
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.41676424782444
+  lon: 21.180233416722526
+- slug: warszawa
+  name: Warszawa
+  type: town
+  voivodeship: mazowieckie
+  lat: 52.23751279028653
+  lon: 21.03257368823702

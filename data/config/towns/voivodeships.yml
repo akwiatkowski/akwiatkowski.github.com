@@ -140,3 +140,14 @@
   border_bottom_right:
     - 50.717643
     - 20.706989
+
+- slug: mazowieckie
+  name: Mazowieckie
+  type: voivodeship
+  country: Polska
+  border_top_left:
+    - 53.38876659784784
+    - 19.232397386178317
+  border_bottom_right:
+    - 50.94340736153242
+    - 22.742528857065434
