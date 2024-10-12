@@ -207,12 +207,20 @@ class BaseView < Tremolite::Views::BaseView
     return @blog.data_manager.nav_stats_cache.not_nil!
   end
 
-  private def nav_stats_model_array_to_html(array)
+  private def nav_stats_model_array_to_html(array, include_latest : Bool = true)
     return String.build do |s|
       array.each do |ni|
         h = Hash(String, String).new
         h["url"] = ni.url
         h["name"] = "#{ni.name} (#{ni.count})"
+
+        s << load_html("include/category_nav_element", h)
+      end
+
+      if include_latest
+        h = Hash(String, String).new
+        h["url"] = PostListView::NewPostsMasonryView::URL
+        h["name"] = "Najnowsze"
 
         s << load_html("include/category_nav_element", h)
       end

@@ -160,6 +160,7 @@ struct ExifEntity
     "OLYMPUS M.100-400mm F5.0-6.3"                 => "Olympus 100-400mm f5-6.3",
     "OLYMPUS M.7-14mm F2.8"                        => "Olympus 7-14mm f2.8",
     "OLYMPUS M.8-25mm F4.0"                        => "Olympus 8-25mm f4",
+    "85mm F1.4 DG DN | Art 020"                    => "Sigma 85mm f1.4",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)

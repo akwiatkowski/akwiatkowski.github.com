@@ -76,4 +76,11 @@ struct TownEntity
   def belongs_to_post?(post : Tremolite::Post)
     post.towns.not_nil!.includes?(@slug)
   end
+
+  def distance_to_coord(other_lat, other_lon)
+    return Math.sqrt(
+      ((@lat.not_nil!.to_f32 - other_lat.to_f32) ** 2) +
+      ((@lon.not_nil!.to_f32 - other_lon.to_f32) ** 2)
+    )
+  end
 end

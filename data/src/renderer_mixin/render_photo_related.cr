@@ -314,13 +314,16 @@ module RendererMixin::RenderPhotoRelated
     quant_renderers = HashQuantCoordViews.new
 
     photo_coord_quant_cache.cache.keys.each do |key|
-      coord_photos = photo_coord_quant_cache.cache[key]
-      next if coord_photos.size == 0
+      quant_photos_container = photo_coord_quant_cache.cache[key]
+      quant_photos = quant_photos_container[:array]
+      quant_info = quant_photos_container[:info]
+      next if quant_photos.size == 0
 
       view_by_coord = GalleryView::QuantCoordView.new(
         blog: @blog,
         key: key,
-        quant_photos: coord_photos
+        quant_photos: quant_photos,
+        quant_info: quant_info
       )
       write_output(view_by_coord)
 

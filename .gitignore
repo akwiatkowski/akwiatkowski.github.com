@@ -3,6 +3,7 @@
 /lib/
 /bin/
 /.shards/
+/.idea/
 
 # dev env
 /env/dev/data/images/**/*
