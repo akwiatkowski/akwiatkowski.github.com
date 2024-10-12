@@ -2,16 +2,16 @@
 layout:                 post
 title:                  "Przed falą upałów"
 subtitle:               "nadchodziła tygodniowa fala upałów i dlatego chciałem wziąć dzień urlopu na jednodniową jazdę rowerem"
-desc:                   ""
+desc:                   "Zapowiadano falę upałów dlatego postanowiłem pojechać teraz i skorzystać z lipcowych krajobrazów. Chociaż ostatecznie prognoza pogody się zmieniła i upały nadeszły wcześniej."
 keywords:               []
 date:                   2023-07-07 17:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2024-10-12 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2023_07_07__12_09_P7070128.jpg
 #image_position:         50% 70%
-tags:                   [bicycle, todo]
-towns:                  []
+tags:                   [bicycle, main]
+towns:                  [wielkopolskie, skoki, klecko, kiszkowo, pobiedziska]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-07-07-przed-fala-upalow.json"
@@ -33,6 +33,20 @@ strava:
   - https://www.strava.com/activities/9405964054
 
 ---
+
+[wiki-leszno]: https://pl.wikipedia.org/wiki/Leszno
+[wiki-chocicza]: https://pl.wikipedia.org/wiki/Chocicza_(gmina_Nowe_Miasto_nad_Wart%C4%85)
+[wiki-jarocin]: https://pl.wikipedia.org/wiki/Jarocin
+[wiki-poznan]: https://pl.wikipedia.org/wiki/Pozna%C5%84
+[wiki-paluki]: https://pl.wikipedia.org/wiki/Pa%C5%82uki
+[wiki-roszkowo-wagrowieckie]: https://pl.wikipedia.org/wiki/Roszkowo_W%C4%85growieckie
+[wiki-popowe-koscielne]: https://pl.wikipedia.org/wiki/Popowo_Ko%C5%9Bcielne_(wojew%C3%B3dztwo_wielkopolskie)
+[wiki-plaskowo]: https://pl.wikipedia.org/wiki/Pl%C4%85skowo
+[wiki-michalcza]: https://pl.wikipedia.org/wiki/Michalcza
+[wiki-klecko]: https://pl.wikipedia.org/wiki/K%C5%82ecko
+[wiki-dziecmiarki]: https://pl.wikipedia.org/wiki/Dzie%C4%87miarki
+[wiki-skrzetuszewo]: https://pl.wikipedia.org/wiki/Skrzetuszewo
+[wiki-pobiedziska]: https://pl.wikipedia.org/wiki/Pobiedziska
 
 ## Wstęp
 
@@ -83,7 +97,7 @@ móc odkrywać dalsze miejsca ale jeżeli jestem ograniczony to mam nadzieje,
 {% photo "2023_07_07__11_47_P7070108.jpg","Zbliżając się do Pląskowa" %}
 
 I tak [Popowo Kościelne][wiki-popowe-koscielne] jest bardzo ładną
-wsią. Nie jest na tyle duża ale chciałbym nagrać sceny z drona kiedyś.
+wsią. Nie jest aż tak duża ale chciałbym nagrać coś z drona kiedyś.
 
 {% photo "2023_07_07__12_09_P7070127.jpg","Droga do wsi Michalcza (1)" %}
 
@@ -111,8 +125,8 @@ jeszcze nie korzystałem. Nie wiedziałem dokąd dojadę ostatecznie.
 
 Zaciekawiły mnie tereny w okolicy Jeziora Gorzuchowskiego. Widziałem, że jest tam
 obniżenie terenu. Niestety droga gruntowa tym razem okazała się nie być
-najlepszą opcją. Na szczęście okazało się to dość wcześnie i nie musiałem
-nadrabiać daleko.
+najlepszą opcją. Na szczęście było to dość wcześnie i nie musiałem
+nadrabiać kilometrów.
 
 {% photo "2023_07_07__14_20_P7070147.jpg","Bocian w Skrzetuszewie" %}
 
@@ -122,6 +136,9 @@ wytchnieniem od słońca.
 Bardziej mnie ciekawiły wioski na zachód od Jeziora Lednickiego i dlatego
 kierowałem się do [Skrzetuszewa][wiki-skrzetuszewo]. W tym momencie zaczął
 krystalizować się cel wycieczki. Chciałem teraz dojechać do
-[Pobiedzisk][wiki-pobiedzisk] aby odwiedzić kawiarnie na rynku.
+[Pobiedzisk][wiki-pobiedziska] aby odwiedzić kawiarnie na rynku.
 
 {% photo "2023_07_07__14_32_P7070150.jpg","Pole obok Latalic" %}
+
+I tak właśnie zakończyłem ten dzień. Gdyby kilka stopni mniej to zdecydowanie
+inaczej potoczyłby się ten dzień.
