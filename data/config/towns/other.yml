@@ -14,6 +14,16 @@
   border_bottom_right:
     - 49.207489
     - 18.017046
+- slug: czechy_kraj_morawsko_slaski
+  name: Kraj Morawsko-Śląski
+  type: voivodeship
+  country: Czechy
+  border_top_left:
+    - 50.33465241854883
+    - 17.078496251436416
+  border_bottom_right:
+    - 49.420504894261946 
+    - 18.85004147735362
 
 - slug: praga
   name: Praga

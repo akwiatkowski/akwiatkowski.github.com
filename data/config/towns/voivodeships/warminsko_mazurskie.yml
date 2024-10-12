@@ -300,3 +300,27 @@
   voivodeship: warminsko_mazurskie
   lat: 53.42667331818058
   lon: 19.58696845342407
+- slug: gorowo_ilawieckie
+  name: Górowo Iławieckie
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.286116325970234
+  lon: 20.488650231848474
+- slug: lidzbark_warminski
+  name: Lidzbark Warmiński
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.124744236096646
+  lon: 20.580701346132617
+- slug: kiwity
+  name: Kiwity
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 54.10021949972806
+  lon: 20.7710127426298
+- slug: gietrzwald
+  name: Gietrzwałd
+  type: town
+  voivodeship: warminsko_mazurskie
+  lat: 53.744148407487096
+  lon: 20.238075294468654

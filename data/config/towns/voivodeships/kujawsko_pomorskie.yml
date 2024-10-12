@@ -371,3 +371,21 @@
   voivodeship: kujawsko_pomorskie
   lat: 53.16879
   lon: 19.38634
+- slug: byton
+  name: Bytoń
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 52.55708720112263
+  lon: 18.595882608593122
+- slug: topolko
+  name: Topółka
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 52.502661439735355
+  lon: 18.70921989117469
+- slug: lysomice
+  name: Łysomice
+  type: town
+  voivodeship: kujawsko_pomorskie
+  lat: 53.08520680227515
+  lon: 18.61985440569016
