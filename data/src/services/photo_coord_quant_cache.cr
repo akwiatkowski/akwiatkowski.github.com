@@ -16,7 +16,9 @@ class PhotoCoordQuantCache
     lon: Float32,
   )
   alias PhotoCoordCacheArray = Array(PhotoCoordPhoto)
-  alias PhotoCoordQuantCacheStruct = Hash(PhotoCoordCacheKey, PhotoCoordCacheArray)
+  alias PhotoCoordCacheAdditionalInfo = NamedTuple(closest_town_name: String?, closest_town_distance: Float32)
+  alias PhotoCoordCacheContainer = NamedTuple(array: PhotoCoordCacheArray, info: PhotoCoordCacheAdditionalInfo)
+  alias PhotoCoordQuantCacheStruct = Hash(PhotoCoordCacheKey, PhotoCoordCacheContainer)
 
   def initialize(@blog : Tremolite::Blog)
     @cache_path = @blog.cache_path.as(String)
@@ -42,9 +44,12 @@ class PhotoCoordQuantCache
       key = convert_photo_entity_to_key(photo_entity)
       coord_photo = convert_photo_entity_to_coord_photo(photo_entity)
 
-      @cache[key] ||= PhotoCoordCacheArray.new
-      unless @cache[key].includes?(coord_photo)
-        @cache[key] << coord_photo
+      @cache[key] ||= photo_container_for(
+        lat: photo_entity.exif.lat.not_nil!.to_f32,
+        lon: photo_entity.exif.lon.not_nil!.to_f32
+      )
+      unless @cache[key][:array].includes?(coord_photo)
+        @cache[key][:array] << coord_photo
       end
     end
   end
@@ -70,6 +75,57 @@ class PhotoCoordQuantCache
     return PhotoCoordCacheKey.new(
       lat: CoordQuant.round(value: lat, quant: QUANT),
       lon: CoordQuant.round(value: lon, quant: QUANT)
+    )
+  end
+
+  def closest_town(lat : Float32, lon : Float32)
+    all_towns = @blog.data_manager.not_nil!.towns.not_nil!
+    towns_with_coords = all_towns.select do |town|
+      town.lat != nil && town.lon != nil
+    end
+
+    sorted_towns = towns_with_coords.sort do |town_a, town_b|
+      a_distance = town_a.distance_to_coord(
+        other_lat: lat,
+        other_lon: lon
+      )
+
+      b_distance = town_b.distance_to_coord(
+        other_lat: lat,
+        other_lon: lon
+      )
+
+      a_distance <=> b_distance
+    end
+
+    return sorted_towns[0]?
+  end
+
+  def additional_info_for(lat : Float32, lon : Float32) : PhotoCoordCacheAdditionalInfo
+    closest = closest_town(lat: lat, lon: lon)
+
+    if closest
+      closest_town_name = closest.not_nil!.name
+      closest_town_distance = CrystalGpx::Point.distance(
+        lat1: closest.not_nil!.lat.not_nil!.to_f64,
+        lon1: closest.not_nil!.lon.not_nil!.to_f64,
+        lat2: lat.not_nil!.to_f64,
+        lon2: lon.not_nil!.to_f64
+      ).to_f32
+    else
+      closest_town_name = nil
+      closest_town_distance = 0.0.to_f32
+    end
+
+    PhotoCoordCacheAdditionalInfo.new(
+      closest_town_name: closest_town_name, closest_town_distance: closest_town_distance
+    )
+  end
+
+  def photo_container_for(lat : Float32, lon : Float32)
+    return PhotoCoordCacheContainer.new(
+      array: PhotoCoordCacheArray.new,
+      info: additional_info_for(lat: lat, lon: lon)
     )
   end
 

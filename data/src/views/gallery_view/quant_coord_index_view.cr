@@ -47,22 +47,35 @@ module GalleryView
             exists = @renderers[lat]? && @renderers[lat][lon]? && @renderers[lat][lon].photo_entities_count > MIN_PHOTOS_TO_RENDER
 
             if exists
+              renderer = @renderers[lat][lon]
+
               # normalize to max 100
-              photo_count = @renderers[lat][lon].photo_entities_count
-              photo_count = 100 if photo_count > 100
+              max_photo_count = 50
+              base_coeff = 50
+              photo_coeff = ((255 - base_coeff).to_f / max_photo_count.to_f)
 
-              green_coeff = (photo_count.to_f * 2.05).to_i + 50
+              photo_count = renderer.photo_entities_count
+              photo_count = max_photo_count if photo_count > max_photo_count
 
-              color = "rgba(0,#{green_coeff},0,1)"
+              blue = (photo_count.to_f * photo_coeff).to_i + base_coeff
+              blue = 255 if blue > 255
+
+              green = blue / 2
+
+              color = "rgba(0,#{green},#{blue},1)"
 
               additional_css_class = "coord-photo-cell-enabled"
               additional_css_style = "background-color:#{color};"
+
+              town_name = renderer.closest_town_name
             else
               additional_css_class = "coord-photo-cell-disabled"
               additional_css_style = ""
+
+              town_name = ""
             end
 
-            s << "<td class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\">"
+            s << "<td class=\"coord-photo-cell #{additional_css_class}\" style=\"#{additional_css_style}\" title=\"#{town_name}\">"
             if exists
               # TODO: use url from renderers
               s << "<a href=\"/gallery/coord/#{lat},#{lon}\">"
