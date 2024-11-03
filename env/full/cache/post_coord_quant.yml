@@ -4174,9 +4174,9 @@
       not_common_size: 2
       days_diff: 2818
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 75
-      common_size: 3
-      not_common_size: 1
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
       days_diff: 2835
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 25
@@ -5293,9 +5293,14 @@
       not_common_size: 5
       days_diff: 2803
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
+      days_diff: 2820
+    2021-05-30-centrum-gniezna:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
       days_diff: 2820
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 16
@@ -6402,6 +6407,16 @@
       common_size: 1
       not_common_size: 1
       days_diff: 2479
+    2024-10-21-okolica-zagorza-slaskiego:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3943
+    2024-10-21-swidnica-miasto:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 3943
   quants:
   - lat: 50.600002
     lon: 16.4
@@ -11765,6 +11780,11 @@
       common_size: 1
       not_common_size: 5
       days_diff: 2849
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 16
+      common_size: 1
+      not_common_size: 5
+      days_diff: 2850
   quants:
   - lat: 52.8
     lon: 16.0
@@ -18883,6 +18903,11 @@
       common_size: 2
       not_common_size: 4
       days_diff: 2443
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
+      days_diff: 2444
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 16
       common_size: 1
@@ -19225,9 +19250,9 @@
       not_common_size: 5
       days_diff: 2080
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 66
-      common_size: 4
-      not_common_size: 2
+      common_factor: 83
+      common_size: 5
+      not_common_size: 1
       days_diff: 2097
     2021-07-11-brakujacy-fragment-na-mapie:
       common_factor: 16
@@ -21778,6 +21803,16 @@
       common_size: 1
       not_common_size: 3
       days_diff: 2282
+    2024-10-21-okolica-zagorza-slaskiego:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3094
+    2024-10-21-swidnica-miasto:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 3095
   quants:
   - lat: 50.4
     lon: 16.6
@@ -22749,9 +22784,9 @@
       not_common_size: 5
       days_diff: 2120
     2022-05-02-poludniowe-okolice-stargardu:
-      common_factor: 42
-      common_size: 3
-      not_common_size: 4
+      common_factor: 57
+      common_size: 4
+      not_common_size: 3
       days_diff: 2121
   quants:
   - lat: 52.8
@@ -24205,6 +24240,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 2167
+    2024-10-22-aby-wykorzystac-wczesniejszy-powrot:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2979
   quants:
   - lat: 50.8
     lon: 16.6
@@ -24458,6 +24498,11 @@
       common_size: 2
       not_common_size: 0
       days_diff: 2065
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2067
   quants:
   - lat: 53.0
     lon: 15.6
@@ -32444,9 +32489,9 @@
       not_common_size: 1
       days_diff: 1530
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 1548
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -33326,9 +33371,14 @@
       not_common_size: 11
       days_diff: 1492
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 16
-      common_size: 2
-      not_common_size: 10
+      common_factor: 33
+      common_size: 4
+      not_common_size: 8
+      days_diff: 1509
+    2021-05-30-centrum-gniezna:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
       days_diff: 1509
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 8
@@ -38334,6 +38384,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1373
+    2021-05-30-centrum-gniezna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1373
     2021-05-31-eksploracja-przyrody-przy-warcie:
       common_factor: 20
       common_size: 1
@@ -39973,6 +40028,16 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1745
+    2024-10-21-okolica-zagorza-slaskiego:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2557
+    2024-10-21-swidnica-miasto:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2557
   quants:
   - lat: 50.4
     lon: 16.6
@@ -43684,9 +43749,9 @@
       not_common_size: 1
       days_diff: 1131
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
       days_diff: 1149
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 33
@@ -44580,10 +44645,15 @@
       not_common_size: 17
       days_diff: 1122
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 11
-      common_size: 2
-      not_common_size: 16
+      common_factor: 22
+      common_size: 4
+      not_common_size: 14
       days_diff: 1139
+    2021-05-30-centrum-gniezna:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 1140
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 5
       common_size: 1
@@ -44904,9 +44974,9 @@
       not_common_size: 4
       days_diff: 1470
     2022-05-02-poludniowe-okolice-stargardu:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 33
+      common_size: 2
+      not_common_size: 4
       days_diff: 1471
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 16
@@ -46556,6 +46626,21 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1486
+    2024-10-21-okolica-zagorza-slaskiego:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2297
+    2024-10-21-swidnica-miasto:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2298
+    2024-10-22-aby-wykorzystac-wczesniejszy-powrot:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2298
   quants:
   - lat: 50.600002
     lon: 16.800001
@@ -46943,6 +47028,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1035
+    2021-05-30-centrum-gniezna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1036
     2021-08-29-petla-po-polsce:
       common_factor: 100
       common_size: 2
@@ -48461,9 +48551,9 @@
       not_common_size: 1
       days_diff: 983
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 1001
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -49768,9 +49858,9 @@
       not_common_size: 0
       days_diff: 934
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 952
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -54025,6 +54115,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 766
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 784
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
       common_size: 1
@@ -56453,9 +56548,9 @@
       not_common_size: 5
       days_diff: 724
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 50
+      common_size: 3
+      not_common_size: 3
       days_diff: 742
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 16
@@ -56952,6 +57047,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 697
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 715
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -57768,9 +57868,9 @@
       not_common_size: 17
       days_diff: 1045
     2022-05-02-poludniowe-okolice-stargardu:
-      common_factor: 5
-      common_size: 1
-      not_common_size: 17
+      common_factor: 11
+      common_size: 2
+      not_common_size: 16
       days_diff: 1047
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 5
@@ -58596,6 +58696,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 644
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 662
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -61711,9 +61816,14 @@
       not_common_size: 31
       days_diff: 528
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 9
-      common_size: 3
-      not_common_size: 29
+      common_factor: 15
+      common_size: 5
+      not_common_size: 27
+      days_diff: 546
+    2021-05-30-centrum-gniezna:
+      common_factor: 3
+      common_size: 1
+      not_common_size: 31
       days_diff: 546
     2021-06-03-pociagiem-z-kutna-do-wierzchucina:
       common_factor: 9
@@ -65444,9 +65554,9 @@
       not_common_size: 0
       days_diff: 375
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 393
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -66486,6 +66596,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 361
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 379
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
       common_size: 1
@@ -67418,6 +67533,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 346
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 363
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -69288,6 +69408,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 63
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 260
     2021-07-11-brakujacy-fragment-na-mapie:
       common_factor: 100
       common_size: 1
@@ -69544,9 +69669,9 @@
       not_common_size: 0
       days_diff: 232
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 250
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -71425,6 +71550,11 @@
       common_size: 2
       not_common_size: 0
       days_diff: 544
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 545
   quants:
   - lat: 53.0
     lon: 15.6
@@ -72186,9 +72316,14 @@
       not_common_size: 9
       days_diff: 178
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 30
-      common_size: 3
-      not_common_size: 7
+      common_factor: 50
+      common_size: 5
+      not_common_size: 5
+      days_diff: 196
+    2021-05-30-centrum-gniezna:
+      common_factor: 10
+      common_size: 1
+      not_common_size: 9
       days_diff: 196
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 10
@@ -73853,9 +73988,9 @@
       not_common_size: 0
       days_diff: 42
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 60
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -74295,9 +74430,9 @@
       not_common_size: 1
       days_diff: 31
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 66
-      common_size: 2
-      not_common_size: 1
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
       days_diff: 49
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 33
@@ -75264,9 +75399,9 @@
       not_common_size: 1
       days_diff: 2
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 19
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -75865,9 +76000,9 @@
       not_common_size: 1
       days_diff: 2
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 17
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -76256,698 +76391,782 @@
 2021-05-30-pociagiem-z-wagrowca-do-gniezna:
   related_posts:
     2013-08-04-w-strone-skokow-po-raz-1-szy:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 2855
     2013-08-24-przez-puszcze-zielonke-do-biskupic:
       common_factor: 50
-      common_size: 3
-      not_common_size: 3
+      common_size: 4
+      not_common_size: 4
       days_diff: 2835
     2013-08-25-w-strone-skokow-po-raz-2-gi:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 2834
     2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 2820
     2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 2638
     2014-03-29-petla-wokol-murowanej-gosliny:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 2618
     2014-03-30-do-puszczykowa:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2617
     2014-04-06-przejazdzka-na-dziewicza-gore:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2610
     2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2591
     2014-05-01-przejazdzka-do-kornika:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2585
     2014-05-23-przez-puszcze-zielonke:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 2563
     2014-07-02-w-strone-skokow-po-raz-3-ci:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 2523
     2014-08-24-petla-przez-dziewicza-gore:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 2470
     2014-08-31-powrot-z-rogozna-do-poznania:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 2463
     2014-11-11-wokol-jeziora-kierskiego:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2391
     2015-03-18-w-strone-skokow-po-raz-4-ty:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 2264
     2015-04-18-kolko-przez-poligon-w-biedrusku:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 2233
     2015-05-22-w-strone-skokow-po-raz-5:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 2199
     2015-05-24-w-strone-sremu-ale-bez-niego:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2197
     2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2191
     2015-06-27-zachod-od-poznania-do-opalenicy:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2163
     2015-08-09-do-gluszynki:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 2120
     2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior:
-      common_factor: 66
-      common_size: 4
-      not_common_size: 2
+      common_factor: 62
+      common_size: 5
+      not_common_size: 3
       days_diff: 2097
     2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1871
     2016-04-17-wloczac-sie-wokol-skokow:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1869
     2016-04-23-druga-proba-w-kierunku-srody-wielkopolskiej:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1863
     2016-05-21-z-przysieczyna-obok-wagrowca-do-pily:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1835
     2016-08-06-przejazd-pociagiem-do-czarnkowa:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 1757
     2016-09-25-ze-skokow-do-janikowa:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 1708
     2016-10-10-poszukiwanie-jesieni-na-legach-debinskich:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1693
     2016-10-14-poranek-nad-warta:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1689
     2016-10-20-radojewo-i-okolice-warty:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1683
     2016-11-25-mgliste-legi-debinskie:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1647
     2016-12-06-lekko-mglisty-rynek-poznania:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1635
     2016-12-17-poranny-szron-na-debcu:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1625
     2017-01-18-biale-radojewo:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1593
     2017-01-29-zimowa-okolica-rzeki-gluszynki:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1582
     2017-03-04-do-rozpoczecie-sezonu-niedaleko-promna:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 1548
     2017-04-11-pociagiem-przez-paluki:
-      common_factor: 33
-      common_size: 2
+      common_factor: 50
+      common_size: 4
       not_common_size: 4
       days_diff: 1509
     2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1478
     2017-07-06-popoludniowa-ucieczka-do-szamotul:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1424
     2017-07-18-krotka-ucieczka-do-lopuchowa:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 1411
     2017-08-26-z-gniezna-do-srody-wielkopolskiej:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1373
     2017-09-19-krotka-ucieczka-w-strone-obornik:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1349
     2017-11-04-poludniowo-zachodnia-sypialnia-poznania:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1303
     2017-11-05-lesne-okolice-lopuchowa:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 1301
     2017-11-30-szare-legi-debinskie:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1277
     2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 1176
     2018-03-21-prawie-wiosna-w-radojewie:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1166
     2018-04-07-lasami-z-nekli-do-promna:
-      common_factor: 16
-      common_size: 1
+      common_factor: 37
+      common_size: 3
       not_common_size: 5
       days_diff: 1149
     2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
-      common_factor: 33
-      common_size: 2
+      common_factor: 50
+      common_size: 4
       not_common_size: 4
       days_diff: 1139
     2018-07-01-spacer-po-murowanej-goslinie:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1064
     2018-07-29-okolica-jankowa-dolnego:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1035
     2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1013
     2018-08-27-dwa-dni-nostalgii-kolejowej:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 1006
     2018-09-02-jezioro-kowalskie-i-obrzeza-puszczy-zielonki:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 1001
     2018-10-21-wzdluz-jezior-wroczynskich-i-steszewskiego:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 952
     2019-03-17-trojanowo-przed-wiosna:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 805
     2019-03-24-krotki-spacer-w-gluszynie:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 798
     2019-03-31-kokoryczkowe-wzgorze:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 791
     2019-04-06-zachodnie-okolice-skokow:
-      common_factor: 66
+      common_factor: 50
       common_size: 4
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 785
+    2019-04-07-okolice-lednogory-i-pobiedzisk:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 784
     2019-04-18-ucieczka-do-wpn:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 773
     2019-04-22-kolejny-dojazd-do-opalenicy:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 769
     2019-05-19-z-trzemeszna-do-poznania:
-      common_factor: 16
-      common_size: 1
+      common_factor: 37
+      common_size: 3
       not_common_size: 5
       days_diff: 742
-    2019-06-16-okolice-murowanej-gosliny:
-      common_factor: 16
+    2019-06-15-okolice-promna:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 715
+    2019-06-16-okolice-murowanej-gosliny:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
       days_diff: 714
     2019-06-20-parowozem-przez-pile-do-stargardu:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 710
-    2019-09-07-kolejowa-okolica-zagania:
-      common_factor: 16
+    2019-08-07-wielkopolska-balonem:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 662
+    2019-09-07-kolejowa-okolica-zagania:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
       days_diff: 630
     2019-09-28-z-kobylnicy-do-kicina:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 610
     2019-10-06-jesienne-okolice-puszczy-zielonki:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 602
     2019-12-01-eksploracja-warmii-samochodem:
-      common_factor: 50
-      common_size: 3
+      common_factor: 62
+      common_size: 5
       not_common_size: 3
       days_diff: 546
     2020-02-22-wyjatkowa-zima-w-sniezycowym-jarze:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 463
     2020-03-21-pagorki-w-okolicy-puszczy-zielonki:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 435
     2020-04-20-jak-wyjscie-z-wiezienia:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 404
     2020-04-23-wiosenna-gluszyna:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 402
     2020-04-25-okolica-wierzonki-rowerem:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 400
     2020-04-26-nadwarcianskie-lasy-radojewa:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 399
     2020-05-01-wiosenny-wpn:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 393
     2020-05-02-pomiedzy-promnem-a-kiszkowem:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 393
     2020-05-08-setka-w-czasie-zarazy:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 387
     2020-05-10-okolice-wiatrowa:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 385
-    2020-05-17-zachodnie-okolice-lopuchowa:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
-      days_diff: 377
-    2020-09-22-ostatnie-podrygi-lata:
-      common_factor: 16
+    2020-05-16-dzien-zmiany-planow:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 379
+    2020-05-17-zachodnie-okolice-lopuchowa:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 377
+    2020-05-31-nieprzyjazne-okolice-kostrzyna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 363
+    2020-09-12-nekielskie-lasy:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 260
+    2020-09-22-ostatnie-podrygi-lata:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 250
     2020-10-30-deszczowy-poznan:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 211
     2020-10-31-slady-jesieni:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 211
     2020-11-01-okolica-jeziora-brzezno:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 210
     2020-11-07-szary-listopad:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 204
     2020-11-15-piekna-wiosna-tej-jesieni:
-      common_factor: 50
-      common_size: 3
+      common_factor: 62
+      common_size: 5
       not_common_size: 3
       days_diff: 196
     2021-02-27-uroczyska-puszczy-zielonki:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 92
     2021-03-31-przedwiosnie-obok-zielonki:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 60
     2021-04-11-koniec-lenistwa:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 49
     2021-04-24-szukajac-wiosny:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 39
     2021-05-01-zimna-majowka:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 29
     2021-05-10-ucieczka-do-kobylnicy:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 19
     2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 18
     2021-05-12-przed-i-po-burzy:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 17
-    2021-08-07-jak-sie-robi-male-motylki:
-      common_factor: 16
+    2021-05-30-centrum-gniezna:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 0
+    2021-07-04-zakamarki-pobiedzisk:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 35
+    2021-07-11-brakujacy-fragment-na-mapie:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 42
+    2021-08-07-jak-sie-robi-male-motylki:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
       days_diff: 68
     2021-08-29-petla-po-polsce:
-      common_factor: 50
-      common_size: 3
+      common_factor: 62
+      common_size: 5
       not_common_size: 3
       days_diff: 91
     2021-09-05-poludniowy-brzeg-jeziora-steszewskiego:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 98
     2021-09-09-z-pobiedzisk-do-wagrowca:
       common_factor: 50
-      common_size: 3
-      not_common_size: 3
+      common_size: 4
+      not_common_size: 4
       days_diff: 102
     2021-09-11-rezerwat-jezioro-czarne:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 104
     2021-09-12-poludniowy-brzeg-jeziora-kowalskiego:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 104
-    2021-10-02-nie-ten-rower-co-trzeba:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
+      days_diff: 104
+    2021-09-26-rowerem-wokol-jeziora-kowalskiego:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 118
+    2021-10-02-nie-ten-rower-co-trzeba:
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 124
     2021-10-08-stabilizacja-olympusa-300mm:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 131
     2021-10-10-dolina-rzeki-trojanki:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 132
     2021-10-20-jesien-awaryjna:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 142
-    2021-12-05-zamiec:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
+      days_diff: 142
+    2021-11-11-polowanie-na-mgielki-cz-2:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 164
+    2021-12-05-zamiec:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 189
     2021-12-12-zimowa-mgla:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 195
     2021-12-19-szare-owinska:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 202
     2021-12-23-zamiec-2:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 207
     2021-12-25-wschod-w-lososincu:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 208
     2021-12-27-zachod-slonca-w-dusznie:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 211
+    2022-02-05-wzgorza-pobiedzisk:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 251
     2022-03-06-eksploracja-polnocno-wschodniej-wielkopolski:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 280
     2022-03-13-rowerowe-rozpoczecie-sezonu:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 286
     2022-04-14-szukajac-wiosny-w-okolicy-kornika:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 319
     2022-04-23-notec-i-polnocna-wielkopolska:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 328
     2022-05-07-nie-trzeba-jechac-daleko:
-      common_factor: 50
+      common_factor: 37
       common_size: 3
-      not_common_size: 3
+      not_common_size: 5
       days_diff: 341
     2022-05-14-okolice-welny-z-wiatrem:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 349
     2022-06-13-szukajac-makow:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
-      days_diff: 379
-    2022-06-24-przed-upalem:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
+      not_common_size: 6
+      days_diff: 379
+    2022-06-16-okolice-rzeki-cybiny:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 382
+    2022-06-24-przed-upalem:
+      common_factor: 50
+      common_size: 4
       not_common_size: 4
       days_diff: 389
     2022-07-22-pole-podczas-zachodu:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 418
     2022-08-23-wzdluz-warty:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 450
     2022-08-27-goracy-poranek-obok-gniezna:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 453
     2022-08-28-brzezno-wioska-kotow:
-      common_factor: 33
+      common_factor: 25
       common_size: 2
-      not_common_size: 4
+      not_common_size: 6
       days_diff: 455
     2022-09-03-lednogora-i-okolice:
-      common_factor: 50
-      common_size: 3
+      common_factor: 62
+      common_size: 5
       not_common_size: 3
       days_diff: 460
     2022-10-31-mgla-w-wagrowcu:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 519
     2022-11-01-las-niedaleko-lopuchowa:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 519
     2022-11-19-atak-zimy:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 537
     2023-03-18-okolice-jeziora-kowalskiego:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 656
+    2023-04-21-testujac-rower-i-drona:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
+      days_diff: 690
     2023-04-30-jak-to-z-ta-wiosna:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 699
-    2023-05-27-piaszczysta-puszcza-zielonka:
-      common_factor: 16
+    2023-05-07-miedzy-tucznem-a-jerzykowem:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 706
+    2023-05-27-piaszczysta-puszcza-zielonka:
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 726
     2023-05-28-cieply-poranek:
-      common_factor: 16
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
       days_diff: 727
     2023-06-22-powrot-do-jezdzenia:
-      common_factor: 16
-      common_size: 1
-      not_common_size: 5
+      common_factor: 25
+      common_size: 2
+      not_common_size: 6
       days_diff: 752
     2023-06-25-szukajac-pofalowanych-pol:
-      common_factor: 33
-      common_size: 2
-      not_common_size: 4
+      common_factor: 37
+      common_size: 3
+      not_common_size: 5
       days_diff: 756
     2023-07-07-przed-fala-upalow:
       common_factor: 50
-      common_size: 3
-      not_common_size: 3
+      common_size: 4
+      not_common_size: 4
       days_diff: 767
-    2024-01-17-jeszcze-lepsza-zima:
-      common_factor: 16
+    2023-10-18-mgielki-w-pobiedziskach:
+      common_factor: 12
       common_size: 1
-      not_common_size: 5
+      not_common_size: 7
+      days_diff: 870
+    2024-01-17-jeszcze-lepsza-zima:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
       days_diff: 961
     2024-03-03-wschodnia-wielkopolska-przed-wiosna:
-      common_factor: 66
-      common_size: 4
+      common_factor: 75
+      common_size: 6
       not_common_size: 2
       days_diff: 1007
     2024-07-14-lekko-wokol-pobiedzisk:
-      common_factor: 33
-      common_size: 2
+      common_factor: 50
+      common_size: 4
       not_common_size: 4
       days_diff: 1140
     2024-08-04-zablokowany-przez-rosliny:
-      common_factor: 33
-      common_size: 2
+      common_factor: 50
+      common_size: 4
       not_common_size: 4
       days_diff: 1161
   quants:
   - lat: 52.4
     lon: 17.0
+  - lat: 52.4
+    lon: 17.2
+  - lat: 52.4
+    lon: 17.4
   - lat: 52.600002
     lon: 17.0
   - lat: 52.600002
@@ -77633,6 +77852,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 52
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 35
     2021-08-29-petla-po-polsce:
       common_factor: 100
       common_size: 1
@@ -77873,6 +78097,11 @@
       common_size: 1
       not_common_size: 2
       days_diff: 238
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 42
     2021-05-31-eksploracja-przyrody-przy-warcie:
       common_factor: 33
       common_size: 1
@@ -79131,9 +79360,9 @@
       not_common_size: 96
       days_diff: 110
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 3
-      common_size: 3
-      not_common_size: 95
+      common_factor: 5
+      common_size: 5
+      not_common_size: 93
       days_diff: 91
     2021-06-05-tutaj-nie-ma-nic:
       common_factor: 2
@@ -79695,9 +79924,9 @@
       not_common_size: 0
       days_diff: 115
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 98
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -80102,9 +80331,9 @@
       not_common_size: 3
       days_diff: 119
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 60
-      common_size: 3
-      not_common_size: 2
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
       days_diff: 102
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 20
@@ -80842,9 +81071,9 @@
       not_common_size: 0
       days_diff: 122
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 104
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -81185,6 +81414,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 136
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 118
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -81596,9 +81830,9 @@
       not_common_size: 1
       days_diff: 142
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 66
-      common_size: 2
-      not_common_size: 1
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
       days_diff: 124
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 33
@@ -82793,9 +83027,9 @@
       not_common_size: 0
       days_diff: 160
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 142
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -83222,6 +83456,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 182
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 164
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -83891,9 +84130,9 @@
       not_common_size: 0
       days_diff: 213
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 195
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -84966,10 +85205,15 @@
       not_common_size: 1
       days_diff: 407
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 40
-      common_size: 2
-      not_common_size: 3
+      common_factor: 60
+      common_size: 3
+      not_common_size: 2
       days_diff: 211
+    2021-05-30-centrum-gniezna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 210
     2021-07-11-brakujacy-fragment-na-mapie:
       common_factor: 20
       common_size: 1
@@ -85591,6 +85835,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 268
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 251
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -85998,6 +86247,11 @@
       common_size: 2
       not_common_size: 7
       days_diff: 280
+    2021-05-30-centrum-gniezna:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 279
     2021-08-07-jak-sie-robi-male-motylki:
       common_factor: 11
       common_size: 1
@@ -86293,9 +86547,9 @@
       not_common_size: 0
       days_diff: 304
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 286
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -87410,6 +87664,11 @@
       common_size: 2
       not_common_size: 1
       days_diff: 1
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 2
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 33
       common_size: 1
@@ -87444,6 +87703,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 0
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 100
       common_size: 1
@@ -87509,6 +87773,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 0
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1
     2022-05-03-opuszczenie-majowki-do-choszczna:
       common_factor: 25
       common_size: 1
@@ -87525,36 +87794,80 @@
     lon: 15.6
 2022-05-02-poludniowe-okolice-stargardu:
   related_posts:
-    2016-07-10-przez-pagorki-do-stargardu:
-      common_factor: 100
-      common_size: 3
-      not_common_size: 0
-      days_diff: 2121
-    2018-04-21-wiosenne-okolice-stargardu:
-      common_factor: 33
+    2014-07-12-z-miedzyzdrojow-do-dziwnowka:
+      common_factor: 20
       common_size: 1
-      not_common_size: 2
+      not_common_size: 4
+      days_diff: 2850
+    2015-08-22-z-rebusza-do-cieszyno:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2444
+    2016-07-10-przez-pagorki-do-stargardu:
+      common_factor: 80
+      common_size: 4
+      not_common_size: 1
+      days_diff: 2121
+    2016-09-03-zachodnie-okolice-dobiegniewa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2067
+    2018-04-21-wiosenne-okolice-stargardu:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 1471
     2019-06-20-parowozem-przez-pile-do-stargardu:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 1047
     2019-07-14-omijajac-drogi-gruntowe:
-      common_factor: 33
+      common_factor: 20
       common_size: 1
-      not_common_size: 2
+      not_common_size: 4
       days_diff: 1023
     2019-08-03-suche-i-mokre-zachodniopomorskie:
-      common_factor: 66
+      common_factor: 40
       common_size: 2
-      not_common_size: 1
+      not_common_size: 3
       days_diff: 1003
+    2020-11-03-jesien-w-okolicach-dobiegniewa:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 545
+    2022-04-29-spokoj-i-pagorki:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2
+    2022-04-30-kocie-lby-i-piaski:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2
+    2022-05-01-szybko-do-dobiegniewa:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1
+    2022-05-03-opuszczenie-majowki-do-choszczna:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 0
   quants:
+  - lat: 53.0
+    lon: 15.6
   - lat: 53.2
     lon: 15.0
   - lat: 53.2
     lon: 15.2
+  - lat: 53.2
+    lon: 15.6
   - lat: 53.4
     lon: 15.0
 2022-05-03-opuszczenie-majowki-do-choszczna:
@@ -87599,6 +87912,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1
+    2022-05-02-poludniowe-okolice-stargardu:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 0
   quants:
   - lat: 53.2
     lon: 15.400001
@@ -87810,6 +88128,11 @@
       common_factor: 75
       common_size: 3
       not_common_size: 1
+      days_diff: 341
+    2021-05-30-centrum-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
       days_diff: 341
     2021-08-29-petla-po-polsce:
       common_factor: 75
@@ -88812,9 +89135,9 @@
       not_common_size: 1
       days_diff: 396
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 379
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -89098,6 +89421,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 399
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 382
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -89537,9 +89865,9 @@
       not_common_size: 2
       days_diff: 407
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 2
-      not_common_size: 2
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
       days_diff: 389
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 25
@@ -90316,9 +90644,9 @@
       not_common_size: 1
       days_diff: 436
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 418
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -91245,9 +91573,14 @@
       not_common_size: 1
       days_diff: 649
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 2
-      not_common_size: 2
+      common_factor: 75
+      common_size: 3
+      not_common_size: 1
+      days_diff: 453
+    2021-05-30-centrum-gniezna:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
       days_diff: 453
     2021-07-11-brakujacy-fragment-na-mapie:
       common_factor: 25
@@ -92098,9 +92431,9 @@
       not_common_size: 3
       days_diff: 478
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 60
-      common_size: 3
-      not_common_size: 2
+      common_factor: 100
+      common_size: 5
+      not_common_size: 0
       days_diff: 460
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 20
@@ -93336,9 +93669,9 @@
       not_common_size: 1
       days_diff: 555
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 537
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -94355,9 +94688,9 @@
       not_common_size: 1
       days_diff: 674
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 656
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -95028,9 +95361,9 @@
       not_common_size: 1
       days_diff: 717
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 699
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -95386,6 +95719,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 724
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 706
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -95732,9 +96070,9 @@
       not_common_size: 0
       days_diff: 744
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 726
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -96672,9 +97010,9 @@
       not_common_size: 2
       days_diff: 773
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 66
-      common_size: 2
-      not_common_size: 1
+      common_factor: 100
+      common_size: 3
+      not_common_size: 0
       days_diff: 756
     2021-07-11-brakujacy-fragment-na-mapie:
       common_factor: 33
@@ -97031,9 +97369,9 @@
       not_common_size: 2
       days_diff: 785
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 75
-      common_size: 3
-      not_common_size: 1
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
       days_diff: 767
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 25
@@ -97829,9 +98167,9 @@
       not_common_size: 1
       days_diff: 770
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 752
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
@@ -98125,6 +98463,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 708
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
+      days_diff: 690
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 50
       common_size: 1
@@ -98835,9 +99178,9 @@
       not_common_size: 2
       days_diff: 1158
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 2
-      not_common_size: 2
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
       days_diff: 1140
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 25
@@ -99140,6 +99483,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 888
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 870
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 100
       common_size: 1
@@ -99767,9 +100115,14 @@
       not_common_size: 6
       days_diff: 1025
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 4
-      not_common_size: 4
+      common_factor: 75
+      common_size: 6
+      not_common_size: 2
+      days_diff: 1007
+    2021-05-30-centrum-gniezna:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
       days_diff: 1007
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 12
@@ -100329,9 +100682,9 @@
       not_common_size: 2
       days_diff: 1179
     2021-05-30-pociagiem-z-wagrowca-do-gniezna:
-      common_factor: 50
-      common_size: 2
-      not_common_size: 2
+      common_factor: 100
+      common_size: 4
+      not_common_size: 0
       days_diff: 1161
     2021-07-04-zakamarki-pobiedzisk:
       common_factor: 25
@@ -100531,3 +100884,153 @@
 2020-08-01-wieczor-w-swiebodzinie:
   related_posts: {}
   quants: []
+2024-10-21-okolica-zagorza-slaskiego:
+  related_posts:
+    2014-01-03-okolice-gluszycy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3943
+    2016-05-01-z-klodzka-do-gluszycy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3094
+    2017-10-21-pociagiem-przez-gory-sowie:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2557
+    2018-07-07-plasko-zle-gory-zle:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2297
+    2024-10-21-swidnica-miasto:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 0
+  quants:
+  - lat: 50.8
+    lon: 16.4
+2024-10-21-swidnica-miasto:
+  related_posts:
+    2014-01-03-okolice-gluszycy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3943
+    2016-05-01-z-klodzka-do-gluszycy:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 3095
+    2017-10-21-pociagiem-przez-gory-sowie:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2557
+    2018-07-07-plasko-zle-gory-zle:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2298
+    2024-10-21-okolica-zagorza-slaskiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 0
+  quants:
+  - lat: 50.8
+    lon: 16.4
+2024-10-22-aby-wykorzystac-wczesniejszy-powrot:
+  related_posts:
+    2016-08-25-pagorkami-ze-strzelina-do-zarowa:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2979
+    2018-07-07-plasko-zle-gory-zle:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2298
+  quants:
+  - lat: 50.8
+    lon: 16.6
+2021-05-30-centrum-gniezna:
+  related_posts:
+    2013-09-08-95km-rowerem-z-biskupic-do-lakiego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 2820
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1509
+    2017-08-26-z-gniezna-do-srody-wielkopolskiej:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1373
+    2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1140
+    2018-07-29-okolica-jankowa-dolnego:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1036
+    2019-12-01-eksploracja-warmii-samochodem:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 546
+    2020-11-15-piekna-wiosna-tej-jesieni:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 196
+    2021-05-30-pociagiem-z-wagrowca-do-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 0
+    2021-08-29-petla-po-polsce:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 90
+    2021-12-27-zachod-slonca-w-dusznie:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 210
+    2022-03-06-eksploracja-polnocno-wschodniej-wielkopolski:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 279
+    2022-05-07-nie-trzeba-jechac-daleko:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 341
+    2022-08-27-goracy-poranek-obok-gniezna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 453
+    2024-03-03-wschodnia-wielkopolska-przed-wiosna:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1007
+  quants:
+  - lat: 52.600002
+    lon: 17.6

@@ -2,19 +2,19 @@
 bicycle_distance: 15201
 bicycle_time_length: 1525
 bicycle_count: 282
-hike_distance: 2543
-hike_time_length: 1127
-hike_count: 242
+hike_distance: 2564
+hike_time_length: 1136
+hike_count: 246
 train_distance: 5803
 train_time_length: 198
 train_count: 29
-self_distance: 17744
-self_time_length: 2652
-updated_at: 2024-10-10 18:26:24.274089141+02:00
+self_distance: 17765
+self_time_length: 2661
+updated_at: 2024-10-29 15:08:35.626706993+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
-  count: 131
+  count: 134
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
   count: 42
@@ -23,7 +23,7 @@ voivodeships_nav:
   count: 4
 - name: Lubuskie
   url: /voivodeship/lubuskie/masonry.html
-  count: 35
+  count: 36
 - name: Małopolskie
   url: /voivodeship/malopolskie/masonry.html
   count: 34
@@ -35,22 +35,22 @@ voivodeships_nav:
   count: 14
 - name: Podlaskie
   url: /voivodeship/podlaskie/masonry.html
-  count: 13
+  count: 14
 - name: Pomorskie
   url: /voivodeship/pomorskie/masonry.html
-  count: 44
+  count: 45
 - name: Śląskie
   url: /voivodeship/slaskie/masonry.html
   count: 9
 - name: Warmińsko-mazurskie
   url: /voivodeship/warminsko_mazurskie/masonry.html
-  count: 16
+  count: 17
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 177
+  count: 180
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
-  count: 28
+  count: 32
 lands_nav:
 - name: Karkonosze
   url: /land/karkonosze/masonry.html
@@ -103,19 +103,19 @@ lands_nav:
 tags_nav:
 - name: Najlepsze
   url: /tag/best/masonry.html
-  count: 110
+  count: 111
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 235
+  count: 242
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 181
+  count: 186
 - name: Kolejowe
   url: /tag/train/masonry.html
-  count: 20
+  count: 21
 - name: Zdjęcia
   url: /tag/photo/masonry.html
-  count: 103
+  count: 104
 - name: Góry
   url: /tag/mountains/masonry.html
   count: 105
