@@ -2,8 +2,8 @@
 layout:                 post
 title:                  "Pociągiem do Lidzbarku"
 subtitle:               "czym się różni Lidzbark Warmiński od Lidzbarku?"
-desc:                   ""
-keywords:               []
+desc:                   "To był ostatni dzień kolejowej wycieczki po Mazurach."
+keywords:               [lidzbark, mazury, turkol]
 date:                   2020-07-27 17:00:00
 #finished_at:            2100-02-09 12:00:00
 author:                 "Aleksander Kwiatkowski"
@@ -19,8 +19,8 @@ coords_type:            "train"
 map_zooms:              10
 distance:               198
 time_spent:             6
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -31,10 +31,18 @@ pois:
 
 ---
 
+[wiki-lidzbark]: https://pl.wikipedia.org/wiki/Lidzbark
+[wiki-szczytno]: https://pl.wikipedia.org/wiki/Szczytno
+[wiki-olsztyn]: https://pl.wikipedia.org/wiki/Olsztyn
+[wiki-olsztynek]: https://pl.wikipedia.org/wiki/Olsztynek
+[wiki-nidzica]: https://pl.wikipedia.org/wiki/Nidzica
+[wiki-dzialdowo]: https://pl.wikipedia.org/wiki/Dzia%C5%82dowo
+[wiki-gdansk]: https://pl.wikipedia.org/wiki/Gda%C5%84sk
+[wiki-warszawa]: https://pl.wikipedia.org/wiki/Warszawa
 
 ## Wstęp
 
-To był ostatni fragment długiej i bardzo fajnej wycieczki kolejowej. Tym
+To był ostatni fragment długiej ale bardzo fajnej wycieczki kolejowej. Tym
 razem chcieliśmy dojechać do [Lidzbarku][wiki-lidzbark].
 
 ## Szczegóły
@@ -69,7 +77,7 @@ Jechaliśmy na południe w stronę [Olsztynka][wiki-olsztynek]
 
 {% photo "2020_07_27__11_50__7276349.jpg","Budowane osiedla pod Olsztynem" %}
 
-Dotarliśmy do [Niedzicy][wiki-niedzica] a następnie jechaliśmy do [Działdowa][wiki-dzialdowo],
+Dotarliśmy do [Nidzicy][wiki-nidzica] a następnie jechaliśmy do [Działdowa][wiki-dzialdowo],
 które to jest większą stacją. Zatrzymują się tutaj pociagi jadące z
 [Gdańska][wiki-gdansk] do [Warszawy][wiki-warszawa].
 

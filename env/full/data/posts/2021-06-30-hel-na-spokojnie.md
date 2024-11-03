@@ -35,4 +35,12 @@ pois:
 
 ## Wstęp
 
+
+Pomysł wyjazdu pojawił się wcześniej i szczerze mówiąc, chyba wolałbym
+pojechać miesiąc albo dwa wcześniej. Wtedy ceny noclegów są niższe i
+jest mniej ludzi.
+
 ## Szczegóły
+
+
+{% photo "2021_09_09__14_17__9090301.jpg","Droga gruntowa do wsi Głębokie" %}

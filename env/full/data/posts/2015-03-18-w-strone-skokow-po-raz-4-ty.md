@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "W stronę Skoków, po razy 4-ty"
+title:                  "W stronę Skoków, po raz 4-ty"
 subtitle:               "bardzo wczesna wiosna, drzewa jeszcze bez liści"
 date:                   2015-03-18 21:00:00
 author:                 "Aleksander Kwiatkowski"

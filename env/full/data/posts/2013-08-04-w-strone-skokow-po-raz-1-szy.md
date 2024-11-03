@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "W stronę Skoków, po razy 1-szy"
+title:                  "W stronę Skoków, po raz 1-szy"
 subtitle:               "odkrywanie trasy, na początku deszczowo, później już ładnie"
 desc:                   "Chciałem tym razem pojechać gdzieś dalej od Poznania. Wybraliśmy trasę przez Biedrusko do Skoków."
 keywords:               [lato, biedrusko, skoki, bolechowo, mściszewo]

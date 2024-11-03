@@ -1,6 +1,6 @@
 ---
 layout:                 post
-title:                  "W stronę Skoków, po razy 2-gi"
+title:                  "W stronę Skoków, po raz 2-gi"
 subtitle:               "powoli lato się kończy"
 date:                   2013-08-25 21:00:00
 author:                 "Aleksander Kwiatkowski"

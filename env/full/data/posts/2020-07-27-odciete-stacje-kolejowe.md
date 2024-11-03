@@ -1,15 +1,15 @@
 ---
 layout:                 post
 title:                  "Odcięte stacje kolejowe na Mazurach"
-subtitle:               ""
-desc:                   ""
-keywords:               []
+subtitle:               "czyli autobusowa wycieczka po miejscach, które zostały odcięte"
+desc:                   "Autobusowa wycieczka po odciętych stacjach kolejowych na Mazurach."
+keywords:               [gołdat, węgorzewo, mikołajki, mrągowo]
 date:                   2020-07-27 11:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2024-10-27 23:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2020_07_27__07_44_DSC09347.jpg
-tags:                   [bus, todo]
+tags:                   [bus, main]
 towns:                  [podlaskie, warminsko_mazurskie, suwalki, filipow, przerosl, dubeninki, goldap, banie_mazurskie, budry, wegorzewo, pozedrze, gizycko, ryn, mikolajki, mragowo, piecki, swietajno, szczytno, wielbark]
 lands:                  [pojezierze_mazurskie, nizina_staropruska]
 
@@ -19,8 +19,8 @@ coords_type:            "bus"
 map_zooms:              9
 distance:               304 # 159 + 145
 time_spent:             9 # 6 + 3
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:
@@ -31,6 +31,17 @@ pois:
 
 ---
 
+[turkol]: http://www.turkol.pl/
+[wiki-stanczyki]: https://pl.wikipedia.org/wiki/Sta%C5%84czyki
+[wiki-goldap]: https://pl.wikipedia.org/wiki/Go%C5%82dap
+[wiki-rosja]: https://pl.wikipedia.org/wiki/Rosja
+[wiki-banie-mazurskie]: https://pl.wikipedia.org/wiki/Banie_Mazurskie
+[wiki-wegorzewo]: https://pl.wikipedia.org/wiki/W%C4%99gorzewo
+[wiki-ketrzyn]: https://pl.wikipedia.org/wiki/K%C4%99trzyn
+[wiki-gizycko]: https://pl.wikipedia.org/wiki/Gi%C5%BCycko
+[wiki-mazury]: https://pl.wikipedia.org/wiki/Mazury
+[wiki-mikolajki]: https://pl.wikipedia.org/wiki/Miko%C5%82ajki
+[wiki-mragowo]: https://pl.wikipedia.org/wiki/Mr%C4%85gowo
 
 ## Wstęp
 
@@ -52,13 +63,15 @@ bardzo popularnym punktem.
 
 Próbowałem robić jakieś zdjecia z autobusu jednak było to prawie niemożliwe.
 Troche byłem niezadowolony z tego faktu i znowu zastanawiałęm się kiedy
-będę mógł przejechać te tereny rowerem.
+będę mógł przyjechać tutaj rowerem. Bo dopiero wtedy miałbym prawdziwą
+wolność (raczej maksymalną) do zobaczenia tego co mnie interesuje.
 
 {% photo "2020_07_26__14_41__7265695.jpg","Wiadukty w Stańczykach" %}
 
-Niestety po zmierzenimu rzeczywistości z oczekiwaniami czar prysł.
-Jest tutaj za dużo ludzi a ktoś kupił te wiadukty i zarabia na nich.
-Jeżeli ktoś lubi autentyczną turystykę to ogromnie odradzam.
+Niestety po zmierzeniu rzeczywistości z oczekiwaniami czar prysł.
+Jest tutaj za dużo ludzi. Ktoś kupił te wiadukty i zarabia na nich.
+Jeżeli ktoś lubi autentyczną turystykę to ogromnie odradzam
+to miejsce.
 
 {% photo "2020_07_26__16_40__7265909.jpg","Wiadukty w Stańczykach" %}
 
@@ -71,14 +84,14 @@ Kolejnym celem był [Gołdap][wiki-goldap]. Miejscowość bardzo blisko do
 granicy [Rosji][wiki-rosja] gdzie są problemy z zasięgiem polskiej sieci
 komórkowej. Z drugiej strony jeżeli kiedykolwiek bym przejechał
 rowerem północną część Polski to prawdopodobnie nocowałbym
-w [Gołdapie][wiki-goldap].
+właśnie w [Gołdapie][wiki-goldap].
 
 {% photo "2020_07_26__17_19__7265995.jpg","Stacja w Węgorzewie" %}
 
 Tutaj powinienem wspomnieć o wycieczce
 [rok później]({% post_url 2021-08-27-wokol-jeziora-rydzowka %}), gdzie próbowałem
-podjechać samochodem do [Bani Mazurskiej][wiki-bania-mazurska] jednak
-ostatecznie wróciłem do noclegu i pojeździłem sobie rowerem.
+podjechać samochodem do [Bań Mazurskich][wiki-banie-mazurskie] jednak
+ostatecznie wróciłem do noclegu po rower.
 
 {% photo "2020_07_26__17_21__7266001.jpg","Rozkład kolejowy w Węgorzewie" %}
 
@@ -98,7 +111,8 @@ Następnego dnia pogoda już nie była tak ładna. Niebo było zachmurzone.
 
 Miałem wrażenie, że teraz przejeżdżaliśmy przez bardziej właściwe
 [Mazury][wiki-mazury] ponieważ każdemu one kojarzą się z jeziorami i
-łódkami. Mi kojarzą się z przyrodą, rowerem i klimatem.
+łódkami. Mi [Mazury][wiki-mazury] kojarzą się z przyrodą, rowerem i klimatem,
+a nie z łódkami.
 
 {% photo "2020_07_27__07_01_DSC09298.jpg","Łódka niedaleko Bogaczewa" %}
 
@@ -106,9 +120,10 @@ Dotarliśmy do stacji w [Mikołajkach][wiki-mikolajki].
 
 {% photo "2020_07_27__07_48_DSC09349.jpg","Wystarczy przyciąć łąkę" %}
 
-Powiedziano nam abyśmy za bardzo nie pokazywali jak zapuszczone są tory
-ponieważ powinny one być dbane prze zarządce infrastruktury. Minęło
-już trochę czasu i mogę wrzucić zdjęcia jaki zrobiłem.
+Powiedziano nam abyśmy za bardzo nie pokazywali jak zapuszczone są tory.
+Powinny one być zadbane przez zarządce infrastruktury. Minęło
+już trochę czasu i chyba bezpiecznie mogę wrzucić zdjęcia jakie
+wtedy zrobiłem.
 
 {% photo "2020_07_27__07_51_DSC09357.jpg","Stacja w Mikołajkach" %}
 
@@ -126,4 +141,6 @@ Wydaje mi się, że miejscowość ta byłaby dla mnie zbyt popularna.
 
 {% photo "2020_07_27__08_27__7276099.jpg","Stacja w Mikołajkach" %}
 
-Byłem zmęczony robieniem zdjęć z autobusu i dałem sobie spokój.
+Byłem zmęczony robieniem zdjęć z autobusu i dałem sobie spokój. Natomiast
+proszę nie odbierać tego źle. Sama wycieczka była bardzo wartościowa
+i dała kolejny impuls aby ponownie wybrać się rowerem.

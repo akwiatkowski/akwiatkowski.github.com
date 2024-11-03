@@ -4,7 +4,7 @@ title:                  "Wieczór w Świebodzinie"
 subtitle:               "krótki spacer po centrum"
 desc:                   "Prawie każda weekendowa wycieczka musi zawierać zwiedzanie miejsca, w którym się nocuje. I tak teraz zobaczyliśmy jak wygląda rynek Świebodzina w sobotę wieczorem"
 keywords:               [świebodzin]
-date:                   2020-08-01 17:00:00
+date:                   2020-08-01 20:00:00
 finished_at:            2024-10-10 18:00:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
@@ -18,8 +18,8 @@ coords:                 [{"route": [], "type": "hike"}]
 map_zooms:              14
 distance:               2
 time_spent:             2
-elevation:              
-temperature:            
+elevation:
+temperature:
 
 
 pois:

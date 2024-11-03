@@ -11,7 +11,7 @@ categories:             trip
 image_filename:         2023_05_01__13_20_DJI_0806.jpg
 #image_position:         50% 70%
 tags:                   [bicycle, todo]
-towns:                  []
+towns:                  [wielkopolskie, chodziez, kaczory, wysoka, krajenka, zlotow, tarnowka, jastrowie]
 
 coords:                 [{"route": [], "type": "bicycle"}]
 coords_file:            "2023-05-01-majowki-w-tym-roku-nie-ma.json"
