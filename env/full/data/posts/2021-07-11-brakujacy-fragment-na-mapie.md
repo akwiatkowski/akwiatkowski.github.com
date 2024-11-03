@@ -5,7 +5,7 @@ subtitle:               "dlaczego nigdy nie jechałem ze Środy Wielkopolskiej n
 desc:                   "Przejazd rowerem ze Środy Wielkopolskiej do Gułtowy"
 keywords:               [środa wielkopolska, gułtowy, dębicz, mączniki]
 date:                   2021-07-11 19:00:00
-#finished_at:            2100-02-09 12:00:00
+finished_at:            2024-11-03 21:20:00
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         2021_07_11__17_48__7118345.jpg

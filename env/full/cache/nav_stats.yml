@@ -2,22 +2,22 @@
 bicycle_distance: 15201
 bicycle_time_length: 1525
 bicycle_count: 282
-hike_distance: 2564
+hike_distance: 2560
 hike_time_length: 1136
 hike_count: 246
 train_distance: 5803
 train_time_length: 198
 train_count: 29
-self_distance: 17765
+self_distance: 17761
 self_time_length: 2661
-updated_at: 2024-10-29 15:08:35.626706993+01:00
+updated_at: 2024-11-03 21:08:35.560701121+01:00
 voivodeships_nav:
 - name: Dolnośląskie
   url: /voivodeship/dolnoslaskie/masonry.html
   count: 134
 - name: Kujawsko-pomorskie
   url: /voivodeship/kujawsko_pomorskie/masonry.html
-  count: 42
+  count: 43
 - name: Łódzkie
   url: /voivodeship/lodzkie/masonry.html
   count: 4
@@ -47,10 +47,10 @@ voivodeships_nav:
   count: 17
 - name: Wielkopolskie
   url: /voivodeship/wielkopolskie/masonry.html
-  count: 180
+  count: 189
 - name: Zachodnio-pomorskie
   url: /voivodeship/zachodnio_pomorskie/masonry.html
-  count: 32
+  count: 33
 lands_nav:
 - name: Karkonosze
   url: /land/karkonosze/masonry.html
@@ -106,16 +106,16 @@ tags_nav:
   count: 111
 - name: Rower
   url: /tag/bicycle/masonry.html
-  count: 242
+  count: 247
 - name: Pieszo
   url: /tag/hike/masonry.html
-  count: 186
+  count: 190
 - name: Kolejowe
   url: /tag/train/masonry.html
   count: 21
 - name: Zdjęcia
   url: /tag/photo/masonry.html
-  count: 104
+  count: 107
 - name: Góry
   url: /tag/mountains/masonry.html
   count: 105
