@@ -118,6 +118,14 @@ class Tremolite::Post
     @title.to_s.gsub("-", "&#x2011;")
   end
 
+  def finished_date
+    if self.finished_at
+      return self.finished_at.not_nil!.to_s("%y-%m-%d")
+    else
+      return ""
+    end
+  end
+
   def default_map_zoom
     possible_default_zooms = (self.default_suggested_map_zooms & Map::VALID_ZOOMS)
     if possible_default_zooms.size > 0

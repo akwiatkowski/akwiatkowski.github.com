@@ -23,6 +23,14 @@ module PostListView
       @posts = sorted_posts[0...COUNT].as(Array(Tremolite::Post))
     end
 
+    def sorted_posts
+      return @posts
+    end
+
+    def render_date
+      return :finished
+    end
+
     def title
       "Ostatnio dokończone wpisy"
     end

@@ -2,7 +2,8 @@ module PostView
   module ItemMixin
     def render_post_box(
       post : Tremolite::Post,
-      klass : String = ""
+      klass : String = "",
+      render_date = :trip
     ) : String
       ph = Hash(String, String).new
       ph["klass"] = klass
@@ -10,6 +11,7 @@ module PostView
       ph["post.small_image_url"] = post.small_image_url.not_nil!
       ph["post.title"] = post.title
       ph["post.date"] = post.date
+      ph["post.date"] = post.finished_date if render_date == :finished
 
       if post.distance.not_nil! > 0.0
         ph["post.distance"] = "#{post.distance.not_nil!.to_i.to_s}km"
