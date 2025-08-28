@@ -77,7 +77,7 @@ class ExifProcessor
     end
 
     # GPS coords
-    if hash["Exif.GPSInfo.GPSLongitude"]? && hash["Exif.GPSInfo.GPSLatitude"]?
+    if hash["Exif.GPSInfo.GPSLongitude"]?.to_s.size > 1 && hash["Exif.GPSInfo.GPSLatitude"]?.to_s.size > 1
       # "15deg 47' 41.705\""
       if match = hash["Exif.GPSInfo.GPSLongitude"].match(GEO_DEGREE_REGEXP)
         decimal = convert_degree_to_decimal(
@@ -91,6 +91,8 @@ class ExifProcessor
         end
 
         exif.lon = decimal
+      else
+        Log.error { "photo '#{path}' lon '#{hash["Exif.GPSInfo.GPSLongitude"]? }' regexp not match" }
       end
 
       if match = hash["Exif.GPSInfo.GPSLatitude"].match(GEO_DEGREE_REGEXP)
@@ -105,6 +107,8 @@ class ExifProcessor
         end
 
         exif.lat = decimal
+      else
+        Log.error { "photo '#{path}' lat '#{hash["Exif.GPSInfo.GPSLatitude"]? }' regexp not match" }
       end
     end
 
