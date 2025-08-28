@@ -33,7 +33,8 @@ class ExifProcessor
     "Exif.Pentax.Temperature",
   ]
 
-  GEO_DEGREE_REGEXP = /(\d+)deg\s+(\d+)'\s+([0-9.]+)/
+  # on mac "15 deg 56' 48.45" - there is space after first number
+  GEO_DEGREE_REGEXP = /(\d+)\s*deg\s+(\d+)'\s+([0-9.]+)/
 
   def self.process(photo_entity, path) : ExifEntity
     path = File.join([path, photo_entity.full_image_src])
