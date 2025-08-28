@@ -6,7 +6,7 @@ class ExifStatHelper
 
   def initialize(
     @photos : Array(PhotoEntity) = Array(PhotoEntity).new,
-    @posts : Array(Tremolite::Post) = Array(Tremolite::Post).new
+    @posts : Array(Tremolite::Post) = Array(Tremolite::Post).new,
   )
     @service = ExifStatService.new
   end
@@ -14,7 +14,7 @@ class ExifStatHelper
   # generate html tables from data
   def generate_table_for_array(
     title_array,
-    array
+    array,
   )
     s = ""
     s += "<table class='table exif-stats-table'>\n"
@@ -50,7 +50,7 @@ class ExifStatHelper
 
   def generate_table_for_array_of_hash(
     title_ah : Array,
-    array_ah : Array
+    array_ah : Array,
   )
     title_array = Array(String).new
     title_ah.each do |title_h|
@@ -71,7 +71,7 @@ class ExifStatHelper
 
   def generate_table_for_hash_string_integer(
     hash,
-    title : String
+    title : String,
   ) : String
     s = ""
 
@@ -93,7 +93,7 @@ class ExifStatHelper
   # to render Hash(String -> ExifStatStruct) table for lens or camera stats
   private def render_hash_based_count_table(
     hash : Hash(String, ExifStatStruct),
-    title : String
+    title : String,
   ) : String
     if hash.keys.size > 0
       processed_hash = hash.keys.map do |key|
@@ -177,7 +177,7 @@ class ExifStatHelper
   end
 
   def html_stats_focal_lengths_by_lens(
-    only_zoom : Bool = false
+    only_zoom : Bool = false,
   ) : String
     lenses = @service.stats_by_lens.keys.sort.as(Array(String))
 

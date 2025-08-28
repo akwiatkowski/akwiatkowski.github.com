@@ -15,7 +15,7 @@ module SpecialView
       @site_language : (String | Nil) = nil,
       @site_webmaster : (String | Nil) = nil,
       @author_name : (String | Nil) = nil,
-      @updated_at : (Time) = Time.local
+      @updated_at : (Time) = Time.local,
     )
     end
 

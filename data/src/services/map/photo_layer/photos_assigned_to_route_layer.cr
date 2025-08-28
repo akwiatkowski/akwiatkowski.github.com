@@ -7,7 +7,7 @@ struct Map::MapCoordRange
     @x_from : Int32,
     @y_from : Int32,
     @x_to : Int32,
-    @y_to : Int32
+    @y_to : Int32,
   )
   end
 
@@ -48,7 +48,7 @@ struct Map::PhotoToRoutePosition
     @photo_center_x : Int32,
     @photo_center_y : Int32,
     @corner_photo_x : Int32,
-    @corner_photo_y : Int32
+    @corner_photo_y : Int32,
   )
   end
 end
@@ -72,7 +72,7 @@ class Map::PhotoLayer::PhotosAssignedToRouteLayer
     @posts : Array(Tremolite::Post),
     @tiles_layer : TilesLayer,
     @image_size = DEFAULTH_PHOTO_SIZE.as(Int32),
-    @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost
+    @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)

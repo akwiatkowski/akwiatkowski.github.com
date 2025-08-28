@@ -4,7 +4,7 @@ module DynamicView
 
     def initialize(
       @blog : Tremolite::Blog,
-      @by_tag : String | Nil = nil
+      @by_tag : String | Nil = nil,
     )
       @url = "/debug/tagged_photos"
       @title = "Otagowanie zdjęć we wpisach"

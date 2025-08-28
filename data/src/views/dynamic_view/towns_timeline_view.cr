@@ -93,7 +93,7 @@ module DynamicView
 
     def month_towns_list(
       self_propelled_for_month : Array(TownEntity),
-      vehicle_propelled_for_month : Array(TownEntity)
+      vehicle_propelled_for_month : Array(TownEntity),
     )
       s = ""
       self_propelled_for_month.each_with_index do |town_entity, i|

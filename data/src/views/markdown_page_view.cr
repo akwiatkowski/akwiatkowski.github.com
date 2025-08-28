@@ -9,7 +9,7 @@ class MarkdownPageView < PageView
     @file : String,
     @image_url : String,
     @title : String,
-    @subtitle : String
+    @subtitle : String,
   )
     @data_path = @blog.data_path.as(String)
     @pages_path = @blog.pages_path.as(String)

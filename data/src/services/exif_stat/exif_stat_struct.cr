@@ -12,7 +12,7 @@ struct ExifStatStruct
 
   def initialize(
     @type : ExifStatType,
-    @key_name : String = ""
+    @key_name : String = "",
   )
     @count_by_day = Hash(Time, Int32).new
     @count_by_month = Hash(Time, Int32).new
@@ -32,7 +32,7 @@ struct ExifStatStruct
 
   def increment(
     photo : PhotoEntity,
-    post : Tremolite::Post | Nil = nil
+    post : Tremolite::Post | Nil = nil,
   ) : Bool
     focal = photo.exif.focal_length_35
     return false if focal.nil?
@@ -77,7 +77,7 @@ struct ExifStatStruct
   # calculate number of photos taken between focal lenghts
   def count_between_focal35(
     ranges : Array,
-    except : Array = Array(NamedTuple(from: Int32, to: Int32)).new
+    except : Array = Array(NamedTuple(from: Int32, to: Int32)).new,
   )
     return @count_by_focal35.to_a.select do |focal, count|
       negative_results = except.map do |range|

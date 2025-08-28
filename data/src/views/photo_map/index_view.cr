@@ -11,7 +11,7 @@ class PhotoMap::IndexView < PageView
     @photomaps_for_post_small : Hash(Tremolite::Post, PhotoMap::PostRouteMapSvgView),
     # TODO: add abstract class
     @photomaps_global : Hash(String, PhotoMap::AbstractSvgView),
-    @subtitle : String = ""
+    @subtitle : String = "",
   )
   end
 

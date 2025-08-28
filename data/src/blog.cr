@@ -82,7 +82,7 @@ class Tremolite::Blog
 
   def make_it_so(
     force_full_render : Bool = false,
-    exifs_changed : Bool = false
+    exifs_changed : Bool = false,
   )
     # ** new way is to render what has changed
 
@@ -147,7 +147,7 @@ class Tremolite::Blog
     post_to_update_photos : Array(Tremolite::Post),
     post_to_update_exif : Array(Tremolite::Post),
     exifs_changed : Bool,
-    refresh_nav_stats : Bool
+    refresh_nav_stats : Bool,
   )
     # test+dev stuff
     renderer.dev_render

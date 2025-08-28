@@ -48,7 +48,7 @@ class Map::Main
 
     # if set use this value and ignore all calculations
     # used for voivodeship where coords are fixed
-    @fixed_coord_range : CoordRange? = nil
+    @fixed_coord_range : CoordRange? = nil,
   )
     Log.info { "Start zoom=#{@zoom}, posts.size=#{@posts.size}, photos.size=#{@photos.nil? ? nil : @photos.not_nil!.size}, posts: #{@posts[0..6].map { |post| post.date.to_s }.join(",")} " }
     # just to make sure log info is rendered

@@ -9,7 +9,7 @@ class PhotoMap::MultiplePhotoEntitiesGridMapSvgView < PhotoMap::AbstractSvgView
     @url : String,
     @photo_entities : Array(PhotoEntity),
     @tile : Map::MapTile = Map::MapTile::Ump,
-    @zoom : Int32 = Map::DEFAULT_ZOOM
+    @zoom : Int32 = Map::DEFAULT_ZOOM,
   )
     @map = Map::Base.new(
       blog: @blog,

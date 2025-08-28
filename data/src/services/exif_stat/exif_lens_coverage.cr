@@ -297,7 +297,7 @@ class ExifStat::ExifLensCoverage
   PHOTO_KIT_OTHER_ADD_LENS_PERCENT =  5
 
   def initialize(
-    @stats_struct : ExifStatStruct
+    @stats_struct : ExifStatStruct,
   )
   end
 

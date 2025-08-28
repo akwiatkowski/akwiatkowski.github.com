@@ -48,7 +48,7 @@ class NavStatsCache
   getter :cache_file_path, :stats
 
   def initialize(
-    @blog : Tremolite::Blog
+    @blog : Tremolite::Blog,
   )
     @cache_path = @blog.cache_path.as(String)
     @cache_file_path = File.join([@cache_path, "nav_stats.yml"])
@@ -142,7 +142,7 @@ class NavStatsCache
   private def process_model_array_to_nav(
     model_array : Array,
     ignore_less_than = 1,
-    perform_sort = true
+    perform_sort = true,
   )
     nav_array = Array(NavStatsCacheObject::EntityNavTuple).new
 

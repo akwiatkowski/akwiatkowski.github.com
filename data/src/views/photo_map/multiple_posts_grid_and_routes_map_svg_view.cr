@@ -10,7 +10,7 @@ class PhotoMap::MultiplePostsGridAndRoutesMapSvgView < PhotoMap::AbstractSvgView
     @post_slugs : Array(String),
     @tile : Map::MapTile = Map::MapTile::Ump,
     @zoom : Int32 = Map::DEFAULT_ZOOM,
-    @fixed_coord_range : CoordRange? = nil
+    @fixed_coord_range : CoordRange? = nil,
   )
     @map = Map::Base.new(
       blog: @blog,

@@ -7,7 +7,7 @@ class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
     @blog : Tremolite::Blog,
     @post : Tremolite::Post,
     @url : String,
-    @tile : Map::MapTile = Map::MapTile::Ump
+    @tile : Map::MapTile = Map::MapTile::Ump,
     # TODO: suggested dimension here
   )
     @zoom = autozoom

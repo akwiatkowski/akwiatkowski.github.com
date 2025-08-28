@@ -9,7 +9,7 @@ struct CoordQuant
   def initialize(
     lat : (Float32 | Float64),
     lon : (Float32 | Float64),
-    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION
+    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION,
   )
     @lat = self.class.round(
       value: lat,
@@ -31,14 +31,14 @@ struct CoordQuant
 
   def self.round(
     value : YAML::ParseContext | YAML::Nodes::Node,
-    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION
+    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION,
   )
     return round(value.to_s.to_f32)
   end
 
   def self.round(
     value : (Float32 | Float64),
-    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION
+    quant : (Float32 | Float64) = DEFAULT_QUANT_RESOLUTION,
   )
     return ((value.to_f32 / quant).round.to_f * quant).to_f32
   end
@@ -53,7 +53,7 @@ struct CoordSet
   # create from array of arrays
   def initialize(
     coords_array : Array(Array(Float64 | Float32)),
-    quant : (Float32 | Float64) = CoordQuant::DEFAULT_QUANT_RESOLUTION.to_f32
+    quant : (Float32 | Float64) = CoordQuant::DEFAULT_QUANT_RESOLUTION.to_f32,
   )
     set = Array(CoordQuant).new
     @quant = quant.to_f32
@@ -73,7 +73,7 @@ struct CoordSet
   # create from post: detailed_routes and photos
   def initialize(
     post : Tremolite::Post,
-    quant : (Float32 | Float64) = CoordQuant::DEFAULT_QUANT_RESOLUTION.to_f32
+    quant : (Float32 | Float64) = CoordQuant::DEFAULT_QUANT_RESOLUTION.to_f32,
   )
     @set = Array(CoordQuant).new
     @quant = quant.to_f32

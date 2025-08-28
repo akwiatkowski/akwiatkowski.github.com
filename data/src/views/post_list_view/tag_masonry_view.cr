@@ -7,7 +7,7 @@ module PostListView
     def initialize(
       @blog : Tremolite::Blog,
       @tag : TagEntity,
-      @only_ready = true
+      @only_ready = true,
     )
       @url = @tag.masonry_url
       @show_only_count = 8

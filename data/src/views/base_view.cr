@@ -119,7 +119,7 @@ class BaseView < Tremolite::Views::BaseView
   private def model_array_to_nav(
     model_array : Array,
     ignore_less_than = 1,
-    perform_sort = true
+    perform_sort = true,
   )
     nav_array = Array(NamedTuple(
       name: String,

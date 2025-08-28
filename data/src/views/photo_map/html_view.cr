@@ -7,7 +7,7 @@ class PhotoMap::HtmlView < WidePageView
     @blog : Tremolite::Blog,
     @url : String,
     @svg_url : String,
-    @subtitle : String = ""
+    @subtitle : String = "",
   )
   end
 

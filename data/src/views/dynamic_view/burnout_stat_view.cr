@@ -17,7 +17,7 @@ module DynamicView
     def opacity_style_string(
       value = 0,
       max = 100,
-      color_string = "50,255,50"
+      color_string = "50,255,50",
     )
       return "" if value.nil?
 
@@ -42,7 +42,7 @@ module DynamicView
       positive_color_string = "0,255,0", # "0,192,255"
       negative_max = -100,
       negative_color_string = "255,0,0",
-      unit_name = ""
+      unit_name = "",
     )
       opacity_style = ""
       if record_value

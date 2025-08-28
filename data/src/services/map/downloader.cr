@@ -17,7 +17,7 @@ class Map::Downloader
     @zoom = DEFAULT_ZOOM,
     @type = Map::MapTile::Ump,
     @show_command = false,
-    @overwrite = false
+    @overwrite = false,
   )
     x_from_float, y_from_float = TilesLayer.tile_coords_from_geo_coords(@lat_from, @lon_from, @zoom)
     x_to_float, y_to_float = TilesLayer.tile_coords_from_geo_coords(@lat_to, @lon_to, @zoom)

@@ -11,7 +11,7 @@ module GalleryView
       @blog : Tremolite::Blog,
       @key : PhotoCoordQuantCache::PhotoCoordCacheKey,
       @quant_photos : PhotoCoordQuantCache::PhotoCoordCacheArray,
-      @quant_info : PhotoCoordQuantCache::PhotoCoordCacheAdditionalInfo
+      @quant_info : PhotoCoordQuantCache::PhotoCoordCacheAdditionalInfo,
     )
       @lat = @key[:lat].as(Float32)
       @lon = @key[:lon].as(Float32)

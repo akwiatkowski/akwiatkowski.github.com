@@ -9,7 +9,7 @@ class PhotoMap::GlobalDotsMapSvgView < PhotoMap::AbstractSvgView
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
     @zoom : Int32 = Map::DEFAULT_ZOOM,
-    @dot_radius : Int32 = Map::DEFAULT_DOT_RADIUS
+    @dot_radius : Int32 = Map::DEFAULT_DOT_RADIUS,
   )
     @map = Map::Base.new(
       blog: @blog,

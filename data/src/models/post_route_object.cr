@@ -58,7 +58,7 @@ struct PostRouteObject
 
   def self.array_to_coord_range(
     array : Array(PostRouteObject),
-    only_types : Array(String) = Array(String).new
+    only_types : Array(String) = Array(String).new,
   ) : CoordRange?
     filtered_array = array
 

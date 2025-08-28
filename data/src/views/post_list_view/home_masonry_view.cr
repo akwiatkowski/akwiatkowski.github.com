@@ -6,7 +6,7 @@ module PostListView
 
     def initialize(
       @blog : Tremolite::Blog,
-      @url = "/"
+      @url = "/",
     )
       @show_only_count = 8
       @only_ready = true

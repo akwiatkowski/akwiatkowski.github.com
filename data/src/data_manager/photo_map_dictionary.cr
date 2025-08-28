@@ -1,6 +1,6 @@
 class PhotoMapDictionary
   def initialize(
-    @public_path : String
+    @public_path : String,
   )
   end
 

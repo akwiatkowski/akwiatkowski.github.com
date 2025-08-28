@@ -7,7 +7,7 @@ class PhotoMap::AbstractSvgView < Tremolite::Views::AbstractView
     @blog : Tremolite::Blog,
     @url : String,
     @tile : Map::MapTile = Map::MapTile::Ump,
-    @zoom : Int32 = Map::DEFAULT_ZOOM
+    @zoom : Int32 = Map::DEFAULT_ZOOM,
   )
   end
 

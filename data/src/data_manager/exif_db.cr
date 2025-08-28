@@ -4,7 +4,7 @@ class ExifDb
   BATCH_SAVE_COUNT = 500
 
   def initialize(
-    @blog : Tremolite::Blog
+    @blog : Tremolite::Blog,
   )
     @cache_path = @blog.cache_path.as(String)
 

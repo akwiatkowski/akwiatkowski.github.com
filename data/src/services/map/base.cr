@@ -42,7 +42,7 @@ class Map::Base
 
     # if set use this value and ignore all calculations
     # used for voivodeship where coords are fixed
-    @fixed_coord_range : CoordRange? = nil
+    @fixed_coord_range : CoordRange? = nil,
   )
     # if list of post slugs were provided select only for this posts
     if @post_slugs.size > 0

@@ -44,7 +44,7 @@ struct CoordRange
     @lat_from,
     @lat_to,
     @lon_from,
-    @lon_to
+    @lon_to,
   )
     @lat_from_set = true
     @lat_to_set = true

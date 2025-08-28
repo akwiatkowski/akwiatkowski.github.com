@@ -10,7 +10,7 @@ class Map::PhotoLayer::GridLayer
     @photos : Array(PhotoEntity),
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
-    @photo_size = DEFAULTH_PHOTO_SIZE.as(Int32)
+    @photo_size = DEFAULTH_PHOTO_SIZE.as(Int32),
   )
     @x_tile1 = @tiles_layer.x_tile1.as(Int32)
     @x_tile2 = @tiles_layer.x_tile2.as(Int32)
@@ -59,7 +59,7 @@ class Map::PhotoLayer::GridLayer
 
   def select_photos_for_quant_and_add_to_list(
     x : Int32,
-    y : Int32
+    y : Int32,
   )
     lat1, lon1 = @tiles_layer.geo_coords_from_map_pixel_position(x, y)
     lat2, lon2 = @tiles_layer.geo_coords_from_map_pixel_position(x + @photo_size, y + @photo_size)
@@ -96,7 +96,7 @@ class Map::PhotoLayer::GridLayer
     lat_min : Float64,
     lat_max : Float64,
     lon_min : Float64,
-    lon_max : Float64
+    lon_max : Float64,
   )
     @photos.select do |photo|
       next false if photo.exif.not_nil!.lat.nil? || photo.exif.not_nil!.lon.nil?

@@ -8,7 +8,7 @@ class Map::TilesLayer
     @lon_min : Float64,
     @lon_max : Float64,
     @zoom = DEFAULT_ZOOM,
-    @type = Map::MapTile::Ump
+    @type = Map::MapTile::Ump,
   )
     # convert extreme geo coords to tile number (tile url coords)
     x_tile1, y_tile1 = tile_numbers_from_geo_coords(@lat_min, @lon_min).as(Tuple(Int32, Int32))
@@ -106,7 +106,7 @@ class Map::TilesLayer
 
   def self.ideal_zoom_for_photo_distance(
     coord_range : CoordRange,
-    distance : Int32
+    distance : Int32,
   )
     possible_zooms = distance_to_zoom_for_coord_range(coord_range)
 
@@ -167,7 +167,7 @@ class Map::TilesLayer
     min_diagonal : Int32 = 300,
     max_diagonal : Int32 = 5000,
     # not always we need biggest map
-    biggest : Bool = true
+    biggest : Bool = true,
   ) : Int32?
     h = diagonal_for_zoom(coord_range)
 

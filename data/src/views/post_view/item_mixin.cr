@@ -3,7 +3,7 @@ module PostView
     def render_post_box(
       post : Tremolite::Post,
       klass : String = "",
-      render_date = :trip
+      render_date = :trip,
     ) : String
       ph = Hash(String, String).new
       ph["klass"] = klass

@@ -10,7 +10,7 @@ module GalleryView
 
     def initialize(
       @blog : Tremolite::Blog,
-      @renderers : HashQuantCoordViews
+      @renderers : HashQuantCoordViews,
     )
       @photo_coord_quant_cache = @blog.data_manager.not_nil!.photo_coord_quant_cache.not_nil!.as(
         PhotoCoordQuantCache

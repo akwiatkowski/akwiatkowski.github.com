@@ -10,7 +10,7 @@ module GalleryView
       @focal_length_gallery_index_view : FocalLengthIndexView,
       @iso_gallery_index_view : IsoIndexView,
       @exposure_gallery_index_view : ExposureIndexView,
-      @quant_coord_index_view : QuantCoordIndexView
+      @quant_coord_index_view : QuantCoordIndexView,
     )
       @url = "/gallery"
     end

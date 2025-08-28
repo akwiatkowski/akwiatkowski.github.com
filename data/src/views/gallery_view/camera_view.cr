@@ -10,7 +10,7 @@ module GalleryView
       @camera : String,
       @tags : Array(String) = Array(String).new,
       @include_headers : Bool = false,
-      @fill_until : Int32 = 0
+      @fill_until : Int32 = 0,
     )
       @photo_entities = photo_entities_with_tags(
         all_photos: all_published_photo_entities.select { |p| p.exif.camera_name == @camera },

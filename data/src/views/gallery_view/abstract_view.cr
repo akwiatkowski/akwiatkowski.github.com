@@ -27,7 +27,7 @@ module GalleryView
       tags : Array(String) = Array(String).new,
       include_headers : Bool = false,
       fill_until : Int32 = 0,
-      limit : Int32? = nil
+      limit : Int32? = nil,
     )
       preselected_photos = all_photos.select do |p|
         # filter by tag

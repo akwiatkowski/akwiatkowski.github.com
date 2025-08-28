@@ -5,7 +5,7 @@ class Tremolite::Views::BaseView
   def custom_process_function(
     command : String,
     string : String,
-    post : (Tremolite::Post | Nil)
+    post : (Tremolite::Post | Nil),
   ) : (String | Nil)
     # unescape dash "\_ -> "_
     command = command.gsub(/\"\\_/, "\"_")
@@ -167,7 +167,7 @@ class Tremolite::Views::BaseView
     is_timeline : Bool,
     exif : (ExifEntity | Nil),
     additional_links : String? = nil,
-    photo_entity : PhotoEntity? = nil
+    photo_entity : PhotoEntity? = nil,
   )
     url = Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,

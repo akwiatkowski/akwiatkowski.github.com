@@ -6,7 +6,7 @@ class Map::PhotoLayer::DotsLayer
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
     @photo_link_to : Map::MapPhotoLinkTo = Map::MapPhotoLinkTo::LinkToPost,
-    @dot_radius : Int32 = 5
+    @dot_radius : Int32 = 5,
   )
     @map_height = @tiles_layer.map_height.as(Int32)
     @map_width = @tiles_layer.map_width.as(Int32)
@@ -49,7 +49,7 @@ class Map::PhotoLayer::DotsLayer
     lat_min : Float64,
     lat_max : Float64,
     lon_min : Float64,
-    lon_max : Float64
+    lon_max : Float64,
   )
     @photos.select do |photo|
       photo_lat = photo.exif.not_nil!.lat.not_nil!
@@ -116,7 +116,7 @@ class Map::PhotoLayer::DotsLayer
     i,
     half_size,
     thumb_size,
-    circle_size
+    circle_size,
   )
     thumb_url = photo_entity.map_thumb_image_src
     photo_url = photo_entity.full_image_src
@@ -163,7 +163,7 @@ class Map::PhotoLayer::DotsLayer
     x,
     y,
     circle_size,
-    color
+    color,
   )
     return svg_rounded_square(
       x,
@@ -178,7 +178,7 @@ class Map::PhotoLayer::DotsLayer
     x,
     y,
     circle_size,
-    color
+    color,
   )
     return "  <circle cx=\"#{x}\" cy=\"#{y}\" r=\"#{circle_size}\" fill='#{color}' style='stroke:rgb(0,0,0);stroke-width:1' />\n"
   end
@@ -188,7 +188,7 @@ class Map::PhotoLayer::DotsLayer
     y,
     circle_size,
     color,
-    corner_round = 3
+    corner_round = 3,
   )
     return "  <rect x=\"#{x - (circle_size / 2)}\" y=\"#{y - (circle_size / 2)}\" width=\"#{circle_size}\" height=\"#{circle_size}\" rx=\"#{corner_round}\" fill='#{color}' style='stroke:rgb(0,0,0);stroke-width:1' />\n"
   end

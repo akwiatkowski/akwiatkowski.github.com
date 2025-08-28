@@ -109,7 +109,7 @@ struct PhotoEntity
     @is_timeline = false,
     @is_map = false,
     @is_published = false,
-    @tags = Array(String).new
+    @tags = Array(String).new,
   )
     # nameless entities are uploaded not added in post content
     if desc.nil?
@@ -210,7 +210,7 @@ struct PhotoEntity
   end
 
   def hash_for_partial(
-    year_within_desc = false
+    year_within_desc = false,
   )
     data = Hash(String, String).new
 

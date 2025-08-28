@@ -19,7 +19,7 @@ module DynamicView
     def initialize(
       @blog : Tremolite::Blog,
       @url : String,
-      @by_tag : String | Nil = nil
+      @by_tag : String | Nil = nil,
     )
       @url = "/exif_stats"
       @title = "Statystyki EXIF"

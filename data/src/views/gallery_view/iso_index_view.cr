@@ -4,7 +4,7 @@ module GalleryView
 
     def initialize(
       @blog : Tremolite::Blog,
-      @renderers : Array(IsoView)
+      @renderers : Array(IsoView),
     )
       # ordered only with photos
       @filtered_renderers = @renderers.select do |lr|

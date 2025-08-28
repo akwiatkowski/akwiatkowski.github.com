@@ -2,7 +2,7 @@ struct TownPhotoResult
   def initialize(
     @photo_entity : PhotoEntity,
     @coord_distance : Float64,
-    @days_ago : Int32
+    @days_ago : Int32,
   )
     @value = calculate_value.as(Float64)
   end
