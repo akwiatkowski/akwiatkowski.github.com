@@ -109,6 +109,7 @@ struct ExifEntity
     "Redmi Note 3"        => "Xiaomi Redmi Note 3",
     "FC3582"              => "DJI Mini 3 Pro",
     "OM-1"                => "OM System OM-1",
+    "iPhone 13 Pro"       => "iPhone 13 Pro",
   }
 
   LENS_NAMES = {
@@ -161,6 +162,8 @@ struct ExifEntity
     "OLYMPUS M.7-14mm F2.8"                        => "Olympus 7-14mm f2.8",
     "OLYMPUS M.8-25mm F4.0"                        => "Olympus 8-25mm f4",
     "85mm F1.4 DG DN | Art 020"                    => "Sigma 85mm f1.4",
+    "OM 8-25mm F4.0"                               => "Olympus 8-25mm f4",
+    "iPhone 13 Pro back triple camera 9mm f/2.8"   => "Tele 9mm f2.8 (ekw. 77mm)",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)

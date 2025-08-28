@@ -33,76 +33,94 @@ this.BlogMap = (function() {
     }
 
     startMap() {
-      var c, circleLayer, coords, ct, displayFeatureInfo, feature, i, interaction, j, k, lastPopupTime, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, popup, poputThreshold, post, ref, ref1, ref2, route, showPopup, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineHike, styleLineRegular, styleLineTrain;
+      var c, circleLayer, coords, ct, displayFeatureInfo, feature, i, interaction, j, k, lastPopupTime, len, len1, len2, lineLayerBus, lineLayerCanoe, lineLayerCar, lineLayerCycle, lineLayerEBike, lineLayerEV, lineLayerHike, lineLayerRegular, lineLayerTrain, map, opacityLesser, popup, poputThreshold, post, ref, ref1, ref2, route, showPopup, sourceCircles, sourceLinesBus, sourceLinesCanoe, sourceLinesCar, sourceLinesCycle, sourceLinesEBike, sourceLinesEV, sourceLinesHike, sourceLinesRegular, sourceLinesTrain, strokeWidth, strokeWidthLesser, styleCircle, styleLineBus, styleLineCanoe, styleLineCar, styleLineCycle, styleLineEBike, styleLineEV, styleLineHike, styleLineRegular, styleLineTrain;
       strokeWidth = 3;
       strokeWidthLesser = 3;
       opacityLesser = 0.4;
       styleLineCar = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: [0, 0, 80, opacityLesser],
+          color: [120, 0, 50, opacityLesser],
           width: strokeWidthLesser
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(120, 0, 50, 0.2)"
         })
       });
       styleLineBus = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: [0, 80, 80, opacityLesser],
+          color: [50, 0, 120, opacityLesser],
           width: strokeWidthLesser
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(50, 0, 120, 0.2)"
         })
       });
       styleLineTrain = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: [80, 80, 0, opacityLesser],
+          color: [100, 50, 180, opacityLesser],
           width: strokeWidthLesser
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(100, 50, 180, 0.2)"
         })
       });
       styleLineRegular = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#444444",
+          color: [50, 50, 50, opacityLesser],
           width: strokeWidthLesser
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(50, 50, 50, 0.2)"
         })
       });
       styleLineHike = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#ff9900",
+          color: [255, 100, 0],
           width: strokeWidth
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(255, 100, 0, 0.2)"
         })
       });
       styleLineCycle = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#0055EF",
+          color: [0, 70, 240],
           width: strokeWidth
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(0, 70, 240, 0.2)"
+        })
+      });
+      styleLineEBike = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: [150, 60, 240],
+          width: strokeWidth
+        }),
+        fill: new ol.style.Fill({
+          color: "rgba(150, 60, 240, 0.2)"
+        })
+      });
+      styleLineEV = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: [220, 100, 190, opacityLesser],
+          width: strokeWidth
+        }),
+        fill: new ol.style.Fill({
+          color: "rgba(220,100,190, 0.2)"
         })
       });
       styleLineCanoe = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#000099",
+          color: [0, 30, 150],
           width: strokeWidth
         }),
         fill: new ol.style.Fill({
-          color: "rgba(255, 0, 0, 0.2)"
+          color: "rgba(0, 30, 150, 0.2)"
         })
       });
       styleCircle = new ol.style.Style({
         stroke: new ol.style.Stroke({
-          color: "#FF0000",
+          color: [255, 0, 0],
           width: strokeWidth
         }),
         fill: new ol.style.Fill({
@@ -112,9 +130,11 @@ this.BlogMap = (function() {
       sourceCircles = new ol.source.Vector();
       sourceLinesCanoe = new ol.source.Vector();
       sourceLinesCycle = new ol.source.Vector();
+      sourceLinesEBike = new ol.source.Vector();
       sourceLinesHike = new ol.source.Vector();
       sourceLinesTrain = new ol.source.Vector();
       sourceLinesBus = new ol.source.Vector();
+      sourceLinesEV = new ol.source.Vector();
       sourceLinesCar = new ol.source.Vector();
       sourceLinesRegular = new ol.source.Vector();
       ref = this.data["posts"];
@@ -122,10 +142,6 @@ this.BlogMap = (function() {
         post = ref[i];
         if (false) { //post["coords-circle"]
           sourceCircles.addFeature(new ol.Feature(new ol.geom.Circle(ol.proj.transform([post["coords-circle"][1], post["coords-circle"][0]], 'EPSG:4326', 'EPSG:3857'), parseFloat(post["range"]) * 1000.0)));
-        }
-        if (false) { // post["coords-from"]
-          coords = [ol.proj.transform([post["coords-from"][1], post["coords-from"][0]], 'EPSG:4326', 'EPSG:3857'), ol.proj.transform([post["coords-to"][1], post["coords-to"][0]], 'EPSG:4326', 'EPSG:3857')];
-          sourceLines.addFeature(new ol.Feature(new ol.geom.LineString(coords)));
         }
         if (post["coords"]) {
           ref1 = post["coords"];
@@ -152,10 +168,14 @@ this.BlogMap = (function() {
                 sourceLinesHike.addFeature(feature);
               } else if (route["type"] === "bicycle") {
                 sourceLinesCycle.addFeature(feature);
+              } else if (route["type"] === "e-bike") {
+                sourceLinesEBike.addFeature(feature);
               } else if (route["type"] === "canoe") {
                 sourceLinesCanoe.addFeature(feature);
               } else if (route["type"] === "car") {
                 sourceLinesCar.addFeature(feature);
+              } else if (route["type"] === "ev") {
+                sourceLinesEV.addFeature(feature);
               } else if (route["type"] === "bus") {
                 sourceLinesBus.addFeature(feature);
               } else if (route["type"] === "train") {
@@ -179,6 +199,10 @@ this.BlogMap = (function() {
         source: sourceLinesCycle,
         style: styleLineCycle
       });
+      lineLayerEBike = new ol.layer.Vector({
+        source: sourceLinesEBike,
+        style: styleLineEBike
+      });
       lineLayerHike = new ol.layer.Vector({
         source: sourceLinesHike,
         style: styleLineHike
@@ -186,6 +210,10 @@ this.BlogMap = (function() {
       lineLayerCar = new ol.layer.Vector({
         source: sourceLinesCar,
         style: styleLineCar
+      });
+      lineLayerEV = new ol.layer.Vector({
+        source: sourceLinesEV,
+        style: styleLineEV
       });
       lineLayerBus = new ol.layer.Vector({
         source: sourceLinesBus,
@@ -210,12 +238,14 @@ this.BlogMap = (function() {
           }),
           circleLayer,
           lineLayerRegular,
+          lineLayerCanoe,
           lineLayerCar,
+          lineLayerEV,
           lineLayerBus,
           lineLayerTrain,
+          lineLayerEBike,
           lineLayerHike,
-          lineLayerCycle,
-          lineLayerCanoe
+          lineLayerCycle
         ],
         view: new ol.View({
           center: ol.proj.transform([19.4553, 51.7768], 'EPSG:4326', 'EPSG:3857'),

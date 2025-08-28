@@ -5,7 +5,7 @@ class Map::RoutesLayer
     @posts : Array(Tremolite::Post),
     @raster_crop : Map::Crop::RasterCrop,
     @tiles_layer : TilesLayer,
-    @type : Map::MapRoutesType = Map::MapRoutesType::Static
+    @type : Map::MapRoutesType = Map::MapRoutesType::Static,
   )
   end
 
@@ -45,6 +45,9 @@ class Map::RoutesLayer
         "bus"     => "50,0,120",
         "car"     => "120,0,50",
         "air"     => "20,80,200",
+        "e-bike"  => "150,60,240",
+        "ev"      => "220,100,190",
+        "canoe"   => "0,30,150",
       }
 
     return String.build do |s|

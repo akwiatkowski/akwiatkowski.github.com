@@ -6,11 +6,15 @@
   name: Strona główna
 
 - slug: bicycle
-  name: Rower
+  name: Rowerem
   is_nav: true
 
 - slug: hike
   name: Pieszo
+  is_nav: true
+
+- slug: ev
+  name: Pojazdem elektrycznym
   is_nav: true
 
 - slug: train
