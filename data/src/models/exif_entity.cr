@@ -164,6 +164,7 @@ struct ExifEntity
     "85mm F1.4 DG DN | Art 020"                    => "Sigma 85mm f1.4",
     "OM 8-25mm F4.0"                               => "Olympus 8-25mm f4",
     "iPhone 13 Pro back triple camera 9mm f/2.8"   => "Tele 9mm f2.8 (ekw. 77mm)",
+    "OM 90mm F3.5"                                 => "Olympus 90mm Macro",
   }
 
   NAMES = CAMERA_NAMES.merge(LENS_NAMES)
