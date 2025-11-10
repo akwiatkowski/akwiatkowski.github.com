@@ -207,7 +207,7 @@ class BaseView < Tremolite::Views::BaseView
     return @blog.data_manager.nav_stats_cache.not_nil!
   end
 
-  private def nav_stats_model_array_to_html(array, include_latest : Bool = true)
+  private def nav_stats_model_array_to_html(array, include_latest : Bool = false)
     return String.build do |s|
       array.each do |ni|
         h = Hash(String, String).new
@@ -220,7 +220,7 @@ class BaseView < Tremolite::Views::BaseView
       if include_latest
         h = Hash(String, String).new
         h["url"] = PostListView::NewPostsMasonryView::URL
-        h["name"] = "Najnowsze"
+        h["name"] = "Najnowsze (#{PostListView::NewPostsView::COUNT})"
 
         s << load_html("include/category_nav_element", h)
       end
@@ -231,9 +231,16 @@ class BaseView < Tremolite::Views::BaseView
     h = nav_stats_cache.to_hash
     h["site.title"] = @blog.data_manager.not_nil!["site.title"] if @blog.data_manager.not_nil!["site.title"]?
 
-    h["nav-voivodeships"] = nav_stats_model_array_to_html(nav_stats_cache.stats.voivodeships_nav)
-    h["nav-tags"] = nav_stats_model_array_to_html(nav_stats_cache.stats.tags_nav)
-    h["nav-lands"] = nav_stats_model_array_to_html(nav_stats_cache.stats.lands_nav)
+    h["nav-voivodeships"] = nav_stats_model_array_to_html(
+      array: nav_stats_cache.stats.voivodeships_nav
+    )
+    h["nav-tags"] = nav_stats_model_array_to_html(
+      array: nav_stats_cache.stats.tags_nav,
+      include_latest: true,
+    )
+    h["nav-lands"] = nav_stats_model_array_to_html(
+      array: nav_stats_cache.stats.lands_nav
+    )
 
     return load_html("include/nav", h)
   end

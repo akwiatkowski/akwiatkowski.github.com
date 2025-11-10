@@ -5,7 +5,7 @@ module PostListView
     Log = ::Log.for(self)
 
     URL   = "/tag/latest/masonry.html"
-    COUNT = 20
+    COUNT = PostListView::NewPostsView::COUNT
 
     def initialize(
       @blog : Tremolite::Blog,
